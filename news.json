@@ -1,0 +1,286 @@
+{
+  "generatedAt": "2026-06-19T15:44:14.145488+09:00",
+  "generatedLabel": "2026/06/19 15:44",
+  "feedOk": 7,
+  "feedNg": 4,
+  "candidates": 56,
+  "status": [
+    {
+      "source": "ITmedia NEWS",
+      "ok": false,
+      "error": "not well-formed (invalid token): line 9, column 7"
+    },
+    {
+      "source": "ITmedia AI+",
+      "ok": true,
+      "items": 16
+    },
+    {
+      "source": "ASCII.jp",
+      "ok": true,
+      "items": 4
+    },
+    {
+      "source": "PC Watch",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "GIGAZINE",
+      "ok": true,
+      "items": 15
+    },
+    {
+      "source": "CNET Japan",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "ZDNET Japan",
+      "ok": false,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "source": "Publickey",
+      "ok": true,
+      "items": 11
+    },
+    {
+      "source": "AINOW",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "source": "Ledge.ai",
+      "ok": false,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "source": "AI-SCHOLAR",
+      "ok": false,
+      "error": "not well-formed (invalid token): line 2, column 387"
+    }
+  ],
+  "articles": [
+    {
+      "title": "32GBのVRAMを搭載して他のグラボより激安の「Intel Arc Pro B70」はローカルAIを実際に動かすとどれぐらいの性能とトークンのコスパを発揮するのか？",
+      "link": "https://gigazine.net/news/20260619-intel-arc-pro-b70-local-ai/",
+      "date": "2026-06-19T15:34:00+09:00",
+      "dateLabel": "06/19 15:34",
+      "desc": "32GBのGDDR6メモリを搭載するワークステーション向けGPU「Intel Arc Pro B70」について、ワークステーションメーカーの Puget SystemsがローカルLLM推論と画像生成での実測ベンチマークを公開しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 66
+    },
+    {
+      "title": "ChatGPT無料版に広告表示 回答への影響はないと説明",
+      "link": "https://ascii.jp/elem/000/004/412/4412004/?rss",
+      "date": "2026-06-19T14:45:00+09:00",
+      "dateLabel": "06/19 14:45",
+      "desc": "OpenAI Japan合同会社は6月19日、日本においてChatGPTでの広告パイロットを開始したと発表した。対象は無料およびGoプランを利用する成人ユーザー。",
+      "img": "https://ascii.jp/img/2026/06/19/4485905/s/08024a4b3b76c1cd.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
+      "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+      "link": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
+      "date": "2026-06-19T12:24:00+09:00",
+      "dateLabel": "06/19 12:24",
+      "desc": "NVIDIAがAIエージェントの自律能力をロボットに導入するハーネスフレームワーク「ENPIRE」を発表しました。ENPIREはカーネギーメロン大学やカリフォルニア大学バークレー校の研究者と共同開発されたフレームワークで、Claude CodeやCodexなどのAIエージェントを用いてロボットのタスク遂行能力を強化することができます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 50
+    },
+    {
+      "title": "ChatGPTが将来のタスクをあらかじめ依頼できる新機能「Scheduled tasks」を発表、一方で毎日ユーザー向けの情報をまとめてくれる「Pulse」は終了",
+      "link": "https://gigazine.net/news/20260619-chatgpt-scheduled-tasks/",
+      "date": "2026-06-19T12:05:00+09:00",
+      "dateLabel": "06/19 12:05",
+      "desc": "OpenAIは2026年6月18日に、予約したタスクを自動実行できる「Scheduled tasks」をChatGPTの新機能として発表しました。それに伴い、ユーザーの興味や過去のチャットの要約などを毎日提供する機能「Pulse」が同月中に終了することも発表されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
+      "title": "画面操作を“録画”→AIが作業代行 Codexに新機能「Record & Replay」",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/19/news102.html",
+      "date": "2026-06-19T14:15:00+09:00",
+      "dateLabel": "06/19 14:15",
+      "desc": "米OpenAIは6月18日、「Codex」の新機能「Record & Replay」を公開した。利用者がMac上で作業を一度実演すると、Codexがその操作を再利用できる作業手順に変換・記憶する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "ChatGPTで広告テスト、日本でも開始 非表示にする方法は？",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000108/",
+      "date": "2026-06-19T11:26:50+09:00",
+      "dateLabel": "06/19 11:26",
+      "desc": "米OpenAIの日本法人は、ChatGPTでの広告表示テストを日本でも始めたと発表した。広告を非表示にする方法は？",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "【7月15日無料ウェビナー】「属人営業」からの脱却。AI×仕組み化で、再現性ある成果を生み出す営業組織の構築ロードマップを初公開！",
+      "link": "https://ascii.jp/elem/000/004/412/4412017/?rss",
+      "date": "2026-06-19T13:00:00+09:00",
+      "dateLabel": "06/19 13:00",
+      "desc": "【7月15日無料ウェビナー】「属人営業」からの脱却。AI×仕組み化で、再現性ある成果を生み出す営業組織の構築ロードマップを初公開！",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "AmazonがNVIDIA対抗AIチップ「Trainium」の外販に向け交渉開始、AWS専用から他社データセンターへ",
+      "link": "https://gigazine.net/news/20260619-amazon-trainium/",
+      "date": "2026-06-19T11:22:00+09:00",
+      "dateLabel": "06/19 11:22",
+      "desc": "Amazonが自社開発のAIチップ「AWS Trainium」を他社のデータセンター向けに販売するため、顧客候補との協議を始めたことが分かりました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "「ChatGPT広告」日本上陸 無料版と「Go」で表示、電通・博報堂など支援",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000107/",
+      "date": "2026-06-19T09:23:56+09:00",
+      "dateLabel": "06/19 09:23",
+      "desc": "OpenAIは2月に米国でテスト運用を開始。5月には日本など5カ国への拡大を予告していた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "AI需要の高まりでTSMCの生産能力が限界へ、Google・NVIDIA・AMD・テスラなどはSamsungを代替パートナーとして検討中",
+      "link": "https://gigazine.net/news/20260619-samsung-foundry-booming-tsmc-alternatives/",
+      "date": "2026-06-19T07:00:00+09:00",
+      "dateLabel": "06/19 07:00",
+      "desc": "AIブームのあおりを受けて半導体需要が世界的に急増する中で、世界最大の半導体ファウンドリであるTSMCの生産能力が限界に達しつつあります。そこでGoogleやNVIDIA、テスラといった大手企業が韓国のSamsungを代替パートナーとして検討していると報じられました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "話題の「Claude Mythos」登場で変わるセキュリティ AIエージェント時代の防衛策",
+      "link": "https://kn.itmedia.co.jp/kn/articles/2606/19/news009.html",
+      "date": "2026-06-19T06:00:00+09:00",
+      "dateLabel": "06/19 06:00",
+      "desc": "AIによる攻撃が、月単位から時間単位で現実化する可能性が高まっている。最新AIモデルの登場で脆弱性発見の能力が広がる一方、企業ではAI利用のルールや管理体制が追い付いていない。AIエージェント時代に求められる新たな防衛策とは何か。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "Claude DesignとClaude Codeの連携が強化されてコーディングからデザインまでAIをバリバリ活用可能に",
+      "link": "https://gigazine.net/news/20260618-claude-design-claude-code/",
+      "date": "2026-06-18T15:05:00+09:00",
+      "dateLabel": "06/18 15:05",
+      "desc": "AnthropicがClaude Designの機能強化を2026年6月17日に発表しました。Claude Designはデザインシステムに沿った制作、キャンバス上での直接編集、Claude Codeとの同期、外部ツールとの連携に対応するようになり、デザインからコーディングまでの流れをより一体的に扱えるようになりました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "OpenAIは年間数兆円規模の損失を出していることが流出した財務文書で明らかに",
+      "link": "https://gigazine.net/news/20260618-openai-financial-docs/",
+      "date": "2026-06-18T15:00:00+09:00",
+      "dateLabel": "06/18 15:00",
+      "desc": "ChatGPTを開発するOpenAIは2026年6月に新規株式公開(IPO)に向けた登録届出書の草案を証券取引委員会に提出したことを明かしています。そんな中、新たに流出した財務書類から、OpenAIは急速に収益を伸ばしている一方でそれ以上に巨額の支出をしており、数兆円規模の損失を出していることが判明しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "Stack Overflow、AIエージェント同士が掲示板で技術情報を共有する「Stack Overflow for Agents」ベータ公開",
+      "link": "https://www.publickey1.jp/blog/26/stack_overflowaistack_overflow_for_agents.html",
+      "date": "2026-06-16T00:46:43+09:00",
+      "dateLabel": "06/16 00:46",
+      "desc": "Stack Overflowは、AIエージェント同士がオープンな掲示板の上で技術的な解決策などの情報を共有する新サービス「Stack Overflow for Agents」をベータ版として提供開始したことを明らかにしました。 What i...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 28
+    },
+    {
+      "title": "Appleがワイヤレスイヤホン経由で会話を盗聴される可能性がある深刻な脆弱性を修正",
+      "link": "https://gigazine.net/news/20260619-apple-patches-eavesdropping-vulnerability-beats-studio-buds/",
+      "date": "2026-06-19T14:21:00+09:00",
+      "dateLabel": "06/19 14:21",
+      "desc": "Appleは独自のワイヤレスイヤホンとしてAirPodsを販売しているほか、2014年に買収したBeatsブランドのイヤホンやヘッドホンも販売しています。そんなBeatsブランドのワイヤレスイヤホンであるBeats Studio Budsに、会話を盗聴することが可能になる脆弱(ぜいじゃく)性が見つかっていたのですが、ソフトウェアアップデートでついにこれが修正",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "チャットマーケツール「エルサイト」がMCP接続でAI連携を実現",
+      "link": "https://ascii.jp/elem/000/004/412/4412015/?rss",
+      "date": "2026-06-19T13:10:00+09:00",
+      "dateLabel": "06/19 13:10",
+      "desc": "チャットマーケツール「エルサイト」がMCP接続でAI連携を実現",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "Gaia Visionが「JAXAパートナースタートアップ」として登録されました",
+      "link": "https://ascii.jp/elem/000/004/412/4412019/?rss",
+      "date": "2026-06-19T13:00:00+09:00",
+      "dateLabel": "06/19 13:00",
+      "desc": "Gaia Visionが「JAXAパートナースタートアップ」として登録されました",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "GrokでWord・Excel・PowerPointを操作できる拡張機能が登場",
+      "link": "https://gigazine.net/news/20260619-grok-word-excel-powerpoint/",
+      "date": "2026-06-19T10:45:00+09:00",
+      "dateLabel": "06/19 10:45",
+      "desc": "xAIが「Microsoft Word」「Microsoft Excel」「Microsoft PowerPoint」向けの拡張機能を公開しました。拡張機能を導入することで、Grokを用いて文書を作成したり表を分析したりスライドを生成したりといった操作が可能となります。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "工数「76％」削減 味の素グループが「経理AIエージェント」導入で先陣を切れたワケ",
+      "link": "https://www.itmedia.co.jp/business/articles/2606/19/news033.html",
+      "date": "2026-06-19T07:00:00+09:00",
+      "dateLabel": "06/19 07:00",
+      "desc": "経理人材の不足が深刻化する一方で、経理パーソンが担う業務の幅は急速に広がっている。その解決策として期待されるのがAI活用だ。しかし、誤りが許されない経理業務では導入への慎重論も根強い。そんな中、味の素グループの財務・経理業務を担う味の素フィナンシャル・ソリューションズは、経費精算の承認業務をAIが自律的に実施する経理AIエージェントの運用を開始した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "「待ちの営業」はもう限界 ホンダがAIエージェントで挑む、商機を逃さない「濃い商談」の創出",
+      "link": "https://www.itmedia.co.jp/business/articles/2606/19/news064.html",
+      "date": "2026-06-19T07:00:00+09:00",
+      "dateLabel": "06/19 07:00",
+      "desc": "顧客の購買行動が変化する中、ホンダが新車販売にAIエージェントを導入した。“濃い商談”を支援し、すでに成約も生まれているという。販売現場の変化を追う。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    }
+  ]
+}
