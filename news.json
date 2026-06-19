@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-20T04:25:44.493947+09:00",
-  "generatedLabel": "2026/06/20 04:25",
+  "generatedAt": "2026-06-20T06:01:00.779246+09:00",
+  "generatedLabel": "2026/06/20 06:01",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 52,
@@ -184,17 +184,6 @@
       "score": 34
     },
     {
-      "title": "話題の「Claude Mythos」登場で変わるセキュリティ AIエージェント時代の防衛策",
-      "link": "https://kn.itmedia.co.jp/kn/articles/2606/19/news009.html",
-      "date": "2026-06-19T06:00:00+09:00",
-      "dateLabel": "06/19 06:00",
-      "desc": "AIによる攻撃が、月単位から時間単位で現実化する可能性が高まっている。最新AIモデルの登場で脆弱性発見の能力が広がる一方、企業ではAI利用のルールや管理体制が追い付いていない。AIエージェント時代に求められる新たな防衛策とは何か。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "Stack Overflow、AIエージェント同士が掲示板で技術情報を共有する「Stack Overflow for Agents」ベータ公開",
       "link": "https://www.publickey1.jp/blog/26/stack_overflowaistack_overflow_for_agents.html",
       "date": "2026-06-16T00:46:43+09:00",
@@ -266,6 +255,17 @@
       "date": "2026-06-19T07:00:00+09:00",
       "dateLabel": "06/19 07:00",
       "desc": "顧客の購買行動が変化する中、ホンダが新車販売にAIエージェントを導入した。“濃い商談”を支援し、すでに成約も生まれているという。販売現場の変化を追う。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "話題の「Claude Mythos」登場で変わるセキュリティ AIエージェント時代の防衛策",
+      "link": "https://kn.itmedia.co.jp/kn/articles/2606/19/news009.html",
+      "date": "2026-06-19T06:00:00+09:00",
+      "dateLabel": "06/19 06:00",
+      "desc": "AIによる攻撃が、月単位から時間単位で現実化する可能性が高まっている。最新AIモデルの登場で脆弱性発見の能力が広がる一方、企業ではAI利用のルールや管理体制が追い付いていない。AIエージェント時代に求められる新たな防衛策とは何か。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
