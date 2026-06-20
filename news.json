@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-20T09:00:24.108751+09:00",
-  "generatedLabel": "2026/06/20 09:00",
+  "generatedAt": "2026-06-20T14:03:27.790609+09:00",
+  "generatedLabel": "2026/06/20 14:03",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 51,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 0
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -74,28 +74,6 @@
       "score": 66
     },
     {
-      "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
-      "link": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
-      "date": "2026-06-19T12:24:00+09:00",
-      "dateLabel": "06/19 12:24",
-      "desc": "NVIDIAがAIエージェントの自律能力をロボットに導入するハーネスフレームワーク「ENPIRE」を発表しました。ENPIREはカーネギーメロン大学やカリフォルニア大学バークレー校の研究者と共同開発されたフレームワークで、Claude CodeやCodexなどのAIエージェントを用いてロボットのタスク遂行能力を強化することができます。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
-      "title": "ChatGPTが将来のタスクをあらかじめ依頼できる新機能「Scheduled tasks」を発表、一方で毎日ユーザー向けの情報をまとめてくれる「Pulse」は終了",
-      "link": "https://gigazine.net/news/20260619-chatgpt-scheduled-tasks/",
-      "date": "2026-06-19T12:05:00+09:00",
-      "dateLabel": "06/19 12:05",
-      "desc": "OpenAIは2026年6月18日に、予約したタスクを自動実行できる「Scheduled tasks」をChatGPTの新機能として発表しました。それに伴い、ユーザーの興味や過去のチャットの要約などを毎日提供する機能「Pulse」が同月中に終了することも発表されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
       "title": "アメリカのAI企業が独自開発モデル「Laguna M.1」をオープンモデルとして公開、高性能だが中国製オープンモデルには劣る",
       "link": "https://gigazine.net/news/20260619-laguna-m1-ai-open/",
       "date": "2026-06-19T19:00:00+09:00",
@@ -118,15 +96,59 @@
       "score": 42
     },
     {
-      "title": "ChatGPTで広告テスト、日本でも開始 非表示にする方法は？",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000108/",
-      "date": "2026-06-19T11:26:50+09:00",
-      "dateLabel": "06/19 11:26",
-      "desc": "米OpenAIの日本法人は、ChatGPTでの広告表示テストを日本でも始めたと発表した。広告を非表示にする方法は？",
+      "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+      "link": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
+      "date": "2026-06-19T12:24:00+09:00",
+      "dateLabel": "06/19 12:24",
+      "desc": "NVIDIAがAIエージェントの自律能力をロボットに導入するハーネスフレームワーク「ENPIRE」を発表しました。ENPIREはカーネギーメロン大学やカリフォルニア大学バークレー校の研究者と共同開発されたフレームワークで、Claude CodeやCodexなどのAIエージェントを用いてロボットのタスク遂行能力を強化することができます。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "ChatGPTが将来のタスクをあらかじめ依頼できる新機能「Scheduled tasks」を発表、一方で毎日ユーザー向けの情報をまとめてくれる「Pulse」は終了",
+      "link": "https://gigazine.net/news/20260619-chatgpt-scheduled-tasks/",
+      "date": "2026-06-19T12:05:00+09:00",
+      "dateLabel": "06/19 12:05",
+      "desc": "OpenAIは2026年6月18日に、予約したタスクを自動実行できる「Scheduled tasks」をChatGPTの新機能として発表しました。それに伴い、ユーザーの興味や過去のチャットの要約などを毎日提供する機能「Pulse」が同月中に終了することも発表されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 42
+    },
+    {
+      "title": "AI診断サービス「クラウド診断Projimo」提供開始。￥98,000から、高額発注前の現状診断を最短1週間で",
+      "link": "https://ascii.jp/elem/000/004/412/4412191/?rss",
+      "date": "2026-06-20T12:53:55+09:00",
+      "dateLabel": "06/20 12:53",
+      "desc": "AI診断サービス「クラウド診断Projimo」提供開始。￥98,000から、高額発注前の現状診断を最短1週間で",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "Amazonが完成間近だったサム・アルトマンの伝記映画『Artificial』の配給から撤退",
+      "link": "https://gigazine.net/news/20260620-amazon-dropped-sam-altman-movie-artificial/",
+      "date": "2026-06-20T12:06:00+09:00",
+      "dateLabel": "06/20 12:06",
+      "desc": "Amazon MGMスタジオが、OpenAIの創業者であるサム・アルトマン氏のことを描いた、ルカ・グァダニーノ監督による伝記映画『Artificial』の配給から手を引いたことがわかりました。Amazonは2026年2月にOpenAIと戦略的パートナーシップを結び、OpenAIに500億ドル(約8兆円)を投資しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "地域の魅力を、AIで映像に。コンテスト受賞クリエイターが地域PR動画制作の舞台裏を公開",
+      "link": "https://ascii.jp/elem/000/004/412/4412186/?rss",
+      "date": "2026-06-20T08:50:00+09:00",
+      "dateLabel": "06/20 08:50",
+      "desc": "地域の魅力を、AIで映像に。コンテスト受賞クリエイターが地域PR動画制作の舞台裏を公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "アメリカのエネルギー当局がデータセンターへの電力供給を加速するよう電力会社に指示",
@@ -151,22 +173,11 @@
       "score": 34
     },
     {
-      "title": "AmazonがNVIDIA対抗AIチップ「Trainium」の外販に向け交渉開始、AWS専用から他社データセンターへ",
-      "link": "https://gigazine.net/news/20260619-amazon-trainium/",
-      "date": "2026-06-19T11:22:00+09:00",
-      "dateLabel": "06/19 11:22",
-      "desc": "Amazonが自社開発のAIチップ「AWS Trainium」を他社のデータセンター向けに販売するため、顧客候補との協議を始めたことが分かりました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "「ChatGPT広告」日本上陸 無料版と「Go」で表示、電通・博報堂など支援",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000107/",
-      "date": "2026-06-19T09:23:56+09:00",
-      "dateLabel": "06/19 09:23",
-      "desc": "OpenAIは2月に米国でテスト運用を開始。5月には日本など5カ国への拡大を予告していた。",
+      "title": "ChatGPTで広告テスト、日本でも開始 非表示にする方法は？",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000108/",
+      "date": "2026-06-19T11:26:50+09:00",
+      "dateLabel": "06/19 11:26",
+      "desc": "米OpenAIの日本法人は、ChatGPTでの広告表示テストを日本でも始めたと発表した。広告を非表示にする方法は？",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
@@ -182,6 +193,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 28
+    },
+    {
+      "title": "「Rokid スマートAIグラス」はスマホ時代の電力インフラを味方につけたAIグラス",
+      "link": "https://ascii.jp/elem/000/004/412/4412181/?rss",
+      "date": "2026-06-20T12:00:00+09:00",
+      "dateLabel": "06/20 12:00",
+      "desc": "話題のAIグラス「Rokid スマートAIグラス」を衝動買い。新ジャンルのデジタルガジェットの初期は常にバッテリー駆動時間が課題になるが、Rokidは多様なオプションを用意することで解決するという実に現代的な存在だ。",
+      "img": "https://ascii.jp/img/2026/06/20/4486391/s/3dabb43a2b654e9e.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     },
     {
       "title": "理研、AI for Science向けスパコンの名前を「理究」（りきゅう）に決定 由来は？",
@@ -217,14 +239,25 @@
       "score": 26
     },
     {
-      "title": "GrokでWord・Excel・PowerPointを操作できる拡張機能が登場",
-      "link": "https://gigazine.net/news/20260619-grok-word-excel-powerpoint/",
-      "date": "2026-06-19T10:45:00+09:00",
-      "dateLabel": "06/19 10:45",
-      "desc": "xAIが「Microsoft Word」「Microsoft Excel」「Microsoft PowerPoint」向けの拡張機能を公開しました。拡張機能を導入することで、Grokを用いて文書を作成したり表を分析したりスライドを生成したりといった操作が可能となります。 続きを読む...",
+      "title": "AmazonがNVIDIA対抗AIチップ「Trainium」の外販に向け交渉開始、AWS専用から他社データセンターへ",
+      "link": "https://gigazine.net/news/20260619-amazon-trainium/",
+      "date": "2026-06-19T11:22:00+09:00",
+      "dateLabel": "06/19 11:22",
+      "desc": "Amazonが自社開発のAIチップ「AWS Trainium」を他社のデータセンター向けに販売するため、顧客候補との協議を始めたことが分かりました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AI全般",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "「ChatGPT広告」日本上陸 無料版と「Go」で表示、電通・博報堂など支援",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000107/",
+      "date": "2026-06-19T09:23:56+09:00",
+      "dateLabel": "06/19 09:23",
+      "desc": "OpenAIは2月に米国でテスト運用を開始。5月には日本など5カ国への拡大を予告していた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 26
     },
     {
@@ -248,39 +281,6 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 26
-    },
-    {
-      "title": "「AIを使う学生」vs.「使わない学生」、エッセイが創造的なのはどっち？ 米大学が2025年に実証実験",
-      "link": "https://www.itmedia.co.jp/news/articles/2606/18/news043.html",
-      "date": "2026-06-18T07:30:00+09:00",
-      "dateLabel": "06/18 07:30",
-      "desc": "米ジョージタウン大学に所属する研究者らが国際学術誌Computers in Human Behavior: Artificial Humansに発表した論文「Homogenizing effect of large language models (LLMs) on creative diversity: An empirical comparison of",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "Apple、macOS上にLinuxコンテナを統合する新機能「Container machine」バージョン1.0リリース",
-      "link": "https://www.publickey1.jp/blog/26/applemacoslinuxcontainer_machine10.html",
-      "date": "2026-06-11T00:29:34+09:00",
-      "dateLabel": "06/11 00:29",
-      "desc": "Appleは日本時間6月9日未明に開催した開発者向けの年次イベント「WWDC26」で、macOSに統合された形でLinuxコンテナを起動し、利用できる新機能「Container machine」バージョン1.0のリリースを発表しました。 C...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AI全般",
-      "score": 24
-    },
-    {
-      "title": "Ubuntu、サンドボックス化された開発環境をコマンド一発で構築。新機能「Workshop」リリース",
-      "link": "https://www.publickey1.jp/blog/26/ubuntuworkshop.html",
-      "date": "2026-06-09T00:43:33+09:00",
-      "dateLabel": "06/09 00:43",
-      "desc": "Ubuntuの開発元であるCanonicalは、AIエージェントなどに適したサンドボックス化された開発環境をコマンド一発で構築できる新機能「Workshop」をリリースしました。 Today we announced Workshop – ...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 24
     }
   ]
 }
