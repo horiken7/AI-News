@@ -31,7 +31,7 @@ export default {
     const url = new URL(request.url);
     const forceFresh = url.searchParams.get('fresh') === '1';
     const cache = caches.default;
-    const cacheKey = new Request(url.origin + '/ai-news-cache-v1');
+    const cacheKey = new Request(url.origin + '/ai-news-cache-v2-with-page-images');
 
     if (!forceFresh) {
       const cached = await cache.match(cacheKey);
@@ -97,17 +97,20 @@ async function buildNews() {
     })
     .sort((a, b) => (b.score || 0) - (a.score || 0) || String(b.date || '').localeCompare(String(a.date || '')));
 
+  const top = unique.slice(0, 20);
+  const enriched = await enrichArticleImages(top);
+
   return {
     generatedAt: new Date().toISOString(),
     generatedLabel: new Intl.DateTimeFormat('ja-JP', {
       timeZone: 'Asia/Tokyo', year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit'
     }).format(new Date()),
-    mode: 'cloudflare-worker-live-rss',
+    mode: 'cloudflare-worker-live-rss-page-images',
     feedOk,
     feedNg,
     candidates: articles.length,
     status,
-    articles: unique.slice(0, 20)
+    articles: enriched
   };
 }
 
@@ -153,22 +156,82 @@ function parseFeed(src, xml) {
       dateLabel: d ? new Intl.DateTimeFormat('ja-JP', { timeZone: 'Asia/Tokyo', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' }).format(d) : '日時不明',
       desc,
       img: imageFromItem(block, link, rawDesc),
+      imgSource: 'rss',
       src
     };
+    if (!article.img) article.imgSource = '';
     article.cat = category(`${title} ${descText}`);
     out.push(article);
   }
   return out;
 }
 
+async function enrichArticleImages(list) {
+  const settled = await Promise.allSettled(list.map(async article => {
+    if (article.img) return article;
+    const img = await imageFromPage(article.link);
+    if (!img) return article;
+    return {
+      ...article,
+      img,
+      imgSource: 'article-og-image',
+      score: (article.score || 0) + 8
+    };
+  }));
+  return settled.map((r, i) => r.status === 'fulfilled' ? r.value : list[i]);
+}
+
+async function imageFromPage(url) {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort('timeout'), 7000);
+  try {
+    const res = await fetch(url, {
+      headers: { 'User-Agent': 'Mozilla/5.0 AI-News-KEN/1.0' },
+      signal: controller.signal
+    });
+    if (!res.ok) return '';
+    const html = await res.text();
+    return imageFromHtml(html, url);
+  } catch {
+    return '';
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
+function imageFromHtml(html, base) {
+  const h = String(html || '').slice(0, 250000);
+  const patterns = [
+    /<meta[^>]+property=["']og:image(?::secure_url)?["'][^>]+content=["']([^"']+)["'][^>]*>/i,
+    /<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image(?::secure_url)?["'][^>]*>/i,
+    /<meta[^>]+name=["']twitter:image(?::src)?["'][^>]+content=["']([^"']+)["'][^>]*>/i,
+    /<meta[^>]+content=["']([^"']+)["'][^>]+name=["']twitter:image(?::src)?["'][^>]*>/i,
+    /<link[^>]+rel=["']image_src["'][^>]+href=["']([^"']+)["'][^>]*>/i,
+    /<link[^>]+href=["']([^"']+)["'][^>]+rel=["']image_src["'][^>]*>/i
+  ];
+  for (const re of patterns) {
+    const m = h.match(re);
+    if (!m) continue;
+    const img = cleanImg(m[1], base);
+    if (img) return img;
+  }
+
+  const imgTags = [...h.matchAll(/<img[^>]+(?:src|data-src|data-original|data-lazy-src)=["']([^"']+)["']/gi)].map(m => m[1]);
+  for (const raw of imgTags) {
+    const img = cleanImg(raw, base);
+    if (img) return img;
+  }
+  return '';
+}
+
 function collectBlocks(xml, tag) {
-  const re = new RegExp(`<${tag}(?:\\s[^>]*)?>[\\s\\S]*?<\\/${tag}>`, 'gi');
+  const re = new RegExp(`<${tag}(?:\s[^>]*)?>[\s\S]*?<\/${tag}>`, 'gi');
   return xml.match(re) || [];
 }
 
 function tagText(block, tag) {
   const safe = tag.replace(':', '\\:');
-  const re = new RegExp(`<${safe}(?:\\s[^>]*)?>([\\s\\S]*?)<\\/${safe}>`, 'i');
+  const re = new RegExp(`<${safe}(?:\s[^>]*)?>([\s\S]*?)<\/${safe}>`, 'i');
   const m = block.match(re);
   return m ? m[1] : '';
 }
@@ -207,7 +270,7 @@ function imageFromItem(block, base, rawDesc) {
   const candidates = [];
   const media = [...block.matchAll(/<(?:media:)?(?:content|thumbnail)[^>]+url=["']([^"']+)["'][^>]*>/gi)].map(m => m[1]);
   const enclosures = [...block.matchAll(/<enclosure[^>]+url=["']([^"']+)["'][^>]*>/gi)].map(m => m[1]);
-  const imgTags = [...String(rawDesc || '').matchAll(/<img[^>]+(?:src|data-src|data-original)=["']([^"']+)["']/gi)].map(m => m[1]);
+  const imgTags = [...String(rawDesc || '').matchAll(/<img[^>]+(?:src|data-src|data-original|data-lazy-src)=["']([^"']+)["']/gi)].map(m => m[1]);
   candidates.push(...media, ...enclosures, ...imgTags);
   for (const c of candidates) {
     const img = cleanImg(c, base);
