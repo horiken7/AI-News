@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-21T06:04:15.347985+09:00",
-  "generatedLabel": "2026/06/21 06:04",
+  "generatedAt": "2026-06-21T07:58:04.630220+09:00",
+  "generatedLabel": "2026/06/21 07:58",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 52,
@@ -239,17 +239,6 @@
       "score": 26
     },
     {
-      "title": "「AIを使う学生」vs.「使わない学生」、エッセイが創造的なのはどっち？ 米大学が2025年に実証実験",
-      "link": "https://www.itmedia.co.jp/news/articles/2606/18/news043.html",
-      "date": "2026-06-18T07:30:00+09:00",
-      "dateLabel": "06/18 07:30",
-      "desc": "米ジョージタウン大学に所属する研究者らが国際学術誌Computers in Human Behavior: Artificial Humansに発表した論文「Homogenizing effect of large language models (LLMs) on creative diversity: An empirical comparison of",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
       "title": "Apple、macOS上にLinuxコンテナを統合する新機能「Container machine」バージョン1.0リリース",
       "link": "https://www.publickey1.jp/blog/26/applemacoslinuxcontainer_machine10.html",
       "date": "2026-06-11T00:29:34+09:00",
@@ -270,6 +259,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 24
+    },
+    {
+      "title": "「AIを使う学生」vs.「使わない学生」、エッセイが創造的なのはどっち？ 米大学が2025年に実証実験",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/18/news043.html",
+      "date": "2026-06-18T07:30:00+09:00",
+      "dateLabel": "06/18 07:30",
+      "desc": "米ジョージタウン大学に所属する研究者らが国際学術誌Computers in Human Behavior: Artificial Humansに発表した論文「Homogenizing effect of large language models (LLMs) on creative diversity: An empirical comparison of",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 20
     },
     {
       "title": "GitLab、AIエージェント向けの次世代Git互換ソースコード管理サービス「Project Switch」発表。最大で50倍高速かつ半分のトークンで利用可能に",
