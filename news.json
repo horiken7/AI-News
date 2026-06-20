@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-20T07:44:01.511911+09:00",
-  "generatedLabel": "2026/06/20 07:44",
+  "generatedAt": "2026-06-20T09:00:24.108751+09:00",
+  "generatedLabel": "2026/06/20 09:00",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 52,
+  "candidates": 51,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 13
     },
     {
       "source": "CNET Japan",
