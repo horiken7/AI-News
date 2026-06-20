@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-20T14:03:27.790609+09:00",
-  "generatedLabel": "2026/06/20 14:03",
+  "generatedAt": "2026-06-20T17:40:27.946077+09:00",
+  "generatedLabel": "2026/06/20 17:40",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 54,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -71,7 +71,7 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 66
+      "score": 58
     },
     {
       "title": "アメリカのAI企業が独自開発モデル「Laguna M.1」をオープンモデルとして公開、高性能だが中国製オープンモデルには劣る",
@@ -82,17 +82,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 42
-    },
-    {
-      "title": "画面操作を“録画”→AIが作業代行 Codexに新機能「Record & Replay」",
-      "link": "https://www.itmedia.co.jp/news/articles/2606/19/news102.html",
-      "date": "2026-06-19T14:15:00+09:00",
-      "dateLabel": "06/19 14:15",
-      "desc": "米OpenAIは6月18日、「Codex」の新機能「Record & Replay」を公開した。利用者がMac上で作業を一度実演すると、Codexがその操作を再利用できる作業手順に変換・記憶する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -173,6 +162,17 @@
       "score": 34
     },
     {
+      "title": "画面操作を“録画”→AIが作業代行 Codexに新機能「Record & Replay」",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/19/news102.html",
+      "date": "2026-06-19T14:15:00+09:00",
+      "dateLabel": "06/19 14:15",
+      "desc": "米OpenAIは6月18日、「Codex」の新機能「Record & Replay」を公開した。利用者がMac上で作業を一度実演すると、Codexがその操作を再利用できる作業手順に変換・記憶する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "ChatGPTで広告テスト、日本でも開始 非表示にする方法は？",
       "link": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000108/",
       "date": "2026-06-19T11:26:50+09:00",
@@ -195,6 +195,17 @@
       "score": 28
     },
     {
+      "title": "【快挙】「着せ恋」痛車が富士24時間を制す！ 雨中の“タイヤ無交換”ギャンブルが劇的すぎた",
+      "link": "https://ascii.jp/elem/000/004/412/4412170/?rss",
+      "date": "2026-06-20T15:00:00+09:00",
+      "dateLabel": "06/20 15:00",
+      "desc": "富士24時間レースで「その着せ替え人形は恋をする」コラボのTKRIチームが総合優勝し、2連覇を達成しました。勝負の鍵は19時間経過時の雨。ライバルがレインタイヤに換える中、アマチュアのDAISUKE選手がスリックタイヤのまま濡れた路面を耐え抜き、プロへ繋いだ決死の作戦が勝利を呼び込みました。",
+      "img": "https://ascii.jp/img/2026/06/19/4486191/s/25744dfe8160b7db.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "「Rokid スマートAIグラス」はスマホ時代の電力インフラを味方につけたAIグラス",
       "link": "https://ascii.jp/elem/000/004/412/4412181/?rss",
       "date": "2026-06-20T12:00:00+09:00",
@@ -202,39 +213,6 @@
       "desc": "話題のAIグラス「Rokid スマートAIグラス」を衝動買い。新ジャンルのデジタルガジェットの初期は常にバッテリー駆動時間が課題になるが、Rokidは多様なオプションを用意することで解決するという実に現代的な存在だ。",
       "img": "https://ascii.jp/img/2026/06/20/4486391/s/3dabb43a2b654e9e.jpg",
       "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "理研、AI for Science向けスパコンの名前を「理究」（りきゅう）に決定 由来は？",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000110/",
-      "date": "2026-06-19T17:00:51+09:00",
-      "dateLabel": "06/19 17:00",
-      "desc": "理化学研究所は、AIを活用した科学研究「AI for Science」向けのスーパーコンピュータの名前を「理究」（りきゅう）に決定したと発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "GMO傘下、Unitreeの国内正規代理店に 人型ロボの導入から保守まで一気通貫で支援",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000109/",
-      "date": "2026-06-19T16:16:24+09:00",
-      "dateLabel": "06/19 16:16",
-      "desc": "GMOインターネットグループ傘下で、ロボティクス事業などを手掛けるGMO AI＆ロボティクス商事は、ロボット開発企業の中国Unitree Roboticsと日本国内正規代理店契約を締結したと発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "Appleがワイヤレスイヤホン経由で会話を盗聴される可能性がある深刻な脆弱性を修正",
-      "link": "https://gigazine.net/news/20260619-apple-patches-eavesdropping-vulnerability-beats-studio-buds/",
-      "date": "2026-06-19T14:21:00+09:00",
-      "dateLabel": "06/19 14:21",
-      "desc": "Appleは独自のワイヤレスイヤホンとしてAirPodsを販売しているほか、2014年に買収したBeatsブランドのイヤホンやヘッドホンも販売しています。そんなBeatsブランドのワイヤレスイヤホンであるBeats Studio Budsに、会話を盗聴することが可能になる脆弱(ぜいじゃく)性が見つかっていたのですが、ソフトウェアアップデートでついにこれが修正",
-      "img": "",
-      "src": "GIGAZINE",
       "cat": "AI全般",
       "score": 26
     },
@@ -281,6 +259,28 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 26
+    },
+    {
+      "title": "「AIを使う学生」vs.「使わない学生」、エッセイが創造的なのはどっち？ 米大学が2025年に実証実験",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/18/news043.html",
+      "date": "2026-06-18T07:30:00+09:00",
+      "dateLabel": "06/18 07:30",
+      "desc": "米ジョージタウン大学に所属する研究者らが国際学術誌Computers in Human Behavior: Artificial Humansに発表した論文「Homogenizing effect of large language models (LLMs) on creative diversity: An empirical comparison of",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "Apple、macOS上にLinuxコンテナを統合する新機能「Container machine」バージョン1.0リリース",
+      "link": "https://www.publickey1.jp/blog/26/applemacoslinuxcontainer_machine10.html",
+      "date": "2026-06-11T00:29:34+09:00",
+      "dateLabel": "06/11 00:29",
+      "desc": "Appleは日本時間6月9日未明に開催した開発者向けの年次イベント「WWDC26」で、macOSに統合された形でLinuxコンテナを起動し、利用できる新機能「Container machine」バージョン1.0のリリースを発表しました。 C...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AI全般",
+      "score": 24
     }
   ]
 }
