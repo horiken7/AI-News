@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-22T06:04:56.422097+09:00",
-  "generatedLabel": "2026/06/22 06:04",
+  "generatedAt": "2026-06-22T08:00:18.700222+09:00",
+  "generatedLabel": "2026/06/22 08:00",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 52,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -72,6 +72,61 @@
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
       "score": 58
+    },
+    {
+      "title": "JoyPix.ai、AIリップシンク動画生成モデル「Motion-2.5」「Motion-2.5-Dialog」提供開始 単人動画と2人対話動画に対応",
+      "link": "https://ascii.jp/elem/000/004/412/4412176/?rss",
+      "date": "2026-06-22T07:00:00+09:00",
+      "dateLabel": "06/22 07:00",
+      "desc": "合同会社JoyPixは6月15日に、AIアバターやAIリップシンク、AI画像／動画生成を提供するオンラインクリエイティブツール「JoyPix.ai」において、主力機能であるAIリップシンク生成モデルをアップデートし、新バージョン「Motion-2.5」および「Motion-2.5-Dialog」の提供開始を発表した。単人動画と2人対話動画に対応し、API経由",
+      "img": "https://ascii.jp/img/2026/06/19/4486234/s/84377e7f12cb62b3.png",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 50
+    },
+    {
+      "title": "「トランスフォーマーのボトルネックを根本解決」 大胆主張は本物か",
+      "link": "https://ascii.jp/elem/000/004/412/4412265/?rss",
+      "date": "2026-06-22T06:37:03+09:00",
+      "dateLabel": "06/22 06:37",
+      "desc": "米AIスタートアップ、サブクアドラティックは、約10年にわたりLLMの進化を阻んできたボトルネックを解決したと主張する。新モデル「SubQ」はトランスフォーマーの中核を捨て、最高水準のモデル並みの性能を保ちつつ高速・低コストになったという。第三者の検証は主張の一部を裏づけたが、まだ広く試せず確証には至っていない。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
+      "title": "属人化した業務をAIが“仕組み化” Backlogと連携する新「ワークフロー自動化ツール」",
+      "link": "https://ascii.jp/elem/000/004/412/4412206/?rss",
+      "date": "2026-06-22T07:30:00+09:00",
+      "dateLabel": "06/22 07:30",
+      "desc": "ヌーラボは、AIを活用したワークフロー自動化ツール「Nulab Flowbase」を提供開始した。まずは、タスク・プロジェクト管理ツール「Backlog」の上位プラン向けに無償提供し、機能を拡充した上で2027年に一般提供を開始する予定だ。",
+      "img": "https://ascii.jp/img/2026/06/20/4486552/s/e5a1cf0af1abd862.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "ローカルAIで“しゃべる推理ゲーム”を作ったら、思ったよりちゃんとゲームになってきた",
+      "link": "https://ascii.jp/elem/000/004/412/4412261/?rss",
+      "date": "2026-06-22T07:00:00+09:00",
+      "dateLabel": "06/22 07:00",
+      "desc": "ローカルPC環境で動作するオープンなLLMモデルへの注目が集まってきています。どれぐらいの性能があるのか、筆者の2本のアプリ開発を通じて探ってみました。",
+      "img": "https://ascii.jp/img/2026/06/22/4486811/s/77e1a076c44d8ac5.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "AIのアイデアを実現性のある形に落とし込み製品開発を支援、「AIプロダクトデザインサービス」提供開始",
+      "link": "https://ascii.jp/elem/000/004/412/4412175/?rss",
+      "date": "2026-06-22T07:00:00+09:00",
+      "dateLabel": "06/22 07:00",
+      "desc": "株式会社クロスデザインは6月11日に、生成AIによるアイデア創出とプロダクトデザイン・筐体設計・試作開発の知見を組み合わせたサービス「AIプロダクトデザインサービス」の提供開始を発表した。AIが生み出したデザインイメージを製品化に向けた実現性のある形に落とし込む製品開発支援サービスだという。",
+      "img": "https://ascii.jp/img/2026/06/19/4486225/s/5988b65a3cf929fa.png",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 42
     },
     {
       "title": "コンクルーAI、「工程表AIエージェント」を提供開始――案件情報や過去の工程表などを参照して、AIが工程表を自動生成",
@@ -173,6 +228,50 @@
       "score": 28
     },
     {
+      "title": "情シスが「日本1位のAIスパコン」作るまで 猶予は4カ月、ソフトバンク“社長プロジェクト”の舞台裏",
+      "link": "https://www.itmedia.co.jp/business/articles/2606/22/news029.html",
+      "date": "2026-06-22T07:00:00+09:00",
+      "dateLabel": "06/22 07:00",
+      "desc": "ソフトバンクのスパコンが、AI計算性能で国内1位を獲得した。実は、これを開発したのは「情シス」のメンバーだった。“社長プロジェクト”に挑んだメンバーの奮闘を追う。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "自作PCトーク『ジサトラKTU』生放送～濃すぎて伝えきれなかったCOMPUTEX TAIPEI 2026蔵出しレポート～",
+      "link": "https://ascii.jp/elem/000/004/411/4411856/?rss",
+      "date": "2026-06-22T07:00:00+09:00",
+      "dateLabel": "06/22 07:00",
+      "desc": "濃すぎて伝えきれなかったCOMPUTEX TAIPEI 2026蔵出しレポート。木曜20:00から放送スタート！",
+      "img": "https://ascii.jp/img/2025/09/19/4324489/s/4111cde7c86cf0b4.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "インテル「シリーズ3」はフィジカルAIでも力を発揮、“ヤマネコ”の実力は？",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2606/22/news051.html",
+      "date": "2026-06-22T06:15:00+09:00",
+      "dateLabel": "06/22 06:15",
+      "desc": "インテルがメインストリームPC向け製品「インテル Core シリーズ3 プロセッサー」と、ハンドヘルドゲーミングPC向け製品「インテル Arc G3 プロセッサー」について説明。また、「COMPUTEX TAIPEI 2026」に併せて発表したエッジAI／フィジカルAI向けソリューションも紹介した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "千葉県印西市はなぜ「データセンターの聖地」になったのか Google、Microsoftを呼び込んだ半世紀前の“読み違い”",
+      "link": "https://www.itmedia.co.jp/business/articles/2606/22/news018.html",
+      "date": "2026-06-22T06:00:00+09:00",
+      "dateLabel": "06/22 06:00",
+      "desc": "東京都心から北東へおよそ40キロメートルにある千葉県印西市。かつて「千葉ニュータウン」として開発されたこの郊外の街が、いま世界の巨大IT企業にとって“聖地”になっている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
       "title": "無料でWordPressの管理画面をデスクトップOSっぽくできるプラグイン「Desktop Mode」、AIとの連携も可能",
       "link": "https://gigazine.net/news/20260621-desktop-mode/",
       "date": "2026-06-21T18:00:00+09:00",
@@ -182,105 +281,6 @@
       "src": "GIGAZINE",
       "cat": "AI全般",
       "score": 26
-    },
-    {
-      "title": "仙台から挑戦の火を灯す！高校生・大学生対象の実践型起業支援「AKINAIプログラム」始動＆募集説明会開催のお知らせ",
-      "link": "https://ascii.jp/elem/000/004/412/4412236/?rss",
-      "date": "2026-06-21T12:00:00+09:00",
-      "dateLabel": "06/21 12:00",
-      "desc": "仙台から挑戦の火を灯す！高校生・大学生対象の実践型起業支援「AKINAIプログラム」始動＆募集説明会開催のお知らせ",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "何千万もの楽曲がAIのトレーニングに利用可能なデータセットとして配布されておりAI生成楽曲の肥やしになっているとの指摘",
-      "link": "https://gigazine.net/news/20260621-songs-mashed-into-ai-generated-music/",
-      "date": "2026-06-21T10:30:00+09:00",
-      "dateLabel": "06/21 10:30",
-      "desc": "何千万もの楽曲が収録されたデータセットがAIトレーニングに利用されていると、The Atlanticが報じています。中には著作権で保護されている楽曲や、AIのトレーニングに利用するにはライセンス契約が必要な楽曲も存在すると指摘されました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 26
-    },
-    {
-      "title": "Amazonが完成間近だったサム・アルトマンの伝記映画『Artificial』の配給から撤退",
-      "link": "https://gigazine.net/news/20260620-amazon-dropped-sam-altman-movie-artificial/",
-      "date": "2026-06-20T12:06:00+09:00",
-      "dateLabel": "06/20 12:06",
-      "desc": "Amazon MGMスタジオが、OpenAIの創業者であるサム・アルトマン氏のことを描いた、ルカ・グァダニーノ監督による伝記映画『Artificial』の配給から手を引いたことがわかりました。Amazonは2026年2月にOpenAIと戦略的パートナーシップを結び、OpenAIに500億ドル(約8兆円)を投資しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "アメリカのエネルギー当局がデータセンターへの電力供給を加速するよう電力会社に指示",
-      "link": "https://gigazine.net/news/20260619-us-ferc-energy-order/",
-      "date": "2026-06-19T21:00:00+09:00",
-      "dateLabel": "06/19 21:00",
-      "desc": "アメリカの連邦エネルギー規制委員会が送電網運営者に対し、データセンターなどの非常に大規模なエネルギー消費施設を迅速に送電網へ接続するための新たなプロトコルを検討するよう命じました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "AIに「分からないことを分からないと認める力」は身につくのか？OpenAIが有益な性質を強化学習で定着させる研究結果を公開",
-      "link": "https://gigazine.net/news/20260619-openai-beneficial-rl/",
-      "date": "2026-06-19T20:00:00+09:00",
-      "dateLabel": "06/19 20:00",
-      "desc": "OpenAIは2026年6月18日、AIに正直さや不確実性を認める謙虚さ、訂正を受け入れる姿勢、公平性などの有益な性質を学習させると訓練に使っていない分野でも望ましい振る舞いが広がり、悪意ある指示にも崩されにくくなるという研究結果を公開しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "「ChatGPT広告」日本上陸 無料版と「Go」で表示、電通・博報堂など支援",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000107/",
-      "date": "2026-06-19T09:23:56+09:00",
-      "dateLabel": "06/19 09:23",
-      "desc": "OpenAIは2月に米国でテスト運用を開始。5月には日本など5カ国への拡大を予告していた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "Apple、macOS上にLinuxコンテナを統合する新機能「Container machine」バージョン1.0リリース",
-      "link": "https://www.publickey1.jp/blog/26/applemacoslinuxcontainer_machine10.html",
-      "date": "2026-06-11T00:29:34+09:00",
-      "dateLabel": "06/11 00:29",
-      "desc": "Appleは日本時間6月9日未明に開催した開発者向けの年次イベント「WWDC26」で、macOSに統合された形でLinuxコンテナを起動し、利用できる新機能「Container machine」バージョン1.0のリリースを発表しました。 C...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AI全般",
-      "score": 24
-    },
-    {
-      "title": "Ubuntu、サンドボックス化された開発環境をコマンド一発で構築。新機能「Workshop」リリース",
-      "link": "https://www.publickey1.jp/blog/26/ubuntuworkshop.html",
-      "date": "2026-06-09T00:43:33+09:00",
-      "dateLabel": "06/09 00:43",
-      "desc": "Ubuntuの開発元であるCanonicalは、AIエージェントなどに適したサンドボックス化された開発環境をコマンド一発で構築できる新機能「Workshop」をリリースしました。 Today we announced Workshop – ...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 24
-    },
-    {
-      "title": "話題の「Claude Mythos」登場で変わるセキュリティ AIエージェント時代の防衛策",
-      "link": "https://kn.itmedia.co.jp/kn/articles/2606/19/news009.html",
-      "date": "2026-06-19T06:00:00+09:00",
-      "dateLabel": "06/19 06:00",
-      "desc": "AIによる攻撃が、月単位から時間単位で現実化する可能性が高まっている。最新AIモデルの登場で脆弱性発見の能力が広がる一方、企業ではAI利用のルールや管理体制が追い付いていない。AIエージェント時代に求められる新たな防衛策とは何か。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 20
     }
   ]
 }
