@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-22T15:22:07.071751+09:00",
-  "generatedLabel": "2026/06/22 15:22",
+  "generatedAt": "2026-06-22T21:43:40.288459+09:00",
+  "generatedLabel": "2026/06/22 21:43",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 59,
+  "candidates": 62,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 19
+      "items": 20
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -58,10 +58,21 @@
     {
       "source": "AI-SCHOLAR",
       "ok": false,
-      "error": "HTTP Error 502: Bad Gateway"
+      "error": "not well-formed (invalid token): line 2, column 387"
     }
   ],
   "articles": [
+    {
+      "title": "アメリカ政府がAnthropicの「Claude Mythos」の規制命令を下すもAnthropicが選定した「Project Glasswing」のメンバーにはプレビュー版が提供されたままであるという報道",
+      "link": "https://gigazine.net/news/20260622-mythos-still-access/",
+      "date": "2026-06-22T20:30:00+09:00",
+      "dateLabel": "06/22 20:30",
+      "desc": "Anthropicは高度なサイバー攻撃が可能なほどの高性能AIモデル「Claude Mythos Preview」のアップデート版となる「Claude Mythos 5」と「Claude Fable 5」を2026年6月9日にリリースしましたが、アメリカ政府の国家安全保障当局から指示があり、日本時間の2026年6月13日に両モデルの提供停止を発表しました。し",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 66
+    },
     {
       "title": "Sakana AIがClaude Fable超えをアピールするマルチエージェントシステム「Sakana Fugu」を発表",
       "link": "https://gigazine.net/news/20260622-sakana-fugu-multi-agent-system-ai/",
@@ -96,6 +107,17 @@
       "score": 50
     },
     {
+      "title": "Claude Codeに指示を出す「7つの方法」と使い分け 公式が解説",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/22/2000000117/",
+      "date": "2026-06-22T19:47:34+09:00",
+      "dateLabel": "06/22 19:47",
+      "desc": "米Anthropicは、AIコーディング支援ツール「Claude Code」に指示を出す7つの方法を解説する公式ブログを公開した。各方法の概要や使い分け方などを紹介している。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "文学賞受賞者のAI使用疑惑を受けて受賞作品を掲載していた文芸誌が「編集権のない出版提携から撤退する」と発表",
       "link": "https://gigazine.net/news/20260622-prize-ai-story/",
       "date": "2026-06-22T13:10:00+09:00",
@@ -107,6 +129,83 @@
       "score": 42
     },
     {
+      "title": "AIを高速実行するためのx86拡張命令「ACE」の仕様が発表される",
+      "link": "https://gigazine.net/news/20260622-ace-x86-ai-computation-extensions/",
+      "date": "2026-06-22T18:43:00+09:00",
+      "dateLabel": "06/22 18:43",
+      "desc": "IntelとAMDが主導するx86アーキテクチャの推進団体「x86 Ecosystem Advisory Group」がAI処理のためのx86拡張命令「AI Compute Extensions(ACE)」の仕様を2026年6月15日に公開しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "上場企業も多数導入の大手企業開拓AI「Sales Retriever」、9,500万円を資金調達",
+      "link": "https://ascii.jp/elem/000/004/412/4412575/?rss",
+      "date": "2026-06-22T18:00:00+09:00",
+      "dateLabel": "06/22 18:00",
+      "desc": "上場企業も多数導入の大手企業開拓AI「Sales Retriever」、9,500万円を資金調達",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "32GB・1TB・165Hz対応OLEDがデフォ。RTX 5060 Laptop GPU搭載のLenovoノートPC「Legion 5i」",
+      "link": "https://ascii.jp/elem/000/004/412/4412388/?rss",
+      "date": "2026-06-22T18:00:00+09:00",
+      "dateLabel": "06/22 18:00",
+      "desc": "LenovoのゲーミングノートPC「Legion 5i（83F0007SJP）」がAmazonタイムセール対象。参考価格289,300円のところ、10％オフの259,900円で販売中。RTX 5060 Laptop GPUに加え、32GBメモリや1TB SSD、165Hz対応有機ELディスプレーを搭載。スペック重視で選びたいなら注目だ。",
+      "img": "https://ascii.jp/img/2026/06/22/4486914/s/cc5f60d29ebd748b.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "PS5／XSX|Sパッケージ版『Halo: Campaign Evolved』が予約特典付で予約受付中！",
+      "link": "https://ascii.jp/elem/000/004/412/4412536/?rss",
+      "date": "2026-06-22T17:40:00+09:00",
+      "dateLabel": "06/22 17:40",
+      "desc": "Xboxは、2026年7月29日にPlayStation 5／Xbox Series X|Sで発売予定のパッケージ版『Halo: Campaign Evolved』にて、全国の取扱店にて予約特典付で予約受付中だと6月22日に発表。パッケージ版の価格は7920円となる。",
+      "img": "https://ascii.jp/img/2026/06/22/4487399/s/befc486f06dba933.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "エルメがChatGPTの「アプリ」に登録！LINE運用分析が手軽に",
+      "link": "https://ascii.jp/elem/000/004/412/4412554/?rss",
+      "date": "2026-06-22T17:10:00+09:00",
+      "dateLabel": "06/22 17:10",
+      "desc": "エルメがChatGPTの「アプリ」に登録！LINE運用分析が手軽に",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "日馬共同声明の「AI・半導体連携」を具現化。TAIとマレーシアOppstar、低消費電力AIチップの共同開発へ",
+      "link": "https://ascii.jp/elem/000/004/412/4412546/?rss",
+      "date": "2026-06-22T17:10:00+09:00",
+      "dateLabel": "06/22 17:10",
+      "desc": "日馬共同声明の「AI・半導体連携」を具現化。TAIとマレーシアOppstar、低消費電力AIチップの共同開発へ",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "AI搭載スライド自動生成サービス「イルシル」、ワークスペース内の「ユーザー検索機能」をリリース",
+      "link": "https://ascii.jp/elem/000/004/412/4412545/?rss",
+      "date": "2026-06-22T17:10:00+09:00",
+      "dateLabel": "06/22 17:10",
+      "desc": "AI搭載スライド自動生成サービス「イルシル」、ワークスペース内の「ユーザー検索機能」をリリース",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "AIエージェントだけでCloudflareへの一時的なデプロイを可能にして人間による作業を減らせる機能「Temporary Cloudflare Accounts for Agents」が登場",
       "link": "https://gigazine.net/news/20260622-cloudflare-temporary-accounts/",
       "date": "2026-06-22T15:10:00+09:00",
@@ -115,28 +214,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "【残4日・定員20名】「LLMO対策、何をすればいいかわからない」が解決する広報PRセミナー",
-      "link": "https://ascii.jp/elem/000/004/412/4412480/?rss",
-      "date": "2026-06-22T13:45:57+09:00",
-      "dateLabel": "06/22 13:45",
-      "desc": "【残4日・定員20名】「LLMO対策、何をすればいいかわからない」が解決する広報PRセミナー",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "生成AI時代のブランド可視性を計測・改善するGEOツール「Optyino.ai」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/412/4412394/?rss",
-      "date": "2026-06-22T13:27:23+09:00",
-      "dateLabel": "06/22 13:27",
-      "desc": "生成AI時代のブランド可視性を計測・改善するGEOツール「Optyino.ai」を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
@@ -204,83 +281,6 @@
       "src": "Publickey",
       "cat": "AI全般",
       "score": 34
-    },
-    {
-      "title": "AWS、AIエージェントがリポジトリを自動スキャンして技術的負債を指摘してくれる「AWS Transform – continuous modernization」プレビュー公開",
-      "link": "https://www.publickey1.jp/blog/26/awsaiaws_transform_continuous_modernization.html",
-      "date": "2026-06-22T00:24:42+09:00",
-      "dateLabel": "06/22 00:24",
-      "desc": "Amazon Web Services（AWS）は、AIエージェントがコードリポジトリを継続的に自動スキャンし、サポートが終了したライブラリやフレームワークなどを始めとする技術的負債を検出し、優先順位をつけて報告あるいは修正のためのプルリク...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "無料でグラボのVRAMが壊れていないかチェックできるツール「memtest_vulkan」の使い方、インストール不要でダブルクリックして待つだけでOK",
-      "link": "https://gigazine.net/news/20260621-gpu-vram-check-memtest-vulkan/",
-      "date": "2026-06-21T22:52:00+09:00",
-      "dateLabel": "06/21 22:52",
-      "desc": "ゲームやAI処理ではGPUのメモリである「VRAM」を酷使します。VRAMに異常が発生しているとGPUの性能を十分に引き出せずにゲームプレイ中にフリーズが発生したりAI処理を正常に実行できなくなったりします。「memtest_vulkan」は自分の使っているGPUのVRAMが故障していないかチェックできる無料ツールで、インストール不要でダブルクリックするだけ",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "画面操作を“録画”→AIが作業代行 Codexに新機能「Record & Replay」",
-      "link": "https://www.itmedia.co.jp/news/articles/2606/19/news102.html",
-      "date": "2026-06-19T14:15:00+09:00",
-      "dateLabel": "06/19 14:15",
-      "desc": "米OpenAIは6月18日、「Codex」の新機能「Record & Replay」を公開した。利用者がMac上で作業を一度実演すると、Codexがその操作を再利用できる作業手順に変換・記憶する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 28
-    },
-    {
-      "title": "Stack Overflow、AIエージェント同士が掲示板で技術情報を共有する「Stack Overflow for Agents」ベータ公開",
-      "link": "https://www.publickey1.jp/blog/26/stack_overflowaistack_overflow_for_agents.html",
-      "date": "2026-06-16T00:46:43+09:00",
-      "dateLabel": "06/16 00:46",
-      "desc": "Stack Overflowは、AIエージェント同士がオープンな掲示板の上で技術的な解決策などの情報を共有する新サービス「Stack Overflow for Agents」をベータ版として提供開始したことを明らかにしました。 What i...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 28
-    },
-    {
-      "title": "【220万インプのバズから急展開】みえるクラウド(R)ログ×マネーフォワードが緊急共催！エヴァンジェリスト宮川大介氏が語る「AIマネジメントの未来」セミナーを7月10日に開催決定",
-      "link": "https://ascii.jp/elem/000/004/412/4412457/?rss",
-      "date": "2026-06-22T14:26:14+09:00",
-      "dateLabel": "06/22 14:26",
-      "desc": "【220万インプのバズから急展開】みえるクラウド(R)ログ×マネーフォワードが緊急共催！エヴァンジェリスト宮川大介氏が語る「AIマネジメントの未来」セミナーを7月10日に開催決定",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "AIの教育への悪影響を避けるため小学生によるAI使用を禁止するとノルウェーが発表、紙の教科書重視の方針も",
-      "link": "https://gigazine.net/news/20260622-norway-ban-ai-elementary-school/",
-      "date": "2026-06-22T14:15:00+09:00",
-      "dateLabel": "06/22 14:15",
-      "desc": "生成AIはさまざまな産業分野や日常生活で役に立つ可能性を秘めていますが、AIに依存しすぎることで人間のスキルや学力が低下することも懸念されています。ノルウェーのヨーナス＝ガール・ストーレ首相は2026年6月19日の記者会見で、教育への悪影響を避けるために小学校でのAI使用を原則禁止する方針を発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
-      "title": "【楽天お買い物マラソン】ドリフトしない＆遅延しない！8K精度プロコン「BIGBIG WON Rainbow 3」が期間限定特別価格で登場！Switch・PC・FPS・格闘ゲーム・eスポーツ対応",
-      "link": "https://ascii.jp/elem/000/004/412/4412468/?rss",
-      "date": "2026-06-22T14:00:00+09:00",
-      "dateLabel": "06/22 14:00",
-      "desc": "【楽天お買い物マラソン】ドリフトしない＆遅延しない！8K精度プロコン「BIGBIG WON Rainbow 3」が期間限定特別価格で登場！Switch・PC・FPS・格闘ゲーム・eスポーツ対応",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
     }
   ]
 }
