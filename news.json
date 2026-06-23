@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-23T23:27:15.701696+09:00",
-  "generatedLabel": "2026/06/23 23:27",
+  "generatedAt": "2026-06-24T02:10:46.730438+09:00",
+  "generatedLabel": "2026/06/24 02:10",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 58,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -58,7 +58,7 @@
     {
       "source": "AI-SCHOLAR",
       "ok": false,
-      "error": "not well-formed (invalid token): line 2, column 387"
+      "error": "not well-formed (invalid token): line 2, column 274"
     }
   ],
   "articles": [
@@ -173,17 +173,6 @@
       "score": 34
     },
     {
-      "title": "「プロジェクト・ウィスパー for AI byGMO」始動、パートナー8,300人に「声でAIを使う」環境を提供開始",
-      "link": "https://ascii.jp/elem/000/004/412/4412947/?rss",
-      "date": "2026-06-23T17:05:00+09:00",
-      "dateLabel": "06/23 17:05",
-      "desc": "「プロジェクト・ウィスパー for AI byGMO」始動、パートナー8,300人に「声でAIを使う」環境を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "Google AI Studioにクレカ等の支払い方法登録不要でアプリ公開を始められる「Starter Tier」が登場",
       "link": "https://gigazine.net/news/20260623-starter-tier-google-ai-studio/",
       "date": "2026-06-23T14:25:00+09:00",
@@ -250,17 +239,6 @@
       "score": 34
     },
     {
-      "title": "GitHub、AIによる雑なプルリクエストを抑制へ。ユーザー当たりのプルリクエスト数の上限を設定できる新機能導入",
-      "link": "https://www.publickey1.jp/blog/26/githubai_1.html",
-      "date": "2026-06-23T00:14:38+09:00",
-      "dateLabel": "06/23 00:14",
-      "desc": "GitHubは、ユーザーに対してプルリクエスト数の上限を設定できる新機能の導入を発表しました。 Pull requests are easier to open than ever, but every review still takes...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "Claude Codeに指示を出す「7つの方法」と使い分け 公式が解説",
       "link": "https://www.itmedia.co.jp/aiplus/article/2606/22/2000000117/",
       "date": "2026-06-22T19:47:34+09:00",
@@ -279,6 +257,28 @@
       "desc": "宮台真司氏と株式会社Lyapunovの共同社会運動「SISYPHUS」始動 -- AI時代に人間を問い直す",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "LobbyAI、VC「ON&BOARD」とIVSサイドイベントを開催決定！官民連携、自治体連携、ロビー活動の可能性を国会議員経験者らと京都で議論・交流",
+      "link": "https://ascii.jp/elem/000/004/412/4412936/?rss",
+      "date": "2026-06-23T17:39:23+09:00",
+      "dateLabel": "06/23 17:39",
+      "desc": "LobbyAI、VC「ON&BOARD」とIVSサイドイベントを開催決定！官民連携、自治体連携、ロビー活動の可能性を国会議員経験者らと京都で議論・交流",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "業務でAIを使う人の約38％「禁止されても利用継続」 セキュリティ企業が調査",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/23/2000000119/",
+      "date": "2026-06-23T17:18:44+09:00",
+      "dateLabel": "06/23 17:18",
+      "desc": "業務でAIを使っている人の37.8％が勤務先に禁止されても利用を継続する意向を示した――Webセキュリティサービスなどを手掛けるサイバーセキュリティクラウドは、このような調査結果を発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "AI全般",
       "score": 26
     }
