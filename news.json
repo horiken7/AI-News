@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-24T16:32:27.888307+09:00",
-  "generatedLabel": "2026/06/24 16:32",
+  "generatedAt": "2026-06-24T19:40:37.883318+09:00",
+  "generatedLabel": "2026/06/24 19:40",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 63,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 2
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 16
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -74,17 +74,6 @@
       "score": 58
     },
     {
-      "title": "メタ、299ドルからのAIスマートグラス 日本発売は未定",
-      "link": "https://ascii.jp/elem/000/004/413/4413240/?rss",
-      "date": "2026-06-24T16:00:00+09:00",
-      "dateLabel": "06/24 16:00",
-      "desc": "メタは現地時間6月23日、EssilorLuxotticaとの提携により、新ライン「Meta Glasses」を発表した。価格は299ドルから。",
-      "img": "https://ascii.jp/img/2026/06/24/4488649/s/bd817a6a4e47f7a4.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 42
-    },
-    {
       "title": "ClaudeをSlackチャンネルに召喚、“チームの一員”として直接指示 新機能「Claude Tag」登場",
       "link": "https://www.itmedia.co.jp/news/articles/2606/24/news115.html",
       "date": "2026-06-24T15:27:00+09:00",
@@ -118,47 +107,25 @@
       "score": 42
     },
     {
-      "title": "OpenRouterで中華モデル「GLM-5.2」のAPI利用者が急増、AIユーザーたちは何に使っているのか？",
-      "link": "https://gigazine.net/news/20260623-glm-5-2-openrouter/",
-      "date": "2026-06-23T18:02:00+09:00",
-      "dateLabel": "06/23 18:02",
-      "desc": "「GLM-5.2」は中国企業のZ.aiが日本時間の2026年6月17日に公開したAIモデルで、複数のテストでClaude Opus 4.7を上回り、一部のテストではClaude Fable 5を超える性能を示しています。そんなGLM-5.2についてAPIサービスを展開するOpenRouterが初週の動向を報告しました。 続きを読む...",
+      "title": "【キーボード】レトロだけど中身はいまどき、まるで「70年代のアメ車の皮を被った自動運転車みたい」",
+      "link": "https://ascii.jp/elem/000/004/412/4412006/?rss",
+      "date": "2026-06-24T18:00:00+09:00",
+      "dateLabel": "06/24 18:00",
+      "desc": "見た目に惚れて、使ってみたら二度惚れる。1970年代のタイプライターのような外観に、最新性能を詰め込んだLofreeのメカニカルキーボード「1970s」が推し！",
+      "img": "https://ascii.jp/img/2026/06/19/4485917/s/af9d4c2c998935b5.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 34
+    },
+    {
+      "title": "RTX 5090を使って1.8秒で動画を生成できる動画生成AIモデル「FastWan-QAD」が登場、Wan2.1を量子化＆蒸留して95.6倍に高速化",
+      "link": "https://gigazine.net/news/20260624-fastwan-qad-video-generation-ai/",
+      "date": "2026-06-24T16:51:00+09:00",
+      "dateLabel": "06/24 16:51",
+      "desc": "カリフォルニア大学サンディエゴ校のAIラボであるHao AI Labが動画生成AIモデル「FastWan-QAD」を公開しました。GeForce RTX 5090でFastWan-QADを実行すると480p・5秒の動画をわずか1.8秒で生成できます。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "総務省「海外AIデータセンターへのオール光ネットワーク技術の展開に向けた調査研究の請負」受託のおしらせ",
-      "link": "https://ascii.jp/elem/000/004/413/4413268/?rss",
-      "date": "2026-06-24T15:00:00+09:00",
-      "dateLabel": "06/24 15:00",
-      "desc": "総務省「海外AIデータセンターへのオール光ネットワーク技術の展開に向けた調査研究の請負」受託のおしらせ",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "JAXA宇宙戦略基金（第二期）「軌道上データセンター構築技術」に参画",
-      "link": "https://ascii.jp/elem/000/004/413/4413267/?rss",
-      "date": "2026-06-24T15:00:00+09:00",
-      "dateLabel": "06/24 15:00",
-      "desc": "JAXA宇宙戦略基金（第二期）「軌道上データセンター構築技術」に参画",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "SpaceBlast、日本発「宇宙版AIクラウド」実現へ ──「軌道上データセンター構築技術」開発を本格始動",
-      "link": "https://ascii.jp/elem/000/004/413/4413248/?rss",
-      "date": "2026-06-24T15:00:00+09:00",
-      "dateLabel": "06/24 15:00",
-      "desc": "SpaceBlast、日本発「宇宙版AIクラウド」実現へ ──「軌道上データセンター構築技術」開発を本格始動",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
+      "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
@@ -228,25 +195,14 @@
       "score": 34
     },
     {
-      "title": "フィジカルAIとロボット工学向けの包括的安全システム「NVIDIA Halos for Robotics」発表",
-      "link": "https://gigazine.net/news/20260623-nvidia-halos-for-robotics/",
-      "date": "2026-06-23T18:10:00+09:00",
-      "dateLabel": "06/23 18:10",
-      "desc": "NVIDIAが、フィジカルAIとロボット工学に向けた業界初のフルスタック型包括的安全システム「NVIDIA Halos for Robotics」を発表しました。次世代の自律型ロボットは動的環境で人間と共存しながら運用することになるため、システムのスケールアップには「NVIDIA Halos for Robotics」のようなフルスタック型の安全アーキテクチ",
+      "title": "OpenRouterで中華モデル「GLM-5.2」のAPI利用者が急増、AIユーザーたちは何に使っているのか？",
+      "link": "https://gigazine.net/news/20260623-glm-5-2-openrouter/",
+      "date": "2026-06-23T18:02:00+09:00",
+      "dateLabel": "06/23 18:02",
+      "desc": "「GLM-5.2」は中国企業のZ.aiが日本時間の2026年6月17日に公開したAIモデルで、複数のテストでClaude Opus 4.7を上回り、一部のテストではClaude Fable 5を超える性能を示しています。そんなGLM-5.2についてAPIサービスを展開するOpenRouterが初週の動向を報告しました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "複数の写真から3Dシーンを生成するAIモデル「ArtiFixer」をNVIDIAが発表、写真にない部分も生成処理で補完可能",
-      "link": "https://gigazine.net/news/20260623-nvidia-artifixer-3d-representation/",
-      "date": "2026-06-23T16:04:00+09:00",
-      "dateLabel": "06/23 16:04",
-      "desc": "NVIDIAが複数の写真から3Dシーンを生成できるAIモデル「ArtiFixer」を開発しました。ArtiFixerは動画生成AIのWan 2.1をベースに開発されており、参考画像に含まれていない部分を生成処理で補って高品質な3Dシーンを作り出すことができます。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -259,6 +215,39 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
+    },
+    {
+      "title": "陸自駐屯地で四足歩行型の警備用ロボットが見回り GMOインターネットグループが開発",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/24/news130.html",
+      "date": "2026-06-24T18:25:00+09:00",
+      "dateLabel": "06/24 18:25",
+      "desc": "GMOインターネットグループ4社は、国産ロボット開発を担う未来ロボットと組み、国産の四足歩行型警備用ロボットを開発し、陸上自衛隊の駐屯地での導入検証を始めると発表した。警備の省人化を図り、24時間警備体制の実現を目指すという。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
+      "title": "みんなと同じじゃない。それがいい、Snapdragon 8+ Gen 1搭載のNothing Phone(2)が8万円台",
+      "link": "https://ascii.jp/elem/000/004/412/4412991/?rss",
+      "date": "2026-06-24T18:00:00+09:00",
+      "dateLabel": "06/24 18:00",
+      "desc": "Nothingのスマートフォン「Nothing Phone（2）」がAmazonで割引対象。参考価格99,800円のところ、11％オフの88,900円で販売中。Glyph Interfaceを採用した独自デザインが特徴のスマートフォン。Snapdragon 8+ Gen 1と12GBメモリ、256GBストレージを搭載するほか、6.7型LTPO対応OLEDディ",
+      "img": "https://ascii.jp/img/2026/06/24/4488356/s/b90405d9d35bdd15.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "民生VRグローブにロボット業界が注目 日本発ベンチャーがB2B加速",
+      "link": "https://eetimes.itmedia.co.jp/ee/articles/2606/24/news095.html",
+      "date": "2026-06-24T16:25:00+09:00",
+      "dateLabel": "06/24 16:25",
+      "desc": "Diver-Xは2026年6月23日、グローブ型仮想現実（VR）コントローラー新製品「ContactGlove3」を発表した。電磁場トラッキング方式の採用により推奨環境下で中央値0.5mm、最大値1.5mmの誤差という高精度を実現した。民生用と業務用を用意していて、ロボティクスの手の学習に使えるという。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI実装",
+      "score": 26
     },
     {
       "title": "【解説】キオクシアなぜ急成長？ 半導体メモリって何？ AIブームを見通すための基礎知識",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "Baiduが長い文書を一度に読めるAIモデル「Unlimited OCR」をオープンソースで公開",
+      "link": "https://gigazine.net/news/20260624-baidu-unlimited-ocr/",
+      "date": "2026-06-24T14:15:00+09:00",
+      "dateLabel": "06/24 14:15",
+      "desc": "Baidu(百度)が長文書類を一度に読み取ることを目的としたAIモデル「Unlimited OCR」をオープンソースで公開しました。Unlimited OCRは画像やPDFに含まれる文字を読み取るOCRモデルで、特に複数ページにわたる長い文書の解析を重視しているとのことです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
       "score": 26
     }
   ]
