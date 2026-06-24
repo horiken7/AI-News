@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-25T07:07:44.799986+09:00",
-  "generatedLabel": "2026/06/25 07:07",
+  "generatedAt": "2026-06-25T08:58:38.965932+09:00",
+  "generatedLabel": "2026/06/25 08:58",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 20
+      "items": 19
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -74,6 +74,17 @@
       "score": 58
     },
     {
+      "title": "OpenAI、初の独自AIチップ「Jalapeno」発表──Broadcomと共同開発の推論用アクセラレータ",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/25/2000000126/",
+      "date": "2026-06-25T07:38:39+09:00",
+      "dateLabel": "06/25 07:38",
+      "desc": "OpenAIは、Broadcomと共同開発したLLMの推論に特化した独自AIチップ「Jalapeno」を発表した。同社初の「インテリジェンスプロセッサ」と位置付けており、設計から製造用のテープアウトまでを9カ月で完了したという。数世代にわたる計算基盤の第1弾として、年内に展開を始める計画だ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
       "title": "Anthropic、Slackで「＠Claude」を呼べる「Claude Tag」提供──チームの一員として非同期でタスク遂行",
       "link": "https://www.itmedia.co.jp/aiplus/article/2606/24/2000000120/",
       "date": "2026-06-24T08:55:42+09:00",
@@ -82,7 +93,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 58
+      "score": 50
     },
     {
       "title": "「Transformerの最大475倍」 富士通、GPUを効率的に使うLLMアーキテクチャ「PHOTON」開発",
@@ -206,6 +217,17 @@
       "score": 34
     },
     {
+      "title": "「風邪はしょうがない」覆せるか、民間主導の呼吸器ウイルス根絶計画",
+      "link": "https://ascii.jp/elem/000/004/413/4413356/?rss",
+      "date": "2026-06-25T06:55:44+09:00",
+      "dateLabel": "06/25 06:55",
+      "desc": "ストライプ、アンソロピック、オープンAI財団、ビル・ゲイツ——。豪華な顔ぶれが5億ドルを出し合い、風邪とインフルエンザの根絶を目指す非営利団体が動き出す。「技術的には可能でも商業的動機がない」領域に、慈善資金で挑む。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "「EU Inc.」でひとつの巨大市場へ VivaTech2026で見えた欧州エコシステムの最新動向",
       "link": "https://ascii.jp/elem/000/004/413/4413345/?rss",
       "date": "2026-06-25T06:00:00+09:00",
@@ -258,28 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "Baiduが長い文書を一度に読めるAIモデル「Unlimited OCR」をオープンソースで公開",
-      "link": "https://gigazine.net/news/20260624-baidu-unlimited-ocr/",
-      "date": "2026-06-24T14:15:00+09:00",
-      "dateLabel": "06/24 14:15",
-      "desc": "Baidu(百度)が長文書類を一度に読み取ることを目的としたAIモデル「Unlimited OCR」をオープンソースで公開しました。Unlimited OCRは画像やPDFに含まれる文字を読み取るOCRモデルで、特に複数ページにわたる長い文書の解析を重視しているとのことです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "主婦がAIアニメでYouTube登録者100万人を突破――1億ユーザーのAI動画生成サービス「PixVerse」の実態",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2606/24/2000000116/",
-      "date": "2026-06-24T12:00:00+09:00",
-      "dateLabel": "06/24 12:00",
-      "desc": "1億人超のユーザーを持つAI動画生成プラットフォーム「PixVerse」とは何か。運営企業の担当者が活用事例などを語った。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "生成AI/マルチモーダル",
       "score": 26
     }
   ]
