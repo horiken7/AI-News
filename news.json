@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-28T04:17:29.920608+09:00",
-  "generatedLabel": "2026/06/28 04:17",
+  "generatedAt": "2026-06-28T05:50:32.448799+09:00",
+  "generatedLabel": "2026/06/28 05:50",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 60,
@@ -239,17 +239,6 @@
       "score": 26
     },
     {
-      "title": "OpenAI、次世代「GPT-5.6」シリーズを限定プレビュー 米政府と調整、命名は「Sol／Terra／Luna」に刷新",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2606/27/2000000134/",
-      "date": "2026-06-27T04:56:10+09:00",
-      "dateLabel": "06/27 04:56",
-      "desc": "米OpenAIは6月26日（現地時間）、次世代AIモデル「GPT-5.6」シリーズの限定プレビューを始めた。フラッグシップの「Sol」、日常業務向けでバランス型の「Terra」、高速・低価格の「Luna」の3モデルで構成する。コーディングや科学、サイバーセキュリティの能力を高める一方、同社として過去最も強固と位置付ける安全対策を組み合わせた。数週間以内に一般",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
       "title": "中国の開発者が公式価格の約10％でAnthropicのAIモデルを利用できるAPIプロキシ「中转站」が支えるグレー経済圏の実態とは？",
       "link": "https://gigazine.net/news/20260626-china-anthropic-api/",
       "date": "2026-06-26T21:00:00+09:00",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "企業のAI支出そろそろ“様子見”は終わり？ Gartner予測、本格投資の行方は",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2606/26/news055.html",
+      "date": "2026-06-26T11:00:00+09:00",
+      "dateLabel": "06/26 11:00",
+      "desc": "Gartnerは2026年の世界AI支出が前年比47％増の2兆5956億ドルに達するとの予測を発表。2026年は企業によるAI支出が拡大局面へ移行する転換点になるとしている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
       "score": 26
     }
   ]
