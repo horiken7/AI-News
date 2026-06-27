@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-28T07:54:54.096526+09:00",
-  "generatedLabel": "2026/06/28 07:54",
+  "generatedAt": "2026-06-28T08:54:19.565454+09:00",
+  "generatedLabel": "2026/06/28 08:54",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 60,
+  "candidates": 59,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -140,17 +140,6 @@
       "score": 34
     },
     {
-      "title": "ミシシッピ州の住民がデータセンター関連施設からの「ほぼ絶え間ない騒音」を理由にxAIを提訴",
-      "link": "https://gigazine.net/news/20260627-mississippi-residents-sue-xai/",
-      "date": "2026-06-27T08:00:00+09:00",
-      "dateLabel": "06/27 08:00",
-      "desc": "xAIがミシシッピ州に建設したデータセンター向け発電施設から騒音が出ているとして、3人の地元住民が集団訴訟を提起しました。住民らは「xAIが騒音を抑制する義務を怠った」と主張しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
       "title": "トランプ政権がOpenAIに「GPT-5.6」のリリースを遅らせるよう要請",
       "link": "https://gigazine.net/news/20260626-openai-will-delay-gpt-5-6/",
       "date": "2026-06-26T18:10:00+09:00",
@@ -217,13 +206,13 @@
       "score": 26
     },
     {
-      "title": "東電出資に意欲 孫正義氏が「国内データセンター誘致」で狙うインフラ戦略",
-      "link": "https://www.itmedia.co.jp/business/articles/2606/27/news024.html",
+      "title": "ミシシッピ州の住民がデータセンター関連施設からの「ほぼ絶え間ない騒音」を理由にxAIを提訴",
+      "link": "https://gigazine.net/news/20260627-mississippi-residents-sue-xai/",
       "date": "2026-06-27T08:00:00+09:00",
       "dateLabel": "06/27 08:00",
-      "desc": "ソフトバンクグループ株主総会で、会長兼社長の孫正義氏が、将来的な目標として「純資産価値1000兆円」の展望を語った。AIインフラの最大のボトルネックである「電力確保」を巡り、子会社のソフトバンクが東京電力の次期オーナー候補に名乗りを上げている事実にも言及した。最先端データセンターを日本へ呼び戻そうとするインフラ戦略に迫る。",
+      "desc": "xAIがミシシッピ州に建設したデータセンター向け発電施設から騒音が出ているとして、3人の地元住民が集団訴訟を提起しました。住民らは「xAIが騒音を抑制する義務を怠った」と主張しています。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
+      "src": "GIGAZINE",
       "cat": "半導体/GPU",
       "score": 26
     },
@@ -277,6 +266,17 @@
       "date": "2026-06-26T11:00:00+09:00",
       "dateLabel": "06/26 11:00",
       "desc": "Gartnerは2026年の世界AI支出が前年比47％増の2兆5956億ドルに達するとの予測を発表。2026年は企業によるAI支出が拡大局面へ移行する転換点になるとしている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "Flashの再来？ Figmaの新機能「Figma Motion」に懐かしいとの声 アニメーション生成するAI機能も",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/25/news132.html",
+      "date": "2026-06-25T21:05:00+09:00",
+      "dateLabel": "06/25 21:05",
+      "desc": "Figmaが発表した新機能「Figma Motion」が、かつてのAdobe Flashを思わせるとSNSで話題だ。タイムラインでキーフレームを打つ操作感が懐かしさを呼んだが、実際に触ると別物との声もみられる。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AI全般",
