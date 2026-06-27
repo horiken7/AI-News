@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-27T11:10:33.655549+09:00",
-  "generatedLabel": "2026/06/27 11:10",
+  "generatedAt": "2026-06-27T15:21:45.698842+09:00",
+  "generatedLabel": "2026/06/27 15:21",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 60,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -71,18 +71,18 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 58
+      "score": 50
     },
     {
-      "title": "約400紙の新聞を発行する新聞社が記事を無断でスクレイピングされたとしてOpenAIとMicrosoftを提訴",
-      "link": "https://gigazine.net/news/20260626-publishers-sue-microsoft-openai/",
-      "date": "2026-06-26T13:40:00+09:00",
-      "dateLabel": "06/26 13:40",
-      "desc": "合わせて約400紙の新聞を所有・運営する新聞社が、OpenAIとMicrosoftを「許可や報酬なしに、コンテンツをスクレイピングしてChatGPTやMicrosoft Copilotのような製品を構築した」として2026年6月24日に訴訟を起こしました。訴状では、生成AIは企業に数十億ドル規模の市場価値をもたらした一方で、コンテンツを奪われた側には1セント",
+      "title": "AIモデル「ミュトス」、米国の一部組織に再提供へ 米政府が許可",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/27/2000000135/",
+      "date": "2026-06-27T11:07:50+09:00",
+      "dateLabel": "06/27 11:07",
+      "desc": "米Anthropicは6月26日（現地時間）、12日から提供を一時停止していたAIモデル「Claude Mythos 5」について、米国の一部組織に限定して再提供を始めると発表した。米政府から許可を得たという。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 50
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "トランプ政権がOpenAIに「GPT-5.6」のリリースを遅らせるよう要請",
@@ -96,26 +96,59 @@
       "score": 42
     },
     {
-      "title": "AIエージェントに「タスクに合ったAIモデルを見つける能力」を与える「OpenRouter MCP Server」が登場",
-      "link": "https://gigazine.net/news/20260626-openrouter-mcp-server/",
-      "date": "2026-06-26T13:50:00+09:00",
-      "dateLabel": "06/26 13:50",
-      "desc": "数多くのAI企業が多種多様なAIモデルをリリースしており、AIモデルごとに「ウェブページのデザインが得意」「性能はそこそこだが、非常に安価」といったように特徴が異なります。「OpenRouter MCP Server」はAIエージェントにAIモデルの選別能力を付与できるMCPサーバーで、OpenRouter上で提供されているモデルやプロバイダーの中から目的に",
+      "title": "約400紙の新聞を発行する新聞社が記事を無断でスクレイピングされたとしてOpenAIとMicrosoftを提訴",
+      "link": "https://gigazine.net/news/20260626-publishers-sue-microsoft-openai/",
+      "date": "2026-06-26T13:40:00+09:00",
+      "dateLabel": "06/26 13:40",
+      "desc": "合わせて約400紙の新聞を所有・運営する新聞社が、OpenAIとMicrosoftを「許可や報酬なしに、コンテンツをスクレイピングしてChatGPTやMicrosoft Copilotのような製品を構築した」として2026年6月24日に訴訟を起こしました。訴状では、生成AIは企業に数十億ドル規模の市場価値をもたらした一方で、コンテンツを奪われた側には1セント",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
+      "cat": "規制/安全",
       "score": 42
     },
     {
-      "title": "「AIエージェント基盤の構築は色々大変」 Claude Managed Agentsはどう進化しているのか",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2606/25/news058.html",
-      "date": "2026-06-25T11:00:00+09:00",
-      "dateLabel": "06/25 11:00",
-      "desc": "Anthropicがβ版で公開したAIエージェント実行基盤「Claude Managed Agents」。構築の課題が多い実行基盤をフルマネージド化し、さまざまな機能を追加し続けている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
+      "title": "「Rokid スマートAIグラス」を衝動買い 周辺ツールが育てるAIグラス",
+      "link": "https://ascii.jp/elem/000/004/414/4414074/?rss",
+      "date": "2026-06-27T12:00:00+09:00",
+      "dateLabel": "06/27 12:00",
+      "desc": "スマートグラスはまだ発展途上のカテゴリーだ。本体性能だけでなく、度付きレンズへの対応、装着感、サウンド、充電環境といった周辺アクセサリーの完成度が実用性を大きく左右する。",
+      "img": "https://ascii.jp/img/2026/06/26/4490185/s/befe5d5206eafdfb.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "Googleの新スマートスピーカーはGemini搭載で超賢くて別物に進化！ 複数の指示が出せて驚いた！",
+      "link": "https://ascii.jp/elem/000/004/413/4413990/?rss",
+      "date": "2026-06-27T12:00:00+09:00",
+      "dateLabel": "06/27 12:00",
+      "desc": "約6年ぶりに発売された1万6800円の新型「Google Homeスピーカー」の実機レビューです 。Gemini搭載により複雑な文脈や連続指示を理解でき、英会話の練習にも活用可能 。低音が豊かで音質も大幅に向上しており、2台ペアリングによるステレオ再生もおすすめです 。",
+      "img": "https://ascii.jp/img/2026/06/26/4489970/s/ae02b68caee22dd9.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "生成AIは商品推薦でどんな検索クエリを使うのか？Optyino.aiがAI回答5,707件を分析、ChatGPT5.2は平均8.16語で最長",
+      "link": "https://ascii.jp/elem/000/004/414/4414101/?rss",
+      "date": "2026-06-27T10:48:52+09:00",
+      "dateLabel": "06/27 10:48",
+      "desc": "生成AIは商品推薦でどんな検索クエリを使うのか？Optyino.aiがAI回答5,707件を分析、ChatGPT5.2は平均8.16語で最長",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "【7月25日(土)10:30～無料ウェビナー開催】広告を出しても売れない企業が急増――AI・SNS時代に必要な“脳内の看板”をつくる認知戦略を公開！",
+      "link": "https://ascii.jp/elem/000/004/414/4414095/?rss",
+      "date": "2026-06-27T10:10:00+09:00",
+      "dateLabel": "06/27 10:10",
+      "desc": "【7月25日(土)10:30～無料ウェビナー開催】広告を出しても売れない企業が急増――AI・SNS時代に必要な“脳内の看板”をつくる認知戦略を公開！",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "ミシシッピ州の住民がデータセンター関連施設からの「ほぼ絶え間ない騒音」を理由にxAIを提訴",
@@ -151,33 +184,11 @@
       "score": 34
     },
     {
-      "title": "【楽天市場限定50％OFF】通常29,900円→14,950円！POCKAM P10PRO｜Android 16・Gemini AIのタブレット 特価！さらに最大100,000ポイントが当たるチャンス",
-      "link": "https://ascii.jp/elem/000/004/414/4414068/?rss",
-      "date": "2026-06-26T18:15:08+09:00",
-      "dateLabel": "06/26 18:15",
-      "desc": "【楽天市場限定50％OFF】通常29,900円→14,950円！POCKAM P10PRO｜Android 16・Gemini AIのタブレット 特価！さらに最大100,000ポイントが当たるチャンス",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "「OpenAIはAzureだけ」の時代が終了 「GPT-5.5」「Codex」をAWSで利用するメリットは何か",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2606/26/news045.html",
-      "date": "2026-06-26T13:00:00+09:00",
-      "dateLabel": "06/26 13:00",
-      "desc": "OpenAIとAmazon Web Services（AWS）が戦略的パートナーシップを拡大した。OpenAIのモデル、コーディングエージェント「Codex」、マネージドエージェントを、企業がAWS環境で利用できるようにする。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "メールをAIで便利に管理できる「Notion Mail」が2026年9月でサービス終了、ユーザーの大半が受信トレイを開かなくなったのでAIエージェントに注力",
-      "link": "https://gigazine.net/news/20260626-notion-mail-is-going-away/",
-      "date": "2026-06-26T11:45:00+09:00",
-      "dateLabel": "06/26 11:45",
-      "desc": "受信トレイのメールをAIが便利に管理してくれるメールクライアント「Notion Mail」が、2026年9月22日でサービス終了となることが発表されました。 続きを読む...",
+      "title": "AIエージェントに「タスクに合ったAIモデルを見つける能力」を与える「OpenRouter MCP Server」が登場",
+      "link": "https://gigazine.net/news/20260626-openrouter-mcp-server/",
+      "date": "2026-06-26T13:50:00+09:00",
+      "dateLabel": "06/26 13:50",
+      "desc": "数多くのAI企業が多種多様なAIモデルをリリースしており、AIモデルごとに「ウェブページのデザインが得意」「性能はそこそこだが、非常に安価」といったように特徴が異なります。「OpenRouter MCP Server」はAIエージェントにAIモデルの選別能力を付与できるMCPサーバーで、OpenRouter上で提供されているモデルやプロバイダーの中から目的に",
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
@@ -193,6 +204,39 @@
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
       "score": 34
+    },
+    {
+      "title": "ワールドカップ2026で実現 より速く、正確なオフサイド判定テクノロジーの裏側",
+      "link": "https://ascii.jp/elem/000/004/414/4414094/?rss",
+      "date": "2026-06-27T13:00:30+09:00",
+      "dateLabel": "06/27 13:00",
+      "desc": "2022年、カタール大会の“三苫の1ミリ”で注目を集めたのが「VAR」のテクノロジーだ。実は、ビデオ映像を目視で確認するだけでなく、AIも用いた高度な選手とボールのトラッキング（追跡）システムも使われている。そして今回の2026年大会では、オフサイド判定の精度とスピードが大幅に向上している。その裏側を解説する。",
+      "img": "https://ascii.jp/img/2026/06/27/4490293/s/7f34bc4e7a538055.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "中国ECサイトではAI検索の導入が進む インフルエンサーのレビューより、AIのアドバイスの方が影響度大の時代に!?",
+      "link": "https://ascii.jp/elem/000/004/413/4413733/?rss",
+      "date": "2026-06-27T10:00:00+09:00",
+      "dateLabel": "06/27 10:00",
+      "desc": "中国最大のEC祭りの1つ、618セールが今年も来た。ここではメーカー各社が期待の新製品を投入するだけでなく、ECサイト側も新技術を導入。今年の目立ったのはAI検索。実はすでに日本語の自然文での検索も可能だ。",
+      "img": "https://ascii.jp/img/2026/06/25/4489496/s/e51d31e3255466d9.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "【受付開始】農業関係者向け「農業AI活用事例」無料オンラインセミナー、希望団体を募集",
+      "link": "https://ascii.jp/elem/000/004/414/4414089/?rss",
+      "date": "2026-06-27T08:50:00+09:00",
+      "dateLabel": "06/27 08:50",
+      "desc": "【受付開始】農業関係者向け「農業AI活用事例」無料オンラインセミナー、希望団体を募集",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     },
     {
       "title": "東電出資に意欲 孫正義氏が「国内データセンター誘致」で狙うインフラ戦略",
@@ -217,69 +261,25 @@
       "score": 26
     },
     {
-      "title": "特価で24万5300円！ AMD Ryzen AI 7 350搭載の一体型デスクトップ「FMV WF3-L1」がお買い得",
-      "link": "https://ascii.jp/elem/000/004/413/4413748/?rss",
-      "date": "2026-06-26T22:00:00+09:00",
-      "dateLabel": "06/26 22:00",
-      "desc": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
-      "img": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "Bufff、経済産業省「IP360」に採択 AI活用・カジュアルゲーム特化型プラットフォーム「JAMMM」を始動",
-      "link": "https://ascii.jp/elem/000/004/414/4414087/?rss",
-      "date": "2026-06-26T19:44:28+09:00",
-      "dateLabel": "06/26 19:44",
-      "desc": "Bufff、経済産業省「IP360」に採択 AI活用・カジュアルゲーム特化型プラットフォーム「JAMMM」を始動",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "AppleはM6チップの上位モデルをスキップして2027年にM7シリーズの展開を計画しているという報道、デバイス上のAI機能を強化するため",
-      "link": "https://gigazine.net/news/20260626-apple-skip-m6/",
-      "date": "2026-06-26T15:00:00+09:00",
-      "dateLabel": "06/26 15:00",
-      "desc": "Appleが、AIに特化した新世代チップの開発に着手する準備を進めており、Mac向けシリコン戦略において過去最大級の変更を行う予定であると関係者の証言を元に報じられています。Appleは2025年後半から「M5」搭載のMac製品を展開しており、早ければ2026年内に次世代モデルの「M6」を搭載した製品を発表する予定とされていますが、Appleの関係者によると",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "防衛省は“認知戦”にどう挑む ウクライナ脅かすAIフェイク、偽アカウントへの対応は 分析資料を公開",
-      "link": "https://www.itmedia.co.jp/news/articles/2606/26/news091.html",
-      "date": "2026-06-26T13:35:00+09:00",
-      "dateLabel": "06/26 13:35",
-      "desc": "防衛省は6月26日、「防衛力変革推進本部」での議論に関する資料を公表した。偽情報で相手の判断をゆさぶる「認知戦」への対応方針として、戦略的な情報発信機能やAI活用、情報関連機能の強化を打ち出した。",
+      "title": "「OpenAIはAzureだけ」の時代が終了 「GPT-5.5」「Codex」をAWSで利用するメリットは何か",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2606/26/news045.html",
+      "date": "2026-06-26T13:00:00+09:00",
+      "dateLabel": "06/26 13:00",
+      "desc": "OpenAIとAmazon Web Services（AWS）が戦略的パートナーシップを拡大した。OpenAIのモデル、コーディングエージェント「Codex」、マネージドエージェントを、企業がAWS環境で利用できるようにする。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "自動車大手のフォードでAI主導の自動化がうまくいかず人間のベテラン技術者を再雇用せざるを得ない事態に",
-      "link": "https://gigazine.net/news/20260626-ford-rehire-inspectors/",
-      "date": "2026-06-26T12:35:00+09:00",
-      "dateLabel": "06/26 12:35",
-      "desc": "AIの登場によってこれまで人間が担当していた仕事の一部はAIによって自動化されることが増え、雇用機会がAIに奪われることで失業者が今後著しく増加するのではないかといわれています。そんな中、大手自動車メーカーのフォードが品質問題の改善に向けてAIによる自動化を進めていましたが、AIがうまく機能しなかったために経験豊富な技術者を再雇用したと報じられています。 続",
-      "img": "",
-      "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 26
     },
     {
-      "title": "企業のAI支出そろそろ“様子見”は終わり？ Gartner予測、本格投資の行方は",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2606/26/news055.html",
-      "date": "2026-06-26T11:00:00+09:00",
-      "dateLabel": "06/26 11:00",
-      "desc": "Gartnerは2026年の世界AI支出が前年比47％増の2兆5956億ドルに達するとの予測を発表。2026年は企業によるAI支出が拡大局面へ移行する転換点になるとしている。",
+      "title": "メールをAIで便利に管理できる「Notion Mail」が2026年9月でサービス終了、ユーザーの大半が受信トレイを開かなくなったのでAIエージェントに注力",
+      "link": "https://gigazine.net/news/20260626-notion-mail-is-going-away/",
+      "date": "2026-06-26T11:45:00+09:00",
+      "dateLabel": "06/26 11:45",
+      "desc": "受信トレイのメールをAIが便利に管理してくれるメールクライアント「Notion Mail」が、2026年9月22日でサービス終了となることが発表されました。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
