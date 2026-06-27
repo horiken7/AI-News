@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-28T06:54:16.023749+09:00",
-  "generatedLabel": "2026/06/28 06:54",
+  "generatedAt": "2026-06-28T07:54:54.096526+09:00",
+  "generatedLabel": "2026/06/28 07:54",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 60,
@@ -151,17 +151,6 @@
       "score": 34
     },
     {
-      "title": "官民投資フィジカルAIに10.5兆円示す、「実証から実装へ」動き出す現場",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2606/27/news009.html",
-      "date": "2026-06-27T07:00:00+09:00",
-      "dateLabel": "06/27 07:00",
-      "desc": "2026年6月22日～26日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI実装",
-      "score": 34
-    },
-    {
       "title": "トランプ政権がOpenAIに「GPT-5.6」のリリースを遅らせるよう要請",
       "link": "https://gigazine.net/news/20260626-openai-will-delay-gpt-5-6/",
       "date": "2026-06-26T18:10:00+09:00",
@@ -236,6 +225,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "官民投資フィジカルAIに10.5兆円示す、「実証から実装へ」動き出す現場",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2606/27/news009.html",
+      "date": "2026-06-27T07:00:00+09:00",
+      "dateLabel": "06/27 07:00",
+      "desc": "2026年6月22日～26日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI実装",
       "score": 26
     },
     {
