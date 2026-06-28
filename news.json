@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-28T20:41:47.478285+09:00",
-  "generatedLabel": "2026/06/28 20:41",
+  "generatedAt": "2026-06-28T22:15:52.301923+09:00",
+  "generatedLabel": "2026/06/28 22:15",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 57,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "無料でローカルPCの操作を自動化できる「UI-TARS-desktop」について現状を確認してみた",
+      "link": "https://gigazine.net/news/20260628-ui-tars-desktop/",
+      "date": "2026-06-28T22:00:00+09:00",
+      "dateLabel": "06/28 22:00",
+      "desc": "ByteDanceが公開したマルチモーダルGUIエージェントスタックであるUI-TARS-desktopは、自然言語による指示と画面のスクリーンショットをセルフホスティングした視覚言語モデル(VLM)に入力することによりローカルPCの操作を安全に自動化することができるアプリであるとのことなので、実際のところ使えそうなのかを確認してみました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
       "title": "OpenAIのサム・アルトマンCEOとAnthropicのダリオ・アモデイCEOの間には10年にもわたる確執がある",
       "link": "https://gigazine.net/news/20260628-dario-amodei-sam-altman/",
       "date": "2026-06-28T20:00:00+09:00",
@@ -82,17 +93,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "【4.5万円オフ】GeForce RTX 5070搭載＆180Hz液晶の高性能ゲーミングノートが買い！ ゲーム以外にも色々使える1台",
-      "link": "https://ascii.jp/elem/000/004/413/4413779/?rss",
-      "date": "2026-06-28T11:00:00+09:00",
-      "dateLabel": "06/28 11:00",
-      "desc": "夏ボでゲーミングPCを買いたいという人にオススメの1台がセール中！ CPU＆GPUとも高性能で、高解像度＆高リフレッシュレートの16型液晶で、ゲームにも普段使いにも便利なゲーミングノートが4万5000円引き。PCライフを充実させてくれる1台。要チェックです！",
-      "img": "https://ascii.jp/img/2026/06/26/4489726/s/13315023d42528c9.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
       "score": 42
     },
     {
@@ -173,6 +173,17 @@
       "score": 34
     },
     {
+      "title": "AMD Ryzen AI 7 350搭載の一体型デスクトップ「FMV WF3-L1」が、特価で24万円台！",
+      "link": "https://ascii.jp/elem/000/004/413/4413750/?rss",
+      "date": "2026-06-28T22:00:00+09:00",
+      "dateLabel": "06/28 22:00",
+      "desc": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
+      "img": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "ひろゆき氏「SIer衰退予測」、AI代替の「逆転現象」の理由 2026年に生き残るエンジニア“4つの役割”",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2606/28/news006.html",
       "date": "2026-06-28T13:00:00+09:00",
@@ -244,17 +255,6 @@
       "date": "2026-06-26T11:00:00+09:00",
       "dateLabel": "06/26 11:00",
       "desc": "Gartnerは2026年の世界AI支出が前年比47％増の2兆5956億ドルに達するとの予測を発表。2026年は企業によるAI支出が拡大局面へ移行する転換点になるとしている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "Flashの再来？ Figmaの新機能「Figma Motion」に懐かしいとの声 アニメーション生成するAI機能も",
-      "link": "https://www.itmedia.co.jp/news/articles/2606/25/news132.html",
-      "date": "2026-06-25T21:05:00+09:00",
-      "dateLabel": "06/25 21:05",
-      "desc": "Figmaが発表した新機能「Figma Motion」が、かつてのAdobe Flashを思わせるとSNSで話題だ。タイムラインでキーフレームを打つ操作感が懐かしさを呼んだが、実際に触ると別物との声もみられる。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AI全般",
