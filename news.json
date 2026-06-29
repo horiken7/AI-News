@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-29T19:21:37.486936+09:00",
-  "generatedLabel": "2026/06/29 19:21",
+  "generatedAt": "2026-06-29T23:42:00.397222+09:00",
+  "generatedLabel": "2026/06/29 23:42",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 10
+      "items": 11
     },
     {
       "source": "AINOW",
@@ -74,6 +74,17 @@
       "score": 66
     },
     {
+      "title": "クアルコムがPythonライクな新言語「Mojo」開発元のModular社買収を発表。AIデータセンター市場へ本格参入",
+      "link": "https://www.publickey1.jp/blog/26/pythonmojomodularai.html",
+      "date": "2026-06-30T00:33:20+09:00",
+      "dateLabel": "06/30 00:33",
+      "desc": "スマートフォン用のSoC（System-on-a-Chip）や各種通信機器向けの半導体事業などで知られるクアルコムテクノロジーズ社（以下、クアルコム）は、AI処理の高速化を目指すPythonライクな新言語「Mojo」の開発元であるModul...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "半導体/GPU",
+      "score": 50
+    },
+    {
       "title": "Claude Opus 4.7と同等性能のコーディングAIモデル「Ornith-1.0」が登場、ローカルで動作する小型モデルもラインナップ",
       "link": "https://gigazine.net/news/20260629-ornith-agentic-coding-ai/",
       "date": "2026-06-29T13:16:00+09:00",
@@ -82,17 +93,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
-      "title": "無料でローカルPCの操作を自動化できる「UI-TARS-desktop」について現状を確認してみた",
-      "link": "https://gigazine.net/news/20260628-ui-tars-desktop/",
-      "date": "2026-06-28T22:00:00+09:00",
-      "dateLabel": "06/28 22:00",
-      "desc": "ByteDanceが公開したマルチモーダルGUIエージェントスタックであるUI-TARS-desktopは、自然言語による指示と画面のスクリーンショットをセルフホスティングした視覚言語モデル(VLM)に入力することによりローカルPCの操作を安全に自動化することができるアプリであるとのことなので、実際のところ使えそうなのかを確認してみました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
       "score": 50
     },
     {
@@ -206,6 +206,17 @@
       "score": 34
     },
     {
+      "title": "AMD Ryzen AI 7 350搭載デスクトップが、FMV直販サイトで特価の24万円台！",
+      "link": "https://ascii.jp/elem/000/004/413/4413751/?rss",
+      "date": "2026-06-29T22:00:00+09:00",
+      "dateLabel": "06/29 22:00",
+      "desc": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
+      "img": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "最小構成こそ買いやすい！ 「iPad Air（M4）」必要十分スペックで狙い目",
       "link": "https://ascii.jp/elem/000/004/414/4414466/?rss",
       "date": "2026-06-29T19:00:00+09:00",
@@ -223,17 +234,6 @@
       "dateLabel": "06/29 18:00",
       "desc": "福井県鯖江市の老舗がデザインした約40gの軽量スマートグラス「SABERA」のレビューです。カメラ非搭載で普通のメガネに見えるのが特徴。スマホと連動し、右目の視界にナビやリアルタイム翻訳、AIからの回答などを緑色の文字で表示でき、日常を劇的に便利にしてくれます。",
       "img": "https://ascii.jp/img/2026/06/24/4488908/s/3e18304c0ffe58cb.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "20万円以下に値下げ。Ryzen AI 7・32GB・1TB SSD搭載のHP「OmniBook 5 16-ag」",
-      "link": "https://ascii.jp/elem/000/004/414/4414304/?rss",
-      "date": "2026-06-29T17:00:00+09:00",
-      "dateLabel": "06/29 17:00",
-      "desc": "HPの16型ノートPC「OmniBook 5 16-ag（BF8J2PA-AAAA）」がAmazonで割引対象。参考価格218,900円のところ、9％オフの199,800円で販売中。Ryzen AI 7 350、32GBメモリ、1TB SSDを搭載した16型モデル。",
-      "img": "https://ascii.jp/img/2026/06/29/4490867/s/f7a602bbee6ec573.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
