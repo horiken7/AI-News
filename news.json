@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-01T05:51:29.055742+09:00",
-  "generatedLabel": "2026/07/01 05:51",
+  "generatedAt": "2026-07-01T07:08:58.513192+09:00",
+  "generatedLabel": "2026/07/01 07:08",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 64,
@@ -96,17 +96,6 @@
       "score": 50
     },
     {
-      "title": "タスクの難易度でローカルAIとクラウドAIを自動切り替えする「Wayfinder」、切り替え判断にAIを使わずコストを削減",
-      "link": "https://gigazine.net/news/20260630-wayfinder/",
-      "date": "2026-06-30T07:00:00+09:00",
-      "dateLabel": "06/30 07:00",
-      "desc": "短い文章の要約や誤字修正は手元の小さなAIに任せ、複雑な推論や長いコードの解析は高性能なクラウドAIに送るという判断を自動化するオープンソースツール「Wayfinder Router」がGitHubで公開されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
       "title": "日本のIPO件数はわずか18件で15年ぶりの低水準を記録、日本にAI・データセンター・半導体関連のスタートアップが不足していることが一因",
       "link": "https://gigazine.net/news/20260630-japan-ipo-fall-15-year-low/",
       "date": "2026-06-30T20:00:00+09:00",
@@ -115,17 +104,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "広島のAI研修会社WEAVE、自社で働くAIエージェント「AI社員きんちゃん」を初公開し、次世代のAI活用事例を対面セミナーで紹介。",
-      "link": "https://ascii.jp/elem/000/004/414/4414926/?rss",
-      "date": "2026-06-30T17:30:00+09:00",
-      "dateLabel": "06/30 17:30",
-      "desc": "広島のAI研修会社WEAVE、自社で働くAIエージェント「AI社員きんちゃん」を初公開し、次世代のAI活用事例を対面セミナーで紹介。",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -151,6 +129,17 @@
       "score": 42
     },
     {
+      "title": "タスクの難易度でローカルAIとクラウドAIを自動切り替えする「Wayfinder」、切り替え判断にAIを使わずコストを削減",
+      "link": "https://gigazine.net/news/20260630-wayfinder/",
+      "date": "2026-06-30T07:00:00+09:00",
+      "dateLabel": "06/30 07:00",
+      "desc": "短い文章の要約や誤字修正は手元の小さなAIに任せ、複雑な推論や長いコードの解析は高性能なクラウドAIに送るという判断を自動化するオープンソースツール「Wayfinder Router」がGitHubで公開されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "クアルコムがPythonライクな新言語「Mojo」開発元のModular社買収を発表。AIデータセンター市場へ本格参入",
       "link": "https://www.publickey1.jp/blog/26/pythonmojomodularai.html",
       "date": "2026-06-30T00:33:20+09:00",
@@ -160,6 +149,17 @@
       "src": "Publickey",
       "cat": "半導体/GPU",
       "score": 42
+    },
+    {
+      "title": "Diver-X、ロボティクス向けデータグローブ「ContactGlove3 Pro」発表 ロボット遠隔操作・模倣学習データ収集の標準インターフェース目指す",
+      "link": "https://ascii.jp/elem/000/004/414/4414958/?rss",
+      "date": "2026-07-01T07:00:00+09:00",
+      "dateLabel": "07/01 07:00",
+      "desc": "Diver-X株式会社は6月24日に、ロボティクス向けデータグローブ「ContactGlove3 Pro」を発表した。同製品は、業務用途のロボット遠隔操作および作業データ収集向けインターフェース。EMF（電磁場）方式による指先トラッキングと、ROS 2／C++／Python SDK のネイティブ対応、Linux／macOS／Windowsのクロスプラットフォ",
+      "img": "https://ascii.jp/img/2026/06/30/4491998/s/fe44714d0e4b7d83.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 34
     },
     {
       "title": "Windows上でLinuxコンテナが動く「WSL Containers」がパブリックプレビュー。Windowsファイルへのアクセスが2倍高速に",
@@ -192,17 +192,6 @@
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "輸出管理AIエージェント「TRAFEED」、日本最大級のスタートアップカンファレンス「IVS2026」（京都）に出展",
-      "link": "https://ascii.jp/elem/000/004/414/4414916/?rss",
-      "date": "2026-06-30T17:30:00+09:00",
-      "dateLabel": "06/30 17:30",
-      "desc": "輸出管理AIエージェント「TRAFEED」、日本最大級のスタートアップカンファレンス「IVS2026」（京都）に出展",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -261,15 +250,15 @@
       "score": 34
     },
     {
-      "title": "自社の業務に合わせたAIエージェントを「10分で作成」 freeeが「AI戦略」を強化",
-      "link": "https://www.itmedia.co.jp/business/articles/2606/30/news064.html",
-      "date": "2026-06-30T07:00:00+09:00",
-      "dateLabel": "06/30 07:00",
-      "desc": "クラウド会計システム「freee」の開発などを手掛けるフリーは、2月に発表したAI戦略の実現に向けた新たな取り組みとして「freee AIアシスタント」と「freee カスタムオーダー」の提供を6月に開始した。「AIから最も使いやすいSaaS」として、AI業界におけるリーディングカンパニーの地位確立を目指す。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
+      "title": "AI・データ活用が社内で止まる。WeDraftが狙う情報資産管理の空白地帯",
+      "link": "https://ascii.jp/elem/000/004/414/4414907/?rss",
+      "date": "2026-07-01T07:00:00+09:00",
+      "dateLabel": "07/01 07:00",
+      "desc": "2026年6月30日、個人情報・情報資産管理プラットフォーム「Flows」 を提供する株式会社WeDraftは、DNX Venturesを引受先とするシードラウンドで1億円を調達した。調達資金は、「Flows」のサービス基盤強化、初期顧客の成果創出、組織体制の強化に充てる。",
+      "img": "https://ascii.jp/img/2026/06/30/4491882/s/8d87f62b353e3522.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     },
     {
       "title": "人口ゼロの孤島から送られたDMCA申請により記事がGoogleのインデックスから削除される",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "規制/安全",
+      "score": 26
+    },
+    {
+      "title": "AMD Ryzen AI 7 350搭載デスクトップが、FMV直販サイトで特価の24万5300円！",
+      "link": "https://ascii.jp/elem/000/004/413/4413752/?rss",
+      "date": "2026-06-30T22:00:00+09:00",
+      "dateLabel": "06/30 22:00",
+      "desc": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
+      "img": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 26
     }
   ]
