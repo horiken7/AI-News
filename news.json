@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-01T12:43:59.050902+09:00",
-  "generatedLabel": "2026/07/01 12:43",
+  "generatedAt": "2026-07-01T17:02:48.497685+09:00",
+  "generatedLabel": "2026/07/01 17:02",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 59,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 2
     },
     {
       "source": "PC Watch",
@@ -58,10 +58,21 @@
     {
       "source": "AI-SCHOLAR",
       "ok": false,
-      "error": "not well-formed (invalid token): line 2, column 274"
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
     }
   ],
   "articles": [
+    {
+      "title": "NVIDIAのAIチップを使わずにGemini 3.1 Pro並みの性能を実現した1.6兆パラメーターの中国製AIモデル「LongCat-2.0」が登場",
+      "link": "https://gigazine.net/news/20260701-longcat-2-0/",
+      "date": "2026-07-01T13:25:00+09:00",
+      "dateLabel": "07/01 13:25",
+      "desc": "1.6兆パラメータ・100万トークンのコンテキスト長を持つAIモデル「LongCat-2.0」が中国企業の美団(Meituan)から公開されました。事前学習から推論までの全プロセスを、国内の5万基以上のチップで実行したモデルとのことです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 58
+    },
     {
       "title": "「Claude Sonnet 5」新登場 低コストでOpus 4.8に匹敵とうたうも、タスク当たりコスト増加との評価も",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/01/2000000147/",
@@ -83,6 +94,17 @@
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 58
+    },
+    {
+      "title": "AIエージェント経由でXのAPIを操作して「投稿検索」「トレンド分析」などが可能な「X MCP」が公開される",
+      "link": "https://gigazine.net/news/20260701-x-mcp/",
+      "date": "2026-07-01T13:45:00+09:00",
+      "dateLabel": "07/01 13:45",
+      "desc": "Xは2026年6月30日に、ユーザー自身のアカウント権限を使用してAIツールがX APIと通信できるようにするホスト型モデルコンテキストプロトコル(MCP)サーバー「X MCP」を発表しました。X MCPを用いることで、ClaudeやGrok BuildといったAIアシスタントやその他のMCP互換アプリがXに直接接続しやすくなり、Xの投稿分析や情報の要約など",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 50
     },
     {
       "title": "Googleがより高速で安価な画像生成モデル「Nano Banana 2 Lite」と動画生成モデル「Gemini Omni Flash」を発表",
@@ -140,15 +162,37 @@
       "score": 50
     },
     {
-      "title": "Claude CodeなどのAIエージェントでComfyUIを使った画像・動画生成の自動化が可能な「Comfy MCP」が登場、Comfy Cloudを使用するので低スペックPCでもOK",
-      "link": "https://gigazine.net/news/20260630-comfy-mcp-comfyui-ai-agent/",
-      "date": "2026-06-30T12:05:00+09:00",
-      "dateLabel": "06/30 12:05",
-      "desc": "ComfyUIは数多くの画像生成AIや動画生成AIに対応した生成AI実行環境ですが、使いこなすには「複数のノードを自分で組み合わせてワークフローを構築する」「他人が作成した複雑なワークフローを読み解いて自分好みにカスタムする」といった複雑な作業が必要です。そんな状況を改善するツールとして「Comfy MCP」のパブリックベータ版が発表されました。Comfy ",
+      "title": "Protonがプライバシー重視チャットAI「Lumo 2.0」を発表、Claude Sonnet 4.6を超える性能",
+      "link": "https://gigazine.net/news/20260701-proton-lumo-2-0/",
+      "date": "2026-07-01T14:40:00+09:00",
+      "dateLabel": "07/01 14:40",
+      "desc": "プライバシー重視のメールサービス「Proton Mail」を手がけるProtonがチャットボットAI「Lumo 2.0」を2026年6月30日に発表しました。Lumo 2.0は新たなアーキテクチャが採用されており、画像生成・編集、ウェブ検索、利用者が管理できる記憶機能、用途別アシスタントを追加しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 42
+    },
+    {
+      "title": "Claude Fable 5、日本で明日再開もサブスクで使えるのは「1週間限定」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/01/2000000148/",
+      "date": "2026-07-01T13:59:01+09:00",
+      "dateLabel": "07/01 13:59",
+      "desc": "米Anthropicは6月30日（現地時間、以下同）、提供再開を発表したAIモデル「Claude Fable 5」について、7月1日から日本を含む全世界のユーザーが使えるようになると発表した。ただしサブスクリプションプランで使えるのは7日まで。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "OpenAIがCodex用の新ハードウェアを予告",
+      "link": "https://gigazine.net/news/20260701-openai-codex-hardware/",
+      "date": "2026-07-01T12:58:00+09:00",
+      "dateLabel": "07/01 12:58",
+      "desc": "OpenAIがAIエージェント「Codex」に関連するデバイスのムービーをXに投稿しました。投稿には「7月15日」という日付と「お気に入りのCodexショートカットがアップグレードされます」というテキストが記載されており、2026年7月15日に何らかの追加情報が発表されると見られています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 50
+      "score": 42
     },
     {
       "title": "Anthropicが科学者向けAIアプリ「Claude Science」を公開、文献調査や図表作成を単一アプリで実行可能",
@@ -173,17 +217,6 @@
       "score": 42
     },
     {
-      "title": "中小企業のためのXDR「Symantec CBX」が誕生 これ1つで包括的セキュリティを実現",
-      "link": "https://ascii.jp/elem/000/004/414/4414675/?rss",
-      "date": "2026-07-01T11:00:00+09:00",
-      "dateLabel": "07/01 11:00",
-      "desc": "Interop Tokyo 2026のBroadcomブースでは、今年8月にリリース予定のXDRプラットフォーム「Symantec CBX」が大きく紹介されていた。中小企業でも運用できる本格的なXDRソリューションとして、Broadcomが買収したSymantecとCarbon Blackのテクノロジーを統合し、そこに最新のAI技術も追加して提供されるクラウ",
-      "img": "https://ascii.jp/img/2026/06/30/4491589/s/80fc3737f6ee2a52.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 42
-    },
-    {
       "title": "日本のIPO件数はわずか18件で15年ぶりの低水準を記録、日本にAI・データセンター・半導体関連のスタートアップが不足していることが一因",
       "link": "https://gigazine.net/news/20260630-japan-ipo-fall-15-year-low/",
       "date": "2026-06-30T20:00:00+09:00",
@@ -192,17 +225,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "「従来のモデルルーティングはクソ」 コスト35％減で最先端モデルの性能を維持する「Devin Fusion」発表",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2606/30/2000000140/",
-      "date": "2026-06-30T13:17:34+09:00",
-      "dateLabel": "06/30 13:17",
-      "desc": "コーディングエージェント「Devin」などを提供するCognitionは、複数のAIモデルを使い分けてコーディングするマルチモデルハーネス「Devin Fusion」を発表。高コスパモデルを組み合わせることで、フロンティアモデル並みの性能を、41％低いコストで維持できるという。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -217,69 +239,47 @@
       "score": 42
     },
     {
-      "title": "パナソニックが200Vの電気衣類乾燥機 乾太くんの強力ライバルに",
-      "link": "https://ascii.jp/elem/000/004/415/4415050/?rss",
-      "date": "2026-07-01T11:45:00+09:00",
-      "dateLabel": "07/01 11:45",
-      "desc": "パナソニックは7月1日、屋外排気式の電気衣類乾燥機「Solaire（ソレイル）」を発表した。",
-      "img": "https://ascii.jp/img/2026/07/01/4492238/s/3a301c0b895f9b7f.jpg",
+      "title": "Sakana AIはなぜ「Fugu」の基盤にGoogle Cloudを選んだのか 「元DeepMindだから」だけじゃない",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/01/2000000149/",
+      "date": "2026-07-01T16:52:21+09:00",
+      "dateLabel": "07/01 16:52",
+      "desc": "Sakana AIはマルチエージェントシステム「Sakana Fugu」の運用基盤に、Google Cloudの「Gemini Enterprise Agent Platform」を採用した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "Mistralが自動定理証明向けAI「Leanstral 1.5」リリース、Lean 4の証明作業を支援",
+      "link": "https://gigazine.net/news/20260701-mistral-leanstral-1-5/",
+      "date": "2026-07-01T16:05:00+09:00",
+      "dateLabel": "07/01 16:05",
+      "desc": "Mistral AIが数学の証明やプログラムの正しさを機械的に確かめる作業を支援するAIモデル「Leanstral 1.5」を2026年6月30日に公開しました。Leanstral 1.5は形式証明ツール「Lean 4」向けの自動定理証明と自動形式化に最適化されたモデルで、Mistral AIのLabs枠で無料利用できると案内されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "Zoom、AIで会議から提案書まで自動作成「AI Productivity Suite」を提供開始",
+      "link": "https://ascii.jp/elem/000/004/415/4415264/?rss",
+      "date": "2026-07-01T15:00:00+09:00",
+      "dateLabel": "07/01 15:00",
+      "desc": "Zoomは、会議やチャットの内容からスライド、提案書、レポート、スプレッドシートをAIで自動生成する「AI Productivity Suite」の提供を開始。日本でも利用可能で、資料作成業務の効率化を支援します。",
+      "img": "https://ascii.jp/img/2026/07/01/4492374/s/06f8a7f64f103dfe.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
     },
     {
-      "title": "ミクシィが動画生成AIのRunwayと戦略的パートナーシップを締結、すでにモンストの映像制作などでRunwayのAIを使用",
-      "link": "https://gigazine.net/news/20260701-mixi-runway-strategic-partnership/",
-      "date": "2026-07-01T11:12:00+09:00",
-      "dateLabel": "07/01 11:12",
-      "desc": "MIXIが動画生成AIサービスの展開で知られるAI企業「Runway」との戦略的パートナーシップ締結を発表しました。 続きを読む...",
+      "title": "OpenAIのエンジニアがAIの推論コストを半分以下に削減する方法を見つけたとの報道",
+      "link": "https://gigazine.net/news/20260701-openai-discovers-cut-inference-costs-half/",
+      "date": "2026-07-01T15:00:00+09:00",
+      "dateLabel": "07/01 15:00",
+      "desc": "AIモデルを大規模に提供する企業にとって課題となっているのが、ユーザーの入力に応じてAIモデルが出力を生成するプロセスにかかる推論コストです。新たに、OpenAIのエンジニアたちが「推論コストを半分以下に削減する方法を見つけた」と語ったと、海外メディアのThe Informationが報じました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "キーボード入力時の脳の動きから打った文章を割り出す技術、Metaが発表 手術不要、“埋め込み式”に迫る",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/01/news063.html",
-      "date": "2026-07-01T11:05:00+09:00",
-      "dateLabel": "07/01 11:05",
-      "desc": "米Metaが、手術を伴わずに脳の活動を文章へ変換する研究「Brain2Qwerty v2」を発表した。頭部に装着する装置で脳の信号を読み取り、人がキーボードへ入力した文章をリアルタイムで解読する。脳の病気で話す力を失った人の意思疎通を支える技術として、学習用のコードも公開した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "米政府「Fable 5／Mythos 5」の輸出規制解除 Anthropic「明日からアクセス回復」",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/01/2000000146/",
-      "date": "2026-07-01T09:59:03+09:00",
-      "dateLabel": "07/01 09:59",
-      "desc": "「ユーザーの辛抱に感謝するとともに、モデルの再展開に協力いただいたすべての方々に感謝する」",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "AIで“ゲームキャラの出産二次創作”を何千回と生成する人も……ChatGPTの会話57万件から見えたヘビーな利用実態",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/01/news027.html",
-      "date": "2026-07-01T08:00:00+09:00",
-      "dateLabel": "07/01 08:00",
-      "desc": "米ワシントン大学などに所属する研究者らが発表した論文「AI Fiction in the Wild」は、AIチャットとの会話データを分析し、ユーザーがAIを使ってどれだけフィクションを生成しているのかを調べた研究報告だ。",
-      "img": "",
-      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Windows上でLinuxコンテナが動く「WSL Containers」がパブリックプレビュー。Windowsファイルへのアクセスが2倍高速に",
-      "link": "https://www.publickey1.jp/blog/26/windowslinuxwsl_containerswindows2.html",
-      "date": "2026-07-01T00:45:51+09:00",
-      "dateLabel": "07/01 00:45",
-      "desc": "マイクロソフトは、WSL（Windows Subsystem for Linux）の新機能としてWindows上でLinuxコンテナが動く「WSL Containers」のパブリックプレビューを公開しました。 WindowsにはWindow...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AI全般",
       "score": 34
     }
   ]
