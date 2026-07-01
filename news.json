@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-01T20:51:04.434649+09:00",
-  "generatedLabel": "2026/07/01 20:51",
+  "generatedAt": "2026-07-01T23:10:53.842516+09:00",
+  "generatedLabel": "2026/07/01 23:10",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 60,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 10
+      "items": 9
     },
     {
       "source": "AINOW",
@@ -151,17 +151,6 @@
       "score": 50
     },
     {
-      "title": "中国のオープンウェイトモデル「GLM-5.2」が脆弱性検出ベンチマークでClaude Codeを上回る",
-      "link": "https://gigazine.net/news/20260630-glm-5-2-beats-claude-cyber-benchmarks/",
-      "date": "2026-06-30T23:00:00+09:00",
-      "dateLabel": "06/30 23:00",
-      "desc": "中国のAI企業であるZ.aiが2026年6月に発表したオープンウェイトのAIモデル「GLM-5.2」が、脆弱(ぜいじゃく)性の検出精度を測定するベンチマークにおいて、AnthropicのClaude Codeを上回ったと報告されました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
       "title": "Claude Codeがユーザーの接続経路を「日付の書式を変更する」という手法で記録していたとの指摘、「2026-06-30」「2026/06/30」といった書式の違いで見分ける仕組み",
       "link": "https://gigazine.net/news/20260701-claude-code-prompt-steganography/",
       "date": "2026-07-01T19:00:00+09:00",
@@ -170,17 +159,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "ゲットワークス、水冷GPUサーバー用コンテナ型データセンターの需要拡大に対応すべく、水冷設備を中心とした国内外の技術者育成プログラムを開始",
-      "link": "https://ascii.jp/elem/000/004/415/4415530/?rss",
-      "date": "2026-07-01T18:00:00+09:00",
-      "dateLabel": "07/01 18:00",
-      "desc": "ゲットワークス、水冷GPUサーバー用コンテナ型データセンターの需要拡大に対応すべく、水冷設備を中心とした国内外の技術者育成プログラムを開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
       "score": 42
     },
     {
@@ -239,6 +217,17 @@
       "score": 42
     },
     {
+      "title": "中国のオープンウェイトモデル「GLM-5.2」が脆弱性検出ベンチマークでClaude Codeを上回る",
+      "link": "https://gigazine.net/news/20260630-glm-5-2-beats-claude-cyber-benchmarks/",
+      "date": "2026-06-30T23:00:00+09:00",
+      "dateLabel": "06/30 23:00",
+      "desc": "中国のAI企業であるZ.aiが2026年6月に発表したオープンウェイトのAIモデル「GLM-5.2」が、脆弱(ぜいじゃく)性の検出精度を測定するベンチマークにおいて、AnthropicのClaude Codeを上回ったと報告されました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "クアルコムがPythonライクな新言語「Mojo」開発元のModular社買収を発表。AIデータセンター市場へ本格参入",
       "link": "https://www.publickey1.jp/blog/26/pythonmojomodularai.html",
       "date": "2026-06-30T00:33:20+09:00",
@@ -248,6 +237,28 @@
       "src": "Publickey",
       "cat": "半導体/GPU",
       "score": 42
+    },
+    {
+      "title": "DNSを基盤にAIエージェントに信頼できる名前を与える「Agent Name Service（ANS）」、立ち上げ意向をLinux Foundationが発表",
+      "link": "https://www.publickey1.jp/blog/26/dnsaiagent_name_serviceanslinux_foundation.html",
+      "date": "2026-07-02T00:04:00+09:00",
+      "dateLabel": "07/02 00:04",
+      "desc": "Linux Foundationは、既存のドメインネームシステム（DNS）基盤を拡張してインターネット上で稼働するAIエージェントに信頼できる識別子としての名前などを提供する新しいオープンソース標準「Agent Name Service（A...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "20万円未満のゲーミングPCが欲しい？ だったらRTX 5060搭載の「OMEN 16L」はどうでしょう？",
+      "link": "https://ascii.jp/elem/000/004/415/4415523/?rss",
+      "date": "2026-07-01T22:30:00+09:00",
+      "dateLabel": "07/01 22:30",
+      "desc": "Amazon.co.jpにて、HPのゲーミングデスクトップPC「OMEN 16L」が販売中だ。AMD「Ryzen 5 8400F」とNVIDIA「GeForce RTX 5060」を搭載したモデルで、価格は19万9800円。",
+      "img": "https://ascii.jp/img/2026/07/01/4492655/s/30eff08ce469b001.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
     },
     {
       "title": "Aile The Shota、新曲「ONGAKU」が7月8日(水)リリース決定",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Sakana AIはなぜ「Fugu」の基盤にGoogle Cloudを選んだのか 「元DeepMindだから」だけじゃない",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/01/2000000149/",
-      "date": "2026-07-01T16:52:21+09:00",
-      "dateLabel": "07/01 16:52",
-      "desc": "Sakana AIはマルチエージェントシステム「Sakana Fugu」の運用基盤に、Google Cloudの「Gemini Enterprise Agent Platform」を採用した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 34
     }
   ]
