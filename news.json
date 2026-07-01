@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-02T06:17:47.606920+09:00",
-  "generatedLabel": "2026/07/02 06:17",
+  "generatedAt": "2026-07-02T08:02:35.666564+09:00",
+  "generatedLabel": "2026/07/02 08:02",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 57,
+  "candidates": 61,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 19
+      "items": 20
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 2
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 17
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -151,6 +151,39 @@
       "score": 50
     },
     {
+      "title": "棚卸特化型SaaS 「ラクだな」 正式リリース、写真とAIで棚卸業務を支援",
+      "link": "https://ascii.jp/elem/000/004/415/4415532/?rss",
+      "date": "2026-07-02T07:00:00+09:00",
+      "dateLabel": "07/02 07:00",
+      "desc": "株式会社ソトバコは6月26日に、写真とAIを活用することで棚卸を完了するという棚卸特化型SaaS「ラクだな」の正式リリースを発表した。スマートフォンで商品を撮影し数量を入力することで、これまで現場や事務所で費やしていた棚卸作業の手間と時間の削減に貢献するという。料金は月額9,800円／拠点（税抜）、初期費用は0円とのこと。",
+      "img": "https://ascii.jp/img/2026/07/01/4492659/s/1b5f1dad860d1153.png",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "法人向け健康経営支援サービス「Welly Compass」提供開始、健康データの一元管理から施策までを支援",
+      "link": "https://ascii.jp/elem/000/004/415/4415504/?rss",
+      "date": "2026-07-02T07:00:00+09:00",
+      "dateLabel": "07/02 07:00",
+      "desc": "issin株式会社は6月29日に、法人向け健康経営支援サービス「Welly Compass」の提供開始を発表した。同サービスは、ストレスチェックをオンラインで実施できるほか、健診データなど企業が保有する健康関連データを取り込み、AIが組織の健康状態を自動で数値化するという。データを可視化するだけでなく、次に取るべきアクションまで支援するという。",
+      "img": "https://ascii.jp/img/2026/07/01/4492527/s/11431a9ec5cf28e3.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 42
+    },
+    {
+      "title": "アンソロピックが「Claude Science」、創薬に照準",
+      "link": "https://ascii.jp/elem/000/004/415/4415540/?rss",
+      "date": "2026-07-02T06:31:09+09:00",
+      "dateLabel": "07/02 06:31",
+      "desc": "アンソロピックは6月30日、科学研究を自律的に支援するAI製品「Claude Science」を発表した。理論上はあらゆる分野に使えるが、実際の力点は創薬にある。これまで科学向けAIを牽引してきたのは、ノーベル賞級の成果を重ねたグーグル・ディープマインドだったが、その主役の座をアンソロピックがうかがう。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "Claude Codeがユーザーの接続経路を「日付の書式を変更する」という手法で記録していたとの指摘、「2026-06-30」「2026/06/30」といった書式の違いで見分ける仕組み",
       "link": "https://gigazine.net/news/20260701-claude-code-prompt-steganography/",
       "date": "2026-07-01T19:00:00+09:00",
@@ -217,17 +250,6 @@
       "score": 42
     },
     {
-      "title": "中国のオープンウェイトモデル「GLM-5.2」が脆弱性検出ベンチマークでClaude Codeを上回る",
-      "link": "https://gigazine.net/news/20260630-glm-5-2-beats-claude-cyber-benchmarks/",
-      "date": "2026-06-30T23:00:00+09:00",
-      "dateLabel": "06/30 23:00",
-      "desc": "中国のAI企業であるZ.aiが2026年6月に発表したオープンウェイトのAIモデル「GLM-5.2」が、脆弱(ぜいじゃく)性の検出精度を測定するベンチマークにおいて、AnthropicのClaude Codeを上回ったと報告されました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "クアルコムがPythonライクな新言語「Mojo」開発元のModular社買収を発表。AIデータセンター市場へ本格参入",
       "link": "https://www.publickey1.jp/blog/26/pythonmojomodularai.html",
       "date": "2026-06-30T00:33:20+09:00",
@@ -239,47 +261,25 @@
       "score": 42
     },
     {
-      "title": "DNSを基盤にAIエージェントに信頼できる名前を与える「Agent Name Service（ANS）」、立ち上げ意向をLinux Foundationが発表",
-      "link": "https://www.publickey1.jp/blog/26/dnsaiagent_name_serviceanslinux_foundation.html",
-      "date": "2026-07-02T00:04:00+09:00",
-      "dateLabel": "07/02 00:04",
-      "desc": "Linux Foundationは、既存のドメインネームシステム（DNS）基盤を拡張してインターネット上で稼働するAIエージェントに信頼できる識別子としての名前などを提供する新しいオープンソース標準「Agent Name Service（A...",
+      "title": "Anthropicの営業はAIエージェントをこう使う！ 日本法人メンバーが明かす手の内",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/02/news017.html",
+      "date": "2026-07-02T07:00:00+09:00",
+      "dateLabel": "07/02 07:00",
+      "desc": "Anthropicの社員自身はどのようにAIエージェントを業務に役立てているのか──「AWS Summit Japan 2026」のAnthropicブースで、日本法人で営業担当を務めるイブラギモブ・シャボズさんが「自身の業務で使うAIエージェント」をテーマに講演した。",
       "img": "",
-      "src": "Publickey",
+      "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 34
     },
     {
-      "title": "20万円未満のゲーミングPCが欲しい？ だったらRTX 5060搭載の「OMEN 16L」はどうでしょう？",
-      "link": "https://ascii.jp/elem/000/004/415/4415523/?rss",
-      "date": "2026-07-01T22:30:00+09:00",
-      "dateLabel": "07/01 22:30",
-      "desc": "Amazon.co.jpにて、HPのゲーミングデスクトップPC「OMEN 16L」が販売中だ。AMD「Ryzen 5 8400F」とNVIDIA「GeForce RTX 5060」を搭載したモデルで、価格は19万9800円。",
-      "img": "https://ascii.jp/img/2026/07/01/4492655/s/30eff08ce469b001.jpg",
+      "title": "OpenAIやグーグルを使い分ける、“AIのMVNO”が存在感",
+      "link": "https://ascii.jp/elem/000/004/415/4415274/?rss",
+      "date": "2026-07-02T07:00:00+09:00",
+      "dateLabel": "07/02 07:00",
+      "desc": "AIモデルを自社開発せず、OpenAIやグーグルなどを使い分ける“AIのMVNO”型企業が、資料作成需要をつかみ存在感を高めている。",
+      "img": "https://ascii.jp/img/2026/07/01/4492412/s/a5e1ccc128a16429.jpg",
       "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "ソフトバンクG、OpenAIに1兆6273億円の追加出資 第3弾は10月に",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/01/news139.html",
-      "date": "2026-07-01T18:10:00+09:00",
-      "dateLabel": "07/01 18:10",
-      "desc": "ソフトバンクグループは7月1日、米OpenAIへの総額300億ドル（約4兆6743億円）の追加出資のうち、第2弾となる100億ドル（同1兆6273億円）を実行したと発表した。残る第3弾の100億ドルは10月1日に予定する。",
-      "img": "",
-      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Sakana AIはなぜ「Fugu」の基盤にGoogle Cloudを選んだのか 「元DeepMindだから」だけじゃない",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/01/2000000149/",
-      "date": "2026-07-01T16:52:21+09:00",
-      "dateLabel": "07/01 16:52",
-      "desc": "Sakana AIはマルチエージェントシステム「Sakana Fugu」の運用基盤に、Google Cloudの「Gemini Enterprise Agent Platform」を採用した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 34
     }
   ]
