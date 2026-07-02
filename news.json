@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-03T05:54:20.564942+09:00",
-  "generatedLabel": "2026/07/03 05:54",
+  "generatedAt": "2026-07-03T06:59:23.017684+09:00",
+  "generatedLabel": "2026/07/03 06:59",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -228,17 +228,6 @@
       "score": 34
     },
     {
-      "title": "Claude Codeがユーザーの接続経路を「日付の書式を変更する」という手法で記録していたとの指摘、「2026-06-30」「2026/06/30」といった書式の違いで見分ける仕組み",
-      "link": "https://gigazine.net/news/20260701-claude-code-prompt-steganography/",
-      "date": "2026-07-01T19:00:00+09:00",
-      "dateLabel": "07/01 19:00",
-      "desc": "AnthropicのAIコーディングツール「Claude Code」が送信するシステムプロンプト内の日付文に目立たない文字の違いを埋め込み、APIの接続先やタイムゾーンに応じてリクエストに目印を付けていたとの調査結果が公開されました。調査した個人開発者のThereallo氏は仕組みを「プロンプト・ステガノグラフィー」と表現しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "Claude Fable 5、日本で明日再開もサブスクで使えるのは「1週間限定」",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/01/2000000148/",
       "date": "2026-07-01T13:59:01+09:00",
@@ -279,6 +268,17 @@
       "desc": "経理・人事・総務などバックオフィス部門で、経営層から「AIエージェントを導入できないか」と相談され、何から着手すればよいかわからず困っている担当者は少なくありません。 バックオフィスAIエージェントとは、請求書処理や勤怠... The post バックオフィスAIエージェントとは？できることとおすすめ7選を解説 first appeared on AI専門ニ",
       "img": "",
       "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "オープンソースのゲームエンジン「Godot」がAI製コードを今後受け付けないことを決定、AIを多用するユーザーが自分のコードを十分に理解して修正できるとは限らないため",
+      "link": "https://gigazine.net/news/20260702-godot-ban-ai/",
+      "date": "2026-07-02T20:40:00+09:00",
+      "dateLabel": "07/02 20:40",
+      "desc": "「Slay the Spire 2」や「Brotato」などのゲームを支えるオープンソースのゲームエンジン「Godot」が、AIで生成した大量のプルリクエストに悩まされていることを理由に、今後は自律型AIエージェントやバイブコーディングによるプルリクエストを受け付けないという判断を下しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 26
     }
