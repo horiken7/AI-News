@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-03T06:59:23.017684+09:00",
-  "generatedLabel": "2026/07/03 06:59",
+  "generatedAt": "2026-07-03T08:08:37.849366+09:00",
+  "generatedLabel": "2026/07/03 08:08",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -74,15 +74,15 @@
       "score": 74
     },
     {
-      "title": "「Claude Sonnet 5」新登場 低コストでOpus 4.8に匹敵とうたうも、タスク当たりコスト増加との評価も",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/01/2000000147/",
-      "date": "2026-07-01T12:18:58+09:00",
-      "dateLabel": "07/01 12:18",
-      "desc": "Anthropicが新モデル「Claude Sonnet 5」を発表した。上位の「Opus 4.8」に迫る性能を低価格で実現するとうたう。一方、第三者機関の評価ではトークン使用量が多く、1タスク当たりコストはOpus 4.8を上回るとの指摘もある。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 50
+      "title": "AI動画マニュアル「TAGURU」、自動作成機能アップデートと現場向けフリーワード手順動画検索機能リリース",
+      "link": "https://ascii.jp/elem/000/004/415/4415865/?rss",
+      "date": "2026-07-03T07:00:00+09:00",
+      "dateLabel": "07/03 07:00",
+      "desc": "RUN.EDGE株式会社は7月1日に、同社が提供するAI動画マニュアル「TAGURU（タグル）」において、マニュアル自動作成機能の大幅アップデート実施と、現場視聴ユーザーが必要な手順動画をフリーワードで検索できる「現場向けフリーワード手順動画検索機能」のリリースを発表した。",
+      "img": "https://ascii.jp/img/2026/07/02/4493341/s/aa979684d2f1b9ab.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 42
     },
     {
       "title": "【生成AI初心者向け】ChatGPTやGeminiをもっと便利に使おう！7/24（金）無料セミナー「生成AIの基本とプロンプト入門」を開催!!",
@@ -151,6 +151,28 @@
       "score": 36
     },
     {
+      "title": "製造業における技能継承と知識共有を支援する「製造現場ナレッジAI」提供開始",
+      "link": "https://ascii.jp/elem/000/004/415/4415858/?rss",
+      "date": "2026-07-03T07:00:00+09:00",
+      "dateLabel": "07/03 07:00",
+      "desc": "株式会社言語理解研究所は7月1日に、生成AIによって電子マニュアルを活用しやすくするというサービス「製造現場ナレッジAI」の提供を開始。PDFやExcel、図表などで記載された設計書や手順書、点検記録などの情報を意味や関係性を踏まえて構造化し、生成AIが活用しやすいデータに変換することで、技能者が必要な情報に手間なくたどり着ける環境を提供する。製造現場におけ",
+      "img": "https://ascii.jp/img/2026/07/02/4493313/s/02e63a174bf1888c.png",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "Qualcomm製IoT機器向けLinuxが2.0に進化、AIカメラから産業用PCまで1つの基盤で開発可能に",
+      "link": "https://gigazine.net/news/20260703-qualcomm-linux-2-0/",
+      "date": "2026-07-03T07:00:00+09:00",
+      "dateLabel": "07/03 07:00",
+      "desc": "2026年6月30日に、Qualcomm製IoT向けSoCを搭載した機器向けのLinuxソリューション「Qualcomm Linux 2.0」の一般提供が始まりました。Qualcomm Linux 2.0は2024年に発表されたQualcomm Linuxの大型アップデートに当たるもので、複数のSoCや製品で使える共通のLinux基盤、オープンな開発体制、本",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "8.8型タブレットにSnapdragon 8 Elite Gen 5搭載。Lenovo「Legion Tab」が106,300円",
       "link": "https://ascii.jp/elem/000/004/415/4415593/?rss",
       "date": "2026-07-02T20:00:00+09:00",
@@ -206,37 +228,15 @@
       "score": 34
     },
     {
-      "title": "AIに「相手に電気ショックを与えろ」と命じ続けたらボタンを押すのか？ 11のLLMで“ミルグラム実験” 抵抗できたのは……",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/02/news029.html",
-      "date": "2026-07-02T08:00:00+09:00",
-      "dateLabel": "07/02 08:00",
-      "desc": "エストニアとフィリピンに住む独立系研究者らが発表した論文「Open-source LLMs administer maximum electric shocks in a Milgram-like obedience experiment」は、AIは権威からの残酷な命令を拒絶し続けられるのかを検証した研究報告だ。",
+      "title": "え、21日で37テラも？ 高性能SSDを食いつぶす「あのAIツール」にご用心：886th Lap",
+      "link": "https://kn.itmedia.co.jp/kn/articles/2607/03/news041.html",
+      "date": "2026-07-03T07:00:00+09:00",
+      "dateLabel": "07/03 07:00",
+      "desc": "AIツールを使っていただけなのに、SSDの寿命が想像以上の速さで縮んでいた。そんな問題が明らかになった。原因は、ツールの実装上の不具合だ。もし、そのAIツールを使っているなら、一度確認しておきたい。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Anthropicの営業はAIエージェントをこう使う！ 日本法人メンバーが明かす手の内",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/02/news017.html",
-      "date": "2026-07-02T07:00:00+09:00",
-      "dateLabel": "07/02 07:00",
-      "desc": "Anthropicの社員自身はどのようにAIエージェントを業務に役立てているのか──「AWS Summit Japan 2026」のAnthropicブースで、日本法人で営業担当を務めるイブラギモブ・シャボズさんが「自身の業務で使うAIエージェント」をテーマに講演した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Claude Fable 5、日本で明日再開もサブスクで使えるのは「1週間限定」",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/01/2000000148/",
-      "date": "2026-07-01T13:59:01+09:00",
-      "dateLabel": "07/01 13:59",
-      "desc": "米Anthropicは6月30日（現地時間、以下同）、提供再開を発表したAIモデル「Claude Fable 5」について、7月1日から日本を含む全世界のユーザーが使えるようになると発表した。ただしサブスクリプションプランで使えるのは7日まで。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
+      "cat": "AI実装",
+      "score": 26
     },
     {
       "title": "ソフトウェアエンジニアの仕事は「ループを書くこと」になる 内側ループと外側ループ（ハーネス）入門",
