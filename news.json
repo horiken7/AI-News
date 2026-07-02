@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-02T15:30:51.310769+09:00",
-  "generatedLabel": "2026/07/02 15:30",
+  "generatedAt": "2026-07-02T18:52:23.922724+09:00",
+  "generatedLabel": "2026/07/02 18:52",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 59,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -63,39 +63,6 @@
   ],
   "articles": [
     {
-      "title": "ASUSのRTX 5090搭載「ProArt」登場 小型PC向け2.5スロット設計を採用",
-      "link": "https://ascii.jp/elem/000/004/415/4415595/?rss",
-      "date": "2026-07-02T13:00:00+09:00",
-      "dateLabel": "07/02 13:00",
-      "desc": "ASUS JAPANが、ProArtブランドの新型ビデオカード「ProArt GeForce RTX 5090 OC Edition」を発表した。NVIDIA GeForce RTX 5090搭載、2.5スロットのコンパクト設計、USB Type-C対応、相変化GPUサーマルパッドや大型ヴェイパーチャンバーを採用し、7月3日に発売する。",
-      "img": "https://ascii.jp/img/2026/07/02/4492872/s/f39d685c05bae423.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 58
-    },
-    {
-      "title": "エレコム、Red Dot Design Award 2026受賞 モバイルバッテリーとIST PROが高評価",
-      "link": "https://ascii.jp/elem/000/004/415/4415655/?rss",
-      "date": "2026-07-02T12:45:00+09:00",
-      "dateLabel": "07/02 12:45",
-      "desc": "エレコムがナトリウムイオン電池モバイルバッテリーとトラックボール「IST PRO」でRed Dot Design Award 2026を受賞したと発表した。長寿命・高安全性の電池採用モデルと、10ボタン搭載の高性能トラックボールが評価された内容だ。",
-      "img": "https://ascii.jp/img/2026/07/02/4492946/s/a562aeadc012e1c9.jpg",
-      "src": "ASCII.jp",
-      "cat": "規制/安全",
-      "score": 50
-    },
-    {
-      "title": "Stella AI、Anthropic社の最新モデル「Claude Sonnet 5」「Claude Sonnet 4.5」を追加",
-      "link": "https://ascii.jp/elem/000/004/415/4415766/?rss",
-      "date": "2026-07-02T12:04:44+09:00",
-      "dateLabel": "07/02 12:04",
-      "desc": "Stella AI、Anthropic社の最新モデル「Claude Sonnet 5」「Claude Sonnet 4.5」を追加",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
       "title": "「Claude Sonnet 5」新登場 低コストでOpus 4.8に匹敵とうたうも、タスク当たりコスト増加との評価も",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/01/2000000147/",
       "date": "2026-07-01T12:18:58+09:00",
@@ -107,14 +74,36 @@
       "score": 50
     },
     {
-      "title": "SORACOM、IoT向け「Connectivity Hypervisor」提供開始 SGP.32対応SIMで通信を最適化",
-      "link": "https://ascii.jp/elem/000/004/415/4415749/?rss",
-      "date": "2026-07-02T15:00:00+09:00",
-      "dateLabel": "07/02 15:00",
-      "desc": "ソラコムは、新たなIoT通信基盤「SORACOM Connectivity Hypervisor」の商用提供を開始し、長期的な通信運用の柔軟性を実現。SGP.32対応IoT SIMによるリモートプロビジョニングと通信プロファイルの最適化を可能にする。",
-      "img": "https://ascii.jp/img/2026/07/02/4493056/s/224f1b755bbeb1e7.png",
+      "title": "復活した「Fable 5」 米政府からのオーダーに対して、Anthropicはどう対策したのか",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/02/news095.html",
+      "date": "2026-07-02T16:40:00+09:00",
+      "dateLabel": "07/02 16:40",
+      "desc": "米AnthropicのAIモデル「Claude Fable 5」が世界的にサービスを再開した。Anthropicは復活に向けてどういった経緯と対策を行ったのか、モデル再開にあわせて詳細を公開した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "Amazon広告の戦略立案から入札実行まで、対話しながら完結する時代へ--Picaro.AI、AIエージェント機能を正式公開",
+      "link": "https://ascii.jp/elem/000/004/415/4415880/?rss",
+      "date": "2026-07-02T16:36:03+09:00",
+      "dateLabel": "07/02 16:36",
+      "desc": "Amazon広告の戦略立案から入札実行まで、対話しながら完結する時代へ--Picaro.AI、AIエージェント機能を正式公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "GitHub CopilotがVS Code内でブラウザ操作に対応、AIエージェントがウェブアプリを開いて検証可能に",
+      "link": "https://gigazine.net/news/20260702-github-copilot-browser-use/",
+      "date": "2026-07-02T16:30:00+09:00",
+      "dateLabel": "07/02 16:30",
+      "desc": "GitHubがVisual Studio Code(VS Code)向けGitHub Copilotのブラウザ操作ツールを一般提供したと発表しました。これはすでにプレビュー版として提供されていた機能で、GitHub CopilotのAIエージェントがVS Code内でブラウザを開き、ウェブアプリを操作しながら動作確認できるようになります。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -140,17 +129,6 @@
       "score": 42
     },
     {
-      "title": "“Juniper・MistとArubaの融合”でCiscoに対抗 HPE Networkingが語る「AI時代のあるべき姿」",
-      "link": "https://ascii.jp/elem/000/004/415/4415658/?rss",
-      "date": "2026-07-02T12:45:00+09:00",
-      "dateLabel": "07/02 12:45",
-      "desc": "6月に米国で開催された「HPE Discover 2026」において、Hewlett Packard Enterprise（HPE）は、買収したJuniperやArubaの技術を融合させた「自律型ネットワーク（Self-Driving Networks）」の製品群を多数発表した。",
-      "img": "https://ascii.jp/img/2026/07/02/4492955/s/02fe016926d938d1.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 42
-    },
-    {
       "title": "Claude Codeがユーザーの接続経路を「日付の書式を変更する」という手法で記録していたとの指摘、「2026-06-30」「2026/06/30」といった書式の違いで見分ける仕組み",
       "link": "https://gigazine.net/news/20260701-claude-code-prompt-steganography/",
       "date": "2026-07-01T19:00:00+09:00",
@@ -159,17 +137,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "「Claude Fable 5」が帰ってくる 「Mythos 5」含む輸出規制解除へ Anthropic発表",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/01/news068.html",
-      "date": "2026-07-01T10:50:00+09:00",
-      "dateLabel": "07/01 10:50",
-      "desc": "Anthropicは6月30日（現地時間）、「Claude Fable 5」「Mythos 5」への輸出規制が解除されたと明らかにした。7月1日からアクセスを回復し、詳細は近日中に発表するとしている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
       "score": 42
     },
     {
@@ -182,6 +149,50 @@
       "src": "Publickey",
       "cat": "半導体/GPU",
       "score": 42
+    },
+    {
+      "title": "ラブライブ声優も来た！KDDI、池袋にアニメと最新技術が融合した新拠点「POP Culture Style IKEBUKURO」をオープン！",
+      "link": "https://ascii.jp/elem/000/004/415/4415786/?rss",
+      "date": "2026-07-02T17:00:00+09:00",
+      "dateLabel": "07/02 17:00",
+      "desc": "KDDIは7月3日、池袋のau Style2階にアニメと最新技術を融合した「POP Culture Style IKEBUKURO」をオープンします。AIバーチャル店員や感情認識サイネージなどで推し活をアップデート。第1弾はラブライブ！等とコラボし、声優登壇の発表会も行われました。",
+      "img": "https://ascii.jp/img/2026/07/02/4493240/s/3489fba4601986c6.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "【99万円で買えるフェラーリ】世界限定4999台！ HP＆フェラーリのノートPCはガジェット界の跳ね馬だった",
+      "link": "https://ascii.jp/elem/000/004/413/4413817/?rss",
+      "date": "2026-07-02T17:00:00+09:00",
+      "dateLabel": "07/02 17:00",
+      "desc": "日本HPが発表した「HP Limited Edition Scuderia Ferrari AI PC」は、Ferrari Design Studioと2年もの歳月をかけて共同開発した、まさに執念の結晶です。",
+      "img": "https://ascii.jp/img/2026/06/30/4491535/s/93a11d32208b0bec.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "AI集客サービス「DOT Scope」正式リリース",
+      "link": "https://ascii.jp/elem/000/004/415/4415867/?rss",
+      "date": "2026-07-02T16:28:09+09:00",
+      "dateLabel": "07/02 16:28",
+      "desc": "AI集客サービス「DOT Scope」正式リリース",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "Google Chromeに433件の脆弱性 AI影響か、修正数がすさまじいことに",
+      "link": "https://ascii.jp/elem/000/004/415/4415788/?rss",
+      "date": "2026-07-02T16:15:00+09:00",
+      "dateLabel": "07/02 16:15",
+      "desc": "グーグルは6月30日、デスクトップおよびAndroid版「Google Chrome」のアップデートを公開した。深刻度「重大」を含む433件の脆弱性を修正している。",
+      "img": "https://ascii.jp/img/2026/07/02/4493254/s/a3fb42abbe4b503f.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "AIがウェブサイトに訪問するたびに課金できるシステム「Monetization Gateway」をCloudflareが発表",
@@ -250,37 +261,26 @@
       "score": 34
     },
     {
-      "title": "ソフトバンクG、OpenAIに1兆6273億円の追加出資 第3弾は10月に",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/01/news139.html",
-      "date": "2026-07-01T18:10:00+09:00",
-      "dateLabel": "07/01 18:10",
-      "desc": "ソフトバンクグループは7月1日、米OpenAIへの総額300億ドル（約4兆6743億円）の追加出資のうち、第2弾となる100億ドル（同1兆6273億円）を実行したと発表した。残る第3弾の100億ドルは10月1日に予定する。",
+      "title": "Claude Fable 5、日本で明日再開もサブスクで使えるのは「1週間限定」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/01/2000000148/",
+      "date": "2026-07-01T13:59:01+09:00",
+      "dateLabel": "07/01 13:59",
+      "desc": "米Anthropicは6月30日（現地時間、以下同）、提供再開を発表したAIモデル「Claude Fable 5」について、7月1日から日本を含む全世界のユーザーが使えるようになると発表した。ただしサブスクリプションプランで使えるのは7日まで。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
     },
     {
-      "title": "Sakana AIはなぜ「Fugu」の基盤にGoogle Cloudを選んだのか 「元DeepMindだから」だけじゃない",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/01/2000000149/",
-      "date": "2026-07-01T16:52:21+09:00",
-      "dateLabel": "07/01 16:52",
-      "desc": "Sakana AIはマルチエージェントシステム「Sakana Fugu」の運用基盤に、Google Cloudの「Gemini Enterprise Agent Platform」を採用した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Mistralが自動定理証明向けAI「Leanstral 1.5」リリース、Lean 4の証明作業を支援",
-      "link": "https://gigazine.net/news/20260701-mistral-leanstral-1-5/",
-      "date": "2026-07-01T16:05:00+09:00",
-      "dateLabel": "07/01 16:05",
-      "desc": "Mistral AIが数学の証明やプログラムの正しさを機械的に確かめる作業を支援するAIモデル「Leanstral 1.5」を2026年6月30日に公開しました。Leanstral 1.5は形式証明ツール「Lean 4」向けの自動定理証明と自動形式化に最適化されたモデルで、Mistral AIのLabs枠で無料利用できると案内されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
+      "title": "VAIO PC本体が1万円オフに加え、Core 5・Core 7搭載モデルはさらにお得。VAIOストア サマーキャンペーン",
+      "link": "https://ascii.jp/elem/000/004/415/4415396/?rss",
+      "date": "2026-07-02T18:00:00+09:00",
+      "dateLabel": "07/02 18:00",
+      "desc": "VAIOストアで「VAIOストア サマーキャンペーン2026」を開催中。本体が1万円オフになるほか、Core 5・Core 7選択時はさらにお得。対象モデルにはVAIO SX12、SX14、S13、F14、F16をラインアップする。",
+      "img": "https://ascii.jp/img/2026/06/04/4478124/s/5f78f491dcf9ccc2.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     }
   ]
 }
