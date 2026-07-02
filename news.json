@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-02T08:02:35.666564+09:00",
-  "generatedLabel": "2026/07/02 08:02",
+  "generatedAt": "2026-07-02T11:12:45.004620+09:00",
+  "generatedLabel": "2026/07/02 11:12",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 61,
+  "candidates": 63,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 16
     },
     {
       "source": "CNET Japan",
@@ -118,67 +118,34 @@
       "score": 50
     },
     {
-      "title": "「Claude Fable 5」が帰ってくる 「Mythos 5」含む輸出規制解除へ Anthropic発表",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/01/news068.html",
-      "date": "2026-07-01T10:50:00+09:00",
-      "dateLabel": "07/01 10:50",
-      "desc": "Anthropicは6月30日（現地時間）、「Claude Fable 5」「Mythos 5」への輸出規制が解除されたと明らかにした。7月1日からアクセスを回復し、詳細は近日中に発表するとしている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
-      "score": 50
-    },
-    {
-      "title": "アメリカ政府がClaude Fable 5とClaude Mythos 5の規制を解除",
-      "link": "https://gigazine.net/news/20260701-claude-fable-mythos-5/",
-      "date": "2026-07-01T10:20:00+09:00",
-      "dateLabel": "07/01 10:20",
-      "desc": "アメリカ政府によるClaude Fable 5とClaude Mythos 5の規制が解除されたことが日本時間の2026年7月1日8時52分に発表されました。Anthropicが近日中にサービスを再開することを表明しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 50
-    },
-    {
-      "title": "Anthropic、科学研究向けAIワークベンチ「Claude Science」を発表──NVIDIAのBioNeMoツールキットと連携",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/01/2000000145/",
-      "date": "2026-07-01T09:54:25+09:00",
-      "dateLabel": "07/01 09:54",
-      "desc": "Anthropicは、科学者が計算研究を一貫して行えるAI実行環境「Claude Science」を発表した。データベースやツールを1つのインタフェースに統合し、文献分析から論文執筆、図表作成まで対応する。NVIDIAのツールキットとも連携し、機密データを外部に送信しない設計が特徴。",
-      "img": "",
-      "src": "ITmedia AI+",
+      "title": "コスト・人手不足・AI… ITインフラの悩みをオプテージが最新データセンターで解決",
+      "link": "https://ascii.jp/elem/000/004/414/4414366/?rss",
+      "date": "2026-07-02T11:00:00+09:00",
+      "dateLabel": "07/02 11:00",
+      "desc": "クラウドコストの高騰、運用人材不足、AI/GPUサーバー設置の電力要件……。ITインフラの運用をめぐって新たな課題が生まれている。Interop Tokyo 2026のオプテージブースでは、そうした課題を整理し、オプテージの最新データセンターやサービスがどう解決策になるのかを紹介していた。",
+      "img": "https://ascii.jp/img/2026/06/29/4490948/s/95a0a05105195d42.jpg",
+      "src": "ASCII.jp",
       "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
-      "title": "棚卸特化型SaaS 「ラクだな」 正式リリース、写真とAIで棚卸業務を支援",
-      "link": "https://ascii.jp/elem/000/004/415/4415532/?rss",
-      "date": "2026-07-02T07:00:00+09:00",
-      "dateLabel": "07/02 07:00",
-      "desc": "株式会社ソトバコは6月26日に、写真とAIを活用することで棚卸を完了するという棚卸特化型SaaS「ラクだな」の正式リリースを発表した。スマートフォンで商品を撮影し数量を入力することで、これまで現場や事務所で費やしていた棚卸作業の手間と時間の削減に貢献するという。料金は月額9,800円／拠点（税抜）、初期費用は0円とのこと。",
-      "img": "https://ascii.jp/img/2026/07/01/4492659/s/1b5f1dad860d1153.png",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
-      "title": "法人向け健康経営支援サービス「Welly Compass」提供開始、健康データの一元管理から施策までを支援",
-      "link": "https://ascii.jp/elem/000/004/415/4415504/?rss",
-      "date": "2026-07-02T07:00:00+09:00",
-      "dateLabel": "07/02 07:00",
-      "desc": "issin株式会社は6月29日に、法人向け健康経営支援サービス「Welly Compass」の提供開始を発表した。同サービスは、ストレスチェックをオンラインで実施できるほか、健診データなど企業が保有する健康関連データを取り込み、AIが組織の健康状態を自動で数値化するという。データを可視化するだけでなく、次に取るべきアクションまで支援するという。",
-      "img": "https://ascii.jp/img/2026/07/01/4492527/s/11431a9ec5cf28e3.png",
+      "title": "ASUS、2.5スロット設計の「ProArt GeForce RTX 5090 OC Edition」発売 小型でも高冷却を実現",
+      "link": "https://ascii.jp/elem/000/004/415/4415558/?rss",
+      "date": "2026-07-02T10:45:00+09:00",
+      "dateLabel": "07/02 10:45",
+      "desc": "ASUS JAPANが、ProArtブランド初のNVIDIA GeForce RTX 5090搭載ビデオカード「ProArt GeForce RTX 5090 OC Edition」を7月3日に発売する。2.5スロットのコンパクト設計と高性能冷却機構、USB Type-Cポートを備えたクリエイター向け上位モデルだ。",
+      "img": "https://ascii.jp/img/2026/07/02/4492852/s/673959684c42610a.png",
       "src": "ASCII.jp",
-      "cat": "AI全般",
+      "cat": "半導体/GPU",
       "score": 42
     },
     {
-      "title": "アンソロピックが「Claude Science」、創薬に照準",
-      "link": "https://ascii.jp/elem/000/004/415/4415540/?rss",
-      "date": "2026-07-02T06:31:09+09:00",
-      "dateLabel": "07/02 06:31",
-      "desc": "アンソロピックは6月30日、科学研究を自律的に支援するAI製品「Claude Science」を発表した。理論上はあらゆる分野に使えるが、実際の力点は創薬にある。これまで科学向けAIを牽引してきたのは、ノーベル賞級の成果を重ねたグーグル・ディープマインドだったが、その主役の座をアンソロピックがうかがう。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "title": "現場主導の“AI業務改善”を当たり前に ジョイゾーが初期費用36万の伴走支援サービス",
+      "link": "https://ascii.jp/elem/000/004/414/4414999/?rss",
+      "date": "2026-07-02T10:00:00+09:00",
+      "dateLabel": "07/02 10:00",
+      "desc": "ジョイゾーは、生成AI（Claude）を活用した現場主導の業務改善を定着させる伴走支援サービス「スキル39（スキルサンキュー）」を提供開始した。同時に、「60分間の無償個別相談セッション」の受付もスタートしている。",
+      "img": "https://ascii.jp/img/2026/07/01/4492208/s/7491ed6768ea7657.jpg",
       "src": "ASCII.jp",
       "cat": "LLM/モデル",
       "score": 42
@@ -250,6 +217,39 @@
       "score": 42
     },
     {
+      "title": "「Claude Fable 5」が帰ってくる 「Mythos 5」含む輸出規制解除へ Anthropic発表",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/01/news068.html",
+      "date": "2026-07-01T10:50:00+09:00",
+      "dateLabel": "07/01 10:50",
+      "desc": "Anthropicは6月30日（現地時間）、「Claude Fable 5」「Mythos 5」への輸出規制が解除されたと明らかにした。7月1日からアクセスを回復し、詳細は近日中に発表するとしている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
+      "score": 42
+    },
+    {
+      "title": "アメリカ政府がClaude Fable 5とClaude Mythos 5の規制を解除",
+      "link": "https://gigazine.net/news/20260701-claude-fable-mythos-5/",
+      "date": "2026-07-01T10:20:00+09:00",
+      "dateLabel": "07/01 10:20",
+      "desc": "アメリカ政府によるClaude Fable 5とClaude Mythos 5の規制が解除されたことが日本時間の2026年7月1日8時52分に発表されました。Anthropicが近日中にサービスを再開することを表明しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 42
+    },
+    {
+      "title": "Anthropic、科学研究向けAIワークベンチ「Claude Science」を発表──NVIDIAのBioNeMoツールキットと連携",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/01/2000000145/",
+      "date": "2026-07-01T09:54:25+09:00",
+      "dateLabel": "07/01 09:54",
+      "desc": "Anthropicは、科学者が計算研究を一貫して行えるAI実行環境「Claude Science」を発表した。データベースやツールを1つのインタフェースに統合し、文献分析から論文執筆、図表作成まで対応する。NVIDIAのツールキットとも連携し、機密データを外部に送信しない設計が特徴。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
       "title": "クアルコムがPythonライクな新言語「Mojo」開発元のModular社買収を発表。AIデータセンター市場へ本格参入",
       "link": "https://www.publickey1.jp/blog/26/pythonmojomodularai.html",
       "date": "2026-06-30T00:33:20+09:00",
@@ -261,25 +261,25 @@
       "score": 42
     },
     {
-      "title": "Anthropicの営業はAIエージェントをこう使う！ 日本法人メンバーが明かす手の内",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/02/news017.html",
-      "date": "2026-07-02T07:00:00+09:00",
-      "dateLabel": "07/02 07:00",
-      "desc": "Anthropicの社員自身はどのようにAIエージェントを業務に役立てているのか──「AWS Summit Japan 2026」のAnthropicブースで、日本法人で営業担当を務めるイブラギモブ・シャボズさんが「自身の業務で使うAIエージェント」をテーマに講演した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
+      "title": "mouse K5登場 RTX 3050×Core i7搭載の高コスパ15.6型ノートPC",
+      "link": "https://ascii.jp/elem/000/004/415/4415541/?rss",
+      "date": "2026-07-02T11:00:00+09:00",
+      "dateLabel": "07/02 11:00",
+      "desc": "マウスコンピューターが、GeForce RTX 3050 Laptop GPU搭載の15.6型ノート「mouse K5」を販売開始。Core i7/Core i5選択対応、最大3画面出力、家族で共有しやすい高コスパモデルを紹介する。",
+      "img": "https://ascii.jp/img/2026/07/02/4492831/s/9cb6241f994d0c73.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
-      "title": "OpenAIやグーグルを使い分ける、“AIのMVNO”が存在感",
-      "link": "https://ascii.jp/elem/000/004/415/4415274/?rss",
-      "date": "2026-07-02T07:00:00+09:00",
-      "dateLabel": "07/02 07:00",
-      "desc": "AIモデルを自社開発せず、OpenAIやグーグルなどを使い分ける“AIのMVNO”型企業が、資料作成需要をつかみ存在感を高めている。",
-      "img": "https://ascii.jp/img/2026/07/01/4492412/s/a5e1ccc128a16429.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
+      "title": "xAIが「人間の声をクローンしたAIコールセンター」をノーコードで作成できる「Voice Agent Builder」をリリース",
+      "link": "https://gigazine.net/news/20260702-xai-voice-agent-builder/",
+      "date": "2026-07-02T10:46:00+09:00",
+      "dateLabel": "07/02 10:46",
+      "desc": "xAIがコーディング不要で音声エージェントを作成できる「Voice Agent Builder」を2026年7月1日にリリースしました。あらかじめ用意された80種類以上の声色を使用して独自の音声エージェントを構築しコールセンターなどで活用できるほか、自分で用意した人間の音声をクローンさせることもできます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
       "score": 34
     }
   ]
