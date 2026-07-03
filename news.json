@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-04T06:56:40.596106+09:00",
-  "generatedLabel": "2026/07/04 06:56",
+  "generatedAt": "2026-07-04T07:56:59.492737+09:00",
+  "generatedLabel": "2026/07/04 07:56",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 58,
@@ -129,6 +129,17 @@
       "score": 36
     },
     {
+      "title": "コードが書けなくてもbotアカウントは作れる？ Claude Codeでバイブコーディングしてみた",
+      "link": "https://ascii.jp/elem/000/004/414/4414533/?rss",
+      "date": "2026-07-04T07:00:00+09:00",
+      "dateLabel": "07/04 07:00",
+      "desc": "Claude CodeでXのbotアカウントを作ってみた。",
+      "img": "https://ascii.jp/img/2026/06/30/4491518/s/04a1ce02d8060132.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "AIエージェントで業務自動化する方法とは？できることや事例を解説",
       "link": "https://ainow.ai/2026/07/04/278229/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e6%25a5%25ad%25e5%258b%2599%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b",
       "date": "2026-07-04T03:15:31+09:00",
@@ -217,17 +228,6 @@
       "score": 34
     },
     {
-      "title": "Qualcomm製IoT機器向けLinuxが2.0に進化、AIカメラから産業用PCまで1つの基盤で開発可能に",
-      "link": "https://gigazine.net/news/20260703-qualcomm-linux-2-0/",
-      "date": "2026-07-03T07:00:00+09:00",
-      "dateLabel": "07/03 07:00",
-      "desc": "2026年6月30日に、Qualcomm製IoT向けSoCを搭載した機器向けのLinuxソリューション「Qualcomm Linux 2.0」の一般提供が始まりました。Qualcomm Linux 2.0は2024年に発表されたQualcomm Linuxの大型アップデートに当たるもので、複数のSoCや製品で使える共通のLinux基盤、オープンな開発体制、本",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "復活した「Fable 5」 米政府からのオーダーに対して、Anthropicはどう対策したのか",
       "link": "https://www.itmedia.co.jp/news/articles/2607/02/news095.html",
       "date": "2026-07-02T16:40:00+09:00",
@@ -250,6 +250,17 @@
       "score": 34
     },
     {
+      "title": "フィジカルAIに挑む日の丸連合、「Noetra」とは何か",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/04/news016.html",
+      "date": "2026-07-04T07:00:00+09:00",
+      "dateLabel": "07/04 07:00",
+      "desc": "2026年6月29日～7月3日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "10万超えの高級ハンドルコントローラーFanatec(CORSAIR)「Gran Turismo DD Pro（5Nm）」は、価格を超える喜びアリ。",
       "link": "https://ascii.jp/elem/000/004/416/4416066/?rss",
       "date": "2026-07-03T22:00:00+09:00",
@@ -267,17 +278,6 @@
       "dateLabel": "07/03 21:00",
       "desc": "Amazon.co.jpにて、ASUSのワイヤレスゲーミングマウス「ROG Keris Wireless Aimpoint」が販売中だ。過去価格は1万1000円だが、タイムセールにより27％オフの8035円で購入できる（7月3日時点）。",
       "img": "https://ascii.jp/img/2026/07/03/4493951/s/501b1ceafe677b7f.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "有機EL搭載のLG製26.5型WQHDゲーミングディスプレー、いまなら5万円台で買える！ 240Hz・0.03msの高スペック",
-      "link": "https://ascii.jp/elem/000/004/416/4416147/?rss",
-      "date": "2026-07-03T20:30:00+09:00",
-      "dateLabel": "07/03 20:30",
-      "desc": "Amazon.co.jpにて、LGの26.5型ゲーミングディスプレー「LG UltraGear OLED 27GX704A-B（グレア/MLA）」が販売中だ。参考価格は7万9800円だが、執筆時点では31％オフの5万4800円で購入できる（7月3日時点）。",
-      "img": "https://ascii.jp/img/2026/07/03/4493915/s/1ca7eda1ef484a03.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
