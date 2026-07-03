@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-03T08:08:37.849366+09:00",
-  "generatedLabel": "2026/07/03 08:08",
+  "generatedAt": "2026-07-03T10:56:54.163349+09:00",
+  "generatedLabel": "2026/07/03 10:56",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -74,25 +74,14 @@
       "score": 74
     },
     {
-      "title": "AI動画マニュアル「TAGURU」、自動作成機能アップデートと現場向けフリーワード手順動画検索機能リリース",
-      "link": "https://ascii.jp/elem/000/004/415/4415865/?rss",
-      "date": "2026-07-03T07:00:00+09:00",
-      "dateLabel": "07/03 07:00",
-      "desc": "RUN.EDGE株式会社は7月1日に、同社が提供するAI動画マニュアル「TAGURU（タグル）」において、マニュアル自動作成機能の大幅アップデート実施と、現場視聴ユーザーが必要な手順動画をフリーワードで検索できる「現場向けフリーワード手順動画検索機能」のリリースを発表した。",
-      "img": "https://ascii.jp/img/2026/07/02/4493341/s/aa979684d2f1b9ab.png",
+      "title": "SORACOM、通信事業者向けクラウドネイティブモバイルコア技術を提供開始",
+      "link": "https://ascii.jp/elem/000/004/415/4415934/?rss",
+      "date": "2026-07-03T09:00:00+09:00",
+      "dateLabel": "07/03 09:00",
+      "desc": "クラウドネイティブなモバイルコア技術を通信事業者に提供開始するソラコムは、柔軟な機能実装が可能な基盤を提供し、新たなビジネス展開を支援する。",
+      "img": "https://ascii.jp/img/2026/07/03/4493590/s/cae5fa1b1f8a6fd3.png",
       "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 42
-    },
-    {
-      "title": "【生成AI初心者向け】ChatGPTやGeminiをもっと便利に使おう！7/24（金）無料セミナー「生成AIの基本とプロンプト入門」を開催!!",
-      "link": "https://ascii.jp/elem/000/004/415/4415917/?rss",
-      "date": "2026-07-02T18:00:00+09:00",
-      "dateLabel": "07/02 18:00",
-      "desc": "【生成AI初心者向け】ChatGPTやGeminiをもっと便利に使おう！7/24（金）無料セミナー「生成AIの基本とプロンプト入門」を開催!!",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
+      "cat": "生成AI/マルチモーダル",
       "score": 42
     },
     {
@@ -151,14 +140,25 @@
       "score": 36
     },
     {
-      "title": "製造業における技能継承と知識共有を支援する「製造現場ナレッジAI」提供開始",
-      "link": "https://ascii.jp/elem/000/004/415/4415858/?rss",
-      "date": "2026-07-03T07:00:00+09:00",
-      "dateLabel": "07/03 07:00",
-      "desc": "株式会社言語理解研究所は7月1日に、生成AIによって電子マニュアルを活用しやすくするというサービス「製造現場ナレッジAI」の提供を開始。PDFやExcel、図表などで記載された設計書や手順書、点検記録などの情報を意味や関係性を踏まえて構造化し、生成AIが活用しやすいデータに変換することで、技能者が必要な情報に手間なくたどり着ける環境を提供する。製造現場におけ",
-      "img": "https://ascii.jp/img/2026/07/02/4493313/s/02e63a174bf1888c.png",
+      "title": "中国フィジカルAIの実装を手がける起業家監修『中国フィジカルAIレポート 決定版2026』無料公開。7月23日、オンラインセミナー開催！",
+      "link": "https://ascii.jp/elem/000/004/415/4415965/?rss",
+      "date": "2026-07-03T09:00:09+09:00",
+      "dateLabel": "07/03 09:00",
+      "desc": "中国フィジカルAIの実装を手がける起業家監修『中国フィジカルAIレポート 決定版2026』無料公開。7月23日、オンラインセミナー開催！",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
+      "cat": "AI実装",
+      "score": 34
+    },
+    {
+      "title": "AWSの「静かな」戦略シフト OpenAIとAnthropic“1日違い登壇”の意味を読み解く",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2607/06/news016.html",
+      "date": "2026-07-03T09:00:00+09:00",
+      "dateLabel": "07/03 09:00",
+      "desc": "生成AIで競合するOpenAIとAnthropicを1日違いで基調講演に招く――。「AWS Summit Japan 2026」で浮かび上がったのは、モデルの賢さではなく「別のあるもの」を握ることで、基盤の価値を保ち続けようとするAWSの戦略シフトだ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -173,28 +173,6 @@
       "score": 34
     },
     {
-      "title": "8.8型タブレットにSnapdragon 8 Elite Gen 5搭載。Lenovo「Legion Tab」が106,300円",
-      "link": "https://ascii.jp/elem/000/004/415/4415593/?rss",
-      "date": "2026-07-02T20:00:00+09:00",
-      "dateLabel": "07/02 20:00",
-      "desc": "Lenovoの8.8型タブレット「Legion Tab（ZAH20128JP）」がAmazonタイムセール対象。参考価格159,500円のところ、33％オフの106,300円で販売中。8.8型にSnapdragon 8 Elite Gen 5を搭載。高性能なコンパクトAndroidタブレットを探しているなら、チェックしておきたい。",
-      "img": "https://ascii.jp/img/2026/07/02/4492866/s/1c086d2847badf9c.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "株式会社Mavericksは、動画生成AI「NoLang」にスウェーデン語・デンマーク語・フィンランド語を追加。翻訳会社やナレーターを介さず北欧向け動画を内製できる体制を構築",
-      "link": "https://ascii.jp/elem/000/004/415/4415906/?rss",
-      "date": "2026-07-02T18:01:06+09:00",
-      "dateLabel": "07/02 18:01",
-      "desc": "株式会社Mavericksは、動画生成AI「NoLang」にスウェーデン語・デンマーク語・フィンランド語を追加。翻訳会社やナレーターを介さず北欧向け動画を内製できる体制を構築",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
       "title": "AIがウェブサイトに訪問するたびに課金できるシステム「Monetization Gateway」をCloudflareが発表",
       "link": "https://gigazine.net/news/20260702-cloudflare-monetization-gateway/",
       "date": "2026-07-02T12:10:00+09:00",
@@ -206,26 +184,59 @@
       "score": 34
     },
     {
-      "title": "xAIが「人間の声をクローンしたAIコールセンター」をノーコードで作成できる「Voice Agent Builder」をリリース",
-      "link": "https://gigazine.net/news/20260702-xai-voice-agent-builder/",
-      "date": "2026-07-02T10:46:00+09:00",
-      "dateLabel": "07/02 10:46",
-      "desc": "xAIがコーディング不要で音声エージェントを作成できる「Voice Agent Builder」を2026年7月1日にリリースしました。あらかじめ用意された80種類以上の声色を使用して独自の音声エージェントを構築しコールセンターなどで活用できるほか、自分で用意した人間の音声をクローンさせることもできます。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
+      "title": "【SwitchBot】AIパートナーロボット「KATAフレンズ」、エディオンなんば本店で7月4日・5日に体験イベントを開催",
+      "link": "https://ascii.jp/elem/000/004/415/4415953/?rss",
+      "date": "2026-07-03T10:00:00+09:00",
+      "dateLabel": "07/03 10:00",
+      "desc": "【SwitchBot】AIパートナーロボット「KATAフレンズ」、エディオンなんば本店で7月4日・5日に体験イベントを開催",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 26
     },
     {
-      "title": "AIアシスタントで設計検証を迅速化、3D CAD「Creo」最新版を提供開始",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/02/news006.html",
-      "date": "2026-07-02T09:00:00+09:00",
-      "dateLabel": "07/02 09:00",
-      "desc": "PTCは、オンプレミス版の3D CADソリューション「Creo 13」と、SaaS版の「Creo+ 13.3」の提供開始を発表した。新たにAIアシスタント機能を導入した他、設計、シミュレーション、製造の各領域で機能を強化している。",
+      "title": "株式会社 Elith、シャドー AI 対策 SaaS「GENFLUX Security」をローンチ",
+      "link": "https://ascii.jp/elem/000/004/415/4415960/?rss",
+      "date": "2026-07-03T09:40:45+09:00",
+      "dateLabel": "07/03 09:40",
+      "desc": "株式会社 Elith、シャドー AI 対策 SaaS「GENFLUX Security」をローンチ",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "GIGABYTEがAI最新技術を披露 「TAIWAN EXCELLENCE in TOKYO 2026」でAORUS新製品を展示",
+      "link": "https://ascii.jp/elem/000/004/415/4415937/?rss",
+      "date": "2026-07-03T09:15:00+09:00",
+      "dateLabel": "07/03 09:15",
+      "desc": "GIGABYTE JAPANが2026年7月15日から7月17日まで新宿住友ビル 三角広場で開催される「2026 TAIWAN EXCELLENCE in TOKYO」に出展し、AIソリューションやゲーミングデスクトップ、OLEDモニター、クリエイター向けノートPCなどを展示する。",
+      "img": "https://ascii.jp/img/2026/07/03/4493592/s/13a916d5a48990af.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "サイバー防御の未来を構築し勝ち取るには官民連携が重要 世界経済フォーラムの最新ガイダンスより",
+      "link": "https://ascii.jp/elem/000/004/414/4414189/?rss",
+      "date": "2026-07-03T09:00:00+09:00",
+      "dateLabel": "07/03 09:00",
+      "desc": "世界経済フォーラムの最新ガイダンスは、リーダーがサイバー防御を強化するためにAIをどのように活用できるかを示しています。",
+      "img": "https://ascii.jp/img/2026/06/29/4490748/s/cc3db7f9177793f5.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "「Mythosがないと守れない」は本当か??AIセキュリティの勝負を分ける「ハーネス」とは",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000154/",
+      "date": "2026-07-03T08:00:00+09:00",
+      "dateLabel": "07/03 08:00",
+      "desc": "「Mythos級のAIにアクセスできない企業は、もう守れない」??。Mythosのアクセスが一部の組織に限られていた2026年春、そんな脅威論が広がった。だが、AIによる初期侵入の自動化を世界で初めて実現したと公表する当事者は、そうは見ていない。勝負を分けるのは、アクセスの有無ではない。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 34
+      "score": 26
     },
     {
       "title": "え、21日で37テラも？ 高性能SSDを食いつぶす「あのAIツール」にご用心：886th Lap",
@@ -268,17 +279,6 @@
       "desc": "経理・人事・総務などバックオフィス部門で、経営層から「AIエージェントを導入できないか」と相談され、何から着手すればよいかわからず困っている担当者は少なくありません。 バックオフィスAIエージェントとは、請求書処理や勤怠... The post バックオフィスAIエージェントとは？できることとおすすめ7選を解説 first appeared on AI専門ニ",
       "img": "",
       "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "オープンソースのゲームエンジン「Godot」がAI製コードを今後受け付けないことを決定、AIを多用するユーザーが自分のコードを十分に理解して修正できるとは限らないため",
-      "link": "https://gigazine.net/news/20260702-godot-ban-ai/",
-      "date": "2026-07-02T20:40:00+09:00",
-      "dateLabel": "07/02 20:40",
-      "desc": "「Slay the Spire 2」や「Brotato」などのゲームを支えるオープンソースのゲームエンジン「Godot」が、AIで生成した大量のプルリクエストに悩まされていることを理由に、今後は自律型AIエージェントやバイブコーディングによるプルリクエストを受け付けないという判断を下しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 26
     }
