@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-03T22:41:59.965175+09:00",
-  "generatedLabel": "2026/07/03 22:41",
+  "generatedAt": "2026-07-04T00:48:41.610585+09:00",
+  "generatedLabel": "2026/07/04 00:48",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 60,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -62,17 +62,6 @@
     }
   ],
   "articles": [
-    {
-      "title": "GLM-5.2の開発元による中国製AIエージェントアプリ「ZCode」、AnthropicやOpenAIのAIモデルも活用可能",
-      "link": "https://gigazine.net/news/20260702-zcode-ai-agent/",
-      "date": "2026-07-02T21:00:00+09:00",
-      "dateLabel": "07/02 21:00",
-      "desc": "中国企業のZ.aiはClaude Opus 4.8などの高性能クローズドモデルに匹敵する性能のAIモデルをオープンモデルとして公開しており、API経由でのAIサービスも展開しています。そんなZ.aiはClaude CodeやCodexに似たAIエージェントアプリ「ZCode」もリリースしています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 66
-    },
     {
       "title": "OpenAIがアメリカ政府に株式の5％譲渡を計画中との報道、アメリカ政府はGPT-5.6の一般公開を規制中",
       "link": "https://gigazine.net/news/20260703-openai-stock-government/",
@@ -127,17 +116,6 @@
       "src": "Publickey",
       "cat": "半導体/GPU",
       "score": 36
-    },
-    {
-      "title": "【Webディレクター向け】すぐに使える！AIの実務への組み込み方を大公開!! 7/27（月）無料セミナー「AIで変わるWebディレクション！」を開催",
-      "link": "https://ascii.jp/elem/000/004/416/4416246/?rss",
-      "date": "2026-07-03T18:30:00+09:00",
-      "dateLabel": "07/03 18:30",
-      "desc": "【Webディレクター向け】すぐに使える！AIの実務への組み込み方を大公開!! 7/27（月）無料セミナー「AIで変わるWebディレクション！」を開催",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
     },
     {
       "title": "AIエージェントでSafariを自動操作してテストやデバッグを実行できる「Safari MCP server」が登場",
@@ -278,6 +256,28 @@
       "dateLabel": "07/03 20:30",
       "desc": "Amazon.co.jpにて、LGの26.5型ゲーミングディスプレー「LG UltraGear OLED 27GX704A-B（グレア/MLA）」が販売中だ。参考価格は7万9800円だが、執筆時点では31％オフの5万4800円で購入できる（7月3日時点）。",
       "img": "https://ascii.jp/img/2026/07/03/4493915/s/1ca7eda1ef484a03.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "2026年7月3日のヘッドラインニュース",
+      "link": "https://gigazine.net/news/20260703-headline/",
+      "date": "2026-07-03T18:51:00+09:00",
+      "dateLabel": "07/03 18:51",
+      "desc": "2026年7月9日(木)発売予定の家庭用ゲーム『ソードアート・オンライン Echoes of Aincrad』のプロモーションアニメ映像『Unanswered//butterfly』がYouTubeおよびABEMAで特別公開されます。YouTubeの配信日時は2026年7月5日(日)20時から、ABEMAの配信日時は2026年7月9日(木)20時からとなって",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "日報AIポチに公式キャラクター『ポチ』が誕生！",
+      "link": "https://ascii.jp/elem/000/004/416/4416245/?rss",
+      "date": "2026-07-03T18:43:36+09:00",
+      "dateLabel": "07/03 18:43",
+      "desc": "日報AIポチに公式キャラクター『ポチ』が誕生！",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
