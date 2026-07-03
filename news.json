@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-04T07:56:59.492737+09:00",
-  "generatedLabel": "2026/07/04 07:56",
+  "generatedAt": "2026-07-04T08:59:47.203270+09:00",
+  "generatedLabel": "2026/07/04 08:59",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 58,
@@ -250,6 +250,17 @@
       "score": 34
     },
     {
+      "title": "米トランプ大統領、AI規制は「できるだけ介入少なく」 中国に対して開発競争「大幅リード」を強調",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/04/2000000159/",
+      "date": "2026-07-04T08:00:00+09:00",
+      "dateLabel": "07/04 08:00",
+      "desc": "トランプ米大統領がCNBCのインタビューで、AI規制について「ガードレールは必要だが、介入はできるだけ少なくしたい」と述べ、規制最小限の路線を改めて示した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
+      "score": 26
+    },
+    {
       "title": "フィジカルAIに挑む日の丸連合、「Noetra」とは何か",
       "link": "https://monoist.itmedia.co.jp/mn/articles/2607/04/news016.html",
       "date": "2026-07-04T07:00:00+09:00",
@@ -267,17 +278,6 @@
       "dateLabel": "07/03 22:00",
       "desc": "Fanatec(CORSAIR)「Gran Turismo DD Pro（5Nm）」は、10万超えの高級ハンドルコントローラー。でも、価格を超える喜びがあります。",
       "img": "https://ascii.jp/img/2026/07/03/4493755/s/a15d6063bcbbc130.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "ゲームだけでなく仕事もアリ！ ASUS製ワイヤレスゲーミングマウスがタイムセールで8000円台に",
-      "link": "https://ascii.jp/elem/000/004/416/4416156/?rss",
-      "date": "2026-07-03T21:00:00+09:00",
-      "dateLabel": "07/03 21:00",
-      "desc": "Amazon.co.jpにて、ASUSのワイヤレスゲーミングマウス「ROG Keris Wireless Aimpoint」が販売中だ。過去価格は1万1000円だが、タイムセールにより27％オフの8035円で購入できる（7月3日時点）。",
-      "img": "https://ascii.jp/img/2026/07/03/4493951/s/501b1ceafe677b7f.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
