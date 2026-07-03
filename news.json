@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-03T14:48:28.504263+09:00",
-  "generatedLabel": "2026/07/03 14:48",
+  "generatedAt": "2026-07-03T17:48:47.695883+09:00",
+  "generatedLabel": "2026/07/03 17:48",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 59,
+  "candidates": 60,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -74,6 +74,17 @@
       "score": 74
     },
     {
+      "title": "AIがIoTを作り、運用する SORACOM Agentは総合格闘技だったIoTを変革するか？",
+      "link": "https://ascii.jp/elem/000/004/416/4416184/?rss",
+      "date": "2026-07-03T16:30:00+09:00",
+      "dateLabel": "07/03 16:30",
+      "desc": "ソラコムはIoTプロジェクトの全行程を伴走支援するAIエージェントサービス「SORACOM Agent」を発表した。7月7日からTechnology Preview版として提供開始する。7月7日に開催されるフラグシップイベント「SORACOM Discovery 2026」に先だって行なわれたプレス向け発表会では、サイバー空間上のシステムを構築するにとどまら",
+      "img": "https://ascii.jp/img/2026/07/03/4493963/s/ce62d60e7883eafd.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 58
+    },
+    {
       "title": "OpenAIがアメリカ政府に株式の5％譲渡を計画中との報道、アメリカ政府はGPT-5.6の一般公開を規制中",
       "link": "https://gigazine.net/news/20260703-openai-stock-government/",
       "date": "2026-07-03T12:31:00+09:00",
@@ -83,6 +94,17 @@
       "src": "GIGAZINE",
       "cat": "規制/安全",
       "score": 50
+    },
+    {
+      "title": "Anthropicとアメリカ政府の関係悪化の経緯が裁判で提出されたメールによって明らかに、ダリオ・アモデイCEOと国防総省幹部のメール内容が公開される",
+      "link": "https://gigazine.net/news/20260703-anthropic-pentagon-email/",
+      "date": "2026-07-03T16:02:00+09:00",
+      "dateLabel": "07/03 16:02",
+      "desc": "Anthropicはアメリカ国防総省とAI利用に関する契約を結んでいましたが、2026年2月28日に国防総省およびアメリカ政府がAnthropicとの関係断絶を決定しました。この国防総省の決定を巡ってAnthropicは訴訟を提起しており、裁判で提出された資料からダリオ・アモデイCEOと国防総省の技術責任者であるエミル・マイケル氏のメール内容が明らかになって",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 42
     },
     {
       "title": "アメリカ製オープンモデル「Laguna XS 2.1」が登場、ローカルで動作し一部のテストでClaude Haiku 4.5を上回る",
@@ -107,28 +129,6 @@
       "score": 42
     },
     {
-      "title": "復活した「Fable 5」 米政府からのオーダーに対して、Anthropicはどう対策したのか",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/02/news095.html",
-      "date": "2026-07-02T16:40:00+09:00",
-      "dateLabel": "07/02 16:40",
-      "desc": "米AnthropicのAIモデル「Claude Fable 5」が世界的にサービスを再開した。Anthropicは復活に向けてどういった経緯と対策を行ったのか、モデル再開にあわせて詳細を公開した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "GitHub CopilotがVS Code内でブラウザ操作に対応、AIエージェントがウェブアプリを開いて検証可能に",
-      "link": "https://gigazine.net/news/20260702-github-copilot-browser-use/",
-      "date": "2026-07-02T16:30:00+09:00",
-      "dateLabel": "07/02 16:30",
-      "desc": "GitHubがVisual Studio Code(VS Code)向けGitHub Copilotのブラウザ操作ツールを一般提供したと発表しました。これはすでにプレビュー版として提供されていた機能で、GitHub CopilotのAIエージェントがVS Code内でブラウザを開き、ウェブアプリを操作しながら動作確認できるようになります。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "クアルコムがPythonライクな新言語「Mojo」開発元のModular社買収を発表。AIデータセンター市場へ本格参入",
       "link": "https://www.publickey1.jp/blog/26/pythonmojomodularai.html",
       "date": "2026-06-30T00:33:20+09:00",
@@ -140,6 +140,61 @@
       "score": 36
     },
     {
+      "title": "シャープ「ポケとも」待望の会話無制限プラン 月額3300円",
+      "link": "https://ascii.jp/elem/000/004/416/4416187/?rss",
+      "date": "2026-07-03T17:40:00+09:00",
+      "dateLabel": "07/03 17:40",
+      "desc": "シャープは6月29日、家庭用パートナーロボット「ポケとも」と回数無制限で会話できる新プラン「ココロプラン for ポケとも 無制限」を発表した。料金は月額3300円。7月1日より提供を始める。",
+      "img": "https://ascii.jp/img/2026/07/03/4493988/s/9535c39d83dc4f00.png",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 34
+    },
+    {
+      "title": "Fableちゃんに16年分のアニメ感想を読ませたら、“オレ専用”の人生ベスト級アニメを企画してきた",
+      "link": "https://ascii.jp/elem/000/004/415/4415785/?rss",
+      "date": "2026-07-03T17:00:00+09:00",
+      "dateLabel": "07/03 17:00",
+      "desc": "復活したClaude Fable 5に、15年分・2262作品の深夜アニメ感想メモを丸投げ。文字化けも涼しい顔で処理し、10分で嗜好分析ダッシュボードと理想の架空アニメ企画書まで生成。自分のログを突っ込むだけで楽しい。",
+      "img": "https://ascii.jp/img/2026/07/03/4493960/s/79267e538789fd18.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "「MITREインパクトレポート」から読み取れる脅威インフォームドディフェンスの必要性",
+      "link": "https://ascii.jp/elem/000/004/414/4414190/?rss",
+      "date": "2026-07-03T17:00:00+09:00",
+      "dateLabel": "07/03 17:00",
+      "desc": "MITRE Center for Threat-Informed Defense(CTID)は、サイバーセキュリティにとって極めて重要な時期に、最新のインパクトレポートを発表しました。防御者は、もはや孤立した攻撃、ツール、または制御のギャップに直面しているのではなく、クラウド環境、IDシステム、エンドポイント、アプリケーション、インフラストラクチャ、そして増",
+      "img": "https://ascii.jp/img/2026/06/29/4490752/s/b8c5aaccb93d0cf5.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "3万円で「Yahoo!ニュース」にPR掲載 プレスリリースをAIで「ニュース風記事」に",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/03/news116.html",
+      "date": "2026-07-03T15:44:00+09:00",
+      "dateLabel": "07/03 15:44",
+      "desc": "Yahoo!ニュース内に、企業の発表情報をニュース記事と同じフォーマットで掲載する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "「Claude Fable 5」をサブスクの標準機能に――AnthropicのエンジニアがXに投稿 7月8日以降の「早期復活目指す」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000158/",
+      "date": "2026-07-03T15:34:43+09:00",
+      "dateLabel": "07/03 15:34",
+      "desc": "「Fable 5をサブスクリプションの標準機能として復活させることを目指している」――米AnthropicのITエンジニアであるタリク・シヒパー氏は、自身のXアカウントにこのように投稿した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "NVIDIAチップ密輸容疑者の約69億円の豪邸をシンガポール警察が押収",
       "link": "https://gigazine.net/news/20260703-singapore-seizes-42m-home-nvidia-fraud/",
       "date": "2026-07-03T13:17:00+09:00",
@@ -148,17 +203,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "写真もプロフィールもなし。会話から始まる出会いへ。AI時代のマッチングアプリ「ヨイトキ（Yoitoki）」が「匿名で出会える」新機能をまもなく実装",
-      "link": "https://ascii.jp/elem/000/004/416/4416074/?rss",
-      "date": "2026-07-03T13:06:54+09:00",
-      "dateLabel": "07/03 13:06",
-      "desc": "写真もプロフィールもなし。会話から始まる出会いへ。AI時代のマッチングアプリ「ヨイトキ（Yoitoki）」が「匿名で出会える」新機能をまもなく実装",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
       "score": 34
     },
     {
@@ -206,11 +250,22 @@
       "score": 34
     },
     {
-      "title": "CloudflareがAIボットを「検索」「代理操作」「学習」など種類ごとに制御する仕組みを公開、無料プランでも「検索は許可、AI学習は拒否」を設定可能",
-      "link": "https://gigazine.net/news/20260702-cloudflare-ai-traffic-option/",
-      "date": "2026-07-02T14:15:00+09:00",
-      "dateLabel": "07/02 14:15",
-      "desc": "CloudflareがウェブサイトにアクセスするAI関連ボットを用途ごとに管理できる新しいアクセス制御オプションを全ユーザー向けに公開したと発表しました。新オプションでは検索向けの巡回を許可しつつ、AIモデルの学習やユーザーの代わりに操作するエージェントによるアクセスを制限するといった設定が可能になります。 続きを読む...",
+      "title": "復活した「Fable 5」 米政府からのオーダーに対して、Anthropicはどう対策したのか",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/02/news095.html",
+      "date": "2026-07-02T16:40:00+09:00",
+      "dateLabel": "07/02 16:40",
+      "desc": "米AnthropicのAIモデル「Claude Fable 5」が世界的にサービスを再開した。Anthropicは復活に向けてどういった経緯と対策を行ったのか、モデル再開にあわせて詳細を公開した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "GitHub CopilotがVS Code内でブラウザ操作に対応、AIエージェントがウェブアプリを開いて検証可能に",
+      "link": "https://gigazine.net/news/20260702-github-copilot-browser-use/",
+      "date": "2026-07-02T16:30:00+09:00",
+      "dateLabel": "07/02 16:30",
+      "desc": "GitHubがVisual Studio Code(VS Code)向けGitHub Copilotのブラウザ操作ツールを一般提供したと発表しました。これはすでにプレビュー版として提供されていた機能で、GitHub CopilotのAIエージェントがVS Code内でブラウザを開き、ウェブアプリを操作しながら動作確認できるようになります。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
@@ -226,61 +281,6 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 34
-    },
-    {
-      "title": "史上初の「エージェント型ランサムウェア」感染事例の報告",
-      "link": "https://gigazine.net/news/20260703-ai-agent-ransomware/",
-      "date": "2026-07-03T14:46:00+09:00",
-      "dateLabel": "07/03 14:46",
-      "desc": "ランサムウェア攻撃の全てを自動実行するAIエージェントが確認されました。サーバー侵入やデータ破壊だけでなく、失敗した手順をリアルタイムで修正して再突入する様子も見られたそうです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "洗濯物をたたむ専用のロボットが片づけやベッドメイクもできるように進化した「Isaac 1」が発表される、価格は買い切り129万円または月額7万2000円",
-      "link": "https://gigazine.net/news/20260703-isaac1-robot/",
-      "date": "2026-07-03T13:50:00+09:00",
-      "dateLabel": "07/03 13:50",
-      "desc": "カリフォルニアに拠点を置くロボットスタートアップのWeave Roboticsが、洗濯や片づけ、ベッドメイクができる家庭用ロボット「Isaac 1」を発表しました。完全自律型ではなく遠隔操作による人間の支援を必要とするロボットで、7999ドル(約129万円)または月額449ドル(約7万2000円)で提供されます。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "豊田市と株式会社NAGARA、連携協定2年目へ ─ 市内の介護事業者に議事録AI「ながらかいご議事録」を3カ月間“無料”提供",
-      "link": "https://ascii.jp/elem/000/004/416/4416075/?rss",
-      "date": "2026-07-03T13:00:07+09:00",
-      "dateLabel": "07/03 13:00",
-      "desc": "豊田市と株式会社NAGARA、連携協定2年目へ ─ 市内の介護事業者に議事録AI「ながらかいご議事録」を3カ月間“無料”提供",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "AI通訳サービス「CoeFont通訳」、PDF・Word・PowerPoint・Excelのドキュメント翻訳に対応",
-      "link": "https://ascii.jp/elem/000/004/416/4416080/?rss",
-      "date": "2026-07-03T13:00:00+09:00",
-      "dateLabel": "07/03 13:00",
-      "desc": "AI通訳サービス「CoeFont通訳」、PDF・Word・PowerPoint・Excelのドキュメント翻訳に対応",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "日取りより大切なことがある。AI時代のマッチングアプリ「ヨイトキ（Yoitoki）」が「写真もプロフィールも見せない出会い」で問いかける、相手選びの本質",
-      "link": "https://ascii.jp/elem/000/004/416/4416081/?rss",
-      "date": "2026-07-03T12:57:28+09:00",
-      "dateLabel": "07/03 12:57",
-      "desc": "日取りより大切なことがある。AI時代のマッチングアプリ「ヨイトキ（Yoitoki）」が「写真もプロフィールも見せない出会い」で問いかける、相手選びの本質",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
     }
   ]
 }
