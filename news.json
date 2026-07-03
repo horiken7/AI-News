@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-03T10:56:54.163349+09:00",
-  "generatedLabel": "2026/07/03 10:56",
+  "generatedAt": "2026-07-03T14:48:28.504263+09:00",
+  "generatedLabel": "2026/07/03 14:48",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 57,
+  "candidates": 59,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 12
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -74,14 +74,36 @@
       "score": 74
     },
     {
-      "title": "SORACOM、通信事業者向けクラウドネイティブモバイルコア技術を提供開始",
-      "link": "https://ascii.jp/elem/000/004/415/4415934/?rss",
-      "date": "2026-07-03T09:00:00+09:00",
-      "dateLabel": "07/03 09:00",
-      "desc": "クラウドネイティブなモバイルコア技術を通信事業者に提供開始するソラコムは、柔軟な機能実装が可能な基盤を提供し、新たなビジネス展開を支援する。",
-      "img": "https://ascii.jp/img/2026/07/03/4493590/s/cae5fa1b1f8a6fd3.png",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
+      "title": "OpenAIがアメリカ政府に株式の5％譲渡を計画中との報道、アメリカ政府はGPT-5.6の一般公開を規制中",
+      "link": "https://gigazine.net/news/20260703-openai-stock-government/",
+      "date": "2026-07-03T12:31:00+09:00",
+      "dateLabel": "07/03 12:31",
+      "desc": "OpenAIが政治的な障害を取り除くためにアメリカ政府に株式の5％を譲渡することを検討していることが、Financial Timesによって報じられました。OpenAIが2026年3月の資金調達ラウンドで設定した8520億ドル(約137兆円)の評価額に基づくと、5％の株式は約426億ドル(約6兆8000億円)に相当します。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 50
+    },
+    {
+      "title": "アメリカ製オープンモデル「Laguna XS 2.1」が登場、ローカルで動作し一部のテストでClaude Haiku 4.5を上回る",
+      "link": "https://gigazine.net/news/20260703-laguna-xs-2-1/",
+      "date": "2026-07-03T11:43:00+09:00",
+      "dateLabel": "07/03 11:43",
+      "desc": "アメリカに拠点を置くAI開発企業のPoolsideがAIモデル「Laguna XS 2.1」を2026年7月2日に発表しました。Laguna XS 2.1は2026年4月に登場したLaguna XS.2の性能強化版です。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "Meta、「Claude Codeと組織改編で爆速開発」のはずが「想定より加速せず」 ザッカーバーグ氏、社内集会で発言",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000155/",
+      "date": "2026-07-03T11:01:17+09:00",
+      "dateLabel": "07/03 11:01",
+      "desc": "MetaはAI向けの巨額投資や組織改編でAIエージェント開発の加速を図ったが、ザッカーバーグCEOによれば、それらの取り組みはまだ実を結んでいないようだ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -107,28 +129,6 @@
       "score": 42
     },
     {
-      "title": "CloudflareがAIボットを「検索」「代理操作」「学習」など種類ごとに制御する仕組みを公開、無料プランでも「検索は許可、AI学習は拒否」を設定可能",
-      "link": "https://gigazine.net/news/20260702-cloudflare-ai-traffic-option/",
-      "date": "2026-07-02T14:15:00+09:00",
-      "dateLabel": "07/02 14:15",
-      "desc": "CloudflareがウェブサイトにアクセスするAI関連ボットを用途ごとに管理できる新しいアクセス制御オプションを全ユーザー向けに公開したと発表しました。新オプションでは検索向けの巡回を許可しつつ、AIモデルの学習やユーザーの代わりに操作するエージェントによるアクセスを制限するといった設定が可能になります。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "「賢さよりツール連携力が重要」 Microsoftが実験的な小型AIエージェント基盤を公開",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/02/news050.html",
-      "date": "2026-07-02T13:00:00+09:00",
-      "dateLabel": "07/02 13:00",
-      "desc": "MicrosoftのAI研究チームであるMicrosoft Research AI Frontiersは、小型モデル向けに最適化したエージェント基盤「MagenticLite」を公開した。「エージェント能力は知識量ではなくツール統合と実行ハーネスで決まる」という仮説に基づき構成されており、小型モデルでも実用的なエージェント性能を引き出すという。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "クアルコムがPythonライクな新言語「Mojo」開発元のModular社買収を発表。AIデータセンター市場へ本格参入",
       "link": "https://www.publickey1.jp/blog/26/pythonmojomodularai.html",
       "date": "2026-06-30T00:33:20+09:00",
@@ -140,14 +140,47 @@
       "score": 36
     },
     {
-      "title": "中国フィジカルAIの実装を手がける起業家監修『中国フィジカルAIレポート 決定版2026』無料公開。7月23日、オンラインセミナー開催！",
-      "link": "https://ascii.jp/elem/000/004/415/4415965/?rss",
-      "date": "2026-07-03T09:00:09+09:00",
-      "dateLabel": "07/03 09:00",
-      "desc": "中国フィジカルAIの実装を手がける起業家監修『中国フィジカルAIレポート 決定版2026』無料公開。7月23日、オンラインセミナー開催！",
+      "title": "NVIDIAチップ密輸容疑者の約69億円の豪邸をシンガポール警察が押収",
+      "link": "https://gigazine.net/news/20260703-singapore-seizes-42m-home-nvidia-fraud/",
+      "date": "2026-07-03T13:17:00+09:00",
+      "dateLabel": "07/03 13:17",
+      "desc": "中国への輸出が禁止されているNVIDIA製チップがシンガポール経由で中国に密輸された疑いがある事件の捜査で、シンガポール警察が約5500万シンガポールドル(約69億円)の豪邸を押収したと発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "写真もプロフィールもなし。会話から始まる出会いへ。AI時代のマッチングアプリ「ヨイトキ（Yoitoki）」が「匿名で出会える」新機能をまもなく実装",
+      "link": "https://ascii.jp/elem/000/004/416/4416074/?rss",
+      "date": "2026-07-03T13:06:54+09:00",
+      "dateLabel": "07/03 13:06",
+      "desc": "写真もプロフィールもなし。会話から始まる出会いへ。AI時代のマッチングアプリ「ヨイトキ（Yoitoki）」が「匿名で出会える」新機能をまもなく実装",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI実装",
+      "score": 34
+    },
+    {
+      "title": "「Claude Fable 5」の性能が落ちた？ 提供停止前後で比べた結果 米AI企業2社がそれぞれ報告",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000157/",
+      "date": "2026-07-03T12:59:30+09:00",
+      "dateLabel": "07/03 12:59",
+      "desc": "「Claude Fable 5」の性能は提供停止前後で変化したのか。米AI企業2社がそれぞれ調査結果を報告している。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "AnthropicがSamsungと独自のAIカスタムチップ開発について協議しているという報道",
+      "link": "https://gigazine.net/news/20260703-anthropic-samsung-ai-chip/",
+      "date": "2026-07-03T11:16:00+09:00",
+      "dateLabel": "07/03 11:16",
+      "desc": "Anthropicが独自のAIチップの開発・製造に向けた協議をSamsungと進めていると報じられました。計画は初期段階で、チップの用途や性能、サーバーへの組み込み方などはまだ決まっていないとのことです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -173,113 +206,80 @@
       "score": 34
     },
     {
-      "title": "AIがウェブサイトに訪問するたびに課金できるシステム「Monetization Gateway」をCloudflareが発表",
-      "link": "https://gigazine.net/news/20260702-cloudflare-monetization-gateway/",
-      "date": "2026-07-02T12:10:00+09:00",
-      "dateLabel": "07/02 12:10",
-      "desc": "Cloudflareは2026年7月1日、Cloudflareで保護しているウェブページやデータセット、API、MCPツールなどにアクセスごとの課金を設定できる「Cloudflare Monetization Gateway」を発表しました。AIエージェントやソフトウェアからのアクセスに対して、x402という支払いプロトコルを使って料金を請求できる仕組みです",
+      "title": "CloudflareがAIボットを「検索」「代理操作」「学習」など種類ごとに制御する仕組みを公開、無料プランでも「検索は許可、AI学習は拒否」を設定可能",
+      "link": "https://gigazine.net/news/20260702-cloudflare-ai-traffic-option/",
+      "date": "2026-07-02T14:15:00+09:00",
+      "dateLabel": "07/02 14:15",
+      "desc": "CloudflareがウェブサイトにアクセスするAI関連ボットを用途ごとに管理できる新しいアクセス制御オプションを全ユーザー向けに公開したと発表しました。新オプションでは検索向けの巡回を許可しつつ、AIモデルの学習やユーザーの代わりに操作するエージェントによるアクセスを制限するといった設定が可能になります。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 34
     },
     {
-      "title": "【SwitchBot】AIパートナーロボット「KATAフレンズ」、エディオンなんば本店で7月4日・5日に体験イベントを開催",
-      "link": "https://ascii.jp/elem/000/004/415/4415953/?rss",
-      "date": "2026-07-03T10:00:00+09:00",
-      "dateLabel": "07/03 10:00",
-      "desc": "【SwitchBot】AIパートナーロボット「KATAフレンズ」、エディオンなんば本店で7月4日・5日に体験イベントを開催",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 26
+      "title": "「賢さよりツール連携力が重要」 Microsoftが実験的な小型AIエージェント基盤を公開",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/02/news050.html",
+      "date": "2026-07-02T13:00:00+09:00",
+      "dateLabel": "07/02 13:00",
+      "desc": "MicrosoftのAI研究チームであるMicrosoft Research AI Frontiersは、小型モデル向けに最適化したエージェント基盤「MagenticLite」を公開した。「エージェント能力は知識量ではなくツール統合と実行ハーネスで決まる」という仮説に基づき構成されており、小型モデルでも実用的なエージェント性能を引き出すという。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
-      "title": "株式会社 Elith、シャドー AI 対策 SaaS「GENFLUX Security」をローンチ",
-      "link": "https://ascii.jp/elem/000/004/415/4415960/?rss",
-      "date": "2026-07-03T09:40:45+09:00",
-      "dateLabel": "07/03 09:40",
-      "desc": "株式会社 Elith、シャドー AI 対策 SaaS「GENFLUX Security」をローンチ",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
+      "title": "史上初の「エージェント型ランサムウェア」感染事例の報告",
+      "link": "https://gigazine.net/news/20260703-ai-agent-ransomware/",
+      "date": "2026-07-03T14:46:00+09:00",
+      "dateLabel": "07/03 14:46",
+      "desc": "ランサムウェア攻撃の全てを自動実行するAIエージェントが確認されました。サーバー侵入やデータ破壊だけでなく、失敗した手順をリアルタイムで修正して再突入する様子も見られたそうです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 26
     },
     {
-      "title": "GIGABYTEがAI最新技術を披露 「TAIWAN EXCELLENCE in TOKYO 2026」でAORUS新製品を展示",
-      "link": "https://ascii.jp/elem/000/004/415/4415937/?rss",
-      "date": "2026-07-03T09:15:00+09:00",
-      "dateLabel": "07/03 09:15",
-      "desc": "GIGABYTE JAPANが2026年7月15日から7月17日まで新宿住友ビル 三角広場で開催される「2026 TAIWAN EXCELLENCE in TOKYO」に出展し、AIソリューションやゲーミングデスクトップ、OLEDモニター、クリエイター向けノートPCなどを展示する。",
-      "img": "https://ascii.jp/img/2026/07/03/4493592/s/13a916d5a48990af.png",
+      "title": "洗濯物をたたむ専用のロボットが片づけやベッドメイクもできるように進化した「Isaac 1」が発表される、価格は買い切り129万円または月額7万2000円",
+      "link": "https://gigazine.net/news/20260703-isaac1-robot/",
+      "date": "2026-07-03T13:50:00+09:00",
+      "dateLabel": "07/03 13:50",
+      "desc": "カリフォルニアに拠点を置くロボットスタートアップのWeave Roboticsが、洗濯や片づけ、ベッドメイクができる家庭用ロボット「Isaac 1」を発表しました。完全自律型ではなく遠隔操作による人間の支援を必要とするロボットで、7999ドル(約129万円)または月額449ドル(約7万2000円)で提供されます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
+      "title": "豊田市と株式会社NAGARA、連携協定2年目へ ─ 市内の介護事業者に議事録AI「ながらかいご議事録」を3カ月間“無料”提供",
+      "link": "https://ascii.jp/elem/000/004/416/4416075/?rss",
+      "date": "2026-07-03T13:00:07+09:00",
+      "dateLabel": "07/03 13:00",
+      "desc": "豊田市と株式会社NAGARA、連携協定2年目へ ─ 市内の介護事業者に議事録AI「ながらかいご議事録」を3カ月間“無料”提供",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "サイバー防御の未来を構築し勝ち取るには官民連携が重要 世界経済フォーラムの最新ガイダンスより",
-      "link": "https://ascii.jp/elem/000/004/414/4414189/?rss",
-      "date": "2026-07-03T09:00:00+09:00",
-      "dateLabel": "07/03 09:00",
-      "desc": "世界経済フォーラムの最新ガイダンスは、リーダーがサイバー防御を強化するためにAIをどのように活用できるかを示しています。",
-      "img": "https://ascii.jp/img/2026/06/29/4490748/s/cc3db7f9177793f5.jpg",
+      "title": "AI通訳サービス「CoeFont通訳」、PDF・Word・PowerPoint・Excelのドキュメント翻訳に対応",
+      "link": "https://ascii.jp/elem/000/004/416/4416080/?rss",
+      "date": "2026-07-03T13:00:00+09:00",
+      "dateLabel": "07/03 13:00",
+      "desc": "AI通訳サービス「CoeFont通訳」、PDF・Word・PowerPoint・Excelのドキュメント翻訳に対応",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "「Mythosがないと守れない」は本当か??AIセキュリティの勝負を分ける「ハーネス」とは",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000154/",
-      "date": "2026-07-03T08:00:00+09:00",
-      "dateLabel": "07/03 08:00",
-      "desc": "「Mythos級のAIにアクセスできない企業は、もう守れない」??。Mythosのアクセスが一部の組織に限られていた2026年春、そんな脅威論が広がった。だが、AIによる初期侵入の自動化を世界で初めて実現したと公表する当事者は、そうは見ていない。勝負を分けるのは、アクセスの有無ではない。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "え、21日で37テラも？ 高性能SSDを食いつぶす「あのAIツール」にご用心：886th Lap",
-      "link": "https://kn.itmedia.co.jp/kn/articles/2607/03/news041.html",
-      "date": "2026-07-03T07:00:00+09:00",
-      "dateLabel": "07/03 07:00",
-      "desc": "AIツールを使っていただけなのに、SSDの寿命が想像以上の速さで縮んでいた。そんな問題が明らかになった。原因は、ツールの実装上の不具合だ。もし、そのAIツールを使っているなら、一度確認しておきたい。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "ソフトウェアエンジニアの仕事は「ループを書くこと」になる 内側ループと外側ループ（ハーネス）入門",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/03/news016.html",
-      "date": "2026-07-03T05:00:00+09:00",
-      "dateLabel": "07/03 05:00",
-      "desc": "AIコーディングにおける「ループ」には、エージェントが回す内側ループと、ハーネスが回す外側ループの2種類がある。両者の違いと外側ループがもたらす課題を、アルミン・ロナッハー氏の記事に沿って初心者向けに解説し、その「記憶」の扱いについての筆者の考えも添える。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "営業AIエージェントとは？導入メリットと失敗しないツールの選び方",
-      "link": "https://ainow.ai/2026/07/02/278226/?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%2596%25b6%25e6%25a5%25adai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e5%25b0%258e%25e5%2585%25a5%25e3%2583%25a1%25e3%2583%25aa%25e3%2583%2583%25e3%2583%2588%25e3%2581%25a8%25e5%25a4%25b1%25e6%2595%2597%25e3%2581%2597%25e3%2581%25aa",
-      "date": "2026-07-02T23:26:47+09:00",
-      "dateLabel": "07/02 23:26",
-      "desc": "営業部門の人手不足や属人化に悩み、「営業AIエージェント」という言葉を見かけてもSFA・CRMとの違いがわからず、検討を先延ばしにしている担当者は少なくありません。 営業AIエージェントとは、蓄積された営業データをもとに... The post 営業AIエージェントとは？導入メリットと失敗しないツールの選び方 first appeared on AI専門ニュ",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "バックオフィスAIエージェントとは？できることとおすすめ7選を解説",
-      "link": "https://ainow.ai/2026/07/02/278223/?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2583%2590%25e3%2583%2583%25e3%2582%25af%25e3%2582%25aa%25e3%2583%2595%25e3%2582%25a3%25e3%2582%25b9ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b%25e3%2581%2593%25e3%2581%25a8%25e3%2581%25a8",
-      "date": "2026-07-02T23:01:00+09:00",
-      "dateLabel": "07/02 23:01",
-      "desc": "経理・人事・総務などバックオフィス部門で、経営層から「AIエージェントを導入できないか」と相談され、何から着手すればよいかわからず困っている担当者は少なくありません。 バックオフィスAIエージェントとは、請求書処理や勤怠... The post バックオフィスAIエージェントとは？できることとおすすめ7選を解説 first appeared on AI専門ニ",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
+      "title": "日取りより大切なことがある。AI時代のマッチングアプリ「ヨイトキ（Yoitoki）」が「写真もプロフィールも見せない出会い」で問いかける、相手選びの本質",
+      "link": "https://ascii.jp/elem/000/004/416/4416081/?rss",
+      "date": "2026-07-03T12:57:28+09:00",
+      "dateLabel": "07/03 12:57",
+      "desc": "日取りより大切なことがある。AI時代のマッチングアプリ「ヨイトキ（Yoitoki）」が「写真もプロフィールも見せない出会い」で問いかける、相手選びの本質",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 26
     }
   ]
