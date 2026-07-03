@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-04T00:48:41.610585+09:00",
-  "generatedLabel": "2026/07/04 00:48",
+  "generatedAt": "2026-07-04T02:13:10.165430+09:00",
+  "generatedLabel": "2026/07/04 02:13",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 57,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -72,6 +72,17 @@
       "src": "GIGAZINE",
       "cat": "規制/安全",
       "score": 50
+    },
+    {
+      "title": "全機種Core Ultra 3に32GBメモリー搭載の軽量モバイルノート「Swift Edge 14 AI」「Swift Go 14 AI」発表",
+      "link": "https://ascii.jp/elem/000/004/416/4416259/?rss",
+      "date": "2026-07-04T01:00:00+09:00",
+      "dateLabel": "07/04 01:00",
+      "desc": "日本エイサーは14インチAIノートパソコンの新製品として、薄型軽量を追求した「Swift Edge 14 AI」2機種と、高い処理性能と使い勝手を両立させた「Swift Go 14 AI」2機種の計4機種を発表した。",
+      "img": "https://ascii.jp/img/2026/07/03/4494487/s/dae846a3bc3c146c.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 42
     },
     {
       "title": "Anthropicとアメリカ政府の関係悪化の経緯が裁判で提出されたメールによって明らかに、ダリオ・アモデイCEOと国防総省幹部のメール内容が公開される",
@@ -268,17 +279,6 @@
       "desc": "2026年7月9日(木)発売予定の家庭用ゲーム『ソードアート・オンライン Echoes of Aincrad』のプロモーションアニメ映像『Unanswered//butterfly』がYouTubeおよびABEMAで特別公開されます。YouTubeの配信日時は2026年7月5日(日)20時から、ABEMAの配信日時は2026年7月9日(木)20時からとなって",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "日報AIポチに公式キャラクター『ポチ』が誕生！",
-      "link": "https://ascii.jp/elem/000/004/416/4416245/?rss",
-      "date": "2026-07-03T18:43:36+09:00",
-      "dateLabel": "07/03 18:43",
-      "desc": "日報AIポチに公式キャラクター『ポチ』が誕生！",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     }
