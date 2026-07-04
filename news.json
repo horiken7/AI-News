@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-04T18:13:31.307564+09:00",
-  "generatedLabel": "2026/07/04 18:13",
+  "generatedAt": "2026-07-04T20:17:30.905925+09:00",
+  "generatedLabel": "2026/07/04 20:17",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -184,17 +184,6 @@
       "score": 26
     },
     {
-      "title": "「顔写真なし」のいいねを受け取り続けていませんか。AI時代のマッチングアプリ「ヨイトキ（Yoitoki）」が、プロフィール未設定ユーザーのいいねを自動で拒否する設計を導入",
-      "link": "https://ascii.jp/elem/000/004/416/4416292/?rss",
-      "date": "2026-07-04T10:00:00+09:00",
-      "dateLabel": "07/04 10:00",
-      "desc": "「顔写真なし」のいいねを受け取り続けていませんか。AI時代のマッチングアプリ「ヨイトキ（Yoitoki）」が、プロフィール未設定ユーザーのいいねを自動で拒否する設計を導入",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 26
-    },
-    {
       "title": "米トランプ大統領、AI規制は「できるだけ介入少なく」 中国に対して開発競争「大幅リード」を強調",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/04/2000000159/",
       "date": "2026-07-04T08:00:00+09:00",
@@ -213,17 +202,6 @@
       "desc": "2026年6月29日～7月3日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "2026年7月3日のヘッドラインニュース",
-      "link": "https://gigazine.net/news/20260703-headline/",
-      "date": "2026-07-03T18:51:00+09:00",
-      "dateLabel": "07/03 18:51",
-      "desc": "2026年7月9日(木)発売予定の家庭用ゲーム『ソードアート・オンライン Echoes of Aincrad』のプロモーションアニメ映像『Unanswered//butterfly』がYouTubeおよびABEMAで特別公開されます。YouTubeの配信日時は2026年7月5日(日)20時から、ABEMAの配信日時は2026年7月9日(木)20時からとなって",
-      "img": "",
-      "src": "GIGAZINE",
       "cat": "AI全般",
       "score": 26
     },
@@ -280,6 +258,28 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "AWSの「静かな」戦略シフト OpenAIとAnthropic“1日違い登壇”の意味を読み解く",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2607/06/news016.html",
+      "date": "2026-07-03T09:00:00+09:00",
+      "dateLabel": "07/03 09:00",
+      "desc": "生成AIで競合するOpenAIとAnthropicを1日違いで基調講演に招く――。「AWS Summit Japan 2026」で浮かび上がったのは、モデルの賢さではなく「別のあるもの」を握ることで、基盤の価値を保ち続けようとするAWSの戦略シフトだ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "AIアシスタントで設計検証を迅速化、3D CAD「Creo」最新版を提供開始",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/02/news006.html",
+      "date": "2026-07-02T09:00:00+09:00",
+      "dateLabel": "07/02 09:00",
+      "desc": "PTCは、オンプレミス版の3D CADソリューション「Creo 13」と、SaaS版の「Creo+ 13.3」の提供開始を発表した。新たにAIアシスタント機能を導入した他、設計、シミュレーション、製造の各領域で機能を強化している。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
