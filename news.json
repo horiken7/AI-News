@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-05T07:47:25.487616+09:00",
-  "generatedLabel": "2026/07/05 07:47",
+  "generatedAt": "2026-07-05T08:53:22.527190+09:00",
+  "generatedLabel": "2026/07/05 08:53",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 11
+      "items": 10
     },
     {
       "source": "CNET Japan",
@@ -62,17 +62,6 @@
     }
   ],
   "articles": [
-    {
-      "title": "OpenAIがアメリカ政府に株式の5％譲渡を計画中との報道、アメリカ政府はGPT-5.6の一般公開を規制中",
-      "link": "https://gigazine.net/news/20260703-openai-stock-government/",
-      "date": "2026-07-03T12:31:00+09:00",
-      "dateLabel": "07/03 12:31",
-      "desc": "OpenAIが政治的な障害を取り除くためにアメリカ政府に株式の5％を譲渡することを検討していることが、Financial Timesによって報じられました。OpenAIが2026年3月の資金調達ラウンドで設定した8520億ドル(約137兆円)の評価額に基づくと、5％の株式は約426億ドル(約6兆8000億円)に相当します。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 42
-    },
     {
       "title": "クアルコムがPythonライクな新言語「Mojo」開発元のModular社買収を発表。AIデータセンター市場へ本格参入",
       "link": "https://www.publickey1.jp/blog/26/pythonmojomodularai.html",
@@ -184,17 +173,6 @@
       "score": 26
     },
     {
-      "title": "米トランプ大統領、AI規制は「できるだけ介入少なく」 中国に対して開発競争「大幅リード」を強調",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/04/2000000159/",
-      "date": "2026-07-04T08:00:00+09:00",
-      "dateLabel": "07/04 08:00",
-      "desc": "トランプ米大統領がCNBCのインタビューで、AI規制について「ガードレールは必要だが、介入はできるだけ少なくしたい」と述べ、規制最小限の路線を改めて示した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
-      "score": 26
-    },
-    {
       "title": "AIエージェントで業務自動化する方法とは？できることや事例を解説",
       "link": "https://ainow.ai/2026/07/04/278229/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e6%25a5%25ad%25e5%258b%2599%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b",
       "date": "2026-07-04T03:15:31+09:00",
@@ -281,6 +259,28 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 26
+    },
+    {
+      "title": "Stack Overflow、AIエージェント同士が掲示板で技術情報を共有する「Stack Overflow for Agents」ベータ公開",
+      "link": "https://www.publickey1.jp/blog/26/stack_overflowaistack_overflow_for_agents.html",
+      "date": "2026-06-16T00:46:43+09:00",
+      "dateLabel": "06/16 00:46",
+      "desc": "Stack Overflowは、AIエージェント同士がオープンな掲示板の上で技術的な解決策などの情報を共有する新サービス「Stack Overflow for Agents」をベータ版として提供開始したことを明らかにしました。 What i...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 24
+    },
+    {
+      "title": "DNSを基盤にAIエージェントに信頼できる名前を与える「Agent Name Service（ANS）」、立ち上げ意向をLinux Foundationが発表",
+      "link": "https://www.publickey1.jp/blog/26/dnsaiagent_name_serviceanslinux_foundation.html",
+      "date": "2026-07-02T00:04:00+09:00",
+      "dateLabel": "07/02 00:04",
+      "desc": "Linux Foundationは、既存のドメインネームシステム（DNS）基盤を拡張してインターネット上で稼働するAIエージェントに信頼できる識別子としての名前などを提供する新しいオープンソース標準「Agent Name Service（A...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 20
     }
   ]
 }
