@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-05T06:48:11.217379+09:00",
-  "generatedLabel": "2026/07/05 06:48",
+  "generatedAt": "2026-07-05T07:47:25.487616+09:00",
+  "generatedLabel": "2026/07/05 07:47",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 53,
@@ -195,17 +195,6 @@
       "score": 26
     },
     {
-      "title": "フィジカルAIに挑む日の丸連合、「Noetra」とは何か",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/04/news016.html",
-      "date": "2026-07-04T07:00:00+09:00",
-      "dateLabel": "07/04 07:00",
-      "desc": "2026年6月29日～7月3日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
       "title": "AIエージェントで業務自動化する方法とは？できることや事例を解説",
       "link": "https://ainow.ai/2026/07/04/278229/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e6%25a5%25ad%25e5%258b%2599%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b",
       "date": "2026-07-04T03:15:31+09:00",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "AIアシスタントで設計検証を迅速化、3D CAD「Creo」最新版を提供開始",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/02/news006.html",
+      "date": "2026-07-02T09:00:00+09:00",
+      "dateLabel": "07/02 09:00",
+      "desc": "PTCは、オンプレミス版の3D CADソリューション「Creo 13」と、SaaS版の「Creo+ 13.3」の提供開始を発表した。新たにAIアシスタント機能を導入した他、設計、シミュレーション、製造の各領域で機能を強化している。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
