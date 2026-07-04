@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-04T15:39:52.556191+09:00",
-  "generatedLabel": "2026/07/04 15:39",
+  "generatedAt": "2026-07-04T18:13:31.307564+09:00",
+  "generatedLabel": "2026/07/04 18:13",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 59,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -62,17 +62,6 @@
     }
   ],
   "articles": [
-    {
-      "title": "Anthropicとアメリカ政府の関係悪化の経緯が裁判で提出されたメールによって明らかに、ダリオ・アモデイCEOと国防総省幹部のメール内容が公開される",
-      "link": "https://gigazine.net/news/20260703-anthropic-pentagon-email/",
-      "date": "2026-07-03T16:02:00+09:00",
-      "dateLabel": "07/03 16:02",
-      "desc": "Anthropicはアメリカ国防総省とAI利用に関する契約を結んでいましたが、2026年2月28日に国防総省およびアメリカ政府がAnthropicとの関係断絶を決定しました。この国防総省の決定を巡ってAnthropicは訴訟を提起しており、裁判で提出された資料からダリオ・アモデイCEOと国防総省の技術責任者であるエミル・マイケル氏のメール内容が明らかになって",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 42
-    },
     {
       "title": "OpenAIがアメリカ政府に株式の5％譲渡を計画中との報道、アメリカ政府はGPT-5.6の一般公開を規制中",
       "link": "https://gigazine.net/news/20260703-openai-stock-government/",
@@ -118,17 +107,6 @@
       "score": 34
     },
     {
-      "title": "OZgaming「Tower300シリーズ」発売、The Tower 300採用のBTOゲーミングPCが登場",
-      "link": "https://ascii.jp/elem/000/004/416/4416149/?rss",
-      "date": "2026-07-04T10:00:00+09:00",
-      "dateLabel": "07/04 10:00",
-      "desc": "ソフマップがOZgamingの「Tower300シリーズ」BTOモデルを販売開始。Thermaltake「The Tower 300」採用、CPU・GPU・SSDを選択可能、32GBメモリ標準搭載のゲーミングPCだ。",
-      "img": "https://ascii.jp/img/2026/07/03/4493924/s/1cece3d1b692168c.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
       "title": "AIエージェントで業務自動化する方法とは？できることや事例を解説",
       "link": "https://ainow.ai/2026/07/04/278229/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e6%25a5%25ad%25e5%258b%2599%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b",
       "date": "2026-07-04T03:15:31+09:00",
@@ -140,36 +118,14 @@
       "score": 34
     },
     {
-      "title": "AIエージェントでSafariを自動操作してテストやデバッグを実行できる「Safari MCP server」が登場",
-      "link": "https://gigazine.net/news/20260703-safari-mcp-server/",
-      "date": "2026-07-03T17:56:00+09:00",
-      "dateLabel": "07/03 17:56",
-      "desc": "ウェブブラウザ「Safari」の開発者向けプレビュー版であるSafari Technology Preview 247が2026年7月1日にリリースされました。AIエージェントにSafariの自動操作を任せられる「Safari MCP server」が利用可能となっています。 続きを読む...",
+      "title": "Anthropicとアメリカ政府の関係悪化の経緯が裁判で提出されたメールによって明らかに、ダリオ・アモデイCEOと国防総省幹部のメール内容が公開される",
+      "link": "https://gigazine.net/news/20260703-anthropic-pentagon-email/",
+      "date": "2026-07-03T16:02:00+09:00",
+      "dateLabel": "07/03 16:02",
+      "desc": "Anthropicはアメリカ国防総省とAI利用に関する契約を結んでいましたが、2026年2月28日に国防総省およびアメリカ政府がAnthropicとの関係断絶を決定しました。この国防総省の決定を巡ってAnthropicは訴訟を提起しており、裁判で提出された資料からダリオ・アモデイCEOと国防総省の技術責任者であるエミル・マイケル氏のメール内容が明らかになって",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "3万円で「Yahoo!ニュース」にPR掲載 プレスリリースをAIで「ニュース風記事」に",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/03/news116.html",
-      "date": "2026-07-03T15:44:00+09:00",
-      "dateLabel": "07/03 15:44",
-      "desc": "Yahoo!ニュース内に、企業の発表情報をニュース記事と同じフォーマットで掲載する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "アメリカ製オープンモデル「Laguna XS 2.1」が登場、ローカルで動作し一部のテストでClaude Haiku 4.5を上回る",
-      "link": "https://gigazine.net/news/20260703-laguna-xs-2-1/",
-      "date": "2026-07-03T11:43:00+09:00",
-      "dateLabel": "07/03 11:43",
-      "desc": "アメリカに拠点を置くAI開発企業のPoolsideがAIモデル「Laguna XS 2.1」を2026年7月2日に発表しました。Laguna XS 2.1は2026年4月に登場したLaguna XS.2の性能強化版です。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
+      "cat": "規制/安全",
       "score": 34
     },
     {
@@ -239,17 +195,6 @@
       "score": 26
     },
     {
-      "title": "累計50,000作品突破のモザイクアート生成システム「Terminus Mosaic Live」が劇的バージョンアップ！ 5大オプション追加でイベント活用の幅がぐっと広がりました（株式会社ターミナス）",
-      "link": "https://ascii.jp/elem/000/004/416/4416271/?rss",
-      "date": "2026-07-04T10:00:00+09:00",
-      "dateLabel": "07/04 10:00",
-      "desc": "累計50,000作品突破のモザイクアート生成システム「Terminus Mosaic Live」が劇的バージョンアップ！ 5大オプション追加でイベント活用の幅がぐっと広がりました（株式会社ターミナス）",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
       "title": "米トランプ大統領、AI規制は「できるだけ介入少なく」 中国に対して開発競争「大幅リード」を強調",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/04/2000000159/",
       "date": "2026-07-04T08:00:00+09:00",
@@ -280,6 +225,61 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "AIエージェントでSafariを自動操作してテストやデバッグを実行できる「Safari MCP server」が登場",
+      "link": "https://gigazine.net/news/20260703-safari-mcp-server/",
+      "date": "2026-07-03T17:56:00+09:00",
+      "dateLabel": "07/03 17:56",
+      "desc": "ウェブブラウザ「Safari」の開発者向けプレビュー版であるSafari Technology Preview 247が2026年7月1日にリリースされました。AIエージェントにSafariの自動操作を任せられる「Safari MCP server」が利用可能となっています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "3万円で「Yahoo!ニュース」にPR掲載 プレスリリースをAIで「ニュース風記事」に",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/03/news116.html",
+      "date": "2026-07-03T15:44:00+09:00",
+      "dateLabel": "07/03 15:44",
+      "desc": "Yahoo!ニュース内に、企業の発表情報をニュース記事と同じフォーマットで掲載する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "「Claude Fable 5」をサブスクの標準機能に――AnthropicのエンジニアがXに投稿 7月8日以降の「早期復活目指す」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000158/",
+      "date": "2026-07-03T15:34:43+09:00",
+      "dateLabel": "07/03 15:34",
+      "desc": "「Fable 5をサブスクリプションの標準機能として復活させることを目指している」――米AnthropicのITエンジニアであるタリク・シヒパー氏は、自身のXアカウントにこのように投稿した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "NVIDIAチップ密輸容疑者の約69億円の豪邸をシンガポール警察が押収",
+      "link": "https://gigazine.net/news/20260703-singapore-seizes-42m-home-nvidia-fraud/",
+      "date": "2026-07-03T13:17:00+09:00",
+      "dateLabel": "07/03 13:17",
+      "desc": "中国への輸出が禁止されているNVIDIA製チップがシンガポール経由で中国に密輸された疑いがある事件の捜査で、シンガポール警察が約5500万シンガポールドル(約69億円)の豪邸を押収したと発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "「Claude Fable 5」の性能が落ちた？ 提供停止前後で比べた結果 米AI企業2社がそれぞれ報告",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000157/",
+      "date": "2026-07-03T12:59:30+09:00",
+      "dateLabel": "07/03 12:59",
+      "desc": "「Claude Fable 5」の性能は提供停止前後で変化したのか。米AI企業2社がそれぞれ調査結果を報告している。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 26
     }
   ]
