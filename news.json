@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-04T08:59:47.203270+09:00",
-  "generatedLabel": "2026/07/04 08:59",
+  "generatedAt": "2026-07-04T12:20:53.781036+09:00",
+  "generatedLabel": "2026/07/04 12:20",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 58,
+  "candidates": 61,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 9
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -74,6 +74,17 @@
       "score": 50
     },
     {
+      "title": "RTX 5090＆9950X3Dの超こだわりPCはForza Horizon 6も4K・最高画質で快適プレイ！ローカルLLMもイケるぞ",
+      "link": "https://ascii.jp/elem/000/004/412/4412257/?rss",
+      "date": "2026-07-04T10:00:00+09:00",
+      "dateLabel": "07/04 10:00",
+      "desc": "サイコムの超こだわりゲーミングPC「G-Master Spear BF360 Limited Edition」をベンチマーク！",
+      "img": "https://ascii.jp/img/2026/07/01/4492253/s/9d66b592856fd078.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "全機種Core Ultra 3に32GBメモリー搭載の軽量モバイルノート「Swift Edge 14 AI」「Swift Go 14 AI」発表",
       "link": "https://ascii.jp/elem/000/004/416/4416259/?rss",
       "date": "2026-07-04T01:00:00+09:00",
@@ -96,28 +107,6 @@
       "score": 42
     },
     {
-      "title": "アメリカ製オープンモデル「Laguna XS 2.1」が登場、ローカルで動作し一部のテストでClaude Haiku 4.5を上回る",
-      "link": "https://gigazine.net/news/20260703-laguna-xs-2-1/",
-      "date": "2026-07-03T11:43:00+09:00",
-      "dateLabel": "07/03 11:43",
-      "desc": "アメリカに拠点を置くAI開発企業のPoolsideがAIモデル「Laguna XS 2.1」を2026年7月2日に発表しました。Laguna XS 2.1は2026年4月に登場したLaguna XS.2の性能強化版です。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "Meta、「Claude Codeと組織改編で爆速開発」のはずが「想定より加速せず」 ザッカーバーグ氏、社内集会で発言",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000155/",
-      "date": "2026-07-03T11:01:17+09:00",
-      "dateLabel": "07/03 11:01",
-      "desc": "MetaはAI向けの巨額投資や組織改編でAIエージェント開発の加速を図ったが、ザッカーバーグCEOによれば、それらの取り組みはまだ実を結んでいないようだ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "クアルコムがPythonライクな新言語「Mojo」開発元のModular社買収を発表。AIデータセンター市場へ本格参入",
       "link": "https://www.publickey1.jp/blog/26/pythonmojomodularai.html",
       "date": "2026-06-30T00:33:20+09:00",
@@ -127,6 +116,28 @@
       "src": "Publickey",
       "cat": "半導体/GPU",
       "score": 36
+    },
+    {
+      "title": "OZgaming「Tower300シリーズ」発売、The Tower 300採用のBTOゲーミングPCが登場",
+      "link": "https://ascii.jp/elem/000/004/416/4416149/?rss",
+      "date": "2026-07-04T10:00:00+09:00",
+      "dateLabel": "07/04 10:00",
+      "desc": "ソフマップがOZgamingの「Tower300シリーズ」BTOモデルを販売開始。Thermaltake「The Tower 300」採用、CPU・GPU・SSDを選択可能、32GBメモリ標準搭載のゲーミングPCだ。",
+      "img": "https://ascii.jp/img/2026/07/03/4493924/s/1cece3d1b692168c.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "【アマゾン30%OFFタイムセール】13.4インチ大画面Android16タブレット「P13 セット版」が30%OFFクーポンで26,900円に！Gemini AI対応・120Hz・12000mAh",
+      "link": "https://ascii.jp/elem/000/004/416/4416284/?rss",
+      "date": "2026-07-04T08:00:00+09:00",
+      "dateLabel": "07/04 08:00",
+      "desc": "【アマゾン30%OFFタイムセール】13.4インチ大画面Android16タブレット「P13 セット版」が30%OFFクーポンで26,900円に！Gemini AI対応・120Hz・12000mAh",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "コードが書けなくてもbotアカウントは作れる？ Claude Codeでバイブコーディングしてみた",
@@ -206,25 +217,25 @@
       "score": 34
     },
     {
-      "title": "AnthropicがSamsungと独自のAIカスタムチップ開発について協議しているという報道",
-      "link": "https://gigazine.net/news/20260703-anthropic-samsung-ai-chip/",
-      "date": "2026-07-03T11:16:00+09:00",
-      "dateLabel": "07/03 11:16",
-      "desc": "Anthropicが独自のAIチップの開発・製造に向けた協議をSamsungと進めていると報じられました。計画は初期段階で、チップの用途や性能、サーバーへの組み込み方などはまだ決まっていないとのことです。 続きを読む...",
+      "title": "アメリカ製オープンモデル「Laguna XS 2.1」が登場、ローカルで動作し一部のテストでClaude Haiku 4.5を上回る",
+      "link": "https://gigazine.net/news/20260703-laguna-xs-2-1/",
+      "date": "2026-07-03T11:43:00+09:00",
+      "dateLabel": "07/03 11:43",
+      "desc": "アメリカに拠点を置くAI開発企業のPoolsideがAIモデル「Laguna XS 2.1」を2026年7月2日に発表しました。Laguna XS 2.1は2026年4月に登場したLaguna XS.2の性能強化版です。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 34
     },
     {
-      "title": "AWSの「静かな」戦略シフト OpenAIとAnthropic“1日違い登壇”の意味を読み解く",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2607/06/news016.html",
-      "date": "2026-07-03T09:00:00+09:00",
-      "dateLabel": "07/03 09:00",
-      "desc": "生成AIで競合するOpenAIとAnthropicを1日違いで基調講演に招く――。「AWS Summit Japan 2026」で浮かび上がったのは、モデルの賢さではなく「別のあるもの」を握ることで、基盤の価値を保ち続けようとするAWSの戦略シフトだ。",
+      "title": "Meta、「Claude Codeと組織改編で爆速開発」のはずが「想定より加速せず」 ザッカーバーグ氏、社内集会で発言",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000155/",
+      "date": "2026-07-03T11:01:17+09:00",
+      "dateLabel": "07/03 11:01",
+      "desc": "MetaはAI向けの巨額投資や組織改編でAIエージェント開発の加速を図ったが、ザッカーバーグCEOによれば、それらの取り組みはまだ実を結んでいないようだ。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -250,34 +261,23 @@
       "score": 34
     },
     {
-      "title": "米トランプ大統領、AI規制は「できるだけ介入少なく」 中国に対して開発競争「大幅リード」を強調",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/04/2000000159/",
-      "date": "2026-07-04T08:00:00+09:00",
-      "dateLabel": "07/04 08:00",
-      "desc": "トランプ米大統領がCNBCのインタビューで、AI規制について「ガードレールは必要だが、介入はできるだけ少なくしたい」と述べ、規制最小限の路線を改めて示した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
-      "score": 26
-    },
-    {
-      "title": "フィジカルAIに挑む日の丸連合、「Noetra」とは何か",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/04/news016.html",
-      "date": "2026-07-04T07:00:00+09:00",
-      "dateLabel": "07/04 07:00",
-      "desc": "2026年6月29日～7月3日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。",
-      "img": "",
-      "src": "ITmedia AI+",
+      "title": "4台も衝動買いしてやっとわかった「スマートAIグラスの光と影」",
+      "link": "https://ascii.jp/elem/000/004/415/4415919/?rss",
+      "date": "2026-07-04T12:00:00+09:00",
+      "dateLabel": "07/04 12:00",
+      "desc": "本連載では3回に渡って、スマートグラスの「Rokid スマートAIグラス」を紹介したが、Rokidを使い続ける中で、もうひとつ考え続けていたテーマがある。それは「スマートAIグラスは社会に受け入れられるのだろうか」という問題だ。",
+      "img": "https://ascii.jp/img/2026/07/02/4493375/s/5818a2b9b045e8d8.jpg",
+      "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "10万超えの高級ハンドルコントローラーFanatec(CORSAIR)「Gran Turismo DD Pro（5Nm）」は、価格を超える喜びアリ。",
-      "link": "https://ascii.jp/elem/000/004/416/4416066/?rss",
-      "date": "2026-07-03T22:00:00+09:00",
-      "dateLabel": "07/03 22:00",
-      "desc": "Fanatec(CORSAIR)「Gran Turismo DD Pro（5Nm）」は、10万超えの高級ハンドルコントローラー。でも、価格を超える喜びがあります。",
-      "img": "https://ascii.jp/img/2026/07/03/4493755/s/a15d6063bcbbc130.jpg",
+      "title": "累計50,000作品突破のモザイクアート生成システム「Terminus Mosaic Live」が劇的バージョンアップ！ 5大オプション追加でイベント活用の幅がぐっと広がりました（株式会社ターミナス）",
+      "link": "https://ascii.jp/elem/000/004/416/4416271/?rss",
+      "date": "2026-07-04T10:00:00+09:00",
+      "dateLabel": "07/04 10:00",
+      "desc": "累計50,000作品突破のモザイクアート生成システム「Terminus Mosaic Live」が劇的バージョンアップ！ 5大オプション追加でイベント活用の幅がぐっと広がりました（株式会社ターミナス）",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
