@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-05T15:30:00.939357+09:00",
-  "generatedLabel": "2026/07/05 15:30",
+  "generatedAt": "2026-07-05T18:34:40.044146+09:00",
+  "generatedLabel": "2026/07/05 18:34",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 9
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -85,6 +85,17 @@
       "score": 36
     },
     {
+      "title": "無料でスマホ・デスクトップPC・ターミナルからありとあらゆるコーディングAIエージェントを一気にまとめて管理しコントロールする「Paseo」、セルフホスト可能でオープンソース",
+      "link": "https://gigazine.net/news/20260705-paseo/",
+      "date": "2026-07-05T18:00:00+09:00",
+      "dateLabel": "07/05 18:00",
+      "desc": "開発ツールとしてコーディング用AIエージェントを利用し外部からも作業を続けたい場合、外部から自PCへの接続設定が面倒であったり、リモート接続の画面共有だと動作が遅かったりと、簡単にリモート操作ができる環境は用意するのが難しいものです。簡単に外部接続の設定ができ、スマホ・デスクトップPC・ターミナルなどからClaude Code・Codex・OpenCodeな",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
       "title": "WSLコンテナーのプレビューを試す 今年はWSLに動きがありそうだ",
       "link": "https://ascii.jp/elem/000/004/415/4415912/?rss",
       "date": "2026-07-05T10:00:00+09:00",
@@ -104,17 +115,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "株式会社Mavericksは、動画生成AI「NoLang」にクロアチア語・ブルガリア語・ウクライナ語・ギリシャ語の東欧・バルカン4言語を追加。翻訳会社やナレーターを介さず現地語動画を内製可能に",
-      "link": "https://ascii.jp/elem/000/004/416/4416321/?rss",
-      "date": "2026-07-04T18:02:26+09:00",
-      "dateLabel": "07/04 18:02",
-      "desc": "株式会社Mavericksは、動画生成AI「NoLang」にクロアチア語・ブルガリア語・ウクライナ語・ギリシャ語の東欧・バルカン4言語を追加。翻訳会社やナレーターを介さず現地語動画を内製可能に",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
@@ -148,7 +148,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
+      "score": 28
     },
     {
       "title": "「賢さよりツール連携力が重要」 Microsoftが実験的な小型AIエージェント基盤を公開",
