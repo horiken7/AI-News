@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-05T11:03:26.788143+09:00",
-  "generatedLabel": "2026/07/05 11:03",
+  "generatedAt": "2026-07-05T15:30:00.939357+09:00",
+  "generatedLabel": "2026/07/05 15:30",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 54,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 9
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 8
     },
     {
       "source": "CNET Japan",
@@ -118,17 +118,6 @@
       "score": 34
     },
     {
-      "title": "AIエージェントで業務効率化する方法！向いている業務の見極め方と事例",
-      "link": "https://ainow.ai/2026/07/04/278232/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e6%25a5%25ad%25e5%258b%2599%25e5%258a%25b9%25e7%258e%2587%25e5%258c%2596%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595%25ef%25bc%2581%25e5%2590%2591%25e3%2581%2584%25e3%2581%25a6%25e3%2581%2584%25e3%2582%258b",
-      "date": "2026-07-04T14:00:00+09:00",
-      "dateLabel": "07/04 14:00",
-      "desc": "ChatGPTなどの生成AIを使っているのに、業務効率化の効果が頭打ちになっていると感じる担当者は少なくありません。 AIエージェントとは、目標を伝えるだけで自ら計画・実行するAIであり、生成AIの「回答」だけでは届かな... The post AIエージェントで業務効率化する方法！向いている業務の見極め方と事例 first appeared on AI専門",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "Anthropicとアメリカ政府の関係悪化の経緯が裁判で提出されたメールによって明らかに、ダリオ・アモデイCEOと国防総省幹部のメール内容が公開される",
       "link": "https://gigazine.net/news/20260703-anthropic-pentagon-email/",
       "date": "2026-07-03T16:02:00+09:00",
@@ -170,7 +159,62 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 34
+      "score": 28
+    },
+    {
+      "title": "今年の花火大会、誰と行きますか？ AI時代のマッチングアプリ「ヨイトキ（Yoitoki）」が考える花火デート前の距離感",
+      "link": "https://ascii.jp/elem/000/004/416/4416331/?rss",
+      "date": "2026-07-05T12:00:00+09:00",
+      "dateLabel": "07/05 12:00",
+      "desc": "今年の花火大会、誰と行きますか？ AI時代のマッチングアプリ「ヨイトキ（Yoitoki）」が考える花火デート前の距離感",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "マイクロン、AI需要で広島工場増強へ起工式 1.5兆円投資",
+      "link": "https://eetimes.itmedia.co.jp/ee/articles/2607/06/news047.html",
+      "date": "2026-07-05T11:00:00+09:00",
+      "dateLabel": "07/05 11:00",
+      "desc": "マイクロンメモリ ジャパンは2026年7月、広島工場の生産能力増強に向けた新クリーンルーム建設の起工式を開催した。AI技術の進展に伴うメモリ需要の増加に対応するもので、2028年後半に製造装置の搬入を開始する予定だ。広島工場には今後、この新クリーンルーム建設を含めて1兆5000億円を投じる。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
+      "title": "AI時代のマッチングアプリ「ヨイトキ（Yoitoki）」、街頭インタビュー企画を開始",
+      "link": "https://ascii.jp/elem/000/004/416/4416326/?rss",
+      "date": "2026-07-05T11:00:00+09:00",
+      "dateLabel": "07/05 11:00",
+      "desc": "AI時代のマッチングアプリ「ヨイトキ（Yoitoki）」、街頭インタビュー企画を開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "AI時代のマッチングアプリでは、デート聖地選びも“相性確認”へ",
+      "link": "https://ascii.jp/elem/000/004/416/4416327/?rss",
+      "date": "2026-07-05T10:00:00+09:00",
+      "dateLabel": "07/05 10:00",
+      "desc": "AI時代のマッチングアプリでは、デート聖地選びも“相性確認”へ",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "【最大80％給付対象】Tech Mentor「AI駆動開発&要件定義6ヶ月コース」を提供",
+      "link": "https://ascii.jp/elem/000/004/416/4416330/?rss",
+      "date": "2026-07-05T09:00:00+09:00",
+      "dateLabel": "07/05 09:00",
+      "desc": "【最大80％給付対象】Tech Mentor「AI駆動開発&要件定義6ヶ月コース」を提供",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     },
     {
       "title": "【Amazonプライムデー】AIスマートイヤホンおよびスマート記録デバイス「viaim（ヴィエイム）」が最大34%OFF！これからのビジネスパーソンの必須アイテムを特別価格でご提供！",
@@ -192,6 +236,17 @@
       "img": "https://ascii.jp/img/2026/07/03/4494025/s/300925087045b759.jpg",
       "src": "ASCII.jp",
       "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "AIエージェントで業務効率化する方法！向いている業務の見極め方と事例",
+      "link": "https://ainow.ai/2026/07/04/278232/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e6%25a5%25ad%25e5%258b%2599%25e5%258a%25b9%25e7%258e%2587%25e5%258c%2596%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595%25ef%25bc%2581%25e5%2590%2591%25e3%2581%2584%25e3%2581%25a6%25e3%2581%2584%25e3%2582%258b",
+      "date": "2026-07-04T14:00:00+09:00",
+      "dateLabel": "07/04 14:00",
+      "desc": "ChatGPTなどの生成AIを使っているのに、業務効率化の効果が頭打ちになっていると感じる担当者は少なくありません。 AIエージェントとは、目標を伝えるだけで自ら計画・実行するAIであり、生成AIの「回答」だけでは届かな... The post AIエージェントで業務効率化する方法！向いている業務の見極め方と事例 first appeared on AI専門",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
       "score": 26
     },
     {
@@ -226,61 +281,6 @@
       "src": "ITmedia AI+",
       "cat": "AI全般",
       "score": 26
-    },
-    {
-      "title": "「Claude Fable 5」をサブスクの標準機能に――AnthropicのエンジニアがXに投稿 7月8日以降の「早期復活目指す」",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000158/",
-      "date": "2026-07-03T15:34:43+09:00",
-      "dateLabel": "07/03 15:34",
-      "desc": "「Fable 5をサブスクリプションの標準機能として復活させることを目指している」――米AnthropicのITエンジニアであるタリク・シヒパー氏は、自身のXアカウントにこのように投稿した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "NVIDIAチップ密輸容疑者の約69億円の豪邸をシンガポール警察が押収",
-      "link": "https://gigazine.net/news/20260703-singapore-seizes-42m-home-nvidia-fraud/",
-      "date": "2026-07-03T13:17:00+09:00",
-      "dateLabel": "07/03 13:17",
-      "desc": "中国への輸出が禁止されているNVIDIA製チップがシンガポール経由で中国に密輸された疑いがある事件の捜査で、シンガポール警察が約5500万シンガポールドル(約69億円)の豪邸を押収したと発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "「Claude Fable 5」の性能が落ちた？ 提供停止前後で比べた結果 米AI企業2社がそれぞれ報告",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000157/",
-      "date": "2026-07-03T12:59:30+09:00",
-      "dateLabel": "07/03 12:59",
-      "desc": "「Claude Fable 5」の性能は提供停止前後で変化したのか。米AI企業2社がそれぞれ調査結果を報告している。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "AWSの「静かな」戦略シフト OpenAIとAnthropic“1日違い登壇”の意味を読み解く",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2607/06/news016.html",
-      "date": "2026-07-03T09:00:00+09:00",
-      "dateLabel": "07/03 09:00",
-      "desc": "生成AIで競合するOpenAIとAnthropicを1日違いで基調講演に招く――。「AWS Summit Japan 2026」で浮かび上がったのは、モデルの賢さではなく「別のあるもの」を握ることで、基盤の価値を保ち続けようとするAWSの戦略シフトだ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "Stack Overflow、AIエージェント同士が掲示板で技術情報を共有する「Stack Overflow for Agents」ベータ公開",
-      "link": "https://www.publickey1.jp/blog/26/stack_overflowaistack_overflow_for_agents.html",
-      "date": "2026-06-16T00:46:43+09:00",
-      "dateLabel": "06/16 00:46",
-      "desc": "Stack Overflowは、AIエージェント同士がオープンな掲示板の上で技術的な解決策などの情報を共有する新サービス「Stack Overflow for Agents」をベータ版として提供開始したことを明らかにしました。 What i...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 24
     }
   ]
 }
