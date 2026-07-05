@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-05T22:07:16.895468+09:00",
-  "generatedLabel": "2026/07/05 22:07",
+  "generatedAt": "2026-07-06T00:05:49.648792+09:00",
+  "generatedLabel": "2026/07/06 00:05",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 50,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 9
+      "items": 7
     },
     {
       "source": "AINOW",
@@ -93,28 +93,6 @@
       "img": "https://ascii.jp/img/2026/07/02/4493363/s/96cc5371dc809204.png",
       "src": "ASCII.jp",
       "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "アリババが従業員のClaude Code使用を禁止、セキュリティリスクの懸念のため",
-      "link": "https://gigazine.net/news/20260704-alibaba-bans-claude-code/",
-      "date": "2026-07-04T23:35:00+09:00",
-      "dateLabel": "07/04 23:35",
-      "desc": "中国のビッグテック・アリババ(阿里巴巴)が、AnthropicのAIコーディングツール「Claude Code」はセキュリティリスクが高いとして、従業員による使用を禁止したことがわかりました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Anthropicとアメリカ政府の関係悪化の経緯が裁判で提出されたメールによって明らかに、ダリオ・アモデイCEOと国防総省幹部のメール内容が公開される",
-      "link": "https://gigazine.net/news/20260703-anthropic-pentagon-email/",
-      "date": "2026-07-03T16:02:00+09:00",
-      "dateLabel": "07/03 16:02",
-      "desc": "Anthropicはアメリカ国防総省とAI利用に関する契約を結んでいましたが、2026年2月28日に国防総省およびアメリカ政府がAnthropicとの関係断絶を決定しました。この国防総省の決定を巡ってAnthropicは訴訟を提起しており、裁判で提出された資料からダリオ・アモデイCEOと国防総省の技術責任者であるエミル・マイケル氏のメール内容が明らかになって",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
       "score": 34
     },
     {
@@ -217,14 +195,14 @@
       "score": 26
     },
     {
-      "title": "【Amazonプライムデー】AIスマートイヤホンおよびスマート記録デバイス「viaim（ヴィエイム）」が最大34%OFF！これからのビジネスパーソンの必須アイテムを特別価格でご提供！",
-      "link": "https://ascii.jp/elem/000/004/416/4416324/?rss",
-      "date": "2026-07-05T09:00:00+09:00",
-      "dateLabel": "07/05 09:00",
-      "desc": "【Amazonプライムデー】AIスマートイヤホンおよびスマート記録デバイス「viaim（ヴィエイム）」が最大34%OFF！これからのビジネスパーソンの必須アイテムを特別価格でご提供！",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "アリババが従業員のClaude Code使用を禁止、セキュリティリスクの懸念のため",
+      "link": "https://gigazine.net/news/20260704-alibaba-bans-claude-code/",
+      "date": "2026-07-04T23:35:00+09:00",
+      "dateLabel": "07/04 23:35",
+      "desc": "中国のビッグテック・アリババ(阿里巴巴)が、AnthropicのAIコーディングツール「Claude Code」はセキュリティリスクが高いとして、従業員による使用を禁止したことがわかりました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 26
     },
     {
@@ -277,6 +255,28 @@
       "date": "2026-07-03T15:34:43+09:00",
       "dateLabel": "07/03 15:34",
       "desc": "「Fable 5をサブスクリプションの標準機能として復活させることを目指している」――米AnthropicのITエンジニアであるタリク・シヒパー氏は、自身のXアカウントにこのように投稿した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "「Claude Fable 5」の性能が落ちた？ 提供停止前後で比べた結果 米AI企業2社がそれぞれ報告",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000157/",
+      "date": "2026-07-03T12:59:30+09:00",
+      "dateLabel": "07/03 12:59",
+      "desc": "「Claude Fable 5」の性能は提供停止前後で変化したのか。米AI企業2社がそれぞれ調査結果を報告している。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "AWSの「静かな」戦略シフト OpenAIとAnthropic“1日違い登壇”の意味を読み解く",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2607/06/news016.html",
+      "date": "2026-07-03T09:00:00+09:00",
+      "dateLabel": "07/03 09:00",
+      "desc": "生成AIで競合するOpenAIとAnthropicを1日違いで基調講演に招く――。「AWS Summit Japan 2026」で浮かび上がったのは、モデルの賢さではなく「別のあるもの」を握ることで、基盤の価値を保ち続けようとするAWSの戦略シフトだ。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
