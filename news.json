@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-05T20:22:56.625431+09:00",
-  "generatedLabel": "2026/07/05 20:22",
+  "generatedAt": "2026-07-05T22:07:16.895468+09:00",
+  "generatedLabel": "2026/07/05 22:07",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 54,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -62,17 +62,6 @@
     }
   ],
   "articles": [
-    {
-      "title": "ERPC、x402 決済対応の Solana RPC を公開 - AI エージェントが必要な API にその場で支払う時代の幕開け",
-      "link": "https://ascii.jp/elem/000/004/416/4416318/?rss",
-      "date": "2026-07-05T05:52:24+09:00",
-      "dateLabel": "07/05 05:52",
-      "desc": "ERPC、x402 決済対応の Solana RPC を公開 - AI エージェントが必要な API にその場で支払う時代の幕開け",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
     {
       "title": "クアルコムがPythonライクな新言語「Mojo」開発元のModular社買収を発表。AIデータセンター市場へ本格参入",
       "link": "https://www.publickey1.jp/blog/26/pythonmojomodularai.html",
@@ -162,6 +151,17 @@
       "score": 28
     },
     {
+      "title": "Snapdragon X Plusと1TBを搭載したSurface Laptop特別モデルが14万円台",
+      "link": "https://ascii.jp/elem/000/004/413/4413563/?rss",
+      "date": "2026-07-05T22:00:00+09:00",
+      "dateLabel": "07/05 22:00",
+      "desc": "マイクロソフトの「Surface Laptop 13（特別モデル）」がAmazonで割引対象。参考価格162,800円のところ、13％オフの142,362円で販売中。Snapdragon X Plusと1TBストレージを搭載し、Microsoft 365 Personal（24か月版）も付属する。",
+      "img": "https://ascii.jp/img/2026/06/25/4489186/s/0c242dd4449d1aeb.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "今年の花火大会、誰と行きますか？ AI時代のマッチングアプリ「ヨイトキ（Yoitoki）」が考える花火デート前の距離感",
       "link": "https://ascii.jp/elem/000/004/416/4416331/?rss",
       "date": "2026-07-05T12:00:00+09:00",
@@ -228,17 +228,6 @@
       "score": 26
     },
     {
-      "title": "AIプロセッサーを搭載する世界初のゲーミングWi-Fiルーター！AI制御で実現する次世代のネットワーク環境が手に入る！：ソフマップ なんば店",
-      "link": "https://ascii.jp/elem/000/004/416/4416205/?rss",
-      "date": "2026-07-05T09:00:00+09:00",
-      "dateLabel": "07/05 09:00",
-      "desc": "世界初となる独立したAIアクセラレーション用プロセッサー（NPU）を搭載した、ASUSのフラッグシップWi-Fi 7ゲーミングルーター「ROG Rapture GT-BE19000AI」がオススメ！",
-      "img": "https://ascii.jp/img/2026/07/03/4494025/s/300925087045b759.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
       "title": "AIエージェントで業務効率化する方法！向いている業務の見極め方と事例",
       "link": "https://ainow.ai/2026/07/04/278232/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e6%25a5%25ad%25e5%258b%2599%25e5%258a%25b9%25e7%258e%2587%25e5%258c%2596%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595%25ef%25bc%2581%25e5%2590%2591%25e3%2581%2584%25e3%2581%25a6%25e3%2581%2584%25e3%2582%258b",
       "date": "2026-07-04T14:00:00+09:00",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "「Claude Fable 5」をサブスクの標準機能に――AnthropicのエンジニアがXに投稿 7月8日以降の「早期復活目指す」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000158/",
+      "date": "2026-07-03T15:34:43+09:00",
+      "dateLabel": "07/03 15:34",
+      "desc": "「Fable 5をサブスクリプションの標準機能として復活させることを目指している」――米AnthropicのITエンジニアであるタリク・シヒパー氏は、自身のXアカウントにこのように投稿した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 26
     }
   ]
