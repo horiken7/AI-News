@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-06T06:51:30.781977+09:00",
-  "generatedLabel": "2026/07/06 06:51",
+  "generatedAt": "2026-07-06T07:52:30.013901+09:00",
+  "generatedLabel": "2026/07/06 07:52",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 50,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 7
+      "items": 8
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,28 @@
   ],
   "articles": [
     {
+      "title": "対面接客の音声を記録しAIが解析、音声プラットフォーム「MiiTel for Retail」提供開始 接客品質向上やVoC分析など支援",
+      "link": "https://ascii.jp/elem/000/004/416/4416207/?rss",
+      "date": "2026-07-06T07:00:00+09:00",
+      "dateLabel": "07/06 07:00",
+      "desc": "株式会社RevCommは7月2日に、店舗や窓口における対面接客の音声を記録し、電話やWeb会議と併せて一元的にAIが解析するという音声プラットフォームサービス「MiiTel for Retail（ミーテル・フォー・リテール）」のリリースを発表した。これまでデータ化しきれなかった店舗や窓口、現場での対面会話を記録して解析し、接客品質向上やカスタマーハラスメント",
+      "img": "https://ascii.jp/img/2026/07/03/4494084/s/babc7d5a5642f081.png",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 50
+    },
+    {
+      "title": "契約管理情報を活用し複数の契約をAIがまとめて分析 「LegalOn」、「ファイル分析機能」提供開始",
+      "link": "https://ascii.jp/elem/000/004/416/4416154/?rss",
+      "date": "2026-07-06T07:00:00+09:00",
+      "dateLabel": "07/06 07:00",
+      "desc": "株式会社LegalOn Technologiesは7月2日に、法務特化型AIエージェント搭載のProfessional AI for Legal「LegalOn」において、複数の契約書をAIが横断的に分析し表形式で一覧表示する「ファイル分析機能」の提供開始を発表した。",
+      "img": "https://ascii.jp/img/2026/07/03/4493940/s/3cf25ec7572e562e.png",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
       "title": "クアルコムがPythonライクな新言語「Mojo」開発元のModular社買収を発表。AIデータセンター市場へ本格参入",
       "link": "https://www.publickey1.jp/blog/26/pythonmojomodularai.html",
       "date": "2026-06-30T00:33:20+09:00",
@@ -74,6 +96,28 @@
       "score": 36
     },
     {
+      "title": "無料の画像生成AI「Krea 2」が話題 実写もアニメもこなす新勢力",
+      "link": "https://ascii.jp/elem/000/004/416/4416343/?rss",
+      "date": "2026-07-06T07:00:00+09:00",
+      "dateLabel": "07/06 07:00",
+      "desc": "無料の画像生成AI「Krea 2」は、実写からアニメまで高品質に描ける新モデル。ローカルPCで動作し、プロンプト解釈力やスタイル表現の広さが注目されています。",
+      "img": "https://ascii.jp/img/2026/07/06/4494944/s/f44fdb07634dfa4b.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "VRグローブから産業用フィジカルAIへ急拡張。Melt（旧Diver-X）が狙う「手のデータ」",
+      "link": "https://ascii.jp/elem/000/004/416/4416143/?rss",
+      "date": "2026-07-06T07:00:00+09:00",
+      "dateLabel": "07/06 07:00",
+      "desc": "Melt Interface Technologies株式会社（旧Diver-X）はロボティクス向けデータグローブ「ContactGlove3 Pro」を発表。高精度なハンドトラッキングや触覚フィードバックに加え、産業用ロボットや次世代ロボット産業への展開も打ち出した。",
+      "img": "https://ascii.jp/img/2026/07/03/4493917/s/ceaa809365caec11.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 34
+    },
+    {
       "title": "無料でスマホ・デスクトップPC・ターミナルからありとあらゆるコーディングAIエージェントを一気にまとめて管理しコントロールする「Paseo」、セルフホスト可能でオープンソース",
       "link": "https://gigazine.net/news/20260705-paseo/",
       "date": "2026-07-05T18:00:00+09:00",
@@ -82,17 +126,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "WSLコンテナーのプレビューを試す 今年はWSLに動きがありそうだ",
-      "link": "https://ascii.jp/elem/000/004/415/4415912/?rss",
-      "date": "2026-07-05T10:00:00+09:00",
-      "dateLabel": "07/05 10:00",
-      "desc": "MicrosoftがBuild 2026で発表した「WSLコンテナー」（WSL Containers）のプレビューが始まっている。WSLコンテナーとは、Windows 11のWSLを使ってコンテナーを実現するものだ。",
-      "img": "https://ascii.jp/img/2026/07/02/4493363/s/96cc5371dc809204.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -118,15 +151,15 @@
       "score": 28
     },
     {
-      "title": "「賢さよりツール連携力が重要」 Microsoftが実験的な小型AIエージェント基盤を公開",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/02/news050.html",
-      "date": "2026-07-02T13:00:00+09:00",
-      "dateLabel": "07/02 13:00",
-      "desc": "MicrosoftのAI研究チームであるMicrosoft Research AI Frontiersは、小型モデル向けに最適化したエージェント基盤「MagenticLite」を公開した。「エージェント能力は知識量ではなくツール統合と実行ハーネスで決まる」という仮説に基づき構成されており、小型モデルでも実用的なエージェント性能を引き出すという。",
-      "img": "",
-      "src": "ITmedia AI+",
+      "title": "企業の眠れるコンテンツを“価値ある資産”に Boxが専門エンジニアによる伴走支援サービス",
+      "link": "https://ascii.jp/elem/000/004/416/4416339/?rss",
+      "date": "2026-07-06T07:30:00+09:00",
+      "dateLabel": "07/06 07:30",
+      "desc": "Boxは、専門エンジニアによるAI活用の伴走支援サービスを開始した。コンテンツ管理の専門家である「Box Forward Deployed Engineers」が、Box内のコンテンツの整備からAIワークフローの設計・導入・最適化までを一貫してサポートするプログラムで、日本市場でも展開される。",
+      "img": "https://ascii.jp/img/2026/07/05/4494873/s/cd2fbf4dd2033f20.jpg",
+      "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
-      "score": 28
+      "score": 26
     },
     {
       "title": "Snapdragon X Plusと1TBを搭載したSurface Laptop特別モデルが14万円台",
@@ -159,39 +192,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "AI時代のマッチングアプリ「ヨイトキ（Yoitoki）」、街頭インタビュー企画を開始",
-      "link": "https://ascii.jp/elem/000/004/416/4416326/?rss",
-      "date": "2026-07-05T11:00:00+09:00",
-      "dateLabel": "07/05 11:00",
-      "desc": "AI時代のマッチングアプリ「ヨイトキ（Yoitoki）」、街頭インタビュー企画を開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "AI時代のマッチングアプリでは、デート聖地選びも“相性確認”へ",
-      "link": "https://ascii.jp/elem/000/004/416/4416327/?rss",
-      "date": "2026-07-05T10:00:00+09:00",
-      "dateLabel": "07/05 10:00",
-      "desc": "AI時代のマッチングアプリでは、デート聖地選びも“相性確認”へ",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "【最大80％給付対象】Tech Mentor「AI駆動開発&要件定義6ヶ月コース」を提供",
-      "link": "https://ascii.jp/elem/000/004/416/4416330/?rss",
-      "date": "2026-07-05T09:00:00+09:00",
-      "dateLabel": "07/05 09:00",
-      "desc": "【最大80％給付対象】Tech Mentor「AI駆動開発&要件定義6ヶ月コース」を提供",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 26
     },
     {
