@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-06T07:52:30.013901+09:00",
-  "generatedLabel": "2026/07/06 07:52",
+  "generatedAt": "2026-07-06T08:56:49.510590+09:00",
+  "generatedLabel": "2026/07/06 08:56",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 52,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 9
     },
     {
       "source": "PC Watch",
@@ -85,6 +85,17 @@
       "score": 50
     },
     {
+      "title": "RTX 5080×Core Ultra 7搭載！ LEVEL∞の18型ハイエンドノートに新モデル",
+      "link": "https://ascii.jp/elem/000/004/416/4416347/?rss",
+      "date": "2026-07-06T08:15:00+09:00",
+      "dateLabel": "07/06 08:15",
+      "desc": "ユニットコムがLEVEL∞の18型ゲーミングノートに、GeForce RTX 5080 Laptop GPUとインテル Core Ultra 7 270HX Plus搭載モデルを追加した。",
+      "img": "https://ascii.jp/img/2026/07/06/4494955/s/c789397af0236a4d.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
       "title": "クアルコムがPythonライクな新言語「Mojo」開発元のModular社買収を発表。AIデータセンター市場へ本格参入",
       "link": "https://www.publickey1.jp/blog/26/pythonmojomodularai.html",
       "date": "2026-06-30T00:33:20+09:00",
@@ -94,6 +105,28 @@
       "src": "Publickey",
       "cat": "半導体/GPU",
       "score": 36
+    },
+    {
+      "title": "LEVEL∞、RTX 5090 Laptop GPU搭載18型ゲーミングノートにCore Ultra 9 290HX Plusモデル追加",
+      "link": "https://ascii.jp/elem/000/004/416/4416346/?rss",
+      "date": "2026-07-06T08:00:00+09:00",
+      "dateLabel": "07/06 08:00",
+      "desc": "ユニットコムがLEVEL∞の18型ゲーミングノートに、GeForce RTX 5090 Laptop GPUとインテル Core Ultra 9 プロセッサー 290HX Plus搭載モデルを7月2日に追加した。",
+      "img": "https://ascii.jp/img/2026/07/06/4494954/s/f8f7c6ffba43298b.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "4人に1人が「AIに仕事を奪われつつある」と認識／パスワードを使い回すのは社員より経営層／データセンター建設に供給制約の課題、ほか",
+      "link": "https://ascii.jp/elem/000/004/416/4416308/?rss",
+      "date": "2026-07-06T08:00:00+09:00",
+      "dateLabel": "07/06 08:00",
+      "desc": "今回（2026年6月27日～7月3日）は、加速するデータセンターニーズの足かせになりかねない“機器の供給制約”の現状、エンジニアの仕事満足度とその理由、一般社員よりも管理職や経営層に多い「パスワードの使い回し」実態、6割超の働く人が感じる「仕事をAIに奪われる」不安、労働時間と休日に対する働く人の意識、についてのデータを紹介します。",
+      "img": "https://ascii.jp/img/2026/07/04/4494623/s/9d85a2fabe071199.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
     },
     {
       "title": "無料の画像生成AI「Krea 2」が話題 実写もアニメもこなす新勢力",
@@ -173,17 +206,6 @@
       "score": 26
     },
     {
-      "title": "今年の花火大会、誰と行きますか？ AI時代のマッチングアプリ「ヨイトキ（Yoitoki）」が考える花火デート前の距離感",
-      "link": "https://ascii.jp/elem/000/004/416/4416331/?rss",
-      "date": "2026-07-05T12:00:00+09:00",
-      "dateLabel": "07/05 12:00",
-      "desc": "今年の花火大会、誰と行きますか？ AI時代のマッチングアプリ「ヨイトキ（Yoitoki）」が考える花火デート前の距離感",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
       "title": "マイクロン、AI需要で広島工場増強へ起工式 1.5兆円投資",
       "link": "https://eetimes.itmedia.co.jp/ee/articles/2607/06/news047.html",
       "date": "2026-07-05T11:00:00+09:00",
@@ -255,28 +277,6 @@
       "date": "2026-07-03T15:34:43+09:00",
       "dateLabel": "07/03 15:34",
       "desc": "「Fable 5をサブスクリプションの標準機能として復活させることを目指している」――米AnthropicのITエンジニアであるタリク・シヒパー氏は、自身のXアカウントにこのように投稿した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "「Claude Fable 5」の性能が落ちた？ 提供停止前後で比べた結果 米AI企業2社がそれぞれ報告",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000157/",
-      "date": "2026-07-03T12:59:30+09:00",
-      "dateLabel": "07/03 12:59",
-      "desc": "「Claude Fable 5」の性能は提供停止前後で変化したのか。米AI企業2社がそれぞれ調査結果を報告している。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "AWSの「静かな」戦略シフト OpenAIとAnthropic“1日違い登壇”の意味を読み解く",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2607/06/news016.html",
-      "date": "2026-07-03T09:00:00+09:00",
-      "dateLabel": "07/03 09:00",
-      "desc": "生成AIで競合するOpenAIとAnthropicを1日違いで基調講演に招く――。「AWS Summit Japan 2026」で浮かび上がったのは、モデルの賢さではなく「別のあるもの」を握ることで、基盤の価値を保ち続けようとするAWSの戦略シフトだ。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
