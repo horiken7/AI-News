@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-06T23:59:34.618387+09:00",
-  "generatedLabel": "2026/07/06 23:59",
+  "generatedAt": "2026-07-07T02:44:48.534667+09:00",
+  "generatedLabel": "2026/07/07 02:44",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -96,25 +96,25 @@
       "score": 42
     },
     {
-      "title": "クアルコムがPythonライクな新言語「Mojo」開発元のModular社買収を発表。AIデータセンター市場へ本格参入",
-      "link": "https://www.publickey1.jp/blog/26/pythonmojomodularai.html",
-      "date": "2026-06-30T00:33:20+09:00",
-      "dateLabel": "06/30 00:33",
-      "desc": "スマートフォン用のSoC（System-on-a-Chip）や各種通信機器向けの半導体事業などで知られるクアルコムテクノロジーズ社（以下、クアルコム）は、AI処理の高速化を目指すPythonライクな新言語「Mojo」の開発元であるModul...",
-      "img": "",
-      "src": "Publickey",
+      "title": "【プライムデー】Galaxy S26が安すぎて正直驚いた 最高峰CPU搭載で11万5800円",
+      "link": "https://ascii.jp/elem/000/004/416/4416683/?rss",
+      "date": "2026-07-07T00:01:00+09:00",
+      "dateLabel": "07/07 00:01",
+      "desc": "PCパーツとともに価格上昇が進むスマートフォン。円安＆半導体価格上昇でやむなし……と思っていたら、プライムデーでかなりの出物を発見。最高峰CPUを搭載したGalaxy S26が11万円台半ばで登場だ！",
+      "img": "https://ascii.jp/img/2026/07/06/4495529/s/fcecdcb54295743e.jpg",
+      "src": "ASCII.jp",
       "cat": "半導体/GPU",
-      "score": 36
+      "score": 34
     },
     {
-      "title": "株式会社Mavericksは、動画生成AI「NoLang」の出力言語に「トルコ語」を追加。翻訳会社やナレーターを介さずトルコ市場向け動画を内製できる体制を構築",
-      "link": "https://ascii.jp/elem/000/004/416/4416653/?rss",
-      "date": "2026-07-06T18:01:54+09:00",
-      "dateLabel": "07/06 18:01",
-      "desc": "株式会社Mavericksは、動画生成AI「NoLang」の出力言語に「トルコ語」を追加。翻訳会社やナレーターを介さずトルコ市場向け動画を内製できる体制を構築",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "title": "お掃除ロボット最新モデルが過去最安値=Amazonプライムデーでルンバが最大65%OFF",
+      "link": "https://ascii.jp/elem/000/004/416/4416670/?rss",
+      "date": "2026-07-07T00:01:00+09:00",
+      "dateLabel": "07/07 00:01",
+      "desc": "今回のセールでは5月に発売されたばかりの最新モデルが過去最安値で登場するほか、日本の住環境に最適化されたモデルなど、計4機種がラインナップされています",
+      "img": "https://ascii.jp/img/2026/07/06/4495365/s/795121cde9f05884.jpg",
       "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
+      "cat": "AI実装",
       "score": 34
     },
     {
@@ -162,6 +162,17 @@
       "score": 34
     },
     {
+      "title": "クアルコムがPythonライクな新言語「Mojo」開発元のModular社買収を発表。AIデータセンター市場へ本格参入",
+      "link": "https://www.publickey1.jp/blog/26/pythonmojomodularai.html",
+      "date": "2026-06-30T00:33:20+09:00",
+      "dateLabel": "06/30 00:33",
+      "desc": "スマートフォン用のSoC（System-on-a-Chip）や各種通信機器向けの半導体事業などで知られるクアルコムテクノロジーズ社（以下、クアルコム）は、AI処理の高速化を目指すPythonライクな新言語「Mojo」の開発元であるModul...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "半導体/GPU",
+      "score": 32
+    },
+    {
       "title": "Meta、「Claude Codeと組織改編で爆速開発」のはずが「想定より加速せず」 ザッカーバーグ氏、社内集会で発言",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000155/",
       "date": "2026-07-03T11:01:17+09:00",
@@ -173,6 +184,17 @@
       "score": 28
     },
     {
+      "title": "【プライムデー】iPhone Airは2万円引きで13万9800円から、1TBモデルは6万円引き これは大バーゲンです！",
+      "link": "https://ascii.jp/elem/000/004/416/4416690/?rss",
+      "date": "2026-07-07T01:15:00+09:00",
+      "dateLabel": "07/07 01:15",
+      "desc": "Amazonプライムセールの先行セールが開始。その目玉として予告されていたiPhone Airですが、なんと2万円引きの13万9800円から！ さらに512GBモデルは3万8000円、1TBモデルは6万円引き。これは大バーゲンです！",
+      "img": "https://ascii.jp/img/2026/07/07/4495617/s/57d82776476b1c43.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "MCPにエンタープライズ向け新機能、アクセスを一括管理できる「Enterprise-Managed Authorization（EMA）extension」が安定版として利用可能に",
       "link": "https://www.publickey1.jp/blog/26/mcpenterprise-managed_authorizationemaextension.html",
       "date": "2026-07-07T00:08:16+09:00",
@@ -181,6 +203,28 @@
       "img": "",
       "src": "Publickey",
       "cat": "生成AI/マルチモーダル",
+      "score": 26
+    },
+    {
+      "title": "【Amazonプライムデー】13インチiPad Air（M3）が11万円台に！",
+      "link": "https://ascii.jp/elem/000/004/416/4416685/?rss",
+      "date": "2026-07-07T00:00:00+09:00",
+      "dateLabel": "07/07 00:00",
+      "desc": "7月7日スタートのAmazonプライムデー先行セールで、13インチiPad Air（M3）Wi-Fi + Cellularモデルがお得な価格で販売中。大画面iPadを狙っていた人は要チェックです。",
+      "img": "https://ascii.jp/img/2026/07/06/4495551/s/48b9a4c671a6c678.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "【20%引き！】iPhone Air 512GBを狙うなら今がチャンス（Amazonプライムデー先行セール開始！）",
+      "link": "https://ascii.jp/elem/000/004/416/4416674/?rss",
+      "date": "2026-07-07T00:00:00+09:00",
+      "dateLabel": "07/07 00:00",
+      "desc": "7月7日スタートのAmazonプライムデー（先行セール）で、「iPhone Air 512GB（SIMフリー）スカイブルー」がお得な価格で販売中。薄型・軽量モデルのiPhoneを狙っていた人は、セール期間中の価格をチェックしておきたいところです。",
+      "img": "https://ascii.jp/img/2026/07/06/4495550/s/c65338ceb5a2eaab.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 26
     },
     {
@@ -217,17 +261,6 @@
       "score": 26
     },
     {
-      "title": "Valveの『カウンターストライク2』が1位！7月10日発売の『Echoes of Aincrad』が初登場【Steamランキング】",
-      "link": "https://ascii.jp/elem/000/004/416/4416467/?rss",
-      "date": "2026-07-06T18:00:00+09:00",
-      "dateLabel": "07/06 18:00",
-      "desc": "毎週のSteam売り上げランキングを掲載する本コーナー。今回は、7月6日分をお届け！ こちらをチェックして、現在のSteamでの人気ゲームのムーブや、お気に入りのソフトを見つけよう。",
-      "img": "https://ascii.jp/img/2026/07/06/4495055/s/f4443578d6ec56a8.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
       "title": "「AIはもう十分賢い」 活用のボトルネックは「モデル性能」から「評価」へ 米データ基盤開発企業のAI研究者に聞く",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/06/2000000160/",
       "date": "2026-07-06T16:40:18+09:00",
@@ -247,39 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "ジム・ケラーの半導体製造スタートアップ企業「Fab2」が小型半導体ファブを大量生産するための工場を建設中",
-      "link": "https://gigazine.net/news/20260706-jim-keller-fab-2/",
-      "date": "2026-07-06T11:44:00+09:00",
-      "dateLabel": "07/06 11:44",
-      "desc": "AppleのA4チップやAMDのZenマイクロアーキテクチャなどの設計で知られる半導体エンジニアでAIチップ開発スタートアップ・TenstorrentのCEOを務めるジム・ケラー氏と、自作半導体製造で知られるサム・ゼルーフ氏が設立したスタートアップ「Atomic Semi」が社名を「Fab2」に変更しました。Fab2は小型の半導体製造工場と、その内部で使う装",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "「AIは依然として古い性能法則に従っている」 Tenstorrent Jim Keller氏",
-      "link": "https://eetimes.itmedia.co.jp/ee/articles/2607/06/news069.html",
-      "date": "2026-07-06T11:30:00+09:00",
-      "dateLabel": "07/06 11:30",
-      "desc": "Tenstorrentは2026年4月に、同社のチップを搭載したサーバの性能を披露するイベントを開催した。Tenstorrent CEOのJim Keller氏は米国EE Timesのインタビューに答え、同社のサーバ「Galaxy」の性能や、競争環境について語った。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "アシックス、AIでシューズ設計を高度化",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/06/news012.html",
-      "date": "2026-07-06T09:00:00+09:00",
-      "dateLabel": "07/06 09:00",
-      "desc": "アシックスは、RebuilderAIと共同で、AIを活用した次世代シューズ設計／製造シミュレーション技術を公開した。デザイナーが描いた2Dスケッチやコンセプトを基に、AIが3Dデータを生成し、CAE／FEA解析へとつなげることで、デザインから検証までの期間短縮を目指す。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI実装",
       "score": 26
     }
   ]
