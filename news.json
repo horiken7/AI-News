@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-06T11:36:38.300081+09:00",
-  "generatedLabel": "2026/07/06 11:36",
+  "generatedAt": "2026-07-06T16:02:10.215492+09:00",
+  "generatedLabel": "2026/07/06 16:02",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 9
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 7
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "OpenAIが巨大データセンター建設計画「Stargate UK」で現地を一切視察していないことが明らかに",
+      "link": "https://gigazine.net/news/20260706-openai-data-center-stargate-uk/",
+      "date": "2026-07-06T13:30:00+09:00",
+      "dateLabel": "07/06 13:30",
+      "desc": "OpenAIが推進するAIデータセンター建設計画「Stargate」のうち、イギリスの「Stargate UK」は一時停止中ですが、調査により、そもそもOpenAIは現地視察を一切行っていなかったことが指摘されています。また、イギリス政府はこの計画で300億ポンド(約6兆4800億円)規模の投資があると述べていましたが、そのうち少なくとも200億ポンド(約4",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
       "title": "クアルコムがPythonライクな新言語「Mojo」開発元のModular社買収を発表。AIデータセンター市場へ本格参入",
       "link": "https://www.publickey1.jp/blog/26/pythonmojomodularai.html",
       "date": "2026-06-30T00:33:20+09:00",
@@ -72,6 +83,83 @@
       "src": "Publickey",
       "cat": "半導体/GPU",
       "score": 36
+    },
+    {
+      "title": "個人開発者がClaude Fableを使って「Command ＆ Conquer Generals Zero Hour」をMac・iPhone・iPadに移植しオープンソースで無料公開",
+      "link": "https://gigazine.net/news/20260706-command-and-conquer-zero-hour-apple/",
+      "date": "2026-07-06T15:45:00+09:00",
+      "dateLabel": "07/06 15:45",
+      "desc": "開発者のammaarreshi氏が、ゲーム「Command ＆ Conquer Generals Zero Hour」をMac・iPhone・iPadに移植しました。ammaarreshi氏はAIを活用したと述べています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "ソラコム、衛星通信とセルラーを統合管理できるNTN対応サービスを日本で開始",
+      "link": "https://ascii.jp/elem/000/004/416/4416569/?rss",
+      "date": "2026-07-06T15:30:00+09:00",
+      "dateLabel": "07/06 15:30",
+      "desc": "ソラコムが7月6日に日本国内で衛星通信（NTN）対応サービスの提供を開始。既存のSORACOM IoT SIMにplanNT1を追加し、セルラーと衛星を統合管理できるIoT基盤を実現する内容だ。",
+      "img": "https://ascii.jp/img/2026/07/06/4495164/s/a8ea066b94a218e7.png",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "「性格診断は入れてるけど…」その先、ありますか？中小企業向けAI採用アセスメント「PitA（ピタ）」正式リリース（１名まで無料チケット贈呈）",
+      "link": "https://ascii.jp/elem/000/004/416/4416587/?rss",
+      "date": "2026-07-06T15:04:00+09:00",
+      "dateLabel": "07/06 15:04",
+      "desc": "「性格診断は入れてるけど…」その先、ありますか？中小企業向けAI採用アセスメント「PitA（ピタ）」正式リリース（１名まで無料チケット贈呈）",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "inovie株式会社、フィットネス施設向け販促クリエイティブ生成サービス「FitDesign AI」を提供開始",
+      "link": "https://ascii.jp/elem/000/004/416/4416580/?rss",
+      "date": "2026-07-06T14:58:37+09:00",
+      "dateLabel": "07/06 14:58",
+      "desc": "inovie株式会社、フィットネス施設向け販促クリエイティブ生成サービス「FitDesign AI」を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "【アマゾンタイムセール 30%OFF】6部品付属 Android 16 × Gemini AI対応10.1インチタブレット【POCKAM P10PRO】 キーボード・ケースなど付属品付 18,900円",
+      "link": "https://ascii.jp/elem/000/004/416/4416581/?rss",
+      "date": "2026-07-06T14:56:56+09:00",
+      "dateLabel": "07/06 14:56",
+      "desc": "【アマゾンタイムセール 30%OFF】6部品付属 Android 16 × Gemini AI対応10.1インチタブレット【POCKAM P10PRO】 キーボード・ケースなど付属品付 18,900円",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "AIベンチャーTAI、次世代AI半導体テストチップ「Sting Ray」の評価を完了～独自アーキテクチャによるエッジAIチップの量産化へ移行～",
+      "link": "https://ascii.jp/elem/000/004/416/4416583/?rss",
+      "date": "2026-07-06T14:30:00+09:00",
+      "dateLabel": "07/06 14:30",
+      "desc": "AIベンチャーTAI、次世代AI半導体テストチップ「Sting Ray」の評価を完了～独自アーキテクチャによるエッジAIチップの量産化へ移行～",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "中国のAIアプリから「人間っぽい相棒」が消える、ByteDanceとAlibabaが規制対応で機能停止へ",
+      "link": "https://gigazine.net/news/20260706-disable-custom-agents/",
+      "date": "2026-07-06T13:40:00+09:00",
+      "dateLabel": "07/06 13:40",
+      "desc": "2026年7月15日から「人工知能擬人化インタラクションサービス管理暫定弁法」が施行されることを受け、中国の大手AIアプリであるByteDanceの「Doubao」とAlibabaの「Qwen」が人間のような性格や口調を持つカスタムAIエージェント機能を停止するとユーザーに通知しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 34
     },
     {
       "title": "画像生成AIを開発するMidjourneyが係争中のハリウッドの映画スタジオに対してAIの利用状況の詳細を明らかにするよう要求",
@@ -93,72 +181,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "ゴールドRWAトークンを担保としたDeFi型オンチェーン・レンディングをアウラムが実施 ～金価格データの異常を自律的に検知・遮断するAIエージェントも開発～",
-      "link": "https://ascii.jp/elem/000/004/416/4416380/?rss",
-      "date": "2026-07-06T10:00:00+09:00",
-      "dateLabel": "07/06 10:00",
-      "desc": "ゴールドRWAトークンを担保としたDeFi型オンチェーン・レンディングをアウラムが実施 ～金価格データの異常を自律的に検知・遮断するAIエージェントも開発～",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "ChatGPTからkintoneを操作 CData Connect AIならアプリディレクトリから追加するだけ",
-      "link": "https://ascii.jp/elem/000/004/414/4414794/?rss",
-      "date": "2026-07-06T10:00:00+09:00",
-      "dateLabel": "07/06 10:00",
-      "desc": "ChatGPT からCData Connect AI を通じてkintone にアクセスする手順・活用方法について紹介したいと思います。",
-      "img": "https://ascii.jp/img/2026/06/30/4491711/s/bb7814bcd6fecec2.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Acrosstudio、最短2週間・300万円から始められるAI駆動ライト開発サービス「Across Lite」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/416/4416381/?rss",
-      "date": "2026-07-06T09:40:00+09:00",
-      "dateLabel": "07/06 09:40",
-      "desc": "Acrosstudio、最短2週間・300万円から始められるAI駆動ライト開発サービス「Across Lite」を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "ASUS「ProArt RTX 5090」登場 GeForce RTX 5090搭載の小型ワークステーション向けGPU",
-      "link": "https://ascii.jp/elem/000/004/416/4416350/?rss",
-      "date": "2026-07-06T09:30:00+09:00",
-      "dateLabel": "07/06 09:30",
-      "desc": "シー・エフ・デー販売がASUSブランドのクリエイター向けグラフィックボード「PROART-RTX5090-O32G」を発売。GeForce RTX 5090と32GB GDDR7メモリを搭載し、小型ワークステーション向けの2.5スロット設計、USB Type-CやDisplayPort対応、ベイパーチャンバーと液体金属グリスによる冷却、ProArtデザインを",
-      "img": "https://ascii.jp/img/2026/07/06/4494982/s/1ef0cfebd73a5d16.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "Tech Mentor、Claude Code特化の「生成AI×業務効率化 実践コース」を提供",
-      "link": "https://ascii.jp/elem/000/004/416/4416394/?rss",
-      "date": "2026-07-06T09:00:00+09:00",
-      "dateLabel": "07/06 09:00",
-      "desc": "Tech Mentor、Claude Code特化の「生成AI×業務効率化 実践コース」を提供",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "PeopleX、AIロープレを活用した人材育成支援でhacomonoと提携開始",
-      "link": "https://ascii.jp/elem/000/004/416/4416392/?rss",
-      "date": "2026-07-06T09:00:00+09:00",
-      "dateLabel": "07/06 09:00",
-      "desc": "PeopleX、AIロープレを活用した人材育成支援でhacomonoと提携開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -184,35 +206,46 @@
       "score": 28
     },
     {
-      "title": "PingCAP、7月開催のAzure AIを活用する開発者たちの年次カンファレンス「AI Dev Day 2026」に協賛",
-      "link": "https://ascii.jp/elem/000/004/416/4416377/?rss",
-      "date": "2026-07-06T10:00:00+09:00",
-      "dateLabel": "07/06 10:00",
-      "desc": "PingCAP、7月開催のAzure AIを活用する開発者たちの年次カンファレンス「AI Dev Day 2026」に協賛",
+      "title": "世界一過酷なヨットレース「ヴァンデ・グローブ」走破を目指すMILAIセーリングチームをサポート",
+      "link": "https://ascii.jp/elem/000/004/416/4416598/?rss",
+      "date": "2026-07-06T14:46:36+09:00",
+      "dateLabel": "07/06 14:46",
+      "desc": "世界一過酷なヨットレース「ヴァンデ・グローブ」走破を目指すMILAIセーリングチームをサポート",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "【AI動画制作サービスVideo Craft活用事例紹介】株式会社メンテック様が社内研修・eラーニングの作成を目的にVideo Craftを導入",
-      "link": "https://ascii.jp/elem/000/004/416/4416374/?rss",
-      "date": "2026-07-06T10:00:00+09:00",
-      "dateLabel": "07/06 10:00",
-      "desc": "【AI動画制作サービスVideo Craft活用事例紹介】株式会社メンテック様が社内研修・eラーニングの作成を目的にVideo Craftを導入",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
+      "title": "CIA長官が高度なAIを核兵器と同等のレベルに位置づける",
+      "link": "https://gigazine.net/news/20260706-cia-boss-compare-ai-nuclear/",
+      "date": "2026-07-06T13:42:00+09:00",
+      "dateLabel": "07/06 13:42",
+      "desc": "国家安全保障について語った中央情報局(CIA)のジョン・ラトクリフ長官が、高性能なAIモデルを核兵器になぞらえました。近年の高性能AIは既存のシステムから脆弱(ぜいじゃく)性を見つけ出す能力に優れたものもあり、金融や軍事システムなど国の中枢を成すシステムが脅かされています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "AIボイスレコーダーブランドPlaud、Amazonプライムデーに参加！Plaud Japan公式ストア「Big Summer Sale」も同時開催",
-      "link": "https://ascii.jp/elem/000/004/416/4416373/?rss",
-      "date": "2026-07-06T10:00:00+09:00",
-      "dateLabel": "07/06 10:00",
-      "desc": "AIボイスレコーダーブランドPlaud、Amazonプライムデーに参加！Plaud Japan公式ストア「Big Summer Sale」も同時開催",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
+      "title": "ジム・ケラーの半導体製造スタートアップ企業「Fab2」が小型半導体ファブを大量生産するための工場を建設中",
+      "link": "https://gigazine.net/news/20260706-jim-keller-fab-2/",
+      "date": "2026-07-06T11:44:00+09:00",
+      "dateLabel": "07/06 11:44",
+      "desc": "AppleのA4チップやAMDのZenマイクロアーキテクチャなどの設計で知られる半導体エンジニアでAIチップ開発スタートアップ・TenstorrentのCEOを務めるジム・ケラー氏と、自作半導体製造で知られるサム・ゼルーフ氏が設立したスタートアップ「Atomic Semi」が社名を「Fab2」に変更しました。Fab2は小型の半導体製造工場と、その内部で使う装",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "「AIは依然として古い性能法則に従っている」 Tenstorrent Jim Keller氏",
+      "link": "https://eetimes.itmedia.co.jp/ee/articles/2607/06/news069.html",
+      "date": "2026-07-06T11:30:00+09:00",
+      "dateLabel": "07/06 11:30",
+      "desc": "Tenstorrentは2026年4月に、同社のチップを搭載したサーバの性能を披露するイベントを開催した。Tenstorrent CEOのJim Keller氏は米国EE Timesのインタビューに答え、同社のサーバ「Galaxy」の性能や、競争環境について語った。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "AI全般",
       "score": 26
     },
@@ -225,17 +258,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "アリババが従業員のClaude Code使用を禁止、セキュリティリスクの懸念のため",
-      "link": "https://gigazine.net/news/20260704-alibaba-bans-claude-code/",
-      "date": "2026-07-04T23:35:00+09:00",
-      "dateLabel": "07/04 23:35",
-      "desc": "中国のビッグテック・アリババ(阿里巴巴)が、AnthropicのAIコーディングツール「Claude Code」はセキュリティリスクが高いとして、従業員による使用を禁止したことがわかりました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 26
     },
     {
@@ -258,28 +280,6 @@
       "img": "",
       "src": "AINOW",
       "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "3万円で「Yahoo!ニュース」にPR掲載 プレスリリースをAIで「ニュース風記事」に",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/03/news116.html",
-      "date": "2026-07-03T15:44:00+09:00",
-      "dateLabel": "07/03 15:44",
-      "desc": "Yahoo!ニュース内に、企業の発表情報をニュース記事と同じフォーマットで掲載する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "「Claude Fable 5」をサブスクの標準機能に――AnthropicのエンジニアがXに投稿 7月8日以降の「早期復活目指す」",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000158/",
-      "date": "2026-07-03T15:34:43+09:00",
-      "dateLabel": "07/03 15:34",
-      "desc": "「Fable 5をサブスクリプションの標準機能として復活させることを目指している」――米AnthropicのITエンジニアであるタリク・シヒパー氏は、自身のXアカウントにこのように投稿した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
       "score": 26
     }
   ]
