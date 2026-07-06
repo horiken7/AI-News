@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-06T08:56:49.510590+09:00",
-  "generatedLabel": "2026/07/06 08:56",
+  "generatedAt": "2026-07-06T11:36:38.300081+09:00",
+  "generatedLabel": "2026/07/06 11:36",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 54,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 8
+      "items": 7
     },
     {
       "source": "CNET Japan",
@@ -63,39 +63,6 @@
   ],
   "articles": [
     {
-      "title": "対面接客の音声を記録しAIが解析、音声プラットフォーム「MiiTel for Retail」提供開始 接客品質向上やVoC分析など支援",
-      "link": "https://ascii.jp/elem/000/004/416/4416207/?rss",
-      "date": "2026-07-06T07:00:00+09:00",
-      "dateLabel": "07/06 07:00",
-      "desc": "株式会社RevCommは7月2日に、店舗や窓口における対面接客の音声を記録し、電話やWeb会議と併せて一元的にAIが解析するという音声プラットフォームサービス「MiiTel for Retail（ミーテル・フォー・リテール）」のリリースを発表した。これまでデータ化しきれなかった店舗や窓口、現場での対面会話を記録して解析し、接客品質向上やカスタマーハラスメント",
-      "img": "https://ascii.jp/img/2026/07/03/4494084/s/babc7d5a5642f081.png",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 50
-    },
-    {
-      "title": "契約管理情報を活用し複数の契約をAIがまとめて分析 「LegalOn」、「ファイル分析機能」提供開始",
-      "link": "https://ascii.jp/elem/000/004/416/4416154/?rss",
-      "date": "2026-07-06T07:00:00+09:00",
-      "dateLabel": "07/06 07:00",
-      "desc": "株式会社LegalOn Technologiesは7月2日に、法務特化型AIエージェント搭載のProfessional AI for Legal「LegalOn」において、複数の契約書をAIが横断的に分析し表形式で一覧表示する「ファイル分析機能」の提供開始を発表した。",
-      "img": "https://ascii.jp/img/2026/07/03/4493940/s/3cf25ec7572e562e.png",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
-      "title": "RTX 5080×Core Ultra 7搭載！ LEVEL∞の18型ハイエンドノートに新モデル",
-      "link": "https://ascii.jp/elem/000/004/416/4416347/?rss",
-      "date": "2026-07-06T08:15:00+09:00",
-      "dateLabel": "07/06 08:15",
-      "desc": "ユニットコムがLEVEL∞の18型ゲーミングノートに、GeForce RTX 5080 Laptop GPUとインテル Core Ultra 7 270HX Plus搭載モデルを追加した。",
-      "img": "https://ascii.jp/img/2026/07/06/4494955/s/c789397af0236a4d.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
       "title": "クアルコムがPythonライクな新言語「Mojo」開発元のModular社買収を発表。AIデータセンター市場へ本格参入",
       "link": "https://www.publickey1.jp/blog/26/pythonmojomodularai.html",
       "date": "2026-06-30T00:33:20+09:00",
@@ -107,47 +74,91 @@
       "score": 36
     },
     {
-      "title": "LEVEL∞、RTX 5090 Laptop GPU搭載18型ゲーミングノートにCore Ultra 9 290HX Plusモデル追加",
-      "link": "https://ascii.jp/elem/000/004/416/4416346/?rss",
-      "date": "2026-07-06T08:00:00+09:00",
-      "dateLabel": "07/06 08:00",
-      "desc": "ユニットコムがLEVEL∞の18型ゲーミングノートに、GeForce RTX 5090 Laptop GPUとインテル Core Ultra 9 プロセッサー 290HX Plus搭載モデルを7月2日に追加した。",
-      "img": "https://ascii.jp/img/2026/07/06/4494954/s/f8f7c6ffba43298b.png",
+      "title": "画像生成AIを開発するMidjourneyが係争中のハリウッドの映画スタジオに対してAIの利用状況の詳細を明らかにするよう要求",
+      "link": "https://gigazine.net/news/20260706-midjourney-hollywood-studios-ai-usage/",
+      "date": "2026-07-06T11:08:00+09:00",
+      "dateLabel": "07/06 11:08",
+      "desc": "画像生成AIを開発するMidjourneyがディズニー、ユニバーサル、ワーナーブラザース・ディスカバリー(WBD)の大手映画スタジオ3社との著作権訴訟において、スタジオ側のAI利用実態を開示するよう求めています。両者の対立は開示手続きの範囲を巡るものに移っており、担当判事は消費者向けの映像や画像に関する情報のみ開示対象とする判断を示していましたが、Midjo",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 34
+    },
+    {
+      "title": "キオクシア、新型メモリのサンプル出荷開始 岩手の工場の最先端設備活用",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/06/news059.html",
+      "date": "2026-07-06T10:22:00+09:00",
+      "dateLabel": "07/06 10:22",
+      "desc": "半導体大手キオクシアホールディングスが、大容量で低消費電力の新型メモリのサンプル品の出荷を開始したと発表した。北上工場（岩手県北上市）第2製造棟の最先端設備を活用して生産する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "ゴールドRWAトークンを担保としたDeFi型オンチェーン・レンディングをアウラムが実施 ～金価格データの異常を自律的に検知・遮断するAIエージェントも開発～",
+      "link": "https://ascii.jp/elem/000/004/416/4416380/?rss",
+      "date": "2026-07-06T10:00:00+09:00",
+      "dateLabel": "07/06 10:00",
+      "desc": "ゴールドRWAトークンを担保としたDeFi型オンチェーン・レンディングをアウラムが実施 ～金価格データの異常を自律的に検知・遮断するAIエージェントも開発～",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "ChatGPTからkintoneを操作 CData Connect AIならアプリディレクトリから追加するだけ",
+      "link": "https://ascii.jp/elem/000/004/414/4414794/?rss",
+      "date": "2026-07-06T10:00:00+09:00",
+      "dateLabel": "07/06 10:00",
+      "desc": "ChatGPT からCData Connect AI を通じてkintone にアクセスする手順・活用方法について紹介したいと思います。",
+      "img": "https://ascii.jp/img/2026/06/30/4491711/s/bb7814bcd6fecec2.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "Acrosstudio、最短2週間・300万円から始められるAI駆動ライト開発サービス「Across Lite」を提供開始",
+      "link": "https://ascii.jp/elem/000/004/416/4416381/?rss",
+      "date": "2026-07-06T09:40:00+09:00",
+      "dateLabel": "07/06 09:40",
+      "desc": "Acrosstudio、最短2週間・300万円から始められるAI駆動ライト開発サービス「Across Lite」を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "ASUS「ProArt RTX 5090」登場 GeForce RTX 5090搭載の小型ワークステーション向けGPU",
+      "link": "https://ascii.jp/elem/000/004/416/4416350/?rss",
+      "date": "2026-07-06T09:30:00+09:00",
+      "dateLabel": "07/06 09:30",
+      "desc": "シー・エフ・デー販売がASUSブランドのクリエイター向けグラフィックボード「PROART-RTX5090-O32G」を発売。GeForce RTX 5090と32GB GDDR7メモリを搭載し、小型ワークステーション向けの2.5スロット設計、USB Type-CやDisplayPort対応、ベイパーチャンバーと液体金属グリスによる冷却、ProArtデザインを",
+      "img": "https://ascii.jp/img/2026/07/06/4494982/s/1ef0cfebd73a5d16.png",
       "src": "ASCII.jp",
       "cat": "半導体/GPU",
       "score": 34
     },
     {
-      "title": "4人に1人が「AIに仕事を奪われつつある」と認識／パスワードを使い回すのは社員より経営層／データセンター建設に供給制約の課題、ほか",
-      "link": "https://ascii.jp/elem/000/004/416/4416308/?rss",
-      "date": "2026-07-06T08:00:00+09:00",
-      "dateLabel": "07/06 08:00",
-      "desc": "今回（2026年6月27日～7月3日）は、加速するデータセンターニーズの足かせになりかねない“機器の供給制約”の現状、エンジニアの仕事満足度とその理由、一般社員よりも管理職や経営層に多い「パスワードの使い回し」実態、6割超の働く人が感じる「仕事をAIに奪われる」不安、労働時間と休日に対する働く人の意識、についてのデータを紹介します。",
-      "img": "https://ascii.jp/img/2026/07/04/4494623/s/9d85a2fabe071199.jpg",
+      "title": "Tech Mentor、Claude Code特化の「生成AI×業務効率化 実践コース」を提供",
+      "link": "https://ascii.jp/elem/000/004/416/4416394/?rss",
+      "date": "2026-07-06T09:00:00+09:00",
+      "dateLabel": "07/06 09:00",
+      "desc": "Tech Mentor、Claude Code特化の「生成AI×業務効率化 実践コース」を提供",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "半導体/GPU",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
-      "title": "無料の画像生成AI「Krea 2」が話題 実写もアニメもこなす新勢力",
-      "link": "https://ascii.jp/elem/000/004/416/4416343/?rss",
-      "date": "2026-07-06T07:00:00+09:00",
-      "dateLabel": "07/06 07:00",
-      "desc": "無料の画像生成AI「Krea 2」は、実写からアニメまで高品質に描ける新モデル。ローカルPCで動作し、プロンプト解釈力やスタイル表現の広さが注目されています。",
-      "img": "https://ascii.jp/img/2026/07/06/4494944/s/f44fdb07634dfa4b.jpg",
+      "title": "PeopleX、AIロープレを活用した人材育成支援でhacomonoと提携開始",
+      "link": "https://ascii.jp/elem/000/004/416/4416392/?rss",
+      "date": "2026-07-06T09:00:00+09:00",
+      "dateLabel": "07/06 09:00",
+      "desc": "PeopleX、AIロープレを活用した人材育成支援でhacomonoと提携開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "VRグローブから産業用フィジカルAIへ急拡張。Melt（旧Diver-X）が狙う「手のデータ」",
-      "link": "https://ascii.jp/elem/000/004/416/4416143/?rss",
-      "date": "2026-07-06T07:00:00+09:00",
-      "dateLabel": "07/06 07:00",
-      "desc": "Melt Interface Technologies株式会社（旧Diver-X）はロボティクス向けデータグローブ「ContactGlove3 Pro」を発表。高精度なハンドトラッキングや触覚フィードバックに加え、産業用ロボットや次世代ロボット産業への展開も打ち出した。",
-      "img": "https://ascii.jp/img/2026/07/03/4493917/s/ceaa809365caec11.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
+      "cat": "AI全般",
       "score": 34
     },
     {
@@ -170,47 +181,47 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "復活した「Fable 5」 米政府からのオーダーに対して、Anthropicはどう対策したのか",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/02/news095.html",
-      "date": "2026-07-02T16:40:00+09:00",
-      "dateLabel": "07/02 16:40",
-      "desc": "米AnthropicのAIモデル「Claude Fable 5」が世界的にサービスを再開した。Anthropicは復活に向けてどういった経緯と対策を行ったのか、モデル再開にあわせて詳細を公開した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
       "score": 28
     },
     {
-      "title": "企業の眠れるコンテンツを“価値ある資産”に Boxが専門エンジニアによる伴走支援サービス",
-      "link": "https://ascii.jp/elem/000/004/416/4416339/?rss",
-      "date": "2026-07-06T07:30:00+09:00",
-      "dateLabel": "07/06 07:30",
-      "desc": "Boxは、専門エンジニアによるAI活用の伴走支援サービスを開始した。コンテンツ管理の専門家である「Box Forward Deployed Engineers」が、Box内のコンテンツの整備からAIワークフローの設計・導入・最適化までを一貫してサポートするプログラムで、日本市場でも展開される。",
-      "img": "https://ascii.jp/img/2026/07/05/4494873/s/cd2fbf4dd2033f20.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "Snapdragon X Plusと1TBを搭載したSurface Laptop特別モデルが14万円台",
-      "link": "https://ascii.jp/elem/000/004/413/4413563/?rss",
-      "date": "2026-07-05T22:00:00+09:00",
-      "dateLabel": "07/05 22:00",
-      "desc": "マイクロソフトの「Surface Laptop 13（特別モデル）」がAmazonで割引対象。参考価格162,800円のところ、13％オフの142,362円で販売中。Snapdragon X Plusと1TBストレージを搭載し、Microsoft 365 Personal（24か月版）も付属する。",
-      "img": "https://ascii.jp/img/2026/06/25/4489186/s/0c242dd4449d1aeb.jpg",
+      "title": "PingCAP、7月開催のAzure AIを活用する開発者たちの年次カンファレンス「AI Dev Day 2026」に協賛",
+      "link": "https://ascii.jp/elem/000/004/416/4416377/?rss",
+      "date": "2026-07-06T10:00:00+09:00",
+      "dateLabel": "07/06 10:00",
+      "desc": "PingCAP、7月開催のAzure AIを活用する開発者たちの年次カンファレンス「AI Dev Day 2026」に協賛",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "マイクロン、AI需要で広島工場増強へ起工式 1.5兆円投資",
-      "link": "https://eetimes.itmedia.co.jp/ee/articles/2607/06/news047.html",
-      "date": "2026-07-05T11:00:00+09:00",
-      "dateLabel": "07/05 11:00",
-      "desc": "マイクロンメモリ ジャパンは2026年7月、広島工場の生産能力増強に向けた新クリーンルーム建設の起工式を開催した。AI技術の進展に伴うメモリ需要の増加に対応するもので、2028年後半に製造装置の搬入を開始する予定だ。広島工場には今後、この新クリーンルーム建設を含めて1兆5000億円を投じる。",
+      "title": "【AI動画制作サービスVideo Craft活用事例紹介】株式会社メンテック様が社内研修・eラーニングの作成を目的にVideo Craftを導入",
+      "link": "https://ascii.jp/elem/000/004/416/4416374/?rss",
+      "date": "2026-07-06T10:00:00+09:00",
+      "dateLabel": "07/06 10:00",
+      "desc": "【AI動画制作サービスVideo Craft活用事例紹介】株式会社メンテック様が社内研修・eラーニングの作成を目的にVideo Craftを導入",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "AIボイスレコーダーブランドPlaud、Amazonプライムデーに参加！Plaud Japan公式ストア「Big Summer Sale」も同時開催",
+      "link": "https://ascii.jp/elem/000/004/416/4416373/?rss",
+      "date": "2026-07-06T10:00:00+09:00",
+      "dateLabel": "07/06 10:00",
+      "desc": "AIボイスレコーダーブランドPlaud、Amazonプライムデーに参加！Plaud Japan公式ストア「Big Summer Sale」も同時開催",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "アシックス、AIでシューズ設計を高度化",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/06/news012.html",
+      "date": "2026-07-06T09:00:00+09:00",
+      "dateLabel": "07/06 09:00",
+      "desc": "アシックスは、RebuilderAIと共同で、AIを活用した次世代シューズ設計／製造シミュレーション技術を公開した。デザイナーが描いた2Dスケッチやコンセプトを基に、AIが3Dデータを生成し、CAE／FEA解析へとつなげることで、デザインから検証までの期間短縮を目指す。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AI実装",
@@ -246,17 +257,6 @@
       "desc": "問い合わせ対応や経費精算、議事録作成といった定型業務に追われ、AIエージェントで業務を自動化できないかと考えている担当者は多いでしょう。 AIエージェントとは、目的を伝えるだけで自ら計画・実行するAIであり、従来のRPA... The post AIエージェントで業務自動化する方法とは？できることや事例を解説 first appeared on AI専門ニュ",
       "img": "",
       "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "AIエージェントでSafariを自動操作してテストやデバッグを実行できる「Safari MCP server」が登場",
-      "link": "https://gigazine.net/news/20260703-safari-mcp-server/",
-      "date": "2026-07-03T17:56:00+09:00",
-      "dateLabel": "07/03 17:56",
-      "desc": "ウェブブラウザ「Safari」の開発者向けプレビュー版であるSafari Technology Preview 247が2026年7月1日にリリースされました。AIエージェントにSafariの自動操作を任せられる「Safari MCP server」が利用可能となっています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 26
     },
