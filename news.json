@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-06T20:55:39.335809+09:00",
-  "generatedLabel": "2026/07/06 20:55",
+  "generatedAt": "2026-07-06T23:59:34.618387+09:00",
+  "generatedLabel": "2026/07/06 23:59",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 54,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 7
+      "items": 6
     },
     {
       "source": "AINOW",
@@ -72,6 +72,17 @@
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
       "score": 50
+    },
+    {
+      "title": "Metaの新AI「Watermelon」はOpenAIのGPT-5.5に匹敵する性能で近日登場",
+      "link": "https://gigazine.net/news/20260706-meta-watermelon/",
+      "date": "2026-07-06T22:25:00+09:00",
+      "dateLabel": "07/06 22:25",
+      "desc": "Metaの最高AI責任者であるアレクサンドル・ワン氏が、MetaのAIモデル・Muse Sparkがまもなくアップデートされ、コーディングやエージェント機能が向上する予定であることを明らかにしました。AIモデルの名称自体は変わりませんが、内部コードではAvocadoからWatermelonのアップデートになるとのことです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 42
     },
     {
       "title": "OpenAIが巨大データセンター建設計画「Stargate UK」で現地を一切視察していないことが明らかに",
@@ -162,6 +173,28 @@
       "score": 28
     },
     {
+      "title": "MCPにエンタープライズ向け新機能、アクセスを一括管理できる「Enterprise-Managed Authorization（EMA）extension」が安定版として利用可能に",
+      "link": "https://www.publickey1.jp/blog/26/mcpenterprise-managed_authorizationemaextension.html",
+      "date": "2026-07-07T00:08:16+09:00",
+      "dateLabel": "07/07 00:08",
+      "desc": "生成AIとツールとの接続プロトコルとしてLinux Foundation傘下で標準化と機能拡張が進められているMCP（Model Context Protocol）の企業向けの新機能「Enterprise-Managed Authoriza...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "生成AI/マルチモーダル",
+      "score": 26
+    },
+    {
+      "title": "YouTube StudioのAI機能で非公開動画の情報が漏れる可能性が指摘される",
+      "link": "https://gigazine.net/news/20260706-youtube-ask-studio-leak/",
+      "date": "2026-07-06T22:00:00+09:00",
+      "dateLabel": "07/06 22:00",
+      "desc": "YouTube StudioのAI機能「Ask Studio」を悪用するとコメント欄に仕込まれた指示を通じて非公開動画のタイトルなどを外部に送信させられる可能性がある、とセキュリティ研究者のjavoriuski氏が報告しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "AIエージェントは通常の生成AIよりも最大136倍エネルギーを消費する",
       "link": "https://gigazine.net/news/20260706-ai-agents-consume/",
       "date": "2026-07-06T20:00:00+09:00",
@@ -248,39 +281,6 @@
       "src": "ITmedia AI+",
       "cat": "AI実装",
       "score": 26
-    },
-    {
-      "title": "AIエージェントで業務効率化する方法！向いている業務の見極め方と事例",
-      "link": "https://ainow.ai/2026/07/04/278232/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e6%25a5%25ad%25e5%258b%2599%25e5%258a%25b9%25e7%258e%2587%25e5%258c%2596%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595%25ef%25bc%2581%25e5%2590%2591%25e3%2581%2584%25e3%2581%25a6%25e3%2581%2584%25e3%2582%258b",
-      "date": "2026-07-04T14:00:00+09:00",
-      "dateLabel": "07/04 14:00",
-      "desc": "ChatGPTなどの生成AIを使っているのに、業務効率化の効果が頭打ちになっていると感じる担当者は少なくありません。 AIエージェントとは、目標を伝えるだけで自ら計画・実行するAIであり、生成AIの「回答」だけでは届かな... The post AIエージェントで業務効率化する方法！向いている業務の見極め方と事例 first appeared on AI専門",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "AIエージェントで業務自動化する方法とは？できることや事例を解説",
-      "link": "https://ainow.ai/2026/07/04/278229/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e6%25a5%25ad%25e5%258b%2599%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b",
-      "date": "2026-07-04T03:15:31+09:00",
-      "dateLabel": "07/04 03:15",
-      "desc": "問い合わせ対応や経費精算、議事録作成といった定型業務に追われ、AIエージェントで業務を自動化できないかと考えている担当者は多いでしょう。 AIエージェントとは、目的を伝えるだけで自ら計画・実行するAIであり、従来のRPA... The post AIエージェントで業務自動化する方法とは？できることや事例を解説 first appeared on AI専門ニュ",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "3万円で「Yahoo!ニュース」にPR掲載 プレスリリースをAIで「ニュース風記事」に",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/03/news116.html",
-      "date": "2026-07-03T15:44:00+09:00",
-      "dateLabel": "07/03 15:44",
-      "desc": "Yahoo!ニュース内に、企業の発表情報をニュース記事と同じフォーマットで掲載する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 20
     }
   ]
 }
