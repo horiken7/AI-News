@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-06T16:02:10.215492+09:00",
-  "generatedLabel": "2026/07/06 16:02",
+  "generatedAt": "2026-07-06T20:55:39.335809+09:00",
+  "generatedLabel": "2026/07/06 20:55",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 54,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 11
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "パランティアCEOがOpenAIやAnthropicを批判 「AIモデルを強化するためのデータをなぜ顧客が渡すのか」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/06/2000000161/",
+      "date": "2026-07-06T18:50:54+09:00",
+      "dateLabel": "07/06 18:50",
+      "desc": "Palantirのアレックス・カープCEOがCNBCのインタビューで、OpenAIのサム・アルトマンCEOやAnthropicのダリオ・アモデイCEOの名前を挙げつつ、フロンティアモデル提供企業が顧客のデータを使って競争優位性を確保する業界の現状を批判した。対抗して打ち出したのがNVIDIAとの提携だ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 50
+    },
+    {
       "title": "OpenAIが巨大データセンター建設計画「Stargate UK」で現地を一切視察していないことが明らかに",
       "link": "https://gigazine.net/news/20260706-openai-data-center-stargate-uk/",
       "date": "2026-07-06T13:30:00+09:00",
@@ -85,6 +96,17 @@
       "score": 36
     },
     {
+      "title": "株式会社Mavericksは、動画生成AI「NoLang」の出力言語に「トルコ語」を追加。翻訳会社やナレーターを介さずトルコ市場向け動画を内製できる体制を構築",
+      "link": "https://ascii.jp/elem/000/004/416/4416653/?rss",
+      "date": "2026-07-06T18:01:54+09:00",
+      "dateLabel": "07/06 18:01",
+      "desc": "株式会社Mavericksは、動画生成AI「NoLang」の出力言語に「トルコ語」を追加。翻訳会社やナレーターを介さずトルコ市場向け動画を内製できる体制を構築",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
       "title": "個人開発者がClaude Fableを使って「Command ＆ Conquer Generals Zero Hour」をMac・iPhone・iPadに移植しオープンソースで無料公開",
       "link": "https://gigazine.net/news/20260706-command-and-conquer-zero-hour-apple/",
       "date": "2026-07-06T15:45:00+09:00",
@@ -93,61 +115,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "ソラコム、衛星通信とセルラーを統合管理できるNTN対応サービスを日本で開始",
-      "link": "https://ascii.jp/elem/000/004/416/4416569/?rss",
-      "date": "2026-07-06T15:30:00+09:00",
-      "dateLabel": "07/06 15:30",
-      "desc": "ソラコムが7月6日に日本国内で衛星通信（NTN）対応サービスの提供を開始。既存のSORACOM IoT SIMにplanNT1を追加し、セルラーと衛星を統合管理できるIoT基盤を実現する内容だ。",
-      "img": "https://ascii.jp/img/2026/07/06/4495164/s/a8ea066b94a218e7.png",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "「性格診断は入れてるけど…」その先、ありますか？中小企業向けAI採用アセスメント「PitA（ピタ）」正式リリース（１名まで無料チケット贈呈）",
-      "link": "https://ascii.jp/elem/000/004/416/4416587/?rss",
-      "date": "2026-07-06T15:04:00+09:00",
-      "dateLabel": "07/06 15:04",
-      "desc": "「性格診断は入れてるけど…」その先、ありますか？中小企業向けAI採用アセスメント「PitA（ピタ）」正式リリース（１名まで無料チケット贈呈）",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "inovie株式会社、フィットネス施設向け販促クリエイティブ生成サービス「FitDesign AI」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/416/4416580/?rss",
-      "date": "2026-07-06T14:58:37+09:00",
-      "dateLabel": "07/06 14:58",
-      "desc": "inovie株式会社、フィットネス施設向け販促クリエイティブ生成サービス「FitDesign AI」を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "【アマゾンタイムセール 30%OFF】6部品付属 Android 16 × Gemini AI対応10.1インチタブレット【POCKAM P10PRO】 キーボード・ケースなど付属品付 18,900円",
-      "link": "https://ascii.jp/elem/000/004/416/4416581/?rss",
-      "date": "2026-07-06T14:56:56+09:00",
-      "dateLabel": "07/06 14:56",
-      "desc": "【アマゾンタイムセール 30%OFF】6部品付属 Android 16 × Gemini AI対応10.1インチタブレット【POCKAM P10PRO】 キーボード・ケースなど付属品付 18,900円",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "AIベンチャーTAI、次世代AI半導体テストチップ「Sting Ray」の評価を完了～独自アーキテクチャによるエッジAIチップの量産化へ移行～",
-      "link": "https://ascii.jp/elem/000/004/416/4416583/?rss",
-      "date": "2026-07-06T14:30:00+09:00",
-      "dateLabel": "07/06 14:30",
-      "desc": "AIベンチャーTAI、次世代AI半導体テストチップ「Sting Ray」の評価を完了～独自アーキテクチャによるエッジAIチップの量産化へ移行～",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -184,17 +151,6 @@
       "score": 34
     },
     {
-      "title": "無料でスマホ・デスクトップPC・ターミナルからありとあらゆるコーディングAIエージェントを一気にまとめて管理しコントロールする「Paseo」、セルフホスト可能でオープンソース",
-      "link": "https://gigazine.net/news/20260705-paseo/",
-      "date": "2026-07-05T18:00:00+09:00",
-      "dateLabel": "07/05 18:00",
-      "desc": "開発ツールとしてコーディング用AIエージェントを利用し外部からも作業を続けたい場合、外部から自PCへの接続設定が面倒であったり、リモート接続の画面共有だと動作が遅かったりと、簡単にリモート操作ができる環境は用意するのが難しいものです。簡単に外部接続の設定ができ、スマホ・デスクトップPC・ターミナルなどからClaude Code・Codex・OpenCodeな",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "Meta、「Claude Codeと組織改編で爆速開発」のはずが「想定より加速せず」 ザッカーバーグ氏、社内集会で発言",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000155/",
       "date": "2026-07-03T11:01:17+09:00",
@@ -206,13 +162,46 @@
       "score": 28
     },
     {
-      "title": "世界一過酷なヨットレース「ヴァンデ・グローブ」走破を目指すMILAIセーリングチームをサポート",
-      "link": "https://ascii.jp/elem/000/004/416/4416598/?rss",
-      "date": "2026-07-06T14:46:36+09:00",
-      "dateLabel": "07/06 14:46",
-      "desc": "世界一過酷なヨットレース「ヴァンデ・グローブ」走破を目指すMILAIセーリングチームをサポート",
+      "title": "AIエージェントは通常の生成AIよりも最大136倍エネルギーを消費する",
+      "link": "https://gigazine.net/news/20260706-ai-agents-consume/",
+      "date": "2026-07-06T20:00:00+09:00",
+      "dateLabel": "07/06 20:00",
+      "desc": "韓国の国立研究大学・KAISTの研究チームは、実際のサービス環境においてAIエージェントがどれだけの計算リソースと電力を使用しているかについて世界初となる体系的な分析を実施しました。分析の結果、AIエージェントは通常の生成AIに比べてクエリ1件当たり最大で136.5倍ものエネルギーを消費することが明らかになりました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "【Amazonプライムデー2026】寝苦しい夏の夜に、電気を使わないひんやり習慣。GGPT「ひんやり冷却マット」が期間限定の特別価格に",
+      "link": "https://ascii.jp/elem/000/004/416/4416662/?rss",
+      "date": "2026-07-06T18:46:43+09:00",
+      "dateLabel": "07/06 18:46",
+      "desc": "【Amazonプライムデー2026】寝苦しい夏の夜に、電気を使わないひんやり習慣。GGPT「ひんやり冷却マット」が期間限定の特別価格に",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "Valveの『カウンターストライク2』が1位！7月10日発売の『Echoes of Aincrad』が初登場【Steamランキング】",
+      "link": "https://ascii.jp/elem/000/004/416/4416467/?rss",
+      "date": "2026-07-06T18:00:00+09:00",
+      "dateLabel": "07/06 18:00",
+      "desc": "毎週のSteam売り上げランキングを掲載する本コーナー。今回は、7月6日分をお届け！ こちらをチェックして、現在のSteamでの人気ゲームのムーブや、お気に入りのソフトを見つけよう。",
+      "img": "https://ascii.jp/img/2026/07/06/4495055/s/f4443578d6ec56a8.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "「AIはもう十分賢い」 活用のボトルネックは「モデル性能」から「評価」へ 米データ基盤開発企業のAI研究者に聞く",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/06/2000000160/",
+      "date": "2026-07-06T16:40:18+09:00",
+      "dateLabel": "07/06 16:40",
+      "desc": "AIの進化は学習データや計算資源の不足で止まるのか。米DatabricksのチーフAIサイエンティスト、ジョナサン・フランクル氏は「モデルはもう十分賢い」と語り、真のボトルネックは「AIを評価すること」にあると指摘する。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "AI全般",
       "score": 26
     },
@@ -281,6 +270,17 @@
       "src": "AINOW",
       "cat": "AIエージェント/業務",
       "score": 26
+    },
+    {
+      "title": "3万円で「Yahoo!ニュース」にPR掲載 プレスリリースをAIで「ニュース風記事」に",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/03/news116.html",
+      "date": "2026-07-03T15:44:00+09:00",
+      "dateLabel": "07/03 15:44",
+      "desc": "Yahoo!ニュース内に、企業の発表情報をニュース記事と同じフォーマットで掲載する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 20
     }
   ]
 }
