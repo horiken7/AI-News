@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-07T06:21:13.373306+09:00",
-  "generatedLabel": "2026/07/07 06:21",
+  "generatedAt": "2026-07-07T07:58:11.450545+09:00",
+  "generatedLabel": "2026/07/07 07:58",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 20
+      "items": 19
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 9
     },
     {
       "source": "PC Watch",
@@ -74,6 +74,39 @@
       "score": 50
     },
     {
+      "title": "スペースデータ、落雷による停電被害をシミュレーションする機能「Thunder & Blackout」を「Storm Simulator」に追加",
+      "link": "https://ascii.jp/elem/000/004/416/4416673/?rss",
+      "date": "2026-07-07T07:00:00+09:00",
+      "dateLabel": "07/07 07:00",
+      "desc": "株式会社スペースデータは7月2日に、気象災害の被害をAIで予測・評価する「Storm Simulator」に、落雷による停電被害をシミュレーションする新機能「Thunder & Blackout」の追加を発表した。3次元の都市モデル上で落雷の発生地点（位置・電流）を起点に、停電が広がる範囲や影響を受ける世帯、人口、復旧までの見込み時間を推計し、被害の広がりを",
+      "img": "https://ascii.jp/img/2026/07/06/4495397/s/512517f33ce256db.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 42
+    },
+    {
+      "title": "AIと専門チームの連携で健診業務を代行、「アンドエル健診代行」正式リリース",
+      "link": "https://ascii.jp/elem/000/004/416/4416672/?rss",
+      "date": "2026-07-07T07:00:00+09:00",
+      "dateLabel": "07/07 07:00",
+      "desc": "アンドエル株式会社は、企業の健康診断に関する業務を代行するサービス「アンドエル健診代行」の正式リリースを発表した。健康診断の手配や診断データの回収、診断後の事務処理など、人事・労務担当者が行う一連の業務を専門チームとAIが連携して引き受け、担当者の負担を軽減するとしている。",
+      "img": "https://ascii.jp/img/2026/07/06/4495387/s/c40985ebea4e0ea1.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 42
+    },
+    {
+      "title": "世界の半導体を支える 見えざる巨人ASML その牙城は崩せるか？",
+      "link": "https://ascii.jp/elem/000/004/416/4416748/?rss",
+      "date": "2026-07-07T06:36:48+09:00",
+      "dateLabel": "07/07 06:36",
+      "desc": "スマホもAIも、その頭脳であるチップは、この装置なしには作れない。オランダのASMLが手がける1台4億ドルの露光装置は、世界のリソグラフィー装置の約9割を握る。AIブームで高性能チップの需要が急増するいま、その独占はかつてなく重い。巨人に追いつく者は現れるのか。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
       "title": "Metaの新AI「Watermelon」はOpenAIのGPT-5.5に匹敵する性能で近日登場",
       "link": "https://gigazine.net/news/20260706-meta-watermelon/",
       "date": "2026-07-06T22:25:00+09:00",
@@ -94,6 +127,17 @@
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
       "score": 42
+    },
+    {
+      "title": "1年でAfter AIの組織に生まれ変わったソラコム、「トークン資本」の安全な器へ",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/07/news073.html",
+      "date": "2026-07-07T07:15:00+09:00",
+      "dateLabel": "07/07 07:15",
+      "desc": "ソラコムが、2025年7月から始めた「After AIの組織」に移行するための取り組みを説明。この新たな組織体制から生み出したマネージドAIエージェントサービス「SORACOM Agent」も紹介した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "AIコーディングの「ループ」4種類を完全入門 Anthropic公式が分かりやすく整理して解説",
@@ -236,50 +280,6 @@
       "img": "https://ascii.jp/img/2026/07/06/4495551/s/48b9a4c671a6c678.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "【20%引き！】iPhone Air 512GBを狙うなら今がチャンス（Amazonプライムデー先行セール開始！）",
-      "link": "https://ascii.jp/elem/000/004/416/4416674/?rss",
-      "date": "2026-07-07T00:00:00+09:00",
-      "dateLabel": "07/07 00:00",
-      "desc": "7月7日スタートのAmazonプライムデー（先行セール）で、「iPhone Air 512GB（SIMフリー）スカイブルー」がお得な価格で販売中。薄型・軽量モデルのiPhoneを狙っていた人は、セール期間中の価格をチェックしておきたいところです。",
-      "img": "https://ascii.jp/img/2026/07/06/4495550/s/c65338ceb5a2eaab.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "YouTube StudioのAI機能で非公開動画の情報が漏れる可能性が指摘される",
-      "link": "https://gigazine.net/news/20260706-youtube-ask-studio-leak/",
-      "date": "2026-07-06T22:00:00+09:00",
-      "dateLabel": "07/06 22:00",
-      "desc": "YouTube StudioのAI機能「Ask Studio」を悪用するとコメント欄に仕込まれた指示を通じて非公開動画のタイトルなどを外部に送信させられる可能性がある、とセキュリティ研究者のjavoriuski氏が報告しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "AIエージェントは通常の生成AIよりも最大136倍エネルギーを消費する",
-      "link": "https://gigazine.net/news/20260706-ai-agents-consume/",
-      "date": "2026-07-06T20:00:00+09:00",
-      "dateLabel": "07/06 20:00",
-      "desc": "韓国の国立研究大学・KAISTの研究チームは、実際のサービス環境においてAIエージェントがどれだけの計算リソースと電力を使用しているかについて世界初となる体系的な分析を実施しました。分析の結果、AIエージェントは通常の生成AIに比べてクエリ1件当たり最大で136.5倍ものエネルギーを消費することが明らかになりました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "【Amazonプライムデー2026】寝苦しい夏の夜に、電気を使わないひんやり習慣。GGPT「ひんやり冷却マット」が期間限定の特別価格に",
-      "link": "https://ascii.jp/elem/000/004/416/4416662/?rss",
-      "date": "2026-07-06T18:46:43+09:00",
-      "dateLabel": "07/06 18:46",
-      "desc": "【Amazonプライムデー2026】寝苦しい夏の夜に、電気を使わないひんやり習慣。GGPT「ひんやり冷却マット」が期間限定の特別価格に",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
       "score": 26
     }
   ]
