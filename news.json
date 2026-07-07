@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-07T17:15:02.261965+09:00",
-  "generatedLabel": "2026/07/07 17:15",
+  "generatedAt": "2026-07-07T20:37:46.910564+09:00",
+  "generatedLabel": "2026/07/07 20:37",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -74,15 +74,15 @@
       "score": 50
     },
     {
-      "title": "パランティアCEOがOpenAIやAnthropicを批判 「AIモデルを強化するためのデータをなぜ顧客が渡すのか」",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/06/2000000161/",
-      "date": "2026-07-06T18:50:54+09:00",
-      "dateLabel": "07/06 18:50",
-      "desc": "Palantirのアレックス・カープCEOがCNBCのインタビューで、OpenAIのサム・アルトマンCEOやAnthropicのダリオ・アモデイCEOの名前を挙げつつ、フロンティアモデル提供企業が顧客のデータを使って競争優位性を確保する業界の現状を批判した。対抗して打ち出したのがNVIDIAとの提携だ。",
+      "title": "【Fable 5に聞いてみた】サブスク終了後の効果的な使い方は？ トークン節約法は？ 本人インタビュー",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/07/2000000166/",
+      "date": "2026-07-07T17:05:24+09:00",
+      "dateLabel": "07/07 17:05",
+      "desc": "注目を集めている米AnthropicのAIモデル「Claude Fable 5」の性能はどれほどなのか。ITmedia AI＋編集部で試した結果を紹介する。今回は「従量課金制移行後にFable 5を効果的に使う方法」について聞いてみた。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 50
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "Anthropicが教える「Fable 5活用術」 まず確認すべきは「自分が何を知らないか」",
@@ -127,6 +127,50 @@
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 42
+    },
+    {
+      "title": "パランティアCEOがOpenAIやAnthropicを批判 「AIモデルを強化するためのデータをなぜ顧客が渡すのか」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/06/2000000161/",
+      "date": "2026-07-06T18:50:54+09:00",
+      "dateLabel": "07/06 18:50",
+      "desc": "Palantirのアレックス・カープCEOがCNBCのインタビューで、OpenAIのサム・アルトマンCEOやAnthropicのダリオ・アモデイCEOの名前を挙げつつ、フロンティアモデル提供企業が顧客のデータを使って競争優位性を確保する業界の現状を批判した。対抗して打ち出したのがNVIDIAとの提携だ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "Surface Pro（第11世代）とキーボードのセットが201,438円。19％オフで販売中",
+      "link": "https://ascii.jp/elem/000/004/416/4416746/?rss",
+      "date": "2026-07-07T20:00:00+09:00",
+      "dateLabel": "07/07 20:00",
+      "desc": "マイクロソフトの「Surface Pro（第11世代）とSurface Pro キーボードの2点セット」がAmazonプライムデー先行セール対象。参考価格249,590円のところ、19％オフの201,438円で販売中。Snapdragon X Plusや16GBメモリ、512GB SSDを搭載したCopilot+ PCで、Surface Pro キーボードが",
+      "img": "https://ascii.jp/img/2026/07/07/4496117/s/2d9e6eb9499ba938.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "AIスライド生成ツール「イルシル」、図解生成時の「入力テキスト・テーマカラー」を生成後に確認できる機能をリリース",
+      "link": "https://ascii.jp/elem/000/004/417/4417185/?rss",
+      "date": "2026-07-07T18:10:00+09:00",
+      "dateLabel": "07/07 18:10",
+      "desc": "AIスライド生成ツール「イルシル」、図解生成時の「入力テキスト・テーマカラー」を生成後に確認できる機能をリリース",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "株式会社Mavericksは、動画生成AI「NoLang」にオランダ語・マレー語を追加。翻訳会社やナレーターを介さずオランダ・マレーシア向け動画を内製できる体制を構築",
+      "link": "https://ascii.jp/elem/000/004/417/4417182/?rss",
+      "date": "2026-07-07T18:01:15+09:00",
+      "dateLabel": "07/07 18:01",
+      "desc": "株式会社Mavericksは、動画生成AI「NoLang」にオランダ語・マレー語を追加。翻訳会社やナレーターを介さずオランダ・マレーシア向け動画を内製できる体制を構築",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
     },
     {
       "title": "複数のAIモデルを一元管理できる「Otari」がMozilla.aiによって開発される",
@@ -195,91 +239,47 @@
       "score": 32
     },
     {
-      "title": "AI時代における倫理的かつ責任ある製品開発と脆弱性開示、フォーティネットの製品セキュリティポリシーを解説",
-      "link": "https://ascii.jp/elem/000/004/416/4416753/?rss",
-      "date": "2026-07-07T17:00:00+09:00",
-      "dateLabel": "07/07 17:00",
-      "desc": "AIは確立されたセキュリティテストプログラムの一部でしたが、フロンティアサイバーモデルのイノベーションにより、大規模にソフトウェアを分析およびテストする能力が飛躍的に向上しました。この変化は重要ですが、製品セキュリティと責任あるイノベーションに対する当社の基本的なアプローチを変えるものではありません。当社は、お客様のセキュリティへのコミットメントと、イノベー",
-      "img": "https://ascii.jp/img/2026/07/07/4496139/s/50bdede00e4e6dc1.jpg",
-      "src": "ASCII.jp",
-      "cat": "規制/安全",
-      "score": 26
-    },
-    {
-      "title": "脅威の26％オフ！iPhone Air買うならAmazonタイムセールは必見",
-      "link": "https://ascii.jp/elem/000/004/417/4417065/?rss",
-      "date": "2026-07-07T16:00:00+09:00",
-      "dateLabel": "07/07 16:00",
-      "desc": "7月7日14時現在、Amazon.co.jpではアップル「iPhone Air」のタイムセールを実施中！参考価格から最大26%オフの脅威の割引率で、話題の機種を変えるビックチャンスが到来です。",
-      "img": "https://ascii.jp/img/2026/07/07/4496370/s/dcdd33f6092f8c4c.png",
+      "title": "新色ピンクに一目惚れ！ プライムデーで絶対に狙いたいノイキャンイヤホン「Nothing Ear (3a)」",
+      "link": "https://ascii.jp/elem/000/004/416/4416684/?rss",
+      "date": "2026-07-07T19:30:00+09:00",
+      "dateLabel": "07/07 19:30",
+      "desc": "Nothingの新作「Ear (3a)」は、1万5800円ながら12mmドライバーとBluetooth 6.0を搭載し音質・接続性が向上したワイヤレスイヤホンです。最大の目玉はイヤホン単体での録音機能で、AIによる文字起こしや要約にも対応。新色ピンクも追加され、デザインと実用性を兼ね備えた1台です。",
+      "img": "https://ascii.jp/img/2026/07/06/4495530/s/2341ff77f4e36d08.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "1TBの高速CFexpressカードが2万円超えオフ。最大3900MB/sで余裕の連写【Amazonプライムデー2026】",
-      "link": "https://ascii.jp/elem/000/004/416/4416707/?rss",
-      "date": "2026-07-07T15:35:00+09:00",
-      "dateLabel": "07/07 15:35",
-      "desc": "NextorageのCFexpress 4.0 Type B 1000GBが2万7210円引き。8K動画やRAW連写を本気で回す人にオススメの、信頼性重視の記録メディアです。",
-      "img": "https://ascii.jp/img/2026/07/07/4495746/s/ca3176aa8f22b658.jpg",
+      "title": "Apple「AirPods Pro 3」も安い！ 13%オフの3万4800円",
+      "link": "https://ascii.jp/elem/000/004/417/4417153/?rss",
+      "date": "2026-07-07T19:00:00+09:00",
+      "dateLabel": "07/07 19:00",
+      "desc": "7月7日17時現在、Amazon.co.jpではアップル「AirPods Pro 3」のタイムセールを実施中！参考価格から13%オフの3万4800円で買えるチャンス到来です。",
+      "img": "https://ascii.jp/img/2026/07/07/4496544/s/7c602f90efd9db03.png",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "寝たきりでも働ける「分身ロボットカフェDAWN」横浜店のオープンが決定！",
-      "link": "https://ascii.jp/elem/000/004/417/4417106/?rss",
-      "date": "2026-07-07T15:30:00+09:00",
-      "dateLabel": "07/07 15:30",
-      "desc": "寝たきりでも働ける「分身ロボットカフェDAWN」横浜店のオープンが決定！",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "サイバートラスト、「AI時代の重要インフラサプライチェーン向けトラスト基盤構想」第2弾としてSUSEとの連携を推進",
-      "link": "https://ascii.jp/elem/000/004/417/4417105/?rss",
-      "date": "2026-07-07T15:30:00+09:00",
-      "dateLabel": "07/07 15:30",
-      "desc": "サイバートラスト、「AI時代の重要インフラサプライチェーン向けトラスト基盤構想」第2弾としてSUSEとの連携を推進",
+      "title": "【Amazonプライムデー42％OFF限定】豪華5点アクセサリー付き DOOGEE U13 AIタブレット 13インチ大画面×Android 16×256GB ROMが42％OFFで27,455円！",
+      "link": "https://ascii.jp/elem/000/004/417/4417189/?rss",
+      "date": "2026-07-07T18:30:00+09:00",
+      "dateLabel": "07/07 18:30",
+      "desc": "【Amazonプライムデー42％OFF限定】豪華5点アクセサリー付き DOOGEE U13 AIタブレット 13インチ大画面×Android 16×256GB ROMが42％OFFで27,455円！",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "梅雨・猛暑の日のヘアセット、73.1％が「通常時より時間がかかる」と回答。KAMIKAI (髪改)が《Amazonプライムデー先行セール》を実施",
-      "link": "https://ascii.jp/elem/000/004/417/4417119/?rss",
-      "date": "2026-07-07T15:20:00+09:00",
-      "dateLabel": "07/07 15:20",
-      "desc": "梅雨・猛暑の日のヘアセット、73.1％が「通常時より時間がかかる」と回答。KAMIKAI (髪改)が《Amazonプライムデー先行セール》を実施",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "手書きの文章に返事をくれるハリー・ポッターの「トム・リドルの日記」を電子ペーパー端末とAIで再現",
-      "link": "https://gigazine.net/news/20260707-harry-potter-diary-of-tom-riddle/",
-      "date": "2026-07-07T14:00:00+09:00",
-      "dateLabel": "07/07 14:00",
-      "desc": "J・K・ローリングの人気児童小説「ハリー・ポッター」シリーズの2作目である『ハリー・ポッターと秘密の部屋』に登場する「トム・リドルの日記」は、日記帳に文字を書き込むことでホグワーツ魔法学校の元学生だったトム・リドルと会話ができるというアイテムでした。このトム・リドルの日記をLLM(大規模言語モデル)を使って再現するツール「Riddle」がオープンソースで開発",
+      "title": "AIが指示を処理するとき「思考」に特化した「J空間」が活性化していることが判明",
+      "link": "https://gigazine.net/news/20260707-ai-j-apace/",
+      "date": "2026-07-07T17:38:00+09:00",
+      "dateLabel": "07/07 17:38",
+      "desc": "人間は物事を処理するときに意識的に行うことと無意識的に行うことがあります。昨日食べたものを思い出すときは前者、呼吸したり姿勢を維持したりするときは後者です。このような2つのパターンがAIにも存在することを、Anthropicの研究者が明らかにしました。意識的に物事を処理するときに活性化する領域をAIから削除すると、複雑な詩を書くなど「高度な思考」を必要とする",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "Sakana AIが翻訳機能「Sakana Translate」をリリース、日英中の双方向翻訳に対応＆カジュアル・簡潔・大阪弁などに変換可能",
-      "link": "https://gigazine.net/news/20260707-sakana-translate/",
-      "date": "2026-07-07T12:26:00+09:00",
-      "dateLabel": "07/07 12:26",
-      "desc": "東京に拠点を置くAI企業のSakana AIがチャットAI「Sakana Chat」に翻訳機能「Sakana Translate」を追加しました。Sakana Translateは日本語・英語・中国語の双方向翻訳に対応し、最大約5000文字の翻訳が可能とのこと。無料で使えるそうなので実際に使ってみました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
       "score": 26
     }
   ]
