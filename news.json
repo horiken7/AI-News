@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-08T07:51:25.572835+09:00",
-  "generatedLabel": "2026/07/08 07:51",
+  "generatedAt": "2026-07-08T08:47:01.222550+09:00",
+  "generatedLabel": "2026/07/08 08:47",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 16
     },
     {
       "source": "CNET Japan",
@@ -261,25 +261,25 @@
       "score": 32
     },
     {
-      "title": "ガバメントAI「源内」は自治体で本当に使えるのか？ クラウド依存による“3つの落とし穴”",
-      "link": "https://www.itmedia.co.jp/business/articles/2607/08/news016.html",
-      "date": "2026-07-08T07:00:00+09:00",
-      "dateLabel": "07/08 07:00",
-      "desc": "デジタル庁が公開したガバメントAI「源内」（GENAI）は、政府によるAIプラットフォームの公開という点で画期的な取り組みだ。一方で、自治体での実運用を考える上で無視できない論点も見えてくると、CIO補佐官として自治体DXに携わる筆者が解説する。",
+      "title": "「小型AIモデル」が世界中の人々を救う可能性を秘めている理由とは？",
+      "link": "https://gigazine.net/news/20260708-small-language-models-ai-pharmaceuticals/",
+      "date": "2026-07-08T08:00:00+09:00",
+      "dateLabel": "07/08 08:00",
+      "desc": "近年のAIテクノロジーの発展は目覚ましく、大手テクノロジー企業が膨大なパラメータを持つ大規模なAIモデルを次々と発表しています。その一方で、多くの人々の命や食糧生産を助ける可能性を持つ「小型AIモデル」への注目も集まっていると、国際的な工学学会「IEEE」の機関誌であるIEEE Spectrumが報告しています。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
+      "src": "GIGAZINE",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "AIがExcel作業を丸ごと自動化？ 企業の定型業務を効率化へ",
-      "link": "https://kn.itmedia.co.jp/kn/articles/2607/08/news053.html",
-      "date": "2026-07-08T07:00:00+09:00",
-      "dateLabel": "07/08 07:00",
-      "desc": "生成AIによる業務自動化が広がる一方、取得したExcelやCSVファイルの集計・加工には依然として人手を伴う。データ収集からファイル処理までをAIが一貫して担うことで、企業に残る定型作業の効率化が進むだろう。",
+      "title": "NTTドコモビジネスがIOWN活用の分散GPU環境を提供、25GBを2秒で転送",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/08/news052.html",
+      "date": "2026-07-08T07:30:00+09:00",
+      "dateLabel": "07/08 07:30",
+      "desc": "NTTドコモビジネスは、次世代ネットワーク「IOWN APN」を活用し、全国8拠点に分散したGPUを統合利用できる実証環境の提供を開始した。電力などの制限を解消し、オンデマンドなリソース確保やデータ主権に対応した分散AI基盤の実用性を検証できる。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
+      "cat": "半導体/GPU",
       "score": 26
     }
   ]
