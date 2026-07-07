@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-07T09:06:23.342550+09:00",
-  "generatedLabel": "2026/07/07 09:06",
+  "generatedAt": "2026-07-07T13:42:17.368191+09:00",
+  "generatedLabel": "2026/07/07 13:42",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 57,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "Anthropic、AIの“内なる思考”が宿る「J-space」を発見──新手法「J-lens」で可視化、安全性監視に応用",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/07/2000000162/",
+      "date": "2026-07-07T09:48:03+09:00",
+      "dateLabel": "07/07 09:48",
+      "desc": "Anthropicは、LLMの内部に人間の意識研究における「グローバルワークスペース」に類する構造「J-space」が自然発生していることを発見し、新手法「Jacobian lens」を公開した。モデルが言語化しない隠れた思考を一部観測でき、評価への気づきや不正コードの意図を検知できるため、AIの安全性監視に応用できるとしている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
+      "score": 50
+    },
+    {
       "title": "パランティアCEOがOpenAIやAnthropicを批判 「AIモデルを強化するためのデータをなぜ顧客が渡すのか」",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/06/2000000161/",
       "date": "2026-07-06T18:50:54+09:00",
@@ -74,36 +85,47 @@
       "score": 50
     },
     {
-      "title": "スペースデータ、落雷による停電被害をシミュレーションする機能「Thunder & Blackout」を「Storm Simulator」に追加",
-      "link": "https://ascii.jp/elem/000/004/416/4416673/?rss",
-      "date": "2026-07-07T07:00:00+09:00",
-      "dateLabel": "07/07 07:00",
-      "desc": "株式会社スペースデータは7月2日に、気象災害の被害をAIで予測・評価する「Storm Simulator」に、落雷による停電被害をシミュレーションする新機能「Thunder & Blackout」の追加を発表した。3次元の都市モデル上で落雷の発生地点（位置・電流）を起点に、停電が広がる範囲や影響を受ける世帯、人口、復旧までの見込み時間を推計し、被害の広がりを",
-      "img": "https://ascii.jp/img/2026/07/06/4495397/s/512517f33ce256db.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 42
-    },
-    {
-      "title": "AIと専門チームの連携で健診業務を代行、「アンドエル健診代行」正式リリース",
-      "link": "https://ascii.jp/elem/000/004/416/4416672/?rss",
-      "date": "2026-07-07T07:00:00+09:00",
-      "dateLabel": "07/07 07:00",
-      "desc": "アンドエル株式会社は、企業の健康診断に関する業務を代行するサービス「アンドエル健診代行」の正式リリースを発表した。健康診断の手配や診断データの回収、診断後の事務処理など、人事・労務担当者が行う一連の業務を専門チームとAIが連携して引き受け、担当者の負担を軽減するとしている。",
-      "img": "https://ascii.jp/img/2026/07/06/4495387/s/c40985ebea4e0ea1.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 42
-    },
-    {
-      "title": "世界の半導体を支える 見えざる巨人ASML その牙城は崩せるか？",
-      "link": "https://ascii.jp/elem/000/004/416/4416748/?rss",
-      "date": "2026-07-07T06:36:48+09:00",
-      "dateLabel": "07/07 06:36",
-      "desc": "スマホもAIも、その頭脳であるチップは、この装置なしには作れない。オランダのASMLが手がける1台4億ドルの露光装置は、世界のリソグラフィー装置の約9割を握る。AIブームで高性能チップの需要が急増するいま、その独占はかつてなく重い。巨人に追いつく者は現れるのか。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "title": "「メモリが高すぎる」米ユーザーらが半導体大手3社を提訴",
+      "link": "https://ascii.jp/elem/000/004/416/4416397/?rss",
+      "date": "2026-07-07T13:30:00+09:00",
+      "dateLabel": "07/07 13:30",
+      "desc": "世界的なメモリの価格高騰が続く中、怒った米国のユーザーたちが訴訟に踏み切った。",
+      "img": "https://ascii.jp/img/2026/07/06/4495026/s/b9a3e7cf22bc3b43.jpg",
       "src": "ASCII.jp",
       "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "SORACOM、IoT通信をIP・ドメイン単位で制御する「VPGトラフィックフィルタリング」を提供開始",
+      "link": "https://ascii.jp/elem/000/004/416/4416933/?rss",
+      "date": "2026-07-07T13:00:00+09:00",
+      "dateLabel": "07/07 13:00",
+      "desc": "SORACOMが7月7日に提供開始する「VPGトラフィックフィルタリング」は、IoTデバイスの通信先をIPアドレス、ドメイン名、ポート、プロトコル単位で制御できるクラウド型ファイアウォール機能だ。許可リスト方式で不要な通信を遮断し、セキュリティ強化やコンプライアンス対応を支援する。",
+      "img": "https://ascii.jp/img/2026/07/07/4496299/s/cc2102a8e6d1738f.png",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 42
+    },
+    {
+      "title": "【Fable 5に聞いてみた】10年後、ITエンジニアの仕事はどうなる？ 他のAIモデルの回答とも比較",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/07/2000000163/",
+      "date": "2026-07-07T11:55:00+09:00",
+      "dateLabel": "07/07 11:55",
+      "desc": "注目を集めている米AnthropicのAIモデル「Claude Fable 5」の性能はどれほどなのか。ITmedia AI＋編集部で試した結果を紹介する。今回は、10年後のITエンジニアの仕事について聞いてみた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "テンセントがAIモデル「Hy3」をオープンモデルとして公開、295BでGLM-5.2やDeepSeek-V4に匹敵＆科学タスクではGPT-5.5を上回る",
+      "link": "https://gigazine.net/news/20260707-tencent-ai-hy3/",
+      "date": "2026-07-07T10:51:00+09:00",
+      "dateLabel": "07/07 10:51",
+      "desc": "中国の大手テクノロジー企業であるTencent(テンセント)がAIモデル「Hy3」を2026年7月6日に公開しました。Hy3はGLM-5.2やDeepSeek-V4-Proといったオープンモデルと比べて小規模なモデルで、はるかに大規模なモデルと同等クラスの性能を発揮するとアピールされています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -118,15 +140,37 @@
       "score": 42
     },
     {
-      "title": "OpenAIが巨大データセンター建設計画「Stargate UK」で現地を一切視察していないことが明らかに",
-      "link": "https://gigazine.net/news/20260706-openai-data-center-stargate-uk/",
-      "date": "2026-07-06T13:30:00+09:00",
-      "dateLabel": "07/06 13:30",
-      "desc": "OpenAIが推進するAIデータセンター建設計画「Stargate」のうち、イギリスの「Stargate UK」は一時停止中ですが、調査により、そもそもOpenAIは現地視察を一切行っていなかったことが指摘されています。また、イギリス政府はこの計画で300億ポンド(約6兆4800億円)規模の投資があると述べていましたが、そのうち少なくとも200億ポンド(約4",
+      "title": "複数のAIモデルを一元管理できる「Otari」がMozilla.aiによって開発される",
+      "link": "https://gigazine.net/news/20260707-mozilla-ai-otari/",
+      "date": "2026-07-07T12:55:00+09:00",
+      "dateLabel": "07/07 12:55",
+      "desc": "Firefoxなどの開発で知られるMozillaが設立したオープンソースAIエコシステム構築を目指すスタートアップ「Mozilla.ai」は2026年7月6日に、大規模言語モデル(LLM)を効果的に運用するためのオープンソースコントロールプレーン「Otari」をリリースしました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 42
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "「iPhone Air」256GBがタイムセールで13万円台 “薄くて軽い”はやっぱり強い！",
+      "link": "https://ascii.jp/elem/000/004/416/4416931/?rss",
+      "date": "2026-07-07T12:30:00+09:00",
+      "dateLabel": "07/07 12:30",
+      "desc": "Amazon.co.jpにて、「iPhone Air」がタイムセール中！とにかく薄い・軽量・高性能で画面の大きさも好評な一品です。",
+      "img": "https://ascii.jp/img/2026/07/07/4496291/s/8b37ede6cf065aaf.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "「恐縮ですが」「それな」も自然に英訳 Sakana AI“温度感”伝える翻訳サービス公開 添削機能も",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/07/2000000164/",
+      "date": "2026-07-07T11:40:59+09:00",
+      "dateLabel": "07/07 11:40",
+      "desc": "チャットサービス「Sakana Chat」の新機能で、ビジネス敬語のニュアンスや日本固有の文化概念、ネットスラングなど、既存の翻訳エンジンが苦手としてきた「日本語らしさ」の難所をクリアしたのが特徴だ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "1年でAfter AIの組織に生まれ変わったソラコム、「トークン資本」の安全な器へ",
@@ -162,28 +206,6 @@
       "score": 34
     },
     {
-      "title": "【プライムデー】Galaxy S26が安すぎて正直驚いた 最高峰CPU搭載で11万5800円",
-      "link": "https://ascii.jp/elem/000/004/416/4416683/?rss",
-      "date": "2026-07-07T00:01:00+09:00",
-      "dateLabel": "07/07 00:01",
-      "desc": "PCパーツとともに価格上昇が進むスマートフォン。円安＆半導体価格上昇でやむなし……と思っていたら、プライムデーでかなりの出物を発見。最高峰CPUを搭載したGalaxy S26が11万円台半ばで登場だ！",
-      "img": "https://ascii.jp/img/2026/07/06/4495529/s/fcecdcb54295743e.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "お掃除ロボット最新モデルが過去最安値=Amazonプライムデーでルンバが最大65%OFF",
-      "link": "https://ascii.jp/elem/000/004/416/4416670/?rss",
-      "date": "2026-07-07T00:01:00+09:00",
-      "dateLabel": "07/07 00:01",
-      "desc": "今回のセールでは5月に発売されたばかりの最新モデルが過去最安値で登場するほか、日本の住環境に最適化されたモデルなど、計4機種がラインナップされています",
-      "img": "https://ascii.jp/img/2026/07/06/4495365/s/795121cde9f05884.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 34
-    },
-    {
       "title": "個人開発者がClaude Fableを使って「Command ＆ Conquer Generals Zero Hour」をMac・iPhone・iPadに移植しオープンソースで無料公開",
       "link": "https://gigazine.net/news/20260706-command-and-conquer-zero-hour-apple/",
       "date": "2026-07-06T15:45:00+09:00",
@@ -192,39 +214,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "中国のAIアプリから「人間っぽい相棒」が消える、ByteDanceとAlibabaが規制対応で機能停止へ",
-      "link": "https://gigazine.net/news/20260706-disable-custom-agents/",
-      "date": "2026-07-06T13:40:00+09:00",
-      "dateLabel": "07/06 13:40",
-      "desc": "2026年7月15日から「人工知能擬人化インタラクションサービス管理暫定弁法」が施行されることを受け、中国の大手AIアプリであるByteDanceの「Doubao」とAlibabaの「Qwen」が人間のような性格や口調を持つカスタムAIエージェント機能を停止するとユーザーに通知しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "画像生成AIを開発するMidjourneyが係争中のハリウッドの映画スタジオに対してAIの利用状況の詳細を明らかにするよう要求",
-      "link": "https://gigazine.net/news/20260706-midjourney-hollywood-studios-ai-usage/",
-      "date": "2026-07-06T11:08:00+09:00",
-      "dateLabel": "07/06 11:08",
-      "desc": "画像生成AIを開発するMidjourneyがディズニー、ユニバーサル、ワーナーブラザース・ディスカバリー(WBD)の大手映画スタジオ3社との著作権訴訟において、スタジオ側のAI利用実態を開示するよう求めています。両者の対立は開示手続きの範囲を巡るものに移っており、担当判事は消費者向けの映像や画像に関する情報のみ開示対象とする判断を示していましたが、Midjo",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "キオクシア、新型メモリのサンプル出荷開始 岩手の工場の最先端設備活用",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/06/news059.html",
-      "date": "2026-07-06T10:22:00+09:00",
-      "dateLabel": "07/06 10:22",
-      "desc": "半導体大手キオクシアホールディングスが、大容量で低消費電力の新型メモリのサンプル品の出荷を開始したと発表した。北上工場（岩手県北上市）第2製造棟の最先端設備を活用して生産する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -239,47 +228,58 @@
       "score": 32
     },
     {
-      "title": "AI誤決裁の責任は誰が取る？ 自動化していい業務／ダメな業務の境界線",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/07/news056.html",
-      "date": "2026-07-07T08:00:00+09:00",
-      "dateLabel": "07/07 08:00",
-      "desc": "エイトレッドが「ワークフローのAI代替可能性に関する実態調査」の結果を公表。7割超の担当者が「ワークフローの承認・決裁をAIに任せるべきではない」と回答したことが明らかとなった。",
+      "title": "Sakana AIが翻訳機能「Sakana Translate」をリリース、日英中の双方向翻訳に対応＆カジュアル・簡潔・大阪弁などに変換可能",
+      "link": "https://gigazine.net/news/20260707-sakana-translate/",
+      "date": "2026-07-07T12:26:00+09:00",
+      "dateLabel": "07/07 12:26",
+      "desc": "東京に拠点を置くAI企業のSakana AIがチャットAI「Sakana Chat」に翻訳機能「Sakana Translate」を追加しました。Sakana Translateは日本語・英語・中国語の双方向翻訳に対応し、最大約5000文字の翻訳が可能とのこと。無料で使えるそうなので実際に使ってみました。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "「250万超AIエージェント作成」の裏で同時多発する課題を回し切ったIT部門の運用術",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/03/news007.html",
-      "date": "2026-07-07T05:00:00+09:00",
-      "dateLabel": "07/07 05:00",
-      "desc": "ソフトバンクは、生成AIサービスを数万人規模で全社展開しましたが、その裏側では従来のSaaS導入とは異なる課題が同時多発的に発生しました。それを支えたのは、切り分け・情報整理・関係者調整・粘り強い説明といったIT部門の基礎力と現場の経験です。この事例は、生成AI時代の企業ITが「整ったものを入れる」から「未整備なものを運用で成立させる」仕事に変化していること",
+      "title": "MSIが中国製DDR5メモリ向けのベータ版BIOSをリリースしDDR5-8200での動作が可能に、CXMTがMicron・Samsung・SK hynixに代わる選択肢となるか",
+      "link": "https://gigazine.net/news/20260707-msi-cxmt-memory-bios/",
+      "date": "2026-07-07T12:19:00+09:00",
+      "dateLabel": "07/07 12:19",
+      "desc": "AI需要による世界的なメモリ不足が深刻化する中、中国のメモリメーカーであるCXMTが個人向けのDDR5メモリを生産しているという情報が注目を集めています。新たに大手マザーボードメーカーのMSIがCXMT製メモリの高速動作を可能にするベータ版BIOSをリリースしたことが明らかになりました。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "【プライムデー】iPhone Airは2万円引きで13万9800円から、1TBモデルは6万円引き これは大バーゲンです！",
-      "link": "https://ascii.jp/elem/000/004/416/4416690/?rss",
-      "date": "2026-07-07T01:15:00+09:00",
-      "dateLabel": "07/07 01:15",
-      "desc": "Amazonプライムセールの先行セールが開始。その目玉として予告されていたiPhone Airですが、なんと2万円引きの13万9800円から！ さらに512GBモデルは3万8000円、1TBモデルは6万円引き。これは大バーゲンです！",
-      "img": "https://ascii.jp/img/2026/07/07/4495617/s/57d82776476b1c43.png",
+      "title": "これはデスクを一気に強化したくなる… LGのOLEDモニターが3万8150円オフ【Amazonプライムデー2026】",
+      "link": "https://ascii.jp/elem/000/004/416/4416723/?rss",
+      "date": "2026-07-07T12:00:00+09:00",
+      "dateLabel": "07/07 12:00",
+      "desc": "LGの27インチ有機ELゲーミングモニター「UltraGear OLED 27GX700A-B」が参考価格から3万8150円引きの35％オフ。画質も速さも重視したい人向け。",
+      "img": "https://ascii.jp/img/2026/07/07/4495899/s/7623f872ef8bc336.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "MCPにエンタープライズ向け新機能、アクセスを一括管理できる「Enterprise-Managed Authorization（EMA）extension」が安定版として利用可能に",
-      "link": "https://www.publickey1.jp/blog/26/mcpenterprise-managed_authorizationemaextension.html",
-      "date": "2026-07-07T00:08:16+09:00",
-      "dateLabel": "07/07 00:08",
-      "desc": "生成AIとツールとの接続プロトコルとしてLinux Foundation傘下で標準化と機能拡張が進められているMCP（Model Context Protocol）の企業向けの新機能「Enterprise-Managed Authoriza...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "生成AI/マルチモーダル",
+      "title": "CORSAIRの32GB DDR5メモリが1万円超オフ。見た目も良いぞ！【Amazonプライムデー2026】",
+      "link": "https://ascii.jp/elem/000/004/416/4416702/?rss",
+      "date": "2026-07-07T11:35:00+09:00",
+      "dateLabel": "07/07 11:35",
+      "desc": "CORSAIRのDDR5メモリが1万820円引き。白い自作PCに合わせたい人や、32GBの余裕がほしい人は要チェック。",
+      "img": "https://ascii.jp/img/2026/07/07/4495697/s/7ba688802bd86d37.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "21万円超の11インチiPad Air（M3）が、15万円台。1TB・Cellularモデルが27％オフ",
+      "link": "https://ascii.jp/elem/000/004/416/4416825/?rss",
+      "date": "2026-07-07T11:30:00+09:00",
+      "dateLabel": "07/07 11:30",
+      "desc": "Appleの「11インチ iPad Air（M3）」がAmazonタイムセール対象。参考価格212,801円のところ、27％オフの154,760円で販売中。1TBストレージとWi-Fi + Cellularに対応した上位構成モデルで、Apple Intelligenceのために設計されたM3チップや11インチLiquid Retinaディスプレイを搭載。容量",
+      "img": "https://ascii.jp/img/2026/07/07/4496255/s/0784c677d2cbf506.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
       "score": 26
     }
   ]
