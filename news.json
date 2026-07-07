@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-08T04:40:51.322593+09:00",
-  "generatedLabel": "2026/07/08 04:40",
+  "generatedAt": "2026-07-08T06:15:08.964477+09:00",
+  "generatedLabel": "2026/07/08 06:15",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -62,6 +62,17 @@
     }
   ],
   "articles": [
+    {
+      "title": "ソフトバンクの「1人100エージェント」を支える独自AIゲートウェイ「Cloud Proxy」の正体",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/07/news009.html",
+      "date": "2026-07-08T05:00:00+09:00",
+      "dateLabel": "07/08 05:00",
+      "desc": "生成AIやAIエージェントを全社展開する際、企業はセキュリティやガバナンス、性能といった課題に直面しがちです。ソフトバンクは「全社で1人100エージェント」構想の実現に向けて、AI利用の入り口となる共通基盤「Cloud Proxy」を内製しました。その設計思想や性能強化の取り組み、自動化による迅速なスケールアウト、マルチLLM対応など、Cloud Proxy",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
+      "score": 50
+    },
     {
       "title": "Anthropic、AIの“内なる思考”が宿る「J-space」を発見──新手法「J-lens」で可視化、安全性監視に応用",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/07/2000000162/",
@@ -138,6 +149,17 @@
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
       "score": 42
+    },
+    {
+      "title": "無料でWord・Excel・PowerPointをあらゆるAIエージェントに完全制御させることができる「OfficeCLI」",
+      "link": "https://gigazine.net/news/20260708-officecli/",
+      "date": "2026-07-08T06:00:00+09:00",
+      "dateLabel": "07/08 06:00",
+      "desc": "AIエージェントでWord・Excel・PowerPointファイルを読み取り、編集・自動化するためのCLIが「OfficeCLI」です。オープンソースで開発されており、無料で誰でもインストールして利用することができます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "Visual Studio Code、従量課金制になったGitHub Copilotの消費トークン数を表示可能に",
@@ -239,39 +261,6 @@
       "score": 34
     },
     {
-      "title": "AIコーディングの「ループ」4種類を完全入門 Anthropic公式が分かりやすく整理して解説",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/07/news014.html",
-      "date": "2026-07-07T05:00:00+09:00",
-      "dateLabel": "07/07 05:00",
-      "desc": "Anthropicが、Claude Codeにおける「ループ」を4種類に整理して解説した。AIコーディングで何をAIに任せ、どこで止めるべきかを、初心者にも分かるようにかみ砕き、筆者なりの視点も添えて紹介する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "AIエージェントのワークフロー自動化とは？仕組みと導入手順を解説",
-      "link": "https://ainow.ai/2026/07/07/278237/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e3%2583%25af%25e3%2583%25bc%25e3%2582%25af%25e3%2583%2595%25e3%2583%25ad%25e3%2583%25bc%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e4%25bb%2595%25e7%25b5%2584%25e3%2581%25bf",
-      "date": "2026-07-07T04:50:51+09:00",
-      "dateLabel": "07/07 04:50",
-      "desc": "メールを確認してSlackに転記し、スプレッドシートに入力するといった複数の作業を、毎日手作業でつないでいる担当者は多いでしょう。 AIエージェントによるワークフロー自動化とは、こうした複数の業務工程をAIが横断し、状況... The post AIエージェントのワークフロー自動化とは？仕組みと導入手順を解説 first appeared on AI専門ニュ",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Metaの新AI「Watermelon」はOpenAIのGPT-5.5に匹敵する性能で近日登場",
-      "link": "https://gigazine.net/news/20260706-meta-watermelon/",
-      "date": "2026-07-06T22:25:00+09:00",
-      "dateLabel": "07/06 22:25",
-      "desc": "Metaの最高AI責任者であるアレクサンドル・ワン氏が、MetaのAIモデル・Muse Sparkがまもなくアップデートされ、コーディングやエージェント機能が向上する予定であることを明らかにしました。AIモデルの名称自体は変わりませんが、内部コードではAvocadoからWatermelonのアップデートになるとのことです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "クアルコムがPythonライクな新言語「Mojo」開発元のModular社買収を発表。AIデータセンター市場へ本格参入",
       "link": "https://www.publickey1.jp/blog/26/pythonmojomodularai.html",
       "date": "2026-06-30T00:33:20+09:00",
@@ -281,6 +270,17 @@
       "src": "Publickey",
       "cat": "半導体/GPU",
       "score": 32
+    },
+    {
+      "title": "次世代3Dフードプリンティングと食感解析AIで未来の食をデザイン 山形大学発「F-EAT」",
+      "link": "https://ascii.jp/elem/000/004/416/4416827/?rss",
+      "date": "2026-07-08T06:00:00+09:00",
+      "dateLabel": "07/08 06:00",
+      "desc": "「F-EAT」は、3Dフードプリンティング技術の研究・開発のほか、食感解析AI「GelBiter」とXRなどのデジタル技術を組み合わせた「新しい食体験の創出」を目指す山形大学発のスタートアップ。医療介護現場や廃棄問題など社会課題の解決にもつながる技術だ。",
+      "img": "https://ascii.jp/img/2026/07/07/4496261/s/bb82c2159f474b3c.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     }
   ]
 }
