@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-07T13:42:17.368191+09:00",
-  "generatedLabel": "2026/07/07 13:42",
+  "generatedAt": "2026-07-07T17:15:02.261965+09:00",
+  "generatedLabel": "2026/07/07 17:15",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 56,
@@ -85,25 +85,14 @@
       "score": 50
     },
     {
-      "title": "「メモリが高すぎる」米ユーザーらが半導体大手3社を提訴",
-      "link": "https://ascii.jp/elem/000/004/416/4416397/?rss",
-      "date": "2026-07-07T13:30:00+09:00",
-      "dateLabel": "07/07 13:30",
-      "desc": "世界的なメモリの価格高騰が続く中、怒った米国のユーザーたちが訴訟に踏み切った。",
-      "img": "https://ascii.jp/img/2026/07/06/4495026/s/b9a3e7cf22bc3b43.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "SORACOM、IoT通信をIP・ドメイン単位で制御する「VPGトラフィックフィルタリング」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/416/4416933/?rss",
-      "date": "2026-07-07T13:00:00+09:00",
-      "dateLabel": "07/07 13:00",
-      "desc": "SORACOMが7月7日に提供開始する「VPGトラフィックフィルタリング」は、IoTデバイスの通信先をIPアドレス、ドメイン名、ポート、プロトコル単位で制御できるクラウド型ファイアウォール機能だ。許可リスト方式で不要な通信を遮断し、セキュリティ強化やコンプライアンス対応を支援する。",
-      "img": "https://ascii.jp/img/2026/07/07/4496299/s/cc2102a8e6d1738f.png",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
+      "title": "Anthropicが教える「Fable 5活用術」 まず確認すべきは「自分が何を知らないか」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/07/2000000165/",
+      "date": "2026-07-07T15:13:17+09:00",
+      "dateLabel": "07/07 15:13",
+      "desc": "米Anthropicは、AIモデル「Claude Fable 5」の活用ガイドを公式ブログで公開した。AIコーディングツール「Claude Code」で同モデルを使う際の具体的なテクニックを紹介している。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -151,17 +140,6 @@
       "score": 34
     },
     {
-      "title": "「iPhone Air」256GBがタイムセールで13万円台 “薄くて軽い”はやっぱり強い！",
-      "link": "https://ascii.jp/elem/000/004/416/4416931/?rss",
-      "date": "2026-07-07T12:30:00+09:00",
-      "dateLabel": "07/07 12:30",
-      "desc": "Amazon.co.jpにて、「iPhone Air」がタイムセール中！とにかく薄い・軽量・高性能で画面の大きさも好評な一品です。",
-      "img": "https://ascii.jp/img/2026/07/07/4496291/s/8b37ede6cf065aaf.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "「恐縮ですが」「それな」も自然に英訳 Sakana AI“温度感”伝える翻訳サービス公開 添削機能も",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/07/2000000164/",
       "date": "2026-07-07T11:40:59+09:00",
@@ -206,17 +184,6 @@
       "score": 34
     },
     {
-      "title": "個人開発者がClaude Fableを使って「Command ＆ Conquer Generals Zero Hour」をMac・iPhone・iPadに移植しオープンソースで無料公開",
-      "link": "https://gigazine.net/news/20260706-command-and-conquer-zero-hour-apple/",
-      "date": "2026-07-06T15:45:00+09:00",
-      "dateLabel": "07/06 15:45",
-      "desc": "開発者のammaarreshi氏が、ゲーム「Command ＆ Conquer Generals Zero Hour」をMac・iPhone・iPadに移植しました。ammaarreshi氏はAIを活用したと述べています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "クアルコムがPythonライクな新言語「Mojo」開発元のModular社買収を発表。AIデータセンター市場へ本格参入",
       "link": "https://www.publickey1.jp/blog/26/pythonmojomodularai.html",
       "date": "2026-06-30T00:33:20+09:00",
@@ -228,6 +195,83 @@
       "score": 32
     },
     {
+      "title": "AI時代における倫理的かつ責任ある製品開発と脆弱性開示、フォーティネットの製品セキュリティポリシーを解説",
+      "link": "https://ascii.jp/elem/000/004/416/4416753/?rss",
+      "date": "2026-07-07T17:00:00+09:00",
+      "dateLabel": "07/07 17:00",
+      "desc": "AIは確立されたセキュリティテストプログラムの一部でしたが、フロンティアサイバーモデルのイノベーションにより、大規模にソフトウェアを分析およびテストする能力が飛躍的に向上しました。この変化は重要ですが、製品セキュリティと責任あるイノベーションに対する当社の基本的なアプローチを変えるものではありません。当社は、お客様のセキュリティへのコミットメントと、イノベー",
+      "img": "https://ascii.jp/img/2026/07/07/4496139/s/50bdede00e4e6dc1.jpg",
+      "src": "ASCII.jp",
+      "cat": "規制/安全",
+      "score": 26
+    },
+    {
+      "title": "脅威の26％オフ！iPhone Air買うならAmazonタイムセールは必見",
+      "link": "https://ascii.jp/elem/000/004/417/4417065/?rss",
+      "date": "2026-07-07T16:00:00+09:00",
+      "dateLabel": "07/07 16:00",
+      "desc": "7月7日14時現在、Amazon.co.jpではアップル「iPhone Air」のタイムセールを実施中！参考価格から最大26%オフの脅威の割引率で、話題の機種を変えるビックチャンスが到来です。",
+      "img": "https://ascii.jp/img/2026/07/07/4496370/s/dcdd33f6092f8c4c.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "1TBの高速CFexpressカードが2万円超えオフ。最大3900MB/sで余裕の連写【Amazonプライムデー2026】",
+      "link": "https://ascii.jp/elem/000/004/416/4416707/?rss",
+      "date": "2026-07-07T15:35:00+09:00",
+      "dateLabel": "07/07 15:35",
+      "desc": "NextorageのCFexpress 4.0 Type B 1000GBが2万7210円引き。8K動画やRAW連写を本気で回す人にオススメの、信頼性重視の記録メディアです。",
+      "img": "https://ascii.jp/img/2026/07/07/4495746/s/ca3176aa8f22b658.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "寝たきりでも働ける「分身ロボットカフェDAWN」横浜店のオープンが決定！",
+      "link": "https://ascii.jp/elem/000/004/417/4417106/?rss",
+      "date": "2026-07-07T15:30:00+09:00",
+      "dateLabel": "07/07 15:30",
+      "desc": "寝たきりでも働ける「分身ロボットカフェDAWN」横浜店のオープンが決定！",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
+      "title": "サイバートラスト、「AI時代の重要インフラサプライチェーン向けトラスト基盤構想」第2弾としてSUSEとの連携を推進",
+      "link": "https://ascii.jp/elem/000/004/417/4417105/?rss",
+      "date": "2026-07-07T15:30:00+09:00",
+      "dateLabel": "07/07 15:30",
+      "desc": "サイバートラスト、「AI時代の重要インフラサプライチェーン向けトラスト基盤構想」第2弾としてSUSEとの連携を推進",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "梅雨・猛暑の日のヘアセット、73.1％が「通常時より時間がかかる」と回答。KAMIKAI (髪改)が《Amazonプライムデー先行セール》を実施",
+      "link": "https://ascii.jp/elem/000/004/417/4417119/?rss",
+      "date": "2026-07-07T15:20:00+09:00",
+      "dateLabel": "07/07 15:20",
+      "desc": "梅雨・猛暑の日のヘアセット、73.1％が「通常時より時間がかかる」と回答。KAMIKAI (髪改)が《Amazonプライムデー先行セール》を実施",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "手書きの文章に返事をくれるハリー・ポッターの「トム・リドルの日記」を電子ペーパー端末とAIで再現",
+      "link": "https://gigazine.net/news/20260707-harry-potter-diary-of-tom-riddle/",
+      "date": "2026-07-07T14:00:00+09:00",
+      "dateLabel": "07/07 14:00",
+      "desc": "J・K・ローリングの人気児童小説「ハリー・ポッター」シリーズの2作目である『ハリー・ポッターと秘密の部屋』に登場する「トム・リドルの日記」は、日記帳に文字を書き込むことでホグワーツ魔法学校の元学生だったトム・リドルと会話ができるというアイテムでした。このトム・リドルの日記をLLM(大規模言語モデル)を使って再現するツール「Riddle」がオープンソースで開発",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
       "title": "Sakana AIが翻訳機能「Sakana Translate」をリリース、日英中の双方向翻訳に対応＆カジュアル・簡潔・大阪弁などに変換可能",
       "link": "https://gigazine.net/news/20260707-sakana-translate/",
       "date": "2026-07-07T12:26:00+09:00",
@@ -236,50 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "MSIが中国製DDR5メモリ向けのベータ版BIOSをリリースしDDR5-8200での動作が可能に、CXMTがMicron・Samsung・SK hynixに代わる選択肢となるか",
-      "link": "https://gigazine.net/news/20260707-msi-cxmt-memory-bios/",
-      "date": "2026-07-07T12:19:00+09:00",
-      "dateLabel": "07/07 12:19",
-      "desc": "AI需要による世界的なメモリ不足が深刻化する中、中国のメモリメーカーであるCXMTが個人向けのDDR5メモリを生産しているという情報が注目を集めています。新たに大手マザーボードメーカーのMSIがCXMT製メモリの高速動作を可能にするベータ版BIOSをリリースしたことが明らかになりました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "これはデスクを一気に強化したくなる… LGのOLEDモニターが3万8150円オフ【Amazonプライムデー2026】",
-      "link": "https://ascii.jp/elem/000/004/416/4416723/?rss",
-      "date": "2026-07-07T12:00:00+09:00",
-      "dateLabel": "07/07 12:00",
-      "desc": "LGの27インチ有機ELゲーミングモニター「UltraGear OLED 27GX700A-B」が参考価格から3万8150円引きの35％オフ。画質も速さも重視したい人向け。",
-      "img": "https://ascii.jp/img/2026/07/07/4495899/s/7623f872ef8bc336.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "CORSAIRの32GB DDR5メモリが1万円超オフ。見た目も良いぞ！【Amazonプライムデー2026】",
-      "link": "https://ascii.jp/elem/000/004/416/4416702/?rss",
-      "date": "2026-07-07T11:35:00+09:00",
-      "dateLabel": "07/07 11:35",
-      "desc": "CORSAIRのDDR5メモリが1万820円引き。白い自作PCに合わせたい人や、32GBの余裕がほしい人は要チェック。",
-      "img": "https://ascii.jp/img/2026/07/07/4495697/s/7ba688802bd86d37.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "21万円超の11インチiPad Air（M3）が、15万円台。1TB・Cellularモデルが27％オフ",
-      "link": "https://ascii.jp/elem/000/004/416/4416825/?rss",
-      "date": "2026-07-07T11:30:00+09:00",
-      "dateLabel": "07/07 11:30",
-      "desc": "Appleの「11インチ iPad Air（M3）」がAmazonタイムセール対象。参考価格212,801円のところ、27％オフの154,760円で販売中。1TBストレージとWi-Fi + Cellularに対応した上位構成モデルで、Apple Intelligenceのために設計されたM3チップや11インチLiquid Retinaディスプレイを搭載。容量",
-      "img": "https://ascii.jp/img/2026/07/07/4496255/s/0784c677d2cbf506.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
       "score": 26
     }
   ]
