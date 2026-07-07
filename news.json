@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-08T06:15:08.964477+09:00",
-  "generatedLabel": "2026/07/08 06:15",
+  "generatedAt": "2026-07-08T07:51:25.572835+09:00",
+  "generatedLabel": "2026/07/08 07:51",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 56,
@@ -13,7 +13,7 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 19
+      "items": 18
     },
     {
       "source": "ASCII.jp",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -62,6 +62,17 @@
     }
   ],
   "articles": [
+    {
+      "title": "Anthropicの「Claude Cowork」がWebとモバイルでも利用可能に まずはMaxプランから",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000168/",
+      "date": "2026-07-08T06:55:26+09:00",
+      "dateLabel": "07/08 06:55",
+      "desc": "Anthropicは、AIエージェント機能「Claude Cowork」をWebブラウザとモバイルアプリ向けに展開すると発表した。これまでデスクトップアプリ限定だったが、スマートフォンなどからも作業の進捗確認や指示出しが可能になる。今後は順次提供を拡大し、まずは上位のMaxプランからβ版として開始する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
     {
       "title": "ソフトバンクの「1人100エージェント」を支える独自AIゲートウェイ「Cloud Proxy」の正体",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/07/news009.html",
@@ -140,15 +151,26 @@
       "score": 42
     },
     {
-      "title": "パランティアCEOがOpenAIやAnthropicを批判 「AIモデルを強化するためのデータをなぜ顧客が渡すのか」",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/06/2000000161/",
-      "date": "2026-07-06T18:50:54+09:00",
-      "dateLabel": "07/06 18:50",
-      "desc": "Palantirのアレックス・カープCEOがCNBCのインタビューで、OpenAIのサム・アルトマンCEOやAnthropicのダリオ・アモデイCEOの名前を挙げつつ、フロンティアモデル提供企業が顧客のデータを使って競争優位性を確保する業界の現状を批判した。対抗して打ち出したのがNVIDIAとの提携だ。",
+      "title": "AIが破壊するIT業界の“人月商売” 「SIerの死」後に“生き残る者”の正体",
+      "link": "https://www.itmedia.co.jp/business/articles/2607/08/news043.html",
+      "date": "2026-07-08T07:00:00+09:00",
+      "dateLabel": "07/08 07:00",
+      "desc": "米Anthropicの機能発表で約8300億ドルの時価総額が消し飛んだ「AIショック」。画面の使いやすさで稼いできたSaaSや、時間と人数を積み上げるSIerの「人月商売」が崩壊の危機に直面している。だが、業界ルールにのっとった複雑な計算（ビジネスロジック）を握る企業は依然として強い。真の構造変化はどこで起きているのか。AIに仕事を任せるための「安全管理」の",
       "img": "",
       "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "平均の20倍稼ぐ韓国「シリコンカラー」、婚活でも引く手あまたに",
+      "link": "https://ascii.jp/elem/000/004/417/4417196/?rss",
+      "date": "2026-07-08T06:48:55+09:00",
+      "dateLabel": "07/08 06:48",
+      "desc": "最近の韓国では、お見合いに着ていく最強の装いは半導体工場の制服だ、と冗談が飛び交う。AIチップの好況でサムスンとSKハイニックスが記録的な利益を上げ、従業員には1人当たり40万ドルを超えるボーナスが支給された。平均の約20倍を稼ぐ「シリコンカラー」は、いまや婚活市場の花形となっている。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
       "cat": "半導体/GPU",
-      "score": 42
+      "score": 34
     },
     {
       "title": "無料でWord・Excel・PowerPointをあらゆるAIエージェントに完全制御させることができる「OfficeCLI」",
@@ -206,28 +228,6 @@
       "score": 34
     },
     {
-      "title": "AIスライド生成ツール「イルシル」、図解生成時の「入力テキスト・テーマカラー」を生成後に確認できる機能をリリース",
-      "link": "https://ascii.jp/elem/000/004/417/4417185/?rss",
-      "date": "2026-07-07T18:10:00+09:00",
-      "dateLabel": "07/07 18:10",
-      "desc": "AIスライド生成ツール「イルシル」、図解生成時の「入力テキスト・テーマカラー」を生成後に確認できる機能をリリース",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "株式会社Mavericksは、動画生成AI「NoLang」にオランダ語・マレー語を追加。翻訳会社やナレーターを介さずオランダ・マレーシア向け動画を内製できる体制を構築",
-      "link": "https://ascii.jp/elem/000/004/417/4417182/?rss",
-      "date": "2026-07-07T18:01:15+09:00",
-      "dateLabel": "07/07 18:01",
-      "desc": "株式会社Mavericksは、動画生成AI「NoLang」にオランダ語・マレー語を追加。翻訳会社やナレーターを介さずオランダ・マレーシア向け動画を内製できる体制を構築",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
       "title": "複数のAIモデルを一元管理できる「Otari」がMozilla.aiによって開発される",
       "link": "https://gigazine.net/news/20260707-mozilla-ai-otari/",
       "date": "2026-07-07T12:55:00+09:00",
@@ -250,17 +250,6 @@
       "score": 34
     },
     {
-      "title": "1年でAfter AIの組織に生まれ変わったソラコム、「トークン資本」の安全な器へ",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/07/news073.html",
-      "date": "2026-07-07T07:15:00+09:00",
-      "dateLabel": "07/07 07:15",
-      "desc": "ソラコムが、2025年7月から始めた「After AIの組織」に移行するための取り組みを説明。この新たな組織体制から生み出したマネージドAIエージェントサービス「SORACOM Agent」も紹介した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "クアルコムがPythonライクな新言語「Mojo」開発元のModular社買収を発表。AIデータセンター市場へ本格参入",
       "link": "https://www.publickey1.jp/blog/26/pythonmojomodularai.html",
       "date": "2026-06-30T00:33:20+09:00",
@@ -272,14 +261,25 @@
       "score": 32
     },
     {
-      "title": "次世代3Dフードプリンティングと食感解析AIで未来の食をデザイン 山形大学発「F-EAT」",
-      "link": "https://ascii.jp/elem/000/004/416/4416827/?rss",
-      "date": "2026-07-08T06:00:00+09:00",
-      "dateLabel": "07/08 06:00",
-      "desc": "「F-EAT」は、3Dフードプリンティング技術の研究・開発のほか、食感解析AI「GelBiter」とXRなどのデジタル技術を組み合わせた「新しい食体験の創出」を目指す山形大学発のスタートアップ。医療介護現場や廃棄問題など社会課題の解決にもつながる技術だ。",
-      "img": "https://ascii.jp/img/2026/07/07/4496261/s/bb82c2159f474b3c.png",
-      "src": "ASCII.jp",
+      "title": "ガバメントAI「源内」は自治体で本当に使えるのか？ クラウド依存による“3つの落とし穴”",
+      "link": "https://www.itmedia.co.jp/business/articles/2607/08/news016.html",
+      "date": "2026-07-08T07:00:00+09:00",
+      "dateLabel": "07/08 07:00",
+      "desc": "デジタル庁が公開したガバメントAI「源内」（GENAI）は、政府によるAIプラットフォームの公開という点で画期的な取り組みだ。一方で、自治体での実運用を考える上で無視できない論点も見えてくると、CIO補佐官として自治体DXに携わる筆者が解説する。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "AIがExcel作業を丸ごと自動化？ 企業の定型業務を効率化へ",
+      "link": "https://kn.itmedia.co.jp/kn/articles/2607/08/news053.html",
+      "date": "2026-07-08T07:00:00+09:00",
+      "dateLabel": "07/08 07:00",
+      "desc": "生成AIによる業務自動化が広がる一方、取得したExcelやCSVファイルの集計・加工には依然として人手を伴う。データ収集からファイル処理までをAIが一貫して担うことで、企業に残る定型作業の効率化が進むだろう。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
