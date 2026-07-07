@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-07T23:06:45.244299+09:00",
-  "generatedLabel": "2026/07/07 23:06",
+  "generatedAt": "2026-07-08T02:05:25.333595+09:00",
+  "generatedLabel": "2026/07/08 02:05",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 55,
@@ -127,6 +127,28 @@
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
       "score": 42
+    },
+    {
+      "title": "Visual Studio Code、従量課金制になったGitHub Copilotの消費トークン数を表示可能に",
+      "link": "https://www.publickey1.jp/blog/26/visual_studio_codegithub_copilot.html",
+      "date": "2026-07-08T00:55:48+09:00",
+      "dateLabel": "07/08 00:55",
+      "desc": "マイクロソフトはVisual Studio Codeの新機能として、GitHub Copilotで消費した生成AIのトークン数などを表示できるようにしました。 GitHub Copilotは今年（2026年）6月から、生成AIを利用したチャ...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "AIエージェントとRPAの違いは？比較表と事例付きで徹底解説",
+      "link": "https://ainow.ai/2026/07/08/278240/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a8rpa%25e3%2581%25ae%25e9%2581%2595%25e3%2581%2584%25e3%2581%25af%25ef%25bc%259f%25e6%25af%2594%25e8%25bc%2583%25e8%25a1%25a8%25e3%2581%25a8%25e4%25ba%258b%25e4%25be%258b%25e4%25bb%2598%25e3%2581%258d%25e3%2581%25a7",
+      "date": "2026-07-08T00:24:28+09:00",
+      "dateLabel": "07/08 00:24",
+      "desc": "「AIエージェント」という言葉が社内で急速に広まり、既存のRPAとの違いを上司や他部署から尋ねられて困った経験はないでしょうか。 両者は業務を自動化する技術という共通点を持ちながら、判断能力とルールに基づく実行という点で... The post AIエージェントとRPAの違いは？比較表と事例付きで徹底解説 first appeared on AI専門ニュース",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "AMDのAI開発キット「Ryzen AI Halo」レビューがさっそく登場、約64万円で128GBの超大容量ユニファイドメモリ＆Zen 5CPU＆Radeon 8060S GPUを搭載した強力ミニワークステーション",
@@ -256,28 +278,6 @@
       "dateLabel": "07/07 19:30",
       "desc": "Nothingの新作「Ear (3a)」は、1万5800円ながら12mmドライバーとBluetooth 6.0を搭載し音質・接続性が向上したワイヤレスイヤホンです。最大の目玉はイヤホン単体での録音機能で、AIによる文字起こしや要約にも対応。新色ピンクも追加され、デザインと実用性を兼ね備えた1台です。",
       "img": "https://ascii.jp/img/2026/07/06/4495530/s/2341ff77f4e36d08.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "Apple「AirPods Pro 3」も安い！ 13%オフの3万4800円",
-      "link": "https://ascii.jp/elem/000/004/417/4417153/?rss",
-      "date": "2026-07-07T19:00:00+09:00",
-      "dateLabel": "07/07 19:00",
-      "desc": "7月7日17時現在、Amazon.co.jpではアップル「AirPods Pro 3」のタイムセールを実施中！参考価格から13%オフの3万4800円で買えるチャンス到来です。",
-      "img": "https://ascii.jp/img/2026/07/07/4496544/s/7c602f90efd9db03.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "【Amazonプライムデー42％OFF限定】豪華5点アクセサリー付き DOOGEE U13 AIタブレット 13インチ大画面×Android 16×256GB ROMが42％OFFで27,455円！",
-      "link": "https://ascii.jp/elem/000/004/417/4417189/?rss",
-      "date": "2026-07-07T18:30:00+09:00",
-      "dateLabel": "07/07 18:30",
-      "desc": "【Amazonプライムデー42％OFF限定】豪華5点アクセサリー付き DOOGEE U13 AIタブレット 13インチ大画面×Android 16×256GB ROMが42％OFFで27,455円！",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
