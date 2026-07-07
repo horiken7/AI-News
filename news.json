@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-07T07:58:11.450545+09:00",
-  "generatedLabel": "2026/07/07 07:58",
+  "generatedAt": "2026-07-07T09:06:23.342550+09:00",
+  "generatedLabel": "2026/07/07 09:06",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 58,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 9
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -239,6 +239,17 @@
       "score": 32
     },
     {
+      "title": "AI誤決裁の責任は誰が取る？ 自動化していい業務／ダメな業務の境界線",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/07/news056.html",
+      "date": "2026-07-07T08:00:00+09:00",
+      "dateLabel": "07/07 08:00",
+      "desc": "エイトレッドが「ワークフローのAI代替可能性に関する実態調査」の結果を公表。7割超の担当者が「ワークフローの承認・決裁をAIに任せるべきではない」と回答したことが明らかとなった。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
       "title": "「250万超AIエージェント作成」の裏で同時多発する課題を回し切ったIT部門の運用術",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/03/news007.html",
       "date": "2026-07-07T05:00:00+09:00",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "Publickey",
       "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
-      "title": "【Amazonプライムデー】13インチiPad Air（M3）が11万円台に！",
-      "link": "https://ascii.jp/elem/000/004/416/4416685/?rss",
-      "date": "2026-07-07T00:00:00+09:00",
-      "dateLabel": "07/07 00:00",
-      "desc": "7月7日スタートのAmazonプライムデー先行セールで、13インチiPad Air（M3）Wi-Fi + Cellularモデルがお得な価格で販売中。大画面iPadを狙っていた人は要チェックです。",
-      "img": "https://ascii.jp/img/2026/07/06/4495551/s/48b9a4c671a6c678.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 26
     }
   ]
