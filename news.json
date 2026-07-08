@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-09T04:07:04.276958+09:00",
-  "generatedLabel": "2026/07/09 04:07",
+  "generatedAt": "2026-07-09T05:56:37.521944+09:00",
+  "generatedLabel": "2026/07/09 05:56",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 52,
@@ -74,17 +74,6 @@
       "score": 50
     },
     {
-      "title": "ソフトバンクの「1人100エージェント」を支える独自AIゲートウェイ「Cloud Proxy」の正体",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/07/news009.html",
-      "date": "2026-07-08T05:00:00+09:00",
-      "dateLabel": "07/08 05:00",
-      "desc": "生成AIやAIエージェントを全社展開する際、企業はセキュリティやガバナンス、性能といった課題に直面しがちです。ソフトバンクは「全社で1人100エージェント」構想の実現に向けて、AI利用の入り口となる共通基盤「Cloud Proxy」を内製しました。その設計思想や性能強化の取り組み、自動化による迅速なスケールアウト、マルチLLM対応など、Cloud Proxy",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
-      "score": 50
-    },
-    {
       "title": "Claude「サブスク最上位プラン」6カ月間無料で提供 OSS開発者向けキャンペーン、対象を拡大",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000172/",
       "date": "2026-07-08T18:54:06+09:00",
@@ -148,6 +137,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "ソフトバンクの「1人100エージェント」を支える独自AIゲートウェイ「Cloud Proxy」の正体",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/07/news009.html",
+      "date": "2026-07-08T05:00:00+09:00",
+      "dateLabel": "07/08 05:00",
+      "desc": "生成AIやAIエージェントを全社展開する際、企業はセキュリティやガバナンス、性能といった課題に直面しがちです。ソフトバンクは「全社で1人100エージェント」構想の実現に向けて、AI利用の入り口となる共通基盤「Cloud Proxy」を内製しました。その設計思想や性能強化の取り組み、自動化による迅速なスケールアウト、マルチLLM対応など、Cloud Proxy",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
       "score": 42
     },
     {
