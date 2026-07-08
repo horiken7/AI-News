@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-09T07:00:44.615117+09:00",
-  "generatedLabel": "2026/07/09 07:00",
+  "generatedAt": "2026-07-09T08:59:47.585927+09:00",
+  "generatedLabel": "2026/07/09 08:59",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 51,
+  "candidates": 49,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 17
+      "items": 16
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 16
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -72,6 +72,17 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 58
+    },
+    {
+      "title": "Anthropic、「Claude Code」のシステムプロンプトを80％削減 「モデルの創造性を解放するため」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/09/2000000173/",
+      "date": "2026-07-09T08:00:00+09:00",
+      "dateLabel": "07/09 08:00",
+      "desc": "米Anthropicのタリク氏は、「Claude Fable 5」など最近リリースされたAIモデルへの禁止指示がモデルの創造性を制限すると指摘した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "Claude「サブスク最上位プラン」6カ月間無料で提供 OSS開発者向けキャンペーン、対象を拡大",
@@ -129,50 +140,6 @@
       "score": 42
     },
     {
-      "title": "Meta、初のエージェント型画像生成AI「Muse Image」公開 動画生成AI「Muse Video」もプレビュー",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000169/",
-      "date": "2026-07-08T08:42:08+09:00",
-      "dateLabel": "07/08 08:42",
-      "desc": "Metaは、Meta Superintelligence Labs（MSL）初のメディア生成モデルとなる画像生成AI「Muse Image」を公開した。検索やコーディングなどのツールを自律的に呼び出し、生成した画像を自己修正するエージェント型だ。「Meta AI」アプリやInstagramなどで利用できる。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "Anthropicの「Claude Cowork」がWebとモバイルでも利用可能に まずはMaxプランから",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000168/",
-      "date": "2026-07-08T06:55:26+09:00",
-      "dateLabel": "07/08 06:55",
-      "desc": "Anthropicは、AIエージェント機能「Claude Cowork」をWebブラウザとモバイルアプリ向けに展開すると発表した。これまでデスクトップアプリ限定だったが、スマートフォンなどからも作業の進捗確認や指示出しが可能になる。今後は順次提供を拡大し、まずは上位のMaxプランからβ版として開始する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "ソフトバンクの「1人100エージェント」を支える独自AIゲートウェイ「Cloud Proxy」の正体",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/07/news009.html",
-      "date": "2026-07-08T05:00:00+09:00",
-      "dateLabel": "07/08 05:00",
-      "desc": "生成AIやAIエージェントを全社展開する際、企業はセキュリティやガバナンス、性能といった課題に直面しがちです。ソフトバンクは「全社で1人100エージェント」構想の実現に向けて、AI利用の入り口となる共通基盤「Cloud Proxy」を内製しました。その設計思想や性能強化の取り組み、自動化による迅速なスケールアウト、マルチLLM対応など、Cloud Proxy",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
-      "score": 42
-    },
-    {
-      "title": "法人向け「Notebook AI」、全ユーザーへリリース",
-      "link": "https://ascii.jp/elem/000/004/417/4417625/?rss",
-      "date": "2026-07-08T18:24:07+09:00",
-      "dateLabel": "07/08 18:24",
-      "desc": "法人向け「Notebook AI」、全ユーザーへリリース",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "メール・会議・Slackの内容をAIが覚えて仕事を手伝う「Rowboat」、Claude Desktop代替として何が便利なのか？",
       "link": "https://gigazine.net/news/20260708-rowboat/",
       "date": "2026-07-08T15:00:00+09:00",
@@ -206,14 +173,14 @@
       "score": 34
     },
     {
-      "title": "「Claude Fable 5」のサブスク提供、延長 12日（太平洋標準時）まで 日本時間では13日午後",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000167/",
-      "date": "2026-07-08T03:16:14+09:00",
-      "dateLabel": "07/08 03:16",
-      "desc": "米Anthropicは7月7日（現地時間）、AIモデル「Claude Fable 5」を有料サブスクリプションから利用できる期間を、7月12日午後11時59分（太平洋標準時）まで延長すると発表した。日本時間では13日午後3時59分までとなる。",
+      "title": "Meta、初のエージェント型画像生成AI「Muse Image」公開 動画生成AI「Muse Video」もプレビュー",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000169/",
+      "date": "2026-07-08T08:42:08+09:00",
+      "dateLabel": "07/08 08:42",
+      "desc": "Metaは、Meta Superintelligence Labs（MSL）初のメディア生成モデルとなる画像生成AI「Muse Image」を公開した。検索やコーディングなどのツールを自律的に呼び出し、生成した画像を自己修正するエージェント型だ。「Meta AI」アプリやInstagramなどで利用できる。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -226,6 +193,39 @@
       "src": "Publickey",
       "cat": "半導体/GPU",
       "score": 32
+    },
+    {
+      "title": "隙のないAI対応ビジネスノートPCが過去最安値！ NPU内蔵のRyzen 7 250搭載機",
+      "link": "https://ascii.jp/elem/000/004/417/4417646/?rss",
+      "date": "2026-07-09T08:30:00+09:00",
+      "dateLabel": "07/09 08:30",
+      "desc": "MSIのノートPC「Modern A15 AI F2HM」が過去最安値で販売中。AI対応のビジネスノート仕様でOfficeまで付いて15万円台なら、在宅ワーク用PCの有力候補になるのでは！",
+      "img": "https://ascii.jp/img/2026/07/08/4497500/s/7408e73f1a694b66.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "「万年3位」から脱却なるか？ Google Cloudに吹く\"追い風\"の正体を考察",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2607/10/news015.html",
+      "date": "2026-07-09T08:00:00+09:00",
+      "dateLabel": "07/09 08:00",
+      "desc": "エンタープライズ市場でAWSやMicrosoftに水をあけられてきたGoogle Cloudに、追い風が吹いている。国内SIer大手4社が同社との協業に動く理由と、これまでの経緯、AIエージェントでの連携戦略を読み解く。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "「AIの帝国」とは何か？ 元MITTR記者が描く、権力集中の実態",
+      "link": "https://ascii.jp/elem/000/004/417/4417649/?rss",
+      "date": "2026-07-09T06:50:14+09:00",
+      "dateLabel": "07/09 06:50",
+      "desc": "MITテクノロジーレビュー［米国版］の元AI担当記者であるカレン・ハオによる著書は、AI（人工知能）の成立過程をたどり、シリコンバレーの主要人物をはじめとし、世界各地を巡り、その舞台裏に光を当てる。約7年の取材で得た膨大な記録が映し出すのは、帝国の存在と、その巨大な力だ。同氏から執筆のいきさつと狙いを尋ねた。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     },
     {
       "title": "仕事も遊びもこなせる、32GB・AI・OLEDに1TBを揃えた2-in-1のHPノートが割引中【Amazonプライムデー】",
