@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-08T16:29:46.517594+09:00",
-  "generatedLabel": "2026/07/08 16:29",
+  "generatedAt": "2026-07-08T19:07:27.703131+09:00",
+  "generatedLabel": "2026/07/08 19:07",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 61,
+  "candidates": 59,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 19
+      "items": 18
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "「LLM」って何の略？ ChatGPTやジェミちゃんと何が違う？",
+      "link": "https://ascii.jp/elem/000/004/415/4415930/?rss",
+      "date": "2026-07-08T18:00:00+09:00",
+      "dateLabel": "07/08 18:00",
+      "desc": "新聞やニュースサイトではChatGPT、Claude、Geminiといったおなじみのサービス名に混じって「LLM」という3文字を見掛けることがありますが、これはいったい何でしょう？",
+      "img": "https://ascii.jp/img/2026/07/03/4493564/s/a032f3429fbace14.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 58
+    },
+    {
       "title": "Anthropicの「Claude Cowork」がWebとモバイルでも利用可能に まずはMaxプランから",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000168/",
       "date": "2026-07-08T06:55:26+09:00",
@@ -85,13 +96,24 @@
       "score": 50
     },
     {
-      "title": "AIモデルAPI中継ステーション「LLMAPI.JP」、正式リリース",
-      "link": "https://ascii.jp/elem/000/004/417/4417561/?rss",
-      "date": "2026-07-08T15:27:32+09:00",
-      "dateLabel": "07/08 15:27",
-      "desc": "AIモデルAPI中継ステーション「LLMAPI.JP」、正式リリース",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
+      "title": "Claude「サブスク最上位プラン」6カ月間無料で提供 OSS開発者向けキャンペーン、対象を拡大",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000172/",
+      "date": "2026-07-08T18:54:06+09:00",
+      "dateLabel": "07/08 18:54",
+      "desc": "米Anthropicは、オープンソースソフトウェア（OSS）開発者向けのキャンペーン「Claude for Open Source」の対象範囲を拡大したと発表した。認定した対象者には、最上位のサブスクリプションプラン「Claude Max 20x」を6カ月間無料で提供する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "「Claude Cowork」の用途はソフトウェア開発が8.7％で大半はスライド作成などの事務作業、コーディング以外にもAI利用が広がっている実態が明らかに",
+      "link": "https://gigazine.net/news/20260708-claude-cowork-using/",
+      "date": "2026-07-08T18:15:00+09:00",
+      "dateLabel": "07/08 18:15",
+      "desc": "PC操作を助けるAI「Claude Cowork」がどのように活用されているのか、120万件のセッションに基づいたレポートをAnthropicが公開し、セッションのおよそ3分の1が「業務処理と運用」に分類されるもので、ソフトウェア開発は10％にも満たないことが明らかになりました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 42
     },
@@ -151,47 +173,47 @@
       "score": 42
     },
     {
-      "title": "【Fable 5に聞いてみた】サブスク終了後の効果的な使い方は？ トークン節約法は？ 本人インタビュー",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/07/2000000166/",
-      "date": "2026-07-07T17:05:24+09:00",
-      "dateLabel": "07/07 17:05",
-      "desc": "注目を集めている米AnthropicのAIモデル「Claude Fable 5」の性能はどれほどなのか。ITmedia AI＋編集部で試した結果を紹介する。今回は「従量課金制移行後にFable 5を効果的に使う方法」について聞いてみた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "AIは「空気を読む」ことができるか？InfiniMind、日本語動画AIの評価基盤「NARU Bench」をリリース",
-      "link": "https://ascii.jp/elem/000/004/417/4417560/?rss",
-      "date": "2026-07-08T15:16:02+09:00",
-      "dateLabel": "07/08 15:16",
-      "desc": "AIは「空気を読む」ことができるか？InfiniMind、日本語動画AIの評価基盤「NARU Bench」をリリース",
+      "title": "法人向け「Notebook AI」、全ユーザーへリリース",
+      "link": "https://ascii.jp/elem/000/004/417/4417625/?rss",
+      "date": "2026-07-08T18:24:07+09:00",
+      "dateLabel": "07/08 18:24",
+      "desc": "法人向け「Notebook AI」、全ユーザーへリリース",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
     },
     {
-      "title": "宝印刷、内部統制評価をAIで支援する「WizLabo Keeper」を2026年9月より提供開始",
-      "link": "https://ascii.jp/elem/000/004/417/4417558/?rss",
-      "date": "2026-07-08T15:00:00+09:00",
-      "dateLabel": "07/08 15:00",
-      "desc": "宝印刷、内部統制評価をAIで支援する「WizLabo Keeper」を2026年9月より提供開始",
+      "title": "AIアーティスト「いちき」、1st album『ラブシンギュラリティ』を2026年7月9日にリリース",
+      "link": "https://ascii.jp/elem/000/004/417/4417628/?rss",
+      "date": "2026-07-08T18:10:00+09:00",
+      "dateLabel": "07/08 18:10",
+      "desc": "AIアーティスト「いちき」、1st album『ラブシンギュラリティ』を2026年7月9日にリリース",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
     },
     {
-      "title": "開示支援最大手の宝印刷とジュリオ、企業の不正抑止へ──内部統制評価をAIで支援、上場企業向けに提供開始",
-      "link": "https://ascii.jp/elem/000/004/417/4417556/?rss",
-      "date": "2026-07-08T15:00:00+09:00",
-      "dateLabel": "07/08 15:00",
-      "desc": "開示支援最大手の宝印刷とジュリオ、企業の不正抑止へ──内部統制評価をAIで支援、上場企業向けに提供開始",
+      "title": "株式会社Mavericksは、動画生成AI「NoLang」のYouTube連携機能をアップデート。「予約投稿」「サムネイルアップロード」に対応し、投稿業務をNoLang上で完結",
+      "link": "https://ascii.jp/elem/000/004/417/4417627/?rss",
+      "date": "2026-07-08T18:03:33+09:00",
+      "dateLabel": "07/08 18:03",
+      "desc": "株式会社Mavericksは、動画生成AI「NoLang」のYouTube連携機能をアップデート。「予約投稿」「サムネイルアップロード」に対応し、投稿業務をNoLang上で完結",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AI全般",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "20万円前後でここまで載る。RTX5060・メモリ32GB搭載Lenovoゲーミングノートが38％オフ",
+      "link": "https://ascii.jp/elem/000/004/417/4417198/?rss",
+      "date": "2026-07-08T18:00:00+09:00",
+      "dateLabel": "07/08 18:00",
+      "desc": "LenovoのゲーミングノートPC「LOQ 15IRX10（83JE01ERJP）」がAmazonプライムデー先行セール対象。参考価格334,799円のところ、38％オフの208,800円で販売中。GeForce RTX 5060 Laptop GPUとCore i7-14700HX、32GBメモリを搭載。20万円前後でワンランク上の構成を狙うなら、見逃せな",
+      "img": "https://ascii.jp/img/2026/07/08/4496714/s/3fd1ff64b37f8aae.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -258,28 +280,6 @@
       "img": "",
       "src": "Publickey",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "AIエージェントとRPAの違いは？比較表と事例付きで徹底解説",
-      "link": "https://ainow.ai/2026/07/08/278240/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a8rpa%25e3%2581%25ae%25e9%2581%2595%25e3%2581%2584%25e3%2581%25af%25ef%25bc%259f%25e6%25af%2594%25e8%25bc%2583%25e8%25a1%25a8%25e3%2581%25a8%25e4%25ba%258b%25e4%25be%258b%25e4%25bb%2598%25e3%2581%258d%25e3%2581%25a7",
-      "date": "2026-07-08T00:24:28+09:00",
-      "dateLabel": "07/08 00:24",
-      "desc": "「AIエージェント」という言葉が社内で急速に広まり、既存のRPAとの違いを上司や他部署から尋ねられて困った経験はないでしょうか。 両者は業務を自動化する技術という共通点を持ちながら、判断能力とルールに基づく実行という点で... The post AIエージェントとRPAの違いは？比較表と事例付きで徹底解説 first appeared on AI専門ニュース",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "AMDのAI開発キット「Ryzen AI Halo」レビューがさっそく登場、約64万円で128GBの超大容量ユニファイドメモリ＆Zen 5CPU＆Radeon 8060S GPUを搭載した強力ミニワークステーション",
-      "link": "https://gigazine.net/news/20260707-amd-ryzen-ai-halo/",
-      "date": "2026-07-07T22:00:00+09:00",
-      "dateLabel": "07/07 22:00",
-      "desc": "2026年1月に開催されたコンピューター見本市・CES 2026におけるAMDの基調講演で、リファレンス用のAI開発者向けミニPC「AMD Ryzen AI Halo」が発表され、同年7月10日(金)に順次出荷が始まります。Ryzen AI Haloは16コア32スレッドのZen 5CPU・40基のCU(演算ユニット)を持つRadeon 8060S GPU・",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
       "score": 34
     }
   ]
