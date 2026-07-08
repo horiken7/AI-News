@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-08T10:45:28.915633+09:00",
-  "generatedLabel": "2026/07/08 10:45",
+  "generatedAt": "2026-07-08T13:59:32.892659+09:00",
+  "generatedLabel": "2026/07/08 13:59",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 59,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 2
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -85,6 +85,28 @@
       "score": 50
     },
     {
+      "title": "OpenAIの最新AI「GPT-5.6」シリーズ、今週木曜日に一般公開へ",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000170/",
+      "date": "2026-07-08T13:48:33+09:00",
+      "dateLabel": "07/08 13:48",
+      "desc": "米OpenAIは7月7日（現地時間、以下同）、最新のAIモデル「GPT-5.6」シリーズを「今週の木曜日に一般公開する」と発表した。日本時間では10日（金）になるとみられる。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "Claude Fable 5が2026年7月13日16時まで全有料プランで利用可能に",
+      "link": "https://gigazine.net/news/20260708-anthropic-claude-fable-5-extended/",
+      "date": "2026-07-08T11:38:00+09:00",
+      "dateLabel": "07/08 11:38",
+      "desc": "Anthropicが、Claude Fable 5を有料プランでも追加費用なしで利用できるプロモーション期間を日本時間の7月13日16時まで延長すると発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "MetaがGIFアニメも作れる画像生成AI「Muse Image」をリリース＆音声付き動画を生成できる「Muse Video」も発表される",
       "link": "https://gigazine.net/news/20260708-muse-image-video-generation-ai/",
       "date": "2026-07-08T10:38:00+09:00",
@@ -140,47 +162,25 @@
       "score": 42
     },
     {
-      "title": "【Fable 5に聞いてみた】10年後、ITエンジニアの仕事はどうなる？ 他のAIモデルの回答とも比較",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/07/2000000163/",
-      "date": "2026-07-07T11:55:00+09:00",
-      "dateLabel": "07/07 11:55",
-      "desc": "注目を集めている米AnthropicのAIモデル「Claude Fable 5」の性能はどれほどなのか。ITmedia AI＋編集部で試した結果を紹介する。今回は、10年後のITエンジニアの仕事について聞いてみた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
+      "title": "ASUS、USB4 40Gbps対応「ProArt PA40SU」などSSDエンクロージャー2製品を7月10日発売",
+      "link": "https://ascii.jp/elem/000/004/417/4417373/?rss",
+      "date": "2026-07-08T13:30:00+09:00",
+      "dateLabel": "07/08 13:30",
+      "desc": "ASUS JAPANが、USB4 40Gbps対応のProArt PA40SUと、USB 3.2 Gen 2x2 20Gbps対応のROG Strix Aiolosを7月10日に発売すると発表した。静音冷却、工具不要設計、専用ダッシュボードを備えた外付けM.2 SSDエンクロージャーの新製品情報だ。",
+      "img": "https://ascii.jp/img/2026/07/08/4496881/s/015ecd441d801a65.png",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 34
     },
     {
-      "title": "テンセントがAIモデル「Hy3」をオープンモデルとして公開、295BでGLM-5.2やDeepSeek-V4に匹敵＆科学タスクではGPT-5.5を上回る",
-      "link": "https://gigazine.net/news/20260707-tencent-ai-hy3/",
-      "date": "2026-07-07T10:51:00+09:00",
-      "dateLabel": "07/07 10:51",
-      "desc": "中国の大手テクノロジー企業であるTencent(テンセント)がAIモデル「Hy3」を2026年7月6日に公開しました。Hy3はGLM-5.2やDeepSeek-V4-Proといったオープンモデルと比べて小規模なモデルで、はるかに大規模なモデルと同等クラスの性能を発揮するとアピールされています。 続きを読む...",
+      "title": "Metaが「AIグラスを使った盗撮」の対策をアピール、撮影中は白色LEDが点灯しLEDを隠すとカメラ起動不可",
+      "link": "https://gigazine.net/news/20260708-meta-ai-glasses-capture-led/",
+      "date": "2026-07-08T13:11:00+09:00",
+      "dateLabel": "07/08 13:11",
+      "desc": "MetaはカメラやAI機能を搭載したAIグラスを製品化しており日本でも販売しています。AIグラスについては「相手に気付かれないように写真や動画を撮影できるのでは？」という不安もつきまとっているのですが、新たにMetaが自社製AIグラスに施している盗撮対策についてアピールするニュースリリースを発表しました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "Anthropic、AIの“内なる思考”が宿る「J-space」を発見──新手法「J-lens」で可視化、安全性監視に応用",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/07/2000000162/",
-      "date": "2026-07-07T09:48:03+09:00",
-      "dateLabel": "07/07 09:48",
-      "desc": "Anthropicは、LLMの内部に人間の意識研究における「グローバルワークスペース」に類する構造「J-space」が自然発生していることを発見し、新手法「Jacobian lens」を公開した。モデルが言語化しない隠れた思考を一部観測でき、評価への気づきや不正コードの意図を検知できるため、AIの安全性監視に応用できるとしている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
-      "score": 42
-    },
-    {
-      "title": "世界最長の海底道路トンネルの採掘現場／アンソロピック「Claude Science」で創薬へ",
-      "link": "https://ascii.jp/elem/000/004/416/4416341/?rss",
-      "date": "2026-07-08T10:30:00+09:00",
-      "dateLabel": "07/08 10:30",
-      "desc": "世界最先端のテクノロジー情報をお届けするグローバルメディア「MITテクノロジーレビュー」から、ビジネスに役立つ注目のテック企業の最新動向、イノベーションにつながる最新の研究内容をピックアップして紹介します。",
-      "img": "https://ascii.jp/img/2026/07/05/4494880/s/a2305dc070ef6f74.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
+      "cat": "AI全般",
       "score": 34
     },
     {
@@ -250,25 +250,14 @@
       "score": 34
     },
     {
-      "title": "複数のAIモデルを一元管理できる「Otari」がMozilla.aiによって開発される",
-      "link": "https://gigazine.net/news/20260707-mozilla-ai-otari/",
-      "date": "2026-07-07T12:55:00+09:00",
-      "dateLabel": "07/07 12:55",
-      "desc": "Firefoxなどの開発で知られるMozillaが設立したオープンソースAIエコシステム構築を目指すスタートアップ「Mozilla.ai」は2026年7月6日に、大規模言語モデル(LLM)を効果的に運用するためのオープンソースコントロールプレーン「Otari」をリリースしました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "「恐縮ですが」「それな」も自然に英訳 Sakana AI“温度感”伝える翻訳サービス公開 添削機能も",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/07/2000000164/",
-      "date": "2026-07-07T11:40:59+09:00",
-      "dateLabel": "07/07 11:40",
-      "desc": "チャットサービス「Sakana Chat」の新機能で、ビジネス敬語のニュアンスや日本固有の文化概念、ネットスラングなど、既存の翻訳エンジンが苦手としてきた「日本語らしさ」の難所をクリアしたのが特徴だ。",
+      "title": "【Fable 5に聞いてみた】10年後、ITエンジニアの仕事はどうなる？ 他のAIモデルの回答とも比較",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/07/2000000163/",
+      "date": "2026-07-07T11:55:00+09:00",
+      "dateLabel": "07/07 11:55",
+      "desc": "注目を集めている米AnthropicのAIモデル「Claude Fable 5」の性能はどれほどなのか。ITmedia AI＋編集部で試した結果を紹介する。今回は、10年後のITエンジニアの仕事について聞いてみた。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AI全般",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -281,6 +270,17 @@
       "src": "Publickey",
       "cat": "半導体/GPU",
       "score": 32
+    },
+    {
+      "title": "有機EL×240Hzで格安の5万円台！ LGの26.5型ゲーミングモニター「UltraGear OLED／27GX704A-B」が、タイムセール価格だー！",
+      "link": "https://ascii.jp/elem/000/004/417/4417152/?rss",
+      "date": "2026-07-08T13:30:00+09:00",
+      "dateLabel": "07/08 13:30",
+      "desc": "LGの26.5型ゲーミングモニター「UltraGear OLED／27GX704A-B」が、LG公式通販サイトのタイムセール中で、31%オフの54,800円。",
+      "img": "https://ascii.jp/img/2026/07/08/4496971/s/bf6805ba65a23d74.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     }
   ]
 }
