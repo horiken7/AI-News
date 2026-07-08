@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-08T13:59:32.892659+09:00",
-  "generatedLabel": "2026/07/08 13:59",
+  "generatedAt": "2026-07-08T16:29:46.517594+09:00",
+  "generatedLabel": "2026/07/08 16:29",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 59,
+  "candidates": 61,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 18
+      "items": 19
     },
     {
       "source": "CNET Japan",
@@ -83,6 +83,17 @@
       "src": "ITmedia AI+",
       "cat": "規制/安全",
       "score": 50
+    },
+    {
+      "title": "AIモデルAPI中継ステーション「LLMAPI.JP」、正式リリース",
+      "link": "https://ascii.jp/elem/000/004/417/4417561/?rss",
+      "date": "2026-07-08T15:27:32+09:00",
+      "dateLabel": "07/08 15:27",
+      "desc": "AIモデルAPI中継ステーション「LLMAPI.JP」、正式リリース",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "OpenAIの最新AI「GPT-5.6」シリーズ、今週木曜日に一般公開へ",
@@ -151,25 +162,47 @@
       "score": 42
     },
     {
-      "title": "Anthropicが教える「Fable 5活用術」 まず確認すべきは「自分が何を知らないか」",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/07/2000000165/",
-      "date": "2026-07-07T15:13:17+09:00",
-      "dateLabel": "07/07 15:13",
-      "desc": "米Anthropicは、AIモデル「Claude Fable 5」の活用ガイドを公式ブログで公開した。AIコーディングツール「Claude Code」で同モデルを使う際の具体的なテクニックを紹介している。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
+      "title": "AIは「空気を読む」ことができるか？InfiniMind、日本語動画AIの評価基盤「NARU Bench」をリリース",
+      "link": "https://ascii.jp/elem/000/004/417/4417560/?rss",
+      "date": "2026-07-08T15:16:02+09:00",
+      "dateLabel": "07/08 15:16",
+      "desc": "AIは「空気を読む」ことができるか？InfiniMind、日本語動画AIの評価基盤「NARU Bench」をリリース",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
     },
     {
-      "title": "ASUS、USB4 40Gbps対応「ProArt PA40SU」などSSDエンクロージャー2製品を7月10日発売",
-      "link": "https://ascii.jp/elem/000/004/417/4417373/?rss",
-      "date": "2026-07-08T13:30:00+09:00",
-      "dateLabel": "07/08 13:30",
-      "desc": "ASUS JAPANが、USB4 40Gbps対応のProArt PA40SUと、USB 3.2 Gen 2x2 20Gbps対応のROG Strix Aiolosを7月10日に発売すると発表した。静音冷却、工具不要設計、専用ダッシュボードを備えた外付けM.2 SSDエンクロージャーの新製品情報だ。",
-      "img": "https://ascii.jp/img/2026/07/08/4496881/s/015ecd441d801a65.png",
+      "title": "宝印刷、内部統制評価をAIで支援する「WizLabo Keeper」を2026年9月より提供開始",
+      "link": "https://ascii.jp/elem/000/004/417/4417558/?rss",
+      "date": "2026-07-08T15:00:00+09:00",
+      "dateLabel": "07/08 15:00",
+      "desc": "宝印刷、内部統制評価をAIで支援する「WizLabo Keeper」を2026年9月より提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AI実装",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "開示支援最大手の宝印刷とジュリオ、企業の不正抑止へ──内部統制評価をAIで支援、上場企業向けに提供開始",
+      "link": "https://ascii.jp/elem/000/004/417/4417556/?rss",
+      "date": "2026-07-08T15:00:00+09:00",
+      "dateLabel": "07/08 15:00",
+      "desc": "開示支援最大手の宝印刷とジュリオ、企業の不正抑止へ──内部統制評価をAIで支援、上場企業向けに提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "メール・会議・Slackの内容をAIが覚えて仕事を手伝う「Rowboat」、Claude Desktop代替として何が便利なのか？",
+      "link": "https://gigazine.net/news/20260708-rowboat/",
+      "date": "2026-07-08T15:00:00+09:00",
+      "dateLabel": "07/08 15:00",
+      "desc": "メール・会議・Slack・AIとの会話などをローカルに蓄積し、仕事の文脈を覚えたAIアシスタントとして動作するデスクトップアプリ「Rowboat」が公開されています。RowboatはMac・Windows・Linux向けに配布されているオープンソースのAI作業環境で、公式GitHubでは「仕事の記憶を持つデスクトップAIアシスタント」と説明されています。 続",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -248,39 +281,6 @@
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
       "score": 34
-    },
-    {
-      "title": "【Fable 5に聞いてみた】10年後、ITエンジニアの仕事はどうなる？ 他のAIモデルの回答とも比較",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/07/2000000163/",
-      "date": "2026-07-07T11:55:00+09:00",
-      "dateLabel": "07/07 11:55",
-      "desc": "注目を集めている米AnthropicのAIモデル「Claude Fable 5」の性能はどれほどなのか。ITmedia AI＋編集部で試した結果を紹介する。今回は、10年後のITエンジニアの仕事について聞いてみた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "クアルコムがPythonライクな新言語「Mojo」開発元のModular社買収を発表。AIデータセンター市場へ本格参入",
-      "link": "https://www.publickey1.jp/blog/26/pythonmojomodularai.html",
-      "date": "2026-06-30T00:33:20+09:00",
-      "dateLabel": "06/30 00:33",
-      "desc": "スマートフォン用のSoC（System-on-a-Chip）や各種通信機器向けの半導体事業などで知られるクアルコムテクノロジーズ社（以下、クアルコム）は、AI処理の高速化を目指すPythonライクな新言語「Mojo」の開発元であるModul...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "半導体/GPU",
-      "score": 32
-    },
-    {
-      "title": "有機EL×240Hzで格安の5万円台！ LGの26.5型ゲーミングモニター「UltraGear OLED／27GX704A-B」が、タイムセール価格だー！",
-      "link": "https://ascii.jp/elem/000/004/417/4417152/?rss",
-      "date": "2026-07-08T13:30:00+09:00",
-      "dateLabel": "07/08 13:30",
-      "desc": "LGの26.5型ゲーミングモニター「UltraGear OLED／27GX704A-B」が、LG公式通販サイトのタイムセール中で、31%オフの54,800円。",
-      "img": "https://ascii.jp/img/2026/07/08/4496971/s/bf6805ba65a23d74.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
     }
   ]
 }
