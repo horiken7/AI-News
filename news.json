@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-09T22:42:48.085996+09:00",
-  "generatedLabel": "2026/07/09 22:42",
+  "generatedAt": "2026-07-10T01:21:59.114076+09:00",
+  "generatedLabel": "2026/07/10 01:21",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 47,
+  "candidates": 50,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 0
+      "items": 2
     },
     {
       "source": "PC Watch",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 5
+      "items": 6
     },
     {
       "source": "AINOW",
@@ -83,6 +83,17 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 58
+    },
+    {
+      "title": "ピクサー好きのオトナのためのノートPC＝VAIO 『トイ・ストーリー』レーザー刻印モデル受注開始",
+      "link": "https://ascii.jp/elem/000/004/418/4418201/?rss",
+      "date": "2026-07-10T01:00:00+09:00",
+      "dateLabel": "07/10 01:00",
+      "desc": "VAIO、トイ・ストーリー5公開記念モデルを発表。レーザー刻印の天板デザインが魅力です。",
+      "img": "https://ascii.jp/img/2026/07/09/4498140/s/a24afc9f1f81590b.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 42
     },
     {
       "title": "Grok 4.5・GPT-5.5・Claude Opus 4.8／Fable 5に同じアプリを作らせてレイテンシとコストを測定した結果、勝ったAIはどれか？",
@@ -160,6 +171,17 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 42
+    },
+    {
+      "title": "JavaScriptランタイムのBun、Claude Fable 5を11日間稼働させてZigからRustへの移植を実現。Claudeをどう使ったのか？",
+      "link": "https://www.publickey1.jp/blog/26/javascriptbunclaude_fable_511zigrustclaude.html",
+      "date": "2026-07-10T00:47:05+09:00",
+      "dateLabel": "07/10 00:47",
+      "desc": "JavaScriptランタイム「Bun」の作者であるJarred Sumner氏は、7月8日付けで公開したBun公式ブログの記事「Rewriting Bun in Rust | Bun Blog」で、約53万5000行のZig言語のコードを...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "「ロケットリーグ」で学習しプレイヤーの操作を受け付けつつリアルタイムで映像を生成するAIモデル「MIRA」",
@@ -250,36 +272,14 @@
       "score": 32
     },
     {
-      "title": "三菱自動車が「国産人型ロボ」量産へ 2027年に「月1000台の製造体制」 東大発スタートアップと協業",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/09/2000000177/",
-      "date": "2026-07-09T20:22:14+09:00",
-      "dateLabel": "07/09 20:22",
-      "desc": "三菱自動車工業は、東京大学発のロボット開発スタートアップHighlandersと「国産人型ロボット」の開発に関して協業すると発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "中国が国内AI企業によるNVIDIA H200の輸入を承認へ",
-      "link": "https://gigazine.net/news/20260709-china-nvidia-h200/",
-      "date": "2026-07-09T16:08:00+09:00",
-      "dateLabel": "07/09 16:08",
-      "desc": "中国が国内のトップAI企業に対して、NVIDIAのH200チップを限定数ながら購入することを認める方針になっていることがわかりました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "Mistral AIがロボット用ナビゲーションAI「Robostral Navigate」を発表、「ロッカーの手前で右折して」といった自然言語での指示に対応可能",
-      "link": "https://gigazine.net/news/20260709-mistral-ai-robostral/",
-      "date": "2026-07-09T12:26:00+09:00",
-      "dateLabel": "07/09 12:26",
-      "desc": "フランスのAI企業であるMistral AIがロボット自動ナビゲーションAIモデル「Robostral Navigate」を発表しました。Robostral Navigateをロボットに導入することで「ロッカーの手前で右に曲がってオレンジ色のソファまで直進して」といったように自然言語での移動指示が可能となります。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
+      "title": "【新品iPhoneが8万4800円】iPhoneの価格すべて判明！ やっぱりiPhone Airの最大6万円引きが一番オトク",
+      "link": "https://ascii.jp/elem/000/004/418/4418202/?rss",
+      "date": "2026-07-10T00:03:00+09:00",
+      "dateLabel": "07/10 00:03",
+      "desc": "Amazonプライムデーの本セールがついに開幕。その目玉となるiPhoneの価格がすべて判明した。最安値は でも、一番オトクなのはiPhone Air？ 256GBモデルが2万円引きの13万9800円、1TBモデルは6万円引き（！）の16万9800円だ。",
+      "img": "https://ascii.jp/img/2026/07/10/4498145/s/14dd5a40fe0f19f0.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 26
     }
   ]
