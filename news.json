@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-10T07:13:20.468371+09:00",
-  "generatedLabel": "2026/07/10 07:13",
+  "generatedAt": "2026-07-10T08:57:52.390939+09:00",
+  "generatedLabel": "2026/07/10 08:57",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 51,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 17
+      "items": 18
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 2
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -72,6 +72,28 @@
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 74
+    },
+    {
+      "title": "Meta、マルチモーダル推論モデル「Muse Spark 1.1」公開 低価格の「Meta Model API」も提供へ",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000180/",
+      "date": "2026-07-10T07:20:30+09:00",
+      "dateLabel": "07/10 07:20",
+      "desc": "Metaは、AIモデル「Muse Spark 1.1」を発表した。初代モデルを強化したマルチモーダル推論モデルで、ツール操作や複雑なコーディングなどのエージェント能力が向上している。新設の「Meta Model API」を通じてパブリックプレビューとして外部向けに提供され、競合モデルを下回る低価格な料金体系が特徴だ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 58
+    },
+    {
+      "title": "Claude、利用制限を全リセット 競合「GPT-5.6」公開と同日……OpenAI幹部「ビビってるね」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000179/",
+      "date": "2026-07-10T07:13:44+09:00",
+      "dateLabel": "07/10 07:13",
+      "desc": "OpenAIが「GPT-5.6」を一般公開した同日、AnthropicがClaude全ユーザーの利用制限を一斉リセット。OpenAI幹部の「ビビってるね」という煽り返信も話題だ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 50
     },
     {
       "title": "デスクトップ版ChatGPT大幅刷新 AIエージェント「Codex」統合、「ChatGPT Work」に",
@@ -173,15 +195,15 @@
       "score": 42
     },
     {
-      "title": "Anthropic、「Claude Code」のシステムプロンプトを80％削減 「モデルの創造性を解放するため」",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/09/2000000173/",
-      "date": "2026-07-09T08:00:00+09:00",
-      "dateLabel": "07/09 08:00",
-      "desc": "米Anthropicのタリク氏は、「Claude Fable 5」など最近リリースされたAIモデルへの禁止指示がモデルの創造性を制限すると指摘した。",
+      "title": "NECが3年で100億円狙うAnthropic協業の初ソリューション、AIが販売戦略立案",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/10/news052.html",
+      "date": "2026-07-10T07:45:00+09:00",
+      "dateLabel": "07/10 07:45",
+      "desc": "NECは、Anthropicとの協業第1弾として、購買データからの商品企画や販促プラン作成を完全自動化する新サービスを開始した。専門人材なしで迅速な施策立案を可能にし、3年間で100億円の売上を目指す。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "JavaScriptランタイムのBun、Claude Fable 5を11日間稼働させてZigからRustへの移植を実現。Claudeをどう使ったのか？",
@@ -239,36 +261,14 @@
       "score": 34
     },
     {
-      "title": "Claude「サブスク最上位プラン」6カ月間無料で提供 OSS開発者向けキャンペーン、対象を拡大",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000172/",
-      "date": "2026-07-08T18:54:06+09:00",
-      "dateLabel": "07/08 18:54",
-      "desc": "米Anthropicは、オープンソースソフトウェア（OSS）開発者向けのキャンペーン「Claude for Open Source」の対象範囲を拡大したと発表した。認定した対象者には、最上位のサブスクリプションプラン「Claude Max 20x」を6カ月間無料で提供する。",
+      "title": "Anthropic、「Claude Code」のシステムプロンプトを80％削減 「モデルの創造性を解放するため」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/09/2000000173/",
+      "date": "2026-07-09T08:00:00+09:00",
+      "dateLabel": "07/09 08:00",
+      "desc": "米Anthropicのタリク氏は、「Claude Fable 5」など最近リリースされたAIモデルへの禁止指示がモデルの創造性を制限すると指摘した。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "OpenAIの最新AI「GPT-5.6」シリーズ、今週木曜日に一般公開へ",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000170/",
-      "date": "2026-07-08T13:48:33+09:00",
-      "dateLabel": "07/08 13:48",
-      "desc": "米OpenAIは7月7日（現地時間、以下同）、最新のAIモデル「GPT-5.6」シリーズを「今週の木曜日に一般公開する」と発表した。日本時間では10日（金）になるとみられる。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Meta、初のエージェント型画像生成AI「Muse Image」公開 動画生成AI「Muse Video」もプレビュー",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000169/",
-      "date": "2026-07-08T08:42:08+09:00",
-      "dateLabel": "07/08 08:42",
-      "desc": "Metaは、Meta Superintelligence Labs（MSL）初のメディア生成モデルとなる画像生成AI「Muse Image」を公開した。検索やコーディングなどのツールを自律的に呼び出し、生成した画像を自己修正するエージェント型だ。「Meta AI」アプリやInstagramなどで利用できる。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
