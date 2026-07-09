@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-09T19:45:29.850840+09:00",
-  "generatedLabel": "2026/07/09 19:45",
+  "generatedAt": "2026-07-09T22:42:48.085996+09:00",
+  "generatedLabel": "2026/07/09 22:42",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 48,
+  "candidates": 47,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 1
+      "items": 0
     },
     {
       "source": "PC Watch",
@@ -83,6 +83,17 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 58
+    },
+    {
+      "title": "Grok 4.5・GPT-5.5・Claude Opus 4.8／Fable 5に同じアプリを作らせてレイテンシとコストを測定した結果、勝ったAIはどれか？",
+      "link": "https://gigazine.net/news/20260709-grok-gpt-claude-build-apps/",
+      "date": "2026-07-09T20:00:00+09:00",
+      "dateLabel": "07/09 20:00",
+      "desc": "2026年7月8日に発表されたGrok 4.5について、SpaceXAIは「コーディングとエージェント作業のためにCursorと並行してトレーニングされた」と、これまでで最も賢いモデルだとアピールしています。そこでAI企業のTryAIが、Grok 4.5・GPT-5.5・Claude Opus 4.8・Claude Fable 5に同じプロンプトからアプリを",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 42
     },
     {
       "title": "NEC、Claudeを活用した「全自動」マーケティングサービス開始 3年で売上100億円目指す",
@@ -158,17 +169,6 @@
       "desc": "1万時間分の「ロケットリーグ」のゲームプレイデータに基づいてトレーニングされたAIモデル「MIRA(Multiplayer Interactive world models with Representation Autoencoders：マルチプレイヤー対応のインタラクティブな世界モデルと表現オートエンコーダー)」が発表されました。ウェブで無料公開されてい",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "防御型AI資産運用システム「FAINAL TURN」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/418/4418187/?rss",
-      "date": "2026-07-09T18:31:48+09:00",
-      "dateLabel": "07/09 18:31",
-      "desc": "防御型AI資産運用システム「FAINAL TURN」を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
     },
@@ -252,8 +252,8 @@
     {
       "title": "三菱自動車が「国産人型ロボ」量産へ 2027年に「月1000台の製造体制」 東大発スタートアップと協業",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/09/2000000177/",
-      "date": "2026-07-09T17:19:36+09:00",
-      "dateLabel": "07/09 17:19",
+      "date": "2026-07-09T20:22:14+09:00",
+      "dateLabel": "07/09 20:22",
       "desc": "三菱自動車工業は、東京大学発のロボット開発スタートアップHighlandersと「国産人型ロボット」の開発に関して協業すると発表した。",
       "img": "",
       "src": "ITmedia AI+",
