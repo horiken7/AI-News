@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-10T01:21:59.114076+09:00",
-  "generatedLabel": "2026/07/10 01:21",
+  "generatedAt": "2026-07-10T03:45:30.918412+09:00",
+  "generatedLabel": "2026/07/10 03:45",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 50,
+  "candidates": 51,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,7 +13,7 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 16
+      "items": 17
     },
     {
       "source": "ASCII.jp",
@@ -83,6 +83,17 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 58
+    },
+    {
+      "title": "デスクトップ版ChatGPT大幅刷新 AIエージェント「Codex」統合、「ChatGPT Work」に",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000178/",
+      "date": "2026-07-10T03:03:48+09:00",
+      "dateLabel": "07/10 03:03",
+      "desc": "米OpenAIが、チャットAIサービス「ChatGPT」とAIコーディングエージェント「Codex」を統合すると発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 50
     },
     {
       "title": "ピクサー好きのオトナのためのノートPC＝VAIO 『トイ・ストーリー』レーザー刻印モデル受注開始",
@@ -270,17 +281,6 @@
       "src": "Publickey",
       "cat": "半導体/GPU",
       "score": 32
-    },
-    {
-      "title": "【新品iPhoneが8万4800円】iPhoneの価格すべて判明！ やっぱりiPhone Airの最大6万円引きが一番オトク",
-      "link": "https://ascii.jp/elem/000/004/418/4418202/?rss",
-      "date": "2026-07-10T00:03:00+09:00",
-      "dateLabel": "07/10 00:03",
-      "desc": "Amazonプライムデーの本セールがついに開幕。その目玉となるiPhoneの価格がすべて判明した。最安値は でも、一番オトクなのはiPhone Air？ 256GBモデルが2万円引きの13万9800円、1TBモデルは6万円引き（！）の16万9800円だ。",
-      "img": "https://ascii.jp/img/2026/07/10/4498145/s/14dd5a40fe0f19f0.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
     }
   ]
 }
