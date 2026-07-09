@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-09T08:59:47.585927+09:00",
-  "generatedLabel": "2026/07/09 08:59",
+  "generatedAt": "2026-07-09T12:27:40.873952+09:00",
+  "generatedLabel": "2026/07/09 12:27",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 49,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 17
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "「Grok 4.5」が登場、Claude Opus 4.8と同等性能で料金は安価",
+      "link": "https://gigazine.net/news/20260709-grok-4-5-ai/",
+      "date": "2026-07-09T11:15:00+09:00",
+      "dateLabel": "07/09 11:15",
+      "desc": "SpaceXAIがAIモデル「Grok 4.5」を現地時間の2026年7月8日に発表しました。Grok 4.5はコーディングやエージェントタスクに特化したモデルで、OpenAIやAnthropicの最先端モデルと比べて安価ながらClaude Opus 4.8と同等のベンチマークスコアを達成しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 74
+    },
+    {
       "title": "OpenAI、リアルタイム音声モデル「GPT-Live」公開 相づちも割り込みも、より人間らしい会話に",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/09/2000000174/",
       "date": "2026-07-09T06:53:09+09:00",
@@ -72,6 +83,39 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 58
+    },
+    {
+      "title": "動画生成AI「LTX-2.3」の開発チームがAI企業「LTX」として独立、仮想世界シミュレーションを可能とする世界モデルを開発中でオープンモデルの姿勢は維持",
+      "link": "https://gigazine.net/news/20260709-ltx-open-world-models-company/",
+      "date": "2026-07-09T11:35:00+09:00",
+      "dateLabel": "07/09 11:35",
+      "desc": "動画生成AI「LTX-2」や「LTX-2.3」の開発チームがAI企業「LTX」として独立することを発表しました。LTXは仮想世界を構築して物理現象などのシミュレーションを可能とする世界モデルの研究に取り組んでおり、今後も自社製AIモデルをオープンモデルとして公開し続ける姿勢を示しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "生成AI/マルチモーダル",
+      "score": 42
+    },
+    {
+      "title": "中国政府機関がClaude Codeにバックドアが含まれていると発表",
+      "link": "https://gigazine.net/news/20260709-china-cnndv-claude-code-backdoor/",
+      "date": "2026-07-09T11:31:00+09:00",
+      "dateLabel": "07/09 11:31",
+      "desc": "中国政府が運営する国家情報セキュリティ脆弱性データベース(CNNVD：国家信息安全漏洞库)が、AnthropicのAIコーディングツール「Claude Code」に「セキュリティ上のバックドアの脆弱(ぜいじゃく)性」が見つかったと発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "ChatGPTの音声モードでより自然な会話を可能にする「GPT-Live」が登場、話を聞きながら相づちや割り込みに対応",
+      "link": "https://gigazine.net/news/20260709-openai-gpt-live/",
+      "date": "2026-07-09T10:53:00+09:00",
+      "dateLabel": "07/09 10:53",
+      "desc": "OpenAIは2026年7月8日、ChatGPTの音声対話をより自然にする新世代音声モデル「GPT-Live」を発表しました。GPT-Liveは話を聞きながら同時に話せるフルデュプレックス方式を採用しており、ChatGPT 音声モードの新しい標準モデルとして順次提供されます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "Anthropic、「Claude Code」のシステムプロンプトを80％削減 「モデルの創造性を解放するため」",
@@ -118,26 +162,92 @@
       "score": 42
     },
     {
-      "title": "Claude Fable 5が2026年7月13日16時まで全有料プランで利用可能に",
-      "link": "https://gigazine.net/news/20260708-anthropic-claude-fable-5-extended/",
-      "date": "2026-07-08T11:38:00+09:00",
-      "dateLabel": "07/08 11:38",
-      "desc": "Anthropicが、Claude Fable 5を有料プランでも追加費用なしで利用できるプロモーション期間を日本時間の7月13日16時まで延長すると発表しました。 続きを読む...",
+      "title": "海賊版サイトブロックは「現行の国内法に基づく民事訴訟では不可能」とブルガリアの最高裁判所が判断",
+      "link": "https://gigazine.net/news/20260709-pirate-blocking-bulgaria/",
+      "date": "2026-07-09T12:20:00+09:00",
+      "dateLabel": "07/09 12:20",
+      "desc": "2020年2月にブルガリアの音楽プロデューサー協会(BAMP)と国際レコード産業連盟(IFPI)は、3つのインターネットサービスプロバイダ(ISP)に対し民事訴訟を起こし、国内最大級のトレントサイトを遮断するよう裁判所命令を求めました。裁判の結果、ブルガリア最高裁判所は「現行のブルガリア著作権法の下では、権利者は通常の民事訴訟手続きにおいて海賊版サイトのブロ",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
+      "cat": "規制/安全",
+      "score": 34
     },
     {
-      "title": "MetaがGIFアニメも作れる画像生成AI「Muse Image」をリリース＆音声付き動画を生成できる「Muse Video」も発表される",
-      "link": "https://gigazine.net/news/20260708-muse-image-video-generation-ai/",
-      "date": "2026-07-08T10:38:00+09:00",
-      "dateLabel": "07/08 10:38",
-      "desc": "現地時間の2026年7月7日、Metaが画像生成AI「Muse Image」と動画生成AI「Muse Video」を発表しました。Muse Imageはすでにサービスが展開されていて、Muse Videoは近日中にサービス開始予定です。 続きを読む...",
+      "title": "GitHubの公開IssueだけでAIに非公開リポジトリの情報を吐き出させる脆弱性「GitLost」が報告される",
+      "link": "https://gigazine.net/news/20260709-gitlost/",
+      "date": "2026-07-09T11:40:00+09:00",
+      "dateLabel": "07/09 11:40",
+      "desc": "GitHubの公開リポジトリに投稿されたIssueへ悪意ある指示を紛れ込ませることで、AIエージェントに非公開リポジトリの内容を公開コメントとして投稿させるプロンプトインジェクションの脆弱(ぜいじゃく)性「GitLost」をセキュリティ企業のNoma Labsが報告しました。攻撃者は認証情報やリポジトリへのアクセス権を持っていなくても、組織の公開リポジトリに",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "生成AI/マルチモーダル",
-      "score": 42
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "ASUS、5.08インチLCD搭載の360mm水冷CPUクーラー「ROG STRIX LC IV 360 ARGB LCD」を発売",
+      "link": "https://ascii.jp/elem/000/004/417/4417695/?rss",
+      "date": "2026-07-09T11:00:00+09:00",
+      "dateLabel": "07/09 11:00",
+      "desc": "ASUS JAPANが、AIO Q-CONNECTOR対応と5.08インチIPSフルカラーLCDを備えた360mm水冷クーラー「ROG STRIX LC IV 360 ARGB LCD」とWhite Editionを7月10日に発売する。配線簡略化、冷却性能、表示機能を兼ね備えた自作PC向け製品だ。",
+      "img": "https://ascii.jp/img/2026/07/09/4497662/s/20b0822639d9f39f.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "【属人化解消】 FUNNEL MANUALリリース - 画面録画・撮影動画から業務手順書をAI自動生成",
+      "link": "https://ascii.jp/elem/000/004/417/4417737/?rss",
+      "date": "2026-07-09T10:30:00+09:00",
+      "dateLabel": "07/09 10:30",
+      "desc": "【属人化解消】 FUNNEL MANUALリリース - 画面録画・撮影動画から業務手順書をAI自動生成",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "ASUS、レトロデザイン採用のAM5マザーボード「ROG CROSSHAIR 2006」発表 20周年記念モデル",
+      "link": "https://ascii.jp/elem/000/004/417/4417694/?rss",
+      "date": "2026-07-09T10:30:00+09:00",
+      "dateLabel": "07/09 10:30",
+      "desc": "ASUS JAPANが、初代ROGマザーボードをオマージュしたAM5対応のハイエンドマザーボード「ROG CROSSHAIR 2006」を発表。レトロデザインと20+2+2フェーズ電源回路、Wi-Fi 7、USB4、10G LAN、AI機能を特徴とし、7月10日から販売開始する。",
+      "img": "https://ascii.jp/img/2026/07/09/4497653/s/fc1a9259fe2cd0ce.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "ExcelからAIを呼び出せば、自然言語で数式やエラー原因が解析できてとても便利！ 「Claude for Excel」ならここまでできる",
+      "link": "https://ascii.jp/elem/000/004/415/4415931/?rss",
+      "date": "2026-07-09T10:30:00+09:00",
+      "dateLabel": "07/09 10:30",
+      "desc": "本連載は生成AIをこれから活用しようとしている方たちのために、生成AIの基本やコピペしてそのまま使えるプロンプトなどを紹介。兎にも角にも生成AIに触り始めることで、AIに対する理解を深め、AIスキルを身に着けて欲しい。第65回はExcelの中からClaudeを呼び出し、複雑な数式の解析、エラー原因調査、ピボットテーブルやグラフを作成する方法について解説する。",
+      "img": "https://ascii.jp/img/2026/07/03/4493580/s/75678f791403ca68.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "【8月24日22:00～開催】「再生数は伸びるのに売れない」企業が急増──AI時代に求められる“バズ依存から脱却するSNS運用戦略”を無料ウェビナー公開！",
+      "link": "https://ascii.jp/elem/000/004/417/4417768/?rss",
+      "date": "2026-07-09T10:10:00+09:00",
+      "dateLabel": "07/09 10:10",
+      "desc": "【8月24日22:00～開催】「再生数は伸びるのに売れない」企業が急増──AI時代に求められる“バズ依存から脱却するSNS運用戦略”を無料ウェビナー公開！",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "100万件以上の商品データから“使うシーン”で探せる、AIファッションショッピングアプリ「gelatto」リリース！",
+      "link": "https://ascii.jp/elem/000/004/417/4417743/?rss",
+      "date": "2026-07-09T10:10:00+09:00",
+      "dateLabel": "07/09 10:10",
+      "desc": "100万件以上の商品データから“使うシーン”で探せる、AIファッションショッピングアプリ「gelatto」リリース！",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "メール・会議・Slackの内容をAIが覚えて仕事を手伝う「Rowboat」、Claude Desktop代替として何が便利なのか？",
@@ -162,17 +272,6 @@
       "score": 34
     },
     {
-      "title": "「Claude Fable 5」サブスク、突如5日間延長 ユーザー悲喜こもごも「寝ずに頑張ったのに」「制限リセットして」",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/08/news070.html",
-      "date": "2026-07-08T09:29:00+09:00",
-      "dateLabel": "07/08 09:29",
-      "desc": "歓迎の声もある一方で、「睡眠と健康を犠牲にして使い切った直後に延長を知った」「最後の最後で発表するのはやめてくれ」といった恨み節も。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "Meta、初のエージェント型画像生成AI「Muse Image」公開 動画生成AI「Muse Video」もプレビュー",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000169/",
       "date": "2026-07-08T08:42:08+09:00",
@@ -182,105 +281,6 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 34
-    },
-    {
-      "title": "クアルコムがPythonライクな新言語「Mojo」開発元のModular社買収を発表。AIデータセンター市場へ本格参入",
-      "link": "https://www.publickey1.jp/blog/26/pythonmojomodularai.html",
-      "date": "2026-06-30T00:33:20+09:00",
-      "dateLabel": "06/30 00:33",
-      "desc": "スマートフォン用のSoC（System-on-a-Chip）や各種通信機器向けの半導体事業などで知られるクアルコムテクノロジーズ社（以下、クアルコム）は、AI処理の高速化を目指すPythonライクな新言語「Mojo」の開発元であるModul...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "半導体/GPU",
-      "score": 32
-    },
-    {
-      "title": "隙のないAI対応ビジネスノートPCが過去最安値！ NPU内蔵のRyzen 7 250搭載機",
-      "link": "https://ascii.jp/elem/000/004/417/4417646/?rss",
-      "date": "2026-07-09T08:30:00+09:00",
-      "dateLabel": "07/09 08:30",
-      "desc": "MSIのノートPC「Modern A15 AI F2HM」が過去最安値で販売中。AI対応のビジネスノート仕様でOfficeまで付いて15万円台なら、在宅ワーク用PCの有力候補になるのでは！",
-      "img": "https://ascii.jp/img/2026/07/08/4497500/s/7408e73f1a694b66.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "「万年3位」から脱却なるか？ Google Cloudに吹く\"追い風\"の正体を考察",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2607/10/news015.html",
-      "date": "2026-07-09T08:00:00+09:00",
-      "dateLabel": "07/09 08:00",
-      "desc": "エンタープライズ市場でAWSやMicrosoftに水をあけられてきたGoogle Cloudに、追い風が吹いている。国内SIer大手4社が同社との協業に動く理由と、これまでの経緯、AIエージェントでの連携戦略を読み解く。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "「AIの帝国」とは何か？ 元MITTR記者が描く、権力集中の実態",
-      "link": "https://ascii.jp/elem/000/004/417/4417649/?rss",
-      "date": "2026-07-09T06:50:14+09:00",
-      "dateLabel": "07/09 06:50",
-      "desc": "MITテクノロジーレビュー［米国版］の元AI担当記者であるカレン・ハオによる著書は、AI（人工知能）の成立過程をたどり、シリコンバレーの主要人物をはじめとし、世界各地を巡り、その舞台裏に光を当てる。約7年の取材で得た膨大な記録が映し出すのは、帝国の存在と、その巨大な力だ。同氏から執筆のいきさつと狙いを尋ねた。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "仕事も遊びもこなせる、32GB・AI・OLEDに1TBを揃えた2-in-1のHPノートが割引中【Amazonプライムデー】",
-      "link": "https://ascii.jp/elem/000/004/417/4417419/?rss",
-      "date": "2026-07-08T20:30:00+09:00",
-      "dateLabel": "07/08 20:30",
-      "desc": "HPのノートパソコン「OmniBook X Flip 14-fk（B9DW7PA-AAAA）」がAmazonプライム会員限定で割引対象。参考価格249,700円のところ、12％オフの219,800円で販売中。Ryzen AI 7とメモリ32GB、SSD 1TB、2.8K OLEDディスプレイを備えた2-in-1モデル。",
-      "img": "https://ascii.jp/img/2026/04/30/4460772/s/2487a3780083ab2e.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "『グラブル：リリンク エンドレスラグナロク』の発売前夜生放送が本日7月8日20時より配信！",
-      "link": "https://ascii.jp/elem/000/004/417/4417631/?rss",
-      "date": "2026-07-08T19:20:00+09:00",
-      "dateLabel": "07/08 19:20",
-      "desc": "Cygamesは、2026年7月9日にNintendo Switch 2／PlayStation 5／PlayStation 4／PC（Steam）で発売する『GRANBLUE FANTASY: Relink - Endless Ragnarok』にて、本日7月8日20時より「エンドレスラグナロク 発売前夜生放送」を放送する。",
-      "img": "https://ascii.jp/img/2026/07/08/4497436/s/b0a21e580d9bb81b.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "「GPT-5.6」木曜に一般公開へ 米政府と調整→限定プレビュー経て",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/08/news107.html",
-      "date": "2026-07-08T14:21:00+09:00",
-      "dateLabel": "07/08 14:21",
-      "desc": "日本時間では9日午後以降または10日になりそうだ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "Nothingがスマートフォンの「Phone (4b)」を発表、Snapdragon 6 Gen 4搭載で「Phone (4a)」より安価",
-      "link": "https://gigazine.net/news/20260708-nothing-phone-4b/",
-      "date": "2026-07-08T12:47:00+09:00",
-      "dateLabel": "07/08 12:47",
-      "desc": "スマートフォンメーカーのNothingが新作の「Phone (4b)」を発表しました。同社初の(b)シリーズとなります。スペックや価格は(a)シリーズより抑えられているようです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "スマホからPC自動操作AI「Claude Cowork」のタスク進行状況を管理できる機能が登場",
-      "link": "https://gigazine.net/news/20260708-claude-cowork-phone/",
-      "date": "2026-07-08T11:46:00+09:00",
-      "dateLabel": "07/08 11:46",
-      "desc": "Claude CoworkはAIを用いてPCを自動操作できるアプリで、PC内のファイルを編集したり各種ウェブサービスの情報を参照したりしながらタスクを自律的に実行させることができます。そんなClaude Coworkをスマートフォンやウェブブラウザから遠隔管理できる機能が登場しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
     }
   ]
 }
