@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-10T03:45:30.918412+09:00",
-  "generatedLabel": "2026/07/10 03:45",
+  "generatedAt": "2026-07-10T05:41:42.256893+09:00",
+  "generatedLabel": "2026/07/10 05:41",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 51,
@@ -87,9 +87,9 @@
     {
       "title": "デスクトップ版ChatGPT大幅刷新 AIエージェント「Codex」統合、「ChatGPT Work」に",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000178/",
-      "date": "2026-07-10T03:03:48+09:00",
-      "dateLabel": "07/10 03:03",
-      "desc": "米OpenAIが、チャットAIサービス「ChatGPT」とAIコーディングエージェント「Codex」を統合すると発表した。",
+      "date": "2026-07-10T04:36:50+09:00",
+      "dateLabel": "07/10 04:36",
+      "desc": "米OpenAIが、チャットAIサービス「ChatGPT」とAIコーディングエージェント「Codex」を統合した「ChatGPT Work」を発表した。「GPT-5.6」シリーズを搭載する。最終成果物を指定するだけで、あいまいな状況にも適応しながら最小限の指示で洗練されたアウトプットを生成できるという。Webアプリ、スマートフォンアプリ、デスクトップアプリの3",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
