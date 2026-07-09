@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-09T16:33:54.091741+09:00",
-  "generatedLabel": "2026/07/09 16:33",
+  "generatedAt": "2026-07-09T19:45:29.850840+09:00",
+  "generatedLabel": "2026/07/09 19:45",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 50,
+  "candidates": 48,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 1
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 16
     },
     {
       "source": "CNET Japan",
@@ -151,25 +151,25 @@
       "score": 42
     },
     {
-      "title": "Claude「サブスク最上位プラン」6カ月間無料で提供 OSS開発者向けキャンペーン、対象を拡大",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000172/",
-      "date": "2026-07-08T18:54:06+09:00",
-      "dateLabel": "07/08 18:54",
-      "desc": "米Anthropicは、オープンソースソフトウェア（OSS）開発者向けのキャンペーン「Claude for Open Source」の対象範囲を拡大したと発表した。認定した対象者には、最上位のサブスクリプションプラン「Claude Max 20x」を6カ月間無料で提供する。",
+      "title": "「ロケットリーグ」で学習しプレイヤーの操作を受け付けつつリアルタイムで映像を生成するAIモデル「MIRA」",
+      "link": "https://gigazine.net/news/20260709-rocket-league-mira/",
+      "date": "2026-07-09T19:00:00+09:00",
+      "dateLabel": "07/09 19:00",
+      "desc": "1万時間分の「ロケットリーグ」のゲームプレイデータに基づいてトレーニングされたAIモデル「MIRA(Multiplayer Interactive world models with Representation Autoencoders：マルチプレイヤー対応のインタラクティブな世界モデルと表現オートエンコーダー)」が発表されました。ウェブで無料公開されてい",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
     },
     {
-      "title": "RTX 5060搭載17型ゲーミングノートが23％オフ、MSI「Katana 17 HX B14W」【Amazonプライムデー】",
-      "link": "https://ascii.jp/elem/000/004/417/4417819/?rss",
-      "date": "2026-07-09T15:00:00+09:00",
-      "dateLabel": "07/09 15:00",
-      "desc": "Amazonのタイムセールにて、MSIの17.3型ゲーミングノートPC「Katana 17 HX B14W」が209,800円で販売中。参考価格270,800円から23％オフとなり、RTX 5060 Laptop GPUとWQHD／240Hzディスプレイを搭載する。",
-      "img": "https://ascii.jp/img/2026/05/21/4469844/s/9ada725a1a32ab81.jpg",
+      "title": "防御型AI資産運用システム「FAINAL TURN」を提供開始",
+      "link": "https://ascii.jp/elem/000/004/418/4418187/?rss",
+      "date": "2026-07-09T18:31:48+09:00",
+      "dateLabel": "07/09 18:31",
+      "desc": "防御型AI資産運用システム「FAINAL TURN」を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "半導体/GPU",
+      "cat": "AI全般",
       "score": 34
     },
     {
@@ -206,6 +206,17 @@
       "score": 34
     },
     {
+      "title": "Claude「サブスク最上位プラン」6カ月間無料で提供 OSS開発者向けキャンペーン、対象を拡大",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000172/",
+      "date": "2026-07-08T18:54:06+09:00",
+      "dateLabel": "07/08 18:54",
+      "desc": "米Anthropicは、オープンソースソフトウェア（OSS）開発者向けのキャンペーン「Claude for Open Source」の対象範囲を拡大したと発表した。認定した対象者には、最上位のサブスクリプションプラン「Claude Max 20x」を6カ月間無料で提供する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "OpenAIの最新AI「GPT-5.6」シリーズ、今週木曜日に一般公開へ",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000170/",
       "date": "2026-07-08T13:48:33+09:00",
@@ -239,6 +250,17 @@
       "score": 32
     },
     {
+      "title": "三菱自動車が「国産人型ロボ」量産へ 2027年に「月1000台の製造体制」 東大発スタートアップと協業",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/09/2000000177/",
+      "date": "2026-07-09T17:19:36+09:00",
+      "dateLabel": "07/09 17:19",
+      "desc": "三菱自動車工業は、東京大学発のロボット開発スタートアップHighlandersと「国産人型ロボット」の開発に関して協業すると発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
       "title": "中国が国内AI企業によるNVIDIA H200の輸入を承認へ",
       "link": "https://gigazine.net/news/20260709-china-nvidia-h200/",
       "date": "2026-07-09T16:08:00+09:00",
@@ -250,36 +272,14 @@
       "score": 26
     },
     {
-      "title": "5.64mmの最薄「iPhone Air」512GB、Amazonタイムセールで20％OFF",
-      "link": "https://ascii.jp/elem/000/004/417/4417302/?rss",
-      "date": "2026-07-09T16:00:00+09:00",
-      "dateLabel": "07/09 16:00",
-      "desc": "Appleのスマートフォン「iPhone Air 512GB」がAmazonタイムセール対象。参考価格194,800円のところ、20％オフの156,800円で販売中。厚さ5.64mmの史上最薄iPhoneに加え、A19 Proチップや6.5インチSuper Retina XDRディスプレイ、48MP Fusionカメラシステムを搭載したSIMフリーモデル。",
-      "img": "https://ascii.jp/img/2026/07/08/4496850/s/8b6b50634f10d6af.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "ノースフェイスの定番マウンテンジャケットが4万円台！ 秋冬はこれさえあれば生きていけます【Amazonプライムデー2026】",
-      "link": "https://ascii.jp/elem/000/004/417/4417682/?rss",
-      "date": "2026-07-09T15:55:00+09:00",
-      "dateLabel": "07/09 15:55",
-      "desc": "THE NORTH FACEの定番Mountain Jacket NP62510が、参考価格66000円から28％オフの47535円に。GORE-TEX採用の防水シェルで、冬山登山やスノースポーツ、街使いまで幅広く活躍する買い時セールです。",
-      "img": "https://ascii.jp/img/2026/07/09/4497649/s/51228732078cd2ce.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "戦え、終わりなき空で──『グラブル：リリンク エンドレスラグナロク』が本日発売！",
-      "link": "https://ascii.jp/elem/000/004/417/4417934/?rss",
-      "date": "2026-07-09T15:15:00+09:00",
-      "dateLabel": "07/09 15:15",
-      "desc": "Cygamesは、Nintendo Switch 2／PlayStation 5／PlayStation 4／PC（Steam）にて『GRANBLUE FANTASY: Relink - Endless Ragnarok』を、本日2026年7月9日に発売。価格は、Standard Editionのパッケージ版／ダウンロード版ともに6930円となる。",
-      "img": "https://ascii.jp/img/2026/07/09/4497806/s/8f9e2e4f924fd028.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "Mistral AIがロボット用ナビゲーションAI「Robostral Navigate」を発表、「ロッカーの手前で右折して」といった自然言語での指示に対応可能",
+      "link": "https://gigazine.net/news/20260709-mistral-ai-robostral/",
+      "date": "2026-07-09T12:26:00+09:00",
+      "dateLabel": "07/09 12:26",
+      "desc": "フランスのAI企業であるMistral AIがロボット自動ナビゲーションAIモデル「Robostral Navigate」を発表しました。Robostral Navigateをロボットに導入することで「ロッカーの手前で右に曲がってオレンジ色のソファまで直進して」といったように自然言語での移動指示が可能となります。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 26
     }
   ]
