@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-10T05:41:42.256893+09:00",
-  "generatedLabel": "2026/07/10 05:41",
+  "generatedAt": "2026-07-10T07:13:20.468371+09:00",
+  "generatedLabel": "2026/07/10 07:13",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 51,
@@ -74,17 +74,6 @@
       "score": 74
     },
     {
-      "title": "OpenAI、リアルタイム音声モデル「GPT-Live」公開 相づちも割り込みも、より人間らしい会話に",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/09/2000000174/",
-      "date": "2026-07-09T06:53:09+09:00",
-      "dateLabel": "07/09 06:53",
-      "desc": "OpenAIは、新世代のリアルタイム音声モデル「GPT-Live」を発表した。会話の最中に相手の話を聞きながら同時に話せる全二重方式を採用し、ChatGPTの音声機能を刷新する。深い推論や検索が必要な場合はバックグラウンドで「GPT-5.5」に処理を委ねる仕組みを備え、有料・無料の各プランに順次展開する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 58
-    },
-    {
       "title": "デスクトップ版ChatGPT大幅刷新 AIエージェント「Codex」統合、「ChatGPT Work」に",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000178/",
       "date": "2026-07-10T04:36:50+09:00",
@@ -93,6 +82,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
+      "title": "OpenAI、リアルタイム音声モデル「GPT-Live」公開 相づちも割り込みも、より人間らしい会話に",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/09/2000000174/",
+      "date": "2026-07-09T06:53:09+09:00",
+      "dateLabel": "07/09 06:53",
+      "desc": "OpenAIは、新世代のリアルタイム音声モデル「GPT-Live」を発表した。会話の最中に相手の話を聞きながら同時に話せる全二重方式を採用し、ChatGPTの音声機能を刷新する。深い推論や検索が必要な場合はバックグラウンドで「GPT-5.5」に処理を委ねる仕組みを備え、有料・無料の各プランに順次展開する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 50
     },
     {
