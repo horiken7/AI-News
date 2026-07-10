@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-11T03:16:21.650067+09:00",
-  "generatedLabel": "2026/07/11 03:16",
+  "generatedAt": "2026-07-11T05:13:35.289040+09:00",
+  "generatedLabel": "2026/07/11 05:13",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 51,
@@ -151,17 +151,6 @@
       "score": 50
     },
     {
-      "title": "デスクトップ版ChatGPT大幅刷新 AIエージェント「Codex」統合、「ChatGPT Work」に",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000178/",
-      "date": "2026-07-10T04:36:50+09:00",
-      "dateLabel": "07/10 04:36",
-      "desc": "米OpenAIが、チャットAIサービス「ChatGPT」とAIコーディングエージェント「Codex」を統合した「ChatGPT Work」を発表した。「GPT-5.6」シリーズを搭載する。最終成果物を指定するだけで、あいまいな状況にも適応しながら最小限の指示で洗練されたアウトプットを生成できるという。Webアプリ、スマートフォンアプリ、デスクトップアプリの3",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
       "title": "Googleが「LiteRT.js」をリリース、ブラウザ上のAI推論を既存ランタイム比で最大3倍高速に",
       "link": "https://gigazine.net/news/20260710-google-litert-js/",
       "date": "2026-07-10T12:32:00+09:00",
@@ -180,6 +169,17 @@
       "desc": "既存のコードや情報解析手法などを最適化し、新しい手法を提案することもできるGoogleのAIエージェント「AlphaEvolve」がついに一般公開されました。AlphaEvolveは発表から1年以上にわたり限定公開されていて、その間に現実世界の解析手法や数学の未解決問題に対する回答を多数提示していました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "デスクトップ版ChatGPT大幅刷新 AIエージェント「Codex」統合、「ChatGPT Work」に",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000178/",
+      "date": "2026-07-10T04:36:50+09:00",
+      "dateLabel": "07/10 04:36",
+      "desc": "米OpenAIが、チャットAIサービス「ChatGPT」とAIコーディングエージェント「Codex」を統合した「ChatGPT Work」を発表した。「GPT-5.6」シリーズを搭載する。最終成果物を指定するだけで、あいまいな状況にも適応しながら最小限の指示で洗練されたアウトプットを生成できるという。Webアプリ、スマートフォンアプリ、デスクトップアプリの3",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 42
     },
@@ -272,14 +272,14 @@
       "score": 32
     },
     {
-      "title": "無料で使えるCloudflare Accessで安全にローカルのAIを外部から使えるように設定してみた",
-      "link": "https://gigazine.net/news/20260710-cloudflare-tunnel-access/",
-      "date": "2026-07-10T23:15:00+09:00",
-      "dateLabel": "07/10 23:15",
-      "desc": "Cloudflare Tunnelを使うことで、ルーターのポート開放などの設定不要で、ローカルPC上で動いているサービスをCloudflare経由で公開できます。Tunnelを設定しただけの状態では誰でもアクセスできてしまうので、今回はCloudflare Tunnelで公開したURLに対して、Cloudflare Accessによる認証を追加してみることに",
+      "title": "AIエージェントの8つの問題点！導入前に知っておきたい対策も解説",
+      "link": "https://ainow.ai/2026/07/11/278243/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae8%25e3%2581%25a4%25e3%2581%25ae%25e5%2595%258f%25e9%25a1%258c%25e7%2582%25b9%25ef%25bc%2581%25e5%25b0%258e%25e5%2585%25a5%25e5%2589%258d%25e3%2581%25ab%25e7%259f%25a5%25e3%2581%25a3%25e3%2581%25a6%25e3%2581%258a",
+      "date": "2026-07-11T03:24:31+09:00",
+      "dateLabel": "07/11 03:24",
+      "desc": "AIエージェントの導入を検討する中で、思わぬトラブルを見過ごしていないか不安に感じている方は少なくないでしょう。 AIエージェントは自律的にタスクを遂行できる分、誤情報の生成や情報漏洩、暴走といった問題点を抱えています。... The post AIエージェントの8つの問題点！導入前に知っておきたい対策も解説 first appeared on AI専門ニュ",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
