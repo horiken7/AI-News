@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-10T15:33:02.278092+09:00",
-  "generatedLabel": "2026/07/10 15:33",
+  "generatedAt": "2026-07-10T19:14:24.997062+09:00",
+  "generatedLabel": "2026/07/10 19:14",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 54,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -96,6 +96,17 @@
       "score": 58
     },
     {
+      "title": "M365 CopilotにOpenAI最新モデル「GPT-5.6」追加 複雑な作業を「より効率的に処理」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000184/",
+      "date": "2026-07-10T16:16:10+09:00",
+      "dateLabel": "07/10 16:16",
+      "desc": "米Microsoftは、Microsoft 365のAI機能「Microsoft 365 Copilot」に、米OpenAIの最新のAIモデル「GPT-5.6」シリーズを追加すると発表した。WordやExcel、PowerPointなどで順次展開する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
       "title": "OpenAI、Codexと「ChatGPT Work」の利用制限リセット 競合Claudeとリセット合戦に",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000181/",
       "date": "2026-07-10T12:13:22+09:00",
@@ -151,17 +162,6 @@
       "score": 50
     },
     {
-      "title": "派遣スタッフの掘り起こし荷電業務を音声AIで。音声AIエージェント「ALICE」に新機能",
-      "link": "https://ascii.jp/elem/000/004/418/4418412/?rss",
-      "date": "2026-07-10T13:34:42+09:00",
-      "dateLabel": "07/10 13:34",
-      "desc": "派遣スタッフの掘り起こし荷電業務を音声AIで。音声AIエージェント「ALICE」に新機能",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "Googleが「LiteRT.js」をリリース、ブラウザ上のAI推論を既存ランタイム比で最大3倍高速に",
       "link": "https://gigazine.net/news/20260710-google-litert-js/",
       "date": "2026-07-10T12:32:00+09:00",
@@ -184,36 +184,25 @@
       "score": 42
     },
     {
-      "title": "Grok 4.5・GPT-5.5・Claude Opus 4.8／Fable 5に同じアプリを作らせてレイテンシとコストを測定した結果、勝ったAIはどれか？",
-      "link": "https://gigazine.net/news/20260709-grok-gpt-claude-build-apps/",
-      "date": "2026-07-09T20:00:00+09:00",
-      "dateLabel": "07/09 20:00",
-      "desc": "2026年7月8日に発表されたGrok 4.5について、SpaceXAIは「コーディングとエージェント作業のためにCursorと並行してトレーニングされた」と、これまでで最も賢いモデルだとアピールしています。そこでAI企業のTryAIが、Grok 4.5・GPT-5.5・Claude Opus 4.8・Claude Fable 5に同じプロンプトからアプリを",
+      "title": "「まるで人間」 OpenAIの新モデル「GPT-Live」のトーク力が話題 間を空けずに考えながら会話できる",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/10/news114.html",
+      "date": "2026-07-10T16:45:00+09:00",
+      "dateLabel": "07/10 16:45",
+      "desc": "OpenAIが提供を始めた音声会話向けモデル「GPT-Live」がXで話題だ。同社はこれまでも音声会話モデルを提供していたが、聞き取りと発話を同時に行う新アーキテクチャにより「会話が自然すぎる」などの声が上がっている。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "ASUS、20周年記念AM5マザーボード「ROG Crosshair 2006」を発売 初代デザインを復刻",
-      "link": "https://ascii.jp/elem/000/004/418/4418398/?rss",
-      "date": "2026-07-10T14:00:00+09:00",
-      "dateLabel": "07/10 14:00",
-      "desc": "ASUS JAPANが、初代ROGマザーボードをオマージュしたAM5対応のX870Eマザーボード「ROG CROSSHAIR 2006」を発表。レトロなデザインと20+2+2フェーズ電源回路、Wi-Fi 7やUSB4、AI機能、Q-Designを備え、7月10日から販売開始する。",
-      "img": "https://ascii.jp/img/2026/07/10/4498399/s/82765a1bcfa2870e.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
-      "title": "Auxia Japan、日本での提供開始から1年 ― 金融・通信・メディアの大手企業でAIパーソナライゼーションの成果が拡大",
-      "link": "https://ascii.jp/elem/000/004/418/4418486/?rss",
-      "date": "2026-07-10T13:51:19+09:00",
-      "dateLabel": "07/10 13:51",
-      "desc": "Auxia Japan、日本での提供開始から1年 ― 金融・通信・メディアの大手企業でAIパーソナライゼーションの成果が拡大",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "7440億パラメーターの巨大AI「GLM-5.2」をメモリ25GBの普通のPCで動かす推論エンジン「Colibrì」が登場",
+      "link": "https://gigazine.net/news/20260710-colibri-glm/",
+      "date": "2026-07-10T16:20:00+09:00",
+      "dateLabel": "07/10 16:20",
+      "desc": "7440億パラメーターを備えた大規模言語モデル「GLM-5.2」をメモリ25GBの一般向けPCで動作させる推論エンジン「Colibrì」が公開されました。VRAMやRAMにモデル全体を読み込むのではなく、必要になったデータだけをSSDから随時読み出す仕組みとなっています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -272,15 +261,26 @@
       "score": 34
     },
     {
-      "title": "「ロケットリーグ」で学習しプレイヤーの操作を受け付けつつリアルタイムで映像を生成するAIモデル「MIRA」",
-      "link": "https://gigazine.net/news/20260709-rocket-league-mira/",
-      "date": "2026-07-09T19:00:00+09:00",
-      "dateLabel": "07/09 19:00",
-      "desc": "1万時間分の「ロケットリーグ」のゲームプレイデータに基づいてトレーニングされたAIモデル「MIRA(Multiplayer Interactive world models with Representation Autoencoders：マルチプレイヤー対応のインタラクティブな世界モデルと表現オートエンコーダー)」が発表されました。ウェブで無料公開されてい",
+      "title": "NEC、Claudeを活用した「全自動」マーケティングサービス開始 3年で売上100億円目指す",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/09/2000000175/",
+      "date": "2026-07-09T15:11:35+09:00",
+      "dateLabel": "07/09 15:11",
+      "desc": "NECは、消費者の購買データから商品企画や販促プラン作成の「完全自動化」をうたうサービスの提供を開始した。AnthropicのAI「Claude」などを活用した。3年間で累計100億円の売り上げを目指す。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 34
+    },
+    {
+      "title": "クアルコムがPythonライクな新言語「Mojo」開発元のModular社買収を発表。AIデータセンター市場へ本格参入",
+      "link": "https://www.publickey1.jp/blog/26/pythonmojomodularai.html",
+      "date": "2026-06-30T00:33:20+09:00",
+      "dateLabel": "06/30 00:33",
+      "desc": "スマートフォン用のSoC（System-on-a-Chip）や各種通信機器向けの半導体事業などで知られるクアルコムテクノロジーズ社（以下、クアルコム）は、AI処理の高速化を目指すPythonライクな新言語「Mojo」の開発元であるModul...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "半導体/GPU",
+      "score": 32
     }
   ]
 }
