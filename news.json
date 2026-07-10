@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-11T06:51:29.505320+09:00",
-  "generatedLabel": "2026/07/11 06:51",
+  "generatedAt": "2026-07-11T07:50:50.242888+09:00",
+  "generatedLabel": "2026/07/11 07:50",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 52,
@@ -85,17 +85,6 @@
       "score": 58
     },
     {
-      "title": "Meta、マルチモーダル推論モデル「Muse Spark 1.1」公開 低価格の「Meta Model API」も提供へ",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000180/",
-      "date": "2026-07-10T07:20:30+09:00",
-      "dateLabel": "07/10 07:20",
-      "desc": "Metaは、AIモデル「Muse Spark 1.1」を発表した。初代モデルを強化したマルチモーダル推論モデルで、ツール操作や複雑なコーディングなどのエージェント能力が向上している。新設の「Meta Model API」を通じてパブリックプレビューとして外部向けに提供され、競合モデルを下回る低価格な料金体系が特徴だ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 58
-    },
-    {
       "title": "M365 CopilotにOpenAI最新モデル「GPT-5.6」追加 複雑な作業を「より効率的に処理」",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000184/",
       "date": "2026-07-10T16:16:10+09:00",
@@ -148,6 +137,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
+      "title": "Meta、マルチモーダル推論モデル「Muse Spark 1.1」公開 低価格の「Meta Model API」も提供へ",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000180/",
+      "date": "2026-07-10T07:20:30+09:00",
+      "dateLabel": "07/10 07:20",
+      "desc": "Metaは、AIモデル「Muse Spark 1.1」を発表した。初代モデルを強化したマルチモーダル推論モデルで、ツール操作や複雑なコーディングなどのエージェント能力が向上している。新設の「Meta Model API」を通じてパブリックプレビューとして外部向けに提供され、競合モデルを下回る低価格な料金体系が特徴だ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 50
     },
     {
@@ -261,17 +261,6 @@
       "score": 34
     },
     {
-      "title": "NECが3年で100億円狙うAnthropic協業の初ソリューション、AIが販売戦略立案",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/10/news052.html",
-      "date": "2026-07-10T07:45:00+09:00",
-      "dateLabel": "07/10 07:45",
-      "desc": "NECは、Anthropicとの協業第1弾として、購買データからの商品企画や販促プラン作成を完全自動化する新サービスを開始した。専門人材なしで迅速な施策立案を可能にし、3年間で100億円の売上を目指す。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "クアルコムがPythonライクな新言語「Mojo」開発元のModular社買収を発表。AIデータセンター市場へ本格参入",
       "link": "https://www.publickey1.jp/blog/26/pythonmojomodularai.html",
       "date": "2026-06-30T00:33:20+09:00",
@@ -281,6 +270,17 @@
       "src": "Publickey",
       "cat": "半導体/GPU",
       "score": 32
+    },
+    {
+      "title": "AIエージェントの8つの問題点！導入前に知っておきたい対策も解説",
+      "link": "https://ainow.ai/2026/07/11/278243/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae8%25e3%2581%25a4%25e3%2581%25ae%25e5%2595%258f%25e9%25a1%258c%25e7%2582%25b9%25ef%25bc%2581%25e5%25b0%258e%25e5%2585%25a5%25e5%2589%258d%25e3%2581%25ab%25e7%259f%25a5%25e3%2581%25a3%25e3%2581%25a6%25e3%2581%258a",
+      "date": "2026-07-11T03:24:31+09:00",
+      "dateLabel": "07/11 03:24",
+      "desc": "AIエージェントの導入を検討する中で、思わぬトラブルを見過ごしていないか不安に感じている方は少なくないでしょう。 AIエージェントは自律的にタスクを遂行できる分、誤情報の生成や情報漏洩、暴走といった問題点を抱えています。... The post AIエージェントの8つの問題点！導入前に知っておきたい対策も解説 first appeared on AI専門ニュ",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 26
     }
   ]
 }
