@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-11T05:13:35.289040+09:00",
-  "generatedLabel": "2026/07/11 05:13",
+  "generatedAt": "2026-07-11T06:51:29.505320+09:00",
+  "generatedLabel": "2026/07/11 06:51",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 51,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 1
+      "items": 2
     },
     {
       "source": "PC Watch",
@@ -151,6 +151,17 @@
       "score": 50
     },
     {
+      "title": "RTX50搭載の16型で2kgを切る薄型軽量の高性能ノートPC「AERO X16シリーズ」発表",
+      "link": "https://ascii.jp/elem/000/004/418/4418725/?rss",
+      "date": "2026-07-11T06:00:00+09:00",
+      "dateLabel": "07/11 06:00",
+      "desc": "GIGABYTEはAMD Ryzen AIとGeForce RTX50を搭載した、薄型・軽量の16.0型AIノートPC「GIGABYTE AERO X16シリーズ」2モデルを発表しました",
+      "img": "https://ascii.jp/img/2026/07/11/4499005/s/ec1dacbeb962873e.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 42
+    },
+    {
       "title": "Googleが「LiteRT.js」をリリース、ブラウザ上のAI推論を既存ランタイム比で最大3倍高速に",
       "link": "https://gigazine.net/news/20260710-google-litert-js/",
       "date": "2026-07-10T12:32:00+09:00",
@@ -270,17 +281,6 @@
       "src": "Publickey",
       "cat": "半導体/GPU",
       "score": 32
-    },
-    {
-      "title": "AIエージェントの8つの問題点！導入前に知っておきたい対策も解説",
-      "link": "https://ainow.ai/2026/07/11/278243/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae8%25e3%2581%25a4%25e3%2581%25ae%25e5%2595%258f%25e9%25a1%258c%25e7%2582%25b9%25ef%25bc%2581%25e5%25b0%258e%25e5%2585%25a5%25e5%2589%258d%25e3%2581%25ab%25e7%259f%25a5%25e3%2581%25a3%25e3%2581%25a6%25e3%2581%258a",
-      "date": "2026-07-11T03:24:31+09:00",
-      "dateLabel": "07/11 03:24",
-      "desc": "AIエージェントの導入を検討する中で、思わぬトラブルを見過ごしていないか不安に感じている方は少なくないでしょう。 AIエージェントは自律的にタスクを遂行できる分、誤情報の生成や情報漏洩、暴走といった問題点を抱えています。... The post AIエージェントの8つの問題点！導入前に知っておきたい対策も解説 first appeared on AI専門ニュ",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 26
     }
   ]
 }
