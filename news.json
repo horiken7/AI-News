@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-10T11:42:48.042677+09:00",
-  "generatedLabel": "2026/07/10 11:42",
+  "generatedAt": "2026-07-10T15:33:02.278092+09:00",
+  "generatedLabel": "2026/07/10 15:33",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 19
+      "items": 20
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "OpenAI「GPT-5.6」一般公開 最上位モデルは「コスト半分で一部Fable 5超え」うたう",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000183/",
+      "date": "2026-07-10T12:09:08+09:00",
+      "dateLabel": "07/10 12:09",
+      "desc": "OpenAIが新AIモデル群「GPT-5.6」を一般公開した。最上位の「Sol」は、Anthropicの「Claude Fable 5」を超える性能を推定コスト半分程度で実現するとうたう。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 58
+    },
+    {
       "title": "Metaが独自開発AI「Muse Spark 1.1」を発表、Claude Opus 4.8と同等のベンチマークスコア",
       "link": "https://gigazine.net/news/20260710-meta-muse-spark-1-1/",
       "date": "2026-07-10T10:52:00+09:00",
@@ -85,6 +96,17 @@
       "score": 58
     },
     {
+      "title": "OpenAI、Codexと「ChatGPT Work」の利用制限リセット 競合Claudeとリセット合戦に",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000181/",
+      "date": "2026-07-10T12:13:22+09:00",
+      "dateLabel": "07/10 12:13",
+      "desc": "Anthropicは同日、OpenAIの制限リセットに先立ち、Claudeの利用制限をリセットしていた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
       "title": "OpenAIが「GPT-5.6」を正式リリース、第三者テストでClaude Fableを超えるコーディング性能を示す",
       "link": "https://gigazine.net/news/20260710-gpt-5-6-openai/",
       "date": "2026-07-10T11:07:00+09:00",
@@ -104,17 +126,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
-      "title": "OpenAI、Codexと「ChatGPT Work」の利用制限リセット 競合Claudeとリセット合戦に",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000181/",
-      "date": "2026-07-10T10:19:26+09:00",
-      "dateLabel": "07/10 10:19",
-      "desc": "Anthropicは同日、OpenAIの制限リセットに先立ち、Claudeの利用制限をリセットしていた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
       "score": 50
     },
     {
@@ -140,15 +151,26 @@
       "score": 50
     },
     {
-      "title": "OpenAI、リアルタイム音声モデル「GPT-Live」公開 相づちも割り込みも、より人間らしい会話に",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/09/2000000174/",
-      "date": "2026-07-09T06:53:09+09:00",
-      "dateLabel": "07/09 06:53",
-      "desc": "OpenAIは、新世代のリアルタイム音声モデル「GPT-Live」を発表した。会話の最中に相手の話を聞きながら同時に話せる全二重方式を採用し、ChatGPTの音声機能を刷新する。深い推論や検索が必要な場合はバックグラウンドで「GPT-5.5」に処理を委ねる仕組みを備え、有料・無料の各プランに順次展開する。",
+      "title": "派遣スタッフの掘り起こし荷電業務を音声AIで。音声AIエージェント「ALICE」に新機能",
+      "link": "https://ascii.jp/elem/000/004/418/4418412/?rss",
+      "date": "2026-07-10T13:34:42+09:00",
+      "dateLabel": "07/10 13:34",
+      "desc": "派遣スタッフの掘り起こし荷電業務を音声AIで。音声AIエージェント「ALICE」に新機能",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "Googleが「LiteRT.js」をリリース、ブラウザ上のAI推論を既存ランタイム比で最大3倍高速に",
+      "link": "https://gigazine.net/news/20260710-google-litert-js/",
+      "date": "2026-07-10T12:32:00+09:00",
+      "dateLabel": "07/10 12:32",
+      "desc": "Googleが2026年7月9日、ウェブブラウザ内でAIモデルを高速に実行するためのJavaScript向けランタイム「LiteRT.js」を発表しました。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 50
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 42
     },
     {
       "title": "Googleがコード最適化・アルゴリズム発見エージェントの「AlphaEvolve」を一般公開",
@@ -159,17 +181,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "GIGABYTE、「AERO X16」を発売 RTX 5070・Ryzen AI搭載の16型AIノートPC",
-      "link": "https://ascii.jp/elem/000/004/418/4418281/?rss",
-      "date": "2026-07-10T11:15:00+09:00",
-      "dateLabel": "07/10 11:15",
-      "desc": "GIGABYTEが薄型16型AIノートPC「AERO X16」シリーズを発売。RTX 5070／RTX 5060 Laptop GPUとAMD Ryzen AIを搭載し、Copilot+ PCに対応。WQXGA・165Hz液晶や独自AI機能「GiMATE」を備え、クリエイティブからゲームまで幅広く活躍するモデルを紹介します。",
-      "img": "https://ascii.jp/img/2026/07/10/4498317/s/6ca407f0e267b079.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
       "score": 42
     },
     {
@@ -184,26 +195,48 @@
       "score": 42
     },
     {
-      "title": "NEC、Claudeを活用した「全自動」マーケティングサービス開始 3年で売上100億円目指す",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/09/2000000175/",
-      "date": "2026-07-09T15:11:35+09:00",
-      "dateLabel": "07/09 15:11",
-      "desc": "NECは、消費者の購買データから商品企画や販促プラン作成の「完全自動化」をうたうサービスの提供を開始した。AnthropicのAI「Claude」などを活用した。3年間で累計100億円の売り上げを目指す。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
+      "title": "ASUS、20周年記念AM5マザーボード「ROG Crosshair 2006」を発売 初代デザインを復刻",
+      "link": "https://ascii.jp/elem/000/004/418/4418398/?rss",
+      "date": "2026-07-10T14:00:00+09:00",
+      "dateLabel": "07/10 14:00",
+      "desc": "ASUS JAPANが、初代ROGマザーボードをオマージュしたAM5対応のX870Eマザーボード「ROG CROSSHAIR 2006」を発表。レトロなデザインと20+2+2フェーズ電源回路、Wi-Fi 7やUSB4、AI機能、Q-Designを備え、7月10日から販売開始する。",
+      "img": "https://ascii.jp/img/2026/07/10/4498399/s/82765a1bcfa2870e.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
     },
     {
-      "title": "社内のWindows環境で「数百のAIエージェント」を隔離実行 NVIDIAとMicrosoftが共同開発したデスクサイドマシンの全容",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/09/news037.html",
-      "date": "2026-07-09T13:00:00+09:00",
-      "dateLabel": "07/09 13:00",
-      "desc": "NVIDIAは、Windows環境でAIエージェントを開発・実行するデスクサイドAIスーパーコンピュータ「NVIDIA DGX Station for Windows」を発表した。NVIDIA GB300 Grace Blackwell Ultra Desktop Superchipを搭載し、最大1兆パラメーターの最先端AIモデルをローカルで実行できるという",
+      "title": "Auxia Japan、日本での提供開始から1年 ― 金融・通信・メディアの大手企業でAIパーソナライゼーションの成果が拡大",
+      "link": "https://ascii.jp/elem/000/004/418/4418486/?rss",
+      "date": "2026-07-10T13:51:19+09:00",
+      "dateLabel": "07/10 13:51",
+      "desc": "Auxia Japan、日本での提供開始から1年 ― 金融・通信・メディアの大手企業でAIパーソナライゼーションの成果が拡大",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "OpenAIがAI駆動ブラウザ「ChatGPT Atlas」の提供を終了",
+      "link": "https://gigazine.net/news/20260710-openai-chatgpt-atlas-end/",
+      "date": "2026-07-10T12:20:00+09:00",
+      "dateLabel": "07/10 12:20",
+      "desc": "OpenAIが開発するAIを中核に据えたウェブブラウザが「ChatGPT Atlas」です。OpenAIのプロダクトスタッフでChatGPT Atlasの開発にも携わるジェームズ・サン氏はX(旧Twitter)で、ChatGPT Atlasの提供終了を公式にアナウンスしました。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "Micronがアメリカ国内の投資計画を40兆円規模に拡大＆前倒し",
+      "link": "https://gigazine.net/news/20260710-micron-investment/",
+      "date": "2026-07-10T12:05:00+09:00",
+      "dateLabel": "07/10 12:05",
+      "desc": "半導体大手のMicronがアメリカでの投資計画を前倒しし、2035年までに2500億ドル(約40兆円)超規模の投資を行う方針を表明しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 42
+      "score": 34
     },
     {
       "title": "Claudeに過去の使用状況を確認できる機能が追加される、「何時に使ったか」「どんなジャンルの会話をしたか」など",
@@ -213,17 +246,6 @@
       "desc": "AnthropicのAI・Claudeに、Claudeをよく利用した時間帯や、その時間に取り組んだ内容を月単位で振り返ることができる機能が追加されました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Gemini搭載の3K解像度144Hz対応液晶タブレットがタイムセール中！ 興味が湧いたら即ポチ推奨",
-      "link": "https://ascii.jp/elem/000/004/418/4418200/?rss",
-      "date": "2026-07-10T10:00:00+09:00",
-      "dateLabel": "07/10 10:00",
-      "desc": "Lenovoのタブレット「Idea Tab Pro」がタイムセール対象に。過去価格5万8151円が現在、14％OFFの4万9940円で販売中。3K（2944×1840）解像度と、144Hz高リフレッシュレートをあわせ持つ12.7型液晶Androidタブレットがこの価格で手に入るのは衝撃的。",
-      "img": "https://ascii.jp/img/2026/07/09/4498130/s/d8a9ecf37b52ffd4.png",
-      "src": "ASCII.jp",
       "cat": "LLM/モデル",
       "score": 34
     },
@@ -258,28 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "OpenAIが「SWE-Bench Proの約30％が壊れている」と報告、AIのコーディング能力を測るベンチマークに大量の不備",
-      "link": "https://gigazine.net/news/20260709-openai-coding-evaluations/",
-      "date": "2026-07-09T12:40:00+09:00",
-      "dateLabel": "07/09 12:40",
-      "desc": "OpenAIは2026年7月8日、AIのコーディング能力を測るベンチマーク「SWE-Bench Pro」を詳細に調査した結果、タスクのおよそ30％に評価として成立しない問題があると報告しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "海賊版サイトブロックは「現行の国内法に基づく民事訴訟では不可能」とブルガリアの最高裁判所が判断",
-      "link": "https://gigazine.net/news/20260709-pirate-blocking-bulgaria/",
-      "date": "2026-07-09T12:20:00+09:00",
-      "dateLabel": "07/09 12:20",
-      "desc": "2020年2月にブルガリアの音楽プロデューサー協会(BAMP)と国際レコード産業連盟(IFPI)は、3つのインターネットサービスプロバイダ(ISP)に対し民事訴訟を起こし、国内最大級のトレントサイトを遮断するよう裁判所命令を求めました。裁判の結果、ブルガリア最高裁判所は「現行のブルガリア著作権法の下では、権利者は通常の民事訴訟手続きにおいて海賊版サイトのブロ",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
       "score": 34
     }
   ]
