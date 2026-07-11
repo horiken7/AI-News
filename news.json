@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-11T18:17:17.492119+09:00",
-  "generatedLabel": "2026/07/11 18:17",
+  "generatedAt": "2026-07-11T19:54:30.219561+09:00",
+  "generatedLabel": "2026/07/11 19:54",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -129,6 +129,17 @@
       "score": 42
     },
     {
+      "title": "17.3型ノートPCを選ぶなら今！ RTX 5060搭載MSI「Katana 17 HX B14」がセールで21万円切り",
+      "link": "https://ascii.jp/elem/000/004/418/4418737/?rss",
+      "date": "2026-07-11T19:00:00+09:00",
+      "dateLabel": "07/11 19:00",
+      "desc": "MSIのゲーミングノートPC「Katana 17 HX B14（Katana-17-HX-B14WFK-1073JP）」がAmazonタイムセール対象。参考価格270,800円のところ、23％オフの209,800円で販売中。GeForce RTX 5060 Laptop GPUやCore i7-14650HX、17.3型WQHD・240Hzディスプレイを搭載",
+      "img": "https://ascii.jp/img/2026/07/11/4499036/s/b979886d125be9c5.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
       "title": "16型有機ELのCopilot+ PCが15万円台に。ASUS「Vivobook S 16」がプライムデーで24％オフ",
       "link": "https://ascii.jp/elem/000/004/418/4418730/?rss",
       "date": "2026-07-11T15:30:00+09:00",
@@ -146,28 +157,6 @@
       "dateLabel": "07/11 14:30",
       "desc": "Amazonプライムデーの目玉商品となっているiPhone Air。この半導体価格高騰のご時世に6万円引きが話題の1TBモデルは、すでに一部カラーが在庫切れ状態になっている。",
       "img": "https://ascii.jp/img/2026/07/11/4499065/s/c1ed9d0081936b15.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "プライムデーならAI PCにも手が届く！ Ryzen AI 5搭載ASUS「Vivobook 14」が18％オフ",
-      "link": "https://ascii.jp/elem/000/004/418/4418678/?rss",
-      "date": "2026-07-11T14:30:00+09:00",
-      "dateLabel": "07/11 14:30",
-      "desc": "ASUSのノートPC「Vivobook 14（M1407KA-AI5165BUAM）」がAmazonプライムデーセール対象。参考価格169,800円のところ、18％オフの139,800円で販売中。最大50TOPSのNPUを備えたRyzen AI 5プロセッサ搭載のCopilot+ PCで、16GBメモリや512GB SSD、14型WUXGAディスプレイを搭載",
-      "img": "https://ascii.jp/img/2026/07/10/4498748/s/7d9b87c3215a9498.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "RTX 5060搭載ノートが17万円台。Amazon限定「Cyborg 15」が26％オフ",
-      "link": "https://ascii.jp/elem/000/004/418/4418524/?rss",
-      "date": "2026-07-11T13:30:00+09:00",
-      "dateLabel": "07/11 13:30",
-      "desc": "MSIのゲーミングノートPC「Cyborg 15（Cyborg-15-B13WFKG-1172JP）」がAmazonプライムデーセール対象。参考価格239,800円のところ、26％オフの178,000円で販売中。GeForce RTX 5060 Laptop GPUやCore i7-13620H、144Hz対応ディスプレイを搭載するAmazon限定モデル。",
-      "img": "https://ascii.jp/img/2026/07/10/4498551/s/f825ed6b7bca1582.jpg",
       "src": "ASCII.jp",
       "cat": "半導体/GPU",
       "score": 34
@@ -280,6 +269,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "「まるで人間」 OpenAIの新モデル「GPT-Live」のトーク力が話題 間を空けずに考えながら会話できる",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/10/news114.html",
+      "date": "2026-07-10T16:45:00+09:00",
+      "dateLabel": "07/10 16:45",
+      "desc": "OpenAIが提供を始めた音声会話向けモデル「GPT-Live」がXで話題だ。同社はこれまでも音声会話モデルを提供していたが、聞き取りと発話を同時に行う新アーキテクチャにより「会話が自然すぎる」などの声が上がっている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 26
     }
   ]
