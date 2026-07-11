@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-11T16:05:49.486124+09:00",
-  "generatedLabel": "2026/07/11 16:05",
+  "generatedAt": "2026-07-11T18:17:17.492119+09:00",
+  "generatedLabel": "2026/07/11 18:17",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 57,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -63,17 +63,6 @@
   ],
   "articles": [
     {
-      "title": "M365 CopilotにOpenAI最新モデル「GPT-5.6」追加 複雑な作業を「より効率的に処理」",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000184/",
-      "date": "2026-07-10T16:16:10+09:00",
-      "dateLabel": "07/10 16:16",
-      "desc": "米Microsoftは、Microsoft 365のAI機能「Microsoft 365 Copilot」に、米OpenAIの最新のAIモデル「GPT-5.6」シリーズを追加すると発表した。WordやExcel、PowerPointなどで順次展開する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
       "title": "OpenAI「GPT-5.6」一般公開 最上位モデルは「コスト半分で一部Fable 5超え」うたう",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000183/",
       "date": "2026-07-10T12:09:08+09:00",
@@ -96,6 +85,17 @@
       "score": 50
     },
     {
+      "title": "M365 CopilotにOpenAI最新モデル「GPT-5.6」追加 複雑な作業を「より効率的に処理」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000184/",
+      "date": "2026-07-10T16:16:10+09:00",
+      "dateLabel": "07/10 16:16",
+      "desc": "米Microsoftは、Microsoft 365のAI機能「Microsoft 365 Copilot」に、米OpenAIの最新のAIモデル「GPT-5.6」シリーズを追加すると発表した。WordやExcel、PowerPointなどで順次展開する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "OpenAI、Codexと「ChatGPT Work」の利用制限リセット 競合Claudeとリセット合戦に",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000181/",
       "date": "2026-07-10T12:13:22+09:00",
@@ -104,28 +104,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "OpenAIが「GPT-5.6」を正式リリース、第三者テストでClaude Fableを超えるコーディング性能を示す",
-      "link": "https://gigazine.net/news/20260710-gpt-5-6-openai/",
-      "date": "2026-07-10T11:07:00+09:00",
-      "dateLabel": "07/10 11:07",
-      "desc": "OpenAIがAIモデル「GPT-5.6」を現地時間の2026年7月9日に正式リリースしました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "ChatGPTとCodexを統合して幅広いタスクを自律的に進める「ChatGPT ワーク」が登場、GPT-5.6が基盤に",
-      "link": "https://gigazine.net/news/20260710-openai-chatgpt-work/",
-      "date": "2026-07-10T11:02:00+09:00",
-      "dateLabel": "07/10 11:02",
-      "desc": "OpenAIがコーディングエージェント「Codex」をChatGPTに統合し、アプリやファイルを横断して複雑な業務を進めるエージェント機能「ChatGPT ワーク」を2026年7月10日に発表しました。文書やスライド、表計算シート、ウェブアプリなどの成果物を作成できるほか、デスクトップ版はCodexアプリ自体もChatGPTアプリに統合され、チャットや一般業",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -206,28 +184,6 @@
       "score": 34
     },
     {
-      "title": "「まるで人間」 OpenAIの新モデル「GPT-Live」のトーク力が話題 間を空けずに考えながら会話できる",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/10/news114.html",
-      "date": "2026-07-10T16:45:00+09:00",
-      "dateLabel": "07/10 16:45",
-      "desc": "OpenAIが提供を始めた音声会話向けモデル「GPT-Live」がXで話題だ。同社はこれまでも音声会話モデルを提供していたが、聞き取りと発話を同時に行う新アーキテクチャにより「会話が自然すぎる」などの声が上がっている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "7440億パラメーターの巨大AI「GLM-5.2」をメモリ25GBの普通のPCで動かす推論エンジン「Colibrì」が登場",
-      "link": "https://gigazine.net/news/20260710-colibri-glm/",
-      "date": "2026-07-10T16:20:00+09:00",
-      "dateLabel": "07/10 16:20",
-      "desc": "7440億パラメーターを備えた大規模言語モデル「GLM-5.2」をメモリ25GBの一般向けPCで動作させる推論エンジン「Colibrì」が公開されました。VRAMやRAMにモデル全体を読み込むのではなく、必要になったデータだけをSSDから随時読み出す仕組みとなっています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "Googleが「LiteRT.js」をリリース、ブラウザ上のAI推論を既存ランタイム比で最大3倍高速に",
       "link": "https://gigazine.net/news/20260710-google-litert-js/",
       "date": "2026-07-10T12:32:00+09:00",
@@ -261,24 +217,68 @@
       "score": 32
     },
     {
-      "title": "AIに引用されやすい記事タイトルの特徴とは？Optyino.aiがAI回答59,221件を分析、生成AIが引用するタイトルの57.93%は数字入り",
-      "link": "https://ascii.jp/elem/000/004/418/4418782/?rss",
-      "date": "2026-07-11T13:13:57+09:00",
-      "dateLabel": "07/11 13:13",
-      "desc": "AIに引用されやすい記事タイトルの特徴とは？Optyino.aiがAI回答59,221件を分析、生成AIが引用するタイトルの57.93%は数字入り",
+      "title": "農業の担い手100万人割れ時代、AIを使いこなす農家は何が違うのか",
+      "link": "https://ascii.jp/elem/000/004/418/4418793/?rss",
+      "date": "2026-07-11T15:50:00+09:00",
+      "dateLabel": "07/11 15:50",
+      "desc": "農業の担い手100万人割れ時代、AIを使いこなす農家は何が違うのか",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
+      "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "【3農家限定】AIは使えている。でも、現場で活きていない。農家AI伴走支援の無料モニター募集を開始",
-      "link": "https://ascii.jp/elem/000/004/418/4418783/?rss",
-      "date": "2026-07-11T12:50:00+09:00",
-      "dateLabel": "07/11 12:50",
-      "desc": "【3農家限定】AIは使えている。でも、現場で活きていない。農家AI伴走支援の無料モニター募集を開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
+      "title": "無料でAI向けのブラウザ自動化ができる「Browser4」",
+      "link": "https://gigazine.net/news/20260711-browser4/",
+      "date": "2026-07-11T12:00:00+09:00",
+      "dateLabel": "07/11 12:00",
+      "desc": "「Browser4」はターミナルからAIによるウェブブラウズ・自動化・スクレイピング・クロールといった処理を実現するCLIツールです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "3つの自己免疫疾患を抱える女性が免疫系の「リセット」治療で寛解状態に",
+      "link": "https://gigazine.net/news/20260711-car-t-therapy-remission/",
+      "date": "2026-07-11T08:00:00+09:00",
+      "dateLabel": "07/11 08:00",
+      "desc": "特定のターゲットを攻撃するように患者の細胞を改造する「CAR-T細胞療法」で、難治性の病気「自己免疫性溶血性貧血(AIHA)」を抱えていた患者が寛解したと科学者らが発表しました。この患者は毎日輸血を必要としていましたが、治療後は1年以上にわたり輸血不要の状態が続いているとのことです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "AIエージェントの8つの問題点！導入前に知っておきたい対策も解説",
+      "link": "https://ainow.ai/2026/07/11/278243/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae8%25e3%2581%25a4%25e3%2581%25ae%25e5%2595%258f%25e9%25a1%258c%25e7%2582%25b9%25ef%25bc%2581%25e5%25b0%258e%25e5%2585%25a5%25e5%2589%258d%25e3%2581%25ab%25e7%259f%25a5%25e3%2581%25a3%25e3%2581%25a6%25e3%2581%258a",
+      "date": "2026-07-11T03:24:31+09:00",
+      "dateLabel": "07/11 03:24",
+      "desc": "AIエージェントの導入を検討する中で、思わぬトラブルを見過ごしていないか不安に感じている方は少なくないでしょう。 AIエージェントは自律的にタスクを遂行できる分、誤情報の生成や情報漏洩、暴走といった問題点を抱えています。... The post AIエージェントの8つの問題点！導入前に知っておきたい対策も解説 first appeared on AI専門ニュ",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "無料で使えるCloudflare Accessで安全にローカルのAIを外部から使えるように設定してみた",
+      "link": "https://gigazine.net/news/20260710-cloudflare-tunnel-access/",
+      "date": "2026-07-10T23:15:00+09:00",
+      "dateLabel": "07/10 23:15",
+      "desc": "Cloudflare Tunnelを使うことで、ルーターのポート開放などの設定不要で、ローカルPC上で動いているサービスをCloudflare経由で公開できます。Tunnelを設定しただけの状態では誰でもアクセスできてしまうので、今回はCloudflare Tunnelで公開したURLに対して、Cloudflare Accessによる認証を追加してみることに",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "テスラ車内で「Grok」と会話、日本でも展開へ ナビ設定やルート確認を音声で",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/10/news157.html",
+      "date": "2026-07-10T21:15:00+09:00",
+      "dateLabel": "07/10 21:15",
+      "desc": "対話型AI「Grok」を日本のテスラ車で利用できるようになった。Tesla Japanが7月10日、X公式アカウントで発表した。利用には、ソフトウェアバージョン2026.20以降、「プレミアムコネクティビティ」（有料の車内通信プラン）の契約が必要になる。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "AI全般",
       "score": 26
     }
