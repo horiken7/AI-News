@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-11T19:54:30.219561+09:00",
-  "generatedLabel": "2026/07/11 19:54",
+  "generatedAt": "2026-07-11T20:44:18.667278+09:00",
+  "generatedLabel": "2026/07/11 20:44",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 51,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -151,17 +151,6 @@
       "score": 34
     },
     {
-      "title": "【そろそろ要決断】一部カラーが在庫切れのiPhone Air、最新iPhoneがこの価格はほぼラストチャンス!?",
-      "link": "https://ascii.jp/elem/000/004/418/4418778/?rss",
-      "date": "2026-07-11T14:30:00+09:00",
-      "dateLabel": "07/11 14:30",
-      "desc": "Amazonプライムデーの目玉商品となっているiPhone Air。この半導体価格高騰のご時世に6万円引きが話題の1TBモデルは、すでに一部カラーが在庫切れ状態になっている。",
-      "img": "https://ascii.jp/img/2026/07/11/4499065/s/c1ed9d0081936b15.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
       "title": "34万台超のHDDを運用するBackblazeが2026年第1四半期HDD故障率レポートを公開、壊れやすいHDDはどれ？",
       "link": "https://gigazine.net/news/20260710-backblaze-drive-stats-for-q1-2026/",
       "date": "2026-07-10T21:00:00+09:00",
@@ -279,6 +268,17 @@
       "desc": "OpenAIが提供を始めた音声会話向けモデル「GPT-Live」がXで話題だ。同社はこれまでも音声会話モデルを提供していたが、聞き取りと発話を同時に行う新アーキテクチャにより「会話が自然すぎる」などの声が上がっている。",
       "img": "",
       "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "7440億パラメーターの巨大AI「GLM-5.2」をメモリ25GBの普通のPCで動かす推論エンジン「Colibrì」が登場",
+      "link": "https://gigazine.net/news/20260710-colibri-glm/",
+      "date": "2026-07-10T16:20:00+09:00",
+      "dateLabel": "07/10 16:20",
+      "desc": "7440億パラメーターを備えた大規模言語モデル「GLM-5.2」をメモリ25GBの一般向けPCで動作させる推論エンジン「Colibrì」が公開されました。VRAMやRAMにモデル全体を読み込むのではなく、必要になったデータだけをSSDから随時読み出す仕組みとなっています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 26
     }
