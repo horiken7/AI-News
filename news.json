@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-12T07:37:16.757337+09:00",
-  "generatedLabel": "2026/07/12 07:37",
+  "generatedAt": "2026-07-12T08:43:28.694542+09:00",
+  "generatedLabel": "2026/07/12 08:43",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 51,
@@ -228,17 +228,6 @@
       "score": 26
     },
     {
-      "title": "3つの自己免疫疾患を抱える女性が免疫系の「リセット」治療で寛解状態に",
-      "link": "https://gigazine.net/news/20260711-car-t-therapy-remission/",
-      "date": "2026-07-11T08:00:00+09:00",
-      "dateLabel": "07/11 08:00",
-      "desc": "特定のターゲットを攻撃するように患者の細胞を改造する「CAR-T細胞療法」で、難治性の病気「自己免疫性溶血性貧血(AIHA)」を抱えていた患者が寛解したと科学者らが発表しました。この患者は毎日輸血を必要としていましたが、治療後は1年以上にわたり輸血不要の状態が続いているとのことです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
       "title": "34万台超のHDDを運用するBackblazeが2026年第1四半期HDD故障率レポートを公開、壊れやすいHDDはどれ？",
       "link": "https://gigazine.net/news/20260710-backblaze-drive-stats-for-q1-2026/",
       "date": "2026-07-10T21:00:00+09:00",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "Micronがアメリカ国内の投資計画を40兆円規模に拡大＆前倒し",
+      "link": "https://gigazine.net/news/20260710-micron-investment/",
+      "date": "2026-07-10T12:05:00+09:00",
+      "dateLabel": "07/10 12:05",
+      "desc": "半導体大手のMicronがアメリカでの投資計画を前倒しし、2035年までに2500億ドル(約40兆円)超規模の投資を行う方針を表明しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
       "score": 26
     }
   ]
