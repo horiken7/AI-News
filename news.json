@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-11T23:18:31.468958+09:00",
-  "generatedLabel": "2026/07/11 23:18",
+  "generatedAt": "2026-07-12T00:44:23.669064+09:00",
+  "generatedLabel": "2026/07/12 00:44",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 52,
@@ -162,17 +162,6 @@
       "score": 34
     },
     {
-      "title": "16型有機ELのCopilot+ PCが15万円台に。ASUS「Vivobook S 16」がプライムデーで24％オフ",
-      "link": "https://ascii.jp/elem/000/004/418/4418730/?rss",
-      "date": "2026-07-11T15:30:00+09:00",
-      "dateLabel": "07/11 15:30",
-      "desc": "ASUSのノートPC「Vivobook S 16（M3607KA-AI5165SIS）」がAmazonプライムデーセール対象。参考価格209,800円のところ、24％オフの158,800円で販売中。16型有機ELディスプレイやCopilot+ PC、Ryzen AI 5 330プロセッサ、Microsoft 365 Personal（24カ月版）を搭載するモ",
-      "img": "https://ascii.jp/img/2026/07/11/4499030/s/2de528c19bd0925c.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "Googleが「LiteRT.js」をリリース、ブラウザ上のAI推論を既存ランタイム比で最大3倍高速に",
       "link": "https://gigazine.net/news/20260710-google-litert-js/",
       "date": "2026-07-10T12:32:00+09:00",
@@ -193,6 +182,28 @@
       "src": "Publickey",
       "cat": "半導体/GPU",
       "score": 32
+    },
+    {
+      "title": "AIエージェントで何ができる？できること・活用事例を解説",
+      "link": "https://ainow.ai/2026/07/12/278246/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e4%25bd%2595%25e3%2581%258c%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b%25ef%25bc%259f%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b%25e3%2581%2593%25e3%2581%25a8%25e3%2583%25bb%25e6%25b4%25bb%25e7%2594%25a8%25e4%25ba%258b",
+      "date": "2026-07-12T00:11:13+09:00",
+      "dateLabel": "07/12 00:11",
+      "desc": "AIエージェントという言葉を耳にする機会が増えたものの、生成AIと何が違うのかを説明できない担当者は少なくありません。具体的に何を任せられるのかがわからないまま、導入検討だけを任されているケースも見られます。 AIエージ... The post AIエージェントで何ができる？できること・活用事例を解説 first appeared on AI専門ニュースメデ",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "AirPods 4（アクティブノイズキャンセリング搭載）がAmazonプライムデーで23,800円に！会話中も使いやすい快適イヤホン",
+      "link": "https://ascii.jp/elem/000/004/418/4418025/?rss",
+      "date": "2026-07-12T00:00:00+09:00",
+      "dateLabel": "07/12 00:00",
+      "desc": "AmazonプライムデーでAppleの人気ワイヤレスイヤホン『AirPods 4（アクティブノイズキャンセリング搭載モデル）』が23,800円に。快適な装着感で会話も外さず可能、外部音取り込みモードや充電ケースのワイヤレス充電対応も魅力です。",
+      "img": "https://ascii.jp/img/2026/04/24/4457600/s/934c6fd3271d3999.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     },
     {
       "title": "農業の担い手100万人割れ時代、AIを使いこなす農家は何が違うのか",
@@ -266,17 +277,6 @@
       "date": "2026-07-10T16:20:00+09:00",
       "dateLabel": "07/10 16:20",
       "desc": "7440億パラメーターを備えた大規模言語モデル「GLM-5.2」をメモリ25GBの一般向けPCで動作させる推論エンジン「Colibrì」が公開されました。VRAMやRAMにモデル全体を読み込むのではなく、必要になったデータだけをSSDから随時読み出す仕組みとなっています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "OpenAIがAI駆動ブラウザ「ChatGPT Atlas」の提供を終了",
-      "link": "https://gigazine.net/news/20260710-openai-chatgpt-atlas-end/",
-      "date": "2026-07-10T12:20:00+09:00",
-      "dateLabel": "07/10 12:20",
-      "desc": "OpenAIが開発するAIを中核に据えたウェブブラウザが「ChatGPT Atlas」です。OpenAIのプロダクトスタッフでChatGPT Atlasの開発にも携わるジェームズ・サン氏はX(旧Twitter)で、ChatGPT Atlasの提供終了を公式にアナウンスしました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
