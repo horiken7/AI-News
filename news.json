@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-12T02:45:45.951804+09:00",
-  "generatedLabel": "2026/07/12 02:45",
+  "generatedAt": "2026-07-12T03:44:42.366538+09:00",
+  "generatedLabel": "2026/07/12 03:44",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 51,
@@ -239,17 +239,6 @@
       "score": 26
     },
     {
-      "title": "AIエージェントの8つの問題点！導入前に知っておきたい対策も解説",
-      "link": "https://ainow.ai/2026/07/11/278243/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae8%25e3%2581%25a4%25e3%2581%25ae%25e5%2595%258f%25e9%25a1%258c%25e7%2582%25b9%25ef%25bc%2581%25e5%25b0%258e%25e5%2585%25a5%25e5%2589%258d%25e3%2581%25ab%25e7%259f%25a5%25e3%2581%25a3%25e3%2581%25a6%25e3%2581%258a",
-      "date": "2026-07-11T03:24:31+09:00",
-      "dateLabel": "07/11 03:24",
-      "desc": "AIエージェントの導入を検討する中で、思わぬトラブルを見過ごしていないか不安に感じている方は少なくないでしょう。 AIエージェントは自律的にタスクを遂行できる分、誤情報の生成や情報漏洩、暴走といった問題点を抱えています。... The post AIエージェントの8つの問題点！導入前に知っておきたい対策も解説 first appeared on AI専門ニュ",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
       "title": "34万台超のHDDを運用するBackblazeが2026年第1四半期HDD故障率レポートを公開、壊れやすいHDDはどれ？",
       "link": "https://gigazine.net/news/20260710-backblaze-drive-stats-for-q1-2026/",
       "date": "2026-07-10T21:00:00+09:00",
@@ -277,6 +266,17 @@
       "date": "2026-07-10T16:20:00+09:00",
       "dateLabel": "07/10 16:20",
       "desc": "7440億パラメーターを備えた大規模言語モデル「GLM-5.2」をメモリ25GBの一般向けPCで動作させる推論エンジン「Colibrì」が公開されました。VRAMやRAMにモデル全体を読み込むのではなく、必要になったデータだけをSSDから随時読み出す仕組みとなっています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "OpenAIがAI駆動ブラウザ「ChatGPT Atlas」の提供を終了",
+      "link": "https://gigazine.net/news/20260710-openai-chatgpt-atlas-end/",
+      "date": "2026-07-10T12:20:00+09:00",
+      "dateLabel": "07/10 12:20",
+      "desc": "OpenAIが開発するAIを中核に据えたウェブブラウザが「ChatGPT Atlas」です。OpenAIのプロダクトスタッフでChatGPT Atlasの開発にも携わるジェームズ・サン氏はX(旧Twitter)で、ChatGPT Atlasの提供終了を公式にアナウンスしました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
