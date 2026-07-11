@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-11T08:48:31.064604+09:00",
-  "generatedLabel": "2026/07/11 08:48",
+  "generatedAt": "2026-07-11T10:44:07.760908+09:00",
+  "generatedLabel": "2026/07/11 10:44",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 2
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -129,17 +129,6 @@
       "score": 50
     },
     {
-      "title": "Claude、利用制限を全リセット 競合「GPT-5.6」公開と同日……OpenAI幹部「ビビってるね」",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000179/",
-      "date": "2026-07-10T09:38:35+09:00",
-      "dateLabel": "07/10 09:38",
-      "desc": "OpenAIが「GPT-5.6」を一般公開した同日、AnthropicがClaude全ユーザーの利用制限を一斉リセット。OpenAI幹部の「ビビってるね」という煽り返信も話題だ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
       "title": "Meta、マルチモーダル推論モデル「Muse Spark 1.1」公開 低価格の「Meta Model API」も提供へ",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000180/",
       "date": "2026-07-10T07:20:30+09:00",
@@ -181,6 +170,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "Claude、利用制限を全リセット 競合「GPT-5.6」公開と同日……OpenAI幹部「ビビってるね」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000179/",
+      "date": "2026-07-10T09:38:35+09:00",
+      "dateLabel": "07/10 09:38",
+      "desc": "OpenAIが「GPT-5.6」を一般公開した同日、AnthropicがClaude全ユーザーの利用制限を一斉リセット。OpenAI幹部の「ビビってるね」という煽り返信も話題だ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -272,14 +272,14 @@
       "score": 32
     },
     {
-      "title": "3つの自己免疫疾患を抱える女性が免疫系の「リセット」治療で寛解状態に",
-      "link": "https://gigazine.net/news/20260711-car-t-therapy-remission/",
-      "date": "2026-07-11T08:00:00+09:00",
-      "dateLabel": "07/11 08:00",
-      "desc": "特定のターゲットを攻撃するように患者の細胞を改造する「CAR-T細胞療法」で、難治性の病気「自己免疫性溶血性貧血(AIHA)」を抱えていた患者が寛解したと科学者らが発表しました。この患者は毎日輸血を必要としていましたが、治療後は1年以上にわたり輸血不要の状態が続いているとのことです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
+      "title": "AnkerのMagSafe対応3-in-1ワイヤレス充電器「Cube」でiPhone・Apple Watch・AirPods同時充電！コンパクト＆角度調整も◎",
+      "link": "https://ascii.jp/elem/000/004/418/4418659/?rss",
+      "date": "2026-07-11T10:00:00+09:00",
+      "dateLabel": "07/11 10:00",
+      "desc": "AnkerのMagSafe対応ワイヤレス充電器「3-in-1 Cube with MagSafe」がAmazonでタイムセール中。iPhone、Apple Watch、AirPodsを1台で同時充電可能。約6cm四方のコンパクト設計と360度角度調整機能でデスクや旅行先で活躍。",
+      "img": "https://ascii.jp/img/2026/06/08/4479668/s/973090b2d8369aab.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
       "score": 26
     }
   ]
