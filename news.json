@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-11T20:44:18.667278+09:00",
-  "generatedLabel": "2026/07/11 20:44",
+  "generatedAt": "2026-07-11T21:54:54.623459+09:00",
+  "generatedLabel": "2026/07/11 21:54",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 51,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 12
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -129,6 +129,28 @@
       "score": 42
     },
     {
+      "title": "RTX 5060＆32GBメモリー搭載G TUNEが24万円台。国内生産・3年保証モデルが14％オフ",
+      "link": "https://ascii.jp/elem/000/004/418/4418731/?rss",
+      "date": "2026-07-11T21:30:00+09:00",
+      "dateLabel": "07/11 21:30",
+      "desc": "マウスコンピューターのゲーミングノートPC「G TUNE P6」がAmazonプライムデーセール対象。参考価格289,801円のところ、14％オフの249,800円で販売中。GeForce RTX 5060 Laptop GPUやCore i5-13500HX、32GBメモリや180Hz対応WQXGA液晶も備える。",
+      "img": "https://ascii.jp/img/2026/07/11/4499033/s/d498c0ac76811fd8.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "11万円台ノートPCでゲームもしたいなら。RTX 3050搭載MSI「Thin 15 B13U」セール中",
+      "link": "https://ascii.jp/elem/000/004/418/4418764/?rss",
+      "date": "2026-07-11T21:00:00+09:00",
+      "dateLabel": "07/11 21:00",
+      "desc": "MSIのゲーミングノートPC「Thin 15 B13U（Thin-15-B13UC-6102JP）」がAmazonタイムセール対象。参考価格144,800円のところ、17％オフの119,800円で販売中。Core i5-13420HやGeForce RTX 3050 Laptop GPU、16GBメモリ、512GB SSD、144Hz対応の15.6型フルHD",
+      "img": "https://ascii.jp/img/2026/07/11/4499060/s/3ad9b5da0ee4dd33.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
       "title": "17.3型ノートPCを選ぶなら今！ RTX 5060搭載MSI「Katana 17 HX B14」がセールで21万円切り",
       "link": "https://ascii.jp/elem/000/004/418/4418737/?rss",
       "date": "2026-07-11T19:00:00+09:00",
@@ -151,17 +173,6 @@
       "score": 34
     },
     {
-      "title": "34万台超のHDDを運用するBackblazeが2026年第1四半期HDD故障率レポートを公開、壊れやすいHDDはどれ？",
-      "link": "https://gigazine.net/news/20260710-backblaze-drive-stats-for-q1-2026/",
-      "date": "2026-07-10T21:00:00+09:00",
-      "dateLabel": "07/10 21:00",
-      "desc": "クラウドストレージサービスプロバイダーのBackblazeは、自社のデータセンターでHGST・Seagate・東芝・WDCといったメーカーの合計34万台を超えるHDDを運用しています。そんなBackblazeが、2026年第1四半期版のHDD故障率レポートを公開しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
       "title": "Googleが「LiteRT.js」をリリース、ブラウザ上のAI推論を既存ランタイム比で最大3倍高速に",
       "link": "https://gigazine.net/news/20260710-google-litert-js/",
       "date": "2026-07-10T12:32:00+09:00",
@@ -170,17 +181,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "Googleがコード最適化・アルゴリズム発見エージェントの「AlphaEvolve」を一般公開",
-      "link": "https://gigazine.net/news/20260710-google-alphaevolve-generally-available/",
-      "date": "2026-07-10T11:29:00+09:00",
-      "dateLabel": "07/10 11:29",
-      "desc": "既存のコードや情報解析手法などを最適化し、新しい手法を提案することもできるGoogleのAIエージェント「AlphaEvolve」がついに一般公開されました。AlphaEvolveは発表から1年以上にわたり限定公開されていて、その間に現実世界の解析手法や数学の未解決問題に対する回答を多数提示していました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -250,14 +250,14 @@
       "score": 26
     },
     {
-      "title": "テスラ車内で「Grok」と会話、日本でも展開へ ナビ設定やルート確認を音声で",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/10/news157.html",
-      "date": "2026-07-10T21:15:00+09:00",
-      "dateLabel": "07/10 21:15",
-      "desc": "対話型AI「Grok」を日本のテスラ車で利用できるようになった。Tesla Japanが7月10日、X公式アカウントで発表した。利用には、ソフトウェアバージョン2026.20以降、「プレミアムコネクティビティ」（有料の車内通信プラン）の契約が必要になる。",
+      "title": "34万台超のHDDを運用するBackblazeが2026年第1四半期HDD故障率レポートを公開、壊れやすいHDDはどれ？",
+      "link": "https://gigazine.net/news/20260710-backblaze-drive-stats-for-q1-2026/",
+      "date": "2026-07-10T21:00:00+09:00",
+      "dateLabel": "07/10 21:00",
+      "desc": "クラウドストレージサービスプロバイダーのBackblazeは、自社のデータセンターでHGST・Seagate・東芝・WDCといったメーカーの合計34万台を超えるHDDを運用しています。そんなBackblazeが、2026年第1四半期版のHDD故障率レポートを公開しました。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
       "score": 26
     },
     {
