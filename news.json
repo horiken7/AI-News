@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-11T10:44:07.760908+09:00",
-  "generatedLabel": "2026/07/11 10:44",
+  "generatedAt": "2026-07-11T13:54:22.245230+09:00",
+  "generatedLabel": "2026/07/11 13:54",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 2
     },
     {
       "source": "PC Watch",
@@ -63,28 +63,6 @@
   ],
   "articles": [
     {
-      "title": "OpenAI「GPT-5.6」一般公開 最上位モデルは「コスト半分で一部Fable 5超え」うたう",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000183/",
-      "date": "2026-07-10T12:09:08+09:00",
-      "dateLabel": "07/10 12:09",
-      "desc": "OpenAIが新AIモデル群「GPT-5.6」を一般公開した。最上位の「Sol」は、Anthropicの「Claude Fable 5」を超える性能を推定コスト半分程度で実現するとうたう。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 58
-    },
-    {
-      "title": "Metaが独自開発AI「Muse Spark 1.1」を発表、Claude Opus 4.8と同等のベンチマークスコア",
-      "link": "https://gigazine.net/news/20260710-meta-muse-spark-1-1/",
-      "date": "2026-07-10T10:52:00+09:00",
-      "dateLabel": "07/10 10:52",
-      "desc": "MetaのAI研究機関であるMeta Superintelligence Labsが、マルチモーダル推論モデルの「Muse Spark 1.1」を発表しました。2026年4月に登場した「Muse Spark」の大幅なアップグレード版として位置づけられており、ツールおよびPC操作、コーディング、マルチモーダル理解において大きな進歩を遂げているとのことです。 続",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 58
-    },
-    {
       "title": "M365 CopilotにOpenAI最新モデル「GPT-5.6」追加 複雑な作業を「より効率的に処理」",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000184/",
       "date": "2026-07-10T16:16:10+09:00",
@@ -96,36 +74,14 @@
       "score": 50
     },
     {
-      "title": "OpenAI、Codexと「ChatGPT Work」の利用制限リセット 競合Claudeとリセット合戦に",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000181/",
-      "date": "2026-07-10T12:13:22+09:00",
-      "dateLabel": "07/10 12:13",
-      "desc": "Anthropicは同日、OpenAIの制限リセットに先立ち、Claudeの利用制限をリセットしていた。",
+      "title": "OpenAI「GPT-5.6」一般公開 最上位モデルは「コスト半分で一部Fable 5超え」うたう",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000183/",
+      "date": "2026-07-10T12:09:08+09:00",
+      "dateLabel": "07/10 12:09",
+      "desc": "OpenAIが新AIモデル群「GPT-5.6」を一般公開した。最上位の「Sol」は、Anthropicの「Claude Fable 5」を超える性能を推定コスト半分程度で実現するとうたう。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
-      "title": "OpenAIが「GPT-5.6」を正式リリース、第三者テストでClaude Fableを超えるコーディング性能を示す",
-      "link": "https://gigazine.net/news/20260710-gpt-5-6-openai/",
-      "date": "2026-07-10T11:07:00+09:00",
-      "dateLabel": "07/10 11:07",
-      "desc": "OpenAIがAIモデル「GPT-5.6」を現地時間の2026年7月9日に正式リリースしました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
-      "title": "ChatGPTとCodexを統合して幅広いタスクを自律的に進める「ChatGPT ワーク」が登場、GPT-5.6が基盤に",
-      "link": "https://gigazine.net/news/20260710-openai-chatgpt-work/",
-      "date": "2026-07-10T11:02:00+09:00",
-      "dateLabel": "07/10 11:02",
-      "desc": "OpenAIがコーディングエージェント「Codex」をChatGPTに統合し、アプリやファイルを横断して複雑な業務を進めるエージェント機能「ChatGPT ワーク」を2026年7月10日に発表しました。文書やスライド、表計算シート、ウェブアプリなどの成果物を作成できるほか、デスクトップ版はCodexアプリ自体もChatGPTアプリに統合され、チャットや一般業",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
       "score": 50
     },
     {
@@ -140,33 +96,33 @@
       "score": 50
     },
     {
-      "title": "RTX50搭載の16型で2kgを切る薄型軽量の高性能ノートPC「AERO X16シリーズ」発表",
-      "link": "https://ascii.jp/elem/000/004/418/4418725/?rss",
-      "date": "2026-07-11T06:00:00+09:00",
-      "dateLabel": "07/11 06:00",
-      "desc": "GIGABYTEはAMD Ryzen AIとGeForce RTX50を搭載した、薄型・軽量の16.0型AIノートPC「GIGABYTE AERO X16シリーズ」2モデルを発表しました",
-      "img": "https://ascii.jp/img/2026/07/11/4499005/s/ec1dacbeb962873e.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "OpenAI、Codexと「ChatGPT Work」の利用制限リセット 競合Claudeとリセット合戦に",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000181/",
+      "date": "2026-07-10T12:13:22+09:00",
+      "dateLabel": "07/10 12:13",
+      "desc": "Anthropicは同日、OpenAIの制限リセットに先立ち、Claudeの利用制限をリセットしていた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 42
     },
     {
-      "title": "Googleが「LiteRT.js」をリリース、ブラウザ上のAI推論を既存ランタイム比で最大3倍高速に",
-      "link": "https://gigazine.net/news/20260710-google-litert-js/",
-      "date": "2026-07-10T12:32:00+09:00",
-      "dateLabel": "07/10 12:32",
-      "desc": "Googleが2026年7月9日、ウェブブラウザ内でAIモデルを高速に実行するためのJavaScript向けランタイム「LiteRT.js」を発表しました。 続きを読む...",
+      "title": "OpenAIが「GPT-5.6」を正式リリース、第三者テストでClaude Fableを超えるコーディング性能を示す",
+      "link": "https://gigazine.net/news/20260710-gpt-5-6-openai/",
+      "date": "2026-07-10T11:07:00+09:00",
+      "dateLabel": "07/10 11:07",
+      "desc": "OpenAIがAIモデル「GPT-5.6」を現地時間の2026年7月9日に正式リリースしました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AI全般",
+      "cat": "LLM/モデル",
       "score": 42
     },
     {
-      "title": "Googleがコード最適化・アルゴリズム発見エージェントの「AlphaEvolve」を一般公開",
-      "link": "https://gigazine.net/news/20260710-google-alphaevolve-generally-available/",
-      "date": "2026-07-10T11:29:00+09:00",
-      "dateLabel": "07/10 11:29",
-      "desc": "既存のコードや情報解析手法などを最適化し、新しい手法を提案することもできるGoogleのAIエージェント「AlphaEvolve」がついに一般公開されました。AlphaEvolveは発表から1年以上にわたり限定公開されていて、その間に現実世界の解析手法や数学の未解決問題に対する回答を多数提示していました。 続きを読む...",
+      "title": "ChatGPTとCodexを統合して幅広いタスクを自律的に進める「ChatGPT ワーク」が登場、GPT-5.6が基盤に",
+      "link": "https://gigazine.net/news/20260710-openai-chatgpt-work/",
+      "date": "2026-07-10T11:02:00+09:00",
+      "dateLabel": "07/10 11:02",
+      "desc": "OpenAIがコーディングエージェント「Codex」をChatGPTに統合し、アプリやファイルを横断して複雑な業務を進めるエージェント機能「ChatGPT ワーク」を2026年7月10日に発表しました。文書やスライド、表計算シート、ウェブアプリなどの成果物を作成できるほか、デスクトップ版はCodexアプリ自体もChatGPTアプリに統合され、チャットや一般業",
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
@@ -193,6 +149,17 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 42
+    },
+    {
+      "title": "RTX 5060搭載ノートが17万円台。Amazon限定「Cyborg 15」が26％オフ",
+      "link": "https://ascii.jp/elem/000/004/418/4418524/?rss",
+      "date": "2026-07-11T13:30:00+09:00",
+      "dateLabel": "07/11 13:30",
+      "desc": "MSIのゲーミングノートPC「Cyborg 15（Cyborg-15-B13WFKG-1172JP）」がAmazonプライムデーセール対象。参考価格239,800円のところ、26％オフの178,000円で販売中。GeForce RTX 5060 Laptop GPUやCore i7-13620H、144Hz対応ディスプレイを搭載するAmazon限定モデル。",
+      "img": "https://ascii.jp/img/2026/07/10/4498551/s/f825ed6b7bca1582.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
     },
     {
       "title": "34万台超のHDDを運用するBackblazeが2026年第1四半期HDD故障率レポートを公開、壊れやすいHDDはどれ？",
@@ -228,36 +195,25 @@
       "score": 34
     },
     {
-      "title": "OpenAIがAI駆動ブラウザ「ChatGPT Atlas」の提供を終了",
-      "link": "https://gigazine.net/news/20260710-openai-chatgpt-atlas-end/",
-      "date": "2026-07-10T12:20:00+09:00",
-      "dateLabel": "07/10 12:20",
-      "desc": "OpenAIが開発するAIを中核に据えたウェブブラウザが「ChatGPT Atlas」です。OpenAIのプロダクトスタッフでChatGPT Atlasの開発にも携わるジェームズ・サン氏はX(旧Twitter)で、ChatGPT Atlasの提供終了を公式にアナウンスしました。 続きを読む...",
+      "title": "Googleが「LiteRT.js」をリリース、ブラウザ上のAI推論を既存ランタイム比で最大3倍高速に",
+      "link": "https://gigazine.net/news/20260710-google-litert-js/",
+      "date": "2026-07-10T12:32:00+09:00",
+      "dateLabel": "07/10 12:32",
+      "desc": "Googleが2026年7月9日、ウェブブラウザ内でAIモデルを高速に実行するためのJavaScript向けランタイム「LiteRT.js」を発表しました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "LLM/モデル",
+      "cat": "AI全般",
       "score": 34
     },
     {
-      "title": "Micronがアメリカ国内の投資計画を40兆円規模に拡大＆前倒し",
-      "link": "https://gigazine.net/news/20260710-micron-investment/",
-      "date": "2026-07-10T12:05:00+09:00",
-      "dateLabel": "07/10 12:05",
-      "desc": "半導体大手のMicronがアメリカでの投資計画を前倒しし、2035年までに2500億ドル(約40兆円)超規模の投資を行う方針を表明しました。 続きを読む...",
+      "title": "Googleがコード最適化・アルゴリズム発見エージェントの「AlphaEvolve」を一般公開",
+      "link": "https://gigazine.net/news/20260710-google-alphaevolve-generally-available/",
+      "date": "2026-07-10T11:29:00+09:00",
+      "dateLabel": "07/10 11:29",
+      "desc": "既存のコードや情報解析手法などを最適化し、新しい手法を提案することもできるGoogleのAIエージェント「AlphaEvolve」がついに一般公開されました。AlphaEvolveは発表から1年以上にわたり限定公開されていて、その間に現実世界の解析手法や数学の未解決問題に対する回答を多数提示していました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "Claudeに過去の使用状況を確認できる機能が追加される、「何時に使ったか」「どんなジャンルの会話をしたか」など",
-      "link": "https://gigazine.net/news/20260710-claude-reflect/",
-      "date": "2026-07-10T11:15:00+09:00",
-      "dateLabel": "07/10 11:15",
-      "desc": "AnthropicのAI・Claudeに、Claudeをよく利用した時間帯や、その時間に取り組んだ内容を月単位で振り返ることができる機能が追加されました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -272,14 +228,58 @@
       "score": 32
     },
     {
-      "title": "AnkerのMagSafe対応3-in-1ワイヤレス充電器「Cube」でiPhone・Apple Watch・AirPods同時充電！コンパクト＆角度調整も◎",
-      "link": "https://ascii.jp/elem/000/004/418/4418659/?rss",
-      "date": "2026-07-11T10:00:00+09:00",
-      "dateLabel": "07/11 10:00",
-      "desc": "AnkerのMagSafe対応ワイヤレス充電器「3-in-1 Cube with MagSafe」がAmazonでタイムセール中。iPhone、Apple Watch、AirPodsを1台で同時充電可能。約6cm四方のコンパクト設計と360度角度調整機能でデスクや旅行先で活躍。",
-      "img": "https://ascii.jp/img/2026/06/08/4479668/s/973090b2d8369aab.jpg",
+      "title": "おっ、Magic Mouseが1万円切ってる【Amazonプライムデー2026】",
+      "link": "https://ascii.jp/elem/000/004/418/4418518/?rss",
+      "date": "2026-07-11T12:40:00+09:00",
+      "dateLabel": "07/11 12:40",
+      "desc": "AppleのMagic Mouse (USB-C) がAmazonタイムセールで13％オフ。Multi-Touch対応、USB-C充電、Macとの自動ペアリングが魅力で、Macユーザーにおすすめの1台。",
+      "img": "https://ascii.jp/img/2026/07/10/4498532/s/3d5ec09e05bb909b.jpg",
       "src": "ASCII.jp",
-      "cat": "AI実装",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "無料でAI向けのブラウザ自動化ができる「Browser4」",
+      "link": "https://gigazine.net/news/20260711-browser4/",
+      "date": "2026-07-11T12:00:00+09:00",
+      "dateLabel": "07/11 12:00",
+      "desc": "「Browser4」はターミナルからAIによるウェブブラウズ・自動化・スクレイピング・クロールといった処理を実現するCLIツールです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "3つの自己免疫疾患を抱える女性が免疫系の「リセット」治療で寛解状態に",
+      "link": "https://gigazine.net/news/20260711-car-t-therapy-remission/",
+      "date": "2026-07-11T08:00:00+09:00",
+      "dateLabel": "07/11 08:00",
+      "desc": "特定のターゲットを攻撃するように患者の細胞を改造する「CAR-T細胞療法」で、難治性の病気「自己免疫性溶血性貧血(AIHA)」を抱えていた患者が寛解したと科学者らが発表しました。この患者は毎日輸血を必要としていましたが、治療後は1年以上にわたり輸血不要の状態が続いているとのことです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "AIエージェントの8つの問題点！導入前に知っておきたい対策も解説",
+      "link": "https://ainow.ai/2026/07/11/278243/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae8%25e3%2581%25a4%25e3%2581%25ae%25e5%2595%258f%25e9%25a1%258c%25e7%2582%25b9%25ef%25bc%2581%25e5%25b0%258e%25e5%2585%25a5%25e5%2589%258d%25e3%2581%25ab%25e7%259f%25a5%25e3%2581%25a3%25e3%2581%25a6%25e3%2581%258a",
+      "date": "2026-07-11T03:24:31+09:00",
+      "dateLabel": "07/11 03:24",
+      "desc": "AIエージェントの導入を検討する中で、思わぬトラブルを見過ごしていないか不安に感じている方は少なくないでしょう。 AIエージェントは自律的にタスクを遂行できる分、誤情報の生成や情報漏洩、暴走といった問題点を抱えています。... The post AIエージェントの8つの問題点！導入前に知っておきたい対策も解説 first appeared on AI専門ニュ",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "無料で使えるCloudflare Accessで安全にローカルのAIを外部から使えるように設定してみた",
+      "link": "https://gigazine.net/news/20260710-cloudflare-tunnel-access/",
+      "date": "2026-07-10T23:15:00+09:00",
+      "dateLabel": "07/10 23:15",
+      "desc": "Cloudflare Tunnelを使うことで、ルーターのポート開放などの設定不要で、ローカルPC上で動いているサービスをCloudflare経由で公開できます。Tunnelを設定しただけの状態では誰でもアクセスできてしまうので、今回はCloudflare Tunnelで公開したURLに対して、Cloudflare Accessによる認証を追加してみることに",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
       "score": 26
     }
   ]
