@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-13T06:39:40.246892+09:00",
-  "generatedLabel": "2026/07/13 06:39",
+  "generatedAt": "2026-07-13T07:38:02.144647+09:00",
+  "generatedLabel": "2026/07/13 07:38",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 51,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 10
     },
     {
       "source": "PC Watch",
@@ -93,7 +93,18 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 50
+      "score": 44
+    },
+    {
+      "title": "LLMは何を考えているのか？ アンソロピックが見つけた「隠れた領域」",
+      "link": "https://ascii.jp/elem/000/004/418/4418872/?rss",
+      "date": "2026-07-13T06:55:48+09:00",
+      "dateLabel": "07/13 06:55",
+      "desc": "アンソロピックが、LLMの内部で何が起きているかを覗く新技術「J-レンズ」を開発した。Claude Opus 4.6の中に見つかった「J空間」には、モデルがこれから出力し得る単語が浮かび上がる。捏造を決めた瞬間には「パニック」「偽物」が繰り返し現れた。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "M365 CopilotにOpenAI最新モデル「GPT-5.6」追加 複雑な作業を「より効率的に処理」",
@@ -138,6 +149,17 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 36
+    },
+    {
+      "title": "AIはすでに、私たちの心を内部で再現しているのかもしれない",
+      "link": "https://ascii.jp/elem/000/004/418/4418869/?rss",
+      "date": "2026-07-13T07:00:00+09:00",
+      "dateLabel": "07/13 07:00",
+      "desc": "Anthropic Fable 5の高い創作・実装力はどこから来るのか。人間の心理を内部でシミュレートしている可能性と、Anthropicの「J空間」研究から読み解く。",
+      "img": "https://ascii.jp/img/2026/07/13/4499432/s/1f10e70dad56bb24.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "「Snapdragon X2」搭載で最強化したタブレット型PC＝マイクロソフト「Surface Pro 13」12 世代 実機レビュー",
@@ -258,28 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "「まるで人間」 OpenAIの新モデル「GPT-Live」のトーク力が話題 間を空けずに考えながら会話できる",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/10/news114.html",
-      "date": "2026-07-10T16:45:00+09:00",
-      "dateLabel": "07/10 16:45",
-      "desc": "OpenAIが提供を始めた音声会話向けモデル「GPT-Live」がXで話題だ。同社はこれまでも音声会話モデルを提供していたが、聞き取りと発話を同時に行う新アーキテクチャにより「会話が自然すぎる」などの声が上がっている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "NECが3年で100億円狙うAnthropic協業の初ソリューション、AIが販売戦略立案",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/10/news052.html",
-      "date": "2026-07-10T07:45:00+09:00",
-      "dateLabel": "07/10 07:45",
-      "desc": "NECは、Anthropicとの協業第1弾として、購買データからの商品企画や販促プラン作成を完全自動化する新サービスを開始した。専門人材なしで迅速な施策立案を可能にし、3年間で100億円の売上を目指す。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
