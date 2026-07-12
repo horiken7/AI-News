@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-12T16:59:19.890504+09:00",
-  "generatedLabel": "2026/07/12 16:59",
+  "generatedAt": "2026-07-12T18:51:29.556184+09:00",
+  "generatedLabel": "2026/07/12 18:51",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 50,
+  "candidates": 49,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 9
+      "items": 10
     },
     {
       "source": "CNET Japan",
@@ -129,6 +129,28 @@
       "score": 42
     },
     {
+      "title": "日本市場向けに46％小型化＆34％オフ！最新ルンバRoomba Plus 575 Comboが11万円台に 【Amazonプライムデー】",
+      "link": "https://ascii.jp/elem/000/004/418/4418613/?rss",
+      "date": "2026-07-12T18:00:00+09:00",
+      "dateLabel": "07/12 18:00",
+      "desc": "アイロボットの人気ロボット掃除機『ルンバ Plus 575 Combo』がAmazonで約3割引き！日本市場向けに46％の小型化した最新モデルが、自動ゴミ収集とモップの温水洗浄・乾燥機能付きで、快適な掃除体験を実現。",
+      "img": "https://ascii.jp/img/2026/05/29/4474678/s/fa3853af9fd3c9c5.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 34
+    },
+    {
+      "title": "AI「Claude」を使って開発ツールの「Bun」の53万行のZigコード全てをRustへ書き換え、Zig作者もブログで反応",
+      "link": "https://gigazine.net/news/20260712-bun-zig-rust/",
+      "date": "2026-07-12T17:00:00+09:00",
+      "dateLabel": "07/12 17:00",
+      "desc": "JavaScriptランタイム「Bun」の開発チームが、AIコーディング支援ツール「Claude Code」を活用して進めていた、BunのZigコードをRustへ書き換える全面的な移植作業が完了したと発表しました。約53万行のZigコードがRustへ移植されたことで、メモリ管理に起因する不具合の削減が期待されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "Surface Pro＋純正キーボードが19％オフ。公式ストア限定2点セット【プライムデー】",
       "link": "https://ascii.jp/elem/000/004/418/4418794/?rss",
       "date": "2026-07-12T14:30:00+09:00",
@@ -137,39 +159,6 @@
       "img": "https://ascii.jp/img/2026/07/11/4499085/s/c172d852db9a5e16.jpg",
       "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Ryzen AI 7×RTX 5060にヌルヌル240Hz液晶搭載「OMEN 16」がプライムデー特価！",
-      "link": "https://ascii.jp/elem/000/004/418/4418791/?rss",
-      "date": "2026-07-12T14:00:00+09:00",
-      "dateLabel": "07/12 14:00",
-      "desc": "HPのゲーミングノートPC「OMEN 16-ap（BM3P5PA-AAAA）」がAmazonプライムデーセール対象。参考価格299,800円のところ、17％オフの249,800円で販売中。Ryzen AI 7 350とGeForce RTX 5060 Laptop GPUに加え、最大240Hz対応の16型WQXGAディスプレイを備えたモデル。滑らかな映像表示",
-      "img": "https://ascii.jp/img/2026/07/11/4499078/s/6761a8a48f7182b9.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "ASUSの14型ノートPC『Vivobook 14 M1407KA』がAmazonプライムデーに登場！ AMD Ryzen AI 5 330搭載のCopilot+ PCで、Microsoft 365 Personal 24か月版も付属。159,800円で提供中です。",
-      "link": "https://ascii.jp/elem/000/004/418/4418657/?rss",
-      "date": "2026-07-12T13:30:00+09:00",
-      "dateLabel": "07/12 13:30",
-      "desc": "ASUSの14型ノートPC『Vivobook 14 M1407KA』がAmazonプライムデーに登場！ AMD Ryzen AI 5 330搭載のCopilot+ PCで、Microsoft 365 Personal 24か月版も付属。16％オフの159,800円で提供中です。",
-      "img": "https://ascii.jp/img/2026/06/09/4480437/s/1f29d18e16a63499.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "AI語学コーチ「KEN→RINGO」が大型アップデート ── 12人の相棒・名探偵ストーリー・月間ランキングで\"続く\"語学体験へ",
-      "link": "https://ascii.jp/elem/000/004/418/4418830/?rss",
-      "date": "2026-07-12T12:02:00+09:00",
-      "dateLabel": "07/12 12:02",
-      "desc": "AI語学コーチ「KEN→RINGO」が大型アップデート ── 12人の相棒・名探偵ストーリー・月間ランキングで\"続く\"語学体験へ",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -184,6 +173,17 @@
       "score": 32
     },
     {
+      "title": "ゴアテックスのスニーカーが1万円以下で欲しいならコレだ！ アディダス「TERREX EASTRAIL GTX」セール中",
+      "link": "https://ascii.jp/elem/000/004/418/4418847/?rss",
+      "date": "2026-07-12T18:00:00+09:00",
+      "dateLabel": "07/12 18:00",
+      "desc": "adidasのTERREX EASTRAIL GTXは、防水透湿のGORE-TEXと高いグリップ力、軽量設計を備えたトレッキングシューズ。天候を問わず快適に履け、登山から街歩きまで幅広く活躍します。",
+      "img": "https://ascii.jp/img/2026/04/08/4448550/s/14db7137b4458933.png",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
       "title": "AppleがOpenAIを企業秘密侵害で提訴",
       "link": "https://gigazine.net/news/20260712-apple-sues-openai/",
       "date": "2026-07-12T16:00:00+09:00",
@@ -192,17 +192,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "iPhoneユーザーにとっての最強イヤホン「AirPods Pro 3」が貴重なセール",
-      "link": "https://ascii.jp/elem/000/004/418/4418833/?rss",
-      "date": "2026-07-12T13:50:00+09:00",
-      "dateLabel": "07/12 13:50",
-      "desc": "完全ワイヤレスイヤホンは数あれど、iPhoneユーザーにとって最強とも言える存在が「AirPods Pro 3」でしょう。そんなイヤホンがプライムデーで割引販売中！",
-      "img": "https://ascii.jp/img/2026/07/12/4499258/s/a370aeb04e286610.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 26
     },
     {
@@ -281,6 +270,17 @@
       "src": "Publickey",
       "cat": "LLM/モデル",
       "score": 26
+    },
+    {
+      "title": "Visual Studio Code、従量課金制になったGitHub Copilotの使用料を表示可能に（訂正あり）",
+      "link": "https://www.publickey1.jp/blog/26/visual_studio_codegithub_copilot.html",
+      "date": "2026-07-08T00:55:48+09:00",
+      "dateLabel": "07/08 00:55",
+      "desc": "マイクロソフトはVisual Studio Codeの新機能として、GitHub Copilotで消費した費用を表示できるようにしました。 GitHub Copilotは今年（2026年）6月から、生成AIを利用したチャットやAIエージェン...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 20
     }
   ]
 }
