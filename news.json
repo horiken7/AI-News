@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-12T08:43:28.694542+09:00",
-  "generatedLabel": "2026/07/12 08:43",
+  "generatedAt": "2026-07-12T10:46:17.829851+09:00",
+  "generatedLabel": "2026/07/12 10:46",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 51,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 11
+      "items": 10
     },
     {
       "source": "CNET Japan",
@@ -83,6 +83,28 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 50
+    },
+    {
+      "title": "「設置するだけでAI検索に引用される」AEO対策SaaS「PUENTE AEO Booster」を正式リリース ── 登録不要の無料AI可読性診断も公開",
+      "link": "https://ascii.jp/elem/000/004/418/4418814/?rss",
+      "date": "2026-07-11T20:04:21+09:00",
+      "dateLabel": "07/11 20:04",
+      "desc": "「設置するだけでAI検索に引用される」AEO対策SaaS「PUENTE AEO Booster」を正式リリース ── 登録不要の無料AI可読性診断も公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "株式会社Mavericks、動画生成AI「NoLang」のAPIに多言語変換機能を追加。生成済み動画のナレーションと字幕を最大34言語へ一括変換し、海外向け動画制作・更新業務を自動化、海外展開を支援。",
+      "link": "https://ascii.jp/elem/000/004/418/4418815/?rss",
+      "date": "2026-07-11T19:31:09+09:00",
+      "dateLabel": "07/11 19:31",
+      "desc": "株式会社Mavericks、動画生成AI「NoLang」のAPIに多言語変換機能を追加。生成済み動画のナレーションと字幕を最大34言語へ一括変換し、海外向け動画制作・更新業務を自動化、海外展開を支援。",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
     },
     {
       "title": "M365 CopilotにOpenAI最新モデル「GPT-5.6」追加 複雑な作業を「より効率的に処理」",
@@ -258,28 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "OpenAIがAI駆動ブラウザ「ChatGPT Atlas」の提供を終了",
-      "link": "https://gigazine.net/news/20260710-openai-chatgpt-atlas-end/",
-      "date": "2026-07-10T12:20:00+09:00",
-      "dateLabel": "07/10 12:20",
-      "desc": "OpenAIが開発するAIを中核に据えたウェブブラウザが「ChatGPT Atlas」です。OpenAIのプロダクトスタッフでChatGPT Atlasの開発にも携わるジェームズ・サン氏はX(旧Twitter)で、ChatGPT Atlasの提供終了を公式にアナウンスしました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "Micronがアメリカ国内の投資計画を40兆円規模に拡大＆前倒し",
-      "link": "https://gigazine.net/news/20260710-micron-investment/",
-      "date": "2026-07-10T12:05:00+09:00",
-      "dateLabel": "07/10 12:05",
-      "desc": "半導体大手のMicronがアメリカでの投資計画を前倒しし、2035年までに2500億ドル(約40兆円)超規模の投資を行う方針を表明しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
       "score": 26
     }
   ]
