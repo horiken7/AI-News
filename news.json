@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-13T07:38:02.144647+09:00",
-  "generatedLabel": "2026/07/13 07:38",
+  "generatedAt": "2026-07-13T08:42:52.394240+09:00",
+  "generatedLabel": "2026/07/13 08:42",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 10
+      "items": 9
     },
     {
       "source": "PC Watch",
@@ -96,6 +96,17 @@
       "score": 44
     },
     {
+      "title": "Anthropic、「Fable 5」の無償アクセスと「Claude Code」利用上限50％増を7月19日まで延長",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/13/2000000185/",
+      "date": "2026-07-13T07:25:21+09:00",
+      "dateLabel": "07/13 07:25",
+      "desc": "Anthropicは、「Claude Fable 5」を有料プランで追加費用なく使えるキャンペーンと、AIコーディング支援ツール「Claude Code」の週間利用上限を50％引き上げる措置を、いずれも米太平洋時間の7月19日まで延長すると発表した。Fable 5の無償アクセスは7月12日で終了する予定だったが、期限直前に再び1週間延長された形だ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "LLMは何を考えているのか？ アンソロピックが見つけた「隠れた領域」",
       "link": "https://ascii.jp/elem/000/004/418/4418872/?rss",
       "date": "2026-07-13T06:55:48+09:00",
@@ -151,6 +162,17 @@
       "score": 36
     },
     {
+      "title": "IT技術者の約半数が「AIの進化で転職を意識」／これから起きるのは「SaaSの死ではなく変容」／バックアップ市場は堅調に成長、ほか",
+      "link": "https://ascii.jp/elem/000/004/418/4418747/?rss",
+      "date": "2026-07-13T08:00:00+09:00",
+      "dateLabel": "07/13 08:00",
+      "desc": "今回（2026年7月4日～7月10日）は、エージェント型AI（エージェンティックAI）が引き起こすSaaS市場の再編、AIの進化に影響を受けるITエンジニアの転職／仕事意識の実情、国内バックアップ市場の堅調な成長の背景、10年間ですそ野を広げたコワーキングスペースの利用者像についてのデータを紹介します。",
+      "img": "https://ascii.jp/img/2026/07/11/4499050/s/42f072c916ea900a.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
       "title": "AIはすでに、私たちの心を内部で再現しているのかもしれない",
       "link": "https://ascii.jp/elem/000/004/418/4418869/?rss",
       "date": "2026-07-13T07:00:00+09:00",
@@ -195,17 +217,6 @@
       "score": 34
     },
     {
-      "title": "日本市場向けに46％小型化＆34％オフ！最新ルンバRoomba Plus 575 Comboが11万円台に 【Amazonプライムデー】",
-      "link": "https://ascii.jp/elem/000/004/418/4418613/?rss",
-      "date": "2026-07-12T18:00:00+09:00",
-      "dateLabel": "07/12 18:00",
-      "desc": "アイロボットの人気ロボット掃除機『ルンバ Plus 575 Combo』がAmazonで約3割引き！日本市場向けに46％の小型化した最新モデルが、自動ゴミ収集とモップの温水洗浄・乾燥機能付きで、快適な掃除体験を実現。",
-      "img": "https://ascii.jp/img/2026/05/29/4474678/s/fa3853af9fd3c9c5.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 34
-    },
-    {
       "title": "AI「Claude」を使って開発ツールの「Bun」の53万行のZigコード全てをRustへ書き換え、Zig作者もブログで反応",
       "link": "https://gigazine.net/news/20260712-bun-zig-rust/",
       "date": "2026-07-12T17:00:00+09:00",
@@ -247,17 +258,6 @@
       "img": "https://ascii.jp/img/2026/07/12/4499246/s/2adc8b813b6ce1f7.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "ゴアテックスのスニーカーが1万円以下で欲しいならコレだ！ アディダス「TERREX EASTRAIL GTX」セール中",
-      "link": "https://ascii.jp/elem/000/004/418/4418847/?rss",
-      "date": "2026-07-12T18:00:00+09:00",
-      "dateLabel": "07/12 18:00",
-      "desc": "adidasのTERREX EASTRAIL GTXは、防水透湿のGORE-TEXと高いグリップ力、軽量設計を備えたトレッキングシューズ。天候を問わず快適に履け、登山から街歩きまで幅広く活躍します。",
-      "img": "https://ascii.jp/img/2026/04/08/4448550/s/14db7137b4458933.png",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
       "score": 26
     },
     {
