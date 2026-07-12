@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-12T20:04:46.604267+09:00",
-  "generatedLabel": "2026/07/12 20:04",
+  "generatedAt": "2026-07-12T21:55:55.119235+09:00",
+  "generatedLabel": "2026/07/12 21:55",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 49,
+  "candidates": 51,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 9
+      "items": 10
     },
     {
       "source": "CNET Japan",
@@ -62,6 +62,17 @@
     }
   ],
   "articles": [
+    {
+      "title": "AIの思考っぽい「J空間」を可視化できる「Jレンズ」を触ってみた",
+      "link": "https://gigazine.net/news/20260712-ai-j-space-jacobian-lens/",
+      "date": "2026-07-12T20:48:00+09:00",
+      "dateLabel": "07/12 20:48",
+      "desc": "AIモデルの性能は急速に向上し続けていますが、実はAIが出力を決定するまでの処理過程は完全には解明されていません。そんな中、Claudeの開発元であるAnthropicがAIの出力決定に関連する「J-space(J空間)」という概念を提唱し、J空間を観察できる「J-lens(Jレンズ)」のデモアプリも公開しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
     {
       "title": "OpenAI「GPT-5.6」一般公開 最上位モデルは「コスト半分で一部Fable 5超え」うたう",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000183/",
@@ -173,6 +184,17 @@
       "score": 32
     },
     {
+      "title": "iPhone Air 256GBが139,800円に！、ほぼラストチャンスの予感／Amazon",
+      "link": "https://ascii.jp/elem/000/004/418/4418857/?rss",
+      "date": "2026-07-12T21:45:00+09:00",
+      "dateLabel": "07/12 21:45",
+      "desc": "Appleの薄型スマートフォン、iPhone Air 256GBがAmazonでセール価格である。13万円台まで下がり、ほぼラストチャンス級の買い時だ。",
+      "img": "https://ascii.jp/img/2026/07/12/4499345/s/ab21ab77ea757ee5.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "冷却ファン搭載ゲーミングスマホが90,060円。REDMAGIC 11 Airがプライムデーセール中",
       "link": "https://ascii.jp/elem/000/004/418/4418820/?rss",
       "date": "2026-07-12T20:00:00+09:00",
@@ -257,28 +279,6 @@
       "desc": "7440億パラメーターを備えた大規模言語モデル「GLM-5.2」をメモリ25GBの一般向けPCで動作させる推論エンジン「Colibrì」が公開されました。VRAMやRAMにモデル全体を読み込むのではなく、必要になったデータだけをSSDから随時読み出す仕組みとなっています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "NECが3年で100億円狙うAnthropic協業の初ソリューション、AIが販売戦略立案",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/10/news052.html",
-      "date": "2026-07-10T07:45:00+09:00",
-      "dateLabel": "07/10 07:45",
-      "desc": "NECは、Anthropicとの協業第1弾として、購買データからの商品企画や販促プラン作成を完全自動化する新サービスを開始した。専門人材なしで迅速な施策立案を可能にし、3年間で100億円の売上を目指す。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "JavaScriptランタイムのBun、Claude Fable 5を11日間稼働させてZigからRustへの移植を実現。Claudeをどう使ったのか？",
-      "link": "https://www.publickey1.jp/blog/26/javascriptbunclaude_fable_511zigrustclaude.html",
-      "date": "2026-07-10T00:47:05+09:00",
-      "dateLabel": "07/10 00:47",
-      "desc": "JavaScriptランタイム「Bun」の作者であるJarred Sumner氏は、7月8日付けで公開したBun公式ブログの記事「Rewriting Bun in Rust | Bun Blog」で、約53万5000行のZig言語のコードを...",
-      "img": "",
-      "src": "Publickey",
       "cat": "LLM/モデル",
       "score": 26
     }
