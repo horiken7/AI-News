@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-12T21:55:55.119235+09:00",
-  "generatedLabel": "2026/07/12 21:55",
+  "generatedAt": "2026-07-12T23:23:18.384827+09:00",
+  "generatedLabel": "2026/07/12 23:23",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 51,
+  "candidates": 50,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 9
     },
     {
       "source": "CNET Japan",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 6
+      "items": 5
     },
     {
       "source": "AINOW",
@@ -173,15 +173,15 @@
       "score": 34
     },
     {
-      "title": "クアルコムがPythonライクな新言語「Mojo」開発元のModular社買収を発表。AIデータセンター市場へ本格参入",
-      "link": "https://www.publickey1.jp/blog/26/pythonmojomodularai.html",
-      "date": "2026-06-30T00:33:20+09:00",
-      "dateLabel": "06/30 00:33",
-      "desc": "スマートフォン用のSoC（System-on-a-Chip）や各種通信機器向けの半導体事業などで知られるクアルコムテクノロジーズ社（以下、クアルコム）は、AI処理の高速化を目指すPythonライクな新言語「Mojo」の開発元であるModul...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "半導体/GPU",
-      "score": 32
+      "title": "家中の状況をまとめて見守るSwitchBot AIハブ、セール価格でスマートホーム環境を強化【Amazonプライムデー】",
+      "link": "https://ascii.jp/elem/000/004/418/4418602/?rss",
+      "date": "2026-07-12T23:00:00+09:00",
+      "dateLabel": "07/12 23:00",
+      "desc": "SwitchBotの次世代中枢「AIハブ」がプライムデーセールで値下げ。過去価格39,980円から15%オフの33,980円に。カメラ連携で出来事の把握や映像検索、ローカル保存などをまとめて管理。",
+      "img": "https://ascii.jp/img/2025/12/11/4386089/s/602c6478d8c55d9e.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     },
     {
       "title": "iPhone Air 256GBが139,800円に！、ほぼラストチャンスの予感／Amazon",
