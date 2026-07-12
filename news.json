@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-13T00:50:24.219878+09:00",
-  "generatedLabel": "2026/07/13 00:50",
+  "generatedAt": "2026-07-13T01:45:34.953996+09:00",
+  "generatedLabel": "2026/07/13 01:45",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 51,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -138,6 +138,17 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 42
+    },
+    {
+      "title": "「Snapdragon X2」搭載で最強化したタブレット型PC＝マイクロソフト「Surface Pro 13」12 世代 実機レビュー",
+      "link": "https://ascii.jp/limit/group/ida/elem/000/004/418/4418527/?rss",
+      "date": "2026-07-13T01:00:00+09:00",
+      "dateLabel": "07/13 01:00",
+      "desc": "タブレット型Windows PCの代表格「Surface Proシリーズ」の新モデルを使ってみました",
+      "img": "https://ascii.jp/img/2026/07/10/4498578/s/f5b76d2e08e4a4a8.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "【本日最終】Core i7-14700HX搭載の実力派！RTX 5060と32GBメモリのゲーミングノートが38%引きの208,800円／Lenovo LOQ 15IRX10がプライムデーでお得に！",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "NECが3年で100億円狙うAnthropic協業の初ソリューション、AIが販売戦略立案",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/10/news052.html",
-      "date": "2026-07-10T07:45:00+09:00",
-      "dateLabel": "07/10 07:45",
-      "desc": "NECは、Anthropicとの協業第1弾として、購買データからの商品企画や販促プラン作成を完全自動化する新サービスを開始した。専門人材なしで迅速な施策立案を可能にし、3年間で100億円の売上を目指す。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
