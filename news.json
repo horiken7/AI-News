@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-13T05:02:02.273431+09:00",
-  "generatedLabel": "2026/07/13 05:02",
+  "generatedAt": "2026-07-13T06:39:40.246892+09:00",
+  "generatedLabel": "2026/07/13 06:39",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 52,
+  "candidates": 51,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 9
+      "items": 8
     },
     {
       "source": "CNET Japan",
@@ -272,14 +272,14 @@
       "score": 26
     },
     {
-      "title": "7440億パラメーターの巨大AI「GLM-5.2」をメモリ25GBの普通のPCで動かす推論エンジン「Colibrì」が登場",
-      "link": "https://gigazine.net/news/20260710-colibri-glm/",
-      "date": "2026-07-10T16:20:00+09:00",
-      "dateLabel": "07/10 16:20",
-      "desc": "7440億パラメーターを備えた大規模言語モデル「GLM-5.2」をメモリ25GBの一般向けPCで動作させる推論エンジン「Colibrì」が公開されました。VRAMやRAMにモデル全体を読み込むのではなく、必要になったデータだけをSSDから随時読み出す仕組みとなっています。 続きを読む...",
+      "title": "NECが3年で100億円狙うAnthropic協業の初ソリューション、AIが販売戦略立案",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/10/news052.html",
+      "date": "2026-07-10T07:45:00+09:00",
+      "dateLabel": "07/10 07:45",
+      "desc": "NECは、Anthropicとの協業第1弾として、購買データからの商品企画や販促プラン作成を完全自動化する新サービスを開始した。専門人材なしで迅速な施策立案を可能にし、3年間で100億円の売上を目指す。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
