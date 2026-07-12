@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-12T14:17:20.262446+09:00",
-  "generatedLabel": "2026/07/12 14:17",
+  "generatedAt": "2026-07-12T16:59:19.890504+09:00",
+  "generatedLabel": "2026/07/12 16:59",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 50,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -85,17 +85,6 @@
       "score": 50
     },
     {
-      "title": "ASUSの14型ゲーミングノート『TUF Gaming A14 FA401UH』は、軽量ボディに高性能RTX 5050 GPUとRyzen 7 CPUを搭載。165Hz対応ディスプレイでゲームも快適。",
-      "link": "https://ascii.jp/elem/000/004/417/4417942/?rss",
-      "date": "2026-07-12T11:40:00+09:00",
-      "dateLabel": "07/12 11:40",
-      "desc": "ASUSの14型ゲーミングノートPC「TUF Gaming A14（FA401UH-R7R505016G）」がAmazonタイムセール対象。参考価格308,909円のところ、19％オフの251,673円で販売中。約1.46kgの軽量ボディとGeForce RTX 5050 Laptop GPUを備えるモデルで、165Hz対応ディスプレーも搭載。持ち運びやすさ",
-      "img": "https://ascii.jp/img/2026/06/17/4484857/s/e8ba1519ea9f7255.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
       "title": "M365 CopilotにOpenAI最新モデル「GPT-5.6」追加 複雑な作業を「より効率的に処理」",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000184/",
       "date": "2026-07-10T16:16:10+09:00",
@@ -140,6 +129,17 @@
       "score": 42
     },
     {
+      "title": "Surface Pro＋純正キーボードが19％オフ。公式ストア限定2点セット【プライムデー】",
+      "link": "https://ascii.jp/elem/000/004/418/4418794/?rss",
+      "date": "2026-07-12T14:30:00+09:00",
+      "dateLabel": "07/12 14:30",
+      "desc": "Microsoftの「Surface Pro（第11世代）＋Surface Pro キーボード 2点セット」がAmazonプライムデーセール対象。過去価格248,000円のところ、19％オフの201,438円で販売中。Snapdragon X Plusや16GBメモリ、512GB SSDを搭載したCopilot+ PCで、純正キーボードが付属するMicros",
+      "img": "https://ascii.jp/img/2026/07/11/4499085/s/c172d852db9a5e16.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
       "title": "Ryzen AI 7×RTX 5060にヌルヌル240Hz液晶搭載「OMEN 16」がプライムデー特価！",
       "link": "https://ascii.jp/elem/000/004/418/4418791/?rss",
       "date": "2026-07-12T14:00:00+09:00",
@@ -173,28 +173,6 @@
       "score": 34
     },
     {
-      "title": "【8月30日10:30～開催】「広告を出しても売れない企業」が急増――AI・SNS時代に勝つ“脳内シェア獲得”戦略を無料ウェビナー公開！",
-      "link": "https://ascii.jp/elem/000/004/418/4418823/?rss",
-      "date": "2026-07-12T10:10:00+09:00",
-      "dateLabel": "07/12 10:10",
-      "desc": "【8月30日10:30～開催】「広告を出しても売れない企業」が急増――AI・SNS時代に勝つ“脳内シェア獲得”戦略を無料ウェビナー公開！",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "Googleが「LiteRT.js」をリリース、ブラウザ上のAI推論を既存ランタイム比で最大3倍高速に",
-      "link": "https://gigazine.net/news/20260710-google-litert-js/",
-      "date": "2026-07-10T12:32:00+09:00",
-      "dateLabel": "07/10 12:32",
-      "desc": "Googleが2026年7月9日、ウェブブラウザ内でAIモデルを高速に実行するためのJavaScript向けランタイム「LiteRT.js」を発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "クアルコムがPythonライクな新言語「Mojo」開発元のModular社買収を発表。AIデータセンター市場へ本格参入",
       "link": "https://www.publickey1.jp/blog/26/pythonmojomodularai.html",
       "date": "2026-06-30T00:33:20+09:00",
@@ -206,34 +184,23 @@
       "score": 32
     },
     {
+      "title": "AppleがOpenAIを企業秘密侵害で提訴",
+      "link": "https://gigazine.net/news/20260712-apple-sues-openai/",
+      "date": "2026-07-12T16:00:00+09:00",
+      "dateLabel": "07/12 16:00",
+      "desc": "Appleが「ハードウェア開発に必要な情報を知的財産を盗まれた」として、OpenAIとOpenAIのハードウェア最高責任者を務めるタン・タン氏、同じくOpenAIの従業員であるチャン・リュウ氏を提訴しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
       "title": "iPhoneユーザーにとっての最強イヤホン「AirPods Pro 3」が貴重なセール",
       "link": "https://ascii.jp/elem/000/004/418/4418833/?rss",
       "date": "2026-07-12T13:50:00+09:00",
       "dateLabel": "07/12 13:50",
       "desc": "完全ワイヤレスイヤホンは数あれど、iPhoneユーザーにとって最強とも言える存在が「AirPods Pro 3」でしょう。そんなイヤホンがプライムデーで割引販売中！",
       "img": "https://ascii.jp/img/2026/07/12/4499258/s/a370aeb04e286610.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "画面がないのはメリット？ デメリット？ 「Google Fitbit Air」を使った",
-      "link": "https://ascii.jp/elem/000/004/418/4418809/?rss",
-      "date": "2026-07-12T12:00:00+09:00",
-      "dateLabel": "07/12 12:00",
-      "desc": "グーグルのスマートバンド「Google Fitbit Air」を連続レビュー。Fitbit Airは画面のないスマートバンドで、着けているだけで身体の状態がモニタリングされ、その結果はAndroid／iOS用アプリで確認できるという製品です。",
-      "img": "https://ascii.jp/img/2026/07/12/4499203/s/5b5ea23b36bf5a52.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "短期で多数の成果創出へ！「経営人事AIプロフェッショナル講座」講座の成果や受講者の声を大幅アップデート",
-      "link": "https://ascii.jp/elem/000/004/418/4418826/?rss",
-      "date": "2026-07-12T07:30:00+09:00",
-      "dateLabel": "07/12 07:30",
-      "desc": "短期で多数の成果創出へ！「経営人事AIプロフェッショナル講座」講座の成果や受講者の声を大幅アップデート",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
@@ -279,6 +246,39 @@
       "desc": "OpenAIが提供を始めた音声会話向けモデル「GPT-Live」がXで話題だ。同社はこれまでも音声会話モデルを提供していたが、聞き取りと発話を同時に行う新アーキテクチャにより「会話が自然すぎる」などの声が上がっている。",
       "img": "",
       "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "7440億パラメーターの巨大AI「GLM-5.2」をメモリ25GBの普通のPCで動かす推論エンジン「Colibrì」が登場",
+      "link": "https://gigazine.net/news/20260710-colibri-glm/",
+      "date": "2026-07-10T16:20:00+09:00",
+      "dateLabel": "07/10 16:20",
+      "desc": "7440億パラメーターを備えた大規模言語モデル「GLM-5.2」をメモリ25GBの一般向けPCで動作させる推論エンジン「Colibrì」が公開されました。VRAMやRAMにモデル全体を読み込むのではなく、必要になったデータだけをSSDから随時読み出す仕組みとなっています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "NECが3年で100億円狙うAnthropic協業の初ソリューション、AIが販売戦略立案",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/10/news052.html",
+      "date": "2026-07-10T07:45:00+09:00",
+      "dateLabel": "07/10 07:45",
+      "desc": "NECは、Anthropicとの協業第1弾として、購買データからの商品企画や販促プラン作成を完全自動化する新サービスを開始した。専門人材なしで迅速な施策立案を可能にし、3年間で100億円の売上を目指す。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "JavaScriptランタイムのBun、Claude Fable 5を11日間稼働させてZigからRustへの移植を実現。Claudeをどう使ったのか？",
+      "link": "https://www.publickey1.jp/blog/26/javascriptbunclaude_fable_511zigrustclaude.html",
+      "date": "2026-07-10T00:47:05+09:00",
+      "dateLabel": "07/10 00:47",
+      "desc": "JavaScriptランタイム「Bun」の作者であるJarred Sumner氏は、7月8日付けで公開したBun公式ブログの記事「Rewriting Bun in Rust | Bun Blog」で、約53万5000行のZig言語のコードを...",
+      "img": "",
+      "src": "Publickey",
       "cat": "LLM/モデル",
       "score": 26
     }
