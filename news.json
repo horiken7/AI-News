@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-13T08:42:52.394240+09:00",
-  "generatedLabel": "2026/07/13 08:42",
+  "generatedAt": "2026-07-13T10:48:44.272146+09:00",
+  "generatedLabel": "2026/07/13 10:48",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 52,
+  "candidates": 50,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 9
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -96,6 +96,17 @@
       "score": 44
     },
     {
+      "title": "見た目も性能も進化！ ASUSのLCD搭載ROG水冷クーラーが登場",
+      "link": "https://ascii.jp/elem/000/004/418/4418876/?rss",
+      "date": "2026-07-13T09:00:00+09:00",
+      "dateLabel": "07/13 09:00",
+      "desc": "ASUSが360mmラジエーター採用のCPU水冷クーラー「ROG STRIX LC IV 360 ARGB LCD」を発売。5.08型LCDによるシステム情報表示やAIO Q-CONNECTOR対応で、配線の簡素化と高い冷却性能を実現した最新モデルを紹介します。",
+      "img": "https://ascii.jp/img/2026/07/13/4499449/s/d3e24538b0757038.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 42
+    },
+    {
       "title": "Anthropic、「Fable 5」の無償アクセスと「Claude Code」利用上限50％増を7月19日まで延長",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/13/2000000185/",
       "date": "2026-07-13T07:25:21+09:00",
@@ -103,17 +114,6 @@
       "desc": "Anthropicは、「Claude Fable 5」を有料プランで追加費用なく使えるキャンペーンと、AIコーディング支援ツール「Claude Code」の週間利用上限を50％引き上げる措置を、いずれも米太平洋時間の7月19日まで延長すると発表した。Fable 5の無償アクセスは7月12日で終了する予定だったが、期限直前に再び1週間延長された形だ。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "LLMは何を考えているのか？ アンソロピックが見つけた「隠れた領域」",
-      "link": "https://ascii.jp/elem/000/004/418/4418872/?rss",
-      "date": "2026-07-13T06:55:48+09:00",
-      "dateLabel": "07/13 06:55",
-      "desc": "アンソロピックが、LLMの内部で何が起きているかを覗く新技術「J-レンズ」を開発した。Claude Opus 4.6の中に見つかった「J空間」には、モデルがこれから出力し得る単語が浮かび上がる。捏造を決めた瞬間には「パニック」「偽物」が繰り返し現れた。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
       "cat": "LLM/モデル",
       "score": 42
     },
@@ -148,18 +148,29 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 42
+      "score": 36
     },
     {
-      "title": "デスクトップ版ChatGPT大幅刷新 AIエージェント「Codex」統合、「ChatGPT Work」に",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000178/",
-      "date": "2026-07-10T04:36:50+09:00",
-      "dateLabel": "07/10 04:36",
-      "desc": "米OpenAIが、チャットAIサービス「ChatGPT」とAIコーディングエージェント「Codex」を統合した「ChatGPT Work」を発表した。「GPT-5.6」シリーズを搭載する。最終成果物を指定するだけで、あいまいな状況にも適応しながら最小限の指示で洗練されたアウトプットを生成できるという。Webアプリ、スマートフォンアプリ、デスクトップアプリの3",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 36
+      "title": "業務に直結するAI活用法を学べる買い切り型講座！「AI業務活用コース」をデイトラが提供開始～AI基礎からデザイン・マーケティング・バックオフィス業務まで学べる実践型講座～",
+      "link": "https://ascii.jp/elem/000/004/418/4418918/?rss",
+      "date": "2026-07-13T08:00:00+09:00",
+      "dateLabel": "07/13 08:00",
+      "desc": "業務に直結するAI活用法を学べる買い切り型講座！「AI業務活用コース」をデイトラが提供開始～AI基礎からデザイン・マーケティング・バックオフィス業務まで学べる実践型講座～",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "AI時代の新経営理論「Future Value Theory(未来価値理論)」を発表 ― 理論を体系化した全10冊を日本語・英語で世界同時出版",
+      "link": "https://ascii.jp/elem/000/004/418/4418914/?rss",
+      "date": "2026-07-13T08:00:00+09:00",
+      "dateLabel": "07/13 08:00",
+      "desc": "AI時代の新経営理論「Future Value Theory(未来価値理論)」を発表 ― 理論を体系化した全10冊を日本語・英語で世界同時出版",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "IT技術者の約半数が「AIの進化で転職を意識」／これから起きるのは「SaaSの死ではなく変容」／バックアップ市場は堅調に成長、ほか",
@@ -170,50 +181,6 @@
       "img": "https://ascii.jp/img/2026/07/11/4499050/s/42f072c916ea900a.jpg",
       "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "AIはすでに、私たちの心を内部で再現しているのかもしれない",
-      "link": "https://ascii.jp/elem/000/004/418/4418869/?rss",
-      "date": "2026-07-13T07:00:00+09:00",
-      "dateLabel": "07/13 07:00",
-      "desc": "Anthropic Fable 5の高い創作・実装力はどこから来るのか。人間の心理を内部でシミュレートしている可能性と、Anthropicの「J空間」研究から読み解く。",
-      "img": "https://ascii.jp/img/2026/07/13/4499432/s/1f10e70dad56bb24.png",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "「Snapdragon X2」搭載で最強化したタブレット型PC＝マイクロソフト「Surface Pro 13」12 世代 実機レビュー",
-      "link": "https://ascii.jp/limit/group/ida/elem/000/004/418/4418527/?rss",
-      "date": "2026-07-13T01:00:00+09:00",
-      "dateLabel": "07/13 01:00",
-      "desc": "タブレット型Windows PCの代表格「Surface Proシリーズ」の新モデルを使ってみました",
-      "img": "https://ascii.jp/img/2026/07/10/4498578/s/f5b76d2e08e4a4a8.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "【本日最終】Core i7-14700HX搭載の実力派！RTX 5060と32GBメモリのゲーミングノートが38%引きの208,800円／Lenovo LOQ 15IRX10がプライムデーでお得に！",
-      "link": "https://ascii.jp/elem/000/004/418/4418867/?rss",
-      "date": "2026-07-13T00:10:00+09:00",
-      "dateLabel": "07/13 00:10",
-      "desc": "Amazonプライムデー最終日の本日、Lenovo「LOQ 15IRX10」が208,800円で販売中である。参考価格334,799円から38％オフの注目モデルだ。GeForce RTX 5060 Laptop GPUとCore i7-14700HX、32GBメモリを搭載。20万円前後でワンランク上の構成を狙うなら、見逃せない1台だ。",
-      "img": "https://ascii.jp/img/2026/07/08/4496714/s/3fd1ff64b37f8aae.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "RTX 5070搭載ノートが29％オフ。Amazon限定版「TUF Gaming A16」プライムデーセール中",
-      "link": "https://ascii.jp/elem/000/004/418/4418817/?rss",
-      "date": "2026-07-12T19:00:00+09:00",
-      "dateLabel": "07/12 19:00",
-      "desc": "ASUSのゲーミングノートPC「TUF Gaming A16（FA608UP-R7R507016GA）」がAmazonプライムデーセール対象。参考価格349,800円のところ、29％オフの249,800円で販売中。Amazon.co.jp限定モデルで、GeForce RTX 5070 Laptop GPUやRyzen 7 260、16GBメモリ、512GB ",
-      "img": "https://ascii.jp/img/2026/07/12/4499229/s/3c5f9e8104ec1449.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -228,34 +195,34 @@
       "score": 34
     },
     {
-      "title": "家中の状況をまとめて見守るSwitchBot AIハブ、セール価格でスマートホーム環境を強化【Amazonプライムデー】",
-      "link": "https://ascii.jp/elem/000/004/418/4418602/?rss",
-      "date": "2026-07-12T23:00:00+09:00",
-      "dateLabel": "07/12 23:00",
-      "desc": "SwitchBotの次世代中枢「AIハブ」がプライムデーセールで値下げ。過去価格39,980円から15%オフの33,980円に。カメラ連携で出来事の把握や映像検索、ローカル保存などをまとめて管理。",
-      "img": "https://ascii.jp/img/2025/12/11/4386089/s/602c6478d8c55d9e.jpg",
+      "title": "顧客企業のビジネスを動かす「基幹系AI」を実現する 日本オラクルの2027年度戦略",
+      "link": "https://ascii.jp/elem/000/004/418/4418868/?rss",
+      "date": "2026-07-13T09:00:00+09:00",
+      "dateLabel": "07/13 09:00",
+      "desc": "日本オラクルが2027会計年度（FY27）の事業戦略説明会を開催した。社長の三澤智光氏は、日本でまだ多くがオンプレミス環境に残るミッションクリティカルシステムの、クラウドリフトを急ぐ必要があると繰り返し強調した。",
+      "img": "https://ascii.jp/img/2026/07/13/4499423/s/045a450ef043fc37.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "iPhone Air 256GBが139,800円に！、ほぼラストチャンスの予感／Amazon",
-      "link": "https://ascii.jp/elem/000/004/418/4418857/?rss",
-      "date": "2026-07-12T21:45:00+09:00",
-      "dateLabel": "07/12 21:45",
-      "desc": "Appleの薄型スマートフォン、iPhone Air 256GBがAmazonでセール価格である。13万円台まで下がり、ほぼラストチャンス級の買い時だ。",
-      "img": "https://ascii.jp/img/2026/07/12/4499345/s/ab21ab77ea757ee5.jpg",
+      "title": "【特許権利化】「なりすまし」を特許技術で防御―日本初（※1）。「AIオーケストレーション」が自らトラストアンカーとなり「VC」を発行。「鑑定証明システム（R）」を通過した取引にのみ「認証」を与える特許",
+      "link": "https://ascii.jp/elem/000/004/418/4418912/?rss",
+      "date": "2026-07-13T08:00:00+09:00",
+      "dateLabel": "07/13 08:00",
+      "desc": "【特許権利化】「なりすまし」を特許技術で防御―日本初（※1）。「AIオーケストレーション」が自らトラストアンカーとなり「VC」を発行。「鑑定証明システム（R）」を通過した取引にのみ「認証」を与える特許",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "冷却ファン搭載ゲーミングスマホが90,060円。REDMAGIC 11 Airがプライムデーセール中",
-      "link": "https://ascii.jp/elem/000/004/418/4418820/?rss",
-      "date": "2026-07-12T20:00:00+09:00",
-      "dateLabel": "07/12 20:00",
-      "desc": "REDMAGICのゲーミングスマートフォン「REDMAGIC 11 Air」がAmazonプライムデーセール対象。参考価格94,800円のところ、5％オフの90,060円で販売中。Airシリーズ初の高速冷却ファンに加え、Snapdragon 8 Eliteや144Hz対応の6.85インチAMOLEDディスプレイ、7000mAhバッテリーを備えたSIMフリーモ",
-      "img": "https://ascii.jp/img/2026/07/12/4499246/s/2adc8b813b6ce1f7.jpg",
+      "title": "RayNeo創業ストーリー：AI・ARグラスで世界10億人の生活を変えるという挑戦",
+      "link": "https://ascii.jp/elem/000/004/418/4418923/?rss",
+      "date": "2026-07-13T07:20:00+09:00",
+      "dateLabel": "07/13 07:20",
+      "desc": "RayNeo創業ストーリー：AI・ARグラスで世界10億人の生活を変えるという挑戦",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
@@ -281,6 +248,39 @@
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
       "score": 26
+    },
+    {
+      "title": "「まるで人間」 OpenAIの新モデル「GPT-Live」のトーク力が話題 間を空けずに考えながら会話できる",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/10/news114.html",
+      "date": "2026-07-10T16:45:00+09:00",
+      "dateLabel": "07/10 16:45",
+      "desc": "OpenAIが提供を始めた音声会話向けモデル「GPT-Live」がXで話題だ。同社はこれまでも音声会話モデルを提供していたが、聞き取りと発話を同時に行う新アーキテクチャにより「会話が自然すぎる」などの声が上がっている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "NECが3年で100億円狙うAnthropic協業の初ソリューション、AIが販売戦略立案",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/10/news052.html",
+      "date": "2026-07-10T07:45:00+09:00",
+      "dateLabel": "07/10 07:45",
+      "desc": "NECは、Anthropicとの協業第1弾として、購買データからの商品企画や販促プラン作成を完全自動化する新サービスを開始した。専門人材なしで迅速な施策立案を可能にし、3年間で100億円の売上を目指す。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 20
+    },
+    {
+      "title": "JavaScriptランタイムのBun、Claude Fable 5を11日間稼働させてZigからRustへの移植を実現。Claudeをどう使ったのか？",
+      "link": "https://www.publickey1.jp/blog/26/javascriptbunclaude_fable_511zigrustclaude.html",
+      "date": "2026-07-10T00:47:05+09:00",
+      "dateLabel": "07/10 00:47",
+      "desc": "JavaScriptランタイム「Bun」の作者であるJarred Sumner氏は、7月8日付けで公開したBun公式ブログの記事「Rewriting Bun in Rust | Bun Blog」で、約53万5000行のZig言語のコードを...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "LLM/モデル",
+      "score": 20
     }
   ]
 }
