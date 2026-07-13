@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-13T20:51:39.769560+09:00",
-  "generatedLabel": "2026/07/13 20:51",
+  "generatedAt": "2026-07-13T23:04:50.988870+09:00",
+  "generatedLabel": "2026/07/13 23:04",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 46,
+  "candidates": 48,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 11
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 5
+      "items": 6
     },
     {
       "source": "AINOW",
@@ -195,6 +195,17 @@
       "score": 34
     },
     {
+      "title": "さくらのクラウドで、3つの国内開発された大規模言語モデルの試用を開始、デジタル庁がガバメントAI「源内」用に評価",
+      "link": "https://www.publickey1.jp/blog/26/3ai.html",
+      "date": "2026-07-14T00:48:50+09:00",
+      "dateLabel": "07/14 00:48",
+      "desc": "デジタル庁は、国内開発された3つの大規模言語モデルの試用をさくらのクラウド上で開始すると発表しました。 これはデジタル庁が中心となって進めている、行政業務の効率化や住民サービスの向上のために整備を進めているガバメントAI「源内」（げんない）...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
       "title": "プライムデーに感謝！ ASUSのRyzen AI 5 330搭載ノートが、なんと13万円台だ〜！",
       "link": "https://ascii.jp/elem/000/004/419/4419241/?rss",
       "date": "2026-07-13T18:30:00+09:00",
@@ -268,17 +279,6 @@
       "desc": "マイクロソフトはVisual Studio Codeの新機能として、GitHub Copilotで消費した費用を表示できるようにしました。 GitHub Copilotは今年（2026年）6月から、生成AIを利用したチャットやAIエージェン...",
       "img": "",
       "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 20
-    },
-    {
-      "title": "AIエージェントとRPAの違いは？比較表と事例付きで徹底解説",
-      "link": "https://ainow.ai/2026/07/08/278240/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a8rpa%25e3%2581%25ae%25e9%2581%2595%25e3%2581%2584%25e3%2581%25af%25ef%25bc%259f%25e6%25af%2594%25e8%25bc%2583%25e8%25a1%25a8%25e3%2581%25a8%25e4%25ba%258b%25e4%25be%258b%25e4%25bb%2598%25e3%2581%258d%25e3%2581%25a7",
-      "date": "2026-07-08T00:24:28+09:00",
-      "dateLabel": "07/08 00:24",
-      "desc": "「AIエージェント」という言葉が社内で急速に広まり、既存のRPAとの違いを上司や他部署から尋ねられて困った経験はないでしょうか。 両者は業務を自動化する技術という共通点を持ちながら、判断能力とルールに基づく実行という点で... The post AIエージェントとRPAの違いは？比較表と事例付きで徹底解説 first appeared on AI専門ニュース",
-      "img": "",
-      "src": "AINOW",
       "cat": "AIエージェント/業務",
       "score": 20
     }
