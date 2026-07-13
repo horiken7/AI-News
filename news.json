@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-13T10:48:44.272146+09:00",
-  "generatedLabel": "2026/07/13 10:48",
+  "generatedAt": "2026-07-13T14:26:21.280270+09:00",
+  "generatedLabel": "2026/07/13 14:26",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 50,
+  "candidates": 45,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 20
+      "items": 19
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -63,6 +63,28 @@
   ],
   "articles": [
     {
+      "title": "Claude、利用制限を全リセット 競合「GPT-5.6」公開と同日……OpenAI幹部「ビビってるね」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000179/",
+      "date": "2026-07-13T13:27:45+09:00",
+      "dateLabel": "07/13 13:27",
+      "desc": "OpenAIが「GPT-5.6」を一般公開した同日、AnthropicがClaude全ユーザーの利用制限を一斉リセット。OpenAI幹部の「ビビってるね」という煽り返信も話題だ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
+      "title": "「ChatGPT Work」「Codex」の5時間制限枠を一時解除 「GPT-5.6 Sol」の処理効率も改良へ",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/13/2000000186/",
+      "date": "2026-07-13T13:06:08+09:00",
+      "dateLabel": "07/13 13:06",
+      "desc": "米OpenAIは、デスクトップ向けAIツール「ChatGPT Work」や、付随するAIコーディングエージェント「Codex」に設定されている5時間の利用制限枠を一時的に解除すると発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
       "title": "AIの思考っぽい「J空間」を可視化できる「Jレンズ」を触ってみた",
       "link": "https://gigazine.net/news/20260712-ai-j-space-jacobian-lens/",
       "date": "2026-07-12T20:48:00+09:00",
@@ -82,7 +104,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 50
+      "score": 44
     },
     {
       "title": "Meta、マルチモーダル推論モデル「Muse Spark 1.1」公開 低価格の「Meta Model API」も提供へ",
@@ -96,14 +118,25 @@
       "score": 44
     },
     {
-      "title": "見た目も性能も進化！ ASUSのLCD搭載ROG水冷クーラーが登場",
-      "link": "https://ascii.jp/elem/000/004/418/4418876/?rss",
-      "date": "2026-07-13T09:00:00+09:00",
-      "dateLabel": "07/13 09:00",
-      "desc": "ASUSが360mmラジエーター採用のCPU水冷クーラー「ROG STRIX LC IV 360 ARGB LCD」を発売。5.08型LCDによるシステム情報表示やAIO Q-CONNECTOR対応で、配線の簡素化と高い冷却性能を実現した最新モデルを紹介します。",
-      "img": "https://ascii.jp/img/2026/07/13/4499449/s/d3e24538b0757038.png",
+      "title": "AIエージェント搭載のノーコードアプリ制作×運用SaaS「MS Studio（エムスタ）」を正式リリース",
+      "link": "https://ascii.jp/elem/000/004/419/4419094/?rss",
+      "date": "2026-07-13T13:30:00+09:00",
+      "dateLabel": "07/13 13:30",
+      "desc": "AIエージェント搭載のノーコードアプリ制作×運用SaaS「MS Studio（エムスタ）」を正式リリース",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AI全般",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "株式会社if、Claude Code業務自動化研修で「重要事項説明書」作成の自動化を伴走支援──社員10名の不動産会社でAI推進担当者1名が2ヶ月研修を受講中【導入事例】",
+      "link": "https://ascii.jp/elem/000/004/419/4419111/?rss",
+      "date": "2026-07-13T13:10:00+09:00",
+      "dateLabel": "07/13 13:10",
+      "desc": "株式会社if、Claude Code業務自動化研修で「重要事項説明書」作成の自動化を伴走支援──社員10名の不動産会社でAI推進担当者1名が2ヶ月研修を受講中【導入事例】",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -137,50 +170,28 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "Claude、利用制限を全リセット 競合「GPT-5.6」公開と同日……OpenAI幹部「ビビってるね」",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000179/",
-      "date": "2026-07-10T09:38:35+09:00",
-      "dateLabel": "07/10 09:38",
-      "desc": "OpenAIが「GPT-5.6」を一般公開した同日、AnthropicがClaude全ユーザーの利用制限を一斉リセット。OpenAI幹部の「ビビってるね」という煽り返信も話題だ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
       "score": 36
     },
     {
-      "title": "業務に直結するAI活用法を学べる買い切り型講座！「AI業務活用コース」をデイトラが提供開始～AI基礎からデザイン・マーケティング・バックオフィス業務まで学べる実践型講座～",
-      "link": "https://ascii.jp/elem/000/004/418/4418918/?rss",
-      "date": "2026-07-13T08:00:00+09:00",
-      "dateLabel": "07/13 08:00",
-      "desc": "業務に直結するAI活用法を学べる買い切り型講座！「AI業務活用コース」をデイトラが提供開始～AI基礎からデザイン・マーケティング・バックオフィス業務まで学べる実践型講座～",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "アニメ特化動画生成AI「AnimeGen」無償公開、商用利用も可 国内AIベンチャーAIdeaLab",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/13/2000000187/",
+      "date": "2026-07-13T13:17:01+09:00",
+      "dateLabel": "07/13 13:17",
+      "desc": "AI開発企業のAIdeaLabは、アニメに特化した動画生成AIモデル「AnimeGen」（アニメジェン）を公開した。ライセンスは商用利用もできる「Apache-2.0」。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
-      "title": "AI時代の新経営理論「Future Value Theory(未来価値理論)」を発表 ― 理論を体系化した全10冊を日本語・英語で世界同時出版",
-      "link": "https://ascii.jp/elem/000/004/418/4418914/?rss",
-      "date": "2026-07-13T08:00:00+09:00",
-      "dateLabel": "07/13 08:00",
-      "desc": "AI時代の新経営理論「Future Value Theory(未来価値理論)」を発表 ― 理論を体系化した全10冊を日本語・英語で世界同時出版",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "IT技術者の約半数が「AIの進化で転職を意識」／これから起きるのは「SaaSの死ではなく変容」／バックアップ市場は堅調に成長、ほか",
-      "link": "https://ascii.jp/elem/000/004/418/4418747/?rss",
-      "date": "2026-07-13T08:00:00+09:00",
-      "dateLabel": "07/13 08:00",
-      "desc": "今回（2026年7月4日～7月10日）は、エージェント型AI（エージェンティックAI）が引き起こすSaaS市場の再編、AIの進化に影響を受けるITエンジニアの転職／仕事意識の実情、国内バックアップ市場の堅調な成長の背景、10年間ですそ野を広げたコワーキングスペースの利用者像についてのデータを紹介します。",
-      "img": "https://ascii.jp/img/2026/07/11/4499050/s/42f072c916ea900a.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
+      "title": "「Claude Fable 5」のアクセス期間が全ての有料プランで7月19日まで延長、Claude Codeの週次レート制限も50％増量を維持",
+      "link": "https://gigazine.net/news/20260713-clude-fable-5-promotion-extended/",
+      "date": "2026-07-13T12:36:00+09:00",
+      "dateLabel": "07/13 12:36",
+      "desc": "2026年7月13日、Anthropicが、最先端モデル「Claude Fable 5」を追加費用なしで利用できる期間を2026年7月20日16時(日本時間)まで延長することを明らかにしました。さらに、Claude Codeの利用制限量を増量するキャンペーンも延長しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -195,36 +206,36 @@
       "score": 34
     },
     {
-      "title": "顧客企業のビジネスを動かす「基幹系AI」を実現する 日本オラクルの2027年度戦略",
-      "link": "https://ascii.jp/elem/000/004/418/4418868/?rss",
-      "date": "2026-07-13T09:00:00+09:00",
-      "dateLabel": "07/13 09:00",
-      "desc": "日本オラクルが2027会計年度（FY27）の事業戦略説明会を開催した。社長の三澤智光氏は、日本でまだ多くがオンプレミス環境に残るミッションクリティカルシステムの、クラウドリフトを急ぐ必要があると繰り返し強調した。",
-      "img": "https://ascii.jp/img/2026/07/13/4499423/s/045a450ef043fc37.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "【特許権利化】「なりすまし」を特許技術で防御―日本初（※1）。「AIオーケストレーション」が自らトラストアンカーとなり「VC」を発行。「鑑定証明システム（R）」を通過した取引にのみ「認証」を与える特許",
-      "link": "https://ascii.jp/elem/000/004/418/4418912/?rss",
-      "date": "2026-07-13T08:00:00+09:00",
-      "dateLabel": "07/13 08:00",
-      "desc": "【特許権利化】「なりすまし」を特許技術で防御―日本初（※1）。「AIオーケストレーション」が自らトラストアンカーとなり「VC」を発行。「鑑定証明システム（R）」を通過した取引にのみ「認証」を与える特許",
+      "title": "【株式会社Elith】企業のAI活用を安全に加速する専門組織「Elith AI Governance Lab」を設立",
+      "link": "https://ascii.jp/elem/000/004/419/4419095/?rss",
+      "date": "2026-07-13T13:30:00+09:00",
+      "dateLabel": "07/13 13:30",
+      "desc": "【株式会社Elith】企業のAI活用を安全に加速する専門組織「Elith AI Governance Lab」を設立",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "RayNeo創業ストーリー：AI・ARグラスで世界10億人の生活を変えるという挑戦",
-      "link": "https://ascii.jp/elem/000/004/418/4418923/?rss",
-      "date": "2026-07-13T07:20:00+09:00",
-      "dateLabel": "07/13 07:20",
-      "desc": "RayNeo創業ストーリー：AI・ARグラスで世界10億人の生活を変えるという挑戦",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "Grok Buildが機密情報を伏せずに送信、未読ファイルやGit履歴もアップロードしていたとの調査結果",
+      "link": "https://gigazine.net/news/20260713-grok-build-sending-data/",
+      "date": "2026-07-13T13:10:00+09:00",
+      "dateLabel": "07/13 13:10",
+      "desc": "AIの安全性を調査するcereblabがSpaceXAI(旧xAI)のAIコーディング支援ツール「Grok Build」を解析したところ、認証情報などが伏せ字処理されずにSpaceXAIへ送信され、AIが開いていないファイルやGitのコミット履歴を含むリポジトリ全体もアップロードされていたと報告しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 26
+    },
+    {
+      "title": "「メモリーにとって2027年は最悪の年になる」とSKハイニックスのCEOが警告",
+      "link": "https://gigazine.net/news/20260713-sk-hynix-ceo-warns-memory-shortage/",
+      "date": "2026-07-13T12:19:00+09:00",
+      "dateLabel": "07/13 12:19",
+      "desc": "NASDAQ市場に米国預託証券(ADR)の上場を果たした、韓国の半導体大手・SKハイニックスの郭魯正(クァク・ノジョン)CEOが、2030年代までメモリー不足が続く見通しを示し、「2027年はメモリーにとって最悪の年になる」と言及しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
       "score": 26
     },
     {
@@ -236,17 +247,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "34万台超のHDDを運用するBackblazeが2026年第1四半期HDD故障率レポートを公開、壊れやすいHDDはどれ？",
-      "link": "https://gigazine.net/news/20260710-backblaze-drive-stats-for-q1-2026/",
-      "date": "2026-07-10T21:00:00+09:00",
-      "dateLabel": "07/10 21:00",
-      "desc": "クラウドストレージサービスプロバイダーのBackblazeは、自社のデータセンターでHGST・Seagate・東芝・WDCといったメーカーの合計34万台を超えるHDDを運用しています。そんなBackblazeが、2026年第1四半期版のHDD故障率レポートを公開しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
       "score": 26
     },
     {
