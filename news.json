@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-13T17:48:08.199795+09:00",
-  "generatedLabel": "2026/07/13 17:48",
+  "generatedAt": "2026-07-13T20:51:39.769560+09:00",
+  "generatedLabel": "2026/07/13 20:51",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 51,
+  "candidates": 46,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 1
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -85,17 +85,6 @@
       "score": 50
     },
     {
-      "title": "AIの思考っぽい「J空間」を可視化できる「Jレンズ」を触ってみた",
-      "link": "https://gigazine.net/news/20260712-ai-j-space-jacobian-lens/",
-      "date": "2026-07-12T20:48:00+09:00",
-      "dateLabel": "07/12 20:48",
-      "desc": "AIモデルの性能は急速に向上し続けていますが、実はAIが出力を決定するまでの処理過程は完全には解明されていません。そんな中、Claudeの開発元であるAnthropicがAIの出力決定に関連する「J-space(J空間)」という概念を提唱し、J空間を観察できる「J-lens(Jレンズ)」のデモアプリも公開しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
       "title": "OpenAI「GPT-5.6」一般公開 最上位モデルは「コスト半分で一部Fable 5超え」うたう",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000183/",
       "date": "2026-07-10T12:09:08+09:00",
@@ -129,6 +118,17 @@
       "score": 42
     },
     {
+      "title": "AIの思考っぽい「J空間」を可視化できる「Jレンズ」を触ってみた",
+      "link": "https://gigazine.net/news/20260712-ai-j-space-jacobian-lens/",
+      "date": "2026-07-12T20:48:00+09:00",
+      "dateLabel": "07/12 20:48",
+      "desc": "AIモデルの性能は急速に向上し続けていますが、実はAIが出力を決定するまでの処理過程は完全には解明されていません。そんな中、Claudeの開発元であるAnthropicがAIの出力決定に関連する「J-space(J空間)」という概念を提唱し、J空間を観察できる「J-lens(Jレンズ)」のデモアプリも公開しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "M365 CopilotにOpenAI最新モデル「GPT-5.6」追加 複雑な作業を「より効率的に処理」",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000184/",
       "date": "2026-07-10T16:16:10+09:00",
@@ -151,17 +151,6 @@
       "score": 36
     },
     {
-      "title": "Appleの高性能イヤホン「AirPods Pro 3」が5000円引き！ 進化したノイズキャンセリング機能がスゴい",
-      "link": "https://ascii.jp/elem/000/004/419/4419215/?rss",
-      "date": "2026-07-13T17:30:00+09:00",
-      "dateLabel": "07/13 17:30",
-      "desc": "Amazon.co.jpにて、「AirPods Pro 3」がタイムセールを実施中。ノイズキャンセリングが前モデルの2倍進化し、クリアな音質を確保します。",
-      "img": "https://ascii.jp/img/2026/07/13/4499846/s/a6d8e6518598fc24.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "人型家事ロボット「Neo」向けに人間の腱のように自在に動く新型ハンドの「NEO’s Hands」が登場",
       "link": "https://gigazine.net/news/20260713-neo-hands/",
       "date": "2026-07-13T17:15:00+09:00",
@@ -170,17 +159,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "医療AIをもっと安全に。VoiceChart、3省2ガイドラインを踏まえた「AI文章作成支援機能」を無料提供開始",
-      "link": "https://ascii.jp/elem/000/004/419/4419222/?rss",
-      "date": "2026-07-13T16:38:42+09:00",
-      "dateLabel": "07/13 16:38",
-      "desc": "医療AIをもっと安全に。VoiceChart、3省2ガイドラインを踏まえた「AI文章作成支援機能」を無料提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
       "score": 34
     },
     {
@@ -217,58 +195,25 @@
       "score": 34
     },
     {
-      "title": "えっ、オフィス付きでこの価格!? Ryzen AI 7 445搭載のASUS製ノートがプライムデーで約17万円！",
-      "link": "https://ascii.jp/elem/000/004/419/4419174/?rss",
-      "date": "2026-07-13T17:30:00+09:00",
-      "dateLabel": "07/13 17:30",
-      "desc": "ASUSの16型ノートPC「Vivobook S 16 M3607GA」がAmazonプライムデーセール価格として、大幅値引きになっています。Microsoft 365 Personal付きで、価格はなんと16万9900円！",
-      "img": "https://ascii.jp/img/2026/07/13/4499919/s/24dbc3d36293824a.png",
+      "title": "プライムデーに感謝！ ASUSのRyzen AI 5 330搭載ノートが、なんと13万円台だ〜！",
+      "link": "https://ascii.jp/elem/000/004/419/4419241/?rss",
+      "date": "2026-07-13T18:30:00+09:00",
+      "dateLabel": "07/13 18:30",
+      "desc": "ASUSの16型ノートPC「Vivobook S 16 M3607KA」がAmazonプライムデーセール価格として、大幅値引きになっています。26%オフで、価格はなんと13万9800円！",
+      "img": "https://ascii.jp/img/2026/07/13/4499922/s/403afbf432beb69a.png",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "【まもなく終了】iPhone Air 512GBが3万8000円オフ。これが最後のチャンスです【Amazonプライムデー2026】",
-      "link": "https://ascii.jp/elem/000/004/419/4419226/?rss",
-      "date": "2026-07-13T17:10:00+09:00",
-      "dateLabel": "07/13 17:10",
-      "desc": "Apple iPhone Air 512GBが3万8000円引きのタイムセール。薄くて軽いiPhoneを探している人や、容量に余裕のある上位モデルが気になる人におすすめ。",
-      "img": "https://ascii.jp/img/2026/07/07/4495965/s/e0268cb3239f4865.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "プライムデー終了間近、Surface Pro（第11世代）純正2点セットが15％オフで207,464円",
-      "link": "https://ascii.jp/elem/000/004/419/4419167/?rss",
-      "date": "2026-07-13T17:00:00+09:00",
-      "dateLabel": "07/13 17:00",
-      "desc": "マイクロソフト公式ストア限定の「Surface Pro（第11世代）純正2点セット」がAmazonプライムセール対象。過去価格243,500円のところ、15％オフの207,464円で販売中。13インチのSurface Pro（第11世代）と、Surface Pro キーボード（ペン収納付き・スリムペン付き）の2点セットで、Snapdragon X Plusや",
-      "img": "https://ascii.jp/img/2026/07/13/4499769/s/1a9299e9ed9e332a.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "【急げ】AirPods Pro 3が5000円オフ。欲しかった人は今日までに！【Amazonプライムデー2026】",
-      "link": "https://ascii.jp/elem/000/004/419/4419219/?rss",
-      "date": "2026-07-13T16:55:00+09:00",
-      "dateLabel": "07/13 16:55",
-      "desc": "Apple AirPods Pro 3が5000円引きのタイムセール。iPhoneユーザーや通勤時に静かな視聴環境が欲しい人にぴったり。",
-      "img": "https://ascii.jp/img/2026/07/07/4495930/s/fbafdb810a26641e.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "Ryzen AI 7 445搭載のASUS製16インチ有機ELノートPC、プライムデーで「さすがに安すぎ」の15万円台！",
-      "link": "https://ascii.jp/elem/000/004/419/4419172/?rss",
-      "date": "2026-07-13T16:30:00+09:00",
-      "dateLabel": "07/13 16:30",
-      "desc": "ASUSの16型ノートPC「Vivobook S 16 M3607GA」がAmazonプライムデーセール価格として、大幅値引きになっています。24%オフで、価格はなんと15万5320円！",
-      "img": "https://ascii.jp/img/2026/07/13/4499920/s/35632d548685ece2.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "トランプ政権がIntelを強力に後押し、Appleは関税回避と引き換えにIntelへの協力を飲まされた可能性",
+      "link": "https://gigazine.net/news/20260713-intel-with-white-house/",
+      "date": "2026-07-13T17:50:00+09:00",
+      "dateLabel": "07/13 17:50",
+      "desc": "2026年6月、アメリカのドナルド・トランプ大統領は「AppleがIntelとチップを共同製造することで合意した」と発言しました。一時に比べて、AppleとIntelの関係はかなり近いものとなっているのは事実なのですが、その背景に、Appleがトランプ政権による半導体への100％の関税計画を回避するのと引き換えにIntelへの協力を約束していた可能性が指摘さ",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
       "score": 26
     },
     {
@@ -281,6 +226,61 @@
       "src": "GIGAZINE",
       "cat": "規制/安全",
       "score": 26
+    },
+    {
+      "title": "「メモリーにとって2027年は最悪の年になる」とSKハイニックスのCEOが警告",
+      "link": "https://gigazine.net/news/20260713-sk-hynix-ceo-warns-memory-shortage/",
+      "date": "2026-07-13T12:19:00+09:00",
+      "dateLabel": "07/13 12:19",
+      "desc": "NASDAQ市場に米国預託証券(ADR)の上場を果たした、韓国の半導体大手・SKハイニックスの郭魯正(クァク・ノジョン)CEOが、2030年代までメモリー不足が続く見通しを示し、「2027年はメモリーにとって最悪の年になる」と言及しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "「まるで人間」 OpenAIの新モデル「GPT-Live」のトーク力が話題 間を空けずに考えながら会話できる",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/10/news114.html",
+      "date": "2026-07-10T16:45:00+09:00",
+      "dateLabel": "07/10 16:45",
+      "desc": "OpenAIが提供を始めた音声会話向けモデル「GPT-Live」がXで話題だ。同社はこれまでも音声会話モデルを提供していたが、聞き取りと発話を同時に行う新アーキテクチャにより「会話が自然すぎる」などの声が上がっている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 20
+    },
+    {
+      "title": "JavaScriptランタイムのBun、Claude Fable 5を11日間稼働させてZigからRustへの移植を実現。Claudeをどう使ったのか？",
+      "link": "https://www.publickey1.jp/blog/26/javascriptbunclaude_fable_511zigrustclaude.html",
+      "date": "2026-07-10T00:47:05+09:00",
+      "dateLabel": "07/10 00:47",
+      "desc": "JavaScriptランタイム「Bun」の作者であるJarred Sumner氏は、7月8日付けで公開したBun公式ブログの記事「Rewriting Bun in Rust | Bun Blog」で、約53万5000行のZig言語のコードを...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "LLM/モデル",
+      "score": 20
+    },
+    {
+      "title": "Visual Studio Code、従量課金制になったGitHub Copilotの使用料を表示可能に（訂正あり）",
+      "link": "https://www.publickey1.jp/blog/26/visual_studio_codegithub_copilot.html",
+      "date": "2026-07-08T00:55:48+09:00",
+      "dateLabel": "07/08 00:55",
+      "desc": "マイクロソフトはVisual Studio Codeの新機能として、GitHub Copilotで消費した費用を表示できるようにしました。 GitHub Copilotは今年（2026年）6月から、生成AIを利用したチャットやAIエージェン...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 20
+    },
+    {
+      "title": "AIエージェントとRPAの違いは？比較表と事例付きで徹底解説",
+      "link": "https://ainow.ai/2026/07/08/278240/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a8rpa%25e3%2581%25ae%25e9%2581%2595%25e3%2581%2584%25e3%2581%25af%25ef%25bc%259f%25e6%25af%2594%25e8%25bc%2583%25e8%25a1%25a8%25e3%2581%25a8%25e4%25ba%258b%25e4%25be%258b%25e4%25bb%2598%25e3%2581%258d%25e3%2581%25a7",
+      "date": "2026-07-08T00:24:28+09:00",
+      "dateLabel": "07/08 00:24",
+      "desc": "「AIエージェント」という言葉が社内で急速に広まり、既存のRPAとの違いを上司や他部署から尋ねられて困った経験はないでしょうか。 両者は業務を自動化する技術という共通点を持ちながら、判断能力とルールに基づく実行という点で... The post AIエージェントとRPAの違いは？比較表と事例付きで徹底解説 first appeared on AI専門ニュース",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 20
     }
   ]
 }
