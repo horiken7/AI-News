@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-15T06:46:56.221881+09:00",
-  "generatedLabel": "2026/07/15 06:46",
+  "generatedAt": "2026-07-15T07:46:28.028469+09:00",
+  "generatedLabel": "2026/07/15 07:46",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 49,
+  "candidates": 48,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,7 +13,7 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 17
+      "items": 16
     },
     {
       "source": "ASCII.jp",
@@ -118,17 +118,6 @@
       "score": 42
     },
     {
-      "title": "Intelがアメリカ政府向けに宇宙利用想定で設計したSoC「Starfire」を発表",
-      "link": "https://gigazine.net/news/20260714-intel-starfire/",
-      "date": "2026-07-14T10:47:00+09:00",
-      "dateLabel": "07/14 10:47",
-      "desc": "Intelが宇宙での利用を想定したシステムオンチップ(SoC)「Intel Starfire」を発表しました。Intel 18Aプロセスで製造するCPUとNPUに、Intel 3プロセスで製造するGPUを組み合わせ、最大75TOPSのAI処理性能を実現する設計で、2026年第3四半期にサンプル提供が始まる予定です。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
       "title": "Claude、利用制限を全リセット 競合「GPT-5.6」公開と同日……OpenAI幹部「ビビってるね」",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000179/",
       "date": "2026-07-13T13:27:45+09:00",
@@ -149,6 +138,17 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 42
+    },
+    {
+      "title": "「RPA負債」をこれで解消 言葉で指示するだけでPC作業を自動化する最新AI",
+      "link": "https://kn.itmedia.co.jp/kn/articles/2607/15/news021.html",
+      "date": "2026-07-15T07:00:00+09:00",
+      "dateLabel": "07/15 07:00",
+      "desc": "RPAでは、保守負担や属人化、画面変更による停止といった課題が付きものだ。こうした「RPA負債」を解消する手段として、AIが状況を判断して操作するAIエージェント型RPAが登場し、業務自動化の対象をデスクトップへ広げ始めている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "アップル、M6 Pro/Max見送りか AI強化のM7優先に？",
@@ -195,17 +195,6 @@
       "score": 34
     },
     {
-      "title": "16GB→32GBメモリ増設が888円。GPUや電源も強化できるドスパラ大決算",
-      "link": "https://ascii.jp/elem/000/004/419/4419218/?rss",
-      "date": "2026-07-14T18:00:00+09:00",
-      "dateLabel": "07/14 18:00",
-      "desc": "ドスパラでは現在、「ドスパラ大決算カスタマイズキャンペーン」を開催中。対象PCでは16GB→32GB（または8GB→16GB）のメモリ増設を888円で利用できるほか、対象PCごとにGeForce RTX 5060からGeForce RTX 5060 Ti 8GBへのグラフィックボード変更や、650Wから750W GOLD電源へのアップグレードも888円で提供",
-      "img": "https://ascii.jp/img/2026/07/05/4494759/s/c219b998a3ab2e3c.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
       "title": "AIエージェントと人間を見分けるCloudflareの新技術「Precursor」が登場、人間っぽく振る舞うAIをサイト内の行動から見破る",
       "link": "https://gigazine.net/news/20260714-cloudflare-precursor/",
       "date": "2026-07-14T11:15:00+09:00",
@@ -226,6 +215,28 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
+    },
+    {
+      "title": "機内の無料Wi-Fiがここまで進化！ Starlinkで300Mbps超、動画も仕事も快適だった",
+      "link": "https://ascii.jp/elem/000/004/419/4419436/?rss",
+      "date": "2026-07-15T07:30:00+09:00",
+      "dateLabel": "07/15 07:30",
+      "desc": "ZIPAIRが全機に無料で利用できるStarlinkを導入。成田―バンコク便で通信速度や動画視聴、オンライン会議まで実際に試し、その実力を検証してきました。",
+      "img": "https://ascii.jp/img/2026/07/14/4500283/s/f17b654ea329dc8d.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "ユナイテッドアローズ「売れた理由が分からない」 爆速開発の独自AIでどう解消？",
+      "link": "https://kn.itmedia.co.jp/kn/articles/2607/15/news011.html",
+      "date": "2026-07-15T07:00:00+09:00",
+      "dateLabel": "07/15 07:00",
+      "desc": "店舗では「売れた理由」が分かっていても、その気付きは本部まで届かない。週報では拾い切れない現場の知見をどう生かすのか。ユナイテッドアローズは、課題解決のためAIエージェントの独自開発に乗り出した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 26
     },
     {
       "title": "より小さなソフトウェアエンジニアリングチームを、2029年までに60％の組織が本格展開するとの予測、ガートナー",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "AIが「ホームディレクトリ全削除」 重要データ消失で相次ぐ悲劇",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/14/news031.html",
-      "date": "2026-07-14T13:00:00+09:00",
-      "dateLabel": "07/14 13:00",
-      "desc": "Dockerは、AIコーディングエージェントが開発者のmacOSのホームディレクトリを丸ごと削除した事例を解説した。問題はAIの賢さではなく、エージェントが開発者本人の権限でホストのシェルを直接実行する構造そのものにあり、「モデルの判断とシェルの実行の間に境界が存在しないことが原因だ」との見解を示している。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
