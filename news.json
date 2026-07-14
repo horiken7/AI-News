@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-15T04:01:48.756943+09:00",
-  "generatedLabel": "2026/07/15 04:01",
+  "generatedAt": "2026-07-15T05:49:46.593190+09:00",
+  "generatedLabel": "2026/07/15 05:49",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 51,
+  "candidates": 50,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,7 +13,7 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 18
+      "items": 17
     },
     {
       "source": "ASCII.jp",
