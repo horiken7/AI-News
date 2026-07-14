@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-14T08:43:11.238229+09:00",
-  "generatedLabel": "2026/07/14 08:43",
+  "generatedAt": "2026-07-14T10:25:41.911983+09:00",
+  "generatedLabel": "2026/07/14 10:25",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 49,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 2
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -85,6 +85,17 @@
       "score": 50
     },
     {
+      "title": "EC事業者向けAIエージェント「ECPRO BRAIN」７月提供開始。EC運営の「タスク管理」「実績管理」「施策のAI実行」を1つに統合",
+      "link": "https://ascii.jp/elem/000/004/419/4419299/?rss",
+      "date": "2026-07-14T07:00:00+09:00",
+      "dateLabel": "07/14 07:00",
+      "desc": "EC事業者向けAIエージェント「ECPRO BRAIN」７月提供開始。EC運営の「タスク管理」「実績管理」「施策のAI実行」を1つに統合",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "OpenAIのブラウザ「ChatGPT Atlas」終了へ 公開から1年足らずで",
       "link": "https://www.itmedia.co.jp/news/articles/2607/13/news090.html",
       "date": "2026-07-13T14:20:00+09:00",
@@ -92,17 +103,6 @@
       "desc": "米OpenAIがAIブラウザ「ChatGPT Atlas」の停止日を2026年8月9日と案内し、データの移行手順を公開した。移行先には新しいChatGPTデスクトップアプリとChrome拡張機能を挙げている。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "AIの思考っぽい「J空間」を可視化できる「Jレンズ」を触ってみた",
-      "link": "https://gigazine.net/news/20260712-ai-j-space-jacobian-lens/",
-      "date": "2026-07-12T20:48:00+09:00",
-      "dateLabel": "07/12 20:48",
-      "desc": "AIモデルの性能は急速に向上し続けていますが、実はAIが出力を決定するまでの処理過程は完全には解明されていません。そんな中、Claudeの開発元であるAnthropicがAIの出力決定に関連する「J-space(J空間)」という概念を提唱し、J空間を観察できる「J-lens(Jレンズ)」のデモアプリも公開しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 42
     },
@@ -127,6 +127,28 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 36
+    },
+    {
+      "title": "Claudeの「頭の中」は本当に見えたのか、AI担当編集者に聞く",
+      "link": "https://ascii.jp/elem/000/004/419/4419297/?rss",
+      "date": "2026-07-14T09:37:21+09:00",
+      "dateLabel": "07/14 09:37",
+      "desc": "画像クレジット:Stephanie Arnett/MIT Technology Review | Adobe Stock",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "進化したIoT罠から猫のスマートシッターまで 「IoTは楽しい！」を体現するソラコムのプロトタイピング展示",
+      "link": "https://ascii.jp/elem/000/004/419/4419275/?rss",
+      "date": "2026-07-14T09:00:00+09:00",
+      "dateLabel": "07/14 09:00",
+      "desc": "ソラコムのIoTカンファレンス「SORACOM Discovery 2026」では、市販製品やソラコムのサービスで作り上げた“プロトタイプ作品”を展示する「IoTプロトタイピングコーナー」が設けられていました。",
+      "img": "https://ascii.jp/img/2026/07/13/4499962/s/123484b93745fb64.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
     },
     {
       "title": "MSI、アルマイトブラック採用の「Cyborg 15」を投入 仕事でも使いやすいゲーミングノート",
@@ -258,28 +280,6 @@
       "img": "",
       "src": "AINOW",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "トランプ政権がIntelを強力に後押し、Appleは関税回避と引き換えにIntelへの協力を飲まされた可能性",
-      "link": "https://gigazine.net/news/20260713-intel-with-white-house/",
-      "date": "2026-07-13T17:50:00+09:00",
-      "dateLabel": "07/13 17:50",
-      "desc": "2026年6月、アメリカのドナルド・トランプ大統領は「AppleがIntelとチップを共同製造することで合意した」と発言しました。一時に比べて、AppleとIntelの関係はかなり近いものとなっているのは事実なのですが、その背景に、Appleがトランプ政権による半導体への100％の関税計画を回避するのと引き換えにIntelへの協力を約束していた可能性が指摘さ",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "Grok Buildが機密情報を伏せずに送信、未読ファイルやGit履歴もアップロードしていたとの調査結果",
-      "link": "https://gigazine.net/news/20260713-grok-build-sending-data/",
-      "date": "2026-07-13T13:10:00+09:00",
-      "dateLabel": "07/13 13:10",
-      "desc": "AIの安全性を調査するcereblabがSpaceXAI(旧xAI)のAIコーディング支援ツール「Grok Build」を解析したところ、認証情報などが伏せ字処理されずにSpaceXAIへ送信され、AIが開いていないファイルやGitのコミット履歴を含むリポジトリ全体もアップロードされていたと報告しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
       "score": 26
     }
   ]
