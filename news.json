@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-14T13:40:56.938009+09:00",
-  "generatedLabel": "2026/07/14 13:40",
+  "generatedAt": "2026-07-14T16:03:34.769694+09:00",
+  "generatedLabel": "2026/07/14 16:03",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 59,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 11
+      "items": 9
     },
     {
       "source": "PC Watch",
@@ -74,6 +74,17 @@
       "score": 50
     },
     {
+      "title": "Appleのオンデバイス音声認識API「SpeechAnalyzer」が英語ベンチマークでWhisper Smallを上回る",
+      "link": "https://gigazine.net/news/20260714-apple-speech-analyzer-benchmark/",
+      "date": "2026-07-14T15:30:00+09:00",
+      "dateLabel": "07/14 15:30",
+      "desc": "AppleがiOS 26やmacOS Tahoe 26向けに導入した音声認識API「SpeechAnalyzer」について、オンデバイスAIアプリ「Inscribe」の開発チームがOpenAIの音声認識モデル「Whisper」のTiny、Base、Smallと比較し、結果を公開しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "Intelがアイルランド工場に50億ユーロを投じて3nmプロセスの生産ラインを拡張へ、Intel 3ノードでXeon 6を大量生産する計画",
       "link": "https://gigazine.net/news/20260714-intel-invest-europe-xeon/",
       "date": "2026-07-14T12:27:00+09:00",
@@ -96,17 +107,6 @@
       "score": 42
     },
     {
-      "title": "AI検索時代の「選ばれるブランド」をつくる。計測から記事生成・自動改善までを1つにした国産LLMOオールインワンツール「LLMOチェキ」提供開始",
-      "link": "https://ascii.jp/elem/000/004/419/4419442/?rss",
-      "date": "2026-07-14T11:00:00+09:00",
-      "dateLabel": "07/14 11:00",
-      "desc": "AI検索時代の「選ばれるブランド」をつくる。計測から記事生成・自動改善までを1つにした国産LLMOオールインワンツール「LLMOチェキ」提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "Intelがアメリカ政府向けに宇宙利用想定で設計したSoC「Starfire」を発表",
       "link": "https://gigazine.net/news/20260714-intel-starfire/",
       "date": "2026-07-14T10:47:00+09:00",
@@ -115,28 +115,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "【業界レポート Vol.1（増補改訂版 Ver.2）】半導体・電子部品業界の新規事業・多角化 ── 同じ次世代パワーに投資して越えた会社と沈んだ会社、56社の実数が分けたのは「技術力」ではなかった",
-      "link": "https://ascii.jp/elem/000/004/419/4419451/?rss",
-      "date": "2026-07-14T10:30:00+09:00",
-      "dateLabel": "07/14 10:30",
-      "desc": "【業界レポート Vol.1（増補改訂版 Ver.2）】半導体・電子部品業界の新規事業・多角化 ── 同じ次世代パワーに投資して越えた会社と沈んだ会社、56社の実数が分けたのは「技術力」ではなかった",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "OpenAIのブラウザ「ChatGPT Atlas」終了へ 公開から1年足らずで",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/13/news090.html",
-      "date": "2026-07-13T14:20:00+09:00",
-      "dateLabel": "07/13 14:20",
-      "desc": "米OpenAIがAIブラウザ「ChatGPT Atlas」の停止日を2026年8月9日と案内し、データの移行手順を公開した。移行先には新しいChatGPTデスクトップアプリとChrome拡張機能を挙げている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -162,6 +140,61 @@
       "score": 42
     },
     {
+      "title": "SaaS is dead！5年で6,300万円を費用計上する「Salesforce」を、約2年で投資回収可能な自社資産に変えるAIシステム開発",
+      "link": "https://ascii.jp/elem/000/004/419/4419565/?rss",
+      "date": "2026-07-14T15:00:00+09:00",
+      "dateLabel": "07/14 15:00",
+      "desc": "SaaS is dead！5年で6,300万円を費用計上する「Salesforce」を、約2年で投資回収可能な自社資産に変えるAIシステム開発",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "ファミマ、3日で2000足売れた「FAMIMA」ソックスを全国販売",
+      "link": "https://ascii.jp/elem/000/004/419/4419516/?rss",
+      "date": "2026-07-14T14:30:00+09:00",
+      "dateLabel": "07/14 14:30",
+      "desc": "ファミリーマートは7月14日、旗艦店「FAMIMA PARK AZABUDAI」で先行販売していた「FAMIMA」関連商品を、全国約1万6400店で数量限定発売すると発表した。",
+      "img": "https://ascii.jp/img/2026/07/14/4500307/s/77a3b922e1010a4e.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "人もスマホも冷却できるハンディファン登場。スマホ冷却機能と安全性を両立｜IRIE（アイリー）",
+      "link": "https://ascii.jp/elem/000/004/419/4419590/?rss",
+      "date": "2026-07-14T14:05:30+09:00",
+      "dateLabel": "07/14 14:05",
+      "desc": "人もスマホも冷却できるハンディファン登場。スマホ冷却機能と安全性を両立｜IRIE（アイリー）",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "規制/安全",
+      "score": 34
+    },
+    {
+      "title": "株式会社アピリッツの子会社、株式会社Y'sが「生成AI人材」の育成を支援する新サービス「Edtech Training」を提供開始！",
+      "link": "https://ascii.jp/elem/000/004/419/4419587/?rss",
+      "date": "2026-07-14T14:00:00+09:00",
+      "dateLabel": "07/14 14:00",
+      "desc": "株式会社アピリッツの子会社、株式会社Y'sが「生成AI人材」の育成を支援する新サービス「Edtech Training」を提供開始！",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "SHIFT AI、愛知県蒲郡市にて農業従事者向けのChatGPT活用講義を開催",
+      "link": "https://ascii.jp/elem/000/004/419/4419575/?rss",
+      "date": "2026-07-14T14:00:00+09:00",
+      "dateLabel": "07/14 14:00",
+      "desc": "SHIFT AI、愛知県蒲郡市にて農業従事者向けのChatGPT活用講義を開催",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "AIエージェントと人間を見分けるCloudflareの新技術「Precursor」が登場、人間っぽく振る舞うAIをサイト内の行動から見破る",
       "link": "https://gigazine.net/news/20260714-cloudflare-precursor/",
       "date": "2026-07-14T11:15:00+09:00",
@@ -170,28 +203,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "KumaKumaAI、AIがナレッジを自動抽出・整理する「ノート機能」を提供開始 ― 検索するだけのRAGから脱却、使うほど賢くなるエンタープライズAIプラットフォームへ",
-      "link": "https://ascii.jp/elem/000/004/419/4419452/?rss",
-      "date": "2026-07-14T10:20:00+09:00",
-      "dateLabel": "07/14 10:20",
-      "desc": "KumaKumaAI、AIがナレッジを自動抽出・整理する「ノート機能」を提供開始 ― 検索するだけのRAGから脱却、使うほど賢くなるエンタープライズAIプラットフォームへ",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "【8月11日22:00～/15日10:30～開催】お盆休みこそ営業DX--生成AIでアポ率激変、“未経験営業でも年商6000万円”を実現する2026年最新営業手法を無料公開！",
-      "link": "https://ascii.jp/elem/000/004/419/4419393/?rss",
-      "date": "2026-07-14T10:10:00+09:00",
-      "dateLabel": "07/14 10:10",
-      "desc": "【8月11日22:00～/15日10:30～開催】お盆休みこそ営業DX--生成AIでアポ率激変、“未経験営業でも年商6000万円”を実現する2026年最新営業手法を無料公開！",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
@@ -217,6 +228,17 @@
       "score": 34
     },
     {
+      "title": "OpenAIのブラウザ「ChatGPT Atlas」終了へ 公開から1年足らずで",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/13/news090.html",
+      "date": "2026-07-13T14:20:00+09:00",
+      "dateLabel": "07/13 14:20",
+      "desc": "米OpenAIがAIブラウザ「ChatGPT Atlas」の停止日を2026年8月9日と案内し、データの移行手順を公開した。移行先には新しいChatGPTデスクトップアプリとChrome拡張機能を挙げている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "Anthropic、「Fable 5」の無償アクセスと「Claude Code」利用上限50％増を7月19日まで延長",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/13/2000000185/",
       "date": "2026-07-13T07:25:21+09:00",
@@ -228,56 +250,34 @@
       "score": 34
     },
     {
-      "title": "AIが「ホームディレクトリ全削除」 重要データ消失で相次ぐ悲劇",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/14/news031.html",
-      "date": "2026-07-14T13:00:00+09:00",
-      "dateLabel": "07/14 13:00",
-      "desc": "Dockerは、AIコーディングエージェントが開発者のmacOSのホームディレクトリを丸ごと削除した事例を解説した。問題はAIの賢さではなく、エージェントが開発者本人の権限でホストのシェルを直接実行する構造そのものにあり、「モデルの判断とシェルの実行の間に境界が存在しないことが原因だ」との見解を示している。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "LinkedInの長文投稿の約40％はAIによって作成されたもの",
-      "link": "https://gigazine.net/news/20260714-linkedin-longform-content-ai/",
-      "date": "2026-07-14T12:19:00+09:00",
-      "dateLabel": "07/14 12:19",
-      "desc": "ビジネス系SNS「LinkedIn」を調査したところ、長文投稿の40.5％がAI生成だった、というレポートが発表されました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "議事録AI「YOMEL」が「2026年上半期 BOXIL資料請求数ランキング」の文字起こしツール、議事録作成ツール・ソフトカテゴリの6部門でNo.1を受賞",
-      "link": "https://ascii.jp/elem/000/004/419/4419443/?rss",
-      "date": "2026-07-14T11:00:00+09:00",
-      "dateLabel": "07/14 11:00",
-      "desc": "議事録AI「YOMEL」が「2026年上半期 BOXIL資料請求数ランキング」の文字起こしツール、議事録作成ツール・ソフトカテゴリの6部門でNo.1を受賞",
+      "title": "株式会社if、福祉業界のシステム内製化をAI駆動開発研修で伴走支援──多拠点・在宅スタッフを抱える福祉事業者の「外注に頼らないDX」を実現へ",
+      "link": "https://ascii.jp/elem/000/004/419/4419570/?rss",
+      "date": "2026-07-14T15:10:00+09:00",
+      "dateLabel": "07/14 15:10",
+      "desc": "株式会社if、福祉業界のシステム内製化をAI駆動開発研修で伴走支援──多拠点・在宅スタッフを抱える福祉事業者の「外注に頼らないDX」を実現へ",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "AIがコードを書く時代、人間は何を保証するのか？開発者に求められる責任と価値を考えるイベントを7月31日に開催",
-      "link": "https://ascii.jp/elem/000/004/419/4419440/?rss",
-      "date": "2026-07-14T11:00:00+09:00",
-      "dateLabel": "07/14 11:00",
-      "desc": "AIがコードを書く時代、人間は何を保証するのか？開発者に求められる責任と価値を考えるイベントを7月31日に開催",
+      "title": "スマホで気軽に参加できる、次世代AIスタンプラリー「間違い探しラリー ～グッド＆ラッキーのお助けクエスト～」",
+      "link": "https://ascii.jp/elem/000/004/419/4419592/?rss",
+      "date": "2026-07-14T15:00:00+09:00",
+      "dateLabel": "07/14 15:00",
+      "desc": "スマホで気軽に参加できる、次世代AIスタンプラリー「間違い探しラリー ～グッド＆ラッキーのお助けクエスト～」",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "「IT機器が高すぎる」「熟練メンバー不在で分からない」… 情シスさんの“現場の悩み”をエンジニア3人に聞いてみた",
-      "link": "https://ascii.jp/elem/000/004/418/4418283/?rss",
-      "date": "2026-07-14T11:00:00+09:00",
-      "dateLabel": "07/14 11:00",
-      "desc": "ビジネスでのAI／デジタル活用の進化の一方で、IT機器の価格高騰、激しさを増すサイバー攻撃など、ITとビジネスをめぐる変化はめまぐるしい。ソフトクリエイトから、現場の情シスさんと接点を持つ若手エンジニア3人に集まってもらい、「いま情シスさんが悩んでいること」は何かを聞いてみた。",
-      "img": "https://ascii.jp/img/2026/07/14/4500133/s/8ea3d7bec259837b.jpg",
+      "title": "【介護DX】「話すだけ」で記録・申し送りを効率化。音声認識AI「モコボイス」がCareTEX福岡’26に出展",
+      "link": "https://ascii.jp/elem/000/004/419/4419566/?rss",
+      "date": "2026-07-14T15:00:00+09:00",
+      "dateLabel": "07/14 15:00",
+      "desc": "【介護DX】「話すだけ」で記録・申し送りを効率化。音声認識AI「モコボイス」がCareTEX福岡’26に出展",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
