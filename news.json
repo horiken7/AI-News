@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-14T16:03:34.769694+09:00",
-  "generatedLabel": "2026/07/14 16:03",
+  "generatedAt": "2026-07-14T18:46:21.063219+09:00",
+  "generatedLabel": "2026/07/14 18:46",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 57,
+  "candidates": 51,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 19
+      "items": 18
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 9
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -140,58 +140,25 @@
       "score": 42
     },
     {
-      "title": "SaaS is dead！5年で6,300万円を費用計上する「Salesforce」を、約2年で投資回収可能な自社資産に変えるAIシステム開発",
-      "link": "https://ascii.jp/elem/000/004/419/4419565/?rss",
-      "date": "2026-07-14T15:00:00+09:00",
-      "dateLabel": "07/14 15:00",
-      "desc": "SaaS is dead！5年で6,300万円を費用計上する「Salesforce」を、約2年で投資回収可能な自社資産に変えるAIシステム開発",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "title": "16GB→32GBメモリ増設が888円。GPUや電源も強化できるドスパラ大決算",
+      "link": "https://ascii.jp/elem/000/004/419/4419218/?rss",
+      "date": "2026-07-14T18:00:00+09:00",
+      "dateLabel": "07/14 18:00",
+      "desc": "ドスパラでは現在、「ドスパラ大決算カスタマイズキャンペーン」を開催中。対象PCでは16GB→32GB（または8GB→16GB）のメモリ増設を888円で利用できるほか、対象PCごとにGeForce RTX 5060からGeForce RTX 5060 Ti 8GBへのグラフィックボード変更や、650Wから750W GOLD電源へのアップグレードも888円で提供",
+      "img": "https://ascii.jp/img/2026/07/05/4494759/s/c219b998a3ab2e3c.jpg",
       "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
-      "title": "ファミマ、3日で2000足売れた「FAMIMA」ソックスを全国販売",
-      "link": "https://ascii.jp/elem/000/004/419/4419516/?rss",
-      "date": "2026-07-14T14:30:00+09:00",
-      "dateLabel": "07/14 14:30",
-      "desc": "ファミリーマートは7月14日、旗艦店「FAMIMA PARK AZABUDAI」で先行販売していた「FAMIMA」関連商品を、全国約1万6400店で数量限定発売すると発表した。",
-      "img": "https://ascii.jp/img/2026/07/14/4500307/s/77a3b922e1010a4e.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "人もスマホも冷却できるハンディファン登場。スマホ冷却機能と安全性を両立｜IRIE（アイリー）",
-      "link": "https://ascii.jp/elem/000/004/419/4419590/?rss",
-      "date": "2026-07-14T14:05:30+09:00",
-      "dateLabel": "07/14 14:05",
-      "desc": "人もスマホも冷却できるハンディファン登場。スマホ冷却機能と安全性を両立｜IRIE（アイリー）",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "株式会社アピリッツの子会社、株式会社Y'sが「生成AI人材」の育成を支援する新サービス「Edtech Training」を提供開始！",
-      "link": "https://ascii.jp/elem/000/004/419/4419587/?rss",
-      "date": "2026-07-14T14:00:00+09:00",
-      "dateLabel": "07/14 14:00",
-      "desc": "株式会社アピリッツの子会社、株式会社Y'sが「生成AI人材」の育成を支援する新サービス「Edtech Training」を提供開始！",
+      "title": "生成AIとモダナイゼーション実践知でレガシーシステムの刷新を加速する「Fujitsu AIドリブンモダナイゼーションサービス」を提供開始",
+      "link": "https://ascii.jp/elem/000/004/419/4419621/?rss",
+      "date": "2026-07-14T16:58:40+09:00",
+      "dateLabel": "07/14 16:58",
+      "desc": "生成AIとモダナイゼーション実践知でレガシーシステムの刷新を加速する「Fujitsu AIドリブンモダナイゼーションサービス」を提供開始",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "SHIFT AI、愛知県蒲郡市にて農業従事者向けのChatGPT活用講義を開催",
-      "link": "https://ascii.jp/elem/000/004/419/4419575/?rss",
-      "date": "2026-07-14T14:00:00+09:00",
-      "dateLabel": "07/14 14:00",
-      "desc": "SHIFT AI、愛知県蒲郡市にて農業従事者向けのChatGPT活用講義を開催",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -203,28 +170,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "人型家事ロボット「Neo」向けに人間の腱のように自在に動く新型ハンドの「NEO’s Hands」が登場",
-      "link": "https://gigazine.net/news/20260713-neo-hands/",
-      "date": "2026-07-13T17:15:00+09:00",
-      "dateLabel": "07/13 17:15",
-      "desc": "アメリカ・カリフォルニア州に拠点を置く1X Technologiesの家事お手伝いヒューマノイドロボット「NEO」向けに、25自由度(DOF)を備え人間の腱(けん)のように駆動する「NEO's Hands」が発表されました。NEO's Handsにより、人間とほぼ同等の器用さ、力強さ、安全性、信頼性を実現するとのことです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "Claude Codeは指示前の初期データだけで約3万3000トークンを使用、実用構成では約7万5000トークンに",
-      "link": "https://gigazine.net/news/20260713-claude-code-consuming-token/",
-      "date": "2026-07-13T16:20:00+09:00",
-      "dateLabel": "07/13 16:20",
-      "desc": "AnthropicのAIコーディング支援ツール「Claude Code」は、利用者が入力した指示を処理する前に約3万3000トークンを使用しており、AIと外部ツールを接続する共通規格「Model Context Protocol(MCP)」対応サーバーや指示ファイルなどを追加した環境では約7万5000トークンまで増えるという測定結果をAIコンサルティング企業",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -250,36 +195,91 @@
       "score": 34
     },
     {
-      "title": "株式会社if、福祉業界のシステム内製化をAI駆動開発研修で伴走支援──多拠点・在宅スタッフを抱える福祉事業者の「外注に頼らないDX」を実現へ",
-      "link": "https://ascii.jp/elem/000/004/419/4419570/?rss",
-      "date": "2026-07-14T15:10:00+09:00",
-      "dateLabel": "07/14 15:10",
-      "desc": "株式会社if、福祉業界のシステム内製化をAI駆動開発研修で伴走支援──多拠点・在宅スタッフを抱える福祉事業者の「外注に頼らないDX」を実現へ",
+      "title": "Thunderbolt 5対応で最大6622MB/s、OWC「Express 4M2 Ultra」外付けSSDエンクロージャ登場",
+      "link": "https://ascii.jp/elem/000/004/419/4419599/?rss",
+      "date": "2026-07-14T17:00:00+09:00",
+      "dateLabel": "07/14 17:00",
+      "desc": "アスクは、Thunderbolt 5対応の外付けSSDエンクロージャ「OWC Express 4M2 Ultra」シリーズの取り扱いを開始。M.2 SSDを最大4枚搭載でき、RAID構成時は最大6622MB/sの高速転送を実現。映像編集や大容量データ処理に最適な新製品を紹介します。",
+      "img": "https://ascii.jp/img/2026/07/14/4500399/s/17ba97e5f74ebfa7.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "VAIOの対象ノートが1万円引き、Core 5／7はさらに5000円引き。サマーキャンペーン開催中",
+      "link": "https://ascii.jp/elem/000/004/418/4418841/?rss",
+      "date": "2026-07-14T17:00:00+09:00",
+      "dateLabel": "07/14 17:00",
+      "desc": "VAIOストアでは現在、「VAIOストア サマーキャンペーン2026」を開催中。対象ノートPCは本体価格から1万円引きとなり、Core 5／Core 7を選択すると、さらに5000円引き。新規会員登録でもらえる最大2万5000円引きクーポンも併用できる。期間は8月5日午前9時59分まで。",
+      "img": "https://ascii.jp/img/2026/06/04/4478124/s/5f78f491dcf9ccc2.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "サイバーリンク、写真編集ソフト「PhotoDirector」に「AI 動画試着」を追加、「チャットで画像編集」機能を強化",
+      "link": "https://ascii.jp/elem/000/004/419/4419622/?rss",
+      "date": "2026-07-14T16:31:59+09:00",
+      "dateLabel": "07/14 16:31",
+      "desc": "サイバーリンク、写真編集ソフト「PhotoDirector」に「AI 動画試着」を追加、「チャットで画像編集」機能を強化",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "スマホで気軽に参加できる、次世代AIスタンプラリー「間違い探しラリー ～グッド＆ラッキーのお助けクエスト～」",
-      "link": "https://ascii.jp/elem/000/004/419/4419592/?rss",
-      "date": "2026-07-14T15:00:00+09:00",
-      "dateLabel": "07/14 15:00",
-      "desc": "スマホで気軽に参加できる、次世代AIスタンプラリー「間違い探しラリー ～グッド＆ラッキーのお助けクエスト～」",
+      "title": "「AIによる雇用喪失」のリスクを警鐘する緊急声明が発表される、16人のノーベル賞受賞者やGoogle元CEOなど著名な経済学者やテック界の大物が署名",
+      "link": "https://gigazine.net/news/20260714-prepare-for-ai-statement/",
+      "date": "2026-07-14T16:30:00+09:00",
+      "dateLabel": "07/14 16:30",
+      "desc": "Stanford Digital Economy Labが「We Must Act Now(今すぐ行動しなければならない)」と題した声明を発表しました。声明はAIが世界の雇用にもたらす影響の深刻さについて警鐘を鳴らすもので、16人のノーベル賞受賞者やGoogle元CEOであるのエリック・シュミット氏を含む著名な経済学者やAI研究者が署名しています。 続きを読",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "AI従業員「TechHive Agent」、グループ会社の採用業務で3ヶ月運用 - 応募1件あたり20分の人手対応がゼロに、採用体制は3名から1名へ",
+      "link": "https://ascii.jp/elem/000/004/419/4419607/?rss",
+      "date": "2026-07-14T16:00:00+09:00",
+      "dateLabel": "07/14 16:00",
+      "desc": "AI従業員「TechHive Agent」、グループ会社の採用業務で3ヶ月運用 - 応募1件あたり20分の人手対応がゼロに、採用体制は3名から1名へ",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "【介護DX】「話すだけ」で記録・申し送りを効率化。音声認識AI「モコボイス」がCareTEX福岡’26に出展",
-      "link": "https://ascii.jp/elem/000/004/419/4419566/?rss",
-      "date": "2026-07-14T15:00:00+09:00",
-      "dateLabel": "07/14 15:00",
-      "desc": "【介護DX】「話すだけ」で記録・申し送りを効率化。音声認識AI「モコボイス」がCareTEX福岡’26に出展",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
+      "title": "AIが「ホームディレクトリ全削除」 重要データ消失で相次ぐ悲劇",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/14/news031.html",
+      "date": "2026-07-14T13:00:00+09:00",
+      "dateLabel": "07/14 13:00",
+      "desc": "Dockerは、AIコーディングエージェントが開発者のmacOSのホームディレクトリを丸ごと削除した事例を解説した。問題はAIの賢さではなく、エージェントが開発者本人の権限でホストのシェルを直接実行する構造そのものにあり、「モデルの判断とシェルの実行の間に境界が存在しないことが原因だ」との見解を示している。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "LinkedInの長文投稿の約40％はAIによって作成されたもの",
+      "link": "https://gigazine.net/news/20260714-linkedin-longform-content-ai/",
+      "date": "2026-07-14T12:19:00+09:00",
+      "dateLabel": "07/14 12:19",
+      "desc": "ビジネス系SNS「LinkedIn」を調査したところ、長文投稿の40.5％がAI生成だった、というレポートが発表されました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "日本企業の“鬼門”、アクセンチュアは突破できるか？ OpenAIとの協業で狙う「業務効率化超え」",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2607/13/news017.html",
+      "date": "2026-07-14T08:00:00+09:00",
+      "dateLabel": "07/14 08:00",
+      "desc": "AIを実証実験や一部業務の効率化で止めず、全社の変革へ――。多くの企業が向き合うこの課題に、アクセンチュアはOpenAIとどう取り組むのか。これまで“鬼門”だった、部門をまたいだ業務プロセス改革の突破方法とは。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 26
     }
   ]
