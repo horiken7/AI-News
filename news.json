@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-14T22:07:25.713168+09:00",
-  "generatedLabel": "2026/07/14 22:07",
+  "generatedAt": "2026-07-15T00:16:34.708856+09:00",
+  "generatedLabel": "2026/07/15 00:16",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 51,
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 9
     },
     {
       "source": "CNET Japan",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 6
+      "items": 7
     },
     {
       "source": "AINOW",
@@ -228,6 +228,17 @@
       "score": 34
     },
     {
+      "title": "より小さなソフトウェアエンジニアリングチームを、2029年までに60％の組織が本格展開するとの予測、ガートナー",
+      "link": "https://www.publickey1.jp/blog/26/202960.html",
+      "date": "2026-07-15T00:51:18+09:00",
+      "dateLabel": "07/15 00:51",
+      "desc": "調査会社のガートナーは、2029年までに60％の組織がより小さなソフトウェアエンジニアリングチームを本格的に展開するだろうとの予測を発表しました。 人間とAIの強みを活かすためのチームの再編成 この背景には、AIの発達によって人間に代わって...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "銀河怪獣やっつけて帰ってきたら地球が凍り付いていた件について。主人公と登場するロボットの友情物語『スノウボールアース』",
       "link": "https://ascii.jp/elem/000/004/419/4419307/?rss",
       "date": "2026-07-14T19:30:00+09:00",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "LinkedInの長文投稿の約40％はAIによって作成されたもの",
-      "link": "https://gigazine.net/news/20260714-linkedin-longform-content-ai/",
-      "date": "2026-07-14T12:19:00+09:00",
-      "dateLabel": "07/14 12:19",
-      "desc": "ビジネス系SNS「LinkedIn」を調査したところ、長文投稿の40.5％がAI生成だった、というレポートが発表されました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
       "score": 26
     }
   ]
