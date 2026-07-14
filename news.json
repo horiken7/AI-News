@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-15T07:46:28.028469+09:00",
-  "generatedLabel": "2026/07/15 07:46",
+  "generatedAt": "2026-07-15T08:42:17.514212+09:00",
+  "generatedLabel": "2026/07/15 08:42",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 48,
+  "candidates": 51,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 16
+      "items": 17
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 8
+      "items": 9
     },
     {
       "source": "CNET Japan",
@@ -85,6 +85,17 @@
       "score": 50
     },
     {
+      "title": "Google DeepMindのハサビスCEO、米国主導の「フロンティアAI標準化機関」設立を提唱",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000192/",
+      "date": "2026-07-15T07:25:13+09:00",
+      "dateLabel": "07/15 07:25",
+      "desc": "Google DeepMindのデミス・ハサビスCEOは、AGIの実現は「おそらくあと数年」だとして、米国主導でフロンティアAIモデルをリリース前に審査する標準化機関の設立を提唱するエッセイを公開した。金融業界の自主規制機関FINRAをモデルとし、将来的には審査通過を米国市場での展開の条件とする構想だ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
+      "score": 42
+    },
+    {
       "title": "Appleのオンデバイス音声認識API「SpeechAnalyzer」が英語ベンチマークでWhisper Smallを上回る",
       "link": "https://gigazine.net/news/20260714-apple-speech-analyzer-benchmark/",
       "date": "2026-07-14T15:30:00+09:00",
@@ -129,15 +140,26 @@
       "score": 42
     },
     {
-      "title": "「ChatGPT Work」「Codex」の5時間制限枠を一時解除 「GPT-5.6 Sol」の処理効率も改良へ",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/13/2000000186/",
-      "date": "2026-07-13T13:06:08+09:00",
-      "dateLabel": "07/13 13:06",
-      "desc": "米OpenAIは、デスクトップ向けAIツール「ChatGPT Work」や、付随するAIコーディングエージェント「Codex」に設定されている5時間の利用制限枠を一時的に解除すると発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
+      "title": "ユニットコム、RTX 5070 Ti×Core Ultra 7 270HX Plus搭載16型クリエイターPCを発売",
+      "link": "https://ascii.jp/elem/000/004/419/4419662/?rss",
+      "date": "2026-07-15T08:30:00+09:00",
+      "dateLabel": "07/15 08:30",
+      "desc": "ユニットコムが、GeForce RTX 5070 Ti Laptop GPUとインテル Core Ultra 7 270HX Plusを搭載した16型クリエイター向けノートPC「SENSE-16WR173-U7P-UKSX」を7月14日に追加。販売価格は469,800円で、BTO対応。WQUXGAパネルやPantone認定の色再現、最大120Hz表示などの特",
+      "img": "https://ascii.jp/img/2026/07/15/4500684/s/2e4675749c163386.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "LEVEL∞、RTX 5070 Ti Laptop GPU搭載16型ゲーミングノート発売 300Hz対応でゲームもAIも快適",
+      "link": "https://ascii.jp/elem/000/004/419/4419660/?rss",
+      "date": "2026-07-15T08:15:00+09:00",
+      "dateLabel": "07/15 08:15",
+      "desc": "ユニットコムがLEVEL∞の16型ゲーミングノートPC「LEVEL-16WR174-U7P-UKSX」を7月14日に追加。GeForce RTX 5070 Ti Laptop GPU、Core Ultra 7 270HX Plus、最大300Hz表示対応WQXGA液晶を備え、価格は399,800円だ。",
+      "img": "https://ascii.jp/img/2026/07/15/4500683/s/889e9a0a31c1b30f.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
     },
     {
       "title": "「RPA負債」をこれで解消 言葉で指示するだけでPC作業を自動化する最新AI",
@@ -184,17 +206,6 @@
       "score": 34
     },
     {
-      "title": "【会場案内マップ公開】国内外のイノベーション企業が集結！注目エリア「香港AI NEXT」も新設",
-      "link": "https://ascii.jp/elem/000/004/419/4419633/?rss",
-      "date": "2026-07-14T18:00:00+09:00",
-      "dateLabel": "07/14 18:00",
-      "desc": "【会場案内マップ公開】国内外のイノベーション企業が集結！注目エリア「香港AI NEXT」も新設",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "AIエージェントと人間を見分けるCloudflareの新技術「Precursor」が登場、人間っぽく振る舞うAIをサイト内の行動から見破る",
       "link": "https://gigazine.net/news/20260714-cloudflare-precursor/",
       "date": "2026-07-14T11:15:00+09:00",
@@ -215,6 +226,17 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
+    },
+    {
+      "title": "AIエージェントのコスト、どこに「消えて」いる？ Google Cloudが調査で浮上した“クラウド利用の盲点”",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2607/14/news039.html",
+      "date": "2026-07-15T08:00:00+09:00",
+      "dateLabel": "07/15 08:00",
+      "desc": "AIエージェントの本番運用段階で、多くの企業がコストの問題に直面している。本番運用段階におけるコストは一体どこに「消えている」のか。Google Cloudの調査から浮かび上がった、AIエージェントの本番運用がITインフラにもたらす負荷の正体と、コスト抑制の手掛かりとは。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 26
     },
     {
       "title": "機内の無料Wi-Fiがここまで進化！ Starlinkで300Mbps超、動画も仕事も快適だった",
@@ -258,28 +280,6 @@
       "img": "https://ascii.jp/img/2026/07/14/4500159/s/1065d8e2b744565c.jpg",
       "src": "ASCII.jp",
       "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "CLIP STUDIO PAINT × TVアニメ『涼宮ハルヒの憂鬱』20周年記念コラボをコミックマーケット108で開催",
-      "link": "https://ascii.jp/elem/000/004/419/4419639/?rss",
-      "date": "2026-07-14T18:10:44+09:00",
-      "dateLabel": "07/14 18:10",
-      "desc": "CLIP STUDIO PAINT × TVアニメ『涼宮ハルヒの憂鬱』20周年記念コラボをコミックマーケット108で開催",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "「AIによる雇用喪失」のリスクを警鐘する緊急声明が発表される、16人のノーベル賞受賞者やGoogle元CEOなど著名な経済学者やテック界の大物が署名",
-      "link": "https://gigazine.net/news/20260714-prepare-for-ai-statement/",
-      "date": "2026-07-14T16:30:00+09:00",
-      "dateLabel": "07/14 16:30",
-      "desc": "Stanford Digital Economy Labが「We Must Act Now(今すぐ行動しなければならない)」と題した声明を発表しました。声明はAIが世界の雇用にもたらす影響の深刻さについて警鐘を鳴らすもので、16人のノーベル賞受賞者やGoogle元CEOであるのエリック・シュミット氏を含む著名な経済学者やAI研究者が署名しています。 続きを読",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
       "score": 26
     }
   ]
