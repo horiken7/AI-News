@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-15T08:42:17.514212+09:00",
-  "generatedLabel": "2026/07/15 08:42",
+  "generatedAt": "2026-07-15T10:22:38.699801+09:00",
+  "generatedLabel": "2026/07/15 10:22",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 51,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 10
     },
     {
       "source": "PC Watch",
@@ -140,6 +140,28 @@
       "score": 42
     },
     {
+      "title": "RTX 4050搭載のMSI製14型ゲーミングノートが20万9800円！ 最新ゲームも快適に遊べるオトクな一台",
+      "link": "https://ascii.jp/elem/000/004/419/4419646/?rss",
+      "date": "2026-07-15T09:00:00+09:00",
+      "dateLabel": "07/15 09:00",
+      "desc": "Amazon.co.jpにて、MSIの14型ゲーミングノートPC「Cyborg 14 A2RV」が販売中だ。インテル「Core 7 240H」とNVIDIA「GeForce RTX 4050」を搭載するモデルで、価格は20万9800円。",
+      "img": "https://ascii.jp/img/2026/07/14/4500493/s/3b9f1871f6419b85.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "AIエージェントが顧客対応から“恋愛相談”まで マッチングアプリwithのCSを変えたチャネルトーク",
+      "link": "https://ascii.jp/elem/000/004/418/4418818/?rss",
+      "date": "2026-07-15T09:00:00+09:00",
+      "dateLabel": "07/15 09:00",
+      "desc": "「AIで顧客の声を聞かない。 AIで顧客に向き合う。皆様はどちらでしょうか」―― 日本進出11年目に開催された基幹イベントにてこう語ったのはChannel Corporationの日本法人代表の崔在鎔（Joy Choi）氏だ。",
+      "img": "https://ascii.jp/img/2026/07/12/4499233/s/b5abf0f80bc966f0.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
       "title": "ユニットコム、RTX 5070 Ti×Core Ultra 7 270HX Plus搭載16型クリエイターPCを発売",
       "link": "https://ascii.jp/elem/000/004/419/4419662/?rss",
       "date": "2026-07-15T08:30:00+09:00",
@@ -195,14 +217,14 @@
       "score": 34
     },
     {
-      "title": "AIが出した正解が、会議で止まる。THUNDER、「AI時代に人間へ残る仕事」だけを鍛える法人研修を提供開始",
-      "link": "https://ascii.jp/elem/000/004/419/4419631/?rss",
-      "date": "2026-07-14T18:21:22+09:00",
-      "dateLabel": "07/14 18:21",
-      "desc": "AIが出した正解が、会議で止まる。THUNDER、「AI時代に人間へ残る仕事」だけを鍛える法人研修を提供開始",
+      "title": "株式会社Mavericksは、動画生成AI「NoLang」のエディタを刷新し、生成から仕上げまでを1画面に統合。ドラッグ操作だけで直感的に編集でき、動画制作にかかる時間を短縮",
+      "link": "https://ascii.jp/elem/000/004/419/4419670/?rss",
+      "date": "2026-07-14T19:02:06+09:00",
+      "dateLabel": "07/14 19:02",
+      "desc": "株式会社Mavericksは、動画生成AI「NoLang」のエディタを刷新し、生成から仕上げまでを1画面に統合。ドラッグ操作だけで直感的に編集でき、動画制作にかかる時間を短縮",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AI全般",
+      "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
@@ -228,7 +250,18 @@
       "score": 34
     },
     {
-      "title": "AIエージェントのコスト、どこに「消えて」いる？ Google Cloudが調査で浮上した“クラウド利用の盲点”",
+      "title": "約500gの超軽量！ ONPU、14インチタッチ対応ポータブルモニターを発売",
+      "link": "https://ascii.jp/elem/000/004/419/4419667/?rss",
+      "date": "2026-07-15T10:15:00+09:00",
+      "dateLabel": "07/15 10:15",
+      "desc": "KURUKURUの家電ブランドONPUが、約500gの軽量設計とタッチ操作に対応した14インチモバイルモニター「ポータブルディスプレイ14 タッチ」を発売した。WUXGAのノングレアIPSパネルを採用し、USB Type-Cケーブル1本で映像出力と給電が可能だという。",
+      "img": "https://ascii.jp/img/2026/07/15/4500716/s/b4a81df1ad187e8c.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "AIエージェントのコスト、どこに「消えて」いる？ Google Cloud調査で浮上した“クラウド利用の盲点”",
       "link": "https://www.itmedia.co.jp/enterprise/articles/2607/14/news039.html",
       "date": "2026-07-15T08:00:00+09:00",
       "dateLabel": "07/15 08:00",
@@ -247,39 +280,6 @@
       "img": "https://ascii.jp/img/2026/07/14/4500283/s/f17b654ea329dc8d.png",
       "src": "ASCII.jp",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "ユナイテッドアローズ「売れた理由が分からない」 爆速開発の独自AIでどう解消？",
-      "link": "https://kn.itmedia.co.jp/kn/articles/2607/15/news011.html",
-      "date": "2026-07-15T07:00:00+09:00",
-      "dateLabel": "07/15 07:00",
-      "desc": "店舗では「売れた理由」が分かっていても、その気付きは本部まで届かない。週報では拾い切れない現場の知見をどう生かすのか。ユナイテッドアローズは、課題解決のためAIエージェントの独自開発に乗り出した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "より小さなソフトウェアエンジニアリングチームを、2029年までに60％の組織が本格展開するとの予測、ガートナー",
-      "link": "https://www.publickey1.jp/blog/26/202960.html",
-      "date": "2026-07-15T00:51:18+09:00",
-      "dateLabel": "07/15 00:51",
-      "desc": "調査会社のガートナーは、2029年までに60％の組織がより小さなソフトウェアエンジニアリングチームを本格的に展開するだろうとの予測を発表しました。 人間とAIの強みを活かすためのチームの再編成 この背景には、AIの発達によって人間に代わって...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "銀河怪獣やっつけて帰ってきたら地球が凍り付いていた件について。主人公と登場するロボットの友情物語『スノウボールアース』",
-      "link": "https://ascii.jp/elem/000/004/419/4419307/?rss",
-      "date": "2026-07-14T19:30:00+09:00",
-      "dateLabel": "07/14 19:30",
-      "desc": "これまでアニメ新番組特集で紹介してきた数千に上るアニメ作品。その中から、いま観るべき作品をピックアップしてお届け。第32回はSF×怪獣×ロボットアニメ『スノウボールアース』",
-      "img": "https://ascii.jp/img/2026/07/14/4500159/s/1065d8e2b744565c.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
       "score": 26
     }
   ]
