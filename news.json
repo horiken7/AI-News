@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-15T10:22:38.699801+09:00",
-  "generatedLabel": "2026/07/15 10:22",
+  "generatedAt": "2026-07-15T13:40:55.876898+09:00",
+  "generatedLabel": "2026/07/15 13:40",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 10
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 9
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -74,15 +74,70 @@
       "score": 50
     },
     {
-      "title": "AnthropicがClaudeの性格調査結果を公開、「英語とロシア語ではエビデンスを求めがち」「日本語は偏り小さめ」「Sonnet 4.6は温かみがある」など",
-      "link": "https://gigazine.net/news/20260714-anthropic-claude-value/",
-      "date": "2026-07-14T11:20:00+09:00",
-      "dateLabel": "07/14 11:20",
-      "desc": "AnthropicがAIモデルの出力傾向分析結果を2026年7月13日に発表しました。分析対象は「Claude Sonnet 4.6」「Claude Opus 4.6」「Claude Opus 4.7」の3モデルで、モデルや言語によって温かさや簡潔さといった出力傾向の違いが生じることが明らかになっています。 続きを読む...",
+      "title": "Claudeの教師向けバージョン「Claude for Teachers」が登場、カリキュラムに沿って教材を生成可能",
+      "link": "https://gigazine.net/news/20260715-claude-for-teachers/",
+      "date": "2026-07-15T13:20:00+09:00",
+      "dateLabel": "07/15 13:20",
+      "desc": "現地時間の2026年7月14日、AIスタートアップのAnthropicが「Claude for Teachers」を発表しました。Claude for Teachersはアメリカの幼稚園から高校までの認定を受けた教育者向けのAIで、Claudeのプレミアム機能や教育スキルライブラリ、アメリカの全50州の学術基準に準拠したエビデンスに基づいたカリキュラムなどへ",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 50
+      "score": 42
+    },
+    {
+      "title": "最大14万円オフは見逃せない！ マウスコンピューター夏の大型セール開始",
+      "link": "https://ascii.jp/elem/000/004/419/4419787/?rss",
+      "date": "2026-07-15T13:00:00+09:00",
+      "dateLabel": "07/15 13:00",
+      "desc": "マウスコンピューターが「ビッグサマーセール」を8月5日まで開催。G TUNEやDAIV、mouseブランドのノートPC・デスクトップPCが最大14万円引きに。Copilot+ PCやゲーミングPCなど対象モデルを紹介します。",
+      "img": "https://ascii.jp/img/2026/07/15/4500898/s/936c0263cb195aa7.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "生成AIを支えるのはGPUだけじゃない。電力ロスを減らす「半導体材料」の話",
+      "link": "https://ascii.jp/elem/000/004/414/4414363/?rss",
+      "date": "2026-07-15T12:00:00+09:00",
+      "dateLabel": "07/15 12:00",
+      "desc": "生成AIを支えるのは、GPUだけではない。大量のサーバーを動かすAI時代には、電気をムダなく使う技術も重要になる。立命館大学発Patentixが開発する次世代パワー半導体材料GeO₂とは。",
+      "img": "https://ascii.jp/img/2026/06/29/4490943/s/100f14c14b9e899b.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "OpenAI初のAIハードウェアは「自律走行可能な画面なしスマートスピーカー」か",
+      "link": "https://gigazine.net/news/20260715-openai-first-device-ai-speaker/",
+      "date": "2026-07-15T11:33:00+09:00",
+      "dateLabel": "07/15 11:33",
+      "desc": "ChatGPTの開発元であるOpenAIは、Appleの元デザイナーであるジョニー・アイブ氏のデバイススタートアップ「io」を買収し、「世界がこれまでに見た中で最もクール」なAIハードウェアを開発中であることを明かしています。このAIハードウェアは、画面のないスピーカーとなり、自律走行可能であるとBloombergが報じました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "Anthropic、米K-12教員向け「Claude for Teachers」無料提供 「Claude Code」や「Cowork」も含む",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000193/",
+      "date": "2026-07-15T11:25:28+09:00",
+      "dateLabel": "07/15 11:25",
+      "desc": "Anthropicは、米国の幼稚園から高校までの教員向け新サービス「Claude for Teachers」を発表した。認証を受けた米国の教育者は、Claudeのプレミアム機能や州の基準に沿った授業案作成ツールを無料で利用できる。モデルのトレーニングに生徒のデータは使用されず、教育プライバシー法にも準拠している。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
+      "score": 42
+    },
+    {
+      "title": "「ニューイット受注」のAI OCRが大型アップデート。注文対応や見積回答の運用自動化に対して最適なデータ品質・形式で、注文書・見積依頼書の読み取りから基幹登録までを完全自動で完了",
+      "link": "https://ascii.jp/elem/000/004/419/4419792/?rss",
+      "date": "2026-07-15T11:15:04+09:00",
+      "dateLabel": "07/15 11:15",
+      "desc": "「ニューイット受注」のAI OCRが大型アップデート。注文対応や見積回答の運用自動化に対して最適なデータ品質・形式で、注文書・見積依頼書の読み取りから基幹登録までを完全自動で完了",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
     },
     {
       "title": "Google DeepMindのハサビスCEO、米国主導の「フロンティアAI標準化機関」設立を提唱",
@@ -107,80 +162,58 @@
       "score": 42
     },
     {
-      "title": "Intelがアイルランド工場に50億ユーロを投じて3nmプロセスの生産ラインを拡張へ、Intel 3ノードでXeon 6を大量生産する計画",
-      "link": "https://gigazine.net/news/20260714-intel-invest-europe-xeon/",
-      "date": "2026-07-14T12:27:00+09:00",
-      "dateLabel": "07/14 12:27",
-      "desc": "Intelがアイルランドに設置している半導体工場に50億ユーロ(約9200億円)を投資する計画を発表しました。 続きを読む...",
+      "title": "Google DeepMindのデミス・ハサビスCEOが「最先端AIを規制するための独立した標準機関」の設立を呼びかけ、OpenAIやMicrosoftのCEOも賛同",
+      "link": "https://gigazine.net/news/20260715-google-deepmind-demmis-hassabis-ai-framework/",
+      "date": "2026-07-15T12:30:00+09:00",
+      "dateLabel": "07/15 12:30",
+      "desc": "Google DeepMindの共同創業者で、タンパク質構造予測AIの研究で2024年度ノーベル化学賞を受賞したデミス・ハサビスCEOが、「最先端のAIモデルを科学的に評価し、深刻なリスクを管理するための新たな標準機関」をアメリカに設立するよう提案しました。この提案に対し、OpenAIのサム・アルトマンCEOやMicrosoftのサティア・ナデラCEO、Go",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 42
+      "cat": "規制/安全",
+      "score": 34
     },
     {
-      "title": "Dropbox、Claude連携スタート ChatGPT、Geminiに続き……「AI共通のコンテンツ基盤」に",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/14/2000000190/",
-      "date": "2026-07-14T12:02:51+09:00",
-      "dateLabel": "07/14 12:02",
-      "desc": "既存の「ChatGPT」や「Gemini」との連携も拡大。主要なAIプラットフォームをまたいでDropboxをコンテンツ基盤として使えるようにする。",
+      "title": "iPhoneでローカル実行可能な270億パラメータのAIモデル「Bonsai 27B」が登場、Qwen3.6-27Bをメモリ使用量3.9GBまで小型化してスマホ単体で実用的な速度で動作",
+      "link": "https://gigazine.net/news/20260715-bonsai-27b/",
+      "date": "2026-07-15T12:10:00+09:00",
+      "dateLabel": "07/15 12:10",
+      "desc": "AI開発企業のPrismMLが270億パラメータのAIモデルをスマートフォンで動かせるように圧縮した「Bonsai 27B」を正式発表しました。容量を3.9GBに抑えた1ビット版でも元になった「Qwen3.6-27B」の性能を約90％維持しているとPrismMLは説明しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "AIインサイドセールス「immedio」、AIエンゲージ分析・ページ訪問履歴・AI意図分析の3機能をリリース",
+      "link": "https://ascii.jp/elem/000/004/419/4419805/?rss",
+      "date": "2026-07-15T11:00:00+09:00",
+      "dateLabel": "07/15 11:00",
+      "desc": "AIインサイドセールス「immedio」、AIエンゲージ分析・ページ訪問履歴・AI意図分析の3機能をリリース",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "Google画像検索が提供開始25周年を迎えて刷新へ、「AIによる概要」で画像生成が可能に",
+      "link": "https://gigazine.net/news/20260715-google-image-25th/",
+      "date": "2026-07-15T10:58:00+09:00",
+      "dateLabel": "07/15 10:58",
+      "desc": "Googleが、Google画像検索の提供開始25周年に合わせて、検索前からウェブ上の画像を閲覧できる新しいホーム画面と、検索結果の「AIによる概要」で画像を生成できる機能を発表しました。画像を探すだけでなく、利用者の関心に沿った画像を眺めたり、求める画像をその場で生成したりできるサービスへと刷新されます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "「バズるほど赤字だった」──野田クリスタルのAIペットカードゲーム、公開停止からの復活劇を本人に聞いた",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000191/",
+      "date": "2026-07-15T10:00:00+09:00",
+      "dateLabel": "07/15 10:00",
+      "desc": "野田クリスタルさんがGeminiで開発した「ペットカードジェネレーター」は初日に130万アクセスを集めるも、AI利用料の高騰で一時停止に。「うちのこカード伝説」として復活するまでの舞台裏を、野田さんと電通の開発者に聞いた。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "Claude、利用制限を全リセット 競合「GPT-5.6」公開と同日……OpenAI幹部「ビビってるね」",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000179/",
-      "date": "2026-07-13T13:27:45+09:00",
-      "dateLabel": "07/13 13:27",
-      "desc": "OpenAIが「GPT-5.6」を一般公開した同日、AnthropicがClaude全ユーザーの利用制限を一斉リセット。OpenAI幹部の「ビビってるね」という煽り返信も話題だ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "RTX 4050搭載のMSI製14型ゲーミングノートが20万9800円！ 最新ゲームも快適に遊べるオトクな一台",
-      "link": "https://ascii.jp/elem/000/004/419/4419646/?rss",
-      "date": "2026-07-15T09:00:00+09:00",
-      "dateLabel": "07/15 09:00",
-      "desc": "Amazon.co.jpにて、MSIの14型ゲーミングノートPC「Cyborg 14 A2RV」が販売中だ。インテル「Core 7 240H」とNVIDIA「GeForce RTX 4050」を搭載するモデルで、価格は20万9800円。",
-      "img": "https://ascii.jp/img/2026/07/14/4500493/s/3b9f1871f6419b85.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "AIエージェントが顧客対応から“恋愛相談”まで マッチングアプリwithのCSを変えたチャネルトーク",
-      "link": "https://ascii.jp/elem/000/004/418/4418818/?rss",
-      "date": "2026-07-15T09:00:00+09:00",
-      "dateLabel": "07/15 09:00",
-      "desc": "「AIで顧客の声を聞かない。 AIで顧客に向き合う。皆様はどちらでしょうか」―― 日本進出11年目に開催された基幹イベントにてこう語ったのはChannel Corporationの日本法人代表の崔在鎔（Joy Choi）氏だ。",
-      "img": "https://ascii.jp/img/2026/07/12/4499233/s/b5abf0f80bc966f0.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "ユニットコム、RTX 5070 Ti×Core Ultra 7 270HX Plus搭載16型クリエイターPCを発売",
-      "link": "https://ascii.jp/elem/000/004/419/4419662/?rss",
-      "date": "2026-07-15T08:30:00+09:00",
-      "dateLabel": "07/15 08:30",
-      "desc": "ユニットコムが、GeForce RTX 5070 Ti Laptop GPUとインテル Core Ultra 7 270HX Plusを搭載した16型クリエイター向けノートPC「SENSE-16WR173-U7P-UKSX」を7月14日に追加。販売価格は469,800円で、BTO対応。WQUXGAパネルやPantone認定の色再現、最大120Hz表示などの特",
-      "img": "https://ascii.jp/img/2026/07/15/4500684/s/2e4675749c163386.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "LEVEL∞、RTX 5070 Ti Laptop GPU搭載16型ゲーミングノート発売 300Hz対応でゲームもAIも快適",
-      "link": "https://ascii.jp/elem/000/004/419/4419660/?rss",
-      "date": "2026-07-15T08:15:00+09:00",
-      "dateLabel": "07/15 08:15",
-      "desc": "ユニットコムがLEVEL∞の16型ゲーミングノートPC「LEVEL-16WR174-U7P-UKSX」を7月14日に追加。GeForce RTX 5070 Ti Laptop GPU、Core Ultra 7 270HX Plus、最大300Hz表示対応WQXGA液晶を備え、価格は399,800円だ。",
-      "img": "https://ascii.jp/img/2026/07/15/4500683/s/889e9a0a31c1b30f.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -195,47 +228,14 @@
       "score": 34
     },
     {
-      "title": "アップル、M6 Pro/Max見送りか AI強化のM7優先に？",
-      "link": "https://ascii.jp/elem/000/004/419/4419519/?rss",
-      "date": "2026-07-14T20:00:00+09:00",
-      "dateLabel": "07/14 20:00",
-      "desc": "アップルは通常版の「M6」チップは発売するものの、より高性能な「M6 Pro」、「M6 Max」チップを用意する予定はないと伝えられている。理由はAIにあるという。",
-      "img": "https://ascii.jp/img/2026/07/14/4500312/s/a8b4e857e0a60ed8.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "ゲーミングノートが11万円台！ RTX 3050・144Hz液晶搭載のMSI製15.6型「Thin 15 B13U」が17％オフ",
-      "link": "https://ascii.jp/elem/000/004/419/4419460/?rss",
-      "date": "2026-07-14T20:00:00+09:00",
-      "dateLabel": "07/14 20:00",
-      "desc": "MSIのゲーミングノートPC「Thin 15 B13U（Thin-15-B13UC-6113JP）」がAmazonタイムセール対象。参考価格144,800円のところ、17％オフの119,800円で販売中。Core i5-13420HやGeForce RTX 3050 Laptop GPU、16GBメモリ、512GB SSDを搭載するほか、15.6型フルHD・",
-      "img": "https://ascii.jp/img/2026/07/14/4500273/s/e3ded5d24fe6a275.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "株式会社Mavericksは、動画生成AI「NoLang」のエディタを刷新し、生成から仕上げまでを1画面に統合。ドラッグ操作だけで直感的に編集でき、動画制作にかかる時間を短縮",
-      "link": "https://ascii.jp/elem/000/004/419/4419670/?rss",
-      "date": "2026-07-14T19:02:06+09:00",
-      "dateLabel": "07/14 19:02",
-      "desc": "株式会社Mavericksは、動画生成AI「NoLang」のエディタを刷新し、生成から仕上げまでを1画面に統合。ドラッグ操作だけで直感的に編集でき、動画制作にかかる時間を短縮",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "AIエージェントと人間を見分けるCloudflareの新技術「Precursor」が登場、人間っぽく振る舞うAIをサイト内の行動から見破る",
-      "link": "https://gigazine.net/news/20260714-cloudflare-precursor/",
-      "date": "2026-07-14T11:15:00+09:00",
-      "dateLabel": "07/14 11:15",
-      "desc": "Cloudflareが2026年7月13日、ウェブサイトを訪れた利用者の操作をセッション全体にわたって分析し、人間によるアクセスとボットやAIエージェントによる自動操作を判別する新たな検証システム「Precursor」を発表しました。 続きを読む...",
+      "title": "Dropbox、Claude連携スタート ChatGPT、Geminiに続き……「AI共通のコンテンツ基盤」に",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/14/2000000190/",
+      "date": "2026-07-14T12:02:51+09:00",
+      "dateLabel": "07/14 12:02",
+      "desc": "既存の「ChatGPT」や「Gemini」との連携も拡大。主要なAIプラットフォームをまたいでDropboxをコンテンツ基盤として使えるようにする。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -250,36 +250,36 @@
       "score": 34
     },
     {
-      "title": "約500gの超軽量！ ONPU、14インチタッチ対応ポータブルモニターを発売",
-      "link": "https://ascii.jp/elem/000/004/419/4419667/?rss",
-      "date": "2026-07-15T10:15:00+09:00",
-      "dateLabel": "07/15 10:15",
-      "desc": "KURUKURUの家電ブランドONPUが、約500gの軽量設計とタッチ操作に対応した14インチモバイルモニター「ポータブルディスプレイ14 タッチ」を発売した。WUXGAのノングレアIPSパネルを採用し、USB Type-Cケーブル1本で映像出力と給電が可能だという。",
-      "img": "https://ascii.jp/img/2026/07/15/4500716/s/b4a81df1ad187e8c.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "AIエージェントのコスト、どこに「消えて」いる？ Google Cloud調査で浮上した“クラウド利用の盲点”",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2607/14/news039.html",
-      "date": "2026-07-15T08:00:00+09:00",
-      "dateLabel": "07/15 08:00",
-      "desc": "AIエージェントの本番運用段階で、多くの企業がコストの問題に直面している。本番運用段階におけるコストは一体どこに「消えている」のか。Google Cloudの調査から浮かび上がった、AIエージェントの本番運用がITインフラにもたらす負荷の正体と、コスト抑制の手掛かりとは。",
+      "title": "MetaがAIを用いて不当に従業員を解雇したとして元従業員に訴えられる",
+      "link": "https://gigazine.net/news/20260715-lawsuit-claims-meta-layoff-decisions-ai/",
+      "date": "2026-07-15T12:16:00+09:00",
+      "dateLabel": "07/15 12:16",
+      "desc": "MetaがAIを駆使し、障がい者や病気休暇中の従業員を不当に解雇したとして、同社を訴える新しい訴訟が提起されました。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
       "score": 26
     },
     {
-      "title": "機内の無料Wi-Fiがここまで進化！ Starlinkで300Mbps超、動画も仕事も快適だった",
-      "link": "https://ascii.jp/elem/000/004/419/4419436/?rss",
-      "date": "2026-07-15T07:30:00+09:00",
-      "dateLabel": "07/15 07:30",
-      "desc": "ZIPAIRが全機に無料で利用できるStarlinkを導入。成田―バンコク便で通信速度や動画視聴、オンライン会議まで実際に試し、その実力を検証してきました。",
-      "img": "https://ascii.jp/img/2026/07/14/4500283/s/f17b654ea329dc8d.png",
+      "title": "日テレAI-HRがAI活用における管理体制構築（AIインベントリ）をテーマにした無料ウェビナーを開催",
+      "link": "https://ascii.jp/elem/000/004/419/4419790/?rss",
+      "date": "2026-07-15T11:40:00+09:00",
+      "dateLabel": "07/15 11:40",
+      "desc": "日テレAI-HRがAI活用における管理体制構築（AIインベントリ）をテーマにした無料ウェビナーを開催",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "鳥栖市・東急不動産・T2 次世代型産業団地「サザン鳥栖クロスパーク」における自動運転トラックの実装に向けた全国初の官民連携協定締結",
+      "link": "https://ascii.jp/elem/000/004/419/4419807/?rss",
+      "date": "2026-07-15T11:00:00+09:00",
+      "dateLabel": "07/15 11:00",
+      "desc": "鳥栖市・東急不動産・T2 次世代型産業団地「サザン鳥栖クロスパーク」における自動運転トラックの実装に向けた全国初の官民連携協定締結",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
       "score": 26
     }
   ]
