@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-15T22:11:25.119676+09:00",
-  "generatedLabel": "2026/07/15 22:11",
+  "generatedAt": "2026-07-16T00:18:16.197286+09:00",
+  "generatedLabel": "2026/07/16 00:18",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 50,
+  "candidates": 49,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 7
+      "items": 6
     },
     {
       "source": "AINOW",
