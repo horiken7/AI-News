@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-16T05:02:18.181135+09:00",
-  "generatedLabel": "2026/07/16 05:02",
+  "generatedAt": "2026-07-16T06:48:07.812128+09:00",
+  "generatedLabel": "2026/07/16 06:48",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 49,
+  "candidates": 50,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -85,17 +85,6 @@
       "score": 50
     },
     {
-      "title": "富士通がNVIDIA「Rubin」対応の国産AIサーバを今秋製造へ ソブリン需要に対応",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/15/news045.html",
-      "date": "2026-07-15T06:15:00+09:00",
-      "dateLabel": "07/15 06:15",
-      "desc": "富士通は、ソブリンAIの需要に応える国産ハイエンドAIサーバやオンプレミス向け生成AI基盤を公開した。国内工場での一貫生産が特徴だ。2026年秋にはNVIDIAの最新GPU「Rubin」対応の新モデルの製造開始であると明かした。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
       "title": "Claudeの教師向けバージョン「Claude for Teachers」が登場、カリキュラムに沿って教材を生成可能",
       "link": "https://gigazine.net/news/20260715-claude-for-teachers/",
       "date": "2026-07-15T13:20:00+09:00",
@@ -138,6 +127,28 @@
       "src": "ITmedia AI+",
       "cat": "規制/安全",
       "score": 42
+    },
+    {
+      "title": "富士通がNVIDIA「Rubin」対応の国産AIサーバを今秋製造へ ソブリン需要に対応",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/15/news045.html",
+      "date": "2026-07-15T06:15:00+09:00",
+      "dateLabel": "07/15 06:15",
+      "desc": "富士通は、ソブリンAIの需要に応える国産ハイエンドAIサーバやオンプレミス向け生成AI基盤を公開した。国内工場での一貫生産が特徴だ。2026年秋にはNVIDIAの最新GPU「Rubin」対応の新モデルの製造開始であると明かした。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "AIの守りはAIの攻撃で鍛える、オープンAIが「LLMハッカー」を開発",
+      "link": "https://ascii.jp/elem/000/004/420/4420007/?rss",
+      "date": "2026-07-16T05:58:11+09:00",
+      "dateLabel": "07/16 05:58",
+      "desc": "オープンAIは、他のLLMを攻撃する「超高度ハッカー」GPT-Redを開発した。攻撃役のAIと防御役のAIを何度も戦わせる訓練を通じて、GPT-5.6は同社史上最も堅牢なモデルになったという。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "Callisto、タウンズと資本業務提携 医療データ基盤・AI活用基盤の構築を推進",
@@ -268,17 +279,6 @@
       "desc": "【7/27無料ウェビナー開催】機密会議でも使えるAI議事録とは？～SecureMemoのユースケースとデモで学ぶ、完全オフライン活用～",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "Cursorに「リポジトリを開くだけ」で任意コードが実行される脆弱性、報告から7カ月たっても修正されず研究者が全容公開",
-      "link": "https://gigazine.net/news/20260715-cursor-0day-disclosure/",
-      "date": "2026-07-15T15:30:00+09:00",
-      "dateLabel": "07/15 15:30",
-      "desc": "AIを使ったプログラミング支援機能を備えるコードエディター「Cursor」のWindows版で、細工されたリポジトリを開くだけで任意のプログラムが自動実行される脆弱(ぜいじゃく)性が見つかりました。発見したAIセキュリティ企業のMindgardは2025年12月にCursorへ報告したものの、約7カ月にわたり修正されず、十分な進捗報告も得られなかったとして2",
-      "img": "",
-      "src": "GIGAZINE",
       "cat": "AI全般",
       "score": 26
     }
