@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-16T07:48:46.372921+09:00",
-  "generatedLabel": "2026/07/16 07:48",
+  "generatedAt": "2026-07-16T08:50:18.841227+09:00",
+  "generatedLabel": "2026/07/16 08:50",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 50,
+  "candidates": 51,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -127,6 +127,39 @@
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
       "score": 42
+    },
+    {
+      "title": "iiyama PC、Core 7搭載17型ノート発売 144Hz液晶＆Copilotキー採用",
+      "link": "https://ascii.jp/elem/000/004/420/4420010/?rss",
+      "date": "2026-07-16T08:15:00+09:00",
+      "dateLabel": "07/16 08:15",
+      "desc": "ユニットコムがiiyama PC「STYLE∞」から、インテル Core 7 プロセッサー 240H搭載の17型ノートパソコンを発売。144Hz対応の17.3型フルHD液晶、Copilotキー、BTO対応などを備え、価格は154,800円だ。",
+      "img": "https://ascii.jp/img/2026/07/16/4501417/s/4ccdf9df487d488e.png",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "NVIDIAが「Jetson Thor」に新モジュール追加、高騰するメモリの使用量削減技術も",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/16/news052.html",
+      "date": "2026-07-16T08:00:00+09:00",
+      "dateLabel": "07/16 08:00",
+      "desc": "NVIDIAは、組み込みAIボード「Jetsonシリーズ」の最新製品である「NVIDIA Jetson AGX Thor」の新たな量産モジュールとして、消費電力や搭載メモリ容量などを抑えた「Jetson T3000」と「Jetson T2000」を追加すると発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "OpenAI、初のハードウェア「Codex Micro」を230ドルで発売 Apple提訴の渦中にある端末とは別物",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/16/news055.html",
+      "date": "2026-07-16T07:26:00+09:00",
+      "dateLabel": "07/16 07:26",
+      "desc": "OpenAIは、コーディング支援AI「Codex」向けの専用キーパッド「Codex Micro」を発売した。キーボードメーカーのWork Louderと共同開発した同社初のハードウェア製品で、価格は230ドル。なお、Appleによる営業秘密不正取得訴訟の渦中にある、開発中のAIデバイスとは別物だ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
+      "score": 34
     },
     {
       "title": "Anthropicと組んだNEC それでも森田社長が「4つの主権」にこだわる真意",
@@ -248,39 +281,6 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
-    },
-    {
-      "title": "Claude、NotebookLM、Genspark……238社が選んだ「現場が支持する」AIサービス",
-      "link": "https://kn.itmedia.co.jp/kn/articles/2607/16/news023.html",
-      "date": "2026-07-16T07:00:00+09:00",
-      "dateLabel": "07/16 07:00",
-      "desc": "IT製品・サービスの選定から導入まで、企業はどのような視点で判断しているのか。238件の読者アンケートの回答から、製品選びの基準や導入時の課題、注目を集めるサービスの傾向を探る。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "ゆうちゃみさんが登壇した台湾エクセレンス展にGIGABYTEが出展、最新のAIソリューションやPCを展示",
-      "link": "https://ascii.jp/elem/000/004/419/4419985/?rss",
-      "date": "2026-07-15T20:00:00+09:00",
-      "dateLabel": "07/15 20:00",
-      "desc": "台湾の先端技術とイノベーション製品を展示するイベント「2026 TAIWAN EXCELLENCE in TOKYO（台湾エクセレンス展）」にGIGABYTEが出展。ゲーミングモニターやクリエイター向けノートPCなどの最新製品を展示している。",
-      "img": "https://ascii.jp/img/2026/07/15/4501224/s/15ed07a3e849b50d.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "【申込100名突破】AIが絵を描き、音楽をつくる時代に「では、人間は。」を問う。養老孟司氏・糸井重里氏らが登壇する「EMS DAYS 2026」を9月12・13日に開催",
-      "link": "https://ascii.jp/elem/000/004/419/4419979/?rss",
-      "date": "2026-07-15T17:56:59+09:00",
-      "dateLabel": "07/15 17:56",
-      "desc": "【申込100名突破】AIが絵を描き、音楽をつくる時代に「では、人間は。」を問う。養老孟司氏・糸井重里氏らが登壇する「EMS DAYS 2026」を9月12・13日に開催",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
     }
   ]
 }
