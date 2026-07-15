@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-15T18:50:20.817325+09:00",
-  "generatedLabel": "2026/07/15 18:50",
+  "generatedAt": "2026-07-15T20:21:53.345237+09:00",
+  "generatedLabel": "2026/07/15 20:21",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 46,
+  "candidates": 51,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 1
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -62,6 +62,28 @@
     }
   ],
   "articles": [
+    {
+      "title": "ゼロから分かる「Claude」の教科書 ChatGPTと比べて分かった強みとは？",
+      "link": "https://kn.itmedia.co.jp/kn/articles/2607/16/news031.html",
+      "date": "2026-07-15T18:30:00+09:00",
+      "dateLabel": "07/15 18:30",
+      "desc": "「ChatGPT」の陰に隠れがちでありながら、高い性能を持ち、AIユーザーから高い支持を集める「Claude」。最近では、その高い性能から話題になっている最新モデル「Claude Mythos」の登場でも大きな話題を呼んでいる。本ブックレットでは、このClaudeの実力を「ChatGPT」との詳細な比較レビューを通じて徹底検証し、特徴や活用法を分かりやすく解",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
+      "title": "Aurora MobileのGPTBots.ai、Modellixを活用した画像・動画生成ツールを提供開始し、企業向けマルチモーダルAI機能を強化",
+      "link": "https://ascii.jp/elem/000/004/419/4419974/?rss",
+      "date": "2026-07-15T18:12:21+09:00",
+      "dateLabel": "07/15 18:12",
+      "desc": "Aurora MobileのGPTBots.ai、Modellixを活用した画像・動画生成ツールを提供開始し、企業向けマルチモーダルAI機能を強化",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
     {
       "title": "富士通がNVIDIA「Rubin」対応の国産AIサーバを今秋製造へ ソブリン需要に対応",
       "link": "https://monoist.itmedia.co.jp/mn/articles/2607/15/news045.html",
@@ -116,6 +138,17 @@
       "src": "ITmedia AI+",
       "cat": "規制/安全",
       "score": 42
+    },
+    {
+      "title": "Callisto、タウンズと資本業務提携 医療データ基盤・AI活用基盤の構築を推進",
+      "link": "https://ascii.jp/elem/000/004/419/4419989/?rss",
+      "date": "2026-07-15T18:54:15+09:00",
+      "dateLabel": "07/15 18:54",
+      "desc": "Callisto、タウンズと資本業務提携 医療データ基盤・AI活用基盤の構築を推進",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "【一時非公開のお知らせ】「バズるほど赤字だった」──野田クリスタルのAIペットカードゲーム、公開停止からの復活劇を本人に聞いた",
@@ -195,6 +228,39 @@
       "score": 34
     },
     {
+      "title": "ゆうちゃみさんが登壇した台湾エクセレンス展にGIGABYTEが出展、最新のAIソリューションやPCを展示",
+      "link": "https://ascii.jp/elem/000/004/419/4419985/?rss",
+      "date": "2026-07-15T20:00:00+09:00",
+      "dateLabel": "07/15 20:00",
+      "desc": "台湾の先端技術とイノベーション製品を展示するイベント「2026 TAIWAN EXCELLENCE in TOKYO（台湾エクセレンス展）」にGIGABYTEが出展。ゲーミングモニターやクリエイター向けノートPCなどの最新製品を展示している。",
+      "img": "https://ascii.jp/img/2026/07/15/4501224/s/15ed07a3e849b50d.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "【申込100名突破】AIが絵を描き、音楽をつくる時代に「では、人間は。」を問う。養老孟司氏・糸井重里氏らが登壇する「EMS DAYS 2026」を9月12・13日に開催",
+      "link": "https://ascii.jp/elem/000/004/419/4419979/?rss",
+      "date": "2026-07-15T17:56:59+09:00",
+      "dateLabel": "07/15 17:56",
+      "desc": "【申込100名突破】AIが絵を描き、音楽をつくる時代に「では、人間は。」を問う。養老孟司氏・糸井重里氏らが登壇する「EMS DAYS 2026」を9月12・13日に開催",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "【成田国際空港で導入拡大】移動型無人販売ロボット「PIMT-0」が2台体制へ！7月15日より魅力あふれる東北地方の物産を販売",
+      "link": "https://ascii.jp/elem/000/004/419/4419980/?rss",
+      "date": "2026-07-15T17:56:47+09:00",
+      "dateLabel": "07/15 17:56",
+      "desc": "【成田国際空港で導入拡大】移動型無人販売ロボット「PIMT-0」が2台体制へ！7月15日より魅力あふれる東北地方の物産を販売",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
       "title": "【7/27無料ウェビナー開催】機密会議でも使えるAI議事録とは？～SecureMemoのユースケースとデモで学ぶ、完全オフライン活用～",
       "link": "https://ascii.jp/elem/000/004/419/4419969/?rss",
       "date": "2026-07-15T17:15:18+09:00",
@@ -215,72 +281,6 @@
       "src": "GIGAZINE",
       "cat": "AI全般",
       "score": 26
-    },
-    {
-      "title": "MetaがAIを用いて不当に従業員を解雇したとして元従業員に訴えられる",
-      "link": "https://gigazine.net/news/20260715-lawsuit-claims-meta-layoff-decisions-ai/",
-      "date": "2026-07-15T12:16:00+09:00",
-      "dateLabel": "07/15 12:16",
-      "desc": "MetaがAIを駆使し、障がい者や病気休暇中の従業員を不当に解雇したとして、同社を訴える新しい訴訟が提起されました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 26
-    },
-    {
-      "title": "AIエージェントのコスト、どこに「消えて」いる？ Google Cloud調査で浮上した“クラウド利用の盲点”",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2607/14/news039.html",
-      "date": "2026-07-15T08:00:00+09:00",
-      "dateLabel": "07/15 08:00",
-      "desc": "AIエージェントの本番運用段階で、多くの企業がコストの問題に直面している。本番運用段階におけるコストは一体どこに「消えている」のか。Google Cloudの調査から浮かび上がった、AIエージェントの本番運用がITインフラにもたらす負荷の正体と、コスト抑制の手掛かりとは。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "ユナイテッドアローズ「売れた理由が分からない」 爆速開発の独自AIでどう解消？",
-      "link": "https://kn.itmedia.co.jp/kn/articles/2607/15/news011.html",
-      "date": "2026-07-15T07:00:00+09:00",
-      "dateLabel": "07/15 07:00",
-      "desc": "店舗では「売れた理由」が分かっていても、その気付きは本部まで届かない。週報では拾い切れない現場の知見をどう生かすのか。ユナイテッドアローズは、課題解決のためAIエージェントの独自開発に乗り出した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "より小さなソフトウェアエンジニアリングチームを、2029年までに60％の組織が本格展開するとの予測、ガートナー",
-      "link": "https://www.publickey1.jp/blog/26/202960.html",
-      "date": "2026-07-15T00:51:18+09:00",
-      "dateLabel": "07/15 00:51",
-      "desc": "調査会社のガートナーは、2029年までに60％の組織がより小さなソフトウェアエンジニアリングチームを本格的に展開するだろうとの予測を発表しました。 人間とAIの強みを活かすためのチームの再編成 この背景には、AIの発達によって人間に代わって...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "JavaScriptランタイムのBun、Claude Fable 5を11日間稼働させてZigからRustへの移植を実現。Claudeをどう使ったのか？",
-      "link": "https://www.publickey1.jp/blog/26/javascriptbunclaude_fable_511zigrustclaude.html",
-      "date": "2026-07-10T00:47:05+09:00",
-      "dateLabel": "07/10 00:47",
-      "desc": "JavaScriptランタイム「Bun」の作者であるJarred Sumner氏は、7月8日付けで公開したBun公式ブログの記事「Rewriting Bun in Rust | Bun Blog」で、約53万5000行のZig言語のコードを...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "LLM/モデル",
-      "score": 20
-    },
-    {
-      "title": "自己愛が強いナルシシストは生成AIに過剰な時間を費やしたり過度に依存したりする傾向が強い",
-      "link": "https://gigazine.net/news/20260715-narcissistic-individuals-problematic-ai-use/",
-      "date": "2026-07-15T15:10:00+09:00",
-      "dateLabel": "07/15 15:10",
-      "desc": "現代では多くの人々が日常的な質問や相談相手としてチャットAIを使ったり、生成AIツールを使って仕事を効率化したりしています。新たな研究では、ナルシシズム(自己愛)の強い人は問題がある生成AI使用に陥りやすいという結果が明らかになりました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "生成AI/マルチモーダル",
-      "score": 18
     }
   ]
 }
