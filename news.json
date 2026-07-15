@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-15T13:40:55.876898+09:00",
-  "generatedLabel": "2026/07/15 13:40",
+  "generatedAt": "2026-07-15T16:06:33.239238+09:00",
+  "generatedLabel": "2026/07/15 16:06",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 52,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 11
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -85,28 +85,6 @@
       "score": 42
     },
     {
-      "title": "最大14万円オフは見逃せない！ マウスコンピューター夏の大型セール開始",
-      "link": "https://ascii.jp/elem/000/004/419/4419787/?rss",
-      "date": "2026-07-15T13:00:00+09:00",
-      "dateLabel": "07/15 13:00",
-      "desc": "マウスコンピューターが「ビッグサマーセール」を8月5日まで開催。G TUNEやDAIV、mouseブランドのノートPC・デスクトップPCが最大14万円引きに。Copilot+ PCやゲーミングPCなど対象モデルを紹介します。",
-      "img": "https://ascii.jp/img/2026/07/15/4500898/s/936c0263cb195aa7.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "生成AIを支えるのはGPUだけじゃない。電力ロスを減らす「半導体材料」の話",
-      "link": "https://ascii.jp/elem/000/004/414/4414363/?rss",
-      "date": "2026-07-15T12:00:00+09:00",
-      "dateLabel": "07/15 12:00",
-      "desc": "生成AIを支えるのは、GPUだけではない。大量のサーバーを動かすAI時代には、電気をムダなく使う技術も重要になる。立命館大学発Patentixが開発する次世代パワー半導体材料GeO₂とは。",
-      "img": "https://ascii.jp/img/2026/06/29/4490943/s/100f14c14b9e899b.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
       "title": "OpenAI初のAIハードウェアは「自律走行可能な画面なしスマートスピーカー」か",
       "link": "https://gigazine.net/news/20260715-openai-first-device-ai-speaker/",
       "date": "2026-07-15T11:33:00+09:00",
@@ -129,17 +107,6 @@
       "score": 42
     },
     {
-      "title": "「ニューイット受注」のAI OCRが大型アップデート。注文対応や見積回答の運用自動化に対して最適なデータ品質・形式で、注文書・見積依頼書の読み取りから基幹登録までを完全自動で完了",
-      "link": "https://ascii.jp/elem/000/004/419/4419792/?rss",
-      "date": "2026-07-15T11:15:04+09:00",
-      "dateLabel": "07/15 11:15",
-      "desc": "「ニューイット受注」のAI OCRが大型アップデート。注文対応や見積回答の運用自動化に対して最適なデータ品質・形式で、注文書・見積依頼書の読み取りから基幹登録までを完全自動で完了",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "Google DeepMindのハサビスCEO、米国主導の「フロンティアAI標準化機関」設立を提唱",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000192/",
       "date": "2026-07-15T07:25:13+09:00",
@@ -151,15 +118,59 @@
       "score": 42
     },
     {
-      "title": "Appleのオンデバイス音声認識API「SpeechAnalyzer」が英語ベンチマークでWhisper Smallを上回る",
-      "link": "https://gigazine.net/news/20260714-apple-speech-analyzer-benchmark/",
-      "date": "2026-07-14T15:30:00+09:00",
-      "dateLabel": "07/14 15:30",
-      "desc": "AppleがiOS 26やmacOS Tahoe 26向けに導入した音声認識API「SpeechAnalyzer」について、オンデバイスAIアプリ「Inscribe」の開発チームがOpenAIの音声認識モデル「Whisper」のTiny、Base、Smallと比較し、結果を公開しました。 続きを読む...",
+      "title": "パソコン工房、RTX 5090 Founders Edition搭載PC発売 認定再生メモリで価格を抑制",
+      "link": "https://ascii.jp/elem/000/004/419/4419898/?rss",
+      "date": "2026-07-15T16:00:00+09:00",
+      "dateLabel": "07/15 16:00",
+      "desc": "パソコン工房が、認定再生メモリを採用したGeForce RTX 5090 Founders Edition搭載PCを発売。AI開発や3Dレンダリング、映像制作、ゲーミング向けの高性能モデルを69万9800円から販売し、会員向け還元キャンペーンも実施します。",
+      "img": "https://ascii.jp/img/2026/07/15/4501005/s/13088b30109033c2.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "Amazon限定でGPUランクアップ！ Core i7・144Hz対応15.6型液晶搭載で18万円台。「MSI Cyborg 15」が16％オフ",
+      "link": "https://ascii.jp/elem/000/004/419/4419550/?rss",
+      "date": "2026-07-15T16:00:00+09:00",
+      "dateLabel": "07/15 16:00",
+      "desc": "MSIのゲーミングノートPC「Cyborg 15（Cyborg-15-B13WEKG-1182JP）」がAmazonタイムセール対象。参考価格224,800円のところ、16％オフの189,800円で販売中。Amazon.co.jp限定のRTX 5050搭載モデルで、Core i7-13620Hや16GBメモリ、512GB SSD、15.6型フルHD・144H",
+      "img": "https://ascii.jp/img/2026/07/14/4500366/s/fcb72ec21d8df705.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "「バズるほど赤字だった」──野田クリスタルのAIペットカードゲーム、公開停止からの復活劇を本人に聞いた",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000191/",
+      "date": "2026-07-15T15:23:38+09:00",
+      "dateLabel": "07/15 15:23",
+      "desc": "野田クリスタルさんがGeminiで開発した「ペットカードジェネレーター」は初日に130万アクセスを集めるも、AI利用料の高騰で一時停止に。「うちのこカード伝説」として復活するまでの舞台裏を、野田さんと電通の開発者に聞いた。",
       "img": "",
-      "src": "GIGAZINE",
+      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 42
+      "score": 34
+    },
+    {
+      "title": "現場で働くほど賢くなるロボット統合制御基盤のROBOTS、インキュベイトファンド・NTTドコモを引受先にシードラウンドの資金調達を実施",
+      "link": "https://ascii.jp/elem/000/004/419/4419909/?rss",
+      "date": "2026-07-15T15:00:00+09:00",
+      "dateLabel": "07/15 15:00",
+      "desc": "現場で働くほど賢くなるロボット統合制御基盤のROBOTS、インキュベイトファンド・NTTドコモを引受先にシードラウンドの資金調達を実施",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 34
+    },
+    {
+      "title": "「GPT-5.6」の好きな部分をXに投稿→100ドル分のクレジットがもらえるキャンペーン 先着1万人限定",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000195/",
+      "date": "2026-07-15T14:29:36+09:00",
+      "dateLabel": "07/15 14:29",
+      "desc": "米OpenAIが、最新のAIモデル「GPT-5.6」の好きな部分や同モデルで作成したものをXに投稿すると、ChatGPTで100ドル分のクレジットを提供するキャンペーンを開催している。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "Google DeepMindのデミス・ハサビスCEOが「最先端AIを規制するための独立した標準機関」の設立を呼びかけ、OpenAIやMicrosoftのCEOも賛同",
@@ -184,17 +195,6 @@
       "score": 34
     },
     {
-      "title": "AIインサイドセールス「immedio」、AIエンゲージ分析・ページ訪問履歴・AI意図分析の3機能をリリース",
-      "link": "https://ascii.jp/elem/000/004/419/4419805/?rss",
-      "date": "2026-07-15T11:00:00+09:00",
-      "dateLabel": "07/15 11:00",
-      "desc": "AIインサイドセールス「immedio」、AIエンゲージ分析・ページ訪問履歴・AI意図分析の3機能をリリース",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "Google画像検索が提供開始25周年を迎えて刷新へ、「AIによる概要」で画像生成が可能に",
       "link": "https://gigazine.net/news/20260715-google-image-25th/",
       "date": "2026-07-15T10:58:00+09:00",
@@ -203,17 +203,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "「バズるほど赤字だった」──野田クリスタルのAIペットカードゲーム、公開停止からの復活劇を本人に聞いた",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000191/",
-      "date": "2026-07-15T10:00:00+09:00",
-      "dateLabel": "07/15 10:00",
-      "desc": "野田クリスタルさんがGeminiで開発した「ペットカードジェネレーター」は初日に130万アクセスを集めるも、AI利用料の高騰で一時停止に。「うちのこカード伝説」として復活するまでの舞台裏を、野田さんと電通の開発者に聞いた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -239,15 +228,48 @@
       "score": 34
     },
     {
-      "title": "OpenAIのブラウザ「ChatGPT Atlas」終了へ 公開から1年足らずで",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/13/news090.html",
-      "date": "2026-07-13T14:20:00+09:00",
-      "dateLabel": "07/13 14:20",
-      "desc": "米OpenAIがAIブラウザ「ChatGPT Atlas」の停止日を2026年8月9日と案内し、データの移行手順を公開した。移行先には新しいChatGPTデスクトップアプリとChrome拡張機能を挙げている。",
+      "title": "MILAI SAILING TEAM / 鈴木 晶友 スポンサー各社の支援を受け世界一周への挑戦を本格化",
+      "link": "https://ascii.jp/elem/000/004/419/4419905/?rss",
+      "date": "2026-07-15T15:40:00+09:00",
+      "dateLabel": "07/15 15:40",
+      "desc": "MILAI SAILING TEAM / 鈴木 晶友 スポンサー各社の支援を受け世界一周への挑戦を本格化",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "Cursorに「リポジトリを開くだけ」で任意コードが実行される脆弱性、報告から7カ月たっても修正されず研究者が全容公開",
+      "link": "https://gigazine.net/news/20260715-cursor-0day-disclosure/",
+      "date": "2026-07-15T15:30:00+09:00",
+      "dateLabel": "07/15 15:30",
+      "desc": "AIを使ったプログラミング支援機能を備えるコードエディター「Cursor」のWindows版で、細工されたリポジトリを開くだけで任意のプログラムが自動実行される脆弱(ぜいじゃく)性が見つかりました。発見したAIセキュリティ企業のMindgardは2025年12月にCursorへ報告したものの、約7カ月にわたり修正されず、十分な進捗報告も得られなかったとして2",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "米国IDC社の「MarketScape: Worldwide Sustainability Programs and Services Hardcopy」評価でキヤノンが2度目の「リーダー」を獲得",
+      "link": "https://ascii.jp/elem/000/004/419/4419923/?rss",
+      "date": "2026-07-15T15:00:00+09:00",
+      "dateLabel": "07/15 15:00",
+      "desc": "米国IDC社の「MarketScape: Worldwide Sustainability Programs and Services Hardcopy」評価でキヤノンが2度目の「リーダー」を獲得",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "AIマネジメントシステムの 国際規格「ISO/IEC 42001:2023」認証を取得",
+      "link": "https://ascii.jp/elem/000/004/419/4419911/?rss",
+      "date": "2026-07-15T15:00:00+09:00",
+      "dateLabel": "07/15 15:00",
+      "desc": "AIマネジメントシステムの 国際規格「ISO/IEC 42001:2023」認証を取得",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     },
     {
       "title": "MetaがAIを用いて不当に従業員を解雇したとして元従業員に訴えられる",
@@ -258,28 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "規制/安全",
-      "score": 26
-    },
-    {
-      "title": "日テレAI-HRがAI活用における管理体制構築（AIインベントリ）をテーマにした無料ウェビナーを開催",
-      "link": "https://ascii.jp/elem/000/004/419/4419790/?rss",
-      "date": "2026-07-15T11:40:00+09:00",
-      "dateLabel": "07/15 11:40",
-      "desc": "日テレAI-HRがAI活用における管理体制構築（AIインベントリ）をテーマにした無料ウェビナーを開催",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "鳥栖市・東急不動産・T2 次世代型産業団地「サザン鳥栖クロスパーク」における自動運転トラックの実装に向けた全国初の官民連携協定締結",
-      "link": "https://ascii.jp/elem/000/004/419/4419807/?rss",
-      "date": "2026-07-15T11:00:00+09:00",
-      "dateLabel": "07/15 11:00",
-      "desc": "鳥栖市・東急不動産・T2 次世代型産業団地「サザン鳥栖クロスパーク」における自動運転トラックの実装に向けた全国初の官民連携協定締結",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
       "score": 26
     }
   ]
