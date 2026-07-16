@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-17T07:49:33.543513+09:00",
-  "generatedLabel": "2026/07/17 07:49",
+  "generatedAt": "2026-07-17T08:50:09.298061+09:00",
+  "generatedLabel": "2026/07/17 08:50",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 47,
@@ -83,6 +83,17 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 50
+    },
+    {
+      "title": "Google、「NotebookLM」を「Gemini Notebook」に改称 Geminiエコシステムへの統合を強化",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/17/news062.html",
+      "date": "2026-07-17T08:21:00+09:00",
+      "dateLabel": "07/17 08:21",
+      "desc": "Googleは、AI搭載リサーチツール「NotebookLM」の名称を「Gemini Notebook」に変更すると発表した。機能は単体製品として維持しつつ、エコシステム全体で広く機能するようになる。安全なクラウドコンピュータの割り当てによるデータ分析機能などの大型アップデートも展開中で、この機能は今後全Proユーザーへ提供される見込みだ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "「Gemini Spark」日本でもリリース、まずUltraから 24時間働く“パーソナルAIエージェント”",
@@ -250,15 +261,15 @@
       "score": 34
     },
     {
-      "title": "NVIDIAが「Jetson Thor」に新モジュール追加、高騰するメモリの使用量削減技術も",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/16/news052.html",
-      "date": "2026-07-16T08:00:00+09:00",
-      "dateLabel": "07/16 08:00",
-      "desc": "NVIDIAは、組み込みAIボード「Jetsonシリーズ」の最新製品である「NVIDIA Jetson AGX Thor」の新たな量産モジュールとして、消費電力や搭載メモリ容量などを抑えた「Jetson T3000」と「Jetson T2000」を追加すると発表した。",
+      "title": "これからのロボットは「買ったときが一番性能低い」？ ソフトバンクと安川電機「フィジカルAI」学習工程の効率化を実証",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/17/2000000196/",
+      "date": "2026-07-17T08:00:00+09:00",
+      "dateLabel": "07/17 08:00",
+      "desc": "「SoftBank World 2026」でソフトバンクと安川電機がフィジカルAI協業の成果を披露した。ソフトバンクの湧川隆次CTOは、強化学習によって使うほど性能が向上するロボットへの転換を「大きなパラダイムシフト」と表現した。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 34
+      "cat": "AI実装",
+      "score": 26
     },
     {
       "title": "日本再起の旗印となるか、国産マルチモーダルAI基盤「FRONTia」が始動",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "フアンCEO「ジャパンAI構築はマストだ」 経産省、国産フィジカルAIで新プロジェクト 赤沢大臣も“革ジャン”羽織る",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/16/news107.html",
-      "date": "2026-07-16T23:00:00+09:00",
-      "dateLabel": "07/16 23:00",
-      "desc": "経済産業省が、国産フィジカルAI向け基盤モデルを構築する「FRONTia Project」をスタートさせた。国内44社が共同出資するAI開発企業Noetraと産総研を中心とし、2030年での「実世界ネイティブAI」実現を目指す。16日に開催されたキックオフイベントでは、NVIDIAのジェンスン・フアンCEOのほか、革ジャン姿で現れた赤沢経産大臣の姿があった。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
       "score": 26
     }
   ]
