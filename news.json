@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-16T13:51:01.323087+09:00",
-  "generatedLabel": "2026/07/16 13:51",
+  "generatedAt": "2026-07-16T16:15:25.202128+09:00",
+  "generatedLabel": "2026/07/16 16:15",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 51,
+  "candidates": 48,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 18
+      "items": 19
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 8
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "「Claude」利用制限を全リセット CodexとChatGPT Workも “リセット合戦”再び",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000201/",
+      "date": "2026-07-16T15:15:24+09:00",
+      "dateLabel": "07/16 15:15",
+      "desc": "米Anthropicは、AIサービス「Claude」の5時間および1週間の利用制限をリセットしたと発表した。一方、米OpenAIもデスクトップPC向けAIサービス「ChatGPT Work」およびAIコーディングツール「Codex」の週次利用制限をリセットすると発表し、“リセット合戦”の様相を呈している。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 58
+    },
+    {
       "title": "グーグル、AIエージェント「Gemini Spark」を日本展開 24時間自律でタスク実行",
       "link": "https://ascii.jp/elem/000/004/420/4420147/?rss",
       "date": "2026-07-16T13:35:00+09:00",
@@ -85,6 +96,17 @@
       "score": 50
     },
     {
+      "title": "「Gemini Spark」日本でもリリース、まずUltraから 24時間働く“パーソナルAIエージェント”",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000200/",
+      "date": "2026-07-16T13:53:43+09:00",
+      "dateLabel": "07/16 13:53",
+      "desc": "同社の幹部は、「Pro」（月額2900円）ユーザーにアクセスを拡大する可能性も示唆している。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "「AIと壁打ちはもう古い」 業務タスクを任せる「Claude Cowork」の落とし穴",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/16/news046.html",
       "date": "2026-07-16T13:00:00+09:00",
@@ -104,17 +126,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "MSI、新型「Cyborg 15 C13W」を発売 最大70W対応GeForce RTX 5050で性能強化",
-      "link": "https://ascii.jp/elem/000/004/420/4420116/?rss",
-      "date": "2026-07-16T12:30:00+09:00",
-      "dateLabel": "07/16 12:30",
-      "desc": "MSIは新型ゲーミングノートPC「Cyborg 15 C13W」を7月23日に発売。最大70W動作対応のGeForce RTX 5050 Laptop GPUを搭載し、ゲームはもちろん動画編集や3DCG制作にも対応。約1.98kgの新筐体やスペックを紹介します。",
-      "img": "https://ascii.jp/img/2026/07/16/4501549/s/073103617e8eb96a.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
       "score": 42
     },
     {
@@ -140,26 +151,37 @@
       "score": 42
     },
     {
-      "title": "検索1位でもクリック率は推定半減。AI検索時代の「見えない検索行動」をデータで可視化。Itera、30ジャンル横断の「LLMO傾向分析レポート」を無料公開",
-      "link": "https://ascii.jp/elem/000/004/420/4420123/?rss",
-      "date": "2026-07-16T11:00:00+09:00",
-      "dateLabel": "07/16 11:00",
-      "desc": "検索1位でもクリック率は推定半減。AI検索時代の「見えない検索行動」をデータで可視化。Itera、30ジャンル横断の「LLMO傾向分析レポート」を無料公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "title": "独自冷却システム採用のRyzen 7・RTX 5050搭載機が22万円切り。ASUS「TUF Gaming A16」が27％オフ",
+      "link": "https://ascii.jp/elem/000/004/420/4420009/?rss",
+      "date": "2026-07-16T15:30:00+09:00",
+      "dateLabel": "07/16 15:30",
+      "desc": "ASUSのゲーミングノートPC「TUF Gaming A16（FA608UH-R7R5050EC）」がAmazonタイムセール対象。参考価格299,800円のところ、27％オフの219,800円で販売中。AMD Ryzen 7 260とGeForce RTX 5050 Laptop GPUに加え、16GBメモリ、1TB SSD、16型WUXGA・165Hzデ",
+      "img": "https://ascii.jp/img/2026/07/16/4501414/s/874d0773795905f3.jpg",
       "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 42
+      "cat": "半導体/GPU",
+      "score": 34
     },
     {
-      "title": "富士通がNVIDIA「Rubin」対応の国産AIサーバを今秋製造へ ソブリン需要に対応",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/15/news045.html",
-      "date": "2026-07-15T06:15:00+09:00",
-      "dateLabel": "07/15 06:15",
-      "desc": "富士通は、ソブリンAIの需要に応える国産ハイエンドAIサーバやオンプレミス向け生成AI基盤を公開した。国内工場での一貫生産が特徴だ。2026年秋にはNVIDIAの最新GPU「Rubin」対応の新モデルの製造開始であると明かした。",
-      "img": "",
-      "src": "ITmedia AI+",
+      "title": "NVIDIAのジェンスン・フアン氏が秋葉原でセガに賛辞 これは巨大テック企業のトップによる社交辞令ではなく、セガのゲームに脳を焼かれたゲーマーの叫びだ",
+      "link": "https://ascii.jp/elem/000/004/420/4420031/?rss",
+      "date": "2026-07-16T14:00:00+09:00",
+      "dateLabel": "07/16 14:00",
+      "desc": "NVIDIAの共同経営者ジェンスン・フアン氏とセガのレジェンド達が秋葉原GiGOで特別イベントを開催。その模様をKTUが熱くレポート！",
+      "img": "https://ascii.jp/img/2026/07/16/4501516/s/d1826f45b08f5dc3.jpg",
+      "src": "ASCII.jp",
       "cat": "半導体/GPU",
-      "score": 42
+      "score": 34
+    },
+    {
+      "title": "リーナー、調達・購買担当者500名を対象とした「調達DXレポート 2026」を公開～資材高騰・属人化の実態と、AI活用の現在地などをデータで可視化～",
+      "link": "https://ascii.jp/elem/000/004/420/4420258/?rss",
+      "date": "2026-07-16T13:20:00+09:00",
+      "dateLabel": "07/16 13:20",
+      "desc": "リーナー、調達・購買担当者500名を対象とした「調達DXレポート 2026」を公開～資材高騰・属人化の実態と、AI活用の現在地などをデータで可視化～",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "既存のAIに攻撃を仕掛けて弱点を自動的に探し出すAIモデル「GPT-Red」をOpenAIが発表",
@@ -170,17 +192,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "MSIの新ゲーミングノート「Cyborg 15 C13W」登場 エディオン限定・3年保証で安心",
-      "link": "https://ascii.jp/elem/000/004/420/4420117/?rss",
-      "date": "2026-07-16T12:45:00+09:00",
-      "dateLabel": "07/16 12:45",
-      "desc": "MSIがエディオンオリジナルのゲーミングノートPC「Cyborg-15-C13WEO-0355JPNN」を7月24日より順次販売する。RTX 5050 Laptop GPUとCore i5-13420Hを搭載し、3年保証付きでゲームから動画編集、学習用途まで幅広く対応するモデルだ。",
-      "img": "https://ascii.jp/img/2026/07/16/4501554/s/7fa7aa25be7c6b92.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -266,17 +277,6 @@
       "date": "2026-07-15T18:12:12+09:00",
       "dateLabel": "07/15 18:12",
       "desc": "野田クリスタルさんがGeminiで開発した「ペットカードジェネレーター」は初日に130万アクセスを集めるも、AI利用料の高騰で一時停止に。「うちのこカード伝説」として復活するまでの舞台裏を、野田さんと電通の開発者に聞いた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "「GPT-5.6」の好きな部分をXに投稿→100ドル分のクレジットがもらえるキャンペーン 先着1万人限定",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000195/",
-      "date": "2026-07-15T14:29:36+09:00",
-      "dateLabel": "07/15 14:29",
-      "desc": "米OpenAIが、最新のAIモデル「GPT-5.6」の好きな部分や同モデルで作成したものをXに投稿すると、ChatGPTで100ドル分のクレジットを提供するキャンペーンを開催している。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
