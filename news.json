@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-16T08:50:18.841227+09:00",
-  "generatedLabel": "2026/07/16 08:50",
+  "generatedAt": "2026-07-16T10:42:55.972391+09:00",
+  "generatedLabel": "2026/07/16 10:42",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 51,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 10
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 9
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "Dropbox、Claude連携を開始 ChatGPT・Gemini対応拡大でAI業務基盤を強化",
+      "link": "https://ascii.jp/elem/000/004/420/4420015/?rss",
+      "date": "2026-07-16T10:30:00+09:00",
+      "dateLabel": "07/16 10:30",
+      "desc": "DropboxがClaudeとの連携を開始。ChatGPTやChatGPT Codex、Gemini Sparkへの対応も拡大し、ファイル検索や共有、コンテンツ生成をAIから直接実行できる業務基盤を強化した。",
+      "img": "https://ascii.jp/img/2026/07/16/4501425/s/ce4b14029d0b99b8.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
       "title": "ゼロから分かる「Claude」の教科書 ChatGPTと比べて分かった強みとは？",
       "link": "https://kn.itmedia.co.jp/kn/articles/2607/16/news031.html",
       "date": "2026-07-15T18:30:00+09:00",
@@ -70,17 +81,6 @@
       "desc": "「ChatGPT」の陰に隠れがちでありながら、高い性能を持ち、AIユーザーから高い支持を集める「Claude」。最近では、その高い性能から話題になっている最新モデル「Claude Mythos」の登場でも大きな話題を呼んでいる。本ブックレットでは、このClaudeの実力を「ChatGPT」との詳細な比較レビューを通じて徹底検証し、特徴や活用法を分かりやすく解",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
-      "title": "Aurora MobileのGPTBots.ai、Modellixを活用した画像・動画生成ツールを提供開始し、企業向けマルチモーダルAI機能を強化",
-      "link": "https://ascii.jp/elem/000/004/419/4419974/?rss",
-      "date": "2026-07-15T18:12:21+09:00",
-      "dateLabel": "07/15 18:12",
-      "desc": "Aurora MobileのGPTBots.ai、Modellixを活用した画像・動画生成ツールを提供開始し、企業向けマルチモーダルAI機能を強化",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
       "cat": "LLM/モデル",
       "score": 50
     },
@@ -127,6 +127,39 @@
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
       "score": 42
+    },
+    {
+      "title": "AirPodsのカスタムEQ、パブリックベータで利用可能に 海外メディア報道",
+      "link": "https://ascii.jp/elem/000/004/420/4420029/?rss",
+      "date": "2026-07-16T10:20:00+09:00",
+      "dateLabel": "07/16 10:20",
+      "desc": "AirPods向けのパブリックベータ版ファームウェアで、新機能「カスタムEQ」が利用可能になったと、米MacRumorsが現地時間7月14日に報じている。",
+      "img": "https://ascii.jp/img/2026/07/16/4501445/s/375ca2efa1087200.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "OpenAI、動くAIスピーカー開発か 米報道",
+      "link": "https://ascii.jp/elem/000/004/420/4420027/?rss",
+      "date": "2026-07-16T10:00:00+09:00",
+      "dateLabel": "07/16 10:00",
+      "desc": "OpenAIは移動可能なAIスピーカー型デバイスを開発しているという。米Bloombergが現地時間7月14日に報じた。",
+      "img": "https://ascii.jp/img/2026/07/16/4501430/s/1380f2e3a0311fba.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "Thinking Machines、初のAIモデル「Inkling」公開──オープンウェイトで「自分のものにできる」基盤モデル",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000197/",
+      "date": "2026-07-16T09:47:00+09:00",
+      "dateLabel": "07/16 09:47",
+      "desc": "ミラ・ムラティ氏率いるThinking Machines Labが、同社初のAIモデル「Inkling」を発表した。テキスト・画像・音声対応のMoE型オープンウェイトモデルで、Hugging Faceで全ウェイトを公開。「最強のモデルではない」とした上で、同社のファインチューニング基盤「Tinker」でのカスタマイズに適した基盤モデルと位置付ける。軽量版「I",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "iiyama PC、Core 7搭載17型ノート発売 144Hz液晶＆Copilotキー採用",
@@ -195,14 +228,14 @@
       "score": 34
     },
     {
-      "title": "Callisto、タウンズと資本業務提携 医療データ基盤・AI活用基盤の構築を推進",
-      "link": "https://ascii.jp/elem/000/004/419/4419989/?rss",
-      "date": "2026-07-15T18:54:15+09:00",
-      "dateLabel": "07/15 18:54",
-      "desc": "Callisto、タウンズと資本業務提携 医療データ基盤・AI活用基盤の構築を推進",
+      "title": "株式会社Mavericksは、動画生成AI「NoLang」の変換機能で選べるアスペクト比を7種類に拡張。1:1・4:5・2:3・4:3・21:9を追加し、1本の動画から複数の縦横比を自動生成",
+      "link": "https://ascii.jp/elem/000/004/420/4420026/?rss",
+      "date": "2026-07-15T19:01:29+09:00",
+      "dateLabel": "07/15 19:01",
+      "desc": "株式会社Mavericksは、動画生成AI「NoLang」の変換機能で選べるアスペクト比を7種類に拡張。1:1・4:5・2:3・4:3・21:9を追加し、1本の動画から複数の縦横比を自動生成",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AI全般",
+      "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
@@ -247,39 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "Google画像検索が提供開始25周年を迎えて刷新へ、「AIによる概要」で画像生成が可能に",
-      "link": "https://gigazine.net/news/20260715-google-image-25th/",
-      "date": "2026-07-15T10:58:00+09:00",
-      "dateLabel": "07/15 10:58",
-      "desc": "Googleが、Google画像検索の提供開始25周年に合わせて、検索前からウェブ上の画像を閲覧できる新しいホーム画面と、検索結果の「AIによる概要」で画像を生成できる機能を発表しました。画像を探すだけでなく、利用者の関心に沿った画像を眺めたり、求める画像をその場で生成したりできるサービスへと刷新されます。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "Google DeepMindのハサビスCEO、米国主導の「フロンティアAI標準化機関」設立を提唱",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000192/",
-      "date": "2026-07-15T07:25:13+09:00",
-      "dateLabel": "07/15 07:25",
-      "desc": "Google DeepMindのデミス・ハサビスCEOは、AGIの実現は「おそらくあと数年」だとして、米国主導でフロンティアAIモデルをリリース前に審査する標準化機関の設立を提唱するエッセイを公開した。金融業界の自主規制機関FINRAをモデルとし、将来的には審査通過を米国市場での展開の条件とする構想だ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "Dropbox、Claude連携スタート ChatGPT、Geminiに続き……「AI共通のコンテンツ基盤」に",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/14/2000000190/",
-      "date": "2026-07-14T12:02:51+09:00",
-      "dateLabel": "07/14 12:02",
-      "desc": "既存の「ChatGPT」や「Gemini」との連携も拡大。主要なAIプラットフォームをまたいでDropboxをコンテンツ基盤として使えるようにする。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
       "score": 34
     }
   ]
