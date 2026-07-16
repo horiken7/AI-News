@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-16T10:42:55.972391+09:00",
-  "generatedLabel": "2026/07/16 10:42",
+  "generatedAt": "2026-07-16T13:51:01.323087+09:00",
+  "generatedLabel": "2026/07/16 13:51",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 52,
+  "candidates": 51,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 17
+      "items": 18
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 10
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 9
+      "items": 10
     },
     {
       "source": "CNET Japan",
@@ -63,15 +63,15 @@
   ],
   "articles": [
     {
-      "title": "Dropbox、Claude連携を開始 ChatGPT・Gemini対応拡大でAI業務基盤を強化",
-      "link": "https://ascii.jp/elem/000/004/420/4420015/?rss",
-      "date": "2026-07-16T10:30:00+09:00",
-      "dateLabel": "07/16 10:30",
-      "desc": "DropboxがClaudeとの連携を開始。ChatGPTやChatGPT Codex、Gemini Sparkへの対応も拡大し、ファイル検索や共有、コンテンツ生成をAIから直接実行できる業務基盤を強化した。",
-      "img": "https://ascii.jp/img/2026/07/16/4501425/s/ce4b14029d0b99b8.png",
+      "title": "グーグル、AIエージェント「Gemini Spark」を日本展開 24時間自律でタスク実行",
+      "link": "https://ascii.jp/elem/000/004/420/4420147/?rss",
+      "date": "2026-07-16T13:35:00+09:00",
+      "dateLabel": "07/16 13:35",
+      "desc": "グーグルは7月16日、パーソナルAIエージェント「Gemini Spark」の日本語版を提供開始したと発表した。",
+      "img": "https://ascii.jp/img/2026/07/16/4501582/s/3f81335d5652eddc.png",
       "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 50
+      "cat": "AIエージェント/業務",
+      "score": 58
     },
     {
       "title": "ゼロから分かる「Claude」の教科書 ChatGPTと比べて分かった強みとは？",
@@ -85,36 +85,69 @@
       "score": 50
     },
     {
-      "title": "Claudeの教師向けバージョン「Claude for Teachers」が登場、カリキュラムに沿って教材を生成可能",
-      "link": "https://gigazine.net/news/20260715-claude-for-teachers/",
-      "date": "2026-07-15T13:20:00+09:00",
-      "dateLabel": "07/15 13:20",
-      "desc": "現地時間の2026年7月14日、AIスタートアップのAnthropicが「Claude for Teachers」を発表しました。Claude for Teachersはアメリカの幼稚園から高校までの認定を受けた教育者向けのAIで、Claudeのプレミアム機能や教育スキルライブラリ、アメリカの全50州の学術基準に準拠したエビデンスに基づいたカリキュラムなどへ",
+      "title": "「AIと壁打ちはもう古い」 業務タスクを任せる「Claude Cowork」の落とし穴",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/16/news046.html",
+      "date": "2026-07-16T13:00:00+09:00",
+      "dateLabel": "07/16 13:00",
+      "desc": "Anthropicは、PC上の業務タスクを任せられる「Claude Cowork」の活用法を公開した。チャットやClaude Codeとの使い分けや、どんなタスクを任せればよいかを解説している。",
       "img": "",
-      "src": "GIGAZINE",
+      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 42
     },
     {
-      "title": "OpenAI初のAIハードウェアは「自律走行可能な画面なしスマートスピーカー」か",
-      "link": "https://gigazine.net/news/20260715-openai-first-device-ai-speaker/",
-      "date": "2026-07-15T11:33:00+09:00",
-      "dateLabel": "07/15 11:33",
-      "desc": "ChatGPTの開発元であるOpenAIは、Appleの元デザイナーであるジョニー・アイブ氏のデバイススタートアップ「io」を買収し、「世界がこれまでに見た中で最もクール」なAIハードウェアを開発中であることを明かしています。このAIハードウェアは、画面のないスピーカーとなり、自律走行可能であるとBloombergが報じました。 続きを読む...",
+      "title": "OpenAI初のハードウェア製品「Codex Micro」が登場、ボタン1発でCodexを操作",
+      "link": "https://gigazine.net/news/20260716-openai-codex-micro/",
+      "date": "2026-07-16T12:33:00+09:00",
+      "dateLabel": "07/16 12:33",
+      "desc": "OpenAI初のハードウェア製品となる「Codex Micro」が発表されました。OpenAIが予告していた通り、AIエージェントのCodexを操作するためのデバイスとなります。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "LLM/モデル",
+      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
-      "title": "Anthropic、米K-12教員向け「Claude for Teachers」無料提供 「Claude Code」や「Cowork」も含む",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000193/",
-      "date": "2026-07-15T11:25:28+09:00",
-      "dateLabel": "07/15 11:25",
-      "desc": "Anthropicは、米国の幼稚園から高校までの教員向け新サービス「Claude for Teachers」を発表した。認証を受けた米国の教育者は、Claudeのプレミアム機能や州の基準に沿った授業案作成ツールを無料で利用できる。モデルのトレーニングに生徒のデータは使用されず、教育プライバシー法にも準拠している。",
+      "title": "MSI、新型「Cyborg 15 C13W」を発売 最大70W対応GeForce RTX 5050で性能強化",
+      "link": "https://ascii.jp/elem/000/004/420/4420116/?rss",
+      "date": "2026-07-16T12:30:00+09:00",
+      "dateLabel": "07/16 12:30",
+      "desc": "MSIは新型ゲーミングノートPC「Cyborg 15 C13W」を7月23日に発売。最大70W動作対応のGeForce RTX 5050 Laptop GPUを搭載し、ゲームはもちろん動画編集や3DCG制作にも対応。約1.98kgの新筐体やスペックを紹介します。",
+      "img": "https://ascii.jp/img/2026/07/16/4501549/s/073103617e8eb96a.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "OpenAI、自動レッドチームAI「GPT-Red」発表──人間の攻撃成功率13％に対し84％",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000199/",
+      "date": "2026-07-16T12:10:19+09:00",
+      "dateLabel": "07/16 12:10",
+      "desc": "OpenAIは、自社モデルの脆弱性を自動で発見するレッドチーミングモデル「GPT-Red」を発表した。自己対戦型の強化学習を採用し、攻撃側と防御側を同時に訓練して安全性を高める。検証では未知のシナリオでも人間のレッドチーマーを大きく上回る攻撃成功率を示した。この成果を反映した最新の「GPT-5.6 Sol」では、プロンプトインジェクションへの耐性が大幅に向上",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "規制/安全",
+      "score": 42
+    },
+    {
+      "title": "NVIDIAとセガがパートナーシップを締結、「バーチャファイター クロスロード」などのSEGAタイトルがNVIDIA RTX Sparkでプレイ可能に",
+      "link": "https://gigazine.net/news/20260716-sega-nvidia-partnership/",
+      "date": "2026-07-16T11:08:00+09:00",
+      "dateLabel": "07/16 11:08",
+      "desc": "NVIDIAとセガが提携を拡大し、2027年発売予定の格闘ゲーム「VIRTUA FIGHTER CROSSROADS」をはじめとする今後のセガ作品を、NVIDIAの新しいPC向けプラットフォーム「RTX Spark」に対応させることを発表しました。両社はレイトレーシングやDLSS、AI技術を活用し、薄型ノートPCや小型デスクトップPCでも高品質なゲーム体験を",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "検索1位でもクリック率は推定半減。AI検索時代の「見えない検索行動」をデータで可視化。Itera、30ジャンル横断の「LLMO傾向分析レポート」を無料公開",
+      "link": "https://ascii.jp/elem/000/004/420/4420123/?rss",
+      "date": "2026-07-16T11:00:00+09:00",
+      "dateLabel": "07/16 11:00",
+      "desc": "検索1位でもクリック率は推定半減。AI検索時代の「見えない検索行動」をデータで可視化。Itera、30ジャンル横断の「LLMO傾向分析レポート」を無料公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -129,25 +162,58 @@
       "score": 42
     },
     {
-      "title": "AirPodsのカスタムEQ、パブリックベータで利用可能に 海外メディア報道",
-      "link": "https://ascii.jp/elem/000/004/420/4420029/?rss",
-      "date": "2026-07-16T10:20:00+09:00",
-      "dateLabel": "07/16 10:20",
-      "desc": "AirPods向けのパブリックベータ版ファームウェアで、新機能「カスタムEQ」が利用可能になったと、米MacRumorsが現地時間7月14日に報じている。",
-      "img": "https://ascii.jp/img/2026/07/16/4501445/s/375ca2efa1087200.png",
+      "title": "既存のAIに攻撃を仕掛けて弱点を自動的に探し出すAIモデル「GPT-Red」をOpenAIが発表",
+      "link": "https://gigazine.net/news/20260716-openai-gpt-red/",
+      "date": "2026-07-16T13:07:00+09:00",
+      "dateLabel": "07/16 13:07",
+      "desc": "OpenAIが既存のAIに攻撃を仕掛けて弱点を自動的に探し出すモデル「GPT-Red」を2026年7月15日に発表しました。GPT-Redは攻撃役と防御役のAIを競わせることで、プロンプトインジェクションに強い次世代モデルを訓練するための社内向けシステムです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "MSIの新ゲーミングノート「Cyborg 15 C13W」登場 エディオン限定・3年保証で安心",
+      "link": "https://ascii.jp/elem/000/004/420/4420117/?rss",
+      "date": "2026-07-16T12:45:00+09:00",
+      "dateLabel": "07/16 12:45",
+      "desc": "MSIがエディオンオリジナルのゲーミングノートPC「Cyborg-15-C13WEO-0355JPNN」を7月24日より順次販売する。RTX 5050 Laptop GPUとCore i5-13420Hを搭載し、3年保証付きでゲームから動画編集、学習用途まで幅広く対応するモデルだ。",
+      "img": "https://ascii.jp/img/2026/07/16/4501554/s/7fa7aa25be7c6b92.png",
       "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "Googleの24時間稼働AIエージェント「Gemini Spark」が日本語で利用可能に",
+      "link": "https://gigazine.net/news/20260716-gemini-spark-japanese/",
+      "date": "2026-07-16T11:20:00+09:00",
+      "dateLabel": "07/16 11:20",
+      "desc": "GoogleがAIエージェント「Gemini Spark」の日本語での展開を2026年7月16日に開始しました。Gemini Sparkは個人最適化された24時間稼働のAIエージェントで、自然言語での対話で各種タスクを実行させることができます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "約1兆パラメーターで画像・音声の理解やコーディングに対応、用途別に調整できるオープンウェイトAIモデル「Inkling」登場",
+      "link": "https://gigazine.net/news/20260716-inkling/",
+      "date": "2026-07-16T11:15:00+09:00",
+      "dateLabel": "07/16 11:15",
+      "desc": "AI企業のThinking Machines Labが、用途に合わせた追加学習を重視する新たなAIモデル「Inkling」を発表しました。モデルの重みが公開されるオープンウェイトモデルで、文章だけでなく画像や音声も扱えるほか、思考に使う計算量の調整も可能とのことです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AI全般",
       "score": 34
     },
     {
-      "title": "OpenAI、動くAIスピーカー開発か 米報道",
-      "link": "https://ascii.jp/elem/000/004/420/4420027/?rss",
-      "date": "2026-07-16T10:00:00+09:00",
-      "dateLabel": "07/16 10:00",
-      "desc": "OpenAIは移動可能なAIスピーカー型デバイスを開発しているという。米Bloombergが現地時間7月14日に報じた。",
-      "img": "https://ascii.jp/img/2026/07/16/4501430/s/1380f2e3a0311fba.png",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
+      "title": "AIエージェント「Grok Build」がオープンソース化される",
+      "link": "https://gigazine.net/news/20260716-grok-build-open-source/",
+      "date": "2026-07-16T11:08:00+09:00",
+      "dateLabel": "07/16 11:08",
+      "desc": "日本時間の2026年7月16日、SpaceXAI(旧称：xAI)がAIエージェントアプリ「Grok Build」のオープンソース化を発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -159,17 +225,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "iiyama PC、Core 7搭載17型ノート発売 144Hz液晶＆Copilotキー採用",
-      "link": "https://ascii.jp/elem/000/004/420/4420010/?rss",
-      "date": "2026-07-16T08:15:00+09:00",
-      "dateLabel": "07/16 08:15",
-      "desc": "ユニットコムがiiyama PC「STYLE∞」から、インテル Core 7 プロセッサー 240H搭載の17型ノートパソコンを発売。144Hz対応の17.3型フルHD液晶、Copilotキー、BTO対応などを備え、価格は154,800円だ。",
-      "img": "https://ascii.jp/img/2026/07/16/4501417/s/4ccdf9df487d488e.png",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -206,39 +261,6 @@
       "score": 34
     },
     {
-      "title": "野入亮人：シリコン量子ビットで大規模化の壁に挑む研究者",
-      "link": "https://ascii.jp/elem/000/004/420/4420008/?rss",
-      "date": "2026-07-16T06:45:27+09:00",
-      "dateLabel": "07/16 06:45",
-      "desc": "理化学研究所の野入亮人は、シリコン中の電子スピンを用いた半導体量子コンピューターの研究者だ。開発競争が熱を帯びる中、世界初の実用的な制御精度を実証し、次の難題である大規模化への道筋を探っている。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "AIの守りはAIの攻撃で鍛える、オープンAIが「LLMハッカー」を開発",
-      "link": "https://ascii.jp/elem/000/004/420/4420007/?rss",
-      "date": "2026-07-16T05:58:11+09:00",
-      "dateLabel": "07/16 05:58",
-      "desc": "オープンAIは、他のLLMを攻撃する「超高度ハッカー」GPT-Redを開発した。攻撃役のAIと防御役のAIを何度も戦わせる訓練を通じて、GPT-5.6は同社史上最も堅牢なモデルになったという。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "株式会社Mavericksは、動画生成AI「NoLang」の変換機能で選べるアスペクト比を7種類に拡張。1:1・4:5・2:3・4:3・21:9を追加し、1本の動画から複数の縦横比を自動生成",
-      "link": "https://ascii.jp/elem/000/004/420/4420026/?rss",
-      "date": "2026-07-15T19:01:29+09:00",
-      "dateLabel": "07/15 19:01",
-      "desc": "株式会社Mavericksは、動画生成AI「NoLang」の変換機能で選べるアスペクト比を7種類に拡張。1:1・4:5・2:3・4:3・21:9を追加し、1本の動画から複数の縦横比を自動生成",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
       "title": "【一時非公開のお知らせ】「バズるほど赤字だった」──野田クリスタルのAIペットカードゲーム、公開停止からの復活劇を本人に聞いた",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000191/",
       "date": "2026-07-15T18:12:12+09:00",
@@ -258,28 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Google DeepMindのデミス・ハサビスCEOが「最先端AIを規制するための独立した標準機関」の設立を呼びかけ、OpenAIやMicrosoftのCEOも賛同",
-      "link": "https://gigazine.net/news/20260715-google-deepmind-demmis-hassabis-ai-framework/",
-      "date": "2026-07-15T12:30:00+09:00",
-      "dateLabel": "07/15 12:30",
-      "desc": "Google DeepMindの共同創業者で、タンパク質構造予測AIの研究で2024年度ノーベル化学賞を受賞したデミス・ハサビスCEOが、「最先端のAIモデルを科学的に評価し、深刻なリスクを管理するための新たな標準機関」をアメリカに設立するよう提案しました。この提案に対し、OpenAIのサム・アルトマンCEOやMicrosoftのサティア・ナデラCEO、Go",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "iPhoneでローカル実行可能な270億パラメータのAIモデル「Bonsai 27B」が登場、Qwen3.6-27Bをメモリ使用量3.9GBまで小型化してスマホ単体で実用的な速度で動作",
-      "link": "https://gigazine.net/news/20260715-bonsai-27b/",
-      "date": "2026-07-15T12:10:00+09:00",
-      "dateLabel": "07/15 12:10",
-      "desc": "AI開発企業のPrismMLが270億パラメータのAIモデルをスマートフォンで動かせるように圧縮した「Bonsai 27B」を正式発表しました。容量を3.9GBに抑えた1ビット版でも元になった「Qwen3.6-27B」の性能を約90％維持しているとPrismMLは説明しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
       "score": 34
     }
   ]
