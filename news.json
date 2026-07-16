@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-16T16:15:25.202128+09:00",
-  "generatedLabel": "2026/07/16 16:15",
+  "generatedAt": "2026-07-16T18:56:41.868158+09:00",
+  "generatedLabel": "2026/07/16 18:56",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 48,
+  "candidates": 49,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -74,26 +74,15 @@
       "score": 58
     },
     {
-      "title": "グーグル、AIエージェント「Gemini Spark」を日本展開 24時間自律でタスク実行",
-      "link": "https://ascii.jp/elem/000/004/420/4420147/?rss",
-      "date": "2026-07-16T13:35:00+09:00",
-      "dateLabel": "07/16 13:35",
-      "desc": "グーグルは7月16日、パーソナルAIエージェント「Gemini Spark」の日本語版を提供開始したと発表した。",
-      "img": "https://ascii.jp/img/2026/07/16/4501582/s/3f81335d5652eddc.png",
+      "title": "CORSAIR、新型Micro-ATXケース「2800X RS-R ARGB」発表 GPU過熱保護ケーブルも登場",
+      "link": "https://ascii.jp/elem/000/004/420/4420281/?rss",
+      "date": "2026-07-16T16:30:00+09:00",
+      "dateLabel": "07/16 16:30",
+      "desc": "CORSAIRの新型Micro-ATX対応PCケース「2800X RS-R ARGB」と、GPUの異常発熱を検知して電力供給を停止する過熱保護機能付き12V-2x6ケーブルが国内発売。特徴や価格、発売日を詳しく紹介します。",
+      "img": "https://ascii.jp/img/2026/07/16/4501669/s/4b4339dd58b56c82.jpg",
       "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 58
-    },
-    {
-      "title": "ゼロから分かる「Claude」の教科書 ChatGPTと比べて分かった強みとは？",
-      "link": "https://kn.itmedia.co.jp/kn/articles/2607/16/news031.html",
-      "date": "2026-07-15T18:30:00+09:00",
-      "dateLabel": "07/15 18:30",
-      "desc": "「ChatGPT」の陰に隠れがちでありながら、高い性能を持ち、AIユーザーから高い支持を集める「Claude」。最近では、その高い性能から話題になっている最新モデル「Claude Mythos」の登場でも大きな話題を呼んでいる。本ブックレットでは、このClaudeの実力を「ChatGPT」との詳細な比較レビューを通じて徹底検証し、特徴や活用法を分かりやすく解",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 50
+      "cat": "半導体/GPU",
+      "score": 42
     },
     {
       "title": "「Gemini Spark」日本でもリリース、まずUltraから 24時間働く“パーソナルAIエージェント”",
@@ -151,36 +140,25 @@
       "score": 42
     },
     {
-      "title": "独自冷却システム採用のRyzen 7・RTX 5050搭載機が22万円切り。ASUS「TUF Gaming A16」が27％オフ",
-      "link": "https://ascii.jp/elem/000/004/420/4420009/?rss",
-      "date": "2026-07-16T15:30:00+09:00",
-      "dateLabel": "07/16 15:30",
-      "desc": "ASUSのゲーミングノートPC「TUF Gaming A16（FA608UH-R7R5050EC）」がAmazonタイムセール対象。参考価格299,800円のところ、27％オフの219,800円で販売中。AMD Ryzen 7 260とGeForce RTX 5050 Laptop GPUに加え、16GBメモリ、1TB SSD、16型WUXGA・165Hzデ",
-      "img": "https://ascii.jp/img/2026/07/16/4501414/s/874d0773795905f3.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
+      "title": "ゼロから分かる「Claude」の教科書 ChatGPTと比べて分かった強みとは？",
+      "link": "https://kn.itmedia.co.jp/kn/articles/2607/16/news031.html",
+      "date": "2026-07-15T18:30:00+09:00",
+      "dateLabel": "07/15 18:30",
+      "desc": "「ChatGPT」の陰に隠れがちでありながら、高い性能を持ち、AIユーザーから高い支持を集める「Claude」。最近では、その高い性能から話題になっている最新モデル「Claude Mythos」の登場でも大きな話題を呼んでいる。本ブックレットでは、このClaudeの実力を「ChatGPT」との詳細な比較レビューを通じて徹底検証し、特徴や活用法を分かりやすく解",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
-      "title": "NVIDIAのジェンスン・フアン氏が秋葉原でセガに賛辞 これは巨大テック企業のトップによる社交辞令ではなく、セガのゲームに脳を焼かれたゲーマーの叫びだ",
-      "link": "https://ascii.jp/elem/000/004/420/4420031/?rss",
-      "date": "2026-07-16T14:00:00+09:00",
-      "dateLabel": "07/16 14:00",
-      "desc": "NVIDIAの共同経営者ジェンスン・フアン氏とセガのレジェンド達が秋葉原GiGOで特別イベントを開催。その模様をKTUが熱くレポート！",
-      "img": "https://ascii.jp/img/2026/07/16/4501516/s/d1826f45b08f5dc3.jpg",
-      "src": "ASCII.jp",
+      "title": "トンカツ食べながら語った――NVIDIA、富士通、安川電機ら“フィジカルAI連合”誕生、発表直前の裏話",
+      "link": "https://www.itmedia.co.jp/business/articles/2607/16/news090.html",
+      "date": "2026-07-16T17:15:00+09:00",
+      "dateLabel": "07/16 17:15",
+      "desc": "富士通、ファナック、安川電機、川崎重工業とNVIDIAによる“フィジカルAI連合”が誕生した。5社のトップは、記者説明会の直前には「トンカツ」を食べながら語り合ったという。その一幕を富士通の時田社長が明かした。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "リーナー、調達・購買担当者500名を対象とした「調達DXレポート 2026」を公開～資材高騰・属人化の実態と、AI活用の現在地などをデータで可視化～",
-      "link": "https://ascii.jp/elem/000/004/420/4420258/?rss",
-      "date": "2026-07-16T13:20:00+09:00",
-      "dateLabel": "07/16 13:20",
-      "desc": "リーナー、調達・購買担当者500名を対象とした「調達DXレポート 2026」を公開～資材高騰・属人化の実態と、AI活用の現在地などをデータで可視化～",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -272,15 +250,37 @@
       "score": 34
     },
     {
-      "title": "【一時非公開のお知らせ】「バズるほど赤字だった」──野田クリスタルのAIペットカードゲーム、公開停止からの復活劇を本人に聞いた",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000191/",
-      "date": "2026-07-15T18:12:12+09:00",
-      "dateLabel": "07/15 18:12",
-      "desc": "野田クリスタルさんがGeminiで開発した「ペットカードジェネレーター」は初日に130万アクセスを集めるも、AI利用料の高騰で一時停止に。「うちのこカード伝説」として復活するまでの舞台裏を、野田さんと電通の開発者に聞いた。",
+      "title": "Anthropic、米K-12教員向け「Claude for Teachers」無料提供 「Claude Code」や「Cowork」も含む",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000193/",
+      "date": "2026-07-15T11:25:28+09:00",
+      "dateLabel": "07/15 11:25",
+      "desc": "Anthropicは、米国の幼稚園から高校までの教員向け新サービス「Claude for Teachers」を発表した。認証を受けた米国の教育者は、Claudeのプレミアム機能や州の基準に沿った授業案作成ツールを無料で利用できる。モデルのトレーニングに生徒のデータは使用されず、教育プライバシー法にも準拠している。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
+      "cat": "規制/安全",
       "score": 34
+    },
+    {
+      "title": "Google DeepMindのハサビスCEO、米国主導の「フロンティアAI標準化機関」設立を提唱",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000192/",
+      "date": "2026-07-15T07:25:13+09:00",
+      "dateLabel": "07/15 07:25",
+      "desc": "Google DeepMindのデミス・ハサビスCEOは、AGIの実現は「おそらくあと数年」だとして、米国主導でフロンティアAIモデルをリリース前に審査する標準化機関の設立を提唱するエッセイを公開した。金融業界の自主規制機関FINRAをモデルとし、将来的には審査通過を米国市場での展開の条件とする構想だ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
+      "score": 34
+    },
+    {
+      "title": "\"誰でも使いこなせる”ハイエンドスマホ！ 少し高くても「AQUOS R11」、これが買いです",
+      "link": "https://ascii.jp/elem/000/004/419/4419650/?rss",
+      "date": "2026-07-16T17:30:00+09:00",
+      "dateLabel": "07/16 17:30",
+      "desc": "シャープの「AQUOS R11」は最新CPUとライカ監修カメラを備えるハイエンド機です。AIが自動ズームする機能や背面のLEDが光る癒やし機能を搭載。価格は約5万円上がり16万3900円となりましたが、初心者からマニアまで快適に使える完成度を誇ります。",
+      "img": "https://ascii.jp/img/2026/07/15/4501392/s/c7d8330110bacc2a.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     }
   ]
 }
