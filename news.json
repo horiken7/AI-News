@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-16T18:56:41.868158+09:00",
-  "generatedLabel": "2026/07/16 18:56",
+  "generatedAt": "2026-07-16T20:28:35.838502+09:00",
+  "generatedLabel": "2026/07/16 20:28",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 49,
+  "candidates": 47,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 19
+      "items": 20
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 2
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 8
+      "items": 9
     },
     {
       "source": "CNET Japan",
@@ -72,17 +72,6 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 58
-    },
-    {
-      "title": "CORSAIR、新型Micro-ATXケース「2800X RS-R ARGB」発表 GPU過熱保護ケーブルも登場",
-      "link": "https://ascii.jp/elem/000/004/420/4420281/?rss",
-      "date": "2026-07-16T16:30:00+09:00",
-      "dateLabel": "07/16 16:30",
-      "desc": "CORSAIRの新型Micro-ATX対応PCケース「2800X RS-R ARGB」と、GPUの異常発熱を検知して電力供給を停止する過熱保護機能付き12V-2x6ケーブルが国内発売。特徴や価格、発売日を詳しく紹介します。",
-      "img": "https://ascii.jp/img/2026/07/16/4501669/s/4b4339dd58b56c82.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 42
     },
     {
       "title": "「Gemini Spark」日本でもリリース、まずUltraから 24時間働く“パーソナルAIエージェント”",
@@ -149,6 +138,28 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 42
+    },
+    {
+      "title": "富士通、国内ロボット大手3社と「フィジカルAI」で協業 NVIDIAの技術活用",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000203/",
+      "date": "2026-07-16T19:43:39+09:00",
+      "dateLabel": "07/16 19:43",
+      "desc": "富士通は、AIが自律的に考え、ロボットの体を動かす「フィジカルAI」の開発に関し、川崎重工業とファナック、安川電機の各社と協業すると発表した。米NVIDIAの技術を活用し、ロボットを協調的に制御するための基盤を開発する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "Claudeのメモリから氏名や勤務先を盗み出す攻撃手法が発見される、ウェブ閲覧機能を悪用して外部サイトへ送信",
+      "link": "https://gigazine.net/news/20260716-claude-memory-heist/",
+      "date": "2026-07-16T19:00:00+09:00",
+      "dateLabel": "07/16 19:00",
+      "desc": "AIアシスタント「Claude」のウェブ閲覧機能を悪用し、メモリに保存された氏名や勤務先などの個人情報を、ユーザーに気付かれないまま外部サイトへ送信させる攻撃手法をセキュリティ研究者のAyush Paul氏が報告しました。Paul氏によると、問題はAnthropicに報告され、記事作成時点で外部ページ内のリンクをClaudeがたどれないようにする対策がすでに",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "トンカツ食べながら語った――NVIDIA、富士通、安川電機ら“フィジカルAI連合”誕生、発表直前の裏話",
@@ -270,17 +281,6 @@
       "src": "ITmedia AI+",
       "cat": "規制/安全",
       "score": 34
-    },
-    {
-      "title": "\"誰でも使いこなせる”ハイエンドスマホ！ 少し高くても「AQUOS R11」、これが買いです",
-      "link": "https://ascii.jp/elem/000/004/419/4419650/?rss",
-      "date": "2026-07-16T17:30:00+09:00",
-      "dateLabel": "07/16 17:30",
-      "desc": "シャープの「AQUOS R11」は最新CPUとライカ監修カメラを備えるハイエンド機です。AIが自動ズームする機能や背面のLEDが光る癒やし機能を搭載。価格は約5万円上がり16万3900円となりましたが、初心者からマニアまで快適に使える完成度を誇ります。",
-      "img": "https://ascii.jp/img/2026/07/15/4501392/s/c7d8330110bacc2a.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
     }
   ]
 }
