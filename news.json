@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-17T13:54:22.050493+09:00",
-  "generatedLabel": "2026/07/17 13:54",
+  "generatedAt": "2026-07-17T16:10:45.955183+09:00",
+  "generatedLabel": "2026/07/17 16:10",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -63,15 +63,37 @@
   ],
   "articles": [
     {
-      "title": "「Claude」利用制限を全リセット CodexとChatGPT Workも “リセット合戦”再び",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000201/",
-      "date": "2026-07-16T15:15:24+09:00",
-      "dateLabel": "07/16 15:15",
-      "desc": "米Anthropicは、AIサービス「Claude」の5時間および1週間の利用制限をリセットしたと発表した。一方、米OpenAIもデスクトップPC向けAIサービス「ChatGPT Work」およびAIコーディングツール「Codex」の週次利用制限をリセットすると発表し、“リセット合戦”の様相を呈している。",
-      "img": "",
-      "src": "ITmedia AI+",
+      "title": "テキストになるだけじゃない！ ChatGPT、Gemini、ClaudeのOCRを日常にありがちな場面で比較、採点した",
+      "link": "https://ascii.jp/elem/000/004/419/4419955/?rss",
+      "date": "2026-07-17T15:30:00+09:00",
+      "dateLabel": "07/17 15:30",
+      "desc": "本連載は生成AIをこれから活用しようとしている方たちのために、生成AIの基本やコピペしてそのまま使えるプロンプトなどを紹介。兎にも角にも生成AIに触り始めることで、AIに対する理解を深め、AIスキルを身に着けて欲しい。第67回はChatGPT、Gemini、ClaudeのOCRの精度・使い勝手などを、日常生活にありがちな場面で比較してみる。",
+      "img": "https://ascii.jp/img/2026/07/15/4501161/s/8894bb479ff3291b.jpg",
+      "src": "ASCII.jp",
       "cat": "LLM/モデル",
-      "score": 58
+      "score": 50
+    },
+    {
+      "title": "OpenAIのAIエージェントで中古車売買の顧客対応を自動化、サポート解決率50％向上・業務時間80％短縮・離脱顧客12％復帰などを達成した事例",
+      "link": "https://gigazine.net/news/20260717-openai-cars24-agent/",
+      "date": "2026-07-17T15:15:00+09:00",
+      "dateLabel": "07/17 15:15",
+      "desc": "OpenAIが2026年7月16日、中古車売買サービスを展開するCars24によるAI活用事例を公開しました。Cars24はOpenAIの技術を使った音声・チャット対応のAIエージェントを導入しており、月間100万分を超える顧客との会話を処理しています。導入後はカスタマーサポートの解決率が50％向上したほか、主要なサービス業務が完了するまでの時間が80％短縮",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
+      "title": "データセクション、国内第1号のAIデータセンターにNVIDIA製B300搭載GPUサーバーの搬入を開始",
+      "link": "https://ascii.jp/elem/000/004/420/4420606/?rss",
+      "date": "2026-07-17T14:11:01+09:00",
+      "dateLabel": "07/17 14:11",
+      "desc": "データセクション、国内第1号のAIデータセンターにNVIDIA製B300搭載GPUサーバーの搬入を開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 50
     },
     {
       "title": "GPT-5.6 Solに匹敵する中国製AIモデル「Kimi K3」が登場、2.8兆パラメーターの超大型オープンモデル",
@@ -96,6 +118,28 @@
       "score": 50
     },
     {
+      "title": "「Claude」利用制限を全リセット CodexとChatGPT Workも “リセット合戦”再び",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000201/",
+      "date": "2026-07-16T15:15:24+09:00",
+      "dateLabel": "07/16 15:15",
+      "desc": "米Anthropicは、AIサービス「Claude」の5時間および1週間の利用制限をリセットしたと発表した。一方、米OpenAIもデスクトップPC向けAIサービス「ChatGPT Work」およびAIコーディングツール「Codex」の週次利用制限をリセットすると発表し、“リセット合戦”の様相を呈している。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
+      "title": "ハイレゾ、香川県内のGPU拠点である綾川町データセンター敷地内を災害時の一時避難所として提供",
+      "link": "https://ascii.jp/elem/000/004/420/4420607/?rss",
+      "date": "2026-07-17T14:02:36+09:00",
+      "dateLabel": "07/17 14:02",
+      "desc": "ハイレゾ、香川県内のGPU拠点である綾川町データセンター敷地内を災害時の一時避難所として提供",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
       "title": "Google、「NotebookLM」を「Gemini Notebook」に改称 Geminiエコシステムへの統合を強化",
       "link": "https://www.itmedia.co.jp/news/articles/2607/17/news062.html",
       "date": "2026-07-17T08:21:00+09:00",
@@ -105,6 +149,17 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 42
+    },
+    {
+      "title": "ソニー、研究開発用「aibo」を東大などに貸し出し 将来の製品に活用",
+      "link": "https://ascii.jp/elem/000/004/420/4420555/?rss",
+      "date": "2026-07-17T14:35:00+09:00",
+      "dateLabel": "07/17 14:35",
+      "desc": "ソニーグループは7月17日、エンタテインメントロボット「aibo」の研究開発向け試作機と開発ツールを、東京大学と米カリフォルニア大学バークレー校の研究室に貸し出すと発表した。",
+      "img": "https://ascii.jp/img/2026/07/17/4502158/s/2a5b422d3be3ab38.png",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 34
     },
     {
       "title": "「アンネの日記」を巡る裁判でEUの最高裁判所が「ジオブロッキング技術がVPNで回避されても責任を問われない」と判決を下す",
@@ -137,17 +192,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "生成AIパスポート、累計受験者数が11万名を突破。2026年6月試験の結果を発表",
-      "link": "https://ascii.jp/elem/000/004/420/4420490/?rss",
-      "date": "2026-07-17T11:00:00+09:00",
-      "dateLabel": "07/17 11:00",
-      "desc": "生成AIパスポート、累計受験者数が11万名を突破。2026年6月試験の結果を発表",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
@@ -228,58 +272,14 @@
       "score": 34
     },
     {
-      "title": "TSMCがアリゾナ州で4つの2nmファブを追加建設することを決定",
-      "link": "https://gigazine.net/news/20260717-tsmc-arizona-new-4-fabs/",
-      "date": "2026-07-17T13:53:00+09:00",
-      "dateLabel": "07/17 13:53",
-      "desc": "TSMCのシーシー・ウェイCEOが、アメリカのアリゾナ州で少なくともさらに4つの半導体製造工場と先端パッケージング施設を建設することを明らかにしました。追加建設のために1000億ドル(約16兆2000億円)が投じられる予定です。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "「AIエージェントの約半数が\"戦力外\"になる」 なぜ企業は使いこなせない？",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/17/news053.html",
-      "date": "2026-07-17T13:00:00+09:00",
-      "dateLabel": "07/17 13:00",
-      "desc": "Gartnerは、2027年までに企業の40％が自律型AIエージェントを格下げまたは廃止すると予測している。そうした悲観的な見方の背景にはどのような問題があるのか。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "MSI、31.5インチ湾曲WQHDゲーミングモニター「MAG 325CQPF E18」を7月24日発売",
-      "link": "https://ascii.jp/elem/000/004/420/4420478/?rss",
-      "date": "2026-07-17T13:00:00+09:00",
-      "dateLabel": "07/17 13:00",
-      "desc": "MSIは、31.5インチ・1000R湾曲RAPID VAパネルを採用したWQHDゲーミングモニター「MAG 325CQPF E18」を7月24日に発売。180Hzリフレッシュレート、0.5ms応答速度、FreeSyncやAI Vision対応など、没入感と快適なゲームプレイを実現します。",
-      "img": "https://ascii.jp/img/2026/07/17/4502057/s/e9a4f874a0f60b16.png",
+      "title": "生成AIだけで「住みたい街」意思決定エンジンを開発",
+      "link": "https://ascii.jp/elem/000/004/420/4420585/?rss",
+      "date": "2026-07-17T15:21:28+09:00",
+      "dateLabel": "07/17 15:21",
+      "desc": "生成AIだけで「住みたい街」意思決定エンジンを開発",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "IntelがGoogleのAIサービスを大規模導入するべくパートナーシップを拡大",
-      "link": "https://gigazine.net/news/20260717-google-cloud-intel-ai/",
-      "date": "2026-07-17T12:52:00+09:00",
-      "dateLabel": "07/17 12:52",
-      "desc": "IntelとGoogle Cloudが戦略的パートナーシップの拡大を現地時間の2026年7月16日に発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "マウスコンピューター、VketReal 2026 Summerに初出展 AMD共同ブースでDAIV最新クリエイターPCを体験",
-      "link": "https://ascii.jp/elem/000/004/420/4420416/?rss",
-      "date": "2026-07-17T12:00:00+09:00",
-      "dateLabel": "07/17 12:00",
-      "desc": "マウスコンピューターがAMDと共同で「VketReal 2026 Summer」に初出展。Ryzen 7 9800X3DとRadeon RX 9070 XT搭載のDAIV最新クリエイターPCを体験展示するほか、16,500円OFFクーポンや購入特典も用意。",
-      "img": "https://ascii.jp/img/2026/07/17/4502013/s/0578fa956dd5bcd7.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "cat": "生成AI/マルチモーダル",
       "score": 26
     }
   ]
