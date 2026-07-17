@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-17T10:46:07.783606+09:00",
-  "generatedLabel": "2026/07/17 10:46",
+  "generatedAt": "2026-07-17T13:54:22.050493+09:00",
+  "generatedLabel": "2026/07/17 13:54",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 9
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -74,13 +74,13 @@
       "score": 58
     },
     {
-      "title": "DeepSeekショック再来か 中国「Kimi K3」、一部でClaude Fable超え",
-      "link": "https://ascii.jp/elem/000/004/420/4420382/?rss",
-      "date": "2026-07-17T09:25:00+09:00",
-      "dateLabel": "07/17 09:25",
-      "desc": "中国のMoonshot AIは7月16日、総パラメーター数2.8兆の新型AIモデル「Kimi K3」を発表した。",
-      "img": "https://ascii.jp/img/2026/07/17/4501978/s/cb9512aa4ae84b47.png",
-      "src": "ASCII.jp",
+      "title": "GPT-5.6 Solに匹敵する中国製AIモデル「Kimi K3」が登場、2.8兆パラメーターの超大型オープンモデル",
+      "link": "https://gigazine.net/news/20260717-kimi-k3/",
+      "date": "2026-07-17T12:03:00+09:00",
+      "dateLabel": "07/17 12:03",
+      "desc": "中国企業のMoonshot AIがAIモデル「Kimi K3」を日本時間の2026年7月17日に発表しました。一部のベンチマークテストでGPT-5.6 SolやClaude Fable 5を超えるスコアを記録しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 50
     },
@@ -96,39 +96,6 @@
       "score": 50
     },
     {
-      "title": "次の産業革命は日本から NVIDIAが国家規模の「AI工場」",
-      "link": "https://ascii.jp/elem/000/004/420/4420385/?rss",
-      "date": "2026-07-17T09:45:00+09:00",
-      "dateLabel": "07/17 09:45",
-      "desc": "NVIDIAは7月16日、日本のNoetra（ノエトラ）社と共同で、フィジカルAI向けとして世界初となる国家規模のAIインフラを日本国内に構築すると発表した。",
-      "img": "https://ascii.jp/img/2026/07/17/4501982/s/9519cc843356fd67.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "ASUS、曲面ガラス×高冷却のATXケース「Prime AP304」シリーズを発売",
-      "link": "https://ascii.jp/elem/000/004/420/4420379/?rss",
-      "date": "2026-07-17T09:30:00+09:00",
-      "dateLabel": "07/17 09:30",
-      "desc": "ASUSがATXケース「Prime AP304」シリーズを発売。曲面強化ガラスによるパノラマデザインや特許取得済みスロットベントを採用し、高い冷却性能を実現。最大420mm GPUや360mmラジエーター対応など、自作PC向けの拡張性も紹介します。",
-      "img": "https://ascii.jp/img/2026/07/17/4501977/s/b8866a3333a6c98a.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "世界で人気のAIスマートグラス「INMO GO3」日本上陸、翻訳や録音・議事録、テレプロンプター、ナビなど機能豊富",
-      "link": "https://ascii.jp/elem/000/004/420/4420370/?rss",
-      "date": "2026-07-17T09:00:00+09:00",
-      "dateLabel": "07/17 09:00",
-      "desc": "AI×ARスマートグラスを手がけるイノモ日本株式会社は、2026年7月16日に記者発表会を開催し、最新モデル「INMO GO3」を同年7月30日（木）より日本国内で発売すると発表しました。",
-      "img": "https://ascii.jp/img/2026/07/16/4501892/s/ee7757e68d846b31.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 42
-    },
-    {
       "title": "Google、「NotebookLM」を「Gemini Notebook」に改称 Geminiエコシステムへの統合を強化",
       "link": "https://www.itmedia.co.jp/news/articles/2607/17/news062.html",
       "date": "2026-07-17T08:21:00+09:00",
@@ -140,80 +107,47 @@
       "score": 42
     },
     {
-      "title": "「Gemini Spark」日本でもリリース、まずUltraから 24時間働く“パーソナルAIエージェント”",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000200/",
-      "date": "2026-07-16T13:53:43+09:00",
-      "dateLabel": "07/16 13:53",
-      "desc": "同社の幹部は、「Pro」（月額2900円）ユーザーにアクセスを拡大する可能性も示唆している。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "「AIと壁打ちはもう古い」 業務タスクを任せる「Claude Cowork」の落とし穴",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/16/news046.html",
-      "date": "2026-07-16T13:00:00+09:00",
-      "dateLabel": "07/16 13:00",
-      "desc": "Anthropicは、PC上の業務タスクを任せられる「Claude Cowork」の活用法を公開した。チャットやClaude Codeとの使い分けや、どんなタスクを任せればよいかを解説している。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "OpenAI初のハードウェア製品「Codex Micro」が登場、ボタン1発でCodexを操作",
-      "link": "https://gigazine.net/news/20260716-openai-codex-micro/",
-      "date": "2026-07-16T12:33:00+09:00",
-      "dateLabel": "07/16 12:33",
-      "desc": "OpenAI初のハードウェア製品となる「Codex Micro」が発表されました。OpenAIが予告していた通り、AIエージェントのCodexを操作するためのデバイスとなります。 続きを読む...",
+      "title": "「アンネの日記」を巡る裁判でEUの最高裁判所が「ジオブロッキング技術がVPNで回避されても責任を問われない」と判決を下す",
+      "link": "https://gigazine.net/news/20260717-geo-blocking-disputes/",
+      "date": "2026-07-17T12:30:00+09:00",
+      "dateLabel": "07/17 12:30",
+      "desc": "第二次世界大戦のさなかにユダヤ系ドイツ人の少女アンネ・フランクが書いた日記「アンネの日記」は、1945年にアンネが強制収容所で15歳で亡くなってから70年が経過した2016年に著作権切れとなり、インターネット上で公開されました。そんな「アンネの日記」を巡る裁判で、EUの最高裁判所が「最先端のジオブロッキング技術を用いて地域制限を設けていた場合、ユーザーがVP",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "OpenAI、自動レッドチームAI「GPT-Red」発表──人間の攻撃成功率13％に対し84％",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000199/",
-      "date": "2026-07-16T12:10:19+09:00",
-      "dateLabel": "07/16 12:10",
-      "desc": "OpenAIは、自社モデルの脆弱性を自動で発見するレッドチーミングモデル「GPT-Red」を発表した。自己対戦型の強化学習を採用し、攻撃側と防御側を同時に訓練して安全性を高める。検証では未知のシナリオでも人間のレッドチーマーを大きく上回る攻撃成功率を示した。この成果を反映した最新の「GPT-5.6 Sol」では、プロンプトインジェクションへの耐性が大幅に向上",
-      "img": "",
-      "src": "ITmedia AI+",
       "cat": "規制/安全",
-      "score": 42
+      "score": 34
     },
     {
-      "title": "NVIDIAとセガがパートナーシップを締結、「バーチャファイター クロスロード」などのSEGAタイトルがNVIDIA RTX Sparkでプレイ可能に",
-      "link": "https://gigazine.net/news/20260716-sega-nvidia-partnership/",
-      "date": "2026-07-16T11:08:00+09:00",
-      "dateLabel": "07/16 11:08",
-      "desc": "NVIDIAとセガが提携を拡大し、2027年発売予定の格闘ゲーム「VIRTUA FIGHTER CROSSROADS」をはじめとする今後のセガ作品を、NVIDIAの新しいPC向けプラットフォーム「RTX Spark」に対応させることを発表しました。両社はレイトレーシングやDLSS、AI技術を活用し、薄型ノートPCや小型デスクトップPCでも高品質なゲーム体験を",
+      "title": "ローカルAIモデルをAIエージェントとして使える「LM Studio Bionic」が登場、コーディングやスライド作成に対応しクラウドモデルも使用可能",
+      "link": "https://gigazine.net/news/20260717-lm-studio-bionic/",
+      "date": "2026-07-17T12:18:00+09:00",
+      "dateLabel": "07/17 12:18",
+      "desc": "日本時間の2026年7月17日、ローカルAI実行アプリ「LM Studio」の開発チームがAIエージェントアプリ「LM Studio Bionic」をリリースしました。LM Studio BionicではAIモデルをローカルで実行してコーディングや文書作成などの作業を任せることができます。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 42
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
-      "title": "ゼロから分かる「Claude」の教科書 ChatGPTと比べて分かった強みとは？",
-      "link": "https://kn.itmedia.co.jp/kn/articles/2607/16/news031.html",
-      "date": "2026-07-15T18:30:00+09:00",
-      "dateLabel": "07/15 18:30",
-      "desc": "「ChatGPT」の陰に隠れがちでありながら、高い性能を持ち、AIユーザーから高い支持を集める「Claude」。最近では、その高い性能から話題になっている最新モデル「Claude Mythos」の登場でも大きな話題を呼んでいる。本ブックレットでは、このClaudeの実力を「ChatGPT」との詳細な比較レビューを通じて徹底検証し、特徴や活用法を分かりやすく解",
+      "title": "GoogleのAIまとめサービス・NotebookLMが「Gemini Notebook」に改名、GoogleサービスやGeminiとの連携も強化",
+      "link": "https://gigazine.net/news/20260717-gemini-notebook/",
+      "date": "2026-07-17T11:57:00+09:00",
+      "dateLabel": "07/17 11:57",
+      "desc": "文書や音声、動画をAIで分析し、内容を整理してまとめてくれるGoogleのツール「NotebookLM」が新たに「Gemini Notebook」に改名されました。同時に、これまで有料最上位プランのGoogle AI Ultraユーザーにのみ公開されていた「Googleサービスとの連携強化」と「コード実行を伴う高度な分析機能」がすべてのProユーザーにも追加",
       "img": "",
-      "src": "ITmedia AI+",
+      "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 42
+      "score": 34
     },
     {
-      "title": "吸引力4倍の最強のロボット掃除機「Roomba Max」発表!!＝水拭きあり/なしの2モデル",
-      "link": "https://ascii.jp/elem/000/004/420/4420369/?rss",
-      "date": "2026-07-17T10:01:00+09:00",
-      "dateLabel": "07/17 10:01",
-      "desc": "清掃力に特化した「Roomba Max」は最大4倍というルンバ史上最高の吸引力を実現している点が最大の特徴です",
-      "img": "https://ascii.jp/img/2026/07/16/4501879/s/5a715023542194ef.jpg",
+      "title": "生成AIパスポート、累計受験者数が11万名を突破。2026年6月試験の結果を発表",
+      "link": "https://ascii.jp/elem/000/004/420/4420490/?rss",
+      "date": "2026-07-17T11:00:00+09:00",
+      "dateLabel": "07/17 11:00",
+      "desc": "生成AIパスポート、累計受験者数が11万名を突破。2026年6月試験の結果を発表",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AI実装",
+      "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
@@ -261,26 +195,92 @@
       "score": 34
     },
     {
-      "title": "既存のAIに攻撃を仕掛けて弱点を自動的に探し出すAIモデル「GPT-Red」をOpenAIが発表",
-      "link": "https://gigazine.net/news/20260716-openai-gpt-red/",
-      "date": "2026-07-16T13:07:00+09:00",
-      "dateLabel": "07/16 13:07",
-      "desc": "OpenAIが既存のAIに攻撃を仕掛けて弱点を自動的に探し出すモデル「GPT-Red」を2026年7月15日に発表しました。GPT-Redは攻撃役と防御役のAIを競わせることで、プロンプトインジェクションに強い次世代モデルを訓練するための社内向けシステムです。 続きを読む...",
+      "title": "「Gemini Spark」日本でもリリース、まずUltraから 24時間働く“パーソナルAIエージェント”",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000200/",
+      "date": "2026-07-16T13:53:43+09:00",
+      "dateLabel": "07/16 13:53",
+      "desc": "同社の幹部は、「Pro」（月額2900円）ユーザーにアクセスを拡大する可能性も示唆している。",
       "img": "",
-      "src": "GIGAZINE",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "「AIと壁打ちはもう古い」 業務タスクを任せる「Claude Cowork」の落とし穴",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/16/news046.html",
+      "date": "2026-07-16T13:00:00+09:00",
+      "dateLabel": "07/16 13:00",
+      "desc": "Anthropicは、PC上の業務タスクを任せられる「Claude Cowork」の活用法を公開した。チャットやClaude Codeとの使い分けや、どんなタスクを任せればよいかを解説している。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
     },
     {
-      "title": "Googleの24時間稼働AIエージェント「Gemini Spark」が日本語で利用可能に",
-      "link": "https://gigazine.net/news/20260716-gemini-spark-japanese/",
-      "date": "2026-07-16T11:20:00+09:00",
-      "dateLabel": "07/16 11:20",
-      "desc": "GoogleがAIエージェント「Gemini Spark」の日本語での展開を2026年7月16日に開始しました。Gemini Sparkは個人最適化された24時間稼働のAIエージェントで、自然言語での対話で各種タスクを実行させることができます。 続きを読む...",
+      "title": "OpenAI、自動レッドチームAI「GPT-Red」発表──人間の攻撃成功率13％に対し84％",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000199/",
+      "date": "2026-07-16T12:10:19+09:00",
+      "dateLabel": "07/16 12:10",
+      "desc": "OpenAIは、自社モデルの脆弱性を自動で発見するレッドチーミングモデル「GPT-Red」を発表した。自己対戦型の強化学習を採用し、攻撃側と防御側を同時に訓練して安全性を高める。検証では未知のシナリオでも人間のレッドチーマーを大きく上回る攻撃成功率を示した。この成果を反映した最新の「GPT-5.6 Sol」では、プロンプトインジェクションへの耐性が大幅に向上",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
+      "score": 34
+    },
+    {
+      "title": "TSMCがアリゾナ州で4つの2nmファブを追加建設することを決定",
+      "link": "https://gigazine.net/news/20260717-tsmc-arizona-new-4-fabs/",
+      "date": "2026-07-17T13:53:00+09:00",
+      "dateLabel": "07/17 13:53",
+      "desc": "TSMCのシーシー・ウェイCEOが、アメリカのアリゾナ州で少なくともさらに4つの半導体製造工場と先端パッケージング施設を建設することを明らかにしました。追加建設のために1000億ドル(約16兆2000億円)が投じられる予定です。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "「AIエージェントの約半数が\"戦力外\"になる」 なぜ企業は使いこなせない？",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/17/news053.html",
+      "date": "2026-07-17T13:00:00+09:00",
+      "dateLabel": "07/17 13:00",
+      "desc": "Gartnerは、2027年までに企業の40％が自律型AIエージェントを格下げまたは廃止すると予測している。そうした悲観的な見方の背景にはどのような問題があるのか。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 34
+      "score": 26
+    },
+    {
+      "title": "MSI、31.5インチ湾曲WQHDゲーミングモニター「MAG 325CQPF E18」を7月24日発売",
+      "link": "https://ascii.jp/elem/000/004/420/4420478/?rss",
+      "date": "2026-07-17T13:00:00+09:00",
+      "dateLabel": "07/17 13:00",
+      "desc": "MSIは、31.5インチ・1000R湾曲RAPID VAパネルを採用したWQHDゲーミングモニター「MAG 325CQPF E18」を7月24日に発売。180Hzリフレッシュレート、0.5ms応答速度、FreeSyncやAI Vision対応など、没入感と快適なゲームプレイを実現します。",
+      "img": "https://ascii.jp/img/2026/07/17/4502057/s/e9a4f874a0f60b16.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "IntelがGoogleのAIサービスを大規模導入するべくパートナーシップを拡大",
+      "link": "https://gigazine.net/news/20260717-google-cloud-intel-ai/",
+      "date": "2026-07-17T12:52:00+09:00",
+      "dateLabel": "07/17 12:52",
+      "desc": "IntelとGoogle Cloudが戦略的パートナーシップの拡大を現地時間の2026年7月16日に発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "マウスコンピューター、VketReal 2026 Summerに初出展 AMD共同ブースでDAIV最新クリエイターPCを体験",
+      "link": "https://ascii.jp/elem/000/004/420/4420416/?rss",
+      "date": "2026-07-17T12:00:00+09:00",
+      "dateLabel": "07/17 12:00",
+      "desc": "マウスコンピューターがAMDと共同で「VketReal 2026 Summer」に初出展。Ryzen 7 9800X3DとRadeon RX 9070 XT搭載のDAIV最新クリエイターPCを体験展示するほか、16,500円OFFクーポンや購入特典も用意。",
+      "img": "https://ascii.jp/img/2026/07/17/4502013/s/0578fa956dd5bcd7.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     }
   ]
 }
