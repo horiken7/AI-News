@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-17T16:10:45.955183+09:00",
-  "generatedLabel": "2026/07/17 16:10",
+  "generatedAt": "2026-07-17T18:46:57.532307+09:00",
+  "generatedLabel": "2026/07/17 18:46",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 58,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -63,17 +63,6 @@
   ],
   "articles": [
     {
-      "title": "テキストになるだけじゃない！ ChatGPT、Gemini、ClaudeのOCRを日常にありがちな場面で比較、採点した",
-      "link": "https://ascii.jp/elem/000/004/419/4419955/?rss",
-      "date": "2026-07-17T15:30:00+09:00",
-      "dateLabel": "07/17 15:30",
-      "desc": "本連載は生成AIをこれから活用しようとしている方たちのために、生成AIの基本やコピペしてそのまま使えるプロンプトなどを紹介。兎にも角にも生成AIに触り始めることで、AIに対する理解を深め、AIスキルを身に着けて欲しい。第67回はChatGPT、Gemini、ClaudeのOCRの精度・使い勝手などを、日常生活にありがちな場面で比較してみる。",
-      "img": "https://ascii.jp/img/2026/07/15/4501161/s/8894bb479ff3291b.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
       "title": "OpenAIのAIエージェントで中古車売買の顧客対応を自動化、サポート解決率50％向上・業務時間80％短縮・離脱顧客12％復帰などを達成した事例",
       "link": "https://gigazine.net/news/20260717-openai-cars24-agent/",
       "date": "2026-07-17T15:15:00+09:00",
@@ -82,17 +71,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
-      "title": "データセクション、国内第1号のAIデータセンターにNVIDIA製B300搭載GPUサーバーの搬入を開始",
-      "link": "https://ascii.jp/elem/000/004/420/4420606/?rss",
-      "date": "2026-07-17T14:11:01+09:00",
-      "dateLabel": "07/17 14:11",
-      "desc": "データセクション、国内第1号のAIデータセンターにNVIDIA製B300搭載GPUサーバーの搬入を開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
       "score": 50
     },
     {
@@ -129,12 +107,23 @@
       "score": 50
     },
     {
-      "title": "ハイレゾ、香川県内のGPU拠点である綾川町データセンター敷地内を災害時の一時避難所として提供",
-      "link": "https://ascii.jp/elem/000/004/420/4420607/?rss",
-      "date": "2026-07-17T14:02:36+09:00",
-      "dateLabel": "07/17 14:02",
-      "desc": "ハイレゾ、香川県内のGPU拠点である綾川町データセンター敷地内を災害時の一時避難所として提供",
+      "title": "【7/29 14:00開催】「AIの記憶を測る」LLMO実践セミナーを開催 担当者がすぐに実践できる測定手法を公開",
+      "link": "https://ascii.jp/elem/000/004/420/4420644/?rss",
+      "date": "2026-07-17T17:10:00+09:00",
+      "dateLabel": "07/17 17:10",
+      "desc": "【7/29 14:00開催】「AIの記憶を測る」LLMO実践セミナーを開催 担当者がすぐに実践できる測定手法を公開",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "半透明デザインにCore 7・RTX 5060搭載のゲーミングノートPC。「Cyborg 15」がタイムセール",
+      "link": "https://ascii.jp/elem/000/004/420/4420357/?rss",
+      "date": "2026-07-17T17:00:00+09:00",
+      "dateLabel": "07/17 17:00",
+      "desc": "MSIのゲーミングノートPC「Cyborg 15（Cyborg-15-B2RWFKG-1162JP）」がAmazonタイムセール対象。過去価格249,800円のところ、8％オフの229,800円で販売中。半透明デザインを採用するほか、Core 7 240HやGeForce RTX 5060 Laptop GPUを搭載。見た目にも性能にもこだわったゲーミングノ",
+      "img": "https://ascii.jp/img/2026/07/16/4501800/s/c4151cbccf930ed6.jpg",
       "src": "ASCII.jp",
       "cat": "半導体/GPU",
       "score": 42
@@ -151,14 +140,14 @@
       "score": 42
     },
     {
-      "title": "ソニー、研究開発用「aibo」を東大などに貸し出し 将来の製品に活用",
-      "link": "https://ascii.jp/elem/000/004/420/4420555/?rss",
-      "date": "2026-07-17T14:35:00+09:00",
-      "dateLabel": "07/17 14:35",
-      "desc": "ソニーグループは7月17日、エンタテインメントロボット「aibo」の研究開発向け試作機と開発ツールを、東京大学と米カリフォルニア大学バークレー校の研究室に貸し出すと発表した。",
-      "img": "https://ascii.jp/img/2026/07/17/4502158/s/2a5b422d3be3ab38.png",
+      "title": "松尾研究所、Noetra社による国産マルチモーダル基盤モデルの開発事業に参画",
+      "link": "https://ascii.jp/elem/000/004/420/4420626/?rss",
+      "date": "2026-07-17T16:30:21+09:00",
+      "dateLabel": "07/17 16:30",
+      "desc": "松尾研究所、Noetra社による国産マルチモーダル基盤モデルの開発事業に参画",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AI実装",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -217,28 +206,6 @@
       "score": 34
     },
     {
-      "title": "Claudeのメモリから氏名や勤務先を盗み出す攻撃手法が発見される、ウェブ閲覧機能を悪用して外部サイトへ送信",
-      "link": "https://gigazine.net/news/20260716-claude-memory-heist/",
-      "date": "2026-07-16T19:00:00+09:00",
-      "dateLabel": "07/16 19:00",
-      "desc": "AIアシスタント「Claude」のウェブ閲覧機能を悪用し、メモリに保存された氏名や勤務先などの個人情報を、ユーザーに気付かれないまま外部サイトへ送信させる攻撃手法をセキュリティ研究者のAyush Paul氏が報告しました。Paul氏によると、問題はAnthropicに報告され、記事作成時点で外部ページ内のリンクをClaudeがたどれないようにする対策がすでに",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "トンカツ食べながら語った――NVIDIA、富士通、安川電機ら“フィジカルAI連合”誕生、発表直前の裏話",
-      "link": "https://www.itmedia.co.jp/business/articles/2607/16/news090.html",
-      "date": "2026-07-16T17:15:00+09:00",
-      "dateLabel": "07/16 17:15",
-      "desc": "富士通、ファナック、安川電機、川崎重工業とNVIDIAによる“フィジカルAI連合”が誕生した。5社のトップは、記者説明会の直前には「トンカツ」を食べながら語り合ったという。その一幕を富士通の時田社長が明かした。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
       "title": "「Gemini Spark」日本でもリリース、まずUltraから 24時間働く“パーソナルAIエージェント”",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000200/",
       "date": "2026-07-16T13:53:43+09:00",
@@ -272,14 +239,47 @@
       "score": 34
     },
     {
-      "title": "生成AIだけで「住みたい街」意思決定エンジンを開発",
-      "link": "https://ascii.jp/elem/000/004/420/4420585/?rss",
-      "date": "2026-07-17T15:21:28+09:00",
-      "dateLabel": "07/17 15:21",
-      "desc": "生成AIだけで「住みたい街」意思決定エンジンを開発",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
+      "title": "人間には読めるのにAIには別の文字に見えてしまうフォント「Decoy Font」が登場",
+      "link": "https://gigazine.net/news/20260717-decoy-font/",
+      "date": "2026-07-17T17:47:00+09:00",
+      "dateLabel": "07/17 17:47",
+      "desc": "人間には本来の文章が読める一方で、画像認識AIには別の文章として認識させるフォント「Decoy Font」をフォント開発サービスのMixfontが公開しました。一般的なTTF形式で配布されており、パソコンにインストールして通常のフォントと同じように利用できます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "Meta AIが10代の自殺・自傷リスクを検知して保護者に通知する機能を導入、危険な会話を見つける専用AIも開発",
+      "link": "https://gigazine.net/news/20260717-meta-ai-distress-conversations/",
+      "date": "2026-07-17T14:05:00+09:00",
+      "dateLabel": "07/17 14:05",
+      "desc": "Metaは2026年7月16日、10代の利用者がMeta AIとの会話で自殺や自傷を考えている兆候を示した場合にInstagramのペアレンタルコントロール機能を利用する保護者へ通知する機能の提供を開始したと発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "TSMCがアリゾナ州で4つの2nmファブを追加建設することを決定",
+      "link": "https://gigazine.net/news/20260717-tsmc-arizona-new-4-fabs/",
+      "date": "2026-07-17T13:53:00+09:00",
+      "dateLabel": "07/17 13:53",
+      "desc": "TSMCのシーシー・ウェイCEOが、アメリカのアリゾナ州で少なくともさらに4つの半導体製造工場と先端パッケージング施設を建設することを明らかにしました。追加建設のために1000億ドル(約16兆2000億円)が投じられる予定です。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "「AIエージェントの約半数が\"戦力外\"になる」 なぜ企業は使いこなせない？",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/17/news053.html",
+      "date": "2026-07-17T13:00:00+09:00",
+      "dateLabel": "07/17 13:00",
+      "desc": "Gartnerは、2027年までに企業の40％が自律型AIエージェントを格下げまたは廃止すると予測している。そうした悲観的な見方の背景にはどのような問題があるのか。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
