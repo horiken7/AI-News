@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-18T05:53:23.424163+09:00",
-  "generatedLabel": "2026/07/18 05:53",
+  "generatedAt": "2026-07-18T06:41:50.909220+09:00",
+  "generatedLabel": "2026/07/18 06:41",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 17
+      "items": 18
     },
     {
       "source": "CNET Japan",
@@ -162,17 +162,6 @@
       "score": 34
     },
     {
-      "title": "「現場で使えるAIへ」、富士通が進める次世代CPUと自律型AIエージェント戦略",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/17/news044.html",
-      "date": "2026-07-17T06:30:00+09:00",
-      "dateLabel": "07/17 06:30",
-      "desc": "富士通は自社イベント「Fujitsu Experience Day 2026」で、次世代CPUの「FUJITSU-MONAKA」をはじめ、AIチームを自律生成する技術や、実店舗で検証する店長業務支援AIなど企業変革を支援する最新AIソリューションを公開した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "「Gemini Spark」日本でもリリース、まずUltraから 24時間働く“パーソナルAIエージェント”",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000200/",
       "date": "2026-07-16T13:53:43+09:00",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "IntelがGoogleのAIサービスを大規模導入するべくパートナーシップを拡大",
+      "link": "https://gigazine.net/news/20260717-google-cloud-intel-ai/",
+      "date": "2026-07-17T12:52:00+09:00",
+      "dateLabel": "07/17 12:52",
+      "desc": "IntelとGoogle Cloudが戦略的パートナーシップの拡大を現地時間の2026年7月16日に発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
       "score": 26
     }
   ]
