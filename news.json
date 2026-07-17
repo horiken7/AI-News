@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-18T06:41:50.909220+09:00",
-  "generatedLabel": "2026/07/18 06:41",
+  "generatedAt": "2026-07-18T07:38:52.879911+09:00",
+  "generatedLabel": "2026/07/18 07:38",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 56,
@@ -85,17 +85,6 @@
       "score": 50
     },
     {
-      "title": "強気値上げで自爆か ClaudeやGeminiに押され「M365 Copilot」は一人負け？：888th Lap",
-      "link": "https://kn.itmedia.co.jp/kn/articles/2607/17/news040.html",
-      "date": "2026-07-17T07:00:00+09:00",
-      "dateLabel": "07/17 07:00",
-      "desc": "「ChatGPT」だけでなく、「Claude」や「Gemini」も支持を広げる生成AI市場。だが、Microsoft 365の法人ユーザーは約4億5000万人いるものの、有料版「Microsoft 365 Copilot」を契約している割合は4.5％未満にとどまるという。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
       "title": "「Claude」利用制限を全リセット CodexとChatGPT Workも “リセット合戦”再び",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000201/",
       "date": "2026-07-16T15:15:24+09:00",
@@ -115,6 +104,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "強気値上げで自爆か ClaudeやGeminiに押され「M365 Copilot」は一人負け？：888th Lap",
+      "link": "https://kn.itmedia.co.jp/kn/articles/2607/17/news040.html",
+      "date": "2026-07-17T07:00:00+09:00",
+      "dateLabel": "07/17 07:00",
+      "desc": "「ChatGPT」だけでなく、「Claude」や「Gemini」も支持を広げる生成AI市場。だが、Microsoft 365の法人ユーザーは約4億5000万人いるものの、有料版「Microsoft 365 Copilot」を契約している割合は4.5％未満にとどまるという。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
