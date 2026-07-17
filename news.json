@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-17T08:50:09.298061+09:00",
-  "generatedLabel": "2026/07/17 08:50",
+  "generatedAt": "2026-07-17T10:46:07.783606+09:00",
+  "generatedLabel": "2026/07/17 10:46",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 47,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 1
+      "items": 9
     },
     {
       "source": "PC Watch",
@@ -74,6 +74,17 @@
       "score": 58
     },
     {
+      "title": "DeepSeekショック再来か 中国「Kimi K3」、一部でClaude Fable超え",
+      "link": "https://ascii.jp/elem/000/004/420/4420382/?rss",
+      "date": "2026-07-17T09:25:00+09:00",
+      "dateLabel": "07/17 09:25",
+      "desc": "中国のMoonshot AIは7月16日、総パラメーター数2.8兆の新型AIモデル「Kimi K3」を発表した。",
+      "img": "https://ascii.jp/img/2026/07/17/4501978/s/cb9512aa4ae84b47.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
       "title": "強気値上げで自爆か ClaudeやGeminiに押され「M365 Copilot」は一人負け？：888th Lap",
       "link": "https://kn.itmedia.co.jp/kn/articles/2607/17/news040.html",
       "date": "2026-07-17T07:00:00+09:00",
@@ -83,6 +94,39 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 50
+    },
+    {
+      "title": "次の産業革命は日本から NVIDIAが国家規模の「AI工場」",
+      "link": "https://ascii.jp/elem/000/004/420/4420385/?rss",
+      "date": "2026-07-17T09:45:00+09:00",
+      "dateLabel": "07/17 09:45",
+      "desc": "NVIDIAは7月16日、日本のNoetra（ノエトラ）社と共同で、フィジカルAI向けとして世界初となる国家規模のAIインフラを日本国内に構築すると発表した。",
+      "img": "https://ascii.jp/img/2026/07/17/4501982/s/9519cc843356fd67.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "ASUS、曲面ガラス×高冷却のATXケース「Prime AP304」シリーズを発売",
+      "link": "https://ascii.jp/elem/000/004/420/4420379/?rss",
+      "date": "2026-07-17T09:30:00+09:00",
+      "dateLabel": "07/17 09:30",
+      "desc": "ASUSがATXケース「Prime AP304」シリーズを発売。曲面強化ガラスによるパノラマデザインや特許取得済みスロットベントを採用し、高い冷却性能を実現。最大420mm GPUや360mmラジエーター対応など、自作PC向けの拡張性も紹介します。",
+      "img": "https://ascii.jp/img/2026/07/17/4501977/s/b8866a3333a6c98a.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "世界で人気のAIスマートグラス「INMO GO3」日本上陸、翻訳や録音・議事録、テレプロンプター、ナビなど機能豊富",
+      "link": "https://ascii.jp/elem/000/004/420/4420370/?rss",
+      "date": "2026-07-17T09:00:00+09:00",
+      "dateLabel": "07/17 09:00",
+      "desc": "AI×ARスマートグラスを手がけるイノモ日本株式会社は、2026年7月16日に記者発表会を開催し、最新モデル「INMO GO3」を同年7月30日（木）より日本国内で発売すると発表しました。",
+      "img": "https://ascii.jp/img/2026/07/16/4501892/s/ee7757e68d846b31.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 42
     },
     {
       "title": "Google、「NotebookLM」を「Gemini Notebook」に改称 Geminiエコシステムへの統合を強化",
@@ -162,6 +206,17 @@
       "score": 42
     },
     {
+      "title": "吸引力4倍の最強のロボット掃除機「Roomba Max」発表!!＝水拭きあり/なしの2モデル",
+      "link": "https://ascii.jp/elem/000/004/420/4420369/?rss",
+      "date": "2026-07-17T10:01:00+09:00",
+      "dateLabel": "07/17 10:01",
+      "desc": "清掃力に特化した「Roomba Max」は最大4倍というルンバ史上最高の吸引力を実現している点が最大の特徴です",
+      "img": "https://ascii.jp/img/2026/07/16/4501879/s/5a715023542194ef.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 34
+    },
+    {
       "title": "「現場で使えるAIへ」、富士通が進める次世代CPUと自律型AIエージェント戦略",
       "link": "https://monoist.itmedia.co.jp/mn/articles/2607/17/news044.html",
       "date": "2026-07-17T06:30:00+09:00",
@@ -226,61 +281,6 @@
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 34
-    },
-    {
-      "title": "約1兆パラメーターで画像・音声の理解やコーディングに対応、用途別に調整できるオープンウェイトAIモデル「Inkling」登場",
-      "link": "https://gigazine.net/news/20260716-inkling/",
-      "date": "2026-07-16T11:15:00+09:00",
-      "dateLabel": "07/16 11:15",
-      "desc": "AI企業のThinking Machines Labが、用途に合わせた追加学習を重視する新たなAIモデル「Inkling」を発表しました。モデルの重みが公開されるオープンウェイトモデルで、文章だけでなく画像や音声も扱えるほか、思考に使う計算量の調整も可能とのことです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "AIエージェント「Grok Build」がオープンソース化される",
-      "link": "https://gigazine.net/news/20260716-grok-build-open-source/",
-      "date": "2026-07-16T11:08:00+09:00",
-      "dateLabel": "07/16 11:08",
-      "desc": "日本時間の2026年7月16日、SpaceXAI(旧称：xAI)がAIエージェントアプリ「Grok Build」のオープンソース化を発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Thinking Machines、初のAIモデル「Inkling」公開──オープンウェイトで「自分のものにできる」基盤モデル",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000197/",
-      "date": "2026-07-16T09:47:00+09:00",
-      "dateLabel": "07/16 09:47",
-      "desc": "ミラ・ムラティ氏率いるThinking Machines Labが、同社初のAIモデル「Inkling」を発表した。テキスト・画像・音声対応のMoE型オープンウェイトモデルで、Hugging Faceで全ウェイトを公開。「最強のモデルではない」とした上で、同社のファインチューニング基盤「Tinker」でのカスタマイズに適した基盤モデルと位置付ける。軽量版「I",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "これからのロボットは「買ったときが一番性能低い」？ ソフトバンクと安川電機「フィジカルAI」学習工程の効率化を実証",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/17/2000000196/",
-      "date": "2026-07-17T08:00:00+09:00",
-      "dateLabel": "07/17 08:00",
-      "desc": "「SoftBank World 2026」でソフトバンクと安川電機がフィジカルAI協業の成果を披露した。ソフトバンクの湧川隆次CTOは、強化学習によって使うほど性能が向上するロボットへの転換を「大きなパラダイムシフト」と表現した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "日本再起の旗印となるか、国産マルチモーダルAI基盤「FRONTia」が始動",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/17/news059.html",
-      "date": "2026-07-17T06:45:00+09:00",
-      "dateLabel": "07/17 06:45",
-      "desc": "経済産業省とNEDOは、AIロボットやフィジカルAIに用いられる国産マルチモーダル基盤モデル「FRONTia（フロンティア）」の開発プロジェクトの本格始動に合わせて、東京都内で「我が国のフィジカルAI政策に関する対外発信イベント」を開催した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
     }
   ]
 }
