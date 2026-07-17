@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-17T20:14:45.267947+09:00",
-  "generatedLabel": "2026/07/17 20:14",
+  "generatedAt": "2026-07-17T22:03:51.414270+09:00",
+  "generatedLabel": "2026/07/17 22:03",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 17
     },
     {
       "source": "CNET Japan",
@@ -206,6 +206,17 @@
       "score": 34
     },
     {
+      "title": "人型ロボット教師＆AIアシスタントを教育現場に試験導入する学区が登場",
+      "link": "https://gigazine.net/news/20260717-humanoid-robot-teacher/",
+      "date": "2026-07-17T21:00:00+09:00",
+      "dateLabel": "07/17 21:00",
+      "desc": "アメリカ・ニューヨーク州キャタラウガス郡サラマンカの学区が、2026年秋から人型ロボットを教育現場に導入すると発表しました。この人型ロボットは教師に取って代わるものではなく、生徒と教師の両方に学習支援を提供するものとなるそうです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
       "title": "GPT-5.6がファイルを勝手に削除したという報告多数、OpenAIはサンドボックスなしのフルアクセスモードで発生することが最も多いと指摘",
       "link": "https://gigazine.net/news/20260717-openai-gpt-5-6-sol-delete-file/",
       "date": "2026-07-17T20:00:00+09:00",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "IntelがGoogleのAIサービスを大規模導入するべくパートナーシップを拡大",
-      "link": "https://gigazine.net/news/20260717-google-cloud-intel-ai/",
-      "date": "2026-07-17T12:52:00+09:00",
-      "dateLabel": "07/17 12:52",
-      "desc": "IntelとGoogle Cloudが戦略的パートナーシップの拡大を現地時間の2026年7月16日に発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
       "score": 26
     }
   ]
