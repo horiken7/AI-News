@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-18T07:38:52.879911+09:00",
-  "generatedLabel": "2026/07/18 07:38",
+  "generatedAt": "2026-07-18T08:42:33.290986+09:00",
+  "generatedLabel": "2026/07/18 08:42",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 56,
@@ -96,17 +96,6 @@
       "score": 50
     },
     {
-      "title": "Google、「NotebookLM」を「Gemini Notebook」に改称 Geminiエコシステムへの統合を強化",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/17/news062.html",
-      "date": "2026-07-17T08:21:00+09:00",
-      "dateLabel": "07/17 08:21",
-      "desc": "Googleは、AI搭載リサーチツール「NotebookLM」の名称を「Gemini Notebook」に変更すると発表した。機能は単体製品として維持しつつ、エコシステム全体で広く機能するようになる。安全なクラウドコンピュータの割り当てによるデータ分析機能などの大型アップデートも展開中で、この機能は今後全Proユーザーへ提供される見込みだ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "強気値上げで自爆か ClaudeやGeminiに押され「M365 Copilot」は一人負け？：888th Lap",
       "link": "https://kn.itmedia.co.jp/kn/articles/2607/17/news040.html",
       "date": "2026-07-17T07:00:00+09:00",
@@ -158,6 +147,17 @@
       "desc": "文書や音声、動画をAIで分析し、内容を整理してまとめてくれるGoogleのツール「NotebookLM」が新たに「Gemini Notebook」に改名されました。同時に、これまで有料最上位プランのGoogle AI Ultraユーザーにのみ公開されていた「Googleサービスとの連携強化」と「コード実行を伴う高度な分析機能」がすべてのProユーザーにも追加",
       "img": "",
       "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "Google、「NotebookLM」を「Gemini Notebook」に改称 Geminiエコシステムへの統合を強化",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/17/news062.html",
+      "date": "2026-07-17T08:21:00+09:00",
+      "dateLabel": "07/17 08:21",
+      "desc": "Googleは、AI搭載リサーチツール「NotebookLM」の名称を「Gemini Notebook」に変更すると発表した。機能は単体製品として維持しつつ、エコシステム全体で広く機能するようになる。安全なクラウドコンピュータの割り当てによるデータ分析機能などの大型アップデートも展開中で、この機能は今後全Proユーザーへ提供される見込みだ。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
     },
