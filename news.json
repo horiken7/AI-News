@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-18T23:15:49.393320+09:00",
-  "generatedLabel": "2026/07/18 23:15",
+  "generatedAt": "2026-07-19T00:44:33.092442+09:00",
+  "generatedLabel": "2026/07/19 00:44",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 54,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 2
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -184,17 +184,6 @@
       "score": 26
     },
     {
-      "title": "6.4万人の熱狂をAIが導く FIFA W杯全スタジアム「デジタルツイン」化が変えた観戦体験",
-      "link": "https://ascii.jp/elem/000/004/420/4420679/?rss",
-      "date": "2026-07-18T09:00:00+09:00",
-      "dateLabel": "07/18 09:00",
-      "desc": "FIFAワールドカップ2026もいよいよ最終盤を迎えた。筆者は7月初旬、米国のスタジアムで決勝リーグを観戦してきた。そこでは、デジタルテクノロジーを大きく取り入れ、観客のストレスをなくす新たな観戦体験への取り組みが見られた。",
-      "img": "https://ascii.jp/img/2026/07/18/4502501/s/2aff743b81019ffc.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
       "title": "「アンネの日記」を巡る裁判でEUの最高裁判所が「ジオブロッキング技術がVPNで回避されても責任を問われない」と判決を下す",
       "link": "https://gigazine.net/news/20260717-geo-blocking-disputes/",
       "date": "2026-07-17T12:30:00+09:00",
@@ -203,17 +192,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "規制/安全",
-      "score": 26
-    },
-    {
-      "title": "ローカルAIモデルをAIエージェントとして使える「LM Studio Bionic」が登場、コーディングやスライド作成に対応しクラウドモデルも使用可能",
-      "link": "https://gigazine.net/news/20260717-lm-studio-bionic/",
-      "date": "2026-07-17T12:18:00+09:00",
-      "dateLabel": "07/17 12:18",
-      "desc": "日本時間の2026年7月17日、ローカルAI実行アプリ「LM Studio」の開発チームがAIエージェントアプリ「LM Studio Bionic」をリリースしました。LM Studio BionicではAIモデルをローカルで実行してコーディングや文書作成などの作業を任せることができます。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
       "score": 26
     },
     {
@@ -281,6 +259,28 @@
       "src": "ITmedia AI+",
       "cat": "規制/安全",
       "score": 26
+    },
+    {
+      "title": "3アイテム同時にワイヤレス充電可能＆折りたたんでコンパクトに持ち運びもできるAnkerの「Prime Wireless Charging Station(3-in-1, MagGo,AirCool,Foldable)」レビュー",
+      "link": "https://gigazine.net/news/20260718-anker-b25n1n12/",
+      "date": "2026-07-18T10:00:00+09:00",
+      "dateLabel": "07/18 10:00",
+      "desc": "Ankerの「Prime Wireless Charging Station」は複数のワイヤレス充電ドックを備えたアイテムで、ごちゃつきがちな充電機器をすっきりまとめた上で、冷却機能によりスマホの温度上昇を防ぐことができます。そんな充電ドックを折り畳んでコンパクトに持ち運ぶことも可能になった「Anker Prime Wireless Charging Sta",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 18
+    },
+    {
+      "title": "メジャーリーグで「ベンチ内でiPadを使って生成AIにアクセスする行為」が禁止に",
+      "link": "https://gigazine.net/news/20260718-mlb-dugout-ipad-ai/",
+      "date": "2026-07-18T06:30:00+09:00",
+      "dateLabel": "07/18 06:30",
+      "desc": "2016年からMLB全チームのベンチに配備されているiPadについて、複数チームが試合中の戦略立案支援に利用しているとして、生成AIへのアクセスを禁止する措置が執られたことがわかりました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "生成AI/マルチモーダル",
+      "score": 18
     }
   ]
 }
