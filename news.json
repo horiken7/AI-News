@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-18T10:27:04.973528+09:00",
-  "generatedLabel": "2026/07/18 10:27",
+  "generatedAt": "2026-07-18T13:39:13.111929+09:00",
+  "generatedLabel": "2026/07/18 13:39",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 60,
+  "candidates": 59,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -74,17 +74,6 @@
       "score": 50
     },
     {
-      "title": "GPT-5.6 Solに匹敵する中国製AIモデル「Kimi K3」が登場、2.8兆パラメーターの超大型オープンモデル",
-      "link": "https://gigazine.net/news/20260717-kimi-k3/",
-      "date": "2026-07-17T12:03:00+09:00",
-      "dateLabel": "07/17 12:03",
-      "desc": "中国企業のMoonshot AIがAIモデル「Kimi K3」を日本時間の2026年7月17日に発表しました。一部のベンチマークテストでGPT-5.6 SolやClaude Fable 5を超えるスコアを記録しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
       "title": "「Claude」利用制限を全リセット CodexとChatGPT Workも “リセット合戦”再び",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000201/",
       "date": "2026-07-16T15:15:24+09:00",
@@ -96,6 +85,17 @@
       "score": 50
     },
     {
+      "title": "GPT-5.6 Solに匹敵する中国製AIモデル「Kimi K3」が登場、2.8兆パラメーターの超大型オープンモデル",
+      "link": "https://gigazine.net/news/20260717-kimi-k3/",
+      "date": "2026-07-17T12:03:00+09:00",
+      "dateLabel": "07/17 12:03",
+      "desc": "中国企業のMoonshot AIがAIモデル「Kimi K3」を日本時間の2026年7月17日に発表しました。一部のベンチマークテストでGPT-5.6 SolやClaude Fable 5を超えるスコアを記録しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "強気値上げで自爆か ClaudeやGeminiに押され「M365 Copilot」は一人負け？：888th Lap",
       "link": "https://kn.itmedia.co.jp/kn/articles/2607/17/news040.html",
       "date": "2026-07-17T07:00:00+09:00",
@@ -105,6 +105,17 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 42
+    },
+    {
+      "title": "「Claude Fable 5」サブスクに統合 Max・Team Premiumプラン対象",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/18/news019.html",
+      "date": "2026-07-18T12:50:00+09:00",
+      "dateLabel": "07/18 12:50",
+      "desc": "米Anthropicは、最上位AIモデル「Claude Fable 5」を7月20日から有料プラン「Max」「Team Premium」の標準機能にする。利用上限の50%まで追加費用なしで利用でき、「Pro」「Team Standard」は「使用クレジット」での利用となり、100ドル分のクレジットを1回限り付与する。無償提供の期限を2度延長した末の方針転換と",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "背面コネクタ—採用に大型ディスプレー搭載はたまらん！STORMのゲーミングPC「幻界2シリーズ」が新発売：ソフマップ なんば店",
@@ -126,39 +137,6 @@
       "img": "https://ascii.jp/img/2026/07/17/4502236/s/a7d134978d2bf6ab.jpg",
       "src": "ASCII.jp",
       "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "「アンネの日記」を巡る裁判でEUの最高裁判所が「ジオブロッキング技術がVPNで回避されても責任を問われない」と判決を下す",
-      "link": "https://gigazine.net/news/20260717-geo-blocking-disputes/",
-      "date": "2026-07-17T12:30:00+09:00",
-      "dateLabel": "07/17 12:30",
-      "desc": "第二次世界大戦のさなかにユダヤ系ドイツ人の少女アンネ・フランクが書いた日記「アンネの日記」は、1945年にアンネが強制収容所で15歳で亡くなってから70年が経過した2016年に著作権切れとなり、インターネット上で公開されました。そんな「アンネの日記」を巡る裁判で、EUの最高裁判所が「最先端のジオブロッキング技術を用いて地域制限を設けていた場合、ユーザーがVP",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "ローカルAIモデルをAIエージェントとして使える「LM Studio Bionic」が登場、コーディングやスライド作成に対応しクラウドモデルも使用可能",
-      "link": "https://gigazine.net/news/20260717-lm-studio-bionic/",
-      "date": "2026-07-17T12:18:00+09:00",
-      "dateLabel": "07/17 12:18",
-      "desc": "日本時間の2026年7月17日、ローカルAI実行アプリ「LM Studio」の開発チームがAIエージェントアプリ「LM Studio Bionic」をリリースしました。LM Studio BionicではAIモデルをローカルで実行してコーディングや文書作成などの作業を任せることができます。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "GoogleのAIまとめサービス・NotebookLMが「Gemini Notebook」に改名、GoogleサービスやGeminiとの連携も強化",
-      "link": "https://gigazine.net/news/20260717-gemini-notebook/",
-      "date": "2026-07-17T11:57:00+09:00",
-      "dateLabel": "07/17 11:57",
-      "desc": "文書や音声、動画をAIで分析し、内容を整理してまとめてくれるGoogleのツール「NotebookLM」が新たに「Gemini Notebook」に改名されました。同時に、これまで有料最上位プランのGoogle AI Ultraユーザーにのみ公開されていた「Googleサービスとの連携強化」と「コード実行を伴う高度な分析機能」がすべてのProユーザーにも追加",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -250,17 +228,6 @@
       "score": 26
     },
     {
-      "title": "いま世界で注目のK-POPガールズグループと大接近！「日本初！KISS OF LIFE×セゾンカード ファン参加型イベント」が当たるSAISON CARD Digital新規入会キャンペーンを実施！",
-      "link": "https://ascii.jp/elem/000/004/420/4420661/?rss",
-      "date": "2026-07-17T18:01:25+09:00",
-      "dateLabel": "07/17 18:01",
-      "desc": "いま世界で注目のK-POPガールズグループと大接近！「日本初！KISS OF LIFE×セゾンカード ファン参加型イベント」が当たるSAISON CARD Digital新規入会キャンペーンを実施！",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
       "title": "人間には読めるのにAIには別の文字に見えてしまうフォント「Decoy Font」が登場",
       "link": "https://gigazine.net/news/20260717-decoy-font/",
       "date": "2026-07-17T17:47:00+09:00",
@@ -280,6 +247,39 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "TSMCがアリゾナ州で4つの2nmファブを追加建設することを決定",
+      "link": "https://gigazine.net/news/20260717-tsmc-arizona-new-4-fabs/",
+      "date": "2026-07-17T13:53:00+09:00",
+      "dateLabel": "07/17 13:53",
+      "desc": "TSMCのシーシー・ウェイCEOが、アメリカのアリゾナ州で少なくともさらに4つの半導体製造工場と先端パッケージング施設を建設することを明らかにしました。追加建設のために1000億ドル(約16兆2000億円)が投じられる予定です。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "「アンネの日記」を巡る裁判でEUの最高裁判所が「ジオブロッキング技術がVPNで回避されても責任を問われない」と判決を下す",
+      "link": "https://gigazine.net/news/20260717-geo-blocking-disputes/",
+      "date": "2026-07-17T12:30:00+09:00",
+      "dateLabel": "07/17 12:30",
+      "desc": "第二次世界大戦のさなかにユダヤ系ドイツ人の少女アンネ・フランクが書いた日記「アンネの日記」は、1945年にアンネが強制収容所で15歳で亡くなってから70年が経過した2016年に著作権切れとなり、インターネット上で公開されました。そんな「アンネの日記」を巡る裁判で、EUの最高裁判所が「最先端のジオブロッキング技術を用いて地域制限を設けていた場合、ユーザーがVP",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 26
+    },
+    {
+      "title": "ローカルAIモデルをAIエージェントとして使える「LM Studio Bionic」が登場、コーディングやスライド作成に対応しクラウドモデルも使用可能",
+      "link": "https://gigazine.net/news/20260717-lm-studio-bionic/",
+      "date": "2026-07-17T12:18:00+09:00",
+      "dateLabel": "07/17 12:18",
+      "desc": "日本時間の2026年7月17日、ローカルAI実行アプリ「LM Studio」の開発チームがAIエージェントアプリ「LM Studio Bionic」をリリースしました。LM Studio BionicではAIモデルをローカルで実行してコーディングや文書作成などの作業を任せることができます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
