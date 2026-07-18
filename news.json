@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-18T21:51:38.519627+09:00",
-  "generatedLabel": "2026/07/18 21:51",
+  "generatedAt": "2026-07-18T23:15:49.393320+09:00",
+  "generatedLabel": "2026/07/18 23:15",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -103,28 +103,6 @@
       "desc": "米Anthropicは、最上位AIモデル「Claude Fable 5」を7月20日から有料プラン「Max」「Team Premium」の標準機能にする。利用上限の50%まで追加費用なしで利用でき、「Pro」「Team Standard」は「使用クレジット」での利用となり、100ドル分のクレジットを1回限り付与する。無償提供の期限を2度延長した末の方針転換と",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "背面コネクタ—採用に大型ディスプレー搭載はたまらん！STORMのゲーミングPC「幻界2シリーズ」が新発売：ソフマップ なんば店",
-      "link": "https://ascii.jp/elem/000/004/420/4420633/?rss",
-      "date": "2026-07-18T09:00:00+09:00",
-      "dateLabel": "07/18 09:00",
-      "desc": "7月7日に発売されたばかり！ STORMのBTO PC「幻界2」シリーズの注目モデル「GENKAI2 GK2-75F57」がオススメですよ！",
-      "img": "https://ascii.jp/img/2026/07/17/4502302/s/598f9942850ccdf2.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "【アマゾン30％OFFタイムセール】Android 16搭載「A9 10インチ タブレット」が5日間限定！Gemini AI・10インチ大画面を13,900円で提供",
-      "link": "https://ascii.jp/elem/000/004/420/4420696/?rss",
-      "date": "2026-07-18T07:00:00+09:00",
-      "dateLabel": "07/18 07:00",
-      "desc": "【アマゾン30％OFFタイムセール】Android 16搭載「A9 10インチ タブレット」が5日間限定！Gemini AI・10インチ大画面を13,900円で提供",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
       "cat": "LLM/モデル",
       "score": 34
     },
@@ -280,6 +258,28 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "NVIDIAが「Jetson Thor」に新モジュール追加、高騰するメモリの使用量削減技術も",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/16/news052.html",
+      "date": "2026-07-16T08:00:00+09:00",
+      "dateLabel": "07/16 08:00",
+      "desc": "NVIDIAは、組み込みAIボード「Jetsonシリーズ」の最新製品である「NVIDIA Jetson AGX Thor」の新たな量産モジュールとして、消費電力や搭載メモリ容量などを抑えた「Jetson T3000」と「Jetson T2000」を追加すると発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "OpenAI、初のハードウェア「Codex Micro」を230ドルで発売 Apple提訴の渦中にある端末とは別物",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/16/news055.html",
+      "date": "2026-07-16T07:26:00+09:00",
+      "dateLabel": "07/16 07:26",
+      "desc": "OpenAIは、コーディング支援AI「Codex」向けの専用キーパッド「Codex Micro」を発売した。キーボードメーカーのWork Louderと共同開発した同社初のハードウェア製品で、価格は230ドル。なお、Appleによる営業秘密不正取得訴訟の渦中にある、開発中のAIデバイスとは別物だ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
       "score": 26
     }
   ]
