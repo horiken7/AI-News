@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-18T17:42:38.963495+09:00",
-  "generatedLabel": "2026/07/18 17:42",
+  "generatedAt": "2026-07-18T19:09:16.912094+09:00",
+  "generatedLabel": "2026/07/18 19:09",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 57,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 17
+      "items": 16
     },
     {
       "source": "CNET Japan",
@@ -184,6 +184,17 @@
       "score": 34
     },
     {
+      "title": "海でも使える撮影ドローン！ 勝手に付いてくるモードがスゴイぞ",
+      "link": "https://ascii.jp/elem/000/004/420/4420115/?rss",
+      "date": "2026-07-18T18:00:00+09:00",
+      "dateLabel": "07/18 18:00",
+      "desc": "100％防水の空飛ぶカメラ「HOVERAir AQUA」を実際に海へ持ち出して使い倒してきました！プロ並みの映像が撮れる自動追尾など、この夏に遊びたい最新ガジェットの魅力をレビューします。",
+      "img": "https://ascii.jp/img/2026/07/16/4501495/s/4a026db49a525f54.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "【13900円ゲット】Teclast新発売タブレット『P30T』を期間限定の低価格でお得に購入可能！ 120Hz 画面、Netflix対応、AIアプリ対応、6000mAh！",
       "link": "https://ascii.jp/elem/000/004/420/4420695/?rss",
       "date": "2026-07-18T09:00:00+09:00",
@@ -228,17 +239,6 @@
       "score": 26
     },
     {
-      "title": "人間には読めるのにAIには別の文字に見えてしまうフォント「Decoy Font」が登場",
-      "link": "https://gigazine.net/news/20260717-decoy-font/",
-      "date": "2026-07-17T17:47:00+09:00",
-      "dateLabel": "07/17 17:47",
-      "desc": "人間には本来の文章が読める一方で、画像認識AIには別の文章として認識させるフォント「Decoy Font」をフォント開発サービスのMixfontが公開しました。一般的なTTF形式で配布されており、パソコンにインストールして通常のフォントと同じように利用できます。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
       "title": "「アンネの日記」を巡る裁判でEUの最高裁判所が「ジオブロッキング技術がVPNで回避されても責任を問われない」と判決を下す",
       "link": "https://gigazine.net/news/20260717-geo-blocking-disputes/",
       "date": "2026-07-17T12:30:00+09:00",
@@ -261,17 +261,6 @@
       "score": 26
     },
     {
-      "title": "GoogleのAIまとめサービス・NotebookLMが「Gemini Notebook」に改名、GoogleサービスやGeminiとの連携も強化",
-      "link": "https://gigazine.net/news/20260717-gemini-notebook/",
-      "date": "2026-07-17T11:57:00+09:00",
-      "dateLabel": "07/17 11:57",
-      "desc": "文書や音声、動画をAIで分析し、内容を整理してまとめてくれるGoogleのツール「NotebookLM」が新たに「Gemini Notebook」に改名されました。同時に、これまで有料最上位プランのGoogle AI Ultraユーザーにのみ公開されていた「Googleサービスとの連携強化」と「コード実行を伴う高度な分析機能」がすべてのProユーザーにも追加",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
       "title": "「現場で使えるAIへ」、富士通が進める次世代CPUと自律型AIエージェント戦略",
       "link": "https://monoist.itmedia.co.jp/mn/articles/2607/17/news044.html",
       "date": "2026-07-17T06:30:00+09:00",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "富士通、国内ロボット大手3社と「フィジカルAI」で協業 NVIDIAの技術活用",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000203/",
+      "date": "2026-07-16T19:43:39+09:00",
+      "dateLabel": "07/16 19:43",
+      "desc": "富士通は、AIが自律的に考え、ロボットの体を動かす「フィジカルAI」の開発に関し、川崎重工業とファナック、安川電機の各社と協業すると発表した。米NVIDIAの技術を活用し、ロボットを協調的に制御するための基盤を開発する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
       "score": 26
     }
   ]
