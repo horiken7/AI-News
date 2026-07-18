@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-18T20:44:34.878400+09:00",
-  "generatedLabel": "2026/07/18 20:44",
+  "generatedAt": "2026-07-18T21:51:38.519627+09:00",
+  "generatedLabel": "2026/07/18 21:51",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 57,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 16
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -82,17 +82,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "GPT-5.6 Solに匹敵する中国製AIモデル「Kimi K3」が登場、2.8兆パラメーターの超大型オープンモデル",
-      "link": "https://gigazine.net/news/20260717-kimi-k3/",
-      "date": "2026-07-17T12:03:00+09:00",
-      "dateLabel": "07/17 12:03",
-      "desc": "中国企業のMoonshot AIがAIモデル「Kimi K3」を日本時間の2026年7月17日に発表しました。一部のベンチマークテストでGPT-5.6 SolやClaude Fable 5を超えるスコアを記録しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -184,6 +173,17 @@
       "score": 34
     },
     {
+      "title": "データセンターは本当に一般市民の電気料金値上げの原因なのか？",
+      "link": "https://gigazine.net/news/20260718-data-centers-electricity-bills/",
+      "date": "2026-07-18T21:10:00+09:00",
+      "dateLabel": "07/18 21:10",
+      "desc": "AIブームに伴うデータセンターの増加を受け、アメリカでは大手テクノロジー企業が発電や送電にかかる追加費用を公平に負担すると約束する一方、一般利用者の電気料金に費用が転嫁されるのではないかとの懸念が広がっています。フロリダ大学でエネルギー研究ディレクターを務めるセオドア・J・キュリー氏が、データセンター向けの電力設備費がどのように電気料金へ割り振られるのかを解",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
       "title": "海でも使える撮影ドローン！ 勝手に付いてくるモードがスゴイぞ",
       "link": "https://ascii.jp/elem/000/004/420/4420115/?rss",
       "date": "2026-07-18T18:00:00+09:00",
@@ -214,17 +214,6 @@
       "img": "https://ascii.jp/img/2026/07/18/4502501/s/2aff743b81019ffc.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "人型ロボット教師＆AIアシスタントを教育現場に試験導入する学区が登場",
-      "link": "https://gigazine.net/news/20260717-humanoid-robot-teacher/",
-      "date": "2026-07-17T21:00:00+09:00",
-      "dateLabel": "07/17 21:00",
-      "desc": "アメリカ・ニューヨーク州キャタラウガス郡サラマンカの学区が、2026年秋から人型ロボットを教育現場に導入すると発表しました。この人型ロボットは教師に取って代わるものではなく、生徒と教師の両方に学習支援を提供するものとなるそうです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI実装",
       "score": 26
     },
     {
@@ -280,6 +269,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "Thinking Machines、初のAIモデル「Inkling」公開──オープンウェイトで「自分のものにできる」基盤モデル",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000197/",
+      "date": "2026-07-16T09:47:00+09:00",
+      "dateLabel": "07/16 09:47",
+      "desc": "ミラ・ムラティ氏率いるThinking Machines Labが、同社初のAIモデル「Inkling」を発表した。テキスト・画像・音声対応のMoE型オープンウェイトモデルで、Hugging Faceで全ウェイトを公開。「最強のモデルではない」とした上で、同社のファインチューニング基盤「Tinker」でのカスタマイズに適した基盤モデルと位置付ける。軽量版「I",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 26
     }
   ]
