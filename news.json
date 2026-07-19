@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-19T18:51:56.599349+09:00",
-  "generatedLabel": "2026/07/19 18:51",
+  "generatedAt": "2026-07-19T20:04:04.526812+09:00",
+  "generatedLabel": "2026/07/19 20:04",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 11
+      "items": 10
     },
     {
       "source": "CNET Japan",
@@ -258,7 +258,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
-      "score": 26
+      "score": 20
     },
     {
       "title": "トンカツ食べながら語った――NVIDIA、富士通、安川電機ら“フィジカルAI連合”誕生、発表直前の裏話",
