@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-19T08:42:45.533828+09:00",
-  "generatedLabel": "2026/07/19 08:42",
+  "generatedAt": "2026-07-19T10:44:01.849815+09:00",
+  "generatedLabel": "2026/07/19 10:44",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 51,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 1
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -151,6 +151,39 @@
       "score": 34
     },
     {
+      "title": "「クロスの定義とは？」 AIに“サッカー言語”を教えることから始まった、FIFAとLenovoの協業",
+      "link": "https://ascii.jp/elem/000/004/420/4420702/?rss",
+      "date": "2026-07-19T09:00:00+09:00",
+      "dateLabel": "07/19 09:00",
+      "desc": "Lenovoは、初の「FIFA公式テクノロジーパートナー」として、国際大会の運営効率化、試合中の判定や分析の高度化、ファン体験の改善など、多面的にテクノロジー支援を行っている。スポーツの国際統括団体とテクノロジー企業という、まったく異なる分野どうしでの連携を成功させるために、両者はどのような姿勢で挑んできたのか。そのプロセスは、スポーツ分野に限らず、異業種間",
+      "img": "https://ascii.jp/img/2026/07/18/4502526/s/aaf07ecc5d426ac6.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "在庫限りの特価で発売中！魔法のようなギミックを持つゲーミングPCがすごい！：マウスコンピューター G-Tune : Garage 大阪店",
+      "link": "https://ascii.jp/elem/000/004/420/4420657/?rss",
+      "date": "2026-07-19T09:00:00+09:00",
+      "dateLabel": "07/19 09:00",
+      "desc": "ボタン1つでガラスパネルの透明度を切り替えられるだと？ 魔法のようなギミック「クリアシフトシステム」を搭載したゲーミングPC「NEXTGEAR EG-A7G6T/EX」が店頭在庫限りの数量限定で販売中。",
+      "img": "https://ascii.jp/img/2026/07/17/4502354/s/3fa18c7ac582c0fa.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "「スマホで動く」270億パラメーターLLM「Bonsai 27B」登場",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/17/2000000202/",
+      "date": "2026-07-19T08:40:43+09:00",
+      "dateLabel": "07/19 08:40",
+      "desc": "27BクラスのモデルをiPhoneで実行可能な容量に収めたとしている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
       "title": "データセンターは本当に一般市民の電気料金値上げの原因なのか？",
       "link": "https://gigazine.net/news/20260718-data-centers-electricity-bills/",
       "date": "2026-07-18T21:10:00+09:00",
@@ -214,7 +247,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 26
+      "score": 20
     },
     {
       "title": "NVIDIAが「Jetson Thor」に新モジュール追加、高騰するメモリの使用量削減技術も",
@@ -247,39 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 18
-    },
-    {
-      "title": "3アイテム同時にワイヤレス充電可能＆折りたたんでコンパクトに持ち運びもできるAnkerの「Prime Wireless Charging Station(3-in-1, MagGo,AirCool,Foldable)」レビュー",
-      "link": "https://gigazine.net/news/20260718-anker-b25n1n12/",
-      "date": "2026-07-18T10:00:00+09:00",
-      "dateLabel": "07/18 10:00",
-      "desc": "Ankerの「Prime Wireless Charging Station」は複数のワイヤレス充電ドックを備えたアイテムで、ごちゃつきがちな充電機器をすっきりまとめた上で、冷却機能によりスマホの温度上昇を防ぐことができます。そんな充電ドックを折り畳んでコンパクトに持ち運ぶことも可能になった「Anker Prime Wireless Charging Sta",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 18
-    },
-    {
-      "title": "人型ロボット教師＆AIアシスタントを教育現場に試験導入する学区が登場",
-      "link": "https://gigazine.net/news/20260717-humanoid-robot-teacher/",
-      "date": "2026-07-17T21:00:00+09:00",
-      "dateLabel": "07/17 21:00",
-      "desc": "アメリカ・ニューヨーク州キャタラウガス郡サラマンカの学区が、2026年秋から人型ロボットを教育現場に導入すると発表しました。この人型ロボットは教師に取って代わるものではなく、生徒と教師の両方に学習支援を提供するものとなるそうです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI実装",
-      "score": 18
-    },
-    {
-      "title": "GPT-5.6がファイルを勝手に削除したという報告多数、OpenAIはサンドボックスなしのフルアクセスモードで発生することが最も多いと指摘",
-      "link": "https://gigazine.net/news/20260717-openai-gpt-5-6-sol-delete-file/",
-      "date": "2026-07-17T20:00:00+09:00",
-      "dateLabel": "07/17 20:00",
-      "desc": "OpenAIの「GPT-5.6 Sol」を利用していたユーザーから、自身が扱うデータが削除されてしまったという報告が複数上がっています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 18
     }
   ]
