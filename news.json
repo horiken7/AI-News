@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-19T20:04:04.526812+09:00",
-  "generatedLabel": "2026/07/19 20:04",
+  "generatedAt": "2026-07-19T21:53:54.892777+09:00",
+  "generatedLabel": "2026/07/19 21:53",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 52,
@@ -72,6 +72,17 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 44
+    },
+    {
+      "title": "Claude Fable 5が一部のサブスクプランで使用可能に",
+      "link": "https://gigazine.net/news/20260719-claude-fable-5-plan/",
+      "date": "2026-07-19T21:00:00+09:00",
+      "dateLabel": "07/19 21:00",
+      "desc": "AnthropicがClaude Fable 5をMaxプランおよびTeam Premiumプランの一部として利用可能にすることを発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "AI検索時代のブランド可視化ツール「Optyino.ai」、AIエージェントからダッシュボードデータを直接参照できる「MCP接続」機能を一般公開",
@@ -214,17 +225,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "データセンターは本当に一般市民の電気料金値上げの原因なのか？",
-      "link": "https://gigazine.net/news/20260718-data-centers-electricity-bills/",
-      "date": "2026-07-18T21:10:00+09:00",
-      "dateLabel": "07/18 21:10",
-      "desc": "AIブームに伴うデータセンターの増加を受け、アメリカでは大手テクノロジー企業が発電や送電にかかる追加費用を公平に負担すると約束する一方、一般利用者の電気料金に費用が転嫁されるのではないかとの懸念が広がっています。フロリダ大学でエネルギー研究ディレクターを務めるセオドア・J・キュリー氏が、データセンター向けの電力設備費がどのように電気料金へ割り振られるのかを解",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
       "score": 26
     },
     {
