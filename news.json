@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-20T06:41:16.518582+09:00",
-  "generatedLabel": "2026/07/20 06:41",
+  "generatedAt": "2026-07-20T07:41:13.233936+09:00",
+  "generatedLabel": "2026/07/20 07:41",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -74,6 +74,17 @@
       "score": 44
     },
     {
+      "title": "AIがBlenderを勝手に操作 3D制作のハードルが一気に下がった",
+      "link": "https://ascii.jp/elem/000/004/420/4420739/?rss",
+      "date": "2026-07-20T07:00:00+09:00",
+      "dateLabel": "07/20 07:00",
+      "desc": "Claude Fable 5やCodexとBlenderをMCPで連携し、AIエージェントだけで3Dプリビズを制作・動画化する手法を、作例を交えながらメリットや課題とともに解説します。",
+      "img": "https://ascii.jp/img/2026/07/20/4502679/s/f2ebef86fd430f94.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "Claude Fable 5が一部のサブスクプランで使用可能に",
       "link": "https://gigazine.net/news/20260719-claude-fable-5-plan/",
       "date": "2026-07-19T21:00:00+09:00",
@@ -115,7 +126,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 42
+      "score": 36
     },
     {
       "title": "Google、「NotebookLM」を「Gemini Notebook」に改称 Geminiエコシステムへの統合を強化",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
-      "score": 20
-    },
-    {
-      "title": "Thinking Machines、初のAIモデル「Inkling」公開──オープンウェイトで「自分のものにできる」基盤モデル",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000197/",
-      "date": "2026-07-16T09:47:00+09:00",
-      "dateLabel": "07/16 09:47",
-      "desc": "ミラ・ムラティ氏率いるThinking Machines Labが、同社初のAIモデル「Inkling」を発表した。テキスト・画像・音声対応のMoE型オープンウェイトモデルで、Hugging Faceで全ウェイトを公開。「最強のモデルではない」とした上で、同社のファインチューニング基盤「Tinker」でのカスタマイズに適した基盤モデルと位置付ける。軽量版「I",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
       "score": 20
     }
   ]
