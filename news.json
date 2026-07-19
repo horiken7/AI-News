@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-20T05:02:28.740785+09:00",
-  "generatedLabel": "2026/07/20 05:02",
+  "generatedAt": "2026-07-20T06:41:16.518582+09:00",
+  "generatedLabel": "2026/07/20 06:41",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 53,
@@ -247,7 +247,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 26
+      "score": 20
     },
     {
       "title": "富士通、国内ロボット大手3社と「フィジカルAI」で協業 NVIDIAの技術活用",
