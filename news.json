@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-19T14:11:35.994889+09:00",
-  "generatedLabel": "2026/07/19 14:11",
+  "generatedAt": "2026-07-19T16:58:32.560577+09:00",
+  "generatedLabel": "2026/07/19 16:58",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 55,
@@ -71,7 +71,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 50
+      "score": 44
     },
     {
       "title": "AI検索時代のブランド可視化ツール「Optyino.ai」、AIエージェントからダッシュボードデータを直接参照できる「MCP接続」機能を一般公開",
@@ -151,6 +151,17 @@
       "score": 28
     },
     {
+      "title": "生成AIはホワイトペーパーを引用する？Optyino.aiがAI回答25,001件を分析、引用率はわずか0.4%",
+      "link": "https://ascii.jp/elem/000/004/420/4420730/?rss",
+      "date": "2026-07-19T15:00:00+09:00",
+      "dateLabel": "07/19 15:00",
+      "desc": "生成AIはホワイトペーパーを引用する？Optyino.aiがAI回答25,001件を分析、引用率はわずか0.4%",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 26
+    },
+    {
       "title": "Google検索で繰り返し1位のサイトの65.6%は複数の生成AIにも引用される？Optyino.aiがAI回答1,360件を分析",
       "link": "https://ascii.jp/elem/000/004/420/4420727/?rss",
       "date": "2026-07-19T12:06:02+09:00",
@@ -214,17 +225,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "海でも使える撮影ドローン！ 勝手に付いてくるモードがスゴイぞ",
-      "link": "https://ascii.jp/elem/000/004/420/4420115/?rss",
-      "date": "2026-07-18T18:00:00+09:00",
-      "dateLabel": "07/18 18:00",
-      "desc": "100％防水の空飛ぶカメラ「HOVERAir AQUA」を実際に海へ持ち出して使い倒してきました！プロ並みの映像が撮れる自動追尾など、この夏に遊びたい最新ガジェットの魅力をレビューします。",
-      "img": "https://ascii.jp/img/2026/07/16/4501495/s/4a026db49a525f54.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 26
     },
     {
