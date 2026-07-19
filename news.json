@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-19T16:58:32.560577+09:00",
-  "generatedLabel": "2026/07/19 16:58",
+  "generatedAt": "2026-07-19T18:51:56.599349+09:00",
+  "generatedLabel": "2026/07/19 18:51",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -269,7 +269,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
-      "score": 26
+      "score": 20
     },
     {
       "title": "Thinking Machines、初のAIモデル「Inkling」公開──オープンウェイトで「自分のものにできる」基盤モデル",
