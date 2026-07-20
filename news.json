@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-20T11:00:05.457606+09:00",
-  "generatedLabel": "2026/07/20 11:00",
+  "generatedAt": "2026-07-20T14:42:43.217317+09:00",
+  "generatedLabel": "2026/07/20 14:42",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 52,
+  "candidates": 51,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -129,17 +129,6 @@
       "score": 34
     },
     {
-      "title": "株式会社プエンテ、AI導入コンサル「ナレッジコア」に業種特化パック2種を提供開始 ── 税理士事務所／内部統制（J-SOX）・内部監査の「準備業務」をAIで",
-      "link": "https://ascii.jp/elem/000/004/420/4420744/?rss",
-      "date": "2026-07-19T20:38:40+09:00",
-      "dateLabel": "07/19 20:38",
-      "desc": "株式会社プエンテ、AI導入コンサル「ナレッジコア」に業種特化パック2種を提供開始 ── 税理士事務所／内部統制（J-SOX）・内部監査の「準備業務」をAIで",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "Google、「NotebookLM」を「Gemini Notebook」に改称 Geminiエコシステムへの統合を強化",
       "link": "https://www.itmedia.co.jp/news/articles/2607/17/news062.html",
       "date": "2026-07-17T08:21:00+09:00",
@@ -184,36 +173,47 @@
       "score": 28
     },
     {
-      "title": "生成AIはホワイトペーパーを引用する？Optyino.aiがAI回答25,001件を分析、引用率はわずか0.4%",
-      "link": "https://ascii.jp/elem/000/004/420/4420730/?rss",
-      "date": "2026-07-19T15:00:00+09:00",
-      "dateLabel": "07/19 15:00",
-      "desc": "生成AIはホワイトペーパーを引用する？Optyino.aiがAI回答25,001件を分析、引用率はわずか0.4%",
+      "title": "生成AIは調査レポートを引用する？Optyino.aiがAI回答9,715件を分析、導入判断では引用率21.8%",
+      "link": "https://ascii.jp/elem/000/004/420/4420761/?rss",
+      "date": "2026-07-20T12:37:38+09:00",
+      "dateLabel": "07/20 12:37",
+      "desc": "生成AIは調査レポートを引用する？Optyino.aiがAI回答9,715件を分析、導入判断では引用率21.8%",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "生成AI/マルチモーダル",
       "score": 26
     },
     {
-      "title": "Google検索で繰り返し1位のサイトの65.6%は複数の生成AIにも引用される？Optyino.aiがAI回答1,360件を分析",
-      "link": "https://ascii.jp/elem/000/004/420/4420727/?rss",
-      "date": "2026-07-19T12:06:02+09:00",
-      "dateLabel": "07/19 12:06",
-      "desc": "Google検索で繰り返し1位のサイトの65.6%は複数の生成AIにも引用される？Optyino.aiがAI回答1,360件を分析",
+      "title": "大阪産業局主催セミナー「AI×自動運転の社会実装最前線」でVML代表の山下が講師を務めます",
+      "link": "https://ascii.jp/elem/000/004/420/4420762/?rss",
+      "date": "2026-07-20T11:40:00+09:00",
+      "dateLabel": "07/20 11:40",
+      "desc": "大阪産業局主催セミナー「AI×自動運転の社会実装最前線」でVML代表の山下が講師を務めます",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
+      "cat": "AI実装",
       "score": 26
     },
     {
-      "title": "画面のないスマートバンド「Google Fitbit Air」には欠かせないスマホ用アプリの出来はどう？",
-      "link": "https://ascii.jp/elem/000/004/420/4420712/?rss",
-      "date": "2026-07-19T12:00:00+09:00",
-      "dateLabel": "07/19 12:00",
-      "desc": "画面のないスマートバンド「Google Fitbit Air」をレビューしています。画面がないからこそ、アプリの使い勝手は重要です。そこでiOS／Androidに対応したスマホアプリ「Google Health」アプリを深掘りしました。",
-      "img": "https://ascii.jp/img/2026/07/19/4502543/s/e25dbd8f3e6ae0c6.jpg",
-      "src": "ASCII.jp",
+      "title": "Netflixが950億円でベン・アフレックのAI映画制作スタートアップ「InterPositive」を買収したことが明らかに",
+      "link": "https://gigazine.net/news/20260720-netflix-paid-587-million-ben-affleck-ai-startup-interpositive/",
+      "date": "2026-07-20T11:00:00+09:00",
+      "dateLabel": "07/20 11:00",
+      "desc": "映像ストリーミングサービスのNetflixが、俳優のベン・アフレック氏が共同設立したAI映画制作スタートアップの「InterPositive」を、総額5億8700万ドル(約950億円)で買収していたことが明らかになりました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "生成AIが引用する旅行サイトの72.93%は予約対応サイト。Optyino.aiがAI回答4,624件を分析",
+      "link": "https://ascii.jp/elem/000/004/420/4420751/?rss",
+      "date": "2026-07-20T09:58:08+09:00",
+      "dateLabel": "07/20 09:58",
+      "desc": "生成AIが引用する旅行サイトの72.93%は予約対応サイト。Optyino.aiがAI回答4,624件を分析",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
       "score": 26
     },
     {
