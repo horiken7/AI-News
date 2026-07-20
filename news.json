@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-20T20:36:18.396991+09:00",
-  "generatedLabel": "2026/07/20 20:36",
+  "generatedAt": "2026-07-20T22:48:16.910987+09:00",
+  "generatedLabel": "2026/07/20 22:48",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 52,
+  "candidates": 51,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 11
+      "items": 10
     },
     {
       "source": "CNET Japan",
@@ -74,17 +74,6 @@
       "score": 44
     },
     {
-      "title": "Claude Fable 5が一部のサブスクプランで使用可能に",
-      "link": "https://gigazine.net/news/20260719-claude-fable-5-plan/",
-      "date": "2026-07-19T21:00:00+09:00",
-      "dateLabel": "07/19 21:00",
-      "desc": "AnthropicがClaude Fable 5をMaxプランおよびTeam Premiumプランの一部として利用可能にすることを発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "強気値上げで自爆か ClaudeやGeminiに押され「M365 Copilot」は一人負け？：888th Lap",
       "link": "https://kn.itmedia.co.jp/kn/articles/2607/17/news040.html",
       "date": "2026-07-17T07:00:00+09:00",
@@ -115,6 +104,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "Claude Fable 5が一部のサブスクプランで使用可能に",
+      "link": "https://gigazine.net/news/20260719-claude-fable-5-plan/",
+      "date": "2026-07-19T21:00:00+09:00",
+      "dateLabel": "07/19 21:00",
+      "desc": "AnthropicがClaude Fable 5をMaxプランおよびTeam Premiumプランの一部として利用可能にすることを発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
