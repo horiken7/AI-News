@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-20T14:42:43.217317+09:00",
-  "generatedLabel": "2026/07/20 14:42",
+  "generatedAt": "2026-07-20T17:39:59.251529+09:00",
+  "generatedLabel": "2026/07/20 17:39",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 51,
@@ -63,17 +63,6 @@
   ],
   "articles": [
     {
-      "title": "株式会社Shinker、生成AI・AIエージェント・AI検索時代の実務を支援する専門メディア「AI TREND研究所」を正式公開―AIO・LLMO・GEOからAIツール活用まで毎日発信―",
-      "link": "https://ascii.jp/elem/000/004/420/4420750/?rss",
-      "date": "2026-07-20T07:42:43+09:00",
-      "dateLabel": "07/20 07:42",
-      "desc": "株式会社Shinker、生成AI・AIエージェント・AI検索時代の実務を支援する専門メディア「AI TREND研究所」を正式公開―AIO・LLMO・GEOからAIツール活用まで毎日発信―",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
       "title": "「Claude」利用制限を全リセット CodexとChatGPT Workも “リセット合戦”再び",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000201/",
       "date": "2026-07-16T15:15:24+09:00",
@@ -83,17 +72,6 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 44
-    },
-    {
-      "title": "AIがBlenderを勝手に操作 3D制作のハードルが一気に下がった",
-      "link": "https://ascii.jp/elem/000/004/420/4420739/?rss",
-      "date": "2026-07-20T07:00:00+09:00",
-      "dateLabel": "07/20 07:00",
-      "desc": "Claude Fable 5やCodexとBlenderをMCPで連携し、AIエージェントだけで3Dプリビズを制作・動画化する手法を、作例を交えながらメリットや課題とともに解説します。",
-      "img": "https://ascii.jp/img/2026/07/20/4502679/s/f2ebef86fd430f94.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 42
     },
     {
       "title": "Claude Fable 5が一部のサブスクプランで使用可能に",
@@ -116,6 +94,17 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 36
+    },
+    {
+      "title": "ついに会話ができるスマートスピーカーが登場！Gemini対応の実力を試してみた！",
+      "link": "https://ascii.jp/elem/000/004/420/4420736/?rss",
+      "date": "2026-07-20T17:00:00+09:00",
+      "dateLabel": "07/20 17:00",
+      "desc": "今回紹介するのは、Googleのスマートスピーカーとしては実に6年ぶりに登場した「Google Home スピーカー」です。これまでのスピーカーと一番違うのは、Googleアシスタントではなく、「Gemini」を採用しているという点です。",
+      "img": "https://ascii.jp/img/2026/07/20/4502672/s/8ba65b7f42a9318e.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "Hugging FaceにAI主導のサイバー攻撃 防御もAIで対抗するも、商用モデルは解析拒否で「GLM」採用",
@@ -173,6 +162,28 @@
       "score": 28
     },
     {
+      "title": "7万円台で17.3型ディスプレー！ ACEMAGICの大画面ノートPCがAmazonで割引中",
+      "link": "https://ascii.jp/elem/000/004/420/4420771/?rss",
+      "date": "2026-07-20T16:30:00+09:00",
+      "dateLabel": "07/20 16:30",
+      "desc": "ACEMAGICの17.3型ノートPC「AX17PRO」がAmazonでクーポン発行の対象に。表示価格79,999円のところ、クーポン適用で75,999円に。17.3型ディスプレーに加え、16GBメモリと512GB SSD、Windows 11 Proを搭載したモデル。",
+      "img": "https://ascii.jp/img/2026/06/30/4491473/s/fcc22ac62fc4e40f.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "Queue株式会社、AI検索最適化サービス「umoren.ai」を「DX総合EXPO 2026 夏 東京」（Bizcrew）に出展",
+      "link": "https://ascii.jp/elem/000/004/420/4420770/?rss",
+      "date": "2026-07-20T13:05:34+09:00",
+      "dateLabel": "07/20 13:05",
+      "desc": "Queue株式会社、AI検索最適化サービス「umoren.ai」を「DX総合EXPO 2026 夏 東京」（Bizcrew）に出展",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "生成AIは調査レポートを引用する？Optyino.aiがAI回答9,715件を分析、導入判断では引用率21.8%",
       "link": "https://ascii.jp/elem/000/004/420/4420761/?rss",
       "date": "2026-07-20T12:37:38+09:00",
@@ -203,17 +214,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "生成AIが引用する旅行サイトの72.93%は予約対応サイト。Optyino.aiがAI回答4,624件を分析",
-      "link": "https://ascii.jp/elem/000/004/420/4420751/?rss",
-      "date": "2026-07-20T09:58:08+09:00",
-      "dateLabel": "07/20 09:58",
-      "desc": "生成AIが引用する旅行サイトの72.93%は予約対応サイト。Optyino.aiがAI回答4,624件を分析",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
       "score": 26
     },
     {
