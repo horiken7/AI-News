@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-21T07:46:04.810413+09:00",
-  "generatedLabel": "2026/07/21 07:46",
+  "generatedAt": "2026-07-21T08:46:50.716006+09:00",
+  "generatedLabel": "2026/07/21 08:46",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 9
+      "items": 10
     },
     {
       "source": "CNET Japan",
@@ -74,6 +74,17 @@
       "score": 58
     },
     {
+      "title": "AMDとMicrosoftが戦略的提携を拡大 新AIラックスケール「Helios」をAzureに大規模導入へ",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/21/news051.html",
+      "date": "2026-07-21T07:33:00+09:00",
+      "dateLabel": "07/21 07:33",
+      "desc": "AMDは、Microsoftとの戦略的提携を拡大すると発表した。Microsoftはクラウドサービス「Azure」に、GPUやCPUを一体化したAMDのラックスケール製品「AMD Helios」を大規模に導入し、フロンティアAIモデルの推論処理などに活用する。Heliosは2026年後半から出荷が開始される予定だ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 50
+    },
+    {
       "title": "「Claude」利用制限を全リセット CodexとChatGPT Workも “リセット合戦”再び",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000201/",
       "date": "2026-07-16T15:15:24+09:00",
@@ -116,6 +127,17 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 36
+    },
+    {
+      "title": "IT技術者の8割超「AI生成コードには人間のレビューが必要」／「偽・誤情報を見破れる」と自信を持つ人はICTリテラシーテストの正答率が低い、ほか",
+      "link": "https://ascii.jp/elem/000/004/420/4420726/?rss",
+      "date": "2026-07-21T08:00:00+09:00",
+      "dateLabel": "07/21 08:00",
+      "desc": "今回（2026年7月11日～7月17日）は、世界13カ国で比較した日本企業のAI投資額や投資戦略、ITエンジニアのAI活用状況やAIコーディングへの態度、年間20％ペースで成長する国内iPaaS市場、偽情報／誤情報に触れた際の行動とICTリテラシーの関係についてのデータを紹介します。",
+      "img": "https://ascii.jp/img/2026/07/19/4502612/s/d469aa7b1390cf68.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "音楽ストリーミングサービスが普及した時代に「音楽海賊版の失われた喜び」をアーティストが語る",
@@ -206,15 +228,15 @@
       "score": 28
     },
     {
-      "title": "「AIと壁打ちはもう古い」 業務タスクを任せる「Claude Cowork」の落とし穴",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/16/news046.html",
-      "date": "2026-07-16T13:00:00+09:00",
-      "dateLabel": "07/16 13:00",
-      "desc": "Anthropicは、PC上の業務タスクを任せられる「Claude Cowork」の活用法を公開した。チャットやClaude Codeとの使い分けや、どんなタスクを任せればよいかを解説している。",
+      "title": "ビル・ゲイツが「エイズ(AIDS)終息に役立つ革新的な技術」について紹介",
+      "link": "https://gigazine.net/news/20260721-bill-gates-end-of-aids/",
+      "date": "2026-07-21T08:00:00+09:00",
+      "dateLabel": "07/21 08:00",
+      "desc": "Microsoft創業者であり世界有数の億万長者として知られるビル・ゲイツ氏は、元妻のメリンダ・ゲイツ氏とともにビル＆メリンダ・ゲイツ財団という慈善団体を立ち上げ、2045年までに全財産のほとんどを寄付することを発表するなど、慈善活動家としての側面も持っています。そんなゲイツ氏が自身のYouTubeチャンネルで、後天性免疫不全症候群(エイズ、AIDS)の終息",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 28
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
     },
     {
       "title": "富士ソフトがエンジニア1万人超を「AIネイティブ」化 実装力を武器にフィジカルAIなど3本柱に注力",
@@ -257,28 +279,6 @@
       "desc": "ローカル環境でWordPressサイトを作成し、完成したページを一時公開して共有できる無料のデスクトップアプリが「WordPress Studio」です。このWordPress Studioに「WordPress専用のAIコーディングCLIツール『Studio Code』ベータ版」が統合され、デスクトップアプリ上のチャットからページの作成やテーマ・プラグイン",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "7万円台で17.3型ディスプレー！ ACEMAGICの大画面ノートPCがAmazonで割引中",
-      "link": "https://ascii.jp/elem/000/004/420/4420771/?rss",
-      "date": "2026-07-20T16:30:00+09:00",
-      "dateLabel": "07/20 16:30",
-      "desc": "ACEMAGICの17.3型ノートPC「AX17PRO」がAmazonでクーポン発行の対象に。表示価格79,999円のところ、クーポン適用で75,999円に。17.3型ディスプレーに加え、16GBメモリと512GB SSD、Windows 11 Proを搭載したモデル。",
-      "img": "https://ascii.jp/img/2026/06/30/4491473/s/fcc22ac62fc4e40f.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "Queue株式会社、AI検索最適化サービス「umoren.ai」を「DX総合EXPO 2026 夏 東京」（Bizcrew）に出展",
-      "link": "https://ascii.jp/elem/000/004/420/4420770/?rss",
-      "date": "2026-07-20T13:05:34+09:00",
-      "dateLabel": "07/20 13:05",
-      "desc": "Queue株式会社、AI検索最適化サービス「umoren.ai」を「DX総合EXPO 2026 夏 東京」（Bizcrew）に出展",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     }
