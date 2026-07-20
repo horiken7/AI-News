@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-20T17:39:59.251529+09:00",
-  "generatedLabel": "2026/07/20 17:39",
+  "generatedAt": "2026-07-20T20:36:18.396991+09:00",
+  "generatedLabel": "2026/07/20 20:36",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 51,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -162,6 +162,17 @@
       "score": 28
     },
     {
+      "title": "WordPress.comの「Studio Code」ベータ版がデスクトップ版で無料利用可能なので試しに使ってみたレビュー",
+      "link": "https://gigazine.net/news/20260720-studio-code/",
+      "date": "2026-07-20T18:00:00+09:00",
+      "dateLabel": "07/20 18:00",
+      "desc": "ローカル環境でWordPressサイトを作成し、完成したページを一時公開して共有できる無料のデスクトップアプリが「WordPress Studio」です。このWordPress Studioに「WordPress専用のAIコーディングCLIツール『Studio Code』ベータ版」が統合され、デスクトップアプリ上のチャットからページの作成やテーマ・プラグイン",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "7万円台で17.3型ディスプレー！ ACEMAGICの大画面ノートPCがAmazonで割引中",
       "link": "https://ascii.jp/elem/000/004/420/4420771/?rss",
       "date": "2026-07-20T16:30:00+09:00",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 20
-    },
-    {
-      "title": "NVIDIAが「Jetson Thor」に新モジュール追加、高騰するメモリの使用量削減技術も",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/16/news052.html",
-      "date": "2026-07-16T08:00:00+09:00",
-      "dateLabel": "07/16 08:00",
-      "desc": "NVIDIAは、組み込みAIボード「Jetsonシリーズ」の最新製品である「NVIDIA Jetson AGX Thor」の新たな量産モジュールとして、消費電力や搭載メモリ容量などを抑えた「Jetson T3000」と「Jetson T2000」を追加すると発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
       "score": 20
     }
   ]
