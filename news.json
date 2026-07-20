@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-20T22:48:16.910987+09:00",
-  "generatedLabel": "2026/07/20 22:48",
+  "generatedAt": "2026-07-21T00:45:08.560426+09:00",
+  "generatedLabel": "2026/07/21 00:45",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 51,
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 9
     },
     {
       "source": "CNET Japan",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 6
+      "items": 7
     },
     {
       "source": "AINOW",
@@ -74,6 +74,17 @@
       "score": 44
     },
     {
+      "title": "Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場",
+      "link": "https://www.publickey1.jp/blog/26/claude_codeclaude_apps_gateway_for_awsgoogle_cloud.html",
+      "date": "2026-07-21T00:54:57+09:00",
+      "dateLabel": "07/21 00:54",
+      "desc": "AnthropicのAIコーディングエージェントClaud Codeは非常に人気のあるサービスとして多くの組織で採用され始めています。 Claude Codeは個人で簡単に導入できますが、企業が組織としてClaude Codeを導入する場合...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "強気値上げで自爆か ClaudeやGeminiに押され「M365 Copilot」は一人負け？：888th Lap",
       "link": "https://kn.itmedia.co.jp/kn/articles/2607/17/news040.html",
       "date": "2026-07-17T07:00:00+09:00",
@@ -83,6 +94,17 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 36
+    },
+    {
+      "title": "Rustで書き直されたBun、早くもClaude Codeアプリに本番投入された模様",
+      "link": "https://www.publickey1.jp/blog/26/rustbunclaude_code.html",
+      "date": "2026-07-21T00:52:57+09:00",
+      "dateLabel": "07/21 00:52",
+      "desc": "Claude Codeを用いてわずか11日間でZig言語からRust言語へ移植されたことが話題となっているJavaScriptランタイムのBunですが、そのRust版Bunが早くも7月17日にリリースされたClaude Code v2.1....",
+      "img": "",
+      "src": "Publickey",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "ついに会話ができるスマートスピーカーが登場！Gemini対応の実力を試してみた！",
@@ -258,28 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
-      "score": 20
-    },
-    {
-      "title": "トンカツ食べながら語った――NVIDIA、富士通、安川電機ら“フィジカルAI連合”誕生、発表直前の裏話",
-      "link": "https://www.itmedia.co.jp/business/articles/2607/16/news090.html",
-      "date": "2026-07-16T17:15:00+09:00",
-      "dateLabel": "07/16 17:15",
-      "desc": "富士通、ファナック、安川電機、川崎重工業とNVIDIAによる“フィジカルAI連合”が誕生した。5社のトップは、記者説明会の直前には「トンカツ」を食べながら語り合ったという。その一幕を富士通の時田社長が明かした。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 20
-    },
-    {
-      "title": "Thinking Machines、初のAIモデル「Inkling」公開──オープンウェイトで「自分のものにできる」基盤モデル",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000197/",
-      "date": "2026-07-16T09:47:00+09:00",
-      "dateLabel": "07/16 09:47",
-      "desc": "ミラ・ムラティ氏率いるThinking Machines Labが、同社初のAIモデル「Inkling」を発表した。テキスト・画像・音声対応のMoE型オープンウェイトモデルで、Hugging Faceで全ウェイトを公開。「最強のモデルではない」とした上で、同社のファインチューニング基盤「Tinker」でのカスタマイズに適した基盤モデルと位置付ける。軽量版「I",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
       "score": 20
     }
   ]
