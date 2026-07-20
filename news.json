@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-21T06:00:56.439962+09:00",
-  "generatedLabel": "2026/07/21 06:00",
+  "generatedAt": "2026-07-21T07:46:04.810413+09:00",
+  "generatedLabel": "2026/07/21 07:46",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 51,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "採用LLMO戦略を自動設計する「AI検索採用ジャーニーマップ」",
+      "link": "https://ascii.jp/elem/000/004/420/4420475/?rss",
+      "date": "2026-07-21T07:00:00+09:00",
+      "dateLabel": "07/21 07:00",
+      "desc": "Queue株式会社は7月13日、AI検索最適化サービス「umoren.ai」の一環として、求職者がChatGPT、Gemini、Perplexity、AI OverviewsなどのAI検索を用いて企業を調べ、応募を決めるまでのプロセスを可視化する無料ツール「AI検索採用ジャーニーマップ」を公開した。",
+      "img": "https://ascii.jp/img/2026/07/17/4502025/s/7972af6a62db253c.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 58
+    },
+    {
       "title": "「Claude」利用制限を全リセット CodexとChatGPT Workも “リセット合戦”再び",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000201/",
       "date": "2026-07-16T15:15:24+09:00",
@@ -72,6 +83,17 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 44
+    },
+    {
+      "title": "動画生成AIのAPIに新機能、「自動生成×手動仕上げ」でシームレス化",
+      "link": "https://ascii.jp/elem/000/004/419/4419262/?rss",
+      "date": "2026-07-21T07:00:00+09:00",
+      "dateLabel": "07/21 07:00",
+      "desc": "株式会社Mavericksは7月10日、同社が提供する動画生成AI「NoLang」のAPIにおいて、 既存のシステムやSaaSからAPI経由で自動生成した動画を、Webアプリ上で直接「視聴・編集・ダウンロード」できる機能アップデートを実施した。",
+      "img": "https://ascii.jp/img/2026/07/13/4499940/s/fd480396547ad10a.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
     },
     {
       "title": "Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場",
@@ -94,6 +116,17 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 36
+    },
+    {
+      "title": "音楽ストリーミングサービスが普及した時代に「音楽海賊版の失われた喜び」をアーティストが語る",
+      "link": "https://gigazine.net/news/20260721-music-piracy/",
+      "date": "2026-07-21T07:00:00+09:00",
+      "dateLabel": "07/21 07:00",
+      "desc": "CDの全盛期には違法に音楽ファイルを共有するトレントサイトが人気を集めていましたが、現在ではストリーミングサービスによる無料視聴や動画サイトでアーティスト自身が無料公開するケースも多く、音楽の海賊版を取り巻く状況は大きく変化しています。音楽メディアのPigeons＆Planesは「音楽著作権侵害の失われた喜び」という記事を公開し、海賊版の盛衰に伴う音楽コミュ",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 34
     },
     {
       "title": "AIエージェント導入の企業判断はROIで見極める！経営リスクも解説",
@@ -184,15 +217,37 @@
       "score": 28
     },
     {
-      "title": "OpenAI、自動レッドチームAI「GPT-Red」発表──人間の攻撃成功率13％に対し84％",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000199/",
-      "date": "2026-07-16T12:10:19+09:00",
-      "dateLabel": "07/16 12:10",
-      "desc": "OpenAIは、自社モデルの脆弱性を自動で発見するレッドチーミングモデル「GPT-Red」を発表した。自己対戦型の強化学習を採用し、攻撃側と防御側を同時に訓練して安全性を高める。検証では未知のシナリオでも人間のレッドチーマーを大きく上回る攻撃成功率を示した。この成果を反映した最新の「GPT-5.6 Sol」では、プロンプトインジェクションへの耐性が大幅に向上",
+      "title": "富士ソフトがエンジニア1万人超を「AIネイティブ」化 実装力を武器にフィジカルAIなど3本柱に注力",
+      "link": "https://ascii.jp/elem/000/004/420/4420734/?rss",
+      "date": "2026-07-21T07:30:00+09:00",
+      "dateLabel": "07/21 07:30",
+      "desc": "富士ソフトは現在、人月・プロジェクト型からオファリング（型化）型へのビジネスモデルの転換を進めている。7月16日に開催されたAI事業戦略の説明会では、オファリングにAIを統合し、「フィジカルAI」「ビジネスAI」「エンジニアリングAI」の3本柱として展開していく方針が明かされた。",
+      "img": "https://ascii.jp/img/2026/07/19/4502646/s/d33b5b5b01a08b3a.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
+      "title": "中外製薬「社員1人にAIエージェント10体」作戦で成果倍増を目指す、AI使いこなし術",
+      "link": "https://kn.itmedia.co.jp/kn/articles/2607/10/news007.html",
+      "date": "2026-07-21T07:00:00+09:00",
+      "dateLabel": "07/21 07:00",
+      "desc": "製薬はコストも高く成功率も低い苛烈な業界だ。一方で、AIの活用により費用を1200億から半減、成功率を10倍にできるという試算もある。中外製薬はそのような業界の中で、AIにより2030年に研究開発の成果を倍増するという計画を掲げた。その秘策とは。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "規制/安全",
-      "score": 28
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "「AIに期待」65％も「明確な成果」16％、製造業の多くがPoC止まりの理由は",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/21/news048.html",
+      "date": "2026-07-21T06:30:00+09:00",
+      "dateLabel": "07/21 06:30",
+      "desc": "primeNumberが「AI・データ活用実態調査 2026」を公開した。AIへの高い期待に対し、明確な成果を得た企業は16.4％にとどまる。成果を左右する原因や、製造業でPoC止まりが多発する構造的課題を同社に聞いた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI実装",
+      "score": 26
     },
     {
       "title": "WordPress.comの「Studio Code」ベータ版がデスクトップ版で無料利用可能なので試しに使ってみたレビュー",
@@ -226,61 +281,6 @@
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
-    },
-    {
-      "title": "生成AIは調査レポートを引用する？Optyino.aiがAI回答9,715件を分析、導入判断では引用率21.8%",
-      "link": "https://ascii.jp/elem/000/004/420/4420761/?rss",
-      "date": "2026-07-20T12:37:38+09:00",
-      "dateLabel": "07/20 12:37",
-      "desc": "生成AIは調査レポートを引用する？Optyino.aiがAI回答9,715件を分析、導入判断では引用率21.8%",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
-      "title": "大阪産業局主催セミナー「AI×自動運転の社会実装最前線」でVML代表の山下が講師を務めます",
-      "link": "https://ascii.jp/elem/000/004/420/4420762/?rss",
-      "date": "2026-07-20T11:40:00+09:00",
-      "dateLabel": "07/20 11:40",
-      "desc": "大阪産業局主催セミナー「AI×自動運転の社会実装最前線」でVML代表の山下が講師を務めます",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "Netflixが950億円でベン・アフレックのAI映画制作スタートアップ「InterPositive」を買収したことが明らかに",
-      "link": "https://gigazine.net/news/20260720-netflix-paid-587-million-ben-affleck-ai-startup-interpositive/",
-      "date": "2026-07-20T11:00:00+09:00",
-      "dateLabel": "07/20 11:00",
-      "desc": "映像ストリーミングサービスのNetflixが、俳優のベン・アフレック氏が共同設立したAI映画制作スタートアップの「InterPositive」を、総額5億8700万ドル(約950億円)で買収していたことが明らかになりました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "「Claude Fable 5」サブスクに統合 Max・Team Premiumプラン対象",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/18/news019.html",
-      "date": "2026-07-18T12:50:00+09:00",
-      "dateLabel": "07/18 12:50",
-      "desc": "米Anthropicは、最上位AIモデル「Claude Fable 5」を7月20日から有料プラン「Max」「Team Premium」の標準機能にする。利用上限の50%まで追加費用なしで利用でき、「Pro」「Team Standard」は「使用クレジット」での利用となり、100ドル分のクレジットを1回限り付与する。無償提供の期限を2度延長した末の方針転換と",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "「現場で使えるAIへ」、富士通が進める次世代CPUと自律型AIエージェント戦略",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/17/news044.html",
-      "date": "2026-07-17T06:30:00+09:00",
-      "dateLabel": "07/17 06:30",
-      "desc": "富士通は自社イベント「Fujitsu Experience Day 2026」で、次世代CPUの「FUJITSU-MONAKA」をはじめ、AIチームを自律生成する技術や、実店舗で検証する店長業務支援AIなど企業変革を支援する最新AIソリューションを公開した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 20
     }
   ]
 }
