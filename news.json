@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-22T06:54:51.651462+09:00",
-  "generatedLabel": "2026/07/22 06:54",
+  "generatedAt": "2026-07-22T07:44:37.110236+09:00",
+  "generatedLabel": "2026/07/22 07:44",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 16
+      "items": 17
     },
     {
       "source": "CNET Japan",
@@ -96,6 +96,17 @@
       "score": 58
     },
     {
+      "title": "Google、「Gemini 3.6 Flash」など3モデルを発表 出力トークンを削減しつつ値下げ、「Gemini 4」も予告",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/22/2000000212/",
+      "date": "2026-07-22T07:07:13+09:00",
+      "dateLabel": "07/22 07:07",
+      "desc": "Googleは、Geminiの「Flash」シリーズに「3.6 Flash」「3.5 Flash-Lite」「3.5 Flash Cyber」の3モデルを追加した。効率性と低遅延を追求し、AIエージェント構築に適した性能を備える。3.6 Flashは出力価格が引き下げられた。また、次世代モデル「Gemini 4」の開発着手も発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
       "title": "Anthropic、著作権訴訟で史上最大「2400億円」和解金支払いへ 学習利用は「フェアユース」認定",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/21/2000000210/",
       "date": "2026-07-21T14:43:10+09:00",
@@ -104,17 +115,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "規制/安全",
-      "score": 50
-    },
-    {
-      "title": "AMDとMicrosoftが戦略的提携を拡大 新AIラックスケール「Helios」をAzureに大規模導入へ",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/21/news051.html",
-      "date": "2026-07-21T07:33:00+09:00",
-      "dateLabel": "07/21 07:33",
-      "desc": "AMDは、Microsoftとの戦略的提携を拡大すると発表した。Microsoftはクラウドサービス「Azure」に、GPUやCPUを一体化したAMDのラックスケール製品「AMD Helios」を大規模に導入し、フロンティアAIモデルの推論処理などに活用する。Heliosは2026年後半から出荷が開始される予定だ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
       "score": 50
     },
     {
@@ -184,26 +184,48 @@
       "score": 42
     },
     {
-      "title": "中国AIも“ミュトス級”に到達か Moonshot AIが「Kimi K3」発表、一部ベンチでFable 5抜き首位",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/17/news079.html",
-      "date": "2026-07-17T12:59:00+09:00",
-      "dateLabel": "07/17 12:59",
-      "desc": "中国Moonshot AIは7月16日（現地時間）、大規模言語モデル「Kimi K3」を発表した。パラメータ数2.8兆の“世界初のオープン3T級モデル”とうたい、一部のベンチマークでは米Anthropicの「Claude Fable 5」を上回る成績も示した。",
+      "title": "AMDとMicrosoftが戦略的提携を拡大 新AIラックスケール「Helios」をAzureに大規模導入へ",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/21/news051.html",
+      "date": "2026-07-21T07:33:00+09:00",
+      "dateLabel": "07/21 07:33",
+      "desc": "AMDは、Microsoftとの戦略的提携を拡大すると発表した。Microsoftはクラウドサービス「Azure」に、GPUやCPUを一体化したAMDのラックスケール製品「AMD Helios」を大規模に導入し、フロンティアAIモデルの推論処理などに活用する。Heliosは2026年後半から出荷が開始される予定だ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "ブレストで膨らむ“隠れ人件費”を削れ 矢野経済がClaudeで挑む「30分で100アイデア」創出の威力",
+      "link": "https://www.itmedia.co.jp/business/articles/2607/22/news028.html",
+      "date": "2026-07-22T07:00:00+09:00",
+      "dateLabel": "07/22 07:00",
+      "desc": "矢野経済研究所が、独自の一次情報と高度AI「Claude」を融合させた新規事業アイデア創出支援サービス「AIDEL」を発表した。ブレインストーミングによる役員の時間拘束や「隠れ人件費」の膨張という企業の課題に対し、30分で100の具体案と評価スコアを自動生成。一般的な生成AIの弱点であるハルシネーションを排し、根拠のあるデータで日本企業の事業開発を劇的に加速",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 36
+      "score": 34
     },
     {
-      "title": "強気値上げで自爆か ClaudeやGeminiに押され「M365 Copilot」は一人負け？：888th Lap",
-      "link": "https://kn.itmedia.co.jp/kn/articles/2607/17/news040.html",
-      "date": "2026-07-17T07:00:00+09:00",
-      "dateLabel": "07/17 07:00",
-      "desc": "「ChatGPT」だけでなく、「Claude」や「Gemini」も支持を広げる生成AI市場。だが、Microsoft 365の法人ユーザーは約4億5000万人いるものの、有料版「Microsoft 365 Copilot」を契約している割合は4.5％未満にとどまるという。",
-      "img": "",
-      "src": "ITmedia AI+",
+      "title": "AIに売る時代の到来。ECサイトに求められる構造改革",
+      "link": "https://ascii.jp/elem/000/004/420/4420479/?rss",
+      "date": "2026-07-22T07:00:00+09:00",
+      "dateLabel": "07/22 07:00",
+      "desc": "株式会社ハックルベリーは7月13日、自社ECサイトが次世代の購買環境に対応できているかを可視化する「AIコマース診断ツール」の提供を開始した。消費者が自ら検索し比較検討して購入する従来のECスタイルから、AIエージェントがユーザーに代わって自律的に商品を探索・購買する、AIコマース（エージェンティック・コマース）へのシフトが進んでいる。",
+      "img": "https://ascii.jp/img/2026/07/17/4502054/s/913b3f24e42c0db1.jpg",
+      "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
-      "score": 36
+      "score": 34
+    },
+    {
+      "title": "AnthropicがAIモデル「Claude」のトレーニングに海賊版書籍を使った件で作家グループと和解するも一部の著者は和解を拒否",
+      "link": "https://gigazine.net/news/20260722-anthropics-settlement-book-piracy-ai/",
+      "date": "2026-07-22T07:00:00+09:00",
+      "dateLabel": "07/22 07:00",
+      "desc": "現地時間の2026年7月20日、AI開発企業のAnthropicがAIトレーニングに海賊版サイトのデータを使ったとして作家グループに訴えられた裁判で、Anthropicと原告の和解案をカリフォルニア州北部地区連邦地方裁判所が承認しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "企業向けでAIツールで成長率トップはAnthropic、アカウント数が最も多いのはMicrosoft 365。Oktaが調査結果を発表",
@@ -258,28 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Appleが企業秘密漏洩訴訟関連でOpenAIの社員数十人に法的文書を送付し警告",
-      "link": "https://gigazine.net/news/20260721-apple-send-letter-openai-employees/",
-      "date": "2026-07-21T12:51:00+09:00",
-      "dateLabel": "07/21 12:51",
-      "desc": "AppleはOpenAIに転職した社員らが自社の企業秘密を盗み出したとして訴訟を提起しています。これに関連し、AppleがOpenAIの別の社員に対して「弁護士と面会するように」と記した法的文書を送付していることが伝えられました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場",
-      "link": "https://www.publickey1.jp/blog/26/claude_codeclaude_apps_gateway_for_awsgoogle_cloud.html",
-      "date": "2026-07-21T00:54:57+09:00",
-      "dateLabel": "07/21 00:54",
-      "desc": "AnthropicのAIコーディングエージェントClaud Codeは非常に人気のあるサービスとして多くの組織で採用され始めています。 Claude Codeは個人で簡単に導入できますが、企業が組織としてClaude Codeを導入する場合...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
       "score": 34
     }
   ]
