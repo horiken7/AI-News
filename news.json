@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-21T13:59:17.097880+09:00",
-  "generatedLabel": "2026/07/21 13:59",
+  "generatedAt": "2026-07-21T16:33:01.867784+09:00",
+  "generatedLabel": "2026/07/21 16:33",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 58,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -94,6 +94,17 @@
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 58
+    },
+    {
+      "title": "Anthropic、著作権訴訟で史上最大「2400億円」和解金支払いへ 学習利用は「フェアユース」認定",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/21/2000000210/",
+      "date": "2026-07-21T14:43:10+09:00",
+      "dateLabel": "07/21 14:43",
+      "desc": "「Claude」の学習を巡り作家グループが米Anthropicを訴えた集団訴訟で、米連邦判事が15億ドル（約2400億円）の和解を最終承認した。米国の著作権訴訟では史上最大の和解額となる。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
+      "score": 50
     },
     {
       "title": "AMDとMicrosoftが戦略的提携を拡大 新AIラックスケール「Helios」をAzureに大規模導入へ",
@@ -184,6 +195,28 @@
       "score": 36
     },
     {
+      "title": "OpenAIが長時間動作するAIモデルの問題を公表、サンドボックスを回避した未公開モデルへの社内アクセスを一時停止",
+      "link": "https://gigazine.net/news/20260721-openai-ai-trained-for-long-running-tasks/",
+      "date": "2026-07-21T15:35:00+09:00",
+      "dateLabel": "07/21 15:35",
+      "desc": "OpenAIが長時間にわたって自律的に作業できる未公開AIモデルを社内で限定的に運用していた際、与えられた制限を回避して外部へアクセスしようとする行動を確認したと報告しました。同社はモデルの利用を一時停止し、一連の行動をまとめて監視する新たな安全対策を導入した上で、限定的な社内利用を再開しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "AI動画編集ソフト「HitPaw Edimakor Ver.5.1.1」公開｜AIアバターと動画高画質化を強化",
+      "link": "https://ascii.jp/elem/000/004/421/4421035/?rss",
+      "date": "2026-07-21T15:09:51+09:00",
+      "dateLabel": "07/21 15:09",
+      "desc": "AI動画編集ソフト「HitPaw Edimakor Ver.5.1.1」公開｜AIアバターと動画高画質化を強化",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "AI「Claude Fable 5」が87年来の難問「ヤコビアン予想」を覆す反例を生成したとAnthropic研究者が報告",
       "link": "https://gigazine.net/news/20260721-claude-fable-5-jacobian-conjecture/",
       "date": "2026-07-21T13:28:00+09:00",
@@ -214,17 +247,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "「AI・人工知能EXPO NEO」に出展 ― 大企業の“全社AIネイティブ化”を支援する生成AIソリューション群を一挙公開",
-      "link": "https://ascii.jp/elem/000/004/420/4420955/?rss",
-      "date": "2026-07-21T11:51:30+09:00",
-      "dateLabel": "07/21 11:51",
-      "desc": "「AI・人工知能EXPO NEO」に出展 ― 大企業の“全社AIネイティブ化”を支援する生成AIソリューション群を一挙公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
@@ -259,28 +281,6 @@
       "src": "Publickey",
       "cat": "LLM/モデル",
       "score": 34
-    },
-    {
-      "title": "Claude Fable 5が一部のサブスクプランで使用可能に",
-      "link": "https://gigazine.net/news/20260719-claude-fable-5-plan/",
-      "date": "2026-07-19T21:00:00+09:00",
-      "dateLabel": "07/19 21:00",
-      "desc": "AnthropicがClaude Fable 5をMaxプランおよびTeam Premiumプランの一部として利用可能にすることを発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Google、「NotebookLM」を「Gemini Notebook」に改称 Geminiエコシステムへの統合を強化",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/17/news062.html",
-      "date": "2026-07-17T08:21:00+09:00",
-      "dateLabel": "07/17 08:21",
-      "desc": "Googleは、AI搭載リサーチツール「NotebookLM」の名称を「Gemini Notebook」に変更すると発表した。機能は単体製品として維持しつつ、エコシステム全体で広く機能するようになる。安全なクラウドコンピュータの割り当てによるデータ分析機能などの大型アップデートも展開中で、この機能は今後全Proユーザーへ提供される見込みだ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 28
     }
   ]
 }
