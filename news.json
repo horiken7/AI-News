@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-21T21:19:28.196139+09:00",
-  "generatedLabel": "2026/07/21 21:19",
+  "generatedAt": "2026-07-21T23:55:32.855167+09:00",
+  "generatedLabel": "2026/07/21 23:55",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 16
     },
     {
       "source": "CNET Japan",
@@ -118,6 +118,17 @@
       "score": 50
     },
     {
+      "title": "大規模AIプロジェクトで「高性能な計画役＋安価な実行役」を使うとコストが約8分の1になったとCursorが報告",
+      "link": "https://gigazine.net/news/20260721-agent-swarm-model-economics/",
+      "date": "2026-07-21T22:00:00+09:00",
+      "dateLabel": "07/21 22:00",
+      "desc": "AI向けコードエディター「Cursor」を開発するAnysphereが2026年7月20日、大規模な開発作業を複数のAIエージェントに分担させる実験結果を公開しました。計画役に最も高性能なAIモデルを割り当てて実際の作業には高速で安価なモデルを使っても、すべての役割に高性能モデルを使った場合とほぼ同じ品質を保ちながら費用を大幅に削減できたとのことです。 続き",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "トランプ政権が外国製オープンソースAIモデルの事実上の禁止措置を再検討、中国の台頭に懸念",
       "link": "https://gigazine.net/news/20260721-ai-us-china/",
       "date": "2026-07-21T12:56:00+09:00",
@@ -195,6 +206,17 @@
       "score": 36
     },
     {
+      "title": "企業向けでAIツールで成長率トップはAnthropic、アカウント数が最も多いのはMicrosoft 365。Oktaが調査結果を発表",
+      "link": "https://www.publickey1.jp/blog/26/aianthropicmicrosoft_365okta.html",
+      "date": "2026-07-21T22:51:42+09:00",
+      "dateLabel": "07/21 22:51",
+      "desc": "アイデンティティ管理サービスを提供するOktaは、同社のサービスを用いている2万社以上の匿名化されたアクセスデータに基づく、企業でのAIツール利用実態について調査結果を発表しました。 成長率トップはAnthropic 1つ目の調査結果は、2...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "「JAM Project」のプレミアムLIVEも実施！「スーパーロボット大戦」35周年記念生配信が8月1日20時より配信決定",
       "link": "https://ascii.jp/elem/000/004/421/4421110/?rss",
       "date": "2026-07-21T19:20:00+09:00",
@@ -250,17 +272,6 @@
       "score": 34
     },
     {
-      "title": "音楽ストリーミングサービスが普及した時代に「音楽海賊版の失われた喜び」をアーティストが語る",
-      "link": "https://gigazine.net/news/20260721-music-piracy/",
-      "date": "2026-07-21T07:00:00+09:00",
-      "dateLabel": "07/21 07:00",
-      "desc": "CDの全盛期には違法に音楽ファイルを共有するトレントサイトが人気を集めていましたが、現在ではストリーミングサービスによる無料視聴や動画サイトでアーティスト自身が無料公開するケースも多く、音楽の海賊版を取り巻く状況は大きく変化しています。音楽メディアのPigeons＆Planesは「音楽著作権侵害の失われた喜び」という記事を公開し、海賊版の盛衰に伴う音楽コミュ",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
       "title": "AIエージェント導入の企業判断はROIで見極める！経営リスクも解説",
       "link": "https://ainow.ai/2026/07/21/278263/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e5%25b0%258e%25e5%2585%25a5%25e3%2581%25ae%25e4%25bc%2581%25e6%25a5%25ad%25e5%2588%25a4%25e6%2596%25ad%25e3%2581%25afroi%25e3%2581%25a7%25e8%25a6%258b%25e6%25a5%25b5%25e3%2582%2581%25e3%2582%258b%25ef%25bc%2581%25e7%25b5%258c",
       "date": "2026-07-21T01:57:38+09:00",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "AINOW",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Rustで書き直されたBun、早くもClaude Codeアプリに本番投入された模様",
-      "link": "https://www.publickey1.jp/blog/26/rustbunclaude_code.html",
-      "date": "2026-07-21T00:52:57+09:00",
-      "dateLabel": "07/21 00:52",
-      "desc": "Claude Codeを用いてわずか11日間でZig言語からRust言語へ移植されたことが話題となっているJavaScriptランタイムのBunですが、そのRust版Bunが早くも7月17日にリリースされたClaude Code v2.1....",
-      "img": "",
-      "src": "Publickey",
-      "cat": "LLM/モデル",
       "score": 34
     }
   ]
