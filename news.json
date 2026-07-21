@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-21T23:55:32.855167+09:00",
-  "generatedLabel": "2026/07/21 23:55",
+  "generatedAt": "2026-07-22T01:15:39.012520+09:00",
+  "generatedLabel": "2026/07/22 01:15",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 54,
@@ -173,17 +173,6 @@
       "score": 42
     },
     {
-      "title": "Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場",
-      "link": "https://www.publickey1.jp/blog/26/claude_codeclaude_apps_gateway_for_awsgoogle_cloud.html",
-      "date": "2026-07-21T00:54:57+09:00",
-      "dateLabel": "07/21 00:54",
-      "desc": "AnthropicのAIコーディングエージェントClaud Codeは非常に人気のあるサービスとして多くの組織で採用され始めています。 Claude Codeは個人で簡単に導入できますが、企業が組織としてClaude Codeを導入する場合...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "中国AIも“ミュトス級”に到達か Moonshot AIが「Kimi K3」発表、一部ベンチでFable 5抜き首位",
       "link": "https://www.itmedia.co.jp/news/articles/2607/17/news079.html",
       "date": "2026-07-17T12:59:00+09:00",
@@ -279,6 +268,17 @@
       "desc": "現場やDX推進部門からAIエージェント導入の提案を受けたものの、投資に見合うリターンがあるか判断できず、決裁に踏み切れずにいる経営層は少なくありません。 判断基準を持たないまま決裁すると、費用ばかりかさみ成果が出ない事態... The post AIエージェント導入の企業判断はROIで見極める！経営リスクも解説 first appeared on AI専門ニ",
       "img": "",
       "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場",
+      "link": "https://www.publickey1.jp/blog/26/claude_codeclaude_apps_gateway_for_awsgoogle_cloud.html",
+      "date": "2026-07-21T00:54:57+09:00",
+      "dateLabel": "07/21 00:54",
+      "desc": "AnthropicのAIコーディングエージェントClaud Codeは非常に人気のあるサービスとして多くの組織で採用され始めています。 Claude Codeは個人で簡単に導入できますが、企業が組織としてClaude Codeを導入する場合...",
+      "img": "",
+      "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 34
     }
