@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-21T08:46:50.716006+09:00",
-  "generatedLabel": "2026/07/21 08:46",
+  "generatedAt": "2026-07-21T10:44:21.237658+09:00",
+  "generatedLabel": "2026/07/21 10:44",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 55,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 9
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 9
     },
     {
       "source": "CNET Japan",
@@ -96,6 +96,28 @@
       "score": 44
     },
     {
+      "title": "OpenAI、自律型AIが安全対策を回避する行動を学習する可能性を確認 内部展開を一時停止",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/21/2000000207/",
+      "date": "2026-07-21T09:33:06+09:00",
+      "dateLabel": "07/21 09:33",
+      "desc": "OpenAIは、長時間自律動作するAIモデルの安全性評価に関するブログを公開した。限定運用でサンドボックスの回避や認証トークンの難読化などの問題行動を確認したため、一時アクセスを停止。モデルの行動全体を監視する新たな安全対策を構築し、問題行動の検出・抑止を確認した上で内部利用を再開した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
+      "score": 42
+    },
+    {
+      "title": "ASUSの新型PCケース「PRIME AP304 TG」登場 曲面ガラス×大型GPU対応が魅力",
+      "link": "https://ascii.jp/elem/000/004/420/4420793/?rss",
+      "date": "2026-07-21T09:00:00+09:00",
+      "dateLabel": "07/21 09:00",
+      "desc": "シー・エフ・デー販売がASUSブランドの新製品として、80PLUS GOLD認証の高耐久電源ユニット「TUF GAMING GOLD EVO シリーズ」1200W/1000Wモデルと、曲面強化ガラス採用のATXケース「PRIME AP304 TG ARGB シリーズ」「PRIME AP304 TG シリーズ」を7月17日に発売した。",
+      "img": "https://ascii.jp/img/2026/07/21/4502960/s/aadbb58c6bf69c3e.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
       "title": "動画生成AIのAPIに新機能、「自動生成×手動仕上げ」でシームレス化",
       "link": "https://ascii.jp/elem/000/004/419/4419262/?rss",
       "date": "2026-07-21T07:00:00+09:00",
@@ -127,6 +149,28 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 36
+    },
+    {
+      "title": "LLMは何を考えているのか？「隠れた領域」が見つかった／シリコン量子ビットで大規模化の壁に挑む",
+      "link": "https://ascii.jp/elem/000/004/420/4420779/?rss",
+      "date": "2026-07-21T09:00:00+09:00",
+      "dateLabel": "07/21 09:00",
+      "desc": "世界最先端のテクノロジー情報をお届けするグローバルメディア「MITテクノロジーレビュー」から、ビジネスに役立つ注目のテック企業の最新動向、イノベーションにつながる最新の研究内容をピックアップして紹介します。",
+      "img": "https://ascii.jp/img/2026/07/20/4502914/s/f48c421a26023631.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "情報を外に出さない“完全クローズド”な社内ナレッジAI「ROOTA（ルータ）」を2026年7月31日にリリース",
+      "link": "https://ascii.jp/elem/000/004/420/4420801/?rss",
+      "date": "2026-07-21T08:00:00+09:00",
+      "dateLabel": "07/21 08:00",
+      "desc": "情報を外に出さない“完全クローズド”な社内ナレッジAI「ROOTA（ルータ）」を2026年7月31日にリリース",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "IT技術者の8割超「AI生成コードには人間のレビューが必要」／「偽・誤情報を見破れる」と自信を持つ人はICTリテラシーテストの正答率が低い、ほか",
@@ -173,28 +217,6 @@
       "score": 34
     },
     {
-      "title": "ついに会話ができるスマートスピーカーが登場！Gemini対応の実力を試してみた！",
-      "link": "https://ascii.jp/elem/000/004/420/4420736/?rss",
-      "date": "2026-07-20T17:00:00+09:00",
-      "dateLabel": "07/20 17:00",
-      "desc": "今回紹介するのは、Googleのスマートスピーカーとしては実に6年ぶりに登場した「Google Home スピーカー」です。これまでのスピーカーと一番違うのは、Googleアシスタントではなく、「Gemini」を採用しているという点です。",
-      "img": "https://ascii.jp/img/2026/07/20/4502672/s/8ba65b7f42a9318e.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Hugging FaceにAI主導のサイバー攻撃 防御もAIで対抗するも、商用モデルは解析拒否で「GLM」採用",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/20/news010.html",
-      "date": "2026-07-20T10:08:00+09:00",
-      "dateLabel": "07/20 10:08",
-      "desc": "Hugging Faceは、自律型AIエージェントによる本番インフラへの侵入を検知、対処したと発表した。一部の内部データセットと複数の資格情報への不正アクセスを確認した。ログ解析には当初商用AIを使ったが、安全ガードレールに阻まれたため、最終的にオープンウェイトモデル「GLM 5.2」を自社インフラで実行して解析した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "Claude Fable 5が一部のサブスクプランで使用可能に",
       "link": "https://gigazine.net/news/20260719-claude-fable-5-plan/",
       "date": "2026-07-19T21:00:00+09:00",
@@ -214,17 +236,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 28
-    },
-    {
-      "title": "「Gemini Spark」日本でもリリース、まずUltraから 24時間働く“パーソナルAIエージェント”",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000200/",
-      "date": "2026-07-16T13:53:43+09:00",
-      "dateLabel": "07/16 13:53",
-      "desc": "同社の幹部は、「Pro」（月額2900円）ユーザーにアクセスを拡大する可能性も示唆している。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 28
     },
     {
@@ -269,17 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "WordPress.comの「Studio Code」ベータ版がデスクトップ版で無料利用可能なので試しに使ってみたレビュー",
-      "link": "https://gigazine.net/news/20260720-studio-code/",
-      "date": "2026-07-20T18:00:00+09:00",
-      "dateLabel": "07/20 18:00",
-      "desc": "ローカル環境でWordPressサイトを作成し、完成したページを一時公開して共有できる無料のデスクトップアプリが「WordPress Studio」です。このWordPress Studioに「WordPress専用のAIコーディングCLIツール『Studio Code』ベータ版」が統合され、デスクトップアプリ上のチャットからページの作成やテーマ・プラグイン",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
       "score": 26
     }
   ]
