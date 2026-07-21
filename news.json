@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-22T05:13:34.227996+09:00",
-  "generatedLabel": "2026/07/22 05:13",
+  "generatedAt": "2026-07-22T06:54:51.651462+09:00",
+  "generatedLabel": "2026/07/22 06:54",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 54,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 1
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -116,6 +116,17 @@
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
       "score": 50
+    },
+    {
+      "title": "賢いAIほど偏見を持つ、採用シミュレーションが示した逆説",
+      "link": "https://ascii.jp/elem/000/004/421/4421125/?rss",
+      "date": "2026-07-22T06:02:37+09:00",
+      "dateLabel": "07/22 06:02",
+      "desc": "少ないデータから一般化する能力は、数学やコーディングでLLMが評価されてきた長所である。だが、プリンストン大学などの採用シミュレーション実験で、その能力が社会的な判断では偏見として働くことが示された。モデルは数回の結果を見ただけで架空の民族集団を特定の職種に振り分け、その傾向は人間より約65%強い。しかも推論能力の高いモデルほど、偏りは大きかった。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "大規模AIプロジェクトで「高性能な計画役＋安価な実行役」を使うとコストが約8分の1になったとCursorが報告",
@@ -270,17 +281,6 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 34
-    },
-    {
-      "title": "Google、「NotebookLM」を「Gemini Notebook」に改称 Geminiエコシステムへの統合を強化",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/17/news062.html",
-      "date": "2026-07-17T08:21:00+09:00",
-      "dateLabel": "07/17 08:21",
-      "desc": "Googleは、AI搭載リサーチツール「NotebookLM」の名称を「Gemini Notebook」に変更すると発表した。機能は単体製品として維持しつつ、エコシステム全体で広く機能するようになる。安全なクラウドコンピュータの割り当てによるデータ分析機能などの大型アップデートも展開中で、この機能は今後全Proユーザーへ提供される見込みだ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 28
     }
   ]
 }
