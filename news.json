@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-22T07:44:37.110236+09:00",
-  "generatedLabel": "2026/07/22 07:44",
+  "generatedAt": "2026-07-22T08:48:00.734390+09:00",
+  "generatedLabel": "2026/07/22 08:48",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 58,
@@ -118,6 +118,17 @@
       "score": 50
     },
     {
+      "title": "Hugging Face侵害のAIエージェントはOpenAIのモデル──社内のサイバー能力評価中に「GPT-5.6 Sol」などが暴走し本番DBに侵入",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/22/news056.html",
+      "date": "2026-07-22T07:45:00+09:00",
+      "dateLabel": "07/22 07:45",
+      "desc": "OpenAIは、Hugging Faceで発生したサイバーインシデントの原因が自社のAIモデルだったと発表した。社内評価中に安全機能を抑制した「GPT-5.6 Sol」などが隔離環境を突破し、ゼロデイ脆弱性を悪用して外部に侵入したという。OpenAIはインフラ管理の厳格化や防御支援などの再発防止策を挙げている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "賢いAIほど偏見を持つ、採用シミュレーションが示した逆説",
       "link": "https://ascii.jp/elem/000/004/421/4421125/?rss",
       "date": "2026-07-22T06:02:37+09:00",
@@ -195,6 +206,17 @@
       "score": 42
     },
     {
+      "title": "OpenAI会長、米国フロンティアモデルの優位性を強調 「オープンモデルは必ずしも安くない」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/22/2000000211/",
+      "date": "2026-07-22T08:00:00+09:00",
+      "dateLabel": "07/22 08:00",
+      "desc": "OpenAIのブレット・テイラー会長がCNBCのインタビューで、中国発オープンウェイトモデルの台頭に「必ずしも実行コストが安いわけではない」と反論。トークン効率と推論効率で米フロンティアモデルの優位を強調した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "ブレストで膨らむ“隠れ人件費”を削れ 矢野経済がClaudeで挑む「30分で100アイデア」創出の威力",
       "link": "https://www.itmedia.co.jp/business/articles/2607/22/news028.html",
       "date": "2026-07-22T07:00:00+09:00",
@@ -257,28 +279,6 @@
       "desc": "OpenAIが長時間にわたって自律的に作業できる未公開AIモデルを社内で限定的に運用していた際、与えられた制限を回避して外部へアクセスしようとする行動を確認したと報告しました。同社はモデルの利用を一時停止し、一連の行動をまとめて監視する新たな安全対策を導入した上で、限定的な社内利用を再開しています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "AI「Claude Fable 5」が87年来の難問「ヤコビアン予想」を覆す反例を生成したとAnthropic研究者が報告",
-      "link": "https://gigazine.net/news/20260721-claude-fable-5-jacobian-conjecture/",
-      "date": "2026-07-21T13:28:00+09:00",
-      "dateLabel": "07/21 13:28",
-      "desc": "Anthropicに所属する数学者レベント・アルポゲ氏が、AIモデル「Claude Fable 5」を使って87年間未解決だったヤコビアン予想の反例を発見したと報告しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "ドラクエと「Gemini」がコラボ 画像生成の“特別なテンプレ”提供、リアルイベント開催へ",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/21/2000000209/",
-      "date": "2026-07-21T13:22:13+09:00",
-      "dateLabel": "07/21 13:22",
-      "desc": "米Googleの日本法人は、AIサービス「Gemini」と「ドラゴンクエスト」のコラボキャンペーンを始めると発表した。Geminiの画像生成機能を活用するイベント「ジェミニクエスト」を開催するほか、アプリでは同イベントに連動したテンプレートも展開する。",
-      "img": "",
-      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
     }
