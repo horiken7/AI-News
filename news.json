@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-21T10:44:21.237658+09:00",
-  "generatedLabel": "2026/07/21 10:44",
+  "generatedAt": "2026-07-21T13:59:17.097880+09:00",
+  "generatedLabel": "2026/07/21 13:59",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 9
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 9
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -63,13 +63,35 @@
   ],
   "articles": [
     {
-      "title": "採用LLMO戦略を自動設計する「AI検索採用ジャーニーマップ」",
-      "link": "https://ascii.jp/elem/000/004/420/4420475/?rss",
-      "date": "2026-07-21T07:00:00+09:00",
-      "dateLabel": "07/21 07:00",
-      "desc": "Queue株式会社は7月13日、AI検索最適化サービス「umoren.ai」の一環として、求職者がChatGPT、Gemini、Perplexity、AI OverviewsなどのAI検索を用いて企業を調べ、応募を決めるまでのプロセスを可視化する無料ツール「AI検索採用ジャーニーマップ」を公開した。",
-      "img": "https://ascii.jp/img/2026/07/17/4502025/s/7972af6a62db253c.jpg",
-      "src": "ASCII.jp",
+      "title": "Claude Fable 5に匹敵する性能の中華AI「Kimi K3」が人気すぎてGPUが足りなくなり新規サブスク加入を一時停止する事態に、「Anthropicよりマシな対応」という声も",
+      "link": "https://gigazine.net/news/20260721-kimi-k3-limit/",
+      "date": "2026-07-21T13:39:00+09:00",
+      "dateLabel": "07/21 13:39",
+      "desc": "中国企業のMoonshot AIは日本時間の2026年7月17日に自社製AIモデル「Kimi K3」をリリースしました。Kimi K3は一部のベンチマークテストでClaude Fable 5を超えており、大きな注目を集めたのですが、需要が大きすぎることからサービス展開が困難となり、サブスクリプションサービスの新規加入が一時停止される事態となっています。 続き",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 66
+    },
+    {
+      "title": "AMDがNVIDIA対抗のラックスケールAIシステム「AMD Helios」をMicrosoft Azureに大規模導入",
+      "link": "https://gigazine.net/news/20260721-amd-helios-microsoft-azure/",
+      "date": "2026-07-21T12:49:00+09:00",
+      "dateLabel": "07/21 12:49",
+      "desc": "現地時間の2026年7月20日、半導体大手のAMDがMicrosoftのクラウドコンピューティングサービスであるMicrosoft Azure上で動作するAMD製のCPU・GPU・ネットワーク・ソフトウェアを網羅する戦略的パートナーシップの拡大を発表しました。戦略的パートナーシップ拡大の中心として、AMDはAIデータセンター向けのラックスケールAIシステムで",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 58
+    },
+    {
+      "title": "アリババが「Qwen3.8」のオープンモデル化を予告、「Claude Fable 5に次ぐ性能」で2.4兆パラメーターの大型モデル",
+      "link": "https://gigazine.net/news/20260721-qwen3-8/",
+      "date": "2026-07-21T12:36:00+09:00",
+      "dateLabel": "07/21 12:36",
+      "desc": "中国の大手テクノロジー企業のAlibabaが自社製AIモデル「Qwen3.8」を近日中にオープンモデルとして公開することを発表しました。また、プレビュー版の「Qwen3.8-Max-Preview」がチャットAIサービスのQwen Studioなどで利用可能となっています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 58
     },
@@ -85,15 +107,37 @@
       "score": 50
     },
     {
-      "title": "「Claude」利用制限を全リセット CodexとChatGPT Workも “リセット合戦”再び",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000201/",
-      "date": "2026-07-16T15:15:24+09:00",
-      "dateLabel": "07/16 15:15",
-      "desc": "米Anthropicは、AIサービス「Claude」の5時間および1週間の利用制限をリセットしたと発表した。一方、米OpenAIもデスクトップPC向けAIサービス「ChatGPT Work」およびAIコーディングツール「Codex」の週次利用制限をリセットすると発表し、“リセット合戦”の様相を呈している。",
+      "title": "トランプ政権が外国製オープンソースAIモデルの事実上の禁止措置を再検討、中国の台頭に懸念",
+      "link": "https://gigazine.net/news/20260721-ai-us-china/",
+      "date": "2026-07-21T12:56:00+09:00",
+      "dateLabel": "07/21 12:56",
+      "desc": "アメリカ政府は外国製のオープンソースAIモデルを事実上禁止しようと試みており、2026年7月に中国企業のMoonshot AIが超大型オープンAIモデル「Kimi K3」をリリースしたことで、アメリカ政府の競争規制の動きが活発化していると関係筋の話から報じられています。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 44
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 42
+    },
+    {
+      "title": "Firefox 153がLinuxでVulkan Videoデコードに初期対応、NVIDIAやArm環境での活用に向けた基盤を整備",
+      "link": "https://gigazine.net/news/20260721-firefox-153-vulkan-video/",
+      "date": "2026-07-21T12:06:00+09:00",
+      "dateLabel": "07/21 12:06",
+      "desc": "日本時間の2026年7月22日に正式リリースが予定されているMozilla Firefoxのバージョン153に、LinuxでVulkan Videoを利用して動画をハードウェアデコードするための初期対応が導入されています。従来のVideo Acceleration API(VA-API)とは異なる経路でGPUの動画デコード機能を利用できるようにするもので、特",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "NVIDIAがローカル動作するロボット用AIモデル「Cosmos 3 Edge」を公開",
+      "link": "https://gigazine.net/news/20260721-nvidia-cosmos-3-edge/",
+      "date": "2026-07-21T11:19:00+09:00",
+      "dateLabel": "07/21 11:19",
+      "desc": "NVIDIAがロボットや自動運転車向けの世界モデル「Cosmos 3 Edge」を発表しました。Cosmos 3 Edgeは40億パラメーターの比較的小型なモデルで、単一のグラフィックボードで動作するとのことです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 42
     },
     {
       "title": "OpenAI、自律型AIが安全対策を回避する行動を学習する可能性を確認 内部展開を一時停止",
@@ -104,28 +148,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "規制/安全",
-      "score": 42
-    },
-    {
-      "title": "ASUSの新型PCケース「PRIME AP304 TG」登場 曲面ガラス×大型GPU対応が魅力",
-      "link": "https://ascii.jp/elem/000/004/420/4420793/?rss",
-      "date": "2026-07-21T09:00:00+09:00",
-      "dateLabel": "07/21 09:00",
-      "desc": "シー・エフ・デー販売がASUSブランドの新製品として、80PLUS GOLD認証の高耐久電源ユニット「TUF GAMING GOLD EVO シリーズ」1200W/1000Wモデルと、曲面強化ガラス採用のATXケース「PRIME AP304 TG ARGB シリーズ」「PRIME AP304 TG シリーズ」を7月17日に発売した。",
-      "img": "https://ascii.jp/img/2026/07/21/4502960/s/aadbb58c6bf69c3e.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "動画生成AIのAPIに新機能、「自動生成×手動仕上げ」でシームレス化",
-      "link": "https://ascii.jp/elem/000/004/419/4419262/?rss",
-      "date": "2026-07-21T07:00:00+09:00",
-      "dateLabel": "07/21 07:00",
-      "desc": "株式会社Mavericksは7月10日、同社が提供する動画生成AI「NoLang」のAPIにおいて、 既存のシステムやSaaSからAPI経由で自動生成した動画を、Webアプリ上で直接「視聴・編集・ダウンロード」できる機能アップデートを実施した。",
-      "img": "https://ascii.jp/img/2026/07/13/4499940/s/fd480396547ad10a.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -140,6 +162,17 @@
       "score": 42
     },
     {
+      "title": "中国AIも“ミュトス級”に到達か Moonshot AIが「Kimi K3」発表、一部ベンチでFable 5抜き首位",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/17/news079.html",
+      "date": "2026-07-17T12:59:00+09:00",
+      "dateLabel": "07/17 12:59",
+      "desc": "中国Moonshot AIは7月16日（現地時間）、大規模言語モデル「Kimi K3」を発表した。パラメータ数2.8兆の“世界初のオープン3T級モデル”とうたい、一部のベンチマークでは米Anthropicの「Claude Fable 5」を上回る成績も示した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 36
+    },
+    {
       "title": "強気値上げで自爆か ClaudeやGeminiに押され「M365 Copilot」は一人負け？：888th Lap",
       "link": "https://kn.itmedia.co.jp/kn/articles/2607/17/news040.html",
       "date": "2026-07-17T07:00:00+09:00",
@@ -151,36 +184,47 @@
       "score": 36
     },
     {
-      "title": "LLMは何を考えているのか？「隠れた領域」が見つかった／シリコン量子ビットで大規模化の壁に挑む",
-      "link": "https://ascii.jp/elem/000/004/420/4420779/?rss",
-      "date": "2026-07-21T09:00:00+09:00",
-      "dateLabel": "07/21 09:00",
-      "desc": "世界最先端のテクノロジー情報をお届けするグローバルメディア「MITテクノロジーレビュー」から、ビジネスに役立つ注目のテック企業の最新動向、イノベーションにつながる最新の研究内容をピックアップして紹介します。",
-      "img": "https://ascii.jp/img/2026/07/20/4502914/s/f48c421a26023631.jpg",
-      "src": "ASCII.jp",
+      "title": "AI「Claude Fable 5」が87年来の難問「ヤコビアン予想」を覆す反例を生成したとAnthropic研究者が報告",
+      "link": "https://gigazine.net/news/20260721-claude-fable-5-jacobian-conjecture/",
+      "date": "2026-07-21T13:28:00+09:00",
+      "dateLabel": "07/21 13:28",
+      "desc": "Anthropicに所属する数学者レベント・アルポゲ氏が、AIモデル「Claude Fable 5」を使って87年間未解決だったヤコビアン予想の反例を発見したと報告しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 34
     },
     {
-      "title": "情報を外に出さない“完全クローズド”な社内ナレッジAI「ROOTA（ルータ）」を2026年7月31日にリリース",
-      "link": "https://ascii.jp/elem/000/004/420/4420801/?rss",
-      "date": "2026-07-21T08:00:00+09:00",
-      "dateLabel": "07/21 08:00",
-      "desc": "情報を外に出さない“完全クローズド”な社内ナレッジAI「ROOTA（ルータ）」を2026年7月31日にリリース",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "ドラクエと「Gemini」がコラボ 画像生成の“特別なテンプレ”提供、リアルイベント開催へ",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/21/2000000209/",
+      "date": "2026-07-21T13:22:13+09:00",
+      "dateLabel": "07/21 13:22",
+      "desc": "米Googleの日本法人は、AIサービス「Gemini」と「ドラゴンクエスト」のコラボキャンペーンを始めると発表した。Geminiの画像生成機能を活用するイベント「ジェミニクエスト」を開催するほか、アプリでは同イベントに連動したテンプレートも展開する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
-      "title": "IT技術者の8割超「AI生成コードには人間のレビューが必要」／「偽・誤情報を見破れる」と自信を持つ人はICTリテラシーテストの正答率が低い、ほか",
-      "link": "https://ascii.jp/elem/000/004/420/4420726/?rss",
-      "date": "2026-07-21T08:00:00+09:00",
-      "dateLabel": "07/21 08:00",
-      "desc": "今回（2026年7月11日～7月17日）は、世界13カ国で比較した日本企業のAI投資額や投資戦略、ITエンジニアのAI活用状況やAIコーディングへの態度、年間20％ペースで成長する国内iPaaS市場、偽情報／誤情報に触れた際の行動とICTリテラシーの関係についてのデータを紹介します。",
-      "img": "https://ascii.jp/img/2026/07/19/4502612/s/d469aa7b1390cf68.jpg",
+      "title": "Appleが企業秘密漏洩訴訟関連でOpenAIの社員数十人に法的文書を送付し警告",
+      "link": "https://gigazine.net/news/20260721-apple-send-letter-openai-employees/",
+      "date": "2026-07-21T12:51:00+09:00",
+      "dateLabel": "07/21 12:51",
+      "desc": "AppleはOpenAIに転職した社員らが自社の企業秘密を盗み出したとして訴訟を提起しています。これに関連し、AppleがOpenAIの別の社員に対して「弁護士と面会するように」と記した法的文書を送付していることが伝えられました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 34
+    },
+    {
+      "title": "「AI・人工知能EXPO NEO」に出展 ― 大企業の“全社AIネイティブ化”を支援する生成AIソリューション群を一挙公開",
+      "link": "https://ascii.jp/elem/000/004/420/4420955/?rss",
+      "date": "2026-07-21T11:51:30+09:00",
+      "dateLabel": "07/21 11:51",
+      "desc": "「AI・人工知能EXPO NEO」に出展 ― 大企業の“全社AIネイティブ化”を支援する生成AIソリューション群を一挙公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AI全般",
+      "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
@@ -237,50 +281,6 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 28
-    },
-    {
-      "title": "ビル・ゲイツが「エイズ(AIDS)終息に役立つ革新的な技術」について紹介",
-      "link": "https://gigazine.net/news/20260721-bill-gates-end-of-aids/",
-      "date": "2026-07-21T08:00:00+09:00",
-      "dateLabel": "07/21 08:00",
-      "desc": "Microsoft創業者であり世界有数の億万長者として知られるビル・ゲイツ氏は、元妻のメリンダ・ゲイツ氏とともにビル＆メリンダ・ゲイツ財団という慈善団体を立ち上げ、2045年までに全財産のほとんどを寄付することを発表するなど、慈善活動家としての側面も持っています。そんなゲイツ氏が自身のYouTubeチャンネルで、後天性免疫不全症候群(エイズ、AIDS)の終息",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "富士ソフトがエンジニア1万人超を「AIネイティブ」化 実装力を武器にフィジカルAIなど3本柱に注力",
-      "link": "https://ascii.jp/elem/000/004/420/4420734/?rss",
-      "date": "2026-07-21T07:30:00+09:00",
-      "dateLabel": "07/21 07:30",
-      "desc": "富士ソフトは現在、人月・プロジェクト型からオファリング（型化）型へのビジネスモデルの転換を進めている。7月16日に開催されたAI事業戦略の説明会では、オファリングにAIを統合し、「フィジカルAI」「ビジネスAI」「エンジニアリングAI」の3本柱として展開していく方針が明かされた。",
-      "img": "https://ascii.jp/img/2026/07/19/4502646/s/d33b5b5b01a08b3a.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "中外製薬「社員1人にAIエージェント10体」作戦で成果倍増を目指す、AI使いこなし術",
-      "link": "https://kn.itmedia.co.jp/kn/articles/2607/10/news007.html",
-      "date": "2026-07-21T07:00:00+09:00",
-      "dateLabel": "07/21 07:00",
-      "desc": "製薬はコストも高く成功率も低い苛烈な業界だ。一方で、AIの活用により費用を1200億から半減、成功率を10倍にできるという試算もある。中外製薬はそのような業界の中で、AIにより2030年に研究開発の成果を倍増するという計画を掲げた。その秘策とは。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "「AIに期待」65％も「明確な成果」16％、製造業の多くがPoC止まりの理由は",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/21/news048.html",
-      "date": "2026-07-21T06:30:00+09:00",
-      "dateLabel": "07/21 06:30",
-      "desc": "primeNumberが「AI・データ活用実態調査 2026」を公開した。AIへの高い期待に対し、明確な成果を得た企業は16.4％にとどまる。成果を左右する原因や、製造業でPoC止まりが多発する構造的課題を同社に聞いた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI実装",
-      "score": 26
     }
   ]
 }
