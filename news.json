@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-22T01:15:39.012520+09:00",
-  "generatedLabel": "2026/07/22 01:15",
+  "generatedAt": "2026-07-22T03:09:34.385376+09:00",
+  "generatedLabel": "2026/07/22 03:09",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 54,
@@ -261,17 +261,6 @@
       "score": 34
     },
     {
-      "title": "AIエージェント導入の企業判断はROIで見極める！経営リスクも解説",
-      "link": "https://ainow.ai/2026/07/21/278263/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e5%25b0%258e%25e5%2585%25a5%25e3%2581%25ae%25e4%25bc%2581%25e6%25a5%25ad%25e5%2588%25a4%25e6%2596%25ad%25e3%2581%25afroi%25e3%2581%25a7%25e8%25a6%258b%25e6%25a5%25b5%25e3%2582%2581%25e3%2582%258b%25ef%25bc%2581%25e7%25b5%258c",
-      "date": "2026-07-21T01:57:38+09:00",
-      "dateLabel": "07/21 01:57",
-      "desc": "現場やDX推進部門からAIエージェント導入の提案を受けたものの、投資に見合うリターンがあるか判断できず、決裁に踏み切れずにいる経営層は少なくありません。 判断基準を持たないまま決裁すると、費用ばかりかさみ成果が出ない事態... The post AIエージェント導入の企業判断はROIで見極める！経営リスクも解説 first appeared on AI専門ニ",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場",
       "link": "https://www.publickey1.jp/blog/26/claude_codeclaude_apps_gateway_for_awsgoogle_cloud.html",
       "date": "2026-07-21T00:54:57+09:00",
@@ -281,6 +270,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 34
+    },
+    {
+      "title": "Google、「NotebookLM」を「Gemini Notebook」に改称 Geminiエコシステムへの統合を強化",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/17/news062.html",
+      "date": "2026-07-17T08:21:00+09:00",
+      "dateLabel": "07/17 08:21",
+      "desc": "Googleは、AI搭載リサーチツール「NotebookLM」の名称を「Gemini Notebook」に変更すると発表した。機能は単体製品として維持しつつ、エコシステム全体で広く機能するようになる。安全なクラウドコンピュータの割り当てによるデータ分析機能などの大型アップデートも展開中で、この機能は今後全Proユーザーへ提供される見込みだ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 28
     }
   ]
 }
