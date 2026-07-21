@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-21T16:33:01.867784+09:00",
-  "generatedLabel": "2026/07/21 16:33",
+  "generatedAt": "2026-07-21T19:14:57.645422+09:00",
+  "generatedLabel": "2026/07/21 19:14",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -195,6 +195,17 @@
       "score": 36
     },
     {
+      "title": "『VF CROSSROADS』をNVIDIA RTX Sparkで披露！セガとNVIDIAが秋葉原で開催した特別イベントのレポートが到着",
+      "link": "https://ascii.jp/elem/000/004/421/4421076/?rss",
+      "date": "2026-07-21T17:15:00+09:00",
+      "dateLabel": "07/21 17:15",
+      "desc": "セガは、2026年7月15日にNVIDIA主催のゲーマーイベントに参加。本イベントはNVIDIAの創業者／CEOであるジェンスン フアン氏の来日にあたって実施された特別イベント。そのイベントレポートが到着したので、お届けしよう。",
+      "img": "https://ascii.jp/img/2026/07/21/4503214/s/2d6bf9fb3f13cf46.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
       "title": "OpenAIが長時間動作するAIモデルの問題を公表、サンドボックスを回避した未公開モデルへの社内アクセスを一時停止",
       "link": "https://gigazine.net/news/20260721-openai-ai-trained-for-long-running-tasks/",
       "date": "2026-07-21T15:35:00+09:00",
@@ -203,17 +214,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "AI動画編集ソフト「HitPaw Edimakor Ver.5.1.1」公開｜AIアバターと動画高画質化を強化",
-      "link": "https://ascii.jp/elem/000/004/421/4421035/?rss",
-      "date": "2026-07-21T15:09:51+09:00",
-      "dateLabel": "07/21 15:09",
-      "desc": "AI動画編集ソフト「HitPaw Edimakor Ver.5.1.1」公開｜AIアバターと動画高画質化を強化",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
