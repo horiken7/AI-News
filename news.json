@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-21T19:14:57.645422+09:00",
-  "generatedLabel": "2026/07/21 19:14",
+  "generatedAt": "2026-07-21T21:19:28.196139+09:00",
+  "generatedLabel": "2026/07/21 21:19",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 53,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 1
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -195,14 +195,14 @@
       "score": 36
     },
     {
-      "title": "『VF CROSSROADS』をNVIDIA RTX Sparkで披露！セガとNVIDIAが秋葉原で開催した特別イベントのレポートが到着",
-      "link": "https://ascii.jp/elem/000/004/421/4421076/?rss",
-      "date": "2026-07-21T17:15:00+09:00",
-      "dateLabel": "07/21 17:15",
-      "desc": "セガは、2026年7月15日にNVIDIA主催のゲーマーイベントに参加。本イベントはNVIDIAの創業者／CEOであるジェンスン フアン氏の来日にあたって実施された特別イベント。そのイベントレポートが到着したので、お届けしよう。",
-      "img": "https://ascii.jp/img/2026/07/21/4503214/s/2d6bf9fb3f13cf46.jpg",
+      "title": "「JAM Project」のプレミアムLIVEも実施！「スーパーロボット大戦」35周年記念生配信が8月1日20時より配信決定",
+      "link": "https://ascii.jp/elem/000/004/421/4421110/?rss",
+      "date": "2026-07-21T19:20:00+09:00",
+      "dateLabel": "07/21 19:20",
+      "desc": "2026年7月21日、バンダイナムコエンターテインメントは「スーパーロボット大戦」35周年記念生配信を8月1日20時より実施すると発表。",
+      "img": "https://ascii.jp/img/2026/07/21/4503300/s/3022517979fc8036.jpg",
       "src": "ASCII.jp",
-      "cat": "半導体/GPU",
+      "cat": "AI実装",
       "score": 34
     },
     {
