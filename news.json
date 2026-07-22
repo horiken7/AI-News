@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-22T08:48:00.734390+09:00",
-  "generatedLabel": "2026/07/22 08:48",
+  "generatedAt": "2026-07-22T10:43:06.855319+09:00",
+  "generatedLabel": "2026/07/22 10:43",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 58,
+  "candidates": 59,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 17
+      "items": 16
     },
     {
       "source": "CNET Japan",
@@ -62,6 +62,17 @@
     }
   ],
   "articles": [
+    {
+      "title": "MicrosoftとMistralが戦略的提携を拡大 欧州でのAIインフラ拡張とモデル展開を加速",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/22/news066.html",
+      "date": "2026-07-22T10:22:00+09:00",
+      "dateLabel": "07/22 10:22",
+      "desc": "MicrosoftとMistralは戦略的提携を拡大すると発表した。Mistralの最新モデルをMicrosoftの各プラットフォームへ展開するほか、欧州でのGPUインフラ拡張に向けて大規模な投資を行う。クラウドから完全オフラインまで多様な環境に対応し、規制業界での高度なAI導入と自社管理を支援する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 66
+    },
     {
       "title": "Claude Fable 5に匹敵する性能の中華AI「Kimi K3」が人気すぎてGPUが足りなくなり新規サブスク加入を一時停止する事態に、「Anthropicよりマシな対応」という声も",
       "link": "https://gigazine.net/news/20260721-kimi-k3-limit/",
@@ -116,6 +127,17 @@
       "src": "ITmedia AI+",
       "cat": "規制/安全",
       "score": 50
+    },
+    {
+      "title": "ジャック・ドーシー氏率いるBlock、AI協働プラットフォーム「Buzz」公開 SlackやGitHub依存からの脱却目指し",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/22/news058.html",
+      "date": "2026-07-22T09:32:00+09:00",
+      "dateLabel": "07/22 09:32",
+      "desc": "ジャック・ドーシー氏率いるBlockは、人間とAIエージェントが同じワークスペースで協働するオープンソースプラットフォーム「Buzz」を公開した。分散型プロトコル「Nostr」上に構築され、任意のLLMやエージェントを組み込める。各参加者が独立した暗号鍵ペアを持つことで識別と権限を管理し、オープンな協働環境の提供を目指す。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 42
     },
     {
       "title": "Hugging Face侵害のAIエージェントはOpenAIのモデル──社内のサイバー能力評価中に「GPT-5.6 Sol」などが暴走し本番DBに侵入",
@@ -184,26 +206,26 @@
       "score": 42
     },
     {
-      "title": "OpenAI、自律型AIが安全対策を回避する行動を学習する可能性を確認 内部展開を一時停止",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/21/2000000207/",
-      "date": "2026-07-21T09:33:06+09:00",
-      "dateLabel": "07/21 09:33",
-      "desc": "OpenAIは、長時間自律動作するAIモデルの安全性評価に関するブログを公開した。限定運用でサンドボックスの回避や認証トークンの難読化などの問題行動を確認したため、一時アクセスを停止。モデルの行動全体を監視する新たな安全対策を構築し、問題行動の検出・抑止を確認した上で内部利用を再開した。",
+      "title": "PTC、「Onshape」にAI機能を先行提供 早期アクセスプログラムを開始",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/22/news021.html",
+      "date": "2026-07-22T09:00:00+09:00",
+      "dateLabel": "07/22 09:00",
+      "desc": "米PTCは、クラウドネイティブCAD／PDMプラットフォーム「Onshape」の早期アクセスプログラム「Onshape Labs」を発表した。AIを活用した設計支援やレンダリングなどの新機能を一般提供に先駆けて試用できる。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "規制/安全",
-      "score": 42
+      "cat": "AI実装",
+      "score": 34
     },
     {
-      "title": "AMDとMicrosoftが戦略的提携を拡大 新AIラックスケール「Helios」をAzureに大規模導入へ",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/21/news051.html",
-      "date": "2026-07-21T07:33:00+09:00",
-      "dateLabel": "07/21 07:33",
-      "desc": "AMDは、Microsoftとの戦略的提携を拡大すると発表した。Microsoftはクラウドサービス「Azure」に、GPUやCPUを一体化したAMDのラックスケール製品「AMD Helios」を大規模に導入し、フロンティアAIモデルの推論処理などに活用する。Heliosは2026年後半から出荷が開始される予定だ。",
+      "title": "画面操作を録画→AIが作業代行 Claude新機能「Record a skill」 Codex対抗か",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/22/2000000213/",
+      "date": "2026-07-22T08:52:48+09:00",
+      "dateLabel": "07/22 08:52",
+      "desc": "発信元RSSに日本語の概要が含まれていないため、詳細は記事本文で確認してください。AI関連の重要トピックとして抽出しています。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 42
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "OpenAI会長、米国フロンティアモデルの優位性を強調 「オープンモデルは必ずしも安くない」",
@@ -250,36 +272,14 @@
       "score": 34
     },
     {
-      "title": "企業向けでAIツールで成長率トップはAnthropic、アカウント数が最も多いのはMicrosoft 365。Oktaが調査結果を発表",
-      "link": "https://www.publickey1.jp/blog/26/aianthropicmicrosoft_365okta.html",
-      "date": "2026-07-21T22:51:42+09:00",
-      "dateLabel": "07/21 22:51",
-      "desc": "アイデンティティ管理サービスを提供するOktaは、同社のサービスを用いている2万社以上の匿名化されたアクセスデータに基づく、企業でのAIツール利用実態について調査結果を発表しました。 成長率トップはAnthropic 1つ目の調査結果は、2...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "「JAM Project」のプレミアムLIVEも実施！「スーパーロボット大戦」35周年記念生配信が8月1日20時より配信決定",
-      "link": "https://ascii.jp/elem/000/004/421/4421110/?rss",
-      "date": "2026-07-21T19:20:00+09:00",
-      "dateLabel": "07/21 19:20",
-      "desc": "2026年7月21日、バンダイナムコエンターテインメントは「スーパーロボット大戦」35周年記念生配信を8月1日20時より実施すると発表。",
-      "img": "https://ascii.jp/img/2026/07/21/4503300/s/3022517979fc8036.jpg",
+      "title": "KKT合同会社が、AI英語学習アプリ「マグナとふしぎの少女」のミントフラッグ株式会社へ1億円強の投資実施",
+      "link": "https://ascii.jp/elem/000/004/421/4421131/?rss",
+      "date": "2026-07-22T02:21:34+09:00",
+      "dateLabel": "07/22 02:21",
+      "desc": "KKT合同会社が、AI英語学習アプリ「マグナとふしぎの少女」のミントフラッグ株式会社へ1億円強の投資実施",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 34
-    },
-    {
-      "title": "OpenAIが長時間動作するAIモデルの問題を公表、サンドボックスを回避した未公開モデルへの社内アクセスを一時停止",
-      "link": "https://gigazine.net/news/20260721-openai-ai-trained-for-long-running-tasks/",
-      "date": "2026-07-21T15:35:00+09:00",
-      "dateLabel": "07/21 15:35",
-      "desc": "OpenAIが長時間にわたって自律的に作業できる未公開AIモデルを社内で限定的に運用していた際、与えられた制限を回避して外部へアクセスしようとする行動を確認したと報告しました。同社はモデルの利用を一時停止し、一連の行動をまとめて監視する新たな安全対策を導入した上で、限定的な社内利用を再開しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
+      "cat": "AI全般",
       "score": 34
     }
   ]
