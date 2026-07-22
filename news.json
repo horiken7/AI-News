@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-22T13:58:45.182295+09:00",
-  "generatedLabel": "2026/07/22 13:58",
+  "generatedAt": "2026-07-22T16:33:25.530634+09:00",
+  "generatedLabel": "2026/07/22 16:33",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 64,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 11
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 17
     },
     {
       "source": "CNET Japan",
@@ -74,6 +74,28 @@
       "score": 66
     },
     {
+      "title": "NVIDIAがAIエージェント向けCPU「Vera」の詳細を公開、独自設計コアを88基搭載しDeepInfraの実測ではSapphire Rapids比2.2倍",
+      "link": "https://gigazine.net/news/20260722-nvidia-vera-cpu/",
+      "date": "2026-07-22T16:10:00+09:00",
+      "dateLabel": "07/22 16:10",
+      "desc": "NVIDIAがAIエージェントやAIデータセンター向けに開発したCPU「NVIDIA Vera CPU」の詳しい設計を公開しました。VeraはNVIDIAが独自設計したデータセンター向けCPUコア「Olympus」を88基搭載し、合計176スレッドを処理可能。Veraはすでに量産段階に入っており、2026年秋からシステムメーカーやクラウド事業者を通じて提供さ",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 50
+    },
+    {
+      "title": "Gemini 3.6 Flashのベンチマーク結果はこんな感じ",
+      "link": "https://gigazine.net/news/20260722-gemini-3-6-flash-benchmark/",
+      "date": "2026-07-22T16:00:00+09:00",
+      "dateLabel": "07/22 16:00",
+      "desc": "Googleは2026年7月21日に高速・低コストでの処理を重視したAIモデル「Gemini Flash」シリーズの新モデル「Gemini 3.6 Flash」を発表しました。そんなGemini 3.6 Flashを各種の第三者機関がベンチマーク計測した結果が多数報告されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
       "title": "Google、「Gemini 3.6 Flash」など3モデルを発表 出力トークンを削減しつつ値下げ、「Gemini 4」も予告",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/22/2000000212/",
       "date": "2026-07-22T07:07:13+09:00",
@@ -85,15 +107,48 @@
       "score": 50
     },
     {
-      "title": "Anthropic、著作権訴訟で史上最大「2400億円」和解金支払いへ 学習利用は「フェアユース」認定",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/21/2000000210/",
-      "date": "2026-07-21T14:43:10+09:00",
-      "dateLabel": "07/21 14:43",
-      "desc": "「Claude」の学習を巡り作家グループが米Anthropicを訴えた集団訴訟で、米連邦判事が15億ドル（約2400億円）の和解を最終承認した。米国の著作権訴訟では史上最大の和解額となる。",
+      "title": "Ciscoが脆弱性の場所を特定する小型AI「Antares」を公開、GPT-5.5級の性能を低コストで実現",
+      "link": "https://gigazine.net/news/20260722-cisco-antares/",
+      "date": "2026-07-22T16:08:00+09:00",
+      "dateLabel": "07/22 16:08",
+      "desc": "Ciscoが、ソースコード内で既知の脆弱(ぜいじゃく)性が存在する可能性の高いファイルを絞り込むことに特化した小規模言語モデル群「Antares」を発表しました。Antaresは大規模な汎用AIモデルより少ない計算資源で動作し、機密性の高いソースコードを外部のクラウドへ送ることなく、組織内の環境で分析できるよう設計されています。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
-      "score": 50
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "「Gemini 3.5 Proじゃないの？」 Googleの新AI発表に冷淡な反応も",
+      "link": "https://ascii.jp/elem/000/004/421/4421341/?rss",
+      "date": "2026-07-22T15:20:00+09:00",
+      "dateLabel": "07/22 15:20",
+      "desc": "グーグルは7月21日、生成AIモデル「Gemini 3.6 Flash」を発表した。コミュニティの評価は分かれている。",
+      "img": "https://ascii.jp/img/2026/07/22/4503684/s/3c7a506263f05f4c.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "GPT-5.6やClaude Mythosなどの最先端AIモデルがタスク完了のため「不正行為」に手を染めたとのレポート",
+      "link": "https://gigazine.net/news/20260722-cheating-behaviour-frontier-ai-model/",
+      "date": "2026-07-22T15:00:00+09:00",
+      "dateLabel": "07/22 15:00",
+      "desc": "最先端AIモデルはさまざまなタスクで優れた能力を発揮しますが、時にはユーザーが禁止・制限した方法でタスクを完了してしまう場合もあります。最先端AIモデルがそんな「不正行為」に手を染めるかどうかについて、イギリス政府のAI研究機関であるAI Security Institute(AISI)がOpenAIのGPTシリーズやAnthropicのClaudeシリーズ",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "AMDとマイクロソフト、AzureにおけるAIインフラの提携拡大を発表 次世代ラック「Helios」を導入へ",
+      "link": "https://ascii.jp/elem/000/004/421/4421321/?rss",
+      "date": "2026-07-22T14:45:00+09:00",
+      "dateLabel": "07/22 14:45",
+      "desc": "米AMDと米マイクロソフトは7月20日、クラウドプラットフォーム「Microsoft Azure」におけるAIインフラの強化に向け、長期的な戦略的パートナーシップを大幅に拡大すると発表した。",
+      "img": "https://ascii.jp/img/2026/07/22/4503668/s/b7edcf6653221daf.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 42
     },
     {
       "title": "ジャック・ドーシーのBlockが開発者向けグループチャット「Buzz」をリリース、SlackやGitHubへの依存を減らすことを目指すNostrベースの無料プラットフォーム",
@@ -115,17 +170,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "【神アプデ】iOS 27でついにSiriが賢くなる!? カメラまわりも一段と便利なベータ版レポ！",
-      "link": "https://ascii.jp/elem/000/004/421/4421122/?rss",
-      "date": "2026-07-22T12:00:00+09:00",
-      "dateLabel": "07/22 12:00",
-      "desc": "今秋公開の「iOS 27」パブリックベータ版レポート。Googleと連携したApple Intelligenceにより、Siri AIがひとつのUIで連続した会話をこなす賢いエージェントに進化。高度なAI写真編集、カメラからのカード一括管理、テキスト指示でのショートカット自動生成など実用的な機能が満載です。",
-      "img": "https://ascii.jp/img/2026/07/21/4503337/s/c7cf08c201328978.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -162,6 +206,50 @@
       "score": 42
     },
     {
+      "title": "Anthropic、著作権訴訟で史上最大「2400億円」和解金支払いへ 学習利用は「フェアユース」認定",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/21/2000000210/",
+      "date": "2026-07-21T14:43:10+09:00",
+      "dateLabel": "07/21 14:43",
+      "desc": "「Claude」の学習を巡り作家グループが米Anthropicを訴えた集団訴訟で、米連邦判事が15億ドル（約2400億円）の和解を最終承認した。米国の著作権訴訟では史上最大の和解額となる。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
+      "score": 42
+    },
+    {
+      "title": "iPad Pro・Air・mini対応の耐衝撃ケース発売 持ち運びに便利な新モデル",
+      "link": "https://ascii.jp/elem/000/004/421/4421344/?rss",
+      "date": "2026-07-22T16:00:00+09:00",
+      "dateLabel": "07/22 16:00",
+      "desc": "MIL規格準拠の耐衝撃設計を採用したiPad用フルプロテクトケースが登場。画面と本体をしっかり保護し、360度回転リングスタンドやショルダーベルトを搭載。11インチiPad Pro・Air、iPad、iPad mini対応モデルの特徴を紹介します。",
+      "img": "https://ascii.jp/img/2026/07/22/4503695/s/b314394faaa3b516.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 34
+    },
+    {
+      "title": "OpenAIのモデルがサイバー攻撃能力評価中に暴走 テストの答えを求めてHugging Faceに侵入",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/22/2000000214/",
+      "date": "2026-07-22T15:21:19+09:00",
+      "dateLabel": "07/22 15:21",
+      "desc": "OpenAIのAIモデルが、サイバー攻撃能力の評価中に隔離環境を突破し、Hugging Faceの本番インフラに侵入していたことが分かった。ベンチマークの解答を入手するため、ゼロデイ脆弱性の悪用や認証情報の窃取を重ねていたという。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "ACCA対策の日本語オンラインスクール、AI搭載の総合学習プラットフォームを公開",
+      "link": "https://ascii.jp/elem/000/004/421/4421366/?rss",
+      "date": "2026-07-22T14:00:00+09:00",
+      "dateLabel": "07/22 14:00",
+      "desc": "ACCA対策の日本語オンラインスクール、AI搭載の総合学習プラットフォームを公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "NVIDIAがAI動画を最大92％の精度で識別可能なツール「Synthetic Video Detector」を発表",
       "link": "https://gigazine.net/news/20260722-nvidia-synthetic-video-detector/",
       "date": "2026-07-22T12:05:00+09:00",
@@ -170,28 +258,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "JR九州が内製で挑む“車両保全”のDX 少人数運用×軽資格化の先にみるAI・CBMの未来",
-      "link": "https://ascii.jp/elem/000/004/420/4420816/?rss",
-      "date": "2026-07-22T12:00:00+09:00",
-      "dateLabel": "07/22 12:00",
-      "desc": "ソラコムのIoTカンファレンス「SORACOM Discovery 2026」では、車両の点検業務のデジタル化に内製で取り組むJR九州の松原大知氏が登壇。CBMやAI活用への展望まで語られたセッションの様子をお届けする。",
-      "img": "https://ascii.jp/img/2026/07/21/4502998/s/8aa78ff18874400c.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "AIでクマを識別しスマホに即時通知。スマートカメラで里山地区のクマ対策をサポートする「AIクラウドサービス」を提供開始。自治体の鳥獣被害対策にも。",
-      "link": "https://ascii.jp/elem/000/004/421/4421283/?rss",
-      "date": "2026-07-22T11:10:00+09:00",
-      "dateLabel": "07/22 11:10",
-      "desc": "AIでクマを識別しスマホに即時通知。スマートカメラで里山地区のクマ対策をサポートする「AIクラウドサービス」を提供開始。自治体の鳥獣被害対策にも。",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -214,72 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AI実装",
-      "score": 34
-    },
-    {
-      "title": "画面操作を録画→AIが作業代行 Claude新機能「Record a skill」 Codex対抗か",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/22/2000000213/",
-      "date": "2026-07-22T08:52:48+09:00",
-      "dateLabel": "07/22 08:52",
-      "desc": "発信元RSSに日本語の概要が含まれていないため、詳細は記事本文で確認してください。AI関連の重要トピックとして抽出しています。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "OpenAI会長、米国フロンティアモデルの優位性を強調 「オープンモデルは必ずしも安くない」",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/22/2000000211/",
-      "date": "2026-07-22T08:00:00+09:00",
-      "dateLabel": "07/22 08:00",
-      "desc": "OpenAIのブレット・テイラー会長がCNBCのインタビューで、中国発オープンウェイトモデルの台頭に「必ずしも実行コストが安いわけではない」と反論。トークン効率と推論効率で米フロンティアモデルの優位を強調した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "ブレストで膨らむ“隠れ人件費”を削れ 矢野経済がClaudeで挑む「30分で100アイデア」創出の威力",
-      "link": "https://www.itmedia.co.jp/business/articles/2607/22/news028.html",
-      "date": "2026-07-22T07:00:00+09:00",
-      "dateLabel": "07/22 07:00",
-      "desc": "矢野経済研究所が、独自の一次情報と高度AI「Claude」を融合させた新規事業アイデア創出支援サービス「AIDEL」を発表した。ブレインストーミングによる役員の時間拘束や「隠れ人件費」の膨張という企業の課題に対し、30分で100の具体案と評価スコアを自動生成。一般的な生成AIの弱点であるハルシネーションを排し、根拠のあるデータで日本企業の事業開発を劇的に加速",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "AnthropicがAIモデル「Claude」のトレーニングに海賊版書籍を使った件で作家グループと和解するも一部の著者は和解を拒否",
-      "link": "https://gigazine.net/news/20260722-anthropics-settlement-book-piracy-ai/",
-      "date": "2026-07-22T07:00:00+09:00",
-      "dateLabel": "07/22 07:00",
-      "desc": "現地時間の2026年7月20日、AI開発企業のAnthropicがAIトレーニングに海賊版サイトのデータを使ったとして作家グループに訴えられた裁判で、Anthropicと原告の和解案をカリフォルニア州北部地区連邦地方裁判所が承認しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "企業向けでAIツールで成長率トップはAnthropic、アカウント数が最も多いのはMicrosoft 365。Oktaが調査結果を発表",
-      "link": "https://www.publickey1.jp/blog/26/aianthropicmicrosoft_365okta.html",
-      "date": "2026-07-21T22:51:42+09:00",
-      "dateLabel": "07/21 22:51",
-      "desc": "アイデンティティ管理サービスを提供するOktaは、同社のサービスを用いている2万社以上の匿名化されたアクセスデータに基づく、企業でのAIツール利用実態について調査結果を発表しました。 成長率トップはAnthropic 1つ目の調査結果は、2...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "OpenAIが長時間動作するAIモデルの問題を公表、サンドボックスを回避した未公開モデルへの社内アクセスを一時停止",
-      "link": "https://gigazine.net/news/20260721-openai-ai-trained-for-long-running-tasks/",
-      "date": "2026-07-21T15:35:00+09:00",
-      "dateLabel": "07/21 15:35",
-      "desc": "OpenAIが長時間にわたって自律的に作業できる未公開AIモデルを社内で限定的に運用していた際、与えられた制限を回避して外部へアクセスしようとする行動を確認したと報告しました。同社はモデルの利用を一時停止し、一連の行動をまとめて監視する新たな安全対策を導入した上で、限定的な社内利用を再開しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 34
     }
   ]
