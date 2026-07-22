@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-22T16:33:25.530634+09:00",
-  "generatedLabel": "2026/07/22 16:33",
+  "generatedAt": "2026-07-22T19:14:40.453403+09:00",
+  "generatedLabel": "2026/07/22 19:14",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 64,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 11
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 17
+      "items": 18
     },
     {
       "source": "CNET Japan",
@@ -118,17 +118,6 @@
       "score": 42
     },
     {
-      "title": "「Gemini 3.5 Proじゃないの？」 Googleの新AI発表に冷淡な反応も",
-      "link": "https://ascii.jp/elem/000/004/421/4421341/?rss",
-      "date": "2026-07-22T15:20:00+09:00",
-      "dateLabel": "07/22 15:20",
-      "desc": "グーグルは7月21日、生成AIモデル「Gemini 3.6 Flash」を発表した。コミュニティの評価は分かれている。",
-      "img": "https://ascii.jp/img/2026/07/22/4503684/s/3c7a506263f05f4c.png",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "GPT-5.6やClaude Mythosなどの最先端AIモデルがタスク完了のため「不正行為」に手を染めたとのレポート",
       "link": "https://gigazine.net/news/20260722-cheating-behaviour-frontier-ai-model/",
       "date": "2026-07-22T15:00:00+09:00",
@@ -137,17 +126,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "AMDとマイクロソフト、AzureにおけるAIインフラの提携拡大を発表 次世代ラック「Helios」を導入へ",
-      "link": "https://ascii.jp/elem/000/004/421/4421321/?rss",
-      "date": "2026-07-22T14:45:00+09:00",
-      "dateLabel": "07/22 14:45",
-      "desc": "米AMDと米マイクロソフトは7月20日、クラウドプラットフォーム「Microsoft Azure」におけるAIインフラの強化に向け、長期的な戦略的パートナーシップを大幅に拡大すると発表した。",
-      "img": "https://ascii.jp/img/2026/07/22/4503668/s/b7edcf6653221daf.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 42
     },
     {
@@ -217,14 +195,36 @@
       "score": 42
     },
     {
-      "title": "iPad Pro・Air・mini対応の耐衝撃ケース発売 持ち運びに便利な新モデル",
-      "link": "https://ascii.jp/elem/000/004/421/4421344/?rss",
-      "date": "2026-07-22T16:00:00+09:00",
-      "dateLabel": "07/22 16:00",
-      "desc": "MIL規格準拠の耐衝撃設計を採用したiPad用フルプロテクトケースが登場。画面と本体をしっかり保護し、360度回転リングスタンドやショルダーベルトを搭載。11インチiPad Pro・Air、iPad、iPad mini対応モデルの特徴を紹介します。",
-      "img": "https://ascii.jp/img/2026/07/22/4503695/s/b314394faaa3b516.jpg",
+      "title": "中華AI「Qwen」の公式ページのソースに「hentai」が大量に含まれていることが判明",
+      "link": "https://gigazine.net/news/20260722-qwen-sensitive-keyword/",
+      "date": "2026-07-22T19:00:00+09:00",
+      "dateLabel": "07/22 19:00",
+      "desc": "中国の大手テクノロジー企業であるAlibabaはAI研究部門の「Qwen」を抱えており、大規模言語モデルや画像生成モデルなど数多くの高性能モデルをリリースしています。そんなQwenチームの公式サイトのソースに「hentai」などのセンシティブなキーワードが大量に含まれていることが発見されました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "株式会社Mavericksは、動画生成AI「NoLang」の動画編集画面で、テンポを調整するための機能を強化。シーン同士のインターバルの一括反映とシーン内へのポーズ挿入で、編集の自由度が拡大",
+      "link": "https://ascii.jp/elem/000/004/421/4421439/?rss",
+      "date": "2026-07-22T17:31:13+09:00",
+      "dateLabel": "07/22 17:31",
+      "desc": "株式会社Mavericksは、動画生成AI「NoLang」の動画編集画面で、テンポを調整するための機能を強化。シーン同士のインターバルの一括反映とシーン内へのポーズ挿入で、編集の自由度が拡大",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AI実装",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "1180億パラメーターで1.6兆パラメーターのDeepSeek-V4-Pro-Maxを超えるアメリカ製オープンモデル「Laguna S 2.1」が登場",
+      "link": "https://gigazine.net/news/20260722-ai-poolside-laguna-s/",
+      "date": "2026-07-22T17:22:00+09:00",
+      "dateLabel": "07/22 17:22",
+      "desc": "アメリカに拠点を置くAI開発企業のPoolsideが自社製モデル「Laguna S 2.1」を現地時間の2026年7月21日に発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -236,17 +236,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "ACCA対策の日本語オンラインスクール、AI搭載の総合学習プラットフォームを公開",
-      "link": "https://ascii.jp/elem/000/004/421/4421366/?rss",
-      "date": "2026-07-22T14:00:00+09:00",
-      "dateLabel": "07/22 14:00",
-      "desc": "ACCA対策の日本語オンラインスクール、AI搭載の総合学習プラットフォームを公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -280,6 +269,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AI実装",
+      "score": 34
+    },
+    {
+      "title": "画面操作を録画→AIが作業代行 Claude新機能「Record a skill」 Codex対抗か",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/22/2000000213/",
+      "date": "2026-07-22T08:52:48+09:00",
+      "dateLabel": "07/22 08:52",
+      "desc": "発信元RSSに日本語の概要が含まれていないため、詳細は記事本文で確認してください。AI関連の重要トピックとして抽出しています。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 34
     }
   ]
