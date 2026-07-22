@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-23T06:56:50.382485+09:00",
-  "generatedLabel": "2026/07/23 06:56",
+  "generatedAt": "2026-07-23T07:56:14.913349+09:00",
+  "generatedLabel": "2026/07/23 07:56",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 57,
+  "candidates": 59,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 17
+      "items": 18
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,28 @@
   ],
   "articles": [
     {
+      "title": "モナリザなどをAIに描かせて完成物やコスパを比較、特にGrokだけが飛び抜けて奇妙な結果に",
+      "link": "https://gigazine.net/news/20260723-drawing-mona-lisa-gpt-5.6-claude-gemini-grok/",
+      "date": "2026-07-23T07:00:00+09:00",
+      "dateLabel": "07/23 07:00",
+      "desc": "最先端のAIモデルを一カ所でまとめて試せるプラットフォームのTryAIが、Anthropicが2026年6月10日にリリースしたClaude Fable 5、OpenAIが2026年6月29日に発表したGPT-5.6 Sol、SpaceXAIが2026年7月9日にリリースしたGrok 4.5、Googleが2026年7月22日に発表したばかりのGemini ",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 66
+    },
+    {
+      "title": "AMDとAnthropicが戦略的提携 「Helios」を最大2GW導入、最大50億ドルの出資も",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/23/news063.html",
+      "date": "2026-07-23T06:55:00+09:00",
+      "dateLabel": "07/23 06:55",
+      "desc": "AMDは、Anthropicとの戦略的提携を発表した。AnthropicはAMDの「Helios」および「Instinct MI450」シリーズを最大2GW規模で導入し、2027年上半期から順次展開する。AMDは最大50億ドルの株式投資を行うほか、Claudeを活用したGPU環境の最適化やROCm開発での協業も推進する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 66
+    },
+    {
       "title": "MicrosoftとMistralが戦略的提携を拡大 欧州でのAIインフラ拡張とモデル展開を加速",
       "link": "https://www.itmedia.co.jp/news/articles/2607/22/news066.html",
       "date": "2026-07-22T10:22:00+09:00",
@@ -74,6 +96,17 @@
       "score": 66
     },
     {
+      "title": "NVIDIAフアンCEOが語る“日本復活”のシナリオ 10年続く半導体バブルと「原発活用」の勝算",
+      "link": "https://www.itmedia.co.jp/business/articles/2607/23/news041.html",
+      "date": "2026-07-23T07:00:00+09:00",
+      "dateLabel": "07/23 07:00",
+      "desc": "米NVIDIAのジェンスン・フアンCEOが来日し、日本経済の復活を宣言した。国内のAIインフラ構築へ数十億ドル規模の投資を発表。フアン氏は「何兆ものAIがAIを使う時代」の到来によって半導体需要は人口に制約されないと指摘。データセンターの電力不足に対して「原発活用」を日本の強みとして提言した。「材料科学で世界一」とする日本企業への信頼や、任天堂・岩田聡氏との",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 58
+    },
+    {
       "title": "アトラシアン、JiraがAIによる要件定義の自動作成、コンテキストを保持しつつタスクをClaudeやCopilotなどのAIエージェントへアサインなど新機能",
       "link": "https://www.publickey1.jp/blog/26/jiraaiclaudecopilotai.html",
       "date": "2026-07-23T00:35:19+09:00",
@@ -83,6 +116,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 58
+    },
+    {
+      "title": "採用メール対応を自動化するAIエージェント",
+      "link": "https://ascii.jp/elem/000/004/420/4420496/?rss",
+      "date": "2026-07-23T07:00:00+09:00",
+      "dateLabel": "07/23 07:00",
+      "desc": "株式会社SAIRAIは2026年7月7日、AI採用プラットフォーム「Tasonal」において、受信メールを自動で読み取り、返信文や面接候補日程の下書きを生成する新機能「採用メール対応AIエージェント」のβ版提供を開始した。",
+      "img": "https://ascii.jp/img/2026/07/17/4502086/s/1e0cfbab3713cd75.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 50
     },
     {
       "title": "NVIDIAがAIエージェント向けCPU「Vera」の詳細を公開、独自設計コアを88基搭載しDeepInfraの実測ではSapphire Rapids比2.2倍",
@@ -104,17 +148,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
-      "title": "Google、「Gemini 3.6 Flash」など3モデルを発表 出力トークンを削減しつつ値下げ、「Gemini 4」も予告",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/22/2000000212/",
-      "date": "2026-07-22T07:07:13+09:00",
-      "dateLabel": "07/22 07:07",
-      "desc": "Googleは、Geminiの「Flash」シリーズに「3.6 Flash」「3.5 Flash-Lite」「3.5 Flash Cyber」の3モデルを追加した。効率性と低遅延を追求し、AIエージェント構築に適した性能を備える。3.6 Flashは出力価格が引き下げられた。また、次世代モデル「Gemini 4」の開発着手も発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 50
     },
     {
@@ -173,11 +206,11 @@
       "score": 42
     },
     {
-      "title": "Hugging Face侵害のAIエージェントはOpenAIのモデル──社内のサイバー能力評価中に「GPT-5.6 Sol」などが暴走し本番DBに侵入",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/22/news056.html",
-      "date": "2026-07-22T07:45:00+09:00",
-      "dateLabel": "07/22 07:45",
-      "desc": "OpenAIは、Hugging Faceで発生したサイバーインシデントの原因が自社のAIモデルだったと発表した。社内評価中に安全機能を抑制した「GPT-5.6 Sol」などが隔離環境を突破し、ゼロデイ脆弱性を悪用して外部に侵入したという。OpenAIはインフラ管理の厳格化や防御支援などの再発防止策を挙げている。",
+      "title": "Google、「Gemini 3.6 Flash」など3モデルを発表 出力トークンを削減しつつ値下げ、「Gemini 4」も予告",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/22/2000000212/",
+      "date": "2026-07-22T07:07:13+09:00",
+      "dateLabel": "07/22 07:07",
+      "desc": "Googleは、Geminiの「Flash」シリーズに「3.6 Flash」「3.5 Flash-Lite」「3.5 Flash Cyber」の3モデルを追加した。効率性と低遅延を追求し、AIエージェント構築に適した性能を備える。3.6 Flashは出力価格が引き下げられた。また、次世代モデル「Gemini 4」の開発着手も発表した。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
@@ -247,39 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "OpenAIのモデルがサイバー攻撃能力評価中に暴走 テストの答えを求めてHugging Faceに侵入",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/22/2000000214/",
-      "date": "2026-07-22T15:21:19+09:00",
-      "dateLabel": "07/22 15:21",
-      "desc": "OpenAIのAIモデルが、サイバー攻撃能力の評価中に隔離環境を突破し、Hugging Faceの本番インフラに侵入していたことが分かった。ベンチマークの解答を入手するため、ゼロデイ脆弱性の悪用や認証情報の窃取を重ねていたという。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "NVIDIAがAI動画を最大92％の精度で識別可能なツール「Synthetic Video Detector」を発表",
-      "link": "https://gigazine.net/news/20260722-nvidia-synthetic-video-detector/",
-      "date": "2026-07-22T12:05:00+09:00",
-      "dateLabel": "07/22 12:05",
-      "desc": "NVIDIAは、AIで生成された可能性がある動画をフレーム単位で解析する「Synthetic Video Detector」を発表しました。報道機関や放送局などでの利用を想定したAIマイクロサービスで、非圧縮動画では最大92％の精度を記録し、1080p動画を最短22ミリ秒で処理できるとされています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "画像生成AI「Qwen-Image-3.0」が登場したので使ってみた、イラストや日本語テキストの描画性能はいかに",
-      "link": "https://gigazine.net/news/20260722-qwen-image-3/",
-      "date": "2026-07-22T11:06:00+09:00",
-      "dateLabel": "07/22 11:06",
-      "desc": "中国の大手テクノロジー企業であるAlibabaのAI研究チームが画像生成AI「Qwen-Image-3.0」をリリースしました。Qwen-Image-3.0は「小さな文字を含む画像」を生成することを得意としているほか、物体の質感を細かく表現することもできるとのこと。Qwen Studioのアカウントを作成すれば無料で使用可能だったので使ってみました。 続きを",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "生成AI/マルチモーダル",
       "score": 34
     }
   ]
