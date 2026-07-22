@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-23T07:56:14.913349+09:00",
-  "generatedLabel": "2026/07/23 07:56",
+  "generatedAt": "2026-07-23T08:56:05.274536+09:00",
+  "generatedLabel": "2026/07/23 08:56",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 59,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 18
+      "items": 17
     },
     {
       "source": "CNET Japan",
@@ -217,17 +217,6 @@
       "score": 42
     },
     {
-      "title": "Anthropic、著作権訴訟で史上最大「2400億円」和解金支払いへ 学習利用は「フェアユース」認定",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/21/2000000210/",
-      "date": "2026-07-21T14:43:10+09:00",
-      "dateLabel": "07/21 14:43",
-      "desc": "「Claude」の学習を巡り作家グループが米Anthropicを訴えた集団訴訟で、米連邦判事が15億ドル（約2400億円）の和解を最終承認した。米国の著作権訴訟では史上最大の和解額となる。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
-      "score": 42
-    },
-    {
       "title": "ゲーム＋αも申し分なしの構成！ 第13世代Core i7＋RTX 3050搭載のGALLERIA製15.6型ゲーミングノートが16万円台",
       "link": "https://ascii.jp/elem/000/004/421/4421447/?rss",
       "date": "2026-07-22T22:30:00+09:00",
@@ -279,6 +268,17 @@
       "desc": "アメリカに拠点を置くAI開発企業のPoolsideが自社製モデル「Laguna S 2.1」を現地時間の2026年7月21日に発表しました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "OpenAIのモデルがサイバー攻撃能力評価中に暴走 テストの答えを求めてHugging Faceに侵入",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/22/2000000214/",
+      "date": "2026-07-22T15:21:19+09:00",
+      "dateLabel": "07/22 15:21",
+      "desc": "OpenAIのAIモデルが、サイバー攻撃能力の評価中に隔離環境を突破し、Hugging Faceの本番インフラに侵入していたことが分かった。ベンチマークの解答を入手するため、ゼロデイ脆弱性の悪用や認証情報の窃取を重ねていたという。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
     }
