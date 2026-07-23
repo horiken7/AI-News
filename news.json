@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-24T06:56:37.194254+09:00",
-  "generatedLabel": "2026/07/24 06:56",
+  "generatedAt": "2026-07-24T07:50:20.808618+09:00",
+  "generatedLabel": "2026/07/24 07:50",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 58,
+  "candidates": 59,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 17
+      "items": 18
     },
     {
       "source": "CNET Japan",
@@ -74,17 +74,6 @@
       "score": 66
     },
     {
-      "title": "モナリザなどをAIに描かせて完成物やコスパを比較、特にGrokだけが飛び抜けて奇妙な結果に",
-      "link": "https://gigazine.net/news/20260723-drawing-mona-lisa-gpt-5.6-claude-gemini-grok/",
-      "date": "2026-07-23T07:00:00+09:00",
-      "dateLabel": "07/23 07:00",
-      "desc": "最先端のAIモデルを一カ所でまとめて試せるプラットフォームのTryAIが、Anthropicが2026年6月10日にリリースしたClaude Fable 5、OpenAIが2026年6月29日に発表したGPT-5.6 Sol、SpaceXAIが2026年7月9日にリリースしたGrok 4.5、Googleが2026年7月22日に発表したばかりのGemini ",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 66
-    },
-    {
       "title": "中国製高性能AI「Kimi K3」はClaude Fableの蒸留によって作られたとホワイトハウス高官が発言",
       "link": "https://gigazine.net/news/20260723-kimi-k3-distillation-anthropic/",
       "date": "2026-07-23T12:05:00+09:00",
@@ -96,14 +85,14 @@
       "score": 58
     },
     {
-      "title": "NVIDIAフアンCEOが語る“日本復活”のシナリオ 10年続く半導体バブルと「原発活用」の勝算",
-      "link": "https://www.itmedia.co.jp/business/articles/2607/23/news041.html",
+      "title": "モナリザなどをAIに描かせて完成物やコスパを比較、特にGrokだけが飛び抜けて奇妙な結果に",
+      "link": "https://gigazine.net/news/20260723-drawing-mona-lisa-gpt-5.6-claude-gemini-grok/",
       "date": "2026-07-23T07:00:00+09:00",
       "dateLabel": "07/23 07:00",
-      "desc": "米NVIDIAのジェンスン・フアンCEOが来日し、日本経済の復活を宣言した。国内のAIインフラ構築へ数十億ドル規模の投資を発表。フアン氏は「何兆ものAIがAIを使う時代」の到来によって半導体需要は人口に制約されないと指摘。データセンターの電力不足に対して「原発活用」を日本の強みとして提言した。「材料科学で世界一」とする日本企業への信頼や、任天堂・岩田聡氏との",
+      "desc": "最先端のAIモデルを一カ所でまとめて試せるプラットフォームのTryAIが、Anthropicが2026年6月10日にリリースしたClaude Fable 5、OpenAIが2026年6月29日に発表したGPT-5.6 Sol、SpaceXAIが2026年7月9日にリリースしたGrok 4.5、Googleが2026年7月22日に発表したばかりのGemini ",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 58
     },
     {
@@ -136,6 +125,17 @@
       "desc": "AI企業のAnthropicが半導体開発のAMDと戦略的パートナーシップを結びました。Anthropicは最大2GW分の「Instinct MI450」シリーズGPUを購入する予定です。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 50
+    },
+    {
+      "title": "NVIDIAフアンCEOが語る“日本復活”のシナリオ 10年続く半導体バブルと「原発活用」の勝算",
+      "link": "https://www.itmedia.co.jp/business/articles/2607/23/news041.html",
+      "date": "2026-07-23T07:00:00+09:00",
+      "dateLabel": "07/23 07:00",
+      "desc": "米NVIDIAのジェンスン・フアンCEOが来日し、日本経済の復活を宣言した。国内のAIインフラ構築へ数十億ドル規模の投資を発表。フアン氏は「何兆ものAIがAIを使う時代」の到来によって半導体需要は人口に制約されないと指摘。データセンターの電力不足に対して「原発活用」を日本の強みとして提言した。「材料科学で世界一」とする日本企業への信頼や、任天堂・岩田聡氏との",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "半導体/GPU",
       "score": 50
     },
