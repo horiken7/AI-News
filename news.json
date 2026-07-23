@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T00:01:30.213356+09:00",
-  "generatedLabel": "2026/07/24 00:01",
+  "generatedAt": "2026-07-24T02:09:06.897057+09:00",
+  "generatedLabel": "2026/07/24 02:09",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 58,
@@ -118,17 +118,6 @@
       "score": 58
     },
     {
-      "title": "アトラシアン、JiraがAIによる要件定義の自動作成、コンテキストを保持しつつタスクをClaudeやCopilotなどのAIエージェントへアサインなど新機能",
-      "link": "https://www.publickey1.jp/blog/26/jiraaiclaudecopilotai.html",
-      "date": "2026-07-23T00:35:19+09:00",
-      "dateLabel": "07/23 00:35",
-      "desc": "アトラシアンは、プロジェクト管理ツールとして知られるJiraに生成AI機能を組み込み、AIによる要件定義の自動作成、作業すべきタスクの洗い出し、そして各タスクをClaude CodeやGitHub Copilotなどへ割り当てる新機能を発表...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 58
-    },
-    {
       "title": "MicrosoftとMistralが戦略的提携を拡大 欧州でのAIインフラ拡張とモデル展開を加速",
       "link": "https://www.itmedia.co.jp/news/articles/2607/22/news066.html",
       "date": "2026-07-22T10:22:00+09:00",
@@ -148,6 +137,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
+      "score": 50
+    },
+    {
+      "title": "アトラシアン、JiraがAIによる要件定義の自動作成、コンテキストを保持しつつタスクをClaudeやCopilotなどのAIエージェントへアサインなど新機能",
+      "link": "https://www.publickey1.jp/blog/26/jiraaiclaudecopilotai.html",
+      "date": "2026-07-23T00:35:19+09:00",
+      "dateLabel": "07/23 00:35",
+      "desc": "アトラシアンは、プロジェクト管理ツールとして知られるJiraに生成AI機能を組み込み、AIによる要件定義の自動作成、作業すべきタスクの洗い出し、そして各タスクをClaude CodeやGitHub Copilotなどへ割り当てる新機能を発表...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
       "score": 50
     },
     {
@@ -269,7 +269,7 @@
       "img": "",
       "src": "Publickey",
       "cat": "AIエージェント/業務",
-      "score": 34
+      "score": 28
     },
     {
       "title": "不動産情報をAI改変した場合の情報開示義務付けなどをニューヨーク市長が提言",
