@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-23T20:00:08.036176+09:00",
-  "generatedLabel": "2026/07/23 20:00",
+  "generatedAt": "2026-07-23T21:25:00.004643+09:00",
+  "generatedLabel": "2026/07/23 21:25",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 58,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -129,17 +129,6 @@
       "score": 58
     },
     {
-      "title": "株式会社プエンテ、業務ノウハウをAIの「業務パック」に変える法人向けSaaS「知識の複利ループ」を提供開始 ─ 6業務・Claude/Codex/Gemini対応",
-      "link": "https://ascii.jp/elem/000/004/421/4421861/?rss",
-      "date": "2026-07-23T17:11:32+09:00",
-      "dateLabel": "07/23 17:11",
-      "desc": "株式会社プエンテ、業務ノウハウをAIの「業務パック」に変える法人向けSaaS「知識の複利ループ」を提供開始 ─ 6業務・Claude/Codex/Gemini対応",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
       "title": "AnthropicがAMDの最新世代チップ「Instinct MI450」を購入する最大50億ドルの投資契約が締結される",
       "link": "https://gigazine.net/news/20260723-amd-anthropic-partnership/",
       "date": "2026-07-23T13:20:00+09:00",
@@ -149,6 +138,17 @@
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
       "score": 50
+    },
+    {
+      "title": "Rust移行版の「Bun v1.4.0」が正式リリースに先駆けてClaude Codeへ組み込まれていたことが判明",
+      "link": "https://gigazine.net/news/20260723-claude-code-bun-in-rust/",
+      "date": "2026-07-23T21:00:00+09:00",
+      "dateLabel": "07/23 21:00",
+      "desc": "ソフトウェア開発者のサイモン・ウィリソン氏がAIコーディングツール「Claude Code」の実行ファイルを調べたところ、正式リリース前の「Bun v1.4.0」が組み込まれていることが分かりました。このBun v1.4.0は、従来のZig製コード約53万行をRustへ移植した新バージョンで、一般公開に先立ってClaude Code上で実際に使われていました",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "音声クローンが可能な音声合成AI「Qwen-Audio-3.0-TTS」が登場、日本語対応でGemini超えの性能",
@@ -181,17 +181,6 @@
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "NEC PC、法人向けPCブランドを「LAVIE」に統一！ AI PCなど新製品7機種を発表",
-      "link": "https://ascii.jp/elem/000/004/421/4421604/?rss",
-      "date": "2026-07-23T17:15:00+09:00",
-      "dateLabel": "07/23 17:15",
-      "desc": "NECパーソナルコンピュータ（NEC PC）は7月23日、法人向けPCの新製品全7機種を発表した。あわせて、同社法人向けPCブランドを「LAVIE」ブランドへと移行・統一し、新たなラインアップを展開する。",
-      "img": "https://ascii.jp/img/2026/07/23/4504212/s/59bea2ec1ee1cbcd.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -239,17 +228,6 @@
       "score": 34
     },
     {
-      "title": "AIモデルは1つに決めない方が安くて高性能、Kimi K3とFable 5の使い分けで最大50倍のコスト効率という実験結果",
-      "link": "https://gigazine.net/news/20260722-fireworks-kimi-k3-fable/",
-      "date": "2026-07-22T21:00:00+09:00",
-      "dateLabel": "07/22 21:00",
-      "desc": "生成AI基盤を提供するFireworks AIが、オープンモデルの「Kimi K3」とクローズドモデルの「Fable 5」を約1000件のタスクで比較しました。課題ごとに適したモデルを選ぶ方法では正答率が93％に達し、長時間にわたるエージェント型タスクではFable 5単独より最大で約50倍もコスト効率がよくなったとのことです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "ジャック・ドーシー氏率いるBlock、AI協働プラットフォーム「Buzz」公開 SlackやGitHub依存からの脱却目指し",
       "link": "https://www.itmedia.co.jp/news/articles/2607/22/news058.html",
       "date": "2026-07-22T09:32:00+09:00",
@@ -281,6 +259,28 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 34
+    },
+    {
+      "title": "ゲーム＋配信もこれ一台で！ Stream Deckと連携できるCORSAIR製多ボタンマウスが28％オフ",
+      "link": "https://ascii.jp/elem/000/004/421/4421796/?rss",
+      "date": "2026-07-23T21:00:00+09:00",
+      "dateLabel": "07/23 21:00",
+      "desc": "Amazon.co.jpにて、コルセアのワイヤレスゲーミングマウス「CORSAIR SCIMITAR ELITE WIRELESS SE」が販売中だ。参考価格は2万1980円だが、執筆時点では28％オフの1万5732円で購入できる（7月23日時点）。",
+      "img": "https://ascii.jp/img/2026/07/23/4504384/s/0d400527bafb6cd4.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "「検索結果は著作権法で保護される著作物ではない」と裁判所が判断してGoogleの訴えを却下",
+      "link": "https://gigazine.net/news/20260723-google-loses-lawsuit-against-serpapi/",
+      "date": "2026-07-23T19:30:00+09:00",
+      "dateLabel": "07/23 19:30",
+      "desc": "検索結果を不正に利用したとして、Googleが検索エンジンのAPIを取り扱うテック企業・SerpApiを訴えていた裁判で、カリフォルニア州北部地方裁判所は、GoogleによるDMCAの申し立てを却下しました。却下の理由として裁判所は「検索結果は著作権法で保護される著作物にあたらない」という判断を下しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 26
     }
   ]
 }
