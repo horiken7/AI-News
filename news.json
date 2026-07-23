@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-23T17:11:19.769807+09:00",
-  "generatedLabel": "2026/07/23 17:11",
+  "generatedAt": "2026-07-23T20:00:08.036176+09:00",
+  "generatedLabel": "2026/07/23 20:00",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 2
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -129,6 +129,17 @@
       "score": 58
     },
     {
+      "title": "株式会社プエンテ、業務ノウハウをAIの「業務パック」に変える法人向けSaaS「知識の複利ループ」を提供開始 ─ 6業務・Claude/Codex/Gemini対応",
+      "link": "https://ascii.jp/elem/000/004/421/4421861/?rss",
+      "date": "2026-07-23T17:11:32+09:00",
+      "dateLabel": "07/23 17:11",
+      "desc": "株式会社プエンテ、業務ノウハウをAIの「業務パック」に変える法人向けSaaS「知識の複利ループ」を提供開始 ─ 6業務・Claude/Codex/Gemini対応",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
       "title": "AnthropicがAMDの最新世代チップ「Instinct MI450」を購入する最大50億ドルの投資契約が締結される",
       "link": "https://gigazine.net/news/20260723-amd-anthropic-partnership/",
       "date": "2026-07-23T13:20:00+09:00",
@@ -151,17 +162,6 @@
       "score": 42
     },
     {
-      "title": "安くて高性能と評判！ RTX 5060＆メモリー32GBで20万円切りゲーミングPCを発見",
-      "link": "https://ascii.jp/elem/000/004/421/4421504/?rss",
-      "date": "2026-07-23T16:00:00+09:00",
-      "dateLabel": "07/23 16:00",
-      "desc": "Amazon.co.jpにて、TITAN GAMINGのゲーミングデスクトップPC「CX200M ブラック」が販売中だ。AMD「Ryzen 7 5700X」とNVIDIA「GeForce RTX 5060」を搭載したモデルで、価格は19万4000円。",
-      "img": "https://ascii.jp/img/2026/07/22/4503981/s/5a3fe3d3fe40e77d.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
       "title": "OpenAIとMicrosoftが科学研究へ巨額支援、AIがアメリカの国家的な科学インフラになりつつある",
       "link": "https://gigazine.net/news/20260723-genesis-mission-openai-microsoft/",
       "date": "2026-07-23T13:40:00+09:00",
@@ -173,15 +173,26 @@
       "score": 42
     },
     {
-      "title": "Google、「Gemini 3.6 Flash」など3モデルを発表 出力トークンを削減しつつ値下げ、「Gemini 4」も予告",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/22/2000000212/",
-      "date": "2026-07-22T07:07:13+09:00",
-      "dateLabel": "07/22 07:07",
-      "desc": "Googleは、Geminiの「Flash」シリーズに「3.6 Flash」「3.5 Flash-Lite」「3.5 Flash Cyber」の3モデルを追加した。効率性と低遅延を追求し、AIエージェント構築に適した性能を備える。3.6 Flashは出力価格が引き下げられた。また、次世代モデル「Gemini 4」の開発着手も発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
+      "title": "株式会社Mavericksは、動画生成AI「NoLang」の動画編集画面に図形機能を追加。四角形・円形・ハート・星形の4種の図形でテキストや画像に枠線・背景色の装飾を手軽に付与可能に",
+      "link": "https://ascii.jp/elem/000/004/421/4421858/?rss",
+      "date": "2026-07-23T18:01:23+09:00",
+      "dateLabel": "07/23 18:01",
+      "desc": "株式会社Mavericksは、動画生成AI「NoLang」の動画編集画面に図形機能を追加。四角形・円形・ハート・星形の4種の図形でテキストや画像に枠線・背景色の装飾を手軽に付与可能に",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "NEC PC、法人向けPCブランドを「LAVIE」に統一！ AI PCなど新製品7機種を発表",
+      "link": "https://ascii.jp/elem/000/004/421/4421604/?rss",
+      "date": "2026-07-23T17:15:00+09:00",
+      "dateLabel": "07/23 17:15",
+      "desc": "NECパーソナルコンピュータ（NEC PC）は7月23日、法人向けPCの新製品全7機種を発表した。あわせて、同社法人向けPCブランドを「LAVIE」ブランドへと移行・統一し、新たなラインアップを展開する。",
+      "img": "https://ascii.jp/img/2026/07/23/4504212/s/59bea2ec1ee1cbcd.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "OpenAIが報道機関の生成AI活用事例を公開、取材支援から読者向けサービスまで",
@@ -239,28 +250,6 @@
       "score": 34
     },
     {
-      "title": "中華AI「Qwen」の公式ページのソースに「hentai」が大量に含まれていることが判明",
-      "link": "https://gigazine.net/news/20260722-qwen-sensitive-keyword/",
-      "date": "2026-07-22T19:00:00+09:00",
-      "dateLabel": "07/22 19:00",
-      "desc": "中国の大手テクノロジー企業であるAlibabaはAI研究部門の「Qwen」を抱えており、大規模言語モデルや画像生成モデルなど数多くの高性能モデルをリリースしています。そんなQwenチームの公式サイトのソースに「hentai」などのセンシティブなキーワードが大量に含まれていることが発見されました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "1180億パラメーターで1.6兆パラメーターのDeepSeek-V4-Pro-Maxを超えるアメリカ製オープンモデル「Laguna S 2.1」が登場",
-      "link": "https://gigazine.net/news/20260722-ai-poolside-laguna-s/",
-      "date": "2026-07-22T17:22:00+09:00",
-      "dateLabel": "07/22 17:22",
-      "desc": "アメリカに拠点を置くAI開発企業のPoolsideが自社製モデル「Laguna S 2.1」を現地時間の2026年7月21日に発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "ジャック・ドーシー氏率いるBlock、AI協働プラットフォーム「Buzz」公開 SlackやGitHub依存からの脱却目指し",
       "link": "https://www.itmedia.co.jp/news/articles/2607/22/news058.html",
       "date": "2026-07-22T09:32:00+09:00",
@@ -279,6 +268,17 @@
       "desc": "OpenAIは、Hugging Faceで発生したサイバーインシデントの原因が自社のAIモデルだったと発表した。社内評価中に安全機能を抑制した「GPT-5.6 Sol」などが隔離環境を突破し、ゼロデイ脆弱性を悪用して外部に侵入したという。OpenAIはインフラ管理の厳格化や防御支援などの再発防止策を挙げている。",
       "img": "",
       "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場",
+      "link": "https://www.publickey1.jp/blog/26/claude_codeclaude_apps_gateway_for_awsgoogle_cloud.html",
+      "date": "2026-07-21T00:54:57+09:00",
+      "dateLabel": "07/21 00:54",
+      "desc": "AnthropicのAIコーディングエージェントClaud Codeは非常に人気のあるサービスとして多くの組織で採用され始めています。 Claude Codeは個人で簡単に導入できますが、企業が組織としてClaude Codeを導入する場合...",
+      "img": "",
+      "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 34
     }
