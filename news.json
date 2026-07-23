@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-23T08:56:05.274536+09:00",
-  "generatedLabel": "2026/07/23 08:56",
+  "generatedAt": "2026-07-23T10:58:22.287921+09:00",
+  "generatedLabel": "2026/07/23 10:58",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 58,
+  "candidates": 63,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 9
     },
     {
       "source": "PC Watch",
@@ -85,17 +85,6 @@
       "score": 66
     },
     {
-      "title": "MicrosoftとMistralが戦略的提携を拡大 欧州でのAIインフラ拡張とモデル展開を加速",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/22/news066.html",
-      "date": "2026-07-22T10:22:00+09:00",
-      "dateLabel": "07/22 10:22",
-      "desc": "MicrosoftとMistralは戦略的提携を拡大すると発表した。Mistralの最新モデルをMicrosoftの各プラットフォームへ展開するほか、欧州でのGPUインフラ拡張に向けて大規模な投資を行う。クラウドから完全オフラインまで多様な環境に対応し、規制業界での高度なAI導入と自社管理を支援する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 66
-    },
-    {
       "title": "NVIDIAフアンCEOが語る“日本復活”のシナリオ 10年続く半導体バブルと「原発活用」の勝算",
       "link": "https://www.itmedia.co.jp/business/articles/2607/23/news041.html",
       "date": "2026-07-23T07:00:00+09:00",
@@ -115,6 +104,17 @@
       "img": "",
       "src": "Publickey",
       "cat": "AIエージェント/業務",
+      "score": 58
+    },
+    {
+      "title": "MicrosoftとMistralが戦略的提携を拡大 欧州でのAIインフラ拡張とモデル展開を加速",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/22/news066.html",
+      "date": "2026-07-22T10:22:00+09:00",
+      "dateLabel": "07/22 10:22",
+      "desc": "MicrosoftとMistralは戦略的提携を拡大すると発表した。Mistralの最新モデルをMicrosoftの各プラットフォームへ展開するほか、欧州でのGPUインフラ拡張に向けて大規模な投資を行う。クラウドから完全オフラインまで多様な環境に対応し、規制業界での高度なAI導入と自社管理を支援する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
       "score": 58
     },
     {
@@ -195,17 +195,6 @@
       "score": 42
     },
     {
-      "title": "ジャック・ドーシー氏率いるBlock、AI協働プラットフォーム「Buzz」公開 SlackやGitHub依存からの脱却目指し",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/22/news058.html",
-      "date": "2026-07-22T09:32:00+09:00",
-      "dateLabel": "07/22 09:32",
-      "desc": "ジャック・ドーシー氏率いるBlockは、人間とAIエージェントが同じワークスペースで協働するオープンソースプラットフォーム「Buzz」を公開した。分散型プロトコル「Nostr」上に構築され、任意のLLMやエージェントを組み込める。各参加者が独立した暗号鍵ペアを持つことで識別と権限を管理し、オープンな協働環境の提供を目指す。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "Google、「Gemini 3.6 Flash」など3モデルを発表 出力トークンを削減しつつ値下げ、「Gemini 4」も予告",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/22/2000000212/",
       "date": "2026-07-22T07:07:13+09:00",
@@ -217,14 +206,58 @@
       "score": 42
     },
     {
-      "title": "ゲーム＋αも申し分なしの構成！ 第13世代Core i7＋RTX 3050搭載のGALLERIA製15.6型ゲーミングノートが16万円台",
-      "link": "https://ascii.jp/elem/000/004/421/4421447/?rss",
-      "date": "2026-07-22T22:30:00+09:00",
-      "dateLabel": "07/22 22:30",
-      "desc": "Amazon.co.jpにて、GALLERIAの15.6型ゲーミングノートPC「GALLERIA RL7C-R35-5N」が販売中だ。インテル「Core i7-13620H」とNVIDIA「GeForce RTX 3050」を搭載するモデルで、価格は16万4980円。",
-      "img": "https://ascii.jp/img/2026/07/22/4503854/s/957654a5a8b49584.jpg",
+      "title": "企業向けAIツールの成長率トップはAnthropic、アカウント数が最も多いのはMicrosoft 365 Okta調査",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/23/news076.html",
+      "date": "2026-07-23T10:19:00+09:00",
+      "dateLabel": "07/23 10:19",
+      "desc": "アイデンティティ管理サービスを提供する米Oktaは、同社のサービスを用いている2万社以上の匿名化されたアクセスデータに基づく、企業でのAIツール利用実態について調査結果を発表しました。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "株式会社リバネスナレッジは OpenAI Partner Network における「OpenAI Select Partner」に認定されました",
+      "link": "https://ascii.jp/elem/000/004/421/4421546/?rss",
+      "date": "2026-07-23T09:08:43+09:00",
+      "dateLabel": "07/23 09:08",
+      "desc": "株式会社リバネスナレッジは OpenAI Partner Network における「OpenAI Select Partner」に認定されました",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "半導体/GPU",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "NordLabsが疑わしいコンテンツをチェックするAIエージェ「NordBot」をリリース",
+      "link": "https://ascii.jp/elem/000/004/421/4421548/?rss",
+      "date": "2026-07-23T09:00:00+09:00",
+      "dateLabel": "07/23 09:00",
+      "desc": "NordLabsが疑わしいコンテンツをチェックするAIエージェ「NordBot」をリリース",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "60年の時を超え「COBOL」がGitHub Copilotでよみがえる 勘定系アプリの“超難関”モダナイに7社が挑戦",
+      "link": "https://ascii.jp/elem/000/004/416/4416209/?rss",
+      "date": "2026-07-23T09:00:00+09:00",
+      "dateLabel": "07/23 09:00",
+      "desc": "日本マイクロソフトは、GitHub CopilotとAzureを活用したハッカソンイベント「GitHub Copilot Quest Lv3：Hack the Legacy」を開催した。3回目となる今回のテーマは、60年以上前に生まれたプログラミング言語COBOLによる基幹システムのモダナイゼーションである。",
+      "img": "https://ascii.jp/img/2026/07/03/4494071/s/527580518a9977e0.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "【AIx個人情報検出】白金数理、日本語特化の軽量な個人情報検出モデルをオープンモデルとして公開",
+      "link": "https://ascii.jp/elem/000/004/421/4421553/?rss",
+      "date": "2026-07-23T08:30:00+09:00",
+      "dateLabel": "07/23 08:30",
+      "desc": "【AIx個人情報検出】白金数理、日本語特化の軽量な個人情報検出モデルをオープンモデルとして公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 34
     },
     {
@@ -239,17 +272,6 @@
       "score": 34
     },
     {
-      "title": "『FZ: Formation Z』とのコラボ機体を『R-TYPE FINAL 2』『R-TYPE FINAL 3 EVOLVED』にて7月23日に無料配信決定！",
-      "link": "https://ascii.jp/elem/000/004/421/4421492/?rss",
-      "date": "2026-07-22T19:20:00+09:00",
-      "dateLabel": "07/22 19:20",
-      "desc": "2026年7月22日、グランゼーラは、発売中の『R-TYPE FINAL 2』と『R-TYPE FINAL 3 EVOLVED』にて、『FZ: Formation Z』とのコラボレーションDLC「R-9Aix エクストラ・アロー」を、2026年7月23日0時より無料配信すると発表。",
-      "img": "https://ascii.jp/img/2026/07/22/4503902/s/e828823129b4e28c.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "中華AI「Qwen」の公式ページのソースに「hentai」が大量に含まれていることが判明",
       "link": "https://gigazine.net/news/20260722-qwen-sensitive-keyword/",
       "date": "2026-07-22T19:00:00+09:00",
@@ -257,28 +279,6 @@
       "desc": "中国の大手テクノロジー企業であるAlibabaはAI研究部門の「Qwen」を抱えており、大規模言語モデルや画像生成モデルなど数多くの高性能モデルをリリースしています。そんなQwenチームの公式サイトのソースに「hentai」などのセンシティブなキーワードが大量に含まれていることが発見されました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "1180億パラメーターで1.6兆パラメーターのDeepSeek-V4-Pro-Maxを超えるアメリカ製オープンモデル「Laguna S 2.1」が登場",
-      "link": "https://gigazine.net/news/20260722-ai-poolside-laguna-s/",
-      "date": "2026-07-22T17:22:00+09:00",
-      "dateLabel": "07/22 17:22",
-      "desc": "アメリカに拠点を置くAI開発企業のPoolsideが自社製モデル「Laguna S 2.1」を現地時間の2026年7月21日に発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "OpenAIのモデルがサイバー攻撃能力評価中に暴走 テストの答えを求めてHugging Faceに侵入",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/22/2000000214/",
-      "date": "2026-07-22T15:21:19+09:00",
-      "dateLabel": "07/22 15:21",
-      "desc": "OpenAIのAIモデルが、サイバー攻撃能力の評価中に隔離環境を突破し、Hugging Faceの本番インフラに侵入していたことが分かった。ベンチマークの解答を入手するため、ゼロデイ脆弱性の悪用や認証情報の窃取を重ねていたという。",
-      "img": "",
-      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
     }
