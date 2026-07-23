@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T05:10:55.906201+09:00",
-  "generatedLabel": "2026/07/24 05:10",
+  "generatedAt": "2026-07-24T06:56:37.194254+09:00",
+  "generatedLabel": "2026/07/24 06:56",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 58,
@@ -85,17 +85,6 @@
       "score": 66
     },
     {
-      "title": "AMDとAnthropicが戦略的提携 「Helios」を最大2GW導入、最大50億ドルの出資も",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/23/news063.html",
-      "date": "2026-07-23T06:55:00+09:00",
-      "dateLabel": "07/23 06:55",
-      "desc": "AMDは、Anthropicとの戦略的提携を発表した。AnthropicはAMDの「Helios」および「Instinct MI450」シリーズを最大2GW規模で導入し、2027年上半期から順次展開する。AMDは最大50億ドルの株式投資を行うほか、Claudeを活用したGPU環境の最適化やROCm開発での協業も推進する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 66
-    },
-    {
       "title": "中国製高性能AI「Kimi K3」はClaude Fableの蒸留によって作られたとホワイトハウス高官が発言",
       "link": "https://gigazine.net/news/20260723-kimi-k3-distillation-anthropic/",
       "date": "2026-07-23T12:05:00+09:00",
@@ -112,6 +101,17 @@
       "date": "2026-07-23T07:00:00+09:00",
       "dateLabel": "07/23 07:00",
       "desc": "米NVIDIAのジェンスン・フアンCEOが来日し、日本経済の復活を宣言した。国内のAIインフラ構築へ数十億ドル規模の投資を発表。フアン氏は「何兆ものAIがAIを使う時代」の到来によって半導体需要は人口に制約されないと指摘。データセンターの電力不足に対して「原発活用」を日本の強みとして提言した。「材料科学で世界一」とする日本企業への信頼や、任天堂・岩田聡氏との",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 58
+    },
+    {
+      "title": "AMDとAnthropicが戦略的提携 「Helios」を最大2GW導入、最大50億ドルの出資も",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/23/news063.html",
+      "date": "2026-07-23T06:55:00+09:00",
+      "dateLabel": "07/23 06:55",
+      "desc": "AMDは、Anthropicとの戦略的提携を発表した。AnthropicはAMDの「Helios」および「Instinct MI450」シリーズを最大2GW規模で導入し、2027年上半期から順次展開する。AMDは最大50億ドルの株式投資を行うほか、Claudeを活用したGPU環境の最適化やROCm開発での協業も推進する。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
@@ -149,6 +149,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 50
+    },
+    {
+      "title": "三井不動産がデータセンターに6000億円超投資、物流の枠超え「産業デベロッパー」へ",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/24/news046.html",
+      "date": "2026-07-24T06:15:00+09:00",
+      "dateLabel": "07/24 06:15",
+      "desc": "三井不動産は事業説明会で「産業デベロッパー」への領域拡大を発表した。従来の物流拠点供給にとどまらず、研究開発施設や自動運転対応を進める。データセンター事業には累計6000億円超を投じ、稼働済みの3棟に加え7棟を開発中だ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 42
     },
     {
       "title": "Rust移行版の「Bun v1.4.0」が正式リリースに先駆けてClaude Codeへ組み込まれていたことが判明",
@@ -255,17 +266,6 @@
       "date": "2026-07-22T09:32:00+09:00",
       "dateLabel": "07/22 09:32",
       "desc": "ジャック・ドーシー氏率いるBlockは、人間とAIエージェントが同じワークスペースで協働するオープンソースプラットフォーム「Buzz」を公開した。分散型プロトコル「Nostr」上に構築され、任意のLLMやエージェントを組み込める。各参加者が独立した暗号鍵ペアを持つことで識別と権限を管理し、オープンな協働環境の提供を目指す。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Hugging Face侵害のAIエージェントはOpenAIのモデル──社内のサイバー能力評価中に「GPT-5.6 Sol」などが暴走し本番DBに侵入",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/22/news056.html",
-      "date": "2026-07-22T07:45:00+09:00",
-      "dateLabel": "07/22 07:45",
-      "desc": "OpenAIは、Hugging Faceで発生したサイバーインシデントの原因が自社のAIモデルだったと発表した。社内評価中に安全機能を抑制した「GPT-5.6 Sol」などが隔離環境を突破し、ゼロデイ脆弱性を悪用して外部に侵入したという。OpenAIはインフラ管理の厳格化や防御支援などの再発防止策を挙げている。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
