@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-23T14:23:27.723115+09:00",
-  "generatedLabel": "2026/07/23 14:23",
+  "generatedAt": "2026-07-23T17:11:19.769807+09:00",
+  "generatedLabel": "2026/07/23 17:11",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 62,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 2
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 19
+      "items": 17
     },
     {
       "source": "CNET Japan",
@@ -62,17 +62,6 @@
     }
   ],
   "articles": [
-    {
-      "title": "AIエージェントの制御は「コンテンツレイヤー」で Boxが新AIセキュリティ機能群",
-      "link": "https://ascii.jp/elem/000/004/421/4421637/?rss",
-      "date": "2026-07-23T14:00:00+09:00",
-      "dateLabel": "07/23 14:00",
-      "desc": "Boxは、企業コンテンツを扱うAIエージェントを制御するための新たなセキュリティ・ガバナンス機能群を発表した。Box内で構築されたエージェントだけでなく、ClaudeやChatGPT、Geminiといったサードパーティ製エージェントに対しても、同機能群を適用可能だ。",
-      "img": "https://ascii.jp/img/2026/07/23/4504250/s/20bff9e136daf281.jpg",
-      "src": "ASCII.jp",
-      "cat": "規制/安全",
-      "score": 66
-    },
     {
       "title": "モナリザなどをAIに描かせて完成物やコスパを比較、特にGrokだけが飛び抜けて奇妙な結果に",
       "link": "https://gigazine.net/news/20260723-drawing-mona-lisa-gpt-5.6-claude-gemini-grok/",
@@ -151,36 +140,25 @@
       "score": 50
     },
     {
-      "title": "NVIDIAがAIエージェント向けCPU「Vera」の詳細を公開、独自設計コアを88基搭載しDeepInfraの実測ではSapphire Rapids比2.2倍",
-      "link": "https://gigazine.net/news/20260722-nvidia-vera-cpu/",
-      "date": "2026-07-22T16:10:00+09:00",
-      "dateLabel": "07/22 16:10",
-      "desc": "NVIDIAがAIエージェントやAIデータセンター向けに開発したCPU「NVIDIA Vera CPU」の詳しい設計を公開しました。VeraはNVIDIAが独自設計したデータセンター向けCPUコア「Olympus」を88基搭載し、合計176スレッドを処理可能。Veraはすでに量産段階に入っており、2026年秋からシステムメーカーやクラウド事業者を通じて提供さ",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
-      "title": "Gemini 3.6 Flashのベンチマーク結果はこんな感じ",
-      "link": "https://gigazine.net/news/20260722-gemini-3-6-flash-benchmark/",
-      "date": "2026-07-22T16:00:00+09:00",
-      "dateLabel": "07/22 16:00",
-      "desc": "Googleは2026年7月21日に高速・低コストでの処理を重視したAIモデル「Gemini Flash」シリーズの新モデル「Gemini 3.6 Flash」を発表しました。そんなGemini 3.6 Flashを各種の第三者機関がベンチマーク計測した結果が多数報告されています。 続きを読む...",
+      "title": "音声クローンが可能な音声合成AI「Qwen-Audio-3.0-TTS」が登場、日本語対応でGemini超えの性能",
+      "link": "https://gigazine.net/news/20260723-qwen-audio-3-tts/",
+      "date": "2026-07-23T16:51:00+09:00",
+      "dateLabel": "07/23 16:51",
+      "desc": "AlibabaのAI研究チームであるQwen(Tongyi Lab)が音声合成AI「Qwen-Audio-3.0-TTS」を2026年7月20日にリリースしました。参考音声とテキストを入力することで、任意の声で任意のテキストを読み上げさせることができます。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 50
+      "score": 42
     },
     {
-      "title": "中国AI「Kimi K3」、Fableを蒸留？ 米高官が主張",
-      "link": "https://ascii.jp/elem/000/004/421/4421641/?rss",
-      "date": "2026-07-23T13:45:00+09:00",
-      "dateLabel": "07/23 13:45",
-      "desc": "米ホワイトハウス科学技術政策局長のマイケル・クラツィオス氏は7月22日、中国のMoonshot AIが米Anthropic社の最新モデル「Fable」を大規模に蒸留して自社モデル「Kimi K3」の開発に活用したとする見解を示した。",
-      "img": "https://ascii.jp/img/2026/07/23/4504261/s/23c90f2a34e2e5d4.png",
+      "title": "安くて高性能と評判！ RTX 5060＆メモリー32GBで20万円切りゲーミングPCを発見",
+      "link": "https://ascii.jp/elem/000/004/421/4421504/?rss",
+      "date": "2026-07-23T16:00:00+09:00",
+      "dateLabel": "07/23 16:00",
+      "desc": "Amazon.co.jpにて、TITAN GAMINGのゲーミングデスクトップPC「CX200M ブラック」が販売中だ。AMD「Ryzen 7 5700X」とNVIDIA「GeForce RTX 5060」を搭載したモデルで、価格は19万4000円。",
+      "img": "https://ascii.jp/img/2026/07/22/4503981/s/5a3fe3d3fe40e77d.jpg",
       "src": "ASCII.jp",
-      "cat": "LLM/モデル",
+      "cat": "半導体/GPU",
       "score": 42
     },
     {
@@ -189,50 +167,6 @@
       "date": "2026-07-23T13:40:00+09:00",
       "dateLabel": "07/23 13:40",
       "desc": "OpenAIとMicrosoftがアメリカのエネルギー省が進める国家的な科学研究計画「ジェネシス・ミッション」への支援策を発表しました。Microsoftの6000万ドル(約98億円)の投資パッケージとOpenAIの計700万ドル(約11億円)分の利用支援を合わせると、合計100億円を超える金額の支援となっています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "AMDとAnthropic、戦略的パートナーシップを発表",
-      "link": "https://ascii.jp/elem/000/004/421/4421636/?rss",
-      "date": "2026-07-23T13:10:00+09:00",
-      "dateLabel": "07/23 13:10",
-      "desc": "米AMDとAIスタートアップのAnthropicは7月22日、次世代AIインフラの構築に向けた戦略的パートナーシップを締結したと発表した。",
-      "img": "https://ascii.jp/img/2026/07/23/4504249/s/0c1ad1fefea4d424.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "ついに実機登場！ サムスン×Googleの「AIメガネ」がオシャレすぎてヤバい",
-      "link": "https://ascii.jp/elem/000/004/421/4421524/?rss",
-      "date": "2026-07-23T13:00:00+09:00",
-      "dateLabel": "07/23 13:00",
-      "desc": "サムスンがGoogle協業の「インテリジェントアイウェア」実機を初公開しました。リアルタイム翻訳などを備え、有名ブランドの洗練されたデザインが魅力です。また、薄型化や電池増量、ヘルスケア機能を強化したスマートウォッチ「Galaxy Watch9」「Ultra2」も発表されました。",
-      "img": "https://ascii.jp/img/2026/07/23/4504051/s/e4dc1094d997d3f0.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 42
-    },
-    {
-      "title": "Pendo、AIエージェントの自律を最大化する新ソリューション「Pendo Agent Toolkit」を発表",
-      "link": "https://ascii.jp/elem/000/004/421/4421684/?rss",
-      "date": "2026-07-23T11:00:00+09:00",
-      "dateLabel": "07/23 11:00",
-      "desc": "Pendo、AIエージェントの自律を最大化する新ソリューション「Pendo Agent Toolkit」を発表",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "Ciscoが脆弱性の場所を特定する小型AI「Antares」を公開、GPT-5.5級の性能を低コストで実現",
-      "link": "https://gigazine.net/news/20260722-cisco-antares/",
-      "date": "2026-07-22T16:08:00+09:00",
-      "dateLabel": "07/22 16:08",
-      "desc": "Ciscoが、ソースコード内で既知の脆弱(ぜいじゃく)性が存在する可能性の高いファイルを絞り込むことに特化した小規模言語モデル群「Antares」を発表しました。Antaresは大規模な汎用AIモデルより少ない計算資源で動作し、機密性の高いソースコードを外部のクラウドへ送ることなく、組織内の環境で分析できるよう設計されています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
@@ -250,6 +184,17 @@
       "score": 42
     },
     {
+      "title": "OpenAIが報道機関の生成AI活用事例を公開、取材支援から読者向けサービスまで",
+      "link": "https://gigazine.net/news/20260723-openai-news-organizations-using-ai/",
+      "date": "2026-07-23T15:10:00+09:00",
+      "dateLabel": "07/23 15:10",
+      "desc": "OpenAIは2026年7月22日、世界各地の報道機関が生成AIをどのように活用しているのかという活用事例をまとめた記事を公開しました。記者による取材や情報確認を支援する仕組みだけでなく、過去記事を読者が探しやすくするサービスや広告営業を効率化するツールなど、生成AIが報道機関の幅広い業務に組み込まれていることが紹介されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "Markdownファイルが、AI時代の負債に？ Googleが提案する「ナレッジ標準化」の一手",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/23/news055.html",
       "date": "2026-07-23T13:00:00+09:00",
@@ -261,17 +206,6 @@
       "score": 34
     },
     {
-      "title": "ASUS新型ゲーミングPC発売 Core Ultra 9・RTX 5070搭載「TUF Gaming T700」登場",
-      "link": "https://ascii.jp/elem/000/004/421/4421541/?rss",
-      "date": "2026-07-23T11:30:00+09:00",
-      "dateLabel": "07/23 11:30",
-      "desc": "ASUS JAPANが約47LのミドルタワーゲーミングデスクトップPC「ASUS TUF Gaming T700(T700TL)」「ASUS TUF Gaming TM700(TM700TZ)」を7月23日に発売した。堅牢性、冷却性能、拡張性、AIノイズキャンセリングを備え、ASUS Storeから購入可能だ。",
-      "img": "https://ascii.jp/img/2026/07/23/4504118/s/6dc0526a1e79790e.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "SamsungがAndroid XR搭載のAIスマートグラスを発表、Geminiが音声でユーザーを支援",
       "link": "https://gigazine.net/news/20260723-samsung-intelligent-eyeware/",
       "date": "2026-07-23T11:17:00+09:00",
@@ -280,6 +214,72 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "企業向けAIツールの成長率トップはAnthropic、アカウント数が最も多いのはMicrosoft 365 Okta調査",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/23/news076.html",
+      "date": "2026-07-23T10:19:00+09:00",
+      "dateLabel": "07/23 10:19",
+      "desc": "アイデンティティ管理サービスを提供する米Oktaは、同社のサービスを用いている2万社以上の匿名化されたアクセスデータに基づく、企業でのAIツール利用実態について調査結果を発表しました。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "AIモデルは1つに決めない方が安くて高性能、Kimi K3とFable 5の使い分けで最大50倍のコスト効率という実験結果",
+      "link": "https://gigazine.net/news/20260722-fireworks-kimi-k3-fable/",
+      "date": "2026-07-22T21:00:00+09:00",
+      "dateLabel": "07/22 21:00",
+      "desc": "生成AI基盤を提供するFireworks AIが、オープンモデルの「Kimi K3」とクローズドモデルの「Fable 5」を約1000件のタスクで比較しました。課題ごとに適したモデルを選ぶ方法では正答率が93％に達し、長時間にわたるエージェント型タスクではFable 5単独より最大で約50倍もコスト効率がよくなったとのことです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "中華AI「Qwen」の公式ページのソースに「hentai」が大量に含まれていることが判明",
+      "link": "https://gigazine.net/news/20260722-qwen-sensitive-keyword/",
+      "date": "2026-07-22T19:00:00+09:00",
+      "dateLabel": "07/22 19:00",
+      "desc": "中国の大手テクノロジー企業であるAlibabaはAI研究部門の「Qwen」を抱えており、大規模言語モデルや画像生成モデルなど数多くの高性能モデルをリリースしています。そんなQwenチームの公式サイトのソースに「hentai」などのセンシティブなキーワードが大量に含まれていることが発見されました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "1180億パラメーターで1.6兆パラメーターのDeepSeek-V4-Pro-Maxを超えるアメリカ製オープンモデル「Laguna S 2.1」が登場",
+      "link": "https://gigazine.net/news/20260722-ai-poolside-laguna-s/",
+      "date": "2026-07-22T17:22:00+09:00",
+      "dateLabel": "07/22 17:22",
+      "desc": "アメリカに拠点を置くAI開発企業のPoolsideが自社製モデル「Laguna S 2.1」を現地時間の2026年7月21日に発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "ジャック・ドーシー氏率いるBlock、AI協働プラットフォーム「Buzz」公開 SlackやGitHub依存からの脱却目指し",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/22/news058.html",
+      "date": "2026-07-22T09:32:00+09:00",
+      "dateLabel": "07/22 09:32",
+      "desc": "ジャック・ドーシー氏率いるBlockは、人間とAIエージェントが同じワークスペースで協働するオープンソースプラットフォーム「Buzz」を公開した。分散型プロトコル「Nostr」上に構築され、任意のLLMやエージェントを組み込める。各参加者が独立した暗号鍵ペアを持つことで識別と権限を管理し、オープンな協働環境の提供を目指す。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "Hugging Face侵害のAIエージェントはOpenAIのモデル──社内のサイバー能力評価中に「GPT-5.6 Sol」などが暴走し本番DBに侵入",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/22/news056.html",
+      "date": "2026-07-22T07:45:00+09:00",
+      "dateLabel": "07/22 07:45",
+      "desc": "OpenAIは、Hugging Faceで発生したサイバーインシデントの原因が自社のAIモデルだったと発表した。社内評価中に安全機能を抑制した「GPT-5.6 Sol」などが隔離環境を突破し、ゼロデイ脆弱性を悪用して外部に侵入したという。OpenAIはインフラ管理の厳格化や防御支援などの再発防止策を挙げている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 34
     }
   ]
