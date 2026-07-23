@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-23T10:58:22.287921+09:00",
-  "generatedLabel": "2026/07/23 10:58",
+  "generatedAt": "2026-07-23T14:23:27.723115+09:00",
+  "generatedLabel": "2026/07/23 14:23",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 63,
+  "candidates": 62,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 9
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 17
+      "items": 19
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "AIエージェントの制御は「コンテンツレイヤー」で Boxが新AIセキュリティ機能群",
+      "link": "https://ascii.jp/elem/000/004/421/4421637/?rss",
+      "date": "2026-07-23T14:00:00+09:00",
+      "dateLabel": "07/23 14:00",
+      "desc": "Boxは、企業コンテンツを扱うAIエージェントを制御するための新たなセキュリティ・ガバナンス機能群を発表した。Box内で構築されたエージェントだけでなく、ClaudeやChatGPT、Geminiといったサードパーティ製エージェントに対しても、同機能群を適用可能だ。",
+      "img": "https://ascii.jp/img/2026/07/23/4504250/s/20bff9e136daf281.jpg",
+      "src": "ASCII.jp",
+      "cat": "規制/安全",
+      "score": 66
+    },
+    {
       "title": "モナリザなどをAIに描かせて完成物やコスパを比較、特にGrokだけが飛び抜けて奇妙な結果に",
       "link": "https://gigazine.net/news/20260723-drawing-mona-lisa-gpt-5.6-claude-gemini-grok/",
       "date": "2026-07-23T07:00:00+09:00",
@@ -83,6 +94,17 @@
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
       "score": 66
+    },
+    {
+      "title": "中国製高性能AI「Kimi K3」はClaude Fableの蒸留によって作られたとホワイトハウス高官が発言",
+      "link": "https://gigazine.net/news/20260723-kimi-k3-distillation-anthropic/",
+      "date": "2026-07-23T12:05:00+09:00",
+      "dateLabel": "07/23 12:05",
+      "desc": "中国企業のMoonshot AIは日本時間の2026年7月17日に高性能AIモデル「Kimi K3」をリリースしました。このKimi K3について、ホワイトハウス科学技術政策局のマイケル・クラツィオス局長が「AnthropicのClaude Fableを蒸留したという情報をつかんだ」と発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 58
     },
     {
       "title": "NVIDIAフアンCEOが語る“日本復活”のシナリオ 10年続く半導体バブルと「原発活用」の勝算",
@@ -118,14 +140,14 @@
       "score": 58
     },
     {
-      "title": "採用メール対応を自動化するAIエージェント",
-      "link": "https://ascii.jp/elem/000/004/420/4420496/?rss",
-      "date": "2026-07-23T07:00:00+09:00",
-      "dateLabel": "07/23 07:00",
-      "desc": "株式会社SAIRAIは2026年7月7日、AI採用プラットフォーム「Tasonal」において、受信メールを自動で読み取り、返信文や面接候補日程の下書きを生成する新機能「採用メール対応AIエージェント」のβ版提供を開始した。",
-      "img": "https://ascii.jp/img/2026/07/17/4502086/s/1e0cfbab3713cd75.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
+      "title": "AnthropicがAMDの最新世代チップ「Instinct MI450」を購入する最大50億ドルの投資契約が締結される",
+      "link": "https://gigazine.net/news/20260723-amd-anthropic-partnership/",
+      "date": "2026-07-23T13:20:00+09:00",
+      "dateLabel": "07/23 13:20",
+      "desc": "AI企業のAnthropicが半導体開発のAMDと戦略的パートナーシップを結びました。Anthropicは最大2GW分の「Instinct MI450」シリーズGPUを購入する予定です。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
       "score": 50
     },
     {
@@ -151,44 +173,66 @@
       "score": 50
     },
     {
+      "title": "中国AI「Kimi K3」、Fableを蒸留？ 米高官が主張",
+      "link": "https://ascii.jp/elem/000/004/421/4421641/?rss",
+      "date": "2026-07-23T13:45:00+09:00",
+      "dateLabel": "07/23 13:45",
+      "desc": "米ホワイトハウス科学技術政策局長のマイケル・クラツィオス氏は7月22日、中国のMoonshot AIが米Anthropic社の最新モデル「Fable」を大規模に蒸留して自社モデル「Kimi K3」の開発に活用したとする見解を示した。",
+      "img": "https://ascii.jp/img/2026/07/23/4504261/s/23c90f2a34e2e5d4.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "OpenAIとMicrosoftが科学研究へ巨額支援、AIがアメリカの国家的な科学インフラになりつつある",
+      "link": "https://gigazine.net/news/20260723-genesis-mission-openai-microsoft/",
+      "date": "2026-07-23T13:40:00+09:00",
+      "dateLabel": "07/23 13:40",
+      "desc": "OpenAIとMicrosoftがアメリカのエネルギー省が進める国家的な科学研究計画「ジェネシス・ミッション」への支援策を発表しました。Microsoftの6000万ドル(約98億円)の投資パッケージとOpenAIの計700万ドル(約11億円)分の利用支援を合わせると、合計100億円を超える金額の支援となっています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "AMDとAnthropic、戦略的パートナーシップを発表",
+      "link": "https://ascii.jp/elem/000/004/421/4421636/?rss",
+      "date": "2026-07-23T13:10:00+09:00",
+      "dateLabel": "07/23 13:10",
+      "desc": "米AMDとAIスタートアップのAnthropicは7月22日、次世代AIインフラの構築に向けた戦略的パートナーシップを締結したと発表した。",
+      "img": "https://ascii.jp/img/2026/07/23/4504249/s/0c1ad1fefea4d424.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "ついに実機登場！ サムスン×Googleの「AIメガネ」がオシャレすぎてヤバい",
+      "link": "https://ascii.jp/elem/000/004/421/4421524/?rss",
+      "date": "2026-07-23T13:00:00+09:00",
+      "dateLabel": "07/23 13:00",
+      "desc": "サムスンがGoogle協業の「インテリジェントアイウェア」実機を初公開しました。リアルタイム翻訳などを備え、有名ブランドの洗練されたデザインが魅力です。また、薄型化や電池増量、ヘルスケア機能を強化したスマートウォッチ「Galaxy Watch9」「Ultra2」も発表されました。",
+      "img": "https://ascii.jp/img/2026/07/23/4504051/s/e4dc1094d997d3f0.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 42
+    },
+    {
+      "title": "Pendo、AIエージェントの自律を最大化する新ソリューション「Pendo Agent Toolkit」を発表",
+      "link": "https://ascii.jp/elem/000/004/421/4421684/?rss",
+      "date": "2026-07-23T11:00:00+09:00",
+      "dateLabel": "07/23 11:00",
+      "desc": "Pendo、AIエージェントの自律を最大化する新ソリューション「Pendo Agent Toolkit」を発表",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "Ciscoが脆弱性の場所を特定する小型AI「Antares」を公開、GPT-5.5級の性能を低コストで実現",
       "link": "https://gigazine.net/news/20260722-cisco-antares/",
       "date": "2026-07-22T16:08:00+09:00",
       "dateLabel": "07/22 16:08",
       "desc": "Ciscoが、ソースコード内で既知の脆弱(ぜいじゃく)性が存在する可能性の高いファイルを絞り込むことに特化した小規模言語モデル群「Antares」を発表しました。Antaresは大規模な汎用AIモデルより少ない計算資源で動作し、機密性の高いソースコードを外部のクラウドへ送ることなく、組織内の環境で分析できるよう設計されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "GPT-5.6やClaude Mythosなどの最先端AIモデルがタスク完了のため「不正行為」に手を染めたとのレポート",
-      "link": "https://gigazine.net/news/20260722-cheating-behaviour-frontier-ai-model/",
-      "date": "2026-07-22T15:00:00+09:00",
-      "dateLabel": "07/22 15:00",
-      "desc": "最先端AIモデルはさまざまなタスクで優れた能力を発揮しますが、時にはユーザーが禁止・制限した方法でタスクを完了してしまう場合もあります。最先端AIモデルがそんな「不正行為」に手を染めるかどうかについて、イギリス政府のAI研究機関であるAI Security Institute(AISI)がOpenAIのGPTシリーズやAnthropicのClaudeシリーズ",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "ジャック・ドーシーのBlockが開発者向けグループチャット「Buzz」をリリース、SlackやGitHubへの依存を減らすことを目指すNostrベースの無料プラットフォーム",
-      "link": "https://gigazine.net/news/20260722-block-buzz/",
-      "date": "2026-07-22T13:40:00+09:00",
-      "dateLabel": "07/22 13:40",
-      "desc": "Twitter創業者として知られるジャック・ドーシー氏の企業「Block」が、開発者向けグループチャットの「Buzz」をリリースしました。ドーシー氏が多額の投資を行った分散型ネットワークプロトコル「Nostr」上に構築され、AIエージェントとの併用に重点が置かれています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "Googleが「Gemini 3.6 Flash」「Gemini 3.5 Flash-Lite」「Gemini 3.5 Flash Cyber」を発表、Gemini 4も開発中",
-      "link": "https://gigazine.net/news/20260722-google-gemini-3-6-flash/",
-      "date": "2026-07-22T12:02:00+09:00",
-      "dateLabel": "07/22 12:02",
-      "desc": "Googleが高速・低コストでの処理を重視したAIモデル「Gemini Flash」シリーズの新モデルとして、「Gemini 3.6 Flash」「Gemini 3.5 Flash-Lite」「Gemini 3.5 Flash Cyber」を2026年7月21日に発表しました。Gemini 3.6 Flashはコーディングや知識労働を改善した汎用モデル、Ge",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
@@ -206,77 +250,33 @@
       "score": 42
     },
     {
-      "title": "企業向けAIツールの成長率トップはAnthropic、アカウント数が最も多いのはMicrosoft 365 Okta調査",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/23/news076.html",
-      "date": "2026-07-23T10:19:00+09:00",
-      "dateLabel": "07/23 10:19",
-      "desc": "アイデンティティ管理サービスを提供する米Oktaは、同社のサービスを用いている2万社以上の匿名化されたアクセスデータに基づく、企業でのAIツール利用実態について調査結果を発表しました。",
+      "title": "Markdownファイルが、AI時代の負債に？ Googleが提案する「ナレッジ標準化」の一手",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/23/news055.html",
+      "date": "2026-07-23T13:00:00+09:00",
+      "dateLabel": "07/23 13:00",
+      "desc": "Google Cloudは、AIエージェントが利用するナレッジをMarkdownで標準化するオープンフォーマット「Open Knowledge Format」を公開した。ベンダー非依存で、異なるエージェント間でもナレッジをそのまま共有できる。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
-      "title": "株式会社リバネスナレッジは OpenAI Partner Network における「OpenAI Select Partner」に認定されました",
-      "link": "https://ascii.jp/elem/000/004/421/4421546/?rss",
-      "date": "2026-07-23T09:08:43+09:00",
-      "dateLabel": "07/23 09:08",
-      "desc": "株式会社リバネスナレッジは OpenAI Partner Network における「OpenAI Select Partner」に認定されました",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "NordLabsが疑わしいコンテンツをチェックするAIエージェ「NordBot」をリリース",
-      "link": "https://ascii.jp/elem/000/004/421/4421548/?rss",
-      "date": "2026-07-23T09:00:00+09:00",
-      "dateLabel": "07/23 09:00",
-      "desc": "NordLabsが疑わしいコンテンツをチェックするAIエージェ「NordBot」をリリース",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "title": "ASUS新型ゲーミングPC発売 Core Ultra 9・RTX 5070搭載「TUF Gaming T700」登場",
+      "link": "https://ascii.jp/elem/000/004/421/4421541/?rss",
+      "date": "2026-07-23T11:30:00+09:00",
+      "dateLabel": "07/23 11:30",
+      "desc": "ASUS JAPANが約47LのミドルタワーゲーミングデスクトップPC「ASUS TUF Gaming T700(T700TL)」「ASUS TUF Gaming TM700(TM700TZ)」を7月23日に発売した。堅牢性、冷却性能、拡張性、AIノイズキャンセリングを備え、ASUS Storeから購入可能だ。",
+      "img": "https://ascii.jp/img/2026/07/23/4504118/s/6dc0526a1e79790e.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
     },
     {
-      "title": "60年の時を超え「COBOL」がGitHub Copilotでよみがえる 勘定系アプリの“超難関”モダナイに7社が挑戦",
-      "link": "https://ascii.jp/elem/000/004/416/4416209/?rss",
-      "date": "2026-07-23T09:00:00+09:00",
-      "dateLabel": "07/23 09:00",
-      "desc": "日本マイクロソフトは、GitHub CopilotとAzureを活用したハッカソンイベント「GitHub Copilot Quest Lv3：Hack the Legacy」を開催した。3回目となる今回のテーマは、60年以上前に生まれたプログラミング言語COBOLによる基幹システムのモダナイゼーションである。",
-      "img": "https://ascii.jp/img/2026/07/03/4494071/s/527580518a9977e0.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "【AIx個人情報検出】白金数理、日本語特化の軽量な個人情報検出モデルをオープンモデルとして公開",
-      "link": "https://ascii.jp/elem/000/004/421/4421553/?rss",
-      "date": "2026-07-23T08:30:00+09:00",
-      "dateLabel": "07/23 08:30",
-      "desc": "【AIx個人情報検出】白金数理、日本語特化の軽量な個人情報検出モデルをオープンモデルとして公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "AIモデルは1つに決めない方が安くて高性能、Kimi K3とFable 5の使い分けで最大50倍のコスト効率という実験結果",
-      "link": "https://gigazine.net/news/20260722-fireworks-kimi-k3-fable/",
-      "date": "2026-07-22T21:00:00+09:00",
-      "dateLabel": "07/22 21:00",
-      "desc": "生成AI基盤を提供するFireworks AIが、オープンモデルの「Kimi K3」とクローズドモデルの「Fable 5」を約1000件のタスクで比較しました。課題ごとに適したモデルを選ぶ方法では正答率が93％に達し、長時間にわたるエージェント型タスクではFable 5単独より最大で約50倍もコスト効率がよくなったとのことです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "中華AI「Qwen」の公式ページのソースに「hentai」が大量に含まれていることが判明",
-      "link": "https://gigazine.net/news/20260722-qwen-sensitive-keyword/",
-      "date": "2026-07-22T19:00:00+09:00",
-      "dateLabel": "07/22 19:00",
-      "desc": "中国の大手テクノロジー企業であるAlibabaはAI研究部門の「Qwen」を抱えており、大規模言語モデルや画像生成モデルなど数多くの高性能モデルをリリースしています。そんなQwenチームの公式サイトのソースに「hentai」などのセンシティブなキーワードが大量に含まれていることが発見されました。 続きを読む...",
+      "title": "SamsungがAndroid XR搭載のAIスマートグラスを発表、Geminiが音声でユーザーを支援",
+      "link": "https://gigazine.net/news/20260723-samsung-intelligent-eyeware/",
+      "date": "2026-07-23T11:17:00+09:00",
+      "dateLabel": "07/23 11:17",
+      "desc": "Samsung Electronicsは2026年7月22日、ロンドンで開催したGalaxy Unpackedで、日常的に装着できるAI搭載スマートグラスを発表しました。GoogleのAndroid XRプラットフォームを採用し、Geminiと連携することで、スマートフォンの画面を見なくても音声やジェスチャーでAIの支援を受けられます。製品はアイウェアブラン",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
