@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-23T21:25:00.004643+09:00",
-  "generatedLabel": "2026/07/23 21:25",
+  "generatedAt": "2026-07-24T00:01:30.213356+09:00",
+  "generatedLabel": "2026/07/24 00:01",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 57,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -62,6 +62,17 @@
     }
   ],
   "articles": [
+    {
+      "title": "Kimi K3はAIエージェントのベンチマーク「AA-Briefcase」でFable 5に次ぐ2位の成績を達成、しかし実行コストはOpus 4.8よりも高くタスクあたり平均1時間近くかかる",
+      "link": "https://gigazine.net/news/20260723-kimi-k3-artifical-analysis/",
+      "date": "2026-07-23T23:00:00+09:00",
+      "dateLabel": "07/23 23:00",
+      "desc": "中国のAI企業・Moonshot AIが2026年7月17日に発表した2兆8000億パラメータの大規模モデル・Kimi K3は、一部のベンチマークテストでClaude Fable 5を超える性能を示したとして大きな注目を集めました。生成モデル比較サイトのArtifical Analysisが、Kimi K3のベンチマーク結果を公開しています。 続きを読む..",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 66
+    },
     {
       "title": "モナリザなどをAIに描かせて完成物やコスパを比較、特にGrokだけが飛び抜けて奇妙な結果に",
       "link": "https://gigazine.net/news/20260723-drawing-mona-lisa-gpt-5.6-claude-gemini-grok/",
@@ -261,25 +272,14 @@
       "score": 34
     },
     {
-      "title": "ゲーム＋配信もこれ一台で！ Stream Deckと連携できるCORSAIR製多ボタンマウスが28％オフ",
-      "link": "https://ascii.jp/elem/000/004/421/4421796/?rss",
-      "date": "2026-07-23T21:00:00+09:00",
-      "dateLabel": "07/23 21:00",
-      "desc": "Amazon.co.jpにて、コルセアのワイヤレスゲーミングマウス「CORSAIR SCIMITAR ELITE WIRELESS SE」が販売中だ。参考価格は2万1980円だが、執筆時点では28％オフの1万5732円で購入できる（7月23日時点）。",
-      "img": "https://ascii.jp/img/2026/07/23/4504384/s/0d400527bafb6cd4.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "「検索結果は著作権法で保護される著作物ではない」と裁判所が判断してGoogleの訴えを却下",
-      "link": "https://gigazine.net/news/20260723-google-loses-lawsuit-against-serpapi/",
-      "date": "2026-07-23T19:30:00+09:00",
-      "dateLabel": "07/23 19:30",
-      "desc": "検索結果を不正に利用したとして、Googleが検索エンジンのAPIを取り扱うテック企業・SerpApiを訴えていた裁判で、カリフォルニア州北部地方裁判所は、GoogleによるDMCAの申し立てを却下しました。却下の理由として裁判所は「検索結果は著作権法で保護される著作物にあたらない」という判断を下しています。 続きを読む...",
+      "title": "不動産情報をAI改変した場合の情報開示義務付けなどをニューヨーク市長が提言",
+      "link": "https://gigazine.net/news/20260723-nyc-rental-ripoff-report/",
+      "date": "2026-07-23T22:00:00+09:00",
+      "dateLabel": "07/23 22:00",
+      "desc": "不動産業者が物件写真の生成・加工にAIを使用し混乱を招く事態が発生する中、ニューヨーク市のゾーラン・クワメ・マムダニ市長が賃貸詐欺報告書を発表し、賃貸物件の情報がAIで改変されていた場合に情報を開示することを義務付けるなど23項目の政策措置を示しました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "規制/安全",
+      "cat": "AI全般",
       "score": 26
     }
   ]
