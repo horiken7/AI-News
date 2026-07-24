@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-25T07:54:29.287151+09:00",
-  "generatedLabel": "2026/07/25 07:54",
+  "generatedAt": "2026-07-25T08:55:18.956015+09:00",
+  "generatedLabel": "2026/07/25 08:55",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 56,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -62,6 +62,17 @@
     }
   ],
   "articles": [
+    {
+      "title": "Anthropic、「Claude Opus 5」公開 Fable 5に迫る性能を半額で――サイバー安全策は緩和、拒否時は自動フォールバックも",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/25/news016.html",
+      "date": "2026-07-25T07:28:00+09:00",
+      "dateLabel": "07/25 07:28",
+      "desc": "Anthropicは、最新LLM「Claude Opus 5」を公開した。上位モデル「Claude Fable 5」に迫る知能を半額の価格で提供する。プログラミングやナレッジワークにおいて高い評価を獲得し、推論の深さを調整するパラメータや安全性分類器に連動する自動フォールバック機能などを備える。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
+      "score": 74
+    },
     {
       "title": "Anthropic、「Claude Opus 5」発表 Fable 5級の性能を半額で",
       "link": "https://ascii.jp/elem/000/004/422/4422202/?rss",
@@ -270,17 +281,6 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 28
-    },
-    {
-      "title": "Switch 2ユーザー必携！ 本体やアクセサリー、AirTagも収納できるBelkin製収納ケースが3620円",
-      "link": "https://ascii.jp/elem/000/004/422/4422177/?rss",
-      "date": "2026-07-24T22:30:00+09:00",
-      "dateLabel": "07/24 22:30",
-      "desc": "Amazon.co.jpにて、Belkinの「Nintendo Switch 2 収納ケース」が販売中だ。価格は3620円。本体のほか、AirTagやゲームカードも収納できる。",
-      "img": "https://ascii.jp/img/2026/07/24/4505112/s/077b1200fada363f.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
     }
   ]
 }
