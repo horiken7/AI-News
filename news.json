@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-24T17:07:05.114764+09:00",
-  "generatedLabel": "2026/07/24 17:07",
+  "generatedAt": "2026-07-24T19:53:38.972971+09:00",
+  "generatedLabel": "2026/07/24 19:53",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 62,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 10
+      "items": 2
     },
     {
       "source": "PC Watch",
@@ -74,17 +74,6 @@
       "score": 66
     },
     {
-      "title": "ChatGPTに健康管理機能 Apple Healthや医療記録と連携",
-      "link": "https://ascii.jp/elem/000/004/422/4422055/?rss",
-      "date": "2026-07-24T15:00:00+09:00",
-      "dateLabel": "07/24 15:00",
-      "desc": "OpenAIは7月23日、ChatGPTに健康系のデータを取り込む新機能「Health in ChatGPT」を発表した。18歳以上の米国ユーザー向けに順次展開する。",
-      "img": "https://ascii.jp/img/2026/07/24/4504771/s/5459474dd7f1af3c.png",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 58
-    },
-    {
       "title": "Microsoft、GitHub CopilotやExcelで自社AIに切り替えへ――OpenAIやAnthropicのモデルは「引き続き併用」",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000219/",
       "date": "2026-07-24T12:03:56+09:00",
@@ -118,17 +107,6 @@
       "score": 50
     },
     {
-      "title": "NVIDIAフアンCEOが語る“日本復活”のシナリオ 10年続く半導体バブルと「原発活用」の勝算",
-      "link": "https://www.itmedia.co.jp/business/articles/2607/23/news041.html",
-      "date": "2026-07-23T07:00:00+09:00",
-      "dateLabel": "07/23 07:00",
-      "desc": "米NVIDIAのジェンスン・フアンCEOが来日し、日本経済の復活を宣言した。国内のAIインフラ構築へ数十億ドル規模の投資を発表。フアン氏は「何兆ものAIがAIを使う時代」の到来によって半導体需要は人口に制約されないと指摘。データセンターの電力不足に対して「原発活用」を日本の強みとして提言した。「材料科学で世界一」とする日本企業への信頼や、任天堂・岩田聡氏との",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
       "title": "アトラシアン、JiraがAIによる要件定義の自動作成、コンテキストを保持しつつタスクをClaudeやCopilotなどのAIエージェントへアサインなど新機能",
       "link": "https://www.publickey1.jp/blog/26/jiraaiclaudecopilotai.html",
       "date": "2026-07-23T00:35:19+09:00",
@@ -138,28 +116,6 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 50
-    },
-    {
-      "title": "「愚痴から始まる請求自動化」 地味に面倒な集計をビジネスチャットの会話から自動集計するアプリをAIで作ってみた",
-      "link": "https://ascii.jp/elem/000/004/421/4421555/?rss",
-      "date": "2026-07-24T15:30:00+09:00",
-      "dateLabel": "07/24 15:30",
-      "desc": "本連載は生成AIをこれから活用しようとしている方たちのために、生成AIの基本やコピペしてそのまま使えるプロンプトなどを紹介。兎にも角にも生成AIに触り始めることで、AIに対する理解を深め、AIスキルを身に着けて欲しい。第68回はClaudeを使って、ビジネスチャットの会話から納品物を集計、請求業務を自動化する方法について解説する。",
-      "img": "https://ascii.jp/img/2026/07/23/4504160/s/0f301944bc9a1b4f.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "バックオフィス自動化AI「ヤスラク」、「請求書受取」「工数管理」の2サービスのβ版を同時提供開始",
-      "link": "https://ascii.jp/elem/000/004/422/4422084/?rss",
-      "date": "2026-07-24T14:09:55+09:00",
-      "dateLabel": "07/24 14:09",
-      "desc": "バックオフィス自動化AI「ヤスラク」、「請求書受取」「工数管理」の2サービスのβ版を同時提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 42
     },
     {
       "title": "AMDが高速AI推論システムのCerebrasと提携して超低遅延AIシステムを2026年後半に出荷予定",
@@ -206,58 +162,36 @@
       "score": 42
     },
     {
-      "title": "Rust移行版の「Bun v1.4.0」が正式リリースに先駆けてClaude Codeへ組み込まれていたことが判明",
-      "link": "https://gigazine.net/news/20260723-claude-code-bun-in-rust/",
-      "date": "2026-07-23T21:00:00+09:00",
-      "dateLabel": "07/23 21:00",
-      "desc": "ソフトウェア開発者のサイモン・ウィリソン氏がAIコーディングツール「Claude Code」の実行ファイルを調べたところ、正式リリース前の「Bun v1.4.0」が組み込まれていることが分かりました。このBun v1.4.0は、従来のZig製コード約53万行をRustへ移植した新バージョンで、一般公開に先立ってClaude Code上で実際に使われていました",
+      "title": "AMDがサーバーCPU「EPYC 9006」やAIラックサーバー「Helios」などAIデータセンター向けの製品を発表",
+      "link": "https://gigazine.net/news/20260724-amd-advancing-ai-2026/",
+      "date": "2026-07-24T19:09:00+09:00",
+      "dateLabel": "07/24 19:09",
+      "desc": "日本時間の2026年7月24日にAMDがAI関連の製品発表イベント「Advancing AI 2026」の基調講演を実施し、サーバー向けCPU「EPYC 9006」やラックスケールシステム「Helios」などを発表しました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "Dify、AIエージェントの本番実装をテーマに「IF Con Tokyo 2026」開催",
+      "link": "https://ascii.jp/elem/000/004/422/4422169/?rss",
+      "date": "2026-07-24T18:32:54+09:00",
+      "dateLabel": "07/24 18:32",
+      "desc": "Dify、AIエージェントの本番実装をテーマに「IF Con Tokyo 2026」開催",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "AIにもサプライチェーン管理が必要？ 中国AI「Kimi K3」を巡る批判でAIの調達リスクが浮き彫りに",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news054.html",
+      "date": "2026-07-24T17:30:00+09:00",
+      "dateLabel": "07/24 17:30",
+      "desc": "中国の最新AIモデルを巡り、米政府高官が、Anthropicの「Claude Fable 5」をモデルの学習に利用した“不正蒸留”が行われていたと指摘した。AIモデルの調達や導入を巡るサプライチェーンリスクが浮き彫りとなっている。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "すべてが快適な王道ノート「MacBook Air M5」 15インチの作業領域はやっぱり魅力",
-      "link": "https://ascii.jp/elem/000/004/422/4422076/?rss",
-      "date": "2026-07-24T17:00:00+09:00",
-      "dateLabel": "07/24 17:00",
-      "desc": "Amazon.co.jpで「MacBook Air M5」が売れています。超高性能M5チップと、最大18時間フル稼働できる内蔵バッテリーを搭載したノートブックです。",
-      "img": "https://ascii.jp/img/2026/07/24/4504793/s/42d7d40f6324756e.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "ピンクでもふもふ！ カシオのAIペット「Moflin」に新色",
-      "link": "https://ascii.jp/elem/000/004/422/4422068/?rss",
-      "date": "2026-07-24T15:05:00+09:00",
-      "dateLabel": "07/24 15:05",
-      "desc": "カシオ計算機は7月24日、AIペットロボット「Moflin」の新色「さくら色」を発表した。発売日は9月4日で、予約は7月24日に開始した。想定実売価格は6万4900円。",
-      "img": "https://ascii.jp/img/2026/07/24/4504772/s/9d9306885083695f.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 34
-    },
-    {
-      "title": "「とりあえずAI」が失敗のもと？ 中小企業調査で見えた実態",
-      "link": "https://ascii.jp/elem/000/004/422/4422053/?rss",
-      "date": "2026-07-24T14:55:00+09:00",
-      "dateLabel": "07/24 14:55",
-      "desc": "スタディストは7月24日、従業員300名未満の企業で業務改善に携わった担当者200名を対象にした「300名未満の中小企業における業務改善実態調査」を公開した。",
-      "img": "https://ascii.jp/img/2026/07/24/4504757/s/455eb08142c275b0.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "日立、システム開発にAIを全面適用 要件定義で最大240倍の生産性を実証",
-      "link": "https://ascii.jp/elem/000/004/422/4422052/?rss",
-      "date": "2026-07-24T14:50:00+09:00",
-      "dateLabel": "07/24 14:50",
-      "desc": "日立製作所は7月24日、エンタープライズ向けシステムインテグレーションにAIを全面適用するプラットフォーム「Agentic AI Integration Platform」の開発を発表した。",
-      "img": "https://ascii.jp/img/2026/07/24/4504756/s/38e4c8834fc4f041.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -281,6 +215,72 @@
       "src": "GIGAZINE",
       "cat": "生成AI/マルチモーダル",
       "score": 34
+    },
+    {
+      "title": "経理AIエージェントの導入判断はRPAとの違いで見極める！メリットも解説",
+      "link": "https://ainow.ai/2026/07/24/278274/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%25b5%258c%25e7%2590%2586ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e5%25b0%258e%25e5%2585%25a5%25e5%2588%25a4%25e6%2596%25ad%25e3%2581%25afrpa%25e3%2581%25a8%25e3%2581%25ae%25e9%2581%2595%25e3%2581%2584%25e3%2581%25a7%25e8%25a6%258b%25e6%25a5%25b5",
+      "date": "2026-07-24T03:58:25+09:00",
+      "dateLabel": "07/24 03:58",
+      "desc": "経理の定型業務に追われながらも「AIエージェント」という言葉を耳にし、自社の経理にどう活かせるのか気になっている担当者は多いでしょう。 会計ソフトの自動化やRPAとの違いが曖昧なままでは、導入の是非を判断できません。経理... The post 経理AIエージェントの導入判断はRPAとの違いで見極める！メリットも解説 first appeared on AI",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場",
+      "link": "https://www.publickey1.jp/blog/26/claude_codeclaude_apps_gateway_for_awsgoogle_cloud.html",
+      "date": "2026-07-21T00:54:57+09:00",
+      "dateLabel": "07/21 00:54",
+      "desc": "AnthropicのAIコーディングエージェントClaud Codeは非常に人気のあるサービスとして多くの組織で採用され始めています。 Claude Codeは個人で簡単に導入できますが、企業が組織としてClaude Codeを導入する場合...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 28
+    },
+    {
+      "title": "アメリカのスタートアップ企業が「中国製のオープンウェイトAIを禁止しないで」とトランプ政権に訴えかける",
+      "link": "https://gigazine.net/news/20260724-us-startup-urge-trump-chinese-open-ai/",
+      "date": "2026-07-24T19:00:00+09:00",
+      "dateLabel": "07/24 19:00",
+      "desc": "スタートアップ企業を含む約200のAI関連企業が、「中国のオープンウェイトAIモデルへのアクセスを遮断すれば、次世代のスタートアップの競争力を損なう恐れがある」として、ドナルド・トランプ政権に対し公開書簡を送付しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "「金の課題」と「赤の課題」。AI導入を成果につなげる課題選定とは？",
+      "link": "https://ascii.jp/elem/000/004/422/4422172/?rss",
+      "date": "2026-07-24T18:06:01+09:00",
+      "dateLabel": "07/24 18:06",
+      "desc": "「金の課題」と「赤の課題」。AI導入を成果につなげる課題選定とは？",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "近畿大、入試にAIの利用認める 情報学部の総合型選抜で",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000221/",
+      "date": "2026-07-24T17:45:19+09:00",
+      "dateLabel": "07/24 17:45",
+      "desc": "近畿大学は、2027年度の情報学部の総合型選抜入学試験で、生成AIの利用を認めると発表した。提出する自己PR動画やプレゼンテーション資料などでのAIの利用方針を明示した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "生成AI/マルチモーダル",
+      "score": 26
+    },
+    {
+      "title": "メルカリ、「AI活用の最前線」明かす動画公開 「なぜCTOがCHRO兼CAIOになったのか」など13本",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000220/",
+      "date": "2026-07-24T15:23:26+09:00",
+      "dateLabel": "07/24 15:23",
+      "desc": "メルカリは、自社のAI活用について紹介する動画を公開した。7月8日に開催したイベント「Mercari AI Career Fes 2026」で実施したセッションのアーカイブ動画、全13本を公式YouTubeチャンネルで視聴できる。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 26
     }
   ]
 }
