@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-24T08:52:19.358265+09:00",
-  "generatedLabel": "2026/07/24 08:52",
+  "generatedAt": "2026-07-24T10:46:23.196815+09:00",
+  "generatedLabel": "2026/07/24 10:46",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 58,
+  "candidates": 59,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -85,17 +85,6 @@
       "score": 58
     },
     {
-      "title": "モナリザなどをAIに描かせて完成物やコスパを比較、特にGrokだけが飛び抜けて奇妙な結果に",
-      "link": "https://gigazine.net/news/20260723-drawing-mona-lisa-gpt-5.6-claude-gemini-grok/",
-      "date": "2026-07-23T07:00:00+09:00",
-      "dateLabel": "07/23 07:00",
-      "desc": "最先端のAIモデルを一カ所でまとめて試せるプラットフォームのTryAIが、Anthropicが2026年6月10日にリリースしたClaude Fable 5、OpenAIが2026年6月29日に発表したGPT-5.6 Sol、SpaceXAIが2026年7月9日にリリースしたGrok 4.5、Googleが2026年7月22日に発表したばかりのGemini ",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 58
-    },
-    {
       "title": "AMDとAnthropicが戦略的提携 「Helios」を最大2GW導入、最大50億ドルの出資も",
       "link": "https://www.itmedia.co.jp/news/articles/2607/23/news063.html",
       "date": "2026-07-23T06:55:00+09:00",
@@ -149,6 +138,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 50
+    },
+    {
+      "title": "「Geekbench 7」が登場、「CUDAでのGPU演算」「AV1での動画エンコード」「文字起こしAIで字幕生成」など現代的ワークフローのテストが追加される",
+      "link": "https://gigazine.net/news/20260724-geekbench-7/",
+      "date": "2026-07-24T10:34:00+09:00",
+      "dateLabel": "07/24 10:34",
+      "desc": "ベンチマークアプリ「Geekbench 7」が現地時間の2026年7月23日にリリースされました。2023年2月の「Geekbench 6」から3年半ぶりのメジャーアップデートで、テスト内容にAI処理などの現代的なワークフローが追加されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 42
     },
     {
       "title": "三井不動産がデータセンターに6000億円超投資、物流の枠超え「産業デベロッパー」へ",
@@ -206,17 +206,6 @@
       "score": 34
     },
     {
-      "title": "株式会社Mavericksは、動画生成AI「NoLang」の動画編集画面に図形機能を追加。四角形・円形・ハート・星形の4種の図形でテキストや画像に枠線・背景色の装飾を手軽に付与可能に",
-      "link": "https://ascii.jp/elem/000/004/421/4421858/?rss",
-      "date": "2026-07-23T18:01:23+09:00",
-      "dateLabel": "07/23 18:01",
-      "desc": "株式会社Mavericksは、動画生成AI「NoLang」の動画編集画面に図形機能を追加。四角形・円形・ハート・星形の4種の図形でテキストや画像に枠線・背景色の装飾を手軽に付与可能に",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
       "title": "OpenAIが報道機関の生成AI活用事例を公開、取材支援から読者向けサービスまで",
       "link": "https://gigazine.net/news/20260723-openai-news-organizations-using-ai/",
       "date": "2026-07-23T15:10:00+09:00",
@@ -250,28 +239,6 @@
       "score": 34
     },
     {
-      "title": "企業向けAIツールの成長率トップはAnthropic、アカウント数が最も多いのはMicrosoft 365 Okta調査",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/23/news076.html",
-      "date": "2026-07-23T10:19:00+09:00",
-      "dateLabel": "07/23 10:19",
-      "desc": "アイデンティティ管理サービスを提供する米Oktaは、同社のサービスを用いている2万社以上の匿名化されたアクセスデータに基づく、企業でのAIツール利用実態について調査結果を発表しました。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "ジャック・ドーシー氏率いるBlock、AI協働プラットフォーム「Buzz」公開 SlackやGitHub依存からの脱却目指し",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/22/news058.html",
-      "date": "2026-07-22T09:32:00+09:00",
-      "dateLabel": "07/22 09:32",
-      "desc": "ジャック・ドーシー氏率いるBlockは、人間とAIエージェントが同じワークスペースで協働するオープンソースプラットフォーム「Buzz」を公開した。分散型プロトコル「Nostr」上に構築され、任意のLLMやエージェントを組み込める。各参加者が独立した暗号鍵ペアを持つことで識別と権限を管理し、オープンな協働環境の提供を目指す。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場",
       "link": "https://www.publickey1.jp/blog/26/claude_codeclaude_apps_gateway_for_awsgoogle_cloud.html",
       "date": "2026-07-21T00:54:57+09:00",
@@ -281,6 +248,39 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 28
+    },
+    {
+      "title": "図面AIに「動かせる3Dモデル」の生成機能、関節や可動域を自動認識",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/24/news012.html",
+      "date": "2026-07-24T09:00:00+09:00",
+      "dateLabel": "07/24 09:00",
+      "desc": "renueは、2D図面から3D CADモデルを生成するAI「Drawing Agent」に、関節や可動域を読み取り、動かせる3Dモデルを生成する新機能「可動アセンブリ」を追加した。生成したモデルをAIが動かし、接合部の離れや回転中心のずれなども検証する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "4キャリア激突！ 「Galaxy Z Fold8/Flip8」販売戦略の狙いと裏側を各社に直撃",
+      "link": "https://ascii.jp/elem/000/004/421/4421864/?rss",
+      "date": "2026-07-24T09:00:00+09:00",
+      "dateLabel": "07/24 09:00",
+      "desc": "サムスンの新型折りたたみスマホ「Galaxy Z Fold8 / Flip8」について4キャリアの担当者を直撃。ドコモは専門スタッフによるAI訴求、KDDIはミリ波の通信品質、ソフトバンクは初動のMNP施策、楽天は最安値とエコシステムを武器に、新たなユーザー層の開拓と販売拡大を狙います。",
+      "img": "https://ascii.jp/img/2026/07/23/4504444/s/0a66e7f8ffeb14a0.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
+      "title": "Googleが“自社AIの裏切り”に備え始めた 異例の構想「AI Control Roadmap」とは",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000215/",
+      "date": "2026-07-24T08:00:00+09:00",
+      "dateLabel": "07/24 08:00",
+      "desc": "米Google DeepMindが発表した異例の構想「AI Control Roadmap」について解説する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 26
     }
   ]
 }
