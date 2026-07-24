@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-24T10:46:23.196815+09:00",
-  "generatedLabel": "2026/07/24 10:46",
+  "generatedAt": "2026-07-24T14:11:01.850961+09:00",
+  "generatedLabel": "2026/07/24 14:11",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 59,
+  "candidates": 61,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 19
+      "items": 20
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -74,17 +74,6 @@
       "score": 66
     },
     {
-      "title": "中国製高性能AI「Kimi K3」はClaude Fableの蒸留によって作られたとホワイトハウス高官が発言",
-      "link": "https://gigazine.net/news/20260723-kimi-k3-distillation-anthropic/",
-      "date": "2026-07-23T12:05:00+09:00",
-      "dateLabel": "07/23 12:05",
-      "desc": "中国企業のMoonshot AIは日本時間の2026年7月17日に高性能AIモデル「Kimi K3」をリリースしました。このKimi K3について、ホワイトハウス科学技術政策局のマイケル・クラツィオス局長が「AnthropicのClaude Fableを蒸留したという情報をつかんだ」と発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 58
-    },
-    {
       "title": "AMDとAnthropicが戦略的提携 「Helios」を最大2GW導入、最大50億ドルの出資も",
       "link": "https://www.itmedia.co.jp/news/articles/2607/23/news063.html",
       "date": "2026-07-23T06:55:00+09:00",
@@ -96,25 +85,36 @@
       "score": 58
     },
     {
-      "title": "MicrosoftとMistralが戦略的提携を拡大 欧州でのAIインフラ拡張とモデル展開を加速",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/22/news066.html",
-      "date": "2026-07-22T10:22:00+09:00",
-      "dateLabel": "07/22 10:22",
-      "desc": "MicrosoftとMistralは戦略的提携を拡大すると発表した。Mistralの最新モデルをMicrosoftの各プラットフォームへ展開するほか、欧州でのGPUインフラ拡張に向けて大規模な投資を行う。クラウドから完全オフラインまで多様な環境に対応し、規制業界での高度なAI導入と自社管理を支援する。",
+      "title": "Microsoft、GitHub CopilotやExcelで自社AIに切り替えへ――OpenAIやAnthropicのモデルは「引き続き併用」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000219/",
+      "date": "2026-07-24T12:03:56+09:00",
+      "dateLabel": "07/24 12:03",
+      "desc": "Microsoftは、GitHub CopilotやExcelで自社開発AIモデル「MAI」シリーズの本格導入を開始したと発表した。既存のフロンティアモデルと併用しつつ、高頻度なタスクを低コストな自社モデルへ振り分けることでコストパフォーマンスを向上させる。今後も他サービスへ同様のアプローチを拡大する方針だ。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 58
+      "cat": "AIエージェント/業務",
+      "score": 50
     },
     {
-      "title": "AnthropicがAMDの最新世代チップ「Instinct MI450」を購入する最大50億ドルの投資契約が締結される",
-      "link": "https://gigazine.net/news/20260723-amd-anthropic-partnership/",
-      "date": "2026-07-23T13:20:00+09:00",
-      "dateLabel": "07/23 13:20",
-      "desc": "AI企業のAnthropicが半導体開発のAMDと戦略的パートナーシップを結びました。Anthropicは最大2GW分の「Instinct MI450」シリーズGPUを購入する予定です。 続きを読む...",
+      "title": "画像も動画も音声も生成できるAI「FLUX 3」が発表される",
+      "link": "https://gigazine.net/news/20260724-flux-3-generation-ai/",
+      "date": "2026-07-24T11:35:00+09:00",
+      "dateLabel": "07/24 11:35",
+      "desc": "AI開発企業のBlack Forest Labsが独自開発のAIモデル「FLUX 3」を発表しました。FLUX 3は「画像」「動画」「音声」の生成に対応したマルチモーダルモデルで、記事作成時点では動画生成機能が早期アクセス版としてリリースされています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "半導体/GPU",
+      "cat": "生成AI/マルチモーダル",
+      "score": 50
+    },
+    {
+      "title": "AIは“声で操作”する時代に？ ChatGPTとClaude、相次ぎ音声機能を強化",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000218/",
+      "date": "2026-07-24T11:15:46+09:00",
+      "dateLabel": "07/24 11:15",
+      "desc": "米OpenAIと米Anthropicが相次いで自社AIサービスの音声機能を強化した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 50
     },
     {
@@ -138,6 +138,28 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 50
+    },
+    {
+      "title": "AMDが高速AI推論システムのCerebrasと提携して超低遅延AIシステムを2026年後半に出荷予定",
+      "link": "https://gigazine.net/news/20260724-amd-cerebras-collaborating/",
+      "date": "2026-07-24T13:58:00+09:00",
+      "dateLabel": "07/24 13:58",
+      "desc": "AIの推論を高速化するシステムを開発しているCerebrasがAMDと提携しました。Cerebrasは自社のデータセンターにAMDのラックスケールソリューション「Helios」を導入する計画で、AI推論能力を強化します。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "ChatGPTがAppleヘルスケアや医療記録との接続に対応、検査結果や運動データを読み込ませて質問可能に",
+      "link": "https://gigazine.net/news/20260724-health-in-chatgpt/",
+      "date": "2026-07-24T11:05:00+09:00",
+      "dateLabel": "07/24 11:05",
+      "desc": "OpenAIが2026年7月23日、ChatGPTに個人の医療記録やAppleヘルスケアの情報を接続できる「Health in ChatGPT」のアメリカ向け提供を開始すると発表しました。検査結果の変化や診察履歴、睡眠時間、運動量などをChatGPTが参照し、利用者の健康状態に合わせた回答を生成できるようになります。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "「Geekbench 7」が登場、「CUDAでのGPU演算」「AV1での動画エンコード」「文字起こしAIで字幕生成」など現代的ワークフローのテストが追加される",
@@ -184,15 +206,37 @@
       "score": 42
     },
     {
-      "title": "OpenAIとMicrosoftが科学研究へ巨額支援、AIがアメリカの国家的な科学インフラになりつつある",
-      "link": "https://gigazine.net/news/20260723-genesis-mission-openai-microsoft/",
-      "date": "2026-07-23T13:40:00+09:00",
-      "dateLabel": "07/23 13:40",
-      "desc": "OpenAIとMicrosoftがアメリカのエネルギー省が進める国家的な科学研究計画「ジェネシス・ミッション」への支援策を発表しました。Microsoftの6000万ドル(約98億円)の投資パッケージとOpenAIの計700万ドル(約11億円)分の利用支援を合わせると、合計100億円を超える金額の支援となっています。 続きを読む...",
+      "title": "AMDが自律型AI時代に向けたフルスタック計算基盤を発表、ラックスケール「AMD Helios」が本格始動",
+      "link": "https://ascii.jp/elem/000/004/421/4421961/?rss",
+      "date": "2026-07-24T13:30:00+09:00",
+      "dateLabel": "07/24 13:30",
+      "desc": "米AMDは2026年7月23日、年次イベント「Advancing AI 2026」を開催し、自律型AIおよびフィジカルAIの本格的な普及を見据えた包括的なAI計算プラットフォームを発表した。",
+      "img": "https://ascii.jp/img/2026/07/24/4504604/s/e073d5c7218700c2.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "海外の「Claude」や「GPT」ではダメなのか 日本企業向けai&、そのメリットは？",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news052.html",
+      "date": "2026-07-24T13:00:00+09:00",
+      "dateLabel": "07/24 13:00",
+      "desc": "ai&は、日本企業向けに設計したAI推論プラットフォーム「ai& Inference」の提供を開始した。ClaudeやGPTなど海外ベンダーのAIに代わる選択肢として、AI利用コストを大幅に削減できるとしている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "画像・動画・音声の生成AIモデルを条件に合わせて自動で選ぶ「Runway Media Router」が登場",
+      "link": "https://gigazine.net/news/20260724-runway-media-router/",
+      "date": "2026-07-24T12:48:00+09:00",
+      "dateLabel": "07/24 12:48",
+      "desc": "生成AI企業のRunwayは2026年7月23日、画像・動画・音声の生成に使うAIモデルを自動で選択する「Runway Media Router」を発表しました。開発者向けプラットフォーム「Runway Dev」に追加された新機能で、品質や処理速度、料金の優先順位に合わせて自動で利用モデルを切り替えます。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
     },
     {
       "title": "経理AIエージェントの導入判断はRPAとの違いで見極める！メリットも解説",
@@ -217,28 +261,6 @@
       "score": 34
     },
     {
-      "title": "Markdownファイルが、AI時代の負債に？ Googleが提案する「ナレッジ標準化」の一手",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/23/news055.html",
-      "date": "2026-07-23T13:00:00+09:00",
-      "dateLabel": "07/23 13:00",
-      "desc": "Google Cloudは、AIエージェントが利用するナレッジをMarkdownで標準化するオープンフォーマット「Open Knowledge Format」を公開した。ベンダー非依存で、異なるエージェント間でもナレッジをそのまま共有できる。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "SamsungがAndroid XR搭載のAIスマートグラスを発表、Geminiが音声でユーザーを支援",
-      "link": "https://gigazine.net/news/20260723-samsung-intelligent-eyeware/",
-      "date": "2026-07-23T11:17:00+09:00",
-      "dateLabel": "07/23 11:17",
-      "desc": "Samsung Electronicsは2026年7月22日、ロンドンで開催したGalaxy Unpackedで、日常的に装着できるAI搭載スマートグラスを発表しました。GoogleのAndroid XRプラットフォームを採用し、Geminiと連携することで、スマートフォンの画面を見なくても音声やジェスチャーでAIの支援を受けられます。製品はアイウェアブラン",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場",
       "link": "https://www.publickey1.jp/blog/26/claude_codeclaude_apps_gateway_for_awsgoogle_cloud.html",
       "date": "2026-07-21T00:54:57+09:00",
@@ -250,35 +272,13 @@
       "score": 28
     },
     {
-      "title": "図面AIに「動かせる3Dモデル」の生成機能、関節や可動域を自動認識",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/24/news012.html",
-      "date": "2026-07-24T09:00:00+09:00",
-      "dateLabel": "07/24 09:00",
-      "desc": "renueは、2D図面から3D CADモデルを生成するAI「Drawing Agent」に、関節や可動域を読み取り、動かせる3Dモデルを生成する新機能「可動アセンブリ」を追加した。生成したモデルをAIが動かし、接合部の離れや回転中心のずれなども検証する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "4キャリア激突！ 「Galaxy Z Fold8/Flip8」販売戦略の狙いと裏側を各社に直撃",
-      "link": "https://ascii.jp/elem/000/004/421/4421864/?rss",
-      "date": "2026-07-24T09:00:00+09:00",
-      "dateLabel": "07/24 09:00",
-      "desc": "サムスンの新型折りたたみスマホ「Galaxy Z Fold8 / Flip8」について4キャリアの担当者を直撃。ドコモは専門スタッフによるAI訴求、KDDIはミリ波の通信品質、ソフトバンクは初動のMNP施策、楽天は最安値とエコシステムを武器に、新たなユーザー層の開拓と販売拡大を狙います。",
-      "img": "https://ascii.jp/img/2026/07/23/4504444/s/0a66e7f8ffeb14a0.jpg",
+      "title": "「AIのセキュリティ対策をしたい」が5割超、重要なIT基盤という認識が浸透",
+      "link": "https://ascii.jp/elem/000/004/420/4420783/?rss",
+      "date": "2026-07-24T14:00:00+09:00",
+      "dateLabel": "07/24 14:00",
+      "desc": "日常の業務へのAI活用が広がるとともに、情シスにとってそのセキュリティ対策が重要な課題の1つとなっています。そこで本コラムでは、2025年6月にソフトクリエイトが実施し418名の情シスが回答したアンケート結果、情シスがAIのセキュリティ対策をどのように考えているのかをご紹介します。",
+      "img": "https://ascii.jp/img/2026/07/21/4502935/s/297cbcb47f92ff57.png",
       "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "Googleが“自社AIの裏切り”に備え始めた 異例の構想「AI Control Roadmap」とは",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000215/",
-      "date": "2026-07-24T08:00:00+09:00",
-      "dateLabel": "07/24 08:00",
-      "desc": "米Google DeepMindが発表した異例の構想「AI Control Roadmap」について解説する。",
-      "img": "",
-      "src": "ITmedia AI+",
       "cat": "AI全般",
       "score": 26
     }
