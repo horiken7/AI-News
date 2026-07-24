@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-24T23:44:31.171103+09:00",
-  "generatedLabel": "2026/07/24 23:44",
+  "generatedAt": "2026-07-25T03:11:00.189572+09:00",
+  "generatedLabel": "2026/07/25 03:11",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 58,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -62,17 +62,6 @@
     }
   ],
   "articles": [
-    {
-      "title": "Kimi K3はAIエージェントのベンチマーク「AA-Briefcase」でFable 5に次ぐ2位の成績を達成、しかし実行コストはOpus 4.8よりも高くタスクあたり平均1時間近くかかる",
-      "link": "https://gigazine.net/news/20260723-kimi-k3-artifical-analysis/",
-      "date": "2026-07-23T23:00:00+09:00",
-      "dateLabel": "07/23 23:00",
-      "desc": "中国のAI企業・Moonshot AIが2026年7月17日に発表した2兆8000億パラメータの大規模モデル・Kimi K3は、一部のベンチマークテストでClaude Fable 5を超える性能を示したとして大きな注目を集めました。生成モデル比較サイトのArtifical Analysisが、Kimi K3のベンチマーク結果を公開しています。 続きを読む..",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 58
-    },
     {
       "title": "「NVIDIAのCUDAの優位性は崩壊しつつある」とDeepSeek創業者が約4時間の講演で発言、利益追求よりもAGIの実現を目指す方針も明かされる",
       "link": "https://gigazine.net/news/20260724-deepseek-liang-wenfeng-talk/",
@@ -279,6 +268,17 @@
       "desc": "Amazon.co.jpにて、Belkinの「Nintendo Switch 2 収納ケース」が販売中だ。価格は3620円。本体のほか、AirTagやゲームカードも収納できる。",
       "img": "https://ascii.jp/img/2026/07/24/4505112/s/077b1200fada363f.jpg",
       "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "アメリカのスタートアップ企業が「中国製のオープンウェイトAIを禁止しないで」とトランプ政権に訴えかける",
+      "link": "https://gigazine.net/news/20260724-us-startup-urge-trump-chinese-open-ai/",
+      "date": "2026-07-24T19:00:00+09:00",
+      "dateLabel": "07/24 19:00",
+      "desc": "スタートアップ企業を含む約200のAI関連企業が、「中国のオープンウェイトAIモデルへのアクセスを遮断すれば、次世代のスタートアップの競争力を損なう恐れがある」として、ドナルド・トランプ政権に対し公開書簡を送付しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AI全般",
       "score": 26
     }
