@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-24T19:53:38.972971+09:00",
-  "generatedLabel": "2026/07/24 19:53",
+  "generatedAt": "2026-07-24T21:12:37.013319+09:00",
+  "generatedLabel": "2026/07/24 21:12",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 54,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 2
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -72,6 +72,17 @@
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 66
+    },
+    {
+      "title": "「NVIDIAのCUDAの優位性は崩壊しつつある」とDeepSeek創業者が約4時間の講演で発言、利益追求よりもAGIの実現を目指す方針も明かされる",
+      "link": "https://gigazine.net/news/20260724-deepseek-liang-wenfeng-talk/",
+      "date": "2026-07-24T20:00:00+09:00",
+      "dateLabel": "07/24 20:00",
+      "desc": "中国のAI企業・DeepSeek創業者の梁文峰(リアン・ウェンフォン)氏が投資家向けに約4時間にわたる説明会を2026年5月20日に実施しており、その対談記録が公開されました。説明会では、梁氏が「利益最大化は目指さず、AGI(汎用人工知能)研究を最優先する」「NVIDIAのCUDAエコシステムの壁が新技術によって打ち破られつつあり、中国製チップのための新たな",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 50
     },
     {
       "title": "Microsoft、GitHub CopilotやExcelで自社AIに切り替えへ――OpenAIやAnthropicのモデルは「引き続き併用」",
@@ -184,6 +195,17 @@
       "score": 34
     },
     {
+      "title": "株式会社Mavericksは、動画生成AI「NoLang」の「読み方を修正する」ダイアログを強化し、動画全体の横断検索・一括修正と辞書登録を1画面で完結できるように",
+      "link": "https://ascii.jp/elem/000/004/422/4422184/?rss",
+      "date": "2026-07-24T18:01:32+09:00",
+      "dateLabel": "07/24 18:01",
+      "desc": "株式会社Mavericksは、動画生成AI「NoLang」の「読み方を修正する」ダイアログを強化し、動画全体の横断検索・一括修正と辞書登録を1画面で完結できるように",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
       "title": "AIにもサプライチェーン管理が必要？ 中国AI「Kimi K3」を巡る批判でAIの調達リスクが浮き彫りに",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news054.html",
       "date": "2026-07-24T17:30:00+09:00",
@@ -257,28 +279,6 @@
       "desc": "「金の課題」と「赤の課題」。AI導入を成果につなげる課題選定とは？",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "近畿大、入試にAIの利用認める 情報学部の総合型選抜で",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000221/",
-      "date": "2026-07-24T17:45:19+09:00",
-      "dateLabel": "07/24 17:45",
-      "desc": "近畿大学は、2027年度の情報学部の総合型選抜入学試験で、生成AIの利用を認めると発表した。提出する自己PR動画やプレゼンテーション資料などでのAIの利用方針を明示した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
-      "title": "メルカリ、「AI活用の最前線」明かす動画公開 「なぜCTOがCHRO兼CAIOになったのか」など13本",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000220/",
-      "date": "2026-07-24T15:23:26+09:00",
-      "dateLabel": "07/24 15:23",
-      "desc": "メルカリは、自社のAI活用について紹介する動画を公開した。7月8日に開催したイベント「Mercari AI Career Fes 2026」で実施したセッションのアーカイブ動画、全13本を公式YouTubeチャンネルで視聴できる。",
-      "img": "",
-      "src": "ITmedia AI+",
       "cat": "AI全般",
       "score": 26
     }
