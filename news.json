@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-25T05:10:35.544468+09:00",
-  "generatedLabel": "2026/07/25 05:10",
+  "generatedAt": "2026-07-25T06:56:01.068057+09:00",
+  "generatedLabel": "2026/07/25 06:56",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 56,
@@ -62,6 +62,39 @@
     }
   ],
   "articles": [
+    {
+      "title": "Anthropic、「Claude Opus 5」発表 Fable 5級の性能を半額で",
+      "link": "https://ascii.jp/elem/000/004/422/4422202/?rss",
+      "date": "2026-07-25T06:25:00+09:00",
+      "dateLabel": "07/25 06:25",
+      "desc": "Anthropicは7月24日、新AIモデル「Claude Opus 5」を発表した。",
+      "img": "https://ascii.jp/img/2026/07/25/4505242/s/7a6e6bda3088f32e.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 58
+    },
+    {
+      "title": "NVIDIAジェンスン・ファンCEO、X初投稿で「オープンウェイトAI」支持を表明 25社・団体の共同書簡を公開",
+      "link": "https://ascii.jp/elem/000/004/422/4422201/?rss",
+      "date": "2026-07-25T06:15:00+09:00",
+      "dateLabel": "07/25 06:15",
+      "desc": "NVIDIAのジェンスン・ファンCEOは現地時間7月24日、自身初となるXへの投稿で、オープンウェイトAIモデルへの規制に慎重な対応を求める共同書簡を公開した。",
+      "img": "https://ascii.jp/img/2026/07/25/4505241/s/2a940e65f6d783cc.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 50
+    },
+    {
+      "title": "「Claude Opus 5」が登場、Claude Fable 5の半額で同等性能を発揮し制限緩め",
+      "link": "https://gigazine.net/news/20260725-claude-opus-5/",
+      "date": "2026-07-25T05:32:00+09:00",
+      "dateLabel": "07/25 05:32",
+      "desc": "Anthropicが「Claude Opus 5」を日本時間の2026年7月25日未明にリリースしました。Claude Fable 5と同等の性能を半分の価格で実現したとアピールされており、第三者機関のテストでもClaude Fable 5を上回る性能が確認されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
     {
       "title": "「NVIDIAのCUDAの優位性は崩壊しつつある」とDeepSeek創業者が約4時間の講演で発言、利益追求よりもAGIの実現を目指す方針も明かされる",
       "link": "https://gigazine.net/news/20260724-deepseek-liang-wenfeng-talk/",
@@ -151,17 +184,6 @@
       "score": 42
     },
     {
-      "title": "三井不動産がデータセンターに6000億円超投資、物流の枠超え「産業デベロッパー」へ",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/24/news046.html",
-      "date": "2026-07-24T06:15:00+09:00",
-      "dateLabel": "07/24 06:15",
-      "desc": "三井不動産は事業説明会で「産業デベロッパー」への領域拡大を発表した。従来の物流拠点供給にとどまらず、研究開発施設や自動運転対応を進める。データセンター事業には累計6000億円超を投じ、稼働済みの3棟に加え7棟を開発中だ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
       "title": "ゲームも動画編集もOKなスペックが魅力！ メモリ32GB＆RTX 5060搭載のLenovo製15.6型ゲーミングノート",
       "link": "https://ascii.jp/elem/000/004/422/4422166/?rss",
       "date": "2026-07-24T22:00:00+09:00",
@@ -192,17 +214,6 @@
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "株式会社Mavericksは、動画生成AI「NoLang」の「読み方を修正する」ダイアログを強化し、動画全体の横断検索・一括修正と辞書登録を1画面で完結できるように",
-      "link": "https://ascii.jp/elem/000/004/422/4422184/?rss",
-      "date": "2026-07-24T18:01:32+09:00",
-      "dateLabel": "07/24 18:01",
-      "desc": "株式会社Mavericksは、動画生成AI「NoLang」の「読み方を修正する」ダイアログを強化し、動画全体の横断検索・一括修正と辞書登録を1画面で完結できるように",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
@@ -239,6 +250,17 @@
       "score": 34
     },
     {
+      "title": "三井不動産がデータセンターに6000億円超投資、物流の枠超え「産業デベロッパー」へ",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/24/news046.html",
+      "date": "2026-07-24T06:15:00+09:00",
+      "dateLabel": "07/24 06:15",
+      "desc": "三井不動産は事業説明会で「産業デベロッパー」への領域拡大を発表した。従来の物流拠点供給にとどまらず、研究開発施設や自動運転対応を進める。データセンター事業には累計6000億円超を投じ、稼働済みの3棟に加え7棟を開発中だ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
       "title": "Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場",
       "link": "https://www.publickey1.jp/blog/26/claude_codeclaude_apps_gateway_for_awsgoogle_cloud.html",
       "date": "2026-07-21T00:54:57+09:00",
@@ -256,28 +278,6 @@
       "dateLabel": "07/24 22:30",
       "desc": "Amazon.co.jpにて、Belkinの「Nintendo Switch 2 収納ケース」が販売中だ。価格は3620円。本体のほか、AirTagやゲームカードも収納できる。",
       "img": "https://ascii.jp/img/2026/07/24/4505112/s/077b1200fada363f.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "アメリカのスタートアップ企業が「中国製のオープンウェイトAIを禁止しないで」とトランプ政権に訴えかける",
-      "link": "https://gigazine.net/news/20260724-us-startup-urge-trump-chinese-open-ai/",
-      "date": "2026-07-24T19:00:00+09:00",
-      "dateLabel": "07/24 19:00",
-      "desc": "スタートアップ企業を含む約200のAI関連企業が、「中国のオープンウェイトAIモデルへのアクセスを遮断すれば、次世代のスタートアップの競争力を損なう恐れがある」として、ドナルド・トランプ政権に対し公開書簡を送付しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "「金の課題」と「赤の課題」。AI導入を成果につなげる課題選定とは？",
-      "link": "https://ascii.jp/elem/000/004/422/4422172/?rss",
-      "date": "2026-07-24T18:06:01+09:00",
-      "dateLabel": "07/24 18:06",
-      "desc": "「金の課題」と「赤の課題」。AI導入を成果につなげる課題選定とは？",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
