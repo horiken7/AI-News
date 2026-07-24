@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-24T21:12:37.013319+09:00",
-  "generatedLabel": "2026/07/24 21:12",
+  "generatedAt": "2026-07-24T23:44:31.171103+09:00",
+  "generatedLabel": "2026/07/24 23:44",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -71,7 +71,7 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 66
+      "score": 58
     },
     {
       "title": "「NVIDIAのCUDAの優位性は崩壊しつつある」とDeepSeek創業者が約4時間の講演で発言、利益追求よりもAGIの実現を目指す方針も明かされる",
@@ -173,6 +173,17 @@
       "score": 42
     },
     {
+      "title": "ゲームも動画編集もOKなスペックが魅力！ メモリ32GB＆RTX 5060搭載のLenovo製15.6型ゲーミングノート",
+      "link": "https://ascii.jp/elem/000/004/422/4422166/?rss",
+      "date": "2026-07-24T22:00:00+09:00",
+      "dateLabel": "07/24 22:00",
+      "desc": "Amazon.co.jpにて、Lenovoの15.6型ゲーミングノートPC「LOQ 15IRX10」が販売中だ。インテル「Core i7-14700HX」とNVIDIA「GeForce RTX 5060」を搭載したモデルで、価格は35万2800円。",
+      "img": "https://ascii.jp/img/2026/07/24/4505109/s/34d0f550a2816318.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
       "title": "AMDがサーバーCPU「EPYC 9006」やAIラックサーバー「Helios」などAIデータセンター向けの製品を発表",
       "link": "https://gigazine.net/news/20260724-amd-advancing-ai-2026/",
       "date": "2026-07-24T19:09:00+09:00",
@@ -261,23 +272,12 @@
       "score": 28
     },
     {
-      "title": "アメリカのスタートアップ企業が「中国製のオープンウェイトAIを禁止しないで」とトランプ政権に訴えかける",
-      "link": "https://gigazine.net/news/20260724-us-startup-urge-trump-chinese-open-ai/",
-      "date": "2026-07-24T19:00:00+09:00",
-      "dateLabel": "07/24 19:00",
-      "desc": "スタートアップ企業を含む約200のAI関連企業が、「中国のオープンウェイトAIモデルへのアクセスを遮断すれば、次世代のスタートアップの競争力を損なう恐れがある」として、ドナルド・トランプ政権に対し公開書簡を送付しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "「金の課題」と「赤の課題」。AI導入を成果につなげる課題選定とは？",
-      "link": "https://ascii.jp/elem/000/004/422/4422172/?rss",
-      "date": "2026-07-24T18:06:01+09:00",
-      "dateLabel": "07/24 18:06",
-      "desc": "「金の課題」と「赤の課題」。AI導入を成果につなげる課題選定とは？",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "title": "Switch 2ユーザー必携！ 本体やアクセサリー、AirTagも収納できるBelkin製収納ケースが3620円",
+      "link": "https://ascii.jp/elem/000/004/422/4422177/?rss",
+      "date": "2026-07-24T22:30:00+09:00",
+      "dateLabel": "07/24 22:30",
+      "desc": "Amazon.co.jpにて、Belkinの「Nintendo Switch 2 収納ケース」が販売中だ。価格は3620円。本体のほか、AirTagやゲームカードも収納できる。",
+      "img": "https://ascii.jp/img/2026/07/24/4505112/s/077b1200fada363f.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
