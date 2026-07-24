@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-24T14:11:01.850961+09:00",
-  "generatedLabel": "2026/07/24 14:11",
+  "generatedAt": "2026-07-24T17:07:05.114764+09:00",
+  "generatedLabel": "2026/07/24 17:07",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 61,
+  "candidates": 62,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 10
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 17
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -74,14 +74,14 @@
       "score": 66
     },
     {
-      "title": "AMDとAnthropicが戦略的提携 「Helios」を最大2GW導入、最大50億ドルの出資も",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/23/news063.html",
-      "date": "2026-07-23T06:55:00+09:00",
-      "dateLabel": "07/23 06:55",
-      "desc": "AMDは、Anthropicとの戦略的提携を発表した。AnthropicはAMDの「Helios」および「Instinct MI450」シリーズを最大2GW規模で導入し、2027年上半期から順次展開する。AMDは最大50億ドルの株式投資を行うほか、Claudeを活用したGPU環境の最適化やROCm開発での協業も推進する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
+      "title": "ChatGPTに健康管理機能 Apple Healthや医療記録と連携",
+      "link": "https://ascii.jp/elem/000/004/422/4422055/?rss",
+      "date": "2026-07-24T15:00:00+09:00",
+      "dateLabel": "07/24 15:00",
+      "desc": "OpenAIは7月23日、ChatGPTに健康系のデータを取り込む新機能「Health in ChatGPT」を発表した。18歳以上の米国ユーザー向けに順次展開する。",
+      "img": "https://ascii.jp/img/2026/07/24/4504771/s/5459474dd7f1af3c.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
       "score": 58
     },
     {
@@ -140,6 +140,28 @@
       "score": 50
     },
     {
+      "title": "「愚痴から始まる請求自動化」 地味に面倒な集計をビジネスチャットの会話から自動集計するアプリをAIで作ってみた",
+      "link": "https://ascii.jp/elem/000/004/421/4421555/?rss",
+      "date": "2026-07-24T15:30:00+09:00",
+      "dateLabel": "07/24 15:30",
+      "desc": "本連載は生成AIをこれから活用しようとしている方たちのために、生成AIの基本やコピペしてそのまま使えるプロンプトなどを紹介。兎にも角にも生成AIに触り始めることで、AIに対する理解を深め、AIスキルを身に着けて欲しい。第68回はClaudeを使って、ビジネスチャットの会話から納品物を集計、請求業務を自動化する方法について解説する。",
+      "img": "https://ascii.jp/img/2026/07/23/4504160/s/0f301944bc9a1b4f.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "バックオフィス自動化AI「ヤスラク」、「請求書受取」「工数管理」の2サービスのβ版を同時提供開始",
+      "link": "https://ascii.jp/elem/000/004/422/4422084/?rss",
+      "date": "2026-07-24T14:09:55+09:00",
+      "dateLabel": "07/24 14:09",
+      "desc": "バックオフィス自動化AI「ヤスラク」、「請求書受取」「工数管理」の2サービスのβ版を同時提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "AMDが高速AI推論システムのCerebrasと提携して超低遅延AIシステムを2026年後半に出荷予定",
       "link": "https://gigazine.net/news/20260724-amd-cerebras-collaborating/",
       "date": "2026-07-24T13:58:00+09:00",
@@ -195,23 +217,45 @@
       "score": 42
     },
     {
-      "title": "音声クローンが可能な音声合成AI「Qwen-Audio-3.0-TTS」が登場、日本語対応でGemini超えの性能",
-      "link": "https://gigazine.net/news/20260723-qwen-audio-3-tts/",
-      "date": "2026-07-23T16:51:00+09:00",
-      "dateLabel": "07/23 16:51",
-      "desc": "AlibabaのAI研究チームであるQwen(Tongyi Lab)が音声合成AI「Qwen-Audio-3.0-TTS」を2026年7月20日にリリースしました。参考音声とテキストを入力することで、任意の声で任意のテキストを読み上げさせることができます。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
+      "title": "すべてが快適な王道ノート「MacBook Air M5」 15インチの作業領域はやっぱり魅力",
+      "link": "https://ascii.jp/elem/000/004/422/4422076/?rss",
+      "date": "2026-07-24T17:00:00+09:00",
+      "dateLabel": "07/24 17:00",
+      "desc": "Amazon.co.jpで「MacBook Air M5」が売れています。超高性能M5チップと、最大18時間フル稼働できる内蔵バッテリーを搭載したノートブックです。",
+      "img": "https://ascii.jp/img/2026/07/24/4504793/s/42d7d40f6324756e.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
     },
     {
-      "title": "AMDが自律型AI時代に向けたフルスタック計算基盤を発表、ラックスケール「AMD Helios」が本格始動",
-      "link": "https://ascii.jp/elem/000/004/421/4421961/?rss",
-      "date": "2026-07-24T13:30:00+09:00",
-      "dateLabel": "07/24 13:30",
-      "desc": "米AMDは2026年7月23日、年次イベント「Advancing AI 2026」を開催し、自律型AIおよびフィジカルAIの本格的な普及を見据えた包括的なAI計算プラットフォームを発表した。",
-      "img": "https://ascii.jp/img/2026/07/24/4504604/s/e073d5c7218700c2.jpg",
+      "title": "ピンクでもふもふ！ カシオのAIペット「Moflin」に新色",
+      "link": "https://ascii.jp/elem/000/004/422/4422068/?rss",
+      "date": "2026-07-24T15:05:00+09:00",
+      "dateLabel": "07/24 15:05",
+      "desc": "カシオ計算機は7月24日、AIペットロボット「Moflin」の新色「さくら色」を発表した。発売日は9月4日で、予約は7月24日に開始した。想定実売価格は6万4900円。",
+      "img": "https://ascii.jp/img/2026/07/24/4504772/s/9d9306885083695f.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 34
+    },
+    {
+      "title": "「とりあえずAI」が失敗のもと？ 中小企業調査で見えた実態",
+      "link": "https://ascii.jp/elem/000/004/422/4422053/?rss",
+      "date": "2026-07-24T14:55:00+09:00",
+      "dateLabel": "07/24 14:55",
+      "desc": "スタディストは7月24日、従業員300名未満の企業で業務改善に携わった担当者200名を対象にした「300名未満の中小企業における業務改善実態調査」を公開した。",
+      "img": "https://ascii.jp/img/2026/07/24/4504757/s/455eb08142c275b0.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "日立、システム開発にAIを全面適用 要件定義で最大240倍の生産性を実証",
+      "link": "https://ascii.jp/elem/000/004/422/4422052/?rss",
+      "date": "2026-07-24T14:50:00+09:00",
+      "dateLabel": "07/24 14:50",
+      "desc": "日立製作所は7月24日、エンタープライズ向けシステムインテグレーションにAIを全面適用するプラットフォーム「Agentic AI Integration Platform」の開発を発表した。",
+      "img": "https://ascii.jp/img/2026/07/24/4504756/s/38e4c8834fc4f041.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
@@ -237,50 +281,6 @@
       "src": "GIGAZINE",
       "cat": "生成AI/マルチモーダル",
       "score": 34
-    },
-    {
-      "title": "経理AIエージェントの導入判断はRPAとの違いで見極める！メリットも解説",
-      "link": "https://ainow.ai/2026/07/24/278274/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%25b5%258c%25e7%2590%2586ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e5%25b0%258e%25e5%2585%25a5%25e5%2588%25a4%25e6%2596%25ad%25e3%2581%25afrpa%25e3%2581%25a8%25e3%2581%25ae%25e9%2581%2595%25e3%2581%2584%25e3%2581%25a7%25e8%25a6%258b%25e6%25a5%25b5",
-      "date": "2026-07-24T03:58:25+09:00",
-      "dateLabel": "07/24 03:58",
-      "desc": "経理の定型業務に追われながらも「AIエージェント」という言葉を耳にし、自社の経理にどう活かせるのか気になっている担当者は多いでしょう。 会計ソフトの自動化やRPAとの違いが曖昧なままでは、導入の是非を判断できません。経理... The post 経理AIエージェントの導入判断はRPAとの違いで見極める！メリットも解説 first appeared on AI",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "OpenAIが報道機関の生成AI活用事例を公開、取材支援から読者向けサービスまで",
-      "link": "https://gigazine.net/news/20260723-openai-news-organizations-using-ai/",
-      "date": "2026-07-23T15:10:00+09:00",
-      "dateLabel": "07/23 15:10",
-      "desc": "OpenAIは2026年7月22日、世界各地の報道機関が生成AIをどのように活用しているのかという活用事例をまとめた記事を公開しました。記者による取材や情報確認を支援する仕組みだけでなく、過去記事を読者が探しやすくするサービスや広告営業を効率化するツールなど、生成AIが報道機関の幅広い業務に組み込まれていることが紹介されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場",
-      "link": "https://www.publickey1.jp/blog/26/claude_codeclaude_apps_gateway_for_awsgoogle_cloud.html",
-      "date": "2026-07-21T00:54:57+09:00",
-      "dateLabel": "07/21 00:54",
-      "desc": "AnthropicのAIコーディングエージェントClaud Codeは非常に人気のあるサービスとして多くの組織で採用され始めています。 Claude Codeは個人で簡単に導入できますが、企業が組織としてClaude Codeを導入する場合...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 28
-    },
-    {
-      "title": "「AIのセキュリティ対策をしたい」が5割超、重要なIT基盤という認識が浸透",
-      "link": "https://ascii.jp/elem/000/004/420/4420783/?rss",
-      "date": "2026-07-24T14:00:00+09:00",
-      "dateLabel": "07/24 14:00",
-      "desc": "日常の業務へのAI活用が広がるとともに、情シスにとってそのセキュリティ対策が重要な課題の1つとなっています。そこで本コラムでは、2025年6月にソフトクリエイトが実施し418名の情シスが回答したアンケート結果、情シスがAIのセキュリティ対策をどのように考えているのかをご紹介します。",
-      "img": "https://ascii.jp/img/2026/07/21/4502935/s/297cbcb47f92ff57.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
     }
   ]
 }
