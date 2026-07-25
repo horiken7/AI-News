@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-26T05:05:27.964273+09:00",
-  "generatedLabel": "2026/07/26 05:05",
+  "generatedAt": "2026-07-26T06:43:46.184150+09:00",
+  "generatedLabel": "2026/07/26 06:43",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 55,
@@ -74,17 +74,6 @@
       "score": 74
     },
     {
-      "title": "「Claude Opus 5」が登場、Claude Fable 5の半額で同等性能を発揮し制限緩め",
-      "link": "https://gigazine.net/news/20260725-claude-opus-5/",
-      "date": "2026-07-25T05:32:00+09:00",
-      "dateLabel": "07/25 05:32",
-      "desc": "Anthropicが「Claude Opus 5」を日本時間の2026年7月25日未明にリリースしました。Claude Fable 5と同等の性能を半分の価格で実現したとアピールされており、第三者機関のテストでもClaude Fable 5を上回る性能が確認されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
       "title": "アトラシアン、JiraがAIによる要件定義の自動作成、コンテキストを保持しつつタスクをClaudeやCopilotなどのAIエージェントへアサインなど新機能",
       "link": "https://www.publickey1.jp/blog/26/jiraaiclaudecopilotai.html",
       "date": "2026-07-23T00:35:19+09:00",
@@ -103,6 +92,17 @@
       "desc": "せお丸、AI合宿全国ツアーを発表。ClaudeCodeを1泊2日で習得するスパルタ合宿。非エンジニアでもAIがマスターできるように！",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "「Claude Opus 5」が登場、Claude Fable 5の半額で同等性能を発揮し制限緩め",
+      "link": "https://gigazine.net/news/20260725-claude-opus-5/",
+      "date": "2026-07-25T05:32:00+09:00",
+      "dateLabel": "07/25 05:32",
+      "desc": "Anthropicが「Claude Opus 5」を日本時間の2026年7月25日未明にリリースしました。Claude Fable 5と同等の性能を半分の価格で実現したとアピールされており、第三者機関のテストでもClaude Fable 5を上回る性能が確認されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 42
     },
