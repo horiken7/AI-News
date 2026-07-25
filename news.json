@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-26T07:43:25.330618+09:00",
-  "generatedLabel": "2026/07/26 07:43",
+  "generatedAt": "2026-07-26T08:52:01.329112+09:00",
+  "generatedLabel": "2026/07/26 08:52",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 55,
@@ -140,17 +140,6 @@
       "score": 42
     },
     {
-      "title": "画像も動画も音声も生成できるAI「FLUX 3」が発表される",
-      "link": "https://gigazine.net/news/20260724-flux-3-generation-ai/",
-      "date": "2026-07-24T11:35:00+09:00",
-      "dateLabel": "07/24 11:35",
-      "desc": "AI開発企業のBlack Forest Labsが独自開発のAIモデル「FLUX 3」を発表しました。FLUX 3は「画像」「動画」「音声」の生成に対応したマルチモーダルモデルで、記事作成時点では動画生成機能が早期アクセス版としてリリースされています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "生成AI/マルチモーダル",
-      "score": 42
-    },
-    {
       "title": "AIは“声で操作”する時代に？ ChatGPTとClaude、相次ぎ音声機能を強化",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000218/",
       "date": "2026-07-24T11:15:46+09:00",
@@ -204,6 +193,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 28
+    },
+    {
+      "title": "フリーランスライターが解雇された後もAI生成の記事に自分の名前が使われていたことに憤慨",
+      "link": "https://gigazine.net/news/20260726-ai-take-over-journalist/",
+      "date": "2026-07-26T08:00:00+09:00",
+      "dateLabel": "07/26 08:00",
+      "desc": "フリーランスライターとして出版・SEO企業のClickout Mediaで働いていたベン・トゥアティ氏が、解雇された後にAI生成された記事が自身の名前で公開されていたことを明らかにしました。ゲーム関連の記事を書いていたトゥアティ氏の名前は、すべてオンラインカジノの記事に使われていました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
     },
     {
       "title": "AIエージェントの失敗事例4つ！セキュリティ事故と運用トラブルを解説",
