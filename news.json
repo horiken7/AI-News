@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-25T22:00:20.536477+09:00",
-  "generatedLabel": "2026/07/25 22:00",
+  "generatedAt": "2026-07-25T23:38:57.320682+09:00",
+  "generatedLabel": "2026/07/25 23:38",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 54,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 12
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -195,6 +195,17 @@
       "score": 28
     },
     {
+      "title": "ロボタクシー関連法案を巡り関係悪化中のWaymoがUberとの提携解消を検討",
+      "link": "https://gigazine.net/news/20260725-waymo-uber-tie-up-to-end/",
+      "date": "2026-07-25T22:50:00+09:00",
+      "dateLabel": "07/25 22:50",
+      "desc": "自動運転技術を用いたロボタクシーを運用しているWaymoが、2023年10月以来続いている配車サービス大手・Uberとの提携解消を検討していることがわかりました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
       "title": "Appleはトランプ政権に中国製メモリの利用許可を求めるもMicronが反発",
       "link": "https://gigazine.net/news/20260725-apple-micron-clash-trump-chinese-memory-chips/",
       "date": "2026-07-25T16:00:00+09:00",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
-      "title": "経理AIエージェントの導入判断はRPAとの違いで見極める！メリットも解説",
-      "link": "https://ainow.ai/2026/07/24/278274/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%25b5%258c%25e7%2590%2586ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e5%25b0%258e%25e5%2585%25a5%25e5%2588%25a4%25e6%2596%25ad%25e3%2581%25afrpa%25e3%2581%25a8%25e3%2581%25ae%25e9%2581%2595%25e3%2581%2584%25e3%2581%25a7%25e8%25a6%258b%25e6%25a5%25b5",
-      "date": "2026-07-24T03:58:25+09:00",
-      "dateLabel": "07/24 03:58",
-      "desc": "経理の定型業務に追われながらも「AIエージェント」という言葉を耳にし、自社の経理にどう活かせるのか気になっている担当者は多いでしょう。 会計ソフトの自動化やRPAとの違いが曖昧なままでは、導入の是非を判断できません。経理... The post 経理AIエージェントの導入判断はRPAとの違いで見極める！メリットも解説 first appeared on AI",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
