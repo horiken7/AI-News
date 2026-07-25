@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-25T10:46:26.993581+09:00",
-  "generatedLabel": "2026/07/25 10:46",
+  "generatedAt": "2026-07-25T13:56:47.277898+09:00",
+  "generatedLabel": "2026/07/25 13:56",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 56,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -118,39 +118,6 @@
       "score": 50
     },
     {
-      "title": "Microsoft、GitHub CopilotやExcelで自社AIに切り替えへ――OpenAIやAnthropicのモデルは「引き続き併用」",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000219/",
-      "date": "2026-07-24T12:03:56+09:00",
-      "dateLabel": "07/24 12:03",
-      "desc": "Microsoftは、GitHub CopilotやExcelで自社開発AIモデル「MAI」シリーズの本格導入を開始したと発表した。既存のフロンティアモデルと併用しつつ、高頻度なタスクを低コストな自社モデルへ振り分けることでコストパフォーマンスを向上させる。今後も他サービスへ同様のアプローチを拡大する方針だ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
-      "title": "画像も動画も音声も生成できるAI「FLUX 3」が発表される",
-      "link": "https://gigazine.net/news/20260724-flux-3-generation-ai/",
-      "date": "2026-07-24T11:35:00+09:00",
-      "dateLabel": "07/24 11:35",
-      "desc": "AI開発企業のBlack Forest Labsが独自開発のAIモデル「FLUX 3」を発表しました。FLUX 3は「画像」「動画」「音声」の生成に対応したマルチモーダルモデルで、記事作成時点では動画生成機能が早期アクセス版としてリリースされています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "生成AI/マルチモーダル",
-      "score": 50
-    },
-    {
-      "title": "AIは“声で操作”する時代に？ ChatGPTとClaude、相次ぎ音声機能を強化",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000218/",
-      "date": "2026-07-24T11:15:46+09:00",
-      "dateLabel": "07/24 11:15",
-      "desc": "米OpenAIと米Anthropicが相次いで自社AIサービスの音声機能を強化した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
       "title": "アトラシアン、JiraがAIによる要件定義の自動作成、コンテキストを保持しつつタスクをClaudeやCopilotなどのAIエージェントへアサインなど新機能",
       "link": "https://www.publickey1.jp/blog/26/jiraaiclaudecopilotai.html",
       "date": "2026-07-23T00:35:19+09:00",
@@ -173,13 +140,35 @@
       "score": 42
     },
     {
-      "title": "ChatGPTがAppleヘルスケアや医療記録との接続に対応、検査結果や運動データを読み込ませて質問可能に",
-      "link": "https://gigazine.net/news/20260724-health-in-chatgpt/",
-      "date": "2026-07-24T11:05:00+09:00",
-      "dateLabel": "07/24 11:05",
-      "desc": "OpenAIが2026年7月23日、ChatGPTに個人の医療記録やAppleヘルスケアの情報を接続できる「Health in ChatGPT」のアメリカ向け提供を開始すると発表しました。検査結果の変化や診察履歴、睡眠時間、運動量などをChatGPTが参照し、利用者の健康状態に合わせた回答を生成できるようになります。 続きを読む...",
+      "title": "Microsoft、GitHub CopilotやExcelで自社AIに切り替えへ――OpenAIやAnthropicのモデルは「引き続き併用」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000219/",
+      "date": "2026-07-24T12:03:56+09:00",
+      "dateLabel": "07/24 12:03",
+      "desc": "Microsoftは、GitHub CopilotやExcelで自社開発AIモデル「MAI」シリーズの本格導入を開始したと発表した。既存のフロンティアモデルと併用しつつ、高頻度なタスクを低コストな自社モデルへ振り分けることでコストパフォーマンスを向上させる。今後も他サービスへ同様のアプローチを拡大する方針だ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "画像も動画も音声も生成できるAI「FLUX 3」が発表される",
+      "link": "https://gigazine.net/news/20260724-flux-3-generation-ai/",
+      "date": "2026-07-24T11:35:00+09:00",
+      "dateLabel": "07/24 11:35",
+      "desc": "AI開発企業のBlack Forest Labsが独自開発のAIモデル「FLUX 3」を発表しました。FLUX 3は「画像」「動画」「音声」の生成に対応したマルチモーダルモデルで、記事作成時点では動画生成機能が早期アクセス版としてリリースされています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
+      "cat": "生成AI/マルチモーダル",
+      "score": 42
+    },
+    {
+      "title": "AIは“声で操作”する時代に？ ChatGPTとClaude、相次ぎ音声機能を強化",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000218/",
+      "date": "2026-07-24T11:15:46+09:00",
+      "dateLabel": "07/24 11:15",
+      "desc": "米OpenAIと米Anthropicが相次いで自社AIサービスの音声機能を強化した。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 42
     },
@@ -217,36 +206,14 @@
       "score": 34
     },
     {
-      "title": "海外の「Claude」や「GPT」ではダメなのか 日本企業向けai&、そのメリットは？",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news052.html",
-      "date": "2026-07-24T13:00:00+09:00",
-      "dateLabel": "07/24 13:00",
-      "desc": "ai&は、日本企業向けに設計したAI推論プラットフォーム「ai& Inference」の提供を開始した。ClaudeやGPTなど海外ベンダーのAIに代わる選択肢として、AI利用コストを大幅に削減できるとしている。",
+      "title": "ChatGPTがAppleヘルスケアや医療記録との接続に対応、検査結果や運動データを読み込ませて質問可能に",
+      "link": "https://gigazine.net/news/20260724-health-in-chatgpt/",
+      "date": "2026-07-24T11:05:00+09:00",
+      "dateLabel": "07/24 11:05",
+      "desc": "OpenAIが2026年7月23日、ChatGPTに個人の医療記録やAppleヘルスケアの情報を接続できる「Health in ChatGPT」のアメリカ向け提供を開始すると発表しました。検査結果の変化や診察履歴、睡眠時間、運動量などをChatGPTが参照し、利用者の健康状態に合わせた回答を生成できるようになります。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
+      "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "画像・動画・音声の生成AIモデルを条件に合わせて自動で選ぶ「Runway Media Router」が登場",
-      "link": "https://gigazine.net/news/20260724-runway-media-router/",
-      "date": "2026-07-24T12:48:00+09:00",
-      "dateLabel": "07/24 12:48",
-      "desc": "生成AI企業のRunwayは2026年7月23日、画像・動画・音声の生成に使うAIモデルを自動で選択する「Runway Media Router」を発表しました。開発者向けプラットフォーム「Runway Dev」に追加された新機能で、品質や処理速度、料金の優先順位に合わせて自動で利用モデルを切り替えます。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "「Geekbench 7」が登場、「CUDAでのGPU演算」「AV1での動画エンコード」「文字起こしAIで字幕生成」など現代的ワークフローのテストが追加される",
-      "link": "https://gigazine.net/news/20260724-geekbench-7/",
-      "date": "2026-07-24T10:34:00+09:00",
-      "dateLabel": "07/24 10:34",
-      "desc": "ベンチマークアプリ「Geekbench 7」が現地時間の2026年7月23日にリリースされました。2023年2月の「Geekbench 6」から3年半ぶりのメジャーアップデートで、テスト内容にAI処理などの現代的なワークフローが追加されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -279,6 +246,39 @@
       "desc": "作業効率を高める17.3型ディスプレー搭載のACEMAGIC製ノートPCが、Amazonでお買い得になっています。16GBメモリと512GB SSDを備えた実用的な一台が、レジにて15%オフの5万円台になりますのでお見逃しなく。",
       "img": "https://ascii.jp/img/2026/06/30/4491473/s/fcc22ac62fc4e40f.jpg",
       "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "Switch 2ユーザー必携！ 本体やアクセサリー、AirTagも収納できるBelkin製収納ケースが3620円",
+      "link": "https://ascii.jp/elem/000/004/422/4422177/?rss",
+      "date": "2026-07-24T22:30:00+09:00",
+      "dateLabel": "07/24 22:30",
+      "desc": "Amazon.co.jpにて、Belkinの「Nintendo Switch 2 収納ケース」が販売中だ。価格は3620円。本体のほか、AirTagやゲームカードも収納できる。",
+      "img": "https://ascii.jp/img/2026/07/24/4505112/s/077b1200fada363f.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "日本中の「AIでつくってみた」が集まるお祭り「生成AIなんでも展示会 Vol.6」9月23日（水・祝）浜松町で開催！約300組出展予定・入場無料",
+      "link": "https://ascii.jp/elem/000/004/422/4422209/?rss",
+      "date": "2026-07-24T20:28:37+09:00",
+      "dateLabel": "07/24 20:28",
+      "desc": "日本中の「AIでつくってみた」が集まるお祭り「生成AIなんでも展示会 Vol.6」9月23日（水・祝）浜松町で開催！約300組出展予定・入場無料",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 26
+    },
+    {
+      "title": "アメリカのスタートアップ企業が「中国製のオープンウェイトAIを禁止しないで」とトランプ政権に訴えかける",
+      "link": "https://gigazine.net/news/20260724-us-startup-urge-trump-chinese-open-ai/",
+      "date": "2026-07-24T19:00:00+09:00",
+      "dateLabel": "07/24 19:00",
+      "desc": "スタートアップ企業を含む約200のAI関連企業が、「中国のオープンウェイトAIモデルへのアクセスを遮断すれば、次世代のスタートアップの競争力を損なう恐れがある」として、ドナルド・トランプ政権に対し公開書簡を送付しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AI全般",
       "score": 26
     }
