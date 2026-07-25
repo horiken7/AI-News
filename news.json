@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-25T08:55:18.956015+09:00",
-  "generatedLabel": "2026/07/25 08:55",
+  "generatedAt": "2026-07-25T10:46:26.993581+09:00",
+  "generatedLabel": "2026/07/25 10:46",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 56,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 12
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -184,17 +184,6 @@
       "score": 42
     },
     {
-      "title": "「Geekbench 7」が登場、「CUDAでのGPU演算」「AV1での動画エンコード」「文字起こしAIで字幕生成」など現代的ワークフローのテストが追加される",
-      "link": "https://gigazine.net/news/20260724-geekbench-7/",
-      "date": "2026-07-24T10:34:00+09:00",
-      "dateLabel": "07/24 10:34",
-      "desc": "ベンチマークアプリ「Geekbench 7」が現地時間の2026年7月23日にリリースされました。2023年2月の「Geekbench 6」から3年半ぶりのメジャーアップデートで、テスト内容にAI処理などの現代的なワークフローが追加されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
       "title": "ゲームも動画編集もOKなスペックが魅力！ メモリ32GB＆RTX 5060搭載のLenovo製15.6型ゲーミングノート",
       "link": "https://ascii.jp/elem/000/004/422/4422166/?rss",
       "date": "2026-07-24T22:00:00+09:00",
@@ -214,17 +203,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "Dify、AIエージェントの本番実装をテーマに「IF Con Tokyo 2026」開催",
-      "link": "https://ascii.jp/elem/000/004/422/4422169/?rss",
-      "date": "2026-07-24T18:32:54+09:00",
-      "dateLabel": "07/24 18:32",
-      "desc": "Dify、AIエージェントの本番実装をテーマに「IF Con Tokyo 2026」開催",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -261,6 +239,17 @@
       "score": 34
     },
     {
+      "title": "「Geekbench 7」が登場、「CUDAでのGPU演算」「AV1での動画エンコード」「文字起こしAIで字幕生成」など現代的ワークフローのテストが追加される",
+      "link": "https://gigazine.net/news/20260724-geekbench-7/",
+      "date": "2026-07-24T10:34:00+09:00",
+      "dateLabel": "07/24 10:34",
+      "desc": "ベンチマークアプリ「Geekbench 7」が現地時間の2026年7月23日にリリースされました。2023年2月の「Geekbench 6」から3年半ぶりのメジャーアップデートで、テスト内容にAI処理などの現代的なワークフローが追加されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
       "title": "三井不動産がデータセンターに6000億円超投資、物流の枠超え「産業デベロッパー」へ",
       "link": "https://monoist.itmedia.co.jp/mn/articles/2607/24/news046.html",
       "date": "2026-07-24T06:15:00+09:00",
@@ -281,6 +270,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 28
+    },
+    {
+      "title": "5万円台で16GBメモリ＋512GB SSDの17型ノート！高コスパなPCをAmazonで発見",
+      "link": "https://ascii.jp/elem/000/004/422/4422197/?rss",
+      "date": "2026-07-25T08:00:00+09:00",
+      "dateLabel": "07/25 08:00",
+      "desc": "作業効率を高める17.3型ディスプレー搭載のACEMAGIC製ノートPCが、Amazonでお買い得になっています。16GBメモリと512GB SSDを備えた実用的な一台が、レジにて15%オフの5万円台になりますのでお見逃しなく。",
+      "img": "https://ascii.jp/img/2026/06/30/4491473/s/fcc22ac62fc4e40f.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     }
   ]
 }
