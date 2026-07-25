@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-25T16:11:36.968305+09:00",
-  "generatedLabel": "2026/07/25 16:11",
+  "generatedAt": "2026-07-25T18:27:33.906181+09:00",
+  "generatedLabel": "2026/07/25 18:27",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -151,6 +151,17 @@
       "score": 42
     },
     {
+      "title": "株式会社Saix、社内マニュアルの作成・検索・教育・更新を一体化する「Saix AIマニュアル Studio」を発表",
+      "link": "https://ascii.jp/elem/000/004/422/4422237/?rss",
+      "date": "2026-07-25T16:07:09+09:00",
+      "dateLabel": "07/25 16:07",
+      "desc": "株式会社Saix、社内マニュアルの作成・検索・教育・更新を一体化する「Saix AIマニュアル Studio」を発表",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "AMDがサーバーCPU「EPYC 9006」やAIラックサーバー「Helios」などAIデータセンター向けの製品を発表",
       "link": "https://gigazine.net/news/20260724-amd-advancing-ai-2026/",
       "date": "2026-07-24T19:09:00+09:00",
@@ -162,17 +173,6 @@
       "score": 34
     },
     {
-      "title": "AIにもサプライチェーン管理が必要？ 中国AI「Kimi K3」を巡る批判でAIの調達リスクが浮き彫りに",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news054.html",
-      "date": "2026-07-24T17:30:00+09:00",
-      "dateLabel": "07/24 17:30",
-      "desc": "中国の最新AIモデルを巡り、米政府高官が、Anthropicの「Claude Fable 5」をモデルの学習に利用した“不正蒸留”が行われていたと指摘した。AIモデルの調達や導入を巡るサプライチェーンリスクが浮き彫りとなっている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "AMDが高速AI推論システムのCerebrasと提携して超低遅延AIシステムを2026年後半に出荷予定",
       "link": "https://gigazine.net/news/20260724-amd-cerebras-collaborating/",
       "date": "2026-07-24T13:58:00+09:00",
@@ -181,17 +181,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "ChatGPTがAppleヘルスケアや医療記録との接続に対応、検査結果や運動データを読み込ませて質問可能に",
-      "link": "https://gigazine.net/news/20260724-health-in-chatgpt/",
-      "date": "2026-07-24T11:05:00+09:00",
-      "dateLabel": "07/24 11:05",
-      "desc": "OpenAIが2026年7月23日、ChatGPTに個人の医療記録やAppleヘルスケアの情報を接続できる「Health in ChatGPT」のアメリカ向け提供を開始すると発表しました。検査結果の変化や診察履歴、睡眠時間、運動量などをChatGPTが参照し、利用者の健康状態に合わせた回答を生成できるようになります。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -250,17 +239,6 @@
       "score": 26
     },
     {
-      "title": "グルメAIレコメンドアプリ「Bitee」、渋谷エリアの店舗を舞台にした食体験イベント「GOCHISOSAMA AWARD」を7月25日(土)より開催",
-      "link": "https://ascii.jp/elem/000/004/422/4422218/?rss",
-      "date": "2026-07-25T10:00:00+09:00",
-      "dateLabel": "07/25 10:00",
-      "desc": "グルメAIレコメンドアプリ「Bitee」、渋谷エリアの店舗を舞台にした食体験イベント「GOCHISOSAMA AWARD」を7月25日(土)より開催",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
       "title": "アメリカのスタートアップ企業が「中国製のオープンウェイトAIを禁止しないで」とトランプ政権に訴えかける",
       "link": "https://gigazine.net/news/20260724-us-startup-urge-trump-chinese-open-ai/",
       "date": "2026-07-24T19:00:00+09:00",
@@ -272,13 +250,35 @@
       "score": 26
     },
     {
-      "title": "近畿大、入試にAIの利用認める 情報学部の総合型選抜で",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000221/",
-      "date": "2026-07-24T17:45:19+09:00",
-      "dateLabel": "07/24 17:45",
-      "desc": "近畿大学は、2027年度の情報学部の総合型選抜入学試験で、生成AIの利用を認めると発表した。提出する自己PR動画やプレゼンテーション資料などでのAIの利用方針を明示した。",
+      "title": "AIにもサプライチェーン管理が必要？ 中国AI「Kimi K3」を巡る批判でAIの調達リスクが浮き彫りに",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news054.html",
+      "date": "2026-07-24T17:30:00+09:00",
+      "dateLabel": "07/24 17:30",
+      "desc": "中国の最新AIモデルを巡り、米政府高官が、Anthropicの「Claude Fable 5」をモデルの学習に利用した“不正蒸留”が行われていたと指摘した。AIモデルの調達や導入を巡るサプライチェーンリスクが浮き彫りとなっている。",
       "img": "",
       "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "海外の「Claude」や「GPT」ではダメなのか 日本企業向けai&、そのメリットは？",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news052.html",
+      "date": "2026-07-24T13:00:00+09:00",
+      "dateLabel": "07/24 13:00",
+      "desc": "ai&は、日本企業向けに設計したAI推論プラットフォーム「ai& Inference」の提供を開始した。ClaudeやGPTなど海外ベンダーのAIに代わる選択肢として、AI利用コストを大幅に削減できるとしている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "画像・動画・音声の生成AIモデルを条件に合わせて自動で選ぶ「Runway Media Router」が登場",
+      "link": "https://gigazine.net/news/20260724-runway-media-router/",
+      "date": "2026-07-24T12:48:00+09:00",
+      "dateLabel": "07/24 12:48",
+      "desc": "生成AI企業のRunwayは2026年7月23日、画像・動画・音声の生成に使うAIモデルを自動で選択する「Runway Media Router」を発表しました。開発者向けプラットフォーム「Runway Dev」に追加された新機能で、品質や処理速度、料金の優先順位に合わせて自動で利用モデルを切り替えます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "生成AI/マルチモーダル",
       "score": 26
     }
