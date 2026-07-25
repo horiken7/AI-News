@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-25T13:56:47.277898+09:00",
-  "generatedLabel": "2026/07/25 13:56",
+  "generatedAt": "2026-07-25T16:11:36.968305+09:00",
+  "generatedLabel": "2026/07/25 16:11",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 12
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -74,28 +74,6 @@
       "score": 74
     },
     {
-      "title": "Anthropic、「Claude Opus 5」発表 Fable 5級の性能を半額で",
-      "link": "https://ascii.jp/elem/000/004/422/4422202/?rss",
-      "date": "2026-07-25T06:25:00+09:00",
-      "dateLabel": "07/25 06:25",
-      "desc": "Anthropicは7月24日、新AIモデル「Claude Opus 5」を発表した。",
-      "img": "https://ascii.jp/img/2026/07/25/4505242/s/7a6e6bda3088f32e.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 58
-    },
-    {
-      "title": "NVIDIAジェンスン・ファンCEO、X初投稿で「オープンウェイトAI」支持を表明 25社・団体の共同書簡を公開",
-      "link": "https://ascii.jp/elem/000/004/422/4422201/?rss",
-      "date": "2026-07-25T06:15:00+09:00",
-      "dateLabel": "07/25 06:15",
-      "desc": "NVIDIAのジェンスン・ファンCEOは現地時間7月24日、自身初となるXへの投稿で、オープンウェイトAIモデルへの規制に慎重な対応を求める共同書簡を公開した。",
-      "img": "https://ascii.jp/img/2026/07/25/4505241/s/2a940e65f6d783cc.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
       "title": "「Claude Opus 5」が登場、Claude Fable 5の半額で同等性能を発揮し制限緩め",
       "link": "https://gigazine.net/news/20260725-claude-opus-5/",
       "date": "2026-07-25T05:32:00+09:00",
@@ -129,14 +107,14 @@
       "score": 50
     },
     {
-      "title": "AMDが高速AI推論システムのCerebrasと提携して超低遅延AIシステムを2026年後半に出荷予定",
-      "link": "https://gigazine.net/news/20260724-amd-cerebras-collaborating/",
-      "date": "2026-07-24T13:58:00+09:00",
-      "dateLabel": "07/24 13:58",
-      "desc": "AIの推論を高速化するシステムを開発しているCerebrasがAMDと提携しました。Cerebrasは自社のデータセンターにAMDのラックスケールソリューション「Helios」を導入する計画で、AI推論能力を強化します。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
+      "title": "せお丸、AI合宿全国ツアーを発表。ClaudeCodeを1泊2日で習得するスパルタ合宿。非エンジニアでもAIがマスターできるように！",
+      "link": "https://ascii.jp/elem/000/004/422/4422235/?rss",
+      "date": "2026-07-25T11:49:38+09:00",
+      "dateLabel": "07/25 11:49",
+      "desc": "せお丸、AI合宿全国ツアーを発表。ClaudeCodeを1泊2日で習得するスパルタ合宿。非エンジニアでもAIがマスターできるように！",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -173,17 +151,6 @@
       "score": 42
     },
     {
-      "title": "ゲームも動画編集もOKなスペックが魅力！ メモリ32GB＆RTX 5060搭載のLenovo製15.6型ゲーミングノート",
-      "link": "https://ascii.jp/elem/000/004/422/4422166/?rss",
-      "date": "2026-07-24T22:00:00+09:00",
-      "dateLabel": "07/24 22:00",
-      "desc": "Amazon.co.jpにて、Lenovoの15.6型ゲーミングノートPC「LOQ 15IRX10」が販売中だ。インテル「Core i7-14700HX」とNVIDIA「GeForce RTX 5060」を搭載したモデルで、価格は35万2800円。",
-      "img": "https://ascii.jp/img/2026/07/24/4505109/s/34d0f550a2816318.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
       "title": "AMDがサーバーCPU「EPYC 9006」やAIラックサーバー「Helios」などAIデータセンター向けの製品を発表",
       "link": "https://gigazine.net/news/20260724-amd-advancing-ai-2026/",
       "date": "2026-07-24T19:09:00+09:00",
@@ -203,6 +170,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "AMDが高速AI推論システムのCerebrasと提携して超低遅延AIシステムを2026年後半に出荷予定",
+      "link": "https://gigazine.net/news/20260724-amd-cerebras-collaborating/",
+      "date": "2026-07-24T13:58:00+09:00",
+      "dateLabel": "07/24 13:58",
+      "desc": "AIの推論を高速化するシステムを開発しているCerebrasがAMDと提携しました。Cerebrasは自社のデータセンターにAMDのラックスケールソリューション「Helios」を導入する計画で、AI推論能力を強化します。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -239,36 +217,47 @@
       "score": 28
     },
     {
-      "title": "5万円台で16GBメモリ＋512GB SSDの17型ノート！高コスパなPCをAmazonで発見",
-      "link": "https://ascii.jp/elem/000/004/422/4422197/?rss",
-      "date": "2026-07-25T08:00:00+09:00",
-      "dateLabel": "07/25 08:00",
-      "desc": "作業効率を高める17.3型ディスプレー搭載のACEMAGIC製ノートPCが、Amazonでお買い得になっています。16GBメモリと512GB SSDを備えた実用的な一台が、レジにて15%オフの5万円台になりますのでお見逃しなく。",
-      "img": "https://ascii.jp/img/2026/06/30/4491473/s/fcc22ac62fc4e40f.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "Appleはトランプ政権に中国製メモリの利用許可を求めるもMicronが反発",
+      "link": "https://gigazine.net/news/20260725-apple-micron-clash-trump-chinese-memory-chips/",
+      "date": "2026-07-25T16:00:00+09:00",
+      "dateLabel": "07/25 16:00",
+      "desc": "Appleはメモリ価格の高騰を受け、トランプ政権に対してブラックリストに登録されている中国企業との取引を求めているのですが、これに対して半導体大手のアメリカ企業であるMicronが反発していると報じられています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
       "score": 26
     },
     {
-      "title": "Switch 2ユーザー必携！ 本体やアクセサリー、AirTagも収納できるBelkin製収納ケースが3620円",
-      "link": "https://ascii.jp/elem/000/004/422/4422177/?rss",
-      "date": "2026-07-24T22:30:00+09:00",
-      "dateLabel": "07/24 22:30",
-      "desc": "Amazon.co.jpにて、Belkinの「Nintendo Switch 2 収納ケース」が販売中だ。価格は3620円。本体のほか、AirTagやゲームカードも収納できる。",
-      "img": "https://ascii.jp/img/2026/07/24/4505112/s/077b1200fada363f.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "日本中の「AIでつくってみた」が集まるお祭り「生成AIなんでも展示会 Vol.6」9月23日（水・祝）浜松町で開催！約300組出展予定・入場無料",
-      "link": "https://ascii.jp/elem/000/004/422/4422209/?rss",
-      "date": "2026-07-24T20:28:37+09:00",
-      "dateLabel": "07/24 20:28",
-      "desc": "日本中の「AIでつくってみた」が集まるお祭り「生成AIなんでも展示会 Vol.6」9月23日（水・祝）浜松町で開催！約300組出展予定・入場無料",
+      "title": "AIと血流シミュレーションの融合で、心血管疾患の診断支援を迅速に｜Medical Circulatorのソフトウェア開発がFukushima Tech Create アクセラレーションプログラム採択",
+      "link": "https://ascii.jp/elem/000/004/422/4422234/?rss",
+      "date": "2026-07-25T14:01:27+09:00",
+      "dateLabel": "07/25 14:01",
+      "desc": "AIと血流シミュレーションの融合で、心血管疾患の診断支援を迅速に｜Medical Circulatorのソフトウェア開発がFukushima Tech Create アクセラレーションプログラム採択",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "株式会社AI Japan 設立のお知らせ",
+      "link": "https://ascii.jp/elem/000/004/422/4422232/?rss",
+      "date": "2026-07-25T14:00:14+09:00",
+      "dateLabel": "07/25 14:00",
+      "desc": "株式会社AI Japan 設立のお知らせ",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "グルメAIレコメンドアプリ「Bitee」、渋谷エリアの店舗を舞台にした食体験イベント「GOCHISOSAMA AWARD」を7月25日(土)より開催",
+      "link": "https://ascii.jp/elem/000/004/422/4422218/?rss",
+      "date": "2026-07-25T10:00:00+09:00",
+      "dateLabel": "07/25 10:00",
+      "desc": "グルメAIレコメンドアプリ「Bitee」、渋谷エリアの店舗を舞台にした食体験イベント「GOCHISOSAMA AWARD」を7月25日(土)より開催",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 26
     },
     {
@@ -280,6 +269,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "近畿大、入試にAIの利用認める 情報学部の総合型選抜で",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000221/",
+      "date": "2026-07-24T17:45:19+09:00",
+      "dateLabel": "07/24 17:45",
+      "desc": "近畿大学は、2027年度の情報学部の総合型選抜入学試験で、生成AIの利用を認めると発表した。提出する自己PR動画やプレゼンテーション資料などでのAIの利用方針を明示した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "生成AI/マルチモーダル",
       "score": 26
     }
   ]
