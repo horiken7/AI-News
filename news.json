@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-26T06:43:46.184150+09:00",
-  "generatedLabel": "2026/07/26 06:43",
+  "generatedAt": "2026-07-26T07:43:25.330618+09:00",
+  "generatedLabel": "2026/07/26 07:43",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 55,
@@ -71,7 +71,18 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "規制/安全",
-      "score": 74
+      "score": 66
+    },
+    {
+      "title": "MicrosoftやNVIDIAなど、AIのオープンウェイト規制に反対する書簡を公開――Anthropicは署名せず",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/26/news014.html",
+      "date": "2026-07-26T06:51:00+09:00",
+      "dateLabel": "07/26 06:51",
+      "desc": "MicrosoftやNVIDIA、Metaなど30社以上の米国の企業や団体が、オープンウェイトAIモデルへの過度な規制回避を求める共同書簡を公開した。オープンモデルをAIエコシステムの基盤と位置付け、開発や評価におけるメリットとイノベーション促進を強調。中国企業の急速な台頭や技術流出を懸念する政権の規制動向に対し牽制を図る。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 50
     },
     {
       "title": "アトラシアン、JiraがAIによる要件定義の自動作成、コンテキストを保持しつつタスクをClaudeやCopilotなどのAIエージェントへアサインなど新機能",
@@ -266,17 +277,6 @@
       "date": "2026-07-24T17:30:00+09:00",
       "dateLabel": "07/24 17:30",
       "desc": "中国の最新AIモデルを巡り、米政府高官が、Anthropicの「Claude Fable 5」をモデルの学習に利用した“不正蒸留”が行われていたと指摘した。AIモデルの調達や導入を巡るサプライチェーンリスクが浮き彫りとなっている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "海外の「Claude」や「GPT」ではダメなのか 日本企業向けai&、そのメリットは？",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news052.html",
-      "date": "2026-07-24T13:00:00+09:00",
-      "dateLabel": "07/24 13:00",
-      "desc": "ai&は、日本企業向けに設計したAI推論プラットフォーム「ai& Inference」の提供を開始した。ClaudeやGPTなど海外ベンダーのAIに代わる選択肢として、AI利用コストを大幅に削減できるとしている。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
