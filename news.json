@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-27T07:50:27.985103+09:00",
-  "generatedLabel": "2026/07/27 07:50",
+  "generatedAt": "2026-07-27T08:52:30.655582+09:00",
+  "generatedLabel": "2026/07/27 08:52",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 50,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -140,6 +140,17 @@
       "score": 42
     },
     {
+      "title": "ASUS、約990gの14型ビジネスノート「ExpertBook Ultra」発売 有機EL＆Core Ultra 5搭載",
+      "link": "https://ascii.jp/elem/000/004/422/4422274/?rss",
+      "date": "2026-07-27T08:30:00+09:00",
+      "dateLabel": "07/27 08:30",
+      "desc": "メタディスクリプション案 ASUSの14型ビジネスノートPC「ExpertBook Ultra（B9406CAA）」が発売。約990gの軽量ボディに14型有機ELディスプレイ、Intel Core Ultra 5、32GBメモリーを搭載。AI支援機能「ASUS MyExpert」にも対応し、モバイルワークを快適にする最新モデルを紹介します。",
+      "img": "https://ascii.jp/img/2026/07/27/4505464/s/ac62d14f03c5046b.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "社内WebサービスをAIで開発 完成後に直面した運用の壁",
       "link": "https://ascii.jp/elem/000/004/422/4422271/?rss",
       "date": "2026-07-27T07:00:00+09:00",
@@ -206,6 +217,17 @@
       "score": 28
     },
     {
+      "title": "6割超の企業で「セキュリティは取引条件」 SCS対応も進む／パワハラと指導の違い、あなたの基準は？／AIへの危機感か 転職希望のIT人材が増加、ほか",
+      "link": "https://ascii.jp/elem/000/004/422/4422226/?rss",
+      "date": "2026-07-27T08:00:00+09:00",
+      "dateLabel": "07/27 08:00",
+      "desc": "今回（2026年7月18日～7月24日）は、企業間の取引条件になりつつあるセキュリティ対策への取り組み実態、AIの普及でキャリア観に変化が見られるIT人材転職、“量より質へ”シフトするフィッシング攻撃、「指導か、パワハラか？」の線引きに対する意識調査のデータを紹介します。",
+      "img": "https://ascii.jp/img/2026/07/25/4505311/s/54693ad85d5c1527.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "「iPhone高騰」はこれからも続く？ 中国CXMTに近づくApple、メモリ競合へのけん制が不発に終わりそうなワケ【後編】",
       "link": "https://www.itmedia.co.jp/news/articles/2607/27/news021.html",
       "date": "2026-07-27T07:00:00+09:00",
@@ -239,17 +261,6 @@
       "score": 26
     },
     {
-      "title": "フリーランスライターが解雇された後もAI生成の記事に自分の名前が使われていたことに憤慨",
-      "link": "https://gigazine.net/news/20260726-ai-take-over-journalist/",
-      "date": "2026-07-26T08:00:00+09:00",
-      "dateLabel": "07/26 08:00",
-      "desc": "フリーランスライターとして出版・SEO企業のClickout Mediaで働いていたベン・トゥアティ氏が、解雇された後にAI生成された記事が自身の名前で公開されていたことを明らかにしました。ゲーム関連の記事を書いていたトゥアティ氏の名前は、すべてオンラインカジノの記事に使われていました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
       "title": "AIにもサプライチェーン管理が必要？ 中国AI「Kimi K3」を巡る批判でAIの調達リスクが浮き彫りに",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news054.html",
       "date": "2026-07-24T17:30:00+09:00",
@@ -270,17 +281,6 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 26
-    },
-    {
-      "title": "経理AIエージェントの導入判断はRPAとの違いで見極める！メリットも解説",
-      "link": "https://ainow.ai/2026/07/24/278274/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%25b5%258c%25e7%2590%2586ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e5%25b0%258e%25e5%2585%25a5%25e5%2588%25a4%25e6%2596%25ad%25e3%2581%25afrpa%25e3%2581%25a8%25e3%2581%25ae%25e9%2581%2595%25e3%2581%2584%25e3%2581%25a7%25e8%25a6%258b%25e6%25a5%25b5",
-      "date": "2026-07-24T03:58:25+09:00",
-      "dateLabel": "07/24 03:58",
-      "desc": "経理の定型業務に追われながらも「AIエージェント」という言葉を耳にし、自社の経理にどう活かせるのか気になっている担当者は多いでしょう。 会計ソフトの自動化やRPAとの違いが曖昧なままでは、導入の是非を判断できません。経理... The post 経理AIエージェントの導入判断はRPAとの違いで見極める！メリットも解説 first appeared on AI",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 20
     }
   ]
 }
