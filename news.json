@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-26T21:57:31.273073+09:00",
-  "generatedLabel": "2026/07/26 21:57",
+  "generatedAt": "2026-07-26T23:26:51.168633+09:00",
+  "generatedLabel": "2026/07/26 23:26",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 50,
+  "candidates": 48,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 8
+      "items": 6
     },
     {
       "source": "CNET Japan",
@@ -115,17 +115,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "「NVIDIAのCUDAの優位性は崩壊しつつある」とDeepSeek創業者が約4時間の講演で発言、利益追求よりもAGIの実現を目指す方針も明かされる",
-      "link": "https://gigazine.net/news/20260724-deepseek-liang-wenfeng-talk/",
-      "date": "2026-07-24T20:00:00+09:00",
-      "dateLabel": "07/24 20:00",
-      "desc": "中国のAI企業・DeepSeek創業者の梁文峰(リアン・ウェンフォン)氏が投資家向けに約4時間にわたる説明会を2026年5月20日に実施しており、その対談記録が公開されました。説明会では、梁氏が「利益最大化は目指さず、AGI(汎用人工知能)研究を最優先する」「NVIDIAのCUDAエコシステムの壁が新技術によって打ち破られつつあり、中国製チップのための新たな",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
       "score": 42
     },
     {
@@ -217,28 +206,6 @@
       "score": 26
     },
     {
-      "title": "ロボタクシー関連法案を巡り関係悪化中のWaymoがUberとの提携解消を検討",
-      "link": "https://gigazine.net/news/20260725-waymo-uber-tie-up-to-end/",
-      "date": "2026-07-25T22:50:00+09:00",
-      "dateLabel": "07/25 22:50",
-      "desc": "自動運転技術を用いたロボタクシーを運用しているWaymoが、2023年10月以来続いている配車サービス大手・Uberとの提携解消を検討していることがわかりました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "AMDがサーバーCPU「EPYC 9006」やAIラックサーバー「Helios」などAIデータセンター向けの製品を発表",
-      "link": "https://gigazine.net/news/20260724-amd-advancing-ai-2026/",
-      "date": "2026-07-24T19:09:00+09:00",
-      "dateLabel": "07/24 19:09",
-      "desc": "日本時間の2026年7月24日にAMDがAI関連の製品発表イベント「Advancing AI 2026」の基調講演を実施し、サーバー向けCPU「EPYC 9006」やラックスケールシステム「Helios」などを発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
       "title": "AIにもサプライチェーン管理が必要？ 中国AI「Kimi K3」を巡る批判でAIの調達リスクが浮き彫りに",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news054.html",
       "date": "2026-07-24T17:30:00+09:00",
@@ -280,6 +247,39 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
+      "score": 20
+    },
+    {
+      "title": "企業向けでAIツールで成長率トップはAnthropic、アカウント数が最も多いのはMicrosoft 365。Oktaが調査結果を発表",
+      "link": "https://www.publickey1.jp/blog/26/aianthropicmicrosoft_365okta.html",
+      "date": "2026-07-21T22:51:42+09:00",
+      "dateLabel": "07/21 22:51",
+      "desc": "アイデンティティ管理サービスを提供するOktaは、同社のサービスを用いている2万社以上の匿名化されたアクセスデータに基づく、企業でのAIツール利用実態について調査結果を発表しました。 成長率トップはAnthropic 1つ目の調査結果は、2...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "LLM/モデル",
+      "score": 20
+    },
+    {
+      "title": "AIエージェント導入の企業判断はROIで見極める！経営リスクも解説",
+      "link": "https://ainow.ai/2026/07/21/278263/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e5%25b0%258e%25e5%2585%25a5%25e3%2581%25ae%25e4%25bc%2581%25e6%25a5%25ad%25e5%2588%25a4%25e6%2596%25ad%25e3%2581%25afroi%25e3%2581%25a7%25e8%25a6%258b%25e6%25a5%25b5%25e3%2582%2581%25e3%2582%258b%25ef%25bc%2581%25e7%25b5%258c",
+      "date": "2026-07-21T01:57:38+09:00",
+      "dateLabel": "07/21 01:57",
+      "desc": "現場やDX推進部門からAIエージェント導入の提案を受けたものの、投資に見合うリターンがあるか判断できず、決裁に踏み切れずにいる経営層は少なくありません。 判断基準を持たないまま決裁すると、費用ばかりかさみ成果が出ない事態... The post AIエージェント導入の企業判断はROIで見極める！経営リスクも解説 first appeared on AI専門ニ",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 20
+    },
+    {
+      "title": "Rustで書き直されたBun、早くもClaude Codeアプリに本番投入された模様",
+      "link": "https://www.publickey1.jp/blog/26/rustbunclaude_code.html",
+      "date": "2026-07-21T00:52:57+09:00",
+      "dateLabel": "07/21 00:52",
+      "desc": "Claude Codeを用いてわずか11日間でZig言語からRust言語へ移植されたことが話題となっているJavaScriptランタイムのBunですが、そのRust版Bunが早くも7月17日にリリースされたClaude Code v2.1....",
+      "img": "",
+      "src": "Publickey",
+      "cat": "LLM/モデル",
       "score": 20
     }
   ]
