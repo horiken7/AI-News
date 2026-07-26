@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-27T06:49:52.113090+09:00",
-  "generatedLabel": "2026/07/27 06:49",
+  "generatedAt": "2026-07-27T07:50:27.985103+09:00",
+  "generatedLabel": "2026/07/27 07:50",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 49,
+  "candidates": 50,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 6
+      "items": 7
     },
     {
       "source": "CNET Japan",
@@ -74,17 +74,6 @@
       "score": 66
     },
     {
-      "title": "MicrosoftやNVIDIAなど、AIのオープンウェイト規制に反対する書簡を公開――Anthropicは署名せず",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/26/news014.html",
-      "date": "2026-07-26T06:51:00+09:00",
-      "dateLabel": "07/26 06:51",
-      "desc": "MicrosoftやNVIDIA、Metaなど30社以上の米国の企業や団体が、オープンウェイトAIモデルへの過度な規制回避を求める共同書簡を公開した。オープンモデルをAIエコシステムの基盤と位置付け、開発や評価におけるメリットとイノベーション促進を強調。中国企業の急速な台頭や技術流出を懸念する政権の規制動向に対し牽制を図る。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
       "title": "アトラシアン、JiraがAIによる要件定義の自動作成、コンテキストを保持しつつタスクをClaudeやCopilotなどのAIエージェントへアサインなど新機能",
       "link": "https://www.publickey1.jp/blog/26/jiraaiclaudecopilotai.html",
       "date": "2026-07-23T00:35:19+09:00",
@@ -103,6 +92,17 @@
       "desc": "スペースを取らないノートPCで、バリバリと最新ゲームをプレイしたい人に朗報。16型の大画面と180Hzのリフレッシュレート、そしてCPU＆GPUも高性能なマウスコンピューターのゲーミングノートが、今なら5万円オフの割引中！",
       "img": "https://ascii.jp/img/2026/07/24/4504513/s/3aecc12cae8da480.jpg",
       "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "MicrosoftやNVIDIAなど、AIのオープンウェイト規制に反対する書簡を公開――Anthropicは署名せず",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/26/news014.html",
+      "date": "2026-07-26T06:51:00+09:00",
+      "dateLabel": "07/26 06:51",
+      "desc": "MicrosoftやNVIDIA、Metaなど30社以上の米国の企業や団体が、オープンウェイトAIモデルへの過度な規制回避を求める共同書簡を公開した。オープンモデルをAIエコシステムの基盤と位置付け、開発や評価におけるメリットとイノベーション促進を強調。中国企業の急速な台頭や技術流出を懸念する政権の規制動向に対し牽制を図る。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "半導体/GPU",
       "score": 42
     },
@@ -138,6 +138,28 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 42
+    },
+    {
+      "title": "社内WebサービスをAIで開発 完成後に直面した運用の壁",
+      "link": "https://ascii.jp/elem/000/004/422/4422271/?rss",
+      "date": "2026-07-27T07:00:00+09:00",
+      "dateLabel": "07/27 07:00",
+      "desc": "非エンジニアの筆者が、AIを活用して個人向けアプリを社内Webサービスへ改修した話。複雑化に伴う障害やLLMごとの癖、運用上の課題を経験した。",
+      "img": "https://ascii.jp/img/2026/07/27/4505454/s/9c98525f8eb860f6.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "自作PCトーク『ジサトラKTU』生放送～Arc G3 Extreme搭載ポータブルゲーミングPCの性能を検証、MSI「Arc G3 Extreme搭載ポータブルゲーミングPCの性能を検証、MSI「Claw 8 EX Ai+」はマジでスゴかった!!」はマジでスゴかった!!～",
+      "link": "https://ascii.jp/elem/000/004/422/4422042/?rss",
+      "date": "2026-07-27T07:00:00+09:00",
+      "dateLabel": "07/27 07:00",
+      "desc": "Arc G3 Extreme搭載ポータブルゲーミングPCの性能を検証、MSI「Claw 8 EX Ai+」はマジでスゴかった!! 木曜20:00から放送スタート！",
+      "img": "https://ascii.jp/img/2025/09/19/4324489/s/4111cde7c86cf0b4.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "RTX 5070 Ti・RX 9070 XT搭載PCがお得に！ 7月27日限定BTOセール開始",
@@ -182,6 +204,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 28
+    },
+    {
+      "title": "「iPhone高騰」はこれからも続く？ 中国CXMTに近づくApple、メモリ競合へのけん制が不発に終わりそうなワケ【後編】",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/27/news021.html",
+      "date": "2026-07-27T07:00:00+09:00",
+      "dateLabel": "07/27 07:00",
+      "desc": "前編「Appleはもう『メモリのお得意様』ではない？ NVIDIAだけでiPhone数億台分、苦境に陥った”買いたたき王者”のいま」では、米Appleによる中華メモリメーカー・CXMTへの接近と、その対応にはあまり意味がないのでは？ という疑問を述べた。後編では筆者がそう考える背景をご紹介したい。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 26
     },
     {
       "title": "AIエージェントのセキュリティリスクとは？事例から学ぶ実践的な対策まで解説",
@@ -244,39 +277,6 @@
       "date": "2026-07-24T03:58:25+09:00",
       "dateLabel": "07/24 03:58",
       "desc": "経理の定型業務に追われながらも「AIエージェント」という言葉を耳にし、自社の経理にどう活かせるのか気になっている担当者は多いでしょう。 会計ソフトの自動化やRPAとの違いが曖昧なままでは、導入の是非を判断できません。経理... The post 経理AIエージェントの導入判断はRPAとの違いで見極める！メリットも解説 first appeared on AI",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 20
-    },
-    {
-      "title": "Markdownファイルが、AI時代の負債に？ Googleが提案する「ナレッジ標準化」の一手",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/23/news055.html",
-      "date": "2026-07-23T13:00:00+09:00",
-      "dateLabel": "07/23 13:00",
-      "desc": "Google Cloudは、AIエージェントが利用するナレッジをMarkdownで標準化するオープンフォーマット「Open Knowledge Format」を公開した。ベンダー非依存で、異なるエージェント間でもナレッジをそのまま共有できる。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 20
-    },
-    {
-      "title": "企業向けでAIツールで成長率トップはAnthropic、アカウント数が最も多いのはMicrosoft 365。Oktaが調査結果を発表",
-      "link": "https://www.publickey1.jp/blog/26/aianthropicmicrosoft_365okta.html",
-      "date": "2026-07-21T22:51:42+09:00",
-      "dateLabel": "07/21 22:51",
-      "desc": "アイデンティティ管理サービスを提供するOktaは、同社のサービスを用いている2万社以上の匿名化されたアクセスデータに基づく、企業でのAIツール利用実態について調査結果を発表しました。 成長率トップはAnthropic 1つ目の調査結果は、2...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "LLM/モデル",
-      "score": 20
-    },
-    {
-      "title": "AIエージェント導入の企業判断はROIで見極める！経営リスクも解説",
-      "link": "https://ainow.ai/2026/07/21/278263/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e5%25b0%258e%25e5%2585%25a5%25e3%2581%25ae%25e4%25bc%2581%25e6%25a5%25ad%25e5%2588%25a4%25e6%2596%25ad%25e3%2581%25afroi%25e3%2581%25a7%25e8%25a6%258b%25e6%25a5%25b5%25e3%2582%2581%25e3%2582%258b%25ef%25bc%2581%25e7%25b5%258c",
-      "date": "2026-07-21T01:57:38+09:00",
-      "dateLabel": "07/21 01:57",
-      "desc": "現場やDX推進部門からAIエージェント導入の提案を受けたものの、投資に見合うリターンがあるか判断できず、決裁に踏み切れずにいる経営層は少なくありません。 判断基準を持たないまま決裁すると、費用ばかりかさみ成果が出ない事態... The post AIエージェント導入の企業判断はROIで見極める！経営リスクも解説 first appeared on AI専門ニ",
       "img": "",
       "src": "AINOW",
       "cat": "AIエージェント/業務",
