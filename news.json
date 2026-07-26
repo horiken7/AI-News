@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-27T05:05:13.093770+09:00",
-  "generatedLabel": "2026/07/27 05:05",
+  "generatedAt": "2026-07-27T06:49:52.113090+09:00",
+  "generatedLabel": "2026/07/27 06:49",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 49,
@@ -170,7 +170,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
-      "score": 34
+      "score": 28
     },
     {
       "title": "Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場",
