@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-26T10:49:10.782136+09:00",
-  "generatedLabel": "2026/07/26 10:49",
+  "generatedAt": "2026-07-26T14:21:47.372755+09:00",
+  "generatedLabel": "2026/07/26 14:21",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 54,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 12
+      "items": 9
     },
     {
       "source": "CNET Japan",
@@ -96,14 +96,14 @@
       "score": 44
     },
     {
-      "title": "せお丸、AI合宿全国ツアーを発表。ClaudeCodeを1泊2日で習得するスパルタ合宿。非エンジニアでもAIがマスターできるように！",
-      "link": "https://ascii.jp/elem/000/004/422/4422235/?rss",
-      "date": "2026-07-25T11:49:38+09:00",
-      "dateLabel": "07/25 11:49",
-      "desc": "せお丸、AI合宿全国ツアーを発表。ClaudeCodeを1泊2日で習得するスパルタ合宿。非エンジニアでもAIがマスターできるように！",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "title": "【5万円引き】180Hz対応16型液晶搭載！ ノートPCでも最新ゲームをバリバリプレイできる1台が買い",
+      "link": "https://ascii.jp/elem/000/004/421/4421907/?rss",
+      "date": "2026-07-26T11:00:00+09:00",
+      "dateLabel": "07/26 11:00",
+      "desc": "スペースを取らないノートPCで、バリバリと最新ゲームをプレイしたい人に朗報。16型の大画面と180Hzのリフレッシュレート、そしてCPU＆GPUも高性能なマウスコンピューターのゲーミングノートが、今なら5万円オフの割引中！",
+      "img": "https://ascii.jp/img/2026/07/24/4504513/s/3aecc12cae8da480.jpg",
       "src": "ASCII.jp",
-      "cat": "LLM/モデル",
+      "cat": "半導体/GPU",
       "score": 42
     },
     {
@@ -162,17 +162,6 @@
       "score": 34
     },
     {
-      "title": "AMDが高速AI推論システムのCerebrasと提携して超低遅延AIシステムを2026年後半に出荷予定",
-      "link": "https://gigazine.net/news/20260724-amd-cerebras-collaborating/",
-      "date": "2026-07-24T13:58:00+09:00",
-      "dateLabel": "07/24 13:58",
-      "desc": "AIの推論を高速化するシステムを開発しているCerebrasがAMDと提携しました。Cerebrasは自社のデータセンターにAMDのラックスケールソリューション「Helios」を導入する計画で、AI推論能力を強化します。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
       "title": "三井不動産がデータセンターに6000億円超投資、物流の枠超え「産業デベロッパー」へ",
       "link": "https://monoist.itmedia.co.jp/mn/articles/2607/24/news046.html",
       "date": "2026-07-24T06:15:00+09:00",
@@ -217,6 +206,17 @@
       "score": 26
     },
     {
+      "title": "『おジャ魔女どれみ Magical Drone Show 2026 ～ も～っと！ピリカピリララ♪バースデーナイト ～』を開催しました",
+      "link": "https://ascii.jp/elem/000/004/422/4422252/?rss",
+      "date": "2026-07-25T23:34:29+09:00",
+      "dateLabel": "07/25 23:34",
+      "desc": "『おジャ魔女どれみ Magical Drone Show 2026 ～ も～っと！ピリカピリララ♪バースデーナイト ～』を開催しました",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "ロボタクシー関連法案を巡り関係悪化中のWaymoがUberとの提携解消を検討",
       "link": "https://gigazine.net/news/20260725-waymo-uber-tie-up-to-end/",
       "date": "2026-07-25T22:50:00+09:00",
@@ -228,6 +228,17 @@
       "score": 26
     },
     {
+      "title": "VTuber事務所ハコネクト所属「明堂しろね」が北米最大の特化型コンベンション「OffKai EXPO」に出演決定！",
+      "link": "https://ascii.jp/elem/000/004/422/4422251/?rss",
+      "date": "2026-07-25T18:00:00+09:00",
+      "dateLabel": "07/25 18:00",
+      "desc": "VTuber事務所ハコネクト所属「明堂しろね」が北米最大の特化型コンベンション「OffKai EXPO」に出演決定！",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "Appleはトランプ政権に中国製メモリの利用許可を求めるもMicronが反発",
       "link": "https://gigazine.net/news/20260725-apple-micron-clash-trump-chinese-memory-chips/",
       "date": "2026-07-25T16:00:00+09:00",
@@ -236,28 +247,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "AIと血流シミュレーションの融合で、心血管疾患の診断支援を迅速に｜Medical Circulatorのソフトウェア開発がFukushima Tech Create アクセラレーションプログラム採択",
-      "link": "https://ascii.jp/elem/000/004/422/4422234/?rss",
-      "date": "2026-07-25T14:01:27+09:00",
-      "dateLabel": "07/25 14:01",
-      "desc": "AIと血流シミュレーションの融合で、心血管疾患の診断支援を迅速に｜Medical Circulatorのソフトウェア開発がFukushima Tech Create アクセラレーションプログラム採択",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "株式会社AI Japan 設立のお知らせ",
-      "link": "https://ascii.jp/elem/000/004/422/4422232/?rss",
-      "date": "2026-07-25T14:00:14+09:00",
-      "dateLabel": "07/25 14:00",
-      "desc": "株式会社AI Japan 設立のお知らせ",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 26
     },
     {
@@ -277,6 +266,17 @@
       "date": "2026-07-24T17:30:00+09:00",
       "dateLabel": "07/24 17:30",
       "desc": "中国の最新AIモデルを巡り、米政府高官が、Anthropicの「Claude Fable 5」をモデルの学習に利用した“不正蒸留”が行われていたと指摘した。AIモデルの調達や導入を巡るサプライチェーンリスクが浮き彫りとなっている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "海外の「Claude」や「GPT」ではダメなのか 日本企業向けai&、そのメリットは？",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news052.html",
+      "date": "2026-07-24T13:00:00+09:00",
+      "dateLabel": "07/24 13:00",
+      "desc": "ai&は、日本企業向けに設計したAI推論プラットフォーム「ai& Inference」の提供を開始した。ClaudeやGPTなど海外ベンダーのAIに代わる選択肢として、AI利用コストを大幅に削減できるとしている。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
