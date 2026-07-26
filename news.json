@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-26T17:07:56.719284+09:00",
-  "generatedLabel": "2026/07/26 17:07",
+  "generatedAt": "2026-07-26T19:28:41.132153+09:00",
+  "generatedLabel": "2026/07/26 19:28",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 49,
+  "candidates": 50,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -151,6 +151,17 @@
       "score": 42
     },
     {
+      "title": "一度教えたら忘れない。民泊のゲスト対応AI、「AssistBnB メッセージAI」提供開始。全言語のゲストメッセージに15分以内で返信",
+      "link": "https://ascii.jp/elem/000/004/422/4422261/?rss",
+      "date": "2026-07-26T15:39:54+09:00",
+      "dateLabel": "07/26 15:39",
+      "desc": "一度教えたら忘れない。民泊のゲスト対応AI、「AssistBnB メッセージAI」提供開始。全言語のゲストメッセージに15分以内で返信",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "三井不動産がデータセンターに6000億円超投資、物流の枠超え「産業デベロッパー」へ",
       "link": "https://monoist.itmedia.co.jp/mn/articles/2607/24/news046.html",
       "date": "2026-07-24T06:15:00+09:00",
@@ -214,17 +225,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "VTuber事務所ハコネクト所属「明堂しろね」が北米最大の特化型コンベンション「OffKai EXPO」に出演決定！",
-      "link": "https://ascii.jp/elem/000/004/422/4422251/?rss",
-      "date": "2026-07-25T18:00:00+09:00",
-      "dateLabel": "07/25 18:00",
-      "desc": "VTuber事務所ハコネクト所属「明堂しろね」が北米最大の特化型コンベンション「OffKai EXPO」に出演決定！",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 26
     },
     {
