@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-26T14:21:47.372755+09:00",
-  "generatedLabel": "2026/07/26 14:21",
+  "generatedAt": "2026-07-26T17:07:56.719284+09:00",
+  "generatedLabel": "2026/07/26 17:07",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 49,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 9
+      "items": 8
     },
     {
       "source": "CNET Japan",
@@ -151,17 +151,6 @@
       "score": 42
     },
     {
-      "title": "株式会社Saix、社内マニュアルの作成・検索・教育・更新を一体化する「Saix AIマニュアル Studio」を発表",
-      "link": "https://ascii.jp/elem/000/004/422/4422237/?rss",
-      "date": "2026-07-25T16:07:09+09:00",
-      "dateLabel": "07/25 16:07",
-      "desc": "株式会社Saix、社内マニュアルの作成・検索・教育・更新を一体化する「Saix AIマニュアル Studio」を発表",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "三井不動産がデータセンターに6000億円超投資、物流の枠超え「産業デベロッパー」へ",
       "link": "https://monoist.itmedia.co.jp/mn/articles/2607/24/news046.html",
       "date": "2026-07-24T06:15:00+09:00",
@@ -239,17 +228,6 @@
       "score": 26
     },
     {
-      "title": "Appleはトランプ政権に中国製メモリの利用許可を求めるもMicronが反発",
-      "link": "https://gigazine.net/news/20260725-apple-micron-clash-trump-chinese-memory-chips/",
-      "date": "2026-07-25T16:00:00+09:00",
-      "dateLabel": "07/25 16:00",
-      "desc": "Appleはメモリ価格の高騰を受け、トランプ政権に対してブラックリストに登録されている中国企業との取引を求めているのですが、これに対して半導体大手のアメリカ企業であるMicronが反発していると報じられています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
       "title": "AMDがサーバーCPU「EPYC 9006」やAIラックサーバー「Helios」などAIデータセンター向けの製品を発表",
       "link": "https://gigazine.net/news/20260724-amd-advancing-ai-2026/",
       "date": "2026-07-24T19:09:00+09:00",
@@ -281,6 +259,28 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 26
+    },
+    {
+      "title": "経理AIエージェントの導入判断はRPAとの違いで見極める！メリットも解説",
+      "link": "https://ainow.ai/2026/07/24/278274/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%25b5%258c%25e7%2590%2586ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e5%25b0%258e%25e5%2585%25a5%25e5%2588%25a4%25e6%2596%25ad%25e3%2581%25afrpa%25e3%2581%25a8%25e3%2581%25ae%25e9%2581%2595%25e3%2581%2584%25e3%2581%25a7%25e8%25a6%258b%25e6%25a5%25b5",
+      "date": "2026-07-24T03:58:25+09:00",
+      "dateLabel": "07/24 03:58",
+      "desc": "経理の定型業務に追われながらも「AIエージェント」という言葉を耳にし、自社の経理にどう活かせるのか気になっている担当者は多いでしょう。 会計ソフトの自動化やRPAとの違いが曖昧なままでは、導入の是非を判断できません。経理... The post 経理AIエージェントの導入判断はRPAとの違いで見極める！メリットも解説 first appeared on AI",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "Markdownファイルが、AI時代の負債に？ Googleが提案する「ナレッジ標準化」の一手",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/23/news055.html",
+      "date": "2026-07-23T13:00:00+09:00",
+      "dateLabel": "07/23 13:00",
+      "desc": "Google Cloudは、AIエージェントが利用するナレッジをMarkdownで標準化するオープンフォーマット「Open Knowledge Format」を公開した。ベンダー非依存で、異なるエージェント間でもナレッジをそのまま共有できる。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 20
     }
   ]
 }
