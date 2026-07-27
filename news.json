@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-27T10:56:42.793177+09:00",
-  "generatedLabel": "2026/07/27 10:56",
+  "generatedAt": "2026-07-27T14:43:36.804967+09:00",
+  "generatedLabel": "2026/07/27 14:43",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 53,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 7
+      "items": 8
     },
     {
       "source": "CNET Japan",
@@ -74,26 +74,15 @@
       "score": 66
     },
     {
-      "title": "OpenAIやGoogle、「オープンウェイトAI規制反対」の共同書簡に署名 Anthropicだけ参加見送り",
-      "link": "https://ascii.jp/elem/000/004/422/4422306/?rss",
-      "date": "2026-07-27T10:40:00+09:00",
-      "dateLabel": "07/27 10:40",
-      "desc": "オープンウェイトAIモデルへの性急な規制に反対する共同書簡に、当初は名前のなかったOpenAIやGoogleなどが相次いで署名した。主要AI開発企業ではAnthropicのみが署名していない状況となっている。",
-      "img": "https://ascii.jp/img/2026/07/27/4505549/s/4b3a134dc8dd445b.png",
-      "src": "ASCII.jp",
-      "cat": "規制/安全",
-      "score": 50
-    },
-    {
-      "title": "OpenAIに1億ドルの計算資源提供を要求 Hugging Face CEO、“暴走AI”対策で",
-      "link": "https://ascii.jp/elem/000/004/422/4422303/?rss",
-      "date": "2026-07-27T10:00:00+09:00",
-      "dateLabel": "07/27 10:00",
-      "desc": "Hugging Face共同創業者のクレム・ドゥランクCEOは7月26日、OpenAIに対し、「暴走したAIエージェント」の実行トレース（行動ログ）の公開と、防御技術の研究を支援するため1億ドル相当の計算資源（コンピュート）の提供を求めたことを明らかにした。",
-      "img": "https://ascii.jp/img/2026/07/27/4505542/s/77989129923e3f86.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 50
+      "title": "NVIDIA、Microsoft、OpenAIなどがオープンモデル規制反対を表明 Anthropic従業員は「CUDAのオープンソース化が楽しみ」と皮肉",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/27/2000000222/",
+      "date": "2026-07-27T13:40:13+09:00",
+      "dateLabel": "07/27 13:40",
+      "desc": "NVIDIAやMicrosoftなどの企業・団体がオープンモデル規制に反対する共同声明を発表。各社CEOが賛同する一方、Anthropic従業員は「CUDAやWindowsのオープンソース化が楽しみだ」と皮肉った。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 58
     },
     {
       "title": "アトラシアン、JiraがAIによる要件定義の自動作成、コンテキストを保持しつつタスクをClaudeやCopilotなどのAIエージェントへアサインなど新機能",
@@ -107,14 +96,14 @@
       "score": 44
     },
     {
-      "title": "Final Aimが、エンジェル投資家のCraig Tegel氏よりプレシリーズAラウンドにて追加の資金調達を実施",
-      "link": "https://ascii.jp/elem/000/004/422/4422320/?rss",
-      "date": "2026-07-27T09:00:00+09:00",
-      "dateLabel": "07/27 09:00",
-      "desc": "Final Aimが、エンジェル投資家のCraig Tegel氏よりプレシリーズAラウンドにて追加の資金調達を実施",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "「AIの発展にはアメリカ製オープンモデルが必要不可欠」とする声明をMicrosoftが発表しNVIDIA・OpenAI・Google・AMDなども賛同",
+      "link": "https://gigazine.net/news/20260727-ai-open-weight/",
+      "date": "2026-07-27T12:18:00+09:00",
+      "dateLabel": "07/27 12:18",
+      "desc": "Microsoftが「AIリーダーシップを確保するためにアメリカ主導でオープンモデルを開発するべき」とする声明を発表しました。Google・OpenAI・NVIDIA・AMDといった大手テクノロジー企業も声明に賛同しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
       "score": 42
     },
     {
@@ -137,7 +126,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 42
+      "score": 36
     },
     {
       "title": "AIは“声で操作”する時代に？ ChatGPTとClaude、相次ぎ音声機能を強化",
@@ -148,40 +137,73 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 42
+      "score": 36
     },
     {
-      "title": "【無料ウェビナー】顧客の声（レビュー）をAI推奨の根拠に変える｜LLMO×UGCで実現する具体施策＆成功事例 を8/5(水)に開催",
-      "link": "https://ascii.jp/elem/000/004/422/4422322/?rss",
-      "date": "2026-07-27T09:00:00+09:00",
-      "dateLabel": "07/27 09:00",
-      "desc": "【無料ウェビナー】顧客の声（レビュー）をAI推奨の根拠に変える｜LLMO×UGCで実現する具体施策＆成功事例 を8/5(水)に開催",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "title": "見た目は街着、中身は空調服 アーバンリサーチのファン付きベスト",
+      "link": "https://ascii.jp/elem/000/004/422/4422404/?rss",
+      "date": "2026-07-27T13:15:00+09:00",
+      "dateLabel": "07/27 13:15",
+      "desc": "アーバンリサーチは7月25日、LOWERCASE、URBS、空調服による「AIRCOOLING VEST」を発表した。8月4日発売で、価格は3万5200円。",
+      "img": "https://ascii.jp/img/2026/07/27/4505643/s/b1b5287df6a98ae8.jpg",
       "src": "ASCII.jp",
-      "cat": "LLM/モデル",
+      "cat": "AI全般",
       "score": 34
     },
     {
-      "title": "応用物理学会 先進パワー半導体分科会第32回研究会「ウルトラワイドバンドギャップ半導体デバイス最前線」にて講演のお知らせ",
-      "link": "https://ascii.jp/elem/000/004/422/4422318/?rss",
-      "date": "2026-07-27T09:00:00+09:00",
-      "dateLabel": "07/27 09:00",
-      "desc": "応用物理学会 先進パワー半導体分科会第32回研究会「ウルトラワイドバンドギャップ半導体デバイス最前線」にて講演のお知らせ",
+      "title": "講談社が推進する宇宙遠隔マンガ制作プロジェクトの映像が初公開 セルシスの「CLIP STUDIO PAINT」が技術協力",
+      "link": "https://ascii.jp/elem/000/004/422/4422444/?rss",
+      "date": "2026-07-27T13:00:00+09:00",
+      "dateLabel": "07/27 13:00",
+      "desc": "講談社が推進する宇宙遠隔マンガ制作プロジェクトの映像が初公開 セルシスの「CLIP STUDIO PAINT」が技術協力",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "半導体/GPU",
+      "cat": "AI全般",
       "score": 34
     },
     {
-      "title": "三井不動産がデータセンターに6000億円超投資、物流の枠超え「産業デベロッパー」へ",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/24/news046.html",
-      "date": "2026-07-24T06:15:00+09:00",
-      "dateLabel": "07/24 06:15",
-      "desc": "三井不動産は事業説明会で「産業デベロッパー」への領域拡大を発表した。従来の物流拠点供給にとどまらず、研究開発施設や自動運転対応を進める。データセンター事業には累計6000億円超を投じ、稼働済みの3棟に加え7棟を開発中だ。",
+      "title": "【KOWRO】プロ仕様の『DMM GAME翻訳』の一部機能を一般公開し、翻訳未経験者も参加できるAI翻訳大会を初開催",
+      "link": "https://ascii.jp/elem/000/004/422/4422435/?rss",
+      "date": "2026-07-27T13:00:00+09:00",
+      "dateLabel": "07/27 13:00",
+      "desc": "【KOWRO】プロ仕様の『DMM GAME翻訳』の一部機能を一般公開し、翻訳未経験者も参加できるAI翻訳大会を初開催",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "世界No.1＊AIスマートグラスブランド「INMO」、製品発表会を開催",
+      "link": "https://ascii.jp/elem/000/004/422/4422414/?rss",
+      "date": "2026-07-27T13:00:00+09:00",
+      "dateLabel": "07/27 13:00",
+      "desc": "世界No.1＊AIスマートグラスブランド「INMO」、製品発表会を開催",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "SKハイニックスの営業利益が過去最高の約7.2兆円との市場予測",
+      "link": "https://gigazine.net/news/20260727-sk-hynix-post-record-profit/",
+      "date": "2026-07-27T12:55:00+09:00",
+      "dateLabel": "07/27 12:55",
+      "desc": "韓国の半導体大手SKハイニックスの2026年第2四半期営業利益が過去最高になる見込みだと、金融情報会社が独自の予想として発表しました。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
+      "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 28
+      "score": 34
+    },
+    {
+      "title": "Xと音楽出版社が3年間の著作権紛争で和解",
+      "link": "https://gigazine.net/news/20260727-x-music-copyright/",
+      "date": "2026-07-27T12:30:00+09:00",
+      "dateLabel": "07/27 12:30",
+      "desc": "2023年6月、全米音楽出版社協会(NMPA)が複数の音楽出版者を代表してXに対し「楽曲の著作権侵害投稿を放置した」として2億5000万ドル(約375億円)の損害賠償を求める訴訟を提起しました。約3年間続いた著作権紛争は2026年7月に和解し、共同の訴訟取り下げ合意書が提出されました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 34
     },
     {
       "title": "Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場",
@@ -195,6 +217,61 @@
       "score": 28
     },
     {
+      "title": "オフィスにピッタリの相棒！ メモリ32GBの一体型PC。Core 7・1TB搭載「ASUS V400 AiO」が21万円切り",
+      "link": "https://ascii.jp/elem/000/004/422/4422275/?rss",
+      "date": "2026-07-27T14:30:00+09:00",
+      "dateLabel": "07/27 14:30",
+      "desc": "ASUSの一体型PC「ASUS V400 AiO（V440VAK-BPC100WS）」がAmazonタイムセール対象。参考価格219,800円のところ、5％オフの208,810円で販売中。Core 7や32GBメモリ、1TB SSDを搭載し、Microsoft 365 Personal（24か月版）も付属する。",
+      "img": "https://ascii.jp/img/2026/07/27/4505461/s/b1f2d2cff84092e9.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "放送運行監視AI「VMO-AIPlus」テレビせとうち・TVQ九州放送が導入テレビ放送の運行状況をAIが自動監視",
+      "link": "https://ascii.jp/elem/000/004/422/4422445/?rss",
+      "date": "2026-07-27T13:00:00+09:00",
+      "dateLabel": "07/27 13:00",
+      "desc": "放送運行監視AI「VMO-AIPlus」テレビせとうち・TVQ九州放送が導入テレビ放送の運行状況をAIが自動監視",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "【楽天市場 7/31まで期間限定】11インチAndroidタブレット「DOOGEE U11セット版」が50％OFF！AI・90Hz・Widevine L1対応、キーボード付きで17,950円の特別価格",
+      "link": "https://ascii.jp/elem/000/004/422/4422447/?rss",
+      "date": "2026-07-27T12:37:46+09:00",
+      "dateLabel": "07/27 12:37",
+      "desc": "【楽天市場 7/31まで期間限定】11インチAndroidタブレット「DOOGEE U11セット版」が50％OFF！AI・90Hz・Widevine L1対応、キーボード付きで17,950円の特別価格",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "Hugging FaceのCEOがOpenAIのAIによるハッキング事件を受け「徹底的な透明性」を訴える",
+      "link": "https://gigazine.net/news/20260727-hugging-face-ceo-openai-hacking-radical-transparency/",
+      "date": "2026-07-27T12:25:00+09:00",
+      "dateLabel": "07/27 12:25",
+      "desc": "OpenAIはAIモデルの内部テスト中に、「新しいAIシステムで誤ってHugging Faceをハッキングしてしまった」と報告しました。この件について、Hugging Faceが「徹底的な透明性」を訴えています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "Appleのスマートグラス「N50」はプライバシー懸念で展開遅れか",
+      "link": "https://gigazine.net/news/20260727-apple-smart-glasses-n50-delay/",
+      "date": "2026-07-27T11:52:00+09:00",
+      "dateLabel": "07/27 11:52",
+      "desc": "Appleは「N50」というコードネームでスマートグラスの開発を進めています。もともとは2026年内に発表することを目指していましたが、カメラ搭載AIスマートグラスによるプライバシー問題が浮上したことによる対応で、遅れが発生しているとみられています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 26
+    },
+    {
       "title": "Facebookが「BOTではなく人間」を証明する認証システム「Facebook Verified」を開始、自撮りで認証可能で費用はゼロ",
       "link": "https://gigazine.net/news/20260727-facebook-verified/",
       "date": "2026-07-27T10:53:00+09:00",
@@ -203,83 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "人材紹介のエリメントHRC、「PeopleX AIロープレ」を導入",
-      "link": "https://ascii.jp/elem/000/004/422/4422319/?rss",
-      "date": "2026-07-27T09:00:00+09:00",
-      "dateLabel": "07/27 09:00",
-      "desc": "人材紹介のエリメントHRC、「PeopleX AIロープレ」を導入",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "夏の自由研究はAIではない本物の医師といっしょに！「自由研究おたすけドクター」2026年も開催",
-      "link": "https://ascii.jp/elem/000/004/422/4422313/?rss",
-      "date": "2026-07-27T09:00:00+09:00",
-      "dateLabel": "07/27 09:00",
-      "desc": "夏の自由研究はAIではない本物の医師といっしょに！「自由研究おたすけドクター」2026年も開催",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "賢いAIほど偏見を持つ、採用AIの落とし穴／米国でヒートポンプが売れ行き好調",
-      "link": "https://ascii.jp/elem/000/004/422/4422269/?rss",
-      "date": "2026-07-27T09:00:00+09:00",
-      "dateLabel": "07/27 09:00",
-      "desc": "世界最先端のテクノロジー情報をお届けするグローバルメディア「MITテクノロジーレビュー」から、ビジネスに役立つ注目のテック企業の最新動向、イノベーションにつながる最新の研究内容をピックアップして紹介します。",
-      "img": "https://ascii.jp/img/2026/07/26/4505451/s/5ec2d83341ecc270.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "「iPhone高騰」はこれからも続く？ 中国CXMTに近づくApple、メモリ競合へのけん制が不発に終わりそうなワケ【後編】",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/27/news021.html",
-      "date": "2026-07-27T07:00:00+09:00",
-      "dateLabel": "07/27 07:00",
-      "desc": "前編「Appleはもう『メモリのお得意様』ではない？ NVIDIAだけでiPhone数億台分、苦境に陥った”買いたたき王者”のいま」では、米Appleによる中華メモリメーカー・CXMTへの接近と、その対応にはあまり意味がないのでは？ という疑問を述べた。後編では筆者がそう考える背景をご紹介したい。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "AIエージェントのセキュリティリスクとは？事例から学ぶ実践的な対策まで解説",
-      "link": "https://ainow.ai/2026/07/27/278284/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e3%2582%25bb%25e3%2582%25ad%25e3%2583%25a5%25e3%2583%25aa%25e3%2583%2586%25e3%2582%25a3%25e3%2583%25aa%25e3%2582%25b9%25e3%2582%25af%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e4%25ba%258b%25e4%25be%258b%25e3%2581%258b",
-      "date": "2026-07-27T01:10:19+09:00",
-      "dateLabel": "07/27 01:10",
-      "desc": "自社でAIエージェント導入を検討する中、自律的に動く性質がどんなセキュリティリスクを生むのか判断できず、対策の検討が止まっている方は少なくないでしょう。 AIエージェントのリスクは、権限の過剰付与や監視体制の不備といった... The post AIエージェントのセキュリティリスクとは？事例から学ぶ実践的な対策まで解説 first appeared on A",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "MCP仕様が明日アップデート、7月28日版MCPからはステートレスな接続が正式仕様に。GitHub MCPサーバが早くも対応発表",
-      "link": "https://www.publickey1.jp/blog/26/mcp728mcpgithub_mcp.html",
-      "date": "2026-07-27T00:06:36+09:00",
-      "dateLabel": "07/27 00:06",
-      "desc": "AIツールとサービスを接続するための事実上の業界標準となっている通信プロトコルMCP（Model Context Protocol）の7月28日版仕様の登場が目前となっています。 MCPの仕様は継続的にアップデートされ続けており、GitHu...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "AIにもサプライチェーン管理が必要？ 中国AI「Kimi K3」を巡る批判でAIの調達リスクが浮き彫りに",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news054.html",
-      "date": "2026-07-24T17:30:00+09:00",
-      "dateLabel": "07/24 17:30",
-      "desc": "中国の最新AIモデルを巡り、米政府高官が、Anthropicの「Claude Fable 5」をモデルの学習に利用した“不正蒸留”が行われていたと指摘した。AIモデルの調達や導入を巡るサプライチェーンリスクが浮き彫りとなっている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
       "score": 26
     }
   ]
