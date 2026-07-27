@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-27T18:30:02.132455+09:00",
-  "generatedLabel": "2026/07/27 18:30",
+  "generatedAt": "2026-07-27T21:50:31.874440+09:00",
+  "generatedLabel": "2026/07/27 21:50",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 49,
+  "candidates": 50,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 8
+      "items": 9
     },
     {
       "source": "CNET Japan",
@@ -96,6 +96,17 @@
       "score": 44
     },
     {
+      "title": "AIがHugging FaceをハッキングしていたことにOpenAIは1週間気づかなかったと関係者が明かす",
+      "link": "https://gigazine.net/news/20260727-ai-hacking-notice/",
+      "date": "2026-07-27T20:00:00+09:00",
+      "dateLabel": "07/27 20:00",
+      "desc": "AIプラットフォームのHugging Faceは2026年7月16日に「Hugging Faceの本番環境インフラの一部への不正アクセスを検知した」と発表し、その後の調査でOpenAIがAIモデルの社内テスト中に誤ってハッキングしてしまったことを明らかにしました。捜査関係者が匿名で明かした追加情報では、OpenAIは自社のAIエージェントがHugging F",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "「AIの発展にはアメリカ製オープンモデルが必要不可欠」とする声明をMicrosoftが発表しNVIDIA・OpenAI・Google・AMDなども賛同",
       "link": "https://gigazine.net/news/20260727-ai-open-weight/",
       "date": "2026-07-27T12:18:00+09:00",
@@ -140,14 +151,25 @@
       "score": 36
     },
     {
-      "title": "マーケティングAI OS「ENSOR」、Slack連携機能をリリース",
-      "link": "https://ascii.jp/elem/000/004/422/4422527/?rss",
-      "date": "2026-07-27T17:32:46+09:00",
-      "dateLabel": "07/27 17:32",
-      "desc": "マーケティングAI OS「ENSOR」、Slack連携機能をリリース",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "title": "NVIDIA、「オープンなAIセキュリティ」掲げる業界連合 Microsoftなど30社超が参加",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/27/2000000224/",
+      "date": "2026-07-27T19:42:07+09:00",
+      "dateLabel": "07/27 19:42",
+      "desc": "米NVIDIAは、AIセキュリティ向けのオープンな技術を開発・共有する業界連合「Open Secure AI Alliance」を設立すると発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "GPUランクアップがたった888円！ RTX 5060 Tiに変更できるRyzen 5搭載「GALLERIA」が22万円台",
+      "link": "https://ascii.jp/elem/000/004/421/4421957/?rss",
+      "date": "2026-07-27T19:00:00+09:00",
+      "dateLabel": "07/27 19:00",
+      "desc": "ドスパラのゲーミングPCが22万円台。期間中はわずか888円でGeForce RTX 5060 Tiへ変更可能。Ryzen 5や16GBメモリーを搭載し、初めてのゲーミングPCにもおすすめだ。",
+      "img": "https://ascii.jp/img/2026/07/24/4504574/s/73fa22cb6ea51e8c.png",
       "src": "ASCII.jp",
-      "cat": "AI全般",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -184,25 +206,47 @@
       "score": 28
     },
     {
-      "title": "失敗したくないなら「iPad Air」一択！ バランスのいい構成で数年は現役",
-      "link": "https://ascii.jp/elem/000/004/422/4422466/?rss",
-      "date": "2026-07-27T17:00:00+09:00",
-      "dateLabel": "07/27 17:00",
-      "desc": "「iPad Air（M4）」がAmazon.co.jpで売れています。M4チップとLiquid Retina ディスプレイを搭載してパフォーマンスは十分。「とにかく扱いやすい」と好評の一品です。",
-      "img": "https://ascii.jp/img/2026/07/27/4505719/s/c5652c1cafbc2c69.jpg",
+      "title": "今週木曜まで15万9800円。16型・Core i5・メモリ16GB搭載、3年保証付き「VAIO F16」",
+      "link": "https://ascii.jp/elem/000/004/422/4422249/?rss",
+      "date": "2026-07-27T20:00:00+09:00",
+      "dateLabel": "07/27 20:00",
+      "desc": "VAIOストアでは、「VAIOストア WEEKLY セール」を開催中。毎週木曜に対象モデルが更新される期間限定キャンペーンで、対象製品を特別価格で販売している。期間は7月30日14時59分まで。",
+      "img": "https://ascii.jp/img/2026/07/21/4503203/s/4f415e2cf02d5d00.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "AI関連文書を装ってマルウェア「AsyncRAT」を配信する攻撃キャンペーンを確認",
-      "link": "https://ascii.jp/elem/000/004/422/4422277/?rss",
-      "date": "2026-07-27T17:00:00+09:00",
-      "dateLabel": "07/27 17:00",
-      "desc": "FortiGuard Labsは新たに、AI関連文書を装った悪意のあるファイルを配信するキャンペーンを観測しました。",
-      "img": "https://ascii.jp/img/2026/07/27/4505480/s/6f09eee3502cf4f7.jpg",
-      "src": "ASCII.jp",
+      "title": "Z世代に聞く次の流行、「AIイラスト」が1位に 「Claude Code」も上位",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/27/news092.html",
+      "date": "2026-07-27T19:00:00+09:00",
+      "dateLabel": "07/27 19:00",
+      "desc": "2026年も下半期を迎え、「Z世代」の若者たちがこれから流行ると思うものについて、市場調査会社のアスマーク（東京都渋谷区）などがインターネットでアンケートを実施した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "検索結果に「詐欺ではありません」と表示させる詐欺手口、警視庁が注意喚起 AI要約も餌食に",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/27/news076.html",
+      "date": "2026-07-27T19:00:00+09:00",
+      "dateLabel": "07/27 19:00",
+      "desc": "警視庁は、SNS型投資詐欺グループがWeb検索の仕組みを悪用し、検索結果に肯定的な情報を並べ、AI要約にも「詐欺ではありません」と表示させる手口を確認した。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "「生成AIなんでも展示会 Vol.6」ビジネス出展・協賛プランの募集を開始！来場3,000人規模・意思決定層も集うAIイベントでPR・採用を",
+      "link": "https://ascii.jp/elem/000/004/422/4422557/?rss",
+      "date": "2026-07-27T18:55:16+09:00",
+      "dateLabel": "07/27 18:55",
+      "desc": "「生成AIなんでも展示会 Vol.6」ビジネス出展・協賛プランの募集を開始！来場3,000人規模・意思決定層も集うAIイベントでPR・採用を",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
       "score": 26
     },
     {
@@ -228,58 +272,14 @@
       "score": 26
     },
     {
-      "title": "Appleのスマートグラス「N50」はプライバシー懸念で展開遅れか",
-      "link": "https://gigazine.net/news/20260727-apple-smart-glasses-n50-delay/",
-      "date": "2026-07-27T11:52:00+09:00",
-      "dateLabel": "07/27 11:52",
-      "desc": "Appleは「N50」というコードネームでスマートグラスの開発を進めています。もともとは2026年内に発表することを目指していましたが、カメラ搭載AIスマートグラスによるプライバシー問題が浮上したことによる対応で、遅れが発生しているとみられています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 26
-    },
-    {
-      "title": "Facebookが「BOTではなく人間」を証明する認証システム「Facebook Verified」を開始、自撮りで認証可能で費用はゼロ",
-      "link": "https://gigazine.net/news/20260727-facebook-verified/",
-      "date": "2026-07-27T10:53:00+09:00",
-      "dateLabel": "07/27 10:53",
-      "desc": "XやFacebookには以前から機械的に投稿を生成するBOTアカウントが大量に存在していましたが、AIの性能向上によって「人間と見分けがつかないAIボットアカウント」が急増しています。そんな中、Facebookに人間であることを証明する「Facebook Verified」という仕組みが追加されました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "「iPhone高騰」はこれからも続く？ 中国CXMTに近づくApple、メモリ競合へのけん制が不発に終わりそうなワケ【後編】",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/27/news021.html",
-      "date": "2026-07-27T07:00:00+09:00",
-      "dateLabel": "07/27 07:00",
-      "desc": "前編「Appleはもう『メモリのお得意様』ではない？ NVIDIAだけでiPhone数億台分、苦境に陥った”買いたたき王者”のいま」では、米Appleによる中華メモリメーカー・CXMTへの接近と、その対応にはあまり意味がないのでは？ という疑問を述べた。後編では筆者がそう考える背景をご紹介したい。",
+      "title": "AIエージェントと共に働くリスクとは？ PwCが説く「実践的ガバナンス」から考察",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2607/27/news049.html",
+      "date": "2026-07-27T12:00:00+09:00",
+      "dateLabel": "07/27 12:00",
+      "desc": "AIエージェントを安心・安全に活用するためのリスク管理とはどのようなものか。PwCコンサルティングは、サイバーセキュリティにとどまらない、包括的なリスク管理の必要性を説く。今回は、この話から、AIエージェントと共に働くリスクについて考察する。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "AIエージェントのセキュリティリスクとは？事例から学ぶ実践的な対策まで解説",
-      "link": "https://ainow.ai/2026/07/27/278284/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e3%2582%25bb%25e3%2582%25ad%25e3%2583%25a5%25e3%2583%25aa%25e3%2583%2586%25e3%2582%25a3%25e3%2583%25aa%25e3%2582%25b9%25e3%2582%25af%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e4%25ba%258b%25e4%25be%258b%25e3%2581%258b",
-      "date": "2026-07-27T01:10:19+09:00",
-      "dateLabel": "07/27 01:10",
-      "desc": "自社でAIエージェント導入を検討する中、自律的に動く性質がどんなセキュリティリスクを生むのか判断できず、対策の検討が止まっている方は少なくないでしょう。 AIエージェントのリスクは、権限の過剰付与や監視体制の不備といった... The post AIエージェントのセキュリティリスクとは？事例から学ぶ実践的な対策まで解説 first appeared on A",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "MCP仕様が明日アップデート、7月28日版MCPからはステートレスな接続が正式仕様に。GitHub MCPサーバが早くも対応発表",
-      "link": "https://www.publickey1.jp/blog/26/mcp728mcpgithub_mcp.html",
-      "date": "2026-07-27T00:06:36+09:00",
-      "dateLabel": "07/27 00:06",
-      "desc": "AIツールとサービスを接続するための事実上の業界標準となっている通信プロトコルMCP（Model Context Protocol）の7月28日版仕様の登場が目前となっています。 MCPの仕様は継続的にアップデートされ続けており、GitHu...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AI全般",
+      "cat": "規制/安全",
       "score": 26
     }
   ]
