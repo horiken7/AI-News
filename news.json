@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-27T21:50:31.874440+09:00",
-  "generatedLabel": "2026/07/27 21:50",
+  "generatedAt": "2026-07-28T00:36:59.194477+09:00",
+  "generatedLabel": "2026/07/28 00:36",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 50,
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 9
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 8
+      "items": 6
     },
     {
       "source": "AINOW",
@@ -83,6 +83,17 @@
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
       "score": 58
+    },
+    {
+      "title": "AIのトークン価格を10分の1にできる「プロンプトキャッシュ」の仕組みとは？",
+      "link": "https://gigazine.net/news/20260727-prompt-caching/",
+      "date": "2026-07-27T23:00:00+09:00",
+      "dateLabel": "07/27 23:00",
+      "desc": "OpenAIのGPTシリーズやAnthropicのClaudeなどの大規模言語モデル(LLM)では、同じプロンプトを繰り返し利用する場合に入力トークンの処理を再利用する「プロンプトキャッシュ」が導入されており、通常の入力トークンと比べて約10分の1の料金で利用できる場合があります。開発者向けサービスを提供するngrokが、プロンプトキャッシュの仕組みを詳しく",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 50
     },
     {
       "title": "アトラシアン、JiraがAIによる要件定義の自動作成、コンテキストを保持しつつタスクをClaudeやCopilotなどのAIエージェントへアサインなど新機能",
@@ -206,6 +217,17 @@
       "score": 28
     },
     {
+      "title": "NVIDIAの革ジャンCEOと同じメニューを東京の居酒屋で食べてきたよレポート、時価総額世界一のCEOは一体何を食べたのか？",
+      "link": "https://gigazine.net/news/20260727-nvidia-jensen-huang-izakaya/",
+      "date": "2026-07-27T22:10:00+09:00",
+      "dateLabel": "07/27 22:10",
+      "desc": "2026年7月15日にNVIDIAのジェンスン・フアンCEOが来日し、東京の居酒屋「やきとん三吉 神田北口店」で食事しました。その際のメニューがそのまま「ご来店記念コース」としてコースメニュー化していたので、実際に予約して食べてきました。時価総額世界一の企業のCEOが一体どんなものを食べたのか、詳しくレポートします。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
       "title": "今週木曜まで15万9800円。16型・Core i5・メモリ16GB搭載、3年保証付き「VAIO F16」",
       "link": "https://ascii.jp/elem/000/004/422/4422249/?rss",
       "date": "2026-07-27T20:00:00+09:00",
@@ -258,28 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "Hugging FaceのCEOがOpenAIのAIによるハッキング事件を受け「徹底的な透明性」を訴える",
-      "link": "https://gigazine.net/news/20260727-hugging-face-ceo-openai-hacking-radical-transparency/",
-      "date": "2026-07-27T12:25:00+09:00",
-      "dateLabel": "07/27 12:25",
-      "desc": "OpenAIはAIモデルの内部テスト中に、「新しいAIシステムで誤ってHugging Faceをハッキングしてしまった」と報告しました。この件について、Hugging Faceが「徹底的な透明性」を訴えています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "AIエージェントと共に働くリスクとは？ PwCが説く「実践的ガバナンス」から考察",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2607/27/news049.html",
-      "date": "2026-07-27T12:00:00+09:00",
-      "dateLabel": "07/27 12:00",
-      "desc": "AIエージェントを安心・安全に活用するためのリスク管理とはどのようなものか。PwCコンサルティングは、サイバーセキュリティにとどまらない、包括的なリスク管理の必要性を説く。今回は、この話から、AIエージェントと共に働くリスクについて考察する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
       "score": 26
     }
   ]
