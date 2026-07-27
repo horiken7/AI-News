@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-27T14:43:36.804967+09:00",
-  "generatedLabel": "2026/07/27 14:43",
+  "generatedAt": "2026-07-27T18:30:02.132455+09:00",
+  "generatedLabel": "2026/07/27 18:30",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 49,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -140,44 +140,11 @@
       "score": 36
     },
     {
-      "title": "見た目は街着、中身は空調服 アーバンリサーチのファン付きベスト",
-      "link": "https://ascii.jp/elem/000/004/422/4422404/?rss",
-      "date": "2026-07-27T13:15:00+09:00",
-      "dateLabel": "07/27 13:15",
-      "desc": "アーバンリサーチは7月25日、LOWERCASE、URBS、空調服による「AIRCOOLING VEST」を発表した。8月4日発売で、価格は3万5200円。",
-      "img": "https://ascii.jp/img/2026/07/27/4505643/s/b1b5287df6a98ae8.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "講談社が推進する宇宙遠隔マンガ制作プロジェクトの映像が初公開 セルシスの「CLIP STUDIO PAINT」が技術協力",
-      "link": "https://ascii.jp/elem/000/004/422/4422444/?rss",
-      "date": "2026-07-27T13:00:00+09:00",
-      "dateLabel": "07/27 13:00",
-      "desc": "講談社が推進する宇宙遠隔マンガ制作プロジェクトの映像が初公開 セルシスの「CLIP STUDIO PAINT」が技術協力",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "【KOWRO】プロ仕様の『DMM GAME翻訳』の一部機能を一般公開し、翻訳未経験者も参加できるAI翻訳大会を初開催",
-      "link": "https://ascii.jp/elem/000/004/422/4422435/?rss",
-      "date": "2026-07-27T13:00:00+09:00",
-      "dateLabel": "07/27 13:00",
-      "desc": "【KOWRO】プロ仕様の『DMM GAME翻訳』の一部機能を一般公開し、翻訳未経験者も参加できるAI翻訳大会を初開催",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "世界No.1＊AIスマートグラスブランド「INMO」、製品発表会を開催",
-      "link": "https://ascii.jp/elem/000/004/422/4422414/?rss",
-      "date": "2026-07-27T13:00:00+09:00",
-      "dateLabel": "07/27 13:00",
-      "desc": "世界No.1＊AIスマートグラスブランド「INMO」、製品発表会を開催",
+      "title": "マーケティングAI OS「ENSOR」、Slack連携機能をリリース",
+      "link": "https://ascii.jp/elem/000/004/422/4422527/?rss",
+      "date": "2026-07-27T17:32:46+09:00",
+      "dateLabel": "07/27 17:32",
+      "desc": "マーケティングAI OS「ENSOR」、Slack連携機能をリリース",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
@@ -217,35 +184,35 @@
       "score": 28
     },
     {
-      "title": "オフィスにピッタリの相棒！ メモリ32GBの一体型PC。Core 7・1TB搭載「ASUS V400 AiO」が21万円切り",
-      "link": "https://ascii.jp/elem/000/004/422/4422275/?rss",
-      "date": "2026-07-27T14:30:00+09:00",
-      "dateLabel": "07/27 14:30",
-      "desc": "ASUSの一体型PC「ASUS V400 AiO（V440VAK-BPC100WS）」がAmazonタイムセール対象。参考価格219,800円のところ、5％オフの208,810円で販売中。Core 7や32GBメモリ、1TB SSDを搭載し、Microsoft 365 Personal（24か月版）も付属する。",
-      "img": "https://ascii.jp/img/2026/07/27/4505461/s/b1f2d2cff84092e9.jpg",
+      "title": "失敗したくないなら「iPad Air」一択！ バランスのいい構成で数年は現役",
+      "link": "https://ascii.jp/elem/000/004/422/4422466/?rss",
+      "date": "2026-07-27T17:00:00+09:00",
+      "dateLabel": "07/27 17:00",
+      "desc": "「iPad Air（M4）」がAmazon.co.jpで売れています。M4チップとLiquid Retina ディスプレイを搭載してパフォーマンスは十分。「とにかく扱いやすい」と好評の一品です。",
+      "img": "https://ascii.jp/img/2026/07/27/4505719/s/c5652c1cafbc2c69.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "放送運行監視AI「VMO-AIPlus」テレビせとうち・TVQ九州放送が導入テレビ放送の運行状況をAIが自動監視",
-      "link": "https://ascii.jp/elem/000/004/422/4422445/?rss",
-      "date": "2026-07-27T13:00:00+09:00",
-      "dateLabel": "07/27 13:00",
-      "desc": "放送運行監視AI「VMO-AIPlus」テレビせとうち・TVQ九州放送が導入テレビ放送の運行状況をAIが自動監視",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "title": "AI関連文書を装ってマルウェア「AsyncRAT」を配信する攻撃キャンペーンを確認",
+      "link": "https://ascii.jp/elem/000/004/422/4422277/?rss",
+      "date": "2026-07-27T17:00:00+09:00",
+      "dateLabel": "07/27 17:00",
+      "desc": "FortiGuard Labsは新たに、AI関連文書を装った悪意のあるファイルを配信するキャンペーンを観測しました。",
+      "img": "https://ascii.jp/img/2026/07/27/4505480/s/6f09eee3502cf4f7.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "【楽天市場 7/31まで期間限定】11インチAndroidタブレット「DOOGEE U11セット版」が50％OFF！AI・90Hz・Widevine L1対応、キーボード付きで17,950円の特別価格",
-      "link": "https://ascii.jp/elem/000/004/422/4422447/?rss",
-      "date": "2026-07-27T12:37:46+09:00",
-      "dateLabel": "07/27 12:37",
-      "desc": "【楽天市場 7/31まで期間限定】11インチAndroidタブレット「DOOGEE U11セット版」が50％OFF！AI・90Hz・Widevine L1対応、キーボード付きで17,950円の特別価格",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
+      "title": "MIXI、新卒エンジニア向け研修資料＆動画を無料公開 「実践的なAI活用術」を12科目で紹介",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/27/2000000223/",
+      "date": "2026-07-27T15:08:15+09:00",
+      "dateLabel": "07/27 15:08",
+      "desc": "MIXIは、2026年度入社の新卒エンジニア向けに実施した技術研修の資料とアーカイブ動画を公開した。全12科目を通じ、業務におけるAIの活用法などを紹介している。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "AI全般",
       "score": 26
     },
@@ -279,6 +246,39 @@
       "desc": "XやFacebookには以前から機械的に投稿を生成するBOTアカウントが大量に存在していましたが、AIの性能向上によって「人間と見分けがつかないAIボットアカウント」が急増しています。そんな中、Facebookに人間であることを証明する「Facebook Verified」という仕組みが追加されました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "「iPhone高騰」はこれからも続く？ 中国CXMTに近づくApple、メモリ競合へのけん制が不発に終わりそうなワケ【後編】",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/27/news021.html",
+      "date": "2026-07-27T07:00:00+09:00",
+      "dateLabel": "07/27 07:00",
+      "desc": "前編「Appleはもう『メモリのお得意様』ではない？ NVIDIAだけでiPhone数億台分、苦境に陥った”買いたたき王者”のいま」では、米Appleによる中華メモリメーカー・CXMTへの接近と、その対応にはあまり意味がないのでは？ という疑問を述べた。後編では筆者がそう考える背景をご紹介したい。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "AIエージェントのセキュリティリスクとは？事例から学ぶ実践的な対策まで解説",
+      "link": "https://ainow.ai/2026/07/27/278284/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e3%2582%25bb%25e3%2582%25ad%25e3%2583%25a5%25e3%2583%25aa%25e3%2583%2586%25e3%2582%25a3%25e3%2583%25aa%25e3%2582%25b9%25e3%2582%25af%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e4%25ba%258b%25e4%25be%258b%25e3%2581%258b",
+      "date": "2026-07-27T01:10:19+09:00",
+      "dateLabel": "07/27 01:10",
+      "desc": "自社でAIエージェント導入を検討する中、自律的に動く性質がどんなセキュリティリスクを生むのか判断できず、対策の検討が止まっている方は少なくないでしょう。 AIエージェントのリスクは、権限の過剰付与や監視体制の不備といった... The post AIエージェントのセキュリティリスクとは？事例から学ぶ実践的な対策まで解説 first appeared on A",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "MCP仕様が明日アップデート、7月28日版MCPからはステートレスな接続が正式仕様に。GitHub MCPサーバが早くも対応発表",
+      "link": "https://www.publickey1.jp/blog/26/mcp728mcpgithub_mcp.html",
+      "date": "2026-07-27T00:06:36+09:00",
+      "dateLabel": "07/27 00:06",
+      "desc": "AIツールとサービスを接続するための事実上の業界標準となっている通信プロトコルMCP（Model Context Protocol）の7月28日版仕様の登場が目前となっています。 MCPの仕様は継続的にアップデートされ続けており、GitHu...",
+      "img": "",
+      "src": "Publickey",
       "cat": "AI全般",
       "score": 26
     }
