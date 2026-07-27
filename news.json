@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-28T00:36:59.194477+09:00",
-  "generatedLabel": "2026/07/28 00:36",
+  "generatedAt": "2026-07-28T02:29:39.368238+09:00",
+  "generatedLabel": "2026/07/28 02:29",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 50,
@@ -206,17 +206,6 @@
       "score": 34
     },
     {
-      "title": "Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場",
-      "link": "https://www.publickey1.jp/blog/26/claude_codeclaude_apps_gateway_for_awsgoogle_cloud.html",
-      "date": "2026-07-21T00:54:57+09:00",
-      "dateLabel": "07/21 00:54",
-      "desc": "AnthropicのAIコーディングエージェントClaud Codeは非常に人気のあるサービスとして多くの組織で採用され始めています。 Claude Codeは個人で簡単に導入できますが、企業が組織としてClaude Codeを導入する場合...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 28
-    },
-    {
       "title": "NVIDIAの革ジャンCEOと同じメニューを東京の居酒屋で食べてきたよレポート、時価総額世界一のCEOは一体何を食べたのか？",
       "link": "https://gigazine.net/news/20260727-nvidia-jensen-huang-izakaya/",
       "date": "2026-07-27T22:10:00+09:00",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "Hugging FaceのCEOがOpenAIのAIによるハッキング事件を受け「徹底的な透明性」を訴える",
+      "link": "https://gigazine.net/news/20260727-hugging-face-ceo-openai-hacking-radical-transparency/",
+      "date": "2026-07-27T12:25:00+09:00",
+      "dateLabel": "07/27 12:25",
+      "desc": "OpenAIはAIモデルの内部テスト中に、「新しいAIシステムで誤ってHugging Faceをハッキングしてしまった」と報告しました。この件について、Hugging Faceが「徹底的な透明性」を訴えています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 26
     }
   ]
