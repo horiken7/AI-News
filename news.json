@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-27T08:52:30.655582+09:00",
-  "generatedLabel": "2026/07/27 08:52",
+  "generatedAt": "2026-07-27T10:56:42.793177+09:00",
+  "generatedLabel": "2026/07/27 10:56",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 52,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -74,6 +74,28 @@
       "score": 66
     },
     {
+      "title": "OpenAIやGoogle、「オープンウェイトAI規制反対」の共同書簡に署名 Anthropicだけ参加見送り",
+      "link": "https://ascii.jp/elem/000/004/422/4422306/?rss",
+      "date": "2026-07-27T10:40:00+09:00",
+      "dateLabel": "07/27 10:40",
+      "desc": "オープンウェイトAIモデルへの性急な規制に反対する共同書簡に、当初は名前のなかったOpenAIやGoogleなどが相次いで署名した。主要AI開発企業ではAnthropicのみが署名していない状況となっている。",
+      "img": "https://ascii.jp/img/2026/07/27/4505549/s/4b3a134dc8dd445b.png",
+      "src": "ASCII.jp",
+      "cat": "規制/安全",
+      "score": 50
+    },
+    {
+      "title": "OpenAIに1億ドルの計算資源提供を要求 Hugging Face CEO、“暴走AI”対策で",
+      "link": "https://ascii.jp/elem/000/004/422/4422303/?rss",
+      "date": "2026-07-27T10:00:00+09:00",
+      "dateLabel": "07/27 10:00",
+      "desc": "Hugging Face共同創業者のクレム・ドゥランクCEOは7月26日、OpenAIに対し、「暴走したAIエージェント」の実行トレース（行動ログ）の公開と、防御技術の研究を支援するため1億ドル相当の計算資源（コンピュート）の提供を求めたことを明らかにした。",
+      "img": "https://ascii.jp/img/2026/07/27/4505542/s/77989129923e3f86.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
       "title": "アトラシアン、JiraがAIによる要件定義の自動作成、コンテキストを保持しつつタスクをClaudeやCopilotなどのAIエージェントへアサインなど新機能",
       "link": "https://www.publickey1.jp/blog/26/jiraaiclaudecopilotai.html",
       "date": "2026-07-23T00:35:19+09:00",
@@ -85,14 +107,14 @@
       "score": 44
     },
     {
-      "title": "【5万円引き】180Hz対応16型液晶搭載！ ノートPCでも最新ゲームをバリバリプレイできる1台が買い",
-      "link": "https://ascii.jp/elem/000/004/421/4421907/?rss",
-      "date": "2026-07-26T11:00:00+09:00",
-      "dateLabel": "07/26 11:00",
-      "desc": "スペースを取らないノートPCで、バリバリと最新ゲームをプレイしたい人に朗報。16型の大画面と180Hzのリフレッシュレート、そしてCPU＆GPUも高性能なマウスコンピューターのゲーミングノートが、今なら5万円オフの割引中！",
-      "img": "https://ascii.jp/img/2026/07/24/4504513/s/3aecc12cae8da480.jpg",
+      "title": "Final Aimが、エンジェル投資家のCraig Tegel氏よりプレシリーズAラウンドにて追加の資金調達を実施",
+      "link": "https://ascii.jp/elem/000/004/422/4422320/?rss",
+      "date": "2026-07-27T09:00:00+09:00",
+      "dateLabel": "07/27 09:00",
+      "desc": "Final Aimが、エンジェル投資家のCraig Tegel氏よりプレシリーズAラウンドにて追加の資金調達を実施",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "半導体/GPU",
+      "cat": "AI全般",
       "score": 42
     },
     {
@@ -104,17 +126,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "「Claude Opus 5」が登場、Claude Fable 5の半額で同等性能を発揮し制限緩め",
-      "link": "https://gigazine.net/news/20260725-claude-opus-5/",
-      "date": "2026-07-25T05:32:00+09:00",
-      "dateLabel": "07/25 05:32",
-      "desc": "Anthropicが「Claude Opus 5」を日本時間の2026年7月25日未明にリリースしました。Claude Fable 5と同等の性能を半分の価格で実現したとアピールされており、第三者機関のテストでもClaude Fable 5を上回る性能が確認されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -140,58 +151,25 @@
       "score": 42
     },
     {
-      "title": "ASUS、約990gの14型ビジネスノート「ExpertBook Ultra」発売 有機EL＆Core Ultra 5搭載",
-      "link": "https://ascii.jp/elem/000/004/422/4422274/?rss",
-      "date": "2026-07-27T08:30:00+09:00",
-      "dateLabel": "07/27 08:30",
-      "desc": "メタディスクリプション案 ASUSの14型ビジネスノートPC「ExpertBook Ultra（B9406CAA）」が発売。約990gの軽量ボディに14型有機ELディスプレイ、Intel Core Ultra 5、32GBメモリーを搭載。AI支援機能「ASUS MyExpert」にも対応し、モバイルワークを快適にする最新モデルを紹介します。",
-      "img": "https://ascii.jp/img/2026/07/27/4505464/s/ac62d14f03c5046b.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "社内WebサービスをAIで開発 完成後に直面した運用の壁",
-      "link": "https://ascii.jp/elem/000/004/422/4422271/?rss",
-      "date": "2026-07-27T07:00:00+09:00",
-      "dateLabel": "07/27 07:00",
-      "desc": "非エンジニアの筆者が、AIを活用して個人向けアプリを社内Webサービスへ改修した話。複雑化に伴う障害やLLMごとの癖、運用上の課題を経験した。",
-      "img": "https://ascii.jp/img/2026/07/27/4505454/s/9c98525f8eb860f6.png",
+      "title": "【無料ウェビナー】顧客の声（レビュー）をAI推奨の根拠に変える｜LLMO×UGCで実現する具体施策＆成功事例 を8/5(水)に開催",
+      "link": "https://ascii.jp/elem/000/004/422/4422322/?rss",
+      "date": "2026-07-27T09:00:00+09:00",
+      "dateLabel": "07/27 09:00",
+      "desc": "【無料ウェビナー】顧客の声（レビュー）をAI推奨の根拠に変える｜LLMO×UGCで実現する具体施策＆成功事例 を8/5(水)に開催",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "LLM/モデル",
       "score": 34
     },
     {
-      "title": "自作PCトーク『ジサトラKTU』生放送～Arc G3 Extreme搭載ポータブルゲーミングPCの性能を検証、MSI「Arc G3 Extreme搭載ポータブルゲーミングPCの性能を検証、MSI「Claw 8 EX Ai+」はマジでスゴかった!!」はマジでスゴかった!!～",
-      "link": "https://ascii.jp/elem/000/004/422/4422042/?rss",
-      "date": "2026-07-27T07:00:00+09:00",
-      "dateLabel": "07/27 07:00",
-      "desc": "Arc G3 Extreme搭載ポータブルゲーミングPCの性能を検証、MSI「Claw 8 EX Ai+」はマジでスゴかった!! 木曜20:00から放送スタート！",
-      "img": "https://ascii.jp/img/2025/09/19/4324489/s/4111cde7c86cf0b4.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "RTX 5070 Ti・RX 9070 XT搭載PCがお得に！ 7月27日限定BTOセール開始",
-      "link": "https://ascii.jp/elem/000/004/422/4422044/?rss",
-      "date": "2026-07-27T00:00:00+09:00",
-      "dateLabel": "07/27 00:00",
-      "desc": "パソコンショップSEVENが7月27日に実施する24時間限定セールを紹介。最大75,000円オフで、最新GPU搭載のゲーミングPCやデスクトップPCなど全10商品が対象だ。",
-      "img": "https://ascii.jp/img/2026/07/24/4504732/s/3d81bdb63ee4cbe8.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "一度教えたら忘れない。民泊のゲスト対応AI、「AssistBnB メッセージAI」提供開始。全言語のゲストメッセージに15分以内で返信",
-      "link": "https://ascii.jp/elem/000/004/422/4422261/?rss",
-      "date": "2026-07-26T15:39:54+09:00",
-      "dateLabel": "07/26 15:39",
-      "desc": "一度教えたら忘れない。民泊のゲスト対応AI、「AssistBnB メッセージAI」提供開始。全言語のゲストメッセージに15分以内で返信",
+      "title": "応用物理学会 先進パワー半導体分科会第32回研究会「ウルトラワイドバンドギャップ半導体デバイス最前線」にて講演のお知らせ",
+      "link": "https://ascii.jp/elem/000/004/422/4422318/?rss",
+      "date": "2026-07-27T09:00:00+09:00",
+      "dateLabel": "07/27 09:00",
+      "desc": "応用物理学会 先進パワー半導体分科会第32回研究会「ウルトラワイドバンドギャップ半導体デバイス最前線」にて講演のお知らせ",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AI全般",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -217,12 +195,45 @@
       "score": 28
     },
     {
-      "title": "6割超の企業で「セキュリティは取引条件」 SCS対応も進む／パワハラと指導の違い、あなたの基準は？／AIへの危機感か 転職希望のIT人材が増加、ほか",
-      "link": "https://ascii.jp/elem/000/004/422/4422226/?rss",
-      "date": "2026-07-27T08:00:00+09:00",
-      "dateLabel": "07/27 08:00",
-      "desc": "今回（2026年7月18日～7月24日）は、企業間の取引条件になりつつあるセキュリティ対策への取り組み実態、AIの普及でキャリア観に変化が見られるIT人材転職、“量より質へ”シフトするフィッシング攻撃、「指導か、パワハラか？」の線引きに対する意識調査のデータを紹介します。",
-      "img": "https://ascii.jp/img/2026/07/25/4505311/s/54693ad85d5c1527.jpg",
+      "title": "Facebookが「BOTではなく人間」を証明する認証システム「Facebook Verified」を開始、自撮りで認証可能で費用はゼロ",
+      "link": "https://gigazine.net/news/20260727-facebook-verified/",
+      "date": "2026-07-27T10:53:00+09:00",
+      "dateLabel": "07/27 10:53",
+      "desc": "XやFacebookには以前から機械的に投稿を生成するBOTアカウントが大量に存在していましたが、AIの性能向上によって「人間と見分けがつかないAIボットアカウント」が急増しています。そんな中、Facebookに人間であることを証明する「Facebook Verified」という仕組みが追加されました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "人材紹介のエリメントHRC、「PeopleX AIロープレ」を導入",
+      "link": "https://ascii.jp/elem/000/004/422/4422319/?rss",
+      "date": "2026-07-27T09:00:00+09:00",
+      "dateLabel": "07/27 09:00",
+      "desc": "人材紹介のエリメントHRC、「PeopleX AIロープレ」を導入",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "夏の自由研究はAIではない本物の医師といっしょに！「自由研究おたすけドクター」2026年も開催",
+      "link": "https://ascii.jp/elem/000/004/422/4422313/?rss",
+      "date": "2026-07-27T09:00:00+09:00",
+      "dateLabel": "07/27 09:00",
+      "desc": "夏の自由研究はAIではない本物の医師といっしょに！「自由研究おたすけドクター」2026年も開催",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "賢いAIほど偏見を持つ、採用AIの落とし穴／米国でヒートポンプが売れ行き好調",
+      "link": "https://ascii.jp/elem/000/004/422/4422269/?rss",
+      "date": "2026-07-27T09:00:00+09:00",
+      "dateLabel": "07/27 09:00",
+      "desc": "世界最先端のテクノロジー情報をお届けするグローバルメディア「MITテクノロジーレビュー」から、ビジネスに役立つ注目のテック企業の最新動向、イノベーションにつながる最新の研究内容をピックアップして紹介します。",
+      "img": "https://ascii.jp/img/2026/07/26/4505451/s/5ec2d83341ecc270.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
@@ -266,17 +277,6 @@
       "date": "2026-07-24T17:30:00+09:00",
       "dateLabel": "07/24 17:30",
       "desc": "中国の最新AIモデルを巡り、米政府高官が、Anthropicの「Claude Fable 5」をモデルの学習に利用した“不正蒸留”が行われていたと指摘した。AIモデルの調達や導入を巡るサプライチェーンリスクが浮き彫りとなっている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "海外の「Claude」や「GPT」ではダメなのか 日本企業向けai&、そのメリットは？",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news052.html",
-      "date": "2026-07-24T13:00:00+09:00",
-      "dateLabel": "07/24 13:00",
-      "desc": "ai&は、日本企業向けに設計したAI推論プラットフォーム「ai& Inference」の提供を開始した。ClaudeやGPTなど海外ベンダーのAIに代わる選択肢として、AI利用コストを大幅に削減できるとしている。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
