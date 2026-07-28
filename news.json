@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-28T16:32:21.065321+09:00",
-  "generatedLabel": "2026/07/28 16:32",
+  "generatedAt": "2026-07-28T19:24:06.383206+09:00",
+  "generatedLabel": "2026/07/28 19:24",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -151,14 +151,36 @@
       "score": 44
     },
     {
-      "title": "SORACOM Discovery 2026開催報告 & 資料公開、SORACOM FluxにAIモデル追加、他 ほぼ週刊ソラコム 07/11-07/24",
-      "link": "https://ascii.jp/elem/000/004/422/4422762/?rss",
-      "date": "2026-07-28T15:00:00+09:00",
-      "dateLabel": "07/28 15:00",
-      "desc": "SORACOM Discovery 2026開催報告 & 資料公開、SORACOM FluxにAIモデル追加、他 ほぼ週刊ソラコム 07/11-07/24",
-      "img": "https://ascii.jp/img/2026/07/28/4506361/s/4460548ac0fa5aae.png",
+      "title": "Claude、一部チャットがGoogle検索で“丸見え”に 過去には「ChatGPT」でも 漏えいの原因は？",
+      "link": "https://www.itmedia.co.jp/business/articles/2607/28/news089.html",
+      "date": "2026-07-28T17:35:00+09:00",
+      "dateLabel": "07/28 17:35",
+      "desc": "「Claude」の一部チャットが、Google検索から閲覧状態になっていることが判明した。Anthropicはこの問題にどう対処したのか。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "「Kimi K3」のモデルウェイトと技術レポート公開 日本でも「NVIDIA B300×8」環境での利用報告",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/28/2000000236/",
+      "date": "2026-07-28T16:57:16+09:00",
+      "dateLabel": "07/28 16:57",
+      "desc": "中国Moonshot AIが最新モデル「Kimi K3」のモデルウェイトと技術レポートを公開した。日本でもNVIDIA B300を8基使った環境での利用報告が上がっている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "AIヘルスケアアプリ「wellmirAi（ウェルミライ）」に、毎日30秒の計測から来週の体調リスクを予測し、一人ひとりに最適な健康習慣を提案する「ウェルネスAIエージェント」が誕生。",
+      "link": "https://ascii.jp/elem/000/004/422/4422904/?rss",
+      "date": "2026-07-28T16:50:00+09:00",
+      "dateLabel": "07/28 16:50",
+      "desc": "AIヘルスケアアプリ「wellmirAi（ウェルミライ）」に、毎日30秒の計測から来週の体調リスクを予測し、一人ひとりに最適な健康習慣を提案する「ウェルネスAIエージェント」が誕生。",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
+      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -228,10 +250,21 @@
       "score": 42
     },
     {
+      "title": "RTX 5060・32GBメモリー・1TB SSD搭載の16型ゲーミングノート、タイムセールで26万9800円【Amazon限定版】",
+      "link": "https://ascii.jp/elem/000/004/422/4422804/?rss",
+      "date": "2026-07-28T18:00:00+09:00",
+      "dateLabel": "07/28 18:00",
+      "desc": "Amazon.co.jpにて、ASUSの16型ゲーミングノートPC「TUF Gaming F16 FX608JMI」が販売中だ。過去価格は35万4511円だが、タイムセールにより24％オフの26万9800円で購入できる（7月28日時点）。Amazon限定版はCPUとGPUがアップグレードされている。",
+      "img": "https://ascii.jp/img/2026/07/28/4506442/s/48adc836107e4ab3.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
       "title": "「痺れるほどにミスを繰り返す」Gemini 3.6 Flashは変わった？ 公開から1週間、当初のおバカ回答を今検証する",
       "link": "https://www.itmedia.co.jp/news/article/2607/28/2000000229/",
-      "date": "2026-07-28T16:23:00+09:00",
-      "dateLabel": "07/28 16:23",
+      "date": "2026-07-28T16:56:51+09:00",
+      "dateLabel": "07/28 16:56",
       "desc": "「痺れるほどにミスを繰り返す」 Xで回答の精度について話題になったGoogleの「Gemini 3.6 Flash」の公開から約1週間経過した。当初報告された数値比較の誤答や架空の魚への回答を改めて検証した。",
       "img": "",
       "src": "ITmedia AI+",
@@ -247,39 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Microsoftがセキュリティ特化AI「MAI-Cyber-1-Flash」を発表、GPT-5.4と組み合わせてClaude Mythos 5超えのセキュリティ能力を低コストで発揮",
-      "link": "https://gigazine.net/news/20260728-microsoft-mai-cyber-1-flash/",
-      "date": "2026-07-28T13:00:00+09:00",
-      "dateLabel": "07/28 13:00",
-      "desc": "MicrosoftがAIセキュリティシステム「MDASH」に、セキュリティ用AIモデル「MAI-Cyber-1-Flash」を組み込んだことを発表しました。これにより、主要モデルと比べて半分のコストで世界トップクラスのパフォーマンスが発揮できるとのことです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "AnthropicのCEO、オープンなAIモデルに対する見解を明示 NVIDIAなど“共同声明”との違いは？",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/28/2000000227/",
-      "date": "2026-07-28T12:40:06+09:00",
-      "dateLabel": "07/28 12:40",
-      "desc": "米Anthropicのダリオ・アモデイCEOは、オープンウェイトのAIモデルに対して「禁止を提唱したことは一度もない」との声明を出した。一方、AI向けのチップの輸出などに関し、一定の制限を設けるべきとも主張している。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "NVIDIA、「オープンなAIセキュリティ」掲げる業界連合 Microsoftなど30社超が参加",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/27/2000000224/",
-      "date": "2026-07-27T19:42:07+09:00",
-      "dateLabel": "07/27 19:42",
-      "desc": "米NVIDIAは、AIセキュリティ向けのオープンな技術を開発・共有する業界連合「Open Secure AI Alliance」を設立すると発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
       "score": 34
     }
   ]
