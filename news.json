@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-28T13:54:22.993191+09:00",
-  "generatedLabel": "2026/07/28 13:54",
+  "generatedAt": "2026-07-28T16:32:21.065321+09:00",
+  "generatedLabel": "2026/07/28 16:32",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 53,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 12
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -85,6 +85,17 @@
       "score": 58
     },
     {
+      "title": "AppleがiOS・iPadOS・macOS・watchOS・tvOS・visionOSのソフトウェアアップデートをリリース、Anthropic・OpenAI・Z.ai・NVIDIAなどのAI活用で超大量のセキュリティ修正が実施されることに",
+      "link": "https://gigazine.net/news/20260728-apple-ios-26-6-software-update/",
+      "date": "2026-07-28T15:24:00+09:00",
+      "dateLabel": "07/28 15:24",
+      "desc": "現地時間の2026年7月27日、AppleがiOS・iPadOS・macOS・watchOS・tvOS・visionOSのソフトウェアアップデートを配信しました。各OSのソフトウェアアップデートには超大量のセキュリティ修正が含まれており、AI活用による脆弱(ぜいじゃく)性発見の進化が伺えます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 50
+    },
+    {
       "title": "NVIDIAが元OpenAIのイルヤ・サツキヴァー率いるAI企業「Safe Superintelligence」と長期戦略的パートナーシップを締結",
       "link": "https://gigazine.net/news/20260728-safe-superintelligence-nvidia-long-term-strategic-partnership/",
       "date": "2026-07-28T13:01:00+09:00",
@@ -104,17 +115,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
-      "title": "Zoom、AIエージェントを簡単生成できる「Agent Architect」発表 AI受付の単体提供も開始",
-      "link": "https://ascii.jp/elem/000/004/422/4422615/?rss",
-      "date": "2026-07-28T11:30:00+09:00",
-      "dateLabel": "07/28 11:30",
-      "desc": "Zoom Communications, Inc.がZoom Virtual Agent向けの新機能を発表。Agent Architect、Agent Performance Suite、Quality Management、顧客コンテキストレイヤー強化に加え、Zoom Virtual Agent Receptionistの単体提供を7月9日に開始した。価格",
-      "img": "https://ascii.jp/img/2026/07/28/4506166/s/ccebdb2fbb218c83.png",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
       "score": 50
     },
     {
@@ -151,6 +151,17 @@
       "score": 44
     },
     {
+      "title": "SORACOM Discovery 2026開催報告 & 資料公開、SORACOM FluxにAIモデル追加、他 ほぼ週刊ソラコム 07/11-07/24",
+      "link": "https://ascii.jp/elem/000/004/422/4422762/?rss",
+      "date": "2026-07-28T15:00:00+09:00",
+      "dateLabel": "07/28 15:00",
+      "desc": "SORACOM Discovery 2026開催報告 & 資料公開、SORACOM FluxにAIモデル追加、他 ほぼ週刊ソラコム 07/11-07/24",
+      "img": "https://ascii.jp/img/2026/07/28/4506361/s/4460548ac0fa5aae.png",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 42
+    },
+    {
       "title": "「Claudeより4割安い」 M365のExcel/メール操作を丸投げる「Copilot Cowork」“従量課金”の落とし穴",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/28/news053.html",
       "date": "2026-07-28T13:00:00+09:00",
@@ -170,28 +181,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "SORACOMが契約回線数1,000万達成 AIエージェントでIoT活用を加速",
-      "link": "https://ascii.jp/elem/000/004/422/4422619/?rss",
-      "date": "2026-07-28T12:00:00+09:00",
-      "dateLabel": "07/28 12:00",
-      "desc": "ソラコムのAI/IoTプラットフォーム「SORACOM」が契約回線数1,000万を達成。AIエージェントやSIM管理機能の強化、「ソラカメ」の新製品など最新戦略に加え、「分析するAI」から「制御するAI」への進化やグローバル展開について詳しく解説します。",
-      "img": "https://ascii.jp/img/2026/07/28/4506198/s/aee2c3e02f2faaeb.png",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "オープンモデル禁止を訴えたことはない、Anthropic CEO",
-      "link": "https://ascii.jp/elem/000/004/422/4422589/?rss",
-      "date": "2026-07-28T10:55:00+09:00",
-      "dateLabel": "07/28 10:55",
-      "desc": "AIを巡る規制論が活発化する中、AnthropicのCEOであるダリオ・アモデイ氏は7月27日、自社がオープンウェイトモデルの全面禁止を求めているとの見方を明確に否定した。",
-      "img": "https://ascii.jp/img/2026/07/28/4506146/s/1937788f211cd47f.png",
-      "src": "ASCII.jp",
-      "cat": "規制/安全",
       "score": 42
     },
     {
@@ -239,6 +228,28 @@
       "score": 42
     },
     {
+      "title": "「痺れるほどにミスを繰り返す」Gemini 3.6 Flashは変わった？ 公開から1週間、当初のおバカ回答を今検証する",
+      "link": "https://www.itmedia.co.jp/news/article/2607/28/2000000229/",
+      "date": "2026-07-28T16:23:00+09:00",
+      "dateLabel": "07/28 16:23",
+      "desc": "「痺れるほどにミスを繰り返す」 Xで回答の精度について話題になったGoogleの「Gemini 3.6 Flash」の公開から約1週間経過した。当初報告された数値比較の誤答や架空の魚への回答を改めて検証した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "AnthropicがAI学習のために数百万冊の紙の本を裁断してデジタル化しまくるため希少本が失われると懸念の声、イーロン・マスクは「SpaceXAIはそんなことしない」とアピール",
+      "link": "https://gigazine.net/news/20260728-anthropic-books/",
+      "date": "2026-07-28T16:00:00+09:00",
+      "dateLabel": "07/28 16:00",
+      "desc": "AnthropicはAI・Claudeを開発するために海賊版書籍を使ったとして作家グループに訴えられていましたが、2026年7月27日にAnthropicと原告の和解案が承認されました。しかし、その裁判資料からAnthropicが「数百万冊もの印刷された書籍を製本から裁断してスキャンした後、AIのトレーニングのためだけに使用して、原本を廃棄していた」ことが明",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "Microsoftがセキュリティ特化AI「MAI-Cyber-1-Flash」を発表、GPT-5.4と組み合わせてClaude Mythos 5超えのセキュリティ能力を低コストで発揮",
       "link": "https://gigazine.net/news/20260728-microsoft-mai-cyber-1-flash/",
       "date": "2026-07-28T13:00:00+09:00",
@@ -258,17 +269,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "AI時代の「つなぐ」を再定義 ― SORACOM Discovery 2026 CTOキーノートレポート",
-      "link": "https://ascii.jp/elem/000/004/422/4422584/?rss",
-      "date": "2026-07-28T11:00:00+09:00",
-      "dateLabel": "07/28 11:00",
-      "desc": "AI時代の「つなぐ」を再定義 ― SORACOM Discovery 2026 CTOキーノートレポート",
-      "img": "https://ascii.jp/img/2026/07/28/4506125/s/e14015bb010c4169.png",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
