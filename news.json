@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-29T07:03:10.272667+09:00",
-  "generatedLabel": "2026/07/29 07:03",
+  "generatedAt": "2026-07-29T08:50:50.865599+09:00",
+  "generatedLabel": "2026/07/29 08:50",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 51,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -62,6 +62,17 @@
     }
   ],
   "articles": [
+    {
+      "title": "OpenAIやAnthropicなどの従業員、米政府に「AI開発のペース調整を」と提言",
+      "link": "https://www.itmedia.co.jp/news/article/2607/29/2000000255/",
+      "date": "2026-07-29T07:11:48+09:00",
+      "dateLabel": "07/29 07:11",
+      "desc": "OpenAIやGoogleなどの従業員1000人以上が、AI開発のペース調整に向けた国際的支援を米政府に求める公開書簡を発表した。AI自律化の急速な加速に伴う制御不能リスクを指摘し、開発速度の調整に必要なツール開発を訴える。企業主導のオープンモデル規制回避を求める動きとは対照的な提起となった。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
+      "score": 58
+    },
     {
       "title": "NVIDIA・Microsoft・SpacexAIなどがAIの安全性とサイバーセキュリティを高めるための業界団体「Open Secure AI Alliance」を設立、Anthropic・OpenAI・Googleは不参加",
       "link": "https://gigazine.net/news/20260728-nvidia-open-secure-ai-alliance/",
@@ -107,17 +118,6 @@
       "score": 50
     },
     {
-      "title": "NVIDIA、Microsoft、OpenAIなどがオープンモデル規制反対を表明 Anthropic従業員は「CUDAのオープンソース化が楽しみ」と皮肉",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/27/2000000222/",
-      "date": "2026-07-27T13:40:13+09:00",
-      "dateLabel": "07/27 13:40",
-      "desc": "NVIDIAやMicrosoftなどの企業・団体がオープンモデル規制に反対する共同声明を発表。各社CEOが賛同する一方、Anthropic従業員は「CUDAやWindowsのオープンソース化が楽しみだ」と皮肉った。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
       "title": "アトラシアン、JiraがAIによる要件定義の自動作成、コンテキストを保持しつつタスクをClaudeやCopilotなどのAIエージェントへアサインなど新機能",
       "link": "https://www.publickey1.jp/blog/26/jiraaiclaudecopilotai.html",
       "date": "2026-07-23T00:35:19+09:00",
@@ -127,6 +127,28 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 44
+    },
+    {
+      "title": "AMD Radeon RX 9050搭載！ ASRock「Challenger 8GB」発表、RDNA 4採用の新GPU",
+      "link": "https://ascii.jp/elem/000/004/422/4422945/?rss",
+      "date": "2026-07-29T08:30:00+09:00",
+      "dateLabel": "07/29 08:30",
+      "desc": "ASRockがAMD Radeon RX 9050搭載の新グラフィックスカード「Challenger 8GB」を発表。RDNA 4アーキテクチャ、第3世代レイトレーシング、最大8GB GDDR6、最大2,600MHzブーストクロック、Dual Fan冷却を備え、中南米とアジア太平洋市場で販売予定だ。",
+      "img": "https://ascii.jp/img/2026/07/29/4506764/s/f446268845d7e056.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "Anthropicのミュトス、暗号アルゴリズムの新たな攻撃法を発見――耐量子署名「HAWK」の強度を半減",
+      "link": "https://www.itmedia.co.jp/news/article/2607/29/2000000256/",
+      "date": "2026-07-29T07:50:56+09:00",
+      "dateLabel": "07/29 07:50",
+      "desc": "Anthropicは、最上位モデル「Claude Mythos Preview」（ミュトス）を活用し、暗号アルゴリズム自体の数学的欠陥を発見したと発表した。耐量子計算機暗号の署名方式「HAWK」と「AES」の削減版に対し、従来の攻撃を上回る手法を提示した。実運用システムへの影響はないものの、AIによる暗号解読や構造解析の新たな可能性を示す成果となる。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "Google Cloud、AIが自律的にコードの脆弱性検出からサンドボックス内でのリスク検証、修正までを自動実行。「CodeMender」プレビュー公開",
@@ -195,25 +217,14 @@
       "score": 42
     },
     {
-      "title": "NVIDIAやMicrosoftなど30社超、オープンAIの防御ツール共同開発の「Open Secure AI Alliance」設立",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/28/news059.html",
-      "date": "2026-07-28T07:16:00+09:00",
-      "dateLabel": "07/28 07:16",
-      "desc": "NVIDIAやMicrosoft、SpaceXAIなどは、AIオープンモデルの安全性向上とサイバーセキュリティツール開発を目指すイニシアチブ「Open Secure AI Alliance」を設立した。オープンな技術を活用してソフトウェアの脆弱性修正や防御ツールの共同開発を推進し、過度な規制に対する防御資産としての重要性を主張する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "RTX 5060・32GBメモリー・1TB SSD搭載の16型ゲーミングノート、タイムセールで26万9800円【Amazon限定版】",
-      "link": "https://ascii.jp/elem/000/004/422/4422804/?rss",
-      "date": "2026-07-28T18:00:00+09:00",
-      "dateLabel": "07/28 18:00",
-      "desc": "Amazon.co.jpにて、ASUSの16型ゲーミングノートPC「TUF Gaming F16 FX608JMI」が販売中だ。過去価格は35万4511円だが、タイムセールにより24％オフの26万9800円で購入できる（7月28日時点）。Amazon限定版はCPUとGPUがアップグレードされている。",
-      "img": "https://ascii.jp/img/2026/07/28/4506442/s/48adc836107e4ab3.jpg",
+      "title": "オンラインアシスタントからAIアシスタントへ。業務自動化と共生する人の価値",
+      "link": "https://ascii.jp/elem/000/004/422/4422379/?rss",
+      "date": "2026-07-29T07:00:00+09:00",
+      "dateLabel": "07/29 07:00",
+      "desc": "株式会社キャスターが提供する新サービス「CASTER NEO Assistant」は、チャットツールで依頼するだけで、秘書や経理、採用支援といったバックオフィス業務全般をオンラインで代行する既存の「オンラインアシスタント」サービスをAI前提に刷新したもの。オンラインアシスタントのパイオニアとして業界を牽引してきた同社が、サービス構造の本格的な転換へと舵を切っ",
+      "img": "https://ascii.jp/img/2026/07/27/4505601/s/dedace6e653763e0.jpg",
       "src": "ASCII.jp",
-      "cat": "半導体/GPU",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -261,26 +272,15 @@
       "score": 34
     },
     {
-      "title": "Facebookで他人のコンテンツを盗んだ上で「昔の投稿を編集してアップロード」することで権利を奪う詐欺が横行している",
-      "link": "https://gigazine.net/news/20260728-facebook-copyright/",
-      "date": "2026-07-28T21:10:00+09:00",
-      "dateLabel": "07/28 21:10",
-      "desc": "MetaのサービスであるFacebookとInstagramは共に「Rights Manager」というツールを導入しており、権利者が参照ファイルをアップロードするとシステムが著作権侵害コンテンツを検出し、そのコンテンツを削除したり収益化したりできます。このRights ManagerとFacebookの「投稿編集」を悪用し、自分が権利者であるかのように振る",
+      "title": "NVIDIAやMicrosoftなど30社超、オープンAIの防御ツール共同開発の「Open Secure AI Alliance」設立",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/28/news059.html",
+      "date": "2026-07-28T07:16:00+09:00",
+      "dateLabel": "07/28 07:16",
+      "desc": "NVIDIAやMicrosoft、SpaceXAIなどは、AIオープンモデルの安全性向上とサイバーセキュリティツール開発を目指すイニシアチブ「Open Secure AI Alliance」を設立した。オープンな技術を活用してソフトウェアの脆弱性修正や防御ツールの共同開発を推進し、過度な規制に対する防御資産としての重要性を主張する。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 26
-    },
-    {
-      "title": "音質とノイキャンが大幅進化！心拍数も測れる「AirPods Pro 3」が公式よりちょっぴりお買い得",
-      "link": "https://ascii.jp/elem/000/004/422/4422854/?rss",
-      "date": "2026-07-28T19:00:00+09:00",
-      "dateLabel": "07/28 19:00",
-      "desc": "Amazon.co.jpにて、「AirPods Pro 3」が売れています。ノイズキャンセリングが前モデルの2倍進化し、クリアな音質を確保します。",
-      "img": "https://ascii.jp/img/2026/07/28/4506507/s/8fe17fd40ef4a7ff.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 34
     }
   ]
 }
