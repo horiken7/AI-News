@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-28T08:55:14.567494+09:00",
-  "generatedLabel": "2026/07/28 08:55",
+  "generatedAt": "2026-07-28T10:31:27.960742+09:00",
+  "generatedLabel": "2026/07/28 10:31",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 51,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -107,6 +107,17 @@
       "score": 44
     },
     {
+      "title": "Claudeの共有チャット、一部がGoogle検索で閲覧可能に 個人情報を含む例も",
+      "link": "https://ascii.jp/elem/000/004/422/4422575/?rss",
+      "date": "2026-07-28T09:30:00+09:00",
+      "dateLabel": "07/28 09:30",
+      "desc": "AnthropicのAIチャットサービス「Claude」で共有されたチャットの一部がGoogle検索から閲覧できる状態になっていたことが分かり、プライバシー上の懸念が広がっている。",
+      "img": "https://ascii.jp/img/2026/07/28/4506099/s/9fc582b8642c3416.jpg",
+      "src": "ASCII.jp",
+      "cat": "規制/安全",
+      "score": 42
+    },
+    {
       "title": "NVIDIAやMicrosoftなど30社超、オープンAIの防御ツール共同開発の「Open Secure AI Alliance」設立",
       "link": "https://www.itmedia.co.jp/news/articles/2607/28/news059.html",
       "date": "2026-07-28T07:16:00+09:00",
@@ -151,6 +162,17 @@
       "score": 42
     },
     {
+      "title": "キャリアの悩みに専門AIがひとつずつ答えるQ&Aメディア「Aile キャリア相談 Q&A」公開、7,000件超の実相談を掲載",
+      "link": "https://ascii.jp/elem/000/004/422/4422578/?rss",
+      "date": "2026-07-27T23:26:41+09:00",
+      "dateLabel": "07/27 23:26",
+      "desc": "キャリアの悩みに専門AIがひとつずつ答えるQ&Aメディア「Aile キャリア相談 Q&A」公開、7,000件超の実相談を掲載",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "NVIDIA、「オープンなAIセキュリティ」掲げる業界連合 Microsoftなど30社超が参加",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/27/2000000224/",
       "date": "2026-07-27T19:42:07+09:00",
@@ -158,17 +180,6 @@
       "desc": "米NVIDIAは、AIセキュリティ向けのオープンな技術を開発・共有する業界連合「Open Secure AI Alliance」を設立すると発表した。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "GPUランクアップがたった888円！ RTX 5060 Tiに変更できるRyzen 5搭載「GALLERIA」が22万円台",
-      "link": "https://ascii.jp/elem/000/004/421/4421957/?rss",
-      "date": "2026-07-27T19:00:00+09:00",
-      "dateLabel": "07/27 19:00",
-      "desc": "ドスパラのゲーミングPCが22万円台。期間中はわずか888円でGeForce RTX 5060 Tiへ変更可能。Ryzen 5や16GBメモリーを搭載し、初めてのゲーミングPCにもおすすめだ。",
-      "img": "https://ascii.jp/img/2026/07/24/4504574/s/73fa22cb6ea51e8c.png",
-      "src": "ASCII.jp",
       "cat": "半導体/GPU",
       "score": 34
     },
@@ -193,6 +204,28 @@
       "src": "GIGAZINE",
       "cat": "規制/安全",
       "score": 34
+    },
+    {
+      "title": "防犯カメラと違う「AIカメラ」のメリット 業務改善に生かすには？【ブログ】",
+      "link": "https://ascii.jp/elem/000/004/420/4420785/?rss",
+      "date": "2026-07-28T10:00:00+09:00",
+      "dateLabel": "07/28 10:00",
+      "desc": "AIカメラの基本的な仕組みから、導入メリット、具体的な活用シーン、検討時のポイントまでをコンパクトに整理した開設記事をご紹介します。",
+      "img": "https://ascii.jp/img/2026/07/21/4502941/s/4048dbc155d3a984.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "前例のないAIサイバー脅威への対抗手段が課題となっている欧州中央銀行（ECB）",
+      "link": "https://ascii.jp/elem/000/004/422/4422283/?rss",
+      "date": "2026-07-28T09:00:00+09:00",
+      "dateLabel": "07/28 09:00",
+      "desc": "欧州中央銀行(ECB)の監督委員会議長であるクラウディア・ブーフ氏は、すべての重要機関のCEOに直接書簡を発行しました。メッセージは明確でした: 人工知能(AI)はサイバー脅威動向を根本的に変化させており、銀行は今すぐ防御を強化するために行動しなければなりません。",
+      "img": "https://ascii.jp/img/2026/07/27/4505529/s/0aab710e030c591d.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     },
     {
       "title": "なぜ、Microsoft 365 Copilotは「会社の仕事を理解する」のがうまいのか？",
@@ -247,39 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "検索結果に「詐欺ではありません」と表示させる詐欺手口、警視庁が注意喚起 AI要約も餌食に",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/27/news076.html",
-      "date": "2026-07-27T19:00:00+09:00",
-      "dateLabel": "07/27 19:00",
-      "desc": "警視庁は、SNS型投資詐欺グループがWeb検索の仕組みを悪用し、検索結果に肯定的な情報を並べ、AI要約にも「詐欺ではありません」と表示させる手口を確認した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "「生成AIなんでも展示会 Vol.6」ビジネス出展・協賛プランの募集を開始！来場3,000人規模・意思決定層も集うAIイベントでPR・採用を",
-      "link": "https://ascii.jp/elem/000/004/422/4422557/?rss",
-      "date": "2026-07-27T18:55:16+09:00",
-      "dateLabel": "07/27 18:55",
-      "desc": "「生成AIなんでも展示会 Vol.6」ビジネス出展・協賛プランの募集を開始！来場3,000人規模・意思決定層も集うAIイベントでPR・採用を",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
-      "title": "MIXI、新卒エンジニア向け研修資料＆動画を無料公開 「実践的なAI活用術」を12科目で紹介",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/27/2000000223/",
-      "date": "2026-07-27T15:08:15+09:00",
-      "dateLabel": "07/27 15:08",
-      "desc": "MIXIは、2026年度入社の新卒エンジニア向けに実施した技術研修の資料とアーカイブ動画を公開した。全12科目を通じ、業務におけるAIの活用法などを紹介している。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
       "score": 26
     }
   ]
