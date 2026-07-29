@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-29T21:55:34.828318+09:00",
-  "generatedLabel": "2026/07/29 21:55",
+  "generatedAt": "2026-07-30T00:04:55.331289+09:00",
+  "generatedLabel": "2026/07/30 00:04",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 1
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 6
+      "items": 7
     },
     {
       "source": "AINOW",
@@ -105,6 +105,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 44
+    },
+    {
+      "title": "GPT-5.6やClaude Opusの性能を「MCPサーバーを構築できるか？」という観点で測定したベンチマークテスト「mcpbench」",
+      "link": "https://gigazine.net/news/20260729-mcpbench/",
+      "date": "2026-07-29T23:00:00+09:00",
+      "dateLabel": "07/29 23:00",
+      "desc": "各種AIモデルの性能を「仕様に沿ってMCPクライアントやMCPサーバーを構築できるか？」という観点で測定するベンチマークテスト「mcpbench」が登場しました。作者はCloudflareのシニアシステムエンジニアでMCP関連の開発に携わっているMatt Carey氏です。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "ChatGPT WorkとCodexの5時間制限「明日から再開」 GPT-5.6 Solの“トークン消費問題”を改善",
@@ -171,6 +182,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 42
+    },
+    {
+      "title": "【驚愕】RTX 5070搭載で24万円台の16型ゲーミングノートPCがAmazonでタイムセール中",
+      "link": "https://ascii.jp/elem/000/004/423/4423286/?rss",
+      "date": "2026-07-29T23:00:00+09:00",
+      "dateLabel": "07/29 23:00",
+      "desc": "Amazon.co.jpにて、ASUSの16型ゲーミングノートPC「TUF Gaming A16 FA608UP」が販売中だ。参考価格は34万9800円だが、タイムセールにより29％オフの24万9800円で購入できる（7月29日時点）。RTX 5070 Laptop GPU搭載機が24万円台は驚愕。",
+      "img": "https://ascii.jp/img/2026/07/29/4507254/s/fa534c42ea2562f8.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
     },
     {
       "title": "令和8年熊本地震に関する「SNS災害情報集約マップAI」を緊急公開",
@@ -259,28 +281,6 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 34
-    },
-    {
-      "title": "NVIDIAやMicrosoftなど30社超、オープンAIの防御ツール共同開発の「Open Secure AI Alliance」設立",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/28/news059.html",
-      "date": "2026-07-28T07:16:00+09:00",
-      "dateLabel": "07/28 07:16",
-      "desc": "NVIDIAやMicrosoft、SpaceXAIなどは、AIオープンモデルの安全性向上とサイバーセキュリティツール開発を目指すイニシアチブ「Open Secure AI Alliance」を設立した。オープンな技術を活用してソフトウェアの脆弱性修正や防御ツールの共同開発を推進し、過度な規制に対する防御資産としての重要性を主張する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "PFN「国産AI」で自衛隊を支援へ 防衛の作戦立案に利用 防衛装備庁の実証実験を受託",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000272/",
-      "date": "2026-07-29T15:38:33+09:00",
-      "dateLabel": "07/29 15:38",
-      "desc": "Preferred Networksは、生成AIで自衛隊を支援するシステムを開発すると発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "生成AI/マルチモーダル",
-      "score": 26
     }
   ]
 }
