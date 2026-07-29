@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-29T16:44:07.251150+09:00",
-  "generatedLabel": "2026/07/29 16:44",
+  "generatedAt": "2026-07-29T19:29:50.984340+09:00",
+  "generatedLabel": "2026/07/29 19:29",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 1
     },
     {
       "source": "PC Watch",
@@ -107,6 +107,17 @@
       "score": 44
     },
     {
+      "title": "ChatGPT WorkとCodexの5時間制限「明日から再開」 GPT-5.6 Solの“トークン消費問題”を改善",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000273/",
+      "date": "2026-07-29T16:29:39+09:00",
+      "dateLabel": "07/29 16:29",
+      "desc": "米OpenAI幹部のティボ・ソティオ氏は、デスクトップPC向けAIサービス「ChatGPT Work」とAIコーディングツール「Codex」について「明日から5時間ごとの利用制限枠を再開する」と発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "AnthropicのAI「Claude」のプライベートな会話内容・健康記録・社内文書などがGoogle検索で大量に発見される",
       "link": "https://gigazine.net/news/20260729-claude-chats-google-search/",
       "date": "2026-07-29T16:00:00+09:00",
@@ -115,17 +126,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "ドライブネッツと AMD 社、AI クラスタの性能と効率を最大化するリファレンス・アーキテクチャを公開",
-      "link": "https://ascii.jp/elem/000/004/423/4423162/?rss",
-      "date": "2026-07-29T15:00:00+09:00",
-      "dateLabel": "07/29 15:00",
-      "desc": "ドライブネッツと AMD 社、AI クラスタの性能と効率を最大化するリファレンス・アーキテクチャを公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 42
     },
     {
@@ -173,26 +173,15 @@
       "score": 42
     },
     {
-      "title": "Claude、一部チャットがGoogle検索で“丸見え”に 過去には「ChatGPT」でも 漏えいの原因は？",
-      "link": "https://www.itmedia.co.jp/business/articles/2607/28/news089.html",
-      "date": "2026-07-28T17:35:00+09:00",
-      "dateLabel": "07/28 17:35",
-      "desc": "「Claude」の一部チャットが、Google検索から閲覧状態になっていることが判明した。Anthropicはこの問題にどう対処したのか。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "「Kimi K3」のモデルウェイトと技術レポート公開 日本でも「NVIDIA B300×8」環境での利用報告",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/28/2000000236/",
-      "date": "2026-07-28T16:57:16+09:00",
-      "dateLabel": "07/28 16:57",
-      "desc": "中国Moonshot AIが最新モデル「Kimi K3」のモデルウェイトと技術レポートを公開した。日本でもNVIDIA B300を8基使った環境での利用報告が上がっている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 42
+      "title": "令和8年熊本地震に関する「SNS災害情報集約マップAI」を緊急公開",
+      "link": "https://ascii.jp/elem/000/004/423/4423274/?rss",
+      "date": "2026-07-29T18:14:14+09:00",
+      "dateLabel": "07/29 18:14",
+      "desc": "令和8年熊本地震に関する「SNS災害情報集約マップAI」を緊急公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "セキュリティレビューAIの「Codex Security CLI」がオープンソース化、GitHubからダウンロード可能に",
@@ -203,39 +192,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "約8万4000円引き。RTX 5060・メモリ32GB・1TB搭載のゲーミングノートPC「TUF Gaming F16」がセール中",
-      "link": "https://ascii.jp/elem/000/004/422/4422576/?rss",
-      "date": "2026-07-29T15:00:00+09:00",
-      "dateLabel": "07/29 15:00",
-      "desc": "ASUSのゲーミングノートPC「TUF Gaming F16（FX608JMI-I7R5060321T）」がAmazonタイムセール対象。過去価格354,511円のところ、24％オフの269,800円で販売中。Amazon.co.jp限定で標準モデルよりCPUとGPUを強化した上位構成採用モデルだ。",
-      "img": "https://ascii.jp/img/2026/07/28/4506100/s/bd07ac299a6ab9df.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "今日の献立すぐ決まる ホットクック、ついにAI相談係つきに",
-      "link": "https://ascii.jp/elem/000/004/423/4423122/?rss",
-      "date": "2026-07-29T14:30:00+09:00",
-      "dateLabel": "07/29 14:30",
-      "desc": "シャープは7月29日、水なし自動調理鍋「ヘルシオ ホットクック」のproシリーズ新製品2機種を発表した。",
-      "img": "https://ascii.jp/img/2026/07/29/4506938/s/a853c61e88010ae3.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "楽天と日本HP、HP製PC向けに「Rakuten AI for Desktop」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/423/4423187/?rss",
-      "date": "2026-07-29T14:06:48+09:00",
-      "dateLabel": "07/29 14:06",
-      "desc": "楽天と日本HP、HP製PC向けに「Rakuten AI for Desktop」を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -272,15 +228,59 @@
       "score": 34
     },
     {
-      "title": "「痺れるほどにミスを繰り返す」Gemini 3.6 Flashは変わった？ 公開から1週間、当初のおバカ回答を今検証する",
-      "link": "https://www.itmedia.co.jp/news/article/2607/28/2000000229/",
-      "date": "2026-07-28T16:56:51+09:00",
-      "dateLabel": "07/28 16:56",
-      "desc": "「痺れるほどにミスを繰り返す」 Xで回答の精度について話題になったGoogleの「Gemini 3.6 Flash」の公開から約1週間経過した。当初報告された数値比較の誤答や架空の魚への回答を改めて検証した。",
+      "title": "Claude、一部チャットがGoogle検索で“丸見え”に 過去には「ChatGPT」でも 漏えいの原因は？",
+      "link": "https://www.itmedia.co.jp/business/articles/2607/28/news089.html",
+      "date": "2026-07-28T17:35:00+09:00",
+      "dateLabel": "07/28 17:35",
+      "desc": "「Claude」の一部チャットが、Google検索から閲覧状態になっていることが判明した。Anthropicはこの問題にどう対処したのか。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
+    },
+    {
+      "title": "「Kimi K3」のモデルウェイトと技術レポート公開 日本でも「NVIDIA B300×8」環境での利用報告",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/28/2000000236/",
+      "date": "2026-07-28T16:57:16+09:00",
+      "dateLabel": "07/28 16:57",
+      "desc": "中国Moonshot AIが最新モデル「Kimi K3」のモデルウェイトと技術レポートを公開した。日本でもNVIDIA B300を8基使った環境での利用報告が上がっている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "「Claudeより4割安い」 M365のExcel/メール操作を丸投げる「Copilot Cowork」“従量課金”の落とし穴",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/28/news053.html",
+      "date": "2026-07-28T13:00:00+09:00",
+      "dateLabel": "07/28 13:00",
+      "desc": "Microsoftは、AIアシスタント「Microsoft 365 Copilot」の新機能「Copilot Cowork」の一般提供を全世界で開始した。業務効率化に向けた実証が進んでおり、今後企業で本格的に活用されるかどうか注目されている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "NVIDIAやMicrosoftなど30社超、オープンAIの防御ツール共同開発の「Open Secure AI Alliance」設立",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/28/news059.html",
+      "date": "2026-07-28T07:16:00+09:00",
+      "dateLabel": "07/28 07:16",
+      "desc": "NVIDIAやMicrosoft、SpaceXAIなどは、AIオープンモデルの安全性向上とサイバーセキュリティツール開発を目指すイニシアチブ「Open Secure AI Alliance」を設立した。オープンな技術を活用してソフトウェアの脆弱性修正や防御ツールの共同開発を推進し、過度な規制に対する防御資産としての重要性を主張する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "PFN「国産AI」で自衛隊を支援へ 防衛の作戦立案に利用 防衛装備庁の実証実験を受託",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000272/",
+      "date": "2026-07-29T15:38:33+09:00",
+      "dateLabel": "07/29 15:38",
+      "desc": "Preferred Networksは、生成AIで自衛隊を支援するシステムを開発すると発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "生成AI/マルチモーダル",
+      "score": 26
     }
   ]
 }
