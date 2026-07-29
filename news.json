@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-30T00:04:55.331289+09:00",
-  "generatedLabel": "2026/07/30 00:04",
+  "generatedAt": "2026-07-30T02:04:03.844528+09:00",
+  "generatedLabel": "2026/07/30 02:04",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 56,
@@ -96,17 +96,6 @@
       "score": 50
     },
     {
-      "title": "アトラシアン、JiraがAIによる要件定義の自動作成、コンテキストを保持しつつタスクをClaudeやCopilotなどのAIエージェントへアサインなど新機能",
-      "link": "https://www.publickey1.jp/blog/26/jiraaiclaudecopilotai.html",
-      "date": "2026-07-23T00:35:19+09:00",
-      "dateLabel": "07/23 00:35",
-      "desc": "アトラシアンは、プロジェクト管理ツールとして知られるJiraに生成AI機能を組み込み、AIによる要件定義の自動作成、作業すべきタスクの洗い出し、そして各タスクをClaude CodeやGitHub Copilotなどへ割り当てる新機能を発表...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 44
-    },
-    {
       "title": "GPT-5.6やClaude Opusの性能を「MCPサーバーを構築できるか？」という観点で測定したベンチマークテスト「mcpbench」",
       "link": "https://gigazine.net/news/20260729-mcpbench/",
       "date": "2026-07-29T23:00:00+09:00",
@@ -173,15 +162,15 @@
       "score": 42
     },
     {
-      "title": "Google Cloud、AIが自律的にコードの脆弱性検出からサンドボックス内でのリスク検証、修正までを自動実行。「CodeMender」プレビュー公開",
-      "link": "https://www.publickey1.jp/blog/26/google_cloudaicodemender.html",
-      "date": "2026-07-29T00:54:06+09:00",
-      "dateLabel": "07/29 00:54",
-      "desc": "Google Cloudは、コードの脆弱性の検出、リスクの検証と報告、修正までを自律的に実行するAIエージェント「CodeMender」のプレビュー公開を発表しました。 複雑な脆弱性まで発見し、サンドボックス内でリスク検証 CodeMend...",
+      "title": "アトラシアン、JiraがAIによる要件定義の自動作成、コンテキストを保持しつつタスクをClaudeやCopilotなどのAIエージェントへアサインなど新機能",
+      "link": "https://www.publickey1.jp/blog/26/jiraaiclaudecopilotai.html",
+      "date": "2026-07-23T00:35:19+09:00",
+      "dateLabel": "07/23 00:35",
+      "desc": "アトラシアンは、プロジェクト管理ツールとして知られるJiraに生成AI機能を組み込み、AIによる要件定義の自動作成、作業すべきタスクの洗い出し、そして各タスクをClaude CodeやGitHub Copilotなどへ割り当てる新機能を発表...",
       "img": "",
       "src": "Publickey",
       "cat": "AIエージェント/業務",
-      "score": 42
+      "score": 40
     },
     {
       "title": "【驚愕】RTX 5070搭載で24万円台の16型ゲーミングノートPCがAmazonでタイムセール中",
@@ -247,6 +236,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "Google Cloud、AIが自律的にコードの脆弱性検出からサンドボックス内でのリスク検証、修正までを自動実行。「CodeMender」プレビュー公開",
+      "link": "https://www.publickey1.jp/blog/26/google_cloudaicodemender.html",
+      "date": "2026-07-29T00:54:06+09:00",
+      "dateLabel": "07/29 00:54",
+      "desc": "Google Cloudは、コードの脆弱性の検出、リスクの検証と報告、修正までを自律的に実行するAIエージェント「CodeMender」のプレビュー公開を発表しました。 複雑な脆弱性まで発見し、サンドボックス内でリスク検証 CodeMend...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
