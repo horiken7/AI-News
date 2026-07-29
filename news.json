@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-30T06:48:44.246891+09:00",
-  "generatedLabel": "2026/07/30 06:48",
+  "generatedAt": "2026-07-30T07:50:17.239311+09:00",
+  "generatedLabel": "2026/07/30 07:50",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 60,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 17
+      "items": 18
     },
     {
       "source": "CNET Japan",
@@ -72,6 +72,17 @@
       "src": "ITmedia AI+",
       "cat": "規制/安全",
       "score": 58
+    },
+    {
+      "title": "ボイスレコーダーの音声データをChatGPTやClaudeに直接接続",
+      "link": "https://ascii.jp/elem/000/004/422/4422133/?rss",
+      "date": "2026-07-30T07:00:00+09:00",
+      "dateLabel": "07/30 07:00",
+      "desc": "PLAUD株式会社は7月23日、AIボイスレコーダー「Plaud」において、AIツールと外部サービスを直接接続するための連携規格「Model Context Protocol（MCP）」への対応を発表した。ユーザーは手動でのデータ移動を行わずに、普段利用しているAI環境からPlaud内の文字起こしや要約データへ直接アクセス可能となった。",
+      "img": "https://ascii.jp/img/2026/07/24/4505085/s/bef057aa93cf781e.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 50
     },
     {
       "title": "AI企業の従業員ら1171人がアメリカ政府に「AI開発のペースを制御する取り組み」への支援を要請",
@@ -173,6 +184,28 @@
       "score": 40
     },
     {
+      "title": "「データセンター」って何？ みんな使ってるのに、建設反対運動が起きてるらしいけど……",
+      "link": "https://ascii.jp/elem/000/004/422/4422270/?rss",
+      "date": "2026-07-30T07:00:00+09:00",
+      "dateLabel": "07/30 07:00",
+      "desc": "「データセンター」って何？ 建設予定地の周辺住民が不安になるほどの巨大建築の内部でいったい何が行なわれているのか？",
+      "img": "https://ascii.jp/img/2026/07/27/4505453/s/2485fb3d9d980786.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "AI特需に沸く韓国半導体 なぜサムスンの技術者は ライバルへ去るのか",
+      "link": "https://ascii.jp/elem/000/004/423/4423293/?rss",
+      "date": "2026-07-30T06:41:24+09:00",
+      "dateLabel": "07/30 06:41",
+      "desc": "AIブームで得た莫大な収益の分配をめぐって、韓国の半導体2大メーカーの1社であるサムスンから、もう1社のSKハイニックスへの人材流出が止まらない。決め手になっているのは、SKハイニックスが支払う予定の47万6000ドルのボーナスだ。部門業績に連動するサムスンのボーナスは、ファウンドリ部門ではその3割に満たない。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
       "title": "【驚愕】RTX 5070搭載で24万円台の16型ゲーミングノートPCがAmazonでタイムセール中",
       "link": "https://ascii.jp/elem/000/004/423/4423286/?rss",
       "date": "2026-07-29T23:00:00+09:00",
@@ -246,39 +279,6 @@
       "desc": "Google Cloudは、コードの脆弱性の検出、リスクの検証と報告、修正までを自律的に実行するAIエージェント「CodeMender」のプレビュー公開を発表しました。 複雑な脆弱性まで発見し、サンドボックス内でリスク検証 CodeMend...",
       "img": "",
       "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Claude、一部チャットがGoogle検索で“丸見え”に 過去には「ChatGPT」でも 漏えいの原因は？",
-      "link": "https://www.itmedia.co.jp/business/articles/2607/28/news089.html",
-      "date": "2026-07-28T17:35:00+09:00",
-      "dateLabel": "07/28 17:35",
-      "desc": "「Claude」の一部チャットが、Google検索から閲覧状態になっていることが判明した。Anthropicはこの問題にどう対処したのか。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "「Kimi K3」のモデルウェイトと技術レポート公開 日本でも「NVIDIA B300×8」環境での利用報告",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/28/2000000236/",
-      "date": "2026-07-28T16:57:16+09:00",
-      "dateLabel": "07/28 16:57",
-      "desc": "中国Moonshot AIが最新モデル「Kimi K3」のモデルウェイトと技術レポートを公開した。日本でもNVIDIA B300を8基使った環境での利用報告が上がっている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "「Claudeより4割安い」 M365のExcel/メール操作を丸投げる「Copilot Cowork」“従量課金”の落とし穴",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/28/news053.html",
-      "date": "2026-07-28T13:00:00+09:00",
-      "dateLabel": "07/28 13:00",
-      "desc": "Microsoftは、AIアシスタント「Microsoft 365 Copilot」の新機能「Copilot Cowork」の一般提供を全世界で開始した。業務効率化に向けた実証が進んでおり、今後企業で本格的に活用されるかどうか注目されている。",
-      "img": "",
-      "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 34
     }
