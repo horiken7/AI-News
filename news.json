@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-30T07:50:17.239311+09:00",
-  "generatedLabel": "2026/07/30 07:50",
+  "generatedAt": "2026-07-30T08:52:45.572811+09:00",
+  "generatedLabel": "2026/07/30 08:52",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 60,
@@ -63,17 +63,6 @@
   ],
   "articles": [
     {
-      "title": "OpenAIやAnthropicなどの従業員、米政府に「AI開発のペース調整を」と提言",
-      "link": "https://www.itmedia.co.jp/news/article/2607/29/2000000255/",
-      "date": "2026-07-29T08:26:08+09:00",
-      "dateLabel": "07/29 08:26",
-      "desc": "OpenAIやGoogleなどの従業員1000人以上が、AI開発のペース調整に向けた国際的支援を米政府に求める公開書簡を発表した。AI自律化の急速な加速に伴う制御不能リスクを指摘し、開発速度の調整に必要なツール開発を訴える。企業主導のオープンモデル規制回避を求める動きとは対照的な提起となった。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
-      "score": 58
-    },
-    {
       "title": "ボイスレコーダーの音声データをChatGPTやClaudeに直接接続",
       "link": "https://ascii.jp/elem/000/004/422/4422133/?rss",
       "date": "2026-07-30T07:00:00+09:00",
@@ -104,6 +93,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
+      "score": 50
+    },
+    {
+      "title": "OpenAIやAnthropicなどの従業員、米政府に「AI開発のペース調整を」と提言",
+      "link": "https://www.itmedia.co.jp/news/article/2607/29/2000000255/",
+      "date": "2026-07-29T08:26:08+09:00",
+      "dateLabel": "07/29 08:26",
+      "desc": "OpenAIやGoogleなどの従業員1000人以上が、AI開発のペース調整に向けた国際的支援を米政府に求める公開書簡を発表した。AI自律化の急速な加速に伴う制御不能リスクを指摘し、開発速度の調整に必要なツール開発を訴える。企業主導のオープンモデル規制回避を求める動きとは対照的な提起となった。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
       "score": 50
     },
     {
@@ -159,17 +159,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "Anthropicのミュトス、暗号アルゴリズムの新たな攻撃法を発見――耐量子署名「HAWK」の強度を半減",
-      "link": "https://www.itmedia.co.jp/news/article/2607/29/2000000256/",
-      "date": "2026-07-29T07:50:56+09:00",
-      "dateLabel": "07/29 07:50",
-      "desc": "Anthropicは、最上位モデル「Claude Mythos Preview」（ミュトス）を活用し、暗号アルゴリズム自体の数学的欠陥を発見したと発表した。耐量子計算機暗号の署名方式「HAWK」と「AES」の削減版に対し、従来の攻撃を上回る手法を提示した。実運用システムへの影響はないものの、AIによる暗号解読や構造解析の新たな可能性を示す成果となる。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -268,6 +257,17 @@
       "desc": "OpenAIが文字起こしAI「GPT Transcribe」と「GPT Live Transcribe」をリリースしました。両モデルは専門用語を含む音声でも文脈を理解できるほか、ノイズが含まれる音声でも高精度な文字起こしが可能とアピールされています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "Anthropicのミュトス、暗号アルゴリズムの新たな攻撃法を発見――耐量子署名「HAWK」の強度を半減",
+      "link": "https://www.itmedia.co.jp/news/article/2607/29/2000000256/",
+      "date": "2026-07-29T07:50:56+09:00",
+      "dateLabel": "07/29 07:50",
+      "desc": "Anthropicは、最上位モデル「Claude Mythos Preview」（ミュトス）を活用し、暗号アルゴリズム自体の数学的欠陥を発見したと発表した。耐量子計算機暗号の署名方式「HAWK」と「AES」の削減版に対し、従来の攻撃を上回る手法を提示した。実運用システムへの影響はないものの、AIによる暗号解読や構造解析の新たな可能性を示す成果となる。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
     },
