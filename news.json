@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-29T08:50:50.865599+09:00",
-  "generatedLabel": "2026/07/29 08:50",
+  "generatedAt": "2026-07-29T10:41:37.356489+09:00",
+  "generatedLabel": "2026/07/29 10:41",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 19
+      "items": 18
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -65,8 +65,8 @@
     {
       "title": "OpenAIやAnthropicなどの従業員、米政府に「AI開発のペース調整を」と提言",
       "link": "https://www.itmedia.co.jp/news/article/2607/29/2000000255/",
-      "date": "2026-07-29T07:11:48+09:00",
-      "dateLabel": "07/29 07:11",
+      "date": "2026-07-29T08:26:08+09:00",
+      "dateLabel": "07/29 08:26",
       "desc": "OpenAIやGoogleなどの従業員1000人以上が、AI開発のペース調整に向けた国際的支援を米政府に求める公開書簡を発表した。AI自律化の急速な加速に伴う制御不能リスクを指摘し、開発速度の調整に必要なツール開発を訴える。企業主導のオープンモデル規制回避を求める動きとは対照的な提起となった。",
       "img": "",
       "src": "ITmedia AI+",
@@ -83,6 +83,17 @@
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
       "score": 58
+    },
+    {
+      "title": "NVIDIAはVera CPUで次世代チップ開発を加速中、すでに最大1.5倍の性能向上を確認",
+      "link": "https://gigazine.net/news/20260729-nvidia-vera-cpu-to-speed-up-next-generation/",
+      "date": "2026-07-29T09:47:00+09:00",
+      "dateLabel": "07/29 09:47",
+      "desc": "複雑さを増していく現代のチップ設計に対応するため、NVIDIAが次世代のデータセンター向けカスタムCPU・Veraを活用してさらに次の世代のCPUやGPUの開発に取り組んでいることを明らかにしました。初期テストの主要な検証やシミュレーションワークロードでは、最大で1.5倍の性能向上が確認されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 50
     },
     {
       "title": "AppleがiOS・iPadOS・macOS・watchOS・tvOS・visionOSのソフトウェアアップデートをリリース、Anthropic・OpenAI・Z.ai・NVIDIAなどのAI活用で超大量のセキュリティ修正が実施されることに",
@@ -206,15 +217,26 @@
       "score": 42
     },
     {
-      "title": "中国製高性能AI「Kimi-K3」が予定通りオープンモデル化される、2.8兆パラメーターでClaude Fable 5やGPT-5.6 Solに迫る性能",
-      "link": "https://gigazine.net/news/20260728-kimi-k3-open/",
-      "date": "2026-07-28T10:42:00+09:00",
-      "dateLabel": "07/28 10:42",
-      "desc": "中国企業のMoonshot AIが自社製AIモデル「Kimi K3」をオープンモデルとして公開しました。 続きを読む...",
+      "title": "OpenAIが文字起こしAI「GPT Transcribe」と「GPT Live Transcribe」をリリース",
+      "link": "https://gigazine.net/news/20260729-gpt-live-transcribe/",
+      "date": "2026-07-29T10:39:00+09:00",
+      "dateLabel": "07/29 10:39",
+      "desc": "OpenAIが文字起こしAI「GPT Transcribe」と「GPT Live Transcribe」をリリースしました。両モデルは専門用語を含む音声でも文脈を理解できるほか、ノイズが含まれる音声でも高精度な文字起こしが可能とアピールされています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 42
+      "score": 34
+    },
+    {
+      "title": "USB-Cだけで使える9.2型サブディスプレイ登場 HDMI不要でPCケース内にも設置可能",
+      "link": "https://ascii.jp/elem/000/004/422/4422948/?rss",
+      "date": "2026-07-29T09:30:00+09:00",
+      "dateLabel": "07/29 09:30",
+      "desc": "USB-C接続でHDMI不要の9.2インチ小型サブディスプレイ「upHere UNIVERSAL SCREEN D92」が8月1日に発売。PCケース内外に設置でき、CPU・GPU温度やFPSなどをリアルタイム表示。500種類以上のテーマでカスタマイズも可能です。",
+      "img": "https://ascii.jp/img/2026/07/29/4506770/s/e52ffe7337b9876e.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
     },
     {
       "title": "オンラインアシスタントからAIアシスタントへ。業務自動化と共生する人の価値",
@@ -258,28 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "AnthropicのCEO、オープンなAIモデルに対する見解を明示 NVIDIAなど“共同声明”との違いは？",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/28/2000000227/",
-      "date": "2026-07-28T12:40:06+09:00",
-      "dateLabel": "07/28 12:40",
-      "desc": "米Anthropicのダリオ・アモデイCEOは、オープンウェイトのAIモデルに対して「禁止を提唱したことは一度もない」との声明を出した。一方、AI向けのチップの輸出などに関し、一定の制限を設けるべきとも主張している。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "NVIDIAやMicrosoftなど30社超、オープンAIの防御ツール共同開発の「Open Secure AI Alliance」設立",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/28/news059.html",
-      "date": "2026-07-28T07:16:00+09:00",
-      "dateLabel": "07/28 07:16",
-      "desc": "NVIDIAやMicrosoft、SpaceXAIなどは、AIオープンモデルの安全性向上とサイバーセキュリティツール開発を目指すイニシアチブ「Open Secure AI Alliance」を設立した。オープンな技術を活用してソフトウェアの脆弱性修正や防御ツールの共同開発を推進し、過度な規制に対する防御資産としての重要性を主張する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
       "score": 34
     }
   ]
