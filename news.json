@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-29T13:59:37.231148+09:00",
-  "generatedLabel": "2026/07/29 13:59",
+  "generatedAt": "2026-07-29T16:44:07.251150+09:00",
+  "generatedLabel": "2026/07/29 16:44",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 58,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -96,17 +96,6 @@
       "score": 50
     },
     {
-      "title": "AppleがiOS・iPadOS・macOS・watchOS・tvOS・visionOSのソフトウェアアップデートをリリース、Anthropic・OpenAI・Z.ai・NVIDIAなどのAI活用で超大量のセキュリティ修正が実施されることに",
-      "link": "https://gigazine.net/news/20260728-apple-ios-26-6-software-update/",
-      "date": "2026-07-28T15:24:00+09:00",
-      "dateLabel": "07/28 15:24",
-      "desc": "現地時間の2026年7月27日、AppleがiOS・iPadOS・macOS・watchOS・tvOS・visionOSのソフトウェアアップデートを配信しました。各OSのソフトウェアアップデートには超大量のセキュリティ修正が含まれており、AI活用による脆弱(ぜいじゃく)性発見の進化が伺えます。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
       "title": "アトラシアン、JiraがAIによる要件定義の自動作成、コンテキストを保持しつつタスクをClaudeやCopilotなどのAIエージェントへアサインなど新機能",
       "link": "https://www.publickey1.jp/blog/26/jiraaiclaudecopilotai.html",
       "date": "2026-07-23T00:35:19+09:00",
@@ -118,14 +107,25 @@
       "score": 44
     },
     {
-      "title": "OpenAIの暴走AI、他社にも侵入か 報道",
-      "link": "https://ascii.jp/elem/000/004/422/4422984/?rss",
-      "date": "2026-07-29T12:50:00+09:00",
-      "dateLabel": "07/29 12:50",
-      "desc": "OpenAIのAIエージェントは、Hugging Faceへの侵入に加え、AIインフラ企業Modal Labsの顧客アカウントにも不正アクセスしていたという。",
-      "img": "https://ascii.jp/img/2026/07/29/4506853/s/7e5ca4cff406fddd.jpg",
+      "title": "AnthropicのAI「Claude」のプライベートな会話内容・健康記録・社内文書などがGoogle検索で大量に発見される",
+      "link": "https://gigazine.net/news/20260729-claude-chats-google-search/",
+      "date": "2026-07-29T16:00:00+09:00",
+      "dateLabel": "07/29 16:00",
+      "desc": "Google検索で特定の演算子を入力すると、AnthropicのAI・Claudeで行われたチャット内容やClaudeで作成されたドキュメントなどが検索可能になっているとRedditユーザーが報告しました。確認された会話の中には、健康記録や子どもの名前・電話番号、企業の非公開文書なども含まれていたとされています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "ドライブネッツと AMD 社、AI クラスタの性能と効率を最大化するリファレンス・アーキテクチャを公開",
+      "link": "https://ascii.jp/elem/000/004/423/4423162/?rss",
+      "date": "2026-07-29T15:00:00+09:00",
+      "dateLabel": "07/29 15:00",
+      "desc": "ドライブネッツと AMD 社、AI クラスタの性能と効率を最大化するリファレンス・アーキテクチャを公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
+      "cat": "AI全般",
       "score": 42
     },
     {
@@ -136,17 +136,6 @@
       "desc": "2026年7月、Hugging FaceがOpenAIの自律型AIエージェントに誤って侵害されるインシデントが発生しました。この件に関して調査を進めていたHugging Faceが、インシデントの概要を公開しています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "賃貸管理会社向けAIエージェントサービス提供開始",
-      "link": "https://ascii.jp/elem/000/004/423/4423072/?rss",
-      "date": "2026-07-29T11:27:21+09:00",
-      "dateLabel": "07/29 11:27",
-      "desc": "賃貸管理会社向けAIエージェントサービス提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
       "score": 42
     },
@@ -206,23 +195,45 @@
       "score": 42
     },
     {
-      "title": "NVIDIAが元OpenAIのイルヤ・サツキヴァー率いるAI企業「Safe Superintelligence」と長期戦略的パートナーシップを締結",
-      "link": "https://gigazine.net/news/20260728-safe-superintelligence-nvidia-long-term-strategic-partnership/",
-      "date": "2026-07-28T13:01:00+09:00",
-      "dateLabel": "07/28 13:01",
-      "desc": "OpenAIの元主任研究員であるイルヤ・サツキヴァー氏率いるAI企業の「Safe Superintelligence」が、半導体大手のNVIDIAと長期戦略的パートナーシップを締結したことを発表しました。 続きを読む...",
+      "title": "セキュリティレビューAIの「Codex Security CLI」がオープンソース化、GitHubからダウンロード可能に",
+      "link": "https://gigazine.net/news/20260729-codex-security-cli-open-source/",
+      "date": "2026-07-29T15:46:00+09:00",
+      "dateLabel": "07/29 15:46",
+      "desc": "OpenAIがセキュリティ解析用のコマンドラインツール「Codex Security CLI」をオープンソースとしてリリースしました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 42
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
-      "title": "「iPhone Air」がAmazonで激安！ 1TBモデルなら公式より7万8000円も安い",
-      "link": "https://ascii.jp/elem/000/004/423/4423048/?rss",
-      "date": "2026-07-29T13:00:00+09:00",
-      "dateLabel": "07/29 13:00",
-      "desc": "Amazon.co.jpにて、「iPhone Air」がタイムセール中！とにかく薄い・軽量・高性能で画面の大きさも好評な一品です。",
-      "img": "https://ascii.jp/img/2026/07/29/4506857/s/a10f7cf514ad26b6.jpg",
+      "title": "約8万4000円引き。RTX 5060・メモリ32GB・1TB搭載のゲーミングノートPC「TUF Gaming F16」がセール中",
+      "link": "https://ascii.jp/elem/000/004/422/4422576/?rss",
+      "date": "2026-07-29T15:00:00+09:00",
+      "dateLabel": "07/29 15:00",
+      "desc": "ASUSのゲーミングノートPC「TUF Gaming F16（FX608JMI-I7R5060321T）」がAmazonタイムセール対象。過去価格354,511円のところ、24％オフの269,800円で販売中。Amazon.co.jp限定で標準モデルよりCPUとGPUを強化した上位構成採用モデルだ。",
+      "img": "https://ascii.jp/img/2026/07/28/4506100/s/bd07ac299a6ab9df.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "今日の献立すぐ決まる ホットクック、ついにAI相談係つきに",
+      "link": "https://ascii.jp/elem/000/004/423/4423122/?rss",
+      "date": "2026-07-29T14:30:00+09:00",
+      "dateLabel": "07/29 14:30",
+      "desc": "シャープは7月29日、水なし自動調理鍋「ヘルシオ ホットクック」のproシリーズ新製品2機種を発表した。",
+      "img": "https://ascii.jp/img/2026/07/29/4506938/s/a853c61e88010ae3.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "楽天と日本HP、HP製PC向けに「Rakuten AI for Desktop」を提供開始",
+      "link": "https://ascii.jp/elem/000/004/423/4423187/?rss",
+      "date": "2026-07-29T14:06:48+09:00",
+      "dateLabel": "07/29 14:06",
+      "desc": "楽天と日本HP、HP製PC向けに「Rakuten AI for Desktop」を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
@@ -236,17 +247,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "Amazonで再び激安になっているiPhone Air……本当にイイ製品なのに、やっぱり人気微妙？",
-      "link": "https://ascii.jp/elem/000/004/422/4422980/?rss",
-      "date": "2026-07-29T11:45:00+09:00",
-      "dateLabel": "07/29 11:45",
-      "desc": "円安進行にともなうiPhoneの値上げが発表されて約10日。Amazon.co.jpでの再びのiPhone Air大幅割引が注目を集めている。",
-      "img": "https://ascii.jp/img/2026/07/29/4506807/s/d3ad6c25909095cc.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
