@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-30T19:12:35.487869+09:00",
-  "generatedLabel": "2026/07/30 19:12",
+  "generatedAt": "2026-07-30T21:23:24.916502+09:00",
+  "generatedLabel": "2026/07/30 21:23",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 51,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -118,6 +118,17 @@
       "score": 40
     },
     {
+      "title": "Copilot+ PC「FMV WA4-L1」が、FMV直販なら21万4500円！ 目玉品に注目！",
+      "link": "https://ascii.jp/elem/000/004/423/4423584/?rss",
+      "date": "2026-07-30T20:00:00+09:00",
+      "dateLabel": "07/30 20:00",
+      "desc": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
+      "img": "https://ascii.jp/img/2026/06/28/4490472/s/db096cc143d24841.png",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
       "title": "クマとうさぎをAIで見分ける、庭の見守りを作ってみた【SORACOM Discovery 2026 ― IoT プロトタイピングコーナー】",
       "link": "https://ascii.jp/elem/000/004/423/4423625/?rss",
       "date": "2026-07-30T18:10:00+09:00",
@@ -151,14 +162,14 @@
       "score": 34
     },
     {
-      "title": "「3.3万円でClaude Code合宿？」せお丸AI合宿、期間限定ツアーの受講料を税込3.3万円に価格改定",
-      "link": "https://ascii.jp/elem/000/004/423/4423627/?rss",
-      "date": "2026-07-30T17:26:11+09:00",
-      "dateLabel": "07/30 17:26",
-      "desc": "「3.3万円でClaude Code合宿？」せお丸AI合宿、期間限定ツアーの受講料を税込3.3万円に価格改定",
+      "title": "個人商店向けAI検索最適化ハイパーローカルグルメプラットフォーム『Machi Mise 亀戸』ハブサイト本格公開",
+      "link": "https://ascii.jp/elem/000/004/423/4423666/?rss",
+      "date": "2026-07-30T17:51:54+09:00",
+      "dateLabel": "07/30 17:51",
+      "desc": "個人商店向けAI検索最適化ハイパーローカルグルメプラットフォーム『Machi Mise 亀戸』ハブサイト本格公開",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "LLM/モデル",
+      "cat": "AI全般",
       "score": 34
     },
     {
@@ -191,17 +202,6 @@
       "desc": "米OpenAI幹部のティボ・ソティオ氏は、デスクトップPC向けAIサービス「ChatGPT Work」とAIコーディングツール「Codex」について「明日から5時間ごとの利用制限枠を再開する」と発表した。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "AnthropicのAI「Claude」のプライベートな会話内容・健康記録・社内文書などがGoogle検索で大量に発見される",
-      "link": "https://gigazine.net/news/20260729-claude-chats-google-search/",
-      "date": "2026-07-29T16:00:00+09:00",
-      "dateLabel": "07/29 16:00",
-      "desc": "Google検索で特定の演算子を入力すると、AnthropicのAI・Claudeで行われたチャット内容やClaudeで作成されたドキュメントなどが検索可能になっているとRedditユーザーが報告しました。確認された会話の中には、健康記録や子どもの名前・電話番号、企業の非公開文書なども含まれていたとされています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 34
     },
@@ -239,6 +239,17 @@
       "score": 34
     },
     {
+      "title": "ゲームもできるRyzen AI 7 350搭載デスクトップPCが、FMV直販でお買い得",
+      "link": "https://ascii.jp/elem/000/004/423/4423582/?rss",
+      "date": "2026-07-30T19:30:00+09:00",
+      "dateLabel": "07/30 19:30",
+      "desc": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
+      "img": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "外国製のロボット掃除機やロボット芝刈り機がアメリカで新規販売禁止の対象に",
       "link": "https://gigazine.net/news/20260730-fcc-robot-vacuums/",
       "date": "2026-07-30T19:00:00+09:00",
@@ -266,17 +277,6 @@
       "date": "2026-07-30T15:45:00+09:00",
       "dateLabel": "07/30 15:45",
       "desc": "チャットAIのChatGPTとゲーミングプラットフォームのRobloxが、EUで「超大規模プラットフォーム」に指定される見通しであることがわかりました。これは両者のEU域内での月間ユーザー数が4500万人を突破したことに伴う措置で、指定を受けた場合、透明性報告書の提出など義務付けられることになります。がChatGPT, Roblox to Fall Unde",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "続々とAI企業が電気技師や大工を何千人も採用、OpenAI・Google・Metaなどが業界史上最高水準の給与を提示",
-      "link": "https://gigazine.net/news/20260730-ai-data-center-electricians/",
-      "date": "2026-07-30T15:00:00+09:00",
-      "dateLabel": "07/30 15:00",
-      "desc": "生成AIの開発競争が激化する中、MetaやGoogleなどのテクノロジー企業が、電気技師や大工、溶接工、配管工といった技能職の採用と育成を急速に拡大しています。求人検索サイトのIndeedによると、関連施設で働く人材の求人は過去2年間で2倍以上に増加しており、AIブームが従来のソフトウェア技術者とは異なる雇用を生み出しています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
