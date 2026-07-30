@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-31T00:02:07.681660+09:00",
-  "generatedLabel": "2026/07/31 00:02",
+  "generatedAt": "2026-07-31T02:14:48.956136+09:00",
+  "generatedLabel": "2026/07/31 02:14",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 51,
@@ -151,17 +151,6 @@
       "score": 34
     },
     {
-      "title": "Snapdragon X Plus・16GBメモリ搭載のSurface LaptopがAmazonで約2万円引き",
-      "link": "https://ascii.jp/elem/000/004/422/4422954/?rss",
-      "date": "2026-07-30T18:00:00+09:00",
-      "dateLabel": "07/30 18:00",
-      "desc": "MicrosoftのノートPC「Surface Laptop」がAmazonで割引対象。参考価格164,780円のところ、13％オフの143,798円で販売中。Snapdragon X Plusと16GBメモリを搭載するCopilot+ PCだ。",
-      "img": "https://ascii.jp/img/2026/07/29/4506781/s/df3fb63087458ec7.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "Excel作業を自動化する「Copilot in Excel」がスキルに対応 何ができる？",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/30/news049.html",
       "date": "2026-07-30T13:00:00+09:00",
@@ -239,6 +228,28 @@
       "score": 34
     },
     {
+      "title": "AIエージェントの選び方！5つの比較軸と失敗パターンを解説",
+      "link": "https://ainow.ai/2026/07/31/278288/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e9%2581%25b8%25e3%2581%25b3%25e6%2596%25b9%25ef%25bc%25815%25e3%2581%25a4%25e3%2581%25ae%25e6%25af%2594%25e8%25bc%2583%25e8%25bb%25b8%25e3%2581%25a8%25e5%25a4%25b1%25e6%2595%2597%25e3%2583%2591%25e3%2582%25bf",
+      "date": "2026-07-31T01:17:56+09:00",
+      "dateLabel": "07/31 01:17",
+      "desc": "AIエージェントの選び方は、分類・比較軸・導入目的の3点を押さえれば判断できます。 比較軸を知らないままツールを選ぶと、現場で使われずPoC（概念実証）止まりに終わる企業が少なくありません。反対に軸を理解していれば、根拠... The post AIエージェントの選び方！5つの比較軸と失敗パターンを解説 first appeared on AI専門ニュースメ",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "M5搭載MacBook Airが1万9051円引き！ 16GBメモリ／1TB SSDモデルが259,749円",
+      "link": "https://ascii.jp/elem/000/004/423/4423675/?rss",
+      "date": "2026-07-31T00:10:00+09:00",
+      "dateLabel": "07/31 00:10",
+      "desc": "Amazonで、M5チップを搭載した13インチMacBook Airが7％オフの259,749円で販売中です。16GBユニファイドメモリと1TB SSDを備えたスターライトモデルです。",
+      "img": "https://ascii.jp/img/2026/03/16/4435680/s/9cdb7f80bed29f02.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "ゲームもできるRyzen AI 7 350搭載デスクトップPCが、FMV直販でお買い得",
       "link": "https://ascii.jp/elem/000/004/423/4423582/?rss",
       "date": "2026-07-30T19:30:00+09:00",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "ChatGPTとRobloxがEU域内で月間4500万ユーザーを突破、「超大規模プラットフォーム」指定へ",
-      "link": "https://gigazine.net/news/20260730-eu-dsa-chatgpt-roblox/",
-      "date": "2026-07-30T15:45:00+09:00",
-      "dateLabel": "07/30 15:45",
-      "desc": "チャットAIのChatGPTとゲーミングプラットフォームのRobloxが、EUで「超大規模プラットフォーム」に指定される見通しであることがわかりました。これは両者のEU域内での月間ユーザー数が4500万人を突破したことに伴う措置で、指定を受けた場合、透明性報告書の提出など義務付けられることになります。がChatGPT, Roblox to Fall Unde",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 26
     }
   ]
