@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-30T10:24:18.437956+09:00",
-  "generatedLabel": "2026/07/30 10:24",
+  "generatedAt": "2026-07-30T13:48:09.569609+09:00",
+  "generatedLabel": "2026/07/30 13:48",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 60,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 17
+      "items": 16
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -63,22 +63,33 @@
   ],
   "articles": [
     {
-      "title": "ボイスレコーダーの音声データをChatGPTやClaudeに直接接続",
-      "link": "https://ascii.jp/elem/000/004/422/4422133/?rss",
-      "date": "2026-07-30T07:00:00+09:00",
-      "dateLabel": "07/30 07:00",
-      "desc": "PLAUD株式会社は7月23日、AIボイスレコーダー「Plaud」において、AIツールと外部サービスを直接接続するための連携規格「Model Context Protocol（MCP）」への対応を発表した。ユーザーは手動でのデータ移動を行わずに、普段利用しているAI環境からPlaud内の文字起こしや要約データへ直接アクセス可能となった。",
-      "img": "https://ascii.jp/img/2026/07/24/4505085/s/bef057aa93cf781e.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
+      "title": "OpenAIはGPT-5.6の推論効率をGPT-5.6自身を用いて自律的に改善した",
+      "link": "https://gigazine.net/news/20260730-gpt-5-6-optimizing/",
+      "date": "2026-07-30T13:30:00+09:00",
+      "dateLabel": "07/30 13:30",
+      "desc": "OpenAIは2026年7月9日にGPT-5.6シリーズをリリースしました。このGPT-5.6シリーズについて、GPT-5.6自身を用いて計算コストの削減やGPU使用効率の改善を実施したことをOpenAIが明かしています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
       "score": 50
     },
     {
-      "title": "AI企業の従業員ら1171人がアメリカ政府に「AI開発のペースを制御する取り組み」への支援を要請",
-      "link": "https://gigazine.net/news/20260729-pacing-the-frontier/",
-      "date": "2026-07-29T11:20:00+09:00",
-      "dateLabel": "07/29 11:20",
-      "desc": "Thinking Machinesのジョン・シュルマン氏やOpenAIのヤコブ・パチョッキ氏、Anthropicのダリオ・アモデイ氏ら、AI企業のサイエンティストや従業員ら1171人が、アメリカ政府に向けて、自動化されたAI開発のペースを調整するために必要な技術やツールを開発する取り組みに対する支援を要請する声明を発表しました。 続きを読む...",
+      "title": "写真を撮って価格比較 LINEヤフー、AIエージェント新機能",
+      "link": "https://ascii.jp/elem/000/004/423/4423440/?rss",
+      "date": "2026-07-30T13:20:00+09:00",
+      "dateLabel": "07/30 13:20",
+      "desc": "LINEヤフーは7月30日、AIエージェント「Agent i」のお買い物エージェントに、写真から商品を探せる「ショッピングレンズ」機能を追加したと発表した。",
+      "img": "https://ascii.jp/img/2026/07/30/4507397/s/e8ae6947bc043f1a.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
+      "title": "MicrosoftはCopilotのスーパーアプリを2026年中にリリースすると正式発表",
+      "link": "https://gigazine.net/news/20260730-microsoft-copilot-super-app/",
+      "date": "2026-07-30T10:49:00+09:00",
+      "dateLabel": "07/30 10:49",
+      "desc": "MicrosoftはAIアシスタント・Copilotのチャット・コーディング・エージェント機能を組み合わせたAI「スーパーアプリ」の開発に取り組んでいることを明らかにしました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
@@ -94,6 +105,17 @@
       "src": "ITmedia AI+",
       "cat": "規制/安全",
       "score": 50
+    },
+    {
+      "title": "オフラインでもサクサク動く日本語AI！ 日本HPと楽天、HP製PC向け「Rakuten AI for Desktop」提供開始",
+      "link": "https://ascii.jp/elem/000/004/423/4423210/?rss",
+      "date": "2026-07-30T12:30:00+09:00",
+      "dateLabel": "07/30 12:30",
+      "desc": "日本HPは7月29日、楽天グループと協業し、日本国内のHP製PCを対象にプリバンドルされる「Rakuten AI for Desktop」の提供を開始したと発表した。",
+      "img": "https://ascii.jp/img/2026/07/30/4507321/s/d9e6be33d24fb624.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 42
     },
     {
       "title": "GPT-5.6やClaude Opusの性能を「MCPサーバーを構築できるか？」という観点で測定したベンチマークテスト「mcpbench」",
@@ -129,39 +151,6 @@
       "score": 42
     },
     {
-      "title": "OpenAIのAIエージェントが誤ってHugging Faceを侵害した件でHugging Faceが詳細なタイムラインを公開、攻撃過程を中国製AIの「GLM-5.2」で分析し再現",
-      "link": "https://gigazine.net/news/20260729-openai-hack-hugging-face-timeline/",
-      "date": "2026-07-29T12:17:00+09:00",
-      "dateLabel": "07/29 12:17",
-      "desc": "2026年7月、Hugging FaceがOpenAIの自律型AIエージェントに誤って侵害されるインシデントが発生しました。この件に関して調査を進めていたHugging Faceが、インシデントの概要を公開しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "Hugging Face、AIエージェント侵入の技術詳細を公開──OpenAIモデルが4.5日で1万7600回の攻撃操作",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000263/",
-      "date": "2026-07-29T10:29:20+09:00",
-      "dateLabel": "07/29 10:29",
-      "desc": "Hugging Faceは、自律型AIエージェントによるインフラ侵入の技術的経緯を公開した。評価中のモデルがサンドボックスを脱出し、データセット処理パイプラインを介して本番環境へ侵入した手口を詳述。防御側のログ解析で商用モデルがガードレールにより作業を拒否した点も示し、安全設計のあり方に課題を提示した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "NVIDIAはVera CPUで次世代チップ開発を加速中、すでに最大1.5倍の性能向上を確認",
-      "link": "https://gigazine.net/news/20260729-nvidia-vera-cpu-to-speed-up-next-generation/",
-      "date": "2026-07-29T09:47:00+09:00",
-      "dateLabel": "07/29 09:47",
-      "desc": "複雑さを増していく現代のチップ設計に対応するため、NVIDIAが次世代のデータセンター向けカスタムCPU・Veraを活用してさらに次の世代のCPUやGPUの開発に取り組んでいることを明らかにしました。初期テストの主要な検証やシミュレーションワークロードでは、最大で1.5倍の性能向上が確認されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
       "title": "アトラシアン、JiraがAIによる要件定義の自動作成、コンテキストを保持しつつタスクをClaudeやCopilotなどのAIエージェントへアサインなど新機能",
       "link": "https://www.publickey1.jp/blog/26/jiraaiclaudecopilotai.html",
       "date": "2026-07-23T00:35:19+09:00",
@@ -173,47 +162,47 @@
       "score": 40
     },
     {
-      "title": "スマホが勝手に仕事する時代キタ!? ロンドンで発表された「エージェンティックAI」の激ヤバな未来",
-      "link": "https://ascii.jp/elem/000/004/423/4423126/?rss",
-      "date": "2026-07-30T09:00:00+09:00",
-      "dateLabel": "07/30 09:00",
-      "desc": "サムスンがロンドンで新型折りたたみスマホなどを発表しました。チタン合金の超高剛性ボディや新型バッテリーを搭載しハードウェアが大幅に進化。OSの枠を超えて自律的に動く「エージェンティックAI」の実装や、過酷な環境に耐えるタフネス仕様の最新スマートウォッチも登場しています。",
-      "img": "https://ascii.jp/img/2026/07/29/4506956/s/ba860eae6c6c9dca.jpg",
+      "title": "Copilot+ PC対応、Ryzen AI 7・32GBメモリ搭載「mouse B5」が約4万円引き",
+      "link": "https://ascii.jp/elem/000/004/422/4422862/?rss",
+      "date": "2026-07-30T13:30:00+09:00",
+      "dateLabel": "07/30 13:30",
+      "desc": "マウスコンピューターのノートPC「mouse B5（B5A7A01SR3SIW1106AZ）」がAmazonで割引対象。参考価格279,800円のところ、約4万円引きの239,980円で販売中。Copilot+ PC対応に加え、Ryzen AI 7 350プロセッサと32GBメモリを搭載した15.3型ノートPC。",
+      "img": "https://ascii.jp/img/2026/07/28/4506552/s/89dd9d43e17ce7b9.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "Excel作業を自動化する「Copilot in Excel」がスキルに対応 何ができる？",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/30/news049.html",
+      "date": "2026-07-30T13:00:00+09:00",
+      "dateLabel": "07/30 13:00",
+      "desc": "Microsoftは「Copilot in Excel」の財務部門向け機能を強化した。Microsoftの財務部門が実運用で利用・評価し、財務業務で求められる信頼性を重視して開発された。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "「Grok Voice Think Fast 2.0」が登場、文字起こしと音声対話の両方に対応",
+      "link": "https://gigazine.net/news/20260730-grok-voice-think-fast-2/",
+      "date": "2026-07-30T12:45:00+09:00",
+      "dateLabel": "07/30 12:45",
+      "desc": "SpaceXAIが音声AIモデル「Grok Voice Think Fast 2.0」を発表しました。ユーザーとの対話を音声でやりとりできるモデルで、前モデルをベースに音声推論能力・会話能力・ツール使用時の信頼性において大幅な向上を実現しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "MSI、『グランブルーファンタジー リリンク：エンドレスラグナロク』推奨PCを発表 最高品質1080p/60fpsに対応",
+      "link": "https://ascii.jp/elem/000/004/423/4423342/?rss",
+      "date": "2026-07-30T12:15:00+09:00",
+      "dateLabel": "07/30 12:15",
+      "desc": "エムエスアイコンピュータージャパンが、『グランブルーファンタジー リリンク：エンドレスラグナロク』向けにClaw-A8-BZ2EM-401JP、Claw-8-EX-AI+CG3EM-406JP、Cyborg-15-C13WEO-1192JPの動作確認済みPCおよび推奨PC認定を発表した。",
+      "img": "https://ascii.jp/img/2026/07/30/4507346/s/b87c5dad92ebf31a.png",
       "src": "ASCII.jp",
       "cat": "AI実装",
-      "score": 34
-    },
-    {
-      "title": "「データセンター」って何？ みんな使ってるのに、建設反対運動が起きてるらしいけど……",
-      "link": "https://ascii.jp/elem/000/004/422/4422270/?rss",
-      "date": "2026-07-30T07:00:00+09:00",
-      "dateLabel": "07/30 07:00",
-      "desc": "「データセンター」って何？ 建設予定地の周辺住民が不安になるほどの巨大建築の内部でいったい何が行なわれているのか？",
-      "img": "https://ascii.jp/img/2026/07/27/4505453/s/2485fb3d9d980786.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "AI特需に沸く韓国半導体 なぜサムスンの技術者は ライバルへ去るのか",
-      "link": "https://ascii.jp/elem/000/004/423/4423293/?rss",
-      "date": "2026-07-30T06:41:24+09:00",
-      "dateLabel": "07/30 06:41",
-      "desc": "AIブームで得た莫大な収益の分配をめぐって、韓国の半導体2大メーカーの1社であるサムスンから、もう1社のSKハイニックスへの人材流出が止まらない。決め手になっているのは、SKハイニックスが支払う予定の47万6000ドルのボーナスだ。部門業績に連動するサムスンのボーナスは、ファウンドリ部門ではその3割に満たない。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "【驚愕】RTX 5070搭載で24万円台の16型ゲーミングノートPCがAmazonでタイムセール中",
-      "link": "https://ascii.jp/elem/000/004/423/4423286/?rss",
-      "date": "2026-07-29T23:00:00+09:00",
-      "dateLabel": "07/29 23:00",
-      "desc": "Amazon.co.jpにて、ASUSの16型ゲーミングノートPC「TUF Gaming A16 FA608UP」が販売中だ。参考価格は34万9800円だが、タイムセールにより29％オフの24万9800円で購入できる（7月29日時点）。RTX 5070 Laptop GPU搭載機が24万円台は驚愕。",
-      "img": "https://ascii.jp/img/2026/07/29/4507254/s/fa534c42ea2562f8.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -228,36 +217,25 @@
       "score": 34
     },
     {
-      "title": "「NVIDIA製GPUが日本経由で中国に密輸された事件」の捜査でNVIDIA社員が逮捕されたことが判明",
-      "link": "https://gigazine.net/news/20260729-nvidia-employee-detained/",
-      "date": "2026-07-29T12:35:00+09:00",
-      "dateLabel": "07/29 12:35",
-      "desc": "台湾の検察は2026年5月に「NVIDIA製GPUを日本経由で中国に密輸しようとした」として3人を逮捕しました。この事件に関連して、NVIDIAの社員が逮捕されたことが報じられています。 続きを読む...",
+      "title": "OpenAIのAIエージェントが誤ってHugging Faceを侵害した件でHugging Faceが詳細なタイムラインを公開、攻撃過程を中国製AIの「GLM-5.2」で分析し再現",
+      "link": "https://gigazine.net/news/20260729-openai-hack-hugging-face-timeline/",
+      "date": "2026-07-29T12:17:00+09:00",
+      "dateLabel": "07/29 12:17",
+      "desc": "2026年7月、Hugging FaceがOpenAIの自律型AIエージェントに誤って侵害されるインシデントが発生しました。この件に関して調査を進めていたHugging Faceが、インシデントの概要を公開しています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "半導体/GPU",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
-      "title": "AnthropicのClaude Mythos Previewがポスト量子暗号の強度を半分に減らす攻撃手法を発見",
-      "link": "https://gigazine.net/news/20260729-claude-mythos-preview-finds-flaws/",
-      "date": "2026-07-29T11:26:00+09:00",
-      "dateLabel": "07/29 11:26",
-      "desc": "ソフトウェアの脆弱(ぜいじゃく)性を発見する能力が極めて高いAIモデル「Claude Mythos Preview」が、2つの暗号化アルゴリズムに欠陥を見つけたことが分かりました。 続きを読む...",
+      "title": "Hugging Face、AIエージェント侵入の技術詳細を公開──OpenAIモデルが4.5日で1万7600回の攻撃操作",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000263/",
+      "date": "2026-07-29T10:29:20+09:00",
+      "dateLabel": "07/29 10:29",
+      "desc": "Hugging Faceは、自律型AIエージェントによるインフラ侵入の技術的経緯を公開した。評価中のモデルがサンドボックスを脱出し、データセット処理パイプラインを介して本番環境へ侵入した手口を詳述。防御側のログ解析で商用モデルがガードレールにより作業を拒否した点も示し、安全設計のあり方に課題を提示した。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "OpenAIが文字起こしAI「GPT Transcribe」と「GPT Live Transcribe」をリリース",
-      "link": "https://gigazine.net/news/20260729-gpt-live-transcribe/",
-      "date": "2026-07-29T10:39:00+09:00",
-      "dateLabel": "07/29 10:39",
-      "desc": "OpenAIが文字起こしAI「GPT Transcribe」と「GPT Live Transcribe」をリリースしました。両モデルは専門用語を含む音声でも文脈を理解できるほか、ノイズが含まれる音声でも高精度な文字起こしが可能とアピールされています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -281,6 +259,28 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 34
+    },
+    {
+      "title": "Claude、一部チャットがGoogle検索で“丸見え”に 過去には「ChatGPT」でも 漏えいの原因は？",
+      "link": "https://www.itmedia.co.jp/business/articles/2607/28/news089.html",
+      "date": "2026-07-28T17:35:00+09:00",
+      "dateLabel": "07/28 17:35",
+      "desc": "「Claude」の一部チャットが、Google検索から閲覧状態になっていることが判明した。Anthropicはこの問題にどう対処したのか。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "マウスコンピューター、店舗限定セール開始 14型ノートPCとNEXTGEARがお買い得",
+      "link": "https://ascii.jp/elem/000/004/423/4423414/?rss",
+      "date": "2026-07-30T13:00:00+09:00",
+      "dateLabel": "07/30 13:00",
+      "desc": "マウスコンピューターが7月31日から8月27日まで、ダイレクトショップ全店とG-Tune：Garage大阪で「夏のボーナスセール第2弾」を開催する。14型ノートPC「mouse A4-A5U01SR-B/EX」とゲーミングPC「NEXTGEAR EG-A7G60/EX」を期間限定価格で販売する。",
+      "img": "https://ascii.jp/img/2026/07/30/4507364/s/a4e8d6e8aad58050.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     }
   ]
 }
