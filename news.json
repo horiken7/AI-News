@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-30T13:48:09.569609+09:00",
-  "generatedLabel": "2026/07/30 13:48",
+  "generatedAt": "2026-07-30T16:27:19.743901+09:00",
+  "generatedLabel": "2026/07/30 16:27",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 57,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 18
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -74,17 +74,6 @@
       "score": 50
     },
     {
-      "title": "写真を撮って価格比較 LINEヤフー、AIエージェント新機能",
-      "link": "https://ascii.jp/elem/000/004/423/4423440/?rss",
-      "date": "2026-07-30T13:20:00+09:00",
-      "dateLabel": "07/30 13:20",
-      "desc": "LINEヤフーは7月30日、AIエージェント「Agent i」のお買い物エージェントに、写真から商品を探せる「ショッピングレンズ」機能を追加したと発表した。",
-      "img": "https://ascii.jp/img/2026/07/30/4507397/s/e8ae6947bc043f1a.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
       "title": "MicrosoftはCopilotのスーパーアプリを2026年中にリリースすると正式発表",
       "link": "https://gigazine.net/news/20260730-microsoft-copilot-super-app/",
       "date": "2026-07-30T10:49:00+09:00",
@@ -105,17 +94,6 @@
       "src": "ITmedia AI+",
       "cat": "規制/安全",
       "score": 50
-    },
-    {
-      "title": "オフラインでもサクサク動く日本語AI！ 日本HPと楽天、HP製PC向け「Rakuten AI for Desktop」提供開始",
-      "link": "https://ascii.jp/elem/000/004/423/4423210/?rss",
-      "date": "2026-07-30T12:30:00+09:00",
-      "dateLabel": "07/30 12:30",
-      "desc": "日本HPは7月29日、楽天グループと協業し、日本国内のHP製PCを対象にプリバンドルされる「Rakuten AI for Desktop」の提供を開始したと発表した。",
-      "img": "https://ascii.jp/img/2026/07/30/4507321/s/d9e6be33d24fb624.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 42
     },
     {
       "title": "GPT-5.6やClaude Opusの性能を「MCPサーバーを構築できるか？」という観点で測定したベンチマークテスト「mcpbench」",
@@ -140,17 +118,6 @@
       "score": 42
     },
     {
-      "title": "AnthropicのAI「Claude」のプライベートな会話内容・健康記録・社内文書などがGoogle検索で大量に発見される",
-      "link": "https://gigazine.net/news/20260729-claude-chats-google-search/",
-      "date": "2026-07-29T16:00:00+09:00",
-      "dateLabel": "07/29 16:00",
-      "desc": "Google検索で特定の演算子を入力すると、AnthropicのAI・Claudeで行われたチャット内容やClaudeで作成されたドキュメントなどが検索可能になっているとRedditユーザーが報告しました。確認された会話の中には、健康記録や子どもの名前・電話番号、企業の非公開文書なども含まれていたとされています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "アトラシアン、JiraがAIによる要件定義の自動作成、コンテキストを保持しつつタスクをClaudeやCopilotなどのAIエージェントへアサインなど新機能",
       "link": "https://www.publickey1.jp/blog/26/jiraaiclaudecopilotai.html",
       "date": "2026-07-23T00:35:19+09:00",
@@ -162,14 +129,47 @@
       "score": 40
     },
     {
-      "title": "Copilot+ PC対応、Ryzen AI 7・32GBメモリ搭載「mouse B5」が約4万円引き",
-      "link": "https://ascii.jp/elem/000/004/422/4422862/?rss",
-      "date": "2026-07-30T13:30:00+09:00",
-      "dateLabel": "07/30 13:30",
-      "desc": "マウスコンピューターのノートPC「mouse B5（B5A7A01SR3SIW1106AZ）」がAmazonで割引対象。参考価格279,800円のところ、約4万円引きの239,980円で販売中。Copilot+ PC対応に加え、Ryzen AI 7 350プロセッサと32GBメモリを搭載した15.3型ノートPC。",
-      "img": "https://ascii.jp/img/2026/07/28/4506552/s/89dd9d43e17ce7b9.jpg",
+      "title": "“外骨格”で登山がラクに？ AI歩行アシスト「Hypershell X」",
+      "link": "https://ascii.jp/elem/000/004/423/4423519/?rss",
+      "date": "2026-07-30T15:30:00+09:00",
+      "dateLabel": "07/30 15:30",
+      "desc": "Fastlane Japanは7月30日、歩行をサポートする装着型アシスト機器「新 Hypershell Xシリーズ」を日本市場向けに発表した。",
+      "img": "https://ascii.jp/img/2026/07/30/4507459/s/27428fe7df9c749b.jpg",
       "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "「iPhone Air」512GBがAmazonセールで5万6000円引き！",
+      "link": "https://ascii.jp/elem/000/004/423/4423498/?rss",
+      "date": "2026-07-30T15:00:00+09:00",
+      "dateLabel": "07/30 15:00",
+      "desc": "Amazon.co.jpにて、「iPhone Air」がタイムセール中！とにかく薄い・軽量・高性能で画面の大きさも好評な一品です。",
+      "img": "https://ascii.jp/img/2026/07/30/4507443/s/5467a8155b4f33cc.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "GMOサイバーセキュリティ byイエラエ、「AIホワイトハッカー ペネトレーションテスト」提供開始",
+      "link": "https://ascii.jp/elem/000/004/423/4423549/?rss",
+      "date": "2026-07-30T14:00:00+09:00",
+      "dateLabel": "07/30 14:00",
+      "desc": "GMOサイバーセキュリティ byイエラエ、「AIホワイトハッカー ペネトレーションテスト」提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "GMI Cloud、フロンティアAI企業向けインフラ拡充に約750億円を投資",
+      "link": "https://ascii.jp/elem/000/004/423/4423530/?rss",
+      "date": "2026-07-30T14:00:00+09:00",
+      "dateLabel": "07/30 14:00",
+      "desc": "GMI Cloud、フロンティアAI企業向けインフラ拡充に約750億円を投資",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 34
     },
     {
@@ -195,36 +195,14 @@
       "score": 34
     },
     {
-      "title": "MSI、『グランブルーファンタジー リリンク：エンドレスラグナロク』推奨PCを発表 最高品質1080p/60fpsに対応",
-      "link": "https://ascii.jp/elem/000/004/423/4423342/?rss",
-      "date": "2026-07-30T12:15:00+09:00",
-      "dateLabel": "07/30 12:15",
-      "desc": "エムエスアイコンピュータージャパンが、『グランブルーファンタジー リリンク：エンドレスラグナロク』向けにClaw-A8-BZ2EM-401JP、Claw-8-EX-AI+CG3EM-406JP、Cyborg-15-C13WEO-1192JPの動作確認済みPCおよび推奨PC認定を発表した。",
-      "img": "https://ascii.jp/img/2026/07/30/4507346/s/b87c5dad92ebf31a.png",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 34
-    },
-    {
-      "title": "セキュリティレビューAIの「Codex Security CLI」がオープンソース化、GitHubからダウンロード可能に",
-      "link": "https://gigazine.net/news/20260729-codex-security-cli-open-source/",
-      "date": "2026-07-29T15:46:00+09:00",
-      "dateLabel": "07/29 15:46",
-      "desc": "OpenAIがセキュリティ解析用のコマンドラインツール「Codex Security CLI」をオープンソースとしてリリースしました。 続きを読む...",
+      "title": "AnthropicのAI「Claude」のプライベートな会話内容・健康記録・社内文書などがGoogle検索で大量に発見される",
+      "link": "https://gigazine.net/news/20260729-claude-chats-google-search/",
+      "date": "2026-07-29T16:00:00+09:00",
+      "dateLabel": "07/29 16:00",
+      "desc": "Google検索で特定の演算子を入力すると、AnthropicのAI・Claudeで行われたチャット内容やClaudeで作成されたドキュメントなどが検索可能になっているとRedditユーザーが報告しました。確認された会話の中には、健康記録や子どもの名前・電話番号、企業の非公開文書なども含まれていたとされています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "OpenAIのAIエージェントが誤ってHugging Faceを侵害した件でHugging Faceが詳細なタイムラインを公開、攻撃過程を中国製AIの「GLM-5.2」で分析し再現",
-      "link": "https://gigazine.net/news/20260729-openai-hack-hugging-face-timeline/",
-      "date": "2026-07-29T12:17:00+09:00",
-      "dateLabel": "07/29 12:17",
-      "desc": "2026年7月、Hugging FaceがOpenAIの自律型AIエージェントに誤って侵害されるインシデントが発生しました。この件に関して調査を進めていたHugging Faceが、インシデントの概要を公開しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -261,25 +239,47 @@
       "score": 34
     },
     {
-      "title": "Claude、一部チャットがGoogle検索で“丸見え”に 過去には「ChatGPT」でも 漏えいの原因は？",
-      "link": "https://www.itmedia.co.jp/business/articles/2607/28/news089.html",
-      "date": "2026-07-28T17:35:00+09:00",
-      "dateLabel": "07/28 17:35",
-      "desc": "「Claude」の一部チャットが、Google検索から閲覧状態になっていることが判明した。Anthropicはこの問題にどう対処したのか。",
+      "title": "ChatGPTとRobloxがEU域内で月間4500万ユーザーを突破、「超大規模プラットフォーム」指定へ",
+      "link": "https://gigazine.net/news/20260730-eu-dsa-chatgpt-roblox/",
+      "date": "2026-07-30T15:45:00+09:00",
+      "dateLabel": "07/30 15:45",
+      "desc": "チャットAIのChatGPTとゲーミングプラットフォームのRobloxが、EUで「超大規模プラットフォーム」に指定される見通しであることがわかりました。これは両者のEU域内での月間ユーザー数が4500万人を突破したことに伴う措置で、指定を受けた場合、透明性報告書の提出など義務付けられることになります。がChatGPT, Roblox to Fall Unde",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "「書くのは人、支えるのはAI」KADOKAWAとはてなが次世代小説エディタ開発",
+      "link": "https://ascii.jp/elem/000/004/423/4423499/?rss",
+      "date": "2026-07-30T15:00:00+09:00",
+      "dateLabel": "07/30 15:00",
+      "desc": "はてなは7月30日、KADOKAWAと共同開発した次世代小説エディタ「RIKU」のクローズドβテスト参加者の募集を開始した。",
+      "img": "https://ascii.jp/img/2026/07/30/4507444/s/9d63a284e3bc6063.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "続々とAI企業が電気技師や大工を何千人も採用、OpenAI・Google・Metaなどが業界史上最高水準の給与を提示",
+      "link": "https://gigazine.net/news/20260730-ai-data-center-electricians/",
+      "date": "2026-07-30T15:00:00+09:00",
+      "dateLabel": "07/30 15:00",
+      "desc": "生成AIの開発競争が激化する中、MetaやGoogleなどのテクノロジー企業が、電気技師や大工、溶接工、配管工といった技能職の採用と育成を急速に拡大しています。求人検索サイトのIndeedによると、関連施設で働く人材の求人は過去2年間で2倍以上に増加しており、AIブームが従来のソフトウェア技術者とは異なる雇用を生み出しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "日本HPのPCが楽天のAIを搭載、ローカル実行も可能 HP岡戸社長「ハイブリッドAIの重要なマイルストーン」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/30/2000000302/",
+      "date": "2026-07-30T14:52:01+09:00",
+      "dateLabel": "07/30 14:52",
+      "desc": "日本HPと楽天が、HP製PC向けAIアプリ「Rakuten AI for Desktop」のプリバンドルを開始。70億パラメータの日本語LLM「Rakuten AI 7B」で、オフラインでも要約や翻訳をローカルで実行できる。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "マウスコンピューター、店舗限定セール開始 14型ノートPCとNEXTGEARがお買い得",
-      "link": "https://ascii.jp/elem/000/004/423/4423414/?rss",
-      "date": "2026-07-30T13:00:00+09:00",
-      "dateLabel": "07/30 13:00",
-      "desc": "マウスコンピューターが7月31日から8月27日まで、ダイレクトショップ全店とG-Tune：Garage大阪で「夏のボーナスセール第2弾」を開催する。14型ノートPC「mouse A4-A5U01SR-B/EX」とゲーミングPC「NEXTGEAR EG-A7G60/EX」を期間限定価格で販売する。",
-      "img": "https://ascii.jp/img/2026/07/30/4507364/s/a4e8d6e8aad58050.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 26
     }
   ]
