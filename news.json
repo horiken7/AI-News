@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-31T06:59:12.886797+09:00",
-  "generatedLabel": "2026/07/31 06:59",
+  "generatedAt": "2026-07-31T08:07:12.433005+09:00",
+  "generatedLabel": "2026/07/31 08:07",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 51,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,7 +13,7 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 16
+      "items": 17
     },
     {
       "source": "ASCII.jp",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 12
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -129,28 +129,6 @@
       "score": 34
     },
     {
-      "title": "クマとうさぎをAIで見分ける、庭の見守りを作ってみた【SORACOM Discovery 2026 ― IoT プロトタイピングコーナー】",
-      "link": "https://ascii.jp/elem/000/004/423/4423625/?rss",
-      "date": "2026-07-30T18:10:00+09:00",
-      "dateLabel": "07/30 18:10",
-      "desc": "クマとうさぎをAIで見分ける、庭の見守りを作ってみた【SORACOM Discovery 2026 ― IoT プロトタイピングコーナー】",
-      "img": "https://ascii.jp/img/2026/07/30/4507551/s/cf2098e7678161c1.png",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "『OKINAWA FES Milafete HOKKAIDO』MATSURI STAGE・CHURA STAGE・YUNTAKU STAGEタイムテーブル公開!!",
-      "link": "https://ascii.jp/elem/000/004/423/4423662/?rss",
-      "date": "2026-07-30T18:00:00+09:00",
-      "dateLabel": "07/30 18:00",
-      "desc": "『OKINAWA FES Milafete HOKKAIDO』MATSURI STAGE・CHURA STAGE・YUNTAKU STAGEタイムテーブル公開!!",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "Excel作業を自動化する「Copilot in Excel」がスキルに対応 何ができる？",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/30/news049.html",
       "date": "2026-07-30T13:00:00+09:00",
@@ -228,6 +206,50 @@
       "score": 34
     },
     {
+      "title": "悪用厳禁、「ChatGPT」の会話履歴をごっそりとぶっこ抜く“AIハック”：890th Lap",
+      "link": "https://kn.itmedia.co.jp/kn/articles/2607/31/news040.html",
+      "date": "2026-07-31T07:00:00+09:00",
+      "dateLabel": "07/31 07:00",
+      "desc": "「ChatGPT」との会話履歴をPCへ簡単に保存できるとして、ある方法が注目を集めている。一方で、利用規約や情報管理の面で注意すべき点もある。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "3万8000円安い！ 史上最薄5.64mmのiPhone Air 256GBが13万9800円",
+      "link": "https://ascii.jp/elem/000/004/423/4423677/?rss",
+      "date": "2026-07-31T07:00:00+09:00",
+      "dateLabel": "07/31 07:00",
+      "desc": "Appleの「iPhone Air 256GB」がAmazonでタイムセール中です。参考価格17万7800円から21％オフの13万9800円。厚さ5.64mm、重量165gの薄型・軽量モデルをお得に購入できます。",
+      "img": "https://ascii.jp/img/2026/07/12/4499345/s/ab21ab77ea757ee5.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "AI選書が引き起こす子どもの図書館回帰。デジタル領域から公共インフラへ",
+      "link": "https://ascii.jp/elem/000/004/423/4423218/?rss",
+      "date": "2026-07-31T07:00:00+09:00",
+      "dateLabel": "07/31 07:00",
+      "desc": "EdTechを展開する株式会社Yondemyは7月23日、子ども向けオンライン読書習い事サービス「ヨンデミー」の利用家庭（保護者）を対象とした 「図書館利用に関する実態調査」の結果を公表した。同社の調査によれば、利用前は図書館へほぼ行かなかった家庭の96%が「月1回以上」、約半数が「週1回以上」図書館に通うようになったほか、全体の利用頻度も約2.7倍に増加し",
+      "img": "https://ascii.jp/img/2026/07/29/4507120/s/7727301f2979824e.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "MicrosoftのWord用Copilotを標的にした文書ベースで自己増殖するAIワームが初めて実証される",
+      "link": "https://gigazine.net/news/20260731-microsoft-copilot-word-documents-ai-worm/",
+      "date": "2026-07-31T07:00:00+09:00",
+      "dateLabel": "07/31 07:00",
+      "desc": "MicrosoftはWordやExcelといった事務用ソフトウェアをまとめたオフィススイートに、生成AIアシスタントのCopilotを統合しています。新たに、そんなWord用Copilotを標的にした文書ベースで自己増殖するマルウェア「AIワーム」の有効性を、セキュリティ研究者のホーコン・モーレイ氏が初めて実証しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
       "title": "AIエージェントの選び方！5つの比較軸と失敗パターンを解説",
       "link": "https://ainow.ai/2026/07/31/278288/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e9%2581%25b8%25e3%2581%25b3%25e6%2596%25b9%25ef%25bc%25815%25e3%2581%25a4%25e3%2581%25ae%25e6%25af%2594%25e8%25bc%2583%25e8%25bb%25b8%25e3%2581%25a8%25e5%25a4%25b1%25e6%2595%2597%25e3%2583%2591%25e3%2582%25bf",
       "date": "2026-07-31T01:17:56+09:00",
@@ -257,28 +279,6 @@
       "desc": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
       "img": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png",
       "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "外国製のロボット掃除機やロボット芝刈り機がアメリカで新規販売禁止の対象に",
-      "link": "https://gigazine.net/news/20260730-fcc-robot-vacuums/",
-      "date": "2026-07-30T19:00:00+09:00",
-      "dateLabel": "07/30 19:00",
-      "desc": "トランプ政権は現地時間の2026年7月28日にアメリカのAI開発を保護するため外国製の新型人型ロボット・四足歩行ロボット・再生可能エネルギー設備・インバーターなどの新規販売禁止を禁止すると発表しました。翌29日にはさらに、ロボット掃除機とロボット芝刈り機も輸入禁止対象に含まれることが明らかになりました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "KADOKAWAとはてな、AIで小説執筆を支援 新サービス「RIKU」、テスター募集開始",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/30/2000000306/",
-      "date": "2026-07-30T15:58:31+09:00",
-      "dateLabel": "07/30 15:58",
-      "desc": "KADOKAWAとはてなは、AIで小説の執筆を支援するエディタ「RIKU」を発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
       "cat": "AI全般",
       "score": 26
     }
