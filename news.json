@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-30T16:27:19.743901+09:00",
-  "generatedLabel": "2026/07/30 16:27",
+  "generatedAt": "2026-07-30T19:12:35.487869+09:00",
+  "generatedLabel": "2026/07/30 19:12",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 51,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -107,17 +107,6 @@
       "score": 42
     },
     {
-      "title": "ChatGPT WorkとCodexの5時間制限「明日から再開」 GPT-5.6 Solの“トークン消費問題”を改善",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000273/",
-      "date": "2026-07-29T16:29:39+09:00",
-      "dateLabel": "07/29 16:29",
-      "desc": "米OpenAI幹部のティボ・ソティオ氏は、デスクトップPC向けAIサービス「ChatGPT Work」とAIコーディングツール「Codex」について「明日から5時間ごとの利用制限枠を再開する」と発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "アトラシアン、JiraがAIによる要件定義の自動作成、コンテキストを保持しつつタスクをClaudeやCopilotなどのAIエージェントへアサインなど新機能",
       "link": "https://www.publickey1.jp/blog/26/jiraaiclaudecopilotai.html",
       "date": "2026-07-23T00:35:19+09:00",
@@ -129,47 +118,47 @@
       "score": 40
     },
     {
-      "title": "“外骨格”で登山がラクに？ AI歩行アシスト「Hypershell X」",
-      "link": "https://ascii.jp/elem/000/004/423/4423519/?rss",
-      "date": "2026-07-30T15:30:00+09:00",
-      "dateLabel": "07/30 15:30",
-      "desc": "Fastlane Japanは7月30日、歩行をサポートする装着型アシスト機器「新 Hypershell Xシリーズ」を日本市場向けに発表した。",
-      "img": "https://ascii.jp/img/2026/07/30/4507459/s/27428fe7df9c749b.jpg",
+      "title": "クマとうさぎをAIで見分ける、庭の見守りを作ってみた【SORACOM Discovery 2026 ― IoT プロトタイピングコーナー】",
+      "link": "https://ascii.jp/elem/000/004/423/4423625/?rss",
+      "date": "2026-07-30T18:10:00+09:00",
+      "dateLabel": "07/30 18:10",
+      "desc": "クマとうさぎをAIで見分ける、庭の見守りを作ってみた【SORACOM Discovery 2026 ― IoT プロトタイピングコーナー】",
+      "img": "https://ascii.jp/img/2026/07/30/4507551/s/cf2098e7678161c1.png",
       "src": "ASCII.jp",
-      "cat": "AI全般",
+      "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
-      "title": "「iPhone Air」512GBがAmazonセールで5万6000円引き！",
-      "link": "https://ascii.jp/elem/000/004/423/4423498/?rss",
-      "date": "2026-07-30T15:00:00+09:00",
-      "dateLabel": "07/30 15:00",
-      "desc": "Amazon.co.jpにて、「iPhone Air」がタイムセール中！とにかく薄い・軽量・高性能で画面の大きさも好評な一品です。",
-      "img": "https://ascii.jp/img/2026/07/30/4507443/s/5467a8155b4f33cc.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "GMOサイバーセキュリティ byイエラエ、「AIホワイトハッカー ペネトレーションテスト」提供開始",
-      "link": "https://ascii.jp/elem/000/004/423/4423549/?rss",
-      "date": "2026-07-30T14:00:00+09:00",
-      "dateLabel": "07/30 14:00",
-      "desc": "GMOサイバーセキュリティ byイエラエ、「AIホワイトハッカー ペネトレーションテスト」提供開始",
+      "title": "『OKINAWA FES Milafete HOKKAIDO』MATSURI STAGE・CHURA STAGE・YUNTAKU STAGEタイムテーブル公開!!",
+      "link": "https://ascii.jp/elem/000/004/423/4423662/?rss",
+      "date": "2026-07-30T18:00:00+09:00",
+      "dateLabel": "07/30 18:00",
+      "desc": "『OKINAWA FES Milafete HOKKAIDO』MATSURI STAGE・CHURA STAGE・YUNTAKU STAGEタイムテーブル公開!!",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
     },
     {
-      "title": "GMI Cloud、フロンティアAI企業向けインフラ拡充に約750億円を投資",
-      "link": "https://ascii.jp/elem/000/004/423/4423530/?rss",
-      "date": "2026-07-30T14:00:00+09:00",
-      "dateLabel": "07/30 14:00",
-      "desc": "GMI Cloud、フロンティアAI企業向けインフラ拡充に約750億円を投資",
+      "title": "Snapdragon X Plus・16GBメモリ搭載のSurface LaptopがAmazonで約2万円引き",
+      "link": "https://ascii.jp/elem/000/004/422/4422954/?rss",
+      "date": "2026-07-30T18:00:00+09:00",
+      "dateLabel": "07/30 18:00",
+      "desc": "MicrosoftのノートPC「Surface Laptop」がAmazonで割引対象。参考価格164,780円のところ、13％オフの143,798円で販売中。Snapdragon X Plusと16GBメモリを搭載するCopilot+ PCだ。",
+      "img": "https://ascii.jp/img/2026/07/29/4506781/s/df3fb63087458ec7.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "「3.3万円でClaude Code合宿？」せお丸AI合宿、期間限定ツアーの受講料を税込3.3万円に価格改定",
+      "link": "https://ascii.jp/elem/000/004/423/4423627/?rss",
+      "date": "2026-07-30T17:26:11+09:00",
+      "dateLabel": "07/30 17:26",
+      "desc": "「3.3万円でClaude Code合宿？」せお丸AI合宿、期間限定ツアーの受講料を税込3.3万円に価格改定",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AI全般",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -192,6 +181,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "ChatGPT WorkとCodexの5時間制限「明日から再開」 GPT-5.6 Solの“トークン消費問題”を改善",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000273/",
+      "date": "2026-07-29T16:29:39+09:00",
+      "dateLabel": "07/29 16:29",
+      "desc": "米OpenAI幹部のティボ・ソティオ氏は、デスクトップPC向けAIサービス「ChatGPT Work」とAIコーディングツール「Codex」について「明日から5時間ごとの利用制限枠を再開する」と発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -239,6 +239,28 @@
       "score": 34
     },
     {
+      "title": "外国製のロボット掃除機やロボット芝刈り機がアメリカで新規販売禁止の対象に",
+      "link": "https://gigazine.net/news/20260730-fcc-robot-vacuums/",
+      "date": "2026-07-30T19:00:00+09:00",
+      "dateLabel": "07/30 19:00",
+      "desc": "トランプ政権は現地時間の2026年7月28日にアメリカのAI開発を保護するため外国製の新型人型ロボット・四足歩行ロボット・再生可能エネルギー設備・インバーターなどの新規販売禁止を禁止すると発表しました。翌29日にはさらに、ロボット掃除機とロボット芝刈り機も輸入禁止対象に含まれることが明らかになりました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
+      "title": "KADOKAWAとはてな、AIで小説執筆を支援 新サービス「RIKU」、テスター募集開始",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/30/2000000306/",
+      "date": "2026-07-30T15:58:31+09:00",
+      "dateLabel": "07/30 15:58",
+      "desc": "KADOKAWAとはてなは、AIで小説の執筆を支援するエディタ「RIKU」を発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "ChatGPTとRobloxがEU域内で月間4500万ユーザーを突破、「超大規模プラットフォーム」指定へ",
       "link": "https://gigazine.net/news/20260730-eu-dsa-chatgpt-roblox/",
       "date": "2026-07-30T15:45:00+09:00",
@@ -250,17 +272,6 @@
       "score": 26
     },
     {
-      "title": "「書くのは人、支えるのはAI」KADOKAWAとはてなが次世代小説エディタ開発",
-      "link": "https://ascii.jp/elem/000/004/423/4423499/?rss",
-      "date": "2026-07-30T15:00:00+09:00",
-      "dateLabel": "07/30 15:00",
-      "desc": "はてなは7月30日、KADOKAWAと共同開発した次世代小説エディタ「RIKU」のクローズドβテスト参加者の募集を開始した。",
-      "img": "https://ascii.jp/img/2026/07/30/4507444/s/9d63a284e3bc6063.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
       "title": "続々とAI企業が電気技師や大工を何千人も採用、OpenAI・Google・Metaなどが業界史上最高水準の給与を提示",
       "link": "https://gigazine.net/news/20260730-ai-data-center-electricians/",
       "date": "2026-07-30T15:00:00+09:00",
@@ -268,17 +279,6 @@
       "desc": "生成AIの開発競争が激化する中、MetaやGoogleなどのテクノロジー企業が、電気技師や大工、溶接工、配管工といった技能職の採用と育成を急速に拡大しています。求人検索サイトのIndeedによると、関連施設で働く人材の求人は過去2年間で2倍以上に増加しており、AIブームが従来のソフトウェア技術者とは異なる雇用を生み出しています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "日本HPのPCが楽天のAIを搭載、ローカル実行も可能 HP岡戸社長「ハイブリッドAIの重要なマイルストーン」",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/30/2000000302/",
-      "date": "2026-07-30T14:52:01+09:00",
-      "dateLabel": "07/30 14:52",
-      "desc": "日本HPと楽天が、HP製PC向けAIアプリ「Rakuten AI for Desktop」のプリバンドルを開始。70億パラメータの日本語LLM「Rakuten AI 7B」で、オフラインでも要約や翻訳をローカルで実行できる。",
-      "img": "",
-      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 26
     }
