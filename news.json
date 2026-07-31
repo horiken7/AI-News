@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-31T08:07:12.433005+09:00",
-  "generatedLabel": "2026/07/31 08:07",
+  "generatedAt": "2026-07-31T10:51:21.916727+09:00",
+  "generatedLabel": "2026/07/31 10:51",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 17
+      "items": 16
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,28 @@
   ],
   "articles": [
     {
+      "title": "ASUSの新RTX 5080は静音＆高冷却、PRIMEシリーズ最新モデル発売",
+      "link": "https://ascii.jp/elem/000/004/423/4423685/?rss",
+      "date": "2026-07-31T10:00:00+09:00",
+      "dateLabel": "07/31 10:00",
+      "desc": "ASUS JAPANがNVIDIA GeForce RTX 5080搭載グラフィックカード「PRIME-RTX5080-O16G-EVO」を7月31日にAmazon限定で発売する。2.5スロット設計やAxial-Tech 3連ファン、MaxContactデザイン、フェーズチェンジGPUサーマルパッド、0dBテクノロジーなどを備え、静音性と冷却性能の両立を狙う",
+      "img": "https://ascii.jp/img/2026/07/31/4507596/s/aa0275f8e4cfb50b.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 58
+    },
+    {
+      "title": "OpenAIに続き、Anthropicも3社に不正アクセス確認 AI開発競争に問われる「止まる仕組み」",
+      "link": "https://ascii.jp/elem/000/004/423/4423686/?rss",
+      "date": "2026-07-31T09:40:00+09:00",
+      "dateLabel": "07/31 09:40",
+      "desc": "Anthropicは7月30日、AIモデル「Claude」のサイバーセキュリティ評価中に、実在する3組織のシステムへ不正アクセスしていたと発表した。",
+      "img": "https://ascii.jp/img/2026/07/31/4507595/s/7fd1ad5789f8998a.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 58
+    },
+    {
       "title": "OpenAIはGPT-5.6の推論効率をGPT-5.6自身を用いて自律的に改善した",
       "link": "https://gigazine.net/news/20260730-gpt-5-6-optimizing/",
       "date": "2026-07-30T13:30:00+09:00",
@@ -71,17 +93,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
-      "title": "MicrosoftはCopilotのスーパーアプリを2026年中にリリースすると正式発表",
-      "link": "https://gigazine.net/news/20260730-microsoft-copilot-super-app/",
-      "date": "2026-07-30T10:49:00+09:00",
-      "dateLabel": "07/30 10:49",
-      "desc": "MicrosoftはAIアシスタント・Copilotのチャット・コーディング・エージェント機能を組み合わせたAI「スーパーアプリ」の開発に取り組んでいることを明らかにしました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
       "score": 50
     },
     {
@@ -96,6 +107,50 @@
       "score": 50
     },
     {
+      "title": "Claudeが評価環境から実在企業に不正アクセス――Anthropic、3件のインシデントを公表",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000318/",
+      "date": "2026-07-31T09:30:18+09:00",
+      "dateLabel": "07/31 09:30",
+      "desc": "Anthropicは、サイバーセキュリティ評価中にAIモデル「Claude」が設定ミスでオープンになっていた経路から外部のインターネットに接続し、実在する3組織の本番インフラに誤って不正アクセスしていたと発表した。評価環境を演習と誤認したことが原因で、全評価を停止し外部ベンダーとの監視強化や対策を進める。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "「関東・関西に次ぐDS集積地」目指す 北海道・石狩でデータセンター連合 さくら、NTT東らが参画",
+      "link": "https://ascii.jp/elem/000/004/422/4422759/?rss",
+      "date": "2026-07-31T09:00:00+09:00",
+      "dateLabel": "07/31 09:00",
+      "desc": "北海道石狩市は、市内に立地するデータセンター事業者や電力・通信インフラ事業者らと連携して「石狩データセンターコンソーシアム」を設立すると発表した。",
+      "img": "https://ascii.jp/img/2026/07/28/4506351/s/1d3b1db0a4c04832.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "OpenAI、「GPT-5.6 Luna」を80％値下げ モデル自身による効率化でコスト削減",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000317/",
+      "date": "2026-07-31T08:55:50+09:00",
+      "dateLabel": "07/31 08:55",
+      "desc": "OpenAIは、「GPT-5.6」ファミリーの「Luna」を80％、「Terra」を20％値下げすると発表した。API価格の改定に加え、「ChatGPT Work」や「Codex」でのクレジット消費量も削減される。自律的なカーネル最適化により提供コストの削減を実現した。また、処理速度を最大2.5倍に高める「Fast mode」も新たに導入する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "MicrosoftはCopilotのスーパーアプリを2026年中にリリースすると正式発表",
+      "link": "https://gigazine.net/news/20260730-microsoft-copilot-super-app/",
+      "date": "2026-07-30T10:49:00+09:00",
+      "dateLabel": "07/30 10:49",
+      "desc": "MicrosoftはAIアシスタント・Copilotのチャット・コーディング・エージェント機能を組み合わせたAI「スーパーアプリ」の開発に取り組んでいることを明らかにしました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "アトラシアン、JiraがAIによる要件定義の自動作成、コンテキストを保持しつつタスクをClaudeやCopilotなどのAIエージェントへアサインなど新機能",
       "link": "https://www.publickey1.jp/blog/26/jiraaiclaudecopilotai.html",
       "date": "2026-07-23T00:35:19+09:00",
@@ -107,6 +162,39 @@
       "score": 40
     },
     {
+      "title": "Google DeepMindがロボット向けAIモデル「Gemini Robotics 2」を発表、歩行から両手の細かな作業まで全身を制御可能に",
+      "link": "https://gigazine.net/news/20260731-google-deepmind-gemini-robotics-2/",
+      "date": "2026-07-31T10:37:00+09:00",
+      "dateLabel": "07/31 10:37",
+      "desc": "Google DeepMindが2026年7月30日、ロボットの歩行や姿勢制御、物体操作などを統合して実行できるAIモデル群「Gemini Robotics 2」を発表しました。人型ロボットを足先から指先まで動かせるほか、複数のロボットによる共同作業や、異なる機体への短時間での適応にも対応します。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "OpenAIがGPT-5.6を最大80％値下げ",
+      "link": "https://gigazine.net/news/20260731-openai-gpt-5-6-reducing-prices/",
+      "date": "2026-07-31T10:24:00+09:00",
+      "dateLabel": "07/31 10:24",
+      "desc": "OpenAIがGPT-5.6シリーズの値下げを発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "HP製PCで楽天AIが利用可能に、「Rakuten AI for Desktop」提供開始",
+      "link": "https://ascii.jp/elem/000/004/423/4423683/?rss",
+      "date": "2026-07-31T09:15:00+09:00",
+      "dateLabel": "07/31 09:15",
+      "desc": "日本HPと楽天グループが、HP製PC向けにハイブリッドAIアプリ「Rakuten AI for Desktop」の提供を7月29日に開始した。オンデバイスAIとクラウドAIを切り替えられ、文章作成、要約、翻訳、楽天エコシステム連携を支援する。",
+      "img": "https://ascii.jp/img/2026/07/31/4507584/s/79efac8ac85adc5a.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "JetBrains、AIが少ないトークンでコンテキストを取得しやすく、よりよいコード生成を可能にする「JetBrains Context」発表",
       "link": "https://www.publickey1.jp/blog/26/jetbrainsaijetbrains_context.html",
       "date": "2026-07-31T02:48:59+09:00",
@@ -114,17 +202,6 @@
       "desc": "JetBrainsは、コードリポジトリの上にインテリジェンスなレイヤを構築し、AIエージェントに対して適切なコードのコンテキストを提供することで、AIエージェントによるよりよいコード生成を可能にする新サービス「JetBrains Conte...",
       "img": "",
       "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Copilot+ PC「FMV WA4-L1」が、FMV直販なら21万4500円！ 目玉品に注目！",
-      "link": "https://ascii.jp/elem/000/004/423/4423584/?rss",
-      "date": "2026-07-30T20:00:00+09:00",
-      "dateLabel": "07/30 20:00",
-      "desc": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
-      "img": "https://ascii.jp/img/2026/06/28/4490472/s/db096cc143d24841.png",
-      "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
       "score": 34
     },
@@ -184,17 +261,6 @@
       "score": 34
     },
     {
-      "title": "Anthropicのミュトス、暗号アルゴリズムの新たな攻撃法を発見――耐量子署名「HAWK」の強度を半減",
-      "link": "https://www.itmedia.co.jp/news/article/2607/29/2000000256/",
-      "date": "2026-07-29T07:50:56+09:00",
-      "dateLabel": "07/29 07:50",
-      "desc": "Anthropicは、最上位モデル「Claude Mythos Preview」（ミュトス）を活用し、暗号アルゴリズム自体の数学的欠陥を発見したと発表した。耐量子計算機暗号の署名方式「HAWK」と「AES」の削減版に対し、従来の攻撃を上回る手法を提示した。実運用システムへの影響はないものの、AIによる暗号解読や構造解析の新たな可能性を示す成果となる。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "Google Cloud、AIが自律的にコードの脆弱性検出からサンドボックス内でのリスク検証、修正までを自動実行。「CodeMender」プレビュー公開",
       "link": "https://www.publickey1.jp/blog/26/google_cloudaicodemender.html",
       "date": "2026-07-29T00:54:06+09:00",
@@ -206,80 +272,14 @@
       "score": 34
     },
     {
-      "title": "悪用厳禁、「ChatGPT」の会話履歴をごっそりとぶっこ抜く“AIハック”：890th Lap",
-      "link": "https://kn.itmedia.co.jp/kn/articles/2607/31/news040.html",
-      "date": "2026-07-31T07:00:00+09:00",
-      "dateLabel": "07/31 07:00",
-      "desc": "「ChatGPT」との会話履歴をPCへ簡単に保存できるとして、ある方法が注目を集めている。一方で、利用規約や情報管理の面で注意すべき点もある。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "3万8000円安い！ 史上最薄5.64mmのiPhone Air 256GBが13万9800円",
-      "link": "https://ascii.jp/elem/000/004/423/4423677/?rss",
-      "date": "2026-07-31T07:00:00+09:00",
-      "dateLabel": "07/31 07:00",
-      "desc": "Appleの「iPhone Air 256GB」がAmazonでタイムセール中です。参考価格17万7800円から21％オフの13万9800円。厚さ5.64mm、重量165gの薄型・軽量モデルをお得に購入できます。",
-      "img": "https://ascii.jp/img/2026/07/12/4499345/s/ab21ab77ea757ee5.jpg",
+      "title": "そのSaaS、数年後も生き残れる？ 情シスのホンネで作る「最強SaaSティア表」アンケート開始【アマギフ1万円分が当たる】",
+      "link": "https://ascii.jp/elem/000/004/422/4422916/?rss",
+      "date": "2026-07-31T09:00:00+09:00",
+      "dateLabel": "07/31 09:00",
+      "desc": "生成AIの波が押し寄せる中、「今のSaaSは将来AIに代替されるのでは？」という懸念が現実味を帯びています。激動の時代において、情シスが今本当に頼りにしている、そして「これからも生き残る」ツールは何なのかを問うアンケートを実施します。",
+      "img": "https://ascii.jp/img/2026/07/28/4506638/s/5552177690a127bb.png",
       "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "AI選書が引き起こす子どもの図書館回帰。デジタル領域から公共インフラへ",
-      "link": "https://ascii.jp/elem/000/004/423/4423218/?rss",
-      "date": "2026-07-31T07:00:00+09:00",
-      "dateLabel": "07/31 07:00",
-      "desc": "EdTechを展開する株式会社Yondemyは7月23日、子ども向けオンライン読書習い事サービス「ヨンデミー」の利用家庭（保護者）を対象とした 「図書館利用に関する実態調査」の結果を公表した。同社の調査によれば、利用前は図書館へほぼ行かなかった家庭の96%が「月1回以上」、約半数が「週1回以上」図書館に通うようになったほか、全体の利用頻度も約2.7倍に増加し",
-      "img": "https://ascii.jp/img/2026/07/29/4507120/s/7727301f2979824e.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "MicrosoftのWord用Copilotを標的にした文書ベースで自己増殖するAIワームが初めて実証される",
-      "link": "https://gigazine.net/news/20260731-microsoft-copilot-word-documents-ai-worm/",
-      "date": "2026-07-31T07:00:00+09:00",
-      "dateLabel": "07/31 07:00",
-      "desc": "MicrosoftはWordやExcelといった事務用ソフトウェアをまとめたオフィススイートに、生成AIアシスタントのCopilotを統合しています。新たに、そんなWord用Copilotを標的にした文書ベースで自己増殖するマルウェア「AIワーム」の有効性を、セキュリティ研究者のホーコン・モーレイ氏が初めて実証しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "AIエージェントの選び方！5つの比較軸と失敗パターンを解説",
-      "link": "https://ainow.ai/2026/07/31/278288/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e9%2581%25b8%25e3%2581%25b3%25e6%2596%25b9%25ef%25bc%25815%25e3%2581%25a4%25e3%2581%25ae%25e6%25af%2594%25e8%25bc%2583%25e8%25bb%25b8%25e3%2581%25a8%25e5%25a4%25b1%25e6%2595%2597%25e3%2583%2591%25e3%2582%25bf",
-      "date": "2026-07-31T01:17:56+09:00",
-      "dateLabel": "07/31 01:17",
-      "desc": "AIエージェントの選び方は、分類・比較軸・導入目的の3点を押さえれば判断できます。 比較軸を知らないままツールを選ぶと、現場で使われずPoC（概念実証）止まりに終わる企業が少なくありません。反対に軸を理解していれば、根拠... The post AIエージェントの選び方！5つの比較軸と失敗パターンを解説 first appeared on AI専門ニュースメ",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "M5搭載MacBook Airが1万9051円引き！ 16GBメモリ／1TB SSDモデルが259,749円",
-      "link": "https://ascii.jp/elem/000/004/423/4423675/?rss",
-      "date": "2026-07-31T00:10:00+09:00",
-      "dateLabel": "07/31 00:10",
-      "desc": "Amazonで、M5チップを搭載した13インチMacBook Airが7％オフの259,749円で販売中です。16GBユニファイドメモリと1TB SSDを備えたスターライトモデルです。",
-      "img": "https://ascii.jp/img/2026/03/16/4435680/s/9cdb7f80bed29f02.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "ゲームもできるRyzen AI 7 350搭載デスクトップPCが、FMV直販でお買い得",
-      "link": "https://ascii.jp/elem/000/004/423/4423582/?rss",
-      "date": "2026-07-30T19:30:00+09:00",
-      "dateLabel": "07/30 19:30",
-      "desc": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
-      "img": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 26
     }
   ]
