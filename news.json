@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-01T06:57:01.059695+09:00",
-  "generatedLabel": "2026/08/01 06:57",
+  "generatedAt": "2026-08-01T07:54:37.328565+09:00",
+  "generatedLabel": "2026/08/01 07:54",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -162,17 +162,6 @@
       "score": 34
     },
     {
-      "title": "IoTで赤外線リモコンロボは「全地球探査ロボット」になれる…？ 【SORACOM Discovery 2026 ― IoT プロトタイピングコーナー】",
-      "link": "https://ascii.jp/elem/000/004/424/4424067/?rss",
-      "date": "2026-07-31T19:00:00+09:00",
-      "dateLabel": "07/31 19:00",
-      "desc": "IoTで赤外線リモコンロボは「全地球探査ロボット」になれる…？ 【SORACOM Discovery 2026 ― IoT プロトタイピングコーナー】",
-      "img": "https://ascii.jp/img/2026/07/31/4508046/s/ee84a657c6025499.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
       "title": "Ghostty開発者が新会社「Superlogical」を始動、人間とAIの作業を統合するターミナル基盤を構築へ",
       "link": "https://gigazine.net/news/20260731-mitchell-hashimoto-superlogical/",
       "date": "2026-07-31T19:00:00+09:00",
@@ -281,6 +270,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 28
+    },
+    {
+      "title": "コンパイラ「GCC」の開発チームがAI生成コードの受け入れポリシーを公開、15行以上のAI生成コードは受け入れ拒否",
+      "link": "https://gigazine.net/news/20260731-gcc-ai-policy/",
+      "date": "2026-07-31T22:00:00+09:00",
+      "dateLabel": "07/31 22:00",
+      "desc": "AIによるコード生成が一般的になりつつありますが、オープンソースプロジェクトでは「AI生成のプルリクエストが大量に送りつけられてメンテナーが疲弊する」という事態も発生しています。新たにオープンソースのコンパイラー「GNU Compiler Collection(GCC)」の開発チームがAI生成コードの受け入れポリシーを公開しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
     }
   ]
 }
