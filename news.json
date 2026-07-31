@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-31T10:51:21.916727+09:00",
-  "generatedLabel": "2026/07/31 10:51",
+  "generatedAt": "2026-07-31T14:25:31.427596+09:00",
+  "generatedLabel": "2026/07/31 14:25",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 57,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 16
+      "items": 17
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 16
     },
     {
       "source": "CNET Japan",
@@ -63,48 +63,48 @@
   ],
   "articles": [
     {
-      "title": "ASUSの新RTX 5080は静音＆高冷却、PRIMEシリーズ最新モデル発売",
-      "link": "https://ascii.jp/elem/000/004/423/4423685/?rss",
-      "date": "2026-07-31T10:00:00+09:00",
-      "dateLabel": "07/31 10:00",
-      "desc": "ASUS JAPANがNVIDIA GeForce RTX 5080搭載グラフィックカード「PRIME-RTX5080-O16G-EVO」を7月31日にAmazon限定で発売する。2.5スロット設計やAxial-Tech 3連ファン、MaxContactデザイン、フェーズチェンジGPUサーマルパッド、0dBテクノロジーなどを備え、静音性と冷却性能の両立を狙う",
-      "img": "https://ascii.jp/img/2026/07/31/4507596/s/aa0275f8e4cfb50b.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 58
-    },
-    {
-      "title": "OpenAIに続き、Anthropicも3社に不正アクセス確認 AI開発競争に問われる「止まる仕組み」",
-      "link": "https://ascii.jp/elem/000/004/423/4423686/?rss",
-      "date": "2026-07-31T09:40:00+09:00",
-      "dateLabel": "07/31 09:40",
-      "desc": "Anthropicは7月30日、AIモデル「Claude」のサイバーセキュリティ評価中に、実在する3組織のシステムへ不正アクセスしていたと発表した。",
-      "img": "https://ascii.jp/img/2026/07/31/4507595/s/7fd1ad5789f8998a.png",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 58
-    },
-    {
-      "title": "OpenAIはGPT-5.6の推論効率をGPT-5.6自身を用いて自律的に改善した",
-      "link": "https://gigazine.net/news/20260730-gpt-5-6-optimizing/",
-      "date": "2026-07-30T13:30:00+09:00",
-      "dateLabel": "07/30 13:30",
-      "desc": "OpenAIは2026年7月9日にGPT-5.6シリーズをリリースしました。このGPT-5.6シリーズについて、GPT-5.6自身を用いて計算コストの削減やGPU使用効率の改善を実施したことをOpenAIが明かしています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
-      "title": "OpenAIやAnthropicなどの従業員、米政府に「AI開発のペース調整を」と提言",
-      "link": "https://www.itmedia.co.jp/news/article/2607/29/2000000255/",
-      "date": "2026-07-29T08:26:08+09:00",
-      "dateLabel": "07/29 08:26",
-      "desc": "OpenAIやGoogleなどの従業員1000人以上が、AI開発のペース調整に向けた国際的支援を米政府に求める公開書簡を発表した。AI自律化の急速な加速に伴う制御不能リスクを指摘し、開発速度の調整に必要なツール開発を訴える。企業主導のオープンモデル規制回避を求める動きとは対照的な提起となった。",
+      "title": "Google、ロボット向けAI「Gemini Robotics 2」発表 ヒューマノイドの全身制御や指先作業を実現",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000320/",
+      "date": "2026-07-31T10:27:51+09:00",
+      "dateLabel": "07/31 10:27",
+      "desc": "GoogleとGoogle DeepMindは、ロボット向けAIモデル群「Gemini Robotics 2」を発表した。全身制御や指先での微細な作業、複数ロボットの連携に対応する。高次の脳として機能する推論モデル「ER 2」や軽量VLAモデルを含み、安全性評価の新ベンチマーク「ASIMOV-Agentic」も公開した。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "規制/安全",
+      "score": 66
+    },
+    {
+      "title": "AIの回答だけで投資、8割超が損失・後悔 うのみにしてはだめ、だめ",
+      "link": "https://ascii.jp/elem/000/004/423/4423840/?rss",
+      "date": "2026-07-31T13:45:00+09:00",
+      "dateLabel": "07/31 13:45",
+      "desc": "不動産投資のプロパティエージェントは7月31日、投資経験のある545人を対象にした「投資へのAI活用の実態調査」を発表した。AIの回答を根拠に投資した経験がある人の85.6％が、損失や後悔を経験したと回答したという。",
+      "img": "https://ascii.jp/img/2026/07/31/4507749/s/4bfb176a41c0d1e1.png",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
       "score": 50
+    },
+    {
+      "title": "Thinking Machines、軽量モデル「Inkling-Small」正式公開 サイズ4分の1で「Inkling」に匹敵する性能",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000326/",
+      "date": "2026-07-31T11:16:53+09:00",
+      "dateLabel": "07/31 11:16",
+      "desc": "Thinking Machines Labは、オープンウェイトのAIモデル「Inkling-Small」の正式版を公開した。従来モデルの4分の1のサイズながら、データの改良や強化学習によりコード生成などのベンチマークで従来版を上回る性能を実現。動作に必要なGPUメモリも大幅に削減されており、Hugging Face等で入手できる。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 50
+    },
+    {
+      "title": "OpenAIがGPT-5.6のハーネスを改善してARC-AGI-3のスコアを3倍に向上させることに成功、モデル自体の性能だけでなくハーネスも重要であることを示す",
+      "link": "https://gigazine.net/news/20260731-how-enabling-two-settings-tripled-arc-agi-3-benchmark/",
+      "date": "2026-07-31T12:06:00+09:00",
+      "dateLabel": "07/31 12:06",
+      "desc": "AIの知能をルール不明のゲームで測定するというベンチマークが「ARC-AGI-3」です。このARC-AGI-3におけるスコアを3倍にした方法を、OpenAIが解説しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "Claudeが評価環境から実在企業に不正アクセス――Anthropic、3件のインシデントを公表",
@@ -115,17 +115,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "「関東・関西に次ぐDS集積地」目指す 北海道・石狩でデータセンター連合 さくら、NTT東らが参画",
-      "link": "https://ascii.jp/elem/000/004/422/4422759/?rss",
-      "date": "2026-07-31T09:00:00+09:00",
-      "dateLabel": "07/31 09:00",
-      "desc": "北海道石狩市は、市内に立地するデータセンター事業者や電力・通信インフラ事業者らと連携して「石狩データセンターコンソーシアム」を設立すると発表した。",
-      "img": "https://ascii.jp/img/2026/07/28/4506351/s/1d3b1db0a4c04832.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
       "score": 42
     },
     {
@@ -140,14 +129,14 @@
       "score": 42
     },
     {
-      "title": "MicrosoftはCopilotのスーパーアプリを2026年中にリリースすると正式発表",
-      "link": "https://gigazine.net/news/20260730-microsoft-copilot-super-app/",
-      "date": "2026-07-30T10:49:00+09:00",
-      "dateLabel": "07/30 10:49",
-      "desc": "MicrosoftはAIアシスタント・Copilotのチャット・コーディング・エージェント機能を組み合わせたAI「スーパーアプリ」の開発に取り組んでいることを明らかにしました。 続きを読む...",
+      "title": "OpenAIはGPT-5.6の推論効率をGPT-5.6自身を用いて自律的に改善した",
+      "link": "https://gigazine.net/news/20260730-gpt-5-6-optimizing/",
+      "date": "2026-07-30T13:30:00+09:00",
+      "dateLabel": "07/30 13:30",
+      "desc": "OpenAIは2026年7月9日にGPT-5.6シリーズをリリースしました。このGPT-5.6シリーズについて、GPT-5.6自身を用いて計算コストの削減やGPU使用効率の改善を実施したことをOpenAIが明かしています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
+      "cat": "半導体/GPU",
       "score": 42
     },
     {
@@ -160,6 +149,83 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 40
+    },
+    {
+      "title": "AI先進市の横須賀市で「よこすかAIフレンド AI（あい）ちゃん」サービス提供開始",
+      "link": "https://ascii.jp/elem/000/004/423/4423863/?rss",
+      "date": "2026-07-31T13:00:00+09:00",
+      "dateLabel": "07/31 13:00",
+      "desc": "AI先進市の横須賀市で「よこすかAIフレンド AI（あい）ちゃん」サービス提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "Inklingと同等の性能をほぼ4分の1サイズで発揮する「Inkling-Small」をThinking Machines Labがリリース",
+      "link": "https://gigazine.net/news/20260731-thinking-machines-lab-inkling-small/",
+      "date": "2026-07-31T12:40:00+09:00",
+      "dateLabel": "07/31 12:40",
+      "desc": "AIスタートアップのThinking Machines Labが、2週間前にリリースしたばかりの9750億パラメータのAIモデル「Inkling」と同等の性能をおよそ3分の1から4分の1のサイズで実現するオープンウェイトモデル「Inkling-Small」をリリースしました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "AnthropicもAIモデルのテスト中に外部への攻撃を実行してしまったことを報告、マルウェアを1時間にわたって配布し実在する企業に侵入した事例も",
+      "link": "https://gigazine.net/news/20260731-anthropic-real-world-incident/",
+      "date": "2026-07-31T11:52:00+09:00",
+      "dateLabel": "07/31 11:52",
+      "desc": "OpenAIのテスト中のAIが誤ってHugging Faceを攻撃してしまったインシデントが大きな話題となっています。新たに、Anthropicが「これまでのテスト結果を再検証した結果、テスト中のAIモデルが外部サービスに対する攻撃を実行してしまった事例が3件見つかった」と現地時間の2026年7月30日に報告しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "Redditが2026年第2四半期の業績を発表、堅調な業績も今後のAIの影響を危惧する声も",
+      "link": "https://gigazine.net/news/20260731-reddit-2026q2-earnings-reports/",
+      "date": "2026-07-31T11:49:00+09:00",
+      "dateLabel": "07/31 11:49",
+      "desc": "ソーシャル掲示板のRedditが、2026年第2四半期(4～6月)の業績を発表しました。同期におけるRedditの売上高は前年同期比で61％増を記録していますが、投資家からは「検索エンジンからのトラフィックが不安定になっている」という不安の声が上がっています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "PerplexityがAIエージェントの“暴走”対策ツールをオープンソースに Claude CodeやCodexを監視",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000325/",
+      "date": "2026-07-31T11:18:22+09:00",
+      "dateLabel": "07/31 11:18",
+      "desc": "PerplexityがAIエージェントの危険な挙動を検知・防止するツール群「Numbat」をオープンソース化。Claude CodeやCodexに組み込み、タスクに執着したエージェントの“暴走”を実行前に阻止する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "Chromeに13年以上潜んでいた脆弱性、AIで発見 直近2回のアプデで過去23回分を上回るバグ修正",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000323/",
+      "date": "2026-07-31T11:03:59+09:00",
+      "dateLabel": "07/31 11:03",
+      "desc": "GoogleがChromeのセキュリティ対策へのAI活用を公式ブログで解説。Geminiベースのエージェントが13年以上潜んでいた脆弱性を発見した。AI攻撃の高速化に対応し、セキュリティ更新「週2回」配信も試行する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "スクエニ、ゲームの品質テストをGeminiで自動化 AIが画面を見ながらコントローラーを操作、検証作業を自走",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000322/",
+      "date": "2026-07-31T10:43:41+09:00",
+      "dateLabel": "07/31 10:43",
+      "desc": "スクウェア・エニックスが、ゲームのQAテストを「Gemini」で自動化する取り組みを「Google Cloud Next Tokyo '26」基調講演で披露。AIが画面を見ながらコントローラーを操作し、検証作業を自ら進める。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "Google DeepMindがロボット向けAIモデル「Gemini Robotics 2」を発表、歩行から両手の細かな作業まで全身を制御可能に",
@@ -184,17 +250,6 @@
       "score": 34
     },
     {
-      "title": "HP製PCで楽天AIが利用可能に、「Rakuten AI for Desktop」提供開始",
-      "link": "https://ascii.jp/elem/000/004/423/4423683/?rss",
-      "date": "2026-07-31T09:15:00+09:00",
-      "dateLabel": "07/31 09:15",
-      "desc": "日本HPと楽天グループが、HP製PC向けにハイブリッドAIアプリ「Rakuten AI for Desktop」の提供を7月29日に開始した。オンデバイスAIとクラウドAIを切り替えられ、文章作成、要約、翻訳、楽天エコシステム連携を支援する。",
-      "img": "https://ascii.jp/img/2026/07/31/4507584/s/79efac8ac85adc5a.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "JetBrains、AIが少ないトークンでコンテキストを取得しやすく、よりよいコード生成を可能にする「JetBrains Context」発表",
       "link": "https://www.publickey1.jp/blog/26/jetbrainsaijetbrains_context.html",
       "date": "2026-07-31T02:48:59+09:00",
@@ -203,39 +258,6 @@
       "img": "",
       "src": "Publickey",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Excel作業を自動化する「Copilot in Excel」がスキルに対応 何ができる？",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/30/news049.html",
-      "date": "2026-07-30T13:00:00+09:00",
-      "dateLabel": "07/30 13:00",
-      "desc": "Microsoftは「Copilot in Excel」の財務部門向け機能を強化した。Microsoftの財務部門が実運用で利用・評価し、財務業務で求められる信頼性を重視して開発された。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "「Grok Voice Think Fast 2.0」が登場、文字起こしと音声対話の両方に対応",
-      "link": "https://gigazine.net/news/20260730-grok-voice-think-fast-2/",
-      "date": "2026-07-30T12:45:00+09:00",
-      "dateLabel": "07/30 12:45",
-      "desc": "SpaceXAIが音声AIモデル「Grok Voice Think Fast 2.0」を発表しました。ユーザーとの対話を音声でやりとりできるモデルで、前モデルをベースに音声推論能力・会話能力・ツール使用時の信頼性において大幅な向上を実現しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "GPT-5.6やClaude Opusの性能を「MCPサーバーを構築できるか？」という観点で測定したベンチマークテスト「mcpbench」",
-      "link": "https://gigazine.net/news/20260729-mcpbench/",
-      "date": "2026-07-29T23:00:00+09:00",
-      "dateLabel": "07/29 23:00",
-      "desc": "各種AIモデルの性能を「仕様に沿ってMCPクライアントやMCPサーバーを構築できるか？」という観点で測定するベンチマークテスト「mcpbench」が登場しました。作者はCloudflareのシニアシステムエンジニアでMCP関連の開発に携わっているMatt Carey氏です。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -250,17 +272,6 @@
       "score": 34
     },
     {
-      "title": "Hugging Face、AIエージェント侵入の技術詳細を公開──OpenAIモデルが4.5日で1万7600回の攻撃操作",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000263/",
-      "date": "2026-07-29T10:29:20+09:00",
-      "dateLabel": "07/29 10:29",
-      "desc": "Hugging Faceは、自律型AIエージェントによるインフラ侵入の技術的経緯を公開した。評価中のモデルがサンドボックスを脱出し、データセット処理パイプラインを介して本番環境へ侵入した手口を詳述。防御側のログ解析で商用モデルがガードレールにより作業を拒否した点も示し、安全設計のあり方に課題を提示した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "Google Cloud、AIが自律的にコードの脆弱性検出からサンドボックス内でのリスク検証、修正までを自動実行。「CodeMender」プレビュー公開",
       "link": "https://www.publickey1.jp/blog/26/google_cloudaicodemender.html",
       "date": "2026-07-29T00:54:06+09:00",
@@ -270,17 +281,6 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 34
-    },
-    {
-      "title": "そのSaaS、数年後も生き残れる？ 情シスのホンネで作る「最強SaaSティア表」アンケート開始【アマギフ1万円分が当たる】",
-      "link": "https://ascii.jp/elem/000/004/422/4422916/?rss",
-      "date": "2026-07-31T09:00:00+09:00",
-      "dateLabel": "07/31 09:00",
-      "desc": "生成AIの波が押し寄せる中、「今のSaaSは将来AIに代替されるのでは？」という懸念が現実味を帯びています。激動の時代において、情シスが今本当に頼りにしている、そして「これからも生き残る」ツールは何なのかを問うアンケートを実施します。",
-      "img": "https://ascii.jp/img/2026/07/28/4506638/s/5552177690a127bb.png",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 26
     }
   ]
 }
