@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-01T02:19:02.673435+09:00",
-  "generatedLabel": "2026/08/01 02:19",
+  "generatedAt": "2026-08-01T04:07:41.869428+09:00",
+  "generatedLabel": "2026/08/01 04:07",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 56,
@@ -272,15 +272,15 @@
       "score": 34
     },
     {
-      "title": "JetBrains、AIが少ないトークンでコンテキストを取得しやすく、よりよいコード生成を可能にする「JetBrains Context」発表",
-      "link": "https://www.publickey1.jp/blog/26/jetbrainsaijetbrains_context.html",
-      "date": "2026-07-31T02:48:59+09:00",
-      "dateLabel": "07/31 02:48",
-      "desc": "JetBrainsは、コードリポジトリの上にインテリジェンスなレイヤを構築し、AIエージェントに対して適切なコードのコンテキストを提供することで、AIエージェントによるよりよいコード生成を可能にする新サービス「JetBrains Conte...",
+      "title": "Google Cloud、AIが自律的にコードの脆弱性検出からサンドボックス内でのリスク検証、修正までを自動実行。「CodeMender」プレビュー公開",
+      "link": "https://www.publickey1.jp/blog/26/google_cloudaicodemender.html",
+      "date": "2026-07-29T00:54:06+09:00",
+      "dateLabel": "07/29 00:54",
+      "desc": "Google Cloudは、コードの脆弱性の検出、リスクの検証と報告、修正までを自律的に実行するAIエージェント「CodeMender」のプレビュー公開を発表しました。 複雑な脆弱性まで発見し、サンドボックス内でリスク検証 CodeMend...",
       "img": "",
       "src": "Publickey",
       "cat": "AIエージェント/業務",
-      "score": 34
+      "score": 28
     }
   ]
 }
