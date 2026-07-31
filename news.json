@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-31T20:20:06.961498+09:00",
-  "generatedLabel": "2026/07/31 20:20",
+  "generatedAt": "2026-07-31T22:40:06.864555+09:00",
+  "generatedLabel": "2026/07/31 22:40",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -184,17 +184,6 @@
       "score": 34
     },
     {
-      "title": "株式会社Mavericksは、動画生成AI「NoLang」の動画編集画面に「AI のおすすめ」を追加。台本の内容に合うBGM・効果音・背景動画をAIが提示し、キーワード検索なしで素材を選択可能に",
-      "link": "https://ascii.jp/elem/000/004/424/4424083/?rss",
-      "date": "2026-07-31T18:21:44+09:00",
-      "dateLabel": "07/31 18:21",
-      "desc": "株式会社Mavericksは、動画生成AI「NoLang」の動画編集画面に「AI のおすすめ」を追加。台本の内容に合うBGM・効果音・背景動画をAIが提示し、キーワード検索なしで素材を選択可能に",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
       "title": "Inklingと同等の性能をほぼ4分の1サイズで発揮する「Inkling-Small」をThinking Machines Labがリリース",
       "link": "https://gigazine.net/news/20260731-thinking-machines-lab-inkling-small/",
       "date": "2026-07-31T12:40:00+09:00",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "JetBrains、AIが少ないトークンでコンテキストを取得しやすく、よりよいコード生成を可能にする「JetBrains Context」発表",
+      "link": "https://www.publickey1.jp/blog/26/jetbrainsaijetbrains_context.html",
+      "date": "2026-07-31T02:48:59+09:00",
+      "dateLabel": "07/31 02:48",
+      "desc": "JetBrainsは、コードリポジトリの上にインテリジェンスなレイヤを構築し、AIエージェントに対して適切なコードのコンテキストを提供することで、AIエージェントによるよりよいコード生成を可能にする新サービス「JetBrains Conte...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
       "score": 34
     }
   ]
