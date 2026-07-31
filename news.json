@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-31T17:33:37.593365+09:00",
-  "generatedLabel": "2026/07/31 17:33",
+  "generatedAt": "2026-07-31T20:20:06.961498+09:00",
+  "generatedLabel": "2026/07/31 20:20",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 54,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 18
+      "items": 17
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -140,17 +140,6 @@
       "score": 42
     },
     {
-      "title": "OpenAIはGPT-5.6の推論効率をGPT-5.6自身を用いて自律的に改善した",
-      "link": "https://gigazine.net/news/20260730-gpt-5-6-optimizing/",
-      "date": "2026-07-30T13:30:00+09:00",
-      "dateLabel": "07/30 13:30",
-      "desc": "OpenAIは2026年7月9日にGPT-5.6シリーズをリリースしました。このGPT-5.6シリーズについて、GPT-5.6自身を用いて計算コストの削減やGPU使用効率の改善を実施したことをOpenAIが明かしています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
       "title": "アトラシアン、JiraがAIによる要件定義の自動作成、コンテキストを保持しつつタスクをClaudeやCopilotなどのAIエージェントへアサインなど新機能",
       "link": "https://www.publickey1.jp/blog/26/jiraaiclaudecopilotai.html",
       "date": "2026-07-23T00:35:19+09:00",
@@ -162,25 +151,47 @@
       "score": 40
     },
     {
-      "title": "日本AIセンター、FDE（フォワード・デプロイド・エンジニア）人材の専門窓口を開設 ― 現場に入り、AIエージェントを率いて実装まで解き切る",
-      "link": "https://ascii.jp/elem/000/004/424/4424006/?rss",
-      "date": "2026-07-31T16:38:30+09:00",
-      "dateLabel": "07/31 16:38",
-      "desc": "日本AIセンター、FDE（フォワード・デプロイド・エンジニア）人材の専門窓口を開設 ― 現場に入り、AIエージェントを率いて実装まで解き切る",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "title": "Copilot+ PCも、この価格だ！ 「FMV WA4-L1」が、FMV直販で21万4500円に！",
+      "link": "https://ascii.jp/elem/000/004/423/4423585/?rss",
+      "date": "2026-07-31T20:00:00+09:00",
+      "dateLabel": "07/31 20:00",
+      "desc": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
+      "img": "https://ascii.jp/img/2026/06/28/4490472/s/db096cc143d24841.png",
       "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
       "score": 34
     },
     {
-      "title": "広島のAI研修会社WEAVE、面倒な業務をまるっと代行する常駐型AIサービス「ハコ入りAI社員」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/424/4424007/?rss",
-      "date": "2026-07-31T16:00:00+09:00",
-      "dateLabel": "07/31 16:00",
-      "desc": "広島のAI研修会社WEAVE、面倒な業務をまるっと代行する常駐型AIサービス「ハコ入りAI社員」を提供開始",
+      "title": "IoTで赤外線リモコンロボは「全地球探査ロボット」になれる…？ 【SORACOM Discovery 2026 ― IoT プロトタイピングコーナー】",
+      "link": "https://ascii.jp/elem/000/004/424/4424067/?rss",
+      "date": "2026-07-31T19:00:00+09:00",
+      "dateLabel": "07/31 19:00",
+      "desc": "IoTで赤外線リモコンロボは「全地球探査ロボット」になれる…？ 【SORACOM Discovery 2026 ― IoT プロトタイピングコーナー】",
+      "img": "https://ascii.jp/img/2026/07/31/4508046/s/ee84a657c6025499.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "Ghostty開発者が新会社「Superlogical」を始動、人間とAIの作業を統合するターミナル基盤を構築へ",
+      "link": "https://gigazine.net/news/20260731-mitchell-hashimoto-superlogical/",
+      "date": "2026-07-31T19:00:00+09:00",
+      "dateLabel": "07/31 19:00",
+      "desc": "HashiCorp共同創業者でターミナルエミュレーター「Ghostty」の開発者でもあるミッチェル・ハシモト氏が、新会社「Superlogical」の設立を発表しました。Superlogicalは、複数のターミナルでの作業を長期間維持・共有できる新しいターミナルマルチプレクサーの開発から事業を開始し、将来的には人間やAIエージェントが行うさまざまなソフトウェ",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "株式会社Mavericksは、動画生成AI「NoLang」の動画編集画面に「AI のおすすめ」を追加。台本の内容に合うBGM・効果音・背景動画をAIが提示し、キーワード検索なしで素材を選択可能に",
+      "link": "https://ascii.jp/elem/000/004/424/4424083/?rss",
+      "date": "2026-07-31T18:21:44+09:00",
+      "dateLabel": "07/31 18:21",
+      "desc": "株式会社Mavericksは、動画生成AI「NoLang」の動画編集画面に「AI のおすすめ」を追加。台本の内容に合うBGM・効果音・背景動画をAIが提示し、キーワード検索なしで素材を選択可能に",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AI全般",
+      "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
@@ -269,17 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "JetBrains、AIが少ないトークンでコンテキストを取得しやすく、よりよいコード生成を可能にする「JetBrains Context」発表",
-      "link": "https://www.publickey1.jp/blog/26/jetbrainsaijetbrains_context.html",
-      "date": "2026-07-31T02:48:59+09:00",
-      "dateLabel": "07/31 02:48",
-      "desc": "JetBrainsは、コードリポジトリの上にインテリジェンスなレイヤを構築し、AIエージェントに対して適切なコードのコンテキストを提供することで、AIエージェントによるよりよいコード生成を可能にする新サービス「JetBrains Conte...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
       "score": 34
     }
   ]
