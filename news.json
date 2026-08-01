@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-02T06:44:07.445975+09:00",
-  "generatedLabel": "2026/08/02 06:44",
+  "generatedAt": "2026-08-02T07:44:04.745878+09:00",
+  "generatedLabel": "2026/08/02 07:44",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 51,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,7 +13,7 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 17
+      "items": 18
     },
     {
       "source": "ASCII.jp",
@@ -72,6 +72,17 @@
       "src": "ITmedia AI+",
       "cat": "規制/安全",
       "score": 58
+    },
+    {
+      "title": "OpenAI、アクティブユーザー10億人超に 導入企業は200万社超",
+      "link": "https://www.itmedia.co.jp/news/article/2608/02/2000000346/",
+      "date": "2026-08-02T07:21:26+09:00",
+      "dateLabel": "08/02 07:21",
+      "desc": "OpenAIは、アクティブユーザーが10億人、導入企業が200万社を突破したと公表した。推論の保持やコンテキスト管理の改善、本番ソフトウェアの最適化によりコスト削減やトークン生成効率の向上を実現。「GPT-5.6」の一部モデルの値下げはこれらの成果を顧客に還元したものであり、再投資の循環を強調した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "Core Ultra X7・最大50TOPS搭載。24時間動く16型OLEDノート「Acer Swift 16 AI」",
@@ -258,17 +269,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "Redditが2026年第2四半期の業績を発表、堅調な業績も今後のAIの影響を危惧する声も",
-      "link": "https://gigazine.net/news/20260731-reddit-2026q2-earnings-reports/",
-      "date": "2026-07-31T11:49:00+09:00",
-      "dateLabel": "07/31 11:49",
-      "desc": "ソーシャル掲示板のRedditが、2026年第2四半期(4～6月)の業績を発表しました。同期におけるRedditの売上高は前年同期比で61％増を記録していますが、投資家からは「検索エンジンからのトラフィックが不安定になっている」という不安の声が上がっています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
       "score": 26
     },
     {
