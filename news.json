@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-01T08:53:28.036294+09:00",
-  "generatedLabel": "2026/08/01 08:53",
+  "generatedAt": "2026-08-01T10:52:11.011647+09:00",
+  "generatedLabel": "2026/08/01 10:52",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -71,7 +71,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "規制/安全",
-      "score": 66
+      "score": 58
     },
     {
       "title": "Thinking Machines、軽量モデル「Inkling-Small」正式公開 サイズ4分の1で「Inkling」に匹敵する性能",
@@ -114,28 +114,6 @@
       "desc": "AIの知能をルール不明のゲームで測定するというベンチマークが「ARC-AGI-3」です。このARC-AGI-3におけるスコアを3倍にした方法を、OpenAIが解説しています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "Claudeが評価環境から実在企業に不正アクセス――Anthropic、3件のインシデントを公表",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000318/",
-      "date": "2026-07-31T09:30:18+09:00",
-      "dateLabel": "07/31 09:30",
-      "desc": "Anthropicは、サイバーセキュリティ評価中にAIモデル「Claude」が設定ミスでオープンになっていた経路から外部のインターネットに接続し、実在する3組織の本番インフラに誤って不正アクセスしていたと発表した。評価環境を演習と誤認したことが原因で、全評価を停止し外部ベンダーとの監視強化や対策を進める。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "OpenAI、「GPT-5.6 Luna」を80％値下げ モデル自身による効率化でコスト削減",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000317/",
-      "date": "2026-07-31T08:55:50+09:00",
-      "dateLabel": "07/31 08:55",
-      "desc": "OpenAIは、「GPT-5.6」ファミリーの「Luna」を80％、「Terra」を20％値下げすると発表した。API価格の改定に加え、「ChatGPT Work」や「Codex」でのクレジット消費量も削減される。自律的なカーネル最適化により提供コストの削減を実現した。また、処理速度を最大2.5倍に高める「Fast mode」も新たに導入する。",
-      "img": "",
-      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 42
     },
@@ -228,35 +206,24 @@
       "score": 34
     },
     {
-      "title": "スクエニ、ゲームの品質テストをGeminiで自動化 AIが画面を見ながらコントローラーを操作、検証作業を自走",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000322/",
-      "date": "2026-07-31T10:43:41+09:00",
-      "dateLabel": "07/31 10:43",
-      "desc": "スクウェア・エニックスが、ゲームのQAテストを「Gemini」で自動化する取り組みを「Google Cloud Next Tokyo '26」基調講演で披露。AIが画面を見ながらコントローラーを操作し、検証作業を自ら進める。",
+      "title": "Claudeが評価環境から実在企業に不正アクセス――Anthropic、3件のインシデントを公表",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000318/",
+      "date": "2026-07-31T09:30:18+09:00",
+      "dateLabel": "07/31 09:30",
+      "desc": "Anthropicは、サイバーセキュリティ評価中にAIモデル「Claude」が設定ミスでオープンになっていた経路から外部のインターネットに接続し、実在する3組織の本番インフラに誤って不正アクセスしていたと発表した。評価環境を演習と誤認したことが原因で、全評価を停止し外部ベンダーとの監視強化や対策を進める。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Google DeepMindがロボット向けAIモデル「Gemini Robotics 2」を発表、歩行から両手の細かな作業まで全身を制御可能に",
-      "link": "https://gigazine.net/news/20260731-google-deepmind-gemini-robotics-2/",
-      "date": "2026-07-31T10:37:00+09:00",
-      "dateLabel": "07/31 10:37",
-      "desc": "Google DeepMindが2026年7月30日、ロボットの歩行や姿勢制御、物体操作などを統合して実行できるAIモデル群「Gemini Robotics 2」を発表しました。人型ロボットを足先から指先まで動かせるほか、複数のロボットによる共同作業や、異なる機体への短時間での適応にも対応します。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 34
     },
     {
-      "title": "OpenAIがGPT-5.6を最大80％値下げ",
-      "link": "https://gigazine.net/news/20260731-openai-gpt-5-6-reducing-prices/",
-      "date": "2026-07-31T10:24:00+09:00",
-      "dateLabel": "07/31 10:24",
-      "desc": "OpenAIがGPT-5.6シリーズの値下げを発表しました。 続きを読む...",
+      "title": "OpenAI、「GPT-5.6 Luna」を80％値下げ モデル自身による効率化でコスト削減",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000317/",
+      "date": "2026-07-31T08:55:50+09:00",
+      "dateLabel": "07/31 08:55",
+      "desc": "OpenAIは、「GPT-5.6」ファミリーの「Luna」を80％、「Terra」を20％値下げすると発表した。API価格の改定に加え、「ChatGPT Work」や「Codex」でのクレジット消費量も削減される。自律的なカーネル最適化により提供コストの削減を実現した。また、処理速度を最大2.5倍に高める「Fast mode」も新たに導入する。",
       "img": "",
-      "src": "GIGAZINE",
+      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
     },
@@ -279,6 +246,39 @@
       "desc": "AIによるコード生成が一般的になりつつありますが、オープンソースプロジェクトでは「AI生成のプルリクエストが大量に送りつけられてメンテナーが疲弊する」という事態も発生しています。新たにオープンソースのコンパイラー「GNU Compiler Collection(GCC)」の開発チームがAI生成コードの受け入れポリシーを公開しました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "持ち運び快適な約970gで最大50TOPS。AI PC「HP OmniBook 7 Aero」が13万9800円",
+      "link": "https://ascii.jp/elem/000/004/424/4424066/?rss",
+      "date": "2026-07-31T21:30:00+09:00",
+      "dateLabel": "07/31 21:30",
+      "desc": "HPのノートPC「HP OmniBook 7 Aero 13-bg（BF8H4PA-AAAA）」がAmazonタイムセール対象。過去価格169,800円のところ、18％オフの139,800円で販売中。約970gの軽量ボディに最大50TOPSのNPUを搭載したAI PCだ。",
+      "img": "https://ascii.jp/img/2026/07/31/4508042/s/eaa8bda66b564bd6.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "TSMCが「準EMIB」と社内で呼ぶ高度なAI半導体パッケージング技術を開発中、IntelのEmbedded Multi-die Interconnect Bridge技術に類似か",
+      "link": "https://gigazine.net/news/20260731-tsmc-quasi-emib/",
+      "date": "2026-07-31T21:00:00+09:00",
+      "dateLabel": "07/31 21:00",
+      "desc": "世界最大の半導体受託製造企業であるTSMCが、IntelのEMIBが受注量を増やしていることを受け、EMIBの一部を模倣した「準EMIB」と呼ばれる高度な半導体パッケージング技術を開発していることが報じられています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "M5搭載MacBook Airを安く買う！ 16GBメモリ／1TB SSDモデルが261,414円に",
+      "link": "https://ascii.jp/elem/000/004/424/4424071/?rss",
+      "date": "2026-07-31T20:00:00+09:00",
+      "dateLabel": "07/31 20:00",
+      "desc": "M5搭載の13インチMacBook AirがAmazonで1万7386円引きになっています。16GBメモリ／1TB SSDモデルを、参考価格278,800円から261,414円で購入できます。",
+      "img": "https://ascii.jp/img/2026/03/16/4435680/s/9cdb7f80bed29f02.jpg",
+      "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     }
