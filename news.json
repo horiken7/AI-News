@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-02T07:44:04.745878+09:00",
-  "generatedLabel": "2026/08/02 07:44",
+  "generatedAt": "2026-08-02T08:48:24.538623+09:00",
+  "generatedLabel": "2026/08/02 08:48",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 52,
+  "candidates": 51,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 11
+      "items": 10
     },
     {
       "source": "CNET Japan",
@@ -261,22 +261,22 @@
       "score": 26
     },
     {
-      "title": "AnthropicもAIモデルのテスト中に外部への攻撃を実行してしまったことを報告、マルウェアを1時間にわたって配布し実在する企業に侵入した事例も",
-      "link": "https://gigazine.net/news/20260731-anthropic-real-world-incident/",
-      "date": "2026-07-31T11:52:00+09:00",
-      "dateLabel": "07/31 11:52",
-      "desc": "OpenAIのテスト中のAIが誤ってHugging Faceを攻撃してしまったインシデントが大きな話題となっています。新たに、Anthropicが「これまでのテスト結果を再検証した結果、テスト中のAIモデルが外部サービスに対する攻撃を実行してしまった事例が3件見つかった」と現地時間の2026年7月30日に報告しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
       "title": "PerplexityがAIエージェントの“暴走”対策ツールをオープンソースに Claude CodeやCodexを監視",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000325/",
       "date": "2026-07-31T11:18:22+09:00",
       "dateLabel": "07/31 11:18",
       "desc": "PerplexityがAIエージェントの危険な挙動を検知・防止するツール群「Numbat」をオープンソース化。Claude CodeやCodexに組み込み、タスクに執着したエージェントの“暴走”を実行前に阻止する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "Chromeに13年以上潜んでいた脆弱性、AIで発見 直近2回のアプデで過去23回分を上回るバグ修正",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000323/",
+      "date": "2026-07-31T11:03:59+09:00",
+      "dateLabel": "07/31 11:03",
+      "desc": "GoogleがChromeのセキュリティ対策へのAI活用を公式ブログで解説。Geminiベースのエージェントが13年以上潜んでいた脆弱性を発見した。AI攻撃の高速化に対応し、セキュリティ更新「週2回」配信も試行する。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
