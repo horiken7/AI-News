@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-01T21:57:18.640758+09:00",
-  "generatedLabel": "2026/08/01 21:57",
+  "generatedAt": "2026-08-01T23:24:23.982586+09:00",
+  "generatedLabel": "2026/08/01 23:24",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 51,
@@ -217,17 +217,6 @@
       "score": 26
     },
     {
-      "title": "コンパイラ「GCC」の開発チームがAI生成コードの受け入れポリシーを公開、15行以上のAI生成コードは受け入れ拒否",
-      "link": "https://gigazine.net/news/20260731-gcc-ai-policy/",
-      "date": "2026-07-31T22:00:00+09:00",
-      "dateLabel": "07/31 22:00",
-      "desc": "AIによるコード生成が一般的になりつつありますが、オープンソースプロジェクトでは「AI生成のプルリクエストが大量に送りつけられてメンテナーが疲弊する」という事態も発生しています。新たにオープンソースのコンパイラー「GNU Compiler Collection(GCC)」の開発チームがAI生成コードの受け入れポリシーを公開しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
       "title": "Ghostty開発者が新会社「Superlogical」を始動、人間とAIの作業を統合するターミナル基盤を構築へ",
       "link": "https://gigazine.net/news/20260731-mitchell-hashimoto-superlogical/",
       "date": "2026-07-31T19:00:00+09:00",
@@ -277,6 +266,17 @@
       "date": "2026-07-31T11:18:22+09:00",
       "dateLabel": "07/31 11:18",
       "desc": "PerplexityがAIエージェントの危険な挙動を検知・防止するツール群「Numbat」をオープンソース化。Claude CodeやCodexに組み込み、タスクに執着したエージェントの“暴走”を実行前に阻止する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "Chromeに13年以上潜んでいた脆弱性、AIで発見 直近2回のアプデで過去23回分を上回るバグ修正",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000323/",
+      "date": "2026-07-31T11:03:59+09:00",
+      "dateLabel": "07/31 11:03",
+      "desc": "GoogleがChromeのセキュリティ対策へのAI活用を公式ブログで解説。Geminiベースのエージェントが13年以上潜んでいた脆弱性を発見した。AI攻撃の高速化に対応し、セキュリティ更新「週2回」配信も試行する。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
