@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-01T20:57:38.652485+09:00",
-  "generatedLabel": "2026/08/01 20:57",
+  "generatedAt": "2026-08-01T21:57:18.640758+09:00",
+  "generatedLabel": "2026/08/01 21:57",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 51,
@@ -228,17 +228,6 @@
       "score": 26
     },
     {
-      "title": "TSMCが「準EMIB」と社内で呼ぶ高度なAI半導体パッケージング技術を開発中、IntelのEmbedded Multi-die Interconnect Bridge技術に類似か",
-      "link": "https://gigazine.net/news/20260731-tsmc-quasi-emib/",
-      "date": "2026-07-31T21:00:00+09:00",
-      "dateLabel": "07/31 21:00",
-      "desc": "世界最大の半導体受託製造企業であるTSMCが、IntelのEMIBが受注量を増やしていることを受け、EMIBの一部を模倣した「準EMIB」と呼ばれる高度な半導体パッケージング技術を開発していることが報じられています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
       "title": "Ghostty開発者が新会社「Superlogical」を始動、人間とAIの作業を統合するターミナル基盤を構築へ",
       "link": "https://gigazine.net/news/20260731-mitchell-hashimoto-superlogical/",
       "date": "2026-07-31T19:00:00+09:00",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "PerplexityがAIエージェントの“暴走”対策ツールをオープンソースに Claude CodeやCodexを監視",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000325/",
+      "date": "2026-07-31T11:18:22+09:00",
+      "dateLabel": "07/31 11:18",
+      "desc": "PerplexityがAIエージェントの危険な挙動を検知・防止するツール群「Numbat」をオープンソース化。Claude CodeやCodexに組み込み、タスクに執着したエージェントの“暴走”を実行前に阻止する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
