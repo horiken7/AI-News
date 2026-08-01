@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-01T10:52:11.011647+09:00",
-  "generatedLabel": "2026/08/01 10:52",
+  "generatedAt": "2026-08-01T14:18:32.111297+09:00",
+  "generatedLabel": "2026/08/01 14:18",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 54,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -74,15 +74,26 @@
       "score": 58
     },
     {
-      "title": "Thinking Machines、軽量モデル「Inkling-Small」正式公開 サイズ4分の1で「Inkling」に匹敵する性能",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000326/",
-      "date": "2026-07-31T11:16:53+09:00",
-      "dateLabel": "07/31 11:16",
-      "desc": "Thinking Machines Labは、オープンウェイトのAIモデル「Inkling-Small」の正式版を公開した。従来モデルの4分の1のサイズながら、データの改良や強化学習によりコード生成などのベンチマークで従来版を上回る性能を実現。動作に必要なGPUメモリも大幅に削減されており、Hugging Face等で入手できる。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 50
+      "title": "【アマゾンタイムセール】13.4インチ大画面タブレット「U13PRO」が期間限定30％OFF！Android 16・Gemini AI対応・高性能32GB RAM搭載モデルが34,900円",
+      "link": "https://ascii.jp/elem/000/004/424/4424118/?rss",
+      "date": "2026-08-01T08:00:00+09:00",
+      "dateLabel": "08/01 08:00",
+      "desc": "【アマゾンタイムセール】13.4インチ大画面タブレット「U13PRO」が期間限定30％OFF！Android 16・Gemini AI対応・高性能32GB RAM搭載モデルが34,900円",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "AI採用代行「一括エージェント」本格提供開始──月200通の紹介メールをAIが仕分け・当日返信、導入企業で紹介数+250%。先着10社は初期費用無料",
+      "link": "https://ascii.jp/elem/000/004/424/4424109/?rss",
+      "date": "2026-07-31T22:17:32+09:00",
+      "dateLabel": "07/31 22:17",
+      "desc": "AI採用代行「一括エージェント」本格提供開始──月200通の紹介メールをAIが仕分け・当日返信、導入企業で紹介数+250%。先着10社は初期費用無料",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
     },
     {
       "title": "キオクシアQ1決算、純利益は前年比4500％増 AIデータセンター向け需要がけん引",
@@ -107,14 +118,14 @@
       "score": 42
     },
     {
-      "title": "OpenAIがGPT-5.6のハーネスを改善してARC-AGI-3のスコアを3倍に向上させることに成功、モデル自体の性能だけでなくハーネスも重要であることを示す",
-      "link": "https://gigazine.net/news/20260731-how-enabling-two-settings-tripled-arc-agi-3-benchmark/",
-      "date": "2026-07-31T12:06:00+09:00",
-      "dateLabel": "07/31 12:06",
-      "desc": "AIの知能をルール不明のゲームで測定するというベンチマークが「ARC-AGI-3」です。このARC-AGI-3におけるスコアを3倍にした方法を、OpenAIが解説しています。 続きを読む...",
+      "title": "Thinking Machines、軽量モデル「Inkling-Small」正式公開 サイズ4分の1で「Inkling」に匹敵する性能",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000326/",
+      "date": "2026-07-31T11:16:53+09:00",
+      "dateLabel": "07/31 11:16",
+      "desc": "Thinking Machines Labは、オープンウェイトのAIモデル「Inkling-Small」の正式版を公開した。従来モデルの4分の1のサイズながら、データの改良や強化学習によりコード生成などのベンチマークで従来版を上回る性能を実現。動作に必要なGPUメモリも大幅に削減されており、Hugging Face等で入手できる。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
       "score": 42
     },
     {
@@ -129,14 +140,25 @@
       "score": 40
     },
     {
-      "title": "Copilot+ PCも、この価格だ！ 「FMV WA4-L1」が、FMV直販で21万4500円に！",
-      "link": "https://ascii.jp/elem/000/004/423/4423585/?rss",
-      "date": "2026-07-31T20:00:00+09:00",
-      "dateLabel": "07/31 20:00",
-      "desc": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
-      "img": "https://ascii.jp/img/2026/06/28/4490472/s/db096cc143d24841.png",
+      "title": "最適なAIサービスを探せる「AI導入の窓口」を公開。AI事業者向けに『無料掲載』&『無料アポ』キャンペーンを開始。",
+      "link": "https://ascii.jp/elem/000/004/424/4424113/?rss",
+      "date": "2026-07-31T23:59:22+09:00",
+      "dateLabel": "07/31 23:59",
+      "desc": "最適なAIサービスを探せる「AI導入の窓口」を公開。AI事業者向けに『無料掲載』&『無料アポ』キャンペーンを開始。",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "【\"先着3社\"まで】貴社専用のAIツールを無償で共同開発する「ウチのAI」プロジェクトを提供開始 - 株式会社ETOILE -",
+      "link": "https://ascii.jp/elem/000/004/424/4424116/?rss",
+      "date": "2026-07-31T23:58:04+09:00",
+      "dateLabel": "07/31 23:58",
+      "desc": "【\"先着3社\"まで】貴社専用のAIツールを無償で共同開発する「ウチのAI」プロジェクトを提供開始 - 株式会社ETOILE -",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 34
     },
     {
@@ -151,58 +173,14 @@
       "score": 34
     },
     {
-      "title": "Inklingと同等の性能をほぼ4分の1サイズで発揮する「Inkling-Small」をThinking Machines Labがリリース",
-      "link": "https://gigazine.net/news/20260731-thinking-machines-lab-inkling-small/",
-      "date": "2026-07-31T12:40:00+09:00",
-      "dateLabel": "07/31 12:40",
-      "desc": "AIスタートアップのThinking Machines Labが、2週間前にリリースしたばかりの9750億パラメータのAIモデル「Inkling」と同等の性能をおよそ3分の1から4分の1のサイズで実現するオープンウェイトモデル「Inkling-Small」をリリースしました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "AnthropicもAIモデルのテスト中に外部への攻撃を実行してしまったことを報告、マルウェアを1時間にわたって配布し実在する企業に侵入した事例も",
-      "link": "https://gigazine.net/news/20260731-anthropic-real-world-incident/",
-      "date": "2026-07-31T11:52:00+09:00",
-      "dateLabel": "07/31 11:52",
-      "desc": "OpenAIのテスト中のAIが誤ってHugging Faceを攻撃してしまったインシデントが大きな話題となっています。新たに、Anthropicが「これまでのテスト結果を再検証した結果、テスト中のAIモデルが外部サービスに対する攻撃を実行してしまった事例が3件見つかった」と現地時間の2026年7月30日に報告しました。 続きを読む...",
+      "title": "OpenAIがGPT-5.6のハーネスを改善してARC-AGI-3のスコアを3倍に向上させることに成功、モデル自体の性能だけでなくハーネスも重要であることを示す",
+      "link": "https://gigazine.net/news/20260731-how-enabling-two-settings-tripled-arc-agi-3-benchmark/",
+      "date": "2026-07-31T12:06:00+09:00",
+      "dateLabel": "07/31 12:06",
+      "desc": "AIの知能をルール不明のゲームで測定するというベンチマークが「ARC-AGI-3」です。このARC-AGI-3におけるスコアを3倍にした方法を、OpenAIが解説しています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Redditが2026年第2四半期の業績を発表、堅調な業績も今後のAIの影響を危惧する声も",
-      "link": "https://gigazine.net/news/20260731-reddit-2026q2-earnings-reports/",
-      "date": "2026-07-31T11:49:00+09:00",
-      "dateLabel": "07/31 11:49",
-      "desc": "ソーシャル掲示板のRedditが、2026年第2四半期(4～6月)の業績を発表しました。同期におけるRedditの売上高は前年同期比で61％増を記録していますが、投資家からは「検索エンジンからのトラフィックが不安定になっている」という不安の声が上がっています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "PerplexityがAIエージェントの“暴走”対策ツールをオープンソースに Claude CodeやCodexを監視",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000325/",
-      "date": "2026-07-31T11:18:22+09:00",
-      "dateLabel": "07/31 11:18",
-      "desc": "PerplexityがAIエージェントの危険な挙動を検知・防止するツール群「Numbat」をオープンソース化。Claude CodeやCodexに組み込み、タスクに執着したエージェントの“暴走”を実行前に阻止する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Chromeに13年以上潜んでいた脆弱性、AIで発見 直近2回のアプデで過去23回分を上回るバグ修正",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000323/",
-      "date": "2026-07-31T11:03:59+09:00",
-      "dateLabel": "07/31 11:03",
-      "desc": "GoogleがChromeのセキュリティ対策へのAI活用を公式ブログで解説。Geminiベースのエージェントが13年以上潜んでいた脆弱性を発見した。AI攻撃の高速化に対応し、セキュリティ更新「週2回」配信も試行する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -239,6 +217,39 @@
       "score": 28
     },
     {
+      "title": "9万円超のRay-Ban Metaを衝動買いしてわかった「AIグラスの現実」",
+      "link": "https://ascii.jp/elem/000/004/424/4424088/?rss",
+      "date": "2026-08-01T12:00:00+09:00",
+      "dateLabel": "08/01 12:00",
+      "desc": "2026年の筆者は、スマートAIグラスがちょっとしたマイブームだ。というわけで、日本でもようやく一般販売が始まったRay-Ban Metaを自宅近くの眼鏡市場で衝動買いした。",
+      "img": "https://ascii.jp/img/2026/07/31/4508107/s/59733206e5bd5355.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "株式会社EmpowerX、AI時代の新規事業開発をテーマにした無料オンラインセミナーを8月25日に開催",
+      "link": "https://ascii.jp/elem/000/004/424/4424112/?rss",
+      "date": "2026-08-01T08:00:00+09:00",
+      "dateLabel": "08/01 08:00",
+      "desc": "株式会社EmpowerX、AI時代の新規事業開発をテーマにした無料オンラインセミナーを8月25日に開催",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "「自動運転のしくみを学ぶ入門講座」をTECH HUB YOKOHAMAで開催しました",
+      "link": "https://ascii.jp/elem/000/004/424/4424110/?rss",
+      "date": "2026-07-31T22:16:27+09:00",
+      "dateLabel": "07/31 22:16",
+      "desc": "「自動運転のしくみを学ぶ入門講座」をTECH HUB YOKOHAMAで開催しました",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
       "title": "コンパイラ「GCC」の開発チームがAI生成コードの受け入れポリシーを公開、15行以上のAI生成コードは受け入れ拒否",
       "link": "https://gigazine.net/news/20260731-gcc-ai-policy/",
       "date": "2026-07-31T22:00:00+09:00",
@@ -247,17 +258,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "持ち運び快適な約970gで最大50TOPS。AI PC「HP OmniBook 7 Aero」が13万9800円",
-      "link": "https://ascii.jp/elem/000/004/424/4424066/?rss",
-      "date": "2026-07-31T21:30:00+09:00",
-      "dateLabel": "07/31 21:30",
-      "desc": "HPのノートPC「HP OmniBook 7 Aero 13-bg（BF8H4PA-AAAA）」がAmazonタイムセール対象。過去価格169,800円のところ、18％オフの139,800円で販売中。約970gの軽量ボディに最大50TOPSのNPUを搭載したAI PCだ。",
-      "img": "https://ascii.jp/img/2026/07/31/4508042/s/eaa8bda66b564bd6.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
       "score": 26
     },
     {
@@ -272,13 +272,13 @@
       "score": 26
     },
     {
-      "title": "M5搭載MacBook Airを安く買う！ 16GBメモリ／1TB SSDモデルが261,414円に",
-      "link": "https://ascii.jp/elem/000/004/424/4424071/?rss",
-      "date": "2026-07-31T20:00:00+09:00",
-      "dateLabel": "07/31 20:00",
-      "desc": "M5搭載の13インチMacBook AirがAmazonで1万7386円引きになっています。16GBメモリ／1TB SSDモデルを、参考価格278,800円から261,414円で購入できます。",
-      "img": "https://ascii.jp/img/2026/03/16/4435680/s/9cdb7f80bed29f02.jpg",
-      "src": "ASCII.jp",
+      "title": "Googleが「AIを使ってChromeのバグを大量修正した方法」を解説",
+      "link": "https://gigazine.net/news/20260731-chrome-ai-fix/",
+      "date": "2026-07-31T17:57:00+09:00",
+      "dateLabel": "07/31 17:57",
+      "desc": "Googleが自社製ウェブブラウザ「Chrome」のバグをAIを用いて発見・修正するシステムについて解説しています。AIの高性能化に伴って、Chromeのバグ修正数は急増しているそうです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AI全般",
       "score": 26
     }
