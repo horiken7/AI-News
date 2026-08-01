@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-01T17:03:05.575992+09:00",
-  "generatedLabel": "2026/08/01 17:03",
-  "feedOk": 6,
-  "feedNg": 5,
-  "candidates": 53,
+  "generatedAt": "2026-08-01T19:27:07.516869+09:00",
+  "generatedLabel": "2026/08/01 19:27",
+  "feedOk": 7,
+  "feedNg": 4,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -22,13 +22,13 @@
     },
     {
       "source": "PC Watch",
-      "ok": false,
-      "error": "Remote end closed connection without response"
+      "ok": true,
+      "items": 0
     },
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -74,28 +74,6 @@
       "score": 58
     },
     {
-      "title": "株式会社Shinker、AI検索・LLMO分析ツール「AIRA Score」を正式リリース。ChatGPT・Google AI Overview時代のWebサイト診断を格安で提供 月額9800円～",
-      "link": "https://ascii.jp/elem/000/004/424/4424129/?rss",
-      "date": "2026-08-01T08:50:00+09:00",
-      "dateLabel": "08/01 08:50",
-      "desc": "株式会社Shinker、AI検索・LLMO分析ツール「AIRA Score」を正式リリース。ChatGPT・Google AI Overview時代のWebサイト診断を格安で提供 月額9800円～",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
-      "title": "【アマゾンタイムセール】13.4インチ大画面タブレット「U13PRO」が期間限定30％OFF！Android 16・Gemini AI対応・高性能32GB RAM搭載モデルが34,900円",
-      "link": "https://ascii.jp/elem/000/004/424/4424118/?rss",
-      "date": "2026-08-01T08:00:00+09:00",
-      "dateLabel": "08/01 08:00",
-      "desc": "【アマゾンタイムセール】13.4インチ大画面タブレット「U13PRO」が期間限定30％OFF！Android 16・Gemini AI対応・高性能32GB RAM搭載モデルが34,900円",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "Thinking Machines、軽量モデル「Inkling-Small」正式公開 サイズ4分の1で「Inkling」に匹敵する性能",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000326/",
       "date": "2026-07-31T11:16:53+09:00",
@@ -118,13 +96,13 @@
       "score": 40
     },
     {
-      "title": "Ghostty開発者が新会社「Superlogical」を始動、人間とAIの作業を統合するターミナル基盤を構築へ",
-      "link": "https://gigazine.net/news/20260731-mitchell-hashimoto-superlogical/",
-      "date": "2026-07-31T19:00:00+09:00",
-      "dateLabel": "07/31 19:00",
-      "desc": "HashiCorp共同創業者でターミナルエミュレーター「Ghostty」の開発者でもあるミッチェル・ハシモト氏が、新会社「Superlogical」の設立を発表しました。Superlogicalは、複数のターミナルでの作業を長期間維持・共有できる新しいターミナルマルチプレクサーの開発から事業を開始し、将来的には人間やAIエージェントが行うさまざまなソフトウェ",
-      "img": "",
-      "src": "GIGAZINE",
+      "title": "ホテルスタッフがどんどん数字に強くなる。ホテル特化AIエージェント「JOINTPOOL AI」正式ローンチ",
+      "link": "https://ascii.jp/elem/000/004/424/4424141/?rss",
+      "date": "2026-08-01T16:20:00+09:00",
+      "dateLabel": "08/01 16:20",
+      "desc": "ホテルスタッフがどんどん数字に強くなる。ホテル特化AIエージェント「JOINTPOOL AI」正式ローンチ",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
       "score": 34
     },
@@ -195,6 +173,17 @@
       "score": 28
     },
     {
+      "title": "3万8000円引きなら話が変わる。史上最薄「iPhone Air」が13万9800円",
+      "link": "https://ascii.jp/elem/000/004/422/4422943/?rss",
+      "date": "2026-08-01T19:00:00+09:00",
+      "dateLabel": "08/01 19:00",
+      "desc": "Appleのスマートフォン「iPhone Air 256GB（SIMフリー）」がAmazonタイムセール対象。参考価格177,800円のところ、21％オフの139,800円で販売中。史上最薄のiPhoneとして、6.5インチのSuper Retina XDRディスプレーやA19 Proチップを搭載。この値下げなら、選択肢に入れやすい。",
+      "img": "https://ascii.jp/img/2026/07/29/4506759/s/72891eee775977ee.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "AIを最も使う業界1位「教育・人材」76.9%、最下位「医療・福祉」13.8% - 業界格差5.6倍が示すAI浸透の濃淡",
       "link": "https://ascii.jp/elem/000/004/424/4424136/?rss",
       "date": "2026-08-01T12:10:00+09:00",
@@ -239,36 +228,14 @@
       "score": 26
     },
     {
-      "title": "Googleが「AIを使ってChromeのバグを大量修正した方法」を解説",
-      "link": "https://gigazine.net/news/20260731-chrome-ai-fix/",
-      "date": "2026-07-31T17:57:00+09:00",
-      "dateLabel": "07/31 17:57",
-      "desc": "Googleが自社製ウェブブラウザ「Chrome」のバグをAIを用いて発見・修正するシステムについて解説しています。AIの高性能化に伴って、Chromeのバグ修正数は急増しているそうです。 続きを読む...",
+      "title": "Ghostty開発者が新会社「Superlogical」を始動、人間とAIの作業を統合するターミナル基盤を構築へ",
+      "link": "https://gigazine.net/news/20260731-mitchell-hashimoto-superlogical/",
+      "date": "2026-07-31T19:00:00+09:00",
+      "dateLabel": "07/31 19:00",
+      "desc": "HashiCorp共同創業者でターミナルエミュレーター「Ghostty」の開発者でもあるミッチェル・ハシモト氏が、新会社「Superlogical」の設立を発表しました。Superlogicalは、複数のターミナルでの作業を長期間維持・共有できる新しいターミナルマルチプレクサーの開発から事業を開始し、将来的には人間やAIエージェントが行うさまざまなソフトウェ",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "「9カ月かかる作業を3日に短縮」 IBM、レガシー刷新ワークフローをIBM Bobに追加",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2607/31/news094.html",
-      "date": "2026-07-31T17:20:00+09:00",
-      "dateLabel": "07/31 17:20",
-      "desc": "生成AIによるコード生成が広がる一方で、レガシー環境の刷新はAIの適用が難しい領域だ。IBMは、IBM Bobにレガシー環境向けの専用パッケージを追加することで、同領域における自動化に踏み込む。",
-      "img": "",
-      "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "キオクシアQ1、純利益が前年同期比4500％増 株式分割・自社株買いも",
-      "link": "https://www.itmedia.co.jp/news/article/2607/31/2000000336/",
-      "date": "2026-07-31T17:16:03+09:00",
-      "dateLabel": "07/31 17:16",
-      "desc": "キオクシアホールディングス（HD）が7月31日に公開した2027年3月期第1四半期（26年4月1日?6月30日）連結決算は、売上収益が1兆7671億1700万円（前年同期比415.5％増）、営業利益が1兆2700億1700万円（同2728.6％増）、純利益が8421億6500万円（同4506.6％増）と大幅な増収増益だった。AIサーバを巡るNAND需要の拡大",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
       "score": 26
     },
     {
@@ -280,6 +247,39 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "AnthropicもAIモデルのテスト中に外部への攻撃を実行してしまったことを報告、マルウェアを1時間にわたって配布し実在する企業に侵入した事例も",
+      "link": "https://gigazine.net/news/20260731-anthropic-real-world-incident/",
+      "date": "2026-07-31T11:52:00+09:00",
+      "dateLabel": "07/31 11:52",
+      "desc": "OpenAIのテスト中のAIが誤ってHugging Faceを攻撃してしまったインシデントが大きな話題となっています。新たに、Anthropicが「これまでのテスト結果を再検証した結果、テスト中のAIモデルが外部サービスに対する攻撃を実行してしまった事例が3件見つかった」と現地時間の2026年7月30日に報告しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "Redditが2026年第2四半期の業績を発表、堅調な業績も今後のAIの影響を危惧する声も",
+      "link": "https://gigazine.net/news/20260731-reddit-2026q2-earnings-reports/",
+      "date": "2026-07-31T11:49:00+09:00",
+      "dateLabel": "07/31 11:49",
+      "desc": "ソーシャル掲示板のRedditが、2026年第2四半期(4～6月)の業績を発表しました。同期におけるRedditの売上高は前年同期比で61％増を記録していますが、投資家からは「検索エンジンからのトラフィックが不安定になっている」という不安の声が上がっています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "PerplexityがAIエージェントの“暴走”対策ツールをオープンソースに Claude CodeやCodexを監視",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000325/",
+      "date": "2026-07-31T11:18:22+09:00",
+      "dateLabel": "07/31 11:18",
+      "desc": "PerplexityがAIエージェントの危険な挙動を検知・防止するツール群「Numbat」をオープンソース化。Claude CodeやCodexに組み込み、タスクに執着したエージェントの“暴走”を実行前に阻止する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
