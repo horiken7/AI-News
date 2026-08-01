@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-01T14:18:32.111297+09:00",
-  "generatedLabel": "2026/08/01 14:18",
-  "feedOk": 7,
-  "feedNg": 4,
-  "candidates": 56,
+  "generatedAt": "2026-08-01T17:03:05.575992+09:00",
+  "generatedLabel": "2026/08/01 17:03",
+  "feedOk": 6,
+  "feedNg": 5,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,12 +18,12 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 4
     },
     {
       "source": "PC Watch",
-      "ok": true,
-      "items": 0
+      "ok": false,
+      "error": "Remote end closed connection without response"
     },
     {
       "source": "GIGAZINE",
@@ -74,6 +74,17 @@
       "score": 58
     },
     {
+      "title": "株式会社Shinker、AI検索・LLMO分析ツール「AIRA Score」を正式リリース。ChatGPT・Google AI Overview時代のWebサイト診断を格安で提供 月額9800円～",
+      "link": "https://ascii.jp/elem/000/004/424/4424129/?rss",
+      "date": "2026-08-01T08:50:00+09:00",
+      "dateLabel": "08/01 08:50",
+      "desc": "株式会社Shinker、AI検索・LLMO分析ツール「AIRA Score」を正式リリース。ChatGPT・Google AI Overview時代のWebサイト診断を格安で提供 月額9800円～",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
       "title": "【アマゾンタイムセール】13.4インチ大画面タブレット「U13PRO」が期間限定30％OFF！Android 16・Gemini AI対応・高性能32GB RAM搭載モデルが34,900円",
       "link": "https://ascii.jp/elem/000/004/424/4424118/?rss",
       "date": "2026-08-01T08:00:00+09:00",
@@ -81,39 +92,6 @@
       "desc": "【アマゾンタイムセール】13.4インチ大画面タブレット「U13PRO」が期間限定30％OFF！Android 16・Gemini AI対応・高性能32GB RAM搭載モデルが34,900円",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "AI採用代行「一括エージェント」本格提供開始──月200通の紹介メールをAIが仕分け・当日返信、導入企業で紹介数+250%。先着10社は初期費用無料",
-      "link": "https://ascii.jp/elem/000/004/424/4424109/?rss",
-      "date": "2026-07-31T22:17:32+09:00",
-      "dateLabel": "07/31 22:17",
-      "desc": "AI採用代行「一括エージェント」本格提供開始──月200通の紹介メールをAIが仕分け・当日返信、導入企業で紹介数+250%。先着10社は初期費用無料",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "キオクシアQ1決算、純利益は前年比4500％増 AIデータセンター向け需要がけん引",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000335/",
-      "date": "2026-07-31T16:33:45+09:00",
-      "dateLabel": "07/31 16:33",
-      "desc": "半導体大手のキオクシアホールディングスは、2027年3月期第1四半期決算（26年4月1日?6月30日、国際会計基準）の純利益が8421億6500万円で、前年同期比4506％増だったと発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "研究者10万人にOpenAI「最上位モデル」無料提供へ 日本でも東大、京大など15大学が対象",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000333/",
-      "date": "2026-07-31T15:57:22+09:00",
-      "dateLabel": "07/31 15:57",
-      "desc": "OpenAIが学術研究者10万人に「ChatGPT」の最上位モデルを無料提供するプログラムを発表した。今夏に1万人から提供を始め、2027年までに10万人規模へ拡大する。日本でも東京大学、京都大学、東京科学大学、早稲田大学、慶應義塾大学など15の大学が対象機関となっている。",
-      "img": "",
-      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 42
     },
@@ -140,28 +118,6 @@
       "score": 40
     },
     {
-      "title": "最適なAIサービスを探せる「AI導入の窓口」を公開。AI事業者向けに『無料掲載』&『無料アポ』キャンペーンを開始。",
-      "link": "https://ascii.jp/elem/000/004/424/4424113/?rss",
-      "date": "2026-07-31T23:59:22+09:00",
-      "dateLabel": "07/31 23:59",
-      "desc": "最適なAIサービスを探せる「AI導入の窓口」を公開。AI事業者向けに『無料掲載』&『無料アポ』キャンペーンを開始。",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "【\"先着3社\"まで】貴社専用のAIツールを無償で共同開発する「ウチのAI」プロジェクトを提供開始 - 株式会社ETOILE -",
-      "link": "https://ascii.jp/elem/000/004/424/4424116/?rss",
-      "date": "2026-07-31T23:58:04+09:00",
-      "dateLabel": "07/31 23:58",
-      "desc": "【\"先着3社\"まで】貴社専用のAIツールを無償で共同開発する「ウチのAI」プロジェクトを提供開始 - 株式会社ETOILE -",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "Ghostty開発者が新会社「Superlogical」を始動、人間とAIの作業を統合するターミナル基盤を構築へ",
       "link": "https://gigazine.net/news/20260731-mitchell-hashimoto-superlogical/",
       "date": "2026-07-31T19:00:00+09:00",
@@ -170,6 +126,28 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "キオクシアQ1決算、純利益は前年比4500％増 AIデータセンター向け需要がけん引",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000335/",
+      "date": "2026-07-31T16:33:45+09:00",
+      "dateLabel": "07/31 16:33",
+      "desc": "半導体大手のキオクシアホールディングスは、2027年3月期第1四半期決算（26年4月1日?6月30日、国際会計基準）の純利益が8421億6500万円で、前年同期比4506％増だったと発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "研究者10万人にOpenAI「最上位モデル」無料提供へ 日本でも東大、京大など15大学が対象",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000333/",
+      "date": "2026-07-31T15:57:22+09:00",
+      "dateLabel": "07/31 15:57",
+      "desc": "OpenAIが学術研究者10万人に「ChatGPT」の最上位モデルを無料提供するプログラムを発表した。今夏に1万人から提供を始め、2027年までに10万人規模へ拡大する。日本でも東京大学、京都大学、東京科学大学、早稲田大学、慶應義塾大学など15の大学が対象機関となっている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -217,6 +195,17 @@
       "score": 28
     },
     {
+      "title": "AIを最も使う業界1位「教育・人材」76.9%、最下位「医療・福祉」13.8% - 業界格差5.6倍が示すAI浸透の濃淡",
+      "link": "https://ascii.jp/elem/000/004/424/4424136/?rss",
+      "date": "2026-08-01T12:10:00+09:00",
+      "dateLabel": "08/01 12:10",
+      "desc": "AIを最も使う業界1位「教育・人材」76.9%、最下位「医療・福祉」13.8% - 業界格差5.6倍が示すAI浸透の濃淡",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "9万円超のRay-Ban Metaを衝動買いしてわかった「AIグラスの現実」",
       "link": "https://ascii.jp/elem/000/004/424/4424088/?rss",
       "date": "2026-08-01T12:00:00+09:00",
@@ -225,28 +214,6 @@
       "img": "https://ascii.jp/img/2026/07/31/4508107/s/59733206e5bd5355.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "株式会社EmpowerX、AI時代の新規事業開発をテーマにした無料オンラインセミナーを8月25日に開催",
-      "link": "https://ascii.jp/elem/000/004/424/4424112/?rss",
-      "date": "2026-08-01T08:00:00+09:00",
-      "dateLabel": "08/01 08:00",
-      "desc": "株式会社EmpowerX、AI時代の新規事業開発をテーマにした無料オンラインセミナーを8月25日に開催",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "「自動運転のしくみを学ぶ入門講座」をTECH HUB YOKOHAMAで開催しました",
-      "link": "https://ascii.jp/elem/000/004/424/4424110/?rss",
-      "date": "2026-07-31T22:16:27+09:00",
-      "dateLabel": "07/31 22:16",
-      "desc": "「自動運転のしくみを学ぶ入門講座」をTECH HUB YOKOHAMAで開催しました",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
       "score": 26
     },
     {
@@ -277,6 +244,39 @@
       "date": "2026-07-31T17:57:00+09:00",
       "dateLabel": "07/31 17:57",
       "desc": "Googleが自社製ウェブブラウザ「Chrome」のバグをAIを用いて発見・修正するシステムについて解説しています。AIの高性能化に伴って、Chromeのバグ修正数は急増しているそうです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "「9カ月かかる作業を3日に短縮」 IBM、レガシー刷新ワークフローをIBM Bobに追加",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2607/31/news094.html",
+      "date": "2026-07-31T17:20:00+09:00",
+      "dateLabel": "07/31 17:20",
+      "desc": "生成AIによるコード生成が広がる一方で、レガシー環境の刷新はAIの適用が難しい領域だ。IBMは、IBM Bobにレガシー環境向けの専用パッケージを追加することで、同領域における自動化に踏み込む。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "キオクシアQ1、純利益が前年同期比4500％増 株式分割・自社株買いも",
+      "link": "https://www.itmedia.co.jp/news/article/2607/31/2000000336/",
+      "date": "2026-07-31T17:16:03+09:00",
+      "dateLabel": "07/31 17:16",
+      "desc": "キオクシアホールディングス（HD）が7月31日に公開した2027年3月期第1四半期（26年4月1日?6月30日）連結決算は、売上収益が1兆7671億1700万円（前年同期比415.5％増）、営業利益が1兆2700億1700万円（同2728.6％増）、純利益が8421億6500万円（同4506.6％増）と大幅な増収増益だった。AIサーバを巡るNAND需要の拡大",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "Inklingと同等の性能をほぼ4分の1サイズで発揮する「Inkling-Small」をThinking Machines Labがリリース",
+      "link": "https://gigazine.net/news/20260731-thinking-machines-lab-inkling-small/",
+      "date": "2026-07-31T12:40:00+09:00",
+      "dateLabel": "07/31 12:40",
+      "desc": "AIスタートアップのThinking Machines Labが、2週間前にリリースしたばかりの9750億パラメータのAIモデル「Inkling」と同等の性能をおよそ3分の1から4分の1のサイズで実現するオープンウェイトモデル「Inkling-Small」をリリースしました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
