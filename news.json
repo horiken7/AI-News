@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-01T19:27:07.516869+09:00",
-  "generatedLabel": "2026/08/01 19:27",
+  "generatedAt": "2026-08-01T20:57:38.652485+09:00",
+  "generatedLabel": "2026/08/01 20:57",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 52,
+  "candidates": 51,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -72,6 +72,17 @@
       "src": "ITmedia AI+",
       "cat": "規制/安全",
       "score": 58
+    },
+    {
+      "title": "Core Ultra X7・最大50TOPS搭載。24時間動く16型OLEDノート「Acer Swift 16 AI」",
+      "link": "https://ascii.jp/elem/000/004/423/4423700/?rss",
+      "date": "2026-08-01T20:00:00+09:00",
+      "dateLabel": "08/01 20:00",
+      "desc": "AcerのノートPC「Acer Swift 16 AI」がAmazonタイムセール対象。317,980円で販売中。約24時間駆動と16インチ2.8K OLEDディスプレイを備え、Core Ultra X7 358Hプロセッサーと最大50TOPSのAI性能にも対応したCopilot+ PC。大画面でも持ち運びやすさを重視したい人には見逃せないモデルだ。",
+      "img": "https://ascii.jp/img/2026/07/31/4507635/s/6b7023af1d60e976.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
     },
     {
       "title": "Thinking Machines、軽量モデル「Inkling-Small」正式公開 サイズ4分の1で「Inkling」に匹敵する性能",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "PerplexityがAIエージェントの“暴走”対策ツールをオープンソースに Claude CodeやCodexを監視",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000325/",
-      "date": "2026-07-31T11:18:22+09:00",
-      "dateLabel": "07/31 11:18",
-      "desc": "PerplexityがAIエージェントの危険な挙動を検知・防止するツール群「Numbat」をオープンソース化。Claude CodeやCodexに組み込み、タスクに執着したエージェントの“暴走”を実行前に阻止する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
