@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-03T06:44:34.886606+09:00",
-  "generatedLabel": "2026/08/03 06:44",
+  "generatedAt": "2026-08-03T07:44:56.072448+09:00",
+  "generatedLabel": "2026/08/03 07:44",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 49,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 18
+      "items": 19
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 9
     },
     {
       "source": "CNET Japan",
@@ -74,6 +74,28 @@
       "score": 58
     },
     {
+      "title": "星評価やランキングに頼らない。AIとデジタルおひねりでつなぐ外食体験",
+      "link": "https://ascii.jp/elem/000/004/423/4423657/?rss",
+      "date": "2026-08-03T07:00:00+09:00",
+      "dateLabel": "08/03 07:00",
+      "desc": "株式会社バイティは7月16日、資金調達と合わせてAIを活用したグルメレコメンドアプリ「Bitee（バイティ）」の開発を発表した。外食市場において、従来の飲食店を星の数やランキングで評価する手法とは異なるマッチング体験の提供を目指している。",
+      "img": "https://ascii.jp/img/2026/07/30/4507563/s/523f8665c662da9b.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 42
+    },
+    {
+      "title": "OpenAI、次期主力モデル「Astra」の存在を明らかに――未解決の数学問題10件を「解決」と発表",
+      "link": "https://www.itmedia.co.jp/news/article/2608/03/2000000348/",
+      "date": "2026-08-03T06:56:14+09:00",
+      "dateLabel": "08/03 06:56",
+      "desc": "OpenAIは、次期主力モデル「Astra」の社内版により、数学や理論計算機科学の未解決問題10件で新たな結果を得たと発表した。「Astra」の名称公表は初とみられる。計算コストは「Sol」換算で約2000ドルに抑えられ、証明支援系「Lean」による形式証明もGitHubで公開。高度な数学研究への応用可能性を示した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "Google、パーソナルAI「Gemini Spark」を日本でも利用可能に Chrome統合は米国から",
       "link": "https://www.itmedia.co.jp/news/article/2608/02/2000000347/",
       "date": "2026-08-02T10:12:35+09:00",
@@ -93,17 +115,6 @@
       "img": "https://ascii.jp/img/2026/08/02/4508347/s/79a1813abb001900.png",
       "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "OpenAI、アクティブユーザー10億人超に 導入企業は200万社超",
-      "link": "https://www.itmedia.co.jp/news/article/2608/02/2000000346/",
-      "date": "2026-08-02T07:21:26+09:00",
-      "dateLabel": "08/02 07:21",
-      "desc": "OpenAIは、アクティブユーザーが10億人、導入企業が200万社を突破したと公表した。推論の保持やコンテキスト管理の改善、本番ソフトウェアの最適化によりコスト削減やトークン生成効率の向上を実現。「GPT-5.6」の一部モデルの値下げはこれらの成果を顧客に還元したものであり、再投資の循環を強調した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -129,14 +140,58 @@
       "score": 40
     },
     {
-      "title": "Core Ultra X7・最大50TOPS搭載。24時間動く16型OLEDノート「Acer Swift 16 AI」",
-      "link": "https://ascii.jp/elem/000/004/423/4423700/?rss",
-      "date": "2026-08-01T20:00:00+09:00",
-      "dateLabel": "08/01 20:00",
-      "desc": "AcerのノートPC「Acer Swift 16 AI」がAmazonタイムセール対象。317,980円で販売中。約24時間駆動と16インチ2.8K OLEDディスプレイを備え、Core Ultra X7 358Hプロセッサーと最大50TOPSのAI性能にも対応したCopilot+ PC。大画面でも持ち運びやすさを重視したい人には見逃せないモデルだ。",
-      "img": "https://ascii.jp/img/2026/07/31/4507635/s/6b7023af1d60e976.jpg",
-      "src": "ASCII.jp",
+      "title": "「AI、結局使えないじゃん」問題 セールスフォースが431万件対応で導いた正解",
+      "link": "https://www.itmedia.co.jp/business/articles/2608/03/news030.html",
+      "date": "2026-08-03T07:00:00+09:00",
+      "dateLabel": "08/03 07:00",
+      "desc": "AIエージェントの導入が進む一方、全社的な利益改善に至る企業は4割弱にとどまる。そんな「AI導入の壁」を破り、自社実践（カスタマーゼロ）で431万件の顧客対応を完了、商談数を4～5割増加させたのがセールスフォースだ。同社はなぜ明快なROIを生み出せるのか。データやKPIが整う領域の選定や「シンプルで高頻度な業務」から任せる鉄則など、AI投資を成果につなげる運",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "自作PCトーク『ジサトラKTU』生放送～AMDの最新エントリーGPU、Radeon RX 9050は令和のゲームに耐えられるのか？～",
+      "link": "https://ascii.jp/elem/000/004/423/4423731/?rss",
+      "date": "2026-08-03T07:00:00+09:00",
+      "dateLabel": "08/03 07:00",
+      "desc": "AMDの最新エントリーGPU、Radeon RX 9050は令和のゲームに耐えられるのか？ 木曜20:00から放送スタート！",
+      "img": "https://ascii.jp/img/2025/09/19/4324489/s/4111cde7c86cf0b4.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "AI時代のサイバー攻撃で脆弱性パッチ適用とサプライチェーン攻撃対策を同時支援する新機能",
+      "link": "https://ascii.jp/elem/000/004/423/4423238/?rss",
+      "date": "2026-08-03T07:00:00+09:00",
+      "dateLabel": "08/03 07:00",
+      "desc": "GMO Flatt Securityは7月8日、ソフトウェア開発プラットフォーム「Takumi byGMO」において、脆弱性パッチの適用とサプライチェーン攻撃対策を同時支援する新機能「Takumi Images」の提供を開始した。同社はサイバーセキュリティー関連のスタートアップとして創業後、GMOインターネットグループへ参画した経緯を持つ。",
+      "img": "https://ascii.jp/img/2026/07/29/4507163/s/66e64cb69193206a.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "「思考の連鎖」偽装でLLMを騙す新手法、訓練では防げない構造的欠陥",
+      "link": "https://ascii.jp/elem/000/004/424/4424189/?rss",
+      "date": "2026-08-03T06:59:30+09:00",
+      "dateLabel": "08/03 06:59",
+      "desc": "大規模言語モデル（LLM）は、ユーザー・システム・思考の連鎖といった「発信元」をタグではなく文章のスタイルで識別しているにすぎない。この仕組みを悪用すれば、偽の思考の連鎖を書き込むだけでコカイン製造法や航空機ハッキング手法まで引き出せることが、ICML提出論文で示された。研究チームは、これが訓練でも解消できない根本的な欠陥だと主張する。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "OpenAI、アクティブユーザー10億人超に 導入企業は200万社超",
+      "link": "https://www.itmedia.co.jp/news/article/2608/02/2000000346/",
+      "date": "2026-08-02T07:21:26+09:00",
+      "dateLabel": "08/02 07:21",
+      "desc": "OpenAIは、アクティブユーザーが10億人、導入企業が200万社を突破したと公表した。推論の保持やコンテキスト管理の改善、本番ソフトウェアの最適化によりコスト削減やトークン生成効率の向上を実現。「GPT-5.6」の一部モデルの値下げはこれらの成果を顧客に還元したものであり、再投資の循環を強調した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -195,6 +250,17 @@
       "score": 28
     },
     {
+      "title": "賞金1000万のAIコンテスト、でも「実現性は問わず」 サイバーエージェントのAI推進策",
+      "link": "https://kn.itmedia.co.jp/kn/articles/2608/03/news032.html",
+      "date": "2026-08-03T07:00:00+09:00",
+      "dateLabel": "08/03 07:00",
+      "desc": "生成AIを導入しても、従業員に使われなければ成果にはつながらない。サイバーエージェントは、賞金1000万円のAIコンテストを開催し、あえて「実現性」を問わない仕掛けで社員の意識を変えた。その狙いとは。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
       "title": "アトラシアン、AI時代の仕事用ブラウザ「Diaブラウザ」のWindows版リリースへ。ウェイトリストへの登録開始",
       "link": "https://www.publickey1.jp/blog/26/aidiawindows.html",
       "date": "2026-08-03T00:56:09+09:00",
@@ -214,72 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "ほくろを3Dマッピングして病変発見に役立てるロボットカメラ「OpenDerm」",
-      "link": "https://gigazine.net/news/20260802-openderm-robotic-3d-skin-imaging/",
-      "date": "2026-08-02T16:49:00+09:00",
-      "dateLabel": "08/02 16:49",
-      "desc": "皮膚がんの早期発見に役立つ方法として「皮膚を定期的に撮影してほくろの変化を観察する」という手法が注目されています。「OpenDerm」は設計図やソフトウェアを公開しているオープンソースの3D肌マッピングシステムで、カメラで肌の写真を自動撮影して肌の経時変化を観察することができます。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "画面のないスマートバンド「Fitbit Air」はAIコーチ機能が親切 AIフル活用で情報追加も簡単",
-      "link": "https://ascii.jp/elem/000/004/424/4424155/?rss",
-      "date": "2026-08-02T12:00:00+09:00",
-      "dateLabel": "08/02 12:00",
-      "desc": "画面がないスマートバンド「Fitbit Air」の連続レビューです。本製品で用いるアプリにはAIによるコーチ機能がありますが、特に便利なのが食事の記録。AIをフル活用するので、アバウトに口頭で伝えたり、食事の写真を撮るだけで自動で分析して記録。修正も容易です",
-      "img": "https://ascii.jp/img/2026/08/01/4508339/s/2b3cbd696eff04f1.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "Ghostty開発者が新会社「Superlogical」を始動、人間とAIの作業を統合するターミナル基盤を構築へ",
-      "link": "https://gigazine.net/news/20260731-mitchell-hashimoto-superlogical/",
-      "date": "2026-07-31T19:00:00+09:00",
-      "dateLabel": "07/31 19:00",
-      "desc": "HashiCorp共同創業者でターミナルエミュレーター「Ghostty」の開発者でもあるミッチェル・ハシモト氏が、新会社「Superlogical」の設立を発表しました。Superlogicalは、複数のターミナルでの作業を長期間維持・共有できる新しいターミナルマルチプレクサーの開発から事業を開始し、将来的には人間やAIエージェントが行うさまざまなソフトウェ",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "PerplexityがAIエージェントの“暴走”対策ツールをオープンソースに Claude CodeやCodexを監視",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000325/",
-      "date": "2026-07-31T11:18:22+09:00",
-      "dateLabel": "07/31 11:18",
-      "desc": "PerplexityがAIエージェントの危険な挙動を検知・防止するツール群「Numbat」をオープンソース化。Claude CodeやCodexに組み込み、タスクに執着したエージェントの“暴走”を実行前に阻止する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "Chromeに13年以上潜んでいた脆弱性、AIで発見 直近2回のアプデで過去23回分を上回るバグ修正",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000323/",
-      "date": "2026-07-31T11:03:59+09:00",
-      "dateLabel": "07/31 11:03",
-      "desc": "GoogleがChromeのセキュリティ対策へのAI活用を公式ブログで解説。Geminiベースのエージェントが13年以上潜んでいた脆弱性を発見した。AI攻撃の高速化に対応し、セキュリティ更新「週2回」配信も試行する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "スクエニ、ゲームの品質テストをGeminiで自動化 AIが画面を見ながらコントローラーを操作、検証作業を自走",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000322/",
-      "date": "2026-07-31T10:43:41+09:00",
-      "dateLabel": "07/31 10:43",
-      "desc": "スクウェア・エニックスが、ゲームのQAテストを「Gemini」で自動化する取り組みを「Google Cloud Next Tokyo '26」基調講演で披露。AIが画面を見ながらコントローラーを操作し、検証作業を自ら進める。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
