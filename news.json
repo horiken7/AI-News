@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-02T17:04:50.284829+09:00",
-  "generatedLabel": "2026/08/02 17:04",
+  "generatedAt": "2026-08-02T19:25:22.275238+09:00",
+  "generatedLabel": "2026/08/02 19:25",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 50,
+  "candidates": 49,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -195,6 +195,17 @@
       "score": 28
     },
     {
+      "title": "無料で毎日の予定やルーチンを視覚的なブロック配置で把握しNextCloud・WebDAV・Obsidianなどで同期＆AI連携・歩数記録・専用Androidアプリ・StreamDeckの双方向完全連携も可能な「dayGLANCE」、アカウント登録不要でセルフホストも可能",
+      "link": "https://gigazine.net/news/20260802-dayglance/",
+      "date": "2026-08-02T18:00:00+09:00",
+      "dateLabel": "08/02 18:00",
+      "desc": "1日の予定をToDoリストとして管理する際にただリストを並べるのではなく、時間配分を視覚的なブロックとして配置すると分かりやすくなります。直感的なデザインでNextcloud・WebDAV・Obsidianで同期できる「dayGLANCE」が公開されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "ほくろを3Dマッピングして病変発見に役立てるロボットカメラ「OpenDerm」",
       "link": "https://gigazine.net/news/20260802-openderm-robotic-3d-skin-imaging/",
       "date": "2026-08-02T16:49:00+09:00",
@@ -228,17 +239,6 @@
       "score": 26
     },
     {
-      "title": "3万8000円引きなら話が変わる。史上最薄「iPhone Air」が13万9800円",
-      "link": "https://ascii.jp/elem/000/004/422/4422943/?rss",
-      "date": "2026-08-01T19:00:00+09:00",
-      "dateLabel": "08/01 19:00",
-      "desc": "Appleのスマートフォン「iPhone Air 256GB（SIMフリー）」がAmazonタイムセール対象。参考価格177,800円のところ、21％オフの139,800円で販売中。史上最薄のiPhoneとして、6.5インチのSuper Retina XDRディスプレーやA19 Proチップを搭載。この値下げなら、選択肢に入れやすい。",
-      "img": "https://ascii.jp/img/2026/07/29/4506759/s/72891eee775977ee.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
       "title": "Ghostty開発者が新会社「Superlogical」を始動、人間とAIの作業を統合するターミナル基盤を構築へ",
       "link": "https://gigazine.net/news/20260731-mitchell-hashimoto-superlogical/",
       "date": "2026-07-31T19:00:00+09:00",
@@ -247,17 +247,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "Inklingと同等の性能をほぼ4分の1サイズで発揮する「Inkling-Small」をThinking Machines Labがリリース",
-      "link": "https://gigazine.net/news/20260731-thinking-machines-lab-inkling-small/",
-      "date": "2026-07-31T12:40:00+09:00",
-      "dateLabel": "07/31 12:40",
-      "desc": "AIスタートアップのThinking Machines Labが、2週間前にリリースしたばかりの9750億パラメータのAIモデル「Inkling」と同等の性能をおよそ3分の1から4分の1のサイズで実現するオープンウェイトモデル「Inkling-Small」をリリースしました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
       "score": 26
     },
     {
@@ -277,6 +266,17 @@
       "date": "2026-07-31T11:03:59+09:00",
       "dateLabel": "07/31 11:03",
       "desc": "GoogleがChromeのセキュリティ対策へのAI活用を公式ブログで解説。Geminiベースのエージェントが13年以上潜んでいた脆弱性を発見した。AI攻撃の高速化に対応し、セキュリティ更新「週2回」配信も試行する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "スクエニ、ゲームの品質テストをGeminiで自動化 AIが画面を見ながらコントローラーを操作、検証作業を自走",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000322/",
+      "date": "2026-07-31T10:43:41+09:00",
+      "dateLabel": "07/31 10:43",
+      "desc": "スクウェア・エニックスが、ゲームのQAテストを「Gemini」で自動化する取り組みを「Google Cloud Next Tokyo '26」基調講演で披露。AIが画面を見ながらコントローラーを操作し、検証作業を自ら進める。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
