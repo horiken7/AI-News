@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-03T07:44:56.072448+09:00",
-  "generatedLabel": "2026/08/03 07:44",
+  "generatedAt": "2026-08-03T08:50:08.865971+09:00",
+  "generatedLabel": "2026/08/03 08:50",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 52,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -140,6 +140,17 @@
       "score": 40
     },
     {
+      "title": "AI分野の「ユニコーン企業」の半数以上は査読付き論文やプレプリントを一度も発表したことがない",
+      "link": "https://gigazine.net/news/20260803-ai-top-startups-barely-publishing-research/",
+      "date": "2026-08-03T08:00:00+09:00",
+      "dateLabel": "08/03 08:00",
+      "desc": "AIは科学とビジネスの両面で成長著しい分野であり、評価額が10億ドル(約160億円)を越えるユニコーン企業も多数生まれています。ところが、AI分野のユニコーン企業の半数以上は、査読付き論文やプレプリントの形式で研究結果を公開していないと指摘されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "「AI、結局使えないじゃん」問題 セールスフォースが431万件対応で導いた正解",
       "link": "https://www.itmedia.co.jp/business/articles/2608/03/news030.html",
       "date": "2026-08-03T07:00:00+09:00",
@@ -228,17 +239,6 @@
       "score": 34
     },
     {
-      "title": "OpenAI、「GPT-5.6 Luna」を80％値下げ モデル自身による効率化でコスト削減",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000317/",
-      "date": "2026-07-31T08:55:50+09:00",
-      "dateLabel": "07/31 08:55",
-      "desc": "OpenAIは、「GPT-5.6」ファミリーの「Luna」を80％、「Terra」を20％値下げすると発表した。API価格の改定に加え、「ChatGPT Work」や「Codex」でのクレジット消費量も削減される。自律的なカーネル最適化により提供コストの削減を実現した。また、処理速度を最大2.5倍に高める「Fast mode」も新たに導入する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "Google Cloud、AIが自律的にコードの脆弱性検出からサンドボックス内でのリスク検証、修正までを自動実行。「CodeMender」プレビュー公開",
       "link": "https://www.publickey1.jp/blog/26/google_cloudaicodemender.html",
       "date": "2026-07-29T00:54:06+09:00",
@@ -250,6 +250,28 @@
       "score": 28
     },
     {
+      "title": "“Fable級が無料”は本当か AI市場を震撼させた「Kimi K3」を試した結果",
+      "link": "https://ascii.jp/elem/000/004/424/4424187/?rss",
+      "date": "2026-08-03T08:00:00+09:00",
+      "dateLabel": "08/03 08:00",
+      "desc": "話題のオープンモデル「Kimi K3」をゲーム開発で検証。低価格で高い実装力を示す一方、生成速度やゲーム全体の体験設計には課題が残るという評価になりました。",
+      "img": "https://ascii.jp/img/2026/08/03/4508521/s/3549025e70b7a281.png",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
+      "title": "情シス人材不足でも「採用予定なし」中小企業の意見／“従業員発のSNS炎上”6割の企業が懸念／「SNS疲れ」利用を減らす効果的方法、ほか",
+      "link": "https://ascii.jp/elem/000/004/424/4424174/?rss",
+      "date": "2026-08-03T08:00:00+09:00",
+      "dateLabel": "08/03 08:00",
+      "desc": "今回（2026年7月25日～7月31日）は、日本の開発者にも浸透が進むクラウドネイティブ技術の現状、情報システム部門の人材不足でも新規採用予定を持たない中小企業の戦略、従業員によるSNS炎上と企業側の対策状況、日本企業におけるAIやテレワークの導入率、7割以上が感じている「SNS疲れ」のデータを紹介します。",
+      "img": "https://ascii.jp/img/2026/08/02/4508389/s/cf9ece4efcaa75ce.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "賞金1000万のAIコンテスト、でも「実現性は問わず」 サイバーエージェントのAI推進策",
       "link": "https://kn.itmedia.co.jp/kn/articles/2608/03/news032.html",
       "date": "2026-08-03T07:00:00+09:00",
@@ -258,28 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "アトラシアン、AI時代の仕事用ブラウザ「Diaブラウザ」のWindows版リリースへ。ウェイトリストへの登録開始",
-      "link": "https://www.publickey1.jp/blog/26/aidiawindows.html",
-      "date": "2026-08-03T00:56:09+09:00",
-      "dateLabel": "08/03 00:56",
-      "desc": "アトラシアンは、現在Mac版がリリースされているDiaブラウザのWindows版を今年の秋にリリースすることを明らかにしました。 Dia for Windows is coming (this fall!) pic.twitter.com/...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "無料で毎日の予定やルーチンを視覚的なブロック配置で把握しNextCloud・WebDAV・Obsidianなどで同期＆AI連携・歩数記録・専用Androidアプリ・StreamDeckの双方向完全連携も可能な「dayGLANCE」、アカウント登録不要でセルフホストも可能",
-      "link": "https://gigazine.net/news/20260802-dayglance/",
-      "date": "2026-08-02T18:00:00+09:00",
-      "dateLabel": "08/02 18:00",
-      "desc": "1日の予定をToDoリストとして管理する際にただリストを並べるのではなく、時間配分を視覚的なブロックとして配置すると分かりやすくなります。直感的なデザインでNextcloud・WebDAV・Obsidianで同期できる「dayGLANCE」が公開されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
       "score": 26
     }
   ]
