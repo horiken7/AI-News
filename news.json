@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-02T14:17:26.717249+09:00",
-  "generatedLabel": "2026/08/02 14:17",
+  "generatedAt": "2026-08-02T17:04:50.284829+09:00",
+  "generatedLabel": "2026/08/02 17:04",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 51,
+  "candidates": 50,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -140,17 +140,6 @@
       "score": 40
     },
     {
-      "title": "ホテルスタッフがどんどん数字に強くなる。ホテル特化AIエージェント「JOINTPOOL AI」正式ローンチ",
-      "link": "https://ascii.jp/elem/000/004/424/4424141/?rss",
-      "date": "2026-08-01T16:20:00+09:00",
-      "dateLabel": "08/01 16:20",
-      "desc": "ホテルスタッフがどんどん数字に強くなる。ホテル特化AIエージェント「JOINTPOOL AI」正式ローンチ",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "キオクシアQ1決算、純利益は前年比4500％増 AIデータセンター向け需要がけん引",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000335/",
       "date": "2026-07-31T16:33:45+09:00",
@@ -169,17 +158,6 @@
       "desc": "OpenAIが学術研究者10万人に「ChatGPT」の最上位モデルを無料提供するプログラムを発表した。今夏に1万人から提供を始め、2027年までに10万人規模へ拡大する。日本でも東京大学、京都大学、東京科学大学、早稲田大学、慶應義塾大学など15の大学が対象機関となっている。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "OpenAIがGPT-5.6のハーネスを改善してARC-AGI-3のスコアを3倍に向上させることに成功、モデル自体の性能だけでなくハーネスも重要であることを示す",
-      "link": "https://gigazine.net/news/20260731-how-enabling-two-settings-tripled-arc-agi-3-benchmark/",
-      "date": "2026-07-31T12:06:00+09:00",
-      "dateLabel": "07/31 12:06",
-      "desc": "AIの知能をルール不明のゲームで測定するというベンチマークが「ARC-AGI-3」です。このARC-AGI-3におけるスコアを3倍にした方法を、OpenAIが解説しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 34
     },
@@ -215,6 +193,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 28
+    },
+    {
+      "title": "ほくろを3Dマッピングして病変発見に役立てるロボットカメラ「OpenDerm」",
+      "link": "https://gigazine.net/news/20260802-openderm-robotic-3d-skin-imaging/",
+      "date": "2026-08-02T16:49:00+09:00",
+      "dateLabel": "08/02 16:49",
+      "desc": "皮膚がんの早期発見に役立つ方法として「皮膚を定期的に撮影してほくろの変化を観察する」という手法が注目されています。「OpenDerm」は設計図やソフトウェアを公開しているオープンソースの3D肌マッピングシステムで、カメラで肌の写真を自動撮影して肌の経時変化を観察することができます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI実装",
+      "score": 26
     },
     {
       "title": "画面のないスマートバンド「Fitbit Air」はAIコーチ機能が親切 AIフル活用で情報追加も簡単",
@@ -277,6 +266,17 @@
       "date": "2026-07-31T11:18:22+09:00",
       "dateLabel": "07/31 11:18",
       "desc": "PerplexityがAIエージェントの危険な挙動を検知・防止するツール群「Numbat」をオープンソース化。Claude CodeやCodexに組み込み、タスクに執着したエージェントの“暴走”を実行前に阻止する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "Chromeに13年以上潜んでいた脆弱性、AIで発見 直近2回のアプデで過去23回分を上回るバグ修正",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000323/",
+      "date": "2026-07-31T11:03:59+09:00",
+      "dateLabel": "07/31 11:03",
+      "desc": "GoogleがChromeのセキュリティ対策へのAI活用を公式ブログで解説。Geminiベースのエージェントが13年以上潜んでいた脆弱性を発見した。AI攻撃の高速化に対応し、セキュリティ更新「週2回」配信も試行する。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
