@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-02T23:27:05.367157+09:00",
-  "generatedLabel": "2026/08/02 23:27",
+  "generatedAt": "2026-08-03T00:52:56.920560+09:00",
+  "generatedLabel": "2026/08/03 00:52",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 49,
@@ -195,6 +195,17 @@
       "score": 28
     },
     {
+      "title": "アトラシアン、AI時代の仕事用ブラウザ「Diaブラウザ」のWindows版リリースへ。ウェイトリストへの登録開始",
+      "link": "https://www.publickey1.jp/blog/26/aidiawindows.html",
+      "date": "2026-08-03T00:56:09+09:00",
+      "dateLabel": "08/03 00:56",
+      "desc": "アトラシアンは、現在Mac版がリリースされているDiaブラウザのWindows版を今年の秋にリリースすることを明らかにしました。 Dia for Windows is coming (this fall!) pic.twitter.com/...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "無料で毎日の予定やルーチンを視覚的なブロック配置で把握しNextCloud・WebDAV・Obsidianなどで同期＆AI連携・歩数記録・専用Androidアプリ・StreamDeckの双方向完全連携も可能な「dayGLANCE」、アカウント登録不要でセルフホストも可能",
       "link": "https://gigazine.net/news/20260802-dayglance/",
       "date": "2026-08-02T18:00:00+09:00",
@@ -266,17 +277,6 @@
       "date": "2026-07-31T11:03:59+09:00",
       "dateLabel": "07/31 11:03",
       "desc": "GoogleがChromeのセキュリティ対策へのAI活用を公式ブログで解説。Geminiベースのエージェントが13年以上潜んでいた脆弱性を発見した。AI攻撃の高速化に対応し、セキュリティ更新「週2回」配信も試行する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "スクエニ、ゲームの品質テストをGeminiで自動化 AIが画面を見ながらコントローラーを操作、検証作業を自走",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000322/",
-      "date": "2026-07-31T10:43:41+09:00",
-      "dateLabel": "07/31 10:43",
-      "desc": "スクウェア・エニックスが、ゲームのQAテストを「Gemini」で自動化する取り組みを「Google Cloud Next Tokyo '26」基調講演で披露。AIが画面を見ながらコントローラーを操作し、検証作業を自ら進める。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
