@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-04T04:18:30.918521+09:00",
-  "generatedLabel": "2026/08/04 04:18",
+  "generatedAt": "2026-08-04T05:54:42.110883+09:00",
+  "generatedLabel": "2026/08/04 05:54",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 54,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -162,6 +162,17 @@
       "score": 40
     },
     {
+      "title": "eムック 『AIの10大潮流［2026年版］』特集号",
+      "link": "https://ascii.jp/elem/000/004/424/4424505/?rss",
+      "date": "2026-08-04T05:19:57+09:00",
+      "dateLabel": "08/04 05:19",
+      "desc": "MITテクノロジーレビュー［日本版］はeムック Vol.87 / 2026.07をリリースした。特集は『AIの10大潮流［2026年版］』。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "スクエニ、ゲームの品質テストをGeminiで自動化 AIが画面を見ながらコントローラーを操作、検証作業を自走",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000322/",
       "date": "2026-08-03T20:45:49+09:00",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 28
-    },
-    {
-      "title": "Google Cloud、AIが自律的にコードの脆弱性検出からサンドボックス内でのリスク検証、修正までを自動実行。「CodeMender」プレビュー公開",
-      "link": "https://www.publickey1.jp/blog/26/google_cloudaicodemender.html",
-      "date": "2026-07-29T00:54:06+09:00",
-      "dateLabel": "07/29 00:54",
-      "desc": "Google Cloudは、コードの脆弱性の検出、リスクの検証と報告、修正までを自律的に実行するAIエージェント「CodeMender」のプレビュー公開を発表しました。 複雑な脆弱性まで発見し、サンドボックス内でリスク検証 CodeMend...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
       "score": 28
     }
   ]
