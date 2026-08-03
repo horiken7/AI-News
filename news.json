@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-03T14:32:20.625285+09:00",
-  "generatedLabel": "2026/08/03 14:32",
+  "generatedAt": "2026-08-03T18:21:44.433981+09:00",
+  "generatedLabel": "2026/08/03 18:21",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -63,14 +63,25 @@
   ],
   "articles": [
     {
-      "title": "Google Earth、AI画像生成機能をわずか1日で停止 フェイク画像懸念が拡大",
-      "link": "https://ascii.jp/elem/000/004/424/4424319/?rss",
-      "date": "2026-08-03T13:40:00+09:00",
-      "dateLabel": "08/03 13:40",
-      "desc": "Googleは現地時間8月1日、Google Earthに導入した画像生成AI「Nano Banana 2」の新機能を公開から約1日でロールバックした。",
-      "img": "https://ascii.jp/img/2026/08/03/4508631/s/e9e79ac11e2291db.png",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
+      "title": "「Kimi K3」を開発した中国のMoonshot AIはAlibaba経由で約2万個のNVIDIA製チップを使用したとの報道",
+      "link": "https://gigazine.net/news/20260803-moonshot-kimi-20000-nvidia-chip-alibaba/",
+      "date": "2026-08-03T15:00:00+09:00",
+      "dateLabel": "08/03 15:00",
+      "desc": "中国のAI開発企業であるMoonshot AIは2026年7月、一部のベンチマークテストでGPT-5.6 SolやClaude Fable 5を超えるスコアを記録したAIモデル「Kimi K3」を発表しました。そんなMoonshot AIは、同じく中国企業のAlibaba経由で約2万個ものNVIDIA製チップを使用したと経済紙のBloombergが報じました",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 50
+    },
+    {
+      "title": "中国の軍事研究者がOpenAIやAnthropicのAIモデルを抽出して国内の軍事システム開発に利用していたことが判明",
+      "link": "https://gigazine.net/news/20260803-china-ai-distillation/",
+      "date": "2026-08-03T14:45:00+09:00",
+      "dateLabel": "08/03 14:45",
+      "desc": "中国の軍事研究者らが、OpenAIとAnthropicが開発したアメリカの主要なAIモデルの出力を利用して、中国の防衛能力を向上させるための国内AIシステムをトレーニングしていることが中国の学術論文および特許の調査から明らかになりました。アメリカ政府は中国への高度なチップ輸出規制やその他の戦略技術へのアクセスを制限していますが、中国のAI研究者らは「知識蒸留",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
       "score": 42
     },
     {
@@ -151,47 +162,14 @@
       "score": 36
     },
     {
-      "title": "AIなしではもはや限界 TSMCが明かすメモリー開発にAIが不可欠となった現実",
-      "link": "https://ascii.jp/elem/000/004/424/4424135/?rss",
-      "date": "2026-08-03T12:00:00+09:00",
-      "dateLabel": "08/03 12:00",
-      "desc": "CFETの説明ばかりが続いたので少し箸休めしよう。今回はTSMCのTsung-Yung Jonathan Chang博士による発表を解説する。ASIC内のメモリーの開発(実装)にAIを利用し始めているという、ユーザー側の話である。",
-      "img": "https://ascii.jp/img/2026/08/01/4508252/s/ac90ab655582a7fa.jpg",
+      "title": "『スパロボY』有料ダウンロードコンテンツ「アニバーサリーエキスパンションパック」が8月5日に配信決定！",
+      "link": "https://ascii.jp/elem/000/004/424/4424384/?rss",
+      "date": "2026-08-03T15:55:00+09:00",
+      "dateLabel": "08/03 15:55",
+      "desc": "2027年8月3日、バンダイナムコエンターテインメントは、Nintendo Switch／PlayStation 5／PC（Steam）で発売中の『スーパーロボット大戦Y』にて、追加有料ダウンロードコンテンツ「アニバーサリーエキスパンションパック」を8月5日に配信すると発表。",
+      "img": "https://ascii.jp/img/2026/08/03/4508738/s/85f1d014e827bb2b.jpg",
       "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "Final Aim、手描きスケッチ起点の生成AI時代のクリエイティブ支援プロダクト「Final Design 1st Sketch」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/424/4424326/?rss",
-      "date": "2026-08-03T11:30:00+09:00",
-      "dateLabel": "08/03 11:30",
-      "desc": "Final Aim、手描きスケッチ起点の生成AI時代のクリエイティブ支援プロダクト「Final Design 1st Sketch」を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "Lumen、Alkiraの買収を完了し、AI時代のネットワークに向けた統合デジタルプラットフォームの展開を加速",
-      "link": "https://ascii.jp/elem/000/004/424/4424345/?rss",
-      "date": "2026-08-03T11:00:00+09:00",
-      "dateLabel": "08/03 11:00",
-      "desc": "Lumen、Alkiraの買収を完了し、AI時代のネットワークに向けた統合デジタルプラットフォームの展開を加速",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "（産総研グループ/無料セミナー）センシング技術・次世代パッケージングの社会実装を目指して ～半導体製造センシング・実装技術分野から考える最新動向と未来社会～【８月24日、28日配信】",
-      "link": "https://ascii.jp/elem/000/004/424/4424342/?rss",
-      "date": "2026-08-03T11:00:00+09:00",
-      "dateLabel": "08/03 11:00",
-      "desc": "（産総研グループ/無料セミナー）センシング技術・次世代パッケージングの社会実装を目指して ～半導体製造センシング・実装技術分野から考える最新動向と未来社会～【８月24日、28日配信】",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
+      "cat": "AI実装",
       "score": 34
     },
     {
@@ -258,7 +236,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
-      "score": 34
+      "score": 28
     },
     {
       "title": "研究者10万人にOpenAI「最上位モデル」無料提供へ 日本でも東大、京大など15大学が対象",
@@ -269,7 +247,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
+      "score": 28
     },
     {
       "title": "Google Cloud、AIが自律的にコードの脆弱性検出からサンドボックス内でのリスク検証、修正までを自動実行。「CodeMender」プレビュー公開",
@@ -281,6 +259,28 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 28
+    },
+    {
+      "title": "楽天カード、Apple製品の無金利24回払いに対応 Paidy対抗か",
+      "link": "https://ascii.jp/elem/000/004/424/4424431/?rss",
+      "date": "2026-08-03T17:00:00+09:00",
+      "dateLabel": "08/03 17:00",
+      "desc": "楽天カードは8月3日、Apple直営店などでアップル製品を購入する際、分割払いの手数料を最大24回まで無料化することを公表した。同日からVisa、Mastercard、JCBブランドの楽天カードで展開する。",
+      "img": "https://ascii.jp/img/2026/08/03/4508775/s/e1656a8e57096525.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "CORSAIRの最新最強仕様ゲーミングキーボードがやってきた！ その実力は本物か？ もちろん実際に試してみたぞ",
+      "link": "https://ascii.jp/elem/000/004/423/4423232/?rss",
+      "date": "2026-08-03T17:00:00+09:00",
+      "dateLabel": "08/03 17:00",
+      "desc": "キーボードでこれだけ自由に割り当てられるならもうゲーミングコントローラーいらないね。ゲームカスタムが自由すぎるキーボードがここにあり！",
+      "img": "https://ascii.jp/img/2026/07/31/4507844/s/35a9f482c9df623f.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     }
   ]
 }
