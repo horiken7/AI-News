@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-03T18:21:44.433981+09:00",
-  "generatedLabel": "2026/08/03 18:21",
+  "generatedAt": "2026-08-03T21:49:23.314139+09:00",
+  "generatedLabel": "2026/08/03 21:49",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 56,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 12
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -72,6 +72,17 @@
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
       "score": 50
+    },
+    {
+      "title": "30万円以内でWQHDゲーミング！ Ryzen 7 7800X3Dと16GB GPUを積んだ黒×金の実力派PC",
+      "link": "https://ascii.jp/elem/000/004/424/4424489/?rss",
+      "date": "2026-08-03T20:00:00+09:00",
+      "dateLabel": "08/03 20:00",
+      "desc": "GKG-PSK78X3D96XTは、Ryzen 7 7800X3DとRX 9060 XT 16GBを搭載。ゲーム性能も見た目も欲張れる28万円台の即納PCだ。",
+      "img": "https://ascii.jp/img/2026/07/29/4507189/s/3288b8c583974ca6.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
     },
     {
       "title": "中国の軍事研究者がOpenAIやAnthropicのAIモデルを抽出して国内の軍事システム開発に利用していたことが判明",
@@ -151,25 +162,36 @@
       "score": 40
     },
     {
-      "title": "Thinking Machines、軽量モデル「Inkling-Small」正式公開 サイズ4分の1で「Inkling」に匹敵する性能",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000326/",
-      "date": "2026-07-31T11:16:53+09:00",
-      "dateLabel": "07/31 11:16",
-      "desc": "Thinking Machines Labは、オープンウェイトのAIモデル「Inkling-Small」の正式版を公開した。従来モデルの4分の1のサイズながら、データの改良や強化学習によりコード生成などのベンチマークで従来版を上回る性能を実現。動作に必要なGPUメモリも大幅に削減されており、Hugging Face等で入手できる。",
+      "title": "スクエニ、ゲームの品質テストをGeminiで自動化 AIが画面を見ながらコントローラーを操作、検証作業を自走",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000322/",
+      "date": "2026-08-03T20:45:49+09:00",
+      "dateLabel": "08/03 20:45",
+      "desc": "スクウェア・エニックスが、ゲームのQAテストを「Gemini」で自動化する取り組みを「Google Cloud Next Tokyo '26」基調講演で披露。AIが画面を見ながらコントローラーを操作し、検証作業を自ら進める。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 36
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
-      "title": "『スパロボY』有料ダウンロードコンテンツ「アニバーサリーエキスパンションパック」が8月5日に配信決定！",
-      "link": "https://ascii.jp/elem/000/004/424/4424384/?rss",
-      "date": "2026-08-03T15:55:00+09:00",
-      "dateLabel": "08/03 15:55",
-      "desc": "2027年8月3日、バンダイナムコエンターテインメントは、Nintendo Switch／PlayStation 5／PC（Steam）で発売中の『スーパーロボット大戦Y』にて、追加有料ダウンロードコンテンツ「アニバーサリーエキスパンションパック」を8月5日に配信すると発表。",
-      "img": "https://ascii.jp/img/2026/08/03/4508738/s/85f1d014e827bb2b.jpg",
+      "title": "RTX 5060に32GBメモリ、180Hz対応WQXGA液晶も。G TUNE P6が25万円台",
+      "link": "https://ascii.jp/elem/000/004/424/4424430/?rss",
+      "date": "2026-08-03T19:00:00+09:00",
+      "dateLabel": "08/03 19:00",
+      "desc": "マウスコンピューターのゲーミングノートPC「G TUNE P6」がAmazonタイムセール対象。参考価格289,801円のところ、10％オフの259,980円で販売中。Core i5-13500HXとGeForce RTX 5060 Laptop GPU、32GBメモリ、180Hz対応WQXGA液晶を備えた16型モデルだ。",
+      "img": "https://ascii.jp/img/2026/08/03/4508764/s/f90c8db62eda0075.jpg",
       "src": "ASCII.jp",
-      "cat": "AI実装",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "AIKONIC、多言語ビジネスコミュニケーション向け翻訳イヤホン「Aikonic EarNote」を発表",
+      "link": "https://ascii.jp/elem/000/004/424/4424498/?rss",
+      "date": "2026-08-03T18:07:59+09:00",
+      "dateLabel": "08/03 18:07",
+      "desc": "AIKONIC、多言語ビジネスコミュニケーション向け翻訳イヤホン「Aikonic EarNote」を発表",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 34
     },
     {
@@ -259,28 +281,6 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 28
-    },
-    {
-      "title": "楽天カード、Apple製品の無金利24回払いに対応 Paidy対抗か",
-      "link": "https://ascii.jp/elem/000/004/424/4424431/?rss",
-      "date": "2026-08-03T17:00:00+09:00",
-      "dateLabel": "08/03 17:00",
-      "desc": "楽天カードは8月3日、Apple直営店などでアップル製品を購入する際、分割払いの手数料を最大24回まで無料化することを公表した。同日からVisa、Mastercard、JCBブランドの楽天カードで展開する。",
-      "img": "https://ascii.jp/img/2026/08/03/4508775/s/e1656a8e57096525.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "CORSAIRの最新最強仕様ゲーミングキーボードがやってきた！ その実力は本物か？ もちろん実際に試してみたぞ",
-      "link": "https://ascii.jp/elem/000/004/423/4423232/?rss",
-      "date": "2026-08-03T17:00:00+09:00",
-      "dateLabel": "08/03 17:00",
-      "desc": "キーボードでこれだけ自由に割り当てられるならもうゲーミングコントローラーいらないね。ゲームカスタムが自由すぎるキーボードがここにあり！",
-      "img": "https://ascii.jp/img/2026/07/31/4507844/s/35a9f482c9df623f.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
     }
   ]
 }
