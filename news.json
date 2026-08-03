@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-03T10:51:13.821276+09:00",
-  "generatedLabel": "2026/08/03 10:51",
+  "generatedAt": "2026-08-03T14:32:20.625285+09:00",
+  "generatedLabel": "2026/08/03 14:32",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 55,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 9
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 9
+      "items": 10
     },
     {
       "source": "CNET Japan",
@@ -63,36 +63,58 @@
   ],
   "articles": [
     {
-      "title": "Google、ロボット向けAI「Gemini Robotics 2」発表 ヒューマノイドの全身制御や指先作業を実現",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000320/",
-      "date": "2026-07-31T10:27:51+09:00",
-      "dateLabel": "07/31 10:27",
-      "desc": "GoogleとGoogle DeepMindは、ロボット向けAIモデル群「Gemini Robotics 2」を発表した。全身制御や指先での微細な作業、複数ロボットの連携に対応する。高次の脳として機能する推論モデル「ER 2」や軽量VLAモデルを含み、安全性評価の新ベンチマーク「ASIMOV-Agentic」も公開した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
-      "score": 52
-    },
-    {
-      "title": "異常検知からロボット走行、車両制御まで —— 現場を遠隔化・自動化するSORACOM活用のIoTソリューション",
-      "link": "https://ascii.jp/elem/000/004/423/4423240/?rss",
-      "date": "2026-08-03T09:00:00+09:00",
-      "dateLabel": "08/03 09:00",
-      "desc": "ソラコムが開催した「SORACOM Discovery 2026」の展示ブースでは、パートナー企業による多様なIoTソリューションが一堂に会した。本記事ではその中から、ソラコムの通信基盤を組み込んだ4つのIoTソリューションを紹介する。",
-      "img": "https://ascii.jp/img/2026/07/30/4507576/s/898d8f749cdb5324.jpg",
+      "title": "Google Earth、AI画像生成機能をわずか1日で停止 フェイク画像懸念が拡大",
+      "link": "https://ascii.jp/elem/000/004/424/4424319/?rss",
+      "date": "2026-08-03T13:40:00+09:00",
+      "dateLabel": "08/03 13:40",
+      "desc": "Googleは現地時間8月1日、Google Earthに導入した画像生成AI「Nano Banana 2」の新機能を公開から約1日でロールバックした。",
+      "img": "https://ascii.jp/img/2026/08/03/4508631/s/e9e79ac11e2291db.png",
       "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
+      "cat": "生成AI/マルチモーダル",
       "score": 42
     },
     {
-      "title": "星評価やランキングに頼らない。AIとデジタルおひねりでつなぐ外食体験",
-      "link": "https://ascii.jp/elem/000/004/423/4423657/?rss",
-      "date": "2026-08-03T07:00:00+09:00",
-      "dateLabel": "08/03 07:00",
-      "desc": "株式会社バイティは7月16日、資金調達と合わせてAIを活用したグルメレコメンドアプリ「Bitee（バイティ）」の開発を発表した。外食市場において、従来の飲食店を星の数やランキングで評価する手法とは異なるマッチング体験の提供を目指している。",
-      "img": "https://ascii.jp/img/2026/07/30/4507563/s/523f8665c662da9b.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "「DeepSeek-V4-Flash-0731」が登場、GPT-5.6 Lunaより安価で同等性能のオープンモデル",
+      "link": "https://gigazine.net/news/20260803-deepseek-v4-flash-0731/",
+      "date": "2026-08-03T12:45:00+09:00",
+      "dateLabel": "08/03 12:45",
+      "desc": "中国のAI企業であるDeepSeekがAIモデル「DeepSeek-V4-Flash-0731」を商用利用可能なライセンスの下でオープンモデルとして公開しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "OpenAIの次期主力AIモデル「Astra」が10件の数学・理論計算機科学の課題で新成果、証明をLean 4で形式化し機械検証可能に",
+      "link": "https://gigazine.net/news/20260803-openai-astra-lean/",
+      "date": "2026-08-03T12:40:00+09:00",
+      "dateLabel": "08/03 12:40",
+      "desc": "OpenAIは2026年8月1日、次期主力AIモデル「Astra」の内部バージョンが数学と理論計算機科学にまたがる10件の未解決課題について新たな成果を上げたと発表しました。対象は「未解決のまま残されており、主要な結論について少なくとも10年間進展がなかった問題」で、OpenAIは249ページの論文と証明を機械的に検査できるデータを公開しています。 続きを読",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "「Qwen3.8-Max」登場、オープン化は「来週」 一部「Fable 5」「GPT-5.6 Sol」超えの性能うたう",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/03/2000000353/",
+      "date": "2026-08-03T12:26:15+09:00",
+      "dateLabel": "08/03 12:26",
+      "desc": "中国Alibaba傘下のAlibaba Cloudは8月3日、AIモデル「Qwen3.8-Max」を正式にリリースした。来週にはモデルの重みも公開する予定だ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "動画生成AI「MiniMax H3」が登場、世界2位の実力でオープンモデルとして公開予定",
+      "link": "https://gigazine.net/news/20260803-minimax-h3-video-generation-ai/",
+      "date": "2026-08-03T10:56:00+09:00",
+      "dateLabel": "08/03 10:56",
+      "desc": "中国のAI開発企業であるMiniMaxが動画生成AI「MiniMax H3」を発表しました。MiniMax H3は最大15秒の音声付き動画を生成可能でテキスト・動画・画像・音声の入力に対応しています。また、近日中にモデルそのものが無料公開される予定です。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "生成AI/マルチモーダル",
       "score": 42
     },
     {
@@ -107,17 +129,6 @@
       "score": 42
     },
     {
-      "title": "Thinking Machines、軽量モデル「Inkling-Small」正式公開 サイズ4分の1で「Inkling」に匹敵する性能",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000326/",
-      "date": "2026-07-31T11:16:53+09:00",
-      "dateLabel": "07/31 11:16",
-      "desc": "Thinking Machines Labは、オープンウェイトのAIモデル「Inkling-Small」の正式版を公開した。従来モデルの4分の1のサイズながら、データの改良や強化学習によりコード生成などのベンチマークで従来版を上回る性能を実現。動作に必要なGPUメモリも大幅に削減されており、Hugging Face等で入手できる。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
       "title": "アトラシアン、JiraがAIによる要件定義の自動作成、コンテキストを保持しつつタスクをClaudeやCopilotなどのAIエージェントへアサインなど新機能",
       "link": "https://www.publickey1.jp/blog/26/jiraaiclaudecopilotai.html",
       "date": "2026-07-23T00:35:19+09:00",
@@ -127,6 +138,61 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 40
+    },
+    {
+      "title": "Thinking Machines、軽量モデル「Inkling-Small」正式公開 サイズ4分の1で「Inkling」に匹敵する性能",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000326/",
+      "date": "2026-07-31T11:16:53+09:00",
+      "dateLabel": "07/31 11:16",
+      "desc": "Thinking Machines Labは、オープンウェイトのAIモデル「Inkling-Small」の正式版を公開した。従来モデルの4分の1のサイズながら、データの改良や強化学習によりコード生成などのベンチマークで従来版を上回る性能を実現。動作に必要なGPUメモリも大幅に削減されており、Hugging Face等で入手できる。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 36
+    },
+    {
+      "title": "AIなしではもはや限界 TSMCが明かすメモリー開発にAIが不可欠となった現実",
+      "link": "https://ascii.jp/elem/000/004/424/4424135/?rss",
+      "date": "2026-08-03T12:00:00+09:00",
+      "dateLabel": "08/03 12:00",
+      "desc": "CFETの説明ばかりが続いたので少し箸休めしよう。今回はTSMCのTsung-Yung Jonathan Chang博士による発表を解説する。ASIC内のメモリーの開発(実装)にAIを利用し始めているという、ユーザー側の話である。",
+      "img": "https://ascii.jp/img/2026/08/01/4508252/s/ac90ab655582a7fa.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "Final Aim、手描きスケッチ起点の生成AI時代のクリエイティブ支援プロダクト「Final Design 1st Sketch」を提供開始",
+      "link": "https://ascii.jp/elem/000/004/424/4424326/?rss",
+      "date": "2026-08-03T11:30:00+09:00",
+      "dateLabel": "08/03 11:30",
+      "desc": "Final Aim、手描きスケッチ起点の生成AI時代のクリエイティブ支援プロダクト「Final Design 1st Sketch」を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "Lumen、Alkiraの買収を完了し、AI時代のネットワークに向けた統合デジタルプラットフォームの展開を加速",
+      "link": "https://ascii.jp/elem/000/004/424/4424345/?rss",
+      "date": "2026-08-03T11:00:00+09:00",
+      "dateLabel": "08/03 11:00",
+      "desc": "Lumen、Alkiraの買収を完了し、AI時代のネットワークに向けた統合デジタルプラットフォームの展開を加速",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "（産総研グループ/無料セミナー）センシング技術・次世代パッケージングの社会実装を目指して ～半導体製造センシング・実装技術分野から考える最新動向と未来社会～【８月24日、28日配信】",
+      "link": "https://ascii.jp/elem/000/004/424/4424342/?rss",
+      "date": "2026-08-03T11:00:00+09:00",
+      "dateLabel": "08/03 11:00",
+      "desc": "（産総研グループ/無料セミナー）センシング技術・次世代パッケージングの社会実装を目指して ～半導体製造センシング・実装技術分野から考える最新動向と未来社会～【８月24日、28日配信】",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
     },
     {
       "title": "Google Earthに追加された「架空の衛星画像を生成するAI機能」がわずか1日で撤回、偽の災害・軍事画像を作成可能だったため",
@@ -159,50 +225,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "自作PCトーク『ジサトラKTU』生放送～AMDの最新エントリーGPU、Radeon RX 9050は令和のゲームに耐えられるのか？～",
-      "link": "https://ascii.jp/elem/000/004/423/4423731/?rss",
-      "date": "2026-08-03T07:00:00+09:00",
-      "dateLabel": "08/03 07:00",
-      "desc": "AMDの最新エントリーGPU、Radeon RX 9050は令和のゲームに耐えられるのか？ 木曜20:00から放送スタート！",
-      "img": "https://ascii.jp/img/2025/09/19/4324489/s/4111cde7c86cf0b4.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "AI時代のサイバー攻撃で脆弱性パッチ適用とサプライチェーン攻撃対策を同時支援する新機能",
-      "link": "https://ascii.jp/elem/000/004/423/4423238/?rss",
-      "date": "2026-08-03T07:00:00+09:00",
-      "dateLabel": "08/03 07:00",
-      "desc": "GMO Flatt Securityは7月8日、ソフトウェア開発プラットフォーム「Takumi byGMO」において、脆弱性パッチの適用とサプライチェーン攻撃対策を同時支援する新機能「Takumi Images」の提供を開始した。同社はサイバーセキュリティー関連のスタートアップとして創業後、GMOインターネットグループへ参画した経緯を持つ。",
-      "img": "https://ascii.jp/img/2026/07/29/4507163/s/66e64cb69193206a.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "「思考の連鎖」偽装でLLMを騙す新手法、訓練では防げない構造的欠陥",
-      "link": "https://ascii.jp/elem/000/004/424/4424189/?rss",
-      "date": "2026-08-03T06:59:30+09:00",
-      "dateLabel": "08/03 06:59",
-      "desc": "大規模言語モデル（LLM）は、ユーザー・システム・思考の連鎖といった「発信元」をタグではなく文章のスタイルで識別しているにすぎない。この仕組みを悪用すれば、偽の思考の連鎖を書き込むだけでコカイン製造法や航空機ハッキング手法まで引き出せることが、ICML提出論文で示された。研究チームは、これが訓練でも解消できない根本的な欠陥だと主張する。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "株式会社Ippu Senkin、銚子信用金庫へ銀行研修社ナレッジ搭載のLocal-Chat AIを提供開始",
-      "link": "https://ascii.jp/elem/000/004/424/4424204/?rss",
-      "date": "2026-08-03T06:50:00+09:00",
-      "dateLabel": "08/03 06:50",
-      "desc": "株式会社Ippu Senkin、銚子信用金庫へ銀行研修社ナレッジ搭載のLocal-Chat AIを提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -250,17 +272,6 @@
       "score": 34
     },
     {
-      "title": "Claudeが評価環境から実在企業に不正アクセス――Anthropic、3件のインシデントを公表",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000318/",
-      "date": "2026-07-31T09:30:18+09:00",
-      "dateLabel": "07/31 09:30",
-      "desc": "Anthropicは、サイバーセキュリティ評価中にAIモデル「Claude」が設定ミスでオープンになっていた経路から外部のインターネットに接続し、実在する3組織の本番インフラに誤って不正アクセスしていたと発表した。評価環境を演習と誤認したことが原因で、全評価を停止し外部ベンダーとの監視強化や対策を進める。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 28
-    },
-    {
       "title": "Google Cloud、AIが自律的にコードの脆弱性検出からサンドボックス内でのリスク検証、修正までを自動実行。「CodeMender」プレビュー公開",
       "link": "https://www.publickey1.jp/blog/26/google_cloudaicodemender.html",
       "date": "2026-07-29T00:54:06+09:00",
@@ -270,17 +281,6 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 28
-    },
-    {
-      "title": "“Fable級が無料”は本当か AI市場を震撼させた「Kimi K3」を試した結果",
-      "link": "https://ascii.jp/elem/000/004/424/4424187/?rss",
-      "date": "2026-08-03T08:00:00+09:00",
-      "dateLabel": "08/03 08:00",
-      "desc": "話題のオープンモデル「Kimi K3」をゲーム開発で検証。低価格で高い実装力を示す一方、生成速度やゲーム全体の体験設計には課題が残るという評価になりました。",
-      "img": "https://ascii.jp/img/2026/08/03/4508521/s/3549025e70b7a281.png",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 26
     }
   ]
 }
