@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-03T08:50:08.865971+09:00",
-  "generatedLabel": "2026/08/03 08:50",
+  "generatedAt": "2026-08-03T10:51:13.821276+09:00",
+  "generatedLabel": "2026/08/03 10:51",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 54,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 9
     },
     {
       "source": "PC Watch",
@@ -71,7 +71,18 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "規制/安全",
-      "score": 58
+      "score": 52
+    },
+    {
+      "title": "異常検知からロボット走行、車両制御まで —— 現場を遠隔化・自動化するSORACOM活用のIoTソリューション",
+      "link": "https://ascii.jp/elem/000/004/423/4423240/?rss",
+      "date": "2026-08-03T09:00:00+09:00",
+      "dateLabel": "08/03 09:00",
+      "desc": "ソラコムが開催した「SORACOM Discovery 2026」の展示ブースでは、パートナー企業による多様なIoTソリューションが一堂に会した。本記事ではその中から、ソラコムの通信基盤を組み込んだ4つのIoTソリューションを紹介する。",
+      "img": "https://ascii.jp/img/2026/07/30/4507576/s/898d8f749cdb5324.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
     },
     {
       "title": "星評価やランキングに頼らない。AIとデジタルおひねりでつなぐ外食体験",
@@ -96,28 +107,6 @@
       "score": 42
     },
     {
-      "title": "Google、パーソナルAI「Gemini Spark」を日本でも利用可能に Chrome統合は米国から",
-      "link": "https://www.itmedia.co.jp/news/article/2608/02/2000000347/",
-      "date": "2026-08-02T10:12:35+09:00",
-      "dateLabel": "08/02 10:12",
-      "desc": "Googleは、パーソナルAIエージェント「Gemini Spark」の提供対象を日本を含む160カ国以上に拡大した。PC停止時やスマホのロック時もGoogleのクラウド基盤上で動作し、トリガーに応じてタスクを処理する。さらに、ログイン情報や保存されたパスワードを活用してWeb上の各種手続きを代行するChrome統合機能も発表された。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "Microsoft製の新しいWindows用日本語入力「Copilot Keyboard」を使う",
-      "link": "https://ascii.jp/elem/000/004/424/4424157/?rss",
-      "date": "2026-08-02T10:00:00+09:00",
-      "dateLabel": "08/02 10:00",
-      "desc": "「Copilot Keyboard」は、Microsoftがリリースした新しいIMEである。MS-IMEをベースに（辞書を共有する）、Copilotとの親和性を高め、昔懐かしいイルカなどのキャラクターを表示できるという、日本語入力とは無関係の機能も話題となっている。",
-      "img": "https://ascii.jp/img/2026/08/02/4508347/s/79a1813abb001900.png",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "Thinking Machines、軽量モデル「Inkling-Small」正式公開 サイズ4分の1で「Inkling」に匹敵する性能",
       "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000326/",
       "date": "2026-07-31T11:16:53+09:00",
@@ -138,6 +127,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 40
+    },
+    {
+      "title": "Google Earthに追加された「架空の衛星画像を生成するAI機能」がわずか1日で撤回、偽の災害・軍事画像を作成可能だったため",
+      "link": "https://gigazine.net/news/20260803-google-earth-nano-banana-2-removed/",
+      "date": "2026-08-03T10:39:00+09:00",
+      "dateLabel": "08/03 10:39",
+      "desc": "Googleは画像生成AIモデル「Nano Banana 2」を使ってGoogle Earth上の風景を加工できる画像生成機能を公開しましたが、偽の災害現場や軍事施設などを容易に作成できることが問題視され、提供開始からわずか1日で機能を撤回しました。Googleは、ポリシーに違反するとみられる生成画像のスクリーンショットが共有されていたとして、より強力な安全",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
     },
     {
       "title": "AI分野の「ユニコーン企業」の半数以上は査読付き論文やプレプリントを一度も発表したことがない",
@@ -195,6 +195,28 @@
       "score": 34
     },
     {
+      "title": "株式会社Ippu Senkin、銚子信用金庫へ銀行研修社ナレッジ搭載のLocal-Chat AIを提供開始",
+      "link": "https://ascii.jp/elem/000/004/424/4424204/?rss",
+      "date": "2026-08-03T06:50:00+09:00",
+      "dateLabel": "08/03 06:50",
+      "desc": "株式会社Ippu Senkin、銚子信用金庫へ銀行研修社ナレッジ搭載のLocal-Chat AIを提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "Google、パーソナルAI「Gemini Spark」を日本でも利用可能に Chrome統合は米国から",
+      "link": "https://www.itmedia.co.jp/news/article/2608/02/2000000347/",
+      "date": "2026-08-02T10:12:35+09:00",
+      "dateLabel": "08/02 10:12",
+      "desc": "Googleは、パーソナルAIエージェント「Gemini Spark」の提供対象を日本を含む160カ国以上に拡大した。PC停止時やスマホのロック時もGoogleのクラウド基盤上で動作し、トリガーに応じてタスクを処理する。さらに、ログイン情報や保存されたパスワードを活用してWeb上の各種手続きを代行するChrome統合機能も発表された。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
       "title": "OpenAI、アクティブユーザー10億人超に 導入企業は200万社超",
       "link": "https://www.itmedia.co.jp/news/article/2608/02/2000000346/",
       "date": "2026-08-02T07:21:26+09:00",
@@ -236,7 +258,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
+      "score": 28
     },
     {
       "title": "Google Cloud、AIが自律的にコードの脆弱性検出からサンドボックス内でのリスク検証、修正までを自動実行。「CodeMender」プレビュー公開",
@@ -258,28 +280,6 @@
       "img": "https://ascii.jp/img/2026/08/03/4508521/s/3549025e70b7a281.png",
       "src": "ASCII.jp",
       "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "情シス人材不足でも「採用予定なし」中小企業の意見／“従業員発のSNS炎上”6割の企業が懸念／「SNS疲れ」利用を減らす効果的方法、ほか",
-      "link": "https://ascii.jp/elem/000/004/424/4424174/?rss",
-      "date": "2026-08-03T08:00:00+09:00",
-      "dateLabel": "08/03 08:00",
-      "desc": "今回（2026年7月25日～7月31日）は、日本の開発者にも浸透が進むクラウドネイティブ技術の現状、情報システム部門の人材不足でも新規採用予定を持たない中小企業の戦略、従業員によるSNS炎上と企業側の対策状況、日本企業におけるAIやテレワークの導入率、7割以上が感じている「SNS疲れ」のデータを紹介します。",
-      "img": "https://ascii.jp/img/2026/08/02/4508389/s/cf9ece4efcaa75ce.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "賞金1000万のAIコンテスト、でも「実現性は問わず」 サイバーエージェントのAI推進策",
-      "link": "https://kn.itmedia.co.jp/kn/articles/2608/03/news032.html",
-      "date": "2026-08-03T07:00:00+09:00",
-      "dateLabel": "08/03 07:00",
-      "desc": "生成AIを導入しても、従業員に使われなければ成果にはつながらない。サイバーエージェントは、賞金1000万円のAIコンテストを開催し、あえて「実現性」を問わない仕掛けで社員の意識を変えた。その狙いとは。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
