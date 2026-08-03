@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-04T05:54:42.110883+09:00",
-  "generatedLabel": "2026/08/04 05:54",
+  "generatedAt": "2026-08-04T06:58:19.015262+09:00",
+  "generatedLabel": "2026/08/04 06:58",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -140,17 +140,6 @@
       "score": 42
     },
     {
-      "title": "OpenAI、次期主力モデル「Astra」の存在を明らかに――未解決の数学問題10件を「解決」と発表",
-      "link": "https://www.itmedia.co.jp/news/article/2608/03/2000000348/",
-      "date": "2026-08-03T06:56:14+09:00",
-      "dateLabel": "08/03 06:56",
-      "desc": "OpenAIは、次期主力モデル「Astra」の社内版により、数学や理論計算機科学の未解決問題10件で新たな結果を得たと発表した。「Astra」の名称公表は初とみられる。計算コストは「Sol」換算で約2000ドルに抑えられ、証明支援系「Lean」による形式証明もGitHubで公開。高度な数学研究への応用可能性を示した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "アトラシアン、JiraがAIによる要件定義の自動作成、コンテキストを保持しつつタスクをClaudeやCopilotなどのAIエージェントへアサインなど新機能",
       "link": "https://www.publickey1.jp/blog/26/jiraaiclaudecopilotai.html",
       "date": "2026-07-23T00:35:19+09:00",
@@ -160,6 +149,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 40
+    },
+    {
+      "title": "まるで「ずる賢い学生」、 なぜAIエージェントは 不正や嘘に走るのか",
+      "link": "https://ascii.jp/elem/000/004/424/4424506/?rss",
+      "date": "2026-08-04T06:25:35+09:00",
+      "dateLabel": "08/04 06:25",
+      "desc": "好成績への意欲は強いが、道徳心はそれほど強くない——ある研究者は、不正を働くAIをそんな学生にたとえる。7月にはオープンAIのモデルが、テストの答えを探して他社のWebサイトに不正侵入した。目標に忠実であろうとするほど、正攻法で行き詰まったモデルは近道に走る。なぜAIは不正と嘘に走るのか、その仕組みを説明しよう。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "eムック 『AIの10大潮流［2026年版］』特集号",
@@ -239,6 +239,17 @@
       "score": 34
     },
     {
+      "title": "OpenAI、次期主力モデル「Astra」の存在を明らかに――未解決の数学問題10件を「解決」と発表",
+      "link": "https://www.itmedia.co.jp/news/article/2608/03/2000000348/",
+      "date": "2026-08-03T06:56:14+09:00",
+      "dateLabel": "08/03 06:56",
+      "desc": "OpenAIは、次期主力モデル「Astra」の社内版により、数学や理論計算機科学の未解決問題10件で新たな結果を得たと発表した。「Astra」の名称公表は初とみられる。計算コストは「Sol」換算で約2000ドルに抑えられ、証明支援系「Lean」による形式証明もGitHubで公開。高度な数学研究への応用可能性を示した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "Google、パーソナルAI「Gemini Spark」を日本でも利用可能に Chrome統合は米国から",
       "link": "https://www.itmedia.co.jp/news/article/2608/02/2000000347/",
       "date": "2026-08-02T10:12:35+09:00",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
-      "score": 28
-    },
-    {
-      "title": "研究者10万人にOpenAI「最上位モデル」無料提供へ 日本でも東大、京大など15大学が対象",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000333/",
-      "date": "2026-07-31T15:57:22+09:00",
-      "dateLabel": "07/31 15:57",
-      "desc": "OpenAIが学術研究者10万人に「ChatGPT」の最上位モデルを無料提供するプログラムを発表した。今夏に1万人から提供を始め、2027年までに10万人規模へ拡大する。日本でも東京大学、京都大学、東京科学大学、早稲田大学、慶應義塾大学など15の大学が対象機関となっている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
       "score": 28
     }
   ]
