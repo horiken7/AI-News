@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-04T07:57:49.136717+09:00",
-  "generatedLabel": "2026/08/04 07:57",
+  "generatedAt": "2026-08-04T09:05:25.678465+09:00",
+  "generatedLabel": "2026/08/04 09:05",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 60,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 18
+      "items": 19
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 10
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -72,6 +72,28 @@
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
       "score": 50
+    },
+    {
+      "title": "PC操作を録画→「Copilot」で作業を代理可能に Microsoftがアプリを無料公開 主にmacOS向け、Windows対応も",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/04/2000000361/",
+      "date": "2026-08-04T08:00:00+09:00",
+      "dateLabel": "08/04 08:00",
+      "desc": "Microsoftが、PCの画面操作を録画すると、その作業をAIが再現できるよう支援するデスクトップアプリ「Skill Recorder」を公開している。AIエージェントサービス「Microsoft Copilot Cowork」「Microsoft Scout」「Copilot Studio」向けのスキルを構築できる。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "「Gemini Enterprise」に大規模導入の波 ― SOMPO・NTTデータ・Skyが描く“エージェント企業”への進化",
+      "link": "https://ascii.jp/elem/000/004/424/4424449/?rss",
+      "date": "2026-08-04T08:00:00+09:00",
+      "dateLabel": "08/04 08:00",
+      "desc": "AIの力でともに創ろう、ワクワクする日本の未来を――。 2026年7月30日～31日、Google Cloud Japanが開催した「Google Cloud Next Tokyo 26」の初日のキーノートは、代表の三上智子氏によるビジョンの提示から始まった。",
+      "img": "https://ascii.jp/img/2026/08/03/4508805/s/76bcac8c0f77aa83.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
     },
     {
       "title": "30万円以内でWQHDゲーミング！ Ryzen 7 7800X3Dと16GB GPUを積んだ黒×金の実力派PC",
@@ -151,6 +173,17 @@
       "score": 40
     },
     {
+      "title": "経営判断にAIの活用はもはや必須 日々の蓄積データから的確なデータを迅速に引き出すMCPの活用法",
+      "link": "https://ascii.jp/elem/000/004/413/4413773/?rss",
+      "date": "2026-08-04T09:00:00+09:00",
+      "dateLabel": "08/04 09:00",
+      "desc": "サイボウズは、kintoneユーザーの事例イベントである「kintone hive 2026 sapporo」を開催。ユーザー事例の発表に続いて、札幌会場の限定企画「kintone AI活用セッション」で登壇したた三晃化学の渡辺庸介さんが披露したのは、kintoneで蓄積したデータをAIを使って活用する事例だ。",
+      "img": "https://ascii.jp/img/2026/06/26/4489713/s/0d13ecc85d29e6cf.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "まるで「ずる賢い学生」、 なぜAIエージェントは 不正や嘘に走るのか",
       "link": "https://ascii.jp/elem/000/004/424/4424506/?rss",
       "date": "2026-08-04T06:25:35+09:00",
@@ -217,17 +250,6 @@
       "score": 34
     },
     {
-      "title": "AI分野の「ユニコーン企業」の半数以上は査読付き論文やプレプリントを一度も発表したことがない",
-      "link": "https://gigazine.net/news/20260803-ai-top-startups-barely-publishing-research/",
-      "date": "2026-08-03T08:00:00+09:00",
-      "dateLabel": "08/03 08:00",
-      "desc": "AIは科学とビジネスの両面で成長著しい分野であり、評価額が10億ドル(約160億円)を越えるユニコーン企業も多数生まれています。ところが、AI分野のユニコーン企業の半数以上は、査読付き論文やプレプリントの形式で研究結果を公開していないと指摘されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "OpenAI、次期主力モデル「Astra」の存在を明らかに――未解決の数学問題10件を「解決」と発表",
       "link": "https://www.itmedia.co.jp/news/article/2608/03/2000000348/",
       "date": "2026-08-03T06:56:14+09:00",
@@ -259,28 +281,6 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
-    },
-    {
-      "title": "Google Cloud、AIが自律的にコードの脆弱性検出からサンドボックス内でのリスク検証、修正までを自動実行。「CodeMender」プレビュー公開",
-      "link": "https://www.publickey1.jp/blog/26/google_cloudaicodemender.html",
-      "date": "2026-07-29T00:54:06+09:00",
-      "dateLabel": "07/29 00:54",
-      "desc": "Google Cloudは、コードの脆弱性の検出、リスクの検証と報告、修正までを自律的に実行するAIエージェント「CodeMender」のプレビュー公開を発表しました。 複雑な脆弱性まで発見し、サンドボックス内でリスク検証 CodeMend...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 28
-    },
-    {
-      "title": "AI活用を「個人の効率化」で終わらせるな セールスフォース流「4つの組織改革術」",
-      "link": "https://www.itmedia.co.jp/business/articles/2608/04/news027.html",
-      "date": "2026-08-04T07:00:00+09:00",
-      "dateLabel": "08/04 07:00",
-      "desc": "生成AIを全社活用できている企業が11％にとどまる中、セールスフォース・ジャパンの社内では300ものAIエージェントが自律稼働している。同社はなぜ「個人の業務効率化」で止めず、全社変革（AX）へ導けるのか。管理不能な「野良エージェント」を防ぐ線引きや、組織と人員を再構築する「4R」のフレームワーク、「人とAIの両方を管理する」マネジメント像まで、変革の極意を",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
     }
   ]
 }
