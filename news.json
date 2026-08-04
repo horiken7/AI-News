@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-04T22:47:42.595429+09:00",
-  "generatedLabel": "2026/08/04 22:47",
+  "generatedAt": "2026-08-05T01:06:56.173792+09:00",
+  "generatedLabel": "2026/08/05 01:06",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 51,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -62,6 +62,17 @@
     }
   ],
   "articles": [
+    {
+      "title": "1Password、ダッシュボードから組織のAI支出状況を表示する新機能。ClaudeやCursor、ChatGPTなど複数AIにI対応",
+      "link": "https://www.publickey1.jp/blog/26/1passwordaiclaudecursorchatgptaii.html",
+      "date": "2026-08-05T00:38:32+09:00",
+      "dateLabel": "08/05 00:38",
+      "desc": "1Passwordは、単一のダッシュボード画面からAnthropicのCalude、OpenAIのChatGPT、AnysphereのCursorなど複数のAIサービスに対する支出状況をリアルタイムに表示、管理できる新機能を発表しました。 ...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "LLM/モデル",
+      "score": 66
+    },
     {
       "title": "中国・Alibabaが2.4兆パラメーターのAI「Qwen3.8-Max」を発表、Claude Fable 5に匹敵する性能で研究論文の改良や16日間の自律開発が可能",
       "link": "https://gigazine.net/news/20260804-alibaba-qwen-3-8-max/",
@@ -107,15 +118,26 @@
       "score": 42
     },
     {
-      "title": "アトラシアン、JiraがAIによる要件定義の自動作成、コンテキストを保持しつつタスクをClaudeやCopilotなどのAIエージェントへアサインなど新機能",
-      "link": "https://www.publickey1.jp/blog/26/jiraaiclaudecopilotai.html",
-      "date": "2026-07-23T00:35:19+09:00",
-      "dateLabel": "07/23 00:35",
-      "desc": "アトラシアンは、プロジェクト管理ツールとして知られるJiraに生成AI機能を組み込み、AIによる要件定義の自動作成、作業すべきタスクの洗い出し、そして各タスクをClaude CodeやGitHub Copilotなどへ割り当てる新機能を発表...",
+      "title": "アプリが遅い原因をAIがトレースログから分析してくれる「Windows Performance Analyzer MCP」（WPA MCP）、マイクロソフトがプレビュー公開",
+      "link": "https://www.publickey1.jp/blog/26/aiwindows_performance_analyzer_mcpwpa_mcp.html",
+      "date": "2026-08-05T00:36:16+09:00",
+      "dateLabel": "08/05 00:36",
+      "desc": "マイクロソフトは、Windowsアプリケーションが遅くなる原因の調査分析をAIに依頼できるツール「Windows Performance Analyzer MCP」（WPA MCP）のアーリープレビューを発表しました。 GitHub Cop...",
       "img": "",
       "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 40
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "DJIがオズポケでも使えるAIノイキャン搭載ワイヤレスマイク「Mic Mini 2S」発表",
+      "link": "https://ascii.jp/elem/000/004/423/4423622/?rss",
+      "date": "2026-08-05T00:01:00+09:00",
+      "dateLabel": "08/05 00:01",
+      "desc": "32-bitフロート内部録音と進化した2段階のAIノイズキャンセリングに対応し、確実な収音を行えるよう設計されています",
+      "img": "https://ascii.jp/img/2026/07/30/4507543/s/46c9b3c92708c966.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 34
     },
     {
       "title": "13万円台のゲーミングPC発見！ 144Hz液晶・Ryzen 7・RTX 3050搭載「Lenovo LOQ」がタイムセール中",
@@ -182,17 +204,6 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
-    },
-    {
-      "title": "Google Cloud、AIが自律的にコードの脆弱性検出からサンドボックス内でのリスク検証、修正までを自動実行。「CodeMender」プレビュー公開",
-      "link": "https://www.publickey1.jp/blog/26/google_cloudaicodemender.html",
-      "date": "2026-07-29T00:54:06+09:00",
-      "dateLabel": "07/29 00:54",
-      "desc": "Google Cloudは、コードの脆弱性の検出、リスクの検証と報告、修正までを自律的に実行するAIエージェント「CodeMender」のプレビュー公開を発表しました。 複雑な脆弱性まで発見し、サンドボックス内でリスク検証 CodeMend...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 28
     },
     {
       "title": "360°回転する2.8K OLED搭載AI PC「OmniBook X Flip」が17万円台",
@@ -268,17 +279,6 @@
       "desc": "融資の審査にAIを使う動きがある。資金を調達する企業にとっての「審査が遅い」などの課題を解決できのか。逆に、借りる側に変化はあるのか。専修大学の尾木研三教授に聞いた。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "パートナーセールス業務を自動処理するAIツール",
-      "link": "https://ascii.jp/elem/000/004/424/4424378/?rss",
-      "date": "2026-08-04T07:00:00+09:00",
-      "dateLabel": "08/04 07:00",
-      "desc": "株式会社パートナープロップは7月23日、パートナーセールス領域に特化したAIツール「aiboo（アイボー）」の提供を開始した。自社が提供するPRM（Partner Relationship Management：パートナー企業管理システム）の知見を基に、パートナー支援実務の一部をAIで自律処理するプロダクトとして本サービスを展開する。",
-      "img": "https://ascii.jp/img/2026/08/03/4508730/s/61c58ed54027679a.jpg",
-      "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     }
