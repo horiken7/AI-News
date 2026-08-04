@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-04T20:55:36.378936+09:00",
-  "generatedLabel": "2026/08/04 20:55",
+  "generatedAt": "2026-08-04T22:47:42.595429+09:00",
+  "generatedLabel": "2026/08/04 22:47",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 51,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 9
     },
     {
       "source": "CNET Japan",
@@ -116,6 +116,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 40
+    },
+    {
+      "title": "13万円台のゲーミングPC発見！ 144Hz液晶・Ryzen 7・RTX 3050搭載「Lenovo LOQ」がタイムセール中",
+      "link": "https://ascii.jp/elem/000/004/424/4424630/?rss",
+      "date": "2026-08-04T21:00:00+09:00",
+      "dateLabel": "08/04 21:00",
+      "desc": "LenovoのゲーミングノートPC「LOQ 15ARP10E（83S000FSJP）」がAmazonタイムセール対象。ただいま135,800円で販売中。Ryzen 7 7735HSやGeForce RTX 3050 Laptop GPU、144Hz対応の15.6型フルHD IPS液晶を搭載する。",
+      "img": "https://ascii.jp/img/2026/08/04/4509018/s/2667d818a1f7d2bf.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
     },
     {
       "title": "「AIに指輪物語の3D世界を作らせる」というベンチマークテストが提案される",
@@ -269,17 +280,6 @@
       "img": "https://ascii.jp/img/2026/08/03/4508730/s/61c58ed54027679a.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "スクエニ、ゲームの品質テストをGeminiで自動化 AIが画面を見ながらコントローラーを操作、検証作業を自走",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000322/",
-      "date": "2026-08-03T20:45:49+09:00",
-      "dateLabel": "08/03 20:45",
-      "desc": "スクウェア・エニックスが、ゲームのQAテストを「Gemini」で自動化する取り組みを「Google Cloud Next Tokyo '26」基調講演で披露。AIが画面を見ながらコントローラーを操作し、検証作業を自ら進める。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
