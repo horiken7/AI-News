@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-05T07:03:19.758870+09:00",
-  "generatedLabel": "2026/08/05 07:03",
+  "generatedAt": "2026-08-05T08:54:46.628460+09:00",
+  "generatedLabel": "2026/08/05 08:54",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 51,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,7 +13,7 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 19
+      "items": 18
     },
     {
       "source": "ASCII.jp",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 9
     },
     {
       "source": "CNET Japan",
@@ -118,17 +118,6 @@
       "score": 42
     },
     {
-      "title": "PC操作を録画→「Copilot」で作業を代理可能に Microsoftがアプリを無料公開 主にmacOS向け、Windows対応も",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/04/2000000361/",
-      "date": "2026-08-04T08:00:00+09:00",
-      "dateLabel": "08/04 08:00",
-      "desc": "Microsoftが、PCの画面操作を録画すると、その作業をAIが再現できるよう支援するデスクトップアプリ「Skill Recorder」を公開している。AIエージェントサービス「Microsoft Copilot Cowork」「Microsoft Scout」「Copilot Studio」向けのスキルを構築できる。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "アプリが遅い原因をAIがトレースログから分析してくれる「Windows Performance Analyzer MCP」（WPA MCP）、マイクロソフトがプレビュー公開",
       "link": "https://www.publickey1.jp/blog/26/aiwindows_performance_analyzer_mcpwpa_mcp.html",
       "date": "2026-08-05T00:36:16+09:00",
@@ -184,6 +173,17 @@
       "score": 34
     },
     {
+      "title": "PC操作を録画→「Copilot」で作業を代理可能に Microsoftがアプリを無料公開 主にmacOS向け、Windows対応も",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/04/2000000361/",
+      "date": "2026-08-04T08:00:00+09:00",
+      "dateLabel": "08/04 08:00",
+      "desc": "Microsoftが、PCの画面操作を録画すると、その作業をAIが再現できるよう支援するデスクトップアプリ「Skill Recorder」を公開している。AIエージェントサービス「Microsoft Copilot Cowork」「Microsoft Scout」「Copilot Studio」向けのスキルを構築できる。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
       "title": "「Qwen3.8-Max」登場、オープン化は「来週」 一部「Fable 5」「GPT-5.6 Sol」超えの性能うたう",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/03/2000000353/",
       "date": "2026-08-03T12:26:15+09:00",
@@ -193,6 +193,28 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
+    },
+    {
+      "title": "Gemini“ヘビーユーザー”が1年で10倍に 「平均年齢高い、IT本業じゃない」首都高が実践したAI活用推進ノウハウ",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/05/2000000383/",
+      "date": "2026-08-05T08:00:00+09:00",
+      "dateLabel": "08/05 08:00",
+      "desc": "月100回以上Geminiを使う首都高速道路の従業員が、1年で22人から224人に急増した。転機は対面・終日のワークショップと「誰一人取り残さない」全社推進、そして「Gemini Notebook」の存在だった。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "M365 Copilotのための「Teams活用術3選」 北大DX業務推進室が解説",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/05/2000000379/",
+      "date": "2026-08-05T07:55:00+09:00",
+      "dateLabel": "08/05 07:55",
+      "desc": "北海道大学のDX業務推進室が、米MicrosoftのAIサービス「Microsoft 365 Copilot」を活用しやすくするための「Microsoft Teams」の使い方を紹介している。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 26
     },
     {
       "title": "印メガベンチャー「Paytm」も惹きつけるルクセンブルクが仕掛ける産業育成エコシステム",
@@ -258,28 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "AI予算の7割を食う「ITインフラ」、中でも予算超過しやすいのは？ 医療機関調査",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/04/news040.html",
-      "date": "2026-08-04T13:00:00+09:00",
-      "dateLabel": "08/04 13:00",
-      "desc": "Wasabi Technologiesは、医療機関におけるAI活用に関する調査結果を発表した。AI予算の多くを占めるITインフラでは、どのような課題が生じているのか。調査結果から背景を探る。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "EU、AIの透明性義務の適用を開始 生成コンテンツにラベルとマーク義務、違反に最大1500万ユーロ",
-      "link": "https://www.itmedia.co.jp/news/article/2608/04/2000000366/",
-      "date": "2026-08-04T08:30:13+09:00",
-      "dateLabel": "08/04 08:30",
-      "desc": "EUの欧州委員会はAI規制法「EU AI Act」の第50条に基づく透明性ルールの適用を開始した。生成AIやディープフェイク等を扱う事業者に対し、AIとの対話の明示やコンテンツへのラベル・機械可読マークの付与を義務付ける。違反企業には最大1500万ユーロまたは売上高の3％の制裁金が科される可能性がある。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
       "score": 26
     }
   ]
