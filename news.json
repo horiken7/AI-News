@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-04T15:24:25.169540+09:00",
-  "generatedLabel": "2026/08/04 15:24",
+  "generatedAt": "2026-08-04T18:33:41.700092+09:00",
+  "generatedLabel": "2026/08/04 18:33",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 50,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 9
+      "items": 10
     },
     {
       "source": "CNET Japan",
@@ -107,17 +107,6 @@
       "score": 42
     },
     {
-      "title": "「Kimi K3」を開発した中国のMoonshot AIはAlibaba経由で約2万個のNVIDIA製チップを使用したとの報道",
-      "link": "https://gigazine.net/news/20260803-moonshot-kimi-20000-nvidia-chip-alibaba/",
-      "date": "2026-08-03T15:00:00+09:00",
-      "dateLabel": "08/03 15:00",
-      "desc": "中国のAI開発企業であるMoonshot AIは2026年7月、一部のベンチマークテストでGPT-5.6 SolやClaude Fable 5を超えるスコアを記録したAIモデル「Kimi K3」を発表しました。そんなMoonshot AIは、同じく中国企業のAlibaba経由で約2万個ものNVIDIA製チップを使用したと経済紙のBloombergが報じました",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
       "title": "アトラシアン、JiraがAIによる要件定義の自動作成、コンテキストを保持しつつタスクをClaudeやCopilotなどのAIエージェントへアサインなど新機能",
       "link": "https://www.publickey1.jp/blog/26/jiraaiclaudecopilotai.html",
       "date": "2026-07-23T00:35:19+09:00",
@@ -129,25 +118,69 @@
       "score": 40
     },
     {
-      "title": "「iPhone Air」256GB、Amazonで3万8000円安い！ しかもカラーが選べる",
-      "link": "https://ascii.jp/elem/000/004/424/4424734/?rss",
-      "date": "2026-08-04T15:00:00+09:00",
-      "dateLabel": "08/04 15:00",
-      "desc": "Amazon.co.jpにて、「iPhone Air」がタイムセール中！とにかく薄い・軽量・高性能で画面の大きさも好評な一品です。",
-      "img": "https://ascii.jp/img/2026/08/04/4509144/s/552e818ae145adf0.jpg",
+      "title": "超激安Copilot+ PCは、本当に“大丈夫”なのか？ これ、他社なら「20万円級のスペック」だが……CoreBook Air",
+      "link": "https://ascii.jp/elem/000/004/424/4424065/?rss",
+      "date": "2026-08-04T18:00:00+09:00",
+      "dateLabel": "08/04 18:00",
+      "desc": "物価高のこのご時世、コスパは何よりも重要です。そして、なんと13万円切りで手に入る、しかもノートPCのCopilot+ PCが登場。注目のモバイルノートPCを検証しました！",
+      "img": "https://ascii.jp/img/2026/07/31/4508038/s/1391dd44d7656e49.png",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "「え、めっっちゃおもろいやん」歌手の宮本佳林さん、バイブコーディングとAWSを熱く語る",
+      "link": "https://ascii.jp/elem/000/004/424/4424810/?rss",
+      "date": "2026-08-04T17:30:00+09:00",
+      "dateLabel": "08/04 17:30",
+      "desc": "ハロープロジェクト（ハロプロ）出身でミュージシャンの宮本佳林氏は8月3日、生成AIを活用したソフトウェア開発手法「バイブコーディング」を習得するまでの歩みをブログで公開。SNSを中心に話題を集めている。",
+      "img": "https://ascii.jp/img/2026/08/04/4509220/s/396961c8ab5fb3d9.png",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "日テレAI-HRが、「日テレHR分身AI」を提供開始",
+      "link": "https://ascii.jp/elem/000/004/424/4424844/?rss",
+      "date": "2026-08-04T16:30:00+09:00",
+      "dateLabel": "08/04 16:30",
+      "desc": "日テレAI-HRが、「日テレHR分身AI」を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
     },
     {
-      "title": "ゼロデイ攻撃が高速化、AI時代に企業はどう備える？ Nデイ攻撃まで見据えた現実的な対策とは",
-      "link": "https://ascii.jp/elem/000/004/423/4423921/?rss",
-      "date": "2026-08-04T14:00:00+09:00",
-      "dateLabel": "08/04 14:00",
-      "desc": "攻撃者の組織化やAI活用により、ゼロデイ攻撃はさらに高速化・巧妙化が進み、修正パッチ公開後も狙われるNデイ攻撃への対応も急務に。多層防御と脆弱性管理で取り組む現実的な備えを解説します。",
-      "img": "https://ascii.jp/img/2026/07/31/4507819/s/f5ac3b805b71215d.jpg",
+      "title": "スマートビデオ監視のニーズを網羅 Synologyが「クラウド監視」と「大規模AI監視」を拡充",
+      "link": "https://ascii.jp/elem/000/004/424/4424670/?rss",
+      "date": "2026-08-04T16:30:00+09:00",
+      "dateLabel": "08/04 16:30",
+      "desc": "Synology Japanは、ビデオ監視向けのソリューションを拡充。多拠点への迅速な展開が可能なクラウド型ビデオ監視サービス（VSaaS）「Surveillance365」と大規模なAI監視とデータ主権を両立するハイエンドモデル「DVA7400」を発表した。",
+      "img": "https://ascii.jp/img/2026/08/04/4509084/s/190c44cd3cbf33df.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "JAPAN AI、大塚商会と資本業務提携 ～全国の中堅・中小企業へAI導入を加速～",
+      "link": "https://ascii.jp/elem/000/004/424/4424845/?rss",
+      "date": "2026-08-04T16:00:00+09:00",
+      "dateLabel": "08/04 16:00",
+      "desc": "JAPAN AI、大塚商会と資本業務提携 ～全国の中堅・中小企業へAI導入を加速～",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "音声AIはなぜすぐに返事できるのか？OpenAIが「GPT-Live」の仕組みを解説",
+      "link": "https://gigazine.net/news/20260804-openai-gpt-live/",
+      "date": "2026-08-04T15:35:00+09:00",
+      "dateLabel": "08/04 15:35",
+      "desc": "OpenAIが、人間との会話に素早く反応する音声AI「GPT-Live」を支えるリアルタイムシステムを約6カ月で構築した方法を公開しました。利用者とAIが同時に話せる仕組みや、複雑な処理を別のAIに任せながら会話を続ける設計、通信開始までの待ち時間を短縮する技術が解説されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -159,17 +192,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "中国の軍事研究者がOpenAIやAnthropicのAIモデルを抽出して国内の軍事システム開発に利用していたことが判明",
-      "link": "https://gigazine.net/news/20260803-china-ai-distillation/",
-      "date": "2026-08-03T14:45:00+09:00",
-      "dateLabel": "08/03 14:45",
-      "desc": "中国の軍事研究者らが、OpenAIとAnthropicが開発したアメリカの主要なAIモデルの出力を利用して、中国の防衛能力を向上させるための国内AIシステムをトレーニングしていることが中国の学術論文および特許の調査から明らかになりました。アメリカ政府は中国への高度なチップ輸出規制やその他の戦略技術へのアクセスを制限していますが、中国のAI研究者らは「知識蒸留",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
       "score": 34
     },
     {
@@ -195,14 +217,36 @@
       "score": 28
     },
     {
-      "title": "変化を先導するAIとセキュリティの新基準（「情シス Update Day 2026 in 名古屋」イベントレポート）",
-      "link": "https://ascii.jp/elem/000/004/422/4422573/?rss",
-      "date": "2026-08-04T14:00:00+09:00",
-      "dateLabel": "08/04 14:00",
-      "desc": "2026年5月19日、愛知県名古屋市にて「情シス Update Day 2026 in 名古屋 ～変化を先導するAIとセキュリティの新基準～」が開催されました。最新のAI動向やセキュリティ対策に関するセッション、相談ブースなどの様子を写真とともにレポートします。",
-      "img": "https://ascii.jp/img/2026/07/28/4506060/s/8039ab643a2d2ddb.jpg",
+      "title": "AIエージェントの負荷分散は「リクエスト数」だけでは不十分、Googleが注意点を解説",
+      "link": "https://gigazine.net/news/20260804-google-ai-agents-load-balancing/",
+      "date": "2026-08-04T16:40:00+09:00",
+      "dateLabel": "08/04 16:40",
+      "desc": "Googleが2026年8月3日、音声会話などをリアルタイムで処理するAIエージェントを安定して運用するための負荷分散で注意すべき点を解説しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "Rokid、AIグラス日本縦断ツアー「見える日本」第2章を横浜で開催",
+      "link": "https://ascii.jp/elem/000/004/424/4424860/?rss",
+      "date": "2026-08-04T16:31:05+09:00",
+      "dateLabel": "08/04 16:31",
+      "desc": "Rokid、AIグラス日本縦断ツアー「見える日本」第2章を横浜で開催",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "JoyLogistics（京東物流）の日本国内物流拠点におけるフィジカルAIロボットのレンタル活用に向けたPOC実施を決定",
+      "link": "https://ascii.jp/elem/000/004/424/4424861/?rss",
+      "date": "2026-08-04T16:30:00+09:00",
+      "dateLabel": "08/04 16:30",
+      "desc": "JoyLogistics（京東物流）の日本国内物流拠点におけるフィジカルAIロボットのレンタル活用に向けたPOC実施を決定",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
       "score": 26
     },
     {
@@ -213,28 +257,6 @@
       "desc": "Wasabi Technologiesは、医療機関におけるAI活用に関する調査結果を発表した。AI予算の多くを占めるITインフラでは、どのような課題が生じているのか。調査結果から背景を探る。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "ソラコム、東京ヴェルディとパートナー契約 AI・IoTで地域共創を推進",
-      "link": "https://ascii.jp/elem/000/004/424/4424557/?rss",
-      "date": "2026-08-04T12:30:00+09:00",
-      "dateLabel": "08/04 12:30",
-      "desc": "ソラコムは東京ヴェルディおよび東京ヴェルディクラブとコーポレートパートナー契約を締結。2026/27シーズンから公式SNSなどにロゴを掲載するほか、AI・IoT技術を活用し、スポーツや地域社会、教育をつなぐ共創を推進します。",
-      "img": "https://ascii.jp/img/2026/08/04/4509010/s/d17677a471647f92.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "SpiralAI、コーエーテクモゲームスよりライセンスを受けた『RyzaChat:AIライザと創るあなただけのひと夏の夢物語』を8月4日に事前登録開始。フリーシナリオ型のAIチャット形式RPGが登場",
-      "link": "https://ascii.jp/elem/000/004/424/4424741/?rss",
-      "date": "2026-08-04T12:10:46+09:00",
-      "dateLabel": "08/04 12:10",
-      "desc": "SpiralAI、コーエーテクモゲームスよりライセンスを受けた『RyzaChat:AIライザと創るあなただけのひと夏の夢物語』を8月4日に事前登録開始。フリーシナリオ型のAIチャット形式RPGが登場",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
@@ -258,28 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "「融資」現場にAIの足音、資金調達どう変わる？ カネを借りられる企業の条件、専修大教授に聞く",
-      "link": "https://www.itmedia.co.jp/business/articles/2608/04/news005.html",
-      "date": "2026-08-04T07:00:00+09:00",
-      "dateLabel": "08/04 07:00",
-      "desc": "融資の審査にAIを使う動きがある。資金を調達する企業にとっての「審査が遅い」などの課題を解決できのか。逆に、借りる側に変化はあるのか。専修大学の尾木研三教授に聞いた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "AI支援で作られた「コラッツ予想の反証」は無効、Leanのカーネルバグを突いていたことが判明",
-      "link": "https://gigazine.net/news/20260803-collatz-lean-kernel-bug/",
-      "date": "2026-08-03T21:00:00+09:00",
-      "dateLabel": "08/03 21:00",
-      "desc": "AIの支援を受けて作られた「コラッツ予想を反証する証明」が定理証明支援システムのLeanに受理されたものの、実際にはLeanの中核部分に存在した不具合を利用していたことが分かりました。Leanの開発者であるレオナルド・デ・モウラ氏が問題の経緯を公開し、証明は数学的に成立していないと説明しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
       "score": 26
     }
   ]
