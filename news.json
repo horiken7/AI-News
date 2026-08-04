@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-04T12:57:55.424082+09:00",
-  "generatedLabel": "2026/08/04 12:57",
+  "generatedAt": "2026-08-04T15:24:25.169540+09:00",
+  "generatedLabel": "2026/08/04 15:24",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 51,
+  "candidates": 50,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 9
     },
     {
       "source": "CNET Japan",
@@ -74,17 +74,6 @@
       "score": 66
     },
     {
-      "title": "「Kimi K3」を開発した中国のMoonshot AIはAlibaba経由で約2万個のNVIDIA製チップを使用したとの報道",
-      "link": "https://gigazine.net/news/20260803-moonshot-kimi-20000-nvidia-chip-alibaba/",
-      "date": "2026-08-03T15:00:00+09:00",
-      "dateLabel": "08/03 15:00",
-      "desc": "中国のAI開発企業であるMoonshot AIは2026年7月、一部のベンチマークテストでGPT-5.6 SolやClaude Fable 5を超えるスコアを記録したAIモデル「Kimi K3」を発表しました。そんなMoonshot AIは、同じく中国企業のAlibaba経由で約2万個ものNVIDIA製チップを使用したと経済紙のBloombergが報じました",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
       "title": "Cloudflareが大型AIモデルの高速推論サービスを展開するための効率化手法を公開",
       "link": "https://gigazine.net/news/20260804-cloudflare-ai-kimi-glm/",
       "date": "2026-08-04T12:52:00+09:00",
@@ -118,14 +107,14 @@
       "score": 42
     },
     {
-      "title": "中国の軍事研究者がOpenAIやAnthropicのAIモデルを抽出して国内の軍事システム開発に利用していたことが判明",
-      "link": "https://gigazine.net/news/20260803-china-ai-distillation/",
-      "date": "2026-08-03T14:45:00+09:00",
-      "dateLabel": "08/03 14:45",
-      "desc": "中国の軍事研究者らが、OpenAIとAnthropicが開発したアメリカの主要なAIモデルの出力を利用して、中国の防衛能力を向上させるための国内AIシステムをトレーニングしていることが中国の学術論文および特許の調査から明らかになりました。アメリカ政府は中国への高度なチップ輸出規制やその他の戦略技術へのアクセスを制限していますが、中国のAI研究者らは「知識蒸留",
+      "title": "「Kimi K3」を開発した中国のMoonshot AIはAlibaba経由で約2万個のNVIDIA製チップを使用したとの報道",
+      "link": "https://gigazine.net/news/20260803-moonshot-kimi-20000-nvidia-chip-alibaba/",
+      "date": "2026-08-03T15:00:00+09:00",
+      "dateLabel": "08/03 15:00",
+      "desc": "中国のAI開発企業であるMoonshot AIは2026年7月、一部のベンチマークテストでGPT-5.6 SolやClaude Fable 5を超えるスコアを記録したAIモデル「Kimi K3」を発表しました。そんなMoonshot AIは、同じく中国企業のAlibaba経由で約2万個ものNVIDIA製チップを使用したと経済紙のBloombergが報じました",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "規制/安全",
+      "cat": "半導体/GPU",
       "score": 42
     },
     {
@@ -140,14 +129,25 @@
       "score": 40
     },
     {
-      "title": "東大松尾研発パンハウス、生成AI活用の実践知を発信するオウンドメディア『パンハウス インサイト』を開設 ― 導入支援300社以上の現場ノウハウを無料公開",
-      "link": "https://ascii.jp/elem/000/004/424/4424639/?rss",
-      "date": "2026-08-04T11:00:00+09:00",
-      "dateLabel": "08/04 11:00",
-      "desc": "東大松尾研発パンハウス、生成AI活用の実践知を発信するオウンドメディア『パンハウス インサイト』を開設 ― 導入支援300社以上の現場ノウハウを無料公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "title": "「iPhone Air」256GB、Amazonで3万8000円安い！ しかもカラーが選べる",
+      "link": "https://ascii.jp/elem/000/004/424/4424734/?rss",
+      "date": "2026-08-04T15:00:00+09:00",
+      "dateLabel": "08/04 15:00",
+      "desc": "Amazon.co.jpにて、「iPhone Air」がタイムセール中！とにかく薄い・軽量・高性能で画面の大きさも好評な一品です。",
+      "img": "https://ascii.jp/img/2026/08/04/4509144/s/552e818ae145adf0.jpg",
       "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "ゼロデイ攻撃が高速化、AI時代に企業はどう備える？ Nデイ攻撃まで見据えた現実的な対策とは",
+      "link": "https://ascii.jp/elem/000/004/423/4423921/?rss",
+      "date": "2026-08-04T14:00:00+09:00",
+      "dateLabel": "08/04 14:00",
+      "desc": "攻撃者の組織化やAI活用により、ゼロデイ攻撃はさらに高速化・巧妙化が進み、修正パッチ公開後も狙われるNデイ攻撃への対応も急務に。多層防御と脆弱性管理で取り組む現実的な備えを解説します。",
+      "img": "https://ascii.jp/img/2026/07/31/4507819/s/f5ac3b805b71215d.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 34
     },
     {
@@ -162,22 +162,22 @@
       "score": 34
     },
     {
+      "title": "中国の軍事研究者がOpenAIやAnthropicのAIモデルを抽出して国内の軍事システム開発に利用していたことが判明",
+      "link": "https://gigazine.net/news/20260803-china-ai-distillation/",
+      "date": "2026-08-03T14:45:00+09:00",
+      "dateLabel": "08/03 14:45",
+      "desc": "中国の軍事研究者らが、OpenAIとAnthropicが開発したアメリカの主要なAIモデルの出力を利用して、中国の防衛能力を向上させるための国内AIシステムをトレーニングしていることが中国の学術論文および特許の調査から明らかになりました。アメリカ政府は中国への高度なチップ輸出規制やその他の戦略技術へのアクセスを制限していますが、中国のAI研究者らは「知識蒸留",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 34
+    },
+    {
       "title": "「Qwen3.8-Max」登場、オープン化は「来週」 一部「Fable 5」「GPT-5.6 Sol」超えの性能うたう",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/03/2000000353/",
       "date": "2026-08-03T12:26:15+09:00",
       "dateLabel": "08/03 12:26",
       "desc": "中国Alibaba傘下のAlibaba Cloudは8月3日、AIモデル「Qwen3.8-Max」を正式にリリースした。来週にはモデルの重みも公開する予定だ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "OpenAI、次期主力モデル「Astra」の存在を明らかに――未解決の数学問題10件を「解決」と発表",
-      "link": "https://www.itmedia.co.jp/news/article/2608/03/2000000348/",
-      "date": "2026-08-03T06:56:14+09:00",
-      "dateLabel": "08/03 06:56",
-      "desc": "OpenAIは、次期主力モデル「Astra」の社内版により、数学や理論計算機科学の未解決問題10件で新たな結果を得たと発表した。「Astra」の名称公表は初とみられる。計算コストは「Sol」換算で約2000ドルに抑えられ、証明支援系「Lean」による形式証明もGitHubで公開。高度な数学研究への応用可能性を示した。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
@@ -195,6 +195,28 @@
       "score": 28
     },
     {
+      "title": "変化を先導するAIとセキュリティの新基準（「情シス Update Day 2026 in 名古屋」イベントレポート）",
+      "link": "https://ascii.jp/elem/000/004/422/4422573/?rss",
+      "date": "2026-08-04T14:00:00+09:00",
+      "dateLabel": "08/04 14:00",
+      "desc": "2026年5月19日、愛知県名古屋市にて「情シス Update Day 2026 in 名古屋 ～変化を先導するAIとセキュリティの新基準～」が開催されました。最新のAI動向やセキュリティ対策に関するセッション、相談ブースなどの様子を写真とともにレポートします。",
+      "img": "https://ascii.jp/img/2026/07/28/4506060/s/8039ab643a2d2ddb.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "AI予算の7割を食う「ITインフラ」、中でも予算超過しやすいのは？ 医療機関調査",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/04/news040.html",
+      "date": "2026-08-04T13:00:00+09:00",
+      "dateLabel": "08/04 13:00",
+      "desc": "Wasabi Technologiesは、医療機関におけるAI活用に関する調査結果を発表した。AI予算の多くを占めるITインフラでは、どのような課題が生じているのか。調査結果から背景を探る。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "ソラコム、東京ヴェルディとパートナー契約 AI・IoTで地域共創を推進",
       "link": "https://ascii.jp/elem/000/004/424/4424557/?rss",
       "date": "2026-08-04T12:30:00+09:00",
@@ -206,33 +228,11 @@
       "score": 26
     },
     {
-      "title": "AIを活用しているサロンの経営層の3割以上が、自店では現在AIを「文章作成や検索など限定的に利用している」と回答！",
-      "link": "https://ascii.jp/elem/000/004/424/4424643/?rss",
-      "date": "2026-08-04T11:00:00+09:00",
-      "dateLabel": "08/04 11:00",
-      "desc": "AIを活用しているサロンの経営層の3割以上が、自店では現在AIを「文章作成や検索など限定的に利用している」と回答！",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "ソムリエAI「KAORIUM for Sake & Wine」が岩の原葡萄園に導入 AIを活用した新たなワイン選び体験を提供",
-      "link": "https://ascii.jp/elem/000/004/424/4424636/?rss",
-      "date": "2026-08-04T11:00:00+09:00",
-      "dateLabel": "08/04 11:00",
-      "desc": "ソムリエAI「KAORIUM for Sake & Wine」が岩の原葡萄園に導入 AIを活用した新たなワイン選び体験を提供",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "AI部全国大会出場決定！文部科学省・デジタル庁後援「教育AIサミット2026」にて青楓館高等学院の生徒が登壇",
-      "link": "https://ascii.jp/elem/000/004/424/4424647/?rss",
-      "date": "2026-08-04T10:30:00+09:00",
-      "dateLabel": "08/04 10:30",
-      "desc": "AI部全国大会出場決定！文部科学省・デジタル庁後援「教育AIサミット2026」にて青楓館高等学院の生徒が登壇",
+      "title": "SpiralAI、コーエーテクモゲームスよりライセンスを受けた『RyzaChat:AIライザと創るあなただけのひと夏の夢物語』を8月4日に事前登録開始。フリーシナリオ型のAIチャット形式RPGが登場",
+      "link": "https://ascii.jp/elem/000/004/424/4424741/?rss",
+      "date": "2026-08-04T12:10:46+09:00",
+      "dateLabel": "08/04 12:10",
+      "desc": "SpiralAI、コーエーテクモゲームスよりライセンスを受けた『RyzaChat:AIライザと創るあなただけのひと夏の夢物語』を8月4日に事前登録開始。フリーシナリオ型のAIチャット形式RPGが登場",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
