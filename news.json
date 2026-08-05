@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-06T07:07:28.547436+09:00",
-  "generatedLabel": "2026/08/06 07:07",
+  "generatedAt": "2026-08-06T08:48:44.367167+09:00",
+  "generatedLabel": "2026/08/06 08:48",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,7 +13,7 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 19
+      "items": 17
     },
     {
       "source": "ASCII.jp",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -94,6 +94,28 @@
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 42
+    },
+    {
+      "title": "VRAM 4GBのノートPC向けGPUでも8Bモデルをファインチューニングできるオープンソースツール「Soup」",
+      "link": "https://gigazine.net/news/20260806-soup-fine-tune-llm/",
+      "date": "2026-08-06T08:00:00+09:00",
+      "dateLabel": "08/06 08:00",
+      "desc": "一般的なノートPCに搭載されたGPUでも大規模言語モデルをファインチューニングできるオープンソースツール「Soup」が公開されています。開発者による検証ではVRAMが4GBのGPUを使い、80億パラメーターの「Llama 3.1 8B Instruct」をファインチューニングできたとのことです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "Googleのジェフ・ディーン氏、独立してAI実験を大規模自動化する新会社Discovery Loop設立",
+      "link": "https://www.itmedia.co.jp/news/article/2608/06/2000000408/",
+      "date": "2026-08-06T07:49:24+09:00",
+      "dateLabel": "08/06 07:49",
+      "desc": "Googleのチーフサイエンティスト、ジェフ・ディーン氏が退社し、新会社「Discovery Loop」を設立すると発表した。サンジェイ・ゲマワット氏らと共同創業する公益法人で、フロンティアAIモデルと計算基盤を活用して実験や検証などの研究プロセス全体を自動化することを目指す。Googleは初期出資者およびクラウドパートナーとして協力する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "iPhoneで動作しBonsai 27Bと同等性能で13倍高速なAI「Maple-Preview」が登場、ローカルAIがまた1歩前進",
@@ -206,15 +228,26 @@
       "score": 34
     },
     {
-      "title": "PC操作を録画→「Copilot」で作業を代理可能に Microsoftがアプリを無料公開 主にmacOS向け、Windows対応も",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/04/2000000361/",
-      "date": "2026-08-04T08:00:00+09:00",
-      "dateLabel": "08/04 08:00",
-      "desc": "Microsoftが、PCの画面操作を録画すると、その作業をAIが再現できるよう支援するデスクトップアプリ「Skill Recorder」を公開している。AIエージェントサービス「Microsoft Copilot Cowork」「Microsoft Scout」「Copilot Studio」向けのスキルを構築できる。",
+      "title": "オープンソースのAI機能付きオフィス登場 docx・xlsx・pptx・pdfに対応 Genspark",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000398/",
+      "date": "2026-08-06T08:00:00+09:00",
+      "dateLabel": "08/06 08:00",
+      "desc": "AIサービスを開発する米Gensparkは、オープンソースのAI機能付きオフィススイート「GenOffice」を発表した。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "資金調達の「二極化」進む 勝ち抜く企業の条件は？ 早大教授に聞く",
+      "link": "https://www.itmedia.co.jp/business/articles/2608/06/news014.html",
+      "date": "2026-08-06T07:00:00+09:00",
+      "dateLabel": "08/06 07:00",
+      "desc": "「AIによる審査の高度化」と「資金調達の多様化」は必ずしも同じ話ではない──ベンチャーファイナンスの第一人者である早稲田大学ビジネススクール（経営管理研究科）の長谷川博和教授は、こう指摘する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 26
     },
     {
       "title": "Google DeepMindが描く「AGIの次」 超知能に至る4つの経路と6つのボトルネック",
@@ -247,39 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
-      "title": "アップル、カメラ付きAirPodsを年内投入か 早ければ9月に",
-      "link": "https://ascii.jp/elem/000/004/425/4425025/?rss",
-      "date": "2026-08-05T20:00:00+09:00",
-      "dateLabel": "08/05 20:00",
-      "desc": "アップルが開発しているとうわさのカメラを搭載したAirPodsが、早ければ今年9月にも発売される可能性が出てきた。",
-      "img": "https://ascii.jp/img/2026/08/05/4509470/s/ed3bc100cd53953d.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "アメリカ政府が中国製データセンター向け機器の輸入を禁止する方針",
-      "link": "https://gigazine.net/news/20260805-us-ban-chinese-made-dc-module/",
-      "date": "2026-08-05T19:45:00+09:00",
-      "dateLabel": "08/05 19:45",
-      "desc": "アメリカ政府が、AIブームを支えているインフラを安全保障上の脅威から守るため、光トランシーバーなど中国製のデータセンター向け機器の輸入を禁止する方向で検討していることがわかりました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "「準国産」うたう人型ロボ登場 本体価格は500万円から 目指すは「純国産」",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/05/2000000401/",
-      "date": "2026-08-05T18:47:10+09:00",
-      "dateLabel": "08/05 18:47",
-      "desc": "AIサービスなどを開発するZEALSは、「準国産」をうたう人型ロボット「D1」を発表した。本体価格は500万円（税別）から。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI実装",
       "score": 26
     }
   ]
