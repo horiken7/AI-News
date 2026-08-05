@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-05T10:40:30.491133+09:00",
-  "generatedLabel": "2026/08/05 10:40",
+  "generatedAt": "2026-08-05T13:55:25.280708+09:00",
+  "generatedLabel": "2026/08/05 13:55",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 50,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 9
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -74,59 +74,103 @@
       "score": 66
     },
     {
-      "title": "中国・Alibabaが2.4兆パラメーターのAI「Qwen3.8-Max」を発表、Claude Fable 5に匹敵する性能で研究論文の改良や16日間の自律開発が可能",
-      "link": "https://gigazine.net/news/20260804-alibaba-qwen-3-8-max/",
-      "date": "2026-08-04T11:11:00+09:00",
-      "dateLabel": "08/04 11:11",
-      "desc": "中国のAlibaba傘下にあるQwenチームが、2兆4000億パラメーターを備えた新たなフラッグシップAIモデル「Qwen3.8-Max」を発表しました。テキスト、画像、動画を扱えるマルチモーダルモデルで、ソフトウェア開発や文書作成といった実務能力が大幅に強化されており、一部のベンチマークではAnthropicの最上位モデルであるClaude Fable 5",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 66
-    },
-    {
-      "title": "【特別支援DX】統合支援クラウド「すくすく」、計画書作成をAI対話で支援する新機能を提供開始",
-      "link": "https://ascii.jp/elem/000/004/424/4424906/?rss",
-      "date": "2026-08-05T07:30:00+09:00",
-      "dateLabel": "08/05 07:30",
-      "desc": "【特別支援DX】統合支援クラウド「すくすく」、計画書作成をAI対話で支援する新機能を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 42
-    },
-    {
-      "title": "自治体に導入拡大する無償のファンラーニング型AI英語アプリ",
-      "link": "https://ascii.jp/elem/000/004/424/4424380/?rss",
-      "date": "2026-08-05T07:00:00+09:00",
-      "dateLabel": "08/05 07:00",
-      "desc": "KKT合同会社が7月22日、AI英語学習アプリ「マグナとふしぎの少女」を開発・運営するミントフラッグ株式会社へ1億円強の投資を実施したと発表した。同アプリは個人向けユーザー数が45万人いるほか、学校版の導入校数が400校（利用児童・生徒数17万人）以上と、公教育現場での導入事例も着実に増やしている。",
-      "img": "https://ascii.jp/img/2026/08/03/4508734/s/2a74aafead203cb6.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 42
-    },
-    {
-      "title": "Cloudflareが大型AIモデルの高速推論サービスを展開するための効率化手法を公開",
-      "link": "https://gigazine.net/news/20260804-cloudflare-ai-kimi-glm/",
-      "date": "2026-08-04T12:52:00+09:00",
-      "dateLabel": "08/04 12:52",
-      "desc": "CloudflareはオープンなAIモデルを用いた推論サービス「Workers AI」を展開しています。このCloudflare Workers AIで活用しているAIの推論効率を向上する手法を解説する記事がCloudflareの公式ブログに掲載されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 42
-    },
-    {
-      "title": "AIエージェントごとに専用コンピューターを割り当てる「@cloudflare/computer」が登場、ファイル編集やコマンド実行を1つの作業環境で行えるように",
-      "link": "https://gigazine.net/news/20260804-cloudflare-computer/",
-      "date": "2026-08-04T12:40:00+09:00",
-      "dateLabel": "08/04 12:40",
-      "desc": "CloudflareがAIエージェント向けのオープンソースライブラリ「@cloudflare/computer」を発表しました。ファイルシステムやコマンド実行環境をまとめた仮想的な作業用コンピューターをAIエージェントごとに提供する仕組みで、記事作成時点では早期プレビューとして公開されています。 続きを読む...",
+      "title": "スマホで動作するエージェント対応小型AIモデル「LFM2.5-2.6B」が登場、ローカル環境でAIエージェントを実行可能",
+      "link": "https://gigazine.net/news/20260805-lfm2-5-2-6b/",
+      "date": "2026-08-05T12:25:00+09:00",
+      "dateLabel": "08/05 12:25",
+      "desc": "MITからスピンオフしたAI企業・「Liquid AI」が、小型AIモデル「LFM2.5」シリーズのエージェント対応モデルとして「LFM2.5-2.6B」を2026年8月4日にリリースしました。スマートフォンで動作するほど小型でありながら、計画立案・ツール呼び出し・複数ステップのタスク処理といったエージェントワークフローを駆動できる十分な性能を備えているとの",
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 42
+    },
+    {
+      "title": "英AI研究所、評価中のAIが実在の開発者を標的に──偽アカウント使い悪意あるコードの承認迫る",
+      "link": "https://www.itmedia.co.jp/news/article/2608/05/2000000391/",
+      "date": "2026-08-05T11:39:27+09:00",
+      "dateLabel": "08/05 11:39",
+      "desc": "英AI研究所のAISIは、AIエージェントの評価中に、実在の人物や組織に対してAIが継続的かつ不許可の行動を取るインシデントを検知したと発表した。GitHub上で偽アカウントを作成して保守担当者を欺くサプライチェーン攻撃を試みた事例などが含まれる。攻撃はいずれも阻止され実害はなく、リアルタイム監視の導入などの再発防止策を進めるとしている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "NVIDIAが自動運転車用のAI「Alpamayo 2 Super」を無償公開",
+      "link": "https://gigazine.net/news/20260805-nvidia-alpamayo-2-super/",
+      "date": "2026-08-05T11:15:00+09:00",
+      "dateLabel": "08/05 11:15",
+      "desc": "NVIDIAが自動運転車用のAI「Alpamayo 2 Super」を現地時間の2026年8月4日に公開しました。Alpamayo 2 Superは自動車に搭載したカメラをもとに周囲の状況を推測して進路を決定できます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "DuckDuckGoが「カメラなし・AIなし」のアンチスマートグラスを販売",
+      "link": "https://gigazine.net/news/20260805-duckduckgo-sunglasses-paso-robles/",
+      "date": "2026-08-05T11:04:00+09:00",
+      "dateLabel": "08/05 11:04",
+      "desc": "検索エンジンを運営するDuckDuckGoがサングラスメーカーのKnockaroundと提携し、「世界で最も革新的な監視対策サングラス」として「Paso Robles」をリリースしました。製品特徴には「AIなし、カメラなし、マイクなし、電子機器なし」がうたわれています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "株式会社麻布技術研究所 先端AIを経営基盤へ組み込む業務支援サービス「Panda Force」を提供開始",
+      "link": "https://ascii.jp/elem/000/004/425/4425003/?rss",
+      "date": "2026-08-05T11:00:00+09:00",
+      "dateLabel": "08/05 11:00",
+      "desc": "株式会社麻布技術研究所 先端AIを経営基盤へ組み込む業務支援サービス「Panda Force」を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "マウス、18型大画面ノートPC「mouse K8」を発売 RTX 5050搭載で動画視聴も快適",
+      "link": "https://ascii.jp/elem/000/004/424/4424889/?rss",
+      "date": "2026-08-05T11:00:00+09:00",
+      "dateLabel": "08/05 11:00",
+      "desc": "マウスコンピューターが18型大画面ノートPC「mouse K8」シリーズを発売。WUXGAディスプレイやDolby Atmos対応4スピーカー、Core i7・GeForce RTX 5050 Laptop GPUを搭載し、動画視聴から在宅ワークまで快適にこなせる特徴を紹介します。",
+      "img": "https://ascii.jp/img/2026/08/05/4509334/s/8141e470f270fef3.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "プライベートLLMに迫る危機 AIによる情報漏えいや不正学習を防ぐ必要性",
+      "link": "https://ascii.jp/elem/000/004/422/4422568/?rss",
+      "date": "2026-08-05T11:00:00+09:00",
+      "dateLabel": "08/05 11:00",
+      "desc": "AIが業務で当たり前に利用されるようになり、利便性を感じるユーザーも多いはずだが、セキュリティのリスクも高い。今後、自社構築が増えるであろうプライベートLLM（大規模言語モデル）に対する攻撃は、新しいリスクとして認識されつつある。フォーティネットジャパンのシニアコンサルティングSEである熊村剛規氏に、LLMに対する危機と対策について聞いた。",
+      "img": "https://ascii.jp/img/2026/07/28/4506003/s/8b98f3e895f1123a.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "動画生成AI「FLUX 3 Video」が一般公開される、1080p・20秒の動画を生成可能で近日中にオープンモデルも公開予定",
+      "link": "https://gigazine.net/news/20260805-flux-3-video/",
+      "date": "2026-08-05T10:40:00+09:00",
+      "dateLabel": "08/05 10:40",
+      "desc": "AI開発企業のBlack Forest Labsが動画生成AI「FLUX 3 Video」を現地時間の2026年8月4日に一般公開しました。FLUX 3 Videoは最大20秒・1080p(フルHD)の音声付き動画を生成可能です。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "セキュアなブラウザ操作AI「Cowork」、認証情報を扱わずログインの自動化を可能に",
+      "link": "https://ascii.jp/elem/000/004/425/4425016/?rss",
+      "date": "2026-08-05T10:30:00+09:00",
+      "dateLabel": "08/05 10:30",
+      "desc": "セキュアなブラウザ操作AI「Cowork」、認証情報を扱わずログインの自動化を可能に",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "「フルスクラッチ開発」って何？──LLMを“骨格”と“筋肉”に例えて国産モデルの現在地を整理する",
@@ -140,17 +184,6 @@
       "score": 34
     },
     {
-      "title": "【データ活用・AI導入の「最初の一歩」を劇的に進める】『【これからデータ活用を始める方へ】データマネジメント入門と成功への道筋に関するホワイトペーパー3点セット』を無料公開",
-      "link": "https://ascii.jp/elem/000/004/424/4424900/?rss",
-      "date": "2026-08-05T08:50:00+09:00",
-      "dateLabel": "08/05 08:50",
-      "desc": "【データ活用・AI導入の「最初の一歩」を劇的に進める】『【これからデータ活用を始める方へ】データマネジメント入門と成功への道筋に関するホワイトペーパー3点セット』を無料公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "アプリが遅い原因をAIがトレースログから分析してくれる「Windows Performance Analyzer MCP」（WPA MCP）、マイクロソフトがプレビュー公開",
       "link": "https://www.publickey1.jp/blog/26/aiwindows_performance_analyzer_mcpwpa_mcp.html",
       "date": "2026-08-05T00:36:16+09:00",
@@ -159,28 +192,6 @@
       "img": "",
       "src": "Publickey",
       "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "DJIがオズポケでも使えるAIノイキャン搭載ワイヤレスマイク「Mic Mini 2S」発表",
-      "link": "https://ascii.jp/elem/000/004/423/4423622/?rss",
-      "date": "2026-08-05T00:01:00+09:00",
-      "dateLabel": "08/05 00:01",
-      "desc": "32-bitフロート内部録音と進化した2段階のAIノイズキャンセリングに対応し、確実な収音を行えるよう設計されています",
-      "img": "https://ascii.jp/img/2026/07/30/4507543/s/46c9b3c92708c966.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 34
-    },
-    {
-      "title": "13万円台のゲーミングPC発見！ 144Hz液晶・Ryzen 7・RTX 3050搭載「Lenovo LOQ」がタイムセール中",
-      "link": "https://ascii.jp/elem/000/004/424/4424630/?rss",
-      "date": "2026-08-04T21:00:00+09:00",
-      "dateLabel": "08/04 21:00",
-      "desc": "LenovoのゲーミングノートPC「LOQ 15ARP10E（83S000FSJP）」がAmazonタイムセール対象。ただいま135,800円で販売中。Ryzen 7 7735HSやGeForce RTX 3050 Laptop GPU、144Hz対応の15.6型フルHD IPS液晶を搭載する。",
-      "img": "https://ascii.jp/img/2026/08/04/4509018/s/2667d818a1f7d2bf.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -206,6 +217,28 @@
       "score": 34
     },
     {
+      "title": "Cloudflareが大型AIモデルの高速推論サービスを展開するための効率化手法を公開",
+      "link": "https://gigazine.net/news/20260804-cloudflare-ai-kimi-glm/",
+      "date": "2026-08-04T12:52:00+09:00",
+      "dateLabel": "08/04 12:52",
+      "desc": "CloudflareはオープンなAIモデルを用いた推論サービス「Workers AI」を展開しています。このCloudflare Workers AIで活用しているAIの推論効率を向上する手法を解説する記事がCloudflareの公式ブログに掲載されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "AIエージェントごとに専用コンピューターを割り当てる「@cloudflare/computer」が登場、ファイル編集やコマンド実行を1つの作業環境で行えるように",
+      "link": "https://gigazine.net/news/20260804-cloudflare-computer/",
+      "date": "2026-08-04T12:40:00+09:00",
+      "dateLabel": "08/04 12:40",
+      "desc": "CloudflareがAIエージェント向けのオープンソースライブラリ「@cloudflare/computer」を発表しました。ファイルシステムやコマンド実行環境をまとめた仮想的な作業用コンピューターをAIエージェントごとに提供する仕組みで、記事作成時点では早期プレビューとして公開されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
       "title": "PC操作を録画→「Copilot」で作業を代理可能に Microsoftがアプリを無料公開 主にmacOS向け、Windows対応も",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/04/2000000361/",
       "date": "2026-08-04T08:00:00+09:00",
@@ -217,69 +250,36 @@
       "score": 34
     },
     {
-      "title": "「Qwen3.8-Max」登場、オープン化は「来週」 一部「Fable 5」「GPT-5.6 Sol」超えの性能うたう",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/03/2000000353/",
-      "date": "2026-08-03T12:26:15+09:00",
-      "dateLabel": "08/03 12:26",
-      "desc": "中国Alibaba傘下のAlibaba Cloudは8月3日、AIモデル「Qwen3.8-Max」を正式にリリースした。来週にはモデルの重みも公開する予定だ。",
+      "title": "自社のAI利用は本当に安全？ 現場放任に潜む「4大リスク」",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/05/news049.html",
+      "date": "2026-08-05T13:00:00+09:00",
+      "dateLabel": "08/05 13:00",
+      "desc": "サーバーワークスは、AWS環境での生成AI活用に必要なルール整備を支援する「AWS生成AIガイドライン策定サービス」を提供開始した。最短1カ月でルールを整備できるプランも用意する。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Gemini“ヘビーユーザー”が1年で10倍に 「平均年齢高い、IT本業じゃない」首都高が実践したAI活用推進ノウハウ",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/05/2000000383/",
-      "date": "2026-08-05T08:00:00+09:00",
-      "dateLabel": "08/05 08:00",
-      "desc": "月100回以上Geminiを使う首都高速道路の従業員が、1年で22人から224人に急増した。転機は対面・終日のワークショップと「誰一人取り残さない」全社推進、そして「Gemini Notebook」の存在だった。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
+      "cat": "生成AI/マルチモーダル",
       "score": 26
     },
     {
-      "title": "M365 Copilotのための「Teams活用術3選」 北大DX業務推進室が解説",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/05/2000000379/",
-      "date": "2026-08-05T07:55:00+09:00",
-      "dateLabel": "08/05 07:55",
-      "desc": "北海道大学のDX業務推進室が、米MicrosoftのAIサービス「Microsoft 365 Copilot」を活用しやすくするための「Microsoft Teams」の使い方を紹介している。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "印メガベンチャー「Paytm」も惹きつけるルクセンブルクが仕掛ける産業育成エコシステム",
-      "link": "https://ascii.jp/elem/000/004/423/4423732/?rss",
-      "date": "2026-08-05T07:00:00+09:00",
-      "dateLabel": "08/05 07:00",
-      "desc": "欧州が人工知能（AI）、デジタル金融、宇宙開発といった次世代テクノロジーの主権確保に向けて、国家を挙げた動きを加速させている。その中心的なテストベッドとして世界中から注目を集めているのが西欧の小国・ルクセンブルクだ。",
-      "img": "https://ascii.jp/img/2026/07/31/4507703/s/9033f5ff65516d7c.png",
+      "title": "最大12万円OFF！ マウスコンピューターが夏の大感謝セール、ゲーミングPCも対象",
+      "link": "https://ascii.jp/elem/000/004/425/4425001/?rss",
+      "date": "2026-08-05T13:00:00+09:00",
+      "dateLabel": "08/05 13:00",
+      "desc": "マウスコンピューターが8月5日から8月26日までECサイトで「夏の大感謝セール」を開催。最大12万円OFFで、mouse、G TUNE、DAIVの対象PCが割引価格で購入できる内容を紹介する。",
+      "img": "https://ascii.jp/img/2026/08/05/4509443/s/502072fb5bb51683.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "人間はAIが協力すると予想していても裏切りやすいことが実験で判明",
-      "link": "https://gigazine.net/news/20260805-human-with-ai-agents/",
-      "date": "2026-08-05T07:00:00+09:00",
-      "dateLabel": "08/05 07:00",
-      "desc": "スペインのジャウメ1世大学の研究チームが、「人間は相手が人間ではなくプログラムだと分かると、相手が協力するとわかっていても自分は協力せずに利益を得ようとする傾向が強まる」ことを実験で明らかにしました。プログラムが動かす人工エージェントの利益がたとえ実在する人間に渡る場合でも、この傾向は変わりませんでした。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "AIエージェントフレームワーク比較12選！失敗しない選び方を解説",
-      "link": "https://ainow.ai/2026/08/05/278294/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2583%2595%25e3%2583%25ac%25e3%2583%25bc%25e3%2583%25a0%25e3%2583%25af%25e3%2583%25bc%25e3%2582%25af%25e6%25af%2594%25e8%25bc%258312%25e9%2581%25b8%25ef%25bc%2581%25e5%25a4%25b1%25e6%2595%2597%25e3%2581%2597%25e3%2581%25aa",
-      "date": "2026-08-05T01:19:19+09:00",
-      "dateLabel": "08/05 01:19",
-      "desc": "AIエージェントフレームワークとは、AIエージェントの状態管理やツール実行、エージェント間の連携をまとめて扱う開発基盤です。 候補が乱立している状況で機能の多さだけを基準に選ぶと、承認フローやログ設計といった本番運用の壁... The post AIエージェントフレームワーク比較12選！失敗しない選び方を解説 first appeared on AI専門ニュ",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
+      "title": "32GBメモリ＆1TB SSD搭載「HP OmniBook X Flip」が22万円切りのタイムセール中【4モードに変形するAI PC】",
+      "link": "https://ascii.jp/elem/000/004/424/4424761/?rss",
+      "date": "2026-08-05T13:00:00+09:00",
+      "dateLabel": "08/05 13:00",
+      "desc": "HP製コンバーチブルタイプのノートPC「HP OmniBook X Flip 14-fk（B9DW7PA-AAAA）」がAmazonタイムセール対象。参考価格249,700円のところ、12％オフの219,900円で販売中。Ryzen AI 7 350、32GBメモリ、1TB SSDを搭載するAI PCだ。",
+      "img": "https://ascii.jp/img/2026/08/04/4509173/s/7f563460dd62ada1.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 26
     }
   ]
