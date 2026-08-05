@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-05T21:47:22.839059+09:00",
-  "generatedLabel": "2026/08/05 21:47",
+  "generatedAt": "2026-08-06T00:07:46.744924+09:00",
+  "generatedLabel": "2026/08/06 00:07",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 11
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -94,6 +94,17 @@
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 42
+    },
+    {
+      "title": "iPhoneで動作しBonsai 27Bと同等性能で13倍高速なAI「Maple-Preview」が登場、ローカルAIがまた1歩前進",
+      "link": "https://gigazine.net/news/20260805-maple-preview/",
+      "date": "2026-08-05T23:00:00+09:00",
+      "dateLabel": "08/05 23:00",
+      "desc": "AI研究企業のDeepGroveが軽量かつ高性能なAIモデル「Maple-Preview」を発表しました。Maple-PreviewはiPhoneでも動作するほど小型のモデルで、同じくiPhoneで動作するBonsai 27Bと比べて13倍高速な処理が可能です。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "デジタルツイン総合研究所、フィジカルAIの参照・オーケストレーション基盤「SHOKEI」をリリース",
@@ -228,6 +239,17 @@
       "score": 34
     },
     {
+      "title": "アフリカのサイバー犯罪の50％以上にAIが悪用されており欧米諸国にも被害が及んでいるとインターポールが発表",
+      "link": "https://gigazine.net/news/20260805-ai-fuels-half-cybercrime-africa-interpol/",
+      "date": "2026-08-05T22:00:00+09:00",
+      "dateLabel": "08/05 22:00",
+      "desc": "生成AIツールはさまざまな仕事や学業に役立ちますが、犯罪者にとっても有用なツールとなっています。国際刑事機構(インターポール)が、アフリカ全土で報告されているサイバー犯罪の55％以上にAIが使われており、その脅威は大陸を越えて広がっているとの報告書を発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "生成AI/マルチモーダル",
+      "score": 26
+    },
+    {
       "title": "アップル、カメラ付きAirPodsを年内投入か 早ければ9月に",
       "link": "https://ascii.jp/elem/000/004/425/4425025/?rss",
       "date": "2026-08-05T20:00:00+09:00",
@@ -258,28 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "【数量限定特典も】美を調える ”空気のシャワー” LICO THE AIR CLEANSE SHOWER (ライコ エアークレンズシャワー)が東京都『TIB SHOP』に期間限定出店。8月5日より開始",
-      "link": "https://ascii.jp/elem/000/004/425/4425239/?rss",
-      "date": "2026-08-05T18:04:48+09:00",
-      "dateLabel": "08/05 18:04",
-      "desc": "【数量限定特典も】美を調える ”空気のシャワー” LICO THE AIR CLEANSE SHOWER (ライコ エアークレンズシャワー)が東京都『TIB SHOP』に期間限定出店。8月5日より開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "UPDFが新学期応援キャンペーンを開始｜学生・教職員のPDF学習と授業準備をAIで効率化",
-      "link": "https://ascii.jp/elem/000/004/425/4425251/?rss",
-      "date": "2026-08-05T18:04:45+09:00",
-      "dateLabel": "08/05 18:04",
-      "desc": "UPDFが新学期応援キャンペーンを開始｜学生・教職員のPDF学習と授業準備をAIで効率化",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 26
     }
   ]
