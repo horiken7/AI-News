@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-06T00:07:46.744924+09:00",
-  "generatedLabel": "2026/08/06 00:07",
+  "generatedAt": "2026-08-06T02:19:15.606399+09:00",
+  "generatedLabel": "2026/08/06 02:19",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 57,
@@ -71,7 +71,7 @@
       "img": "",
       "src": "Publickey",
       "cat": "LLM/モデル",
-      "score": 66
+      "score": 58
     },
     {
       "title": "初心者だからこそゲーミングPCの性能に余裕を！ Ryzen 7×RX 9070 XT搭載なら長く遊べる",
@@ -217,17 +217,6 @@
       "score": 34
     },
     {
-      "title": "アプリが遅い原因をAIがトレースログから分析してくれる「Windows Performance Analyzer MCP」（WPA MCP）、マイクロソフトがプレビュー公開",
-      "link": "https://www.publickey1.jp/blog/26/aiwindows_performance_analyzer_mcpwpa_mcp.html",
-      "date": "2026-08-05T00:36:16+09:00",
-      "dateLabel": "08/05 00:36",
-      "desc": "マイクロソフトは、Windowsアプリケーションが遅くなる原因の調査分析をAIに依頼できるツール「Windows Performance Analyzer MCP」（WPA MCP）のアーリープレビューを発表しました。 GitHub Cop...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "PC操作を録画→「Copilot」で作業を代理可能に Microsoftがアプリを無料公開 主にmacOS向け、Windows対応も",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/04/2000000361/",
       "date": "2026-08-04T08:00:00+09:00",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AI実装",
+      "score": 26
+    },
+    {
+      "title": "【数量限定特典も】美を調える ”空気のシャワー” LICO THE AIR CLEANSE SHOWER (ライコ エアークレンズシャワー)が東京都『TIB SHOP』に期間限定出店。8月5日より開始",
+      "link": "https://ascii.jp/elem/000/004/425/4425239/?rss",
+      "date": "2026-08-05T18:04:48+09:00",
+      "dateLabel": "08/05 18:04",
+      "desc": "【数量限定特典も】美を調える ”空気のシャワー” LICO THE AIR CLEANSE SHOWER (ライコ エアークレンズシャワー)が東京都『TIB SHOP』に期間限定出店。8月5日より開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 26
     }
   ]
