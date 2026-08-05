@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-05T13:55:25.280708+09:00",
-  "generatedLabel": "2026/08/05 13:55",
+  "generatedAt": "2026-08-05T16:32:22.025746+09:00",
+  "generatedLabel": "2026/08/05 16:32",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 9
     },
     {
       "source": "PC Watch",
@@ -74,6 +74,61 @@
       "score": 66
     },
     {
+      "title": "約899gの超軽量機も！DynabookがCore Ultra シリーズ3搭載などAI性能を極めた新ラインアップを拡充",
+      "link": "https://ascii.jp/elem/000/004/424/4424942/?rss",
+      "date": "2026-08-05T15:00:00+09:00",
+      "dateLabel": "08/05 15:00",
+      "desc": "Dynabookは、個人向けノートPCの新ラインアップとして、Core Ultra シリーズ3を搭載し、AI処理性能を飛躍的に高めたCopilot+ PC準拠のプレミアムモバイルノートPCなど、計5シリーズを発表した。",
+      "img": "https://ascii.jp/img/2026/08/05/4509424/s/55faf9419658079f.png",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
+      "title": "大型GPUも余裕！ HAVN「BF 360 Flow Solid」は冷却性能を追求した新型PCケース",
+      "link": "https://ascii.jp/elem/000/004/425/4425022/?rss",
+      "date": "2026-08-05T14:00:00+09:00",
+      "dateLabel": "08/05 14:00",
+      "desc": "HAVNの新型ミドルタワーPCケース「BF 360 Flow Solid」が8月7日に発売。180mm大型ファン×2による高エアフロー設計や360mm水冷、最大410mm GPU対応など、冷却性能と拡張性を備えた注目モデルを紹介します。",
+      "img": "https://ascii.jp/img/2026/08/05/4509464/s/691eaaebd271b6de.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 50
+    },
+    {
+      "title": "人材派遣会社向け音声AIエージェント「ALICE」、就業直後のフォロー漏れと更新確認漏れを防ぐ新機能を9月より提供開始",
+      "link": "https://ascii.jp/elem/000/004/425/4425127/?rss",
+      "date": "2026-08-05T13:16:00+09:00",
+      "dateLabel": "08/05 13:16",
+      "desc": "人材派遣会社向け音声AIエージェント「ALICE」、就業直後のフォロー漏れと更新確認漏れを防ぐ新機能を9月より提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
+      "title": "その手があったか！ 東急の高架下データセンター、タイガー魔法瓶の断熱技術で冷却効率向上へ",
+      "link": "https://ascii.jp/elem/000/004/425/4425092/?rss",
+      "date": "2026-08-05T14:45:00+09:00",
+      "dateLabel": "08/05 14:45",
+      "desc": "タイガー魔法瓶は8月5日、東急グループ4社が進める鉄道高架下の都市型データセンター実証実験で、真空断熱材「ステンレス密封真空断熱パネル（TIVIP）」による技術サポートを開始したと発表した。",
+      "img": "https://ascii.jp/img/2026/08/05/4509540/s/35f02a11058eeefe.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "議事録AI「YOMEL」、録音データを端末に一時保存できる新機能「省データモード」をリリース",
+      "link": "https://ascii.jp/elem/000/004/425/4425125/?rss",
+      "date": "2026-08-05T13:30:00+09:00",
+      "dateLabel": "08/05 13:30",
+      "desc": "議事録AI「YOMEL」、録音データを端末に一時保存できる新機能「省データモード」をリリース",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 42
+    },
+    {
       "title": "スマホで動作するエージェント対応小型AIモデル「LFM2.5-2.6B」が登場、ローカル環境でAIエージェントを実行可能",
       "link": "https://gigazine.net/news/20260805-lfm2-5-2-6b/",
       "date": "2026-08-05T12:25:00+09:00",
@@ -83,6 +138,39 @@
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 42
+    },
+    {
+      "title": "SIMの音を聞いてみよう！？M5Stackで始める電波測定＆SIMカード対応モジュラーシンセ【SORACOM Discovery 2026 ― IoT プロトタイピングコーナー】",
+      "link": "https://ascii.jp/elem/000/004/425/4425029/?rss",
+      "date": "2026-08-05T14:15:00+09:00",
+      "dateLabel": "08/05 14:15",
+      "desc": "SIMの音を聞いてみよう！？M5Stackで始める電波測定＆SIMカード対応モジュラーシンセ【SORACOM Discovery 2026 ― IoT プロトタイピングコーナー】",
+      "img": "https://ascii.jp/img/2026/08/05/4509479/s/3827f53801c21013.png",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "エージェント型AIは「過度な期待」のピークへ ガートナー、日本におけるデジタルワークプレースのハイプサイクルを発表",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/05/2000000393/",
+      "date": "2026-08-05T13:40:35+09:00",
+      "dateLabel": "08/05 13:40",
+      "desc": "ガートナージャパンが日本における未来のデジタル・ワークプレースのハイプ・サイクルを発表。エージェント型AIを「過度な期待」のピークに位置付け、AIエージェントの浸透やシャドーAIのリスク拡大などのトレンドを紹介した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "夏休みリスキリング！1日でAIを使える人になる未経験者向けClaude Code集中講座『ホリエモンAI学校 1日Camp』、8月参加分の受付を開始",
+      "link": "https://ascii.jp/elem/000/004/425/4425124/?rss",
+      "date": "2026-08-05T13:36:55+09:00",
+      "dateLabel": "08/05 13:36",
+      "desc": "夏休みリスキリング！1日でAIを使える人になる未経験者向けClaude Code集中講座『ホリエモンAI学校 1日Camp』、8月参加分の受付を開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "英AI研究所、評価中のAIが実在の開発者を標的に──偽アカウント使い悪意あるコードの承認迫る",
@@ -118,39 +206,6 @@
       "score": 34
     },
     {
-      "title": "株式会社麻布技術研究所 先端AIを経営基盤へ組み込む業務支援サービス「Panda Force」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/425/4425003/?rss",
-      "date": "2026-08-05T11:00:00+09:00",
-      "dateLabel": "08/05 11:00",
-      "desc": "株式会社麻布技術研究所 先端AIを経営基盤へ組み込む業務支援サービス「Panda Force」を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "マウス、18型大画面ノートPC「mouse K8」を発売 RTX 5050搭載で動画視聴も快適",
-      "link": "https://ascii.jp/elem/000/004/424/4424889/?rss",
-      "date": "2026-08-05T11:00:00+09:00",
-      "dateLabel": "08/05 11:00",
-      "desc": "マウスコンピューターが18型大画面ノートPC「mouse K8」シリーズを発売。WUXGAディスプレイやDolby Atmos対応4スピーカー、Core i7・GeForce RTX 5050 Laptop GPUを搭載し、動画視聴から在宅ワークまで快適にこなせる特徴を紹介します。",
-      "img": "https://ascii.jp/img/2026/08/05/4509334/s/8141e470f270fef3.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "プライベートLLMに迫る危機 AIによる情報漏えいや不正学習を防ぐ必要性",
-      "link": "https://ascii.jp/elem/000/004/422/4422568/?rss",
-      "date": "2026-08-05T11:00:00+09:00",
-      "dateLabel": "08/05 11:00",
-      "desc": "AIが業務で当たり前に利用されるようになり、利便性を感じるユーザーも多いはずだが、セキュリティのリスクも高い。今後、自社構築が増えるであろうプライベートLLM（大規模言語モデル）に対する攻撃は、新しいリスクとして認識されつつある。フォーティネットジャパンのシニアコンサルティングSEである熊村剛規氏に、LLMに対する危機と対策について聞いた。",
-      "img": "https://ascii.jp/img/2026/07/28/4506003/s/8b98f3e895f1123a.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "動画生成AI「FLUX 3 Video」が一般公開される、1080p・20秒の動画を生成可能で近日中にオープンモデルも公開予定",
       "link": "https://gigazine.net/news/20260805-flux-3-video/",
       "date": "2026-08-05T10:40:00+09:00",
@@ -159,17 +214,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "セキュアなブラウザ操作AI「Cowork」、認証情報を扱わずログインの自動化を可能に",
-      "link": "https://ascii.jp/elem/000/004/425/4425016/?rss",
-      "date": "2026-08-05T10:30:00+09:00",
-      "dateLabel": "08/05 10:30",
-      "desc": "セキュアなブラウザ操作AI「Cowork」、認証情報を扱わずログインの自動化を可能に",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -206,39 +250,6 @@
       "score": 34
     },
     {
-      "title": "音声AIはなぜすぐに返事できるのか？OpenAIが「GPT-Live」の仕組みを解説",
-      "link": "https://gigazine.net/news/20260804-openai-gpt-live/",
-      "date": "2026-08-04T15:35:00+09:00",
-      "dateLabel": "08/04 15:35",
-      "desc": "OpenAIが、人間との会話に素早く反応する音声AI「GPT-Live」を支えるリアルタイムシステムを約6カ月で構築した方法を公開しました。利用者とAIが同時に話せる仕組みや、複雑な処理を別のAIに任せながら会話を続ける設計、通信開始までの待ち時間を短縮する技術が解説されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Cloudflareが大型AIモデルの高速推論サービスを展開するための効率化手法を公開",
-      "link": "https://gigazine.net/news/20260804-cloudflare-ai-kimi-glm/",
-      "date": "2026-08-04T12:52:00+09:00",
-      "dateLabel": "08/04 12:52",
-      "desc": "CloudflareはオープンなAIモデルを用いた推論サービス「Workers AI」を展開しています。このCloudflare Workers AIで活用しているAIの推論効率を向上する手法を解説する記事がCloudflareの公式ブログに掲載されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "AIエージェントごとに専用コンピューターを割り当てる「@cloudflare/computer」が登場、ファイル編集やコマンド実行を1つの作業環境で行えるように",
-      "link": "https://gigazine.net/news/20260804-cloudflare-computer/",
-      "date": "2026-08-04T12:40:00+09:00",
-      "dateLabel": "08/04 12:40",
-      "desc": "CloudflareがAIエージェント向けのオープンソースライブラリ「@cloudflare/computer」を発表しました。ファイルシステムやコマンド実行環境をまとめた仮想的な作業用コンピューターをAIエージェントごとに提供する仕組みで、記事作成時点では早期プレビューとして公開されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "PC操作を録画→「Copilot」で作業を代理可能に Microsoftがアプリを無料公開 主にmacOS向け、Windows対応も",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/04/2000000361/",
       "date": "2026-08-04T08:00:00+09:00",
@@ -250,36 +261,25 @@
       "score": 34
     },
     {
-      "title": "自社のAI利用は本当に安全？ 現場放任に潜む「4大リスク」",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/05/news049.html",
-      "date": "2026-08-05T13:00:00+09:00",
-      "dateLabel": "08/05 13:00",
-      "desc": "サーバーワークスは、AWS環境での生成AI活用に必要なルール整備を支援する「AWS生成AIガイドライン策定サービス」を提供開始した。最短1カ月でルールを整備できるプランも用意する。",
+      "title": "「AirPods Pro 3」長く使うなら保証も欲しい！ AppleCare+セットがAmazonで12％オフ",
+      "link": "https://ascii.jp/elem/000/004/425/4425033/?rss",
+      "date": "2026-08-05T16:00:00+09:00",
+      "dateLabel": "08/05 16:00",
+      "desc": "Amazon.co.jpにて、「AirPods Pro 3」が売れています。ノイズキャンセリングが前モデルの2倍進化し、クリアな音質を確保。ここでは保証サービス「AppleCare+」とのセットを紹介します。",
+      "img": "https://ascii.jp/img/2026/08/05/4509500/s/4104c56f1d928489.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "Mistral AIが小型モデレーションAI「Shieldstral」を公開、文章や画像を自然言語のルールで判定可能",
+      "link": "https://gigazine.net/news/20260805-mistral-shieldstral/",
+      "date": "2026-08-05T14:50:00+09:00",
+      "dateLabel": "08/05 14:50",
+      "desc": "フランスのAI企業Mistral AIが2026年8月4日、文章や画像が指定した安全基準に当てはまるかを判定するAIモデル「Shieldstral 1.0 3B」を公開しました。パラメーター数は30億で、サービスごとの安全基準を自然な文章で指定できる点が特徴です。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
-      "title": "最大12万円OFF！ マウスコンピューターが夏の大感謝セール、ゲーミングPCも対象",
-      "link": "https://ascii.jp/elem/000/004/425/4425001/?rss",
-      "date": "2026-08-05T13:00:00+09:00",
-      "dateLabel": "08/05 13:00",
-      "desc": "マウスコンピューターが8月5日から8月26日までECサイトで「夏の大感謝セール」を開催。最大12万円OFFで、mouse、G TUNE、DAIVの対象PCが割引価格で購入できる内容を紹介する。",
-      "img": "https://ascii.jp/img/2026/08/05/4509443/s/502072fb5bb51683.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "32GBメモリ＆1TB SSD搭載「HP OmniBook X Flip」が22万円切りのタイムセール中【4モードに変形するAI PC】",
-      "link": "https://ascii.jp/elem/000/004/424/4424761/?rss",
-      "date": "2026-08-05T13:00:00+09:00",
-      "dateLabel": "08/05 13:00",
-      "desc": "HP製コンバーチブルタイプのノートPC「HP OmniBook X Flip 14-fk（B9DW7PA-AAAA）」がAmazonタイムセール対象。参考価格249,700円のところ、12％オフの219,900円で販売中。Ryzen AI 7 350、32GBメモリ、1TB SSDを搭載するAI PCだ。",
-      "img": "https://ascii.jp/img/2026/08/04/4509173/s/7f563460dd62ada1.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 26
     }
   ]
