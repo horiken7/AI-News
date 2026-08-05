@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-05T16:32:22.025746+09:00",
-  "generatedLabel": "2026/08/05 16:32",
+  "generatedAt": "2026-08-05T19:25:07.205422+09:00",
+  "generatedLabel": "2026/08/05 19:25",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 18
+      "items": 19
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 9
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 12
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -74,58 +74,14 @@
       "score": 66
     },
     {
-      "title": "約899gの超軽量機も！DynabookがCore Ultra シリーズ3搭載などAI性能を極めた新ラインアップを拡充",
-      "link": "https://ascii.jp/elem/000/004/424/4424942/?rss",
-      "date": "2026-08-05T15:00:00+09:00",
-      "dateLabel": "08/05 15:00",
-      "desc": "Dynabookは、個人向けノートPCの新ラインアップとして、Core Ultra シリーズ3を搭載し、AI処理性能を飛躍的に高めたCopilot+ PC準拠のプレミアムモバイルノートPCなど、計5シリーズを発表した。",
-      "img": "https://ascii.jp/img/2026/08/05/4509424/s/55faf9419658079f.png",
+      "title": "いま本当に使えるSaaS 100選【定番編】 エントリー9～12はChatGPT、Claude【Tier付け】",
+      "link": "https://ascii.jp/elem/000/004/425/4425112/?rss",
+      "date": "2026-08-05T17:02:00+09:00",
+      "dateLabel": "08/05 17:02",
+      "desc": "世の中に星の数ほどSaaSがあるが、本当に使えるSaaSはどれなのか？ いま本当に使えるSaaSを編集部で100本選抜。先行アンケートで得た情シスの意見を元に、編集部でTier付けしました。今回はその中の定番20本をリストアップし、1記事4本ずつ、計5本の特集として紹介していきます。3本目はこちら。",
+      "img": "https://ascii.jp/img/2026/08/05/4509665/s/8f796fd18f95f569.png",
       "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
-      "title": "大型GPUも余裕！ HAVN「BF 360 Flow Solid」は冷却性能を追求した新型PCケース",
-      "link": "https://ascii.jp/elem/000/004/425/4425022/?rss",
-      "date": "2026-08-05T14:00:00+09:00",
-      "dateLabel": "08/05 14:00",
-      "desc": "HAVNの新型ミドルタワーPCケース「BF 360 Flow Solid」が8月7日に発売。180mm大型ファン×2による高エアフロー設計や360mm水冷、最大410mm GPU対応など、冷却性能と拡張性を備えた注目モデルを紹介します。",
-      "img": "https://ascii.jp/img/2026/08/05/4509464/s/691eaaebd271b6de.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
-      "title": "人材派遣会社向け音声AIエージェント「ALICE」、就業直後のフォロー漏れと更新確認漏れを防ぐ新機能を9月より提供開始",
-      "link": "https://ascii.jp/elem/000/004/425/4425127/?rss",
-      "date": "2026-08-05T13:16:00+09:00",
-      "dateLabel": "08/05 13:16",
-      "desc": "人材派遣会社向け音声AIエージェント「ALICE」、就業直後のフォロー漏れと更新確認漏れを防ぐ新機能を9月より提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
-      "title": "その手があったか！ 東急の高架下データセンター、タイガー魔法瓶の断熱技術で冷却効率向上へ",
-      "link": "https://ascii.jp/elem/000/004/425/4425092/?rss",
-      "date": "2026-08-05T14:45:00+09:00",
-      "dateLabel": "08/05 14:45",
-      "desc": "タイガー魔法瓶は8月5日、東急グループ4社が進める鉄道高架下の都市型データセンター実証実験で、真空断熱材「ステンレス密封真空断熱パネル（TIVIP）」による技術サポートを開始したと発表した。",
-      "img": "https://ascii.jp/img/2026/08/05/4509540/s/35f02a11058eeefe.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "議事録AI「YOMEL」、録音データを端末に一時保存できる新機能「省データモード」をリリース",
-      "link": "https://ascii.jp/elem/000/004/425/4425125/?rss",
-      "date": "2026-08-05T13:30:00+09:00",
-      "dateLabel": "08/05 13:30",
-      "desc": "議事録AI「YOMEL」、録音データを端末に一時保存できる新機能「省データモード」をリリース",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 42
     },
     {
@@ -140,14 +96,36 @@
       "score": 42
     },
     {
-      "title": "SIMの音を聞いてみよう！？M5Stackで始める電波測定＆SIMカード対応モジュラーシンセ【SORACOM Discovery 2026 ― IoT プロトタイピングコーナー】",
-      "link": "https://ascii.jp/elem/000/004/425/4425029/?rss",
-      "date": "2026-08-05T14:15:00+09:00",
-      "dateLabel": "08/05 14:15",
-      "desc": "SIMの音を聞いてみよう！？M5Stackで始める電波測定＆SIMカード対応モジュラーシンセ【SORACOM Discovery 2026 ― IoT プロトタイピングコーナー】",
-      "img": "https://ascii.jp/img/2026/08/05/4509479/s/3827f53801c21013.png",
+      "title": "FDUA 生成AIWG、『金融生成AIガイドライン（第1.2版）』を公開",
+      "link": "https://ascii.jp/elem/000/004/425/4425242/?rss",
+      "date": "2026-08-05T18:00:00+09:00",
+      "dateLabel": "08/05 18:00",
+      "desc": "FDUA 生成AIWG、『金融生成AIガイドライン（第1.2版）』を公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "21万円台でCore i7・RTX 5060・1TB SSD搭載。ゲーミングノート「Lenovo LOQ Essential」がタイムセール",
+      "link": "https://ascii.jp/elem/000/004/424/4424838/?rss",
+      "date": "2026-08-05T18:00:00+09:00",
+      "dateLabel": "08/05 18:00",
+      "desc": "LenovoのゲーミングノートPC「Lenovo LOQ Essential（83SC0084JP）」がAmazonタイムセール対象。過去価格228,800円のところ、6％オフの214,800円で販売中。Core i7-13650HXとGeForce RTX 5060 Laptop GPU、16GBメモリ、1TB SSDを搭載した15.6型モデルだ。",
+      "img": "https://ascii.jp/img/2026/08/04/4509234/s/08b888e7c771f38a.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "OpenAIがAppleによる訴訟に反論、「提訴する前に相談してくれれば喜んですべて説明していた」",
+      "link": "https://gigazine.net/news/20260805-apple-openai/",
+      "date": "2026-08-05T17:05:00+09:00",
+      "dateLabel": "08/05 17:05",
+      "desc": "「OpenAIに転職した社員らが機密情報を盗み出している」としてAppleが訴えを起こしている件で、OpenAIが「Appleの主張には誤りがある」と反論しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
       "score": 34
     },
     {
@@ -159,17 +137,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "夏休みリスキリング！1日でAIを使える人になる未経験者向けClaude Code集中講座『ホリエモンAI学校 1日Camp』、8月参加分の受付を開始",
-      "link": "https://ascii.jp/elem/000/004/425/4425124/?rss",
-      "date": "2026-08-05T13:36:55+09:00",
-      "dateLabel": "08/05 13:36",
-      "desc": "夏休みリスキリング！1日でAIを使える人になる未経験者向けClaude Code集中講座『ホリエモンAI学校 1日Camp』、8月参加分の受付を開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -239,17 +206,6 @@
       "score": 34
     },
     {
-      "title": "「AIに指輪物語の3D世界を作らせる」というベンチマークテストが提案される",
-      "link": "https://gigazine.net/news/20260804-ai-test-cg/",
-      "date": "2026-08-04T19:00:00+09:00",
-      "dateLabel": "08/04 19:00",
-      "desc": "OpenAIの共同設立者であるアンドレイ・カーパシー氏が「AIに指輪物語の3D世界を生成させる」という形式のベンチマークテストを提案しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "PC操作を録画→「Copilot」で作業を代理可能に Microsoftがアプリを無料公開 主にmacOS向け、Windows対応も",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/04/2000000361/",
       "date": "2026-08-04T08:00:00+09:00",
@@ -261,13 +217,46 @@
       "score": 34
     },
     {
-      "title": "「AirPods Pro 3」長く使うなら保証も欲しい！ AppleCare+セットがAmazonで12％オフ",
-      "link": "https://ascii.jp/elem/000/004/425/4425033/?rss",
-      "date": "2026-08-05T16:00:00+09:00",
-      "dateLabel": "08/05 16:00",
-      "desc": "Amazon.co.jpにて、「AirPods Pro 3」が売れています。ノイズキャンセリングが前モデルの2倍進化し、クリアな音質を確保。ここでは保証サービス「AppleCare+」とのセットを紹介します。",
-      "img": "https://ascii.jp/img/2026/08/05/4509500/s/4104c56f1d928489.jpg",
+      "title": "「準国産」うたう人型ロボ登場 本体価格は500万円から 目指すは「純国産」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/05/2000000401/",
+      "date": "2026-08-05T18:47:10+09:00",
+      "dateLabel": "08/05 18:47",
+      "desc": "AIサービスなどを開発するZEALSは、「準国産」をうたう人型ロボット「D1」を発表した。本体価格は500万円（税別）から。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
+      "title": "【数量限定特典も】美を調える ”空気のシャワー” LICO THE AIR CLEANSE SHOWER (ライコ エアークレンズシャワー)が東京都『TIB SHOP』に期間限定出店。8月5日より開始",
+      "link": "https://ascii.jp/elem/000/004/425/4425239/?rss",
+      "date": "2026-08-05T18:04:48+09:00",
+      "dateLabel": "08/05 18:04",
+      "desc": "【数量限定特典も】美を調える ”空気のシャワー” LICO THE AIR CLEANSE SHOWER (ライコ エアークレンズシャワー)が東京都『TIB SHOP』に期間限定出店。8月5日より開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "俺の家、カラオケ天国。ボーカルを消せるスピーカーと高音質マイクが楽しすぎて、家で永久に歌ってます",
+      "link": "https://ascii.jp/elem/000/004/423/4423159/?rss",
+      "date": "2026-08-05T18:00:00+09:00",
+      "dateLabel": "08/05 18:00",
+      "desc": "ボーカルのみを消せるってマジか！ スマホやストリーミングサービスで聴いている原曲からカラオケが楽しめるAI搭載ワイヤレスマイクがすごくて推せる。",
+      "img": "https://ascii.jp/img/2026/07/31/4507627/s/39e54f4ceb8545fd.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "AIで\"存在しない脆弱性\"を量産？ 「SQLite」の偽CVEが判明 米企業が検証",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/05/2000000397/",
+      "date": "2026-08-05T15:56:40+09:00",
+      "dateLabel": "08/05 15:56",
+      "desc": "SQLiteの脆弱性を主張するCVEは実在しなかったと米JFrogが検証結果を公開。AI生成とみられる偽情報がNVDなどに大量登録されていた。同一アカウントが投稿した55件中54件が捏造で、CVE登録プロセスの穴を指摘した。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "AI全般",
       "score": 26
     },
@@ -277,6 +266,17 @@
       "date": "2026-08-05T14:50:00+09:00",
       "dateLabel": "08/05 14:50",
       "desc": "フランスのAI企業Mistral AIが2026年8月4日、文章や画像が指定した安全基準に当てはまるかを判定するAIモデル「Shieldstral 1.0 3B」を公開しました。パラメーター数は30億で、サービスごとの安全基準を自然な文章で指定できる点が特徴です。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "Claude Mythos 5やGPT-5.6 Solが無許可でハッキングをする事例を確認したとイギリス政府機関が報告",
+      "link": "https://gigazine.net/news/20260805-aisi-unsanctioned-agent-behaviour/",
+      "date": "2026-08-05T14:05:00+09:00",
+      "dateLabel": "08/05 14:05",
+      "desc": "フロンティアAIモデルの能力評価を行っているイギリスの政府機関・AI Security Institute(AISI)が、評価作業を行っている際に、複数のAIが許可なく自律的に、実在の人物や組織を標的としたハッキングを行おうとした、あるいは行ったことを明らかにしました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
