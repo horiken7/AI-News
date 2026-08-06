@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-06T19:27:36.615696+09:00",
-  "generatedLabel": "2026/08/06 19:27",
+  "generatedAt": "2026-08-06T21:50:13.424902+09:00",
+  "generatedLabel": "2026/08/06 21:50",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 51,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 2
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -96,6 +96,17 @@
       "score": 58
     },
     {
+      "title": "ソフトバンクG、投資利益1.8兆円を支えた「OpenAIではない“あの半導体メーカー”」の正体",
+      "link": "https://www.itmedia.co.jp/business/articles/2608/06/news084.html",
+      "date": "2026-08-06T19:30:00+09:00",
+      "dateLabel": "08/06 19:30",
+      "desc": "ソフトバンクGは、第1四半期の投資利益が1兆8594億円だったと発表した。投資利益を押し上げたのは、OpenAIでもArmでもない。歴史的な経営難に陥っていた“あの半導体メーカー”だった。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 50
+    },
+    {
       "title": "「1人1AI」のアプローチは破綻する――チームでAI共有時のセキュリティ問題を解決するベストプラクティス",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/07/news022.html",
       "date": "2026-08-06T16:00:00+09:00",
@@ -127,6 +138,28 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 42
+    },
+    {
+      "title": "アプリが遅い原因をAIがトレースログから分析してくれる「Windows Performance Analyzer MCP」 Microsoftがプレビュー公開",
+      "link": "https://www.itmedia.co.jp/news/article/2608/06/2000000434/",
+      "date": "2026-08-06T19:54:46+09:00",
+      "dateLabel": "08/06 19:54",
+      "desc": "米Microsoftが、Windowsアプリケーションが遅くなる原因の調査分析をAIに依頼できるツール「Windows Performance Analyzer MCP」（WPA MCP）のアーリープレビューを発表しました。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "Googleのジェフ・ディーン氏、独立してAI実験を大規模自動化する新会社Discovery Loop設立",
+      "link": "https://www.itmedia.co.jp/news/article/2608/06/2000000408/",
+      "date": "2026-08-06T19:20:03+09:00",
+      "dateLabel": "08/06 19:20",
+      "desc": "Googleのチーフサイエンティスト、ジェフ・ディーン氏が退社し、新会社「Discovery Loop」を設立すると発表した。サンジェイ・ゲマワット氏らと共同創業する公益法人で、フロンティアAIモデルと計算基盤を活用して実験や検証などの研究プロセス全体を自動化することを目指す。Googleは初期出資者およびクラウドパートナーとして協力する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "Googleからジェフ・ディーンら4人が独立してAIで技術革新をめざす「Discovery Loop」創業",
@@ -162,17 +195,6 @@
       "score": 34
     },
     {
-      "title": "Googleのジェフ・ディーン氏、独立してAI実験を大規模自動化する新会社Discovery Loop設立",
-      "link": "https://www.itmedia.co.jp/news/article/2608/06/2000000408/",
-      "date": "2026-08-06T07:49:24+09:00",
-      "dateLabel": "08/06 07:49",
-      "desc": "Googleのチーフサイエンティスト、ジェフ・ディーン氏が退社し、新会社「Discovery Loop」を設立すると発表した。サンジェイ・ゲマワット氏らと共同創業する公益法人で、フロンティアAIモデルと計算基盤を活用して実験や検証などの研究プロセス全体を自動化することを目指す。Googleは初期出資者およびクラウドパートナーとして協力する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "iPhoneで動作しBonsai 27Bと同等性能で13倍高速なAI「Maple-Preview」が登場、ローカルAIがまた1歩前進",
       "link": "https://gigazine.net/news/20260805-maple-preview/",
       "date": "2026-08-05T23:00:00+09:00",
@@ -184,11 +206,55 @@
       "score": 34
     },
     {
+      "title": "機能を絞ったAIコーディングツール「Pi」が高性能な理由とは？4つの基本機能でAIコストを抑える仕組み",
+      "link": "https://gigazine.net/news/20260806-pi-minimal-performant/",
+      "date": "2026-08-06T21:30:00+09:00",
+      "dateLabel": "08/06 21:30",
+      "desc": "AIにコードの修正やコマンド実行を任せるコーディングハーネス「Pi」は、標準機能を意図的に絞り込むことで処理費用と作業効率の改善を目指しています。Databricksによる性能検証やShopifyで開発された拡張機能の事例から、単純な設計が強みになる理由をPiの開発元であるEARENDILが説明しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
+      "title": "【本日最終日】iPhone Air 512GB（ライトゴールド）がタイムセールで約5万6000円引き！",
+      "link": "https://ascii.jp/elem/000/004/425/4425031/?rss",
+      "date": "2026-08-06T20:00:00+09:00",
+      "dateLabel": "08/06 20:00",
+      "desc": "AppleのSIMフリースマートフォン「iPhone Air 512GB（ライトゴールド）」がAmazonタイムセール対象。参考価格212,800円のところ、26％オフの156,800円で販売中。iPhone史上最薄のボディーにA19 Proチップを搭載した512GBモデルを、タイムセール価格で購入できる。",
+      "img": "https://ascii.jp/img/2026/08/06/4510015/s/375873a90e884ed7.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "AIデータセンターは「圧倒的に供給不足」――ソフトバンクG後藤CFO、“バブル疑惑”を否定",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000433/",
+      "date": "2026-08-06T19:49:21+09:00",
+      "dateLabel": "08/06 19:49",
+      "desc": "AI向けデータセンターは「圧倒的に供給不足だ」――ソフトバンクグループ（以下、SBG）の後藤芳光氏（取締役 専務執行役員 CFO兼CISO）は、同社の2027年3月期第1四半期連結決算（26年4月1日?6月30日）の説明会でこのように指摘した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
       "title": "特別講演で学ぶ、AI時代に振り回されないための「思考の土台」",
       "link": "https://ascii.jp/elem/000/004/425/4425622/?rss",
       "date": "2026-08-06T18:30:00+09:00",
       "dateLabel": "08/06 18:30",
       "desc": "特別講演で学ぶ、AI時代に振り回されないための「思考の土台」",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "【楽天お買い物マラソン限定50％OFF】上品なパープルカラーの11インチAIタブレット「POCKAM P11PRO」が19,950円！豪華6点セットも付属",
+      "link": "https://ascii.jp/elem/000/004/425/4425643/?rss",
+      "date": "2026-08-06T17:46:09+09:00",
+      "dateLabel": "08/06 17:46",
+      "desc": "【楽天お買い物マラソン限定50％OFF】上品なパープルカラーの11インチAIタブレット「POCKAM P11PRO」が19,950円！豪華6点セットも付属",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
@@ -206,17 +272,6 @@
       "score": 26
     },
     {
-      "title": "RTX 5070搭載PCも対象。GALLERIA購入でオリジナルグッズが当たる夏キャンペーン8/31まで！",
-      "link": "https://ascii.jp/elem/000/004/425/4425088/?rss",
-      "date": "2026-08-06T17:00:00+09:00",
-      "dateLabel": "08/06 17:00",
-      "desc": "ドスパラでは現在、「GALLERIA Summer Campaign 2026」を開催中。期間中にGALLERIAを購入してエントリーすると、オリジナルグッズなどを抽選でプレゼント。さらに、先着16,000名にはオリジナルUSBメモリを進呈する。",
-      "img": "https://ascii.jp/img/2026/07/28/4506562/s/3b1f93e9a2268c95.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
       "title": "中国DeepSeek、近日中に「大幅値上げ」か API料金ページに追記",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000423/",
       "date": "2026-08-06T15:01:18+09:00",
@@ -225,61 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "リクルート、新卒エンジニア向け研修資料を無料公開 “AI時代の生き残り方”など紹介する13本",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000418/",
-      "date": "2026-08-06T13:28:32+09:00",
-      "dateLabel": "08/06 13:28",
-      "desc": "リクルートは、2026年度の新卒エンジニア向けの研修資料を公開した。エンジニアとして生き残るためのAIの活用法や、AIによるソフトウェア開発の考え方の変化など、業務やキャリア形成に必要な知見を幅広く紹介している。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "Google DeepMindのデミス・ハサビスがCEOを退任して会長になりAlphabetのチーフサイエンティストを兼任",
-      "link": "https://gigazine.net/news/20260806-demis-hassabis-gdm-chairman/",
-      "date": "2026-08-06T12:12:00+09:00",
-      "dateLabel": "08/06 12:12",
-      "desc": "Alphabet傘下のAI開発企業・Google DeepMind(GDM)でCEOを務めていたデミス・ハサビス氏が退任して会長になることが発表されました。あわせて、ハサビス氏はAlphabetのチーフサイエンティストに就任。役職は変わるものの、今後もAI開発に携わっていくことになるようです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "Googleは9月4日にスマートフォンのGoogleアシスタントを終了する予定",
-      "link": "https://gigazine.net/news/20260806-google-plan-to-kill-google-assistant/",
-      "date": "2026-08-06T11:06:00+09:00",
-      "dateLabel": "08/06 11:06",
-      "desc": "GoogleがAndroidスマートフォンやタブレットで提供している「Googleアシスタント」を2026年9月4日から段階的に終了し、後継のAIアシスタント「Gemini」へ移行することをユーザー向けメールで案内しました。Googleアシスタントは数週間かけて利用できなくなり、終了後は従来のアシスタントへ戻すこともできなくなります。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "オープンソースのAI機能付きオフィス登場 docx・xlsx・pptx・pdfに対応 Genspark",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000398/",
-      "date": "2026-08-06T08:00:00+09:00",
-      "dateLabel": "08/06 08:00",
-      "desc": "AIサービスを開発する米Gensparkは、オープンソースのAI機能付きオフィススイート「GenOffice」を発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "資金調達の「二極化」進む 勝ち抜く企業の条件は？ 早大教授に聞く",
-      "link": "https://www.itmedia.co.jp/business/articles/2608/06/news014.html",
-      "date": "2026-08-06T07:00:00+09:00",
-      "dateLabel": "08/06 07:00",
-      "desc": "「AIによる審査の高度化」と「資金調達の多様化」は必ずしも同じ話ではない──ベンチャーファイナンスの第一人者である早稲田大学ビジネススクール（経営管理研究科）の長谷川博和教授は、こう指摘する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
       "score": 26
     }
   ]
