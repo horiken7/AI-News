@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-06T10:34:05.749725+09:00",
-  "generatedLabel": "2026/08/06 10:34",
+  "generatedAt": "2026-08-06T13:55:50.320651+09:00",
+  "generatedLabel": "2026/08/06 13:55",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 52,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,7 +13,7 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 17
+      "items": 18
     },
     {
       "source": "ASCII.jp",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 16
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "Meta、コーディングエージェント「Muse Code」リリース 「Claude Code」や「Codex」に対抗",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000410/",
+      "date": "2026-08-06T10:31:17+09:00",
+      "dateLabel": "08/06 10:31",
+      "desc": "Metaは、ターミナル上で動作するコーディングエージェント「Muse Code」のベータ版と、新モデル「Muse Spark 1.2」を発表した。非同期バックグラウンドエージェントの常駐により遅延を抑え、複雑な開発タスクをサポートする。自己改善ループ等でコーディング性能を強化し、各種ベンチマークでも従来版を上回る成果を示した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 74
+    },
+    {
       "title": "1Password、ダッシュボードから組織のAI支出状況を表示する新機能。ClaudeやCursor、ChatGPTなど複数AIにI対応",
       "link": "https://www.publickey1.jp/blog/26/1passwordaiclaudecursorchatgptaii.html",
       "date": "2026-08-05T00:38:32+09:00",
@@ -74,37 +85,48 @@
       "score": 58
     },
     {
-      "title": "Google DeepMindのデミス・ハサビス氏が会長へ Gemini開発を後任に託しAGIに注力",
-      "link": "https://ascii.jp/elem/000/004/425/4425285/?rss",
-      "date": "2026-08-06T10:00:00+09:00",
-      "dateLabel": "08/06 10:00",
-      "desc": "Alphabet傘下のグーグルは8月5日、AI研究部門Google DeepMindの経営体制変更を発表した。Google DeepMindのCEOのデミス・ハサビス氏は、Google DeepMindの会長とAlphabetのチーフ・サイエンティストに就任することになる。",
-      "img": "https://ascii.jp/img/2026/08/06/4510092/s/d0df96db4c88af80.png",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "初心者だからこそゲーミングPCの性能に余裕を！ Ryzen 7×RX 9070 XT搭載なら長く遊べる",
-      "link": "https://ascii.jp/elem/000/004/425/4425248/?rss",
-      "date": "2026-08-05T20:00:00+09:00",
-      "dateLabel": "08/05 20:00",
-      "desc": "ゲーミングPC選びで迷う初心者に勧めたい「K2-PSK78X3D97XT」。ゲーム向けCPUと高性能GPU、32GBメモリを標準搭載し、細かなカスタマイズなしでも安心して選べる1台。",
-      "img": "https://ascii.jp/img/2026/08/05/4509858/s/80fe31c3d8af0ab0.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "スマホで動作するエージェント対応小型AIモデル「LFM2.5-2.6B」が登場、ローカル環境でAIエージェントを実行可能",
-      "link": "https://gigazine.net/news/20260805-lfm2-5-2-6b/",
-      "date": "2026-08-05T12:25:00+09:00",
-      "dateLabel": "08/05 12:25",
-      "desc": "MITからスピンオフしたAI企業・「Liquid AI」が、小型AIモデル「LFM2.5」シリーズのエージェント対応モデルとして「LFM2.5-2.6B」を2026年8月4日にリリースしました。スマートフォンで動作するほど小型でありながら、計画立案・ツール呼び出し・複数ステップのタスク処理といったエージェントワークフローを駆動できる十分な性能を備えているとの",
+      "title": "MetaがMuse Spark 1.2を搭載したターミナルコーディングエージェント「Muse Code」べータ版をリリース",
+      "link": "https://gigazine.net/news/20260806-meta-muse-code/",
+      "date": "2026-08-06T12:21:00+09:00",
+      "dateLabel": "08/06 12:21",
+      "desc": "Metaは2026年8月5日、ターミナル上で動作するコーディングエージェント「Muse Code」のベータ版と、その基盤モデル「Muse Spark 1.2」を発表しました。大規模なコードリポジトリを対象に、変更の計画、実装、検証までを一貫して処理し、長時間にわたる複雑なソフトウェア開発にも対応します。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 42
+    },
+    {
+      "title": "MythosとGPT-5.6 Solが性能テスト中に暴走 OSSメンテナーに圧力、有害コード実行図る 英政府機関",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000411/",
+      "date": "2026-08-06T11:06:26+09:00",
+      "dateLabel": "08/06 11:06",
+      "desc": "英政府機関AISIによるAIモデルのサイバー能力評価中に、AnthropicのMythos 5やOpenAIのGPT-5.6 Solが実在の人や組織を標的に暴走。偽アカウントを作り、OSSメンテナーに悪意あるコードの承認を迫っていた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "準国産ヒューマノイド「D1」登場 “あのロボット”と同じ129.3cmのコンパクトボディ",
+      "link": "https://ascii.jp/elem/000/004/425/4425375/?rss",
+      "date": "2026-08-06T12:50:00+09:00",
+      "dateLabel": "08/06 12:50",
+      "desc": "日本のロボット開発企業ZEALSは8月5日、準国産の小型ヒューマノイド「D1」を発表した。価格や1台500万円からを予定。同日より販売の受付を始める。",
+      "img": "https://ascii.jp/img/2026/08/06/4510181/s/92a5cdd728b0528c.png",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 34
+    },
+    {
+      "title": "Cloudflareが社内AI基盤「Cloudflare OS」をオープンソース化、機密情報を守りながら業務アプリを作成可能に",
+      "link": "https://gigazine.net/news/20260806-cloudflare-os/",
+      "date": "2026-08-06T11:54:00+09:00",
+      "dateLabel": "08/06 11:54",
+      "desc": "Cloudflareが社内向けAI基盤「Cloudflare OS」の新バージョンをオープンソース化しました。AIエージェントから社内データへ安全にアクセスできるようにし、文書作成や調査、業務アプリの開発、定型作業の自動化などに活用できるとのことです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "VRAM 4GBのノートPC向けGPUでも8Bモデルをファインチューニングできるオープンソースツール「Soup」",
@@ -126,17 +148,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "「転職相談は、まずAIに」を当たり前に。JOB PALETTE、就活の全ステップに対応したAIプロンプト集を無料公開（全9本収録）",
-      "link": "https://ascii.jp/elem/000/004/425/4425275/?rss",
-      "date": "2026-08-06T06:00:00+09:00",
-      "dateLabel": "08/06 06:00",
-      "desc": "「転職相談は、まずAIに」を当たり前に。JOB PALETTE、就活の全ステップに対応したAIプロンプト集を無料公開（全9本収録）",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -162,67 +173,56 @@
       "score": 34
     },
     {
-      "title": "エージェント型AIは「過度な期待」のピークへ ガートナー、日本におけるデジタルワークプレースのハイプサイクルを発表",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/05/2000000393/",
-      "date": "2026-08-05T13:40:35+09:00",
-      "dateLabel": "08/05 13:40",
-      "desc": "ガートナージャパンが日本における未来のデジタル・ワークプレースのハイプ・サイクルを発表。エージェント型AIを「過度な期待」のピークに位置付け、AIエージェントの浸透やシャドーAIのリスク拡大などのトレンドを紹介した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "英AI研究所、評価中のAIが実在の開発者を標的に──偽アカウント使い悪意あるコードの承認迫る",
-      "link": "https://www.itmedia.co.jp/news/article/2608/05/2000000391/",
-      "date": "2026-08-05T11:39:27+09:00",
-      "dateLabel": "08/05 11:39",
-      "desc": "英AI研究所のAISIは、AIエージェントの評価中に、実在の人物や組織に対してAIが継続的かつ不許可の行動を取るインシデントを検知したと発表した。GitHub上で偽アカウントを作成して保守担当者を欺くサプライチェーン攻撃を試みた事例などが含まれる。攻撃はいずれも阻止され実害はなく、リアルタイム監視の導入などの再発防止策を進めるとしている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "NVIDIAが自動運転車用のAI「Alpamayo 2 Super」を無償公開",
-      "link": "https://gigazine.net/news/20260805-nvidia-alpamayo-2-super/",
-      "date": "2026-08-05T11:15:00+09:00",
-      "dateLabel": "08/05 11:15",
-      "desc": "NVIDIAが自動運転車用のAI「Alpamayo 2 Super」を現地時間の2026年8月4日に公開しました。Alpamayo 2 Superは自動車に搭載したカメラをもとに周囲の状況を推測して進路を決定できます。 続きを読む...",
+      "title": "スマホで動作するエージェント対応小型AIモデル「LFM2.5-2.6B」が登場、ローカル環境でAIエージェントを実行可能",
+      "link": "https://gigazine.net/news/20260805-lfm2-5-2-6b/",
+      "date": "2026-08-05T12:25:00+09:00",
+      "dateLabel": "08/05 12:25",
+      "desc": "MITからスピンオフしたAI企業・「Liquid AI」が、小型AIモデル「LFM2.5」シリーズのエージェント対応モデルとして「LFM2.5-2.6B」を2026年8月4日にリリースしました。スマートフォンで動作するほど小型でありながら、計画立案・ツール呼び出し・複数ステップのタスク処理といったエージェントワークフローを駆動できる十分な性能を備えているとの",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "半導体/GPU",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
-      "title": "DuckDuckGoが「カメラなし・AIなし」のアンチスマートグラスを販売",
-      "link": "https://gigazine.net/news/20260805-duckduckgo-sunglasses-paso-robles/",
-      "date": "2026-08-05T11:04:00+09:00",
-      "dateLabel": "08/05 11:04",
-      "desc": "検索エンジンを運営するDuckDuckGoがサングラスメーカーのKnockaroundと提携し、「世界で最も革新的な監視対策サングラス」として「Paso Robles」をリリースしました。製品特徴には「AIなし、カメラなし、マイクなし、電子機器なし」がうたわれています。 続きを読む...",
+      "title": "Google DeepMindのデミス・ハサビスがCEOを退任して会長になりAlphabetのチーフサイエンティストを兼任",
+      "link": "https://gigazine.net/news/20260806-demis-hassabis-gdm-chairman/",
+      "date": "2026-08-06T12:12:00+09:00",
+      "dateLabel": "08/06 12:12",
+      "desc": "Alphabet傘下のAI開発企業・Google DeepMind(GDM)でCEOを務めていたデミス・ハサビス氏が退任して会長になることが発表されました。あわせて、ハサビス氏はAlphabetのチーフサイエンティストに就任。役職は変わるものの、今後もAI開発に携わっていくことになるようです。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 34
+      "score": 26
     },
     {
-      "title": "動画生成AI「FLUX 3 Video」が一般公開される、1080p・20秒の動画を生成可能で近日中にオープンモデルも公開予定",
-      "link": "https://gigazine.net/news/20260805-flux-3-video/",
-      "date": "2026-08-05T10:40:00+09:00",
-      "dateLabel": "08/05 10:40",
-      "desc": "AI開発企業のBlack Forest Labsが動画生成AI「FLUX 3 Video」を現地時間の2026年8月4日に一般公開しました。FLUX 3 Videoは最大20秒・1080p(フルHD)の音声付き動画を生成可能です。 続きを読む...",
+      "title": "Googleは9月4日にスマートフォンのGoogleアシスタントを終了する予定",
+      "link": "https://gigazine.net/news/20260806-google-plan-to-kill-google-assistant/",
+      "date": "2026-08-06T11:06:00+09:00",
+      "dateLabel": "08/06 11:06",
+      "desc": "GoogleがAndroidスマートフォンやタブレットで提供している「Googleアシスタント」を2026年9月4日から段階的に終了し、後継のAIアシスタント「Gemini」へ移行することをユーザー向けメールで案内しました。Googleアシスタントは数週間かけて利用できなくなり、終了後は従来のアシスタントへ戻すこともできなくなります。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
+      "cat": "LLM/モデル",
+      "score": 26
     },
     {
-      "title": "Nextorage、V90対応SDXC UHS-IIカード発売 4K・8K動画撮影向け最大1TBモデル",
-      "link": "https://ascii.jp/elem/000/004/425/4425270/?rss",
-      "date": "2026-08-06T09:00:00+09:00",
-      "dateLabel": "08/06 09:00",
-      "desc": "NextorageがV90対応SDXC UHS-IIメモリーカード「NX-F2AEシリーズ」を発売。最大300MB/sの高速転送とV90対応で4K・6K・8K動画撮影をサポート。256GB・512GB・1TBの3容量をラインアップし、長時間撮影やプロの映像制作にも適した高耐久モデルです。",
-      "img": "https://ascii.jp/img/2026/08/06/4510020/s/b85b4f9b1dde9427.png",
+      "title": "【2026年 日本企業のAI業務活用実態調査】生成AI活用企業の67.1％が、いまだ「人が起動」AI利用を横断追跡できる割合は13.0％、社内データ未整備は50.7％",
+      "link": "https://ascii.jp/elem/000/004/425/4425379/?rss",
+      "date": "2026-08-06T11:00:00+09:00",
+      "dateLabel": "08/06 11:00",
+      "desc": "【2026年 日本企業のAI業務活用実態調査】生成AI活用企業の67.1％が、いまだ「人が起動」AI利用を横断追跡できる割合は13.0％、社内データ未整備は50.7％",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 26
+    },
+    {
+      "title": "「ネッシーカフェ」今回はネカフェで開催、Apex Legendsやダーツをしながらコラボメニューが楽しめる！",
+      "link": "https://ascii.jp/elem/000/004/425/4425287/?rss",
+      "date": "2026-08-06T11:00:00+09:00",
+      "dateLabel": "08/06 11:00",
+      "desc": "エレクトロニック・アーツが展開する「Apex Legends」のコラボカフェ「ネッシーカフェ」が、またまた開催されます。会場は全国4都市の計6店舗で実施。加えて、東京では池袋のDiCE、AIM、インフォレンズ店舗を巡るスタンプラリーも開催します。",
+      "img": "https://ascii.jp/img/2026/08/06/4510071/s/6e5008546fc05693.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
@@ -250,6 +250,17 @@
       "score": 26
     },
     {
+      "title": "企業向けプライバシー保護基盤のテスト版API",
+      "link": "https://ascii.jp/elem/000/004/424/4424737/?rss",
+      "date": "2026-08-06T07:00:00+09:00",
+      "dateLabel": "08/06 07:00",
+      "desc": "株式会社Speeeの子会社でブロックチェーン技術開発を手がける株式会社Datachainは、7月29日にプライバシー保護基盤「KuraPrivacy」において、決済事業者やウォレット事業者が自社サービスにプライバシー保護機能を組み込める「Service API」テスト版の提供を開始した。あわせて、同基盤の機能をブラウザ上で体験できるデモアプリ「Kura Pa",
+      "img": "https://ascii.jp/img/2026/08/04/4509155/s/76b6d0920dadaa1f.jpg",
+      "src": "ASCII.jp",
+      "cat": "規制/安全",
+      "score": 26
+    },
+    {
       "title": "Google DeepMindが描く「AGIの次」 超知能に至る4つの経路と6つのボトルネック",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/06/news015.html",
       "date": "2026-08-06T05:00:00+09:00",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "AINOW",
       "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "アフリカのサイバー犯罪の50％以上にAIが悪用されており欧米諸国にも被害が及んでいるとインターポールが発表",
-      "link": "https://gigazine.net/news/20260805-ai-fuels-half-cybercrime-africa-interpol/",
-      "date": "2026-08-05T22:00:00+09:00",
-      "dateLabel": "08/05 22:00",
-      "desc": "生成AIツールはさまざまな仕事や学業に役立ちますが、犯罪者にとっても有用なツールとなっています。国際刑事機構(インターポール)が、アフリカ全土で報告されているサイバー犯罪の55％以上にAIが使われており、その脅威は大陸を越えて広がっているとの報告書を発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "生成AI/マルチモーダル",
       "score": 26
     }
   ]
