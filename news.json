@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-06T08:48:44.367167+09:00",
-  "generatedLabel": "2026/08/06 08:48",
+  "generatedAt": "2026-08-06T10:34:05.749725+09:00",
+  "generatedLabel": "2026/08/06 10:34",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 54,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -74,6 +74,17 @@
       "score": 58
     },
     {
+      "title": "Google DeepMindのデミス・ハサビス氏が会長へ Gemini開発を後任に託しAGIに注力",
+      "link": "https://ascii.jp/elem/000/004/425/4425285/?rss",
+      "date": "2026-08-06T10:00:00+09:00",
+      "dateLabel": "08/06 10:00",
+      "desc": "Alphabet傘下のグーグルは8月5日、AI研究部門Google DeepMindの経営体制変更を発表した。Google DeepMindのCEOのデミス・ハサビス氏は、Google DeepMindの会長とAlphabetのチーフ・サイエンティストに就任することになる。",
+      "img": "https://ascii.jp/img/2026/08/06/4510092/s/d0df96db4c88af80.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "初心者だからこそゲーミングPCの性能に余裕を！ Ryzen 7×RX 9070 XT搭載なら長く遊べる",
       "link": "https://ascii.jp/elem/000/004/425/4425248/?rss",
       "date": "2026-08-05T20:00:00+09:00",
@@ -118,6 +129,17 @@
       "score": 34
     },
     {
+      "title": "「転職相談は、まずAIに」を当たり前に。JOB PALETTE、就活の全ステップに対応したAIプロンプト集を無料公開（全9本収録）",
+      "link": "https://ascii.jp/elem/000/004/425/4425275/?rss",
+      "date": "2026-08-06T06:00:00+09:00",
+      "dateLabel": "08/06 06:00",
+      "desc": "「転職相談は、まずAIに」を当たり前に。JOB PALETTE、就活の全ステップに対応したAIプロンプト集を無料公開（全9本収録）",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "iPhoneで動作しBonsai 27Bと同等性能で13倍高速なAI「Maple-Preview」が登場、ローカルAIがまた1歩前進",
       "link": "https://gigazine.net/news/20260805-maple-preview/",
       "date": "2026-08-05T23:00:00+09:00",
@@ -126,28 +148,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "デジタルツイン総合研究所、フィジカルAIの参照・オーケストレーション基盤「SHOKEI」をリリース",
-      "link": "https://ascii.jp/elem/000/004/425/4425250/?rss",
-      "date": "2026-08-05T18:08:43+09:00",
-      "dateLabel": "08/05 18:08",
-      "desc": "デジタルツイン総合研究所、フィジカルAIの参照・オーケストレーション基盤「SHOKEI」をリリース",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "FDUA 生成AIWG、『金融生成AIガイドライン（第1.2版）』を公開",
-      "link": "https://ascii.jp/elem/000/004/425/4425242/?rss",
-      "date": "2026-08-05T18:00:00+09:00",
-      "dateLabel": "08/05 18:00",
-      "desc": "FDUA 生成AIWG、『金融生成AIガイドライン（第1.2版）』を公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
@@ -217,15 +217,15 @@
       "score": 34
     },
     {
-      "title": "「フルスクラッチ開発」って何？──LLMを“骨格”と“筋肉”に例えて国産モデルの現在地を整理する",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/05/2000000386/",
-      "date": "2026-08-05T10:24:20+09:00",
-      "dateLabel": "08/05 10:24",
-      "desc": "「LLMはどこまで『国産』であるべきか？」と題した本特集では、日本企業が安全性と利便性を確保したAI活用を実現するにはどのレイヤーを国産にすべきなのか、そもそも国産にはどのようなメリットがあるのかを、代表的な国内ベンダーへの取材などを通して考察する。第1回の本稿では、そもそもLLMがどう作られていて、国内ベンダーがLLMのどこを開発しているかを整理してみたい",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
-      "score": 34
+      "title": "Nextorage、V90対応SDXC UHS-IIカード発売 4K・8K動画撮影向け最大1TBモデル",
+      "link": "https://ascii.jp/elem/000/004/425/4425270/?rss",
+      "date": "2026-08-06T09:00:00+09:00",
+      "dateLabel": "08/06 09:00",
+      "desc": "NextorageがV90対応SDXC UHS-IIメモリーカード「NX-F2AEシリーズ」を発売。最大300MB/sの高速転送とV90対応で4K・6K・8K動画撮影をサポート。256GB・512GB・1TBの3容量をラインアップし、長時間撮影やプロの映像制作にも適した高耐久モデルです。",
+      "img": "https://ascii.jp/img/2026/08/06/4510020/s/b85b4f9b1dde9427.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     },
     {
       "title": "オープンソースのAI機能付きオフィス登場 docx・xlsx・pptx・pdfに対応 Genspark",
