@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-06T16:33:46.153708+09:00",
-  "generatedLabel": "2026/08/06 16:33",
+  "generatedAt": "2026-08-06T19:27:36.615696+09:00",
+  "generatedLabel": "2026/08/06 19:27",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 57,
+  "candidates": 51,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 2
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -96,37 +96,15 @@
       "score": 58
     },
     {
-      "title": "約1.53kgでRTX 5070搭載 マウス「DAIV Z5」は持ち運べる高性能Copilot+ PC",
-      "link": "https://ascii.jp/elem/000/004/425/4425410/?rss",
-      "date": "2026-08-06T15:00:00+09:00",
-      "dateLabel": "08/06 15:00",
-      "desc": "マウスコンピューターがDAIVブランドから15.3型Copilot+ PC「DAIV Z5」シリーズを8月6日15時に発売。RTX 5060/5070 Laptop GPU搭載の薄型軽量ノートとして、クリエイティブワークとAI機能を外出先でも支える内容だ。",
-      "img": "https://ascii.jp/img/2026/08/06/4510255/s/9c1715e80fb2500f.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
-      "title": "株式会社クラシテク、訪問介護事業所向けAIエージェント「SHISHIホウモンカイゴ」を提供開始。初期費用・固定費・契約縛りゼロ。撮って送るだけで介護記録が登録され、報告書・計画書も自動作成。",
-      "link": "https://ascii.jp/elem/000/004/425/4425514/?rss",
-      "date": "2026-08-06T13:22:29+09:00",
-      "dateLabel": "08/06 13:22",
-      "desc": "株式会社クラシテク、訪問介護事業所向けAIエージェント「SHISHIホウモンカイゴ」を提供開始。初期費用・固定費・契約縛りゼロ。撮って送るだけで介護記録が登録され、報告書・計画書も自動作成。",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
+      "title": "「1人1AI」のアプローチは破綻する――チームでAI共有時のセキュリティ問題を解決するベストプラクティス",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/07/news022.html",
+      "date": "2026-08-06T16:00:00+09:00",
+      "dateLabel": "08/06 16:00",
+      "desc": "Anthropicは、「Claude Tag」における「エージェントアイデンティティー」アクセスモデルの仕組みと、チームのワークスペースでこれを構成する際のベストプラクティスを解説したブログ記事を公開した。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "AIデータセンター向けUltra Ethernet検証を実現 「VIAVI TestCenter」に新機能「Ultra Ethernet Transport（UET）検証ソリューション」を追加",
-      "link": "https://ascii.jp/elem/000/004/425/4425530/?rss",
-      "date": "2026-08-06T13:00:00+09:00",
-      "dateLabel": "08/06 13:00",
-      "desc": "AIデータセンター向けUltra Ethernet検証を実現 「VIAVI TestCenter」に新機能「Ultra Ethernet Transport（UET）検証ソリューション」を追加",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 42
+      "score": 50
     },
     {
       "title": "MetaがMuse Spark 1.2を搭載したターミナルコーディングエージェント「Muse Code」べータ版をリリース",
@@ -159,39 +137,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "株式会社クラシテク、特別養護老人ホーム向けAI業務支援サービス「SHISHIトクヨウ」を発表。初期費用0円・固定費0円・契約期間の縛りなし",
-      "link": "https://ascii.jp/elem/000/004/425/4425515/?rss",
-      "date": "2026-08-06T13:21:53+09:00",
-      "dateLabel": "08/06 13:21",
-      "desc": "株式会社クラシテク、特別養護老人ホーム向けAI業務支援サービス「SHISHIトクヨウ」を発表。初期費用0円・固定費0円・契約期間の縛りなし",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "【不動産会社の経営者必見】「不動産会社がAI導入でつまずく5つのパターンと回避法」公開のお知らせ",
-      "link": "https://ascii.jp/elem/000/004/425/4425507/?rss",
-      "date": "2026-08-06T13:11:38+09:00",
-      "dateLabel": "08/06 13:11",
-      "desc": "【不動産会社の経営者必見】「不動産会社がAI導入でつまずく5つのパターンと回避法」公開のお知らせ",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "GMOランシステム、AIで基幹・レガシーシステム刷新を支援するマイグレーションサービス「Migraty byGMO」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/425/4425529/?rss",
-      "date": "2026-08-06T13:00:00+09:00",
-      "dateLabel": "08/06 13:00",
-      "desc": "GMOランシステム、AIで基幹・レガシーシステム刷新を支援するマイグレーションサービス「Migraty byGMO」を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -239,23 +184,34 @@
       "score": 34
     },
     {
-      "title": "OpenAIがAppleによる訴訟に反論、「提訴する前に相談してくれれば喜んですべて説明していた」",
-      "link": "https://gigazine.net/news/20260805-apple-openai/",
-      "date": "2026-08-05T17:05:00+09:00",
-      "dateLabel": "08/05 17:05",
-      "desc": "「OpenAIに転職した社員らが機密情報を盗み出している」としてAppleが訴えを起こしている件で、OpenAIが「Appleの主張には誤りがある」と反論しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 34
+      "title": "特別講演で学ぶ、AI時代に振り回されないための「思考の土台」",
+      "link": "https://ascii.jp/elem/000/004/425/4425622/?rss",
+      "date": "2026-08-06T18:30:00+09:00",
+      "dateLabel": "08/06 18:30",
+      "desc": "特別講演で学ぶ、AI時代に振り回されないための「思考の土台」",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     },
     {
-      "title": "「文庫」から始まった出版プラットフォームの歴史：IPのマルチレイヤー化とAI時代への挑戦",
-      "link": "https://ascii.jp/elem/000/004/417/4417512/?rss",
-      "date": "2026-08-06T16:00:00+09:00",
-      "dateLabel": "08/06 16:00",
-      "desc": "京都大学プラットフォーム学卓越大学院プログラムでは2026年5月7日に、2026年度第1回の学生向けのイベントを開催。日本の出版業界が、どのようなイノベーションを経てそのイメージを覆し、現在のIP（知的財産）ビジネスへと至ったのか、そしてAI時代に直面する新たな課題について、豊富な裏話を交えながら語った。",
-      "img": "https://ascii.jp/img/2026/07/08/4497054/s/71d318bf7fdae0a7.jpg",
+      "title": "書店に「3000冊の発注」、AI企業が古書を買いあさる？ Anthropicも数百万冊をスキャン・破棄 実態明らかに",
+      "link": "https://www.itmedia.co.jp/business/articles/2608/06/news060.html",
+      "date": "2026-08-06T17:30:00+09:00",
+      "dateLabel": "08/06 17:30",
+      "desc": "オランダの古書店に、3000冊の注文が入った。届け先は、中国のAI企業。AI学習用データにするとみられる。Anthropicも数百万冊をスキャンした後、破棄している。その実態が明らかになった。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "RTX 5070搭載PCも対象。GALLERIA購入でオリジナルグッズが当たる夏キャンペーン8/31まで！",
+      "link": "https://ascii.jp/elem/000/004/425/4425088/?rss",
+      "date": "2026-08-06T17:00:00+09:00",
+      "dateLabel": "08/06 17:00",
+      "desc": "ドスパラでは現在、「GALLERIA Summer Campaign 2026」を開催中。期間中にGALLERIAを購入してエントリーすると、オリジナルグッズなどを抽選でプレゼント。さらに、先着16,000名にはオリジナルUSBメモリを進呈する。",
+      "img": "https://ascii.jp/img/2026/07/28/4506562/s/3b1f93e9a2268c95.png",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
@@ -277,6 +233,50 @@
       "date": "2026-08-06T13:28:32+09:00",
       "dateLabel": "08/06 13:28",
       "desc": "リクルートは、2026年度の新卒エンジニア向けの研修資料を公開した。エンジニアとして生き残るためのAIの活用法や、AIによるソフトウェア開発の考え方の変化など、業務やキャリア形成に必要な知見を幅広く紹介している。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "Google DeepMindのデミス・ハサビスがCEOを退任して会長になりAlphabetのチーフサイエンティストを兼任",
+      "link": "https://gigazine.net/news/20260806-demis-hassabis-gdm-chairman/",
+      "date": "2026-08-06T12:12:00+09:00",
+      "dateLabel": "08/06 12:12",
+      "desc": "Alphabet傘下のAI開発企業・Google DeepMind(GDM)でCEOを務めていたデミス・ハサビス氏が退任して会長になることが発表されました。あわせて、ハサビス氏はAlphabetのチーフサイエンティストに就任。役職は変わるものの、今後もAI開発に携わっていくことになるようです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "Googleは9月4日にスマートフォンのGoogleアシスタントを終了する予定",
+      "link": "https://gigazine.net/news/20260806-google-plan-to-kill-google-assistant/",
+      "date": "2026-08-06T11:06:00+09:00",
+      "dateLabel": "08/06 11:06",
+      "desc": "GoogleがAndroidスマートフォンやタブレットで提供している「Googleアシスタント」を2026年9月4日から段階的に終了し、後継のAIアシスタント「Gemini」へ移行することをユーザー向けメールで案内しました。Googleアシスタントは数週間かけて利用できなくなり、終了後は従来のアシスタントへ戻すこともできなくなります。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "オープンソースのAI機能付きオフィス登場 docx・xlsx・pptx・pdfに対応 Genspark",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000398/",
+      "date": "2026-08-06T08:00:00+09:00",
+      "dateLabel": "08/06 08:00",
+      "desc": "AIサービスを開発する米Gensparkは、オープンソースのAI機能付きオフィススイート「GenOffice」を発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "資金調達の「二極化」進む 勝ち抜く企業の条件は？ 早大教授に聞く",
+      "link": "https://www.itmedia.co.jp/business/articles/2608/06/news014.html",
+      "date": "2026-08-06T07:00:00+09:00",
+      "dateLabel": "08/06 07:00",
+      "desc": "「AIによる審査の高度化」と「資金調達の多様化」は必ずしも同じ話ではない──ベンチャーファイナンスの第一人者である早稲田大学ビジネススクール（経営管理研究科）の長谷川博和教授は、こう指摘する。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AI全般",
