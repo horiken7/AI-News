@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-06T21:50:13.424902+09:00",
-  "generatedLabel": "2026/08/06 21:50",
+  "generatedAt": "2026-08-07T00:06:27.506398+09:00",
+  "generatedLabel": "2026/08/07 00:06",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 52,
@@ -140,6 +140,17 @@
       "score": 42
     },
     {
+      "title": "100分の1の価格のオープンモデルでGPT-5.6 Solの検索性能を凌駕したという報告",
+      "link": "https://gigazine.net/news/20260806-open-model-beat-gpt-5-6-sol/",
+      "date": "2026-08-06T22:00:00+09:00",
+      "dateLabel": "08/06 22:00",
+      "desc": "サーバーレスなPostgresデータベースを提供しているNeonが、オープンソースAIモデルを企業向けに追加学習するための基盤を提供する企業のCastformと共同で、40億パラメータのオープンソースモデルを強化学習でポストトレーニングしたことにより「検索タスクにおいてOpenAIのGPT-5.6 Solと同等の精度を100分の1のコストで達成した」と報告し",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "アプリが遅い原因をAIがトレースログから分析してくれる「Windows Performance Analyzer MCP」 Microsoftがプレビュー公開",
       "link": "https://www.itmedia.co.jp/news/article/2608/06/2000000434/",
       "date": "2026-08-06T19:54:46+09:00",
@@ -195,15 +206,15 @@
       "score": 34
     },
     {
-      "title": "iPhoneで動作しBonsai 27Bと同等性能で13倍高速なAI「Maple-Preview」が登場、ローカルAIがまた1歩前進",
-      "link": "https://gigazine.net/news/20260805-maple-preview/",
-      "date": "2026-08-05T23:00:00+09:00",
-      "dateLabel": "08/05 23:00",
-      "desc": "AI研究企業のDeepGroveが軽量かつ高性能なAIモデル「Maple-Preview」を発表しました。Maple-PreviewはiPhoneでも動作するほど小型のモデルで、同じくiPhoneで動作するBonsai 27Bと比べて13倍高速な処理が可能です。 続きを読む...",
+      "title": "AIエージェントは製造業をどう変える？活用事例8選と導入手順を解説",
+      "link": "https://ainow.ai/2026/08/06/278302/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25af%25e8%25a3%25bd%25e9%2580%25a0%25e6%25a5%25ad%25e3%2582%2592%25e3%2581%25a9%25e3%2581%2586%25e5%25a4%2589%25e3%2581%2588%25e3%2582%258b%25ef%25bc%259f%25e6%25b4%25bb%25e7%2594%25a8%25e4%25ba%258b%25e4%25be%258b8",
+      "date": "2026-08-06T22:56:41+09:00",
+      "dateLabel": "08/06 22:56",
+      "desc": "生成AIを全社導入したものの、成果が出たのは議事録の要約や資料作成ばかりです。原価に直結する製造現場は何も変わっていないと感じている推進担当者は少なくありません。 製造業のAIエージェントとは、生産計画・設備保全・品質検... The post AIエージェントは製造業をどう変える？活用事例8選と導入手順を解説 first appeared on AI専門ニ",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 26
     },
     {
       "title": "機能を絞ったAIコーディングツール「Pi」が高性能な理由とは？4つの基本機能でAIコストを抑える仕組み",
@@ -266,17 +277,6 @@
       "date": "2026-08-06T17:30:00+09:00",
       "dateLabel": "08/06 17:30",
       "desc": "オランダの古書店に、3000冊の注文が入った。届け先は、中国のAI企業。AI学習用データにするとみられる。Anthropicも数百万冊をスキャンした後、破棄している。その実態が明らかになった。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "中国DeepSeek、近日中に「大幅値上げ」か API料金ページに追記",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000423/",
-      "date": "2026-08-06T15:01:18+09:00",
-      "dateLabel": "08/06 15:01",
-      "desc": "中国のDeepSeekは、同社が提供するAPIの料金ページに「近日中に大幅な値上げが見込まれる」と記載した。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
