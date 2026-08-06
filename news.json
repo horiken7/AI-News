@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-06T13:55:50.320651+09:00",
-  "generatedLabel": "2026/08/06 13:55",
+  "generatedAt": "2026-08-06T16:33:46.153708+09:00",
+  "generatedLabel": "2026/08/06 16:33",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 16
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -74,6 +74,17 @@
       "score": 74
     },
     {
+      "title": "NVIDIA、自動運転向けオープンモデルを商用利用可に 新モデルは「卓越した性能」うたう",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000420/",
+      "date": "2026-08-06T13:56:48+09:00",
+      "dateLabel": "08/06 13:56",
+      "desc": "NVIDIAが自動運転向けAIモデル「Alpamayo」ファミリーを商用利用可能なオープンライセンスで提供開始。新モデル「Alpamayo 2 Super」は推論ベンチマークで首位になるなど卓越した性能をうたう。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 66
+    },
+    {
       "title": "1Password、ダッシュボードから組織のAI支出状況を表示する新機能。ClaudeやCursor、ChatGPTなど複数AIにI対応",
       "link": "https://www.publickey1.jp/blog/26/1passwordaiclaudecursorchatgptaii.html",
       "date": "2026-08-05T00:38:32+09:00",
@@ -83,6 +94,39 @@
       "src": "Publickey",
       "cat": "LLM/モデル",
       "score": 58
+    },
+    {
+      "title": "約1.53kgでRTX 5070搭載 マウス「DAIV Z5」は持ち運べる高性能Copilot+ PC",
+      "link": "https://ascii.jp/elem/000/004/425/4425410/?rss",
+      "date": "2026-08-06T15:00:00+09:00",
+      "dateLabel": "08/06 15:00",
+      "desc": "マウスコンピューターがDAIVブランドから15.3型Copilot+ PC「DAIV Z5」シリーズを8月6日15時に発売。RTX 5060/5070 Laptop GPU搭載の薄型軽量ノートとして、クリエイティブワークとAI機能を外出先でも支える内容だ。",
+      "img": "https://ascii.jp/img/2026/08/06/4510255/s/9c1715e80fb2500f.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 50
+    },
+    {
+      "title": "株式会社クラシテク、訪問介護事業所向けAIエージェント「SHISHIホウモンカイゴ」を提供開始。初期費用・固定費・契約縛りゼロ。撮って送るだけで介護記録が登録され、報告書・計画書も自動作成。",
+      "link": "https://ascii.jp/elem/000/004/425/4425514/?rss",
+      "date": "2026-08-06T13:22:29+09:00",
+      "dateLabel": "08/06 13:22",
+      "desc": "株式会社クラシテク、訪問介護事業所向けAIエージェント「SHISHIホウモンカイゴ」を提供開始。初期費用・固定費・契約縛りゼロ。撮って送るだけで介護記録が登録され、報告書・計画書も自動作成。",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "AIデータセンター向けUltra Ethernet検証を実現 「VIAVI TestCenter」に新機能「Ultra Ethernet Transport（UET）検証ソリューション」を追加",
+      "link": "https://ascii.jp/elem/000/004/425/4425530/?rss",
+      "date": "2026-08-06T13:00:00+09:00",
+      "dateLabel": "08/06 13:00",
+      "desc": "AIデータセンター向けUltra Ethernet検証を実現 「VIAVI TestCenter」に新機能「Ultra Ethernet Transport（UET）検証ソリューション」を追加",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
     },
     {
       "title": "MetaがMuse Spark 1.2を搭載したターミナルコーディングエージェント「Muse Code」べータ版をリリース",
@@ -107,14 +151,47 @@
       "score": 42
     },
     {
-      "title": "準国産ヒューマノイド「D1」登場 “あのロボット”と同じ129.3cmのコンパクトボディ",
-      "link": "https://ascii.jp/elem/000/004/425/4425375/?rss",
-      "date": "2026-08-06T12:50:00+09:00",
-      "dateLabel": "08/06 12:50",
-      "desc": "日本のロボット開発企業ZEALSは8月5日、準国産の小型ヒューマノイド「D1」を発表した。価格や1台500万円からを予定。同日より販売の受付を始める。",
-      "img": "https://ascii.jp/img/2026/08/06/4510181/s/92a5cdd728b0528c.png",
+      "title": "Googleからジェフ・ディーンら4人が独立してAIで技術革新をめざす「Discovery Loop」創業",
+      "link": "https://gigazine.net/news/20260806-google-jeff-dean-discovery-loop/",
+      "date": "2026-08-06T15:10:00+09:00",
+      "dateLabel": "08/06 15:10",
+      "desc": "Google DeepMindでGeminiの開発などに携わったチーフサイエンティストのジェフ・ディーン氏が、Google DeepMindの退職と、AI関連のパブリックベネフィットコーポレーション「Discovery Loop」立ち上げを発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "株式会社クラシテク、特別養護老人ホーム向けAI業務支援サービス「SHISHIトクヨウ」を発表。初期費用0円・固定費0円・契約期間の縛りなし",
+      "link": "https://ascii.jp/elem/000/004/425/4425515/?rss",
+      "date": "2026-08-06T13:21:53+09:00",
+      "dateLabel": "08/06 13:21",
+      "desc": "株式会社クラシテク、特別養護老人ホーム向けAI業務支援サービス「SHISHIトクヨウ」を発表。初期費用0円・固定費0円・契約期間の縛りなし",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AI実装",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "【不動産会社の経営者必見】「不動産会社がAI導入でつまずく5つのパターンと回避法」公開のお知らせ",
+      "link": "https://ascii.jp/elem/000/004/425/4425507/?rss",
+      "date": "2026-08-06T13:11:38+09:00",
+      "dateLabel": "08/06 13:11",
+      "desc": "【不動産会社の経営者必見】「不動産会社がAI導入でつまずく5つのパターンと回避法」公開のお知らせ",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "GMOランシステム、AIで基幹・レガシーシステム刷新を支援するマイグレーションサービス「Migraty byGMO」を提供開始",
+      "link": "https://ascii.jp/elem/000/004/425/4425529/?rss",
+      "date": "2026-08-06T13:00:00+09:00",
+      "dateLabel": "08/06 13:00",
+      "desc": "GMOランシステム、AIで基幹・レガシーシステム刷新を支援するマイグレーションサービス「Migraty byGMO」を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 34
     },
     {
@@ -173,113 +250,36 @@
       "score": 34
     },
     {
-      "title": "スマホで動作するエージェント対応小型AIモデル「LFM2.5-2.6B」が登場、ローカル環境でAIエージェントを実行可能",
-      "link": "https://gigazine.net/news/20260805-lfm2-5-2-6b/",
-      "date": "2026-08-05T12:25:00+09:00",
-      "dateLabel": "08/05 12:25",
-      "desc": "MITからスピンオフしたAI企業・「Liquid AI」が、小型AIモデル「LFM2.5」シリーズのエージェント対応モデルとして「LFM2.5-2.6B」を2026年8月4日にリリースしました。スマートフォンで動作するほど小型でありながら、計画立案・ツール呼び出し・複数ステップのタスク処理といったエージェントワークフローを駆動できる十分な性能を備えているとの",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Google DeepMindのデミス・ハサビスがCEOを退任して会長になりAlphabetのチーフサイエンティストを兼任",
-      "link": "https://gigazine.net/news/20260806-demis-hassabis-gdm-chairman/",
-      "date": "2026-08-06T12:12:00+09:00",
-      "dateLabel": "08/06 12:12",
-      "desc": "Alphabet傘下のAI開発企業・Google DeepMind(GDM)でCEOを務めていたデミス・ハサビス氏が退任して会長になることが発表されました。あわせて、ハサビス氏はAlphabetのチーフサイエンティストに就任。役職は変わるものの、今後もAI開発に携わっていくことになるようです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
+      "title": "「文庫」から始まった出版プラットフォームの歴史：IPのマルチレイヤー化とAI時代への挑戦",
+      "link": "https://ascii.jp/elem/000/004/417/4417512/?rss",
+      "date": "2026-08-06T16:00:00+09:00",
+      "dateLabel": "08/06 16:00",
+      "desc": "京都大学プラットフォーム学卓越大学院プログラムでは2026年5月7日に、2026年度第1回の学生向けのイベントを開催。日本の出版業界が、どのようなイノベーションを経てそのイメージを覆し、現在のIP（知的財産）ビジネスへと至ったのか、そしてAI時代に直面する新たな課題について、豊富な裏話を交えながら語った。",
+      "img": "https://ascii.jp/img/2026/07/08/4497054/s/71d318bf7fdae0a7.jpg",
+      "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "Googleは9月4日にスマートフォンのGoogleアシスタントを終了する予定",
-      "link": "https://gigazine.net/news/20260806-google-plan-to-kill-google-assistant/",
-      "date": "2026-08-06T11:06:00+09:00",
-      "dateLabel": "08/06 11:06",
-      "desc": "GoogleがAndroidスマートフォンやタブレットで提供している「Googleアシスタント」を2026年9月4日から段階的に終了し、後継のAIアシスタント「Gemini」へ移行することをユーザー向けメールで案内しました。Googleアシスタントは数週間かけて利用できなくなり、終了後は従来のアシスタントへ戻すこともできなくなります。 続きを読む...",
+      "title": "中国DeepSeek、近日中に「大幅値上げ」か API料金ページに追記",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000423/",
+      "date": "2026-08-06T15:01:18+09:00",
+      "dateLabel": "08/06 15:01",
+      "desc": "中国のDeepSeekは、同社が提供するAPIの料金ページに「近日中に大幅な値上げが見込まれる」と記載した。",
       "img": "",
-      "src": "GIGAZINE",
+      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 26
     },
     {
-      "title": "【2026年 日本企業のAI業務活用実態調査】生成AI活用企業の67.1％が、いまだ「人が起動」AI利用を横断追跡できる割合は13.0％、社内データ未整備は50.7％",
-      "link": "https://ascii.jp/elem/000/004/425/4425379/?rss",
-      "date": "2026-08-06T11:00:00+09:00",
-      "dateLabel": "08/06 11:00",
-      "desc": "【2026年 日本企業のAI業務活用実態調査】生成AI活用企業の67.1％が、いまだ「人が起動」AI利用を横断追跡できる割合は13.0％、社内データ未整備は50.7％",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
-      "title": "「ネッシーカフェ」今回はネカフェで開催、Apex Legendsやダーツをしながらコラボメニューが楽しめる！",
-      "link": "https://ascii.jp/elem/000/004/425/4425287/?rss",
-      "date": "2026-08-06T11:00:00+09:00",
-      "dateLabel": "08/06 11:00",
-      "desc": "エレクトロニック・アーツが展開する「Apex Legends」のコラボカフェ「ネッシーカフェ」が、またまた開催されます。会場は全国4都市の計6店舗で実施。加えて、東京では池袋のDiCE、AIM、インフォレンズ店舗を巡るスタンプラリーも開催します。",
-      "img": "https://ascii.jp/img/2026/08/06/4510071/s/6e5008546fc05693.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "オープンソースのAI機能付きオフィス登場 docx・xlsx・pptx・pdfに対応 Genspark",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000398/",
-      "date": "2026-08-06T08:00:00+09:00",
-      "dateLabel": "08/06 08:00",
-      "desc": "AIサービスを開発する米Gensparkは、オープンソースのAI機能付きオフィススイート「GenOffice」を発表した。",
+      "title": "リクルート、新卒エンジニア向け研修資料を無料公開 “AI時代の生き残り方”など紹介する13本",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000418/",
+      "date": "2026-08-06T13:28:32+09:00",
+      "dateLabel": "08/06 13:28",
+      "desc": "リクルートは、2026年度の新卒エンジニア向けの研修資料を公開した。エンジニアとして生き残るためのAIの活用法や、AIによるソフトウェア開発の考え方の変化など、業務やキャリア形成に必要な知見を幅広く紹介している。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "資金調達の「二極化」進む 勝ち抜く企業の条件は？ 早大教授に聞く",
-      "link": "https://www.itmedia.co.jp/business/articles/2608/06/news014.html",
-      "date": "2026-08-06T07:00:00+09:00",
-      "dateLabel": "08/06 07:00",
-      "desc": "「AIによる審査の高度化」と「資金調達の多様化」は必ずしも同じ話ではない──ベンチャーファイナンスの第一人者である早稲田大学ビジネススクール（経営管理研究科）の長谷川博和教授は、こう指摘する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "企業向けプライバシー保護基盤のテスト版API",
-      "link": "https://ascii.jp/elem/000/004/424/4424737/?rss",
-      "date": "2026-08-06T07:00:00+09:00",
-      "dateLabel": "08/06 07:00",
-      "desc": "株式会社Speeeの子会社でブロックチェーン技術開発を手がける株式会社Datachainは、7月29日にプライバシー保護基盤「KuraPrivacy」において、決済事業者やウォレット事業者が自社サービスにプライバシー保護機能を組み込める「Service API」テスト版の提供を開始した。あわせて、同基盤の機能をブラウザ上で体験できるデモアプリ「Kura Pa",
-      "img": "https://ascii.jp/img/2026/08/04/4509155/s/76b6d0920dadaa1f.jpg",
-      "src": "ASCII.jp",
-      "cat": "規制/安全",
-      "score": 26
-    },
-    {
-      "title": "Google DeepMindが描く「AGIの次」 超知能に至る4つの経路と6つのボトルネック",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/06/news015.html",
-      "date": "2026-08-06T05:00:00+09:00",
-      "dateLabel": "08/06 05:00",
-      "desc": "Google DeepMindが、人間並みのAGIが実現した後にAIはどこまで進むのかを整理した論文を公開した。ASI（人工超知能）への4つの経路と6つのボトルネックという枠組みだけを抜き出し、初心者にも分かるように短く読み解く。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "総務業務でAIエージェントを活用する方法7選！企業事例と導入手順を解説",
-      "link": "https://ainow.ai/2026/08/06/278298/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%25b7%258f%25e5%258b%2599%25e6%25a5%25ad%25e5%258b%2599%25e3%2581%25a7ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e6%25b4%25bb%25e7%2594%25a8%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%25957%25e9%2581%25b8%25ef%25bc%2581%25e4%25bc%2581",
-      "date": "2026-08-06T03:22:47+09:00",
-      "dateLabel": "08/06 03:22",
-      "desc": "「郵便物はどこに出せばいいですか」「経費精算の締切はいつですか」といった社内問い合わせに追われ、制度設計やオフィス改善に手が回らない総務担当者は少なくありません。 AIエージェントとは、社内規程やマニュアルを参照しながら... The post 総務業務でAIエージェントを活用する方法7選！企業事例と導入手順を解説 first appeared on AI専",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
