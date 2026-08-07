@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-08T07:24:51.784595+09:00",
-  "generatedLabel": "2026/08/08 07:24",
+  "generatedAt": "2026-08-08T08:24:54.786138+09:00",
+  "generatedLabel": "2026/08/08 08:24",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 49,
@@ -62,17 +62,6 @@
     }
   ],
   "articles": [
-    {
-      "title": "NVIDIA、自動運転向けオープンモデルを商用利用可に 新モデルは「卓越した性能」うたう",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000420/",
-      "date": "2026-08-06T13:56:48+09:00",
-      "dateLabel": "08/06 13:56",
-      "desc": "NVIDIAが自動運転向けAIモデル「Alpamayo」ファミリーを商用利用可能なオープンライセンスで提供開始。新モデル「Alpamayo 2 Super」は推論ベンチマークで首位になるなど卓越した性能をうたう。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 58
-    },
     {
       "title": "1Password、ダッシュボードから組織のAI支出状況を表示する新機能。ClaudeやCursor、ChatGPTなど複数AIにI対応",
       "link": "https://www.publickey1.jp/blog/26/1passwordaiclaudecursorchatgptaii.html",
@@ -193,6 +182,17 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 42
+    },
+    {
+      "title": "OpenAI、次期モデル「Astra」の一部開発を停止 「Critical」級サイバー能力の可能性否定できず",
+      "link": "https://www.itmedia.co.jp/news/article/2608/08/2000000459/",
+      "date": "2026-08-08T07:11:46+09:00",
+      "dateLabel": "08/08 07:11",
+      "desc": "OpenAIは、次期主力モデル「Astra」のサイバー能力が自社の安全指針における最上位「Critical」に達している可能性を発表した。要件を満たさない一部活動を停止し、リアルタイム監視や思考過程の評価など管理を強化する。能力を抑制するのではなく、政府機関や外部組織と協力して検証と安全策の提供を進める方針だ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "OpenAI初のデバイスはアイスホッケーパックサイズのドーナツ型AIスマートスピーカーで価格は4万8000円以上になる見込み",
