@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-08T06:28:24.875039+09:00",
-  "generatedLabel": "2026/08/08 06:28",
+  "generatedAt": "2026-08-08T07:24:51.784595+09:00",
+  "generatedLabel": "2026/08/08 07:24",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 49,
@@ -118,17 +118,6 @@
       "score": 50
     },
     {
-      "title": "「ChatGPT」のデフォルトモデル、PlusとProは「Sol」に、無料版は「Luna」でテキストチャット無制限に",
-      "link": "https://www.itmedia.co.jp/news/article/2608/07/2000000435/",
-      "date": "2026-08-07T06:32:08+09:00",
-      "dateLabel": "08/07 06:32",
-      "desc": "OpenAIはChatGPTのデフォルトモデル変更を発表した。有料版には事実の正確性と応答速度を高めた改良版「GPT-5.6 Sol」を導入し、思考時間を選択できるスライダーを追加。無料版および「ChatGPT Go」には「GPT-5.6 Luna」を導入し、テキストチャットを無制限化するとともに推論を促す「Think」ボタンを提供する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
       "title": "OpenAIのテストAIが「AI同士の掲示板」を勝手に構築して情報共有しHugging Faceへの攻撃を実行していたことが判明、掲示板を閉鎖されてもこっそり建てなおす",
       "link": "https://gigazine.net/news/20260807-openai-hugging-face-explain/",
       "date": "2026-08-07T15:28:00+09:00",
@@ -173,11 +162,11 @@
       "score": 42
     },
     {
-      "title": "「GPT-5.6 vs. Claude Fable 5」勝者はClaude、でも企業が選びづらいワケ：891st Lap",
-      "link": "https://kn.itmedia.co.jp/kn/articles/2608/07/news037.html",
-      "date": "2026-08-07T07:00:00+09:00",
-      "dateLabel": "08/07 07:00",
-      "desc": "物理AIベンチマークで最高評価を獲得した「Claude Fable 5」。だが、企業が導入を判断する際には、性能だけでは見えない悩ましい問題が浮かび上がった。",
+      "title": "「ChatGPT」のデフォルトモデル、PlusとProは「Sol」に、無料版は「Luna」でテキストチャット無制限に",
+      "link": "https://www.itmedia.co.jp/news/article/2608/07/2000000435/",
+      "date": "2026-08-07T06:32:08+09:00",
+      "dateLabel": "08/07 06:32",
+      "desc": "OpenAIはChatGPTのデフォルトモデル変更を発表した。有料版には事実の正確性と応答速度を高めた改良版「GPT-5.6 Sol」を導入し、思考時間を選択できるスライダーを追加。無料版および「ChatGPT Go」には「GPT-5.6 Luna」を導入し、テキストチャットを無制限化するとともに推論を促す「Think」ボタンを提供する。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
@@ -225,6 +214,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI実装",
+      "score": 34
+    },
+    {
+      "title": "「GPT-5.6 vs. Claude Fable 5」勝者はClaude、でも企業が選びづらいワケ：891st Lap",
+      "link": "https://kn.itmedia.co.jp/kn/articles/2608/07/news037.html",
+      "date": "2026-08-07T07:00:00+09:00",
+      "dateLabel": "08/07 07:00",
+      "desc": "物理AIベンチマークで最高評価を獲得した「Claude Fable 5」。だが、企業が導入を判断する際には、性能だけでは見えない悩ましい問題が浮かび上がった。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
