@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-07T18:51:13.186962+09:00",
-  "generatedLabel": "2026/08/07 18:51",
+  "generatedAt": "2026-08-07T19:42:08.815063+09:00",
+  "generatedLabel": "2026/08/07 19:42",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 51,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -62,17 +62,6 @@
     }
   ],
   "articles": [
-    {
-      "title": "Meta、コーディングエージェント「Muse Code」リリース 「Claude Code」や「Codex」に対抗",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000410/",
-      "date": "2026-08-06T10:31:17+09:00",
-      "dateLabel": "08/06 10:31",
-      "desc": "Metaは、ターミナル上で動作するコーディングエージェント「Muse Code」のベータ版と、新モデル「Muse Spark 1.2」を発表した。非同期バックグラウンドエージェントの常駐により遅延を抑え、複雑な開発タスクをサポートする。自己改善ループ等でコーディング性能を強化し、各種ベンチマークでも従来版を上回る成果を示した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 66
-    },
     {
       "title": "NVIDIA、自動運転向けオープンモデルを商用利用可に 新モデルは「卓越した性能」うたう",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000420/",
@@ -140,28 +129,6 @@
       "score": 50
     },
     {
-      "title": "ソフトバンクG、投資利益1.8兆円を支えた「OpenAIではない“あの半導体メーカー”」の正体",
-      "link": "https://www.itmedia.co.jp/business/articles/2608/06/news084.html",
-      "date": "2026-08-06T19:30:00+09:00",
-      "dateLabel": "08/06 19:30",
-      "desc": "ソフトバンクGは、第1四半期の投資利益が1兆8594億円だったと発表した。投資利益を押し上げたのは、OpenAIでもArmでもない。歴史的な経営難に陥っていた“あの半導体メーカー”だった。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
-      "title": "freee、税理士事務所向けの資料回収から決算申告までをAIで一気通貫に支援する「freee顧問先管理 | AIエージェント」と「freee Agent Hub」をfAD2026にて公開",
-      "link": "https://ascii.jp/elem/000/004/425/4425899/?rss",
-      "date": "2026-08-07T16:30:00+09:00",
-      "dateLabel": "08/07 16:30",
-      "desc": "freee、税理士事務所向けの資料回収から決算申告までをAIで一気通貫に支援する「freee顧問先管理 | AIエージェント」と「freee Agent Hub」をfAD2026にて公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "OpenAIのテストAIが「AI同士の掲示板」を勝手に構築して情報共有しHugging Faceへの攻撃を実行していたことが判明、掲示板を閉鎖されてもこっそり建てなおす",
       "link": "https://gigazine.net/news/20260807-openai-hugging-face-explain/",
       "date": "2026-08-07T15:28:00+09:00",
@@ -217,6 +184,17 @@
       "score": 42
     },
     {
+      "title": "ソフトバンクG、投資利益1.8兆円を支えた「OpenAIではない“あの半導体メーカー”」の正体",
+      "link": "https://www.itmedia.co.jp/business/articles/2608/06/news084.html",
+      "date": "2026-08-06T19:30:00+09:00",
+      "dateLabel": "08/06 19:30",
+      "desc": "ソフトバンクGは、第1四半期の投資利益が1兆8594億円だったと発表した。投資利益を押し上げたのは、OpenAIでもArmでもない。歴史的な経営難に陥っていた“あの半導体メーカー”だった。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
       "title": "「1人1AI」のアプローチは破綻する――チームでAI共有時のセキュリティ問題を解決するベストプラクティス",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/07/news022.html",
       "date": "2026-08-06T16:00:00+09:00",
@@ -236,17 +214,6 @@
       "img": "https://ascii.jp/img/2026/08/07/4510627/s/82c2746d2e688b1e.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "企業広告シリーズ「世界は、ひとつずつ変えることができる。」～「半導体材料・特殊研磨技術」篇～ TVCM放映のご案内",
-      "link": "https://ascii.jp/elem/000/004/425/4425902/?rss",
-      "date": "2026-08-07T16:00:00+09:00",
-      "dateLabel": "08/07 16:00",
-      "desc": "企業広告シリーズ「世界は、ひとつずつ変えることができる。」～「半導体材料・特殊研磨技術」篇～ TVCM放映のご案内",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -281,6 +248,39 @@
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 34
+    },
+    {
+      "title": "アプリが遅い原因をAIがトレースログから分析してくれる「Windows Performance Analyzer MCP」 Microsoftがプレビュー公開",
+      "link": "https://www.itmedia.co.jp/news/article/2608/06/2000000434/",
+      "date": "2026-08-06T19:54:46+09:00",
+      "dateLabel": "08/06 19:54",
+      "desc": "米Microsoftが、Windowsアプリケーションが遅くなる原因の調査分析をAIに依頼できるツール「Windows Performance Analyzer MCP」（WPA MCP）のアーリープレビューを発表しました。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "シャープ、通期純利益見通し170億円下方修正 円安など影響 AIサーバーは9月に参入",
+      "link": "https://www.itmedia.co.jp/news/article/2608/07/2000000455/",
+      "date": "2026-08-07T19:11:00+09:00",
+      "dateLabel": "08/07 19:11",
+      "desc": "シャープは7日、2027年3月期の連結純利益が前期比47.3％減の250億円になる見通しだと発表した。期初予想から170億円下方修正した。樹脂・燃料の価格上昇や円安が収益を圧迫する。営業利益は190億円引き下げて300億円。売上高は1兆7700億円に据え置いた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "Spectre v2対策を突破する新攻撃「TONTOU」が登場、Linuxのパスワードハッシュ漏えいを実証",
+      "link": "https://gigazine.net/news/20260807-tontou-spectre-v2/",
+      "date": "2026-08-07T18:15:00+09:00",
+      "dateLabel": "08/07 18:15",
+      "desc": "CPUの投機的実行を悪用する「Spectre v2」への既存対策をすり抜ける新たな攻撃手法「TONTOU」を、マサチューセッツ工科大学(MIT)コンピュータ科学・人工知能研究所(CSAIL)の研究者が発表しました。研究チームはTONTOUを使ってLinuxのカーネルメモリを読み出し、パスワードハッシュが保存される「/etc/shadow」の内容を取得できるこ",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
     }
   ]
 }
