@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-07T21:39:35.879005+09:00",
-  "generatedLabel": "2026/08/07 21:39",
+  "generatedAt": "2026-08-07T23:04:58.211554+09:00",
+  "generatedLabel": "2026/08/07 23:04",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 48,
+  "candidates": 47,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 12
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -228,17 +228,6 @@
       "score": 34
     },
     {
-      "title": "100分の1の価格のオープンモデルでGPT-5.6 Solの検索性能を凌駕したという報告",
-      "link": "https://gigazine.net/news/20260806-open-model-beat-gpt-5-6-sol/",
-      "date": "2026-08-06T22:00:00+09:00",
-      "dateLabel": "08/06 22:00",
-      "desc": "サーバーレスなPostgresデータベースを提供しているNeonが、オープンソースAIモデルを企業向けに追加学習するための基盤を提供する企業のCastformと共同で、40億パラメータのオープンソースモデルを強化学習でポストトレーニングしたことにより「検索タスクにおいてOpenAIのGPT-5.6 Solと同等の精度を100分の1のコストで達成した」と報告し",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "シャープ、通期純利益見通し170億円下方修正 円安など影響 AIサーバは9月に参入",
       "link": "https://www.itmedia.co.jp/news/article/2608/07/2000000455/",
       "date": "2026-08-07T19:34:01+09:00",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "銀行なら3カ月→AIは1カ月 10万件のデータで「数千万円」を引き出した“データドリブン資金調達術”",
+      "link": "https://www.itmedia.co.jp/business/articles/2608/07/news011.html",
+      "date": "2026-08-07T07:00:00+09:00",
+      "dateLabel": "08/07 07:00",
+      "desc": "黒字化目前のZehitomoは、手元資金を確保すべく新たな資金調達手段を模索していた。だが、銀行融資は最低3カ月を要し、株式調達は希薄化のリスクを伴う。この壁を打ち破ったのが、AIを活用した「データ駆動型融資」だ。同社が提出した10万件の入金データをAIが解析し、わずか1カ月で数千万円の融資が実行。株を薄めず迅速に資金を確保する「AI時代の調達術」と、変化す",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
       "score": 26
     }
   ]
