@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-07T15:04:24.061405+09:00",
-  "generatedLabel": "2026/08/07 15:04",
+  "generatedAt": "2026-08-07T17:06:28.778429+09:00",
+  "generatedLabel": "2026/08/07 17:06",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 58,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 19
+      "items": 18
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 10
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 12
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -96,6 +96,17 @@
       "score": 58
     },
     {
+      "title": "DeepSeekがAPI料金の大幅値上げを予告、低価格戦略による需要急増が背景か",
+      "link": "https://gigazine.net/news/20260807-deepseek-raise-prices/",
+      "date": "2026-08-07T15:25:00+09:00",
+      "dateLabel": "08/07 15:25",
+      "desc": "中国のAI企業であるDeepSeekは2026年7月31日にAIモデル「DeepSeek-V4-Flash-0731」を商用利用可能なライセンスの下でオープンモデルとして公開しました。DeepSeek-V4-Flash-0731はOpenAIの低コストモデル「GPT-5.6 Luna」よりもさらに安価なモデルとして発表されましたが、競争のために価格を大きく引",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
       "title": "Metaの基盤モデルMuse Spark 1.2が第三者機関の性能分析でハイスコアを記録、Museシリーズ登場から4カ月で急成長",
       "link": "https://gigazine.net/news/20260807-muse-spark-1-2-benchmark/",
       "date": "2026-08-07T13:32:00+09:00",
@@ -104,17 +115,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
-      "title": "Hakuhodo DY ONEと博報堂テクノロジーズ、広告運用自動化AIエージェント「Advertising Flow」において、ChatGPTの広告に対応した機能の提供を開始",
-      "link": "https://ascii.jp/elem/000/004/425/4425819/?rss",
-      "date": "2026-08-07T11:32:32+09:00",
-      "dateLabel": "08/07 11:32",
-      "desc": "Hakuhodo DY ONEと博報堂テクノロジーズ、広告運用自動化AIエージェント「Advertising Flow」において、ChatGPTの広告に対応した機能の提供を開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
       "score": 50
     },
     {
@@ -151,15 +151,15 @@
       "score": 50
     },
     {
-      "title": "「1人1AI」のアプローチは破綻する――チームでAI共有時のセキュリティ問題を解決するベストプラクティス",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/07/news022.html",
-      "date": "2026-08-06T16:00:00+09:00",
-      "dateLabel": "08/06 16:00",
-      "desc": "Anthropicは、「Claude Tag」における「エージェントアイデンティティー」アクセスモデルの仕組みと、チームのワークスペースでこれを構成する際のベストプラクティスを解説したブログ記事を公開した。",
+      "title": "OpenAIのテストAIが「AI同士の掲示板」を勝手に構築して情報共有しHugging Faceへの攻撃を実行していたことが判明、掲示板を閉鎖されてもこっそり建てなおす",
+      "link": "https://gigazine.net/news/20260807-openai-hugging-face-explain/",
+      "date": "2026-08-07T15:28:00+09:00",
+      "dateLabel": "08/07 15:28",
+      "desc": "2026年7月21日にOpenAIは「テスト中のAIがHugging Faceを攻撃してしまうセキュリティインシデントが発生した」と発表しました。このインシデントについて、OpenAIの研究者がセキュリティカンファレンスのBlack Hat USA 2026で講演し、「AIエージェント同士が情報共有のための掲示板を秘密裏に形成していた」というエージェントの自",
       "img": "",
-      "src": "ITmedia AI+",
+      "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 50
+      "score": 42
     },
     {
       "title": "AIエージェントのスキルやMCPサーバーを持ち運べる「Agent Plugins」にGoogleが参加、OpenAI・Microsoft・Amazonなどと共同推進",
@@ -206,6 +206,28 @@
       "score": 42
     },
     {
+      "title": "「1人1AI」のアプローチは破綻する――チームでAI共有時のセキュリティ問題を解決するベストプラクティス",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/07/news022.html",
+      "date": "2026-08-06T16:00:00+09:00",
+      "dateLabel": "08/06 16:00",
+      "desc": "Anthropicは、「Claude Tag」における「エージェントアイデンティティー」アクセスモデルの仕組みと、チームのワークスペースでこれを構成する際のベストプラクティスを解説したブログ記事を公開した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "MacBook Air（M5）がセールで1万7000円引き！持ち運びに最適な13インチ＆1TBモデル",
+      "link": "https://ascii.jp/elem/000/004/425/4425808/?rss",
+      "date": "2026-08-07T17:00:00+09:00",
+      "dateLabel": "08/07 17:00",
+      "desc": "Amazon.co.jpで「MacBook Air M5」が売れています。超高性能M5チップと、最大18時間フル稼働できる内蔵バッテリーを搭載。13インチで極薄と持ち運びやすいサイズ感が好評です。",
+      "img": "https://ascii.jp/img/2026/08/07/4510627/s/82c2746d2e688b1e.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "RTX 5060搭載ノートが約6万円引き。Amazon限定ASUS Gaming V16が20万9800円",
       "link": "https://ascii.jp/elem/000/004/425/4425545/?rss",
       "date": "2026-08-07T15:00:00+09:00",
@@ -225,17 +247,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "履歴書と職務経歴書をAIで「書かずに作る」無料ツールを公開、別々のファイルもまとめて読み取り",
-      "link": "https://ascii.jp/elem/000/004/425/4425752/?rss",
-      "date": "2026-08-07T11:32:35+09:00",
-      "dateLabel": "08/07 11:32",
-      "desc": "履歴書と職務経歴書をAIで「書かずに作る」無料ツールを公開、別々のファイルもまとめて読み取り",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -269,17 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "Googleのジェフ・ディーン氏、独立してAI実験を大規模自動化する新会社Discovery Loop設立",
-      "link": "https://www.itmedia.co.jp/news/article/2608/06/2000000408/",
-      "date": "2026-08-06T19:20:03+09:00",
-      "dateLabel": "08/06 19:20",
-      "desc": "Googleのチーフサイエンティスト、ジェフ・ディーン氏が退社し、新会社「Discovery Loop」を設立すると発表した。サンジェイ・ゲマワット氏らと共同創業する公益法人で、フロンティアAIモデルと計算基盤を活用して実験や検証などの研究プロセス全体を自動化することを目指す。Googleは初期出資者およびクラウドパートナーとして協力する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 34
     }
   ]
