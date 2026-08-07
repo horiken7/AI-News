@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-07T11:06:20.094833+09:00",
-  "generatedLabel": "2026/08/07 11:06",
+  "generatedAt": "2026-08-07T13:47:27.895150+09:00",
+  "generatedLabel": "2026/08/07 13:47",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 57,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -96,6 +96,17 @@
       "score": 58
     },
     {
+      "title": "Metaの基盤モデルMuse Spark 1.2が第三者機関の性能分析でハイスコアを記録、Museシリーズ登場から4カ月で急成長",
+      "link": "https://gigazine.net/news/20260807-muse-spark-1-2-benchmark/",
+      "date": "2026-08-07T13:32:00+09:00",
+      "dateLabel": "08/07 13:32",
+      "desc": "Metaが2026年8月5日に発表した基盤モデルの「Muse Spark 1.2」が、数学・科学・コーディング・推論といった分野におけるAIの能力を総合的に測定するための複合ベンチマークであるArtificial Analysis Intelligence Indexで、Grok 4.5を超える高スコアを獲得したことが明らかになりました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
       "title": "AMDがAIモデルの「重み」を直接半導体に組み込むTaalasを買収へ、AI推論の高速化を狙う",
       "link": "https://gigazine.net/news/20260807-amd-acquire-taalas/",
       "date": "2026-08-07T11:05:00+09:00",
@@ -140,22 +151,44 @@
       "score": 50
     },
     {
-      "title": "Acer、Ryzen AI 7 450搭載の16型ゲーミングノート「Nitro V 16 AI」3機種を発売",
-      "link": "https://ascii.jp/elem/000/004/425/4425660/?rss",
-      "date": "2026-08-07T10:00:00+09:00",
-      "dateLabel": "08/07 10:00",
-      "desc": "Acerが16型ゲーミングノートPC「Nitro V 16 AI」3機種を発売。Ryzen AI 7 450とGeForce RTX 5060/5070 Laptop GPUを搭載し、180Hzディスプレイや32GBメモリーを採用。ゲームはもちろん、動画編集やAI活用にも適した最新モデルの特徴を紹介します。",
-      "img": "https://ascii.jp/img/2026/08/07/4510537/s/29ce46bded8527e1.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
+      "title": "AIエージェントのスキルやMCPサーバーを持ち運べる「Agent Plugins」にGoogleが参加、OpenAI・Microsoft・Amazonなどと共同推進",
+      "link": "https://gigazine.net/news/20260807-agent-plugins/",
+      "date": "2026-08-07T13:15:00+09:00",
+      "dateLabel": "08/07 13:15",
+      "desc": "AIエージェント向けのスキルやMCPサーバーをまとめて持ち運べるオープン仕様「Agent Plugins 1.0.0」のコアメンテナーにGoogleが加わりました。Agent PluginsはAmazon、Cursor、Microsoft、OpenAI、Vercelの担当者からなるTechnical Steering Committee(TSC)によって公開",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
-      "title": "【AIエージェントは「本番」へ】“モデルの賢さ”より“データの信頼性”が勝負を分ける。2026年後半の主戦場を読み解く総括レポート『AI × Data Weekly Insight』を無料公開",
-      "link": "https://ascii.jp/elem/000/004/425/4425670/?rss",
-      "date": "2026-08-07T08:50:00+09:00",
-      "dateLabel": "08/07 08:50",
-      "desc": "【AIエージェントは「本番」へ】“モデルの賢さ”より“データの信頼性”が勝負を分ける。2026年後半の主戦場を読み解く総括レポート『AI × Data Weekly Insight』を無料公開",
+      "title": "PFNの国産LLM「PLaMo 3.0 Prime」、さくらのAI推論基盤で提供開始 利用は申請制",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/07/2000000443/",
+      "date": "2026-08-07T13:07:21+09:00",
+      "dateLabel": "08/07 13:07",
+      "desc": "さくらインターネットが、生成AI向け推論API基盤「さくらのAI Engine」で、Preferred Networks（PFN）の国産大規模言語モデル（LLM）「PLaMo 3.0 Prime」の提供を始めた。利用には申請が必要で、無償プランは対象外となる。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "「35歳以上のChatGPTユーザーが増加」「画像生成などのマルチメディア会話が増加」などChatGPTの利用実態レポートが公開される",
+      "link": "https://gigazine.net/news/20260807-chatgpt-analyze/",
+      "date": "2026-08-07T13:06:00+09:00",
+      "dateLabel": "08/07 13:06",
+      "desc": "OpenAIがChatGPTの2026年6月までの利用実態データを公開しました。新たに国別データも公開されており、国ごとのChatGPTの利用実態の違いが浮き彫りになっています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "ナレッジワーク、AIエンジニア油井 誠（@myui）が入社。「セールスAIエージェントOS」「営業領域の業界特化LLM」の開発とAI研究開発をリード",
+      "link": "https://ascii.jp/elem/000/004/425/4425742/?rss",
+      "date": "2026-08-07T10:00:00+09:00",
+      "dateLabel": "08/07 10:00",
+      "desc": "ナレッジワーク、AIエンジニア油井 誠（@myui）が入社。「セールスAIエージェントOS」「営業領域の業界特化LLM」の開発とAI研究開発をリード",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
@@ -173,26 +206,15 @@
       "score": 42
     },
     {
-      "title": "MetaがMuse Spark 1.2を搭載したターミナルコーディングエージェント「Muse Code」べータ版をリリース",
-      "link": "https://gigazine.net/news/20260806-meta-muse-code/",
-      "date": "2026-08-06T12:21:00+09:00",
-      "dateLabel": "08/06 12:21",
-      "desc": "Metaは2026年8月5日、ターミナル上で動作するコーディングエージェント「Muse Code」のベータ版と、その基盤モデル「Muse Spark 1.2」を発表しました。大規模なコードリポジトリを対象に、変更の計画、実装、検証までを一貫して処理し、長時間にわたる複雑なソフトウェア開発にも対応します。 続きを読む...",
+      "title": "OpenAI初のデバイスはアイスホッケーパックサイズのドーナツ型AIスマートスピーカーで価格は4万8000円以上になる見込み",
+      "link": "https://gigazine.net/news/20260807-openai-device-doughnut-shaped-speaker/",
+      "date": "2026-08-07T11:40:00+09:00",
+      "dateLabel": "08/07 11:40",
+      "desc": "ChatGPTなどの開発元として知られるAI企業のOpenAIは、元AppleのデザイナーでありiPhoneやiPodのデザインを担当したことで知られるジョナサン・アイブ氏と、AIデバイスの開発を進めています。このAIデバイスは、アイスホッケーのパックほどのサイズで、形状がドーナツ型のスマートスピーカーとなり、販売価格は300ドル(約4万8000円)以上にな",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "MythosとGPT-5.6 Solが性能テスト中に暴走 OSSメンテナーに圧力、有害コード実行図る 英政府機関",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000411/",
-      "date": "2026-08-06T11:06:26+09:00",
-      "dateLabel": "08/06 11:06",
-      "desc": "英政府機関AISIによるAIモデルのサイバー能力評価中に、AnthropicのMythos 5やOpenAIのGPT-5.6 Solが実在の人や組織を標的に暴走。偽アカウントを作り、OSSメンテナーに悪意あるコードの承認を迫っていた。",
-      "img": "",
-      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 42
+      "score": 34
     },
     {
       "title": "Googleがオフライン翻訳デバイス「Gemma Translator」を発表、Gemma 4 E2B搭載でローカル翻訳可能",
@@ -206,14 +228,14 @@
       "score": 34
     },
     {
-      "title": "「Claude Code体験セミナー」東京で無料開催｜TeamSparta",
-      "link": "https://ascii.jp/elem/000/004/425/4425668/?rss",
-      "date": "2026-08-07T09:00:00+09:00",
-      "dateLabel": "08/07 09:00",
-      "desc": "「Claude Code体験セミナー」東京で無料開催｜TeamSparta",
+      "title": "企業向けスライド生成AI「ChatSense」、Notebook上でのスライド生成のPPTX出力をリリース",
+      "link": "https://ascii.jp/elem/000/004/425/4425734/?rss",
+      "date": "2026-08-07T10:29:37+09:00",
+      "dateLabel": "08/07 10:29",
+      "desc": "企業向けスライド生成AI「ChatSense」、Notebook上でのスライド生成のPPTX出力をリリース",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "LLM/モデル",
+      "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
@@ -259,28 +281,6 @@
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 34
-    },
-    {
-      "title": "Cloudflareが社内AI基盤「Cloudflare OS」をオープンソース化、機密情報を守りながら業務アプリを作成可能に",
-      "link": "https://gigazine.net/news/20260806-cloudflare-os/",
-      "date": "2026-08-06T11:54:00+09:00",
-      "dateLabel": "08/06 11:54",
-      "desc": "Cloudflareが社内向けAI基盤「Cloudflare OS」の新バージョンをオープンソース化しました。AIエージェントから社内データへ安全にアクセスできるようにし、文書作成や調査、業務アプリの開発、定型作業の自動化などに活用できるとのことです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "ChatGPTの無料ユーザーもGPT-5.6 Lunaを使用可能に、使用量無制限",
-      "link": "https://gigazine.net/news/20260807-chatgpt-default-luna/",
-      "date": "2026-08-07T10:49:00+09:00",
-      "dateLabel": "08/07 10:49",
-      "desc": "ChatGPTのデフォルトモデルが「GPT-5.5 Instant」から「GPT-5.6 Luna」へと変更されました。GPT-5.5 Instantと比較して間違いが減るとのことです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
     }
   ]
 }
