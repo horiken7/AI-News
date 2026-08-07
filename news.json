@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-07T19:42:08.815063+09:00",
-  "generatedLabel": "2026/08/07 19:42",
+  "generatedAt": "2026-08-07T20:38:02.222505+09:00",
+  "generatedLabel": "2026/08/07 20:38",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 51,
+  "candidates": 49,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 1
     },
     {
       "source": "PC Watch",
@@ -206,17 +206,6 @@
       "score": 42
     },
     {
-      "title": "MacBook Air（M5）がセールで1万7000円引き！持ち運びに最適な13インチ＆1TBモデル",
-      "link": "https://ascii.jp/elem/000/004/425/4425808/?rss",
-      "date": "2026-08-07T17:00:00+09:00",
-      "dateLabel": "08/07 17:00",
-      "desc": "Amazon.co.jpで「MacBook Air M5」が売れています。超高性能M5チップと、最大18時間フル稼働できる内蔵バッテリーを搭載。13インチで極薄と持ち運びやすいサイズ感が好評です。",
-      "img": "https://ascii.jp/img/2026/08/07/4510627/s/82c2746d2e688b1e.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "OpenAI初のデバイスはアイスホッケーパックサイズのドーナツ型AIスマートスピーカーで価格は4万8000円以上になる見込み",
       "link": "https://gigazine.net/news/20260807-openai-device-doughnut-shaped-speaker/",
       "date": "2026-08-07T11:40:00+09:00",
@@ -250,24 +239,24 @@
       "score": 34
     },
     {
-      "title": "アプリが遅い原因をAIがトレースログから分析してくれる「Windows Performance Analyzer MCP」 Microsoftがプレビュー公開",
-      "link": "https://www.itmedia.co.jp/news/article/2608/06/2000000434/",
-      "date": "2026-08-06T19:54:46+09:00",
-      "dateLabel": "08/06 19:54",
-      "desc": "米Microsoftが、Windowsアプリケーションが遅くなる原因の調査分析をAIに依頼できるツール「Windows Performance Analyzer MCP」（WPA MCP）のアーリープレビューを発表しました。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "シャープ、通期純利益見通し170億円下方修正 円安など影響 AIサーバーは9月に参入",
+      "title": "シャープ、通期純利益見通し170億円下方修正 円安など影響 AIサーバは9月に参入",
       "link": "https://www.itmedia.co.jp/news/article/2608/07/2000000455/",
-      "date": "2026-08-07T19:11:00+09:00",
-      "dateLabel": "08/07 19:11",
+      "date": "2026-08-07T19:34:01+09:00",
+      "dateLabel": "08/07 19:34",
       "desc": "シャープは7日、2027年3月期の連結純利益が前期比47.3％減の250億円になる見通しだと発表した。期初予想から170億円下方修正した。樹脂・燃料の価格上昇や円安が収益を圧迫する。営業利益は190億円引き下げて300億円。売上高は1兆7700億円に据え置いた。",
       "img": "",
       "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "輸出管理AIのTIMEWELL、ISMS認証「ISO/IEC 27001」を取得",
+      "link": "https://ascii.jp/elem/000/004/425/4425947/?rss",
+      "date": "2026-08-07T18:30:00+09:00",
+      "dateLabel": "08/07 18:30",
+      "desc": "輸出管理AIのTIMEWELL、ISMS認証「ISO/IEC 27001」を取得",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
@@ -280,6 +269,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "ChatGPTの無料ユーザーもGPT-5.6 Lunaを使用可能に、使用量無制限",
+      "link": "https://gigazine.net/news/20260807-chatgpt-default-luna/",
+      "date": "2026-08-07T10:49:00+09:00",
+      "dateLabel": "08/07 10:49",
+      "desc": "ChatGPTのデフォルトモデルが「GPT-5.5 Instant」から「GPT-5.6 Luna」へと変更されました。GPT-5.5 Instantと比較して間違いが減るとのことです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 26
     }
   ]
