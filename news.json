@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-07T17:06:28.778429+09:00",
-  "generatedLabel": "2026/08/07 17:06",
+  "generatedAt": "2026-08-07T18:51:13.186962+09:00",
+  "generatedLabel": "2026/08/07 18:51",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 56,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -151,6 +151,17 @@
       "score": 50
     },
     {
+      "title": "freee、税理士事務所向けの資料回収から決算申告までをAIで一気通貫に支援する「freee顧問先管理 | AIエージェント」と「freee Agent Hub」をfAD2026にて公開",
+      "link": "https://ascii.jp/elem/000/004/425/4425899/?rss",
+      "date": "2026-08-07T16:30:00+09:00",
+      "dateLabel": "08/07 16:30",
+      "desc": "freee、税理士事務所向けの資料回収から決算申告までをAIで一気通貫に支援する「freee顧問先管理 | AIエージェント」と「freee Agent Hub」をfAD2026にて公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "OpenAIのテストAIが「AI同士の掲示板」を勝手に構築して情報共有しHugging Faceへの攻撃を実行していたことが判明、掲示板を閉鎖されてもこっそり建てなおす",
       "link": "https://gigazine.net/news/20260807-openai-hugging-face-explain/",
       "date": "2026-08-07T15:28:00+09:00",
@@ -228,12 +239,12 @@
       "score": 34
     },
     {
-      "title": "RTX 5060搭載ノートが約6万円引き。Amazon限定ASUS Gaming V16が20万9800円",
-      "link": "https://ascii.jp/elem/000/004/425/4425545/?rss",
-      "date": "2026-08-07T15:00:00+09:00",
-      "dateLabel": "08/07 15:00",
-      "desc": "ASUSのゲーミングノートPC「ASUS Gaming V16 V3607VM」がAmazonタイムセール対象。参考価格269,800円のところ、22％オフの209,800円で販売中。GeForce RTX 5060 Laptop GPUを搭載したAmazon.co.jp限定モデル。約6万円引きで手に入る今は狙い目だ。",
-      "img": "https://ascii.jp/img/2026/08/06/4510393/s/83fab5816a3457dc.jpg",
+      "title": "企業広告シリーズ「世界は、ひとつずつ変えることができる。」～「半導体材料・特殊研磨技術」篇～ TVCM放映のご案内",
+      "link": "https://ascii.jp/elem/000/004/425/4425902/?rss",
+      "date": "2026-08-07T16:00:00+09:00",
+      "dateLabel": "08/07 16:00",
+      "desc": "企業広告シリーズ「世界は、ひとつずつ変えることができる。」～「半導体材料・特殊研磨技術」篇～ TVCM放映のご案内",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "半導体/GPU",
       "score": 34
@@ -269,17 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "アプリが遅い原因をAIがトレースログから分析してくれる「Windows Performance Analyzer MCP」 Microsoftがプレビュー公開",
-      "link": "https://www.itmedia.co.jp/news/article/2608/06/2000000434/",
-      "date": "2026-08-06T19:54:46+09:00",
-      "dateLabel": "08/06 19:54",
-      "desc": "米Microsoftが、Windowsアプリケーションが遅くなる原因の調査分析をAIに依頼できるツール「Windows Performance Analyzer MCP」（WPA MCP）のアーリープレビューを発表しました。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
       "score": 34
     }
   ]
