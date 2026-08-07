@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-07T23:04:58.211554+09:00",
-  "generatedLabel": "2026/08/07 23:04",
+  "generatedAt": "2026-08-08T00:43:51.708076+09:00",
+  "generatedLabel": "2026/08/08 00:43",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 47,
+  "candidates": 49,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 11
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -82,7 +82,7 @@
       "img": "",
       "src": "Publickey",
       "cat": "LLM/モデル",
-      "score": 58
+      "score": 52
     },
     {
       "title": "DeepSeekがAPI料金の大幅値上げを予告、低価格戦略による需要急増が背景か",
@@ -228,6 +228,17 @@
       "score": 34
     },
     {
+      "title": "「Grokipedia」は2026年4月24日に12件の修正提案を処理したあと一切の更新が停止している",
+      "link": "https://gigazine.net/news/20260807-grokipedia/",
+      "date": "2026-08-07T23:56:00+09:00",
+      "dateLabel": "08/07 23:56",
+      "desc": "「Wikipediaを大幅に上回ることになる」として、イーロン・マスク氏とxAIが満を持して開発・公開したオンライン百科事典「Grokipedia」で、修正提案の処理作業が停止状態にあり、提案された内容が「審査中」のままになっていると指摘されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "シャープ、通期純利益見通し170億円下方修正 円安など影響 AIサーバは9月に参入",
       "link": "https://www.itmedia.co.jp/news/article/2608/07/2000000455/",
       "date": "2026-08-07T19:34:01+09:00",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "銀行なら3カ月→AIは1カ月 10万件のデータで「数千万円」を引き出した“データドリブン資金調達術”",
-      "link": "https://www.itmedia.co.jp/business/articles/2608/07/news011.html",
-      "date": "2026-08-07T07:00:00+09:00",
-      "dateLabel": "08/07 07:00",
-      "desc": "黒字化目前のZehitomoは、手元資金を確保すべく新たな資金調達手段を模索していた。だが、銀行融資は最低3カ月を要し、株式調達は希薄化のリスクを伴う。この壁を打ち破ったのが、AIを活用した「データ駆動型融資」だ。同社が提出した10万件の入金データをAIが解析し、わずか1カ月で数千万円の融資が実行。株を薄めず迅速に資金を確保する「AI時代の調達術」と、変化す",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
       "score": 26
     }
   ]
