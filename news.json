@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-08T11:50:07.188087+09:00",
-  "generatedLabel": "2026/08/08 11:50",
+  "generatedAt": "2026-08-08T13:04:11.826023+09:00",
+  "generatedLabel": "2026/08/08 13:04",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 49,
+  "candidates": 47,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 1
+      "items": 0
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -250,17 +250,6 @@
       "score": 26
     },
     {
-      "title": "輸出管理AIのTIMEWELL、ISMS認証「ISO/IEC 27001」を取得",
-      "link": "https://ascii.jp/elem/000/004/425/4425947/?rss",
-      "date": "2026-08-07T18:30:00+09:00",
-      "dateLabel": "08/07 18:30",
-      "desc": "輸出管理AIのTIMEWELL、ISMS認証「ISO/IEC 27001」を取得",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
       "title": "Spectre v2対策を突破する新攻撃「TONTOU」が登場、Linuxのパスワードハッシュ漏えいを実証",
       "link": "https://gigazine.net/news/20260807-tontou-spectre-v2/",
       "date": "2026-08-07T18:15:00+09:00",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "アプリが遅い原因をAIがトレースログから分析してくれる「Windows Performance Analyzer MCP」 Microsoftがプレビュー公開",
+      "link": "https://www.itmedia.co.jp/news/article/2608/06/2000000434/",
+      "date": "2026-08-06T19:54:46+09:00",
+      "dateLabel": "08/06 19:54",
+      "desc": "米Microsoftが、Windowsアプリケーションが遅くなる原因の調査分析をAIに依頼できるツール「Windows Performance Analyzer MCP」（WPA MCP）のアーリープレビューを発表しました。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
       "score": 26
     }
   ]
