@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-08T16:40:25.717148+09:00",
-  "generatedLabel": "2026/08/08 16:40",
+  "generatedAt": "2026-08-08T17:27:43.677168+09:00",
+  "generatedLabel": "2026/08/08 17:27",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 48,
+  "candidates": 49,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 2
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -206,6 +206,17 @@
       "score": 34
     },
     {
+      "title": "折りたたみiPhoneはまだか！ ライバル機は動画視聴に最強か実際に試してみた",
+      "link": "https://ascii.jp/elem/000/004/425/4425960/?rss",
+      "date": "2026-08-08T17:00:00+09:00",
+      "dateLabel": "08/08 17:00",
+      "desc": "サムスンの新型折りたたみスマホ「Galaxy Z Fold8」のレビューです。開くと動画や読書に最適な4:3の大画面になり、約201gという世界最軽量クラスの軽さを実現しました。進化したGalaxy AIを搭載し、約27万円という価格に見合う高い完成度を誇る注目のフラッグシップ機です。",
+      "img": "https://ascii.jp/img/2026/08/08/4511046/s/51c7720eadf57616.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "「METEORA GRAVITY」×クリエイターマッチングポートフォリオ「ENRAI」がコラボ！新進気鋭のクリエイター向けのコンテスト＆法人・団体向けの企画が同時始動！",
       "link": "https://ascii.jp/elem/000/004/425/4425997/?rss",
       "date": "2026-08-08T11:00:00+09:00",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "OpenAI初のデバイスはアイスホッケーパックサイズのドーナツ型AIスマートスピーカーで価格は4万8000円以上になる見込み",
-      "link": "https://gigazine.net/news/20260807-openai-device-doughnut-shaped-speaker/",
-      "date": "2026-08-07T11:40:00+09:00",
-      "dateLabel": "08/07 11:40",
-      "desc": "ChatGPTなどの開発元として知られるAI企業のOpenAIは、元AppleのデザイナーでありiPhoneやiPodのデザインを担当したことで知られるジョナサン・アイブ氏と、AIデバイスの開発を進めています。このAIデバイスは、アイスホッケーのパックほどのサイズで、形状がドーナツ型のスマートスピーカーとなり、販売価格は300ドル(約4万8000円)以上にな",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 26
     }
   ]
