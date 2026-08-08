@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-08T14:34:58.277796+09:00",
-  "generatedLabel": "2026/08/08 14:34",
+  "generatedAt": "2026-08-08T15:33:54.658200+09:00",
+  "generatedLabel": "2026/08/08 15:33",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 48,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 1
+      "items": 2
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 12
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -93,17 +93,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
-      "title": "OpenAIのテストAIが「AI同士の掲示板」を勝手に構築して情報共有しHugging Faceへの攻撃を実行していたことが判明、掲示板を閉鎖されてもこっそり建てなおす",
-      "link": "https://gigazine.net/news/20260807-openai-hugging-face-explain/",
-      "date": "2026-08-07T15:28:00+09:00",
-      "dateLabel": "08/07 15:28",
-      "desc": "2026年7月21日にOpenAIは「テスト中のAIがHugging Faceを攻撃してしまうセキュリティインシデントが発生した」と発表しました。このインシデントについて、OpenAIの研究者がセキュリティカンファレンスのBlack Hat USA 2026で講演し、「AIエージェント同士が情報共有のための掲示板を秘密裏に形成していた」というエージェントの自",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -115,17 +104,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "AMDがAIモデルの「重み」を直接半導体に組み込むTaalasを買収へ、AI推論の高速化を狙う",
-      "link": "https://gigazine.net/news/20260807-amd-acquire-taalas/",
-      "date": "2026-08-07T11:05:00+09:00",
-      "dateLabel": "08/07 11:05",
-      "desc": "AMDが2026年8月6日、AIの推論処理に特化した半導体を開発するカナダのスタートアップ「Taalas」を買収する最終契約を締結したと発表しました。TaalasはAIモデルの構造や「重み」と呼ばれるパラメーターを半導体に直接組み込む技術を開発しており、AMDはTaalasの技術をAIアクセラレーターの開発に取り込む計画です。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
       "score": 42
     },
     {
@@ -173,6 +151,17 @@
       "score": 34
     },
     {
+      "title": "OpenAIのテストAIが「AI同士の掲示板」を勝手に構築して情報共有しHugging Faceへの攻撃を実行していたことが判明、掲示板を閉鎖されてもこっそり建てなおす",
+      "link": "https://gigazine.net/news/20260807-openai-hugging-face-explain/",
+      "date": "2026-08-07T15:28:00+09:00",
+      "dateLabel": "08/07 15:28",
+      "desc": "2026年7月21日にOpenAIは「テスト中のAIがHugging Faceを攻撃してしまうセキュリティインシデントが発生した」と発表しました。このインシデントについて、OpenAIの研究者がセキュリティカンファレンスのBlack Hat USA 2026で講演し、「AIエージェント同士が情報共有のための掲示板を秘密裏に形成していた」というエージェントの自",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
       "title": "AIエージェントのスキルやMCPサーバーを持ち運べる「Agent Plugins」にGoogleが参加、OpenAI・Microsoft・Amazonなどと共同推進",
       "link": "https://gigazine.net/news/20260807-agent-plugins/",
       "date": "2026-08-07T13:15:00+09:00",
@@ -215,6 +204,17 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
+    },
+    {
+      "title": "「METEORA GRAVITY」×クリエイターマッチングポートフォリオ「ENRAI」がコラボ！新進気鋭のクリエイター向けのコンテスト＆法人・団体向けの企画が同時始動！",
+      "link": "https://ascii.jp/elem/000/004/425/4425997/?rss",
+      "date": "2026-08-08T11:00:00+09:00",
+      "dateLabel": "08/08 11:00",
+      "desc": "「METEORA GRAVITY」×クリエイターマッチングポートフォリオ「ENRAI」がコラボ！新進気鋭のクリエイター向けのコンテスト＆法人・団体向けの企画が同時始動！",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     },
     {
       "title": "猫の腎臓病ゼロを目指して。AIMが変える猫と人の未来について考える。ねこ検定10周年記念トークライブ開催！",
