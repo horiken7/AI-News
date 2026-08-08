@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-08T23:22:50.522431+09:00",
-  "generatedLabel": "2026/08/08 23:22",
+  "generatedAt": "2026-08-09T00:19:23.929344+09:00",
+  "generatedLabel": "2026/08/09 00:19",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 48,
+  "candidates": 47,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 11
+      "items": 10
     },
     {
       "source": "CNET Japan",
@@ -195,17 +195,6 @@
       "score": 34
     },
     {
-      "title": "「35歳以上のChatGPTユーザーが増加」「画像生成などのマルチメディア会話が増加」などChatGPTの利用実態レポートが公開される",
-      "link": "https://gigazine.net/news/20260807-chatgpt-analyze/",
-      "date": "2026-08-07T13:06:00+09:00",
-      "dateLabel": "08/07 13:06",
-      "desc": "OpenAIがChatGPTの2026年6月までの利用実態データを公開しました。新たに国別データも公開されており、国ごとのChatGPTの利用実態の違いが浮き彫りになっています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "「GPT-5.6 vs. Claude Fable 5」勝者はClaude、でも企業が選びづらいワケ：891st Lap",
       "link": "https://kn.itmedia.co.jp/kn/articles/2608/07/news037.html",
       "date": "2026-08-07T07:00:00+09:00",
@@ -250,17 +239,6 @@
       "score": 26
     },
     {
-      "title": "「Grokipedia」は2026年4月24日に12件の修正提案を処理したあと一切の更新が停止している",
-      "link": "https://gigazine.net/news/20260807-grokipedia/",
-      "date": "2026-08-07T23:56:00+09:00",
-      "dateLabel": "08/07 23:56",
-      "desc": "「Wikipediaを大幅に上回ることになる」として、イーロン・マスク氏とxAIが満を持して開発・公開したオンライン百科事典「Grokipedia」で、修正提案の処理作業が停止状態にあり、提案された内容が「審査中」のままになっていると指摘されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
       "title": "アプリが遅い原因をAIがトレースログから分析してくれる「Windows Performance Analyzer MCP」 Microsoftがプレビュー公開",
       "link": "https://www.itmedia.co.jp/news/article/2608/06/2000000434/",
       "date": "2026-08-06T19:54:46+09:00",
@@ -281,6 +259,28 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 26
+    },
+    {
+      "title": "Google Cloud、AIが自律的にコードの脆弱性検出からサンドボックス内でのリスク検証、修正までを自動実行。「CodeMender」プレビュー公開",
+      "link": "https://www.publickey1.jp/blog/26/google_cloudaicodemender.html",
+      "date": "2026-07-29T00:54:06+09:00",
+      "dateLabel": "07/29 00:54",
+      "desc": "Google Cloudは、コードの脆弱性の検出、リスクの検証と報告、修正までを自律的に実行するAIエージェント「CodeMender」のプレビュー公開を発表しました。 複雑な脆弱性まで発見し、サンドボックス内でリスク検証 CodeMend...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 24
+    },
+    {
+      "title": "アプリが遅い原因をAIがトレースログから分析してくれる「Windows Performance Analyzer MCP」（WPA MCP）、マイクロソフトがプレビュー公開",
+      "link": "https://www.publickey1.jp/blog/26/aiwindows_performance_analyzer_mcpwpa_mcp.html",
+      "date": "2026-08-05T00:36:16+09:00",
+      "dateLabel": "08/05 00:36",
+      "desc": "マイクロソフトは、Windowsアプリケーションが遅くなる原因の調査分析をAIに依頼できるツール「Windows Performance Analyzer MCP」（WPA MCP）のアーリープレビューを発表しました。 GitHub Cop...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AI全般",
+      "score": 20
     }
   ]
 }
