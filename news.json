@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-08T08:24:54.786138+09:00",
-  "generatedLabel": "2026/08/08 08:24",
+  "generatedAt": "2026-08-08T09:52:22.086469+09:00",
+  "generatedLabel": "2026/08/08 09:52",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 49,
@@ -72,6 +72,17 @@
       "src": "Publickey",
       "cat": "LLM/モデル",
       "score": 52
+    },
+    {
+      "title": "Anthropic、「Fable 5」の生物学の制限を緩和 誤検知によるフォールバックを約85％削減",
+      "link": "https://www.itmedia.co.jp/news/article/2608/08/2000000460/",
+      "date": "2026-08-08T07:57:07+09:00",
+      "dateLabel": "08/08 07:57",
+      "desc": "Anthropicは、AIモデル「Claude Fable 5」の生物学分野における過度な保護機能を緩和したと発表した。安全性を重視するあまり発生していた無害な質問への誤検知や下位モデルへのフォールバックを大幅に削減。専門的な二重用途研究への制限は維持しつつ、一般的な健康・教育用途での利便性を向上させた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
+      "score": 50
     },
     {
       "title": "DeepSeekがAPI料金の大幅値上げを予告、低価格戦略による需要急増が背景か",
@@ -206,17 +217,6 @@
       "score": 34
     },
     {
-      "title": "Googleがオフライン翻訳デバイス「Gemma Translator」を発表、Gemma 4 E2B搭載でローカル翻訳可能",
-      "link": "https://gigazine.net/news/20260807-google-gemma-translator/",
-      "date": "2026-08-07T10:45:00+09:00",
-      "dateLabel": "08/07 10:45",
-      "desc": "Googleがオフラインで動作する翻訳デバイス「Gemma Translator」を発表しました。Gemma TranslatorはGoogle製AI「Gemma 4 E2B」を用いて各種言語の翻訳が可能で、デバイスの設計図も含めてオープンソースで公開されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI実装",
-      "score": 34
-    },
-    {
       "title": "「GPT-5.6 vs. Claude Fable 5」勝者はClaude、でも企業が選びづらいワケ：891st Lap",
       "link": "https://kn.itmedia.co.jp/kn/articles/2608/07/news037.html",
       "date": "2026-08-07T07:00:00+09:00",
@@ -226,6 +226,17 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
+    },
+    {
+      "title": "AI音楽生成サービス「Suno」がAI生成楽曲に音声透かしを導入すると発表",
+      "link": "https://gigazine.net/news/20260808-suno-start-watermarking-songs/",
+      "date": "2026-08-08T09:00:00+09:00",
+      "dateLabel": "08/08 09:00",
+      "desc": "AI音楽生成サービスの「Suno」が、プラットフォーム上で作成された楽曲を識別し、ダウンロードを制限し、模倣楽曲を防止するためのコミュニティガイドラインを更新するための新ツールを発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
     },
     {
       "title": "「Grokipedia」は2026年4月24日に12件の修正提案を処理したあと一切の更新が停止している",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "ChatGPTの無料ユーザーもGPT-5.6 Lunaを使用可能に、使用量無制限",
-      "link": "https://gigazine.net/news/20260807-chatgpt-default-luna/",
-      "date": "2026-08-07T10:49:00+09:00",
-      "dateLabel": "08/07 10:49",
-      "desc": "ChatGPTのデフォルトモデルが「GPT-5.5 Instant」から「GPT-5.6 Luna」へと変更されました。GPT-5.5 Instantと比較して間違いが減るとのことです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 26
     }
   ]
