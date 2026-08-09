@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-09T08:18:10.484487+09:00",
-  "generatedLabel": "2026/08/09 08:18",
+  "generatedAt": "2026-08-09T09:54:50.250429+09:00",
+  "generatedLabel": "2026/08/09 09:54",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 46,
+  "candidates": 45,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 9
+      "items": 8
     },
     {
       "source": "CNET Japan",
@@ -90,17 +90,6 @@
       "date": "2026-08-07T15:25:00+09:00",
       "dateLabel": "08/07 15:25",
       "desc": "中国のAI企業であるDeepSeekは2026年7月31日にAIモデル「DeepSeek-V4-Flash-0731」を商用利用可能なライセンスの下でオープンモデルとして公開しました。DeepSeek-V4-Flash-0731はOpenAIの低コストモデル「GPT-5.6 Luna」よりもさらに安価なモデルとして発表されましたが、競争のために価格を大きく引",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "Metaの基盤モデルMuse Spark 1.2が第三者機関の性能分析でハイスコアを記録、Museシリーズ登場から4カ月で急成長",
-      "link": "https://gigazine.net/news/20260807-muse-spark-1-2-benchmark/",
-      "date": "2026-08-07T13:32:00+09:00",
-      "dateLabel": "08/07 13:32",
-      "desc": "Metaが2026年8月5日に発表した基盤モデルの「Muse Spark 1.2」が、数学・科学・コーディング・推論といった分野におけるAIの能力を総合的に測定するための複合ベンチマークであるArtificial Analysis Intelligence Indexで、Grok 4.5を超える高スコアを獲得したことが明らかになりました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
@@ -217,17 +206,6 @@
       "score": 26
     },
     {
-      "title": "AI音楽生成サービス「Suno」がAI生成楽曲に音声透かしを導入すると発表",
-      "link": "https://gigazine.net/news/20260808-suno-start-watermarking-songs/",
-      "date": "2026-08-08T09:00:00+09:00",
-      "dateLabel": "08/08 09:00",
-      "desc": "AI音楽生成サービスの「Suno」が、プラットフォーム上で作成された楽曲を識別し、ダウンロードを制限し、模倣楽曲を防止するためのコミュニティガイドラインを更新するための新ツールを発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
       "title": "OpenAI、次期モデル「Astra」の一部開発を停止 「Critical」級サイバー能力の可能性否定できず",
       "link": "https://www.itmedia.co.jp/news/article/2608/08/2000000459/",
       "date": "2026-08-08T07:11:46+09:00",
@@ -281,6 +259,28 @@
       "src": "Publickey",
       "cat": "AI全般",
       "score": 20
+    },
+    {
+      "title": "AI音楽生成サービス「Suno」がAI生成楽曲に音声透かしを導入すると発表",
+      "link": "https://gigazine.net/news/20260808-suno-start-watermarking-songs/",
+      "date": "2026-08-08T09:00:00+09:00",
+      "dateLabel": "08/08 09:00",
+      "desc": "AI音楽生成サービスの「Suno」が、プラットフォーム上で作成された楽曲を識別し、ダウンロードを制限し、模倣楽曲を防止するためのコミュニティガイドラインを更新するための新ツールを発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 18
+    },
+    {
+      "title": "「Grokipedia」は2026年4月24日に12件の修正提案を処理したあと一切の更新が停止している",
+      "link": "https://gigazine.net/news/20260807-grokipedia/",
+      "date": "2026-08-07T23:56:00+09:00",
+      "dateLabel": "08/07 23:56",
+      "desc": "「Wikipediaを大幅に上回ることになる」として、イーロン・マスク氏とxAIが満を持して開発・公開したオンライン百科事典「Grokipedia」で、修正提案の処理作業が停止状態にあり、提案された内容が「審査中」のままになっていると指摘されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 18
     }
   ]
 }
