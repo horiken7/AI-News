@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-09T16:44:31.635647+09:00",
-  "generatedLabel": "2026/08/09 16:44",
+  "generatedAt": "2026-08-09T17:30:06.312917+09:00",
+  "generatedLabel": "2026/08/09 17:30",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 45,
@@ -129,6 +129,17 @@
       "score": 42
     },
     {
+      "title": "【1日充電不要】新型「Surface Laptop」の実機を試して分かった前モデルからの進化",
+      "link": "https://ascii.jp/elem/000/004/424/4424631/?rss",
+      "date": "2026-08-09T17:00:00+09:00",
+      "dateLabel": "08/09 17:00",
+      "desc": "今回レビューするのは、Copilot+ PCとして新しい頭脳「Snapdragon X2」プロセッサーを搭載した13.8インチの新型「Surface Laptop」です。",
+      "img": "https://ascii.jp/img/2026/08/07/4510566/s/8e7710598419dc2a.png",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
       "title": "Hugging Face侵害、AIエージェントは社内に“秘密の掲示板”を作っていた──OpenAIがBlack Hatで詳細説明",
       "link": "https://www.itmedia.co.jp/news/article/2608/09/2000000463/",
       "date": "2026-08-09T07:16:59+09:00",
@@ -190,17 +201,6 @@
       "dateLabel": "08/09 12:00",
       "desc": "グーグルの画面を持たないスマートバンド「Fitbit Air」はAndroidスマホだけでなく、iPhoneとペアリングして使うこともできます。そこで、筆者が普段メインに使っているiPhone 16 Proと接続させて、Androidでの動作時との違いをチェックしました。",
       "img": "https://ascii.jp/img/2026/08/08/4510936/s/ad3c113ddf959383.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "折りたたみiPhoneはまだか！ ライバル機は動画視聴に最強か実際に試してみた",
-      "link": "https://ascii.jp/elem/000/004/425/4425960/?rss",
-      "date": "2026-08-08T17:00:00+09:00",
-      "dateLabel": "08/08 17:00",
-      "desc": "サムスンの新型折りたたみスマホ「Galaxy Z Fold8」のレビューです。開くと動画や読書に最適な4:3の大画面になり、約201gという世界最軽量クラスの軽さを実現しました。進化したGalaxy AIを搭載し、約27万円という価格に見合う高い完成度を誇る注目のフラッグシップ機です。",
-      "img": "https://ascii.jp/img/2026/08/08/4511046/s/51c7720eadf57616.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
