@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-09T09:54:50.250429+09:00",
-  "generatedLabel": "2026/08/09 09:54",
+  "generatedAt": "2026-08-09T11:57:20.088047+09:00",
+  "generatedLabel": "2026/08/09 11:57",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 45,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 2
+      "items": 1
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 8
+      "items": 9
     },
     {
       "source": "CNET Japan",
@@ -195,17 +195,6 @@
       "score": 26
     },
     {
-      "title": "「METEORA GRAVITY」×クリエイターマッチングポートフォリオ「ENRAI」がコラボ！新進気鋭のクリエイター向けのコンテスト＆法人・団体向けの企画が同時始動！",
-      "link": "https://ascii.jp/elem/000/004/425/4425997/?rss",
-      "date": "2026-08-08T11:00:00+09:00",
-      "dateLabel": "08/08 11:00",
-      "desc": "「METEORA GRAVITY」×クリエイターマッチングポートフォリオ「ENRAI」がコラボ！新進気鋭のクリエイター向けのコンテスト＆法人・団体向けの企画が同時始動！",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
       "title": "OpenAI、次期モデル「Astra」の一部開発を停止 「Critical」級サイバー能力の可能性否定できず",
       "link": "https://www.itmedia.co.jp/news/article/2608/08/2000000459/",
       "date": "2026-08-08T07:11:46+09:00",
@@ -259,6 +248,17 @@
       "src": "Publickey",
       "cat": "AI全般",
       "score": 20
+    },
+    {
+      "title": "コンパクトなのに10000mAhの大容量で最大3台のデバイスを同時充電できる半固体モバイルバッテリー「SMARTCOBY Pro SLIM SS」レビュー",
+      "link": "https://gigazine.net/news/20260809-cio-smartcoby-pro-slim-ss/",
+      "date": "2026-08-09T10:00:00+09:00",
+      "dateLabel": "08/09 10:00",
+      "desc": "夏になり暑い日が続きますが、電車内や駅構内でモバイルバッテリーやハンディファンが発火する事案が報告されており、東急電鉄は車内でのモバイルバッテリーの使用を控えるようお願いが出されるほど問題になっています。そんな発火の危険性を低減することに成功した半固体モバイルバッテリーが「SMARTCOBY Pro SLIM SS」です。従来バッテリーの液体電解質をゲル状に",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 18
     },
     {
       "title": "AI音楽生成サービス「Suno」がAI生成楽曲に音声透かしを導入すると発表",
