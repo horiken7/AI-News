@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-09T17:30:06.312917+09:00",
-  "generatedLabel": "2026/08/09 17:30",
+  "generatedAt": "2026-08-09T18:29:06.728137+09:00",
+  "generatedLabel": "2026/08/09 18:29",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 45,
+  "candidates": 47,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 2
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 8
+      "items": 9
     },
     {
       "source": "CNET Japan",
@@ -140,6 +140,17 @@
       "score": 34
     },
     {
+      "title": "テックジム、法人向けにプログラミング講師を客先常駐派遣。Claude Code講座・Python講座を永田町にて毎週無料で対面開催",
+      "link": "https://ascii.jp/elem/000/004/426/4426041/?rss",
+      "date": "2026-08-09T16:34:15+09:00",
+      "dateLabel": "08/09 16:34",
+      "desc": "テックジム、法人向けにプログラミング講師を客先常駐派遣。Claude Code講座・Python講座を永田町にて毎週無料で対面開催",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "Hugging Face侵害、AIエージェントは社内に“秘密の掲示板”を作っていた──OpenAIがBlack Hatで詳細説明",
       "link": "https://www.itmedia.co.jp/news/article/2608/09/2000000463/",
       "date": "2026-08-09T07:16:59+09:00",
@@ -147,17 +158,6 @@
       "desc": "OpenAIは、7月に発覚したHugging Face侵害インシデントの詳細を「Black Hat USA 2026」で説明した。評価中のAIエージェントたちが社内のパッケージ管理システムを“掲示板”として使い、脆弱性やスクリプトを共有して協調していたという。掲示板は一度消去されたが、2日後に別の手段で再構築されていた。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "プレビューURL付きのセルフホスト型開発サンドボックス「sandboxd」",
-      "link": "https://gigazine.net/news/20260808-sandboxd/",
-      "date": "2026-08-08T18:00:00+09:00",
-      "dateLabel": "08/08 18:00",
-      "desc": "アプリやシステムの開発環境を隔離して他のプロジェクトへの影響を防ぎながらコードを実行する仕組みをサンドボックスと言います。Docker・Traefik・SQLiteを利用し、なおかつAIエージェントによる開発に特化したサンドボックス基盤を簡単に構築できる「sandboxd」が公開されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 34
     },
@@ -195,6 +195,17 @@
       "score": 34
     },
     {
+      "title": "無料で画像・動画・音声・データ・ドキュメントなどあらゆるファイルを自分のローカルPC内で変換できるオープンソースのセルフホスト型ファイルコンバーター「Transmute」、ファイルサイズ制限や透かしの追加など一切なしでユーザー作成も可能",
+      "link": "https://gigazine.net/news/20260809-transmute/",
+      "date": "2026-08-09T18:00:00+09:00",
+      "dateLabel": "08/09 18:00",
+      "desc": "画像や動画・音声・文書などのファイル形式を変換するオンラインサービスは手軽に利用できますが、容量制限が設けられていたり機密性のあるファイルを外部サーバーへ送信しなければならなかったりします。「Transmute」なら自分のPCや管理下のサーバー内で幅広いファイル形式を変換・圧縮できるオープンソースのセルフホスト型ファイルコンバーターなのでかなり安全性が増すは",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 26
+    },
+    {
       "title": "グーグルの画面のないスマートバンド「Google Fitbit Air」はiPhoneでも同じように使える",
       "link": "https://ascii.jp/elem/000/004/425/4425965/?rss",
       "date": "2026-08-09T12:00:00+09:00",
@@ -203,6 +214,17 @@
       "img": "https://ascii.jp/img/2026/08/08/4510936/s/ad3c113ddf959383.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "プレビューURL付きのセルフホスト型開発サンドボックス「sandboxd」",
+      "link": "https://gigazine.net/news/20260808-sandboxd/",
+      "date": "2026-08-08T18:00:00+09:00",
+      "dateLabel": "08/08 18:00",
+      "desc": "アプリやシステムの開発環境を隔離して他のプロジェクトへの影響を防ぎながらコードを実行する仕組みをサンドボックスと言います。Docker・Traefik・SQLiteを利用し、なおかつAIエージェントによる開発に特化したサンドボックス基盤を簡単に構築できる「sandboxd」が公開されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
       "score": 26
     },
     {
@@ -259,28 +281,6 @@
       "src": "Publickey",
       "cat": "AI全般",
       "score": 20
-    },
-    {
-      "title": "コンパクトなのに10000mAhの大容量で最大3台のデバイスを同時充電できる半固体モバイルバッテリー「SMARTCOBY Pro SLIM SS」レビュー",
-      "link": "https://gigazine.net/news/20260809-cio-smartcoby-pro-slim-ss/",
-      "date": "2026-08-09T10:00:00+09:00",
-      "dateLabel": "08/09 10:00",
-      "desc": "夏になり暑い日が続きますが、電車内や駅構内でモバイルバッテリーやハンディファンが発火する事案が報告されており、東急電鉄は車内でのモバイルバッテリーの使用を控えるようお願いが出されるほど問題になっています。そんな発火の危険性を低減することに成功した半固体モバイルバッテリーが「SMARTCOBY Pro SLIM SS」です。従来バッテリーの液体電解質をゲル状に",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 18
-    },
-    {
-      "title": "AI音楽生成サービス「Suno」がAI生成楽曲に音声透かしを導入すると発表",
-      "link": "https://gigazine.net/news/20260808-suno-start-watermarking-songs/",
-      "date": "2026-08-08T09:00:00+09:00",
-      "dateLabel": "08/08 09:00",
-      "desc": "AI音楽生成サービスの「Suno」が、プラットフォーム上で作成された楽曲を識別し、ダウンロードを制限し、模倣楽曲を防止するためのコミュニティガイドラインを更新するための新ツールを発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 18
     }
   ]
 }
