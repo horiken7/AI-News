@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-09T21:28:00.181416+09:00",
-  "generatedLabel": "2026/08/09 21:28",
+  "generatedAt": "2026-08-09T22:41:20.150064+09:00",
+  "generatedLabel": "2026/08/09 22:41",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 45,
@@ -83,6 +83,17 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 50
+    },
+    {
+      "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
+      "link": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
+      "date": "2026-08-10T00:19:33+09:00",
+      "dateLabel": "08/10 00:19",
+      "desc": "AWS、マイクロソフト、OpenAI、Anysphere、Vercelの各社は、AIエージェントのスキルやMCPサーバの設定を、AIエージェンが異なっていても共有できる業界標準の仕様「Agent Plugins 1.0.0」を発表しました。...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 42
     },
     {
       "title": "「Claude Code」にセッション同士がメッセージを送り合う機能 macOSとLinuxに",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "規制/安全",
-      "score": 18
-    },
-    {
-      "title": "AI音楽生成サービス「Suno」がAI生成楽曲に音声透かしを導入すると発表",
-      "link": "https://gigazine.net/news/20260808-suno-start-watermarking-songs/",
-      "date": "2026-08-08T09:00:00+09:00",
-      "dateLabel": "08/08 09:00",
-      "desc": "AI音楽生成サービスの「Suno」が、プラットフォーム上で作成された楽曲を識別し、ダウンロードを制限し、模倣楽曲を防止するためのコミュニティガイドラインを更新するための新ツールを発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
       "score": 18
     }
   ]
