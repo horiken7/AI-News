@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-09T18:29:06.728137+09:00",
-  "generatedLabel": "2026/08/09 18:29",
+  "generatedAt": "2026-08-09T19:22:25.103894+09:00",
+  "generatedLabel": "2026/08/09 19:22",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 47,
+  "candidates": 46,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 9
+      "items": 8
     },
     {
       "source": "CNET Japan",
@@ -104,17 +104,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "規制/安全",
-      "score": 42
-    },
-    {
-      "title": "DeepSeekがAPI料金の大幅値上げを予告、低価格戦略による需要急増が背景か",
-      "link": "https://gigazine.net/news/20260807-deepseek-raise-prices/",
-      "date": "2026-08-07T15:25:00+09:00",
-      "dateLabel": "08/07 15:25",
-      "desc": "中国のAI企業であるDeepSeekは2026年7月31日にAIモデル「DeepSeek-V4-Flash-0731」を商用利用可能なライセンスの下でオープンモデルとして公開しました。DeepSeek-V4-Flash-0731はOpenAIの低コストモデル「GPT-5.6 Luna」よりもさらに安価なモデルとして発表されましたが、競争のために価格を大きく引",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -281,6 +270,17 @@
       "src": "Publickey",
       "cat": "AI全般",
       "score": 20
+    },
+    {
+      "title": "コンパクトなのに10000mAhの大容量で最大3台のデバイスを同時充電できる半固体モバイルバッテリー「SMARTCOBY Pro SLIM SS」レビュー",
+      "link": "https://gigazine.net/news/20260809-cio-smartcoby-pro-slim-ss/",
+      "date": "2026-08-09T10:00:00+09:00",
+      "dateLabel": "08/09 10:00",
+      "desc": "夏になり暑い日が続きますが、電車内や駅構内でモバイルバッテリーやハンディファンが発火する事案が報告されており、東急電鉄は車内でのモバイルバッテリーの使用を控えるようお願いが出されるほど問題になっています。そんな発火の危険性を低減することに成功した半固体モバイルバッテリーが「SMARTCOBY Pro SLIM SS」です。従来バッテリーの液体電解質をゲル状に",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 18
     }
   ]
 }
