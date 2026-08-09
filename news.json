@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-10T07:19:18.112517+09:00",
-  "generatedLabel": "2026/08/10 07:19",
+  "generatedAt": "2026-08-10T08:20:23.389814+09:00",
+  "generatedLabel": "2026/08/10 08:20",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 46,
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 18
+      "items": 17
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -118,15 +118,15 @@
       "score": 42
     },
     {
-      "title": "「ChatGPT」のデフォルトモデル、PlusとProは「Sol」に、無料版は「Luna」でテキストチャット無制限に",
-      "link": "https://www.itmedia.co.jp/news/article/2608/07/2000000435/",
-      "date": "2026-08-07T06:32:08+09:00",
-      "dateLabel": "08/07 06:32",
-      "desc": "OpenAIはChatGPTのデフォルトモデル変更を発表した。有料版には事実の正確性と応答速度を高めた改良版「GPT-5.6 Sol」を導入し、思考時間を選択できるスライダーを追加。無料版および「ChatGPT Go」には「GPT-5.6 Luna」を導入し、テキストチャットを無制限化するとともに推論を促す「Think」ボタンを提供する。",
+      "title": "中国AI「DeepSeek」、設立3年・残業ゼロで「ChatGPTのライバル」にのし上がった若き創業者の手腕",
+      "link": "https://www.itmedia.co.jp/business/articles/2608/10/news027.html",
+      "date": "2026-08-10T07:00:00+09:00",
+      "dateLabel": "08/10 07:00",
+      "desc": "中国のAI大手DeepSeekは、残業ゼロで「ChatGPTのライバル」と言わしめる立場にまで登り詰めた。若き創業者の驚くべき経営手腕とは。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 36
+      "score": 34
     },
     {
       "title": "とんでもない動画生成AIが出てきた 無料で試し放題の「MiniMax H3」を徹底検証",
@@ -193,6 +193,17 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 28
+    },
+    {
+      "title": "年収1500万円以上の半数が「AI時代でキャリアの見直し」今後の戦略は？／カスハラ対策義務化まで2ヶ月、対策の遅れと被害の実態、ほか",
+      "link": "https://ascii.jp/elem/000/004/426/4426031/?rss",
+      "date": "2026-08-10T08:00:00+09:00",
+      "dateLabel": "08/10 08:00",
+      "desc": "今回（2026年8月1日～8月7日）は、夏季休暇中／休暇明けに増えるサイバーインシデント被害の実態、年収の高い層ほど危機感が強い“AI時代のキャリア戦略”、統合エンドポイント管理市場の成長予測、2ヶ月後に迫ったカスハラ対策の義務化と対策が進んでいない実態についてのデータを紹介します。",
+      "img": "https://ascii.jp/img/2026/08/09/4511161/s/3f9992937ad2c0ca.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     },
     {
       "title": "シャープが2026年9月からAIサーバ事業を開始、2026年度業績は円安で下方修正",
@@ -270,17 +281,6 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 26
-    },
-    {
-      "title": "Google Cloud、AIが自律的にコードの脆弱性検出からサンドボックス内でのリスク検証、修正までを自動実行。「CodeMender」プレビュー公開",
-      "link": "https://www.publickey1.jp/blog/26/google_cloudaicodemender.html",
-      "date": "2026-07-29T00:54:06+09:00",
-      "dateLabel": "07/29 00:54",
-      "desc": "Google Cloudは、コードの脆弱性の検出、リスクの検証と報告、修正までを自律的に実行するAIエージェント「CodeMender」のプレビュー公開を発表しました。 複雑な脆弱性まで発見し、サンドボックス内でリスク検証 CodeMend...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 24
     }
   ]
 }
