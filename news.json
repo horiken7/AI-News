@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-11T06:32:03.888517+09:00",
-  "generatedLabel": "2026/08/11 06:32",
+  "generatedAt": "2026-08-11T07:26:26.807059+09:00",
+  "generatedLabel": "2026/08/11 07:26",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 52,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -72,6 +72,17 @@
       "src": "Publickey",
       "cat": "LLM/モデル",
       "score": 52
+    },
+    {
+      "title": "孤立するAnthropic オープンモデルへの支持をめぐり",
+      "link": "https://ascii.jp/elem/000/004/426/4426225/?rss",
+      "date": "2026-08-11T07:00:00+09:00",
+      "dateLabel": "08/11 07:00",
+      "desc": "有力な生成AIであるClaudeを開発・提供するAnthropicが業界で孤立を深めているようだ。",
+      "img": "https://ascii.jp/img/2026/08/10/4511483/s/8b332d7701ff3713.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "AIエージェントの「Skills」「MCP」などをまとめる標準規格登場 CodexやVS Codeなど対応、Claudeは未対応",
@@ -206,28 +217,6 @@
       "score": 34
     },
     {
-      "title": "中国AI「DeepSeek」、設立3年・残業ゼロで「ChatGPTのライバル」にのし上がった若き創業者の手腕",
-      "link": "https://www.itmedia.co.jp/business/articles/2608/10/news027.html",
-      "date": "2026-08-10T07:00:00+09:00",
-      "dateLabel": "08/10 07:00",
-      "desc": "中国のAI大手DeepSeekは、残業ゼロで「ChatGPTのライバル」と言わしめる立場にまで登り詰めた。若き創業者の驚くべき経営手腕とは。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "半導体がどうやって作られるかがゲーム風のビジュアルと説明で簡単にすぐわかる「ChipTycoon」",
-      "link": "https://gigazine.net/news/20260810-chip-tycoon/",
-      "date": "2026-08-10T07:00:00+09:00",
-      "dateLabel": "08/10 07:00",
-      "desc": "半導体製造プロセスをアニメーションで視覚化した「Chip Tycoon」が公開されました。ミニチュア工場でぐるぐると動き回る半導体を見ながら製造プロセスを理解することができます。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
       "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
       "link": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
       "date": "2026-08-10T00:19:33+09:00",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "「Apex人材が少ない」 Salesforce導入企業の約9割で「属人化」が課題に",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/10/news043.html",
+      "date": "2026-08-10T13:00:00+09:00",
+      "dateLabel": "08/10 13:00",
+      "desc": "コパードは、Salesforceの開発・運用におけるAI活用実態調査の結果を発表した。約9割が業務の属人化に課題意識を持つ中、8割強が「業務をAIで平準化できる」と期待している。一方で、AI活用層は「検証体制の不在」という新たな壁に直面していることも明らかになった。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
       "score": 26
     }
   ]
