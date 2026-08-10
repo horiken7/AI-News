@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-10T08:20:23.389814+09:00",
-  "generatedLabel": "2026/08/10 08:20",
+  "generatedAt": "2026-08-10T09:57:05.363549+09:00",
+  "generatedLabel": "2026/08/10 09:57",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 46,
+  "candidates": 49,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -85,11 +85,22 @@
       "score": 50
     },
     {
+      "title": "「SAPPHIRE PULSE Radeon RX 9050 GAMING 8GB」発売 1080p向けエントリーGPUが5万円台",
+      "link": "https://ascii.jp/elem/000/004/426/4426047/?rss",
+      "date": "2026-08-10T09:30:00+09:00",
+      "dateLabel": "08/10 09:30",
+      "desc": "SAPPHIREの「PULSE Radeon RX 9050 GAMING 8GB」が発売。AMD RDNA 4アーキテクチャを採用し、1080pゲーミングに対応するエントリー向けGPUの特徴や冷却性能、対応機能、予想価格5万3800円前後。",
+      "img": "https://ascii.jp/img/2026/08/10/4511231/s/e74e1dd2ac8d5a22.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
       "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
       "link": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
       "date": "2026-08-10T00:19:33+09:00",
       "dateLabel": "08/10 00:19",
-      "desc": "AWS、マイクロソフト、OpenAI、Anysphere、Vercelの各社は、AIエージェントのスキルやMCPサーバの設定を、AIエージェンが異なっていても共有できる業界標準の仕様「Agent Plugins 1.0.0」を発表しました。...",
+      "desc": "AWS、マイクロソフト、OpenAI、Anysphere、Vercelの各社は、AIエージェントのスキルやMCPサーバの設定を、AIエージェントが異なっていても共有できる業界標準の仕様「Agent Plugins 1.0.0」を発表しました...",
       "img": "",
       "src": "Publickey",
       "cat": "AIエージェント/業務",
@@ -195,6 +206,28 @@
       "score": 28
     },
     {
+      "title": "ナイジェリア鉄道に5ドル払った朝――AIによって新しい種類のバグが誕生しているのではないか",
+      "link": "https://ascii.jp/elem/000/004/425/4425961/?rss",
+      "date": "2026-08-10T09:00:00+09:00",
+      "dateLabel": "08/10 09:00",
+      "desc": "Google Walletの支払い履歴に、身に覚えのない「ナイジェリア鉄道公社」への5ドル請求が載っていた。その本当の理由は不明だが、プログラムが生成AI的になる時代の怖さを感じずにはいられなかった。それは、情報が処理されるのではなく、ませに「生成」されることによって起こる。",
+      "img": "https://ascii.jp/img/2026/08/07/4510912/s/c19927c6976a9dce.png",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 26
+    },
+    {
+      "title": "情シスは「フィジカルAI」にどう向き合うべきか 実用化に不可欠な“現場×AI×経営”の橋渡し役に",
+      "link": "https://ascii.jp/elem/000/004/425/4425959/?rss",
+      "date": "2026-08-10T09:00:00+09:00",
+      "dateLabel": "08/10 09:00",
+      "desc": "人手不足を補う技術として、日本政府も成長戦略の中核領域として位置付ける「フィジカルAI」。このフィジカルAIは、実際の作業を担う現場の知見が不可欠であるが、仕組みの整備は情報システム部門が担うことになる。",
+      "img": "https://ascii.jp/img/2026/08/08/4511051/s/5be27ab7945e3a6f.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "年収1500万円以上の半数が「AI時代でキャリアの見直し」今後の戦略は？／カスハラ対策義務化まで2ヶ月、対策の遅れと被害の実態、ほか",
       "link": "https://ascii.jp/elem/000/004/426/4426031/?rss",
       "date": "2026-08-10T08:00:00+09:00",
@@ -247,39 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "プレビューURL付きのセルフホスト型開発サンドボックス「sandboxd」",
-      "link": "https://gigazine.net/news/20260808-sandboxd/",
-      "date": "2026-08-08T18:00:00+09:00",
-      "dateLabel": "08/08 18:00",
-      "desc": "アプリやシステムの開発環境を隔離して他のプロジェクトへの影響を防ぎながらコードを実行する仕組みをサンドボックスと言います。Docker・Traefik・SQLiteを利用し、なおかつAIエージェントによる開発に特化したサンドボックス基盤を簡単に構築できる「sandboxd」が公開されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "Google Chromeの新機能「Skills」 AIプロンプトの“毎回手打ち”を不要に",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/08/news011.html",
-      "date": "2026-08-08T13:00:00+09:00",
-      "dateLabel": "08/08 13:00",
-      "desc": "GoogleはChrome向けのAI新機能「Skills in Chrome」を発表した。AIプロンプトを保存してワンクリックで再利用可能にするという。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "OpenAI、次期モデル「Astra」の一部開発を停止 「Critical」級サイバー能力の可能性否定できず",
-      "link": "https://www.itmedia.co.jp/news/article/2608/08/2000000459/",
-      "date": "2026-08-08T07:11:46+09:00",
-      "dateLabel": "08/08 07:11",
-      "desc": "OpenAIは、次期主力モデル「Astra」のサイバー能力が自社の安全指針における最上位「Critical」に達している可能性を発表した。要件を満たさない一部活動を停止し、リアルタイム監視や思考過程の評価など管理を強化する。能力を抑制するのではなく、政府機関や外部組織と協力して検証と安全策の提供を進める方針だ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
       "score": 26
     }
   ]
