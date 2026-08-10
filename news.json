@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-10T19:57:30.447451+09:00",
-  "generatedLabel": "2026/08/10 19:57",
+  "generatedAt": "2026-08-10T20:44:00.119443+09:00",
+  "generatedLabel": "2026/08/10 20:44",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 50,
@@ -162,17 +162,6 @@
       "score": 34
     },
     {
-      "title": "これならiPhoneの折りたたみにも（多分）勝てる「Galazy Z Fold8 Ultra」を実際にテストする",
-      "link": "https://ascii.jp/elem/000/004/426/4426020/?rss",
-      "date": "2026-08-10T17:00:00+09:00",
-      "dateLabel": "08/10 17:00",
-      "desc": "サムスンの新型折りたたみスマホ「Galaxy Z Fold8 Ultra」のレビューです。開くと約8.0型の大画面ながら、厚さ約4.1mm、重さ約215gと驚異の薄型軽量化を実現。約30万円からと高価ですが、最上位の性能とAI機能を備えた完成形と言える1台です。",
-      "img": "https://ascii.jp/img/2026/08/10/4511474/s/6d73b5fab6bc3b3b.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "PCメーカーが中国の成長中メモリメーカー・CXMTのメモリを使い始める、Appleもテストを行うがアメリカの規制によりApple向けのカスタムチップを製造できずピンチに",
       "link": "https://gigazine.net/news/20260810-apple-tests-cxmt/",
       "date": "2026-08-10T13:20:00+09:00",
@@ -237,6 +226,17 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
+    },
+    {
+      "title": "コンパクトな23.8液晶一体型PCが15万円台！ Ryzen 5・メモリ16GB搭載「Lenovo A105 AIO」タイムセール中",
+      "link": "https://ascii.jp/elem/000/004/426/4426180/?rss",
+      "date": "2026-08-10T20:00:00+09:00",
+      "dateLabel": "08/10 20:00",
+      "desc": "Lenovoの一体型デスクトップPC「A105 AIO a Gen 11（F0JS004EJP）」がAmazonタイムセール対象。参考価格185,009円のところ、17％オフの152,800円で販売中。23.8型FHD IPS液晶にRyzen 5 40、16GBメモリ、512GB SSDを搭載する。",
+      "img": "https://ascii.jp/img/2026/08/10/4511396/s/d039eaf74e307fbf.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     },
     {
       "title": "AIブームでRAM価格が20年前の水準に逆戻り、DDR4の1GB単価は約2年で10倍近くに",
