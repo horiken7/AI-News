@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-10T09:57:05.363549+09:00",
-  "generatedLabel": "2026/08/10 09:57",
+  "generatedAt": "2026-08-10T12:08:42.079885+09:00",
+  "generatedLabel": "2026/08/10 12:08",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 49,
+  "candidates": 50,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 7
+      "items": 9
     },
     {
       "source": "CNET Japan",
@@ -85,14 +85,14 @@
       "score": 50
     },
     {
-      "title": "「SAPPHIRE PULSE Radeon RX 9050 GAMING 8GB」発売 1080p向けエントリーGPUが5万円台",
-      "link": "https://ascii.jp/elem/000/004/426/4426047/?rss",
-      "date": "2026-08-10T09:30:00+09:00",
-      "dateLabel": "08/10 09:30",
-      "desc": "SAPPHIREの「PULSE Radeon RX 9050 GAMING 8GB」が発売。AMD RDNA 4アーキテクチャを採用し、1080pゲーミングに対応するエントリー向けGPUの特徴や冷却性能、対応機能、予想価格5万3800円前後。",
-      "img": "https://ascii.jp/img/2026/08/10/4511231/s/e74e1dd2ac8d5a22.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
+      "title": "Claude Codeで「コマンド実行のたびに人間に判断を求める」という動作を改善するオートモードがデフォルトで有効化される予定",
+      "link": "https://gigazine.net/news/20260810-claude-code-auto-mode/",
+      "date": "2026-08-10T10:42:00+09:00",
+      "dateLabel": "08/10 10:42",
+      "desc": "Claude Codeは人間に代わってコーディングやPC作業を実行してくれるAIエージェントですが、コマンドなどの実行には人間の許可が必要であり、人間の許可を得るまで作業が止まってしまいます。新たに、2026年8月14日からコマンドの実行可否を自動判断する「オートモード」がデフォルトで有効化されることが発表されました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -129,6 +129,50 @@
       "score": 42
     },
     {
+      "title": "NVIDIA Rubin Ultra開発中止の真相！ 180層CoWoS-Lの歪曲トラブルと、急造ラックNVL576に透ける苦肉の策",
+      "link": "https://ascii.jp/elem/000/004/426/4426042/?rss",
+      "date": "2026-08-10T12:00:00+09:00",
+      "dateLabel": "08/10 12:00",
+      "desc": "VLSIシンポジウムでNVIDIAのBenjamin G. Lee博士による講演があり、Rubin Ultraの開発中止に絡む話題が出てきたので、講演の中身と一緒にNVIDIAの戦略方針について説明したい。",
+      "img": "https://ascii.jp/img/2026/08/09/4511213/s/63e73f68ef26d773.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "PCでユーザーの健康状態の「気づき」を！ VAIO、非接触で測定できる新アプリを発表",
+      "link": "https://ascii.jp/elem/000/004/425/4425286/?rss",
+      "date": "2026-08-10T10:05:00+09:00",
+      "dateLabel": "08/10 10:05",
+      "desc": "VAIOは、PC内蔵カメラとAIセンシング技術を活用し、特別なデバイスを身につけることなくユーザーの健康状態を把握できる世界初のアプリケーション「VAIO ウェルネスケア」を発表した。",
+      "img": "https://ascii.jp/img/2026/08/06/4510106/s/a55bb5ee1ddf1dd4.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "「つくりたい映像」ではなく「達成したい目的」から。AIを活用した映像制作サービス「CINEMAI」を提供開始",
+      "link": "https://ascii.jp/elem/000/004/426/4426100/?rss",
+      "date": "2026-08-10T10:00:00+09:00",
+      "dateLabel": "08/10 10:00",
+      "desc": "「つくりたい映像」ではなく「達成したい目的」から。AIを活用した映像制作サービス「CINEMAI」を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "つながりAI、こども性暴力防止法の施行に備え「こまもろう認定・運用サポートパック」を提供開始",
+      "link": "https://ascii.jp/elem/000/004/426/4426098/?rss",
+      "date": "2026-08-10T10:00:00+09:00",
+      "dateLabel": "08/10 10:00",
+      "desc": "つながりAI、こども性暴力防止法の施行に備え「こまもろう認定・運用サポートパック」を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "中国AI「DeepSeek」、設立3年・残業ゼロで「ChatGPTのライバル」にのし上がった若き創業者の手腕",
       "link": "https://www.itmedia.co.jp/business/articles/2608/10/news027.html",
       "date": "2026-08-10T07:00:00+09:00",
@@ -140,17 +184,6 @@
       "score": 34
     },
     {
-      "title": "とんでもない動画生成AIが出てきた 無料で試し放題の「MiniMax H3」を徹底検証",
-      "link": "https://ascii.jp/elem/000/004/426/4426043/?rss",
-      "date": "2026-08-10T07:00:00+09:00",
-      "dateLabel": "08/10 07:00",
-      "desc": "オープンウェイトの動画生成AI「MiniMax H3」を実機で検証。Seedance 2.0級の生成力に加え、多数の画像や動画を参照できるOmni Reference、ローカル動作、高速化の進展まで、その実力と課題を紹介します。",
-      "img": "https://ascii.jp/img/2026/08/10/4511218/s/42f4d592db002173.png",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
       "title": "半導体がどうやって作られるかがゲーム風のビジュアルと説明で簡単にすぐわかる「ChipTycoon」",
       "link": "https://gigazine.net/news/20260810-chip-tycoon/",
       "date": "2026-08-10T07:00:00+09:00",
@@ -159,28 +192,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "【1日充電不要】新型「Surface Laptop」の実機を試して分かった前モデルからの進化",
-      "link": "https://ascii.jp/elem/000/004/424/4424631/?rss",
-      "date": "2026-08-09T17:00:00+09:00",
-      "dateLabel": "08/09 17:00",
-      "desc": "今回レビューするのは、Copilot+ PCとして新しい頭脳「Snapdragon X2」プロセッサーを搭載した13.8インチの新型「Surface Laptop」です。",
-      "img": "https://ascii.jp/img/2026/08/07/4510566/s/8e7710598419dc2a.png",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "テックジム、法人向けにプログラミング講師を客先常駐派遣。Claude Code講座・Python講座を永田町にて毎週無料で対面開催",
-      "link": "https://ascii.jp/elem/000/004/426/4426041/?rss",
-      "date": "2026-08-09T16:34:15+09:00",
-      "dateLabel": "08/09 16:34",
-      "desc": "テックジム、法人向けにプログラミング講師を客先常駐派遣。Claude Code講座・Python講座を永田町にて毎週無料で対面開催",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -206,36 +217,36 @@
       "score": 28
     },
     {
-      "title": "ナイジェリア鉄道に5ドル払った朝――AIによって新しい種類のバグが誕生しているのではないか",
-      "link": "https://ascii.jp/elem/000/004/425/4425961/?rss",
-      "date": "2026-08-10T09:00:00+09:00",
-      "dateLabel": "08/10 09:00",
-      "desc": "Google Walletの支払い履歴に、身に覚えのない「ナイジェリア鉄道公社」への5ドル請求が載っていた。その本当の理由は不明だが、プログラムが生成AI的になる時代の怖さを感じずにはいられなかった。それは、情報が処理されるのではなく、ませに「生成」されることによって起こる。",
-      "img": "https://ascii.jp/img/2026/08/07/4510912/s/c19927c6976a9dce.png",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
-      "title": "情シスは「フィジカルAI」にどう向き合うべきか 実用化に不可欠な“現場×AI×経営”の橋渡し役に",
-      "link": "https://ascii.jp/elem/000/004/425/4425959/?rss",
-      "date": "2026-08-10T09:00:00+09:00",
-      "dateLabel": "08/10 09:00",
-      "desc": "人手不足を補う技術として、日本政府も成長戦略の中核領域として位置付ける「フィジカルAI」。このフィジカルAIは、実際の作業を担う現場の知見が不可欠であるが、仕組みの整備は情報システム部門が担うことになる。",
-      "img": "https://ascii.jp/img/2026/08/08/4511051/s/5be27ab7945e3a6f.jpg",
+      "title": "NuPhy「Air65 V3」「Air100 V3」発売 3モード接続対応の薄型メカニカルキーボード",
+      "link": "https://ascii.jp/elem/000/004/426/4426056/?rss",
+      "date": "2026-08-10T11:00:00+09:00",
+      "dateLabel": "08/10 11:00",
+      "desc": "NuPhyの新型ロープロファイルメカニカルキーボード「Air65 V3」「Air100 V3」が発売。65％・100％レイアウト、Bluetooth・2.4GHz・USB-C接続、Webドライバー対応、13.2mm薄型アルミボディなど特徴や仕様を紹介します。",
+      "img": "https://ascii.jp/img/2026/08/10/4511240/s/f3696ebe9a265b10.png",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "年収1500万円以上の半数が「AI時代でキャリアの見直し」今後の戦略は？／カスハラ対策義務化まで2ヶ月、対策の遅れと被害の実態、ほか",
-      "link": "https://ascii.jp/elem/000/004/426/4426031/?rss",
-      "date": "2026-08-10T08:00:00+09:00",
-      "dateLabel": "08/10 08:00",
-      "desc": "今回（2026年8月1日～8月7日）は、夏季休暇中／休暇明けに増えるサイバーインシデント被害の実態、年収の高い層ほど危機感が強い“AI時代のキャリア戦略”、統合エンドポイント管理市場の成長予測、2ヶ月後に迫ったカスハラ対策の義務化と対策が進んでいない実態についてのデータを紹介します。",
-      "img": "https://ascii.jp/img/2026/08/09/4511161/s/3f9992937ad2c0ca.jpg",
+      "title": "【8/28無料セミナー開催】APTO、Bright Data 主催セミナー「センサーからWebへ―Physical AIを支える統合データパイプラインの構築―」に登壇",
+      "link": "https://ascii.jp/elem/000/004/426/4426087/?rss",
+      "date": "2026-08-10T10:10:00+09:00",
+      "dateLabel": "08/10 10:10",
+      "desc": "【8/28無料セミナー開催】APTO、Bright Data 主催セミナー「センサーからWebへ―Physical AIを支える統合データパイプラインの構築―」に登壇",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "ユカイ工学の「メイカーボード」でロボットづくりがイチから学べる。月刊誌『子供の科学』（誠文堂新光社）にて新連載企画がスタート！",
+      "link": "https://ascii.jp/elem/000/004/426/4426107/?rss",
+      "date": "2026-08-10T10:00:00+09:00",
+      "dateLabel": "08/10 10:00",
+      "desc": "ユカイ工学の「メイカーボード」でロボットづくりがイチから学べる。月刊誌『子供の科学』（誠文堂新光社）にて新連載企画がスタート！",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
       "score": 26
     },
     {
@@ -258,17 +269,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "規制/安全",
-      "score": 26
-    },
-    {
-      "title": "グーグルの画面のないスマートバンド「Google Fitbit Air」はiPhoneでも同じように使える",
-      "link": "https://ascii.jp/elem/000/004/425/4425965/?rss",
-      "date": "2026-08-09T12:00:00+09:00",
-      "dateLabel": "08/09 12:00",
-      "desc": "グーグルの画面を持たないスマートバンド「Fitbit Air」はAndroidスマホだけでなく、iPhoneとペアリングして使うこともできます。そこで、筆者が普段メインに使っているiPhone 16 Proと接続させて、Androidでの動作時との違いをチェックしました。",
-      "img": "https://ascii.jp/img/2026/08/08/4510936/s/ad3c113ddf959383.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 26
     },
     {
