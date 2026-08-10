@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-10T23:12:57.642327+09:00",
-  "generatedLabel": "2026/08/10 23:12",
+  "generatedAt": "2026-08-11T00:50:22.373216+09:00",
+  "generatedLabel": "2026/08/11 00:50",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 51,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 2
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -74,6 +74,17 @@
       "score": 52
     },
     {
+      "title": "AIエージェントの「Skills」「MCP」などをまとめる標準規格登場 CodexやVS Codeなど対応、Claudeは未対応",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/10/2000000487/",
+      "date": "2026-08-10T23:11:18+09:00",
+      "dateLabel": "08/10 23:11",
+      "desc": "VercelがAIエージェント拡張のオープン標準「Agent Plugins」を発表。「Agent Skills」やMCPサーバ設定を共通形式にし、クライアント間で使い回せるようにする。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "SK Hynixが韓国で約6兆円を投じて半導体製造施設を拡張する計画、龍仁に約4兆円のDRAM工場、清州に約2兆円のNAND製造工場を建設へ",
       "link": "https://gigazine.net/news/20260810-sk-hynix-38b/",
       "date": "2026-08-10T21:00:00+09:00",
@@ -82,17 +93,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "AIエージェントの「Skills」などが標準規格化 CodexやVS Codeなど対応、Claudeは未対応",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/10/2000000487/",
-      "date": "2026-08-10T15:29:14+09:00",
-      "dateLabel": "08/10 15:29",
-      "desc": "VercelがAIエージェント拡張のオープン標準「Agent Plugins」を発表。「Agent Skills」やMCPサーバ設定を共通形式にし、クライアント間で使い回せるようにする。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -125,17 +125,6 @@
       "desc": "Claude Codeは人間に代わってコーディングやPC作業を実行してくれるAIエージェントですが、コマンドなどの実行には人間の許可が必要であり、人間の許可を得るまで作業が止まってしまいます。新たに、2026年8月14日からコマンドの実行可否を自動判断する「オートモード」がデフォルトで有効化されることが発表されました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
-      "link": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
-      "date": "2026-08-10T00:19:33+09:00",
-      "dateLabel": "08/10 00:19",
-      "desc": "AWS、マイクロソフト、OpenAI、Anysphere、Vercelの各社は、AIエージェントのスキルやMCPサーバの設定を、AIエージェントが異なっていても共有できる業界標準の仕様「Agent Plugins 1.0.0」を発表しました...",
-      "img": "",
-      "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 42
     },
@@ -239,6 +228,17 @@
       "score": 34
     },
     {
+      "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
+      "link": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
+      "date": "2026-08-10T00:19:33+09:00",
+      "dateLabel": "08/10 00:19",
+      "desc": "AWS、マイクロソフト、OpenAI、Anysphere、Vercelの各社は、AIエージェントのスキルやMCPサーバの設定を、AIエージェントが異なっていても共有できる業界標準の仕様「Agent Plugins 1.0.0」を発表しました...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
       "title": "「Claude Code」にセッション同士がメッセージを送り合う機能 macOSとLinuxに",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000466/",
       "date": "2026-08-09T12:11:16+09:00",
@@ -248,6 +248,17 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
+    },
+    {
+      "title": "週刊アスキー No.1608(2026年8月11日発行)",
+      "link": "https://ascii.jp/elem/000/004/426/4426049/?rss",
+      "date": "2026-08-11T00:00:00+09:00",
+      "dateLabel": "08/11 00:00",
+      "desc": "特集1は携帯電話や通信回線など、毎月の固定費を減らすための工夫を紹介。ポイントなどを活用し、必要なものにうまく配分だ。特集2ではAIの効率的な活用法。選択肢が多いからこそ、本当に役立つものを！",
+      "img": "https://ascii.jp/img/2026/08/10/4511268/s/b0042dccd11ae8ed.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     },
     {
       "title": "コンパクトな23.8液晶一体型PCが15万円台！ Ryzen 5・メモリ16GB搭載「Lenovo A105 AIO」タイムセール中",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "「Apex人材が少ない」 Salesforce導入企業の約9割で「属人化」が課題に",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/10/news043.html",
-      "date": "2026-08-10T13:00:00+09:00",
-      "dateLabel": "08/10 13:00",
-      "desc": "コパードは、Salesforceの開発・運用におけるAI活用実態調査の結果を発表した。約9割が業務の属人化に課題意識を持つ中、8割強が「業務をAIで平準化できる」と期待している。一方で、AI活用層は「検証体制の不在」という新たな壁に直面していることも明らかになった。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
       "score": 26
     }
   ]
