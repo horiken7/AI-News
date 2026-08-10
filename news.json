@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-10T16:09:30.562855+09:00",
-  "generatedLabel": "2026/08/10 16:09",
+  "generatedAt": "2026-08-10T18:06:51.434592+09:00",
+  "generatedLabel": "2026/08/10 18:06",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 50,
+  "candidates": 51,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 1
+      "items": 2
     },
     {
       "source": "PC Watch",
@@ -151,6 +151,17 @@
       "score": 42
     },
     {
+      "title": "これならiPhoneの折りたたみにも（多分）勝てる「Galazy Z Fold8 Ultra」を実際にテストする",
+      "link": "https://ascii.jp/elem/000/004/426/4426020/?rss",
+      "date": "2026-08-10T17:00:00+09:00",
+      "dateLabel": "08/10 17:00",
+      "desc": "サムスンの新型折りたたみスマホ「Galaxy Z Fold8 Ultra」のレビューです。開くと約8.0型の大画面ながら、厚さ約4.1mm、重さ約215gと驚異の薄型軽量化を実現。約30万円からと高価ですが、最上位の性能とAI機能を備えた完成形と言える1台です。",
+      "img": "https://ascii.jp/img/2026/08/10/4511474/s/6d73b5fab6bc3b3b.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "PCメーカーが中国の成長中メモリメーカー・CXMTのメモリを使い始める、Appleもテストを行うがアメリカの規制によりApple向けのカスタムチップを製造できずピンチに",
       "link": "https://gigazine.net/news/20260810-apple-tests-cxmt/",
       "date": "2026-08-10T13:20:00+09:00",
@@ -217,6 +228,17 @@
       "score": 34
     },
     {
+      "title": "11万8100円から買えるVAIOノートPC発見！ 8月31日まで「アウトレットセール」開催中",
+      "link": "https://ascii.jp/elem/000/004/426/4426019/?rss",
+      "date": "2026-08-10T16:30:00+09:00",
+      "dateLabel": "08/10 16:30",
+      "desc": "VAIOストアでは現在、「アウトレットセール」を開催中。VAIO F14やVAIO F16、VAIO SX12、VAIO S13、VAIO SX14-Rなどの対象モデルを、期間限定のアウトレット価格で販売している。セール期間は8月31日(月)9時59分まで。",
+      "img": "https://ascii.jp/img/2026/08/09/4511129/s/d5814682e1cc2f1e.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "AIブームでRAM価格が20年前の水準に逆戻り、DDR4の1GB単価は約2年で10倍近くに",
       "link": "https://gigazine.net/news/20260810-ai-ram-price/",
       "date": "2026-08-10T14:20:00+09:00",
@@ -225,17 +247,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "生成AIとの融合で進む画像認識のビジネス活用",
-      "link": "https://ascii.jp/elem/000/004/422/4422587/?rss",
-      "date": "2026-08-10T14:00:00+09:00",
-      "dateLabel": "08/10 14:00",
-      "desc": "この記事では、画像認識AIの仕組みと最新動向、ビジネスにおける活用方法を解説するとともに、 Safe AI Gateway に搭載されている画像認識機能と使い方についてご紹介します。",
-      "img": "https://ascii.jp/img/2026/07/28/4506135/s/8c59a530ad1683db.png",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
       "score": 26
     },
     {
@@ -269,17 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "無料で画像・動画・音声・データ・ドキュメントなどあらゆるファイルを自分のローカルPC内で変換できるオープンソースのセルフホスト型ファイルコンバーター「Transmute」、ファイルサイズ制限や透かしの追加など一切なしでユーザー作成も可能",
-      "link": "https://gigazine.net/news/20260809-transmute/",
-      "date": "2026-08-09T18:00:00+09:00",
-      "dateLabel": "08/09 18:00",
-      "desc": "画像や動画・音声・文書などのファイル形式を変換するオンラインサービスは手軽に利用できますが、容量制限が設けられていたり機密性のあるファイルを外部サーバーへ送信しなければならなかったりします。「Transmute」なら自分のPCや管理下のサーバー内で幅広いファイル形式を変換・圧縮できるオープンソースのセルフホスト型ファイルコンバーターなのでかなり安全性が増すは",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
       "score": 26
     }
   ]
