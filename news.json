@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-10T14:16:01.553953+09:00",
-  "generatedLabel": "2026/08/10 14:16",
+  "generatedAt": "2026-08-10T16:09:30.562855+09:00",
+  "generatedLabel": "2026/08/10 16:09",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 52,
+  "candidates": 50,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 17
+      "items": 18
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 1
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 12
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -74,6 +74,17 @@
       "score": 52
     },
     {
+      "title": "AIエージェントの「Skills」などが標準規格化 CodexやVS Codeなど対応、Claudeは未対応",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/10/2000000487/",
+      "date": "2026-08-10T15:29:14+09:00",
+      "dateLabel": "08/10 15:29",
+      "desc": "VercelがAIエージェント拡張のオープン標準「Agent Plugins」を発表。「Agent Skills」やMCPサーバ設定を共通形式にし、クライアント間で使い回せるようにする。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "OpenAIが開発中の次期主力AIモデル「Astra」について「強力すぎる」ことを理由にサイバーリスク重大に指定して安全措置を開発中",
       "link": "https://gigazine.net/news/20260810-astra-cyber-capabilities/",
       "date": "2026-08-10T13:50:00+09:00",
@@ -93,17 +104,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "LLMO(事前学習対策)の効果測定ツール「ディギディギ」を単独サービスとして提供開始",
-      "link": "https://ascii.jp/elem/000/004/426/4426143/?rss",
-      "date": "2026-08-10T11:46:09+09:00",
-      "dateLabel": "08/10 11:46",
-      "desc": "LLMO(事前学習対策)の効果測定ツール「ディギディギ」を単独サービスとして提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -184,28 +184,6 @@
       "score": 34
     },
     {
-      "title": "NVIDIA Rubin Ultra開発中止の真相！ 180層CoWoS-Lの歪曲トラブルと、急造ラックNVL576に透ける苦肉の策",
-      "link": "https://ascii.jp/elem/000/004/426/4426042/?rss",
-      "date": "2026-08-10T12:00:00+09:00",
-      "dateLabel": "08/10 12:00",
-      "desc": "VLSIシンポジウムでNVIDIAのBenjamin G. Lee博士による講演があり、Rubin Ultraの開発中止に絡む話題が出てきたので、講演の中身と一緒にNVIDIAの戦略方針について説明したい。",
-      "img": "https://ascii.jp/img/2026/08/09/4511213/s/63e73f68ef26d773.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "AIスライド生成ツール「イルシル」、使用頻度の高い指示文を保存・共有できる「プロンプトライブラリ」をリリース",
-      "link": "https://ascii.jp/elem/000/004/426/4426147/?rss",
-      "date": "2026-08-10T11:17:30+09:00",
-      "dateLabel": "08/10 11:17",
-      "desc": "AIスライド生成ツール「イルシル」、使用頻度の高い指示文を保存・共有できる「プロンプトライブラリ」をリリース",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "中国AI「DeepSeek」、設立3年・残業ゼロで「ChatGPTのライバル」にのし上がった若き創業者の手腕",
       "link": "https://www.itmedia.co.jp/business/articles/2608/10/news027.html",
       "date": "2026-08-10T07:00:00+09:00",
@@ -237,6 +215,17 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
+    },
+    {
+      "title": "AIブームでRAM価格が20年前の水準に逆戻り、DDR4の1GB単価は約2年で10倍近くに",
+      "link": "https://gigazine.net/news/20260810-ai-ram-price/",
+      "date": "2026-08-10T14:20:00+09:00",
+      "dateLabel": "08/10 14:20",
+      "desc": "AI向けデータセンターで使われる高帯域幅メモリ「High Bandwidth Memory(HBM)」の需要増加を背景に、個人向けのPC用メモリにも値上げの波が広がっています。現行世代のDDR5メモリだけでなく、旧世代のDDR4メモリについても1GB当たりの価格が2年で約10倍に上昇したことが報告されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 26
     },
     {
       "title": "生成AIとの融合で進む画像認識のビジネス活用",
@@ -272,14 +261,25 @@
       "score": 26
     },
     {
-      "title": "クラウドファンディングで目標比1900%を越えるご支援。清潔な水と口をつけた水を分ける画期的構造の「AIカメラ付き非循環型給水機」がペット家電ブランド PETKIT（ペットキット）から8月10日に発売",
-      "link": "https://ascii.jp/elem/000/004/426/4426163/?rss",
-      "date": "2026-08-10T12:00:00+09:00",
-      "dateLabel": "08/10 12:00",
-      "desc": "クラウドファンディングで目標比1900%を越えるご支援。清潔な水と口をつけた水を分ける画期的構造の「AIカメラ付き非循環型給水機」がペット家電ブランド PETKIT（ペットキット）から8月10日に発売",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
+      "title": "シャープが2026年9月からAIサーバ事業を開始、2026年度業績は円安で下方修正",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2608/10/news042.html",
+      "date": "2026-08-10T06:15:00+09:00",
+      "dateLabel": "08/10 06:15",
+      "desc": "シャープは2026年度第1四半期の決算説明会において、新規事業となるAIサーバ事業の受注活動を2026年9月に開催予定の同事業の説明会に合わせて開始すると発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "無料で画像・動画・音声・データ・ドキュメントなどあらゆるファイルを自分のローカルPC内で変換できるオープンソースのセルフホスト型ファイルコンバーター「Transmute」、ファイルサイズ制限や透かしの追加など一切なしでユーザー作成も可能",
+      "link": "https://gigazine.net/news/20260809-transmute/",
+      "date": "2026-08-09T18:00:00+09:00",
+      "dateLabel": "08/09 18:00",
+      "desc": "画像や動画・音声・文書などのファイル形式を変換するオンラインサービスは手軽に利用できますが、容量制限が設けられていたり機密性のあるファイルを外部サーバーへ送信しなければならなかったりします。「Transmute」なら自分のPCや管理下のサーバー内で幅広いファイル形式を変換・圧縮できるオープンソースのセルフホスト型ファイルコンバーターなのでかなり安全性が増すは",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
       "score": 26
     }
   ]
