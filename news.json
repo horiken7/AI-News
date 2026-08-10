@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-10T20:44:00.119443+09:00",
-  "generatedLabel": "2026/08/10 20:44",
+  "generatedAt": "2026-08-10T21:43:31.612932+09:00",
+  "generatedLabel": "2026/08/10 21:43",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 50,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -72,6 +72,17 @@
       "src": "Publickey",
       "cat": "LLM/モデル",
       "score": 52
+    },
+    {
+      "title": "SK Hynixが韓国で約6兆円を投じて半導体製造施設を拡張する計画、龍仁に約4兆円のDRAM工場、清州に約2兆円のNAND製造工場を建設へ",
+      "link": "https://gigazine.net/news/20260810-sk-hynix-38b/",
+      "date": "2026-08-10T21:00:00+09:00",
+      "dateLabel": "08/10 21:00",
+      "desc": "韓国のテクノロジー企業で、Micron・Samsungと並ぶ世界三大メモリチップメーカーであるSK Hynixが、AIメモリ需要に対応する中長期的な生産拠点確保のために54兆ウォン(約6兆円)を投資して新しいメモリチップ工場を建設することを発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 42
     },
     {
       "title": "AIエージェントの「Skills」などが標準規格化 CodexやVS Codeなど対応、Claudeは未対応",
@@ -149,6 +160,17 @@
       "src": "ITmedia AI+",
       "cat": "規制/安全",
       "score": 42
+    },
+    {
+      "title": "Claude Fable 5で生物学の質問が過剰に制限される問題を改善、誤検出を減らして「フォールバック」を約85％削減",
+      "link": "https://gigazine.net/news/20260810-claude-fable-5-biology-safeguard/",
+      "date": "2026-08-10T20:50:00+09:00",
+      "dateLabel": "08/10 20:50",
+      "desc": "AnthropicがAIモデル「Claude Fable 5」の生物学分野に関する安全対策を更新しました。危険性の低い質問まで制限対象と判断されるケースを減らし、生物学関連の質問を別モデルに切り替える「フォールバック」が約85％減少したとのことです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "建設会社の「AI導入が止まる」原因を特定。無料レポート『建設会社がAI導入でつまずく5つのパターンと回避法』を公開",
@@ -255,28 +277,6 @@
       "date": "2026-08-10T13:00:00+09:00",
       "dateLabel": "08/10 13:00",
       "desc": "コパードは、Salesforceの開発・運用におけるAI活用実態調査の結果を発表した。約9割が業務の属人化に課題意識を持つ中、8割強が「業務をAIで平準化できる」と期待している。一方で、AI活用層は「検証体制の不在」という新たな壁に直面していることも明らかになった。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "ByteDanceが「Claude Mythos 5」を上回る可能性があるAIモデルを開発中との報道",
-      "link": "https://gigazine.net/news/20260810-bytedance-mega-ai-model/",
-      "date": "2026-08-10T12:38:00+09:00",
-      "dateLabel": "08/10 12:38",
-      "desc": "経済誌のFinancial Timesが「中国企業ByteDanceが最大10兆パラメータのAIモデルを開発している」と報じました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "シャープが2026年9月からAIサーバ事業を開始、2026年度業績は円安で下方修正",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2608/10/news042.html",
-      "date": "2026-08-10T06:15:00+09:00",
-      "dateLabel": "08/10 06:15",
-      "desc": "シャープは2026年度第1四半期の決算説明会において、新規事業となるAIサーバ事業の受注活動を2026年9月に開催予定の同事業の説明会に合わせて開始すると発表した。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AI全般",
