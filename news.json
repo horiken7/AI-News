@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-10T18:06:51.434592+09:00",
-  "generatedLabel": "2026/08/10 18:06",
+  "generatedAt": "2026-08-10T19:57:30.447451+09:00",
+  "generatedLabel": "2026/08/10 19:57",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 51,
+  "candidates": 50,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -151,6 +151,17 @@
       "score": 42
     },
     {
+      "title": "建設会社の「AI導入が止まる」原因を特定。無料レポート『建設会社がAI導入でつまずく5つのパターンと回避法』を公開",
+      "link": "https://ascii.jp/elem/000/004/426/4426273/?rss",
+      "date": "2026-08-10T18:35:27+09:00",
+      "dateLabel": "08/10 18:35",
+      "desc": "建設会社の「AI導入が止まる」原因を特定。無料レポート『建設会社がAI導入でつまずく5つのパターンと回避法』を公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "これならiPhoneの折りたたみにも（多分）勝てる「Galazy Z Fold8 Ultra」を実際にテストする",
       "link": "https://ascii.jp/elem/000/004/426/4426020/?rss",
       "date": "2026-08-10T17:00:00+09:00",
@@ -226,17 +237,6 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
-    },
-    {
-      "title": "11万8100円から買えるVAIOノートPC発見！ 8月31日まで「アウトレットセール」開催中",
-      "link": "https://ascii.jp/elem/000/004/426/4426019/?rss",
-      "date": "2026-08-10T16:30:00+09:00",
-      "dateLabel": "08/10 16:30",
-      "desc": "VAIOストアでは現在、「アウトレットセール」を開催中。VAIO F14やVAIO F16、VAIO SX12、VAIO S13、VAIO SX14-Rなどの対象モデルを、期間限定のアウトレット価格で販売している。セール期間は8月31日(月)9時59分まで。",
-      "img": "https://ascii.jp/img/2026/08/09/4511129/s/d5814682e1cc2f1e.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
     },
     {
       "title": "AIブームでRAM価格が20年前の水準に逆戻り、DDR4の1GB単価は約2年で10倍近くに",
