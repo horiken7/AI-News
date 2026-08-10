@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-11T07:26:26.807059+09:00",
-  "generatedLabel": "2026/08/11 07:26",
+  "generatedAt": "2026-08-11T08:25:29.562121+09:00",
+  "generatedLabel": "2026/08/11 08:25",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,7 +13,7 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 18
+      "items": 17
     },
     {
       "source": "ASCII.jp",
@@ -62,6 +62,17 @@
     }
   ],
   "articles": [
+    {
+      "title": "Meta、ローカル動作に特化したオープンモデル「Muse Glimmer」公開 Apache 2.0で提供",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/11/2000000493/",
+      "date": "2026-08-11T07:11:40+09:00",
+      "dateLabel": "08/11 07:11",
+      "desc": "MetaのAI研究部門は、約296億パラメータのオープンウェイトAIモデル「Muse Glimmer」を公開した。Apache 2.0ライセンスで提供され、PCやMacのGPU1基で動作する。上位モデルからの蒸留によりローカル環境でのエージェント処理やマルチモーダル推論に最適化され、量子化により24GBのVRAM等で稼働する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 58
+    },
     {
       "title": "1Password、ダッシュボードから組織のAI支出状況を表示する新機能。ClaudeやCursor、ChatGPTなど複数AIにI対応",
       "link": "https://www.publickey1.jp/blog/26/1passwordaiclaudecursorchatgptaii.html",
@@ -159,7 +170,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "規制/安全",
-      "score": 42
+      "score": 36
     },
     {
       "title": "Claude Fable 5で生物学の質問が過剰に制限される問題を改善、誤検出を減らして「フォールバック」を約85％削減",
@@ -239,6 +250,17 @@
       "score": 34
     },
     {
+      "title": "親が子にAIを使わせる理由は「勉強に役立つ」ではなく「うちの子だけは遅れさせたくない」？ 2000人を調査",
+      "link": "https://www.itmedia.co.jp/news/article/2608/11/2000000474/",
+      "date": "2026-08-11T07:00:00+09:00",
+      "dateLabel": "08/11 07:00",
+      "desc": "米シカゴ大学などに所属する研究者らがPNASで発表した論文「Social dynamics of AI adoption in parents’ educational decisions」は、親が子どもに生成AIを使わせる判断の背景を調査した研究報告だ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "生成AI/マルチモーダル",
+      "score": 26
+    },
+    {
       "title": "週刊アスキー No.1608(2026年8月11日発行)",
       "link": "https://ascii.jp/elem/000/004/426/4426049/?rss",
       "date": "2026-08-11T00:00:00+09:00",
@@ -257,28 +279,6 @@
       "desc": "Lenovoの一体型デスクトップPC「A105 AIO a Gen 11（F0JS004EJP）」がAmazonタイムセール対象。参考価格185,009円のところ、17％オフの152,800円で販売中。23.8型FHD IPS液晶にRyzen 5 40、16GBメモリ、512GB SSDを搭載する。",
       "img": "https://ascii.jp/img/2026/08/10/4511396/s/d039eaf74e307fbf.jpg",
       "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "AIブームでRAM価格が20年前の水準に逆戻り、DDR4の1GB単価は約2年で10倍近くに",
-      "link": "https://gigazine.net/news/20260810-ai-ram-price/",
-      "date": "2026-08-10T14:20:00+09:00",
-      "dateLabel": "08/10 14:20",
-      "desc": "AI向けデータセンターで使われる高帯域幅メモリ「High Bandwidth Memory(HBM)」の需要増加を背景に、個人向けのPC用メモリにも値上げの波が広がっています。現行世代のDDR5メモリだけでなく、旧世代のDDR4メモリについても1GB当たりの価格が2年で約10倍に上昇したことが報告されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "「Apex人材が少ない」 Salesforce導入企業の約9割で「属人化」が課題に",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/10/news043.html",
-      "date": "2026-08-10T13:00:00+09:00",
-      "dateLabel": "08/10 13:00",
-      "desc": "コパードは、Salesforceの開発・運用におけるAI活用実態調査の結果を発表した。約9割が業務の属人化に課題意識を持つ中、8割強が「業務をAIで平準化できる」と期待している。一方で、AI活用層は「検証体制の不在」という新たな壁に直面していることも明らかになった。",
-      "img": "",
-      "src": "ITmedia AI+",
       "cat": "AI全般",
       "score": 26
     }
