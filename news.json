@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-10T12:08:42.079885+09:00",
-  "generatedLabel": "2026/08/10 12:08",
+  "generatedAt": "2026-08-10T14:16:01.553953+09:00",
+  "generatedLabel": "2026/08/10 14:16",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 50,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 9
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -74,15 +74,37 @@
       "score": 52
     },
     {
-      "title": "「Claude Code」、AIが権限確認を代行する「auto mode」がデフォルトに 8月14日から",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000465/",
-      "date": "2026-08-09T12:12:07+09:00",
-      "dateLabel": "08/09 12:12",
-      "desc": "Anthropicは、AIコーディングツール「Claude Code」で、コマンド実行前の権限確認を自動化する「auto mode」をデフォルト化すると発表した。危険なコマンドを分類器が自動でブロックする仕組みで、人間による確認の形骸化を防ぐ。実験では人間の拒否率を大きく上回る検出精度を示し、作業効率の向上も確認されている。",
+      "title": "OpenAIが開発中の次期主力AIモデル「Astra」について「強力すぎる」ことを理由にサイバーリスク重大に指定して安全措置を開発中",
+      "link": "https://gigazine.net/news/20260810-astra-cyber-capabilities/",
+      "date": "2026-08-10T13:50:00+09:00",
+      "dateLabel": "08/10 13:50",
+      "desc": "OpenAIは次期主力AIモデルとして「Astra」を準備しており、2026年8月1日には、Astraの内部バージョンが10件の数学・理論計算機科学の課題で新成果を上げたことを発表しています。しかし8月7日には、Astraに関する最新の社内評価でエージェントコーディングとサイバーセキュリティにおいて著しい進歩が見られたと述べた一方で、「重要なサイバーセキュリ",
       "img": "",
-      "src": "ITmedia AI+",
+      "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 50
+      "score": 42
+    },
+    {
+      "title": "CloudflareがAIエージェント向けブラウザ「Kitesurf」をリリース、ChromiumよりCPU・メモリ消費を大幅削減",
+      "link": "https://gigazine.net/news/20260810-cloudflare-kitesurf/",
+      "date": "2026-08-10T12:11:00+09:00",
+      "dateLabel": "08/10 12:11",
+      "desc": "インターネットインフラ企業のCloudflareが、AIエージェントによるウェブ操作に特化した新しいブラウザ「Kitesurf」を発表しました。人間向けブラウザで一般的なタブやテーマ、拡張機能などは省き、AIエージェントがウェブページを読み取ったり操作したりする際のCPU・メモリ消費やスケーラビリティを優先して設計されており、Cloudflareのサーバーレ",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "LLMO(事前学習対策)の効果測定ツール「ディギディギ」を単独サービスとして提供開始",
+      "link": "https://ascii.jp/elem/000/004/426/4426143/?rss",
+      "date": "2026-08-10T11:46:09+09:00",
+      "dateLabel": "08/10 11:46",
+      "desc": "LLMO(事前学習対策)の効果測定ツール「ディギディギ」を単独サービスとして提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "Claude Codeで「コマンド実行のたびに人間に判断を求める」という動作を改善するオートモードがデフォルトで有効化される予定",
@@ -107,14 +129,14 @@
       "score": 42
     },
     {
-      "title": "「Claude Code」にセッション同士がメッセージを送り合う機能 macOSとLinuxに",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000466/",
-      "date": "2026-08-09T12:11:16+09:00",
-      "dateLabel": "08/09 12:11",
-      "desc": "AnthropicはAIコーディングツール「Claude Code」に、起動中の複数セッション間でメッセージを相互送信できる新機能を追加した。作業の変更や移行プロセスの進捗などをClaudeが自律的に連携する。セキュリティに配慮し共有はテキストのみに制限され、ローカル間通信では外部サーバを経由しない仕様だ。",
+      "title": "「Claude Code」、AIが権限確認を代行する「auto mode」がデフォルトに 8月14日から",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000465/",
+      "date": "2026-08-09T12:12:07+09:00",
+      "dateLabel": "08/09 12:12",
+      "desc": "Anthropicは、AIコーディングツール「Claude Code」で、コマンド実行前の権限確認を自動化する「auto mode」をデフォルト化すると発表した。危険なコマンドを分類器が自動でブロックする仕組みで、人間による確認の形骸化を防ぐ。実験では人間の拒否率を大きく上回る検出精度を示し、作業効率の向上も確認されている。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
+      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -129,6 +151,39 @@
       "score": 42
     },
     {
+      "title": "PCメーカーが中国の成長中メモリメーカー・CXMTのメモリを使い始める、Appleもテストを行うがアメリカの規制によりApple向けのカスタムチップを製造できずピンチに",
+      "link": "https://gigazine.net/news/20260810-apple-tests-cxmt/",
+      "date": "2026-08-10T13:20:00+09:00",
+      "dateLabel": "08/10 13:20",
+      "desc": "アメリカの国防総省は中国のテクノロジー企業など300社以上を「中国人民解放軍を支援する企業のリスト」に追加し、政府の承認なしに製品やソフトウェアの輸出入を禁止しています。Appleは世界的なメモリ不足を改善するため、DRAMの世界第4位メーカーに成長している中国の半導体メーカー・ChangXin Memory Technologies(CXMT)のメモリチッ",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "Grokの画像生成AIが「Imagine Image 2.0」にアップデートされたので使ってみた、実写風もイラスト風も対応し文字も描写可能",
+      "link": "https://gigazine.net/news/20260810-grok-imagine-image-2/",
+      "date": "2026-08-10T13:10:00+09:00",
+      "dateLabel": "08/10 13:10",
+      "desc": "SpaceXAIが画像生成AI「Imagine Image 2.0」を2026年8月7日にリリースしました。Grokの無料ユーザーでも実行可能だったので、実際に複数の画像を生成して性能を確かめてみました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "動画生成AI「MiniMax H3」の開発チームが「画像生成・編集モデル」「動画アップスケールモデル」「低ステップ版MiniMax H3」を準備中であることを明言",
+      "link": "https://gigazine.net/news/20260810-minimax-h3-team-ama/",
+      "date": "2026-08-10T12:18:00+09:00",
+      "dateLabel": "08/10 12:18",
+      "desc": "オープンモデルとして公開されている動画生成AI「MiniMax H3」の開発チームがオンライン掲示板のRedditでAMA(Ask Me Anything：何でも聞いて企画)を実施し、今後も各種AIモデルを公開予定であることを明言しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
       "title": "NVIDIA Rubin Ultra開発中止の真相！ 180層CoWoS-Lの歪曲トラブルと、急造ラックNVL576に透ける苦肉の策",
       "link": "https://ascii.jp/elem/000/004/426/4426042/?rss",
       "date": "2026-08-10T12:00:00+09:00",
@@ -140,33 +195,11 @@
       "score": 34
     },
     {
-      "title": "PCでユーザーの健康状態の「気づき」を！ VAIO、非接触で測定できる新アプリを発表",
-      "link": "https://ascii.jp/elem/000/004/425/4425286/?rss",
-      "date": "2026-08-10T10:05:00+09:00",
-      "dateLabel": "08/10 10:05",
-      "desc": "VAIOは、PC内蔵カメラとAIセンシング技術を活用し、特別なデバイスを身につけることなくユーザーの健康状態を把握できる世界初のアプリケーション「VAIO ウェルネスケア」を発表した。",
-      "img": "https://ascii.jp/img/2026/08/06/4510106/s/a55bb5ee1ddf1dd4.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "「つくりたい映像」ではなく「達成したい目的」から。AIを活用した映像制作サービス「CINEMAI」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/426/4426100/?rss",
-      "date": "2026-08-10T10:00:00+09:00",
-      "dateLabel": "08/10 10:00",
-      "desc": "「つくりたい映像」ではなく「達成したい目的」から。AIを活用した映像制作サービス「CINEMAI」を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "つながりAI、こども性暴力防止法の施行に備え「こまもろう認定・運用サポートパック」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/426/4426098/?rss",
-      "date": "2026-08-10T10:00:00+09:00",
-      "dateLabel": "08/10 10:00",
-      "desc": "つながりAI、こども性暴力防止法の施行に備え「こまもろう認定・運用サポートパック」を提供開始",
+      "title": "AIスライド生成ツール「イルシル」、使用頻度の高い指示文を保存・共有できる「プロンプトライブラリ」をリリース",
+      "link": "https://ascii.jp/elem/000/004/426/4426147/?rss",
+      "date": "2026-08-10T11:17:30+09:00",
+      "dateLabel": "08/10 11:17",
+      "desc": "AIスライド生成ツール「イルシル」、使用頻度の高い指示文を保存・共有できる「プロンプトライブラリ」をリリース",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
@@ -195,91 +228,58 @@
       "score": 34
     },
     {
-      "title": "PFNの国産LLM「PLaMo 3.0 Prime」、さくらのAI推論基盤で提供開始 利用は申請制",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/07/2000000443/",
-      "date": "2026-08-07T13:07:21+09:00",
-      "dateLabel": "08/07 13:07",
-      "desc": "さくらインターネットが、生成AI向け推論API基盤「さくらのAI Engine」で、Preferred Networks（PFN）の国産大規模言語モデル（LLM）「PLaMo 3.0 Prime」の提供を始めた。利用には申請が必要で、無償プランは対象外となる。",
+      "title": "「Claude Code」にセッション同士がメッセージを送り合う機能 macOSとLinuxに",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000466/",
+      "date": "2026-08-09T12:11:16+09:00",
+      "dateLabel": "08/09 12:11",
+      "desc": "AnthropicはAIコーディングツール「Claude Code」に、起動中の複数セッション間でメッセージを相互送信できる新機能を追加した。作業の変更や移行プロセスの進捗などをClaudeが自律的に連携する。セキュリティに配慮し共有はテキストのみに制限され、ローカル間通信では外部サーバを経由しない仕様だ。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
     },
     {
-      "title": "「GPT-5.6 vs. Claude Fable 5」勝者はClaude、でも企業が選びづらいワケ：891st Lap",
-      "link": "https://kn.itmedia.co.jp/kn/articles/2608/07/news037.html",
-      "date": "2026-08-07T07:00:00+09:00",
-      "dateLabel": "08/07 07:00",
-      "desc": "物理AIベンチマークで最高評価を獲得した「Claude Fable 5」。だが、企業が導入を判断する際には、性能だけでは見えない悩ましい問題が浮かび上がった。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 28
-    },
-    {
-      "title": "NuPhy「Air65 V3」「Air100 V3」発売 3モード接続対応の薄型メカニカルキーボード",
-      "link": "https://ascii.jp/elem/000/004/426/4426056/?rss",
-      "date": "2026-08-10T11:00:00+09:00",
-      "dateLabel": "08/10 11:00",
-      "desc": "NuPhyの新型ロープロファイルメカニカルキーボード「Air65 V3」「Air100 V3」が発売。65％・100％レイアウト、Bluetooth・2.4GHz・USB-C接続、Webドライバー対応、13.2mm薄型アルミボディなど特徴や仕様を紹介します。",
-      "img": "https://ascii.jp/img/2026/08/10/4511240/s/f3696ebe9a265b10.png",
+      "title": "生成AIとの融合で進む画像認識のビジネス活用",
+      "link": "https://ascii.jp/elem/000/004/422/4422587/?rss",
+      "date": "2026-08-10T14:00:00+09:00",
+      "dateLabel": "08/10 14:00",
+      "desc": "この記事では、画像認識AIの仕組みと最新動向、ビジネスにおける活用方法を解説するとともに、 Safe AI Gateway に搭載されている画像認識機能と使い方についてご紹介します。",
+      "img": "https://ascii.jp/img/2026/07/28/4506135/s/8c59a530ad1683db.png",
       "src": "ASCII.jp",
-      "cat": "AI全般",
+      "cat": "生成AI/マルチモーダル",
       "score": 26
     },
     {
-      "title": "【8/28無料セミナー開催】APTO、Bright Data 主催セミナー「センサーからWebへ―Physical AIを支える統合データパイプラインの構築―」に登壇",
-      "link": "https://ascii.jp/elem/000/004/426/4426087/?rss",
-      "date": "2026-08-10T10:10:00+09:00",
-      "dateLabel": "08/10 10:10",
-      "desc": "【8/28無料セミナー開催】APTO、Bright Data 主催セミナー「センサーからWebへ―Physical AIを支える統合データパイプラインの構築―」に登壇",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "ユカイ工学の「メイカーボード」でロボットづくりがイチから学べる。月刊誌『子供の科学』（誠文堂新光社）にて新連載企画がスタート！",
-      "link": "https://ascii.jp/elem/000/004/426/4426107/?rss",
-      "date": "2026-08-10T10:00:00+09:00",
-      "dateLabel": "08/10 10:00",
-      "desc": "ユカイ工学の「メイカーボード」でロボットづくりがイチから学べる。月刊誌『子供の科学』（誠文堂新光社）にて新連載企画がスタート！",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "シャープが2026年9月からAIサーバ事業を開始、2026年度業績は円安で下方修正",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2608/10/news042.html",
-      "date": "2026-08-10T06:15:00+09:00",
-      "dateLabel": "08/10 06:15",
-      "desc": "シャープは2026年度第1四半期の決算説明会において、新規事業となるAIサーバ事業の受注活動を2026年9月に開催予定の同事業の説明会に合わせて開始すると発表した。",
+      "title": "「Apex人材が少ない」 Salesforce導入企業の約9割で「属人化」が課題に",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/10/news043.html",
+      "date": "2026-08-10T13:00:00+09:00",
+      "dateLabel": "08/10 13:00",
+      "desc": "コパードは、Salesforceの開発・運用におけるAI活用実態調査の結果を発表した。約9割が業務の属人化に課題意識を持つ中、8割強が「業務をAIで平準化できる」と期待している。一方で、AI活用層は「検証体制の不在」という新たな壁に直面していることも明らかになった。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "無料で画像・動画・音声・データ・ドキュメントなどあらゆるファイルを自分のローカルPC内で変換できるオープンソースのセルフホスト型ファイルコンバーター「Transmute」、ファイルサイズ制限や透かしの追加など一切なしでユーザー作成も可能",
-      "link": "https://gigazine.net/news/20260809-transmute/",
-      "date": "2026-08-09T18:00:00+09:00",
-      "dateLabel": "08/09 18:00",
-      "desc": "画像や動画・音声・文書などのファイル形式を変換するオンラインサービスは手軽に利用できますが、容量制限が設けられていたり機密性のあるファイルを外部サーバーへ送信しなければならなかったりします。「Transmute」なら自分のPCや管理下のサーバー内で幅広いファイル形式を変換・圧縮できるオープンソースのセルフホスト型ファイルコンバーターなのでかなり安全性が増すは",
+      "title": "ByteDanceが「Claude Mythos 5」を上回る可能性があるAIモデルを開発中との報道",
+      "link": "https://gigazine.net/news/20260810-bytedance-mega-ai-model/",
+      "date": "2026-08-10T12:38:00+09:00",
+      "dateLabel": "08/10 12:38",
+      "desc": "経済誌のFinancial Timesが「中国企業ByteDanceが最大10兆パラメータのAIモデルを開発している」と報じました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "規制/安全",
+      "cat": "LLM/モデル",
       "score": 26
     },
     {
-      "title": "Hugging Face侵害、AIエージェントは社内に“秘密の掲示板”を作っていた──OpenAIがBlack Hatで詳細説明",
-      "link": "https://www.itmedia.co.jp/news/article/2608/09/2000000463/",
-      "date": "2026-08-09T07:16:59+09:00",
-      "dateLabel": "08/09 07:16",
-      "desc": "OpenAIは、7月に発覚したHugging Face侵害インシデントの詳細を「Black Hat USA 2026」で説明した。評価中のAIエージェントたちが社内のパッケージ管理システムを“掲示板”として使い、脆弱性やスクリプトを共有して協調していたという。掲示板は一度消去されたが、2日後に別の手段で再構築されていた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
+      "title": "クラウドファンディングで目標比1900%を越えるご支援。清潔な水と口をつけた水を分ける画期的構造の「AIカメラ付き非循環型給水機」がペット家電ブランド PETKIT（ペットキット）から8月10日に発売",
+      "link": "https://ascii.jp/elem/000/004/426/4426163/?rss",
+      "date": "2026-08-10T12:00:00+09:00",
+      "dateLabel": "08/10 12:00",
+      "desc": "クラウドファンディングで目標比1900%を越えるご支援。清潔な水と口をつけた水を分ける画期的構造の「AIカメラ付き非循環型給水機」がペット家電ブランド PETKIT（ペットキット）から8月10日に発売",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 26
     }
   ]
