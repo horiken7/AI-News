@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-11T15:47:07.004122+09:00",
-  "generatedLabel": "2026/08/11 15:47",
+  "generatedAt": "2026-08-11T17:03:07.286627+09:00",
+  "generatedLabel": "2026/08/11 17:03",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 60,
+  "candidates": 59,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 17
+      "items": 16
     },
     {
       "source": "CNET Japan",
@@ -140,6 +140,17 @@
       "score": 42
     },
     {
+      "title": "Saviynt、ARRが３億ドルを突破し、エンタープライズ向けAIアイデンティティ セキュリティ プラットフォーム「Zuma」をリリース",
+      "link": "https://ascii.jp/elem/000/004/426/4426325/?rss",
+      "date": "2026-08-11T14:11:34+09:00",
+      "dateLabel": "08/11 14:11",
+      "desc": "Saviynt、ARRが３億ドルを突破し、エンタープライズ向けAIアイデンティティ セキュリティ プラットフォーム「Zuma」をリリース",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "OpenAI、サイバー防御「Daybreak」を赤青2階層に 特化型「GPT-5.6-Cyber」投入",
       "link": "https://www.itmedia.co.jp/news/article/2608/11/2000000496/",
       "date": "2026-08-11T11:48:40+09:00",
@@ -192,17 +203,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "士業事務所の「AI導入が止まる」原因を特定。無料レポート『士業事務所がAI導入でつまずく5つのパターンと回避法』を公開",
-      "link": "https://ascii.jp/elem/000/004/426/4426301/?rss",
-      "date": "2026-08-11T09:00:00+09:00",
-      "dateLabel": "08/11 09:00",
-      "desc": "士業事務所の「AI導入が止まる」原因を特定。無料レポート『士業事務所がAI導入でつまずく5つのパターンと回避法』を公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -272,12 +272,12 @@
       "score": 34
     },
     {
-      "title": "全カメラ5000万画素の衝撃！ OPPO Reno16 5Gはハイエンド食いの最強コスパ機だッ！",
-      "link": "https://ascii.jp/elem/000/004/426/4426285/?rss",
-      "date": "2026-08-11T12:00:00+09:00",
-      "dateLabel": "08/11 12:00",
-      "desc": "OPPOの新型ミドルハイスマホ「OPPO Reno16 5G」のレビューです。8万9800円という価格ながら、広角・超広角・望遠・フロントの全カメラが5000万画素という贅沢な仕様。200gを切る軽量ボディに大容量6700mAhバッテリーを搭載し、最新AI機能や新ボタン「Snap Key」も備えた高コスパ機です。",
-      "img": "https://ascii.jp/img/2026/08/10/4511729/s/4a0c446fec39519b.jpg",
+      "title": "歩くAIアバターロボが行政窓口に ファーストローンチのAIアバター「AICO」が静岡市の実証事業に採用",
+      "link": "https://ascii.jp/elem/000/004/426/4426323/?rss",
+      "date": "2026-08-11T13:19:40+09:00",
+      "dateLabel": "08/11 13:19",
+      "desc": "歩くAIアバターロボが行政窓口に ファーストローンチのAIアバター「AICO」が静岡市の実証事業に採用",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
