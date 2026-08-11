@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-11T09:56:37.468105+09:00",
-  "generatedLabel": "2026/08/11 09:56",
+  "generatedAt": "2026-08-11T12:00:54.612139+09:00",
+  "generatedLabel": "2026/08/11 12:00",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 52,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 17
     },
     {
       "source": "CNET Japan",
@@ -83,6 +83,17 @@
       "src": "Publickey",
       "cat": "LLM/モデル",
       "score": 52
+    },
+    {
+      "title": "無料のVPSコントロールパネル「1Panel」、OpenClawなどのAIエージェントの複数一括管理も可能",
+      "link": "https://gigazine.net/news/20260811-1panel/",
+      "date": "2026-08-11T12:00:00+09:00",
+      "dateLabel": "08/11 12:00",
+      "desc": "Webサイト・Docker・データベースなどを操作するVPSの管理画面に、OpenClawやHermes AgentといったAIエージェントの作成・設定機能やOllamaによるローカルLLM管理まで組み込んだ無料のVPSコントロールパネル「1Panel」が公開されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 42
     },
     {
       "title": "孤立するAnthropic オープンモデルへの支持をめぐり",
@@ -140,17 +151,6 @@
       "score": 42
     },
     {
-      "title": "Claude Codeで「コマンド実行のたびに人間に判断を求める」という動作を改善するオートモードがデフォルトで有効化される予定",
-      "link": "https://gigazine.net/news/20260810-claude-code-auto-mode/",
-      "date": "2026-08-10T10:42:00+09:00",
-      "dateLabel": "08/10 10:42",
-      "desc": "Claude Codeは人間に代わってコーディングやPC作業を実行してくれるAIエージェントですが、コマンドなどの実行には人間の許可が必要であり、人間の許可を得るまで作業が止まってしまいます。新たに、2026年8月14日からコマンドの実行可否を自動判断する「オートモード」がデフォルトで有効化されることが発表されました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "「Claude Code」、AIが権限確認を代行する「auto mode」がデフォルトに 8月14日から",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000465/",
       "date": "2026-08-09T12:12:07+09:00",
@@ -171,6 +171,39 @@
       "src": "ITmedia AI+",
       "cat": "規制/安全",
       "score": 36
+    },
+    {
+      "title": "Metaがローカル動作するオープンモデル「Muse Glimmer」を公開、30BでGoogleのGemma 4 31Bより高性能",
+      "link": "https://gigazine.net/news/20260811-meta-muse-glimmer/",
+      "date": "2026-08-11T10:58:00+09:00",
+      "dateLabel": "08/11 10:58",
+      "desc": "Metaがパラメーター数296億のAIモデル「Muse Glimmer」を2026年8月10日にオープンモデルとして公開しました。同等規模の他社製モデルと比べて高性能であることがアピールされています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "中国のAI開発は「中国語の訓練データ不足」という新たなボトルネックに直面している",
+      "link": "https://gigazine.net/news/20260811-china-ai-chinese-training-data/",
+      "date": "2026-08-11T10:00:00+09:00",
+      "dateLabel": "08/11 10:00",
+      "desc": "高度なAIモデルの性能を伸ばすには大量の質の高い訓練データが必要です。中国のAI開発を阻む問題としてはアメリカによる先端AIチップの輸出規制が注目されてきましたが、中国のAI専門家は中国語の訓練データ不足が次の大きなボトルネックになりうると警告しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 34
+    },
+    {
+      "title": "士業事務所の「AI導入が止まる」原因を特定。無料レポート『士業事務所がAI導入でつまずく5つのパターンと回避法』を公開",
+      "link": "https://ascii.jp/elem/000/004/426/4426301/?rss",
+      "date": "2026-08-11T09:00:00+09:00",
+      "dateLabel": "08/11 09:00",
+      "desc": "士業事務所の「AI導入が止まる」原因を特定。無料レポート『士業事務所がAI導入でつまずく5つのパターンと回避法』を公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "Claude Fable 5で生物学の質問が過剰に制限される問題を改善、誤検出を減らして「フォールバック」を約85％削減",
@@ -228,6 +261,17 @@
       "score": 34
     },
     {
+      "title": "Claude Codeで「コマンド実行のたびに人間に判断を求める」という動作を改善するオートモードがデフォルトで有効化される予定",
+      "link": "https://gigazine.net/news/20260810-claude-code-auto-mode/",
+      "date": "2026-08-10T10:42:00+09:00",
+      "dateLabel": "08/10 10:42",
+      "desc": "Claude Codeは人間に代わってコーディングやPC作業を実行してくれるAIエージェントですが、コマンドなどの実行には人間の許可が必要であり、人間の許可を得るまで作業が止まってしまいます。新たに、2026年8月14日からコマンドの実行可否を自動判断する「オートモード」がデフォルトで有効化されることが発表されました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
       "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
       "link": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
       "date": "2026-08-10T00:19:33+09:00",
@@ -237,50 +281,6 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 34
-    },
-    {
-      "title": "「Claude Code」にセッション同士がメッセージを送り合う機能 macOSとLinuxに",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000466/",
-      "date": "2026-08-09T12:11:16+09:00",
-      "dateLabel": "08/09 12:11",
-      "desc": "AnthropicはAIコーディングツール「Claude Code」に、起動中の複数セッション間でメッセージを相互送信できる新機能を追加した。作業の変更や移行プロセスの進捗などをClaudeが自律的に連携する。セキュリティに配慮し共有はテキストのみに制限され、ローカル間通信では外部サーバを経由しない仕様だ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "親が子にAIを使わせる理由は「勉強に役立つ」ではなく「うちの子だけは遅れさせたくない」？ 2000人を調査",
-      "link": "https://www.itmedia.co.jp/news/article/2608/11/2000000474/",
-      "date": "2026-08-11T07:00:00+09:00",
-      "dateLabel": "08/11 07:00",
-      "desc": "米シカゴ大学などに所属する研究者らがPNASで発表した論文「Social dynamics of AI adoption in parents’ educational decisions」は、親が子どもに生成AIを使わせる判断の背景を調査した研究報告だ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
-      "title": "週刊アスキー No.1608(2026年8月11日発行)",
-      "link": "https://ascii.jp/elem/000/004/426/4426049/?rss",
-      "date": "2026-08-11T00:00:00+09:00",
-      "dateLabel": "08/11 00:00",
-      "desc": "特集1は携帯電話や通信回線など、毎月の固定費を減らすための工夫を紹介。ポイントなどを活用し、必要なものにうまく配分だ。特集2ではAIの効率的な活用法。選択肢が多いからこそ、本当に役立つものを！",
-      "img": "https://ascii.jp/img/2026/08/10/4511268/s/b0042dccd11ae8ed.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "コンパクトな23.8液晶一体型PCが15万円台！ Ryzen 5・メモリ16GB搭載「Lenovo A105 AIO」タイムセール中",
-      "link": "https://ascii.jp/elem/000/004/426/4426180/?rss",
-      "date": "2026-08-10T20:00:00+09:00",
-      "dateLabel": "08/10 20:00",
-      "desc": "Lenovoの一体型デスクトップPC「A105 AIO a Gen 11（F0JS004EJP）」がAmazonタイムセール対象。参考価格185,009円のところ、17％オフの152,800円で販売中。23.8型FHD IPS液晶にRyzen 5 40、16GBメモリ、512GB SSDを搭載する。",
-      "img": "https://ascii.jp/img/2026/08/10/4511396/s/d039eaf74e307fbf.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
     }
   ]
 }
