@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-11T13:57:42.195186+09:00",
-  "generatedLabel": "2026/08/11 13:57",
+  "generatedAt": "2026-08-11T14:50:35.130005+09:00",
+  "generatedLabel": "2026/08/11 14:50",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 58,
+  "candidates": 60,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 9
     },
     {
       "source": "PC Watch",
@@ -83,6 +83,17 @@
       "src": "Publickey",
       "cat": "LLM/モデル",
       "score": 52
+    },
+    {
+      "title": "「Copilot エージェント」の作成は簡単！ 業務用途に合わせてカスタマイズして使おう",
+      "link": "https://ascii.jp/elem/000/004/422/4422614/?rss",
+      "date": "2026-08-11T14:00:00+09:00",
+      "dateLabel": "08/11 14:00",
+      "desc": "Copilot エージェントは、モデルベース反射エージェントや目標ベースエージェントの作成、利用に向けたサービスで、個々の事情、やりたいことに合わせて、カスタマイズをしていきます。",
+      "img": "https://ascii.jp/img/2026/07/28/4506154/s/6632c194a2d595a3.png",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
     },
     {
       "title": "無料のVPSコントロールパネル「1Panel」、OpenClawなどのAIエージェントの複数一括管理も可能",
@@ -173,6 +184,17 @@
       "score": 34
     },
     {
+      "title": "オープンエイト、実践を通じてAX人材を育成し、AI活用を実現するAXマネジメントプラットフォーム「8AI Studio」を提供開始",
+      "link": "https://ascii.jp/elem/000/004/426/4426316/?rss",
+      "date": "2026-08-11T10:00:00+09:00",
+      "dateLabel": "08/11 10:00",
+      "desc": "オープンエイト、実践を通じてAX人材を育成し、AI活用を実現するAXマネジメントプラットフォーム「8AI Studio」を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "中国のAI開発は「中国語の訓練データ不足」という新たなボトルネックに直面している",
       "link": "https://gigazine.net/news/20260811-china-ai-chinese-training-data/",
       "date": "2026-08-11T10:00:00+09:00",
@@ -259,28 +281,6 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
-    },
-    {
-      "title": "全カメラ5000万画素の衝撃！ OPPO Reno16 5Gはハイエンド食いの最強コスパ機だッ！",
-      "link": "https://ascii.jp/elem/000/004/426/4426285/?rss",
-      "date": "2026-08-11T12:00:00+09:00",
-      "dateLabel": "08/11 12:00",
-      "desc": "OPPOの新型ミドルハイスマホ「OPPO Reno16 5G」のレビューです。8万9800円という価格ながら、広角・超広角・望遠・フロントの全カメラが5000万画素という贅沢な仕様。200gを切る軽量ボディに大容量6700mAhバッテリーを搭載し、最新AI機能や新ボタン「Snap Key」も備えた高コスパ機です。",
-      "img": "https://ascii.jp/img/2026/08/10/4511729/s/4a0c446fec39519b.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "【AI PICKS調査】主要AIツール38サービスの50%で料金・プラン改定を確認。「定額から従量へ」の移行が鮮明に",
-      "link": "https://ascii.jp/elem/000/004/426/4426310/?rss",
-      "date": "2026-08-11T10:00:00+09:00",
-      "dateLabel": "08/11 10:00",
-      "desc": "【AI PICKS調査】主要AIツール38サービスの50%で料金・プラン改定を確認。「定額から従量へ」の移行が鮮明に",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
     }
   ]
 }
