@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-11T20:37:12.905628+09:00",
-  "generatedLabel": "2026/08/11 20:37",
+  "generatedAt": "2026-08-11T21:40:15.984704+09:00",
+  "generatedLabel": "2026/08/11 21:40",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 58,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 16
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -118,17 +118,6 @@
       "score": 42
     },
     {
-      "title": "SK Hynixが韓国で約6兆円を投じて半導体製造施設を拡張する計画、龍仁に約4兆円のDRAM工場、清州に約2兆円のNAND製造工場を建設へ",
-      "link": "https://gigazine.net/news/20260810-sk-hynix-38b/",
-      "date": "2026-08-10T21:00:00+09:00",
-      "dateLabel": "08/10 21:00",
-      "desc": "韓国のテクノロジー企業で、Micron・Samsungと並ぶ世界三大メモリチップメーカーであるSK Hynixが、AIメモリ需要に対応する中長期的な生産拠点確保のために54兆ウォン(約6兆円)を投資して新しいメモリチップ工場を建設することを発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
       "title": "「Claude Code」、AIが権限確認を代行する「auto mode」がデフォルトに 8月14日から",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000465/",
       "date": "2026-08-09T12:12:07+09:00",
@@ -206,14 +195,14 @@
       "score": 34
     },
     {
-      "title": "Claude Fable 5で生物学の質問が過剰に制限される問題を改善、誤検出を減らして「フォールバック」を約85％削減",
-      "link": "https://gigazine.net/news/20260810-claude-fable-5-biology-safeguard/",
-      "date": "2026-08-10T20:50:00+09:00",
-      "dateLabel": "08/10 20:50",
-      "desc": "AnthropicがAIモデル「Claude Fable 5」の生物学分野に関する安全対策を更新しました。危険性の低い質問まで制限対象と判断されるケースを減らし、生物学関連の質問を別モデルに切り替える「フォールバック」が約85％減少したとのことです。 続きを読む...",
+      "title": "SK Hynixが韓国で約6兆円を投じて半導体製造施設を拡張する計画、龍仁に約4兆円のDRAM工場、清州に約2兆円のNAND製造工場を建設へ",
+      "link": "https://gigazine.net/news/20260810-sk-hynix-38b/",
+      "date": "2026-08-10T21:00:00+09:00",
+      "dateLabel": "08/10 21:00",
+      "desc": "韓国のテクノロジー企業で、Micron・Samsungと並ぶ世界三大メモリチップメーカーであるSK Hynixが、AIメモリ需要に対応する中長期的な生産拠点確保のために54兆ウォン(約6兆円)を投資して新しいメモリチップ工場を建設することを発表しました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "LLM/モデル",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -278,6 +267,17 @@
       "dateLabel": "08/11 12:00",
       "desc": "OPPOの新型ミドルハイスマホ「OPPO Reno16 5G」のレビューです。8万9800円という価格ながら、広角・超広角・望遠・フロントの全カメラが5000万画素という贅沢な仕様。200gを切る軽量ボディに大容量6700mAhバッテリーを搭載し、最新AI機能や新ボタン「Snap Key」も備えた高コスパ機です。",
       "img": "https://ascii.jp/img/2026/08/10/4511729/s/4a0c446fec39519b.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "AI時代に、エンジニアはどう生き残ればいいのか。",
+      "link": "https://ascii.jp/elem/000/004/426/4426320/?rss",
+      "date": "2026-08-11T11:16:05+09:00",
+      "dateLabel": "08/11 11:16",
+      "desc": "AI時代に、エンジニアはどう生き残ればいいのか。",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
