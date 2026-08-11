@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-11T12:00:54.612139+09:00",
-  "generatedLabel": "2026/08/11 12:00",
+  "generatedAt": "2026-08-11T13:57:42.195186+09:00",
+  "generatedLabel": "2026/08/11 13:57",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 57,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -129,28 +129,6 @@
       "score": 42
     },
     {
-      "title": "OpenAIが開発中の次期主力AIモデル「Astra」について「強力すぎる」ことを理由にサイバーリスク重大に指定して安全措置を開発中",
-      "link": "https://gigazine.net/news/20260810-astra-cyber-capabilities/",
-      "date": "2026-08-10T13:50:00+09:00",
-      "dateLabel": "08/10 13:50",
-      "desc": "OpenAIは次期主力AIモデルとして「Astra」を準備しており、2026年8月1日には、Astraの内部バージョンが10件の数学・理論計算機科学の課題で新成果を上げたことを発表しています。しかし8月7日には、Astraに関する最新の社内評価でエージェントコーディングとサイバーセキュリティにおいて著しい進歩が見られたと述べた一方で、「重要なサイバーセキュリ",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "CloudflareがAIエージェント向けブラウザ「Kitesurf」をリリース、ChromiumよりCPU・メモリ消費を大幅削減",
-      "link": "https://gigazine.net/news/20260810-cloudflare-kitesurf/",
-      "date": "2026-08-10T12:11:00+09:00",
-      "dateLabel": "08/10 12:11",
-      "desc": "インターネットインフラ企業のCloudflareが、AIエージェントによるウェブ操作に特化した新しいブラウザ「Kitesurf」を発表しました。人間向けブラウザで一般的なタブやテーマ、拡張機能などは省き、AIエージェントがウェブページを読み取ったり操作したりする際のCPU・メモリ消費やスケーラビリティを優先して設計されており、Cloudflareのサーバーレ",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "「Claude Code」、AIが権限確認を代行する「auto mode」がデフォルトに 8月14日から",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000465/",
       "date": "2026-08-09T12:12:07+09:00",
@@ -162,15 +140,15 @@
       "score": 42
     },
     {
-      "title": "Anthropic、「Fable 5」の生物学の制限を緩和 誤検知によるフォールバックを約85％削減",
-      "link": "https://www.itmedia.co.jp/news/article/2608/08/2000000460/",
-      "date": "2026-08-08T07:57:07+09:00",
-      "dateLabel": "08/08 07:57",
-      "desc": "Anthropicは、AIモデル「Claude Fable 5」の生物学分野における過度な保護機能を緩和したと発表した。安全性を重視するあまり発生していた無害な質問への誤検知や下位モデルへのフォールバックを大幅に削減。専門的な二重用途研究への制限は維持しつつ、一般的な健康・教育用途での利便性を向上させた。",
+      "title": "OpenAI、サイバー防御「Daybreak」を赤青2階層に 特化型「GPT-5.6-Cyber」投入",
+      "link": "https://www.itmedia.co.jp/news/article/2608/11/2000000496/",
+      "date": "2026-08-11T11:48:40+09:00",
+      "dateLabel": "08/11 11:48",
+      "desc": "OpenAIはサイバー防御者向けイニシアチブ「Daybreak」を拡張し、2つのアクセス階層「Blue」「Red」と、Red向けの専用モデル「GPT-5.6-Cyber」を発表した。正当なセキュリティ研究におけるAIの過度な拒否動作を抑制し、未知のゼロデイ脆弱性発見やエクスプロイト検証などの高度な防御タスクを支援する。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "規制/安全",
-      "score": 36
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "Metaがローカル動作するオープンモデル「Muse Glimmer」を公開、30BでGoogleのGemma 4 31Bより高性能",
@@ -181,6 +159,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "Box上のファイルを２分でスライド化。生成AIサービス「ChatSense」がリリース",
+      "link": "https://ascii.jp/elem/000/004/426/4426311/?rss",
+      "date": "2026-08-11T10:50:00+09:00",
+      "dateLabel": "08/11 10:50",
+      "desc": "Box上のファイルを２分でスライド化。生成AIサービス「ChatSense」がリリース",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
@@ -217,47 +206,25 @@
       "score": 34
     },
     {
-      "title": "建設会社の「AI導入が止まる」原因を特定。無料レポート『建設会社がAI導入でつまずく5つのパターンと回避法』を公開",
-      "link": "https://ascii.jp/elem/000/004/426/4426273/?rss",
-      "date": "2026-08-10T18:35:27+09:00",
-      "dateLabel": "08/10 18:35",
-      "desc": "建設会社の「AI導入が止まる」原因を特定。無料レポート『建設会社がAI導入でつまずく5つのパターンと回避法』を公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "OpenAIが開発中の次期主力AIモデル「Astra」について「強力すぎる」ことを理由にサイバーリスク重大に指定して安全措置を開発中",
+      "link": "https://gigazine.net/news/20260810-astra-cyber-capabilities/",
+      "date": "2026-08-10T13:50:00+09:00",
+      "dateLabel": "08/10 13:50",
+      "desc": "OpenAIは次期主力AIモデルとして「Astra」を準備しており、2026年8月1日には、Astraの内部バージョンが10件の数学・理論計算機科学の課題で新成果を上げたことを発表しています。しかし8月7日には、Astraに関する最新の社内評価でエージェントコーディングとサイバーセキュリティにおいて著しい進歩が見られたと述べた一方で、「重要なサイバーセキュリ",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
-      "title": "PCメーカーが中国の成長中メモリメーカー・CXMTのメモリを使い始める、Appleもテストを行うがアメリカの規制によりApple向けのカスタムチップを製造できずピンチに",
-      "link": "https://gigazine.net/news/20260810-apple-tests-cxmt/",
-      "date": "2026-08-10T13:20:00+09:00",
-      "dateLabel": "08/10 13:20",
-      "desc": "アメリカの国防総省は中国のテクノロジー企業など300社以上を「中国人民解放軍を支援する企業のリスト」に追加し、政府の承認なしに製品やソフトウェアの輸出入を禁止しています。Appleは世界的なメモリ不足を改善するため、DRAMの世界第4位メーカーに成長している中国の半導体メーカー・ChangXin Memory Technologies(CXMT)のメモリチッ",
+      "title": "CloudflareがAIエージェント向けブラウザ「Kitesurf」をリリース、ChromiumよりCPU・メモリ消費を大幅削減",
+      "link": "https://gigazine.net/news/20260810-cloudflare-kitesurf/",
+      "date": "2026-08-10T12:11:00+09:00",
+      "dateLabel": "08/10 12:11",
+      "desc": "インターネットインフラ企業のCloudflareが、AIエージェントによるウェブ操作に特化した新しいブラウザ「Kitesurf」を発表しました。人間向けブラウザで一般的なタブやテーマ、拡張機能などは省き、AIエージェントがウェブページを読み取ったり操作したりする際のCPU・メモリ消費やスケーラビリティを優先して設計されており、Cloudflareのサーバーレ",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "Grokの画像生成AIが「Imagine Image 2.0」にアップデートされたので使ってみた、実写風もイラスト風も対応し文字も描写可能",
-      "link": "https://gigazine.net/news/20260810-grok-imagine-image-2/",
-      "date": "2026-08-10T13:10:00+09:00",
-      "dateLabel": "08/10 13:10",
-      "desc": "SpaceXAIが画像生成AI「Imagine Image 2.0」を2026年8月7日にリリースしました。Grokの無料ユーザーでも実行可能だったので、実際に複数の画像を生成して性能を確かめてみました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "動画生成AI「MiniMax H3」の開発チームが「画像生成・編集モデル」「動画アップスケールモデル」「低ステップ版MiniMax H3」を準備中であることを明言",
-      "link": "https://gigazine.net/news/20260810-minimax-h3-team-ama/",
-      "date": "2026-08-10T12:18:00+09:00",
-      "dateLabel": "08/10 12:18",
-      "desc": "オープンモデルとして公開されている動画生成AI「MiniMax H3」の開発チームがオンライン掲示板のRedditでAMA(Ask Me Anything：何でも聞いて企画)を実施し、今後も各種AIモデルを公開予定であることを明言しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "生成AI/マルチモーダル",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -281,6 +248,39 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 34
+    },
+    {
+      "title": "「Claude Code」にセッション同士がメッセージを送り合う機能 macOSとLinuxに",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000466/",
+      "date": "2026-08-09T12:11:16+09:00",
+      "dateLabel": "08/09 12:11",
+      "desc": "AnthropicはAIコーディングツール「Claude Code」に、起動中の複数セッション間でメッセージを相互送信できる新機能を追加した。作業の変更や移行プロセスの進捗などをClaudeが自律的に連携する。セキュリティに配慮し共有はテキストのみに制限され、ローカル間通信では外部サーバを経由しない仕様だ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "全カメラ5000万画素の衝撃！ OPPO Reno16 5Gはハイエンド食いの最強コスパ機だッ！",
+      "link": "https://ascii.jp/elem/000/004/426/4426285/?rss",
+      "date": "2026-08-11T12:00:00+09:00",
+      "dateLabel": "08/11 12:00",
+      "desc": "OPPOの新型ミドルハイスマホ「OPPO Reno16 5G」のレビューです。8万9800円という価格ながら、広角・超広角・望遠・フロントの全カメラが5000万画素という贅沢な仕様。200gを切る軽量ボディに大容量6700mAhバッテリーを搭載し、最新AI機能や新ボタン「Snap Key」も備えた高コスパ機です。",
+      "img": "https://ascii.jp/img/2026/08/10/4511729/s/4a0c446fec39519b.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "【AI PICKS調査】主要AIツール38サービスの50%で料金・プラン改定を確認。「定額から従量へ」の移行が鮮明に",
+      "link": "https://ascii.jp/elem/000/004/426/4426310/?rss",
+      "date": "2026-08-11T10:00:00+09:00",
+      "dateLabel": "08/11 10:00",
+      "desc": "【AI PICKS調査】主要AIツール38サービスの50%で料金・プラン改定を確認。「定額から従量へ」の移行が鮮明に",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     }
   ]
 }
