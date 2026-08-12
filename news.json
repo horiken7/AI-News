@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-12T14:23:40.940072+09:00",
-  "generatedLabel": "2026/08/12 14:23",
+  "generatedAt": "2026-08-12T16:07:29.475353+09:00",
+  "generatedLabel": "2026/08/12 16:07",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 57,
@@ -63,17 +63,6 @@
   ],
   "articles": [
     {
-      "title": "AIエージェント「Manus」、Meta買収から8ヵ月で再独立へ 一部ユーザーデータ削除も",
-      "link": "https://ascii.jp/elem/000/004/426/4426440/?rss",
-      "date": "2026-08-12T13:45:00+09:00",
-      "dateLabel": "08/12 13:45",
-      "desc": "Manusは8月11日、Metaから分離し、独立企業としての運営を再開すると発表した。",
-      "img": "https://ascii.jp/img/2026/08/12/4512163/s/b19c121a24085813.png",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
       "title": "NVIDIAが30Bのオープンモデル公開 「OpenClaw」など常時稼働エージェント向けに設計",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/12/2000000503/",
       "date": "2026-08-12T12:55:52+09:00",
@@ -118,6 +107,17 @@
       "score": 48
     },
     {
+      "title": "中国発AIエージェント「Manus」、Metaから独立へ 中国政府が買収に反発、一部ユーザーデータは削除に",
+      "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000508/",
+      "date": "2026-08-12T15:09:00+09:00",
+      "dateLabel": "08/12 15:09",
+      "desc": "AIエージェント「Manus」を提供するManusは8月11日（現地時間）、独立企業としての運営をまもなく再開すると発表した。米Metaからの分離に伴い、一部ユーザーのデータを23日から削除するとして、事前のバックアップを呼び掛けている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "ついにChatGPT公式デスクトップアプリがLinuxに登場、Ubuntu・Debian・Fedora対応でChatGPT WorkやCodexも利用可能",
       "link": "https://gigazine.net/news/20260812-chatgpt-desktop-linux/",
       "date": "2026-08-12T13:52:00+09:00",
@@ -125,17 +125,6 @@
       "desc": "OpenAIが2026年8月11日、ChatGPT公式デスクトップアプリのLinux版をプレビュー公開しました。Linux版では通常のChatGPTに加えて、作業をまとめて任せられる「ChatGPT Work」やソフトウェア開発向けの「Codex」も利用可能となっています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "AIが書く文章に「見えない透かし」 Anthropic、全世界で導入へ",
-      "link": "https://ascii.jp/elem/000/004/426/4426426/?rss",
-      "date": "2026-08-12T12:20:00+09:00",
-      "dateLabel": "08/12 12:20",
-      "desc": "Anthropicは8月11日、Claudeが生成するコンテンツに機械で読み取れるマークを組み込む方針を明らかにした。",
-      "img": "https://ascii.jp/img/2026/08/12/4512128/s/c06a39883fad676e.jpg",
-      "src": "ASCII.jp",
       "cat": "LLM/モデル",
       "score": 42
     },
@@ -195,6 +184,50 @@
       "score": 42
     },
     {
+      "title": "SpaceXAI、AIエージェント「Grok Bot」発表 クラウド環境で常時稼働、GrokやCursorの有料ユーザー向けに",
+      "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000506/",
+      "date": "2026-08-12T15:33:57+09:00",
+      "dateLabel": "08/12 15:33",
+      "desc": "米SpaceXAIは8月11日（現地時間）、常時稼働型のAIエージェント「Grok Bot」（β版）を発表した。チャットでタスクを渡すとBotがアプリやWebサイトを操作して作業を進め、役割の異なる複数のBotを並列で働かせることもできる。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "メルカリ、AIエージェント「Auxia」導入で一部施策のCVRが2%以上改善",
+      "link": "https://ascii.jp/elem/000/004/426/4426480/?rss",
+      "date": "2026-08-12T15:17:26+09:00",
+      "dateLabel": "08/12 15:17",
+      "desc": "メルカリ、AIエージェント「Auxia」導入で一部施策のCVRが2%以上改善",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "【楽天で50%OFF】Android 16×Gemini AI搭載「P10PRO」が33,900円→16,950円！10.1インチ・120Hz対応の高コスパタブレットを楽天市場で特別販売",
+      "link": "https://ascii.jp/elem/000/004/426/4426485/?rss",
+      "date": "2026-08-12T15:15:49+09:00",
+      "dateLabel": "08/12 15:15",
+      "desc": "【楽天で50%OFF】Android 16×Gemini AI搭載「P10PRO」が33,900円→16,950円！10.1インチ・120Hz対応の高コスパタブレットを楽天市場で特別販売",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "「海賊版対策は十分な成果を上げていない」とEUの委託調査で指摘される、目指すべきは「30分以内」のリアルタイムブロック",
+      "link": "https://gigazine.net/news/20260812-eu-piracy-block-study/",
+      "date": "2026-08-12T14:30:00+09:00",
+      "dateLabel": "08/12 14:30",
+      "desc": "権利保有者たちはEUの欧州委員会に対し、スポーツやイベントのライブ配信における著作権侵害に対処するため、緊急かつ断固とした措置を講じるよう長年求めてきました。EUは加盟国に対し具体的な勧告を発表し、一部の加盟国は海賊版の取り締まりを強化しましたが、欧州議会の法務委員会が委託した新たな調査では「現状のEU全体の対応は十分ではない」と指摘されています。 続きを読",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 34
+    },
+    {
       "title": "実在キャストをAIで再現、110分の長編映画が公開 製作費は約3.15億円、半分がAI生成コスト",
       "link": "https://ascii.jp/elem/000/004/426/4426454/?rss",
       "date": "2026-08-12T14:00:00+09:00",
@@ -248,39 +281,6 @@
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 34
-    },
-    {
-      "title": "AIエージェントの「Skills」「MCP」などをまとめる標準規格登場 CodexやVS Codeなど対応、Claudeは未対応",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/10/2000000487/",
-      "date": "2026-08-10T23:11:18+09:00",
-      "dateLabel": "08/10 23:11",
-      "desc": "VercelがAIエージェント拡張のオープン標準「Agent Plugins」を発表。「Agent Skills」やMCPサーバ設定を共通形式にし、クライアント間で使い回せるようにする。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
-      "link": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
-      "date": "2026-08-10T00:19:33+09:00",
-      "dateLabel": "08/10 00:19",
-      "desc": "AWS、マイクロソフト、OpenAI、Anysphere、Vercelの各社は、AIエージェントのスキルやMCPサーバの設定を、AIエージェントが異なっていても共有できる業界標準の仕様「Agent Plugins 1.0.0」を発表しました...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "実力派の小型タブレットをAmazonで発見！ 8.8型・約350g「Lenovo Legion Tab」が2万円超オフ",
-      "link": "https://ascii.jp/elem/000/004/426/4426232/?rss",
-      "date": "2026-08-12T14:00:00+09:00",
-      "dateLabel": "08/12 14:00",
-      "desc": "Lenovoの8.8型タブレット「Legion Tab」がAmazonタイムセール対象。参考価格109,780円のところ、18％オフの89,600円で販売中。Snapdragon 8 Gen 3と12GBメモリ、256GBストレージを搭載し、本体重量は約350g。Amazon限定モデルは本体色にグレイシャーホワイトを採用する。",
-      "img": "https://ascii.jp/img/2026/08/10/4511514/s/f8d91b5d879c2ab2.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
     }
   ]
 }
