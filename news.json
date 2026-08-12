@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-12T16:07:29.475353+09:00",
-  "generatedLabel": "2026/08/12 16:07",
+  "generatedAt": "2026-08-12T18:01:06.022639+09:00",
+  "generatedLabel": "2026/08/12 18:01",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 57,
@@ -228,17 +228,6 @@
       "score": 34
     },
     {
-      "title": "実在キャストをAIで再現、110分の長編映画が公開 製作費は約3.15億円、半分がAI生成コスト",
-      "link": "https://ascii.jp/elem/000/004/426/4426454/?rss",
-      "date": "2026-08-12T14:00:00+09:00",
-      "dateLabel": "08/12 14:00",
-      "desc": "AIプラットフォームのHiggsfield AIは8月10日、AI生成の長編映画「The Cully Hill Boys」を一般公開した。",
-      "img": "https://ascii.jp/img/2026/08/12/4512173/s/a21e3e6f2d56d364.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "動画生成AI「LTX-2.5」がオープンモデルとして公開される、マルチショット対応＆プロンプト追従性が向上＆HDR対応などなど",
       "link": "https://gigazine.net/news/20260812-ltx-2-5-video-generation-ai/",
       "date": "2026-08-12T12:32:00+09:00",
@@ -279,6 +268,17 @@
       "desc": "Webサイト・Docker・データベースなどを操作するVPSの管理画面に、OpenClawやHermes AgentといったAIエージェントの作成・設定機能やOllamaによるローカルLLM管理まで組み込んだ無料のVPSコントロールパネル「1Panel」が公開されています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "AIエージェントの「Skills」「MCP」などをまとめる標準規格登場 CodexやVS Codeなど対応、Claudeは未対応",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/10/2000000487/",
+      "date": "2026-08-10T23:11:18+09:00",
+      "dateLabel": "08/10 23:11",
+      "desc": "VercelがAIエージェント拡張のオープン標準「Agent Plugins」を発表。「Agent Skills」やMCPサーバ設定を共通形式にし、クライアント間で使い回せるようにする。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 34
     }
