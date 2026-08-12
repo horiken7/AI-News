@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-12T19:51:06.391151+09:00",
-  "generatedLabel": "2026/08/12 19:51",
+  "generatedAt": "2026-08-12T20:38:45.761273+09:00",
+  "generatedLabel": "2026/08/12 20:38",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 56,
@@ -62,6 +62,17 @@
     }
   ],
   "articles": [
+    {
+      "title": "AIに「そのまま続けろ！」「自分を信じろ！」と応援し続けることが人間の役目、Anthropicが未公開のClaudeによるリーマン予想解決の試みを公開",
+      "link": "https://gigazine.net/news/20260812-anthropic-claude-riemann-hypothesis/",
+      "date": "2026-08-12T20:00:00+09:00",
+      "dateLabel": "08/12 20:00",
+      "desc": "AI開発企業のAnthropicが、未公開の研究版Claudeに数学上の超難問「リーマン予想」の解決を試みさせたところ、リーマン予想そのものの証明には失敗したものの、関連する問題で従来の記録を大幅に更新する結果を得たと発表しました。この研究では人間が数学的なアイデアをほとんど与えておらず、Claudeに「そのまま続けろ」「自分を信じろ」と繰り返し励ますことが",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
     {
       "title": "NVIDIAが30Bのオープンモデル公開 「OpenClaw」など常時稼働エージェント向けに設計",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/12/2000000503/",
@@ -195,6 +206,17 @@
       "score": 42
     },
     {
+      "title": "Aurora Mobile の Modellix、PixVerse V6 を追加：1回のリクエストで完成度の高い動画生成を実現",
+      "link": "https://ascii.jp/elem/000/004/426/4426514/?rss",
+      "date": "2026-08-12T17:48:50+09:00",
+      "dateLabel": "08/12 17:48",
+      "desc": "Aurora Mobile の Modellix、PixVerse V6 を追加：1回のリクエストで完成度の高い動画生成を実現",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
       "title": "SpaceXAI、AIエージェント「Grok Bot」発表 クラウド環境で常時稼働、GrokやCursorの有料ユーザー向けに",
       "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000506/",
       "date": "2026-08-12T15:33:57+09:00",
@@ -259,28 +281,6 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 34
-    },
-    {
-      "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
-      "link": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
-      "date": "2026-08-10T00:19:33+09:00",
-      "dateLabel": "08/10 00:19",
-      "desc": "AWS、マイクロソフト、OpenAI、Anysphere、Vercelの各社は、AIエージェントのスキルやMCPサーバの設定を、AIエージェントが異なっていても共有できる業界標準の仕様「Agent Plugins 1.0.0」を発表しました...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "『Le Ciel Bleu Clair～ル・シエル・ブルー・クレール～』冒険者契約証の新シーズンが開幕！灼熱の水着セットや新作アバターBOXも登場",
-      "link": "https://ascii.jp/elem/000/004/426/4426510/?rss",
-      "date": "2026-08-12T18:30:00+09:00",
-      "dateLabel": "08/12 18:30",
-      "desc": "『Le Ciel Bleu Clair～ル・シエル・ブルー・クレール～』冒険者契約証の新シーズンが開幕！灼熱の水着セットや新作アバターBOXも登場",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
     }
   ]
 }
