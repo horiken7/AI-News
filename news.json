@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-12T08:29:51.894303+09:00",
-  "generatedLabel": "2026/08/12 08:29",
+  "generatedAt": "2026-08-12T10:03:09.066261+09:00",
+  "generatedLabel": "2026/08/12 10:03",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 58,
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 17
+      "items": 18
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 9
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -85,6 +85,17 @@
       "score": 48
     },
     {
+      "title": "GeminiアプリのMAUが10億人を突破 Googleで14番目の大台到達製品に",
+      "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000500/",
+      "date": "2026-08-12T09:21:15+09:00",
+      "dateLabel": "08/12 09:21",
+      "desc": "GoogleのGeminiアプリの月間アクティブユーザー数（MAU）が10億人を突破した。Google検索やWorkspaceなどの組み込み機能を除いたアプリ単体の数字で、同社として14番目の10億ユーザー到達製品となる。競合のChatGPTに続く大台達成で、iOSユーザー数や音声利用の比率なども公開された。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "Anthropic、「Claude」で生成したテキストに“見えない透かし” 日本を含むグローバルに適用へ",
       "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000497/",
       "date": "2026-08-12T07:16:45+09:00",
@@ -118,15 +129,15 @@
       "score": 42
     },
     {
-      "title": "「Claude Code」、AIが権限確認を代行する「auto mode」がデフォルトに 8月14日から",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000465/",
-      "date": "2026-08-09T12:12:07+09:00",
-      "dateLabel": "08/09 12:12",
-      "desc": "Anthropicは、AIコーディングツール「Claude Code」で、コマンド実行前の権限確認を自動化する「auto mode」をデフォルト化すると発表した。危険なコマンドを分類器が自動でブロックする仕組みで、人間による確認の形骸化を防ぐ。実験では人間の拒否率を大きく上回る検出精度を示し、作業効率の向上も確認されている。",
+      "title": "37兆円のSaaS支出が2030年までに「消える」 Gartnerが予測するエージェントAIの破壊力",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/12/news044.html",
+      "date": "2026-08-12T08:00:00+09:00",
+      "dateLabel": "08/12 08:00",
+      "desc": "Gartnerは、企業向けソフトウェアの支出のうち最大2340億ドル（約37兆円）が、エージェント型AIの影響にさらされるとの予測を発表した。従来型SaaSのシート課金モデルが崩れ、ユーザー数の増加と収益の増加が連動しなくなるという。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 42
+      "score": 34
     },
     {
       "title": "介護離職と生産性低下を防ぐ従業員支援AIツール",
@@ -184,28 +195,6 @@
       "score": 34
     },
     {
-      "title": "Box上のファイルを２分でスライド化。生成AIサービス「ChatSense」がリリース",
-      "link": "https://ascii.jp/elem/000/004/426/4426311/?rss",
-      "date": "2026-08-11T10:50:00+09:00",
-      "dateLabel": "08/11 10:50",
-      "desc": "Box上のファイルを２分でスライド化。生成AIサービス「ChatSense」がリリース",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "中国のAI開発は「中国語の訓練データ不足」という新たなボトルネックに直面している",
-      "link": "https://gigazine.net/news/20260811-china-ai-chinese-training-data/",
-      "date": "2026-08-11T10:00:00+09:00",
-      "dateLabel": "08/11 10:00",
-      "desc": "高度なAIモデルの性能を伸ばすには大量の質の高い訓練データが必要です。中国のAI開発を阻む問題としてはアメリカによる先端AIチップの輸出規制が注目されてきましたが、中国のAI専門家は中国語の訓練データ不足が次の大きなボトルネックになりうると警告しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
       "title": "AIエージェントの「Skills」「MCP」などをまとめる標準規格登場 CodexやVS Codeなど対応、Claudeは未対応",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/10/2000000487/",
       "date": "2026-08-10T23:11:18+09:00",
@@ -250,6 +239,28 @@
       "score": 34
     },
     {
+      "title": "サイバースキルギャップは今やビジネスリスクである",
+      "link": "https://ascii.jp/elem/000/004/426/4426050/?rss",
+      "date": "2026-08-12T09:00:00+09:00",
+      "dateLabel": "08/12 09:00",
+      "desc": "サイバーセキュリティスキルギャップは、もはや単に空きポジションを埋めることだけの問題ではありません。今、課題となっているのは、ますます高度化し、AIを活用した脅威動向に対して、組織がどのように防御できるかということです。",
+      "img": "https://ascii.jp/img/2026/08/10/4511234/s/6b242b3adc25acf1.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "「AI生成コンテンツ、実は嫌いではない」 だが「客の半分が去る」本当の理由",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/12/news040.html",
+      "date": "2026-08-12T08:00:00+09:00",
+      "dateLabel": "08/12 08:00",
+      "desc": "TWOSTONE＆SonsがBtoBの比較検討・発注担当者を対象とした意識調査結果を発表した。約9割がコンテンツに「AIっぽさ」を感じた経験があり、その後問い合わせや資料請求を取りやめたと回答する割合も示された。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "AIモデル「Qwen3.8-Max」の大口商用ユーザーにアリババが収益の一部共有を義務づけへ",
       "link": "https://gigazine.net/news/20260812-alibaba-charge-qwen/",
       "date": "2026-08-12T08:00:00+09:00",
@@ -269,17 +280,6 @@
       "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
       "src": "ASCII.jp",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "【注目の企業】キオクシア、なぜこんなに話題？ 今からでも間に合う“入門記事”まとめました",
-      "link": "https://www.itmedia.co.jp/business/articles/2608/12/news024.html",
-      "date": "2026-08-12T07:00:00+09:00",
-      "dateLabel": "08/12 07:00",
-      "desc": "話題を呼び続ける半導体メモリ大手のキオクシア。一体なぜこんなにも注目されるのか。同社の“今”が分かる記事をまとめた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
       "score": 26
     }
   ]
