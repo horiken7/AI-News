@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-13T06:34:56.234654+09:00",
-  "generatedLabel": "2026/08/13 06:34",
+  "generatedAt": "2026-08-13T07:29:55.860163+09:00",
+  "generatedLabel": "2026/08/13 07:29",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 58,
@@ -217,15 +217,15 @@
       "score": 42
     },
     {
-      "title": "Anthropic、「Claude」で生成したテキストに“見えない透かし” 日本を含むグローバルに適用へ",
-      "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000497/",
-      "date": "2026-08-12T07:16:45+09:00",
-      "dateLabel": "08/12 07:16",
-      "desc": "Anthropicは、「Claude」が生成するテキストに電子透かしを、対応ファイルにC2PA準拠の署名付きメタデータを付与する方針を発表した。8月2日に適用開始された「EU AI Act」の透明性義務に伴う措置だが、日本を含む全世界のモデルとサービスに適用される。人間には不可視の透かし等により、AI処理の有無や改ざん検出を可能にする。",
+      "title": "SpaceXAI、「Grok 4.6」を発表 総合指標で「GPT-5.6 Sol Max」に並ぶと謳う",
+      "link": "https://www.itmedia.co.jp/news/article/2608/13/2000000520/",
+      "date": "2026-08-13T06:32:01+09:00",
+      "dateLabel": "08/13 06:32",
+      "desc": "SpaceXAIは、AIモデル「Grok 4.6」を発表した。前世代の「Grok 4.5」をベースに、多数の手順にまたがって作業を続けるエージェント用途と、対話的・視覚的な成果物の作成を強化した。「Cursor」、「Grok Build」、「Grok Bot」、APIで同日提供を始めた。API料金は入力100万トークン当たり2ドルから。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "エリック・シュミット：データからエージェントへ、AIは科学を再び変える",
