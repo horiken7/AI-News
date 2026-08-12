@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-12T23:13:25.785793+09:00",
-  "generatedLabel": "2026/08/12 23:13",
+  "generatedAt": "2026-08-13T00:50:27.783620+09:00",
+  "generatedLabel": "2026/08/13 00:50",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 57,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -129,6 +129,17 @@
       "score": 48
     },
     {
+      "title": "1型センサー搭載でジンバルカメラにもなる全天周カメラの新モデル「Insta360 X6」発表＝実機レビューでX5と比較してみた",
+      "link": "https://ascii.jp/elem/000/004/426/4426284/?rss",
+      "date": "2026-08-13T00:01:00+09:00",
+      "dateLabel": "08/13 00:01",
+      "desc": "Insta360は、ハードウェア・AI機能ともに大幅に強化した、360度全天周カメラのフラッグシップモデル「X6」を発表しました",
+      "img": "https://ascii.jp/img/2026/08/10/4511678/s/846d8a4b9c0ec2c7.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 42
+    },
+    {
       "title": "GeminiアプリのMAUが10億人を突破 Googleで14番目の大台到達製品に",
       "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000500/",
       "date": "2026-08-12T18:59:59+09:00",
@@ -217,6 +228,17 @@
       "score": 42
     },
     {
+      "title": "Google新スマホ「Pixel 11シリーズ」正式発表 「Gemini Intelligence」向けに設計 カメラも強化",
+      "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000516/",
+      "date": "2026-08-12T23:03:56+09:00",
+      "dateLabel": "08/12 23:03",
+      "desc": "米Googleは8月12日、「Pixel 11」「Pixel 11 Pro」「Pixel 11 Pro XL」を発表した。新チップ「Google Tensor G6」を搭載し、カメラを刷新。Proには通知を光で知らせる「HiLight」を加えた。中核のAI機能「Gemini Intelligence」が目玉としている。8月20日に発予定。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "AIエージェントの「不正なファイル操作」「危険なコード生成」といった問題をReddit投稿から抽出した研究結果",
       "link": "https://gigazine.net/news/20260812-ai-agent-issue/",
       "date": "2026-08-12T23:00:00+09:00",
@@ -258,28 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "動画生成AI「LTX-2.5」がオープンモデルとして公開される、マルチショット対応＆プロンプト追従性が向上＆HDR対応などなど",
-      "link": "https://gigazine.net/news/20260812-ltx-2-5-video-generation-ai/",
-      "date": "2026-08-12T12:32:00+09:00",
-      "dateLabel": "08/12 12:32",
-      "desc": "AI開発企業のLTXが動画生成AI「LTX-2.5」を日本時間の2026年8月12日に公開しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "SpaceXAIが24時間働くAIエージェント「Grok Bot」をリリース、Windows・macOS・Linux・iOSに対応しエージェント1体ごとに専用クラウドPCを操作",
-      "link": "https://gigazine.net/news/20260812-spacexai-grok-bot/",
-      "date": "2026-08-12T11:54:00+09:00",
-      "dateLabel": "08/12 11:54",
-      "desc": "SpaceXAIが、ユーザーに代わってウェブサイトや各種アプリを操作して仕事をこなすAIエージェント「Grok Bot」の早期ベータ版を2026年8月11日にリリースしました。Grok Botは1体ごとに専用のクラウドコンピューターを持ち、ユーザーがPCを離れている間も作業を続けられるのが特徴で、SuperGrok Heavy、Cursor Ultra、Cu",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
       "score": 34
     }
   ]
