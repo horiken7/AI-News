@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-12T18:01:06.022639+09:00",
-  "generatedLabel": "2026/08/12 18:01",
+  "generatedAt": "2026-08-12T19:51:06.391151+09:00",
+  "generatedLabel": "2026/08/12 19:51",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 57,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 16
+      "items": 17
     },
     {
       "source": "CNET Japan",
@@ -107,6 +107,28 @@
       "score": 48
     },
     {
+      "title": "GeminiアプリのMAUが10億人を突破 Googleで14番目の大台到達製品に",
+      "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000500/",
+      "date": "2026-08-12T18:59:59+09:00",
+      "dateLabel": "08/12 18:59",
+      "desc": "GoogleのGeminiアプリの月間アクティブユーザー数（MAU）が10億人を突破した。Google検索やWorkspaceなどの組み込み機能を除いたアプリ単体の数字で、同社として14番目の10億ユーザー到達製品となる。競合のChatGPTに続く大台達成で、iOSユーザー数や音声利用の比率なども公開された。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "AIの暗号化された思考内容を盗み見る手法が開発される、「中国製AIの思考がとアメリカ製AIとそっくり」「性能テストの答えを決め打ち」などの実情が浮き彫りに",
+      "link": "https://gigazine.net/news/20260812-ai-stolen-thoughts/",
+      "date": "2026-08-12T18:21:00+09:00",
+      "dateLabel": "08/12 18:21",
+      "desc": "ChatGPTやClaudeなどのAIサービスには、回答を出力する前に回答内容を組み立てる「Reasoning(思考)」を実行する機能があります。この思考内容は暗号化された状態で管理されているのですが、暗号を解除して思考内容を読み取る手法がAI研究者たちによって編み出されました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "中国発AIエージェント「Manus」、Metaから独立へ 中国政府が買収に反発、一部ユーザーデータは削除に",
       "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000508/",
       "date": "2026-08-12T15:09:00+09:00",
@@ -162,17 +184,6 @@
       "score": 42
     },
     {
-      "title": "GeminiアプリのMAUが10億人を突破 Googleで14番目の大台到達製品に",
-      "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000500/",
-      "date": "2026-08-12T09:21:15+09:00",
-      "dateLabel": "08/12 09:21",
-      "desc": "GoogleのGeminiアプリの月間アクティブユーザー数（MAU）が10億人を突破した。Google検索やWorkspaceなどの組み込み機能を除いたアプリ単体の数字で、同社として14番目の10億ユーザー到達製品となる。競合のChatGPTに続く大台達成で、iOSユーザー数や音声利用の比率なども公開された。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "Anthropic、「Claude」で生成したテキストに“見えない透かし” 日本を含むグローバルに適用へ",
       "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000497/",
       "date": "2026-08-12T07:16:45+09:00",
@@ -192,28 +203,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "メルカリ、AIエージェント「Auxia」導入で一部施策のCVRが2%以上改善",
-      "link": "https://ascii.jp/elem/000/004/426/4426480/?rss",
-      "date": "2026-08-12T15:17:26+09:00",
-      "dateLabel": "08/12 15:17",
-      "desc": "メルカリ、AIエージェント「Auxia」導入で一部施策のCVRが2%以上改善",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "【楽天で50%OFF】Android 16×Gemini AI搭載「P10PRO」が33,900円→16,950円！10.1インチ・120Hz対応の高コスパタブレットを楽天市場で特別販売",
-      "link": "https://ascii.jp/elem/000/004/426/4426485/?rss",
-      "date": "2026-08-12T15:15:49+09:00",
-      "dateLabel": "08/12 15:15",
-      "desc": "【楽天で50%OFF】Android 16×Gemini AI搭載「P10PRO」が33,900円→16,950円！10.1インチ・120Hz対応の高コスパタブレットを楽天市場で特別販売",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -261,17 +250,6 @@
       "score": 34
     },
     {
-      "title": "無料のVPSコントロールパネル「1Panel」、OpenClawなどのAIエージェントの複数一括管理も可能",
-      "link": "https://gigazine.net/news/20260811-1panel/",
-      "date": "2026-08-11T12:00:00+09:00",
-      "dateLabel": "08/11 12:00",
-      "desc": "Webサイト・Docker・データベースなどを操作するVPSの管理画面に、OpenClawやHermes AgentといったAIエージェントの作成・設定機能やOllamaによるローカルLLM管理まで組み込んだ無料のVPSコントロールパネル「1Panel」が公開されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "AIエージェントの「Skills」「MCP」などをまとめる標準規格登場 CodexやVS Codeなど対応、Claudeは未対応",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/10/2000000487/",
       "date": "2026-08-10T23:11:18+09:00",
@@ -281,6 +259,28 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 34
+    },
+    {
+      "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
+      "link": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
+      "date": "2026-08-10T00:19:33+09:00",
+      "dateLabel": "08/10 00:19",
+      "desc": "AWS、マイクロソフト、OpenAI、Anysphere、Vercelの各社は、AIエージェントのスキルやMCPサーバの設定を、AIエージェントが異なっていても共有できる業界標準の仕様「Agent Plugins 1.0.0」を発表しました...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "『Le Ciel Bleu Clair～ル・シエル・ブルー・クレール～』冒険者契約証の新シーズンが開幕！灼熱の水着セットや新作アバターBOXも登場",
+      "link": "https://ascii.jp/elem/000/004/426/4426510/?rss",
+      "date": "2026-08-12T18:30:00+09:00",
+      "dateLabel": "08/12 18:30",
+      "desc": "『Le Ciel Bleu Clair～ル・シエル・ブルー・クレール～』冒険者契約証の新シーズンが開幕！灼熱の水着セットや新作アバターBOXも登場",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     }
   ]
 }
