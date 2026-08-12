@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-13T07:29:55.860163+09:00",
-  "generatedLabel": "2026/08/13 07:29",
+  "generatedAt": "2026-08-13T08:29:40.270333+09:00",
+  "generatedLabel": "2026/08/13 08:29",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 58,
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 18
+      "items": 19
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -103,17 +103,6 @@
       "desc": "NVIDIAが2026年8月11日、AIエージェント向けのオープンモデル「NVIDIA Nemotron 3.5 Lightning」と、複数のAIモデルから処理内容に適したモデルを自動選択するオープンソースライブラリ「NVIDIA NeMo Switchyard」を発表しました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
-      "title": "Meta、ローカル動作に特化したオープンモデル「Muse Glimmer」公開 Apache 2.0で提供",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/11/2000000493/",
-      "date": "2026-08-11T07:11:40+09:00",
-      "dateLabel": "08/11 07:11",
-      "desc": "MetaのAI研究部門は、約296億パラメータのオープンウェイトAIモデル「Muse Glimmer」を公開した。Apache 2.0ライセンスで提供され、PCやMacのGPU1基で動作する。上位モデルからの蒸留によりローカル環境でのエージェント処理やマルチモーダル推論に最適化され、量子化により24GBのVRAM等で稼働する。",
-      "img": "",
-      "src": "ITmedia AI+",
       "cat": "半導体/GPU",
       "score": 50
     },
@@ -217,6 +206,17 @@
       "score": 42
     },
     {
+      "title": "【注目記事まとめ】NEC、日立、富士通――Anthropicとの電撃的協業、その舞台裏 経営陣の狙いは？",
+      "link": "https://www.itmedia.co.jp/business/articles/2608/13/news025.html",
+      "date": "2026-08-13T07:30:00+09:00",
+      "dateLabel": "08/13 07:30",
+      "desc": "NEC、日立製作所、富士通が相次いでAnthropicとの協業を発表した。その舞台裏とは。経営陣の狙いとは。注目の記事をまとめてお届けする。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "SpaceXAI、「Grok 4.6」を発表 総合指標で「GPT-5.6 Sol Max」に並ぶと謳う",
       "link": "https://www.itmedia.co.jp/news/article/2608/13/2000000520/",
       "date": "2026-08-13T06:32:01+09:00",
@@ -261,17 +261,6 @@
       "score": 34
     },
     {
-      "title": "Aurora Mobile の Modellix、PixVerse V6 を追加：1回のリクエストで完成度の高い動画生成を実現",
-      "link": "https://ascii.jp/elem/000/004/426/4426514/?rss",
-      "date": "2026-08-12T17:48:50+09:00",
-      "dateLabel": "08/12 17:48",
-      "desc": "Aurora Mobile の Modellix、PixVerse V6 を追加：1回のリクエストで完成度の高い動画生成を実現",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
       "title": "SpaceXAI、AIエージェント「Grok Bot」発表 クラウド環境で常時稼働、GrokやCursorの有料ユーザー向けに",
       "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000506/",
       "date": "2026-08-12T15:33:57+09:00",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "「海賊版対策は十分な成果を上げていない」とEUの委託調査で指摘される、目指すべきは「30分以内」のリアルタイムブロック",
+      "link": "https://gigazine.net/news/20260812-eu-piracy-block-study/",
+      "date": "2026-08-12T14:30:00+09:00",
+      "dateLabel": "08/12 14:30",
+      "desc": "権利保有者たちはEUの欧州委員会に対し、スポーツやイベントのライブ配信における著作権侵害に対処するため、緊急かつ断固とした措置を講じるよう長年求めてきました。EUは加盟国に対し具体的な勧告を発表し、一部の加盟国は海賊版の取り締まりを強化しましたが、欧州議会の法務委員会が委託した新たな調査では「現状のEU全体の対応は十分ではない」と指摘されています。 続きを読",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
       "score": 34
     }
   ]
