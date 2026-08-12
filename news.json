@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-12T10:03:09.066261+09:00",
-  "generatedLabel": "2026/08/12 10:03",
+  "generatedAt": "2026-08-12T12:55:25.291695+09:00",
+  "generatedLabel": "2026/08/12 12:55",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 58,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 16
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "NVIDIAがAIエージェント向け高速モデル「Nemotron 3.5 Lightning」を公開、最適なAIモデルを選ぶ「NeMo Switchyard」も登場",
+      "link": "https://gigazine.net/news/20260812-nvidia-nemotron-3-5-lightning/",
+      "date": "2026-08-12T11:54:00+09:00",
+      "dateLabel": "08/12 11:54",
+      "desc": "NVIDIAが2026年8月11日、AIエージェント向けのオープンモデル「NVIDIA Nemotron 3.5 Lightning」と、複数のAIモデルから処理内容に適したモデルを自動選択するオープンソースライブラリ「NVIDIA NeMo Switchyard」を発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 50
+    },
+    {
       "title": "Meta、ローカル動作に特化したオープンモデル「Muse Glimmer」公開 Apache 2.0で提供",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/11/2000000493/",
       "date": "2026-08-11T07:11:40+09:00",
@@ -83,6 +94,50 @@
       "src": "Publickey",
       "cat": "LLM/モデル",
       "score": 48
+    },
+    {
+      "title": "AIが書く文章に「見えない透かし」 Anthropic、全世界で導入へ",
+      "link": "https://ascii.jp/elem/000/004/426/4426426/?rss",
+      "date": "2026-08-12T12:20:00+09:00",
+      "dateLabel": "08/12 12:20",
+      "desc": "Anthropicは8月11日、Claudeが生成するコンテンツに機械で読み取れるマークを組み込む方針を明らかにした。",
+      "img": "https://ascii.jp/img/2026/08/12/4512128/s/c06a39883fad676e.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "Metaに買収されたAIスタートアップ・Manusが独立運営に戻ることを表明",
+      "link": "https://gigazine.net/news/20260812-manus-return-to-operate-as-an-independent-company/",
+      "date": "2026-08-12T12:20:00+09:00",
+      "dateLabel": "08/12 12:20",
+      "desc": "2025年12月にMetaによる買収が発表されたAIスタートアップ「Manus」が、まもなく再び独立企業に戻ることを表明しました。中国政府が「外国企業による投資の禁止」を主張して横槍を入れたため、買収案は撤回されたとみられます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 42
+    },
+    {
+      "title": "OpenAIがサイバーセキュリティ特化AI「GPT-5.6 Cyber」を発表＆「GPT-5.6 Solのセーフガード未適用版」をセキュリティ研究者向けに提供開始",
+      "link": "https://gigazine.net/news/20260812-gpt-5-6-cyber/",
+      "date": "2026-08-12T10:51:00+09:00",
+      "dateLabel": "08/12 10:51",
+      "desc": "OpenAIはサイバーセキュリティ担当者を対象にセキュリティAI「Daybreak」を提供しています。このDaybreakで「GPT-5.6 Cyber」と「GPT-5.6 Solのセーフガード未適用版」が利用可能となりました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "Claudeの生成した文章に「目に見えない透かし」を埋め込むとAnthropicが発表、日本を含めた全世界で適用される予定",
+      "link": "https://gigazine.net/news/20260812-anthropic-claude-digital-watermark/",
+      "date": "2026-08-12T10:40:00+09:00",
+      "dateLabel": "08/12 10:40",
+      "desc": "AI企業のAnthropicが、AIチャットボット「Claude」が生成した文章に「人間の目には見えない透かし」を埋め込む方針を発表しました。画像などのファイルにはコンテンツの来歴を示すC2PA準拠のメタデータを付加し、Claudeが生成・処理したコンテンツを機械的に判別できるようにします。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "GeminiアプリのMAUが10億人を突破 Googleで14番目の大台到達製品に",
@@ -107,26 +162,37 @@
       "score": 42
     },
     {
-      "title": "「Copilot エージェント」の作成は簡単！ 業務用途に合わせてカスタマイズして使おう",
-      "link": "https://ascii.jp/elem/000/004/422/4422614/?rss",
-      "date": "2026-08-11T14:00:00+09:00",
-      "dateLabel": "08/11 14:00",
-      "desc": "Copilot エージェントは、モデルベース反射エージェントや目標ベースエージェントの作成、利用に向けたサービスで、個々の事情、やりたいことに合わせて、カスタマイズをしていきます。",
-      "img": "https://ascii.jp/img/2026/07/28/4506154/s/6632c194a2d595a3.png",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 42
+      "title": "動画生成AI「LTX-2.5」がオープンモデルとして公開される、マルチショット対応＆プロンプト追従性が向上＆HDR対応などなど",
+      "link": "https://gigazine.net/news/20260812-ltx-2-5-video-generation-ai/",
+      "date": "2026-08-12T12:32:00+09:00",
+      "dateLabel": "08/12 12:32",
+      "desc": "AI開発企業のLTXが動画生成AI「LTX-2.5」を日本時間の2026年8月12日に公開しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
     },
     {
-      "title": "無料のVPSコントロールパネル「1Panel」、OpenClawなどのAIエージェントの複数一括管理も可能",
-      "link": "https://gigazine.net/news/20260811-1panel/",
-      "date": "2026-08-11T12:00:00+09:00",
-      "dateLabel": "08/11 12:00",
-      "desc": "Webサイト・Docker・データベースなどを操作するVPSの管理画面に、OpenClawやHermes AgentといったAIエージェントの作成・設定機能やOllamaによるローカルLLM管理まで組み込んだ無料のVPSコントロールパネル「1Panel」が公開されています。 続きを読む...",
+      "title": "SpaceXAIが24時間働くAIエージェント「Grok Bot」をリリース、Windows・macOS・Linux・iOSに対応しエージェント1体ごとに専用クラウドPCを操作",
+      "link": "https://gigazine.net/news/20260812-spacexai-grok-bot/",
+      "date": "2026-08-12T11:54:00+09:00",
+      "dateLabel": "08/12 11:54",
+      "desc": "SpaceXAIが、ユーザーに代わってウェブサイトや各種アプリを操作して仕事をこなすAIエージェント「Grok Bot」の早期ベータ版を2026年8月11日にリリースしました。Grok Botは1体ごとに専用のクラウドコンピューターを持ち、ユーザーがPCを離れている間も作業を続けられるのが特徴で、SuperGrok Heavy、Cursor Ultra、Cu",
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 42
+      "score": 34
+    },
+    {
+      "title": "【楽天市場 数限定50%オフ半額セール】Android 16＆Gemini AI対応の11インチタブレット「DOOGEE U11 Pro」最大30GB RAM・256GBストレージ、限定で18950円",
+      "link": "https://ascii.jp/elem/000/004/426/4426408/?rss",
+      "date": "2026-08-12T11:03:54+09:00",
+      "dateLabel": "08/12 11:03",
+      "desc": "【楽天市場 数限定50%オフ半額セール】Android 16＆Gemini AI対応の11インチタブレット「DOOGEE U11 Pro」最大30GB RAM・256GBストレージ、限定で18950円",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "37兆円のSaaS支出が2030年までに「消える」 Gartnerが予測するエージェントAIの破壊力",
@@ -140,58 +206,14 @@
       "score": 34
     },
     {
-      "title": "介護離職と生産性低下を防ぐ従業員支援AIツール",
-      "link": "https://ascii.jp/elem/000/004/425/4425573/?rss",
-      "date": "2026-08-12T07:00:00+09:00",
-      "dateLabel": "08/12 07:00",
-      "desc": "株式会社シーディーアイは8月3日、仕事と介護の両立を支援するAIソリューション「SOIN-L」を7月31日にリリースした。同ツールは、従業員向けの個別支援機能と人事部門向けのリスク管理機能を1つのシステムで提供するサービスだ。",
-      "img": "https://ascii.jp/img/2026/08/06/4510422/s/960889d9a0752ed9.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "トランスフォーマーに限界、 次世代LLMを担う 4つの最新アプローチ",
-      "link": "https://ascii.jp/elem/000/004/426/4426342/?rss",
-      "date": "2026-08-12T06:46:38+09:00",
-      "dateLabel": "08/12 06:46",
-      "desc": "2017年に登場したトランスフォーマーは、今や市場のすべての主要な大規模言語モデル（LLM）を動かす基盤技術になっている。だが、その最大の強みが、いまや制約に変わりつつある。長い文章を処理するほど計算量が跳ね上がり、膨大な電力を食うからだ。この「トランスフォーマー問題」に、スタートアップが4つの道から挑んでいる。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Saviynt、ARRが３億ドルを突破し、エンタープライズ向けAIアイデンティティ セキュリティ プラットフォーム「Zuma」をリリース",
-      "link": "https://ascii.jp/elem/000/004/426/4426325/?rss",
-      "date": "2026-08-11T14:11:34+09:00",
-      "dateLabel": "08/11 14:11",
-      "desc": "Saviynt、ARRが３億ドルを突破し、エンタープライズ向けAIアイデンティティ セキュリティ プラットフォーム「Zuma」をリリース",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "OpenAI、サイバー防御「Daybreak」を赤青2階層に 特化型「GPT-5.6-Cyber」投入",
-      "link": "https://www.itmedia.co.jp/news/article/2608/11/2000000496/",
-      "date": "2026-08-11T11:48:40+09:00",
-      "dateLabel": "08/11 11:48",
-      "desc": "OpenAIはサイバー防御者向けイニシアチブ「Daybreak」を拡張し、2つのアクセス階層「Blue」「Red」と、Red向けの専用モデル「GPT-5.6-Cyber」を発表した。正当なセキュリティ研究におけるAIの過度な拒否動作を抑制し、未知のゼロデイ脆弱性発見やエクスプロイト検証などの高度な防御タスクを支援する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Metaがローカル動作するオープンモデル「Muse Glimmer」を公開、30BでGoogleのGemma 4 31Bより高性能",
-      "link": "https://gigazine.net/news/20260811-meta-muse-glimmer/",
-      "date": "2026-08-11T10:58:00+09:00",
-      "dateLabel": "08/11 10:58",
-      "desc": "Metaがパラメーター数296億のAIモデル「Muse Glimmer」を2026年8月10日にオープンモデルとして公開しました。同等規模の他社製モデルと比べて高性能であることがアピールされています。 続きを読む...",
+      "title": "無料のVPSコントロールパネル「1Panel」、OpenClawなどのAIエージェントの複数一括管理も可能",
+      "link": "https://gigazine.net/news/20260811-1panel/",
+      "date": "2026-08-11T12:00:00+09:00",
+      "dateLabel": "08/11 12:00",
+      "desc": "Webサイト・Docker・データベースなどを操作するVPSの管理画面に、OpenClawやHermes AgentといったAIエージェントの作成・設定機能やOllamaによるローカルLLM管理まで組み込んだ無料のVPSコントロールパネル「1Panel」が公開されています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AI全般",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -217,17 +239,6 @@
       "score": 34
     },
     {
-      "title": "OpenAIが開発中の次期主力AIモデル「Astra」について「強力すぎる」ことを理由にサイバーリスク重大に指定して安全措置を開発中",
-      "link": "https://gigazine.net/news/20260810-astra-cyber-capabilities/",
-      "date": "2026-08-10T13:50:00+09:00",
-      "dateLabel": "08/10 13:50",
-      "desc": "OpenAIは次期主力AIモデルとして「Astra」を準備しており、2026年8月1日には、Astraの内部バージョンが10件の数学・理論計算機科学の課題で新成果を上げたことを発表しています。しかし8月7日には、Astraに関する最新の社内評価でエージェントコーディングとサイバーセキュリティにおいて著しい進歩が見られたと述べた一方で、「重要なサイバーセキュリ",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
       "link": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
       "date": "2026-08-10T00:19:33+09:00",
@@ -239,45 +250,34 @@
       "score": 34
     },
     {
-      "title": "サイバースキルギャップは今やビジネスリスクである",
-      "link": "https://ascii.jp/elem/000/004/426/4426050/?rss",
-      "date": "2026-08-12T09:00:00+09:00",
-      "dateLabel": "08/12 09:00",
-      "desc": "サイバーセキュリティスキルギャップは、もはや単に空きポジションを埋めることだけの問題ではありません。今、課題となっているのは、ますます高度化し、AIを活用した脅威動向に対して、組織がどのように防御できるかということです。",
-      "img": "https://ascii.jp/img/2026/08/10/4511234/s/6b242b3adc25acf1.jpg",
+      "title": "Geminiのユーザー数が10億人を突破しGoogle史上最速の成長を遂げた製品に",
+      "link": "https://gigazine.net/news/20260812-google-gemini-1b-mau/",
+      "date": "2026-08-12T11:42:00+09:00",
+      "dateLabel": "08/12 11:42",
+      "desc": "GoogleのAI「Gemini」の月間アクティブユーザー数が10億人に達したことが、CEOのスンダー・ピチャイ氏の口から明かされました。GeminiはGoogle検索やGmailなどGoogleのほぼ全てのサービスに浸透しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "【過去満足度 平均4.3/5.0】AI時代の広報PR戦略 -戦略・スキーム編- 8月28日（金）開催",
+      "link": "https://ascii.jp/elem/000/004/426/4426399/?rss",
+      "date": "2026-08-12T11:10:00+09:00",
+      "dateLabel": "08/12 11:10",
+      "desc": "【過去満足度 平均4.3/5.0】AI時代の広報PR戦略 -戦略・スキーム編- 8月28日（金）開催",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "「AI生成コンテンツ、実は嫌いではない」 だが「客の半分が去る」本当の理由",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/12/news040.html",
-      "date": "2026-08-12T08:00:00+09:00",
-      "dateLabel": "08/12 08:00",
-      "desc": "TWOSTONE＆SonsがBtoBの比較検討・発注担当者を対象とした意識調査結果を発表した。約9割がコンテンツに「AIっぽさ」を感じた経験があり、その後問い合わせや資料請求を取りやめたと回答する割合も示された。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "AIモデル「Qwen3.8-Max」の大口商用ユーザーにアリババが収益の一部共有を義務づけへ",
-      "link": "https://gigazine.net/news/20260812-alibaba-charge-qwen/",
-      "date": "2026-08-12T08:00:00+09:00",
-      "dateLabel": "08/12 08:00",
-      "desc": "中国のAI大手・アリババ(阿里巴巴)が、オープンモデル化することを発表している「Qwen3.8-Max」で、大口の商用ユーザーについては収益の一部をアリババと分配することを義務付ける方針であることが明らかになっています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "「企業が解く問題は避ける」 大学のAI研究者だからできること",
-      "link": "https://ascii.jp/elem/000/004/426/4426343/?rss",
-      "date": "2026-08-12T07:00:05+09:00",
-      "dateLabel": "08/12 07:00",
-      "desc": "画像クレジット:Stephanie Arnett/MIT Technology Review | Adobe Stock",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "title": "Value Domain byGMO、「Google Workspace」販売開始",
+      "link": "https://ascii.jp/elem/000/004/426/4426412/?rss",
+      "date": "2026-08-12T11:00:00+09:00",
+      "dateLabel": "08/12 11:00",
+      "desc": "Value Domain byGMO、「Google Workspace」販売開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
