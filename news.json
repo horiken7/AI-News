@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-13T10:04:32.848698+09:00",
-  "generatedLabel": "2026/08/13 10:04",
+  "generatedAt": "2026-08-13T12:59:49.133216+09:00",
+  "generatedLabel": "2026/08/13 12:59",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 58,
+  "candidates": 60,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -63,14 +63,14 @@
   ],
   "articles": [
     {
-      "title": "今度は120倍ズームも！ カメラ進化にAIも注目の「Pixel 11」は日本向けに価格も手頃",
-      "link": "https://ascii.jp/elem/000/004/426/4426520/?rss",
-      "date": "2026-08-12T23:00:00+09:00",
-      "dateLabel": "08/12 23:00",
-      "desc": "グーグルは、Androidスマートフォンの新モデル「Pixel 11」シリーズを発表。特に進化したのは標準モデルの「Pixel 11」。カメラが強化され、AIによる新機能も数々ありながら、実質値下げはこの状況ではうれしい。",
-      "img": "https://ascii.jp/img/2026/08/12/4512253/s/698f07deb0d22165.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "2.4兆パラメーターの中華AI「Qwen3.8」がオープンモデルとして無償公開される、OpenAIやAnthropicの最先端モデルに匹敵する性能",
+      "link": "https://gigazine.net/news/20260813-alibaba-qwen-3-8-open/",
+      "date": "2026-08-13T12:09:00+09:00",
+      "dateLabel": "08/13 12:09",
+      "desc": "中国企業・AlibabaのAI研究チームであるQwenがAIモデル「Qwen3.8-2.4T-A95B」をオープンモデルとして公開しました。AlibabaはすでにQwen3.8-2.4T-A95Bをベースとした「Qwen3.8 Max」を製品展開しており、OpenAIやAnthropicの最先端モデルに匹敵する性能として評価されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 50
     },
     {
@@ -85,28 +85,6 @@
       "score": 50
     },
     {
-      "title": "NVIDIAが30Bのオープンモデル公開 「OpenClaw」など常時稼働エージェント向けに設計",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/12/2000000503/",
-      "date": "2026-08-12T12:55:52+09:00",
-      "dateLabel": "08/12 12:55",
-      "desc": "NVIDIAが30Bのオープンモデル「Nemotron 3.5 Lightning」を公開。「OpenClaw」など常時稼働エージェント向けに設計し、「gpt-oss-120b」同等の性能を約4分の1の規模で実現するという。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
-      "title": "NVIDIAがAIエージェント向け高速モデル「Nemotron 3.5 Lightning」を公開、最適なAIモデルを選ぶ「NeMo Switchyard」も登場",
-      "link": "https://gigazine.net/news/20260812-nvidia-nemotron-3-5-lightning/",
-      "date": "2026-08-12T11:54:00+09:00",
-      "dateLabel": "08/12 11:54",
-      "desc": "NVIDIAが2026年8月11日、AIエージェント向けのオープンモデル「NVIDIA Nemotron 3.5 Lightning」と、複数のAIモデルから処理内容に適したモデルを自動選択するオープンソースライブラリ「NVIDIA NeMo Switchyard」を発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
       "title": "1Password、ダッシュボードから組織のAI支出状況を表示する新機能。ClaudeやCursor、ChatGPTなど複数AIにI対応",
       "link": "https://www.publickey1.jp/blog/26/1passwordaiclaudecursorchatgptaii.html",
       "date": "2026-08-05T00:38:32+09:00",
@@ -116,17 +94,6 @@
       "src": "Publickey",
       "cat": "LLM/モデル",
       "score": 48
-    },
-    {
-      "title": "1型センサー搭載でジンバルカメラにもなる全天周カメラの新モデル「Insta360 X6」発表＝実機レビューでX5と比較してみた",
-      "link": "https://ascii.jp/elem/000/004/426/4426284/?rss",
-      "date": "2026-08-13T00:01:00+09:00",
-      "dateLabel": "08/13 00:01",
-      "desc": "Insta360は、ハードウェア・AI機能ともに大幅に強化した、360度全天周カメラのフラッグシップモデル「X6」を発表しました",
-      "img": "https://ascii.jp/img/2026/08/10/4511678/s/846d8a4b9c0ec2c7.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 42
     },
     {
       "title": "GeminiアプリのMAUが10億人を突破 Googleで14番目の大台到達製品に",
@@ -173,26 +140,92 @@
       "score": 42
     },
     {
-      "title": "Metaに買収されたAIスタートアップ・Manusが独立運営に戻ることを表明",
-      "link": "https://gigazine.net/news/20260812-manus-return-to-operate-as-an-independent-company/",
-      "date": "2026-08-12T12:20:00+09:00",
-      "dateLabel": "08/12 12:20",
-      "desc": "2025年12月にMetaによる買収が発表されたAIスタートアップ「Manus」が、まもなく再び独立企業に戻ることを表明しました。中国政府が「外国企業による投資の禁止」を主張して横槍を入れたため、買収案は撤回されたとみられます。 続きを読む...",
+      "title": "NVIDIAが30Bのオープンモデル公開 「OpenClaw」など常時稼働エージェント向けに設計",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/12/2000000503/",
+      "date": "2026-08-12T12:55:52+09:00",
+      "dateLabel": "08/12 12:55",
+      "desc": "NVIDIAが30Bのオープンモデル「Nemotron 3.5 Lightning」を公開。「OpenClaw」など常時稼働エージェント向けに設計し、「gpt-oss-120b」同等の性能を約4分の1の規模で実現するという。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
       "score": 42
     },
     {
-      "title": "OpenAIがサイバーセキュリティ特化AI「GPT-5.6 Cyber」を発表＆「GPT-5.6 Solのセーフガード未適用版」をセキュリティ研究者向けに提供開始",
-      "link": "https://gigazine.net/news/20260812-gpt-5-6-cyber/",
-      "date": "2026-08-12T10:51:00+09:00",
-      "dateLabel": "08/12 10:51",
-      "desc": "OpenAIはサイバーセキュリティ担当者を対象にセキュリティAI「Daybreak」を提供しています。このDaybreakで「GPT-5.6 Cyber」と「GPT-5.6 Solのセーフガード未適用版」が利用可能となりました。 続きを読む...",
+      "title": "GhostDrift数理研究所、AIの「意味選択」と「意味状態遷移」に関する2件のPCT国際出願を発表",
+      "link": "https://ascii.jp/elem/000/004/426/4426603/?rss",
+      "date": "2026-08-13T12:30:00+09:00",
+      "dateLabel": "08/13 12:30",
+      "desc": "GhostDrift数理研究所、AIの「意味選択」と「意味状態遷移」に関する2件のPCT国際出願を発表",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "管理部門の「AI導入が止まる」原因を特定。無料レポート『バックオフィスがAI導入でつまずく5つのパターンと回避法』を公開",
+      "link": "https://ascii.jp/elem/000/004/426/4426604/?rss",
+      "date": "2026-08-13T12:26:50+09:00",
+      "dateLabel": "08/13 12:26",
+      "desc": "管理部門の「AI導入が止まる」原因を特定。無料レポート『バックオフィスがAI導入でつまずく5つのパターンと回避法』を公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "Pacific Meta CEOの岩崎がClaude公式アンバサダーに就任",
+      "link": "https://ascii.jp/elem/000/004/426/4426606/?rss",
+      "date": "2026-08-13T12:07:12+09:00",
+      "dateLabel": "08/13 12:07",
+      "desc": "Pacific Meta CEOの岩崎がClaude公式アンバサダーに就任",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "AppleはSiri AIが時事問題にさらにアクセスできるようにするため出版社との提携を模索している",
+      "link": "https://gigazine.net/news/20260813-apple-pay-publishers-improve-ai-siri/",
+      "date": "2026-08-13T11:08:00+09:00",
+      "dateLabel": "08/13 11:08",
+      "desc": "AppleがWWDC26で発表したSiri AIをよりスマートにするべく、Appleは出版社と報酬支払いについて協議を進めているとウォール・ストリート・ジャーナルが報じました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "TechSuite株式会社のAI検索最適化（AIO/LLMO/GEO/AEO）支援サービス「AI検索パートナーズ」、「第5回営業・マーケDXPO 東京 26 夏」に出展",
+      "link": "https://ascii.jp/elem/000/004/426/4426579/?rss",
+      "date": "2026-08-13T11:00:00+09:00",
+      "dateLabel": "08/13 11:00",
+      "desc": "TechSuite株式会社のAI検索最適化（AIO/LLMO/GEO/AEO）支援サービス「AI検索パートナーズ」、「第5回営業・マーケDXPO 東京 26 夏」に出展",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "Google Pixel Watch 5が登場、Geminiと話せるAI機能を強化",
+      "link": "https://gigazine.net/news/20260813-google-pixel-watch-5/",
+      "date": "2026-08-13T10:44:00+09:00",
+      "dateLabel": "08/13 10:44",
+      "desc": "現地時間の2026年8月12日、Googleがスマートウォッチの「Google Pixel Watch 5」を発表しました。Google Pixel Watch 5はGemini IntelligenceとGoogle Health向けに設計されており、プロアクティブな提案と高度なヘルストラッキングが可能です。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 42
+      "score": 34
+    },
+    {
+      "title": "AIエージェントのマーケティング活用10選！企業事例・導入手順を解説",
+      "link": "https://ainow.ai/2026/08/13/278308/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e3%2583%259e%25e3%2583%25bc%25e3%2582%25b1%25e3%2583%2586%25e3%2582%25a3%25e3%2583%25b3%25e3%2582%25b0%25e6%25b4%25bb%25e7%2594%25a810%25e9%2581%25b8%25ef%25bc%2581%25e4%25bc%2581%25e6%25a5%25ad%25e4%25ba%258b",
+      "date": "2026-08-13T09:44:52+09:00",
+      "dateLabel": "08/13 09:44",
+      "desc": "ChatGPTで広告コピーやリサーチはこなせるようになったものの、施策を回すのは結局人手のままだと感じているマーケターは少なくありません。 AIエージェントとは、目標を与えるとタスクを自ら分解し、リサーチから配信・改善ま... The post AIエージェントのマーケティング活用10選！企業事例・導入手順を解説 first appeared on AI専門",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "AIの5大サボりパターンを自動的に解決し無理矢理限界突破させて働かせまくるAIエージェント向けプラグイン「pua」",
@@ -239,17 +272,6 @@
       "score": 34
     },
     {
-      "title": "エリック・シュミット：データからエージェントへ、AIは科学を再び変える",
-      "link": "https://ascii.jp/elem/000/004/426/4426530/?rss",
-      "date": "2026-08-13T05:53:24+09:00",
-      "dateLabel": "08/13 05:53",
-      "desc": "ノーベル賞に輝いたAlphaFold（アルファフォールド）は、AIが科学を加速させる手本と称賛されてきた。だが、それを可能にしたタンパク質構造データバンクは、長い年月と膨大な労力をかけて築かれたもので、他分野での再現は難しい。巨大なデータに頼らず実際の研究プロセスを模倣するAIエージェントこそが、科学を変える——元グーグルCEOはそう説く。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "Google新スマホ「Pixel 11シリーズ」正式発表 「Gemini Intelligence」向けに設計 カメラも強化",
       "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000516/",
       "date": "2026-08-12T23:03:56+09:00",
@@ -258,28 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "AIエージェントの「不正なファイル操作」「危険なコード生成」といった問題をReddit投稿から抽出した研究結果",
-      "link": "https://gigazine.net/news/20260812-ai-agent-issue/",
-      "date": "2026-08-12T23:00:00+09:00",
-      "dateLabel": "08/12 23:00",
-      "desc": "コーディングにAIを活用することは一般的なワークフローとなっていますが、「AIによってファイルが削除された」「AIが不正なコードを生成した」といった問題のある動作も多数報告されています。そんなAIによる危険な行動について、オンライン掲示板のRedditへの投稿を収集して分析した研究結果がプレプリントサーバーのarXivで公開されました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "SpaceXAI、AIエージェント「Grok Bot」発表 クラウド環境で常時稼働、GrokやCursorの有料ユーザー向けに",
-      "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000506/",
-      "date": "2026-08-12T15:33:57+09:00",
-      "dateLabel": "08/12 15:33",
-      "desc": "米SpaceXAIは8月11日（現地時間）、常時稼働型のAIエージェント「Grok Bot」（β版）を発表した。チャットでタスクを渡すとBotがアプリやWebサイトを操作して作業を進め、役割の異なる複数のBotを並列で働かせることもできる。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 34
     }
   ]
