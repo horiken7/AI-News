@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-13T12:59:49.133216+09:00",
-  "generatedLabel": "2026/08/13 12:59",
+  "generatedAt": "2026-08-13T14:41:05.606462+09:00",
+  "generatedLabel": "2026/08/13 14:41",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 60,
+  "candidates": 61,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -62,6 +62,28 @@
     }
   ],
   "articles": [
+    {
+      "title": "RTX PRO 4500を2基搭載、AI開発向け「Lepton Twin GPU Edition」発売",
+      "link": "https://ascii.jp/elem/000/004/426/4426617/?rss",
+      "date": "2026-08-13T14:00:00+09:00",
+      "dateLabel": "08/13 14:00",
+      "desc": "サイコムがAI・LLM開発向けワークステーション「Lepton Twin GPU Edition」を発売。NVIDIA RTX PRO 4500を2基標準搭載し、RAGやディープラーニング、画像生成に対応。ThreadripperやCore Ultra搭載モデルなど3機種をラインアップ。",
+      "img": "https://ascii.jp/img/2026/08/13/4512529/s/6ad74261946a326c.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 50
+    },
+    {
+      "title": "「Grok 4.6」が登場、長時間のエージェント作業に強くなりGPT-5.6 SolやClaude Fable 5と並ぶ性能に",
+      "link": "https://gigazine.net/news/20260813-grok-4-6/",
+      "date": "2026-08-13T13:33:00+09:00",
+      "dateLabel": "08/13 13:33",
+      "desc": "SpaceXAIは2026年8月12日にAIモデル「Grok 4.6」を発表しました。Grok 4.5をベースに同じ価格で大幅な改善を示しており、長時間実行されるAIエージェントの作業や、より高度なインタラクティブなビジュアル処理に重点を置いています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
     {
       "title": "2.4兆パラメーターの中華AI「Qwen3.8」がオープンモデルとして無償公開される、OpenAIやAnthropicの最先端モデルに匹敵する性能",
       "link": "https://gigazine.net/news/20260813-alibaba-qwen-3-8-open/",
@@ -129,17 +151,6 @@
       "score": 42
     },
     {
-      "title": "ついにChatGPT公式デスクトップアプリがLinuxに登場、Ubuntu・Debian・Fedora対応でChatGPT WorkやCodexも利用可能",
-      "link": "https://gigazine.net/news/20260812-chatgpt-desktop-linux/",
-      "date": "2026-08-12T13:52:00+09:00",
-      "dateLabel": "08/12 13:52",
-      "desc": "OpenAIが2026年8月11日、ChatGPT公式デスクトップアプリのLinux版をプレビュー公開しました。Linux版では通常のChatGPTに加えて、作業をまとめて任せられる「ChatGPT Work」やソフトウェア開発向けの「Codex」も利用可能となっています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "NVIDIAが30Bのオープンモデル公開 「OpenClaw」など常時稼働エージェント向けに設計",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/12/2000000503/",
       "date": "2026-08-12T12:55:52+09:00",
@@ -192,17 +203,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "TechSuite株式会社のAI検索最適化（AIO/LLMO/GEO/AEO）支援サービス「AI検索パートナーズ」、「第5回営業・マーケDXPO 東京 26 夏」に出展",
-      "link": "https://ascii.jp/elem/000/004/426/4426579/?rss",
-      "date": "2026-08-13T11:00:00+09:00",
-      "dateLabel": "08/13 11:00",
-      "desc": "TechSuite株式会社のAI検索最適化（AIO/LLMO/GEO/AEO）支援サービス「AI検索パートナーズ」、「第5回営業・マーケDXPO 東京 26 夏」に出展",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
       "score": 34
     },
     {
