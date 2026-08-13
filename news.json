@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-14T06:34:25.689864+09:00",
-  "generatedLabel": "2026/08/14 06:34",
+  "generatedAt": "2026-08-14T07:30:33.656453+09:00",
+  "generatedLabel": "2026/08/14 07:30",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 59,
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "Google、「Gemini 3.7 Flash」公開 年内は半額の導入価格",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000534/",
+      "date": "2026-08-14T06:25:13+09:00",
+      "dateLabel": "08/14 06:25",
+      "desc": "Googleは、コーディングやエージェント用途に特化したAIモデル「Gemini 3.7 Flash」を発表した。前モデルからわずか3週間での投入だ。従来比半額の導入価格で提供し、個人向けエージェント機能「Gemini Spark」など各種プロダクトへ適用される。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
       "title": "「Grok 4.6」が登場、長時間のエージェント作業に強くなりGPT-5.6 SolやClaude Fable 5と並ぶ性能に",
       "link": "https://gigazine.net/news/20260813-grok-4-6/",
       "date": "2026-08-13T13:33:00+09:00",
@@ -94,17 +105,6 @@
       "src": "Publickey",
       "cat": "LLM/モデル",
       "score": 48
-    },
-    {
-      "title": "NVIDIAが30Bのオープンモデル公開 「OpenClaw」など常時稼働エージェント向けに設計",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/12/2000000503/",
-      "date": "2026-08-12T12:55:52+09:00",
-      "dateLabel": "08/12 12:55",
-      "desc": "NVIDIAが30Bのオープンモデル「Nemotron 3.5 Lightning」を公開。「OpenClaw」など常時稼働エージェント向けに設計し、「gpt-oss-120b」同等の性能を約4分の1の規模で実現するという。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 42
     },
     {
       "title": "中国DeepSeek、API料金を「最大12倍」に値上げ ピーク時価格も導入 8月17日から",
@@ -239,17 +239,6 @@
       "score": 34
     },
     {
-      "title": "【注目記事まとめ】NEC、日立、富士通――Anthropicとの電撃的協業、その舞台裏 経営陣の狙いは？",
-      "link": "https://www.itmedia.co.jp/business/articles/2608/13/news025.html",
-      "date": "2026-08-13T07:30:00+09:00",
-      "dateLabel": "08/13 07:30",
-      "desc": "NEC、日立製作所、富士通が相次いでAnthropicとの協業を発表した。その舞台裏とは。経営陣の狙いとは。注目の記事をまとめてお届けする。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "GeminiアプリのMAUが10億人を突破 Googleで14番目の大台到達製品に",
       "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000500/",
       "date": "2026-08-12T18:59:59+09:00",
@@ -281,6 +270,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 28
+    },
+    {
+      "title": "ウェブサイトへのアクセスの99％超がボットに、人間1回に対して214回もページを読み込むAIスクレイパーとの攻防",
+      "link": "https://gigazine.net/news/20260813-traffic-bot-percent/",
+      "date": "2026-08-13T23:00:00+09:00",
+      "dateLabel": "08/13 23:00",
+      "desc": "寄付者情報データベース「PatronView」を運営するニック・グレイ氏が、ウェブサイトに押し寄せるAIクローラーやスクレイパーと約1年間にわたって続けてきた攻防を公開しました。サーバーが配信したページ数とアクセス解析の数字を比べると、「人間が1回ページ読み込んだ」と記録される間に、AIによるページ読み込みがおよそ214回発生していたとのことです。 続きを読",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
     }
   ]
 }
