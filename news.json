@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-14T07:30:33.656453+09:00",
-  "generatedLabel": "2026/08/14 07:30",
+  "generatedAt": "2026-08-14T08:31:09.371976+09:00",
+  "generatedLabel": "2026/08/14 08:31",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 59,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,7 +13,7 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 19
+      "items": 18
     },
     {
       "source": "ASCII.jp",
@@ -228,17 +228,6 @@
       "score": 34
     },
     {
-      "title": "OpenAIが明かす、ユーザーはChatGPTを「こう使っている」",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2608/12/news033.html",
-      "date": "2026-08-13T08:00:00+09:00",
-      "dateLabel": "08/13 08:00",
-      "desc": "AIが業務で利用される中、従来別の職種が担っていた仕事が持ち込まれるようになった。OpenAIはこれを「タスクの越境」と呼ぶ。具体的にどの職種、どのタスクで越境が起きているのか。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "GeminiアプリのMAUが10億人を突破 Googleで14番目の大台到達製品に",
       "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000500/",
       "date": "2026-08-12T18:59:59+09:00",
@@ -247,17 +236,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "中国発AIエージェント「Manus」、Metaから独立へ 中国政府が買収に反発、一部ユーザーデータは削除に",
-      "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000508/",
-      "date": "2026-08-12T15:09:00+09:00",
-      "dateLabel": "08/12 15:09",
-      "desc": "AIエージェント「Manus」を提供するManusは8月11日（現地時間）、独立企業としての運営をまもなく再開すると発表した。米Metaからの分離に伴い、一部ユーザーのデータを23日から削除するとして、事前のバックアップを呼び掛けている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -270,6 +248,28 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 28
+    },
+    {
+      "title": "データセンターが“アツい”――「潜入レポート」「フジクラ取材」など注目記事5選（2026年前半版）",
+      "link": "https://www.itmedia.co.jp/business/articles/2608/14/news040.html",
+      "date": "2026-08-14T07:30:00+09:00",
+      "dateLabel": "08/14 07:30",
+      "desc": "データセンターが“ホットなテーマ”だ。AI時代のデータセンターとは一体どのようなものなのか。潜入記事やフジクラ取材記事など、お薦め記事をまとめた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "“梅干し職人”のためツール自作 老舗漬物店のClaude活用、「チャット+コピペ」で成果を出せたワケ",
+      "link": "https://www.itmedia.co.jp/business/articles/2608/14/news053.html",
+      "date": "2026-08-14T07:15:00+09:00",
+      "dateLabel": "08/14 07:15",
+      "desc": "明治創業の老舗漬物店が、AI活用で成果を出している。Claudeを活用して「梅干し職人向けツール」などを開発。PCが苦手な人にも使いやすいツールをどのように作っているのか。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
     },
     {
       "title": "ウェブサイトへのアクセスの99％超がボットに、人間1回に対して214回もページを読み込むAIスクレイパーとの攻防",
