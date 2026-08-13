@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-13T18:02:10.205622+09:00",
-  "generatedLabel": "2026/08/13 18:02",
+  "generatedAt": "2026-08-13T19:52:54.160620+09:00",
+  "generatedLabel": "2026/08/13 19:52",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 62,
+  "candidates": 63,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 20
+      "items": 21
     },
     {
       "source": "CNET Japan",
@@ -129,28 +129,6 @@
       "score": 42
     },
     {
-      "title": "GeminiアプリのMAUが10億人を突破 Googleで14番目の大台到達製品に",
-      "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000500/",
-      "date": "2026-08-12T18:59:59+09:00",
-      "dateLabel": "08/12 18:59",
-      "desc": "GoogleのGeminiアプリの月間アクティブユーザー数（MAU）が10億人を突破した。Google検索やWorkspaceなどの組み込み機能を除いたアプリ単体の数字で、同社として14番目の10億ユーザー到達製品となる。競合のChatGPTに続く大台達成で、iOSユーザー数や音声利用の比率なども公開された。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "AIの暗号化された思考内容を盗み見る手法が開発される、「中国製AIの思考がとアメリカ製AIとそっくり」「性能テストの答えを決め打ち」などの実情が浮き彫りに",
-      "link": "https://gigazine.net/news/20260812-ai-stolen-thoughts/",
-      "date": "2026-08-12T18:21:00+09:00",
-      "dateLabel": "08/12 18:21",
-      "desc": "ChatGPTやClaudeなどのAIサービスには、回答を出力する前に回答内容を組み立てる「Reasoning(思考)」を実行する機能があります。この思考内容は暗号化された状態で管理されているのですが、暗号を解除して思考内容を読み取る手法がAI研究者たちによって編み出されました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "NVIDIAが30Bのオープンモデル公開 「OpenClaw」など常時稼働エージェント向けに設計",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/12/2000000503/",
       "date": "2026-08-12T12:55:52+09:00",
@@ -217,17 +195,6 @@
       "score": 34
     },
     {
-      "title": "Stella AI、「Grok 4.6」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/426/4426654/?rss",
-      "date": "2026-08-13T15:00:54+09:00",
-      "dateLabel": "08/13 15:00",
-      "desc": "Stella AI、「Grok 4.6」を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "ClaudeにAI透かしが追加されることで職場や学校でAIを使用していることがバレてしまうかもとユーザーが不満げ",
       "link": "https://gigazine.net/news/20260813-claude-ai-watermark-mad/",
       "date": "2026-08-13T15:00:00+09:00",
@@ -279,6 +246,39 @@
       "desc": "「環境の問題かもしれません」と言い訳したり、何回も同じコマンドを実行して「解決できません」と言ったりしてAIが処理をストップしてしまうことを防ぐAIエージェント向けプラグイン「pua」が公開されました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "OpenAIが明かす、ユーザーはChatGPTを「こう使っている」",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2608/12/news033.html",
+      "date": "2026-08-13T08:00:00+09:00",
+      "dateLabel": "08/13 08:00",
+      "desc": "AIが業務で利用される中、従来別の職種が担っていた仕事が持ち込まれるようになった。OpenAIはこれを「タスクの越境」と呼ぶ。具体的にどの職種、どのタスクで越境が起きているのか。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "【注目記事まとめ】NEC、日立、富士通――Anthropicとの電撃的協業、その舞台裏 経営陣の狙いは？",
+      "link": "https://www.itmedia.co.jp/business/articles/2608/13/news025.html",
+      "date": "2026-08-13T07:30:00+09:00",
+      "dateLabel": "08/13 07:30",
+      "desc": "NEC、日立製作所、富士通が相次いでAnthropicとの協業を発表した。その舞台裏とは。経営陣の狙いとは。注目の記事をまとめてお届けする。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "SpaceXAI、「Grok 4.6」を発表 総合指標で「GPT-5.6 Sol Max」に並ぶと謳う",
+      "link": "https://www.itmedia.co.jp/news/article/2608/13/2000000520/",
+      "date": "2026-08-13T06:32:01+09:00",
+      "dateLabel": "08/13 06:32",
+      "desc": "SpaceXAIは、AIモデル「Grok 4.6」を発表した。前世代の「Grok 4.5」をベースに、多数の手順にまたがって作業を続けるエージェント用途と、対話的・視覚的な成果物の作成を強化した。「Cursor」、「Grok Build」、「Grok Bot」、APIで同日提供を始めた。API料金は入力100万トークン当たり2ドルから。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 34
     }
