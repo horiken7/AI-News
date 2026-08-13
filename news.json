@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-13T19:52:54.160620+09:00",
-  "generatedLabel": "2026/08/13 19:52",
+  "generatedAt": "2026-08-13T20:38:51.118837+09:00",
+  "generatedLabel": "2026/08/13 20:38",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 63,
+  "candidates": 61,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 21
+      "items": 20
     },
     {
       "source": "CNET Japan",
@@ -63,17 +63,6 @@
   ],
   "articles": [
     {
-      "title": "ChatGPT・Gemini・Claudeで「選ばれる企業」へ、成果報酬型のAI検索最適化サービスを提供開始",
-      "link": "https://ascii.jp/elem/000/004/426/4426652/?rss",
-      "date": "2026-08-13T15:40:08+09:00",
-      "dateLabel": "08/13 15:40",
-      "desc": "ChatGPT・Gemini・Claudeで「選ばれる企業」へ、成果報酬型のAI検索最適化サービスを提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 58
-    },
-    {
       "title": "「Grok 4.6」が登場、長時間のエージェント作業に強くなりGPT-5.6 SolやClaude Fable 5と並ぶ性能に",
       "link": "https://gigazine.net/news/20260813-grok-4-6/",
       "date": "2026-08-13T13:33:00+09:00",
@@ -96,17 +85,6 @@
       "score": 50
     },
     {
-      "title": "AIに「そのまま続けろ！」「自分を信じろ！」と応援し続けることが人間の役目、Anthropicが未公開のClaudeによるリーマン予想解決の試みを公開",
-      "link": "https://gigazine.net/news/20260812-anthropic-claude-riemann-hypothesis/",
-      "date": "2026-08-12T20:00:00+09:00",
-      "dateLabel": "08/12 20:00",
-      "desc": "AI開発企業のAnthropicが、未公開の研究版Claudeに数学上の超難問「リーマン予想」の解決を試みさせたところ、リーマン予想そのものの証明には失敗したものの、関連する問題で従来の記録を大幅に更新する結果を得たと発表しました。この研究では人間が数学的なアイデアをほとんど与えておらず、Claudeに「そのまま続けろ」「自分を信じろ」と繰り返し励ますことが",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
       "title": "1Password、ダッシュボードから組織のAI支出状況を表示する新機能。ClaudeやCursor、ChatGPTなど複数AIにI対応",
       "link": "https://www.publickey1.jp/blog/26/1passwordaiclaudecursorchatgptaii.html",
       "date": "2026-08-05T00:38:32+09:00",
@@ -118,13 +96,13 @@
       "score": 48
     },
     {
-      "title": "【8/19 14:00開催】AIは企業・サービスをどう認識している？ トドオナダ、LLM認知測定ツール「ディギディギ」を使った実演をセミナーで公開",
-      "link": "https://ascii.jp/elem/000/004/426/4426657/?rss",
-      "date": "2026-08-13T15:30:00+09:00",
-      "dateLabel": "08/13 15:30",
-      "desc": "【8/19 14:00開催】AIは企業・サービスをどう認識している？ トドオナダ、LLM認知測定ツール「ディギディギ」を使った実演をセミナーで公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
+      "title": "AIに「そのまま続けろ！」「自分を信じろ！」と応援し続けることが人間の役目、Anthropicが未公開のClaudeによるリーマン予想解決の試みを公開",
+      "link": "https://gigazine.net/news/20260812-anthropic-claude-riemann-hypothesis/",
+      "date": "2026-08-12T20:00:00+09:00",
+      "dateLabel": "08/12 20:00",
+      "desc": "AI開発企業のAnthropicが、未公開の研究版Claudeに数学上の超難問「リーマン予想」の解決を試みさせたところ、リーマン予想そのものの証明には失敗したものの、関連する問題で従来の記録を大幅に更新する結果を得たと発表しました。この研究では人間が数学的なアイデアをほとんど与えておらず、Claudeに「そのまま続けろ」「自分を信じろ」と繰り返し励ますことが",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 42
     },
@@ -138,6 +116,17 @@
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
       "score": 42
+    },
+    {
+      "title": "軽くて堅牢なモバイルノートPCを発見！ 独自素材ボディーに有機ELを詰め込んだ「Zenbook SORA」がタイムセール中",
+      "link": "https://ascii.jp/elem/000/004/426/4426376/?rss",
+      "date": "2026-08-13T20:00:00+09:00",
+      "dateLabel": "08/13 20:00",
+      "desc": "ASUSの14型ノートPC「Zenbook SORA（UX3407NA-GL16570BE）」がAmazonタイムセール対象。259,800円で販売中だ。約990gのボディーにSnapdragon X2 Eliteや16GBメモリ、512GB SSD、14型有機ELディスプレーを搭載。80TOPSのNPUも備える。",
+      "img": "https://ascii.jp/img/2026/08/12/4512097/s/46de98230f668636.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
     },
     {
       "title": "スマホで動く視覚言語モデル「LFM2.5-VL-3B」が登場、日本語対応でUI認識やOCRに活用できる",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "Google新スマホ「Pixel 11シリーズ」正式発表 「Gemini Intelligence」向けに設計 カメラも強化",
+      "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000516/",
+      "date": "2026-08-12T23:03:56+09:00",
+      "dateLabel": "08/12 23:03",
+      "desc": "米Googleは8月12日、「Pixel 11」「Pixel 11 Pro」「Pixel 11 Pro XL」を発表した。新チップ「Google Tensor G6」を搭載し、カメラを刷新。Proには通知を光で知らせる「HiLight」を加えた。中核のAI機能「Gemini Intelligence」が目玉としている。8月20日に発予定。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 34
     }
   ]
