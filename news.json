@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-14T05:30:45.787039+09:00",
-  "generatedLabel": "2026/08/14 05:30",
+  "generatedAt": "2026-08-14T06:34:25.689864+09:00",
+  "generatedLabel": "2026/08/14 06:34",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 60,
+  "candidates": 59,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 20
+      "items": 19
     },
     {
       "source": "CNET Japan",
@@ -94,17 +94,6 @@
       "src": "Publickey",
       "cat": "LLM/モデル",
       "score": 48
-    },
-    {
-      "title": "AIに「そのまま続けろ！」「自分を信じろ！」と応援し続けることが人間の役目、Anthropicが未公開のClaudeによるリーマン予想解決の試みを公開",
-      "link": "https://gigazine.net/news/20260812-anthropic-claude-riemann-hypothesis/",
-      "date": "2026-08-12T20:00:00+09:00",
-      "dateLabel": "08/12 20:00",
-      "desc": "AI開発企業のAnthropicが、未公開の研究版Claudeに数学上の超難問「リーマン予想」の解決を試みさせたところ、リーマン予想そのものの証明には失敗したものの、関連する問題で従来の記録を大幅に更新する結果を得たと発表しました。この研究では人間が数学的なアイデアをほとんど与えておらず、Claudeに「そのまま続けろ」「自分を信じろ」と繰り返し励ますことが",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
     },
     {
       "title": "NVIDIAが30Bのオープンモデル公開 「OpenClaw」など常時稼働エージェント向けに設計",
@@ -261,17 +250,6 @@
       "score": 34
     },
     {
-      "title": "SpaceXAI、「Grok 4.6」を発表 総合指標で「GPT-5.6 Sol Max」に並ぶと謳う",
-      "link": "https://www.itmedia.co.jp/news/article/2608/13/2000000520/",
-      "date": "2026-08-13T06:32:01+09:00",
-      "dateLabel": "08/13 06:32",
-      "desc": "SpaceXAIは、AIモデル「Grok 4.6」を発表した。前世代の「Grok 4.5」をベースに、多数の手順にまたがって作業を続けるエージェント用途と、対話的・視覚的な成果物の作成を強化した。「Cursor」、「Grok Build」、「Grok Bot」、APIで同日提供を始めた。API料金は入力100万トークン当たり2ドルから。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "GeminiアプリのMAUが10億人を突破 Googleで14番目の大台到達製品に",
       "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000500/",
       "date": "2026-08-12T18:59:59+09:00",
@@ -281,6 +259,28 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
+    },
+    {
+      "title": "中国発AIエージェント「Manus」、Metaから独立へ 中国政府が買収に反発、一部ユーザーデータは削除に",
+      "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000508/",
+      "date": "2026-08-12T15:09:00+09:00",
+      "dateLabel": "08/12 15:09",
+      "desc": "AIエージェント「Manus」を提供するManusは8月11日（現地時間）、独立企業としての運営をまもなく再開すると発表した。米Metaからの分離に伴い、一部ユーザーのデータを23日から削除するとして、事前のバックアップを呼び掛けている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
+      "link": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
+      "date": "2026-08-10T00:19:33+09:00",
+      "dateLabel": "08/10 00:19",
+      "desc": "AWS、マイクロソフト、OpenAI、Anysphere、Vercelの各社は、AIエージェントのスキルやMCPサーバの設定を、AIエージェントが異なっていても共有できる業界標準の仕様「Agent Plugins 1.0.0」を発表しました...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 28
     }
   ]
 }
