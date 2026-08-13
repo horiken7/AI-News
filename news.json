@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-13T14:41:05.606462+09:00",
-  "generatedLabel": "2026/08/13 14:41",
+  "generatedAt": "2026-08-13T16:11:33.217232+09:00",
+  "generatedLabel": "2026/08/13 16:11",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 61,
+  "candidates": 62,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 17
+      "items": 19
     },
     {
       "source": "CNET Japan",
@@ -62,6 +62,17 @@
     }
   ],
   "articles": [
+    {
+      "title": "ChatGPT・Gemini・Claudeで「選ばれる企業」へ、成果報酬型のAI検索最適化サービスを提供開始",
+      "link": "https://ascii.jp/elem/000/004/426/4426652/?rss",
+      "date": "2026-08-13T15:40:08+09:00",
+      "dateLabel": "08/13 15:40",
+      "desc": "ChatGPT・Gemini・Claudeで「選ばれる企業」へ、成果報酬型のAI検索最適化サービスを提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 58
+    },
     {
       "title": "RTX PRO 4500を2基搭載、AI開発向け「Lepton Twin GPU Edition」発売",
       "link": "https://ascii.jp/elem/000/004/426/4426617/?rss",
@@ -118,6 +129,17 @@
       "score": 48
     },
     {
+      "title": "【8/19 14:00開催】AIは企業・サービスをどう認識している？ トドオナダ、LLM認知測定ツール「ディギディギ」を使った実演をセミナーで公開",
+      "link": "https://ascii.jp/elem/000/004/426/4426657/?rss",
+      "date": "2026-08-13T15:30:00+09:00",
+      "dateLabel": "08/13 15:30",
+      "desc": "【8/19 14:00開催】AIは企業・サービスをどう認識している？ トドオナダ、LLM認知測定ツール「ディギディギ」を使った実演をセミナーで公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "GeminiアプリのMAUが10億人を突破 Googleで14番目の大台到達製品に",
       "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000500/",
       "date": "2026-08-12T18:59:59+09:00",
@@ -140,17 +162,6 @@
       "score": 42
     },
     {
-      "title": "中国発AIエージェント「Manus」、Metaから独立へ 中国政府が買収に反発、一部ユーザーデータは削除に",
-      "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000508/",
-      "date": "2026-08-12T15:09:00+09:00",
-      "dateLabel": "08/12 15:09",
-      "desc": "AIエージェント「Manus」を提供するManusは8月11日（現地時間）、独立企業としての運営をまもなく再開すると発表した。米Metaからの分離に伴い、一部ユーザーのデータを23日から削除するとして、事前のバックアップを呼び掛けている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "NVIDIAが30Bのオープンモデル公開 「OpenClaw」など常時稼働エージェント向けに設計",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/12/2000000503/",
       "date": "2026-08-12T12:55:52+09:00",
@@ -162,35 +173,57 @@
       "score": 42
     },
     {
-      "title": "GhostDrift数理研究所、AIの「意味選択」と「意味状態遷移」に関する2件のPCT国際出願を発表",
-      "link": "https://ascii.jp/elem/000/004/426/4426603/?rss",
-      "date": "2026-08-13T12:30:00+09:00",
-      "dateLabel": "08/13 12:30",
-      "desc": "GhostDrift数理研究所、AIの「意味選択」と「意味状態遷移」に関する2件のPCT国際出願を発表",
+      "title": "AIエージェントで構築した「自律型ハッキングツール」がアジアの政府機関を攻撃、中国による台湾政府への攻撃か",
+      "link": "https://gigazine.net/news/20260813-ai-government-cyberattack/",
+      "date": "2026-08-13T16:00:00+09:00",
+      "dateLabel": "08/13 16:00",
+      "desc": "中国のハッカーとみられる人物が、一般に公開されているAIツールを使って台湾の政府系ウェブサイトを侵害したことが報じられています。イスラエルのAI企業・Dreamの研究者によると、攻撃者はオープンソースのAIエージェントを使用して、連携のとれたサイバーチームのように振る舞う自律的なハッキングツールを構築したとのことです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "中華AIスタートアップのDeepSeekが「DeepSeek V4 Pro 0813」をひっそりとリリース",
+      "link": "https://gigazine.net/news/20260813-deepseek-v4-pro-0813/",
+      "date": "2026-08-13T15:25:00+09:00",
+      "dateLabel": "08/13 15:25",
+      "desc": "中国のAIスタートアップであるDeepSeekが、最新AIモデルの「DeepSeek V4 Pro 0813」をひっそりとリリースしました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "Google、「Gemini」開発遅延で焦りか 共同創業者ブリン氏が“全力投球”促す",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000529/",
+      "date": "2026-08-13T15:14:13+09:00",
+      "dateLabel": "08/13 15:14",
+      "desc": "Google共同創業者ブリン氏が、AI部門の従業員に「Gemini」へ全力を注ぐよう促していたという。旗艦モデルは競合への後れで公開が2カ月延期。「再帰的自己改善」への資源配分も進めている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "Stella AI、「Grok 4.6」を提供開始",
+      "link": "https://ascii.jp/elem/000/004/426/4426654/?rss",
+      "date": "2026-08-13T15:00:54+09:00",
+      "dateLabel": "08/13 15:00",
+      "desc": "Stella AI、「Grok 4.6」を提供開始",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
     },
     {
-      "title": "管理部門の「AI導入が止まる」原因を特定。無料レポート『バックオフィスがAI導入でつまずく5つのパターンと回避法』を公開",
-      "link": "https://ascii.jp/elem/000/004/426/4426604/?rss",
-      "date": "2026-08-13T12:26:50+09:00",
-      "dateLabel": "08/13 12:26",
-      "desc": "管理部門の「AI導入が止まる」原因を特定。無料レポート『バックオフィスがAI導入でつまずく5つのパターンと回避法』を公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "Pacific Meta CEOの岩崎がClaude公式アンバサダーに就任",
-      "link": "https://ascii.jp/elem/000/004/426/4426606/?rss",
-      "date": "2026-08-13T12:07:12+09:00",
-      "dateLabel": "08/13 12:07",
-      "desc": "Pacific Meta CEOの岩崎がClaude公式アンバサダーに就任",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
+      "title": "ClaudeにAI透かしが追加されることで職場や学校でAIを使用していることがバレてしまうかもとユーザーが不満げ",
+      "link": "https://gigazine.net/news/20260813-claude-ai-watermark-mad/",
+      "date": "2026-08-13T15:00:00+09:00",
+      "dateLabel": "08/13 15:00",
+      "desc": "EUで施行される法律に基づき、AnthropicはAIが生成するコンテンツに「透かし(ウォーターマーク)」を入れることを決定しました。この決定に、一部のAIユーザーが反発しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 34
     },
@@ -244,39 +277,6 @@
       "date": "2026-08-13T08:00:00+09:00",
       "dateLabel": "08/13 08:00",
       "desc": "AIが業務で利用される中、従来別の職種が担っていた仕事が持ち込まれるようになった。OpenAIはこれを「タスクの越境」と呼ぶ。具体的にどの職種、どのタスクで越境が起きているのか。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "【注目記事まとめ】NEC、日立、富士通――Anthropicとの電撃的協業、その舞台裏 経営陣の狙いは？",
-      "link": "https://www.itmedia.co.jp/business/articles/2608/13/news025.html",
-      "date": "2026-08-13T07:30:00+09:00",
-      "dateLabel": "08/13 07:30",
-      "desc": "NEC、日立製作所、富士通が相次いでAnthropicとの協業を発表した。その舞台裏とは。経営陣の狙いとは。注目の記事をまとめてお届けする。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "SpaceXAI、「Grok 4.6」を発表 総合指標で「GPT-5.6 Sol Max」に並ぶと謳う",
-      "link": "https://www.itmedia.co.jp/news/article/2608/13/2000000520/",
-      "date": "2026-08-13T06:32:01+09:00",
-      "dateLabel": "08/13 06:32",
-      "desc": "SpaceXAIは、AIモデル「Grok 4.6」を発表した。前世代の「Grok 4.5」をベースに、多数の手順にまたがって作業を続けるエージェント用途と、対話的・視覚的な成果物の作成を強化した。「Cursor」、「Grok Build」、「Grok Bot」、APIで同日提供を始めた。API料金は入力100万トークン当たり2ドルから。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Google新スマホ「Pixel 11シリーズ」正式発表 「Gemini Intelligence」向けに設計 カメラも強化",
-      "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000516/",
-      "date": "2026-08-12T23:03:56+09:00",
-      "dateLabel": "08/12 23:03",
-      "desc": "米Googleは8月12日、「Pixel 11」「Pixel 11 Pro」「Pixel 11 Pro XL」を発表した。新チップ「Google Tensor G6」を搭載し、カメラを刷新。Proには通知を光で知らせる「HiLight」を加えた。中核のAI機能「Gemini Intelligence」が目玉としている。8月20日に発予定。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
