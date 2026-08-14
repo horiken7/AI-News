@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-14T19:52:29.296742+09:00",
-  "generatedLabel": "2026/08/14 19:52",
+  "generatedAt": "2026-08-14T20:36:41.879768+09:00",
+  "generatedLabel": "2026/08/14 20:36",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -138,6 +138,17 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 42
+    },
+    {
+      "title": "OpenAIにはサム・アルトマンCEOや経営陣に直接苦情を送ることができる専用のメールアドレスがある",
+      "link": "https://gigazine.net/news/20260814-openai-special-address/",
+      "date": "2026-08-14T20:30:00+09:00",
+      "dateLabel": "08/14 20:30",
+      "desc": "ChatGPTで知られるOpenAIの社内には、サム・アルトマンCEOや社長のグレッグ・ブロックマン氏など経営陣に直接業務における問題を報告して迅速な解決を求める「friction」というメールアドレスがあると元従業員が明かしました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "「窓の拭き掃除」が面倒だったので自動化した男の話。いまや、俺の窓は“常にピカピカ”だ。",
@@ -266,17 +277,6 @@
       "date": "2026-08-14T11:59:00+09:00",
       "dateLabel": "08/14 11:59",
       "desc": "アプリの操作履歴やウェブでのアクティビティを記録し将来のタスクに役立てる機能「Computer History」がMac向けのChatGPTデスクトップアプリに追加されました。「将来のやり取りが最適化され、説明が少なく済む」とのことです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "母と弟を殺害した10代の少年がChatGPTにアイデアを求めていたことが判明",
-      "link": "https://gigazine.net/news/20260814-teen-kill-family-chatgpt/",
-      "date": "2026-08-14T11:28:00+09:00",
-      "dateLabel": "08/14 11:28",
-      "desc": "マサチューセッツ州に住む17歳の少年が、母親と弟を殺害した容疑で起訴されました。捜査により、この少年はChatGPTに「家族殺しを題材にした小説のアイデア」を聞いていたことが明らかになりました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
