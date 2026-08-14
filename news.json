@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-14T17:57:48.550672+09:00",
-  "generatedLabel": "2026/08/14 17:57",
+  "generatedAt": "2026-08-14T18:56:57.424555+09:00",
+  "generatedLabel": "2026/08/14 18:56",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 54,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -140,6 +140,28 @@
       "score": 42
     },
     {
+      "title": "「窓の拭き掃除」が面倒だったので自動化した男の話。いまや、俺の窓は“常にピカピカ”だ。",
+      "link": "https://ascii.jp/elem/000/004/426/4426602/?rss",
+      "date": "2026-08-14T18:00:00+09:00",
+      "dateLabel": "08/14 18:00",
+      "desc": "年に1回の大掃除の時ですら面倒な、窓拭きという苦行。できれば卒業したいですよね。でも、窓掃除ロボットさえあれば、全部おまかせできちゃうのです！",
+      "img": "https://ascii.jp/img/2026/08/13/4512498/s/e568d5ecbc515d1d.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "【アマゾン37％OFFタイムセール】Android 16×Gemini AI搭載「A9 セット版」が15,800円！キーボード付き10インチタブレットを数量限定販売",
+      "link": "https://ascii.jp/elem/000/004/426/4426829/?rss",
+      "date": "2026-08-14T16:48:39+09:00",
+      "dateLabel": "08/14 16:48",
+      "desc": "【アマゾン37％OFFタイムセール】Android 16×Gemini AI搭載「A9 セット版」が15,800円！キーボード付き10インチタブレットを数量限定販売",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "GPT-5.6 Solの「超高速モード」ついに実装 「品質損なわず14倍高速」うたう",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000545/",
       "date": "2026-08-14T16:32:48+09:00",
@@ -148,6 +170,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "「Voice AI Agent Platform」エコシステム構築に向けた戦略投資方針について",
+      "link": "https://ascii.jp/elem/000/004/426/4426831/?rss",
+      "date": "2026-08-14T16:30:00+09:00",
+      "dateLabel": "08/14 16:30",
+      "desc": "「Voice AI Agent Platform」エコシステム構築に向けた戦略投資方針について",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 34
     },
     {
@@ -206,6 +239,17 @@
       "score": 28
     },
     {
+      "title": "サグリ、優れたAI人材活用企業を表彰する「財界 BEST AI 100」に選出",
+      "link": "https://ascii.jp/elem/000/004/426/4426827/?rss",
+      "date": "2026-08-14T17:00:00+09:00",
+      "dateLabel": "08/14 17:00",
+      "desc": "サグリ、優れたAI人材活用企業を表彰する「財界 BEST AI 100」に選出",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "左右対称で典型的な「AIっぽいきれいな顔」は買い物客を遠ざけてしまう可能性",
       "link": "https://gigazine.net/news/20260814-perfect-ai-face-turning-shoppers-off/",
       "date": "2026-08-14T16:10:00+09:00",
@@ -228,17 +272,6 @@
       "score": 26
     },
     {
-      "title": "プリペアード 迷惑電話対策機能を持つPLATIAIIIなどセキュリティ対策・インフラ商材の販売代理店様を鹿児島県で募集開始",
-      "link": "https://ascii.jp/elem/000/004/426/4426797/?rss",
-      "date": "2026-08-14T15:00:00+09:00",
-      "dateLabel": "08/14 15:00",
-      "desc": "プリペアード 迷惑電話対策機能を持つPLATIAIIIなどセキュリティ対策・インフラ商材の販売代理店様を鹿児島県で募集開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
       "title": "ChatGPTに自分のPC操作履歴を学ばせる機能「Computer History」が登場",
       "link": "https://gigazine.net/news/20260814-chatgpt-computer-history/",
       "date": "2026-08-14T11:59:00+09:00",
@@ -246,39 +279,6 @@
       "desc": "アプリの操作履歴やウェブでのアクティビティを記録し将来のタスクに役立てる機能「Computer History」がMac向けのChatGPTデスクトップアプリに追加されました。「将来のやり取りが最適化され、説明が少なく済む」とのことです。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "母と弟を殺害した10代の少年がChatGPTにアイデアを求めていたことが判明",
-      "link": "https://gigazine.net/news/20260814-teen-kill-family-chatgpt/",
-      "date": "2026-08-14T11:28:00+09:00",
-      "dateLabel": "08/14 11:28",
-      "desc": "マサチューセッツ州に住む17歳の少年が、母親と弟を殺害した容疑で起訴されました。捜査により、この少年はChatGPTに「家族殺しを題材にした小説のアイデア」を聞いていたことが明らかになりました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "データセンターが“アツい”――「潜入レポート」「フジクラ取材」など注目記事5選（2026年前半版）",
-      "link": "https://www.itmedia.co.jp/business/articles/2608/14/news040.html",
-      "date": "2026-08-14T07:30:00+09:00",
-      "dateLabel": "08/14 07:30",
-      "desc": "データセンターが“ホットなテーマ”だ。AI時代のデータセンターとは一体どのようなものなのか。潜入記事やフジクラ取材記事など、お薦め記事をまとめた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "“梅干し職人”のためツール自作 老舗漬物店のClaude活用、「チャット+コピペ」で成果を出せたワケ",
-      "link": "https://www.itmedia.co.jp/business/articles/2608/14/news053.html",
-      "date": "2026-08-14T07:15:00+09:00",
-      "dateLabel": "08/14 07:15",
-      "desc": "明治創業の老舗漬物店が、AI活用で成果を出している。Claudeを活用して「梅干し職人向けツール」などを開発。PCが苦手な人にも使いやすいツールをどのように作っているのか。",
-      "img": "",
-      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 26
     }
