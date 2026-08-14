@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-14T10:03:55.722340+09:00",
-  "generatedLabel": "2026/08/14 10:03",
+  "generatedAt": "2026-08-14T12:55:17.437299+09:00",
+  "generatedLabel": "2026/08/14 12:55",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 61,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 19
+      "items": 16
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,39 @@
   ],
   "articles": [
     {
+      "title": "Googleが「Gemini 3.7 Flash」をリリース、Claude Sonnet 5やGPT-5.6 Terraに並ぶ性能で年末まではGemini 3.6 Flashの半額で利用可能",
+      "link": "https://gigazine.net/news/20260814-google-gemini-3-7-flash/",
+      "date": "2026-08-14T11:57:00+09:00",
+      "dateLabel": "08/14 11:57",
+      "desc": "現地時間の2026年8月13日、Googleはコーディングとエージェント向けに開発されたこれまでで最もインテリジェントなAIモデルの「Gemini 3.7 Flash」をリリースしました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 58
+    },
+    {
+      "title": "GPT-5.6 Solを最大14倍高速化する「Ultrafast」モードが登場",
+      "link": "https://gigazine.net/news/20260814-gpt-5-6-sol-ultrafast/",
+      "date": "2026-08-14T10:43:00+09:00",
+      "dateLabel": "08/14 10:43",
+      "desc": "OpenAIがGPT-5.6 Solを最大14倍高速化するサービス「Ultrafast」を現地時間の2026年8月13日に発表しました。UltrafastはCerebrasの高速推論技術を用いており、一部のユーザーを対象にプレビュー公開されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
+      "title": "AI Shift、サイバーエージェントグループ数千名規模でのClaude活用知見を公開する無料オンラインセミナーを開催",
+      "link": "https://ascii.jp/elem/000/004/426/4426745/?rss",
+      "date": "2026-08-14T10:00:00+09:00",
+      "dateLabel": "08/14 10:00",
+      "desc": "AI Shift、サイバーエージェントグループ数千名規模でのClaude活用知見を公開する無料オンラインセミナーを開催",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
       "title": "Google、「Gemini 3.7 Flash」公開 年内は半額の導入価格",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000534/",
       "date": "2026-08-14T06:25:13+09:00",
@@ -82,17 +115,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
-      "title": "2.4兆パラメーターの中華AI「Qwen3.8」がオープンモデルとして無償公開される、OpenAIやAnthropicの最先端モデルに匹敵する性能",
-      "link": "https://gigazine.net/news/20260813-alibaba-qwen-3-8-open/",
-      "date": "2026-08-13T12:09:00+09:00",
-      "dateLabel": "08/13 12:09",
-      "desc": "中国企業・AlibabaのAI研究チームであるQwenがAIモデル「Qwen3.8-2.4T-A95B」をオープンモデルとして公開しました。AlibabaはすでにQwen3.8-2.4T-A95Bをベースとした「Qwen3.8 Max」を製品展開しており、OpenAIやAnthropicの最先端モデルに匹敵する性能として評価されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 50
     },
     {
@@ -118,33 +140,33 @@
       "score": 42
     },
     {
-      "title": "「AIを使っている」と「AIが働いている」は違う。不動産業界向け無料レポート『そのAI、チャット画面で終わっていませんか？』を公開",
-      "link": "https://ascii.jp/elem/000/004/426/4426706/?rss",
-      "date": "2026-08-14T09:00:00+09:00",
-      "dateLabel": "08/14 09:00",
-      "desc": "「AIを使っている」と「AIが働いている」は違う。不動産業界向け無料レポート『そのAI、チャット画面で終わっていませんか？』を公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
+      "title": "2.4兆パラメーターの中華AI「Qwen3.8」がオープンモデルとして無償公開される、OpenAIやAnthropicの最先端モデルに匹敵する性能",
+      "link": "https://gigazine.net/news/20260813-alibaba-qwen-3-8-open/",
+      "date": "2026-08-13T12:09:00+09:00",
+      "dateLabel": "08/13 12:09",
+      "desc": "中国企業・AlibabaのAI研究チームであるQwenがAIモデル「Qwen3.8-2.4T-A95B」をオープンモデルとして公開しました。AlibabaはすでにQwen3.8-2.4T-A95Bをベースとした「Qwen3.8 Max」を製品展開しており、OpenAIやAnthropicの最先端モデルに匹敵する性能として評価されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
-      "title": "生成AIは「長く読ませる」「深く考えさせる」ほど賢くなるとは限らない！ トークン節約のおすすめテクニック",
-      "link": "https://ascii.jp/elem/000/004/426/4426373/?rss",
-      "date": "2026-08-14T09:00:00+09:00",
-      "dateLabel": "08/14 09:00",
-      "desc": "本連載は生成AIをこれから活用しようとしている方たちのために、生成AIの基本やコピペしてそのまま使えるプロンプトなどを紹介。兎にも角にも生成AIに触り始めることで、AIに対する理解を深め、AIスキルを身に着けて欲しい。第70回は生成AIの性能を落とさずに、トークン消費を抑えて使うためのテクニックを解説する。",
-      "img": "https://ascii.jp/img/2026/08/12/4512147/s/3b106285212be36f.jpg",
-      "src": "ASCII.jp",
+      "title": "MiniMaxが動画生成AIに続いて音楽生成AI「MiniMax-Music3」を無償公開、ローカルで最大5分の日本語ボーカル付き楽曲を生成可能",
+      "link": "https://gigazine.net/news/20260814-minimax-music3/",
+      "date": "2026-08-14T11:16:00+09:00",
+      "dateLabel": "08/14 11:16",
+      "desc": "中国のAI開発企業であるMiniMaxが音楽生成AI「MiniMax-Music3」を日本時間の2026年8月14日に公開しました。MiniMax-Music3はテキストでの指示に沿ってボーカル付きの楽曲を生成可能で、日本語ボーカルの生成にも対応しています。モデルが無償で公開されており、ローカルで実行可能。さらに、ユーザーの短い入力をもとに長い歌詞やAIモデ",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
-      "title": "AIキャラチャット「キャラぷ」、本郷奏多さんを起用した初のWebCMを8月14日(金)より公開",
-      "link": "https://ascii.jp/elem/000/004/426/4426710/?rss",
-      "date": "2026-08-14T00:10:48+09:00",
-      "dateLabel": "08/14 00:10",
-      "desc": "AIキャラチャット「キャラぷ」、本郷奏多さんを起用した初のWebCMを8月14日(金)より公開",
+      "title": "スウェーデン発のAI議事録「Klang（クラング）」が日本語版を正式リリース──北欧を中心に登録ユーザー10万人超",
+      "link": "https://ascii.jp/elem/000/004/426/4426744/?rss",
+      "date": "2026-08-14T10:30:00+09:00",
+      "dateLabel": "08/14 10:30",
+      "desc": "スウェーデン発のAI議事録「Klang（クラング）」が日本語版を正式リリース──北欧を中心に登録ユーザー10万人超",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
@@ -170,17 +192,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "軽くて堅牢なモバイルノートPCを発見！ 独自素材ボディーに有機ELを詰め込んだ「Zenbook SORA」がタイムセール中",
-      "link": "https://ascii.jp/elem/000/004/426/4426376/?rss",
-      "date": "2026-08-13T20:00:00+09:00",
-      "dateLabel": "08/13 20:00",
-      "desc": "ASUSの14型ノートPC「Zenbook SORA（UX3407NA-GL16570BE）」がAmazonタイムセール対象。259,800円で販売中だ。約990gのボディーにSnapdragon X2 Eliteや16GBメモリ、512GB SSD、14型有機ELディスプレーを搭載。80TOPSのNPUも備える。",
-      "img": "https://ascii.jp/img/2026/08/12/4512097/s/46de98230f668636.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -228,28 +239,6 @@
       "score": 34
     },
     {
-      "title": "AppleはSiri AIが時事問題にさらにアクセスできるようにするため出版社との提携を模索している",
-      "link": "https://gigazine.net/news/20260813-apple-pay-publishers-improve-ai-siri/",
-      "date": "2026-08-13T11:08:00+09:00",
-      "dateLabel": "08/13 11:08",
-      "desc": "AppleがWWDC26で発表したSiri AIをよりスマートにするべく、Appleは出版社と報酬支払いについて協議を進めているとウォール・ストリート・ジャーナルが報じました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "Google Pixel Watch 5が登場、Geminiと話せるAI機能を強化",
-      "link": "https://gigazine.net/news/20260813-google-pixel-watch-5/",
-      "date": "2026-08-13T10:44:00+09:00",
-      "dateLabel": "08/13 10:44",
-      "desc": "現地時間の2026年8月12日、Googleがスマートウォッチの「Google Pixel Watch 5」を発表しました。Google Pixel Watch 5はGemini IntelligenceとGoogle Health向けに設計されており、プロアクティブな提案と高度なヘルストラッキングが可能です。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
       "link": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
       "date": "2026-08-10T00:19:33+09:00",
@@ -261,22 +250,33 @@
       "score": 28
     },
     {
-      "title": "【AI博覧会2026 Summer】株式会社Co-Labo AI代表・大塚空来が登壇｜AI活用の新概念「AI転換率」を提唱。成果につながる4ステップを解説",
-      "link": "https://ascii.jp/elem/000/004/426/4426707/?rss",
-      "date": "2026-08-14T09:00:00+09:00",
-      "dateLabel": "08/14 09:00",
-      "desc": "【AI博覧会2026 Summer】株式会社Co-Labo AI代表・大塚空来が登壇｜AI活用の新概念「AI転換率」を提唱。成果につながる4ステップを解説",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "ChatGPTに自分のPC操作履歴を学ばせる機能「Computer History」が登場",
+      "link": "https://gigazine.net/news/20260814-chatgpt-computer-history/",
+      "date": "2026-08-14T11:59:00+09:00",
+      "dateLabel": "08/14 11:59",
+      "desc": "アプリの操作履歴やウェブでのアクティビティを記録し将来のタスクに役立てる機能「Computer History」がMac向けのChatGPTデスクトップアプリに追加されました。「将来のやり取りが最適化され、説明が少なく済む」とのことです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 26
     },
     {
-      "title": "【独自調査】AI検索の出典、実は見られていない？ 「毎回クリックして確認する」人はわずか15.2％",
-      "link": "https://ascii.jp/elem/000/004/426/4426709/?rss",
-      "date": "2026-08-14T08:00:00+09:00",
-      "dateLabel": "08/14 08:00",
-      "desc": "【独自調査】AI検索の出典、実は見られていない？ 「毎回クリックして確認する」人はわずか15.2％",
+      "title": "母と弟を殺害した10代の少年がChatGPTにアイデアを求めていたことが判明",
+      "link": "https://gigazine.net/news/20260814-teen-kill-family-chatgpt/",
+      "date": "2026-08-14T11:28:00+09:00",
+      "dateLabel": "08/14 11:28",
+      "desc": "マサチューセッツ州に住む17歳の少年が、母親と弟を殺害した容疑で起訴されました。捜査により、この少年はChatGPTに「家族殺しを題材にした小説のアイデア」を聞いていたことが明らかになりました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "PKSHAグループの議事録AI「YOMEL」が各種アワードで3冠を達成ーPKSHA AIが未来の会議を実現",
+      "link": "https://ascii.jp/elem/000/004/426/4426752/?rss",
+      "date": "2026-08-14T11:00:00+09:00",
+      "dateLabel": "08/14 11:00",
+      "desc": "PKSHAグループの議事録AI「YOMEL」が各種アワードで3冠を達成ーPKSHA AIが未来の会議を実現",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
