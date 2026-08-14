@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-14T16:08:24.387721+09:00",
-  "generatedLabel": "2026/08/14 16:08",
+  "generatedAt": "2026-08-14T17:57:48.550672+09:00",
+  "generatedLabel": "2026/08/14 17:57",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 17
+      "items": 18
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -74,6 +74,17 @@
       "score": 58
     },
     {
+      "title": "ChatGPTがPC操作を自動で記録、コンテキストとして利用可能に Mac版デスクトップアプリで提供",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000548/",
+      "date": "2026-08-14T16:30:18+09:00",
+      "dateLabel": "08/14 16:30",
+      "desc": "OpenAIが「ChatGPT」「Codex」の新機能「Computer History」を発表。アプリやWebサイトの操作履歴を記録し、記憶とタイムラインとしてチャットで利用できる。Mac版デスクトップアプリで提供する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
       "title": "GPT-5.6 Solを最大14倍高速化する「Ultrafast」モードが登場",
       "link": "https://gigazine.net/news/20260814-gpt-5-6-sol-ultrafast/",
       "date": "2026-08-14T10:43:00+09:00",
@@ -107,13 +118,13 @@
       "score": 48
     },
     {
-      "title": "「コゾカAI 受注AIエージェント V2」を8月にリリース",
-      "link": "https://ascii.jp/elem/000/004/426/4426773/?rss",
-      "date": "2026-08-14T13:18:36+09:00",
-      "dateLabel": "08/14 13:18",
-      "desc": "「コゾカAI 受注AIエージェント V2」を8月にリリース",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
+      "title": "DeepSeekがAIエージェントのハーネス「DeepSeek Harness」v0.1を公開",
+      "link": "https://gigazine.net/news/20260814-deepseek-harness-v0-1/",
+      "date": "2026-08-14T16:31:00+09:00",
+      "dateLabel": "08/14 16:31",
+      "desc": "中国のAIスタートアップ・DeepSeekが、AIエージェントが安全かつ確実に動作するためのハーネス「DeepSeek Harness」を公開しました。MITライセンスのもと、オープンソースでコードベースも公開されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 42
     },
@@ -129,36 +140,25 @@
       "score": 42
     },
     {
-      "title": "「Grok 4.6」が登場、長時間のエージェント作業に強くなりGPT-5.6 SolやClaude Fable 5と並ぶ性能に",
-      "link": "https://gigazine.net/news/20260813-grok-4-6/",
-      "date": "2026-08-13T13:33:00+09:00",
-      "dateLabel": "08/13 13:33",
-      "desc": "SpaceXAIは2026年8月12日にAIモデル「Grok 4.6」を発表しました。Grok 4.5をベースに同じ価格で大幅な改善を示しており、長時間実行されるAIエージェントの作業や、より高度なインタラクティブなビジュアル処理に重点を置いています。 続きを読む...",
+      "title": "GPT-5.6 Solの「超高速モード」ついに実装 「品質損なわず14倍高速」うたう",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000545/",
+      "date": "2026-08-14T16:32:48+09:00",
+      "dateLabel": "08/14 16:32",
+      "desc": "CerebrasとOpenAIは「GPT-5.6 Sol」の高速版「Ultrafastモード」を発表。毎秒最大750トークンを出力し、「品質を損なわず最大14倍高速」とうたう。OpenAIのAPIで限定プレビューを開始した。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "AIプラットフォーム「Krugle」のクリューグル社との業務提携を締結",
-      "link": "https://ascii.jp/elem/000/004/426/4426795/?rss",
-      "date": "2026-08-14T15:38:13+09:00",
-      "dateLabel": "08/14 15:38",
-      "desc": "AIプラットフォーム「Krugle」のクリューグル社との業務提携を締結",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
-      "title": "FMV STOREの「夏の福袋セール」で、14.0型のCopilot+ PC「FMV WU1-L1」が安いぞー！",
-      "link": "https://ascii.jp/elem/000/004/426/4426614/?rss",
-      "date": "2026-08-14T14:00:00+09:00",
-      "dateLabel": "08/14 14:00",
-      "desc": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
-      "img": "https://ascii.jp/img/2026/08/13/4512526/s/53a1db69ad9d0b95.png",
+      "title": "【過去満足度 平均4.4/5.0】8月10日サービス開始LLM認知測定ツール「ディギディギ」を8月21日（金）開催セミナーで実演",
+      "link": "https://ascii.jp/elem/000/004/426/4426812/?rss",
+      "date": "2026-08-14T16:20:00+09:00",
+      "dateLabel": "08/14 16:20",
+      "desc": "【過去満足度 平均4.4/5.0】8月10日サービス開始LLM認知測定ツール「ディギディギ」を8月21日（金）開催セミナーで実演",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -195,17 +195,6 @@
       "score": 34
     },
     {
-      "title": "スマホで動く視覚言語モデル「LFM2.5-VL-3B」が登場、日本語対応でUI認識やOCRに活用できる",
-      "link": "https://gigazine.net/news/20260813-lfm2-5-vl-3b/",
-      "date": "2026-08-13T16:31:00+09:00",
-      "dateLabel": "08/13 16:31",
-      "desc": "アメリカに拠点を置くAI企業のLiquid AIが視覚言語モデル「LFM2.5-VL-3B」を発表しました。LFM2.5-VL-3Bはスマートフォンでも動作することが確認されている軽量VLMで、文書のOCRやUIの認識などが可能。オープンモデルとして公開されており、無償でダウンロード可能です。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
       "link": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
       "date": "2026-08-10T00:19:33+09:00",
@@ -215,6 +204,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 28
+    },
+    {
+      "title": "左右対称で典型的な「AIっぽいきれいな顔」は買い物客を遠ざけてしまう可能性",
+      "link": "https://gigazine.net/news/20260814-perfect-ai-face-turning-shoppers-off/",
+      "date": "2026-08-14T16:10:00+09:00",
+      "dateLabel": "08/14 16:10",
+      "desc": "中国ではインターネットのライブ配信を通じて商品を売り込むライブコマース市場が成熟しており、中にはAIで生成された「AIストリーマー(AI司会者)」によるライブコマースもあります。そんなAI司会者の「顔の魅力」が配信を視聴するユーザーに与える影響について調べた研究結果を、中国の研究チームが発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
     },
     {
       "title": "広がる“持ち帰りレンタル” ビックカメラ × airCloset Mall、店頭で借りて自宅で試す体験の提供店舗を拡大",
@@ -233,17 +233,6 @@
       "date": "2026-08-14T15:00:00+09:00",
       "dateLabel": "08/14 15:00",
       "desc": "プリペアード 迷惑電話対策機能を持つPLATIAIIIなどセキュリティ対策・インフラ商材の販売代理店様を鹿児島県で募集開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "教育AI活用協会 代表理事・佐藤雄太、「夏の教育イノベーションフォーラム」にモデレーターとして登壇",
-      "link": "https://ascii.jp/elem/000/004/426/4426790/?rss",
-      "date": "2026-08-14T14:05:43+09:00",
-      "dateLabel": "08/14 14:05",
-      "desc": "教育AI活用協会 代表理事・佐藤雄太、「夏の教育イノベーションフォーラム」にモデレーターとして登壇",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "“梅干し職人”のためツール自作 老舗漬物店のClaude活用、「チャット+コピペ」で成果を出せたワケ",
+      "link": "https://www.itmedia.co.jp/business/articles/2608/14/news053.html",
+      "date": "2026-08-14T07:15:00+09:00",
+      "dateLabel": "08/14 07:15",
+      "desc": "明治創業の老舗漬物店が、AI活用で成果を出している。Claudeを活用して「梅干し職人向けツール」などを開発。PCが苦手な人にも使いやすいツールをどのように作っているのか。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 26
     }
   ]
