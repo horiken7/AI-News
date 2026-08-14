@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-14T14:24:52.344963+09:00",
-  "generatedLabel": "2026/08/14 14:24",
+  "generatedAt": "2026-08-14T16:08:24.387721+09:00",
+  "generatedLabel": "2026/08/14 16:08",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 60,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 10
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -118,28 +118,6 @@
       "score": 42
     },
     {
-      "title": "Stella AI、Google社の最新AIモデル「Gemini 3.7 Flash」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/426/4426764/?rss",
-      "date": "2026-08-14T12:36:14+09:00",
-      "dateLabel": "08/14 12:36",
-      "desc": "Stella AI、Google社の最新AIモデル「Gemini 3.7 Flash」を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "【8/24無料ウェビナー開催】CopilotやGeminiを業務で効かせる3つの要素～渡せる情報が限られていても、答えの質を上げるコツ～",
-      "link": "https://ascii.jp/elem/000/004/426/4426783/?rss",
-      "date": "2026-08-14T12:30:00+09:00",
-      "dateLabel": "08/14 12:30",
-      "desc": "【8/24無料ウェビナー開催】CopilotやGeminiを業務で効かせる3つの要素～渡せる情報が限られていても、答えの質を上げるコツ～",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "AIエージェント同士が“縄張り争い”、マルウェアで妨害も Anthropicがマルチエージェント実験の結果を公開",
       "link": "https://www.itmedia.co.jp/news/article/2608/14/2000000538/",
       "date": "2026-08-14T09:51:06+09:00",
@@ -162,6 +140,17 @@
       "score": 42
     },
     {
+      "title": "AIプラットフォーム「Krugle」のクリューグル社との業務提携を締結",
+      "link": "https://ascii.jp/elem/000/004/426/4426795/?rss",
+      "date": "2026-08-14T15:38:13+09:00",
+      "dateLabel": "08/14 15:38",
+      "desc": "AIプラットフォーム「Krugle」のクリューグル社との業務提携を締結",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "FMV STOREの「夏の福袋セール」で、14.0型のCopilot+ PC「FMV WU1-L1」が安いぞー！",
       "link": "https://ascii.jp/elem/000/004/426/4426614/?rss",
       "date": "2026-08-14T14:00:00+09:00",
@@ -170,17 +159,6 @@
       "img": "https://ascii.jp/img/2026/08/13/4512526/s/53a1db69ad9d0b95.png",
       "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "テレシー、言語処理若手シンポジウム「YANS2026」にて、因果推論に基づく広告効果可視化技術と生成AI活用の取り組みを紹介",
-      "link": "https://ascii.jp/elem/000/004/426/4426766/?rss",
-      "date": "2026-08-14T12:10:00+09:00",
-      "dateLabel": "08/14 12:10",
-      "desc": "テレシー、言語処理若手シンポジウム「YANS2026」にて、因果推論に基づく広告効果可視化技術と生成AI活用の取り組みを紹介",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
@@ -228,39 +206,6 @@
       "score": 34
     },
     {
-      "title": "AIエージェントで構築した「自律型ハッキングツール」がアジアの政府機関を攻撃、中国による台湾政府への攻撃か",
-      "link": "https://gigazine.net/news/20260813-ai-government-cyberattack/",
-      "date": "2026-08-13T16:00:00+09:00",
-      "dateLabel": "08/13 16:00",
-      "desc": "中国のハッカーとみられる人物が、一般に公開されているAIツールを使って台湾の政府系ウェブサイトを侵害したことが報じられています。イスラエルのAI企業・Dreamの研究者によると、攻撃者はオープンソースのAIエージェントを使用して、連携のとれたサイバーチームのように振る舞う自律的なハッキングツールを構築したとのことです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "中華AIスタートアップのDeepSeekが「DeepSeek V4 Pro 0813」をひっそりとリリース",
-      "link": "https://gigazine.net/news/20260813-deepseek-v4-pro-0813/",
-      "date": "2026-08-13T15:25:00+09:00",
-      "dateLabel": "08/13 15:25",
-      "desc": "中国のAIスタートアップであるDeepSeekが、最新AIモデルの「DeepSeek V4 Pro 0813」をひっそりとリリースしました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "ClaudeにAI透かしが追加されることで職場や学校でAIを使用していることがバレてしまうかもとユーザーが不満げ",
-      "link": "https://gigazine.net/news/20260813-claude-ai-watermark-mad/",
-      "date": "2026-08-13T15:00:00+09:00",
-      "dateLabel": "08/13 15:00",
-      "desc": "EUで施行される法律に基づき、AnthropicはAIが生成するコンテンツに「透かし(ウォーターマーク)」を入れることを決定しました。この決定に、一部のAIユーザーが反発しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
       "link": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
       "date": "2026-08-10T00:19:33+09:00",
@@ -272,14 +217,69 @@
       "score": 28
     },
     {
-      "title": "【業界特化調査 第1弾】AI検索パートナーズ（TechSuite株式会社）、M&A仲介のAI検索可視性調査を実施｜主要7つのAIで会社名を挙げるAIは少数、根拠の約7割は第三者メディア",
-      "link": "https://ascii.jp/elem/000/004/426/4426767/?rss",
-      "date": "2026-08-14T12:10:35+09:00",
-      "dateLabel": "08/14 12:10",
-      "desc": "【業界特化調査 第1弾】AI検索パートナーズ（TechSuite株式会社）、M&A仲介のAI検索可視性調査を実施｜主要7つのAIで会社名を挙げるAIは少数、根拠の約7割は第三者メディア",
+      "title": "広がる“持ち帰りレンタル” ビックカメラ × airCloset Mall、店頭で借りて自宅で試す体験の提供店舗を拡大",
+      "link": "https://ascii.jp/elem/000/004/426/4426805/?rss",
+      "date": "2026-08-14T15:30:00+09:00",
+      "dateLabel": "08/14 15:30",
+      "desc": "広がる“持ち帰りレンタル” ビックカメラ × airCloset Mall、店頭で借りて自宅で試す体験の提供店舗を拡大",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "プリペアード 迷惑電話対策機能を持つPLATIAIIIなどセキュリティ対策・インフラ商材の販売代理店様を鹿児島県で募集開始",
+      "link": "https://ascii.jp/elem/000/004/426/4426797/?rss",
+      "date": "2026-08-14T15:00:00+09:00",
+      "dateLabel": "08/14 15:00",
+      "desc": "プリペアード 迷惑電話対策機能を持つPLATIAIIIなどセキュリティ対策・インフラ商材の販売代理店様を鹿児島県で募集開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "教育AI活用協会 代表理事・佐藤雄太、「夏の教育イノベーションフォーラム」にモデレーターとして登壇",
+      "link": "https://ascii.jp/elem/000/004/426/4426790/?rss",
+      "date": "2026-08-14T14:05:43+09:00",
+      "dateLabel": "08/14 14:05",
+      "desc": "教育AI活用協会 代表理事・佐藤雄太、「夏の教育イノベーションフォーラム」にモデレーターとして登壇",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "ChatGPTに自分のPC操作履歴を学ばせる機能「Computer History」が登場",
+      "link": "https://gigazine.net/news/20260814-chatgpt-computer-history/",
+      "date": "2026-08-14T11:59:00+09:00",
+      "dateLabel": "08/14 11:59",
+      "desc": "アプリの操作履歴やウェブでのアクティビティを記録し将来のタスクに役立てる機能「Computer History」がMac向けのChatGPTデスクトップアプリに追加されました。「将来のやり取りが最適化され、説明が少なく済む」とのことです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "母と弟を殺害した10代の少年がChatGPTにアイデアを求めていたことが判明",
+      "link": "https://gigazine.net/news/20260814-teen-kill-family-chatgpt/",
+      "date": "2026-08-14T11:28:00+09:00",
+      "dateLabel": "08/14 11:28",
+      "desc": "マサチューセッツ州に住む17歳の少年が、母親と弟を殺害した容疑で起訴されました。捜査により、この少年はChatGPTに「家族殺しを題材にした小説のアイデア」を聞いていたことが明らかになりました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "データセンターが“アツい”――「潜入レポート」「フジクラ取材」など注目記事5選（2026年前半版）",
+      "link": "https://www.itmedia.co.jp/business/articles/2608/14/news040.html",
+      "date": "2026-08-14T07:30:00+09:00",
+      "dateLabel": "08/14 07:30",
+      "desc": "データセンターが“ホットなテーマ”だ。AI時代のデータセンターとは一体どのようなものなのか。潜入記事やフジクラ取材記事など、お薦め記事をまとめた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
       "score": 26
     }
   ]
