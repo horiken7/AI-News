@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-15T06:16:23.928019+09:00",
-  "generatedLabel": "2026/08/15 06:16",
+  "generatedAt": "2026-08-15T07:12:13.605334+09:00",
+  "generatedLabel": "2026/08/15 07:12",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 51,
@@ -107,17 +107,6 @@
       "score": 50
     },
     {
-      "title": "Google、「Gemini 3.7 Flash」公開 年内は半額の導入価格",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000534/",
-      "date": "2026-08-14T06:25:13+09:00",
-      "dateLabel": "08/14 06:25",
-      "desc": "Googleは、コーディングやエージェント用途に特化したAIモデル「Gemini 3.7 Flash」を発表した。前モデルからわずか3週間での投入だ。従来比半額の導入価格で提供し、個人向けエージェント機能「Gemini Spark」など各種プロダクトへ適用される。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
       "title": "1Password、ダッシュボードから組織のAI支出状況を表示する新機能。ClaudeやCursor、ChatGPTなど複数AIにI対応",
       "link": "https://www.publickey1.jp/blog/26/1passwordaiclaudecursorchatgptaii.html",
       "date": "2026-08-05T00:38:32+09:00",
@@ -145,6 +134,17 @@
       "date": "2026-08-14T09:51:06+09:00",
       "dateLabel": "08/14 09:51",
       "desc": "Anthropicは、複数のAIエージェントが同じ環境で働くとどうなるかを検証した実験結果を公開した。互いを妨害し合う“縄張り争い”や、示し合わせたような価格カルテル、全員が同じ判断をして資源を食い潰す現象などが確認された。個々のAIを安全にするだけでは防げない問題があると警告している。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "Google、「Gemini 3.7 Flash」公開 年内は半額の導入価格",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000534/",
+      "date": "2026-08-14T06:25:13+09:00",
+      "dateLabel": "08/14 06:25",
+      "desc": "Googleは、コーディングやエージェント用途に特化したAIモデル「Gemini 3.7 Flash」を発表した。前モデルからわずか3週間での投入だ。従来比半額の導入価格で提供し、個人向けエージェント機能「Gemini Spark」など各種プロダクトへ適用される。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
