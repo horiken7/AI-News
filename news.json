@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-14T12:55:17.437299+09:00",
-  "generatedLabel": "2026/08/14 12:55",
+  "generatedAt": "2026-08-14T14:24:52.344963+09:00",
+  "generatedLabel": "2026/08/14 14:24",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 60,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 10
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 16
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -85,17 +85,6 @@
       "score": 50
     },
     {
-      "title": "AI Shift、サイバーエージェントグループ数千名規模でのClaude活用知見を公開する無料オンラインセミナーを開催",
-      "link": "https://ascii.jp/elem/000/004/426/4426745/?rss",
-      "date": "2026-08-14T10:00:00+09:00",
-      "dateLabel": "08/14 10:00",
-      "desc": "AI Shift、サイバーエージェントグループ数千名規模でのClaude活用知見を公開する無料オンラインセミナーを開催",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
       "title": "Google、「Gemini 3.7 Flash」公開 年内は半額の導入価格",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000534/",
       "date": "2026-08-14T06:25:13+09:00",
@@ -103,17 +92,6 @@
       "desc": "Googleは、コーディングやエージェント用途に特化したAIモデル「Gemini 3.7 Flash」を発表した。前モデルからわずか3週間での投入だ。従来比半額の導入価格で提供し、個人向けエージェント機能「Gemini Spark」など各種プロダクトへ適用される。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
-      "title": "「Grok 4.6」が登場、長時間のエージェント作業に強くなりGPT-5.6 SolやClaude Fable 5と並ぶ性能に",
-      "link": "https://gigazine.net/news/20260813-grok-4-6/",
-      "date": "2026-08-13T13:33:00+09:00",
-      "dateLabel": "08/13 13:33",
-      "desc": "SpaceXAIは2026年8月12日にAIモデル「Grok 4.6」を発表しました。Grok 4.5をベースに同じ価格で大幅な改善を示しており、長時間実行されるAIエージェントの作業や、より高度なインタラクティブなビジュアル処理に重点を置いています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 50
     },
@@ -129,6 +107,39 @@
       "score": 48
     },
     {
+      "title": "「コゾカAI 受注AIエージェント V2」を8月にリリース",
+      "link": "https://ascii.jp/elem/000/004/426/4426773/?rss",
+      "date": "2026-08-14T13:18:36+09:00",
+      "dateLabel": "08/14 13:18",
+      "desc": "「コゾカAI 受注AIエージェント V2」を8月にリリース",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "Stella AI、Google社の最新AIモデル「Gemini 3.7 Flash」を提供開始",
+      "link": "https://ascii.jp/elem/000/004/426/4426764/?rss",
+      "date": "2026-08-14T12:36:14+09:00",
+      "dateLabel": "08/14 12:36",
+      "desc": "Stella AI、Google社の最新AIモデル「Gemini 3.7 Flash」を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "【8/24無料ウェビナー開催】CopilotやGeminiを業務で効かせる3つの要素～渡せる情報が限られていても、答えの質を上げるコツ～",
+      "link": "https://ascii.jp/elem/000/004/426/4426783/?rss",
+      "date": "2026-08-14T12:30:00+09:00",
+      "dateLabel": "08/14 12:30",
+      "desc": "【8/24無料ウェビナー開催】CopilotやGeminiを業務で効かせる3つの要素～渡せる情報が限られていても、答えの質を上げるコツ～",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "AIエージェント同士が“縄張り争い”、マルウェアで妨害も Anthropicがマルチエージェント実験の結果を公開",
       "link": "https://www.itmedia.co.jp/news/article/2608/14/2000000538/",
       "date": "2026-08-14T09:51:06+09:00",
@@ -140,15 +151,37 @@
       "score": 42
     },
     {
-      "title": "2.4兆パラメーターの中華AI「Qwen3.8」がオープンモデルとして無償公開される、OpenAIやAnthropicの最先端モデルに匹敵する性能",
-      "link": "https://gigazine.net/news/20260813-alibaba-qwen-3-8-open/",
-      "date": "2026-08-13T12:09:00+09:00",
-      "dateLabel": "08/13 12:09",
-      "desc": "中国企業・AlibabaのAI研究チームであるQwenがAIモデル「Qwen3.8-2.4T-A95B」をオープンモデルとして公開しました。AlibabaはすでにQwen3.8-2.4T-A95Bをベースとした「Qwen3.8 Max」を製品展開しており、OpenAIやAnthropicの最先端モデルに匹敵する性能として評価されています。 続きを読む...",
+      "title": "「Grok 4.6」が登場、長時間のエージェント作業に強くなりGPT-5.6 SolやClaude Fable 5と並ぶ性能に",
+      "link": "https://gigazine.net/news/20260813-grok-4-6/",
+      "date": "2026-08-13T13:33:00+09:00",
+      "dateLabel": "08/13 13:33",
+      "desc": "SpaceXAIは2026年8月12日にAIモデル「Grok 4.6」を発表しました。Grok 4.5をベースに同じ価格で大幅な改善を示しており、長時間実行されるAIエージェントの作業や、より高度なインタラクティブなビジュアル処理に重点を置いています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "LLM/モデル",
+      "cat": "AIエージェント/業務",
       "score": 42
+    },
+    {
+      "title": "FMV STOREの「夏の福袋セール」で、14.0型のCopilot+ PC「FMV WU1-L1」が安いぞー！",
+      "link": "https://ascii.jp/elem/000/004/426/4426614/?rss",
+      "date": "2026-08-14T14:00:00+09:00",
+      "dateLabel": "08/14 14:00",
+      "desc": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
+      "img": "https://ascii.jp/img/2026/08/13/4512526/s/53a1db69ad9d0b95.png",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "テレシー、言語処理若手シンポジウム「YANS2026」にて、因果推論に基づく広告効果可視化技術と生成AI活用の取り組みを紹介",
+      "link": "https://ascii.jp/elem/000/004/426/4426766/?rss",
+      "date": "2026-08-14T12:10:00+09:00",
+      "dateLabel": "08/14 12:10",
+      "desc": "テレシー、言語処理若手シンポジウム「YANS2026」にて、因果推論に基づく広告効果可視化技術と生成AI活用の取り組みを紹介",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
     },
     {
       "title": "MiniMaxが動画生成AIに続いて音楽生成AI「MiniMax-Music3」を無償公開、ローカルで最大5分の日本語ボーカル付き楽曲を生成可能",
@@ -159,17 +192,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "スウェーデン発のAI議事録「Klang（クラング）」が日本語版を正式リリース──北欧を中心に登録ユーザー10万人超",
-      "link": "https://ascii.jp/elem/000/004/426/4426744/?rss",
-      "date": "2026-08-14T10:30:00+09:00",
-      "dateLabel": "08/14 10:30",
-      "desc": "スウェーデン発のAI議事録「Klang（クラング）」が日本語版を正式リリース──北欧を中心に登録ユーザー10万人超",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -250,33 +272,11 @@
       "score": 28
     },
     {
-      "title": "ChatGPTに自分のPC操作履歴を学ばせる機能「Computer History」が登場",
-      "link": "https://gigazine.net/news/20260814-chatgpt-computer-history/",
-      "date": "2026-08-14T11:59:00+09:00",
-      "dateLabel": "08/14 11:59",
-      "desc": "アプリの操作履歴やウェブでのアクティビティを記録し将来のタスクに役立てる機能「Computer History」がMac向けのChatGPTデスクトップアプリに追加されました。「将来のやり取りが最適化され、説明が少なく済む」とのことです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "母と弟を殺害した10代の少年がChatGPTにアイデアを求めていたことが判明",
-      "link": "https://gigazine.net/news/20260814-teen-kill-family-chatgpt/",
-      "date": "2026-08-14T11:28:00+09:00",
-      "dateLabel": "08/14 11:28",
-      "desc": "マサチューセッツ州に住む17歳の少年が、母親と弟を殺害した容疑で起訴されました。捜査により、この少年はChatGPTに「家族殺しを題材にした小説のアイデア」を聞いていたことが明らかになりました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "PKSHAグループの議事録AI「YOMEL」が各種アワードで3冠を達成ーPKSHA AIが未来の会議を実現",
-      "link": "https://ascii.jp/elem/000/004/426/4426752/?rss",
-      "date": "2026-08-14T11:00:00+09:00",
-      "dateLabel": "08/14 11:00",
-      "desc": "PKSHAグループの議事録AI「YOMEL」が各種アワードで3冠を達成ーPKSHA AIが未来の会議を実現",
+      "title": "【業界特化調査 第1弾】AI検索パートナーズ（TechSuite株式会社）、M&A仲介のAI検索可視性調査を実施｜主要7つのAIで会社名を挙げるAIは少数、根拠の約7割は第三者メディア",
+      "link": "https://ascii.jp/elem/000/004/426/4426767/?rss",
+      "date": "2026-08-14T12:10:35+09:00",
+      "dateLabel": "08/14 12:10",
+      "desc": "【業界特化調査 第1弾】AI検索パートナーズ（TechSuite株式会社）、M&A仲介のAI検索可視性調査を実施｜主要7つのAIで会社名を挙げるAIは少数、根拠の約7割は第三者メディア",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
