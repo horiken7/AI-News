@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-14T23:08:35.660679+09:00",
-  "generatedLabel": "2026/08/14 23:08",
+  "generatedAt": "2026-08-15T00:41:25.029970+09:00",
+  "generatedLabel": "2026/08/15 00:41",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 51,
@@ -217,17 +217,6 @@
       "score": 34
     },
     {
-      "title": "中国DeepSeek、API料金を「最大12倍」に値上げ ピーク時価格も導入 8月17日から",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000533/",
-      "date": "2026-08-13T23:12:24+09:00",
-      "dateLabel": "08/13 23:12",
-      "desc": "中国DeepSeekは8月13日（日本時間、以下同）、AIモデルのAPI料金を値上げすると発表した。通常より2倍高いピーク時価格も導入する。新たな料金体系は17日午前1時から適用する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
       "link": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
       "date": "2026-08-10T00:19:33+09:00",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "データセンターが“アツい”――「潜入レポート」「フジクラ取材」など注目記事5選（2026年前半版）",
+      "link": "https://www.itmedia.co.jp/business/articles/2608/14/news040.html",
+      "date": "2026-08-14T07:30:00+09:00",
+      "dateLabel": "08/14 07:30",
+      "desc": "データセンターが“ホットなテーマ”だ。AI時代のデータセンターとは一体どのようなものなのか。潜入記事やフジクラ取材記事など、お薦め記事をまとめた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
       "score": 26
     }
   ]
