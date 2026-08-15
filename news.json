@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-15T13:20:18.184604+09:00",
-  "generatedLabel": "2026/08/15 13:20",
+  "generatedAt": "2026-08-15T14:16:16.575401+09:00",
+  "generatedLabel": "2026/08/15 14:16",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 54,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 10
     },
     {
       "source": "PC Watch",
@@ -140,6 +140,39 @@
       "score": 42
     },
     {
+      "title": "Core Ultra 5搭載の14.0型Copilot+ PC「FMV WU1-L1」が18万円台！ FMV直販で「夏の福袋セール」",
+      "link": "https://ascii.jp/elem/000/004/426/4426615/?rss",
+      "date": "2026-08-15T14:00:00+09:00",
+      "dateLabel": "08/15 14:00",
+      "desc": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
+      "img": "https://ascii.jp/img/2026/08/13/4512526/s/53a1db69ad9d0b95.png",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "経営課題は見えても「未判断」は見えにくい：AI時代の「経営判断ポートフォリオ」を公開",
+      "link": "https://ascii.jp/elem/000/004/426/4426854/?rss",
+      "date": "2026-08-15T13:24:23+09:00",
+      "dateLabel": "08/15 13:24",
+      "desc": "経営課題は見えても「未判断」は見えにくい：AI時代の「経営判断ポートフォリオ」を公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "謎解き・脱出ゲーム等体験型コンテンツ統合プラットフォーム「ESCAPE.ID」が、API・Webhook・MCPを開放する「ESCAPE.ID Hub」を公開。外部システムやAIとの結合を容易に。",
+      "link": "https://ascii.jp/elem/000/004/426/4426853/?rss",
+      "date": "2026-08-15T12:00:00+09:00",
+      "dateLabel": "08/15 12:00",
+      "desc": "謎解き・脱出ゲーム等体験型コンテンツ統合プラットフォーム「ESCAPE.ID」が、API・Webhook・MCPを開放する「ESCAPE.ID Hub」を公開。外部システムやAIとの結合を容易に。",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "Telegramの5つあるデータセンターの謎",
       "link": "https://gigazine.net/news/20260815-mistery-of-telegram-dc/",
       "date": "2026-08-15T12:00:00+09:00",
@@ -246,39 +279,6 @@
       "desc": "大阪・日本橋のPCショップ「マウスコンピューター G-Tune : Garage 大阪店」を取材しました。店長の尼田龍さんがオススメするのは、ゲーミングパソコン「G TUNE FZ-I9G90/EX」です。スペック的にはAIワークステーションやクリエイティブワークステーションと呼べる領域のパソコンになります。",
       "img": "https://ascii.jp/img/2026/08/14/4512820/s/ba3357c01afecdc7.jpg",
       "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "【9月8日(火)19:30～開催】AI活用は「導入」から「成果」へ──秋の商戦を見据えた「AI×マーケティング実践知見シェア会」を渋谷で開催！",
-      "link": "https://ascii.jp/elem/000/004/426/4426852/?rss",
-      "date": "2026-08-15T10:10:00+09:00",
-      "dateLabel": "08/15 10:10",
-      "desc": "【9月8日(火)19:30～開催】AI活用は「導入」から「成果」へ──秋の商戦を見据えた「AI×マーケティング実践知見シェア会」を渋谷で開催！",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "Aurora MobileとExabytes、東南アジア全域の企業にAI主導のカスタマーエンゲージメントをもたらす3年間の戦略的MoUを締結",
-      "link": "https://ascii.jp/elem/000/004/426/4426847/?rss",
-      "date": "2026-08-14T20:17:01+09:00",
-      "dateLabel": "08/14 20:17",
-      "desc": "Aurora MobileとExabytes、東南アジア全域の企業にAI主導のカスタマーエンゲージメントをもたらす3年間の戦略的MoUを締結",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "左右対称で典型的な「AIっぽいきれいな顔」は買い物客を遠ざけてしまう可能性",
-      "link": "https://gigazine.net/news/20260814-perfect-ai-face-turning-shoppers-off/",
-      "date": "2026-08-14T16:10:00+09:00",
-      "dateLabel": "08/14 16:10",
-      "desc": "中国ではインターネットのライブ配信を通じて商品を売り込むライブコマース市場が成熟しており、中にはAIで生成された「AIストリーマー(AI司会者)」によるライブコマースもあります。そんなAI司会者の「顔の魅力」が配信を視聴するユーザーに与える影響について調べた研究結果を、中国の研究チームが発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
       "cat": "AI全般",
       "score": 26
     }
