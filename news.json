@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-15T17:15:42.640270+09:00",
-  "generatedLabel": "2026/08/15 17:15",
+  "generatedAt": "2026-08-15T18:16:11.218774+09:00",
+  "generatedLabel": "2026/08/15 18:16",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 57,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 9
+      "items": 10
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 12
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -105,17 +105,6 @@
       "src": "Publickey",
       "cat": "LLM/モデル",
       "score": 48
-    },
-    {
-      "title": "GPT-5.6 Solを最大14倍高速化する「Ultrafast」モードが登場",
-      "link": "https://gigazine.net/news/20260814-gpt-5-6-sol-ultrafast/",
-      "date": "2026-08-14T10:43:00+09:00",
-      "dateLabel": "08/14 10:43",
-      "desc": "OpenAIがGPT-5.6 Solを最大14倍高速化するサービス「Ultrafast」を現地時間の2026年8月13日に発表しました。UltrafastはCerebrasの高速推論技術を用いており、一部のユーザーを対象にプレビュー公開されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
     },
     {
       "title": "Google、「Gemini 3.7 Flash」公開 年内は半額の導入価格",
@@ -237,6 +226,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 28
+    },
+    {
+      "title": "「KODAKのキーホルダーカメラ」で改めて気づいた、“平成レトロ”の底知れない魅力",
+      "link": "https://ascii.jp/elem/000/004/424/4424916/?rss",
+      "date": "2026-08-15T18:00:00+09:00",
+      "dateLabel": "08/15 18:00",
+      "desc": "「KODAK CHARMERA Keychain Digital Camera Blind Box - MILLENNIUM」は、2000年代のY2Kカルチャーを詰め込んだキーチェーン型のデジタルカメラです。",
+      "img": "https://ascii.jp/img/2026/08/05/4509388/s/ba715503a967af41.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     },
     {
       "title": "音が頼りのRay-Ban Metaを救うサウンドガイドチューブを衝動買い",
