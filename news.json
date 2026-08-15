@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-15T16:21:33.225993+09:00",
-  "generatedLabel": "2026/08/15 16:21",
+  "generatedAt": "2026-08-15T17:15:42.640270+09:00",
+  "generatedLabel": "2026/08/15 17:15",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 11
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -105,17 +105,6 @@
       "src": "Publickey",
       "cat": "LLM/モデル",
       "score": 48
-    },
-    {
-      "title": "DeepSeekがAIエージェントのハーネス「DeepSeek Harness」v0.1を公開",
-      "link": "https://gigazine.net/news/20260814-deepseek-harness-v0-1/",
-      "date": "2026-08-14T16:31:00+09:00",
-      "dateLabel": "08/14 16:31",
-      "desc": "中国のAIスタートアップ・DeepSeekが、AIエージェントが安全かつ確実に動作するためのハーネス「DeepSeek Harness」を公開しました。MITライセンスのもと、オープンソースでコードベースも公開されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 42
     },
     {
       "title": "GPT-5.6 Solを最大14倍高速化する「Ultrafast」モードが登場",
@@ -217,14 +206,14 @@
       "score": 34
     },
     {
-      "title": "GPT-5.6 Solの「超高速モード」ついに実装 「品質損なわず14倍高速」うたう",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000545/",
-      "date": "2026-08-14T16:32:48+09:00",
-      "dateLabel": "08/14 16:32",
-      "desc": "CerebrasとOpenAIは「GPT-5.6 Sol」の高速版「Ultrafastモード」を発表。毎秒最大750トークンを出力し、「品質を損なわず最大14倍高速」とうたう。OpenAIのAPIで限定プレビューを開始した。",
+      "title": "DeepSeekがAIエージェントのハーネス「DeepSeek Harness」v0.1を公開",
+      "link": "https://gigazine.net/news/20260814-deepseek-harness-v0-1/",
+      "date": "2026-08-14T16:31:00+09:00",
+      "dateLabel": "08/14 16:31",
+      "desc": "中国のAIスタートアップ・DeepSeekが、AIエージェントが安全かつ確実に動作するためのハーネス「DeepSeek Harness」を公開しました。MITライセンスのもと、オープンソースでコードベースも公開されています。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -277,6 +266,17 @@
       "date": "2026-08-15T10:10:00+09:00",
       "dateLabel": "08/15 10:10",
       "desc": "【9月8日(火)19:30～開催】AI活用は「導入」から「成果」へ──秋の商戦を見据えた「AI×マーケティング実践知見シェア会」を渋谷で開催！",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "Aurora MobileとExabytes、東南アジア全域の企業にAI主導のカスタマーエンゲージメントをもたらす3年間の戦略的MoUを締結",
+      "link": "https://ascii.jp/elem/000/004/426/4426847/?rss",
+      "date": "2026-08-14T20:17:01+09:00",
+      "dateLabel": "08/14 20:17",
+      "desc": "Aurora MobileとExabytes、東南アジア全域の企業にAI主導のカスタマーエンゲージメントをもたらす3年間の戦略的MoUを締結",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
