@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-16T02:11:54.760314+09:00",
-  "generatedLabel": "2026/08/16 02:11",
+  "generatedAt": "2026-08-16T03:14:15.626442+09:00",
+  "generatedLabel": "2026/08/16 03:14",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 56,
@@ -71,7 +71,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 58
+      "score": 50
     },
     {
       "title": "Googleが「Gemini 3.7 Flash」をリリース、Claude Sonnet 5やGPT-5.6 Terraに並ぶ性能で年末まではGemini 3.6 Flashの半額で利用可能",
