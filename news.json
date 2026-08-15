@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-15T09:38:01.296000+09:00",
-  "generatedLabel": "2026/08/15 09:38",
+  "generatedAt": "2026-08-15T11:07:56.866725+09:00",
+  "generatedLabel": "2026/08/15 11:07",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 50,
+  "candidates": 49,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 9
     },
     {
       "source": "CNET Japan",
@@ -96,17 +96,6 @@
       "score": 50
     },
     {
-      "title": "GPT-5.6 Solを最大14倍高速化する「Ultrafast」モードが登場",
-      "link": "https://gigazine.net/news/20260814-gpt-5-6-sol-ultrafast/",
-      "date": "2026-08-14T10:43:00+09:00",
-      "dateLabel": "08/14 10:43",
-      "desc": "OpenAIがGPT-5.6 Solを最大14倍高速化するサービス「Ultrafast」を現地時間の2026年8月13日に発表しました。UltrafastはCerebrasの高速推論技術を用いており、一部のユーザーを対象にプレビュー公開されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
       "title": "1Password、ダッシュボードから組織のAI支出状況を表示する新機能。ClaudeやCursor、ChatGPTなど複数AIにI対応",
       "link": "https://www.publickey1.jp/blog/26/1passwordaiclaudecursorchatgptaii.html",
       "date": "2026-08-05T00:38:32+09:00",
@@ -129,14 +118,14 @@
       "score": 42
     },
     {
-      "title": "AIエージェント同士が“縄張り争い”、マルウェアで妨害も Anthropicがマルチエージェント実験の結果を公開",
-      "link": "https://www.itmedia.co.jp/news/article/2608/14/2000000538/",
-      "date": "2026-08-14T09:51:06+09:00",
-      "dateLabel": "08/14 09:51",
-      "desc": "Anthropicは、複数のAIエージェントが同じ環境で働くとどうなるかを検証した実験結果を公開した。互いを妨害し合う“縄張り争い”や、示し合わせたような価格カルテル、全員が同じ判断をして資源を食い潰す現象などが確認された。個々のAIを安全にするだけでは防げない問題があると警告している。",
+      "title": "GPT-5.6 Solを最大14倍高速化する「Ultrafast」モードが登場",
+      "link": "https://gigazine.net/news/20260814-gpt-5-6-sol-ultrafast/",
+      "date": "2026-08-14T10:43:00+09:00",
+      "dateLabel": "08/14 10:43",
+      "desc": "OpenAIがGPT-5.6 Solを最大14倍高速化するサービス「Ultrafast」を現地時間の2026年8月13日に発表しました。UltrafastはCerebrasの高速推論技術を用いており、一部のユーザーを対象にプレビュー公開されています。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -149,6 +138,17 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 42
+    },
+    {
+      "title": "データセンターの見えるまちで",
+      "link": "https://ascii.jp/elem/000/004/408/4408640/?rss",
+      "date": "2026-08-15T10:00:00+09:00",
+      "dateLabel": "08/15 10:00",
+      "desc": "私が住んでいるのは、データセンターのあるまちだ。ベランダから外を眺めると、戸建てやマンションの合間から巨大なデータセンターが見え隠れする。",
+      "img": "https://ascii.jp/img/2026/06/06/4479271/s/bffd21b1c792cbd7.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
     },
     {
       "title": "OpenAIにはサム・アルトマンCEOや経営陣に直接苦情を送ることができる専用のメールアドレスがある",
@@ -173,17 +173,6 @@
       "score": 34
     },
     {
-      "title": "【アマゾン37％OFFタイムセール】Android 16×Gemini AI搭載「A9 セット版」が15,800円！キーボード付き10インチタブレットを数量限定販売",
-      "link": "https://ascii.jp/elem/000/004/426/4426829/?rss",
-      "date": "2026-08-14T16:48:39+09:00",
-      "dateLabel": "08/14 16:48",
-      "desc": "【アマゾン37％OFFタイムセール】Android 16×Gemini AI搭載「A9 セット版」が15,800円！キーボード付き10インチタブレットを数量限定販売",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "GPT-5.6 Solの「超高速モード」ついに実装 「品質損なわず14倍高速」うたう",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000545/",
       "date": "2026-08-14T16:32:48+09:00",
@@ -192,17 +181,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "「Voice AI Agent Platform」エコシステム構築に向けた戦略投資方針について",
-      "link": "https://ascii.jp/elem/000/004/426/4426831/?rss",
-      "date": "2026-08-14T16:30:00+09:00",
-      "dateLabel": "08/14 16:30",
-      "desc": "「Voice AI Agent Platform」エコシステム構築に向けた戦略投資方針について",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -217,6 +195,17 @@
       "score": 34
     },
     {
+      "title": "AIエージェント同士が“縄張り争い”、マルウェアで妨害も Anthropicがマルチエージェント実験の結果を公開",
+      "link": "https://www.itmedia.co.jp/news/article/2608/14/2000000538/",
+      "date": "2026-08-14T09:51:06+09:00",
+      "dateLabel": "08/14 09:51",
+      "desc": "Anthropicは、複数のAIエージェントが同じ環境で働くとどうなるかを検証した実験結果を公開した。互いを妨害し合う“縄張り争い”や、示し合わせたような価格カルテル、全員が同じ判断をして資源を食い潰す現象などが確認された。個々のAIを安全にするだけでは防げない問題があると警告している。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
       "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
       "link": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
       "date": "2026-08-10T00:19:33+09:00",
@@ -226,6 +215,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 28
+    },
+    {
+      "title": "Aurora MobileとExabytes、東南アジア全域の企業にAI主導のカスタマーエンゲージメントをもたらす3年間の戦略的MoUを締結",
+      "link": "https://ascii.jp/elem/000/004/426/4426847/?rss",
+      "date": "2026-08-14T20:17:01+09:00",
+      "dateLabel": "08/14 20:17",
+      "desc": "Aurora MobileとExabytes、東南アジア全域の企業にAI主導のカスタマーエンゲージメントをもたらす3年間の戦略的MoUを締結",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     },
     {
       "title": "サグリ、優れたAI人材活用企業を表彰する「財界 BEST AI 100」に選出",
