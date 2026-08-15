@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-15T18:16:11.218774+09:00",
-  "generatedLabel": "2026/08/15 18:16",
+  "generatedAt": "2026-08-15T19:12:40.259242+09:00",
+  "generatedLabel": "2026/08/15 19:12",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 57,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 10
+      "items": 9
     },
     {
       "source": "PC Watch",
@@ -272,14 +272,14 @@
       "score": 26
     },
     {
-      "title": "Aurora MobileとExabytes、東南アジア全域の企業にAI主導のカスタマーエンゲージメントをもたらす3年間の戦略的MoUを締結",
-      "link": "https://ascii.jp/elem/000/004/426/4426847/?rss",
-      "date": "2026-08-14T20:17:01+09:00",
-      "dateLabel": "08/14 20:17",
-      "desc": "Aurora MobileとExabytes、東南アジア全域の企業にAI主導のカスタマーエンゲージメントをもたらす3年間の戦略的MoUを締結",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "GPT-5.6 Solの「超高速モード」ついに実装 「品質損なわず14倍高速」うたう",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000545/",
+      "date": "2026-08-14T16:32:48+09:00",
+      "dateLabel": "08/14 16:32",
+      "desc": "CerebrasとOpenAIは「GPT-5.6 Sol」の高速版「Ultrafastモード」を発表。毎秒最大750トークンを出力し、「品質を損なわず最大14倍高速」とうたう。OpenAIのAPIで限定プレビューを開始した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 26
     }
   ]
