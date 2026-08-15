@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-15T20:10:44.266021+09:00",
-  "generatedLabel": "2026/08/15 20:10",
+  "generatedAt": "2026-08-15T21:17:06.656968+09:00",
+  "generatedLabel": "2026/08/15 21:17",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 56,
@@ -74,17 +74,6 @@
       "score": 58
     },
     {
-      "title": "ChatGPTがPC操作を自動で記録、コンテキストとして利用可能に Mac版デスクトップアプリで提供",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000548/",
-      "date": "2026-08-14T20:33:51+09:00",
-      "dateLabel": "08/14 20:33",
-      "desc": "OpenAIが「ChatGPT」「Codex」の新機能「Computer History」を発表。アプリやWebサイトの操作履歴を記録し、記憶とタイムラインとしてチャットで利用できる。Mac版デスクトップアプリで提供する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
       "title": "Googleが「Gemini 3.7 Flash」をリリース、Claude Sonnet 5やGPT-5.6 Terraに並ぶ性能で年末まではGemini 3.6 Flashの半額で利用可能",
       "link": "https://gigazine.net/news/20260814-google-gemini-3-7-flash/",
       "date": "2026-08-14T11:57:00+09:00",
@@ -105,6 +94,17 @@
       "src": "Publickey",
       "cat": "LLM/モデル",
       "score": 48
+    },
+    {
+      "title": "ChatGPTがPC操作を自動で記録、コンテキストとして利用可能に Mac版デスクトップアプリで提供",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000548/",
+      "date": "2026-08-14T20:33:51+09:00",
+      "dateLabel": "08/14 20:33",
+      "desc": "OpenAIが「ChatGPT」「Codex」の新機能「Computer History」を発表。アプリやWebサイトの操作履歴を記録し、記憶とタイムラインとしてチャットで利用できる。Mac版デスクトップアプリで提供する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "Google、「Gemini 3.7 Flash」公開 年内は半額の導入価格",
@@ -184,17 +184,6 @@
       "score": 34
     },
     {
-      "title": "OpenAIにはサム・アルトマンCEOや経営陣に直接苦情を送ることができる専用のメールアドレスがある",
-      "link": "https://gigazine.net/news/20260814-openai-special-address/",
-      "date": "2026-08-14T20:30:00+09:00",
-      "dateLabel": "08/14 20:30",
-      "desc": "ChatGPTで知られるOpenAIの社内には、サム・アルトマンCEOや社長のグレッグ・ブロックマン氏など経営陣に直接業務における問題を報告して迅速な解決を求める「friction」というメールアドレスがあると元従業員が明かしました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "DeepSeekがAIエージェントのハーネス「DeepSeek Harness」v0.1を公開",
       "link": "https://gigazine.net/news/20260814-deepseek-harness-v0-1/",
       "date": "2026-08-14T16:31:00+09:00",
@@ -269,6 +258,17 @@
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "OpenAIにはサム・アルトマンCEOや経営陣に直接苦情を送ることができる専用のメールアドレスがある",
+      "link": "https://gigazine.net/news/20260814-openai-special-address/",
+      "date": "2026-08-14T20:30:00+09:00",
+      "dateLabel": "08/14 20:30",
+      "desc": "ChatGPTで知られるOpenAIの社内には、サム・アルトマンCEOや社長のグレッグ・ブロックマン氏など経営陣に直接業務における問題を報告して迅速な解決を求める「friction」というメールアドレスがあると元従業員が明かしました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 26
     },
     {
