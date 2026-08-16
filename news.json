@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-16T23:13:04.532871+09:00",
-  "generatedLabel": "2026/08/16 23:13",
+  "generatedAt": "2026-08-17T00:11:28.279859+09:00",
+  "generatedLabel": "2026/08/17 00:11",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 58,
@@ -83,6 +83,17 @@
       "src": "Publickey",
       "cat": "LLM/モデル",
       "score": 48
+    },
+    {
+      "title": "タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表",
+      "link": "https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html",
+      "date": "2026-08-17T00:10:13+09:00",
+      "dateLabel": "08/17 00:10",
+      "desc": "CloudflareはAIエージェントによる操作専用のヘッドレスなWebブラウザ「Kitesurf」を発表しました。 現在ベータ版として公開されています。 Kitesurfは主にRust言語で記述されWebAssemblyにコンパイルされた...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 42
     },
     {
       "title": "AI生成テキストの「透かし」が埋め込まれる仕組み",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "中小企業の弱い機能をAIで診断する企業機能マップを無償公開 企業機能を50分類に整理した外注依存を防ぐ経営の早見表",
-      "link": "https://ascii.jp/elem/000/004/426/4426871/?rss",
-      "date": "2026-08-15T20:10:00+09:00",
-      "dateLabel": "08/15 20:10",
-      "desc": "中小企業の弱い機能をAIで診断する企業機能マップを無償公開 企業機能を50分類に整理した外注依存を防ぐ経営の早見表",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 26
     }
   ]
