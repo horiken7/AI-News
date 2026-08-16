@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-17T07:10:36.507388+09:00",
-  "generatedLabel": "2026/08/17 07:10",
+  "generatedAt": "2026-08-17T08:10:29.359961+09:00",
+  "generatedLabel": "2026/08/17 08:10",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 57,
@@ -195,17 +195,6 @@
       "score": 34
     },
     {
-      "title": "「Claude」の“見えない透かし”、Anthropicが仕組みを説明 「完全な書き直しなら消える」",
-      "link": "https://www.itmedia.co.jp/news/article/2608/16/2000000555/",
-      "date": "2026-08-16T07:58:11+09:00",
-      "dateLabel": "08/16 07:58",
-      "desc": "Anthropicは、「Claude」が生成するテキストに埋め込む電子透かしの仕組みを公表した。乱数生成に秘密鍵を用いて統計的パターンを残す手法で、品質や速度、料金に影響を与えない。「EU AI Act」への準拠を目的とするが全世界で適用され、コードや短文などでは入りにくいといった限界も明示している。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "DeepSeekがAIエージェントのハーネス「DeepSeek Harness」v0.1を公開",
       "link": "https://gigazine.net/news/20260814-deepseek-harness-v0-1/",
       "date": "2026-08-14T16:31:00+09:00",
@@ -226,6 +215,28 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 34
+    },
+    {
+      "title": "自治体のコスト削減事例 舞鶴市「脱Windows」で6億円、千代田区Copilotで月2000時間",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2608/17/news028.html",
+      "date": "2026-08-17T07:00:00+09:00",
+      "dateLabel": "08/17 07:00",
+      "desc": "他組織がツールを導入した際の効果を知ることは、自社での導入を検討する際の大きな参考となる。中でも自治体における導入例は、組織の公共性もあり、詳細な効果を知ることが可能だ。本ブックレットでは、千代田区のCopilot全庁導入による月2000時間削減や、舞鶴市の脱WindowsからGoogleツール移行による6億円削減の事例を掲載した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "【読まれた記事1位】「AI需要で半導体不足」の裏で本当に起きていること――2026年前半まとめ",
+      "link": "https://www.itmedia.co.jp/business/articles/2608/17/news045.html",
+      "date": "2026-08-17T07:00:00+09:00",
+      "dateLabel": "08/17 07:00",
+      "desc": "AIブームを追い風に、半導体市場の成長が止まらない。今、半導体市場で何が起きているのか。注目記事をまとめた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 26
     },
     {
       "title": "Claude、Codex、Qwen……そのAI用語、どう読む？ 読み方クイズ30問",
@@ -268,17 +279,6 @@
       "desc": "大阪・日本橋のPCパーツショップ「パソコン工房 大阪日本橋店」を取材しました。店舗スタッフの渡邉さんがオススメする製品は、ASUSのマザーボード「PRO WS Z890-ACE SE」です。ワークステーション向けマザーボードになります。",
       "img": "https://ascii.jp/img/2026/08/15/4512980/s/dc97313c8d9642bc.jpg",
       "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "SpaceXがCursorの買収を正式に完了",
-      "link": "https://gigazine.net/news/20260816-spacex-officially-closes-cursor-acquisition/",
-      "date": "2026-08-16T16:00:00+09:00",
-      "dateLabel": "08/16 16:00",
-      "desc": "イーロン・マスク氏率いるSpaceXが、AIコーディングツール・Cursorの開発元であるAnysphereの買収を完了させました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
       "cat": "AI全般",
       "score": 26
     }
