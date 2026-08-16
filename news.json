@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-17T00:11:28.279859+09:00",
-  "generatedLabel": "2026/08/17 00:11",
+  "generatedAt": "2026-08-17T01:12:24.904898+09:00",
+  "generatedLabel": "2026/08/17 01:12",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 58,
@@ -206,17 +206,6 @@
       "score": 34
     },
     {
-      "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
-      "link": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
-      "date": "2026-08-10T00:19:33+09:00",
-      "dateLabel": "08/10 00:19",
-      "desc": "AWS、マイクロソフト、OpenAI、Anysphere、Vercelの各社は、AIエージェントのスキルやMCPサーバの設定を、AIエージェントが異なっていても共有できる業界標準の仕様「Agent Plugins 1.0.0」を発表しました...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 28
-    },
-    {
       "title": "ARグラス、知らない間にめちゃくちゃ“実用的”になっていました…。",
       "link": "https://ascii.jp/elem/000/004/426/4426269/?rss",
       "date": "2026-08-16T18:00:00+09:00",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "中小企業の弱い機能をAIで診断する企業機能マップを無償公開 企業機能を50分類に整理した外注依存を防ぐ経営の早見表",
+      "link": "https://ascii.jp/elem/000/004/426/4426871/?rss",
+      "date": "2026-08-15T20:10:00+09:00",
+      "dateLabel": "08/15 20:10",
+      "desc": "中小企業の弱い機能をAIで診断する企業機能マップを無償公開 企業機能を50分類に整理した外注依存を防ぐ経営の早見表",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 26
     }
   ]
