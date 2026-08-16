@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-16T09:40:27.300297+09:00",
-  "generatedLabel": "2026/08/16 09:40",
+  "generatedAt": "2026-08-16T11:15:50.929111+09:00",
+  "generatedLabel": "2026/08/16 11:15",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 9
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -129,6 +129,17 @@
       "score": 34
     },
     {
+      "title": "中小企業の弱い機能をAIで診断する企業機能マップを無償公開 企業機能を50分類に整理した外注依存を防ぐ経営の早見表",
+      "link": "https://ascii.jp/elem/000/004/426/4426871/?rss",
+      "date": "2026-08-15T20:10:00+09:00",
+      "dateLabel": "08/15 20:10",
+      "desc": "中小企業の弱い機能をAIで診断する企業機能マップを無償公開 企業機能を50分類に整理した外注依存を防ぐ経営の早見表",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "Core Ultra 5搭載の14.0型Copilot+ PC「FMV WU1-L1」が18万円台！ FMV直販で「夏の福袋セール」",
       "link": "https://ascii.jp/elem/000/004/426/4426615/?rss",
       "date": "2026-08-15T14:00:00+09:00",
@@ -173,28 +184,6 @@
       "score": 34
     },
     {
-      "title": "【アマゾン30％OFFタイムセール】13.4インチ「U13 Pro セット版 タブレット」が35,900円！2.4K・120Hz・Gemini AI搭載の豪華セット版",
-      "link": "https://ascii.jp/elem/000/004/426/4426850/?rss",
-      "date": "2026-08-15T10:00:00+09:00",
-      "dateLabel": "08/15 10:00",
-      "desc": "【アマゾン30％OFFタイムセール】13.4インチ「U13 Pro セット版 タブレット」が35,900円！2.4K・120Hz・Gemini AI搭載の豪華セット版",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "データセンターの見えるまちで",
-      "link": "https://ascii.jp/elem/000/004/408/4408640/?rss",
-      "date": "2026-08-15T10:00:00+09:00",
-      "dateLabel": "08/15 10:00",
-      "desc": "私が住んでいるのは、データセンターのあるまちだ。ベランダから外を眺めると、戸建てやマンションの合間から巨大なデータセンターが見え隠れする。",
-      "img": "https://ascii.jp/img/2026/06/06/4479271/s/bffd21b1c792cbd7.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
       "title": "DeepSeekがAIエージェントのハーネス「DeepSeek Harness」v0.1を公開",
       "link": "https://gigazine.net/news/20260814-deepseek-harness-v0-1/",
       "date": "2026-08-14T16:31:00+09:00",
@@ -228,6 +217,17 @@
       "score": 28
     },
     {
+      "title": "AIを組み込んだWindowsターミナル「Intelligent Terminal」をインストールして試してみる",
+      "link": "https://ascii.jp/elem/000/004/426/4426862/?rss",
+      "date": "2026-08-16T10:00:00+09:00",
+      "dateLabel": "08/16 10:00",
+      "desc": "「Intelligent Terminal」は、AIを組み込んだWindowsターミナルのブランチバージョンである。ターミナルとしての機能は、基本的にWindowsターミナルと同じ。これに加え、コマンドラインなどのターミナル内のコマンド実行などに対して、AIを使ったサポートがある。",
+      "img": "https://ascii.jp/img/2026/08/15/4513008/s/ba0c855f1cd54342.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "テクノロジー企業がデータセンターのエネルギーコストを負担しなければならないとする法案が進行中",
       "link": "https://gigazine.net/news/20260816-tech-company-pay-data-center-cost/",
       "date": "2026-08-16T08:00:00+09:00",
@@ -236,6 +236,28 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "SATELLITE Tech Solutions、スクール専用AI OS「KNOWLEDGE FORCE」にバックオフィス機能を追加",
+      "link": "https://ascii.jp/elem/000/004/426/4426878/?rss",
+      "date": "2026-08-15T22:14:56+09:00",
+      "dateLabel": "08/15 22:14",
+      "desc": "SATELLITE Tech Solutions、スクール専用AI OS「KNOWLEDGE FORCE」にバックオフィス機能を追加",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "【開催報告】WEB300運営「WEB300×財界ベストAI」、『財界BEST AI AWARD 2026』を開催～最優秀賞はLegalOn Technologies 上場企業経営層らが渋谷に集結～",
+      "link": "https://ascii.jp/elem/000/004/426/4426879/?rss",
+      "date": "2026-08-15T22:02:42+09:00",
+      "dateLabel": "08/15 22:02",
+      "desc": "【開催報告】WEB300運営「WEB300×財界ベストAI」、『財界BEST AI AWARD 2026』を開催～最優秀賞はLegalOn Technologies 上場企業経営層らが渋谷に集結～",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 26
     },
     {
@@ -250,36 +272,14 @@
       "score": 26
     },
     {
-      "title": "音が頼りのRay-Ban Metaを救うサウンドガイドチューブを衝動買い",
-      "link": "https://ascii.jp/elem/000/004/426/4426837/?rss",
-      "date": "2026-08-15T12:00:00+09:00",
-      "dateLabel": "08/15 12:00",
-      "desc": "5台のスマートグラスを衝動買いしてきた筆者。レンズ内ディスプレーを持たないRay-Ban MetaではAIからの返答は音だのみだが、雑踏の中では聞き取りにくいことがある。今回はその問題を解決する、スマートグラス用の伝声管的なものを衝動買いした。",
-      "img": "https://ascii.jp/img/2026/08/15/4512939/s/224d421e45ae1161.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "ゲーミングパソコン「G TUNE FZ-I9G90/EX」がオススメ！！1台限りの整備済みパソコンながら、化け物スペックのウルトラハイエンド機が格安販売中！：マウスコンピューター G-Tune : Garage 大阪店",
-      "link": "https://ascii.jp/elem/000/004/426/4426714/?rss",
-      "date": "2026-08-15T12:00:00+09:00",
-      "dateLabel": "08/15 12:00",
-      "desc": "大阪・日本橋のPCショップ「マウスコンピューター G-Tune : Garage 大阪店」を取材しました。店長の尼田龍さんがオススメするのは、ゲーミングパソコン「G TUNE FZ-I9G90/EX」です。スペック的にはAIワークステーションやクリエイティブワークステーションと呼べる領域のパソコンになります。",
-      "img": "https://ascii.jp/img/2026/08/14/4512820/s/ba3357c01afecdc7.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "【9月8日(火)19:30～開催】AI活用は「導入」から「成果」へ──秋の商戦を見据えた「AI×マーケティング実践知見シェア会」を渋谷で開催！",
-      "link": "https://ascii.jp/elem/000/004/426/4426852/?rss",
-      "date": "2026-08-15T10:10:00+09:00",
-      "dateLabel": "08/15 10:10",
-      "desc": "【9月8日(火)19:30～開催】AI活用は「導入」から「成果」へ──秋の商戦を見据えた「AI×マーケティング実践知見シェア会」を渋谷で開催！",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "OpenAIにはサム・アルトマンCEOや経営陣に直接苦情を送ることができる専用のメールアドレスがある",
+      "link": "https://gigazine.net/news/20260814-openai-special-address/",
+      "date": "2026-08-14T20:30:00+09:00",
+      "dateLabel": "08/14 20:30",
+      "desc": "ChatGPTで知られるOpenAIの社内には、サム・アルトマンCEOや社長のグレッグ・ブロックマン氏など経営陣に直接業務における問題を報告して迅速な解決を求める「friction」というメールアドレスがあると元従業員が明かしました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 26
     }
   ]
