@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-16T08:11:01.090252+09:00",
-  "generatedLabel": "2026/08/16 08:11",
+  "generatedAt": "2026-08-16T09:40:27.300297+09:00",
+  "generatedLabel": "2026/08/16 09:40",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 56,
@@ -116,6 +116,17 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 42
+    },
+    {
+      "title": "「Claude」の“見えない透かし”、Anthropicが仕組みを説明 「完全な書き直しなら消える」",
+      "link": "https://www.itmedia.co.jp/news/article/2608/16/2000000555/",
+      "date": "2026-08-16T07:58:11+09:00",
+      "dateLabel": "08/16 07:58",
+      "desc": "Anthropicは、「Claude」が生成するテキストに埋め込む電子透かしの仕組みを公表した。乱数生成に秘密鍵を用いて統計的パターンを残す手法で、品質や速度、料金に影響を与えない。「EU AI Act」への準拠を目的とするが全世界で適用され、コードや短文などでは入りにくいといった限界も明示している。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "Core Ultra 5搭載の14.0型Copilot+ PC「FMV WU1-L1」が18万円台！ FMV直販で「夏の福袋セール」",
@@ -269,17 +280,6 @@
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "OpenAIにはサム・アルトマンCEOや経営陣に直接苦情を送ることができる専用のメールアドレスがある",
-      "link": "https://gigazine.net/news/20260814-openai-special-address/",
-      "date": "2026-08-14T20:30:00+09:00",
-      "dateLabel": "08/14 20:30",
-      "desc": "ChatGPTで知られるOpenAIの社内には、サム・アルトマンCEOや社長のグレッグ・ブロックマン氏など経営陣に直接業務における問題を報告して迅速な解決を求める「friction」というメールアドレスがあると元従業員が明かしました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 26
     }
   ]
