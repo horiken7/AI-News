@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-16T16:22:48.417839+09:00",
-  "generatedLabel": "2026/08/16 16:22",
+  "generatedAt": "2026-08-16T17:16:52.129332+09:00",
+  "generatedLabel": "2026/08/16 17:16",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -105,6 +105,17 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 42
+    },
+    {
+      "title": "マジで小さかった！新CPU「Wildcat Lake」搭載のミニPC「JWAWAKEN RE2-304」の気になる処理性能を検証",
+      "link": "https://ascii.jp/elem/000/004/426/4426665/?rss",
+      "date": "2026-08-16T17:00:00+09:00",
+      "dateLabel": "08/16 17:00",
+      "desc": "今年登場の最新CPU「Intel Core 3 304」を搭載する注目のミニPC「JWAWAKEN RE2-304」。NPUを搭載する新エントリークラスCPUの気になる実力をチェックしました！",
+      "img": "https://ascii.jp/img/2026/08/13/4512628/s/4111f56dd0f7efcd.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
     },
     {
       "title": "「AI時代の はじめての判断デザイン」本編17ページを無料公開",
@@ -268,17 +279,6 @@
       "desc": "ChatGPTで知られるOpenAIの社内には、サム・アルトマンCEOや社長のグレッグ・ブロックマン氏など経営陣に直接業務における問題を報告して迅速な解決を求める「friction」というメールアドレスがあると元従業員が明かしました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "GPT-5.6 Solの「超高速モード」ついに実装 「品質損なわず14倍高速」うたう",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000545/",
-      "date": "2026-08-14T16:32:48+09:00",
-      "dateLabel": "08/14 16:32",
-      "desc": "CerebrasとOpenAIは「GPT-5.6 Sol」の高速版「Ultrafastモード」を発表。毎秒最大750トークンを出力し、「品質を損なわず最大14倍高速」とうたう。OpenAIのAPIで限定プレビューを開始した。",
-      "img": "",
-      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 26
     }
