@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-16T19:13:22.900715+09:00",
-  "generatedLabel": "2026/08/16 19:13",
+  "generatedAt": "2026-08-16T20:11:25.315480+09:00",
+  "generatedLabel": "2026/08/16 20:11",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 11
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -85,6 +85,17 @@
       "score": 48
     },
     {
+      "title": "AI生成テキストの「透かし」が埋め込まれる仕組み",
+      "link": "https://gigazine.net/news/20260816-ai-text-watermarking/",
+      "date": "2026-08-16T19:20:00+09:00",
+      "dateLabel": "08/16 19:20",
+      "desc": "AIが生成したコンテンツに目印を埋め込んで区別できるようにする「ウォーターマーク」が注目されており、OpenAIが試験的に導入したりAnthropicが導入を発表したりしています。画像と違ってデータを隠すためのピクセルがないテキストにはどのようにウォーターマークを入れるのかという仕組みについて、人間とAIの関係性について調査・研究するNOPEが解説しています",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "ChatGPTがPC操作を自動で記録、コンテキストとして利用可能に Mac版デスクトップアプリで提供",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000548/",
       "date": "2026-08-14T20:33:51+09:00",
@@ -137,17 +148,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "中小企業の弱い機能をAIで診断する企業機能マップを無償公開 企業機能を50分類に整理した外注依存を防ぐ経営の早見表",
-      "link": "https://ascii.jp/elem/000/004/426/4426871/?rss",
-      "date": "2026-08-15T20:10:00+09:00",
-      "dateLabel": "08/15 20:10",
-      "desc": "中小企業の弱い機能をAIで診断する企業機能マップを無償公開 企業機能を50分類に整理した外注依存を防ぐ経営の早見表",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -272,14 +272,14 @@
       "score": 26
     },
     {
-      "title": "Telegramの5つあるデータセンターの謎",
-      "link": "https://gigazine.net/news/20260815-mistery-of-telegram-dc/",
-      "date": "2026-08-15T12:00:00+09:00",
-      "dateLabel": "08/15 12:00",
-      "desc": "メッセージングアプリ「Telegram」は5つの データセンター(DC)を保有していることがドキュメントやAPIを通じて知られています。これに対して、5つのDCが並立しているというのはあくまでもTelegramによる主張に過ぎないのでは、と疑問を抱いた中国の開発者Coxxs氏が実際に調査した結果を自身のブログにて公開していました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
+      "title": "中小企業の弱い機能をAIで診断する企業機能マップを無償公開 企業機能を50分類に整理した外注依存を防ぐ経営の早見表",
+      "link": "https://ascii.jp/elem/000/004/426/4426871/?rss",
+      "date": "2026-08-15T20:10:00+09:00",
+      "dateLabel": "08/15 20:10",
+      "desc": "中小企業の弱い機能をAIで診断する企業機能マップを無償公開 企業機能を50分類に整理した外注依存を防ぐ経営の早見表",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 26
     }
   ]
