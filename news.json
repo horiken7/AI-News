@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-17T06:10:51.549903+09:00",
-  "generatedLabel": "2026/08/17 06:10",
+  "generatedAt": "2026-08-17T07:10:36.507388+09:00",
+  "generatedLabel": "2026/08/17 07:10",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 58,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -126,7 +126,29 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 42
+      "score": 36
+    },
+    {
+      "title": "もはやローカル動画生成AIの枠におさまらない。MiniMax H3の奥が深すぎる",
+      "link": "https://ascii.jp/elem/000/004/426/4426894/?rss",
+      "date": "2026-08-17T07:00:00+09:00",
+      "dateLabel": "08/17 07:00",
+      "desc": "人気の動画生成モデル「MiniMax H3」の高速化やプロンプト最適化、長時間動画を可能にするContext Loopなど、ローカル動画生成AIならではの新手法と可能性を実例を交えて検証します。",
+      "img": "https://ascii.jp/img/2026/08/17/4513147/s/809777a04f8fc7f3.png",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "性格と実際の行動をAIで可視化する採用テスト",
+      "link": "https://ascii.jp/elem/000/004/425/4425577/?rss",
+      "date": "2026-08-17T07:00:00+09:00",
+      "dateLabel": "08/17 07:00",
+      "desc": "株式会社Scale Technologyは、中小企業専用のAI採用アセスメント「PitA（ピタ）」を6月末に正式リリースした。本サービスは、約15〜20分のシナリオ型テストで、先天的な性格特性と、後天的な行動特性、独自指標を分析して可視化する。人間の性格を外向性、神経症傾向、誠実性、調和性、開放性の5つの因子で分類する心理学モデル（BigFive理論）が基に",
+      "img": "https://ascii.jp/img/2026/08/06/4510436/s/a3ddbbdb8b1f8c25.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "Zed開発チームが「Delta」発表。人間とAIの全対話とコード変更履歴をコンテキストとして保存共有するコラボレーションツール",
@@ -258,28 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "AIを組み込んだWindowsターミナル「Intelligent Terminal」をインストールして試してみる",
-      "link": "https://ascii.jp/elem/000/004/426/4426862/?rss",
-      "date": "2026-08-16T10:00:00+09:00",
-      "dateLabel": "08/16 10:00",
-      "desc": "「Intelligent Terminal」は、AIを組み込んだWindowsターミナルのブランチバージョンである。ターミナルとしての機能は、基本的にWindowsターミナルと同じ。これに加え、コマンドラインなどのターミナル内のコマンド実行などに対して、AIを使ったサポートがある。",
-      "img": "https://ascii.jp/img/2026/08/15/4513008/s/ba0c855f1cd54342.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "テクノロジー企業がデータセンターのエネルギーコストを負担しなければならないとする法案が進行中",
-      "link": "https://gigazine.net/news/20260816-tech-company-pay-data-center-cost/",
-      "date": "2026-08-16T08:00:00+09:00",
-      "dateLabel": "08/16 08:00",
-      "desc": "アメリカではデータセンターの建設が相次いでおり、データセンターが過剰に電力を消費することで一般市民の電気代も上がるのではないか、という懸念が出ています。新たに、アメリカの下院エネルギー・商業委員会が、データセンターのエネルギーコストをテクノロジー企業に転嫁させる法案を全会一致で可決させたことが分かりました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
       "score": 26
     }
   ]
