@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-17T23:17:25.020451+09:00",
-  "generatedLabel": "2026/08/17 23:17",
+  "generatedAt": "2026-08-18T00:16:06.050856+09:00",
+  "generatedLabel": "2026/08/18 00:16",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 55,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 1
+      "items": 2
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -118,17 +118,6 @@
       "score": 48
     },
     {
-      "title": "タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表",
-      "link": "https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html",
-      "date": "2026-08-17T00:10:13+09:00",
-      "dateLabel": "08/17 00:10",
-      "desc": "CloudflareはAIエージェントによる操作専用のヘッドレスなWebブラウザ「Kitesurf」を発表しました。 現在ベータ版として公開されています。 Kitesurfは主にRust言語で記述されWebAssemblyにコンパイルされた...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "ChatGPTがPC操作を自動で記録、コンテキストとして利用可能に Mac版デスクトップアプリで提供",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000548/",
       "date": "2026-08-14T20:33:51+09:00",
@@ -184,25 +173,14 @@
       "score": 34
     },
     {
-      "title": "Zed開発チームが「Delta」発表。人間とAIの全対話とコード変更履歴をコンテキストとして保存共有するコラボレーションツール",
-      "link": "https://www.publickey1.jp/blog/26/zeddeltaai.html",
-      "date": "2026-08-17T00:05:36+09:00",
-      "dateLabel": "08/17 00:05",
-      "desc": "オープンソースとして開発されている高速なコードエディタ「Zed」の開発チームは、人間の開発チームとAIエージェントの議論や対話内容とコードの変更履歴をすべて共有し、コンテキストとして保存できる「Delta」を発表しました。 Today we...",
+      "title": "タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表",
+      "link": "https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html",
+      "date": "2026-08-17T00:10:13+09:00",
+      "dateLabel": "08/17 00:10",
+      "desc": "CloudflareはAIエージェントによる操作専用のヘッドレスなWebブラウザ「Kitesurf」を発表しました。 現在ベータ版として公開されています。 Kitesurfは主にRust言語で記述されWebAssemblyにコンパイルされた...",
       "img": "",
       "src": "Publickey",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "無料で使える「Delphi 13 Community Edtion」提供開始。Windows x86/Arm、Mac、iOS、Androidのネイティブアプリなど開発可能",
-      "link": "https://www.publickey1.jp/blog/26/delphi_13_community_edtionwindows_x86armmaciosandroid.html",
-      "date": "2026-08-17T00:01:16+09:00",
-      "dateLabel": "08/17 00:01",
-      "desc": "米エンバカデロ・テクノロジーズは、無料で使える統合開発環境「Delphi 13 Community Edtion」の提供開始を発表しました。 Delphi 13 Community Edition is now available!The ...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -235,6 +213,17 @@
       "desc": "Modular社は、AIを高速に実行することを目指したPythonライクなプログラミング言語「Mojo」がバージョン1.0に到達したことを発表しました。 Mojo 1.0 is here.Since we open-sourced the ...",
       "img": "",
       "src": "Publickey",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "週刊アスキー No.1609(2026年8月18日発行)",
+      "link": "https://ascii.jp/elem/000/004/426/4426917/?rss",
+      "date": "2026-08-18T00:00:00+09:00",
+      "dateLabel": "08/18 00:00",
+      "desc": "特集1はAIを使ったワンランク上の使いこなしとプログラミング環境の紹介。かつては覚えることが多かったプログラミングもAIに聞けば初心者でも簡単に取り組める。特集2はスマホを便利にする代表的なAIツールを紹介。",
+      "img": "https://ascii.jp/img/2026/08/17/4513309/s/360fbf168df95b0e.png",
+      "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
@@ -277,6 +266,17 @@
       "date": "2026-08-17T13:29:00+09:00",
       "dateLabel": "08/17 13:29",
       "desc": "OpenAIがAIがもたらす深刻なリスクを評価・軽減することを目的とした危機管理チーム「Preparedness」を解散したと報じられています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "GoogleがGeminiとFlowにAIが生成した画像・動画・音楽から目に見える「透かし」を削除する切り替え機能を追加、ただしSynthID透かしとC2PAメタデータは残る",
+      "link": "https://gigazine.net/news/20260817-google-visible-watermarks/",
+      "date": "2026-08-17T13:13:00+09:00",
+      "dateLabel": "08/17 13:13",
+      "desc": "GoogleのAIで生成した画像・動画に表示される透かし(ウォーターマーク)を削除できる機能がGeminiとFlowに追加されます。削除されるのは目に見える透かしのみで、目に見えない「SynthID」と「C2PAメタデータ」には影響しないため、Geminiに問い合わせたり専用のサービスを用いたりすることで引き続きAI生成画像かどうか識別することができます。 ",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
