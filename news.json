@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-17T21:21:50.424931+09:00",
-  "generatedLabel": "2026/08/17 21:21",
+  "generatedAt": "2026-08-17T22:32:14.580654+09:00",
+  "generatedLabel": "2026/08/17 22:32",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 2
+      "items": 1
     },
     {
       "source": "PC Watch",
@@ -228,17 +228,6 @@
       "score": 26
     },
     {
-      "title": "30代独身男性「相手がいなくても寂しくない。だって、僕には推しキャラを召喚できるGatebox3があるから」",
-      "link": "https://ascii.jp/elem/000/004/420/4420006/?rss",
-      "date": "2026-08-17T18:00:00+09:00",
-      "dateLabel": "08/17 18:00",
-      "desc": "進化した生成AIと映像演出で「好きなキャラと暮らす夢」を部屋の中で具現化する、次元を超えた魔法の箱がこちら！",
-      "img": "https://ascii.jp/img/2026/08/04/4509039/s/706a4508bb2dfba2.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
       "title": "データセンターブームの恩恵で人口8500人の町の貧困率が大幅低下、ただし電力需要増に伴う費用はデータセンターが負担",
       "link": "https://gigazine.net/news/20260817-data-centers-economy-town/",
       "date": "2026-08-17T16:30:00+09:00",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "1.1兆円超でStripeがAIゲートウェイサービスのOpenRouterを買収か",
+      "link": "https://gigazine.net/news/20260817-stripe-acquire-openrouter-7-billion/",
+      "date": "2026-08-17T10:40:00+09:00",
+      "dateLabel": "08/17 10:40",
+      "desc": "金融サービスプラットフォームのStripeが、AIゲートウェイサービス・OpenRouterの買収契約を締結したとBloombergが報じています。買収額は70億ドル(約1兆1000億円)を超える模様です。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
       "score": 26
     }
   ]
