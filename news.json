@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-17T19:21:20.918466+09:00",
-  "generatedLabel": "2026/08/17 19:21",
+  "generatedAt": "2026-08-17T20:16:07.574772+09:00",
+  "generatedLabel": "2026/08/17 20:16",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 60,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -129,17 +129,6 @@
       "score": 34
     },
     {
-      "title": "スパイクスタジオ、電話対応サポートAI「でんサポ」を提供開始 電話対応中の“わからない”をAIがその場でサポート",
-      "link": "https://ascii.jp/elem/000/004/427/4427137/?rss",
-      "date": "2026-08-17T16:51:29+09:00",
-      "dateLabel": "08/17 16:51",
-      "desc": "スパイクスタジオ、電話対応サポートAI「でんサポ」を提供開始 電話対応中の“わからない”をAIがその場でサポート",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "Anthropicのダリオ・アモデイCEOが「AIの規制」について物申す、規制が中央集権化につながるという指摘に反論",
       "link": "https://gigazine.net/news/20260817-dario-amodei-comment/",
       "date": "2026-08-17T13:26:00+09:00",
@@ -217,6 +206,17 @@
       "score": 28
     },
     {
+      "title": "アップル、Siriのニュース対応で報道各社に150億円超支払いか",
+      "link": "https://ascii.jp/elem/000/004/426/4426982/?rss",
+      "date": "2026-08-17T20:00:00+09:00",
+      "dateLabel": "08/17 20:00",
+      "desc": "アップルはAIを搭載した新しい音声アシスタント「Siri」に最新のニュースや情報を取り込むため、報道各社と契約交渉を進めているという。",
+      "img": "https://ascii.jp/img/2026/08/17/4513280/s/0740be9c6cd2cd38.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "30代独身男性「相手がいなくても寂しくない。だって、僕には推しキャラを召喚できるGatebox3があるから」",
       "link": "https://ascii.jp/elem/000/004/420/4420006/?rss",
       "date": "2026-08-17T18:00:00+09:00",
@@ -239,39 +239,6 @@
       "score": 26
     },
     {
-      "title": "QommonsAI活用研修を大崎地域広域行政事務組合（宮城県）で実施 - 「スペシャリストのノウハウを次代へ継承したい」",
-      "link": "https://ascii.jp/elem/000/004/427/4427145/?rss",
-      "date": "2026-08-17T17:30:00+09:00",
-      "dateLabel": "08/17 17:30",
-      "desc": "QommonsAI活用研修を大崎地域広域行政事務組合（宮城県）で実施 - 「スペシャリストのノウハウを次代へ継承したい」",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "Blackview、AIスマートグラス「BV300」を発売！AI音声アシスタント・最大80言語のリアルタイム翻訳に対応",
-      "link": "https://ascii.jp/elem/000/004/427/4427148/?rss",
-      "date": "2026-08-17T17:14:41+09:00",
-      "dateLabel": "08/17 17:14",
-      "desc": "Blackview、AIスマートグラス「BV300」を発売！AI音声アシスタント・最大80言語のリアルタイム翻訳に対応",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "Apple「MacBook Neo」がセールに！ 軽くてAIも使える“普段使いMac”がお買い得",
-      "link": "https://ascii.jp/elem/000/004/427/4427031/?rss",
-      "date": "2026-08-17T17:00:00+09:00",
-      "dateLabel": "08/17 17:00",
-      "desc": "Amazon.co.jpで「MacBook Neo」がセール中です。256GBのSSDストレージ、A18 Proチップを搭載した13インチのノートブックとなります。",
-      "img": "https://ascii.jp/img/2026/08/17/4513333/s/2cfe01302cafcd43.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
       "title": "データセンターブームの恩恵で人口8500人の町の貧困率が大幅低下、ただし電力需要増に伴う費用はデータセンターが負担",
       "link": "https://gigazine.net/news/20260817-data-centers-economy-town/",
       "date": "2026-08-17T16:30:00+09:00",
@@ -280,6 +247,39 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "日本のアニメを韓国語で解説するYouTubeチャンネルが「フェアユース」の主張を退けられる",
+      "link": "https://gigazine.net/news/20260817-fair-use-anime/",
+      "date": "2026-08-17T16:15:00+09:00",
+      "dateLabel": "08/17 16:15",
+      "desc": "KADOKAWAは2026年1月に、3つのYouTubeチャンネルが著作権侵害にあたるとして、個人情報の開示をYouTubeに求めるDMCA召喚状をアメリカの連邦裁判所に請求しました。対象となったYouTubeチャンネルは「自分たちの動画は韓国語圏の視聴者を対象にした解説・レビュー・分析であり、フェアユースにあたる」と取り消しを求めていましたが、主張は退けら",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 26
+    },
+    {
+      "title": "OpenAIがAIのもたらす深刻なリスクを評価・軽減することを目的とした危機管理チームが解散",
+      "link": "https://gigazine.net/news/20260817-openai-reportedly-disbanded-preparedness-team/",
+      "date": "2026-08-17T13:29:00+09:00",
+      "dateLabel": "08/17 13:29",
+      "desc": "OpenAIがAIがもたらす深刻なリスクを評価・軽減することを目的とした危機管理チーム「Preparedness」を解散したと報じられています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "GoogleがGeminiとFlowにAIが生成した画像・動画・音楽から目に見える「透かし」を削除する切り替え機能を追加、ただしSynthID透かしとC2PAメタデータは残る",
+      "link": "https://gigazine.net/news/20260817-google-visible-watermarks/",
+      "date": "2026-08-17T13:13:00+09:00",
+      "dateLabel": "08/17 13:13",
+      "desc": "GoogleのAIで生成した画像・動画に表示される透かし(ウォーターマーク)を削除できる機能がGeminiとFlowに追加されます。削除されるのは目に見える透かしのみで、目に見えない「SynthID」と「C2PAメタデータ」には影響しないため、Geminiに問い合わせたり専用のサービスを用いたりすることで引き続きAI生成画像かどうか識別することができます。 ",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 26
     }
   ]
