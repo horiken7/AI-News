@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-17T22:32:14.580654+09:00",
-  "generatedLabel": "2026/08/17 22:32",
+  "generatedAt": "2026-08-17T23:17:25.020451+09:00",
+  "generatedLabel": "2026/08/17 23:17",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 55,
@@ -62,6 +62,17 @@
     }
   ],
   "articles": [
+    {
+      "title": "Visual Studio Code 1.133正式リリース。プロンプトを見失わない固定スクロール、ローカルHTMLファイルの自動リロード、ClaudeとCopilotの混在可能など新機能",
+      "link": "https://www.publickey1.jp/blog/26/visual_studio_code_1133htmlclaudecopilot.html",
+      "date": "2026-08-18T00:42:34+09:00",
+      "dateLabel": "08/18 00:42",
+      "desc": "マイクロソフトはオープンソースで開発されているコードエディタの最新版「Visual Studio Code 1.133」（以下、VS Code 1.133）の正式リリースを発表しました。 The latest @code release b...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 58
+    },
     {
       "title": "実はAnthropicには最上位のMythosよりも強力な「Model 2」というAIモデルがあるがリリース予定はない",
       "link": "https://gigazine.net/news/20260817-anthropic-model-2/",
@@ -217,6 +228,17 @@
       "score": 28
     },
     {
+      "title": "Pythonライクで高速な「Mojo言語」がバージョン1.0に到達、今後はコンパイラをオープンソース化すると表明",
+      "link": "https://www.publickey1.jp/blog/26/pythonmojo10.html",
+      "date": "2026-08-18T00:40:38+09:00",
+      "dateLabel": "08/18 00:40",
+      "desc": "Modular社は、AIを高速に実行することを目指したPythonライクなプログラミング言語「Mojo」がバージョン1.0に到達したことを発表しました。 Mojo 1.0 is here.Since we open-sourced the ...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "アップル、Siriのニュース対応で報道各社に150億円超支払いか",
       "link": "https://ascii.jp/elem/000/004/426/4426982/?rss",
       "date": "2026-08-17T20:00:00+09:00",
@@ -258,28 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "GoogleがGeminiとFlowにAIが生成した画像・動画・音楽から目に見える「透かし」を削除する切り替え機能を追加、ただしSynthID透かしとC2PAメタデータは残る",
-      "link": "https://gigazine.net/news/20260817-google-visible-watermarks/",
-      "date": "2026-08-17T13:13:00+09:00",
-      "dateLabel": "08/17 13:13",
-      "desc": "GoogleのAIで生成した画像・動画に表示される透かし(ウォーターマーク)を削除できる機能がGeminiとFlowに追加されます。削除されるのは目に見える透かしのみで、目に見えない「SynthID」と「C2PAメタデータ」には影響しないため、Geminiに問い合わせたり専用のサービスを用いたりすることで引き続きAI生成画像かどうか識別することができます。 ",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "1.1兆円超でStripeがAIゲートウェイサービスのOpenRouterを買収か",
-      "link": "https://gigazine.net/news/20260817-stripe-acquire-openrouter-7-billion/",
-      "date": "2026-08-17T10:40:00+09:00",
-      "dateLabel": "08/17 10:40",
-      "desc": "金融サービスプラットフォームのStripeが、AIゲートウェイサービス・OpenRouterの買収契約を締結したとBloombergが報じています。買収額は70億ドル(約1兆1000億円)を超える模様です。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
       "score": 26
     }
   ]
