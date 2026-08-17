@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-17T08:10:29.359961+09:00",
-  "generatedLabel": "2026/08/17 08:10",
+  "generatedAt": "2026-08-17T09:38:21.440200+09:00",
+  "generatedLabel": "2026/08/17 09:38",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 57,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -129,6 +129,28 @@
       "score": 36
     },
     {
+      "title": "GALLERIA、AMD Radeon RX 9050搭載ゲーミングPCを発売 FHDゲーム向け新GPU採用",
+      "link": "https://ascii.jp/elem/000/004/426/4426895/?rss",
+      "date": "2026-08-17T09:00:00+09:00",
+      "dateLabel": "08/17 09:00",
+      "desc": "GALLERIAがAMD Radeon RX 9050搭載デスクトップPC 2モデルを発売。RDNA 4アーキテクチャ採用でFHDゲーミングや動画制作に対応。Ryzen 5 7500F・Ryzen 7 5700X搭載モデルの特徴や価格、スペックを紹介します。",
+      "img": "https://ascii.jp/img/2026/08/17/4513161/s/21ed2cb5c7e56c1a.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "次世代LLMへの4つの最新アプローチ／オスのマウスからメスの作製に成功",
+      "link": "https://ascii.jp/elem/000/004/426/4426891/?rss",
+      "date": "2026-08-17T09:00:00+09:00",
+      "dateLabel": "08/17 09:00",
+      "desc": "世界最先端のテクノロジー情報をお届けするグローバルメディア「MITテクノロジーレビュー」から、ビジネスに役立つ注目のテック企業の最新動向、イノベーションにつながる最新の研究内容をピックアップして紹介します。",
+      "img": "https://ascii.jp/img/2026/08/16/4513128/s/4c9b2ad770b02721.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "もはやローカル動画生成AIの枠におさまらない。MiniMax H3の奥が深すぎる",
       "link": "https://ascii.jp/elem/000/004/426/4426894/?rss",
       "date": "2026-08-17T07:00:00+09:00",
@@ -217,6 +239,17 @@
       "score": 34
     },
     {
+      "title": "Hugging Face分析、中国のオープンモデルが台頭 Qwenは派生モデル15万件超",
+      "link": "https://www.itmedia.co.jp/news/article/2608/17/2000000557/",
+      "date": "2026-08-17T08:42:45+09:00",
+      "dateLabel": "08/17 08:42",
+      "desc": "Hugging Faceは、オープンモデル動向をまとめたレポートを公開した。中国勢が2兆パラメータ超の大規模モデルを相次いで公開するなど台頭する一方、実際のダウンロードの8割以上は10億パラメータ未満の小型モデルが占めた。Alibabaの「Qwen」は派生モデル数でMetaを上回り、開発者コミュニティの事実上の基盤モデルになりつつある。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
       "title": "自治体のコスト削減事例 舞鶴市「脱Windows」で6億円、千代田区Copilotで月2000時間",
       "link": "https://www.itmedia.co.jp/enterprise/articles/2608/17/news028.html",
       "date": "2026-08-17T07:00:00+09:00",
@@ -247,39 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "ARグラス、知らない間にめちゃくちゃ“実用的”になっていました…。",
-      "link": "https://ascii.jp/elem/000/004/426/4426269/?rss",
-      "date": "2026-08-16T18:00:00+09:00",
-      "dateLabel": "08/16 18:00",
-      "desc": "ThinkARが手掛ける「AiLENS V1」は、視界に直接情報を映し出す新感覚のAIスマートグラスです。約38gという一般的なメガネと変わらない軽さの中に、デュアルマイクとスピーカーを内蔵。スマートフォンと連携し、鮮やかなグリーン文字でレンズに必要な情報を浮かび上がらせます。",
-      "img": "https://ascii.jp/img/2026/08/12/4512100/s/40f160fa0371ae9b.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "無料でオープンソースの写真撮影ワークフローアプリ「darktable」、RAW現像も可能",
-      "link": "https://gigazine.net/news/20260816-darktable/",
-      "date": "2026-08-16T18:00:00+09:00",
-      "dateLabel": "08/16 18:00",
-      "desc": "写真の選別やRAW現像、部分的な色補正からJPEGへの書き出しまでをまとめて行え、被写体を自動選択するAIマスクやAIノイズ除去もPC内で処理できる無料でオープンソースの写真ワークフローアプリ「darktable」が公開されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "マザーボード「PRO WS Z890-ACE SE」がオススメ！！ワークステーション向けマザーボードですが一般的なPCパーツで組み立て可能！ 高信頼のAIパソコンなどを組みたい場合にも：パソコン工房 大阪日本橋店",
-      "link": "https://ascii.jp/elem/000/004/426/4426858/?rss",
-      "date": "2026-08-16T16:00:00+09:00",
-      "dateLabel": "08/16 16:00",
-      "desc": "大阪・日本橋のPCパーツショップ「パソコン工房 大阪日本橋店」を取材しました。店舗スタッフの渡邉さんがオススメする製品は、ASUSのマザーボード「PRO WS Z890-ACE SE」です。ワークステーション向けマザーボードになります。",
-      "img": "https://ascii.jp/img/2026/08/15/4512980/s/dc97313c8d9642bc.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 26
     }
   ]
