@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-17T16:42:58.777774+09:00",
-  "generatedLabel": "2026/08/17 16:42",
+  "generatedAt": "2026-08-17T17:31:22.307812+09:00",
+  "generatedLabel": "2026/08/17 17:31",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 64,
+  "candidates": 63,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -96,17 +96,6 @@
       "score": 48
     },
     {
-      "title": "AI Hack提供のAIO分析ツール「AI Hack」がAnthropic社の「Claude」に新規対応",
-      "link": "https://ascii.jp/elem/000/004/427/4427066/?rss",
-      "date": "2026-08-17T13:30:00+09:00",
-      "dateLabel": "08/17 13:30",
-      "desc": "AI Hack提供のAIO分析ツール「AI Hack」がAnthropic社の「Claude」に新規対応",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表",
       "link": "https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html",
       "date": "2026-08-17T00:10:13+09:00",
@@ -140,6 +129,28 @@
       "score": 42
     },
     {
+      "title": "人型ロボが“人間超え”――助走なしで高さ2mのジャンプ、時速45kmで走行も 中国Unitreeが開発中の新モデルを公開",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/17/2000000567/",
+      "date": "2026-08-17T16:49:27+09:00",
+      "dateLabel": "08/17 16:49",
+      "desc": "ロボット開発企業の中国Unitree Roboticsは、開発中の新型ヒューマノイドのデモ動画を公開した。助走なしで高さ2mのジャンプをしたほか、最高で秒速12.66m（時速45.576km）で走る姿を披露した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI実装",
+      "score": 34
+    },
+    {
+      "title": "内部統制（J-SOX）事務作業をAIでオートメーション化する『conkan (コンカン) 』AIエビデンスチェック機能を提供開始",
+      "link": "https://ascii.jp/elem/000/004/427/4427111/?rss",
+      "date": "2026-08-17T15:00:00+09:00",
+      "dateLabel": "08/17 15:00",
+      "desc": "内部統制（J-SOX）事務作業をAIでオートメーション化する『conkan (コンカン) 』AIエビデンスチェック機能を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "AIの“秘密の思考”が抜き取られるおそれ 過去にログを公開した開発者は要注意",
       "link": "https://ascii.jp/elem/000/004/427/4427032/?rss",
       "date": "2026-08-17T15:00:00+09:00",
@@ -151,22 +162,11 @@
       "score": 34
     },
     {
-      "title": "ブライシスコンサルティングとSTELAQが業務提携～AI活用を「学ぶ」から「現場で成果を出す」へ～",
-      "link": "https://ascii.jp/elem/000/004/427/4427065/?rss",
-      "date": "2026-08-17T13:59:16+09:00",
-      "dateLabel": "08/17 13:59",
-      "desc": "ブライシスコンサルティングとSTELAQが業務提携～AI活用を「学ぶ」から「現場で成果を出す」へ～",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "信頼できる根拠を一瞬で確認できる税務会計専門AI「Okina」無料β版を本日公開",
-      "link": "https://ascii.jp/elem/000/004/427/4427067/?rss",
-      "date": "2026-08-17T13:27:40+09:00",
-      "dateLabel": "08/17 13:27",
-      "desc": "信頼できる根拠を一瞬で確認できる税務会計専門AI「Okina」無料β版を本日公開",
+      "title": "SHIFT AI、親子で考える「家庭のAIルール10か条」を公開",
+      "link": "https://ascii.jp/elem/000/004/427/4427118/?rss",
+      "date": "2026-08-17T14:00:00+09:00",
+      "dateLabel": "08/17 14:00",
+      "desc": "SHIFT AI、親子で考える「家庭のAIルール10か条」を公開",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
@@ -239,6 +239,17 @@
       "score": 28
     },
     {
+      "title": "Apple「MacBook Neo」がセールに！ 軽くてAIも使える“普段使いMac”がお買い得",
+      "link": "https://ascii.jp/elem/000/004/427/4427031/?rss",
+      "date": "2026-08-17T17:00:00+09:00",
+      "dateLabel": "08/17 17:00",
+      "desc": "Amazon.co.jpで「MacBook Neo」がセール中です。256GBのSSDストレージ、A18 Proチップを搭載した13インチのノートブックとなります。",
+      "img": "https://ascii.jp/img/2026/08/17/4513333/s/2cfe01302cafcd43.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "データセンターブームの恩恵で人口8500人の町の貧困率が大幅低下、ただし電力需要増に伴う費用はデータセンターが負担",
       "link": "https://gigazine.net/news/20260817-data-centers-economy-town/",
       "date": "2026-08-17T16:30:00+09:00",
@@ -267,17 +278,6 @@
       "dateLabel": "08/17 16:00",
       "desc": "VAIOストアでは現在、「VAIOストア祭り2026」を開催中。対象のVAIO PCカスタマイズモデルが10％オフとなるほか、8月31日(月)9時59分までは「VAIOの日」を記念して本体価格からさらに1万円引きとなる。キャンペーンは9月18日(金)9時59分まで。",
       "img": "https://ascii.jp/img/2026/08/16/4513084/s/29676021e776fd47.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "「HDMI入力」も備える27型液晶一体型PC、Lenovo「IdeaCentre AIO」がタイムセールで17万円台",
-      "link": "https://ascii.jp/elem/000/004/426/4426897/?rss",
-      "date": "2026-08-17T14:00:00+09:00",
-      "dateLabel": "08/17 14:00",
-      "desc": "Lenovoの27型一体型PC「IdeaCentre AIO 27ARR9（F0HQ00D7JP）」がAmazonでタイムセール対象。参考価格210,540円のところ、17％オフの174,800円で販売中。Ryzen 5 7533HSと16GBメモリーを搭載し、HDMIは外部入力と出力の両方を備えている。27型一体型PCを検討している人は注目だ。",
-      "img": "https://ascii.jp/img/2026/08/17/4513158/s/f0b6b918bce61dd3.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
