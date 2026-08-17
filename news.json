@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-17T11:13:29.201692+09:00",
-  "generatedLabel": "2026/08/17 11:13",
+  "generatedAt": "2026-08-17T12:40:40.812443+09:00",
+  "generatedLabel": "2026/08/17 12:40",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 63,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 12
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -96,25 +96,14 @@
       "score": 42
     },
     {
-      "title": "【デジライズ】累計600社のAI導入支援実績をもつデジライズ、ローカルLLM構築代行「トリデAI」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/426/4426900/?rss",
-      "date": "2026-08-17T08:20:00+09:00",
-      "dateLabel": "08/17 08:20",
-      "desc": "【デジライズ】累計600社のAI導入支援実績をもつデジライズ、ローカルLLM構築代行「トリデAI」を提供開始",
+      "title": "スパイスファクトリー、「AIエージェント開発」サービスを提供開始",
+      "link": "https://ascii.jp/elem/000/004/426/4426976/?rss",
+      "date": "2026-08-17T10:00:00+09:00",
+      "dateLabel": "08/17 10:00",
+      "desc": "スパイスファクトリー、「AIエージェント開発」サービスを提供開始",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "【生成AI導入率87%、なぜ成果は出ないのか？】“モデルの性能”ではなく“データの状態”が明暗を分ける。『AI × Data Weekly Insight』を無料公開",
-      "link": "https://ascii.jp/elem/000/004/426/4426905/?rss",
-      "date": "2026-08-17T08:00:00+09:00",
-      "dateLabel": "08/17 08:00",
-      "desc": "【生成AI導入率87%、なぜ成果は出ないのか？】“モデルの性能”ではなく“データの状態”が明暗を分ける。『AI × Data Weekly Insight』を無料公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
+      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -162,80 +151,36 @@
       "score": 36
     },
     {
-      "title": "AI導入を担う「FDE組織」の育成研修『FDE Excellence Program』を提供開始 第一号導入はLayerX",
-      "link": "https://ascii.jp/elem/000/004/426/4426921/?rss",
-      "date": "2026-08-17T09:30:00+09:00",
-      "dateLabel": "08/17 09:30",
-      "desc": "AI導入を担う「FDE組織」の育成研修『FDE Excellence Program』を提供開始 第一号導入はLayerX",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
+      "title": "Z.aiがコーディング能力に優れたオープンウェイトAIモデル「GLM-5.3」リリース、前モデル比で50％の性能向上",
+      "link": "https://gigazine.net/news/20260817-z-ai-glm-5-3/",
+      "date": "2026-08-17T12:05:00+09:00",
+      "dateLabel": "08/17 12:05",
+      "desc": "中国のAI企業・Z.ai(北京智譜華章科技)が、コーディング能力に優れ、サイバーセキュリティタスクでは「これまでで最も有能なモデル」だというAIモデル「GLM-5.3」をリリースしました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AI全般",
       "score": 34
     },
     {
-      "title": "DHK CANVAS エージェントプラン、綾瀬市のAI電話自動応答システムに採用 ―― 2026年8月17日より運用開始",
-      "link": "https://ascii.jp/elem/000/004/426/4426931/?rss",
-      "date": "2026-08-17T09:00:00+09:00",
-      "dateLabel": "08/17 09:00",
-      "desc": "DHK CANVAS エージェントプラン、綾瀬市のAI電話自動応答システムに採用 ―― 2026年8月17日より運用開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "国産AI検索対策ツール「DolphinX AIO」、日次計測でClaude、Perplexityに対応し、6種AIの日次同時計測が可能に",
-      "link": "https://ascii.jp/elem/000/004/426/4426925/?rss",
-      "date": "2026-08-17T09:00:00+09:00",
-      "dateLabel": "08/17 09:00",
-      "desc": "国産AI検索対策ツール「DolphinX AIO」、日次計測でClaude、Perplexityに対応し、6種AIの日次同時計測が可能に",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
+      "title": "「AIが生成した文章であることを示す電子透かし」についてAnthropicが公式解説",
+      "link": "https://gigazine.net/news/20260817-anthropic-claude-text-watermark/",
+      "date": "2026-08-17T11:43:00+09:00",
+      "dateLabel": "08/17 11:43",
+      "desc": "EUの法律に準拠するため、AnthropicはClaudeが生成したコンテンツに「透かし(ウォーターマーク)」を追加する予定です。Anthropicが、「文章」に追加する透かしの仕組みを解説しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 34
     },
     {
-      "title": "GALLERIA、AMD Radeon RX 9050搭載ゲーミングPCを発売 FHDゲーム向け新GPU採用",
-      "link": "https://ascii.jp/elem/000/004/426/4426895/?rss",
-      "date": "2026-08-17T09:00:00+09:00",
-      "dateLabel": "08/17 09:00",
-      "desc": "GALLERIAがAMD Radeon RX 9050搭載デスクトップPC 2モデルを発売。RDNA 4アーキテクチャ採用でFHDゲーミングや動画制作に対応。Ryzen 5 7500F・Ryzen 7 5700X搭載モデルの特徴や価格、スペックを紹介します。",
-      "img": "https://ascii.jp/img/2026/08/17/4513161/s/21ed2cb5c7e56c1a.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "次世代LLMへの4つの最新アプローチ／オスのマウスからメスの作製に成功",
-      "link": "https://ascii.jp/elem/000/004/426/4426891/?rss",
-      "date": "2026-08-17T09:00:00+09:00",
-      "dateLabel": "08/17 09:00",
-      "desc": "世界最先端のテクノロジー情報をお届けするグローバルメディア「MITテクノロジーレビュー」から、ビジネスに役立つ注目のテック企業の最新動向、イノベーションにつながる最新の研究内容をピックアップして紹介します。",
-      "img": "https://ascii.jp/img/2026/08/16/4513128/s/4c9b2ad770b02721.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "AI活用は目的化すると失敗する。「使う理由」と「状況」が重要な理由を株式会社encoがレポート公開",
-      "link": "https://ascii.jp/elem/000/004/426/4426934/?rss",
-      "date": "2026-08-17T08:30:00+09:00",
-      "dateLabel": "08/17 08:30",
-      "desc": "AI活用は目的化すると失敗する。「使う理由」と「状況」が重要な理由を株式会社encoがレポート公開",
+      "title": "エンジニアが企画から売上まで伴走。SAI、レベニューシェア型の新規事業開発支援を提供開始",
+      "link": "https://ascii.jp/elem/000/004/426/4426965/?rss",
+      "date": "2026-08-17T10:00:00+09:00",
+      "dateLabel": "08/17 10:00",
+      "desc": "エンジニアが企画から売上まで伴走。SAI、レベニューシェア型の新規事業開発支援を提供開始",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "AIエージェントによる銀行API操作をアウラムが実務検証、資金移動を伴う業務でのAIと人間の役割分担を明確化",
-      "link": "https://ascii.jp/elem/000/004/426/4426904/?rss",
-      "date": "2026-08-17T08:00:00+09:00",
-      "dateLabel": "08/17 08:00",
-      "desc": "AIエージェントによる銀行API操作をアウラムが実務検証、資金移動を伴う業務でのAIと人間の役割分担を明確化",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -261,17 +206,6 @@
       "score": 34
     },
     {
-      "title": "DeepSeekがAIエージェントのハーネス「DeepSeek Harness」v0.1を公開",
-      "link": "https://gigazine.net/news/20260814-deepseek-harness-v0-1/",
-      "date": "2026-08-14T16:31:00+09:00",
-      "dateLabel": "08/14 16:31",
-      "desc": "中国のAIスタートアップ・DeepSeekが、AIエージェントが安全かつ確実に動作するためのハーネス「DeepSeek Harness」を公開しました。MITライセンスのもと、オープンソースでコードベースも公開されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "AIエージェント同士が“縄張り争い”、マルウェアで妨害も Anthropicがマルチエージェント実験の結果を公開",
       "link": "https://www.itmedia.co.jp/news/article/2608/14/2000000538/",
       "date": "2026-08-14T09:51:06+09:00",
@@ -281,6 +215,72 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 28
+    },
+    {
+      "title": "1.1兆円超でStripeがAIゲートウェイサービスのOpenRouterを買収か",
+      "link": "https://gigazine.net/news/20260817-stripe-acquire-openrouter-7-billion/",
+      "date": "2026-08-17T10:40:00+09:00",
+      "dateLabel": "08/17 10:40",
+      "desc": "金融サービスプラットフォームのStripeが、AIゲートウェイサービス・OpenRouterの買収契約を締結したとBloombergが報じています。買収額は70億ドル(約1兆1000億円)を超える模様です。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "「AI社長」のTHAとVision Baseが共同設立「AI Tower Japan」、杉山宏樹氏（株式会社ライトアップ執行役員）を特別顧問に迎える",
+      "link": "https://ascii.jp/elem/000/004/426/4426969/?rss",
+      "date": "2026-08-17T10:00:00+09:00",
+      "dateLabel": "08/17 10:00",
+      "desc": "「AI社長」のTHAとVision Baseが共同設立「AI Tower Japan」、杉山宏樹氏（株式会社ライトアップ執行役員）を特別顧問に迎える",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "【AI対策をOEM】開発ゼロでAIO事業を立ち上げる！分析ツールと対策サービスのOEMパートナーを募集",
+      "link": "https://ascii.jp/elem/000/004/426/4426964/?rss",
+      "date": "2026-08-17T10:00:00+09:00",
+      "dateLabel": "08/17 10:00",
+      "desc": "【AI対策をOEM】開発ゼロでAIO事業を立ち上げる！分析ツールと対策サービスのOEMパートナーを募集",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "Hugging Face分析、中国のオープンモデルが台頭 Qwenは派生モデル15万件超",
+      "link": "https://www.itmedia.co.jp/news/article/2608/17/2000000557/",
+      "date": "2026-08-17T08:42:45+09:00",
+      "dateLabel": "08/17 08:42",
+      "desc": "Hugging Faceは、オープンモデル動向をまとめたレポートを公開した。中国勢が2兆パラメータ超の大規模モデルを相次いで公開するなど台頭する一方、実際のダウンロードの8割以上は10億パラメータ未満の小型モデルが占めた。Alibabaの「Qwen」は派生モデル数でMetaを上回り、開発者コミュニティの事実上の基盤モデルになりつつある。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "【読まれた記事1位】「AI需要で半導体不足」の裏で本当に起きていること――2026年前半まとめ",
+      "link": "https://www.itmedia.co.jp/business/articles/2608/17/news045.html",
+      "date": "2026-08-17T07:00:00+09:00",
+      "dateLabel": "08/17 07:00",
+      "desc": "AIブームを追い風に、半導体市場の成長が止まらない。今、半導体市場で何が起きているのか。注目記事をまとめた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "Claude、Codex、Qwen……そのAI用語、どう読む？ 読み方クイズ30問",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/17/news020.html",
+      "date": "2026-08-17T05:00:00+09:00",
+      "dateLabel": "08/17 05:00",
+      "desc": "何となくこう読むものだと思っていたら、実は違っていた。そんな経験はないでしょうか。AI用語にも、意外な読み方をするものや、人によって読み方が分かれるものが少なくありません。その読み方が合っているか、全30問のクイズで確かめてみてください。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
     }
   ]
 }
