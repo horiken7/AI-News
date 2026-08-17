@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-17T20:16:07.574772+09:00",
-  "generatedLabel": "2026/08/17 20:16",
+  "generatedAt": "2026-08-17T21:21:50.424931+09:00",
+  "generatedLabel": "2026/08/17 21:21",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 57,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 2
     },
     {
       "source": "PC Watch",
@@ -62,6 +62,17 @@
     }
   ],
   "articles": [
+    {
+      "title": "実はAnthropicには最上位のMythosよりも強力な「Model 2」というAIモデルがあるがリリース予定はない",
+      "link": "https://gigazine.net/news/20260817-anthropic-model-2/",
+      "date": "2026-08-17T21:00:00+09:00",
+      "dateLabel": "08/17 21:00",
+      "desc": "AnthropicがAIに関するリスクレポートを公開しました。その中で、一般公開されている最高性能のモデル「Claude Mythos 5」よりも性能が高い謎のモデルが登場することが話題になっています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 58
+    },
     {
       "title": "ローカルで動かせる「Qwen3.8-27B」が無償公開、一部ベンチマークでClaude Opus 4.6 Max超え",
       "link": "https://gigazine.net/news/20260817-qwen3-8-27b/",
@@ -115,7 +126,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 42
+      "score": 36
     },
     {
       "title": "人型ロボが“人間超え”――助走なしで高さ2mのジャンプ、時速45kmで走行も 中国Unitreeが開発中の新モデルを公開",
@@ -223,17 +234,6 @@
       "dateLabel": "08/17 18:00",
       "desc": "進化した生成AIと映像演出で「好きなキャラと暮らす夢」を部屋の中で具現化する、次元を超えた魔法の箱がこちら！",
       "img": "https://ascii.jp/img/2026/08/04/4509039/s/706a4508bb2dfba2.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
-      "title": "「気持ち悪い…」飲食店のAI販促物、SNSで相次ぎ注目 使い方の問題か",
-      "link": "https://ascii.jp/elem/000/004/427/4427098/?rss",
-      "date": "2026-08-17T17:55:00+09:00",
-      "dateLabel": "08/17 17:55",
-      "desc": "SNS（X）で8月中旬頃から、画像生成AIを使った飲食店の販促物に対して、「気持ち悪い」などの否定的な声が複数挙がっている。背景にはAIの使い方の問題があるようだ。",
-      "img": "https://ascii.jp/img/2026/08/17/4513459/s/7cd1f2b1ad1685ad.png",
       "src": "ASCII.jp",
       "cat": "生成AI/マルチモーダル",
       "score": 26
