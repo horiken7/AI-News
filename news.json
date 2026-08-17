@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-18T06:16:21.652511+09:00",
-  "generatedLabel": "2026/08/18 06:16",
+  "generatedAt": "2026-08-18T07:13:23.510317+09:00",
+  "generatedLabel": "2026/08/18 07:13",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 59,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 19
+      "items": 20
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 2
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -118,6 +118,28 @@
       "score": 44
     },
     {
+      "title": "16型165Hz液晶搭載、GIGABYTE「GAMING A16」発売 AI機能も充実",
+      "link": "https://ascii.jp/elem/000/004/427/4427188/?rss",
+      "date": "2026-08-18T07:00:00+09:00",
+      "dateLabel": "08/18 07:00",
+      "desc": "GIGABYTEが16.0型AIゲーミングノートPC「GAMING A16」を8月17日に直販限定発売。Core Ultra 9 185HとGeForce RTX 5060 Laptop GPUを搭載し、ゲームとAI処理、4K動画編集に対応する高性能モデルだ。",
+      "img": "https://ascii.jp/img/2026/08/18/4513690/s/0747b6616be5a5a5.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "AIエージェントは企業の働き方をどう変えるのか。VivaTech 2026で語られた「Agentic Enterprise」",
+      "link": "https://ascii.jp/elem/000/004/416/4416767/?rss",
+      "date": "2026-08-18T07:00:00+09:00",
+      "dateLabel": "08/18 07:00",
+      "desc": "VivaTech 2026で開催されたセッション「The Agentic Enterprise: From Software Development to Everyday Work」のレポート。OpenAIらの議論から、ソフトウェア開発で広がったAIエージェントが、財務・マーケティング・管理業務へどう浸透し、企業の働き方を変えつつあるのかを追う。",
+      "img": "https://ascii.jp/img/2026/07/07/4496201/s/24d0227cf64145a3.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "ChatGPTがPC操作を自動で記録、コンテキストとして利用可能に Mac版デスクトップアプリで提供",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000548/",
       "date": "2026-08-14T20:33:51+09:00",
@@ -127,6 +149,28 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 36
+    },
+    {
+      "title": "「米中どちらにつく？」米国、AI陣営の“踏み絵”へ",
+      "link": "https://ascii.jp/limit/group/ida/elem/000/004/426/4426980/?rss",
+      "date": "2026-08-18T07:00:00+09:00",
+      "dateLabel": "08/18 07:00",
+      "desc": "AIのモデルや半導体、原料になる資源をめぐる競争で、米国が各国に対して、米中のいずれにつくのか、選択を迫ろうとしている。",
+      "img": "https://ascii.jp/img/2026/08/17/4513277/s/e6ae1990da2d0066.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "ChatGPTやClaudeの利用量とコストを一元管理、無料で使える法人向け新サービス マネーフォワード",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/18/2000000571/",
+      "date": "2026-08-18T06:50:00+09:00",
+      "dateLabel": "08/18 06:50",
+      "desc": "マネーフォワードは、AIサービスの利用量とコストを一元管理できる法人向けサービス「マネーフォワード クラウドAIトークン管理」の提供を始めた。同社サービスの共通ID「マネーフォワードID」を取得すれば無料で使える。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "人型ロボが“人間超え”――助走なしで高さ2mのジャンプ、時速45kmで走行も 中国Unitreeが開発中の新モデルを公開",
@@ -206,6 +250,28 @@
       "score": 28
     },
     {
+      "title": "「AI進化の裏でモノづくりは30年止まっている」、直列工程を並列化する産業OS",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2608/18/news045.html",
+      "date": "2026-08-18T06:45:00+09:00",
+      "dateLabel": "08/18 06:45",
+      "desc": "キャディは次世代版「製造業AIデータプラットフォームCADDi」を発表した。AIと人が共有するデータ／セマンティクス基盤で現場の暗黙知を構造化し、直列工程の並列化でモノづくりの加速を目指す。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
+      "title": "AIに何を任せ、任せないか 子どもたちは大人よりも はっきり分かっている",
+      "link": "https://ascii.jp/elem/000/004/427/4427187/?rss",
+      "date": "2026-08-18T06:10:15+09:00",
+      "dateLabel": "08/18 06:10",
+      "desc": "「AIは私たちの問題を解決してくれるものではありません」——17歳の子はそう言い切った。10代の多くは、AIをカンニングの道具として礼賛するでも、頭から拒むでもない。使うところは使い、任せないところははっきり線を引く。理屈の上では代わりに考えてくれるツールが増えても、彼らは自分でハンドルを握っていたいのだ。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "Pythonライクで高速な「Mojo言語」がバージョン1.0に到達、今後はコンパイラをオープンソース化すると表明",
       "link": "https://www.publickey1.jp/blog/26/pythonmojo10.html",
       "date": "2026-08-18T00:40:38+09:00",
@@ -214,72 +280,6 @@
       "img": "",
       "src": "Publickey",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "週刊アスキー No.1609(2026年8月18日発行)",
-      "link": "https://ascii.jp/elem/000/004/426/4426917/?rss",
-      "date": "2026-08-18T00:00:00+09:00",
-      "dateLabel": "08/18 00:00",
-      "desc": "特集1はAIを使ったワンランク上の使いこなしとプログラミング環境の紹介。かつては覚えることが多かったプログラミングもAIに聞けば初心者でも簡単に取り組める。特集2はスマホを便利にする代表的なAIツールを紹介。",
-      "img": "https://ascii.jp/img/2026/08/17/4513309/s/360fbf168df95b0e.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "アップル、Siriのニュース対応で報道各社に150億円超支払いか",
-      "link": "https://ascii.jp/elem/000/004/426/4426982/?rss",
-      "date": "2026-08-17T20:00:00+09:00",
-      "dateLabel": "08/17 20:00",
-      "desc": "アップルはAIを搭載した新しい音声アシスタント「Siri」に最新のニュースや情報を取り込むため、報道各社と契約交渉を進めているという。",
-      "img": "https://ascii.jp/img/2026/08/17/4513280/s/0740be9c6cd2cd38.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "データセンターブームの恩恵で人口8500人の町の貧困率が大幅低下、ただし電力需要増に伴う費用はデータセンターが負担",
-      "link": "https://gigazine.net/news/20260817-data-centers-economy-town/",
-      "date": "2026-08-17T16:30:00+09:00",
-      "dateLabel": "08/17 16:30",
-      "desc": "近年はAIブームに伴うデータセンター建設計画が増えていますが、データセンターは膨大な電力と水を消費することから、近隣住民からは懸念の声が上がっています。そんな中で、AIブーム以前にMicrosoftやYahooのデータセンターが多数建設されたアメリカ・ワシントン州のクインシーという町が、データセンター建設によってどのような恩恵を受けたのかが注目されています。",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "日本のアニメを韓国語で解説するYouTubeチャンネルが「フェアユース」の主張を退けられる",
-      "link": "https://gigazine.net/news/20260817-fair-use-anime/",
-      "date": "2026-08-17T16:15:00+09:00",
-      "dateLabel": "08/17 16:15",
-      "desc": "KADOKAWAは2026年1月に、3つのYouTubeチャンネルが著作権侵害にあたるとして、個人情報の開示をYouTubeに求めるDMCA召喚状をアメリカの連邦裁判所に請求しました。対象となったYouTubeチャンネルは「自分たちの動画は韓国語圏の視聴者を対象にした解説・レビュー・分析であり、フェアユースにあたる」と取り消しを求めていましたが、主張は退けら",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 26
-    },
-    {
-      "title": "OpenAIがAIのもたらす深刻なリスクを評価・軽減することを目的とした危機管理チームが解散",
-      "link": "https://gigazine.net/news/20260817-openai-reportedly-disbanded-preparedness-team/",
-      "date": "2026-08-17T13:29:00+09:00",
-      "dateLabel": "08/17 13:29",
-      "desc": "OpenAIがAIがもたらす深刻なリスクを評価・軽減することを目的とした危機管理チーム「Preparedness」を解散したと報じられています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "GoogleがGeminiとFlowにAIが生成した画像・動画・音楽から目に見える「透かし」を削除する切り替え機能を追加、ただしSynthID透かしとC2PAメタデータは残る",
-      "link": "https://gigazine.net/news/20260817-google-visible-watermarks/",
-      "date": "2026-08-17T13:13:00+09:00",
-      "dateLabel": "08/17 13:13",
-      "desc": "GoogleのAIで生成した画像・動画に表示される透かし(ウォーターマーク)を削除できる機能がGeminiとFlowに追加されます。削除されるのは目に見える透かしのみで、目に見えない「SynthID」と「C2PAメタデータ」には影響しないため、Geminiに問い合わせたり専用のサービスを用いたりすることで引き続きAI生成画像かどうか識別することができます。 ",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 26
     }
   ]
