@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-17T13:31:32.432611+09:00",
-  "generatedLabel": "2026/08/17 13:31",
+  "generatedAt": "2026-08-17T14:26:09.348206+09:00",
+  "generatedLabel": "2026/08/17 14:26",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 58,
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 18
+      "items": 19
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 16
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "ローカルで動かせる「Qwen3.8-27B」が無償公開、一部ベンチマークでClaude Opus 4.6 Max超え",
+      "link": "https://gigazine.net/news/20260817-qwen3-8-27b/",
+      "date": "2026-08-17T13:47:00+09:00",
+      "dateLabel": "08/17 13:47",
+      "desc": "アリババのQwenチームが270億パラメーターのAIモデル「Qwen3.8-27B」を公開しました。モデルのウェイトはApache License 2.0で公開されており、条件を守れば商用利用も可能。手元のPCに導入できるオープンウェイトモデルながら、一部の性能テストではAnthropicの高性能モデル「Claude Opus 4.6 Max」を上回る結果も",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 58
+    },
+    {
       "title": "「Qwen3.8-27B」ウェイト公開 一部「Opus 4.6 Max」超えか ライセンスは商用可のApache 2.0",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/15/2000000554/",
       "date": "2026-08-15T02:26:12+09:00",
@@ -83,39 +94,6 @@
       "src": "Publickey",
       "cat": "LLM/モデル",
       "score": 48
-    },
-    {
-      "title": "国産AIO（LLMO/GEO）ツール「DolphinX AIO」が、「比較記事打診リスト自動作成機能」をリリース｜ターゲットプロンプトの露出率向上に寄与する第三者比較記事を自動特定・収集",
-      "link": "https://ascii.jp/elem/000/004/426/4426985/?rss",
-      "date": "2026-08-17T11:00:00+09:00",
-      "dateLabel": "08/17 11:00",
-      "desc": "国産AIO（LLMO/GEO）ツール「DolphinX AIO」が、「比較記事打診リスト自動作成機能」をリリース｜ターゲットプロンプトの露出率向上に寄与する第三者比較記事を自動特定・収集",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "GIGABYTE、RTX 5060×Core Ultra 9搭載の16型AIゲーミングノート「GAMING A16」を発売",
-      "link": "https://ascii.jp/elem/000/004/426/4426915/?rss",
-      "date": "2026-08-17T11:00:00+09:00",
-      "dateLabel": "08/17 11:00",
-      "desc": "GIGABYTEが16型AIゲーミングノート「GAMING A16」を発売。Core Ultra 9 185HとGeForce RTX 5060 Laptop GPU、165Hzディスプレイを搭載し、AI生成や動画編集、最新ゲームまで快適にこなせる高性能モデルを紹介します。",
-      "img": "https://ascii.jp/img/2026/08/17/4513244/s/bb3a153ff4e5b4fb.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "AIエージェントの本番導入・審査を「即時パス」。24/365セキュリティ＆フルマネージド運用代行サービス「FLOWTAS Gateway」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/426/4426998/?rss",
-      "date": "2026-08-17T10:17:49+09:00",
-      "dateLabel": "08/17 10:17",
-      "desc": "AIエージェントの本番導入・審査を「即時パス」。24/365セキュリティ＆フルマネージド運用代行サービス「FLOWTAS Gateway」を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 42
     },
     {
       "title": "タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表",
@@ -151,17 +129,6 @@
       "score": 42
     },
     {
-      "title": "Google、「Gemini 3.7 Flash」公開 年内は半額の導入価格",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000534/",
-      "date": "2026-08-14T06:25:13+09:00",
-      "dateLabel": "08/14 06:25",
-      "desc": "Googleは、コーディングやエージェント用途に特化したAIモデル「Gemini 3.7 Flash」を発表した。前モデルからわずか3週間での投入だ。従来比半額の導入価格で提供し、個人向けエージェント機能「Gemini Spark」など各種プロダクトへ適用される。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 36
-    },
-    {
       "title": "Anthropicのダリオ・アモデイCEOが「AIの規制」について物申す、規制が中央集権化につながるという指摘に反論",
       "link": "https://gigazine.net/news/20260817-dario-amodei-comment/",
       "date": "2026-08-17T13:26:00+09:00",
@@ -192,6 +159,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "AIで仕事は進む。では、判断できる人は育っているか。「AI時代に、人が担うこと」図解10ページを公開",
+      "link": "https://ascii.jp/elem/000/004/427/4427019/?rss",
+      "date": "2026-08-17T11:06:48+09:00",
+      "dateLabel": "08/17 11:06",
+      "desc": "AIで仕事は進む。では、判断できる人は育っているか。「AI時代に、人が担うこと」図解10ページを公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 34
     },
     {
@@ -228,7 +206,18 @@
       "score": 28
     },
     {
-      "title": "OpenAIがAIのもたらす深刻なリスクを評価・軽減することを目的とした危機管理チーム",
+      "title": "「HDMI入力」も備える27型液晶一体型PC、Lenovo「IdeaCentre AIO」がタイムセールで17万円台",
+      "link": "https://ascii.jp/elem/000/004/426/4426897/?rss",
+      "date": "2026-08-17T14:00:00+09:00",
+      "dateLabel": "08/17 14:00",
+      "desc": "Lenovoの27型一体型PC「IdeaCentre AIO 27ARR9（F0HQ00D7JP）」がAmazonでタイムセール対象。参考価格210,540円のところ、17％オフの174,800円で販売中。Ryzen 5 7533HSと16GBメモリーを搭載し、HDMIは外部入力と出力の両方を備えている。27型一体型PCを検討している人は注目だ。",
+      "img": "https://ascii.jp/img/2026/08/17/4513158/s/f0b6b918bce61dd3.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "OpenAIがAIのもたらす深刻なリスクを評価・軽減することを目的とした危機管理チームが解散",
       "link": "https://gigazine.net/news/20260817-openai-reportedly-disbanded-preparedness-team/",
       "date": "2026-08-17T13:29:00+09:00",
       "dateLabel": "08/17 13:29",
@@ -272,14 +261,25 @@
       "score": 26
     },
     {
-      "title": "【キャンペーン実施】迫りくる「買い手市場」、新規だけでは買い手が足りない！今こそ「追客」のDXを。──AIによる継続追客と物件提案で現場負担軽減、売れ行き向上。",
-      "link": "https://ascii.jp/elem/000/004/426/4426997/?rss",
-      "date": "2026-08-17T10:30:00+09:00",
-      "dateLabel": "08/17 10:30",
-      "desc": "【キャンペーン実施】迫りくる「買い手市場」、新規だけでは買い手が足りない！今こそ「追客」のDXを。──AIによる継続追客と物件提案で現場負担軽減、売れ行き向上。",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "Hugging Face分析、中国のオープンモデルが台頭 Qwenは派生モデル15万件超",
+      "link": "https://www.itmedia.co.jp/news/article/2608/17/2000000557/",
+      "date": "2026-08-17T08:42:45+09:00",
+      "dateLabel": "08/17 08:42",
+      "desc": "Hugging Faceは、オープンモデル動向をまとめたレポートを公開した。中国勢が2兆パラメータ超の大規模モデルを相次いで公開するなど台頭する一方、実際のダウンロードの8割以上は10億パラメータ未満の小型モデルが占めた。Alibabaの「Qwen」は派生モデル数でMetaを上回り、開発者コミュニティの事実上の基盤モデルになりつつある。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "【読まれた記事1位】「AI需要で半導体不足」の裏で本当に起きていること――2026年前半まとめ",
+      "link": "https://www.itmedia.co.jp/business/articles/2608/17/news045.html",
+      "date": "2026-08-17T07:00:00+09:00",
+      "dateLabel": "08/17 07:00",
+      "desc": "AIブームを追い風に、半導体市場の成長が止まらない。今、半導体市場で何が起きているのか。注目記事をまとめた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
       "score": 26
     }
   ]
