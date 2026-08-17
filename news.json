@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-17T09:38:21.440200+09:00",
-  "generatedLabel": "2026/08/17 09:38",
+  "generatedAt": "2026-08-17T11:13:29.201692+09:00",
+  "generatedLabel": "2026/08/17 11:13",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 58,
+  "candidates": 63,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 12
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 12
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -85,6 +85,39 @@
       "score": 48
     },
     {
+      "title": "GIGABYTE、RTX 5060×Core Ultra 9搭載の16型AIゲーミングノート「GAMING A16」を発売",
+      "link": "https://ascii.jp/elem/000/004/426/4426915/?rss",
+      "date": "2026-08-17T11:00:00+09:00",
+      "dateLabel": "08/17 11:00",
+      "desc": "GIGABYTEが16型AIゲーミングノート「GAMING A16」を発売。Core Ultra 9 185HとGeForce RTX 5060 Laptop GPU、165Hzディスプレイを搭載し、AI生成や動画編集、最新ゲームまで快適にこなせる高性能モデルを紹介します。",
+      "img": "https://ascii.jp/img/2026/08/17/4513244/s/bb3a153ff4e5b4fb.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "【デジライズ】累計600社のAI導入支援実績をもつデジライズ、ローカルLLM構築代行「トリデAI」を提供開始",
+      "link": "https://ascii.jp/elem/000/004/426/4426900/?rss",
+      "date": "2026-08-17T08:20:00+09:00",
+      "dateLabel": "08/17 08:20",
+      "desc": "【デジライズ】累計600社のAI導入支援実績をもつデジライズ、ローカルLLM構築代行「トリデAI」を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "【生成AI導入率87%、なぜ成果は出ないのか？】“モデルの性能”ではなく“データの状態”が明暗を分ける。『AI × Data Weekly Insight』を無料公開",
+      "link": "https://ascii.jp/elem/000/004/426/4426905/?rss",
+      "date": "2026-08-17T08:00:00+09:00",
+      "dateLabel": "08/17 08:00",
+      "desc": "【生成AI導入率87%、なぜ成果は出ないのか？】“モデルの性能”ではなく“データの状態”が明暗を分ける。『AI × Data Weekly Insight』を無料公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 42
+    },
+    {
       "title": "タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表",
       "link": "https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html",
       "date": "2026-08-17T00:10:13+09:00",
@@ -129,6 +162,39 @@
       "score": 36
     },
     {
+      "title": "AI導入を担う「FDE組織」の育成研修『FDE Excellence Program』を提供開始 第一号導入はLayerX",
+      "link": "https://ascii.jp/elem/000/004/426/4426921/?rss",
+      "date": "2026-08-17T09:30:00+09:00",
+      "dateLabel": "08/17 09:30",
+      "desc": "AI導入を担う「FDE組織」の育成研修『FDE Excellence Program』を提供開始 第一号導入はLayerX",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "DHK CANVAS エージェントプラン、綾瀬市のAI電話自動応答システムに採用 ―― 2026年8月17日より運用開始",
+      "link": "https://ascii.jp/elem/000/004/426/4426931/?rss",
+      "date": "2026-08-17T09:00:00+09:00",
+      "dateLabel": "08/17 09:00",
+      "desc": "DHK CANVAS エージェントプラン、綾瀬市のAI電話自動応答システムに採用 ―― 2026年8月17日より運用開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "国産AI検索対策ツール「DolphinX AIO」、日次計測でClaude、Perplexityに対応し、6種AIの日次同時計測が可能に",
+      "link": "https://ascii.jp/elem/000/004/426/4426925/?rss",
+      "date": "2026-08-17T09:00:00+09:00",
+      "dateLabel": "08/17 09:00",
+      "desc": "国産AI検索対策ツール「DolphinX AIO」、日次計測でClaude、Perplexityに対応し、6種AIの日次同時計測が可能に",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "GALLERIA、AMD Radeon RX 9050搭載ゲーミングPCを発売 FHDゲーム向け新GPU採用",
       "link": "https://ascii.jp/elem/000/004/426/4426895/?rss",
       "date": "2026-08-17T09:00:00+09:00",
@@ -151,25 +217,25 @@
       "score": 34
     },
     {
-      "title": "もはやローカル動画生成AIの枠におさまらない。MiniMax H3の奥が深すぎる",
-      "link": "https://ascii.jp/elem/000/004/426/4426894/?rss",
-      "date": "2026-08-17T07:00:00+09:00",
-      "dateLabel": "08/17 07:00",
-      "desc": "人気の動画生成モデル「MiniMax H3」の高速化やプロンプト最適化、長時間動画を可能にするContext Loopなど、ローカル動画生成AIならではの新手法と可能性を実例を交えて検証します。",
-      "img": "https://ascii.jp/img/2026/08/17/4513147/s/809777a04f8fc7f3.png",
+      "title": "AI活用は目的化すると失敗する。「使う理由」と「状況」が重要な理由を株式会社encoがレポート公開",
+      "link": "https://ascii.jp/elem/000/004/426/4426934/?rss",
+      "date": "2026-08-17T08:30:00+09:00",
+      "dateLabel": "08/17 08:30",
+      "desc": "AI活用は目的化すると失敗する。「使う理由」と「状況」が重要な理由を株式会社encoがレポート公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
+      "cat": "AI全般",
       "score": 34
     },
     {
-      "title": "性格と実際の行動をAIで可視化する採用テスト",
-      "link": "https://ascii.jp/elem/000/004/425/4425577/?rss",
-      "date": "2026-08-17T07:00:00+09:00",
-      "dateLabel": "08/17 07:00",
-      "desc": "株式会社Scale Technologyは、中小企業専用のAI採用アセスメント「PitA（ピタ）」を6月末に正式リリースした。本サービスは、約15〜20分のシナリオ型テストで、先天的な性格特性と、後天的な行動特性、独自指標を分析して可視化する。人間の性格を外向性、神経症傾向、誠実性、調和性、開放性の5つの因子で分類する心理学モデル（BigFive理論）が基に",
-      "img": "https://ascii.jp/img/2026/08/06/4510436/s/a3ddbbdb8b1f8c25.jpg",
+      "title": "AIエージェントによる銀行API操作をアウラムが実務検証、資金移動を伴う業務でのAIと人間の役割分担を明確化",
+      "link": "https://ascii.jp/elem/000/004/426/4426904/?rss",
+      "date": "2026-08-17T08:00:00+09:00",
+      "dateLabel": "08/17 08:00",
+      "desc": "AIエージェントによる銀行API操作をアウラムが実務検証、資金移動を伴う業務でのAIと人間の役割分担を明確化",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AI全般",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -195,28 +261,6 @@
       "score": 34
     },
     {
-      "title": "マジで小さかった！新CPU「Wildcat Lake」搭載のミニPC「JWAWAKEN RE2-304」の気になる処理性能を検証",
-      "link": "https://ascii.jp/elem/000/004/426/4426665/?rss",
-      "date": "2026-08-16T17:00:00+09:00",
-      "dateLabel": "08/16 17:00",
-      "desc": "今年登場の最新CPU「Intel Core 3 304」を搭載する注目のミニPC「JWAWAKEN RE2-304」。NPUを搭載する新エントリークラスCPUの気になる実力をチェックしました！",
-      "img": "https://ascii.jp/img/2026/08/13/4512628/s/4111f56dd0f7efcd.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "「AI時代の はじめての判断デザイン」本編17ページを無料公開",
-      "link": "https://ascii.jp/elem/000/004/426/4426883/?rss",
-      "date": "2026-08-16T12:24:05+09:00",
-      "dateLabel": "08/16 12:24",
-      "desc": "「AI時代の はじめての判断デザイン」本編17ページを無料公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "DeepSeekがAIエージェントのハーネス「DeepSeek Harness」v0.1を公開",
       "link": "https://gigazine.net/news/20260814-deepseek-harness-v0-1/",
       "date": "2026-08-14T16:31:00+09:00",
@@ -236,51 +280,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Hugging Face分析、中国のオープンモデルが台頭 Qwenは派生モデル15万件超",
-      "link": "https://www.itmedia.co.jp/news/article/2608/17/2000000557/",
-      "date": "2026-08-17T08:42:45+09:00",
-      "dateLabel": "08/17 08:42",
-      "desc": "Hugging Faceは、オープンモデル動向をまとめたレポートを公開した。中国勢が2兆パラメータ超の大規模モデルを相次いで公開するなど台頭する一方、実際のダウンロードの8割以上は10億パラメータ未満の小型モデルが占めた。Alibabaの「Qwen」は派生モデル数でMetaを上回り、開発者コミュニティの事実上の基盤モデルになりつつある。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "自治体のコスト削減事例 舞鶴市「脱Windows」で6億円、千代田区Copilotで月2000時間",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2608/17/news028.html",
-      "date": "2026-08-17T07:00:00+09:00",
-      "dateLabel": "08/17 07:00",
-      "desc": "他組織がツールを導入した際の効果を知ることは、自社での導入を検討する際の大きな参考となる。中でも自治体における導入例は、組織の公共性もあり、詳細な効果を知ることが可能だ。本ブックレットでは、千代田区のCopilot全庁導入による月2000時間削減や、舞鶴市の脱WindowsからGoogleツール移行による6億円削減の事例を掲載した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "【読まれた記事1位】「AI需要で半導体不足」の裏で本当に起きていること――2026年前半まとめ",
-      "link": "https://www.itmedia.co.jp/business/articles/2608/17/news045.html",
-      "date": "2026-08-17T07:00:00+09:00",
-      "dateLabel": "08/17 07:00",
-      "desc": "AIブームを追い風に、半導体市場の成長が止まらない。今、半導体市場で何が起きているのか。注目記事をまとめた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "Claude、Codex、Qwen……そのAI用語、どう読む？ 読み方クイズ30問",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/17/news020.html",
-      "date": "2026-08-17T05:00:00+09:00",
-      "dateLabel": "08/17 05:00",
-      "desc": "何となくこう読むものだと思っていたら、実は違っていた。そんな経験はないでしょうか。AI用語にも、意外な読み方をするものや、人によって読み方が分かれるものが少なくありません。その読み方が合っているか、全30問のクイズで確かめてみてください。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
+      "score": 28
     }
   ]
 }
