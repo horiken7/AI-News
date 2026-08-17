@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-17T12:40:40.812443+09:00",
-  "generatedLabel": "2026/08/17 12:40",
+  "generatedAt": "2026-08-17T13:31:32.432611+09:00",
+  "generatedLabel": "2026/08/17 13:31",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -85,6 +85,17 @@
       "score": 48
     },
     {
+      "title": "国産AIO（LLMO/GEO）ツール「DolphinX AIO」が、「比較記事打診リスト自動作成機能」をリリース｜ターゲットプロンプトの露出率向上に寄与する第三者比較記事を自動特定・収集",
+      "link": "https://ascii.jp/elem/000/004/426/4426985/?rss",
+      "date": "2026-08-17T11:00:00+09:00",
+      "dateLabel": "08/17 11:00",
+      "desc": "国産AIO（LLMO/GEO）ツール「DolphinX AIO」が、「比較記事打診リスト自動作成機能」をリリース｜ターゲットプロンプトの露出率向上に寄与する第三者比較記事を自動特定・収集",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "GIGABYTE、RTX 5060×Core Ultra 9搭載の16型AIゲーミングノート「GAMING A16」を発売",
       "link": "https://ascii.jp/elem/000/004/426/4426915/?rss",
       "date": "2026-08-17T11:00:00+09:00",
@@ -96,11 +107,11 @@
       "score": 42
     },
     {
-      "title": "スパイスファクトリー、「AIエージェント開発」サービスを提供開始",
-      "link": "https://ascii.jp/elem/000/004/426/4426976/?rss",
-      "date": "2026-08-17T10:00:00+09:00",
-      "dateLabel": "08/17 10:00",
-      "desc": "スパイスファクトリー、「AIエージェント開発」サービスを提供開始",
+      "title": "AIエージェントの本番導入・審査を「即時パス」。24/365セキュリティ＆フルマネージド運用代行サービス「FLOWTAS Gateway」を提供開始",
+      "link": "https://ascii.jp/elem/000/004/426/4426998/?rss",
+      "date": "2026-08-17T10:17:49+09:00",
+      "dateLabel": "08/17 10:17",
+      "desc": "AIエージェントの本番導入・審査を「即時パス」。24/365セキュリティ＆フルマネージド運用代行サービス「FLOWTAS Gateway」を提供開始",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
@@ -151,6 +162,17 @@
       "score": 36
     },
     {
+      "title": "Anthropicのダリオ・アモデイCEOが「AIの規制」について物申す、規制が中央集権化につながるという指摘に反論",
+      "link": "https://gigazine.net/news/20260817-dario-amodei-comment/",
+      "date": "2026-08-17T13:26:00+09:00",
+      "dateLabel": "08/17 13:26",
+      "desc": "Anthropicのダリオ・アモデイCEOは、カリフォルニア州で成立したAI規制法に賛成の立場を示し、AIが危険になり得るというメッセージを発信しています。このことが一部の人に「AIを中央集権化して独占したいと考えているのでは」と捉えられたため、アモデイCEOが発言意図について説明しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 34
+    },
+    {
       "title": "Z.aiがコーディング能力に優れたオープンウェイトAIモデル「GLM-5.3」リリース、前モデル比で50％の性能向上",
       "link": "https://gigazine.net/news/20260817-z-ai-glm-5-3/",
       "date": "2026-08-17T12:05:00+09:00",
@@ -170,17 +192,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "エンジニアが企画から売上まで伴走。SAI、レベニューシェア型の新規事業開発支援を提供開始",
-      "link": "https://ascii.jp/elem/000/004/426/4426965/?rss",
-      "date": "2026-08-17T10:00:00+09:00",
-      "dateLabel": "08/17 10:00",
-      "desc": "エンジニアが企画から売上まで伴走。SAI、レベニューシェア型の新規事業開発支援を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -217,6 +228,39 @@
       "score": 28
     },
     {
+      "title": "OpenAIがAIのもたらす深刻なリスクを評価・軽減することを目的とした危機管理チーム",
+      "link": "https://gigazine.net/news/20260817-openai-reportedly-disbanded-preparedness-team/",
+      "date": "2026-08-17T13:29:00+09:00",
+      "dateLabel": "08/17 13:29",
+      "desc": "OpenAIがAIがもたらす深刻なリスクを評価・軽減することを目的とした危機管理チーム「Preparedness」を解散したと報じられています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "GoogleがGeminiとFlowにAIが生成した画像・動画・音楽から目に見える「透かし」を削除する切り替え機能を追加、ただしSynthID透かしとC2PAメタデータは残る",
+      "link": "https://gigazine.net/news/20260817-google-visible-watermarks/",
+      "date": "2026-08-17T13:13:00+09:00",
+      "dateLabel": "08/17 13:13",
+      "desc": "GoogleのAIで生成した画像・動画に表示される透かし(ウォーターマーク)を削除できる機能がGeminiとFlowに追加されます。削除されるのは目に見える透かしのみで、目に見えない「SynthID」と「C2PAメタデータ」には影響しないため、Geminiに問い合わせたり専用のサービスを用いたりすることで引き続きAI生成画像かどうか識別することができます。 ",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "味の素、AIで編集した画像めぐり謝罪 ロゴやブランド表記がゆがんで表示",
+      "link": "https://ascii.jp/elem/000/004/427/4427000/?rss",
+      "date": "2026-08-17T13:10:00+09:00",
+      "dateLabel": "08/17 13:10",
+      "desc": "味の素パークは8月16日、公式Xで8月14日に投稿した「めんつゆ」のレシピ画像について、AI加工により不快感を与えたとして謝罪した。",
+      "img": "https://ascii.jp/img/2026/08/17/4513290/s/f330f8af3f74501e.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "1.1兆円超でStripeがAIゲートウェイサービスのOpenRouterを買収か",
       "link": "https://gigazine.net/news/20260817-stripe-acquire-openrouter-7-billion/",
       "date": "2026-08-17T10:40:00+09:00",
@@ -228,58 +272,14 @@
       "score": 26
     },
     {
-      "title": "「AI社長」のTHAとVision Baseが共同設立「AI Tower Japan」、杉山宏樹氏（株式会社ライトアップ執行役員）を特別顧問に迎える",
-      "link": "https://ascii.jp/elem/000/004/426/4426969/?rss",
-      "date": "2026-08-17T10:00:00+09:00",
-      "dateLabel": "08/17 10:00",
-      "desc": "「AI社長」のTHAとVision Baseが共同設立「AI Tower Japan」、杉山宏樹氏（株式会社ライトアップ執行役員）を特別顧問に迎える",
+      "title": "【キャンペーン実施】迫りくる「買い手市場」、新規だけでは買い手が足りない！今こそ「追客」のDXを。──AIによる継続追客と物件提案で現場負担軽減、売れ行き向上。",
+      "link": "https://ascii.jp/elem/000/004/426/4426997/?rss",
+      "date": "2026-08-17T10:30:00+09:00",
+      "dateLabel": "08/17 10:30",
+      "desc": "【キャンペーン実施】迫りくる「買い手市場」、新規だけでは買い手が足りない！今こそ「追客」のDXを。──AIによる継続追客と物件提案で現場負担軽減、売れ行き向上。",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "【AI対策をOEM】開発ゼロでAIO事業を立ち上げる！分析ツールと対策サービスのOEMパートナーを募集",
-      "link": "https://ascii.jp/elem/000/004/426/4426964/?rss",
-      "date": "2026-08-17T10:00:00+09:00",
-      "dateLabel": "08/17 10:00",
-      "desc": "【AI対策をOEM】開発ゼロでAIO事業を立ち上げる！分析ツールと対策サービスのOEMパートナーを募集",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "Hugging Face分析、中国のオープンモデルが台頭 Qwenは派生モデル15万件超",
-      "link": "https://www.itmedia.co.jp/news/article/2608/17/2000000557/",
-      "date": "2026-08-17T08:42:45+09:00",
-      "dateLabel": "08/17 08:42",
-      "desc": "Hugging Faceは、オープンモデル動向をまとめたレポートを公開した。中国勢が2兆パラメータ超の大規模モデルを相次いで公開するなど台頭する一方、実際のダウンロードの8割以上は10億パラメータ未満の小型モデルが占めた。Alibabaの「Qwen」は派生モデル数でMetaを上回り、開発者コミュニティの事実上の基盤モデルになりつつある。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "【読まれた記事1位】「AI需要で半導体不足」の裏で本当に起きていること――2026年前半まとめ",
-      "link": "https://www.itmedia.co.jp/business/articles/2608/17/news045.html",
-      "date": "2026-08-17T07:00:00+09:00",
-      "dateLabel": "08/17 07:00",
-      "desc": "AIブームを追い風に、半導体市場の成長が止まらない。今、半導体市場で何が起きているのか。注目記事をまとめた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "Claude、Codex、Qwen……そのAI用語、どう読む？ 読み方クイズ30問",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/17/news020.html",
-      "date": "2026-08-17T05:00:00+09:00",
-      "dateLabel": "08/17 05:00",
-      "desc": "何となくこう読むものだと思っていたら、実は違っていた。そんな経験はないでしょうか。AI用語にも、意外な読み方をするものや、人によって読み方が分かれるものが少なくありません。その読み方が合っているか、全30問のクイズで確かめてみてください。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
       "score": 26
     }
   ]
