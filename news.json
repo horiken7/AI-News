@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-18T20:15:59.818059+09:00",
-  "generatedLabel": "2026/08/18 20:15",
+  "generatedAt": "2026-08-18T21:23:13.154545+09:00",
+  "generatedLabel": "2026/08/18 21:23",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -85,17 +85,6 @@
       "score": 58
     },
     {
-      "title": "実はAnthropicには最上位のMythosよりも強力な「Model 2」というAIモデルがあるがリリース予定はない",
-      "link": "https://gigazine.net/news/20260817-anthropic-model-2/",
-      "date": "2026-08-17T21:00:00+09:00",
-      "dateLabel": "08/17 21:00",
-      "desc": "AnthropicがAIに関するリスクレポートを公開しました。その中で、一般公開されている最高性能のモデル「Claude Mythos 5」よりも性能が高い謎のモデルが登場することが話題になっています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 58
-    },
-    {
       "title": "OpenAIの大規模データセンターを作るべくNVIDIAがソフトバンク関連企業に2400億円を投資、2030年までに約96兆円のビジネスチャンスをもたらす計画",
       "link": "https://gigazine.net/news/20260818-nvidia-sb-energy-openai-ports-pike/",
       "date": "2026-08-18T11:40:00+09:00",
@@ -104,6 +93,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
+      "score": 50
+    },
+    {
+      "title": "実はAnthropicには最上位のMythosよりも強力な「Model 2」というAIモデルがあるがリリース予定はない",
+      "link": "https://gigazine.net/news/20260817-anthropic-model-2/",
+      "date": "2026-08-17T21:00:00+09:00",
+      "dateLabel": "08/17 21:00",
+      "desc": "AnthropicがAIに関するリスクレポートを公開しました。その中で、一般公開されている最高性能のモデル「Claude Mythos 5」よりも性能が高い謎のモデルが登場することが話題になっています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 50
     },
     {
@@ -145,17 +145,6 @@
       "date": "2026-08-18T17:35:23+09:00",
       "dateLabel": "08/18 17:35",
       "desc": "ORICO、AirPods第1/2世代対応MagSafe保護ケースを発表--精密フィット・内蔵スマホスタンド・ワンプッシュ開蓋・取り外し可能リング付き",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "ORICO、10Gbps・7RAIDモード・最大120TB拡張対応の2.5インチオールフラッシュSSDケースを発表--ビデオ編集・撮影現場の即時バックアップに最適なプロ仕様ストレージソリューション",
-      "link": "https://ascii.jp/elem/000/004/427/4427522/?rss",
-      "date": "2026-08-18T17:24:16+09:00",
-      "dateLabel": "08/18 17:24",
-      "desc": "ORICO、10Gbps・7RAIDモード・最大120TB拡張対応の2.5インチオールフラッシュSSDケースを発表--ビデオ編集・撮影現場の即時バックアップに最適なプロ仕様ストレージソリューション",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
@@ -277,6 +266,17 @@
       "date": "2026-08-18T18:20:00+09:00",
       "dateLabel": "08/18 18:20",
       "desc": "No.3 - AIは「一部の人だけの技術」から「誰でも使える仕事道具」へ。",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "【竹内択・葛西紀明・高梨沙羅ら集結】新感覚スポーツフェス「teamtaku CUP TAKE AIR 2026」10月12日長野県飯山市で開催決定！本日18時よりチケット販売開始",
+      "link": "https://ascii.jp/elem/000/004/427/4427573/?rss",
+      "date": "2026-08-18T18:00:00+09:00",
+      "dateLabel": "08/18 18:00",
+      "desc": "【竹内択・葛西紀明・高梨沙羅ら集結】新感覚スポーツフェス「teamtaku CUP TAKE AIR 2026」10月12日長野県飯山市で開催決定！本日18時よりチケット販売開始",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
