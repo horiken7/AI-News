@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-19T00:21:11.445610+09:00",
-  "generatedLabel": "2026/08/19 00:21",
+  "generatedAt": "2026-08-19T01:19:26.415643+09:00",
+  "generatedLabel": "2026/08/19 01:19",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 57,
@@ -74,17 +74,6 @@
       "score": 58
     },
     {
-      "title": "Visual Studio Code 1.133正式リリース。プロンプトを見失わない固定スクロール、ローカルHTMLファイルの自動リロード、ClaudeとCopilotの混在可能など新機能",
-      "link": "https://www.publickey1.jp/blog/26/visual_studio_code_1133htmlclaudecopilot.html",
-      "date": "2026-08-18T00:42:34+09:00",
-      "dateLabel": "08/18 00:42",
-      "desc": "マイクロソフトはオープンソースで開発されているコードエディタの最新版「Visual Studio Code 1.133」（以下、VS Code 1.133）の正式リリースを発表しました。 The latest @code release b...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 58
-    },
-    {
       "title": "OpenAIの大規模データセンターを作るべくNVIDIAがソフトバンク関連企業に2400億円を投資、2030年までに約96兆円のビジネスチャンスをもたらす計画",
       "link": "https://gigazine.net/news/20260818-nvidia-sb-energy-openai-ports-pike/",
       "date": "2026-08-18T11:40:00+09:00",
@@ -93,6 +82,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
+      "score": 50
+    },
+    {
+      "title": "Visual Studio Code 1.133正式リリース。プロンプトを見失わない固定スクロール、ローカルHTMLファイルの自動リロード、ClaudeとCopilotの混在可能など新機能",
+      "link": "https://www.publickey1.jp/blog/26/visual_studio_code_1133htmlclaudecopilot.html",
+      "date": "2026-08-18T00:42:34+09:00",
+      "dateLabel": "08/18 00:42",
+      "desc": "マイクロソフトはオープンソースで開発されているコードエディタの最新版「Visual Studio Code 1.133」（以下、VS Code 1.133）の正式リリースを発表しました。 The latest @code release b...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
       "score": 50
     },
     {
