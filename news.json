@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-18T15:24:56.083671+09:00",
-  "generatedLabel": "2026/08/18 15:24",
+  "generatedAt": "2026-08-18T16:29:24.011391+09:00",
+  "generatedLabel": "2026/08/18 16:29",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 54,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 2
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -118,17 +118,6 @@
       "score": 48
     },
     {
-      "title": "FCNT「arrows Alpha2」発表 AI・144Hz・2日持ちバッテリーを備えた最新モデル",
-      "link": "https://ascii.jp/elem/000/004/427/4427291/?rss",
-      "date": "2026-08-18T13:00:00+09:00",
-      "dateLabel": "08/18 13:00",
-      "desc": "FCNTが最上位スマートフォン「arrows Alpha2」を8月27日に発売。Dimensity 8350 Extreme、144Hz LTPOディスプレイ、5370mAhバッテリー、AI機能、高耐久設計を備えた最新フラッグシップモデルの特徴や発売情報を紹介します。",
-      "img": "https://ascii.jp/img/2026/08/18/4513833/s/1d7915a29896cdf5.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 42
-    },
-    {
       "title": "ローカルで動く中国製オープンモデル「Qwen3.8 27B」はGPT-5.6 Terra超えのエージェント性能で同等規模のモデルより圧倒的に高性能という分析結果",
       "link": "https://gigazine.net/news/20260818-qwen3-8-27b-performance/",
       "date": "2026-08-18T11:48:00+09:00",
@@ -138,6 +127,17 @@
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 42
+    },
+    {
+      "title": "Hugging Faceを攻撃してしまったOpenAIが「AIからの攻撃を防止する方法10選」を公開、CodexなどのAIツールの活用を呼びかけ",
+      "link": "https://gigazine.net/news/20260818-ai-security/",
+      "date": "2026-08-18T16:05:00+09:00",
+      "dateLabel": "08/18 16:05",
+      "desc": "OpenAIは2026年7月に「テスト中の自社製モデルがHugging Faceに対するサイバー攻撃を実行してしまった」というセキュリティインシデントを報告しました。この「AIによって自律的にサイバー攻撃が実行された」という事例を受けて、OpenAIの共同創業者であり社長も務めるグレッグ・ブロックマン氏が「AIからの攻撃を防止するために取り組むべき10の事柄",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "Anthropicの年換算収益が10兆円超で2025年末実績の約7倍に、四半期売上高は前年同期比14倍以上",
@@ -162,14 +162,14 @@
       "score": 34
     },
     {
-      "title": "対話型能力診断AIエージェントを開発！ 社会実装で人とAIの共進化社会の実現を目指す",
-      "link": "https://ascii.jp/elem/000/004/425/4425261/?rss",
-      "date": "2026-08-18T12:00:00+09:00",
-      "dateLabel": "08/18 12:00",
-      "desc": "早稲田大学発のスタートアップ企業であるエキュメノポリスの松山洋一代表取締役（CEO）は、対話型の診断に特化したAIエージェントを研究開発。JSTなどの支援制度を積極活用して研究成果の社会実装をしている。第1弾となる英会話能力診断・学習支援AIサービス「LANGX Speaking（ラングエックス・スピーキング）」は、すでに多くの大学や自治体に導入されている。",
-      "img": "https://ascii.jp/img/2026/08/06/4509986/s/b3ae8fd11767167b.jpg",
+      "title": "「10分でまるごと理解！生成AIを人材育成に取り入れて成果を上げる方法」についての資料を無料公開！｜株式会社LDcube",
+      "link": "https://ascii.jp/elem/000/004/427/4427435/?rss",
+      "date": "2026-08-18T14:00:00+09:00",
+      "dateLabel": "08/18 14:00",
+      "desc": "「10分でまるごと理解！生成AIを人材育成に取り入れて成果を上げる方法」についての資料を無料公開！｜株式会社LDcube",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
+      "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
@@ -250,17 +250,6 @@
       "score": 34
     },
     {
-      "title": "カメラ映像から作業者の動きをAIが検知し、マニュアルを自動生成する工場向けアプリをrenueが開発",
-      "link": "https://ascii.jp/elem/000/004/427/4427414/?rss",
-      "date": "2026-08-18T12:00:56+09:00",
-      "dateLabel": "08/18 12:00",
-      "desc": "カメラ映像から作業者の動きをAIが検知し、マニュアルを自動生成する工場向けアプリをrenueが開発",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
       "title": "業務効率に「不満」6割 なのに最も効くのは「生成AI」でも「ツール」でもなかった",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/18/news044.html",
       "date": "2026-08-18T08:00:00+09:00",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AI実装",
+      "score": 26
+    },
+    {
+      "title": "Pythonライクで高速な「Mojo言語」がバージョン1.0に到達、今後はコンパイラをオープンソース化すると表明",
+      "link": "https://www.publickey1.jp/blog/26/pythonmojo10.html",
+      "date": "2026-08-18T00:40:38+09:00",
+      "dateLabel": "08/18 00:40",
+      "desc": "Modular社は、AIを高速に実行することを目指したPythonライクなプログラミング言語「Mojo」がバージョン1.0に到達したことを発表しました。 Mojo 1.0 is here.Since we open-sourced the ...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AI全般",
       "score": 26
     }
   ]
