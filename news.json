@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-18T08:13:08.647512+09:00",
-  "generatedLabel": "2026/08/18 08:13",
+  "generatedAt": "2026-08-18T09:37:53.860724+09:00",
+  "generatedLabel": "2026/08/18 09:37",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 59,
@@ -118,17 +118,6 @@
       "score": 48
     },
     {
-      "title": "「Qwen3.8-27B」ウェイト公開 一部「Opus 4.6 Max」超えか ライセンスは商用可のApache 2.0",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/15/2000000554/",
-      "date": "2026-08-15T02:26:12+09:00",
-      "dateLabel": "08/15 02:26",
-      "desc": "中国Alibaba傘下のAlibaba Cloudが、AIモデル「Qwen3.8-27B」のウェイト（重み）を公開した。Hugging FaceとModelScopeからダウンロード可能で、商用利用もできるライセンス「Apache 2.0」で提供する。一部のベンチマークでは、米Anthropicの「Claude Opus 4.6」の推論エフォート最大（以下、",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 44
-    },
-    {
       "title": "16型165Hz液晶搭載、GIGABYTE「GAMING A16」発売 AI機能も充実",
       "link": "https://ascii.jp/elem/000/004/427/4427188/?rss",
       "date": "2026-08-18T07:00:00+09:00",
@@ -151,15 +140,26 @@
       "score": 42
     },
     {
-      "title": "ChatGPTがPC操作を自動で記録、コンテキストとして利用可能に Mac版デスクトップアプリで提供",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000548/",
-      "date": "2026-08-14T20:33:51+09:00",
-      "dateLabel": "08/14 20:33",
-      "desc": "OpenAIが「ChatGPT」「Codex」の新機能「Computer History」を発表。アプリやWebサイトの操作履歴を記録し、記憶とタイムラインとしてチャットで利用できる。Mac版デスクトップアプリで提供する。",
+      "title": "AIエージェントでCADやCAMを連携、製造プロセス自動化へ",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2608/18/news015.html",
+      "date": "2026-08-18T09:00:00+09:00",
+      "dateLabel": "08/18 09:00",
+      "desc": "データ・デザインは、製造現場向けのAIエージェント活用に関する研究開発と実証実験を開始した。CADやCAMなどのツールを連携させ、設計から品質管理までの業務プロセスの自動化と効率化を目指す。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 36
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "Cursor、コードホスティング機能「Origin」の初期βを提供開始 GitHubとの双方向同期に対応",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/18/2000000575/",
+      "date": "2026-08-18T08:40:47+09:00",
+      "dateLabel": "08/18 08:40",
+      "desc": "Anysphereは、AIコードエディタ「Cursor」上でコードをホストできる新サービス「Origin」の初期β提供を有料プラン向けに開始した。GitHubリポジトリとの双方向同期やプルリクエストの共同レビューに対応する。VercelやCIツールとも連携し、AIエージェント規模の開発を想定した基盤を提供する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "Appleがアリババの支援を受けて中国専用のAIモデルを作成中、中国で独自のAIモデルを提供する最初の外国企業となる可能性大",
@@ -272,14 +272,14 @@
       "score": 34
     },
     {
-      "title": "「AI進化の裏でモノづくりは30年止まっている」、直列工程を並列化する産業OS",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2608/18/news045.html",
-      "date": "2026-08-18T06:45:00+09:00",
-      "dateLabel": "08/18 06:45",
-      "desc": "キャディは次世代版「製造業AIデータプラットフォームCADDi」を発表した。AIと人が共有するデータ／セマンティクス基盤で現場の暗黙知を構造化し、直列工程の並列化でモノづくりの加速を目指す。",
+      "title": "業務効率に「不満」6割 なのに最も効くのは「生成AI」でも「ツール」でもなかった",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/18/news044.html",
+      "date": "2026-08-18T08:00:00+09:00",
+      "dateLabel": "08/18 08:00",
+      "desc": "アスノシステムが「仕事の生産性向上・業務改善に関する実態調査2026」の結果を発表。6割が勤務先の業務効率に不満を抱いており、改善を阻む要因や改善に効く取り組み、「業務効率化したら何をしたいか」などが示された。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AI実装",
+      "cat": "生成AI/マルチモーダル",
       "score": 26
     }
   ]
