@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-18T22:35:09.634233+09:00",
-  "generatedLabel": "2026/08/18 22:35",
+  "generatedAt": "2026-08-18T23:22:42.016310+09:00",
+  "generatedLabel": "2026/08/18 23:22",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 10
+      "items": 11
     },
     {
       "source": "AINOW",
@@ -96,17 +96,6 @@
       "score": 50
     },
     {
-      "title": "実はAnthropicには最上位のMythosよりも強力な「Model 2」というAIモデルがあるがリリース予定はない",
-      "link": "https://gigazine.net/news/20260817-anthropic-model-2/",
-      "date": "2026-08-17T21:00:00+09:00",
-      "dateLabel": "08/17 21:00",
-      "desc": "AnthropicがAIに関するリスクレポートを公開しました。その中で、一般公開されている最高性能のモデル「Claude Mythos 5」よりも性能が高い謎のモデルが登場することが話題になっています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
       "title": "1Password、ダッシュボードから組織のAI支出状況を表示する新機能。ClaudeやCursor、ChatGPTなど複数AIにI対応",
       "link": "https://www.publickey1.jp/blog/26/1passwordaiclaudecursorchatgptaii.html",
       "date": "2026-08-05T00:38:32+09:00",
@@ -127,6 +116,28 @@
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 42
+    },
+    {
+      "title": "AIエージェント時代のGitホスティングサービス「Origin」、Cursorが発表。Cursorとの統合、コマンドラインでの操作、GitHubとの同期など提供",
+      "link": "https://www.publickey1.jp/blog/26/aigitorigincursorcursorgithub.html",
+      "date": "2026-08-19T00:43:29+09:00",
+      "dateLabel": "08/19 00:43",
+      "desc": "AIコードエディタのCursorなどを提供するAnysphereは、Gitに対応したコードホスティングサービス「Origin」を発表しました。 Origin, our code hosting platform, is now live.I...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "Appleの「カメラ搭載AirPods」がリリース間近らしいことがmacOSリリース候補版内のファイルから判明",
+      "link": "https://gigazine.net/news/20260818-camera-equipped-airpods/",
+      "date": "2026-08-18T22:40:00+09:00",
+      "dateLabel": "08/18 22:40",
+      "desc": "Appleが配信したmacOS Tahoe 26.7のリリース候補版に含まれたファイルから、多数の未発表製品の存在が明らかになりました。ファイルの情報から、Appleは「カメラ搭載のAirPods」を開発していて、まもなくリリース予定だとみられています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "ゲーミングノートPCを17万円台で買えるチャンス！ 144Hz液晶＆RTX 5050搭載のMSI「Cyborg 15」タイムセール中",
@@ -250,34 +261,23 @@
       "score": 34
     },
     {
+      "title": "Google、AIモデルをコンパイルして暗号データを復号せずに扱えるように変換する「HEIR」発表。完全準同型暗号を利用し、AIでのセキュリティやプライバシー保護など実現へ",
+      "link": "https://www.publickey1.jp/blog/26/googleaiheirai.html",
+      "date": "2026-08-19T00:55:25+09:00",
+      "dateLabel": "08/19 00:55",
+      "desc": "Googleは、完全準同型暗号を利用したAIモデル用のオープンソースコンパイラ「HEIR」を発表しました。 AIモデルをコンパイルする「HEIR」 HEIRはAIモデル用のコンパイラとツールチェーンであり、これを用いて学習済みAIモデルのP...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "規制/安全",
+      "score": 26
+    },
+    {
       "title": "右手デバイス代わりに計16ボタン＆Stream Deck連携が魅力のワイヤレスゲーミングマウスはいかが？ 31％オフの1万5091円でセール中",
       "link": "https://ascii.jp/elem/000/004/427/4427480/?rss",
       "date": "2026-08-18T18:30:00+09:00",
       "dateLabel": "08/18 18:30",
       "desc": "Amazon.co.jpにて、CORSAIRのワイヤレスゲーミングマウス「CORSAIR SCIMITAR ELITE WIRELESS SE」が販売中だ。参考価格は2万1980円だが、執筆時点では31％オフの1万5091円で購入できる（8月18日時点）。",
       "img": "https://ascii.jp/img/2026/08/18/4513959/s/46fab64b7add7099.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "No.3 - AIは「一部の人だけの技術」から「誰でも使える仕事道具」へ。",
-      "link": "https://ascii.jp/elem/000/004/427/4427578/?rss",
-      "date": "2026-08-18T18:20:00+09:00",
-      "dateLabel": "08/18 18:20",
-      "desc": "No.3 - AIは「一部の人だけの技術」から「誰でも使える仕事道具」へ。",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "【竹内択・葛西紀明・高梨沙羅ら集結】新感覚スポーツフェス「teamtaku CUP TAKE AIR 2026」10月12日長野県飯山市で開催決定！本日18時よりチケット販売開始",
-      "link": "https://ascii.jp/elem/000/004/427/4427573/?rss",
-      "date": "2026-08-18T18:00:00+09:00",
-      "dateLabel": "08/18 18:00",
-      "desc": "【竹内択・葛西紀明・高梨沙羅ら集結】新感覚スポーツフェス「teamtaku CUP TAKE AIR 2026」10月12日長野県飯山市で開催決定！本日18時よりチケット販売開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
