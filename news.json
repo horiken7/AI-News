@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-18T18:22:13.637393+09:00",
-  "generatedLabel": "2026/08/18 18:22",
+  "generatedAt": "2026-08-18T19:17:29.809049+09:00",
+  "generatedLabel": "2026/08/18 19:17",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 52,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 2
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -250,6 +250,28 @@
       "score": 34
     },
     {
+      "title": "右手デバイス代わりに計16ボタン＆Stream Deck連携が魅力のワイヤレスゲーミングマウスはいかが？ 31％オフの1万5091円でセール中",
+      "link": "https://ascii.jp/elem/000/004/427/4427480/?rss",
+      "date": "2026-08-18T18:30:00+09:00",
+      "dateLabel": "08/18 18:30",
+      "desc": "Amazon.co.jpにて、CORSAIRのワイヤレスゲーミングマウス「CORSAIR SCIMITAR ELITE WIRELESS SE」が販売中だ。参考価格は2万1980円だが、執筆時点では31％オフの1万5091円で購入できる（8月18日時点）。",
+      "img": "https://ascii.jp/img/2026/08/18/4513959/s/46fab64b7add7099.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "【竹内択・葛西紀明・高梨沙羅ら集結】新感覚スポーツフェス「teamtaku CUP TAKE AIR 2026」10月12日長野県飯山市で開催決定！本日18時よりチケット販売開始",
+      "link": "https://ascii.jp/elem/000/004/427/4427573/?rss",
+      "date": "2026-08-18T18:00:00+09:00",
+      "dateLabel": "08/18 18:00",
+      "desc": "【竹内択・葛西紀明・高梨沙羅ら集結】新感覚スポーツフェス「teamtaku CUP TAKE AIR 2026」10月12日長野県飯山市で開催決定！本日18時よりチケット販売開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "イスラエルでAIチャットボットを欺く目的で設立された偽のシンクタンクが出現、わずか1週間強の間にAIチャットボットに影響を与えることを目的としたと思われる記事を少なくとも100本公開",
       "link": "https://gigazine.net/news/20260818-israel-creates-fake-think-tank-dupe-ai-chatbots/",
       "date": "2026-08-18T17:28:00+09:00",
@@ -258,28 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "業務効率に「不満」6割 なのに最も効くのは「生成AI」でも「ツール」でもなかった",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/18/news044.html",
-      "date": "2026-08-18T08:00:00+09:00",
-      "dateLabel": "08/18 08:00",
-      "desc": "アスノシステムが「仕事の生産性向上・業務改善に関する実態調査2026」の結果を発表。6割が勤務先の業務効率に不満を抱いており、改善を阻む要因や改善に効く取り組み、「業務効率化したら何をしたいか」などが示された。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
-      "title": "「AI進化の裏でモノづくりは30年止まっている」、直列工程を並列化する産業OS",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2608/18/news045.html",
-      "date": "2026-08-18T06:45:00+09:00",
-      "dateLabel": "08/18 06:45",
-      "desc": "キャディは次世代版「製造業AIデータプラットフォームCADDi」を発表した。AIと人が共有するデータ／セマンティクス基盤で現場の暗黙知を構造化し、直列工程の並列化でモノづくりの加速を目指す。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI実装",
       "score": 26
     }
   ]
