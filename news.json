@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-19T07:12:01.302837+09:00",
-  "generatedLabel": "2026/08/19 07:12",
+  "generatedAt": "2026-08-19T08:12:31.475154+09:00",
+  "generatedLabel": "2026/08/19 08:12",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 57,
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 19
+      "items": 18
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -107,6 +107,17 @@
       "score": 48
     },
     {
+      "title": "OpenAI、フロンティアAIの強化学習を一部停止 安全対策を強化",
+      "link": "https://www.itmedia.co.jp/news/article/2608/19/2000000605/",
+      "date": "2026-08-19T07:06:14+09:00",
+      "dateLabel": "08/19 07:06",
+      "desc": "OpenAIは、外部侵害インシデントや次期モデルの高いサイバー能力を受け、開発・テスト段階の安全対策を強化すると発表した。一部の大規模モデルの強化学習を一時停止し、研究環境の隔離や内部活動の監視多段化、アラインメント手法の拡張を実施。安全性基準を満たした上で開発を進める姿勢を示した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
+      "score": 42
+    },
+    {
       "title": "車に運転支援機能を追加できるデバイスをGPUで強化するためのeGPUドック「Chestnut」をComma.aiがリリース",
       "link": "https://gigazine.net/news/20260819-egpu-dock-chestnut/",
       "date": "2026-08-19T07:00:00+09:00",
@@ -138,6 +149,17 @@
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 42
+    },
+    {
+      "title": "「ドラクエXの世界観を壊さない」Gemini実装 プロンプトからセキュリティ、サーバー設計まで工夫の数々",
+      "link": "https://ascii.jp/elem/000/004/426/4426893/?rss",
+      "date": "2026-08-19T08:00:00+09:00",
+      "dateLabel": "08/19 08:00",
+      "desc": "「ドラゴンクエストX オンライン」において、“冒険の相棒”となるAI機能「おしゃべりスラミィ」の開発が進められている。同機能にはGoogleの「Gemini」が採用されており、「Google Cloud Next Tokyo 26」のスクウェア・エニックスのセッションでは、そのGemini実装における技術的な知見やノウハウが共有された。",
+      "img": "https://ascii.jp/img/2026/08/17/4513460/s/a75439e778f3dda3.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "ドローンも入れない細い配管へ。ミミズ型おそうじロボ「Sooha」",
@@ -239,17 +261,6 @@
       "score": 34
     },
     {
-      "title": "Appleがアリババの支援を受けて中国専用のAIモデルを作成中、中国で独自のAIモデルを提供する最初の外国企業となる可能性大",
-      "link": "https://gigazine.net/news/20260818-apple-alibaba-model/",
-      "date": "2026-08-18T08:00:00+09:00",
-      "dateLabel": "08/18 08:00",
-      "desc": "Appleが中国のIT大手であるアリババと提携し、中国市場向けに独自のAIモデルを開発していたことが事情に詳しい関係者らの証言で明らかになりました。Appleは中国で販売されているiPhone向けに中国のパートナー企業が開発したAIモデルを利用する方針でしたが、今後数か月以内に中国でiOSのアップデートが適用された際に、独自AIモデルがリリースされる予定であ",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表",
       "link": "https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html",
       "date": "2026-08-17T00:10:13+09:00",
@@ -269,17 +280,6 @@
       "img": "https://ascii.jp/img/2026/07/07/4496208/s/ae4141bcdf10a71b.jpg",
       "src": "ASCII.jp",
       "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "Google、AIモデルをコンパイルして暗号データを復号せずに扱えるように変換する「HEIR」発表。完全準同型暗号を利用し、AIでのセキュリティやプライバシー保護など実現へ",
-      "link": "https://www.publickey1.jp/blog/26/googleaiheirai.html",
-      "date": "2026-08-19T00:55:25+09:00",
-      "dateLabel": "08/19 00:55",
-      "desc": "Googleは、完全準同型暗号を利用したAIモデル用のオープンソースコンパイラ「HEIR」を発表しました。 AIモデルをコンパイルする「HEIR」 HEIRはAIモデル用のコンパイラとツールチェーンであり、これを用いて学習済みAIモデルのP...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "規制/安全",
       "score": 26
     }
   ]
