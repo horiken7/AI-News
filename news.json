@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-18T11:09:15.320387+09:00",
-  "generatedLabel": "2026/08/18 11:09",
+  "generatedAt": "2026-08-18T12:35:55.652724+09:00",
+  "generatedLabel": "2026/08/18 12:35",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 64,
+  "candidates": 62,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 11
+      "items": 10
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -107,6 +107,17 @@
       "score": 58
     },
     {
+      "title": "OpenAIの大規模データセンターを作るべくNVIDIAがソフトバンク関連企業に2400億円を投資、2030年までに約96兆円のビジネスチャンスをもたらす計画",
+      "link": "https://gigazine.net/news/20260818-nvidia-sb-energy-openai-ports-pike/",
+      "date": "2026-08-18T11:40:00+09:00",
+      "dateLabel": "08/18 11:40",
+      "desc": "ソフトバンクグループの傘下企業であるSB Energyはアメリカのオハイオ州に「PORTS-Pike Technology Campus」と呼ばれる大規模データセンターを建設する計画を進めています。新たに、NVIDIAがSB Energyに15億ドル(約2400億円)を投資し、PORTS-Pike Technology CampusにおけるAIインフラストラ",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 50
+    },
+    {
       "title": "1Password、ダッシュボードから組織のAI支出状況を表示する新機能。ClaudeやCursor、ChatGPTなど複数AIにI対応",
       "link": "https://www.publickey1.jp/blog/26/1passwordaiclaudecursorchatgptaii.html",
       "date": "2026-08-05T00:38:32+09:00",
@@ -116,6 +127,17 @@
       "src": "Publickey",
       "cat": "LLM/モデル",
       "score": 48
+    },
+    {
+      "title": "ローカルで動く中国製オープンモデル「Qwen3.8 27B」はGPT-5.6 Terra超えのエージェント性能で同等規模のモデルより圧倒的に高性能という分析結果",
+      "link": "https://gigazine.net/news/20260818-qwen3-8-27b-performance/",
+      "date": "2026-08-18T11:48:00+09:00",
+      "dateLabel": "08/18 11:48",
+      "desc": "中国企業のAlibabaはローカルで実行できるAIモデル「Qwen3.8 27B」を日本時間の2026年8月15日に公開しました。このQwen3.8 27Bについて、第三者機関のArtificial Analysisが性能分析結果を2026年8月17日に公開し、Qwen3.8 27Bがローカルで動くオープンモデルでありながらGPT-5.6 Terraといった",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 42
     },
     {
       "title": "【提言】フロンティアAIが生む“脆弱性パッチの波” 企業はパッチ適用プロセスの見直しを",
@@ -129,25 +151,47 @@
       "score": 42
     },
     {
-      "title": "株式会社Re-rail、OpenAI Select Partnerに選定",
-      "link": "https://ascii.jp/elem/000/004/427/4427221/?rss",
-      "date": "2026-08-18T10:00:00+09:00",
-      "dateLabel": "08/18 10:00",
-      "desc": "株式会社Re-rail、OpenAI Select Partnerに選定",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "title": "対話型能力診断AIエージェントを開発！ 社会実装で人とAIの共進化社会の実現を目指す",
+      "link": "https://ascii.jp/elem/000/004/425/4425261/?rss",
+      "date": "2026-08-18T12:00:00+09:00",
+      "dateLabel": "08/18 12:00",
+      "desc": "早稲田大学発のスタートアップ企業であるエキュメノポリスの松山洋一代表取締役（CEO）は、対話型の診断に特化したAIエージェントを研究開発。JSTなどの支援制度を積極活用して研究成果の社会実装をしている。第1弾となる英会話能力診断・学習支援AIサービス「LANGX Speaking（ラングエックス・スピーキング）」は、すでに多くの大学や自治体に導入されている。",
+      "img": "https://ascii.jp/img/2026/08/06/4509986/s/b3ae8fd11767167b.jpg",
       "src": "ASCII.jp",
-      "cat": "LLM/モデル",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
-      "title": "AI会計ソフトKOZOTAI、外部連携APIを公開",
-      "link": "https://ascii.jp/elem/000/004/427/4427230/?rss",
-      "date": "2026-08-18T09:30:00+09:00",
-      "dateLabel": "08/18 09:30",
-      "desc": "AI会計ソフトKOZOTAI、外部連携APIを公開",
+      "title": "株式会社ジェイテック、企業のDX推進を加速させる「生成AIソリューション」の新ランディングページを公開！",
+      "link": "https://ascii.jp/elem/000/004/427/4427301/?rss",
+      "date": "2026-08-18T10:00:00+09:00",
+      "dateLabel": "08/18 10:00",
+      "desc": "株式会社ジェイテック、企業のDX推進を加速させる「生成AIソリューション」の新ランディングページを公開！",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AI全般",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "NEC、物理的安全性が保証された暗号デバイスの設計方法を開発",
+      "link": "https://ascii.jp/elem/000/004/427/4427300/?rss",
+      "date": "2026-08-18T10:00:00+09:00",
+      "dateLabel": "08/18 10:00",
+      "desc": "NEC、物理的安全性が保証された暗号デバイスの設計方法を開発",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "規制/安全",
+      "score": 34
+    },
+    {
+      "title": "ネクストジェンとモビルスが業務提携 オンプレミスPBX環境とクラウド生成AIソリューションとの連携が実現",
+      "link": "https://ascii.jp/elem/000/004/427/4427299/?rss",
+      "date": "2026-08-18T10:00:00+09:00",
+      "dateLabel": "08/18 10:00",
+      "desc": "ネクストジェンとモビルスが業務提携 オンプレミスPBX環境とクラウド生成AIソリューションとの連携が実現",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
@@ -159,39 +203,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "【オフラインイベント】「買いたい瞬間」に選ばれるブランドとは？AI検索対策（LLMO）×デジタル広告で実現する、新市場・CEPs拡張戦略 を8/25（火）に開催",
-      "link": "https://ascii.jp/elem/000/004/427/4427243/?rss",
-      "date": "2026-08-18T09:00:00+09:00",
-      "dateLabel": "08/18 09:00",
-      "desc": "【オフラインイベント】「買いたい瞬間」に選ばれるブランドとは？AI検索対策（LLMO）×デジタル広告で実現する、新市場・CEPs拡張戦略 を8/25（火）に開催",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "日本発の、AI転職エージェント「PREVIO（プレビオ）」 本格始動。「自分に合う求人だけが、理由とともに届く」新しい転職体験を提供",
-      "link": "https://ascii.jp/elem/000/004/427/4427241/?rss",
-      "date": "2026-08-18T09:00:00+09:00",
-      "dateLabel": "08/18 09:00",
-      "desc": "日本発の、AI転職エージェント「PREVIO（プレビオ）」 本格始動。「自分に合う求人だけが、理由とともに届く」新しい転職体験を提供",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "AIビジョン「AIを、人と組織と産業の『自然』にする。」を策定すると共にAIオファリング全体像を公開。",
-      "link": "https://ascii.jp/elem/000/004/427/4427239/?rss",
-      "date": "2026-08-18T09:00:00+09:00",
-      "dateLabel": "08/18 09:00",
-      "desc": "AIビジョン「AIを、人と組織と産業の『自然』にする。」を策定すると共にAIオファリング全体像を公開。",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -261,25 +272,14 @@
       "score": 34
     },
     {
-      "title": "Z.aiがコーディング能力に優れたオープンウェイトAIモデル「GLM-5.3」リリース、前モデル比で50％の性能向上",
-      "link": "https://gigazine.net/news/20260817-z-ai-glm-5-3/",
-      "date": "2026-08-17T12:05:00+09:00",
-      "dateLabel": "08/17 12:05",
-      "desc": "中国のAI企業・Z.ai(北京智譜華章科技)が、コーディング能力に優れ、サイバーセキュリティタスクでは「これまでで最も有能なモデル」だというAIモデル「GLM-5.3」をリリースしました。 続きを読む...",
+      "title": "タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表",
+      "link": "https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html",
+      "date": "2026-08-17T00:10:13+09:00",
+      "dateLabel": "08/17 00:10",
+      "desc": "CloudflareはAIエージェントによる操作専用のヘッドレスなWebブラウザ「Kitesurf」を発表しました。 現在ベータ版として公開されています。 Kitesurfは主にRust言語で記述されWebAssemblyにコンパイルされた...",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "「AIが生成した文章であることを示す電子透かし」についてAnthropicが公式解説",
-      "link": "https://gigazine.net/news/20260817-anthropic-claude-text-watermark/",
-      "date": "2026-08-17T11:43:00+09:00",
-      "dateLabel": "08/17 11:43",
-      "desc": "EUの法律に準拠するため、AnthropicはClaudeが生成したコンテンツに「透かし(ウォーターマーク)」を追加する予定です。Anthropicが、「文章」に追加する透かしの仕組みを解説しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
       "score": 34
     }
   ]
