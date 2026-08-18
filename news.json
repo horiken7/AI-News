@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-18T17:23:10.118900+09:00",
-  "generatedLabel": "2026/08/18 17:23",
+  "generatedAt": "2026-08-18T18:22:13.637393+09:00",
+  "generatedLabel": "2026/08/18 18:22",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 2
     },
     {
       "source": "PC Watch",
@@ -129,6 +129,39 @@
       "score": 42
     },
     {
+      "title": "ORICO、AirPods第1/2世代対応MagSafe保護ケースを発表--精密フィット・内蔵スマホスタンド・ワンプッシュ開蓋・取り外し可能リング付き",
+      "link": "https://ascii.jp/elem/000/004/427/4427521/?rss",
+      "date": "2026-08-18T17:35:23+09:00",
+      "dateLabel": "08/18 17:35",
+      "desc": "ORICO、AirPods第1/2世代対応MagSafe保護ケースを発表--精密フィット・内蔵スマホスタンド・ワンプッシュ開蓋・取り外し可能リング付き",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "ORICO、10Gbps・7RAIDモード・最大120TB拡張対応の2.5インチオールフラッシュSSDケースを発表--ビデオ編集・撮影現場の即時バックアップに最適なプロ仕様ストレージソリューション",
+      "link": "https://ascii.jp/elem/000/004/427/4427522/?rss",
+      "date": "2026-08-18T17:24:16+09:00",
+      "dateLabel": "08/18 17:24",
+      "desc": "ORICO、10Gbps・7RAIDモード・最大120TB拡張対応の2.5インチオールフラッシュSSDケースを発表--ビデオ編集・撮影現場の即時バックアップに最適なプロ仕様ストレージソリューション",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "無料で読めるAIエージェントの実践ガイド、Googleが公開 基礎から本番実装まで学べる",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/18/news055.html",
+      "date": "2026-08-18T17:00:00+09:00",
+      "dateLabel": "08/18 17:00",
+      "desc": "AIエージェントの基礎から本番実装まで学べる5つのガイドをGoogleが無償公開した。Kaggleと共同で実施した研修プログラムを基にした内容で、開発者の実務に直結する知識を習得できる。各ガイドが扱う内容とは。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
       "title": "Hugging Faceを攻撃してしまったOpenAIが「AIからの攻撃を防止する方法10選」を公開、CodexなどのAIツールの活用を呼びかけ",
       "link": "https://gigazine.net/news/20260818-ai-security/",
       "date": "2026-08-18T16:05:00+09:00",
@@ -148,17 +181,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "「2年先の暑さ」までAIが予測 企業の計画に変化も",
-      "link": "https://ascii.jp/elem/000/004/427/4427424/?rss",
-      "date": "2026-08-18T15:05:00+09:00",
-      "dateLabel": "08/18 15:05",
-      "desc": "ウェザーニューズは8月18日、法人向けサービス「ウェザーニュース for business」で24ヵ月先までの月別気温予測の提供を開始したと発表した。",
-      "img": "https://ascii.jp/img/2026/08/18/4513925/s/50f2aba0692008a6.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -228,46 +250,13 @@
       "score": 34
     },
     {
-      "title": "【過去満足度 平均4.3/5.0】AI時代の広報PR戦略 -戦略・スキーム編- 9月4日（金）開催",
-      "link": "https://ascii.jp/elem/000/004/427/4427495/?rss",
-      "date": "2026-08-18T15:00:00+09:00",
-      "dateLabel": "08/18 15:00",
-      "desc": "【過去満足度 平均4.3/5.0】AI時代の広報PR戦略 -戦略・スキーム編- 9月4日（金）開催",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "AI時代、官民連携はどう変わるのか。LobbyAI代表・高橋京太郎が「AI博覧会 Summer 2026」に登壇",
-      "link": "https://ascii.jp/elem/000/004/427/4427498/?rss",
-      "date": "2026-08-18T14:59:42+09:00",
-      "dateLabel": "08/18 14:59",
-      "desc": "AI時代、官民連携はどう変わるのか。LobbyAI代表・高橋京太郎が「AI博覧会 Summer 2026」に登壇",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "【メンズ眉毛サロンKegirai】男性の眉毛と第一印象の関係を発信する専門メディア「メンズ眉毛白書」を開設",
-      "link": "https://ascii.jp/elem/000/004/427/4427497/?rss",
-      "date": "2026-08-18T14:40:55+09:00",
-      "dateLabel": "08/18 14:40",
-      "desc": "【メンズ眉毛サロンKegirai】男性の眉毛と第一印象の関係を発信する専門メディア「メンズ眉毛白書」を開設",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "【9月16日（水）｜カンファレンス登壇のお知らせ】オンラインカンファレンス「BtoBマーケティング AI攻略カンファレンス2026」にTechSuite株式会社が登壇",
-      "link": "https://ascii.jp/elem/000/004/427/4427500/?rss",
-      "date": "2026-08-18T14:30:00+09:00",
-      "dateLabel": "08/18 14:30",
-      "desc": "【9月16日（水）｜カンファレンス登壇のお知らせ】オンラインカンファレンス「BtoBマーケティング AI攻略カンファレンス2026」にTechSuite株式会社が登壇",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
+      "title": "イスラエルでAIチャットボットを欺く目的で設立された偽のシンクタンクが出現、わずか1週間強の間にAIチャットボットに影響を与えることを目的としたと思われる記事を少なくとも100本公開",
+      "link": "https://gigazine.net/news/20260818-israel-creates-fake-think-tank-dupe-ai-chatbots/",
+      "date": "2026-08-18T17:28:00+09:00",
+      "dateLabel": "08/18 17:28",
+      "desc": "イスラエルのハノーバー公共政策研究所が、わずか1週間強の間にAIチャットボットを欺く目的で、100本近くの記事を公開していることが明らかになったと、外交政策シンクタンクのクインシー研究所が公開しているオンラインマガジン・Responsible Statecraftが報じています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AI全般",
       "score": 26
     },
@@ -280,6 +269,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "生成AI/マルチモーダル",
+      "score": 26
+    },
+    {
+      "title": "「AI進化の裏でモノづくりは30年止まっている」、直列工程を並列化する産業OS",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2608/18/news045.html",
+      "date": "2026-08-18T06:45:00+09:00",
+      "dateLabel": "08/18 06:45",
+      "desc": "キャディは次世代版「製造業AIデータプラットフォームCADDi」を発表した。AIと人が共有するデータ／セマンティクス基盤で現場の暗黙知を構造化し、直列工程の並列化でモノづくりの加速を目指す。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI実装",
       "score": 26
     }
   ]
