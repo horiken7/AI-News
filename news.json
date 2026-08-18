@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-18T23:22:42.016310+09:00",
-  "generatedLabel": "2026/08/18 23:22",
+  "generatedAt": "2026-08-19T00:21:11.445610+09:00",
+  "generatedLabel": "2026/08/19 00:21",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -105,6 +105,17 @@
       "src": "Publickey",
       "cat": "LLM/モデル",
       "score": 48
+    },
+    {
+      "title": "16型で990gを実現した憧れのモバイルノート「Swift Air 16」の新モデル発表",
+      "link": "https://ascii.jp/elem/000/004/427/4427585/?rss",
+      "date": "2026-08-19T00:01:00+09:00",
+      "dateLabel": "08/19 00:01",
+      "desc": "16インチWUXGAに6コア/12スレッド「AMD Ryzen AI 7 345」、メモリー32GB、SSD512GB搭載で24万円です。",
+      "img": "https://ascii.jp/img/2026/08/18/4514173/s/fcebae39ef984071.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 42
     },
     {
       "title": "ローカルで動く中国製オープンモデル「Qwen3.8 27B」はGPT-5.6 Terra超えのエージェント性能で同等規模のモデルより圧倒的に高性能という分析結果",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "Publickey",
       "cat": "規制/安全",
-      "score": 26
-    },
-    {
-      "title": "右手デバイス代わりに計16ボタン＆Stream Deck連携が魅力のワイヤレスゲーミングマウスはいかが？ 31％オフの1万5091円でセール中",
-      "link": "https://ascii.jp/elem/000/004/427/4427480/?rss",
-      "date": "2026-08-18T18:30:00+09:00",
-      "dateLabel": "08/18 18:30",
-      "desc": "Amazon.co.jpにて、CORSAIRのワイヤレスゲーミングマウス「CORSAIR SCIMITAR ELITE WIRELESS SE」が販売中だ。参考価格は2万1980円だが、執筆時点では31％オフの1万5091円で購入できる（8月18日時点）。",
-      "img": "https://ascii.jp/img/2026/08/18/4513959/s/46fab64b7add7099.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 26
     }
   ]
