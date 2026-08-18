@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-19T06:14:09.350160+09:00",
-  "generatedLabel": "2026/08/19 06:14",
+  "generatedAt": "2026-08-19T07:12:01.302837+09:00",
+  "generatedLabel": "2026/08/19 07:12",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -63,17 +63,6 @@
   ],
   "articles": [
     {
-      "title": "NVIDIA、OpenAIのオハイオAIデータセンターに最大1050億ドルの債務保証──SB Energyと提携",
-      "link": "https://www.itmedia.co.jp/news/article/2608/18/2000000572/",
-      "date": "2026-08-18T06:55:32+09:00",
-      "dateLabel": "08/18 06:55",
-      "desc": "NVIDIAは、オハイオ州で建設中のAIデータセンター「PORTS-Pike Technology Campus」に計算基盤を独占提供すると発表した。OpenAIがテナントとなり、SB Energyが運営する。NVIDIAは最大1050億ドルの債務保証を負い、最大8GW規模のAIファクトリーを段階的に展開する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 58
-    },
-    {
       "title": "OpenAIの大規模データセンターを作るべくNVIDIAがソフトバンク関連企業に2400億円を投資、2030年までに約96兆円のビジネスチャンスをもたらす計画",
       "link": "https://gigazine.net/news/20260818-nvidia-sb-energy-openai-ports-pike/",
       "date": "2026-08-18T11:40:00+09:00",
@@ -81,6 +70,17 @@
       "desc": "ソフトバンクグループの傘下企業であるSB Energyはアメリカのオハイオ州に「PORTS-Pike Technology Campus」と呼ばれる大規模データセンターを建設する計画を進めています。新たに、NVIDIAがSB Energyに15億ドル(約2400億円)を投資し、PORTS-Pike Technology CampusにおけるAIインフラストラ",
       "img": "",
       "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 50
+    },
+    {
+      "title": "NVIDIA、OpenAIのオハイオAIデータセンターに最大1050億ドルの債務保証──SB Energyと提携",
+      "link": "https://www.itmedia.co.jp/news/article/2608/18/2000000572/",
+      "date": "2026-08-18T06:55:32+09:00",
+      "dateLabel": "08/18 06:55",
+      "desc": "NVIDIAは、オハイオ州で建設中のAIデータセンター「PORTS-Pike Technology Campus」に計算基盤を独占提供すると発表した。OpenAIがテナントとなり、SB Energyが運営する。NVIDIAは最大1050億ドルの債務保証を負い、最大8GW規模のAIファクトリーを段階的に展開する。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "半導体/GPU",
       "score": 50
     },
@@ -107,6 +107,17 @@
       "score": 48
     },
     {
+      "title": "車に運転支援機能を追加できるデバイスをGPUで強化するためのeGPUドック「Chestnut」をComma.aiがリリース",
+      "link": "https://gigazine.net/news/20260819-egpu-dock-chestnut/",
+      "date": "2026-08-19T07:00:00+09:00",
+      "dateLabel": "08/19 07:00",
+      "desc": "天才的なプログラミング能力を買われてFacebookやGoogleで働いた経験もあるジョージ・ホッツ氏が2016年に立ち上げたスタートアップComma.aiは、自動車に取り付けるだけで運転支援機能を追加できるデバイスを開発しています。そんなComma.aiが新たに、より大型のドライビングモデルを車が実行できるようにGPUを車載コンピューターにつなぐためのeG",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
       "title": "16型で990gを実現した憧れのモバイルノート「Swift Air 16」の新モデル発表",
       "link": "https://ascii.jp/elem/000/004/427/4427585/?rss",
       "date": "2026-08-19T00:01:00+09:00",
@@ -127,6 +138,17 @@
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 42
+    },
+    {
+      "title": "ドローンも入れない細い配管へ。ミミズ型おそうじロボ「Sooha」",
+      "link": "https://ascii.jp/elem/000/004/419/4419683/?rss",
+      "date": "2026-08-19T07:00:00+09:00",
+      "dateLabel": "08/19 07:00",
+      "desc": "2026年7月1日から3日まで京都で開催されたスタートアップカンファレンス「IVS2026」に中央大学発スタートアップの株式会社ソラリスが出展。半導体工場など細い配管の点検・清掃向けに、空気圧人工筋肉を活用したミミズ型管内走行ロボット「Sooha」を紹介していた。",
+      "img": "https://ascii.jp/img/2026/07/15/4500791/s/b7bc2b48787127d0.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
     },
     {
       "title": "AIエージェント時代のGitホスティングサービス「Origin」、Cursorが発表。Cursorとの統合、コマンドラインでの操作、GitHubとの同期など提供",
@@ -228,28 +250,6 @@
       "score": 34
     },
     {
-      "title": "なぜ「相場の半額」にできた？ 「ヒューマノイド界のトヨタ」目指すZEALSの“したたか”な戦略",
-      "link": "https://www.itmedia.co.jp/business/articles/2608/17/news051.html",
-      "date": "2026-08-18T07:00:00+09:00",
-      "dateLabel": "08/18 07:00",
-      "desc": "ZEALSが発表したコンパクトヒューマノイド「D1」は、市場相場の半額となる「1台500万円」を実現し注目を集めている。2足歩行を捨て台車構造を選び、手には中国製パーツを用いるなど「準国産」で割り切ることで開発コストを大幅に削減。米中が開発スピードで先行する中、安全性重視の設計と医療・保険・リース・商社を巻き込んだ4領域アライアンスを武器に、日本発の「ユース",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "ChatGPTやClaudeの利用量とコストを一元管理、無料で使える法人向け新サービス マネーフォワード",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/18/2000000571/",
-      "date": "2026-08-18T06:50:00+09:00",
-      "dateLabel": "08/18 06:50",
-      "desc": "マネーフォワードは、AIサービスの利用量とコストを一元管理できる法人向けサービス「マネーフォワード クラウドAIトークン管理」の提供を始めた。同社サービスの共通ID「マネーフォワードID」を取得すれば無料で使える。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表",
       "link": "https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html",
       "date": "2026-08-17T00:10:13+09:00",
@@ -261,6 +261,17 @@
       "score": 34
     },
     {
+      "title": "ロボットは“空気を読む”ようになれるのか。VivaTechで見たヒューマノイドの進化",
+      "link": "https://ascii.jp/elem/000/004/416/4416770/?rss",
+      "date": "2026-08-19T07:00:00+09:00",
+      "dateLabel": "08/19 07:00",
+      "desc": "VivaTech 2026のセッション「AI Gets a Body: The Age of Humanoid Robots」では、中国・上海発のロボティクス企業AgiBotの第2世代ヒューマノイドロボット「Agibot X2」がステージに登場。音楽に合わせたダンスや、人との会話、会場内の認識、太極拳の動作などを披露した。",
+      "img": "https://ascii.jp/img/2026/07/07/4496208/s/ae4141bcdf10a71b.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
       "title": "Google、AIモデルをコンパイルして暗号データを復号せずに扱えるように変換する「HEIR」発表。完全準同型暗号を利用し、AIでのセキュリティやプライバシー保護など実現へ",
       "link": "https://www.publickey1.jp/blog/26/googleaiheirai.html",
       "date": "2026-08-19T00:55:25+09:00",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "Publickey",
       "cat": "規制/安全",
-      "score": 26
-    },
-    {
-      "title": "右手デバイス代わりに計16ボタン＆Stream Deck連携が魅力のワイヤレスゲーミングマウスはいかが？ 31％オフの1万5091円でセール中",
-      "link": "https://ascii.jp/elem/000/004/427/4427480/?rss",
-      "date": "2026-08-18T18:30:00+09:00",
-      "dateLabel": "08/18 18:30",
-      "desc": "Amazon.co.jpにて、CORSAIRのワイヤレスゲーミングマウス「CORSAIR SCIMITAR ELITE WIRELESS SE」が販売中だ。参考価格は2万1980円だが、執筆時点では31％オフの1万5091円で購入できる（8月18日時点）。",
-      "img": "https://ascii.jp/img/2026/08/18/4513959/s/46fab64b7add7099.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 26
     }
   ]
