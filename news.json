@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-18T12:35:55.652724+09:00",
-  "generatedLabel": "2026/08/18 12:35",
+  "generatedAt": "2026-08-18T13:25:07.652050+09:00",
+  "generatedLabel": "2026/08/18 13:25",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 62,
+  "candidates": 61,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 10
+      "items": 9
     },
     {
       "source": "PC Watch",
@@ -129,6 +129,17 @@
       "score": 48
     },
     {
+      "title": "FCNT「arrows Alpha2」発表 AI・144Hz・2日持ちバッテリーを備えた最新モデル",
+      "link": "https://ascii.jp/elem/000/004/427/4427291/?rss",
+      "date": "2026-08-18T13:00:00+09:00",
+      "dateLabel": "08/18 13:00",
+      "desc": "FCNTが最上位スマートフォン「arrows Alpha2」を8月27日に発売。Dimensity 8350 Extreme、144Hz LTPOディスプレイ、5370mAhバッテリー、AI機能、高耐久設計を備えた最新フラッグシップモデルの特徴や発売情報を紹介します。",
+      "img": "https://ascii.jp/img/2026/08/18/4513833/s/1d7915a29896cdf5.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 42
+    },
+    {
       "title": "ローカルで動く中国製オープンモデル「Qwen3.8 27B」はGPT-5.6 Terra超えのエージェント性能で同等規模のモデルより圧倒的に高性能という分析結果",
       "link": "https://gigazine.net/news/20260818-qwen3-8-27b-performance/",
       "date": "2026-08-18T11:48:00+09:00",
@@ -162,36 +173,14 @@
       "score": 34
     },
     {
-      "title": "株式会社ジェイテック、企業のDX推進を加速させる「生成AIソリューション」の新ランディングページを公開！",
-      "link": "https://ascii.jp/elem/000/004/427/4427301/?rss",
-      "date": "2026-08-18T10:00:00+09:00",
-      "dateLabel": "08/18 10:00",
-      "desc": "株式会社ジェイテック、企業のDX推進を加速させる「生成AIソリューション」の新ランディングページを公開！",
+      "title": "海上コンテナ販売のハレコンテナ、文章で相談できる「AIコンシェルジュ」を公開",
+      "link": "https://ascii.jp/elem/000/004/427/4427329/?rss",
+      "date": "2026-08-18T10:30:00+09:00",
+      "dateLabel": "08/18 10:30",
+      "desc": "海上コンテナ販売のハレコンテナ、文章で相談できる「AIコンシェルジュ」を公開",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "NEC、物理的安全性が保証された暗号デバイスの設計方法を開発",
-      "link": "https://ascii.jp/elem/000/004/427/4427300/?rss",
-      "date": "2026-08-18T10:00:00+09:00",
-      "dateLabel": "08/18 10:00",
-      "desc": "NEC、物理的安全性が保証された暗号デバイスの設計方法を開発",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "ネクストジェンとモビルスが業務提携 オンプレミスPBX環境とクラウド生成AIソリューションとの連携が実現",
-      "link": "https://ascii.jp/elem/000/004/427/4427299/?rss",
-      "date": "2026-08-18T10:00:00+09:00",
-      "dateLabel": "08/18 10:00",
-      "desc": "ネクストジェンとモビルスが業務提携 オンプレミスPBX環境とクラウド生成AIソリューションとの連携が実現",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
+      "cat": "AI全般",
       "score": 34
     },
     {
@@ -281,6 +270,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 34
+    },
+    {
+      "title": "営業向けAIロープレツール「amptalk coach」を日産自動車の全国販売会社向けに導入開始",
+      "link": "https://ascii.jp/elem/000/004/427/4427324/?rss",
+      "date": "2026-08-18T10:30:07+09:00",
+      "dateLabel": "08/18 10:30",
+      "desc": "営業向けAIロープレツール「amptalk coach」を日産自動車の全国販売会社向けに導入開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     }
   ]
 }
