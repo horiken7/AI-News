@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-19T05:11:59.698820+09:00",
-  "generatedLabel": "2026/08/19 05:11",
+  "generatedAt": "2026-08-19T06:14:09.350160+09:00",
+  "generatedLabel": "2026/08/19 06:14",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 57,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 20
+      "items": 19
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -162,17 +162,6 @@
       "score": 34
     },
     {
-      "title": "ORICO、AirPods第1/2世代対応MagSafe保護ケースを発表--精密フィット・内蔵スマホスタンド・ワンプッシュ開蓋・取り外し可能リング付き",
-      "link": "https://ascii.jp/elem/000/004/427/4427521/?rss",
-      "date": "2026-08-18T17:35:23+09:00",
-      "dateLabel": "08/18 17:35",
-      "desc": "ORICO、AirPods第1/2世代対応MagSafe保護ケースを発表--精密フィット・内蔵スマホスタンド・ワンプッシュ開蓋・取り外し可能リング付き",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "無料で読めるAIエージェントの実践ガイド、Googleが公開 基礎から本番実装まで学べる",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/18/news055.html",
       "date": "2026-08-18T17:00:00+09:00",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "Publickey",
       "cat": "規制/安全",
+      "score": 26
+    },
+    {
+      "title": "右手デバイス代わりに計16ボタン＆Stream Deck連携が魅力のワイヤレスゲーミングマウスはいかが？ 31％オフの1万5091円でセール中",
+      "link": "https://ascii.jp/elem/000/004/427/4427480/?rss",
+      "date": "2026-08-18T18:30:00+09:00",
+      "dateLabel": "08/18 18:30",
+      "desc": "Amazon.co.jpにて、CORSAIRのワイヤレスゲーミングマウス「CORSAIR SCIMITAR ELITE WIRELESS SE」が販売中だ。参考価格は2万1980円だが、執筆時点では31％オフの1万5091円で購入できる（8月18日時点）。",
+      "img": "https://ascii.jp/img/2026/08/18/4513959/s/46fab64b7add7099.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 26
     }
   ]
