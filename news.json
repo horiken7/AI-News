@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-19T13:26:29.531557+09:00",
-  "generatedLabel": "2026/08/19 13:26",
+  "generatedAt": "2026-08-19T14:20:21.347145+09:00",
+  "generatedLabel": "2026/08/19 14:20",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 60,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -71,17 +71,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
-      "title": "OpenAI、自らAI開発を減速 「安全より競争」を止められるか",
-      "link": "https://ascii.jp/elem/000/004/427/4427648/?rss",
-      "date": "2026-08-19T11:00:00+09:00",
-      "dateLabel": "08/19 11:00",
-      "desc": "OpenAIは8月17日、開発中の新モデル「Astra」が同社の安全基準でサイバーセキュリティ能力の「Critical（致命的）」レベルに達する可能性があるとして、最先端モデルの学習を一時的に減速させていると発表した。",
-      "img": "https://ascii.jp/img/2026/08/19/4514324/s/5f5b16504552008e.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
       "score": 50
     },
     {
@@ -280,6 +269,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表",
+      "link": "https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html",
+      "date": "2026-08-17T00:10:13+09:00",
+      "dateLabel": "08/17 00:10",
+      "desc": "CloudflareはAIエージェントによる操作専用のヘッドレスなWebブラウザ「Kitesurf」を発表しました。 現在ベータ版として公開されています。 Kitesurfは主にRust言語で記述されWebAssemblyにコンパイルされた...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
       "score": 34
     }
   ]
