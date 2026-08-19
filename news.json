@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-19T14:20:21.347145+09:00",
-  "generatedLabel": "2026/08/19 14:20",
+  "generatedAt": "2026-08-19T15:25:45.625657+09:00",
+  "generatedLabel": "2026/08/19 15:25",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 58,
+  "candidates": 59,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 16
+      "items": 18
     },
     {
       "source": "CNET Japan",
@@ -118,17 +118,6 @@
       "score": 42
     },
     {
-      "title": "ソラコムのIoT導入事例がわかる新動画公開 memetとUMITRON CELLの活用法を紹介",
-      "link": "https://ascii.jp/elem/000/004/427/4427656/?rss",
-      "date": "2026-08-19T11:45:00+09:00",
-      "dateLabel": "08/19 11:45",
-      "desc": "ソラコムが8月19日にYouTubeで公開した新シリーズ「つながる対談」の内容を紹介。アイオーデータのテレビ電話機「memet」とウミトロンのスマート給餌機「UMITRON CELL」におけるSORACOM活用の実例と展望を解説する。",
-      "img": "https://ascii.jp/img/2026/08/19/4514327/s/bca357c0762fe831.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 42
-    },
-    {
       "title": "Claude Codeの週次制限枠「50％増」、8月31日まで延長 「恒久化したいものの……」",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000611/",
       "date": "2026-08-19T11:04:04+09:00",
@@ -171,6 +160,28 @@
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
       "score": 42
+    },
+    {
+      "title": "Copilotが騙されて自分自身のハッキング方法を教えてしまう",
+      "link": "https://gigazine.net/news/20260819-copilot-leak-own-vulnerability/",
+      "date": "2026-08-19T15:00:00+09:00",
+      "dateLabel": "08/19 15:00",
+      "desc": "情報公開を強要するのではなく、協力する姿勢を見せることで、AIの「Copilot」から脆弱(ぜいじゃく)性を聞き出すことに成功したとAI研究者が報告しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "AIエージェントは「記憶」が多いほど賢くなるわけではない、IBM Researchが8モデルで検証",
+      "link": "https://gigazine.net/news/20260819-ai-agent-memory/",
+      "date": "2026-08-19T14:30:00+09:00",
+      "dateLabel": "08/19 14:30",
+      "desc": "AIエージェントに過去の経験を「記憶」として大量に与えても、必ずしも性能が高くなるわけではないことがIBM Researchの実験で示されました。AIモデルによっては、すべての記憶を渡すより必要な情報だけを選んだ方が高い性能を発揮するとのことです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "OpenAIが「安全のためにAIの強化学習を2週間停止した」と自社の安全対策をアピール",
@@ -255,17 +266,6 @@
       "date": "2026-08-18T16:05:00+09:00",
       "dateLabel": "08/18 16:05",
       "desc": "OpenAIは2026年7月に「テスト中の自社製モデルがHugging Faceに対するサイバー攻撃を実行してしまった」というセキュリティインシデントを報告しました。この「AIによって自律的にサイバー攻撃が実行された」という事例を受けて、OpenAIの共同創業者であり社長も務めるグレッグ・ブロックマン氏が「AIからの攻撃を防止するために取り組むべき10の事柄",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Anthropicの年換算収益が10兆円超で2025年末実績の約7倍に、四半期売上高は前年同期比14倍以上",
-      "link": "https://gigazine.net/news/20260818-anthropic-revenue-run-rate/",
-      "date": "2026-08-18T15:20:00+09:00",
-      "dateLabel": "08/18 15:20",
-      "desc": "AIアシスタント「Claude」を開発するAnthropicの年換算収益が650億ドル(約10兆円)を突破したことがわかりました。2025年末時点では約90億ドル(約1兆4400億円)だったため、わずか7カ月ほどで約7倍に拡大した計算です。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
