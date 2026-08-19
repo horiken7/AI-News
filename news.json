@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-19T20:15:56.481976+09:00",
-  "generatedLabel": "2026/08/19 20:15",
+  "generatedAt": "2026-08-19T21:23:18.899189+09:00",
+  "generatedLabel": "2026/08/19 21:23",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 59,
+  "candidates": 60,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 18
+      "items": 19
     },
     {
       "source": "CNET Japan",
@@ -94,6 +94,17 @@
       "src": "Publickey",
       "cat": "LLM/モデル",
       "score": 48
+    },
+    {
+      "title": "GPUと比較して最大30倍高速にAIを動かすCerebrasの「CS-4」ラックスケールソリューションが登場",
+      "link": "https://gigazine.net/news/20260819-cerebras-cs-4/",
+      "date": "2026-08-19T21:00:00+09:00",
+      "dateLabel": "08/19 21:00",
+      "desc": "AIの推論を高速化するシステムを開発しているCerebrasが、ラックスケールソリューションの「CS-4」を公開しました。単純なGPUシステムと比較して最大30倍高速な推論処理が可能とうたわれています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 42
     },
     {
       "title": "ChatGPTの反論で「道徳的判断」の3割超が覆る 高齢者が説得されやすい傾向 神戸大",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "「AIに原始人っぽく話すとトークン65％削減」は本当か？ JetBrainsが検証してみた",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/19/news042.html",
-      "date": "2026-08-19T08:00:00+09:00",
-      "dateLabel": "08/19 08:00",
-      "desc": "JetBrainsは、AIエージェントの応答を圧縮するスキル「Caveman」の効果を検証したした結果を公式ブログで公開した。Cavemanは、「エージェントの応答を原始人のような簡潔な言葉に変えることで、トークンを65％削減する」と主張しているスキルだ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 34
     }
   ]
