@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-19T17:24:15.060467+09:00",
-  "generatedLabel": "2026/08/19 17:24",
+  "generatedAt": "2026-08-19T18:22:45.289918+09:00",
+  "generatedLabel": "2026/08/19 18:22",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 62,
+  "candidates": 59,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -96,6 +96,17 @@
       "score": 48
     },
     {
+      "title": "ChatGPTの反論で「道徳的判断」の3割超が覆る 高齢者が説得されやすい傾向 神戸大",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000627/",
+      "date": "2026-08-19T17:00:48+09:00",
+      "dateLabel": "08/19 17:00",
+      "desc": "生成AIの反論によって道徳的な判断の3割超が覆る――神戸大学がこのような研究結果を発表した。米OpenAIのチャットAI「ChatGPT」を利用し、AIの反論が正解のない道徳問題への回答に与える影響を調べた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "「オープンな国産モデル」に33Bパラメータの新バージョン 国立情報学研究所",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000626/",
       "date": "2026-08-19T15:55:19+09:00",
@@ -162,14 +173,14 @@
       "score": 42
     },
     {
-      "title": "軽量モバイルPCをお探しのアナタには約990gの14型OLEDノート「Zenbook SORA」が吉！",
-      "link": "https://ascii.jp/elem/000/004/427/4427431/?rss",
-      "date": "2026-08-19T16:00:00+09:00",
-      "dateLabel": "08/19 16:00",
-      "desc": "ASUSの14型ノートPC「Zenbook SORA（UX3407NA-GL16570GR）」がAmazonでタイムセール対象。参考価格279,800円から7％オフの259,800円で販売中。Snapdragon X2 Eliteを搭載し、本体重量は約990g。",
-      "img": "https://ascii.jp/img/2026/08/18/4513939/s/403c87ebfd3263fa.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
+      "title": "ジャック・ドーシー率いるBlockがAIエージェントアプリ「Berd」をリリース、AIエージェントにキャラクターを割り当てて共同作業可能",
+      "link": "https://gigazine.net/news/20260819-berd-ai-agent/",
+      "date": "2026-08-19T17:32:00+09:00",
+      "dateLabel": "08/19 17:32",
+      "desc": "Twitter創業者のジャック・ドーシー氏が率いるBlockが、AIエージェントアプリ「Berd」をリリースしました。Berdでは複数のAIエージェントをキャラクターとして管理して作業を遂行できます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -270,17 +281,6 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 34
-    },
-    {
-      "title": "Ryzen AI 5 340搭載のパワフルな一体型デスクトップPCが、FMV直販で24万5300円！",
-      "link": "https://ascii.jp/elem/000/004/427/4427651/?rss",
-      "date": "2026-08-19T17:00:00+09:00",
-      "dateLabel": "08/19 17:00",
-      "desc": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
-      "img": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
     }
   ]
 }
