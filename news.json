@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-19T12:37:43.432427+09:00",
-  "generatedLabel": "2026/08/19 12:37",
+  "generatedAt": "2026-08-19T13:26:29.531557+09:00",
+  "generatedLabel": "2026/08/19 13:26",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 58,
+  "candidates": 60,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 16
     },
     {
       "source": "CNET Japan",
@@ -62,6 +62,17 @@
     }
   ],
   "articles": [
+    {
+      "title": "DeepSeek V4 Flashはベンチマークスコアは高いが実際のタスクでは苦戦しているという指摘、オーケストレーションに課題",
+      "link": "https://gigazine.net/news/20260819-deepseek-v4-flash-agent/",
+      "date": "2026-08-19T13:15:00+09:00",
+      "dateLabel": "08/19 13:15",
+      "desc": "中国のAI企業・DeepSeekは高性能AIモデル「DeepSeek-V4 Flash」と「DeepSeek-V4 Pro」を展開しています。V4 Flashは登場以来「安価かつ高性能」として利用ランキングで常に上位を占めるほど人気を集めましたが、DeepSeekは2026年8月6日に値上げを通知しているほか、実際のエージェント環境ではベンチマークスコアほど",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
     {
       "title": "OpenAI、自らAI開発を減速 「安全より競争」を止められるか",
       "link": "https://ascii.jp/elem/000/004/427/4427648/?rss",
@@ -173,6 +184,17 @@
       "score": 42
     },
     {
+      "title": "OpenAIが「安全のためにAIの強化学習を2週間停止した」と自社の安全対策をアピール",
+      "link": "https://gigazine.net/news/20260819-openai-pacing-model/",
+      "date": "2026-08-19T12:56:00+09:00",
+      "dateLabel": "08/19 12:56",
+      "desc": "OpenAIはテスト中モデルで他社サーバーに攻撃を仕掛けてしまうセキュリティインシデントを起こしたり、開発中の次期主力モデルであるAstraをサイバーリスク重大に指定したりと高性能AIによるセキュリティ上の問題に相次いで直面しています。この状況の中、安全対策を強化するために開発中モデルの強化学習を一時停止していたことが明らかになりました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "「Firefox 154」正式版リリース、Windows版でアプリアイコンを変更可能に",
       "link": "https://gigazine.net/news/20260819-firefox-154/",
       "date": "2026-08-19T11:52:00+09:00",
@@ -191,17 +213,6 @@
       "desc": "イーロン・マスク氏のSpaceXに買収されたAIコーディングツールのCursorが、GitHub対抗のコードホスティングサービス「Origin」を発表しました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "セーフィー、クマの出没を即時に通知「AI-App クマ検知」を9月1日より提供開始",
-      "link": "https://ascii.jp/elem/000/004/427/4427704/?rss",
-      "date": "2026-08-19T10:00:00+09:00",
-      "dateLabel": "08/19 10:00",
-      "desc": "セーフィー、クマの出没を即時に通知「AI-App クマ検知」を9月1日より提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
     },
@@ -269,17 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表",
-      "link": "https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html",
-      "date": "2026-08-17T00:10:13+09:00",
-      "dateLabel": "08/17 00:10",
-      "desc": "CloudflareはAIエージェントによる操作専用のヘッドレスなWebブラウザ「Kitesurf」を発表しました。 現在ベータ版として公開されています。 Kitesurfは主にRust言語で記述されWebAssemblyにコンパイルされた...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
       "score": 34
     }
   ]
