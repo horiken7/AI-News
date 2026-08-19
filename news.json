@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-19T18:22:45.289918+09:00",
-  "generatedLabel": "2026/08/19 18:22",
+  "generatedAt": "2026-08-19T19:18:41.576647+09:00",
+  "generatedLabel": "2026/08/19 19:18",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 59,
+  "candidates": 61,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 17
+      "items": 18
     },
     {
       "source": "CNET Japan",
@@ -173,6 +173,28 @@
       "score": 42
     },
     {
+      "title": "整備済みGPUを許容できるなら狙い目！ Ryzen 7 9800X3D搭載の“訳アリ”ゲーミングPC",
+      "link": "https://ascii.jp/elem/000/004/427/4427805/?rss",
+      "date": "2026-08-19T19:00:00+09:00",
+      "dateLabel": "08/19 19:00",
+      "desc": "整備済みGPUを採用することで特価になったSTORMのゲーミングPC。Ryzen 7 9800X3Dや32GBメモリ、液晶付き簡易水冷など装備は充実しており、“訳アリ”の内容に納得できるなら狙い目の1台。",
+      "img": "https://ascii.jp/img/2026/08/06/4510406/s/d9a9e79a32783ade.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "AIの利用拡大を懸念しているアメリカの若者が過半数を突破、AIにより仕事が奪われると考える人も増加している",
+      "link": "https://gigazine.net/news/20260819-young-americans-increasingly-wary-ai/",
+      "date": "2026-08-19T19:00:00+09:00",
+      "dateLabel": "08/19 19:00",
+      "desc": "近年はChatGPTやGeminiといったチャットAIの利用が一般的になり、仕事や勉強などにAIを活用する人々も増えています。ところがアメリカのピュー研究所が2026年6月に行った調査では、18～29歳の若者の過半数がAIについて期待よりもむしろ懸念を抱いていることが浮き彫りになりました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "ジャック・ドーシー率いるBlockがAIエージェントアプリ「Berd」をリリース、AIエージェントにキャラクターを割り当てて共同作業可能",
       "link": "https://gigazine.net/news/20260819-berd-ai-agent/",
       "date": "2026-08-19T17:32:00+09:00",
@@ -255,28 +277,6 @@
       "date": "2026-08-19T00:43:29+09:00",
       "dateLabel": "08/19 00:43",
       "desc": "AIコードエディタのCursorなどを提供するAnysphereは、Gitに対応したコードホスティングサービス「Origin」を発表しました。 Origin, our code hosting platform, is now live.I...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Appleの「カメラ搭載AirPods」がリリース間近らしいことがmacOSリリース候補版内のファイルから判明",
-      "link": "https://gigazine.net/news/20260818-camera-equipped-airpods/",
-      "date": "2026-08-18T22:40:00+09:00",
-      "dateLabel": "08/18 22:40",
-      "desc": "Appleが配信したmacOS Tahoe 26.7のリリース候補版に含まれたファイルから、多数の未発表製品の存在が明らかになりました。ファイルの情報から、Appleは「カメラ搭載のAirPods」を開発していて、まもなくリリース予定だとみられています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表",
-      "link": "https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html",
-      "date": "2026-08-17T00:10:13+09:00",
-      "dateLabel": "08/17 00:10",
-      "desc": "CloudflareはAIエージェントによる操作専用のヘッドレスなWebブラウザ「Kitesurf」を発表しました。 現在ベータ版として公開されています。 Kitesurfは主にRust言語で記述されWebAssemblyにコンパイルされた...",
       "img": "",
       "src": "Publickey",
       "cat": "AIエージェント/業務",
