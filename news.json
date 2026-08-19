@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-20T06:16:18.086764+09:00",
-  "generatedLabel": "2026/08/20 06:16",
+  "generatedAt": "2026-08-20T07:14:06.592633+09:00",
+  "generatedLabel": "2026/08/20 07:14",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 59,
+  "candidates": 61,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 20
+      "items": 21
     },
     {
       "source": "CNET Japan",
@@ -96,6 +96,17 @@
       "score": 50
     },
     {
+      "title": "中国AIは「フルスタック」で勝つ。アリババ会長が語るオープンソースとAI主権",
+      "link": "https://ascii.jp/elem/000/004/416/4416772/?rss",
+      "date": "2026-08-20T07:00:00+09:00",
+      "dateLabel": "08/20 07:00",
+      "desc": "VivaTech 2026のセッション「Look East: China’s AI Ascent and the Full Stack Advantage」では、アリババ共同創業者兼会長のジョー・ツァイ（Joe Tsai）氏が登壇し、中国におけるAI投資、オープンソースLLM「Qwen（クウェン）」、そして欧州企業にとってのAI主権について語った。",
+      "img": "https://ascii.jp/img/2026/07/07/4496227/s/8ef059596ab9a5ec.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "GPUと比較して最大30倍高速にAIを動かすCerebrasの「CS-4」ラックスケールソリューションが登場",
       "link": "https://gigazine.net/news/20260819-cerebras-cs-4/",
       "date": "2026-08-19T21:00:00+09:00",
@@ -159,17 +170,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "OpenAI、フロンティアAIの強化学習を一部停止 安全対策を強化",
-      "link": "https://www.itmedia.co.jp/news/article/2608/19/2000000605/",
-      "date": "2026-08-19T07:06:14+09:00",
-      "dateLabel": "08/19 07:06",
-      "desc": "OpenAIは、外部侵害インシデントや次期モデルの高いサイバー能力を受け、開発・テスト段階の安全対策を強化すると発表した。一部の大規模モデルの強化学習を一時停止し、研究環境の隔離や内部活動の監視多段化、アラインメント手法の拡張を実施。安全性基準を満たした上で開発を進める姿勢を示した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
       "score": 42
     },
     {
