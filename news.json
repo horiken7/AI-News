@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-19T23:22:53.963412+09:00",
-  "generatedLabel": "2026/08/19 23:22",
+  "generatedAt": "2026-08-20T00:21:01.096970+09:00",
+  "generatedLabel": "2026/08/20 00:21",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 60,
@@ -62,6 +62,17 @@
     }
   ],
   "articles": [
+    {
+      "title": "Claudeエージェント同士が「縄張り争い」で互いを妨害したり価格について共謀したりする事例がAnthropicの実験で発生",
+      "link": "https://gigazine.net/news/20260819-anthropic-claude-multiagent-turf-war/",
+      "date": "2026-08-19T23:30:00+09:00",
+      "dateLabel": "08/19 23:30",
+      "desc": "AIエージェントとは与えられた目標に沿ってツールを使い、複数の手順からなる作業を自律的に進めるAIです。Anthropicは2026年8月13日、それぞれ異なる目標を与えられた複数のAIエージェントが明確な上下関係なしに同じコードベースを編集したり同じ市場で商品を販売したりする状況を再現し、協調や対立のパターンを調べた研究結果を公開しました。 続きを読む..",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
     {
       "title": "DeepSeek V4 Flashはベンチマークスコアは高いが実際のタスクでは苦戦しているという指摘、オーケストレーションに課題",
       "link": "https://gigazine.net/news/20260819-deepseek-v4-flash-agent/",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "「AIに原始人っぽく話すとトークン65％削減」は本当か？ JetBrainsが検証してみた",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/19/news042.html",
-      "date": "2026-08-19T08:00:00+09:00",
-      "dateLabel": "08/19 08:00",
-      "desc": "JetBrainsは、AIエージェントの応答を圧縮するスキル「Caveman」の効果を検証したした結果を公式ブログで公開した。Cavemanは、「エージェントの応答を原始人のような簡潔な言葉に変えることで、トークンを65％削減する」と主張しているスキルだ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 34
     }
   ]
