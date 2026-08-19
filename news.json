@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-19T19:18:41.576647+09:00",
-  "generatedLabel": "2026/08/19 19:18",
+  "generatedAt": "2026-08-19T20:15:56.481976+09:00",
+  "generatedLabel": "2026/08/19 20:15",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 61,
+  "candidates": 59,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -173,6 +173,17 @@
       "score": 42
     },
     {
+      "title": "ローカルAIエージェントアプリ「Bionic」がSkillsに対応しCodexやClaude Codeの使い勝手に近づく",
+      "link": "https://gigazine.net/news/20260819-lm-studio-bionic-skills/",
+      "date": "2026-08-19T20:00:00+09:00",
+      "dateLabel": "08/19 20:00",
+      "desc": "BionicはクラウドAIサービスだけでなくローカルで実行するAIモデルにも対応したAIエージェントアプリです。新たにBionicがSkillsに対応し、CodexやClaude Codeなどで培われた大量のSkillsを活用できるようになりました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
       "title": "整備済みGPUを許容できるなら狙い目！ Ryzen 7 9800X3D搭載の“訳アリ”ゲーミングPC",
       "link": "https://ascii.jp/elem/000/004/427/4427805/?rss",
       "date": "2026-08-19T19:00:00+09:00",
@@ -268,17 +279,6 @@
       "desc": "JetBrainsは、AIエージェントの応答を圧縮するスキル「Caveman」の効果を検証したした結果を公式ブログで公開した。Cavemanは、「エージェントの応答を原始人のような簡潔な言葉に変えることで、トークンを65％削減する」と主張しているスキルだ。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "AIエージェント時代のGitホスティングサービス「Origin」、Cursorが発表。Cursorとの統合、コマンドラインでの操作、GitHubとの同期など提供",
-      "link": "https://www.publickey1.jp/blog/26/aigitorigincursorcursorgithub.html",
-      "date": "2026-08-19T00:43:29+09:00",
-      "dateLabel": "08/19 00:43",
-      "desc": "AIコードエディタのCursorなどを提供するAnysphereは、Gitに対応したコードホスティングサービス「Origin」を発表しました。 Origin, our code hosting platform, is now live.I...",
-      "img": "",
-      "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 34
     }
