@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-19T11:11:38.063867+09:00",
-  "generatedLabel": "2026/08/19 11:11",
+  "generatedAt": "2026-08-19T12:37:43.432427+09:00",
+  "generatedLabel": "2026/08/19 12:37",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 60,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 18
+      "items": 17
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -74,28 +74,6 @@
       "score": 50
     },
     {
-      "title": "OpenAIの大規模データセンターを作るべくNVIDIAがソフトバンク関連企業に2400億円を投資、2030年までに約96兆円のビジネスチャンスをもたらす計画",
-      "link": "https://gigazine.net/news/20260818-nvidia-sb-energy-openai-ports-pike/",
-      "date": "2026-08-18T11:40:00+09:00",
-      "dateLabel": "08/18 11:40",
-      "desc": "ソフトバンクグループの傘下企業であるSB Energyはアメリカのオハイオ州に「PORTS-Pike Technology Campus」と呼ばれる大規模データセンターを建設する計画を進めています。新たに、NVIDIAがSB Energyに15億ドル(約2400億円)を投資し、PORTS-Pike Technology CampusにおけるAIインフラストラ",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
-      "title": "NVIDIA、OpenAIのオハイオAIデータセンターに最大1050億ドルの債務保証──SB Energyと提携",
-      "link": "https://www.itmedia.co.jp/news/article/2608/18/2000000572/",
-      "date": "2026-08-18T06:55:32+09:00",
-      "dateLabel": "08/18 06:55",
-      "desc": "NVIDIAは、オハイオ州で建設中のAIデータセンター「PORTS-Pike Technology Campus」に計算基盤を独占提供すると発表した。OpenAIがテナントとなり、SB Energyが運営する。NVIDIAは最大1050億ドルの債務保証を負い、最大8GW規模のAIファクトリーを段階的に展開する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
       "title": "Visual Studio Code 1.133正式リリース。プロンプトを見失わない固定スクロール、ローカルHTMLファイルの自動リロード、ClaudeとCopilotの混在可能など新機能",
       "link": "https://www.publickey1.jp/blog/26/visual_studio_code_1133htmlclaudecopilot.html",
       "date": "2026-08-18T00:42:34+09:00",
@@ -118,13 +96,46 @@
       "score": 48
     },
     {
-      "title": "「日本語LLMのための高難度問題データセット」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/427/4427628/?rss",
-      "date": "2026-08-19T09:46:32+09:00",
-      "dateLabel": "08/19 09:46",
-      "desc": "「日本語LLMのための高難度問題データセット」を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "title": "SamsungがClaude Codeを導入し「1カ月かかる設計を2日に短縮した」と報告",
+      "link": "https://gigazine.net/news/20260819-samsung-claude-code/",
+      "date": "2026-08-19T12:14:00+09:00",
+      "dateLabel": "08/19 12:14",
+      "desc": "SamsungがAnthropicのAIコーデイングツール「Claude Code」を導入し、一部の半導体設計・検証作業の期間を大幅に短縮したことが分かりました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "Zoom創業15周年、エリック・ユアンCEOが語るAI時代の働き方「15の視点」",
+      "link": "https://ascii.jp/elem/000/004/427/4427659/?rss",
+      "date": "2026-08-19T12:00:00+09:00",
+      "dateLabel": "08/19 12:00",
+      "desc": "Zoomが創業15周年に合わせ、創業者兼CEOエリック・ユアン氏によるAI時代の働き方に関する「15の視点」を発表した。会議の効率化、調整業務の自動化、会話を成果につなげる仕組みなど、Zoomの今後15年の方向性を示した内容だ。",
+      "img": "https://ascii.jp/img/2026/08/19/4514331/s/6a48b06c5a9a244e.jpg",
       "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "ソラコムのIoT導入事例がわかる新動画公開 memetとUMITRON CELLの活用法を紹介",
+      "link": "https://ascii.jp/elem/000/004/427/4427656/?rss",
+      "date": "2026-08-19T11:45:00+09:00",
+      "dateLabel": "08/19 11:45",
+      "desc": "ソラコムが8月19日にYouTubeで公開した新シリーズ「つながる対談」の内容を紹介。アイオーデータのテレビ電話機「memet」とウミトロンのスマート給餌機「UMITRON CELL」におけるSORACOM活用の実例と展望を解説する。",
+      "img": "https://ascii.jp/img/2026/08/19/4514327/s/bca357c0762fe831.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 42
+    },
+    {
+      "title": "Claude Codeの週次制限枠「50％増」、8月31日まで延長 「恒久化したいものの……」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000611/",
+      "date": "2026-08-19T11:04:04+09:00",
+      "dateLabel": "08/19 11:04",
+      "desc": "米Anthropicは、AIコーディング支援ツール「Claude Code」の週次利用制限枠を50％増やすキャンペーンを8月31日まで延長すると発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 42
     },
@@ -162,15 +173,15 @@
       "score": 42
     },
     {
-      "title": "ローカルで動く中国製オープンモデル「Qwen3.8 27B」はGPT-5.6 Terra超えのエージェント性能で同等規模のモデルより圧倒的に高性能という分析結果",
-      "link": "https://gigazine.net/news/20260818-qwen3-8-27b-performance/",
-      "date": "2026-08-18T11:48:00+09:00",
-      "dateLabel": "08/18 11:48",
-      "desc": "中国企業のAlibabaはローカルで実行できるAIモデル「Qwen3.8 27B」を日本時間の2026年8月15日に公開しました。このQwen3.8 27Bについて、第三者機関のArtificial Analysisが性能分析結果を2026年8月17日に公開し、Qwen3.8 27Bがローカルで動くオープンモデルでありながらGPT-5.6 Terraといった",
+      "title": "「Firefox 154」正式版リリース、Windows版でアプリアイコンを変更可能に",
+      "link": "https://gigazine.net/news/20260819-firefox-154/",
+      "date": "2026-08-19T11:52:00+09:00",
+      "dateLabel": "08/19 11:52",
+      "desc": "ウェブブラウザ「Firefox 154」の正式版が2026年8月18日に公開されました。AIを活用する「Smart Window」で関連するタブをまとめたグループを提案できるようになったほか、ローカルネットワーク上の機器へのWebSocket接続にもアクセス許可が必要になりました。また、Windows版Firefoxがクラウドゲーミングサービス「GeForc",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 42
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "CursorがGitHub対抗のコードホスティングサービス「Origin」を発表",
@@ -184,47 +195,14 @@
       "score": 34
     },
     {
-      "title": "AI事例600件超を無料公開 ─ 「うちの業界でAIをどう使う?」AI導入の情報収集に応えるAI事例検索サイト『WarpBiz』",
-      "link": "https://ascii.jp/elem/000/004/427/4427624/?rss",
+      "title": "セーフィー、クマの出没を即時に通知「AI-App クマ検知」を9月1日より提供開始",
+      "link": "https://ascii.jp/elem/000/004/427/4427704/?rss",
       "date": "2026-08-19T10:00:00+09:00",
       "dateLabel": "08/19 10:00",
-      "desc": "AI事例600件超を無料公開 ─ 「うちの業界でAIをどう使う?」AI導入の情報収集に応えるAI事例検索サイト『WarpBiz』",
+      "desc": "セーフィー、クマの出没を即時に通知「AI-App クマ検知」を9月1日より提供開始",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "AI時代の「考える」を取り戻す。AIの出力を人の思考につなぐ、思考整理プラットフォーム 「NAZOL」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/427/4427623/?rss",
-      "date": "2026-08-19T10:00:00+09:00",
-      "dateLabel": "08/19 10:00",
-      "desc": "AI時代の「考える」を取り戻す。AIの出力を人の思考につなぐ、思考整理プラットフォーム 「NAZOL」を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "大手製造業への導入が進むAIワークフロープラットフォーム「DataFlow AI」のUnlimiTech、シードラウンドで総額約1.8億円の資金調達を実施",
-      "link": "https://ascii.jp/elem/000/004/427/4427622/?rss",
-      "date": "2026-08-19T10:00:00+09:00",
-      "dateLabel": "08/19 10:00",
-      "desc": "大手製造業への導入が進むAIワークフロープラットフォーム「DataFlow AI」のUnlimiTech、シードラウンドで総額約1.8億円の資金調達を実施",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "「今の資産状況は？」ChatGPTに聞くだけ 証券アプリは不要に？",
-      "link": "https://ascii.jp/elem/000/004/427/4427596/?rss",
-      "date": "2026-08-19T09:45:00+09:00",
-      "dateLabel": "08/19 09:45",
-      "desc": "マネックス証券は8月19日、「ChatGPTプラグイン」に対応した「MONEX MCP Server」の提供を開始した。",
-      "img": "https://ascii.jp/img/2026/08/19/4514283/s/cb3ff588e548ffb5.png",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -280,6 +258,28 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "Anthropicの年換算収益が10兆円超で2025年末実績の約7倍に、四半期売上高は前年同期比14倍以上",
+      "link": "https://gigazine.net/news/20260818-anthropic-revenue-run-rate/",
+      "date": "2026-08-18T15:20:00+09:00",
+      "dateLabel": "08/18 15:20",
+      "desc": "AIアシスタント「Claude」を開発するAnthropicの年換算収益が650億ドル(約10兆円)を突破したことがわかりました。2025年末時点では約90億ドル(約1兆4400億円)だったため、わずか7カ月ほどで約7倍に拡大した計算です。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表",
+      "link": "https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html",
+      "date": "2026-08-17T00:10:13+09:00",
+      "dateLabel": "08/17 00:10",
+      "desc": "CloudflareはAIエージェントによる操作専用のヘッドレスなWebブラウザ「Kitesurf」を発表しました。 現在ベータ版として公開されています。 Kitesurfは主にRust言語で記述されWebAssemblyにコンパイルされた...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
       "score": 34
     }
   ]
