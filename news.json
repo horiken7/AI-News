@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-19T08:12:31.475154+09:00",
-  "generatedLabel": "2026/08/19 08:12",
+  "generatedAt": "2026-08-19T09:37:58.158750+09:00",
+  "generatedLabel": "2026/08/19 09:37",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 57,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -107,6 +107,17 @@
       "score": 48
     },
     {
+      "title": "OpenAI、「ChatGPT for Teens」発表──宿題の“丸投げ”検知、自傷や摂食障害などの保護も強化",
+      "link": "https://www.itmedia.co.jp/news/article/2608/19/2000000606/",
+      "date": "2026-08-19T07:54:32+09:00",
+      "dateLabel": "08/19 07:54",
+      "desc": "OpenAIは、13?17歳向けの新環境「ChatGPT for Teens」を発表した。年齢推定や申告に基づいて自動適用され、段階的な理解を促す「Study Mode」などの学習機能を提供。自傷行為や摂食障害などの高リスク領域での保護を標準で有効にし、感情的な依存を促す対話を禁じるなど安全対策を強化した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "OpenAI、フロンティアAIの強化学習を一部停止 安全対策を強化",
       "link": "https://www.itmedia.co.jp/news/article/2608/19/2000000605/",
       "date": "2026-08-19T07:06:14+09:00",
@@ -149,6 +160,17 @@
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 42
+    },
+    {
+      "title": "「AIに原始人っぽく話すとトークン65％削減」は本当か？ JetBrainsが検証してみた",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/19/news042.html",
+      "date": "2026-08-19T08:00:00+09:00",
+      "dateLabel": "08/19 08:00",
+      "desc": "JetBrainsは、AIエージェントの応答を圧縮するスキル「Caveman」の効果を検証したした結果を公式ブログで公開した。Cavemanは、「エージェントの応答を原始人のような簡潔な言葉に変えることで、トークンを65％削減する」と主張しているスキルだ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "「ドラクエXの世界観を壊さない」Gemini実装 プロンプトからセキュリティ、サーバー設計まで工夫の数々",
@@ -239,28 +261,6 @@
       "score": 34
     },
     {
-      "title": "AIエージェントでCADやCAMを連携、製造プロセス自動化へ",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2608/18/news015.html",
-      "date": "2026-08-18T09:00:00+09:00",
-      "dateLabel": "08/18 09:00",
-      "desc": "データ・デザインは、製造現場向けのAIエージェント活用に関する研究開発と実証実験を開始した。CADやCAMなどのツールを連携させ、設計から品質管理までの業務プロセスの自動化と効率化を目指す。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Cursor、コードホスティング機能「Origin」の初期βを提供開始 GitHubとの双方向同期に対応",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/18/2000000575/",
-      "date": "2026-08-18T08:40:47+09:00",
-      "dateLabel": "08/18 08:40",
-      "desc": "Anysphereは、AIコードエディタ「Cursor」上でコードをホストできる新サービス「Origin」の初期β提供を有料プラン向けに開始した。GitHubリポジトリとの双方向同期やプルリクエストの共同レビューに対応する。VercelやCIツールとも連携し、AIエージェント規模の開発を想定した基盤を提供する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表",
       "link": "https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html",
       "date": "2026-08-17T00:10:13+09:00",
@@ -272,14 +272,14 @@
       "score": 34
     },
     {
-      "title": "ロボットは“空気を読む”ようになれるのか。VivaTechで見たヒューマノイドの進化",
-      "link": "https://ascii.jp/elem/000/004/416/4416770/?rss",
-      "date": "2026-08-19T07:00:00+09:00",
-      "dateLabel": "08/19 07:00",
-      "desc": "VivaTech 2026のセッション「AI Gets a Body: The Age of Humanoid Robots」では、中国・上海発のロボティクス企業AgiBotの第2世代ヒューマノイドロボット「Agibot X2」がステージに登場。音楽に合わせたダンスや、人との会話、会場内の認識、太極拳の動作などを披露した。",
-      "img": "https://ascii.jp/img/2026/07/07/4496208/s/ae4141bcdf10a71b.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
+      "title": "冷間鍛造FEMをAIで高速予測するサロゲートモデル「ForgeNet」を発表",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2608/19/news030.html",
+      "date": "2026-08-19T09:00:00+09:00",
+      "dateLabel": "08/19 09:00",
+      "desc": "ゴーデルブロックは、計算力学の国際会議「WCCM ECCOMAS Munich 2026」で冷間鍛造シミュレーション向けAIサロゲートモデル「ForgeNet」の研究成果を発表した。解析結果を固定オイラー格子へ投影することで、適応的リメッシュに伴う節点対応の課題に対処する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
       "score": 26
     }
   ]
