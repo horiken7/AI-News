@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-20T07:14:06.592633+09:00",
-  "generatedLabel": "2026/08/20 07:14",
+  "generatedAt": "2026-08-20T08:13:38.070698+09:00",
+  "generatedLabel": "2026/08/20 08:13",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 61,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 21
+      "items": 20
     },
     {
       "source": "CNET Japan",
@@ -162,15 +162,15 @@
       "score": 42
     },
     {
-      "title": "OpenAI、「ChatGPT for Teens」発表──宿題の“丸投げ”検知、自傷や摂食障害などの保護も強化",
-      "link": "https://www.itmedia.co.jp/news/article/2608/19/2000000606/",
-      "date": "2026-08-19T07:54:32+09:00",
-      "dateLabel": "08/19 07:54",
-      "desc": "OpenAIは、13?17歳向けの新環境「ChatGPT for Teens」を発表した。年齢推定や申告に基づいて自動適用され、段階的な理解を促す「Study Mode」などの学習機能を提供。自傷行為や摂食障害などの高リスク領域での保護を標準で有効にし、感情的な依存を促す対話を禁じるなど安全対策を強化した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
+      "title": "人々はAIと本当は何を話しているか？ 企業レポートが映さない実像",
+      "link": "https://ascii.jp/elem/000/004/427/4427953/?rss",
+      "date": "2026-08-20T06:55:12+09:00",
+      "dateLabel": "08/20 06:55",
+      "desc": "アンソロピックやオープンAIは、自社製品の利用状況レポートを定期的に公開している。だが研究者によれば、示されるのは業務利用に偏った、自社に都合のよいデータだ。スタンフォード大学の研究チームの検証では、会話の約半数が分析から除外されていた。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "ローカルAIエージェントアプリ「Bionic」がSkillsに対応しCodexやClaude Codeの使い勝手に近づく",
@@ -272,14 +272,14 @@
       "score": 34
     },
     {
-      "title": "「AIに原始人っぽく話すとトークン65％削減」は本当か？ JetBrainsが検証してみた",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/19/news042.html",
-      "date": "2026-08-19T08:00:00+09:00",
-      "dateLabel": "08/19 08:00",
-      "desc": "JetBrainsは、AIエージェントの応答を圧縮するスキル「Caveman」の効果を検証したした結果を公式ブログで公開した。Cavemanは、「エージェントの応答を原始人のような簡潔な言葉に変えることで、トークンを65％削減する」と主張しているスキルだ。",
+      "title": "OpenAI、「ChatGPT for Teens」発表──宿題の“丸投げ”検知、自傷や摂食障害などの保護も強化",
+      "link": "https://www.itmedia.co.jp/news/article/2608/19/2000000606/",
+      "date": "2026-08-19T07:54:32+09:00",
+      "dateLabel": "08/19 07:54",
+      "desc": "OpenAIは、13?17歳向けの新環境「ChatGPT for Teens」を発表した。年齢推定や申告に基づいて自動適用され、段階的な理解を促す「Study Mode」などの学習機能を提供。自傷行為や摂食障害などの高リスク領域での保護を標準で有効にし、感情的な依存を促す対話を禁じるなど安全対策を強化した。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
+      "cat": "LLM/モデル",
       "score": 34
     }
   ]
