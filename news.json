@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-19T16:30:02.468986+09:00",
-  "generatedLabel": "2026/08/19 16:30",
+  "generatedAt": "2026-08-19T17:24:15.060467+09:00",
+  "generatedLabel": "2026/08/19 17:24",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 60,
+  "candidates": 62,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -96,25 +96,14 @@
       "score": 48
     },
     {
-      "title": "製造現場の紙データ電子化から業務自動化までを支援する「JAPAN AI 製造」提供開始",
-      "link": "https://ascii.jp/elem/000/004/427/4427841/?rss",
-      "date": "2026-08-19T14:00:00+09:00",
-      "dateLabel": "08/19 14:00",
-      "desc": "製造現場の紙データ電子化から業務自動化までを支援する「JAPAN AI 製造」提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "新サービスリリースのお知らせ：お店の「らしさ」をお手本から学ぶAI口コミ返信アシスタント「coremeo - AI口コミ返信」（Chrome拡張）を公開",
-      "link": "https://ascii.jp/elem/000/004/427/4427844/?rss",
-      "date": "2026-08-19T13:31:34+09:00",
-      "dateLabel": "08/19 13:31",
-      "desc": "新サービスリリースのお知らせ：お店の「らしさ」をお手本から学ぶAI口コミ返信アシスタント「coremeo - AI口コミ返信」（Chrome拡張）を公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "「オープンな国産モデル」に33Bパラメータの新バージョン 国立情報学研究所",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000626/",
+      "date": "2026-08-19T15:55:19+09:00",
+      "dateLabel": "08/19 15:55",
+      "desc": "国立情報学研究所（NII）が、オープンな国産LLMの新バージョン「LLM-jp-4 33B」を公開。約332億パラメータのDense型モデルで、4種類のベンチマーク全てで従来モデルを上回るスコアを記録したという。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -272,15 +261,26 @@
       "score": 34
     },
     {
-      "title": "無料で読めるAIエージェントの実践ガイド、Googleが公開 基礎から本番実装まで学べる",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/18/news055.html",
-      "date": "2026-08-18T17:00:00+09:00",
-      "dateLabel": "08/18 17:00",
-      "desc": "AIエージェントの基礎から本番実装まで学べる5つのガイドをGoogleが無償公開した。Kaggleと共同で実施した研修プログラムを基にした内容で、開発者の実務に直結する知識を習得できる。各ガイドが扱う内容とは。",
+      "title": "タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表",
+      "link": "https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html",
+      "date": "2026-08-17T00:10:13+09:00",
+      "dateLabel": "08/17 00:10",
+      "desc": "CloudflareはAIエージェントによる操作専用のヘッドレスなWebブラウザ「Kitesurf」を発表しました。 現在ベータ版として公開されています。 Kitesurfは主にRust言語で記述されWebAssemblyにコンパイルされた...",
       "img": "",
-      "src": "ITmedia AI+",
+      "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 34
+    },
+    {
+      "title": "Ryzen AI 5 340搭載のパワフルな一体型デスクトップPCが、FMV直販で24万5300円！",
+      "link": "https://ascii.jp/elem/000/004/427/4427651/?rss",
+      "date": "2026-08-19T17:00:00+09:00",
+      "dateLabel": "08/19 17:00",
+      "desc": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
+      "img": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     }
   ]
 }
