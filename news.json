@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-19T22:36:37.820378+09:00",
-  "generatedLabel": "2026/08/19 22:36",
+  "generatedAt": "2026-08-19T23:22:53.963412+09:00",
+  "generatedLabel": "2026/08/19 23:22",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 60,
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 19
+      "items": 21
     },
     {
       "source": "CNET Japan",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 11
+      "items": 9
     },
     {
       "source": "AINOW",
@@ -83,17 +83,6 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 50
-    },
-    {
-      "title": "1Password、ダッシュボードから組織のAI支出状況を表示する新機能。ClaudeやCursor、ChatGPTなど複数AIにI対応",
-      "link": "https://www.publickey1.jp/blog/26/1passwordaiclaudecursorchatgptaii.html",
-      "date": "2026-08-05T00:38:32+09:00",
-      "dateLabel": "08/05 00:38",
-      "desc": "1Passwordは、単一のダッシュボード画面からAnthropicのCalude、OpenAIのChatGPT、AnysphereのCursorなど複数のAIサービスに対する支出状況をリアルタイムに表示、管理できる新機能を発表しました。 ...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "LLM/モデル",
-      "score": 48
     },
     {
       "title": "GPUと比較して最大30倍高速にAIを動かすCerebrasの「CS-4」ラックスケールソリューションが登場",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "「AIに原始人っぽく話すとトークン65％削減」は本当か？ JetBrainsが検証してみた",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/19/news042.html",
+      "date": "2026-08-19T08:00:00+09:00",
+      "dateLabel": "08/19 08:00",
+      "desc": "JetBrainsは、AIエージェントの応答を圧縮するスキル「Caveman」の効果を検証したした結果を公式ブログで公開した。Cavemanは、「エージェントの応答を原始人のような簡潔な言葉に変えることで、トークンを65％削減する」と主張しているスキルだ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 34
     }
   ]
