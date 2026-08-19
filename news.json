@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-20T05:15:22.150229+09:00",
-  "generatedLabel": "2026/08/20 05:15",
+  "generatedAt": "2026-08-20T06:16:18.086764+09:00",
+  "generatedLabel": "2026/08/20 06:16",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 60,
+  "candidates": 59,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 21
+      "items": 20
     },
     {
       "source": "CNET Japan",
@@ -173,17 +173,6 @@
       "score": 42
     },
     {
-      "title": "車に運転支援機能を追加できるデバイスをGPUで強化するためのeGPUドック「Chestnut」をComma.aiがリリース",
-      "link": "https://gigazine.net/news/20260819-egpu-dock-chestnut/",
-      "date": "2026-08-19T07:00:00+09:00",
-      "dateLabel": "08/19 07:00",
-      "desc": "天才的なプログラミング能力を買われてFacebookやGoogleで働いた経験もあるジョージ・ホッツ氏が2016年に立ち上げたスタートアップComma.aiは、自動車に取り付けるだけで運転支援機能を追加できるデバイスを開発しています。そんなComma.aiが新たに、より大型のドライビングモデルを車が実行できるようにGPUを車載コンピューターにつなぐためのeG",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
       "title": "ローカルAIエージェントアプリ「Bionic」がSkillsに対応しCodexやClaude Codeの使い勝手に近づく",
       "link": "https://gigazine.net/news/20260819-lm-studio-bionic-skills/",
       "date": "2026-08-19T20:00:00+09:00",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "「AIに原始人っぽく話すとトークン65％削減」は本当か？ JetBrainsが検証してみた",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/19/news042.html",
+      "date": "2026-08-19T08:00:00+09:00",
+      "dateLabel": "08/19 08:00",
+      "desc": "JetBrainsは、AIエージェントの応答を圧縮するスキル「Caveman」の効果を検証したした結果を公式ブログで公開した。Cavemanは、「エージェントの応答を原始人のような簡潔な言葉に変えることで、トークンを65％削減する」と主張しているスキルだ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 34
     }
   ]
