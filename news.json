@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-20T20:17:32.705177+09:00",
-  "generatedLabel": "2026/08/20 20:17",
+  "generatedAt": "2026-08-20T21:25:53.948795+09:00",
+  "generatedLabel": "2026/08/20 21:25",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 12
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -140,15 +140,15 @@
       "score": 42
     },
     {
-      "title": "GPUと比較して最大30倍高速にAIを動かすCerebrasの「CS-4」ラックスケールソリューションが登場",
-      "link": "https://gigazine.net/news/20260819-cerebras-cs-4/",
-      "date": "2026-08-19T21:00:00+09:00",
-      "dateLabel": "08/19 21:00",
-      "desc": "AIの推論を高速化するシステムを開発しているCerebrasが、ラックスケールソリューションの「CS-4」を公開しました。単純なGPUシステムと比較して最大30倍高速な推論処理が可能とうたわれています。 続きを読む...",
+      "title": "スマホで動く小型AIモデル「LFM2.5」に省メモリ化を施しつつ性能低下を抑えたQAD版が登場",
+      "link": "https://gigazine.net/news/20260820-lfm2-5-qad/",
+      "date": "2026-08-20T21:00:00+09:00",
+      "dateLabel": "08/20 21:00",
+      "desc": "AI企業のLiquid AIはノートPCやスマートフォンといった低スペックなデバイスでも実行できる小型AIモデルとしてLFM2.5シリーズを展開しています。新たにLFM2.5シリーズに量子化認識蒸留(QAD)という省メモリ化しつつ性能低下を抑える技術を適用したバージョンがオープンモデルとして公開されました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 42
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "StripeがOpenRouterの買収を正式発表、AIのための経済インフラを構築へ",
