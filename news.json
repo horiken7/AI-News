@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-20T21:25:53.948795+09:00",
-  "generatedLabel": "2026/08/20 21:25",
+  "generatedAt": "2026-08-20T22:38:30.013719+09:00",
+  "generatedLabel": "2026/08/20 22:38",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 52,
@@ -228,6 +228,17 @@
       "score": 28
     },
     {
+      "title": "AIエージェントを「マウスの動き」で見抜く検知手法が研究されている",
+      "link": "https://gigazine.net/news/20260820-akamai-identify-agent/",
+      "date": "2026-08-20T22:00:00+09:00",
+      "dateLabel": "08/20 22:00",
+      "desc": "ウェブサイト上で人間の代わりに操作するAIエージェントを「マウスの動き」から見分ける手法をCDNやサイバーセキュリティサービスを提供するAkamaiが研究しています。人間とAIエージェントではマウス操作の回数や間隔に大きな違いがあり、Akamaiは少ない操作データでもAIエージェント特有の振る舞いを判別する仕組みを試作しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
       "title": "「軽いマウスで強くなりたい」なら！ 本体36g＆8KポーリングレートのCORSAIR「SABRE v2 PRO」が9％オフ",
       "link": "https://ascii.jp/elem/000/004/428/4428159/?rss",
       "date": "2026-08-20T18:30:00+09:00",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "SpaceXによる買収報道をAIスタートアップ・Cognitionのスコット・ウーCEOが否定、「売却予定なし」",
-      "link": "https://gigazine.net/news/20260820-cognition-is-not-for-sale/",
-      "date": "2026-08-20T13:16:00+09:00",
-      "dateLabel": "08/20 13:16",
-      "desc": "「SpaceXがAIコーディングのスタートアップ・Cognitionに買収打診を行った」という報道があり、Cognitionのスコット・ウーCEOが「そういった事実はなく、売却の予定はない」と否定しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
       "score": 26
     }
   ]
