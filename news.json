@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-20T23:25:22.412393+09:00",
-  "generatedLabel": "2026/08/20 23:25",
+  "generatedAt": "2026-08-21T00:24:06.873956+09:00",
+  "generatedLabel": "2026/08/21 00:24",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 52,
@@ -85,17 +85,6 @@
       "score": 50
     },
     {
-      "title": "Claudeエージェント同士が「縄張り争い」で互いを妨害したり価格について共謀したりする事例がAnthropicの実験で発生",
-      "link": "https://gigazine.net/news/20260819-anthropic-claude-multiagent-turf-war/",
-      "date": "2026-08-19T23:30:00+09:00",
-      "dateLabel": "08/19 23:30",
-      "desc": "AIエージェントとは与えられた目標に沿ってツールを使い、複数の手順からなる作業を自律的に進めるAIです。Anthropicは2026年8月13日、それぞれ異なる目標を与えられた複数のAIエージェントが明確な上下関係なしに同じコードベースを編集したり同じ市場で商品を販売したりする状況を再現し、協調や対立のパターンを調べた研究結果を公開しました。 続きを読む..",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
       "title": "Visual Studio Code 1.133正式リリース。プロンプトを見失わない固定スクロール、ローカルHTMLファイルの自動リロード、ClaudeとCopilotの混在可能など新機能",
       "link": "https://www.publickey1.jp/blog/26/visual_studio_code_1133htmlclaudecopilot.html",
       "date": "2026-08-18T00:42:34+09:00",
@@ -137,6 +126,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "Claudeエージェント同士が「縄張り争い」で互いを妨害したり価格について共謀したりする事例がAnthropicの実験で発生",
+      "link": "https://gigazine.net/news/20260819-anthropic-claude-multiagent-turf-war/",
+      "date": "2026-08-19T23:30:00+09:00",
+      "dateLabel": "08/19 23:30",
+      "desc": "AIエージェントとは与えられた目標に沿ってツールを使い、複数の手順からなる作業を自律的に進めるAIです。Anthropicは2026年8月13日、それぞれ異なる目標を与えられた複数のAIエージェントが明確な上下関係なしに同じコードベースを編集したり同じ市場で商品を販売したりする状況を再現し、協調や対立のパターンを調べた研究結果を公開しました。 続きを読む..",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
