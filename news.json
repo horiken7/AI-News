@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-20T17:25:20.272030+09:00",
-  "generatedLabel": "2026/08/20 17:25",
+  "generatedAt": "2026-08-20T18:23:18.868292+09:00",
+  "generatedLabel": "2026/08/20 18:23",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 61,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 9
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -151,22 +151,22 @@
       "score": 34
     },
     {
-      "title": "Cotel AI、株式会社The Valueと業務提携 ─ ホテル業界特化のオンライン研修プラットフォーム「ホテラボ」を共同で立ち上げ",
-      "link": "https://ascii.jp/elem/000/004/428/4428220/?rss",
-      "date": "2026-08-20T15:00:00+09:00",
-      "dateLabel": "08/20 15:00",
-      "desc": "Cotel AI、株式会社The Valueと業務提携 ─ ホテル業界特化のオンライン研修プラットフォーム「ホテラボ」を共同で立ち上げ",
+      "title": "【Amazon限定・50％OFF】Android 16搭載「P10 Pro」が39,900円→19,900円！48GB RAM・128GB ROM・Gemini AI対応の10.1インチタブレット",
+      "link": "https://ascii.jp/elem/000/004/428/4428259/?rss",
+      "date": "2026-08-20T16:43:52+09:00",
+      "dateLabel": "08/20 16:43",
+      "desc": "【Amazon限定・50％OFF】Android 16搭載「P10 Pro」が39,900円→19,900円！48GB RAM・128GB ROM・Gemini AI対応の10.1インチタブレット",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AI全般",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
-      "title": "都内1,000平方メートル 以上のフィジカルAIデータ研究開発拠点を有するFastLabel、データ生産工場の立上げ・運用支援ソリューション「Data Factory Operations」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/428/4428212/?rss",
-      "date": "2026-08-20T15:00:00+09:00",
-      "dateLabel": "08/20 15:00",
-      "desc": "都内1,000平方メートル 以上のフィジカルAIデータ研究開発拠点を有するFastLabel、データ生産工場の立上げ・運用支援ソリューション「Data Factory Operations」を提供開始",
+      "title": "＜イベントレポート＞9月1日の「防災の日」を前に、新商品「感震ブレーカー」を発表 Xross Innovation BOSAIと連携し、メディア向け防災ワークショップを開催",
+      "link": "https://ascii.jp/elem/000/004/428/4428260/?rss",
+      "date": "2026-08-20T16:40:57+09:00",
+      "dateLabel": "08/20 16:40",
+      "desc": "＜イベントレポート＞9月1日の「防災の日」を前に、新商品「感震ブレーカー」を発表 Xross Innovation BOSAIと連携し、メディア向け防災ワークショップを開催",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
@@ -228,17 +228,6 @@
       "score": 34
     },
     {
-      "title": "ジャック・ドーシー率いるBlockがAIエージェントアプリ「Berd」をリリース、AIエージェントにキャラクターを割り当てて共同作業可能",
-      "link": "https://gigazine.net/news/20260819-berd-ai-agent/",
-      "date": "2026-08-19T17:32:00+09:00",
-      "dateLabel": "08/19 17:32",
-      "desc": "Twitter創業者のジャック・ドーシー氏が率いるBlockが、AIエージェントアプリ「Berd」をリリースしました。Berdでは複数のAIエージェントをキャラクターとして管理して作業を遂行できます。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "ChatGPTの反論で「道徳的判断」の3割超が覆る 高齢者が説得されやすい傾向 神戸大",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000627/",
       "date": "2026-08-19T17:00:48+09:00",
@@ -281,6 +270,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 28
+    },
+    {
+      "title": "AIが1週間でやってくれました エイベックス松浦会長のnoteが話題に",
+      "link": "https://ascii.jp/elem/000/004/428/4428230/?rss",
+      "date": "2026-08-20T17:40:00+09:00",
+      "dateLabel": "08/20 17:40",
+      "desc": "エイベックスの松浦勝人会長は8月20日、AIにnoteのアカウント作成と記事の投稿を依頼し、複数の記事の投稿に成功したことを自身のXで明らかにした。",
+      "img": "https://ascii.jp/img/2026/08/20/4515078/s/aa5d0ff49671aeb0.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     }
   ]
 }
