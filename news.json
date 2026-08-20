@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-20T18:23:18.868292+09:00",
-  "generatedLabel": "2026/08/20 18:23",
+  "generatedAt": "2026-08-20T19:19:36.991060+09:00",
+  "generatedLabel": "2026/08/20 19:19",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 58,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -107,6 +107,17 @@
       "score": 50
     },
     {
+      "title": "高画質でゲームを遊びたいならGPUに予算を集中！ RX 9070 XT搭載PCが27万円台",
+      "link": "https://ascii.jp/elem/000/004/428/4428235/?rss",
+      "date": "2026-08-20T19:00:00+09:00",
+      "dateLabel": "08/20 19:00",
+      "desc": "Ryzen 7 5700XとRadeon RX 9070 XT 16GBを搭載しながら27万4800円。CPUまわりのコストを抑え、ゲーム性能に効くGPUへ予算を集中した、高画質・高解像度ゲーミング重視の1台だ。",
+      "img": "https://ascii.jp/img/2026/08/20/4515086/s/97e5f19147d008d0.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
       "title": "OpenAI、ZDRを維持したまま悪用検知へ ログ保持を求めるAnthropicに対抗",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000638/",
       "date": "2026-08-20T09:39:01+09:00",
@@ -138,39 +149,6 @@
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
       "score": 42
-    },
-    {
-      "title": "一体型デスクトップPCが、FMV直販で24万5300円！ Ryzen AI 5 340搭載のパワフルな処理性能！",
-      "link": "https://ascii.jp/elem/000/004/427/4427652/?rss",
-      "date": "2026-08-20T17:00:00+09:00",
-      "dateLabel": "08/20 17:00",
-      "desc": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
-      "img": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "【Amazon限定・50％OFF】Android 16搭載「P10 Pro」が39,900円→19,900円！48GB RAM・128GB ROM・Gemini AI対応の10.1インチタブレット",
-      "link": "https://ascii.jp/elem/000/004/428/4428259/?rss",
-      "date": "2026-08-20T16:43:52+09:00",
-      "dateLabel": "08/20 16:43",
-      "desc": "【Amazon限定・50％OFF】Android 16搭載「P10 Pro」が39,900円→19,900円！48GB RAM・128GB ROM・Gemini AI対応の10.1インチタブレット",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "＜イベントレポート＞9月1日の「防災の日」を前に、新商品「感震ブレーカー」を発表 Xross Innovation BOSAIと連携し、メディア向け防災ワークショップを開催",
-      "link": "https://ascii.jp/elem/000/004/428/4428260/?rss",
-      "date": "2026-08-20T16:40:57+09:00",
-      "dateLabel": "08/20 16:40",
-      "desc": "＜イベントレポート＞9月1日の「防災の日」を前に、新商品「感震ブレーカー」を発表 Xross Innovation BOSAIと連携し、メディア向け防災ワークショップを開催",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
     },
     {
       "title": "StripeがOpenRouterの買収を正式発表、AIのための経済インフラを構築へ",
@@ -214,17 +192,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "AIの利用拡大を懸念しているアメリカの若者が過半数を突破、AIにより仕事が奪われると考える人も増加している",
-      "link": "https://gigazine.net/news/20260819-young-americans-increasingly-wary-ai/",
-      "date": "2026-08-19T19:00:00+09:00",
-      "dateLabel": "08/19 19:00",
-      "desc": "近年はChatGPTやGeminiといったチャットAIの利用が一般的になり、仕事や勉強などにAIを活用する人々も増えています。ところがアメリカのピュー研究所が2026年6月に行った調査では、18～29歳の若者の過半数がAIについて期待よりもむしろ懸念を抱いていることが浮き彫りになりました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -272,12 +239,45 @@
       "score": 28
     },
     {
+      "title": "「軽いマウスで強くなりたい」なら！ 本体36g＆8KポーリングレートのCORSAIR「SABRE v2 PRO」が9％オフ",
+      "link": "https://ascii.jp/elem/000/004/428/4428159/?rss",
+      "date": "2026-08-20T18:30:00+09:00",
+      "dateLabel": "08/20 18:30",
+      "desc": "Amazon.co.jpにて、CORSAIRのワイヤレスゲーミングマウス「CORSAIR SABRE v2 PRO」が販売中だ。参考価格は1万5980円だが、執筆時点では9％オフの1万4478円で購入できる（8月20日時点）。",
+      "img": "https://ascii.jp/img/2026/08/20/4514974/s/cab9414d53fbda81.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "AIが1週間でやってくれました エイベックス松浦会長のnoteが話題に",
       "link": "https://ascii.jp/elem/000/004/428/4428230/?rss",
       "date": "2026-08-20T17:40:00+09:00",
       "dateLabel": "08/20 17:40",
       "desc": "エイベックスの松浦勝人会長は8月20日、AIにnoteのアカウント作成と記事の投稿を依頼し、複数の記事の投稿に成功したことを自身のXで明らかにした。",
       "img": "https://ascii.jp/img/2026/08/20/4515078/s/aa5d0ff49671aeb0.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "「ロボットのChatGPTモーメントが近づいている」 中国UnitreeのCEO、世界ロボット大会で言及",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000656/",
+      "date": "2026-08-20T17:08:10+09:00",
+      "dateLabel": "08/20 17:08",
+      "desc": "Unitreeのワン・シンシンCEOは世界ロボット大会で、ロボットの「ChatGPTモーメント」が近づいていると発言した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "AI で作った Android スマホアプリで手軽に RTK 位置測位の PoC をスタートしよう！",
+      "link": "https://ascii.jp/elem/000/004/428/4428208/?rss",
+      "date": "2026-08-20T17:00:00+09:00",
+      "dateLabel": "08/20 17:00",
+      "desc": "AI で作った Android スマホアプリで手軽に RTK 位置測位の PoC をスタートしよう！",
+      "img": "https://ascii.jp/img/2026/08/20/4515028/s/afa8af233dd47fe3.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
