@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-20T09:38:13.895593+09:00",
-  "generatedLabel": "2026/08/20 09:38",
+  "generatedAt": "2026-08-20T11:11:12.954464+09:00",
+  "generatedLabel": "2026/08/20 11:11",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 62,
+  "candidates": 68,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 18
+      "items": 19
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 9
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 20
+      "items": 21
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "AIモデル「Ornith-1.5」が登場、Claude Opus 4.8級の大型モデルからスマホ動作可能な軽量モデルまで網羅したオープンモデル",
+      "link": "https://gigazine.net/news/20260820-ornith-1-5/",
+      "date": "2026-08-20T10:57:00+09:00",
+      "dateLabel": "08/20 10:57",
+      "desc": "AI研究組織のOrnithがAIモデル「Ornith-1.5」を2026年8月19日に公開しました。Ornith-1.5は「Ornith-1.5-397B」「Ornith-1.5-35B-A3B」「Ornith-1.5-9B」という3種類のモデルに分かれてリリースされており、最大規模のOrnith-1.5-397BはClaude Opus 4.8と同等のベン",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
       "title": "Claudeエージェント同士が「縄張り争い」で互いを妨害したり価格について共謀したりする事例がAnthropicの実験で発生",
       "link": "https://gigazine.net/news/20260819-anthropic-claude-multiagent-turf-war/",
       "date": "2026-08-19T23:30:00+09:00",
@@ -96,6 +107,28 @@
       "score": 50
     },
     {
+      "title": "イベント業界向け見積・積算AIエージェント「Dandori AI」を正式リリース",
+      "link": "https://ascii.jp/elem/000/004/427/4427969/?rss",
+      "date": "2026-08-20T09:40:00+09:00",
+      "dateLabel": "08/20 09:40",
+      "desc": "イベント業界向け見積・積算AIエージェント「Dandori AI」を正式リリース",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "OpenAI、ZDRを維持したまま悪用検知へ ログ保持を求めるAnthropicに対抗",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000638/",
+      "date": "2026-08-20T09:39:01+09:00",
+      "dateLabel": "08/20 09:39",
+      "desc": "OpenAIは、APIデータの非保持設定（ZDR）を維持したまま、複数のやり取りを横断して悪用の兆候を検知する新機構「Private Safety Processing」を発表した。顧客データを自社インフラ外や暗号化で保護しつつ、活動シグナルのみでリスクを判定する。9月に展開を開始する予定。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "Google、大学生向けに「Google AI Plus」を1年間無料提供 「Gemini」アプリに学生向け新機能も",
       "link": "https://www.itmedia.co.jp/news/article/2608/20/2000000634/",
       "date": "2026-08-20T07:58:36+09:00",
@@ -103,17 +136,6 @@
       "desc": "Googleは米国の新学期に合わせ、大学生向けに「Google AI Plus」などを12カ月無料で提供するキャンペーンを発表した。あわせてGeminiアプリに学生向けハブを新設し、授業資料から学習プランを生成する学習ノートブックや、3Dモデルの表示、Gemini LiveでのDeep Researchなどの新機能の提供を開始した。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "中国AIは「フルスタック」で勝つ。アリババ会長が語るオープンソースとAI主権",
-      "link": "https://ascii.jp/elem/000/004/416/4416772/?rss",
-      "date": "2026-08-20T07:00:00+09:00",
-      "dateLabel": "08/20 07:00",
-      "desc": "VivaTech 2026のセッション「Look East: China’s AI Ascent and the Full Stack Advantage」では、アリババ共同創業者兼会長のジョー・ツァイ（Joe Tsai）氏が登壇し、中国におけるAI投資、オープンソースLLM「Qwen（クウェン）」、そして欧州企業にとってのAI主権について語った。",
-      "img": "https://ascii.jp/img/2026/07/07/4496227/s/8ef059596ab9a5ec.jpg",
-      "src": "ASCII.jp",
       "cat": "LLM/モデル",
       "score": 42
     },
@@ -162,15 +184,37 @@
       "score": 42
     },
     {
-      "title": "Claude Codeの週次制限枠「50％増」、8月31日まで延長 「恒久化したいものの……」",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000611/",
-      "date": "2026-08-19T11:04:04+09:00",
-      "dateLabel": "08/19 11:04",
-      "desc": "米Anthropicは、AIコーディング支援ツール「Claude Code」の週次利用制限枠を50％増やすキャンペーンを8月31日まで延長すると発表した。",
+      "title": "mouse A5にCore Ultraモデル追加 AI機能対応の15.6型ノートPCが登場",
+      "link": "https://ascii.jp/elem/000/004/427/4427957/?rss",
+      "date": "2026-08-20T11:00:00+09:00",
+      "dateLabel": "08/20 11:00",
+      "desc": "マウスコンピューターが15.6型ノートPC「mouse A5」にインテル Core Ultra 5 125H搭載モデルを追加。NPUによるAI機能やWindows Studio Effectsに対応し、Web会議やオフィスワークを快適にする新モデルの特徴や価格を紹介します。",
+      "img": "https://ascii.jp/img/2026/08/20/4514769/s/d8e8fc377327b752.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "Stripe、AIモデルゲートウェイのOpenRouter買収 400以上のAIモデルを束ねる中立基盤は維持",
+      "link": "https://www.itmedia.co.jp/news/article/2608/20/2000000639/",
+      "date": "2026-08-20T10:43:52+09:00",
+      "dateLabel": "08/20 10:43",
+      "desc": "Stripeは、AIモデルのゲートウェイを手掛けるOpenRouterを買収することで合意したと発表した。報道による買収額は約75億ドル。OpenRouterは単一APIで400超のモデル切り替えを可能にする。Stripeはトークンコスト最適化を強化し、OpenRouterは買収後も中立的な運営を継続する。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "Copilotの活用が進まない企業必見！ライセンスは配ったのに「議事録要約止まり」--大手建設企業に常駐して総務122業務を棚卸しし、対象23業務で年間373時間を削減した事例",
+      "link": "https://ascii.jp/elem/000/004/427/4427973/?rss",
+      "date": "2026-08-20T09:00:00+09:00",
+      "dateLabel": "08/20 09:00",
+      "desc": "Copilotの活用が進まない企業必見！ライセンスは配ったのに「議事録要約止まり」--大手建設企業に常駐して総務122業務を棚卸しし、対象23業務で年間373時間を削減した事例",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "高度なAIのサイバー攻撃、どう対策？ 企業が知るべき「スピード格差」の埋め方",
@@ -184,17 +228,6 @@
       "score": 34
     },
     {
-      "title": "人々はAIと本当は何を話しているか？ 企業レポートが映さない実像",
-      "link": "https://ascii.jp/elem/000/004/427/4427953/?rss",
-      "date": "2026-08-20T06:55:12+09:00",
-      "dateLabel": "08/20 06:55",
-      "desc": "アンソロピックやオープンAIは、自社製品の利用状況レポートを定期的に公開している。だが研究者によれば、示されるのは業務利用に偏った、自社に都合のよいデータだ。スタンフォード大学の研究チームの検証では、会話の約半数が分析から除外されていた。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "ローカルAIエージェントアプリ「Bionic」がSkillsに対応しCodexやClaude Codeの使い勝手に近づく",
       "link": "https://gigazine.net/news/20260819-lm-studio-bionic-skills/",
       "date": "2026-08-19T20:00:00+09:00",
@@ -203,17 +236,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "整備済みGPUを許容できるなら狙い目！ Ryzen 7 9800X3D搭載の“訳アリ”ゲーミングPC",
-      "link": "https://ascii.jp/elem/000/004/427/4427805/?rss",
-      "date": "2026-08-19T19:00:00+09:00",
-      "dateLabel": "08/19 19:00",
-      "desc": "整備済みGPUを採用することで特価になったSTORMのゲーミングPC。Ryzen 7 9800X3Dや32GBメモリ、液晶付き簡易水冷など装備は充実しており、“訳アリ”の内容に納得できるなら狙い目の1台。",
-      "img": "https://ascii.jp/img/2026/08/06/4510406/s/d9a9e79a32783ade.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -258,28 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "OpenAIが「安全のためにAIの強化学習を2週間停止した」と自社の安全対策をアピール",
-      "link": "https://gigazine.net/news/20260819-openai-pacing-model/",
-      "date": "2026-08-19T12:56:00+09:00",
-      "dateLabel": "08/19 12:56",
-      "desc": "OpenAIはテスト中モデルで他社サーバーに攻撃を仕掛けてしまうセキュリティインシデントを起こしたり、開発中の次期主力モデルであるAstraをサイバーリスク重大に指定したりと高性能AIによるセキュリティ上の問題に相次いで直面しています。この状況の中、安全対策を強化するために開発中モデルの強化学習を一時停止していたことが明らかになりました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "「Firefox 154」正式版リリース、Windows版でアプリアイコンを変更可能に",
-      "link": "https://gigazine.net/news/20260819-firefox-154/",
-      "date": "2026-08-19T11:52:00+09:00",
-      "dateLabel": "08/19 11:52",
-      "desc": "ウェブブラウザ「Firefox 154」の正式版が2026年8月18日に公開されました。AIを活用する「Smart Window」で関連するタブをまとめたグループを提案できるようになったほか、ローカルネットワーク上の機器へのWebSocket接続にもアクセス許可が必要になりました。また、Windows版Firefoxがクラウドゲーミングサービス「GeForc",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
       "score": 34
     }
   ]
