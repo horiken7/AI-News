@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-20T08:13:38.070698+09:00",
-  "generatedLabel": "2026/08/20 08:13",
+  "generatedAt": "2026-08-20T09:38:13.895593+09:00",
+  "generatedLabel": "2026/08/20 09:38",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 61,
+  "candidates": 62,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,7 +13,7 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 17
+      "items": 18
     },
     {
       "source": "ASCII.jp",
@@ -96,6 +96,17 @@
       "score": 50
     },
     {
+      "title": "Google、大学生向けに「Google AI Plus」を1年間無料提供 「Gemini」アプリに学生向け新機能も",
+      "link": "https://www.itmedia.co.jp/news/article/2608/20/2000000634/",
+      "date": "2026-08-20T07:58:36+09:00",
+      "dateLabel": "08/20 07:58",
+      "desc": "Googleは米国の新学期に合わせ、大学生向けに「Google AI Plus」などを12カ月無料で提供するキャンペーンを発表した。あわせてGeminiアプリに学生向けハブを新設し、授業資料から学習プランを生成する学習ノートブックや、3Dモデルの表示、Gemini LiveでのDeep Researchなどの新機能の提供を開始した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "中国AIは「フルスタック」で勝つ。アリババ会長が語るオープンソースとAI主権",
       "link": "https://ascii.jp/elem/000/004/416/4416772/?rss",
       "date": "2026-08-20T07:00:00+09:00",
@@ -160,6 +171,17 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 42
+    },
+    {
+      "title": "高度なAIのサイバー攻撃、どう対策？ 企業が知るべき「スピード格差」の埋め方",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000584/",
+      "date": "2026-08-20T08:00:00+09:00",
+      "dateLabel": "08/20 08:00",
+      "desc": "米AnthropicのAIモデル「Claude Mythos 5」をはじめとした高度なAIの登場により、サイバーセキュリティの在り方に注目が集まっている。企業に求められる対応を解説する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "人々はAIと本当は何を話しているか？ 企業レポートが映さない実像",
@@ -258,28 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "CursorがGitHub対抗のコードホスティングサービス「Origin」を発表",
-      "link": "https://gigazine.net/news/20260819-cursor-github-rival-hosting-platform-origin/",
-      "date": "2026-08-19T10:33:00+09:00",
-      "dateLabel": "08/19 10:33",
-      "desc": "イーロン・マスク氏のSpaceXに買収されたAIコーディングツールのCursorが、GitHub対抗のコードホスティングサービス「Origin」を発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "OpenAI、「ChatGPT for Teens」発表──宿題の“丸投げ”検知、自傷や摂食障害などの保護も強化",
-      "link": "https://www.itmedia.co.jp/news/article/2608/19/2000000606/",
-      "date": "2026-08-19T07:54:32+09:00",
-      "dateLabel": "08/19 07:54",
-      "desc": "OpenAIは、13?17歳向けの新環境「ChatGPT for Teens」を発表した。年齢推定や申告に基づいて自動適用され、段階的な理解を促す「Study Mode」などの学習機能を提供。自傷行為や摂食障害などの高リスク領域での保護を標準で有効にし、感情的な依存を促す対話を禁じるなど安全対策を強化した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
       "score": 34
     }
   ]
