@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-20T15:26:44.810023+09:00",
-  "generatedLabel": "2026/08/20 15:26",
+  "generatedAt": "2026-08-20T16:33:01.445543+09:00",
+  "generatedLabel": "2026/08/20 16:33",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 59,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 16
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -107,17 +107,6 @@
       "score": 50
     },
     {
-      "title": "AIによるシステム保守・障害対応支援「GoDD Maintenance」を提供開始。障害検知から原因究明・修正・テストまでを自動化",
-      "link": "https://ascii.jp/elem/000/004/428/4428149/?rss",
-      "date": "2026-08-20T12:12:17+09:00",
-      "dateLabel": "08/20 12:12",
-      "desc": "AIによるシステム保守・障害対応支援「GoDD Maintenance」を提供開始。障害検知から原因究明・修正・テストまでを自動化",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "OpenAI、ZDRを維持したまま悪用検知へ ログ保持を求めるAnthropicに対抗",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000638/",
       "date": "2026-08-20T09:39:01+09:00",
@@ -160,39 +149,6 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 42
-    },
-    {
-      "title": "「オープンな国産モデル」に33Bパラメータの新バージョン 国立情報学研究所",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000626/",
-      "date": "2026-08-19T15:55:19+09:00",
-      "dateLabel": "08/19 15:55",
-      "desc": "国立情報学研究所（NII）が、オープンな国産LLMの新バージョン「LLM-jp-4 33B」を公開。約332億パラメータのDense型モデルで、4種類のベンチマーク全てで従来モデルを上回るスコアを記録したという。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "カバー画面でSNS、開いて3アプリ同時起動。モトローラの横折りスマホ「razr fold」が使いやすすぎた",
-      "link": "https://ascii.jp/elem/000/004/427/4427060/?rss",
-      "date": "2026-08-20T12:00:00+09:00",
-      "dateLabel": "08/20 12:00",
-      "desc": "モトローラ初の横折りスマホ「motorola razr fold」の実機レビューです。開くと4.55mmと極薄で、カメラ評価機関でフォルダブル世界1位を獲得した高性能3眼カメラを搭載。AI機能や手書き文字をテキスト化できる専用ペンにも対応し、約30万円の価値が十分にある完成度です。",
-      "img": "https://ascii.jp/img/2026/08/17/4513403/s/57367594606f2b89.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "「生成AIなんでも展示会 Vol.6」サークル出展の一次当選を発表！追加募集は8月23日（日）まで--企業協賛・ビジネス出展も引き続き受付中",
-      "link": "https://ascii.jp/elem/000/004/428/4428097/?rss",
-      "date": "2026-08-20T11:54:57+09:00",
-      "dateLabel": "08/20 11:54",
-      "desc": "「生成AIなんでも展示会 Vol.6」サークル出展の一次当選を発表！追加募集は8月23日（日）まで--企業協賛・ビジネス出展も引き続き受付中",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
     },
     {
       "title": "StripeがOpenRouterの買収を正式発表、AIのための経済インフラを構築へ",
@@ -261,6 +217,17 @@
       "score": 34
     },
     {
+      "title": "「オープンな国産モデル」に33Bパラメータの新バージョン 国立情報学研究所",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000626/",
+      "date": "2026-08-19T15:55:19+09:00",
+      "dateLabel": "08/19 15:55",
+      "desc": "国立情報学研究所（NII）が、オープンな国産LLMの新バージョン「LLM-jp-4 33B」を公開。約332億パラメータのDense型モデルで、4種類のベンチマーク全てで従来モデルを上回るスコアを記録したという。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "Claude Codeの週次制限枠「50％増」、8月31日まで延長 「恒久化したいものの……」",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000611/",
       "date": "2026-08-19T11:04:04+09:00",
@@ -281,6 +248,39 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 28
+    },
+    {
+      "title": "厚みが1円玉6枚分のモバイルバッテリー!? スマホにくっ付くUGREENのワイヤレスモデルが4186円に！",
+      "link": "https://ascii.jp/elem/000/004/427/4427658/?rss",
+      "date": "2026-08-20T16:00:00+09:00",
+      "dateLabel": "08/20 16:00",
+      "desc": "UGREENの「Air モバイルバッテリー（PB580）」がAmazonでタイムセール対象。参考価格6,480円のところ、35％オフの4,186円で販売中。1円玉6枚分の薄さで、Qi2対応の最大15Wワイヤレス充電が可能。持ち歩きやすい薄型モデルを探している人にぴったりだ。",
+      "img": "https://ascii.jp/img/2026/08/19/4514328/s/ba90703da3adef42.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "ラピトリ入門者はこのキーボードを買うべし！ 8Kポーリングレートほか機能充実AIM1「瞬（MATATAKI）」",
+      "link": "https://ascii.jp/elem/000/004/427/4427947/?rss",
+      "date": "2026-08-20T14:30:00+09:00",
+      "dateLabel": "08/20 14:30",
+      "desc": "Amazon.co.jpにて、AIM1のテンキーレスゲーミングキーボード「瞬（MATATAKI／ホワイト, 日本語配列)」が販売中だ。価格は1万4980円。執筆現在、Amazonのゲーミングキーボードカテゴリーでベストセラー1位。",
+      "img": "https://ascii.jp/img/2026/08/19/4514686/s/472b3c002d10b73a.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "SpaceXによる買収報道をAIスタートアップ・Cognitionのスコット・ウーCEOが否定、「売却予定なし」",
+      "link": "https://gigazine.net/news/20260820-cognition-is-not-for-sale/",
+      "date": "2026-08-20T13:16:00+09:00",
+      "dateLabel": "08/20 13:16",
+      "desc": "「SpaceXがAIコーディングのスタートアップ・Cognitionに買収打診を行った」という報道があり、Cognitionのスコット・ウーCEOが「そういった事実はなく、売却の予定はない」と否定しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
     }
   ]
 }
