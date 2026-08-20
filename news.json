@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-20T13:26:27.773337+09:00",
-  "generatedLabel": "2026/08/20 13:26",
+  "generatedAt": "2026-08-20T14:21:13.499190+09:00",
+  "generatedLabel": "2026/08/20 14:21",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 62,
+  "candidates": 60,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 19
+      "items": 17
     },
     {
       "source": "CNET Japan",
@@ -107,6 +107,17 @@
       "score": 50
     },
     {
+      "title": "LLMO計測・改善ツール「LLMOチェキ」、SNS配信オプションを提供開始",
+      "link": "https://ascii.jp/elem/000/004/428/4428102/?rss",
+      "date": "2026-08-20T11:30:00+09:00",
+      "dateLabel": "08/20 11:30",
+      "desc": "LLMO計測・改善ツール「LLMOチェキ」、SNS配信オプションを提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "OpenAI、ZDRを維持したまま悪用検知へ ログ保持を求めるAnthropicに対抗",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000638/",
       "date": "2026-08-20T09:39:01+09:00",
@@ -162,17 +173,6 @@
       "score": 42
     },
     {
-      "title": "DeepSeek V4 Flashはベンチマークスコアは高いが実際のタスクでは苦戦しているという指摘、オーケストレーションに課題",
-      "link": "https://gigazine.net/news/20260819-deepseek-v4-flash-agent/",
-      "date": "2026-08-19T13:15:00+09:00",
-      "dateLabel": "08/19 13:15",
-      "desc": "中国のAI企業・DeepSeekは高性能AIモデル「DeepSeek-V4 Flash」と「DeepSeek-V4 Pro」を展開しています。V4 Flashは登場以来「安価かつ高性能」として利用ランキングで常に上位を占めるほど人気を集めましたが、DeepSeekは2026年8月6日に値上げを通知しているほか、実際のエージェント環境ではベンチマークスコアほど",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "カバー画面でSNS、開いて3アプリ同時起動。モトローラの横折りスマホ「razr fold」が使いやすすぎた",
       "link": "https://ascii.jp/elem/000/004/427/4427060/?rss",
       "date": "2026-08-20T12:00:00+09:00",
@@ -184,6 +184,17 @@
       "score": 34
     },
     {
+      "title": "「生成AIなんでも展示会 Vol.6」サークル出展の一次当選を発表！追加募集は8月23日（日）まで--企業協賛・ビジネス出展も引き続き受付中",
+      "link": "https://ascii.jp/elem/000/004/428/4428097/?rss",
+      "date": "2026-08-20T11:54:57+09:00",
+      "dateLabel": "08/20 11:54",
+      "desc": "「生成AIなんでも展示会 Vol.6」サークル出展の一次当選を発表！追加募集は8月23日（日）まで--企業協賛・ビジネス出展も引き続き受付中",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
       "title": "StripeがOpenRouterの買収を正式発表、AIのための経済インフラを構築へ",
       "link": "https://gigazine.net/news/20260820-stripe-acquire-openrouter/",
       "date": "2026-08-20T11:33:00+09:00",
@@ -192,28 +203,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "パーソルワークスイッチコンサルティングと有限責任 あずさ監査法人、DX・AI活用を支える「DMP構築・運用支援サービス」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/428/4428069/?rss",
-      "date": "2026-08-20T11:00:00+09:00",
-      "dateLabel": "08/20 11:00",
-      "desc": "パーソルワークスイッチコンサルティングと有限責任 あずさ監査法人、DX・AI活用を支える「DMP構築・運用支援サービス」を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "mouse A5にCore Ultraモデル追加 AI機能対応の15.6型ノートPCが登場",
-      "link": "https://ascii.jp/elem/000/004/427/4427957/?rss",
-      "date": "2026-08-20T11:00:00+09:00",
-      "dateLabel": "08/20 11:00",
-      "desc": "マウスコンピューターが15.6型ノートPC「mouse A5」にインテル Core Ultra 5 125H搭載モデルを追加。NPUによるAI機能やWindows Studio Effectsに対応し、Web会議やオフィスワークを快適にする新モデルの特徴や価格を紹介します。",
-      "img": "https://ascii.jp/img/2026/08/20/4514769/s/d8e8fc377327b752.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -277,6 +266,17 @@
       "date": "2026-08-19T15:00:00+09:00",
       "dateLabel": "08/19 15:00",
       "desc": "情報公開を強要するのではなく、協力する姿勢を見せることで、AIの「Copilot」から脆弱(ぜいじゃく)性を聞き出すことに成功したとAI研究者が報告しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "AIエージェントは「記憶」が多いほど賢くなるわけではない、IBM Researchが8モデルで検証",
+      "link": "https://gigazine.net/news/20260819-ai-agent-memory/",
+      "date": "2026-08-19T14:30:00+09:00",
+      "dateLabel": "08/19 14:30",
+      "desc": "AIエージェントに過去の経験を「記憶」として大量に与えても、必ずしも性能が高くなるわけではないことがIBM Researchの実験で示されました。AIモデルによっては、すべての記憶を渡すより必要な情報だけを選んだ方が高い性能を発揮するとのことです。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
