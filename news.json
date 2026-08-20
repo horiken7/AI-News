@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-20T19:19:36.991060+09:00",
-  "generatedLabel": "2026/08/20 19:19",
+  "generatedAt": "2026-08-20T20:17:32.705177+09:00",
+  "generatedLabel": "2026/08/20 20:17",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -184,17 +184,6 @@
       "score": 34
     },
     {
-      "title": "ローカルAIエージェントアプリ「Bionic」がSkillsに対応しCodexやClaude Codeの使い勝手に近づく",
-      "link": "https://gigazine.net/news/20260819-lm-studio-bionic-skills/",
-      "date": "2026-08-19T20:00:00+09:00",
-      "dateLabel": "08/19 20:00",
-      "desc": "BionicはクラウドAIサービスだけでなくローカルで実行するAIモデルにも対応したAIエージェントアプリです。新たにBionicがSkillsに対応し、CodexやClaude Codeなどで培われた大量のSkillsを活用できるようになりました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "ChatGPTの反論で「道徳的判断」の3割超が覆る 高齢者が説得されやすい傾向 神戸大",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000627/",
       "date": "2026-08-19T17:00:48+09:00",
@@ -272,13 +261,24 @@
       "score": 26
     },
     {
-      "title": "AI で作った Android スマホアプリで手軽に RTK 位置測位の PoC をスタートしよう！",
-      "link": "https://ascii.jp/elem/000/004/428/4428208/?rss",
-      "date": "2026-08-20T17:00:00+09:00",
-      "dateLabel": "08/20 17:00",
-      "desc": "AI で作った Android スマホアプリで手軽に RTK 位置測位の PoC をスタートしよう！",
-      "img": "https://ascii.jp/img/2026/08/20/4515028/s/afa8af233dd47fe3.jpg",
-      "src": "ASCII.jp",
+      "title": "日本精工が「国産人型ロボ」開発を後押し スタートアップのアトムと協力、アクチュエータの検証など",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000655/",
+      "date": "2026-08-20T16:47:56+09:00",
+      "dateLabel": "08/20 16:47",
+      "desc": "人型ロボットを開発するスタートアップのアトムは、日本精工（NSK）と国産人型ロボットの開発・実装に向け、戦略的パートナーシップに関する基本合意書を締結したと発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
+      "title": "SpaceXによる買収報道をAIスタートアップ・Cognitionのスコット・ウーCEOが否定、「売却予定なし」",
+      "link": "https://gigazine.net/news/20260820-cognition-is-not-for-sale/",
+      "date": "2026-08-20T13:16:00+09:00",
+      "dateLabel": "08/20 13:16",
+      "desc": "「SpaceXがAIコーディングのスタートアップ・Cognitionに買収打診を行った」という報道があり、Cognitionのスコット・ウーCEOが「そういった事実はなく、売却の予定はない」と否定しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AI全般",
       "score": 26
     }
