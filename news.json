@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-21T14:23:44.979146+09:00",
-  "generatedLabel": "2026/08/21 14:23",
+  "generatedAt": "2026-08-21T15:28:00.078836+09:00",
+  "generatedLabel": "2026/08/21 15:28",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -184,6 +184,17 @@
       "score": 34
     },
     {
+      "title": "野球特化型SNS「Baselink AI」を提供するSportsTech Japanが、BUNKLE、NEOLAB、アウルズ・ビジネス・パートナーズなどから資金調達を実施",
+      "link": "https://ascii.jp/elem/000/004/428/4428482/?rss",
+      "date": "2026-08-21T13:00:06+09:00",
+      "dateLabel": "08/21 13:00",
+      "desc": "野球特化型SNS「Baselink AI」を提供するSportsTech Japanが、BUNKLE、NEOLAB、アウルズ・ビジネス・パートナーズなどから資金調達を実施",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "AIがブランドに最適なクリエイターを発掘。Brandazine、クリエイターマーケティング特化型プラットフォーム「Solari（ソラリ）」を提供開始",
       "link": "https://ascii.jp/elem/000/004/428/4428433/?rss",
       "date": "2026-08-21T13:00:00+09:00",
@@ -203,17 +214,6 @@
       "img": "https://ascii.jp/img/2026/08/20/4514968/s/d7a121fd741f3095.jpg",
       "src": "ASCII.jp",
       "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "企業のAIコストを一元管理。法人AI「ChatSense」が新サービス公開",
-      "link": "https://ascii.jp/elem/000/004/428/4428448/?rss",
-      "date": "2026-08-21T12:31:36+09:00",
-      "dateLabel": "08/21 12:31",
-      "desc": "企業のAIコストを一元管理。法人AI「ChatSense」が新サービス公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -250,33 +250,33 @@
       "score": 28
     },
     {
-      "title": "Adobe、無料で生成AI試せるように 画像、動画、音声も作れる",
-      "link": "https://ascii.jp/elem/000/004/428/4428403/?rss",
-      "date": "2026-08-21T12:45:00+09:00",
-      "dateLabel": "08/21 12:45",
-      "desc": "アドビは8月21日、日本向けに「Adobe Firefly AIアシスタント無料体験プログラム」の提供を始めた。対象ユーザーは毎日一定の回数まで画像、動画、音声を無料で生成できる。",
-      "img": "https://ascii.jp/img/2026/08/21/4515311/s/34642c2fd9684a2a.png",
+      "title": "松尾・岩澤研協力『AI白書2026』発売、サブスク版も開始 [PR]",
+      "link": "https://ascii.jp/elem/000/004/428/4428471/?rss",
+      "date": "2026-08-21T14:00:32+09:00",
+      "dateLabel": "08/21 14:00",
+      "desc": "角川アスキー総合研究所は8月20日、AIの技術から法制度までを400ページに体系化した『AI白書2026』を発売した。あわせて、刊行後の変化を年間を通じて届ける「AI白書 デジタル・サブスクサービス」も開始した。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
       "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
-      "title": "最大4Kまで動画を高解像度化できるアップスケーラー「FLUX Video Upscale」が登場",
-      "link": "https://gigazine.net/news/20260821-flux-video-upscale/",
-      "date": "2026-08-21T12:32:00+09:00",
-      "dateLabel": "08/21 12:32",
-      "desc": "AI企業のBlack Forest LabsがAIを用いた動画アップスケーラー「FLUX Video Upscale」をリリースしました。FLUX Video Upscaleは動画を最大4Kにまでアップスケールすることができます。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "AIRoA、CoRL 2026にてワークショップ「The UMI Arena」の開催が決定",
-      "link": "https://ascii.jp/elem/000/004/428/4428436/?rss",
-      "date": "2026-08-21T12:30:00+09:00",
-      "dateLabel": "08/21 12:30",
-      "desc": "AIRoA、CoRL 2026にてワークショップ「The UMI Arena」の開催が決定",
+      "title": "アンドエル、「AI×人財戦略カンファレンス2026 「AI」との向き合い方、「組織」の在り方」に登壇",
+      "link": "https://ascii.jp/elem/000/004/428/4428475/?rss",
+      "date": "2026-08-21T14:00:00+09:00",
+      "dateLabel": "08/21 14:00",
+      "desc": "アンドエル、「AI×人財戦略カンファレンス2026 「AI」との向き合い方、「組織」の在り方」に登壇",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "2026年上半期に不適切会計を公表した27社 ―ー 発覚前シグナルの観点からConFinanceAIが分析",
+      "link": "https://ascii.jp/elem/000/004/428/4428476/?rss",
+      "date": "2026-08-21T13:51:22+09:00",
+      "dateLabel": "08/21 13:51",
+      "desc": "2026年上半期に不適切会計を公表した27社 ―ー 発覚前シグナルの観点からConFinanceAIが分析",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
