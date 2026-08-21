@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-21T09:41:25.949384+09:00",
-  "generatedLabel": "2026/08/21 09:41",
+  "generatedAt": "2026-08-21T11:17:29.507559+09:00",
+  "generatedLabel": "2026/08/21 11:17",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 54,
+  "candidates": 59,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 20
+      "items": 19
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 10
     },
     {
       "source": "PC Watch",
@@ -96,17 +96,6 @@
       "score": 50
     },
     {
-      "title": "AIモデル「Ornith-1.5」が登場、Claude Opus 4.8級の大型モデルからスマホ動作可能な軽量モデルまで網羅したオープンモデル",
-      "link": "https://gigazine.net/news/20260820-ornith-1-5/",
-      "date": "2026-08-20T10:57:00+09:00",
-      "dateLabel": "08/20 10:57",
-      "desc": "AI研究組織のOrnithがAIモデル「Ornith-1.5」を2026年8月19日に公開しました。Ornith-1.5は「Ornith-1.5-397B」「Ornith-1.5-35B-A3B」「Ornith-1.5-9B」という3種類のモデルに分かれてリリースされており、最大規模のOrnith-1.5-397BはClaude Opus 4.8と同等のベン",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
       "title": "Visual Studio Code 1.133正式リリース。プロンプトを見失わない固定スクロール、ローカルHTMLファイルの自動リロード、ClaudeとCopilotの混在可能など新機能",
       "link": "https://www.publickey1.jp/blog/26/visual_studio_code_1133htmlclaudecopilot.html",
       "date": "2026-08-18T00:42:34+09:00",
@@ -118,6 +107,28 @@
       "score": 44
     },
     {
+      "title": "ChatGPTでAppleのメッセージアプリを管理できる「Apple Messages Plugin」が登場、メッセージの返信・分類・管理が可能",
+      "link": "https://gigazine.net/news/20260821-openai-apple-messages-plugin/",
+      "date": "2026-08-21T10:33:00+09:00",
+      "dateLabel": "08/21 10:33",
+      "desc": "OpenAIの開発するチャットAIのChatGPTが、新しいプラグインの「Apple Messages Plugin」を発表しました。Apple Messages Pluginを利用することで、Mac上のChatGPTでメッセージアプリを管理することが可能となります。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "どんぶり勘定から脱却！協力会社への外注費も含めた「リアルな粗利」が一目でわかる新機能を『KOMAINU』がリリース",
+      "link": "https://ascii.jp/elem/000/004/428/4428311/?rss",
+      "date": "2026-08-21T09:40:00+09:00",
+      "dateLabel": "08/21 09:40",
+      "desc": "どんぶり勘定から脱却！協力会社への外注費も含めた「リアルな粗利」が一目でわかる新機能を『KOMAINU』がリリース",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 42
+    },
+    {
       "title": "macOS版ChatGPT、Appleの「メッセージ」と連携 会話検索や下書き、送信に対応",
       "link": "https://www.itmedia.co.jp/news/article/2608/21/2000000669/",
       "date": "2026-08-21T09:22:19+09:00",
@@ -126,6 +137,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "ベストサイン、電子部品・半導体業界向け「契約DX」ホワイトペーパーを公開",
+      "link": "https://ascii.jp/elem/000/004/428/4428316/?rss",
+      "date": "2026-08-21T09:00:00+09:00",
+      "dateLabel": "08/21 09:00",
+      "desc": "ベストサイン、電子部品・半導体業界向け「契約DX」ホワイトペーパーを公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
       "score": 42
     },
     {
@@ -140,34 +162,67 @@
       "score": 42
     },
     {
-      "title": "高画質でゲームを遊びたいならGPUに予算を集中！ RX 9070 XT搭載PCが27万円台",
-      "link": "https://ascii.jp/elem/000/004/428/4428235/?rss",
-      "date": "2026-08-20T19:00:00+09:00",
-      "dateLabel": "08/20 19:00",
-      "desc": "Ryzen 7 5700XとRadeon RX 9070 XT 16GBを搭載しながら27万4800円。CPUまわりのコストを抑え、ゲーム性能に効くGPUへ予算を集中した、高画質・高解像度ゲーミング重視の1台だ。",
-      "img": "https://ascii.jp/img/2026/08/20/4515086/s/97e5f19147d008d0.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
+      "title": "AIモデル「Ornith-1.5」が登場、Claude Opus 4.8級の大型モデルからスマホ動作可能な軽量モデルまで網羅したオープンモデル",
+      "link": "https://gigazine.net/news/20260820-ornith-1-5/",
+      "date": "2026-08-20T10:57:00+09:00",
+      "dateLabel": "08/20 10:57",
+      "desc": "AI研究組織のOrnithがAIモデル「Ornith-1.5」を2026年8月19日に公開しました。Ornith-1.5は「Ornith-1.5-397B」「Ornith-1.5-35B-A3B」「Ornith-1.5-9B」という3種類のモデルに分かれてリリースされており、最大規模のOrnith-1.5-397BはClaude Opus 4.8と同等のベン",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 42
     },
     {
-      "title": "台湾発マップ連動型SNS。位置情報とAI翻訳でエリアの「現在」を共有する",
-      "link": "https://ascii.jp/elem/000/004/427/4427831/?rss",
-      "date": "2026-08-21T07:00:00+09:00",
-      "dateLabel": "08/21 07:00",
-      "desc": "台湾発の訪日観光プラットフォームを運営するiwafu株式会社は8月10日、位置情報に連動した投稿に特化したリアルタイムSNSアプリ「iwafu Flash」をリリースした。ユーザー投稿を地図情報やイベントデータと直接紐付けることで、特定の場所やエリアにおける「現在」の情報提供を目指す。訪日旅行者や国内ユーザーを対象に、現地の催事情報、気候、混雑状況などをリア",
-      "img": "https://ascii.jp/img/2026/08/19/4514469/s/3c70c26d3b2f2260.jpg",
+      "title": "検索・要約で終わらせない、Copilotでつくる「AI社員」実践ワークショップを8月26日に無料オンライン開催",
+      "link": "https://ascii.jp/elem/000/004/428/4428309/?rss",
+      "date": "2026-08-21T10:00:00+09:00",
+      "dateLabel": "08/21 10:00",
+      "desc": "検索・要約で終わらせない、Copilotでつくる「AI社員」実践ワークショップを8月26日に無料オンライン開催",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "明石駅前の大型商業施設「アスピア明石」、人流分析AI Agent「ミセシル」を採用し、データに基づくリニューアル検討とテナント誘致・フロア構成の最適化を推進",
+      "link": "https://ascii.jp/elem/000/004/428/4428315/?rss",
+      "date": "2026-08-21T09:00:00+09:00",
+      "dateLabel": "08/21 09:00",
+      "desc": "明石駅前の大型商業施設「アスピア明石」、人流分析AI Agent「ミセシル」を採用し、データに基づくリニューアル検討とテナント誘致・フロア構成の最適化を推進",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
     },
     {
-      "title": "賃貸契約書の自動解析で収益物件のレントロールを作成する新機能",
-      "link": "https://ascii.jp/elem/000/004/427/4427829/?rss",
+      "title": "株式会社LANY、「BtoBカンファレンス｜2026年最新勝ち施策｜AI検索時代の打ち手・成功事例を大公開！マーケ戦略～商談化までを徹底解説」を9月8日に開催",
+      "link": "https://ascii.jp/elem/000/004/428/4428318/?rss",
+      "date": "2026-08-21T08:00:00+09:00",
+      "dateLabel": "08/21 08:00",
+      "desc": "株式会社LANY、「BtoBカンファレンス｜2026年最新勝ち施策｜AI検索時代の打ち手・成功事例を大公開！マーケ戦略～商談化までを徹底解説」を9月8日に開催",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "「判断力は、どう育てるのか」― AI時代の育成を問い直す16ページの実務レポートを公開",
+      "link": "https://ascii.jp/elem/000/004/428/4428321/?rss",
+      "date": "2026-08-21T07:36:39+09:00",
+      "dateLabel": "08/21 07:36",
+      "desc": "「判断力は、どう育てるのか」― AI時代の育成を問い直す16ページの実務レポートを公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "物流AIプラットフォーム「EPG AURA」日本展開を開始、国際物流総合展2026で初公開",
+      "link": "https://ascii.jp/elem/000/004/428/4428322/?rss",
       "date": "2026-08-21T07:00:00+09:00",
       "dateLabel": "08/21 07:00",
-      "desc": "株式会社Paradisは8月10日、収益物件のレントロール（物件の賃貸借条件一覧表）を自動作成する新機能「Aiスマート重説 for レントロール」の提供を開始した。同サービスは、契約書等をアップロードするだけでAIが主要条件を読み取り、最短数分でデータを自動生成する。不動産業界においてボトルネックとなっていた業務工数を削減し、業務の処理能力を引き上げる試みだ",
-      "img": "https://ascii.jp/img/2026/08/19/4514457/s/0028c0c04fe7181d.jpg",
+      "desc": "物流AIプラットフォーム「EPG AURA」日本展開を開始、国際物流総合展2026で初公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
@@ -195,17 +250,6 @@
       "score": 34
     },
     {
-      "title": "Stripe、AIモデルゲートウェイのOpenRouter買収 400以上のAIモデルを束ねる中立基盤は維持",
-      "link": "https://www.itmedia.co.jp/news/article/2608/20/2000000639/",
-      "date": "2026-08-20T10:43:52+09:00",
-      "dateLabel": "08/20 10:43",
-      "desc": "Stripeは、AIモデルのゲートウェイを手掛けるOpenRouterを買収することで合意したと発表した。報道による買収額は約75億ドル。OpenRouterは単一APIで400超のモデル切り替えを可能にする。Stripeはトークンコスト最適化を強化し、OpenRouterは買収後も中立的な運営を継続する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "OpenAI、ZDRを維持したまま悪用検知へ ログ保持を求めるAnthropicに対抗",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000638/",
       "date": "2026-08-20T09:39:01+09:00",
@@ -228,58 +272,14 @@
       "score": 28
     },
     {
-      "title": "「Fable禁止」で仕事が止まったあの日々を振り返る 日本企業が取るべき「脱・単一モデル」戦略",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000666/",
-      "date": "2026-08-21T09:00:00+09:00",
-      "dateLabel": "08/21 09:00",
-      "desc": "米政府の輸出管理で「Claude Fable 5」の提供が突如停止し、業務が止まった実体験を基に、単一AIモデル依存の地政学リスクを指摘。オンプレミス化やマルチモデル統合基盤など、日本企業が取るべき分散戦略を整理する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "Snowflakeが過去最高業績 CEOが「他社との差別化は容易になった」と語るワケ",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2608/24/news009.html",
-      "date": "2026-08-21T08:00:00+09:00",
-      "dateLabel": "08/21 08:00",
-      "desc": "競合が同じ方向に走り出した今こそ、差別化はむしろ容易になっている――。SnowflakeのCEOが年次カンファレンスでこう言い切った根拠はどこにあるのか。AIエージェント時代のSnowflakeの戦略に迫る。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "ChatGPTに「おすすめの○○は？」 実は答えが決まっているらしい：893rd Lap",
-      "link": "https://kn.itmedia.co.jp/kn/articles/2608/21/news043.html",
-      "date": "2026-08-21T07:00:00+09:00",
-      "dateLabel": "08/21 07:00",
-      "desc": "ChatGPTに「おすすめの○○は？」と聞けば、いくつかのブランドや商品を教えてくれる。では、その候補はどうやって選ばれているのだろうか。どうやらChatGPTは、検索を始める前から「この分野ならこれ」と、ある程度の候補を持っているらしい。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "「たった14人」の挑戦から7兆円の逆転劇へ ラピダス小池社長の「TSMCとは戦わない」2ナノ半導体の勝算",
-      "link": "https://www.itmedia.co.jp/business/articles/2608/21/news030.html",
-      "date": "2026-08-21T07:00:00+09:00",
-      "dateLabel": "08/21 07:00",
-      "desc": "世界の半導体市場を台湾TSMCが席巻する中、7兆円規模の国家プロジェクトとして最先端「2ナノ」の量産化に挑むのがラピダスだ。同社はTSMCとの規模の勝負を避け、設計から前後工程を一棟で完結させる「RUMS」による多品種生産で勝負する。「たった14人」の同志でスタートした原点から、北海道を「次のシリコンバレー」へと変える小池淳義社長の戦略に迫る。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "「Gemini Notebook」で利用者10倍 シニア社員をAIヘビーユーザーにした首都高の考え",
-      "link": "https://kn.itmedia.co.jp/kn/articles/2608/21/news044.html",
-      "date": "2026-08-21T07:00:00+09:00",
-      "dateLabel": "08/21 07:00",
-      "desc": "「生成AIを何に使えばよいかわからない」という理由により、生成AIの活用が停滞してしまう企業は多い。安全を最優先する故に慎重な組織風土であった首都高速道路でも同様の課題を抱えていた。しかし同社では「Google Gemini」を起点としたある工夫により、劇的に活用状況を改善したという。その具体例を同社の推進担当者が語った。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
+      "title": "属人化の解消は多忙な“Aさん”を救うことから 切り札は「kintone×AI」を自然に使わせる仕組み",
+      "link": "https://ascii.jp/elem/000/004/426/4426528/?rss",
+      "date": "2026-08-21T10:00:00+09:00",
+      "dateLabel": "08/21 10:00",
+      "desc": "サイボウズは、kintoneユーザーの事例イベントである「kintone hive 2026 matsuyama」を開催。2番手として登壇したランネットの栢野（かやの）雅行さんが披露したのは、kintoneとAIを駆使して社内の属人化に立ち向かった試行錯誤の軌跡である。",
+      "img": "https://ascii.jp/img/2026/08/13/4512422/s/0da2c769d047a65e.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 26
     }
   ]
