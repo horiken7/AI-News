@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-21T19:19:51.579519+09:00",
-  "generatedLabel": "2026/08/21 19:19",
+  "generatedAt": "2026-08-21T20:17:01.665678+09:00",
+  "generatedLabel": "2026/08/21 20:17",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 57,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 2
     },
     {
       "source": "PC Watch",
@@ -195,17 +195,6 @@
       "score": 34
     },
     {
-      "title": "【相互無料提供開始】BarterMatchにて、株式会社Nexiaが提供する『人材紹介会社向けAI求人マッチング』の相互無料提供を開始しました",
-      "link": "https://ascii.jp/elem/000/004/428/4428586/?rss",
-      "date": "2026-08-21T17:56:27+09:00",
-      "dateLabel": "08/21 17:56",
-      "desc": "【相互無料提供開始】BarterMatchにて、株式会社Nexiaが提供する『人材紹介会社向けAI求人マッチング』の相互無料提供を開始しました",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "AIエージェント「Grok Build」がスマホアプリやウェブ版Grokでも利用可能に、アプリを作って固有URLで公開する機能もあり",
       "link": "https://gigazine.net/news/20260821-grok-build-web-mobile/",
       "date": "2026-08-21T13:28:00+09:00",
@@ -250,17 +239,6 @@
       "score": 28
     },
     {
-      "title": "100万円の「DGX Spark」価格.comデスクトップランキング2位に ローカルAI特需で急上昇",
-      "link": "https://ascii.jp/elem/000/004/428/4428538/?rss",
-      "date": "2026-08-21T18:20:00+09:00",
-      "dateLabel": "08/21 18:20",
-      "desc": "価格.comの「デスクトップパソコン 人気売れ筋ランキング（8月21日付）」で、エヌビディアのAI開発向けPC「DGX Spark」が2位にランクインした。",
-      "img": "https://ascii.jp/img/2026/08/21/4515541/s/9fefe7896eb9c609.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
       "title": "AIは「確実に6人を犠牲に1人を救える方法」と「全員生還か全員犠牲のギャンブル」のどちらを選ぶのか？",
       "link": "https://gigazine.net/news/20260821-ai-gamble-lives/",
       "date": "2026-08-21T16:00:00+09:00",
@@ -280,6 +258,28 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "「Fable禁止」で仕事が止まったあの日々を振り返る 日本企業が取るべき「脱・単一モデル」戦略",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000666/",
+      "date": "2026-08-21T09:00:00+09:00",
+      "dateLabel": "08/21 09:00",
+      "desc": "米政府の輸出管理で「Claude Fable 5」の提供が突如停止し、業務が止まった実体験を基に、単一AIモデル依存の地政学リスクを指摘。オンプレミス化やマルチモデル統合基盤など、日本企業が取るべき分散戦略を整理する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "Snowflakeが過去最高業績 CEOが「他社との差別化は容易になった」と語るワケ",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2608/24/news009.html",
+      "date": "2026-08-21T08:00:00+09:00",
+      "dateLabel": "08/21 08:00",
+      "desc": "競合が同じ方向に走り出した今こそ、差別化はむしろ容易になっている――。SnowflakeのCEOが年次カンファレンスでこう言い切った根拠はどこにあるのか。AIエージェント時代のSnowflakeの戦略に迫る。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
