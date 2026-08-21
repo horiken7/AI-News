@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-21T20:17:01.665678+09:00",
-  "generatedLabel": "2026/08/21 20:17",
+  "generatedAt": "2026-08-21T21:25:06.964117+09:00",
+  "generatedLabel": "2026/08/21 21:25",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 16
+      "items": 17
     },
     {
       "source": "CNET Japan",
@@ -173,11 +173,11 @@
       "score": 42
     },
     {
-      "title": "【相互無料提供開始】BarterMatchにて、GLキャリア株式会社が提供する『カスハラ防止対策ロープレAIシステム』の相互無料提供を開始しました",
-      "link": "https://ascii.jp/elem/000/004/428/4428576/?rss",
-      "date": "2026-08-21T18:27:46+09:00",
-      "dateLabel": "08/21 18:27",
-      "desc": "【相互無料提供開始】BarterMatchにて、GLキャリア株式会社が提供する『カスハラ防止対策ロープレAIシステム』の相互無料提供を開始しました",
+      "title": "【相互無料提供開始】BarterMatchにて、株式会社Re-railが提供する『AISTAZ（アイスターズ）』の相互無料提供を開始しました",
+      "link": "https://ascii.jp/elem/000/004/428/4428603/?rss",
+      "date": "2026-08-21T18:59:33+09:00",
+      "dateLabel": "08/21 18:59",
+      "desc": "【相互無料提供開始】BarterMatchにて、株式会社Re-railが提供する『AISTAZ（アイスターズ）』の相互無料提供を開始しました",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
@@ -217,17 +217,6 @@
       "score": 34
     },
     {
-      "title": "スマホで動く小型AIモデル「LFM2.5」に省メモリ化を施しつつ性能低下を抑えたQAD版が登場",
-      "link": "https://gigazine.net/news/20260820-lfm2-5-qad/",
-      "date": "2026-08-20T21:00:00+09:00",
-      "dateLabel": "08/20 21:00",
-      "desc": "AI企業のLiquid AIはノートPCやスマートフォンといった低スペックなデバイスでも実行できる小型AIモデルとしてLFM2.5シリーズを展開しています。新たにLFM2.5シリーズに量子化認識蒸留(QAD)という省メモリ化しつつ性能低下を抑える技術を適用したバージョンがオープンモデルとして公開されました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表",
       "link": "https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html",
       "date": "2026-08-17T00:10:13+09:00",
@@ -237,6 +226,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 28
+    },
+    {
+      "title": "AIの回答をコピペしないでくれと頼む運動「Don’t paste the AI, please.(AIが書いたものをコピペしないでください)」",
+      "link": "https://gigazine.net/news/20260821-dont-paste-the-ai-please/",
+      "date": "2026-08-21T21:00:00+09:00",
+      "dateLabel": "08/21 21:00",
+      "desc": "ChatGPTなどのAIは、仕組み上、自分が出力した文章の正誤ないしは真偽を確認できません。できているように見えても実際は違うので、最終的には人間がその正確性を確認する必要があります。ところが、この仕組みを知らずにAIが生成した文章をそのままコピペする人間が存在し、そのような文章を受け取った人間にはまずその文章が正しいのかどうかを確認しなければならないという",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
     },
     {
       "title": "AIは「確実に6人を犠牲に1人を救える方法」と「全員生還か全員犠牲のギャンブル」のどちらを選ぶのか？",
