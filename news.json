@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-21T18:25:44.216614+09:00",
-  "generatedLabel": "2026/08/21 18:25",
+  "generatedAt": "2026-08-21T19:19:51.579519+09:00",
+  "generatedLabel": "2026/08/21 19:19",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 58,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -107,14 +107,14 @@
       "score": 44
     },
     {
-      "title": "【8/26 14:00開催】AIは企業・サービスをどう認識している？ トドオナダ、LLM認知測定ツール「ディギディギ」を使った実演をセミナーで公開",
-      "link": "https://ascii.jp/elem/000/004/428/4428555/?rss",
-      "date": "2026-08-21T17:00:00+09:00",
-      "dateLabel": "08/21 17:00",
-      "desc": "【8/26 14:00開催】AIは企業・サービスをどう認識している？ トドオナダ、LLM認知測定ツール「ディギディギ」を使った実演をセミナーで公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "title": "「ゲーミングじゃない高性能ビジネスモバイルノートPCが欲しい」への回答はZenbook SORAが正解。ちょうどタイムセール中",
+      "link": "https://ascii.jp/elem/000/004/428/4428228/?rss",
+      "date": "2026-08-21T19:00:00+09:00",
+      "dateLabel": "08/21 19:00",
+      "desc": "ASUSの14型ノートPC「Zenbook SORA（UX3407NA）」がAmazonでタイムセール対象。参考価格349,800円から9％オフの319,800円で販売中。約990gながら、Snapdragon X2 Elite、32GBメモリー、1TB SSDを搭載する。1kg未満に充実した構成を詰め込んだモバイルノートだ。",
+      "img": "https://ascii.jp/img/2026/08/20/4515049/s/7285a971ad21252d.jpg",
       "src": "ASCII.jp",
-      "cat": "LLM/モデル",
+      "cat": "生成AI/マルチモーダル",
       "score": 42
     },
     {
@@ -173,6 +173,17 @@
       "score": 42
     },
     {
+      "title": "【相互無料提供開始】BarterMatchにて、GLキャリア株式会社が提供する『カスハラ防止対策ロープレAIシステム』の相互無料提供を開始しました",
+      "link": "https://ascii.jp/elem/000/004/428/4428576/?rss",
+      "date": "2026-08-21T18:27:46+09:00",
+      "dateLabel": "08/21 18:27",
+      "desc": "【相互無料提供開始】BarterMatchにて、GLキャリア株式会社が提供する『カスハラ防止対策ロープレAIシステム』の相互無料提供を開始しました",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "小型モデル「LFM2.5」を2倍以上高速化する投機的デコーディング技術DSpark適用版が登場",
       "link": "https://gigazine.net/news/20260821-lfm2-5-dspark-faster-inference/",
       "date": "2026-08-21T18:14:00+09:00",
@@ -184,25 +195,14 @@
       "score": 34
     },
     {
-      "title": "「iPhone Air」256GBが13％オフ！ 薄くて軽量・高性能、新しいiPhoneを待つよりこっちが安い!?",
-      "link": "https://ascii.jp/elem/000/004/428/4428468/?rss",
-      "date": "2026-08-21T17:00:00+09:00",
-      "dateLabel": "08/21 17:00",
-      "desc": "Amazon.co.jpにて、「iPhone Air」がタイムセール中！とにかく薄い・軽量・高性能で画面の大きさも好評な一品です。",
-      "img": "https://ascii.jp/img/2026/08/21/4515392/s/dfe43eb068bc70df.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "経営者向けAI「LoreOS」、社内の仕事を任せられる「AIエージェント」機能を追加",
-      "link": "https://ascii.jp/elem/000/004/428/4428527/?rss",
-      "date": "2026-08-21T16:16:24+09:00",
-      "dateLabel": "08/21 16:16",
-      "desc": "経営者向けAI「LoreOS」、社内の仕事を任せられる「AIエージェント」機能を追加",
+      "title": "【相互無料提供開始】BarterMatchにて、株式会社Nexiaが提供する『人材紹介会社向けAI求人マッチング』の相互無料提供を開始しました",
+      "link": "https://ascii.jp/elem/000/004/428/4428586/?rss",
+      "date": "2026-08-21T17:56:27+09:00",
+      "dateLabel": "08/21 17:56",
+      "desc": "【相互無料提供開始】BarterMatchにて、株式会社Nexiaが提供する『人材紹介会社向けAI求人マッチング』の相互無料提供を開始しました",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
+      "cat": "AI全般",
       "score": 34
     },
     {
@@ -261,17 +261,6 @@
       "score": 26
     },
     {
-      "title": "一体型デスクトップPCが、Ryzen AI 5 340搭載で24万5300円！ さらにクーポンで2200円オフ！",
-      "link": "https://ascii.jp/elem/000/004/427/4427653/?rss",
-      "date": "2026-08-21T17:00:00+09:00",
-      "dateLabel": "08/21 17:00",
-      "desc": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
-      "img": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
       "title": "AIは「確実に6人を犠牲に1人を救える方法」と「全員生還か全員犠牲のギャンブル」のどちらを選ぶのか？",
       "link": "https://gigazine.net/news/20260821-ai-gamble-lives/",
       "date": "2026-08-21T16:00:00+09:00",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "最大4Kまで動画を高解像度化できるアップスケーラー「FLUX Video Upscale」が登場",
+      "link": "https://gigazine.net/news/20260821-flux-video-upscale/",
+      "date": "2026-08-21T12:32:00+09:00",
+      "dateLabel": "08/21 12:32",
+      "desc": "AI企業のBlack Forest LabsがAIを用いた動画アップスケーラー「FLUX Video Upscale」をリリースしました。FLUX Video Upscaleは動画を最大4Kにまでアップスケールすることができます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
       "score": 26
     }
   ]
