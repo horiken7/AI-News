@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T08:16:11.551840+09:00",
-  "generatedLabel": "2026/08/21 08:16",
+  "generatedAt": "2026-08-21T09:41:25.949384+09:00",
+  "generatedLabel": "2026/08/21 09:41",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 54,
@@ -118,6 +118,28 @@
       "score": 44
     },
     {
+      "title": "macOS版ChatGPT、Appleの「メッセージ」と連携 会話検索や下書き、送信に対応",
+      "link": "https://www.itmedia.co.jp/news/article/2608/21/2000000669/",
+      "date": "2026-08-21T09:22:19+09:00",
+      "dateLabel": "08/21 09:22",
+      "desc": "OpenAIは、macOS版ChatGPT向けにAppleの「メッセージ」アプリと連携するプラグインを公開した。CodexやChatGPT Workのチャット上で過去の会話検索や下書き作成、送信が可能になる。誤送信防止のため都度承認フローを備える。Appleシリコン搭載Mac向けだ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "「チャピる」「ギュられる」って何？ 今年流行った「就活用語」にAI関連ワード マイナビ調査",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000663/",
+      "date": "2026-08-21T07:55:00+09:00",
+      "dateLabel": "08/21 07:55",
+      "desc": "マイナビは、2027年卒の就職活動で流行した用語を発表した。米OpenAIのチャットAI「ChatGPT」を示す「チャッピー」に加え、「チャピる」「ギュられる」といったAIに関する新語が登場した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "高画質でゲームを遊びたいならGPUに予算を集中！ RX 9070 XT搭載PCが27万円台",
       "link": "https://ascii.jp/elem/000/004/428/4428235/?rss",
       "date": "2026-08-20T19:00:00+09:00",
@@ -126,17 +148,6 @@
       "img": "https://ascii.jp/img/2026/08/20/4515086/s/97e5f19147d008d0.png",
       "src": "ASCII.jp",
       "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "OpenAI、ZDRを維持したまま悪用検知へ ログ保持を求めるAnthropicに対抗",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000638/",
-      "date": "2026-08-20T09:39:01+09:00",
-      "dateLabel": "08/20 09:39",
-      "desc": "OpenAIは、APIデータの非保持設定（ZDR）を維持したまま、複数のやり取りを横断して悪用の兆候を検知する新機構「Private Safety Processing」を発表した。顧客データを自社インフラ外や暗号化で保護しつつ、活動シグナルのみでリスクを判定する。9月に展開を開始する予定。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -195,22 +206,11 @@
       "score": 34
     },
     {
-      "title": "Google、大学生向けに「Google AI Plus」を1年間無料提供 「Gemini」アプリに学生向け新機能も",
-      "link": "https://www.itmedia.co.jp/news/article/2608/20/2000000634/",
-      "date": "2026-08-20T07:58:36+09:00",
-      "dateLabel": "08/20 07:58",
-      "desc": "Googleは米国の新学期に合わせ、大学生向けに「Google AI Plus」などを12カ月無料で提供するキャンペーンを発表した。あわせてGeminiアプリに学生向けハブを新設し、授業資料から学習プランを生成する学習ノートブックや、3Dモデルの表示、Gemini LiveでのDeep Researchなどの新機能の提供を開始した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "ChatGPTの反論で「道徳的判断」の3割超が覆る 高齢者が説得されやすい傾向 神戸大",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000627/",
-      "date": "2026-08-19T17:00:48+09:00",
-      "dateLabel": "08/19 17:00",
-      "desc": "生成AIの反論によって道徳的な判断の3割超が覆る――神戸大学がこのような研究結果を発表した。米OpenAIのチャットAI「ChatGPT」を利用し、AIの反論が正解のない道徳問題への回答に与える影響を調べた。",
+      "title": "OpenAI、ZDRを維持したまま悪用検知へ ログ保持を求めるAnthropicに対抗",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000638/",
+      "date": "2026-08-20T09:39:01+09:00",
+      "dateLabel": "08/20 09:39",
+      "desc": "OpenAIは、APIデータの非保持設定（ZDR）を維持したまま、複数のやり取りを横断して悪用の兆候を検知する新機構「Private Safety Processing」を発表した。顧客データを自社インフラ外や暗号化で保護しつつ、活動シグナルのみでリスクを判定する。9月に展開を開始する予定。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
@@ -226,6 +226,28 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 28
+    },
+    {
+      "title": "「Fable禁止」で仕事が止まったあの日々を振り返る 日本企業が取るべき「脱・単一モデル」戦略",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000666/",
+      "date": "2026-08-21T09:00:00+09:00",
+      "dateLabel": "08/21 09:00",
+      "desc": "米政府の輸出管理で「Claude Fable 5」の提供が突如停止し、業務が止まった実体験を基に、単一AIモデル依存の地政学リスクを指摘。オンプレミス化やマルチモデル統合基盤など、日本企業が取るべき分散戦略を整理する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "Snowflakeが過去最高業績 CEOが「他社との差別化は容易になった」と語るワケ",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2608/24/news009.html",
+      "date": "2026-08-21T08:00:00+09:00",
+      "dateLabel": "08/21 08:00",
+      "desc": "競合が同じ方向に走り出した今こそ、差別化はむしろ容易になっている――。SnowflakeのCEOが年次カンファレンスでこう言い切った根拠はどこにあるのか。AIエージェント時代のSnowflakeの戦略に迫る。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 26
     },
     {
       "title": "ChatGPTに「おすすめの○○は？」 実は答えが決まっているらしい：893rd Lap",
@@ -255,28 +277,6 @@
       "date": "2026-08-21T07:00:00+09:00",
       "dateLabel": "08/21 07:00",
       "desc": "「生成AIを何に使えばよいかわからない」という理由により、生成AIの活用が停滞してしまう企業は多い。安全を最優先する故に慎重な組織風土であった首都高速道路でも同様の課題を抱えていた。しかし同社では「Google Gemini」を起点としたある工夫により、劇的に活用状況を改善したという。その具体例を同社の推進担当者が語った。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "裁判の提出書類に「原告有利の出力を生成するようAIに指示するテキスト」が隠されていたことが発覚",
-      "link": "https://gigazine.net/news/20260821-hides-prompt-injection-legal-filing-ai/",
-      "date": "2026-08-21T06:00:00+09:00",
-      "dateLabel": "08/21 06:00",
-      "desc": "生成AIはさまざまな現場で活用されており、法律の現場でも関係者がAIを使って提出書類を要約したり、裁判書類の作成をAIにサポートさせたりしています。そんな中、弁護人に依頼せず自ら本人訴訟を起こしたアメリカの男性が、裁判所への提出書類に「自分に有利な出力を生成するようにAIへ指示するテキスト」を隠していたことが発覚しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 26
-    },
-    {
-      "title": "GoogleはAI競争に負けたのか 「最強のAI」ではなく「AIの“電力網”」を選ぶ賭け",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/21/news006.html",
-      "date": "2026-08-21T05:00:00+09:00",
-      "dateLabel": "08/21 05:00",
-      "desc": "GoogleからAI研究の中心人物が相次いで去った。「Geminiは終わった」という見方に対し、「最先端ではなく、AIを社会全体に行き渡らせる“電力網”で勝つ賭けだ」という別の解釈もある。電気の歴史になぞらえながら整理する。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
