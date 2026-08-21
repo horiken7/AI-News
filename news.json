@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-21T15:28:00.078836+09:00",
-  "generatedLabel": "2026/08/21 15:28",
+  "generatedAt": "2026-08-21T16:34:41.558485+09:00",
+  "generatedLabel": "2026/08/21 16:34",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 57,
+  "candidates": 59,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 19
+      "items": 18
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 9
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 12
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -162,14 +162,14 @@
       "score": 42
     },
     {
-      "title": "ASUS、RTX 5050搭載の16型ゲーミングノートPC「TUF Gaming 16」を発売 MIL規格準拠の高耐久モデル",
-      "link": "https://ascii.jp/elem/000/004/428/4428411/?rss",
-      "date": "2026-08-21T13:45:00+09:00",
-      "dateLabel": "08/21 13:45",
-      "desc": "ASUSが16型ゲーミングノートPC「TUF Gaming 16」を発売。Core i7-14650HXとGeForce RTX 5050 Laptop GPUを搭載し、144HzディスプレイやMIL規格準拠の堅牢性、AIノイズキャンセリング、静音冷却など充実の機能を備えています。",
-      "img": "https://ascii.jp/img/2026/08/21/4515357/s/17aedffe4be04f60.jpg",
+      "title": "kozokaAI、「コゾカAI 受注AIエージェント」の販売パートナーを募集開始",
+      "link": "https://ascii.jp/elem/000/004/428/4428496/?rss",
+      "date": "2026-08-21T14:30:00+09:00",
+      "dateLabel": "08/21 14:30",
+      "desc": "kozokaAI、「コゾカAI 受注AIエージェント」の販売パートナーを募集開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "半導体/GPU",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -181,39 +181,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "野球特化型SNS「Baselink AI」を提供するSportsTech Japanが、BUNKLE、NEOLAB、アウルズ・ビジネス・パートナーズなどから資金調達を実施",
-      "link": "https://ascii.jp/elem/000/004/428/4428482/?rss",
-      "date": "2026-08-21T13:00:06+09:00",
-      "dateLabel": "08/21 13:00",
-      "desc": "野球特化型SNS「Baselink AI」を提供するSportsTech Japanが、BUNKLE、NEOLAB、アウルズ・ビジネス・パートナーズなどから資金調達を実施",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "AIがブランドに最適なクリエイターを発掘。Brandazine、クリエイターマーケティング特化型プラットフォーム「Solari（ソラリ）」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/428/4428433/?rss",
-      "date": "2026-08-21T13:00:00+09:00",
-      "dateLabel": "08/21 13:00",
-      "desc": "AIがブランドに最適なクリエイターを発掘。Brandazine、クリエイターマーケティング特化型プラットフォーム「Solari（ソラリ）」を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "今売れてるスケルトンデザインのゲーミングPCが欲しい人集まれ！ RTX 5060搭載ノートが20万9800円",
-      "link": "https://ascii.jp/elem/000/004/428/4428160/?rss",
-      "date": "2026-08-21T13:00:00+09:00",
-      "dateLabel": "08/21 13:00",
-      "desc": "MSIのゲーミングノートPC「Cyborg 15」がAmazonでタイムセール対象。参考価格249,800円のところ、16％オフの209,800円で販売中。Core 7 240HとGeForce RTX 5060 Laptop GPUを搭載し、1TB SSDも備える15.6型ゲーミングノートだ。",
-      "img": "https://ascii.jp/img/2026/08/20/4514968/s/d7a121fd741f3095.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -250,33 +217,66 @@
       "score": 28
     },
     {
-      "title": "松尾・岩澤研協力『AI白書2026』発売、サブスク版も開始 [PR]",
-      "link": "https://ascii.jp/elem/000/004/428/4428471/?rss",
-      "date": "2026-08-21T14:00:32+09:00",
-      "dateLabel": "08/21 14:00",
-      "desc": "角川アスキー総合研究所は8月20日、AIの技術から法制度までを400ページに体系化した『AI白書2026』を発売した。あわせて、刊行後の変化を年間を通じて届ける「AI白書 デジタル・サブスクサービス」も開始した。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "AIは「確実に6人を犠牲に1人を救える方法」と「全員生還か全員犠牲のギャンブル」のどちらを選ぶのか？",
+      "link": "https://gigazine.net/news/20260821-ai-gamble-lives/",
+      "date": "2026-08-21T16:00:00+09:00",
+      "dateLabel": "08/21 16:00",
+      "desc": "「人命と自分のデータセンターどちらを助けるか」や「AIに殺人を犯したと告白したら警察に密告するのか」などAIのさまざまな検証をしているYouTubeチャンネルのAi Convoが、新たなシナリオとして「『6人を犠牲に1人を救う確実な方法』と『全員助かるか全員犠牲になるギャンブル』のどちらを選ぶのか」について複数のAIに尋ねた結果を報告しています。 続きを読む",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
       "score": 26
     },
     {
-      "title": "アンドエル、「AI×人財戦略カンファレンス2026 「AI」との向き合い方、「組織」の在り方」に登壇",
-      "link": "https://ascii.jp/elem/000/004/428/4428475/?rss",
-      "date": "2026-08-21T14:00:00+09:00",
-      "dateLabel": "08/21 14:00",
-      "desc": "アンドエル、「AI×人財戦略カンファレンス2026 「AI」との向き合い方、「組織」の在り方」に登壇",
+      "title": "QommonsAI活用研修を長崎県長与町（ながよちょう）で実施 - ヘビーユーザーが集う上級編、実務直結の質問が相次ぐ熱量の高い一日",
+      "link": "https://ascii.jp/elem/000/004/428/4428501/?rss",
+      "date": "2026-08-21T15:00:00+09:00",
+      "dateLabel": "08/21 15:00",
+      "desc": "QommonsAI活用研修を長崎県長与町（ながよちょう）で実施 - ヘビーユーザーが集う上級編、実務直結の質問が相次ぐ熱量の高い一日",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "2026年上半期に不適切会計を公表した27社 ―ー 発覚前シグナルの観点からConFinanceAIが分析",
-      "link": "https://ascii.jp/elem/000/004/428/4428476/?rss",
-      "date": "2026-08-21T13:51:22+09:00",
-      "dateLabel": "08/21 13:51",
-      "desc": "2026年上半期に不適切会計を公表した27社 ―ー 発覚前シグナルの観点からConFinanceAIが分析",
+      "title": "＜Z-GEO(TM)＞ 国内自動車保険11ブランド、AI上の露出率は14%台から90%超",
+      "link": "https://ascii.jp/elem/000/004/428/4428500/?rss",
+      "date": "2026-08-21T15:00:00+09:00",
+      "dateLabel": "08/21 15:00",
+      "desc": "＜Z-GEO(TM)＞ 国内自動車保険11ブランド、AI上の露出率は14%台から90%超",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "プリペアード 迷惑電話対策機能を持つPLATIAIIIなどセキュリティ対策・インフラ商材の販売代理店様を沖縄県で募集開始",
+      "link": "https://ascii.jp/elem/000/004/428/4428495/?rss",
+      "date": "2026-08-21T15:00:00+09:00",
+      "dateLabel": "08/21 15:00",
+      "desc": "プリペアード 迷惑電話対策機能を持つPLATIAIIIなどセキュリティ対策・インフラ商材の販売代理店様を沖縄県で募集開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "JTOWERとアラヤ、ドローン撮影映像とAI解析を活用した鉄塔点検システムを共同開発",
+      "link": "https://ascii.jp/elem/000/004/428/4428508/?rss",
+      "date": "2026-08-21T14:31:58+09:00",
+      "dateLabel": "08/21 14:31",
+      "desc": "JTOWERとアラヤ、ドローン撮影映像とAI解析を活用した鉄塔点検システムを共同開発",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "フィジカルAI開発、米国・欧州・日本・中国等の709事例を調査",
+      "link": "https://ascii.jp/elem/000/004/428/4428497/?rss",
+      "date": "2026-08-21T14:15:41+09:00",
+      "dateLabel": "08/21 14:15",
+      "desc": "フィジカルAI開発、米国・欧州・日本・中国等の709事例を調査",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
