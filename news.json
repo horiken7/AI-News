@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-21T22:37:17.839923+09:00",
-  "generatedLabel": "2026/08/21 22:37",
+  "generatedAt": "2026-08-21T23:24:36.534376+09:00",
+  "generatedLabel": "2026/08/21 23:24",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 17
+      "items": 18
     },
     {
       "source": "CNET Japan",
@@ -228,6 +228,17 @@
       "score": 28
     },
     {
+      "title": "使い込むほど成長するAIエージェント「Hermes Agent」で実際に行った作業をスキル化して再利用してみた",
+      "link": "https://gigazine.net/news/20260821-hermes-agent-skill/",
+      "date": "2026-08-21T23:00:00+09:00",
+      "dateLabel": "08/21 23:00",
+      "desc": "前回、AIエージェント「Hermes Agent」をインストールしてGIGAZINEの記事を調査させてみたところ、ブラウザ操作に失敗したり、選んだものとは別の記事を開いてしまったりと試行錯誤しつつも最終的には目的の記事を見つけて内容をまとめることに成功しました。Hermes Agentにはこうして実際に行った作業の手順やトラブルの解決方法を「スキル」として保",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
       "title": "AIの回答をコピペしないでくれと頼む運動「Don’t paste the AI, please.(AIが書いたものをコピペしないでください)」",
       "link": "https://gigazine.net/news/20260821-dont-paste-the-ai-please/",
       "date": "2026-08-21T21:00:00+09:00",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "Snowflakeが過去最高業績 CEOが「他社との差別化は容易になった」と語るワケ",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2608/24/news009.html",
-      "date": "2026-08-21T08:00:00+09:00",
-      "dateLabel": "08/21 08:00",
-      "desc": "競合が同じ方向に走り出した今こそ、差別化はむしろ容易になっている――。SnowflakeのCEOが年次カンファレンスでこう言い切った根拠はどこにあるのか。AIエージェント時代のSnowflakeの戦略に迫る。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
