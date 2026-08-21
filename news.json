@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-21T16:34:41.558485+09:00",
-  "generatedLabel": "2026/08/21 16:34",
+  "generatedAt": "2026-08-21T17:27:03.290859+09:00",
+  "generatedLabel": "2026/08/21 17:27",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 59,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 9
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -162,14 +162,47 @@
       "score": 42
     },
     {
-      "title": "kozokaAI、「コゾカAI 受注AIエージェント」の販売パートナーを募集開始",
-      "link": "https://ascii.jp/elem/000/004/428/4428496/?rss",
-      "date": "2026-08-21T14:30:00+09:00",
-      "dateLabel": "08/21 14:30",
-      "desc": "kozokaAI、「コゾカAI 受注AIエージェント」の販売パートナーを募集開始",
+      "title": "「iPhone Air」256GBが13％オフ！ 薄くて軽量・高性能、新しいiPhoneを待つよりこっちが安い!?",
+      "link": "https://ascii.jp/elem/000/004/428/4428468/?rss",
+      "date": "2026-08-21T17:00:00+09:00",
+      "dateLabel": "08/21 17:00",
+      "desc": "Amazon.co.jpにて、「iPhone Air」がタイムセール中！とにかく薄い・軽量・高性能で画面の大きさも好評な一品です。",
+      "img": "https://ascii.jp/img/2026/08/21/4515392/s/dfe43eb068bc70df.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "経営者向けAI「LoreOS」、社内の仕事を任せられる「AIエージェント」機能を追加",
+      "link": "https://ascii.jp/elem/000/004/428/4428527/?rss",
+      "date": "2026-08-21T16:16:24+09:00",
+      "dateLabel": "08/21 16:16",
+      "desc": "経営者向けAI「LoreOS」、社内の仕事を任せられる「AIエージェント」機能を追加",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "OrcaRouter、Z.aiのフラッグシップモデル「GLM-5.3」を10%割引で提供開始",
+      "link": "https://ascii.jp/elem/000/004/428/4428526/?rss",
+      "date": "2026-08-21T16:00:00+09:00",
+      "dateLabel": "08/21 16:00",
+      "desc": "OrcaRouter、Z.aiのフラッグシップモデル「GLM-5.3」を10%割引で提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "ORICO、6RAID・最大130TB・5ベイHDDケースを発表。20Gbps・SATA 3.0・多層冷却・150W電源搭載でプロ向けデータ管理を実現。",
+      "link": "https://ascii.jp/elem/000/004/428/4428529/?rss",
+      "date": "2026-08-21T15:54:16+09:00",
+      "dateLabel": "08/21 15:54",
+      "desc": "ORICO、6RAID・最大130TB・5ベイHDDケースを発表。20Gbps・SATA 3.0・多層冷却・150W電源搭載でプロ向けデータ管理を実現。",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 34
     },
     {
@@ -217,6 +250,17 @@
       "score": 28
     },
     {
+      "title": "一体型デスクトップPCが、Ryzen AI 5 340搭載で24万5300円！ さらにクーポンで2200円オフ！",
+      "link": "https://ascii.jp/elem/000/004/427/4427653/?rss",
+      "date": "2026-08-21T17:00:00+09:00",
+      "dateLabel": "08/21 17:00",
+      "desc": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
+      "img": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "AIは「確実に6人を犠牲に1人を救える方法」と「全員生還か全員犠牲のギャンブル」のどちらを選ぶのか？",
       "link": "https://gigazine.net/news/20260821-ai-gamble-lives/",
       "date": "2026-08-21T16:00:00+09:00",
@@ -233,50 +277,6 @@
       "date": "2026-08-21T15:00:00+09:00",
       "dateLabel": "08/21 15:00",
       "desc": "QommonsAI活用研修を長崎県長与町（ながよちょう）で実施 - ヘビーユーザーが集う上級編、実務直結の質問が相次ぐ熱量の高い一日",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "＜Z-GEO(TM)＞ 国内自動車保険11ブランド、AI上の露出率は14%台から90%超",
-      "link": "https://ascii.jp/elem/000/004/428/4428500/?rss",
-      "date": "2026-08-21T15:00:00+09:00",
-      "dateLabel": "08/21 15:00",
-      "desc": "＜Z-GEO(TM)＞ 国内自動車保険11ブランド、AI上の露出率は14%台から90%超",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "プリペアード 迷惑電話対策機能を持つPLATIAIIIなどセキュリティ対策・インフラ商材の販売代理店様を沖縄県で募集開始",
-      "link": "https://ascii.jp/elem/000/004/428/4428495/?rss",
-      "date": "2026-08-21T15:00:00+09:00",
-      "dateLabel": "08/21 15:00",
-      "desc": "プリペアード 迷惑電話対策機能を持つPLATIAIIIなどセキュリティ対策・インフラ商材の販売代理店様を沖縄県で募集開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "JTOWERとアラヤ、ドローン撮影映像とAI解析を活用した鉄塔点検システムを共同開発",
-      "link": "https://ascii.jp/elem/000/004/428/4428508/?rss",
-      "date": "2026-08-21T14:31:58+09:00",
-      "dateLabel": "08/21 14:31",
-      "desc": "JTOWERとアラヤ、ドローン撮影映像とAI解析を活用した鉄塔点検システムを共同開発",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "フィジカルAI開発、米国・欧州・日本・中国等の709事例を調査",
-      "link": "https://ascii.jp/elem/000/004/428/4428497/?rss",
-      "date": "2026-08-21T14:15:41+09:00",
-      "dateLabel": "08/21 14:15",
-      "desc": "フィジカルAI開発、米国・欧州・日本・中国等の709事例を調査",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
