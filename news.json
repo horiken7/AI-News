@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-22T07:12:49.482318+09:00",
-  "generatedLabel": "2026/08/22 07:12",
+  "generatedAt": "2026-08-22T08:14:12.493636+09:00",
+  "generatedLabel": "2026/08/22 08:14",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 57,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 18
+      "items": 17
     },
     {
       "source": "CNET Japan",
@@ -96,6 +96,17 @@
       "score": 44
     },
     {
+      "title": "Anthropic、「ミュトス 5」を脆弱性スキャンに開放──「Claude Security」経由でEnterprise顧客が利用可能に",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/22/2000000697/",
+      "date": "2026-08-22T07:09:30+09:00",
+      "dateLabel": "08/22 07:09",
+      "desc": "Anthropicは、最上位モデル「Claude Mythos 5」をセキュリティサービス「Claude Security」の脆弱性検出に導入したと発表した。モデル本体への直接アクセスは開放せず、パッチ提案などの出力のみに限定して提供する。オープンソース保護に向けた総額3500万ドルの基金設立も公表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "「ゲーミングじゃない高性能ビジネスモバイルノートPCが欲しい」への回答はZenbook SORAが正解。ちょうどタイムセール中",
       "link": "https://ascii.jp/elem/000/004/428/4428228/?rss",
       "date": "2026-08-21T19:00:00+09:00",
@@ -145,17 +156,6 @@
       "date": "2026-08-21T09:22:19+09:00",
       "dateLabel": "08/21 09:22",
       "desc": "OpenAIは、macOS版ChatGPT向けにAppleの「メッセージ」アプリと連携するプラグインを公開した。CodexやChatGPT Workのチャット上で過去の会話検索や下書き作成、送信が可能になる。誤送信防止のため都度承認フローを備える。Appleシリコン搭載Mac向けだ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "「チャピる」「ギュられる」って何？ 今年流行った「就活用語」にAI関連ワード マイナビ調査",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000663/",
-      "date": "2026-08-21T07:55:00+09:00",
-      "dateLabel": "08/21 07:55",
-      "desc": "マイナビは、2027年卒の就職活動で流行した用語を発表した。米OpenAIのチャットAI「ChatGPT」を示す「チャッピー」に加え、「チャピる」「ギュられる」といったAIに関する新語が登場した。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
@@ -217,6 +217,17 @@
       "score": 34
     },
     {
+      "title": "「チャピる」「ギュられる」って何？ 今年流行った「就活用語」にAI関連ワード マイナビ調査",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000663/",
+      "date": "2026-08-21T07:55:00+09:00",
+      "dateLabel": "08/21 07:55",
+      "desc": "マイナビは、2027年卒の就職活動で流行した用語を発表した。米OpenAIのチャットAI「ChatGPT」を示す「チャッピー」に加え、「チャピる」「ギュられる」といったAIに関する新語が登場した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表",
       "link": "https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html",
       "date": "2026-08-17T00:10:13+09:00",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "「Fable禁止」で仕事が止まったあの日々を振り返る 日本企業が取るべき「脱・単一モデル」戦略",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000666/",
-      "date": "2026-08-21T09:00:00+09:00",
-      "dateLabel": "08/21 09:00",
-      "desc": "米政府の輸出管理で「Claude Fable 5」の提供が突如停止し、業務が止まった実体験を基に、単一AIモデル依存の地政学リスクを指摘。オンプレミス化やマルチモデル統合基盤など、日本企業が取るべき分散戦略を整理する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
       "score": 26
     }
   ]
