@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-21T12:41:31.603300+09:00",
-  "generatedLabel": "2026/08/21 12:41",
+  "generatedAt": "2026-08-21T13:28:25.001341+09:00",
+  "generatedLabel": "2026/08/21 13:28",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 11
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -107,6 +107,17 @@
       "score": 44
     },
     {
+      "title": "Chromebookの後継機種「Googlebook」のプレビューイベントをGoogleが2026年9月15日にニューヨークで開催",
+      "link": "https://gigazine.net/news/20260821-googlebook-event/",
+      "date": "2026-08-21T13:15:00+09:00",
+      "dateLabel": "08/21 13:15",
+      "desc": "Googleは2026年5月に、Gemini Intelligence向けに設計されたノートPC「Googlebook」を発表しました。価格や発売時期、詳細なスペックなどは公開されていませんでしたが、Googleは2026年9月15日にメディア関係者限定のGooglebookプレビューイベントをニューヨークで開催することが明らかになりました。 続きを読む..",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "「Claudeの使い方」を無料で学べる公式サイト登場 「Code」「Cowork」などサービスごとに解説",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000672/",
       "date": "2026-08-21T11:26:13+09:00",
@@ -151,6 +162,17 @@
       "score": 42
     },
     {
+      "title": "今売れてるスケルトンデザインのゲーミングPCが欲しい人集まれ！ RTX 5060搭載ノートが20万9800円",
+      "link": "https://ascii.jp/elem/000/004/428/4428160/?rss",
+      "date": "2026-08-21T13:00:00+09:00",
+      "dateLabel": "08/21 13:00",
+      "desc": "MSIのゲーミングノートPC「Cyborg 15」がAmazonでタイムセール対象。参考価格249,800円のところ、16％オフの209,800円で販売中。Core 7 240HとGeForce RTX 5060 Laptop GPUを搭載し、1TB SSDも備える15.6型ゲーミングノートだ。",
+      "img": "https://ascii.jp/img/2026/08/20/4514968/s/d7a121fd741f3095.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
       "title": "GitHubが約8時間ダウンした原因が判明、急増する利用量に重要なインフラが自動拡張できず障害が連鎖",
       "link": "https://gigazine.net/news/20260821-why-github-down/",
       "date": "2026-08-21T11:51:00+09:00",
@@ -159,39 +181,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "議事録AI「YOMEL」、直感的な編集を実現する新機能「吹き出し編集モード」を搭載",
-      "link": "https://ascii.jp/elem/000/004/428/4428334/?rss",
-      "date": "2026-08-21T10:10:00+09:00",
-      "dateLabel": "08/21 10:10",
-      "desc": "議事録AI「YOMEL」、直感的な編集を実現する新機能「吹き出し編集モード」を搭載",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "採用の前に、社内から「1人分」を取り出す。不動産業界向け無料レポート『人手不足の不動産会社が、採用の前にやるべき「AIで1人分」の作り方』を公開",
-      "link": "https://ascii.jp/elem/000/004/428/4428359/?rss",
-      "date": "2026-08-21T10:01:52+09:00",
-      "dateLabel": "08/21 10:01",
-      "desc": "採用の前に、社内から「1人分」を取り出す。不動産業界向け無料レポート『人手不足の不動産会社が、採用の前にやるべき「AIで1人分」の作り方』を公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "スニフアウト代表 津本海の著書『図解入門ビジネス 最新 RAGとAIエージェントがよ～くわかる本』が発売",
-      "link": "https://ascii.jp/elem/000/004/428/4428337/?rss",
-      "date": "2026-08-21T10:01:14+09:00",
-      "dateLabel": "08/21 10:01",
-      "desc": "スニフアウト代表 津本海の著書『図解入門ビジネス 最新 RAGとAIエージェントがよ～くわかる本』が発売",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -217,6 +206,17 @@
       "score": 28
     },
     {
+      "title": "Adobe、無料で生成AI試せるように 画像、動画、音声も作れる",
+      "link": "https://ascii.jp/elem/000/004/428/4428403/?rss",
+      "date": "2026-08-21T12:45:00+09:00",
+      "dateLabel": "08/21 12:45",
+      "desc": "アドビは8月21日、日本向けに「Adobe Firefly AIアシスタント無料体験プログラム」の提供を始めた。対象ユーザーは毎日一定の回数まで画像、動画、音声を無料で生成できる。",
+      "img": "https://ascii.jp/img/2026/08/21/4515311/s/34642c2fd9684a2a.png",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 26
+    },
+    {
       "title": "最大4Kまで動画を高解像度化できるアップスケーラー「FLUX Video Upscale」が登場",
       "link": "https://gigazine.net/news/20260821-flux-video-upscale/",
       "date": "2026-08-21T12:32:00+09:00",
@@ -228,11 +228,22 @@
       "score": 26
     },
     {
-      "title": "「人を雇わず、AIチームで会社を回す」経営スキルを学ぶ一人会社の経営者向け「一人会社AI経営講座」を開講",
-      "link": "https://ascii.jp/elem/000/004/428/4428335/?rss",
-      "date": "2026-08-21T10:10:00+09:00",
-      "dateLabel": "08/21 10:10",
-      "desc": "「人を雇わず、AIチームで会社を回す」経営スキルを学ぶ一人会社の経営者向け「一人会社AI経営講座」を開講",
+      "title": "AI VTuber「しずく」ノベルゲーム風連続配信『しずくのなつやすみ』開催中",
+      "link": "https://ascii.jp/elem/000/004/428/4428413/?rss",
+      "date": "2026-08-21T11:50:00+09:00",
+      "dateLabel": "08/21 11:50",
+      "desc": "AI VTuber「しずく」ノベルゲーム風連続配信『しずくのなつやすみ』開催中",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "eMotion Fleet、セイリョウラインへ次世代型車載器・AI型ドラレコを全車両に納入、フリート管理DXと安全管理の高度化を推進",
+      "link": "https://ascii.jp/elem/000/004/428/4428414/?rss",
+      "date": "2026-08-21T11:20:36+09:00",
+      "dateLabel": "08/21 11:20",
+      "desc": "eMotion Fleet、セイリョウラインへ次世代型車載器・AI型ドラレコを全車両に納入、フリート管理DXと安全管理の高度化を推進",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "「たった14人」の挑戦から7兆円の逆転劇へ ラピダス小池社長の「TSMCとは戦わない」2ナノ半導体の勝算",
-      "link": "https://www.itmedia.co.jp/business/articles/2608/21/news030.html",
-      "date": "2026-08-21T07:00:00+09:00",
-      "dateLabel": "08/21 07:00",
-      "desc": "世界の半導体市場を台湾TSMCが席巻する中、7兆円規模の国家プロジェクトとして最先端「2ナノ」の量産化に挑むのがラピダスだ。同社はTSMCとの規模の勝負を避け、設計から前後工程を一棟で完結させる「RUMS」による多品種生産で勝負する。「たった14人」の同志でスタートした原点から、北海道を「次のシリコンバレー」へと変える小池淳義社長の戦略に迫る。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
       "score": 26
     }
   ]
