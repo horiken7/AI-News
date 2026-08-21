@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-22T06:14:05.105926+09:00",
-  "generatedLabel": "2026/08/22 06:14",
+  "generatedAt": "2026-08-22T07:12:49.482318+09:00",
+  "generatedLabel": "2026/08/22 07:12",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 57,
@@ -71,7 +71,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 74
+      "score": 66
     },
     {
       "title": "Claudeの使い方を学べる公式チュートリアル「Claude Academy」が登場、単純なチャットからエージェントまで網羅",
@@ -81,17 +81,6 @@
       "desc": "AIの「Claude」を開発するAnthropicが、Claudeの使い方を解説するページ「Claude Academy」を公開しました。文章・画像・動画でClaudeの使用方法が解説されており、日本語にも対応しています。サインイン不要で誰でも閲覧できるのが特徴です。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
-      "title": "Slack、AIとチームで協働する「Slack Code」を発表 ClaudeやDevinを専用チャネルで操作",
-      "link": "https://www.itmedia.co.jp/news/article/2608/21/2000000667/",
-      "date": "2026-08-21T06:37:48+09:00",
-      "dateLabel": "08/21 06:37",
-      "desc": "Slackは、AIコーディングエージェントと協働するための新機能「Slack Code」を発表した。メンションで専用の「コードチャネル」が自動生成され、計画やコード差分、プレビューを確認しながら指示できる。ClaudeやDevinなど複数社のエージェントに対応し、人間の承認を経て安全に処理を実行する。",
-      "img": "",
-      "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 50
     },
@@ -170,6 +159,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "Slack、AIとチームで協働する「Slack Code」を発表 ClaudeやDevinを専用チャネルで操作",
+      "link": "https://www.itmedia.co.jp/news/article/2608/21/2000000667/",
+      "date": "2026-08-21T06:37:48+09:00",
+      "dateLabel": "08/21 06:37",
+      "desc": "Slackは、AIコーディングエージェントと協働するための新機能「Slack Code」を発表した。メンションで専用の「コードチャネル」が自動生成され、計画やコード差分、プレビューを確認しながら指示できる。ClaudeやDevinなど複数社のエージェントに対応し、人間の承認を経て安全に処理を実行する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
