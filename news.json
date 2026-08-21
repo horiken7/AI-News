@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-21T11:17:29.507559+09:00",
-  "generatedLabel": "2026/08/21 11:17",
+  "generatedAt": "2026-08-21T12:41:31.603300+09:00",
+  "generatedLabel": "2026/08/21 12:41",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 59,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 10
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -74,6 +74,17 @@
       "score": 74
     },
     {
+      "title": "Claudeの使い方を学べる公式チュートリアル「Claude Academy」が登場、単純なチャットからエージェントまで網羅",
+      "link": "https://gigazine.net/news/20260821-anthropic-claude-academy/",
+      "date": "2026-08-21T11:42:00+09:00",
+      "dateLabel": "08/21 11:42",
+      "desc": "AIの「Claude」を開発するAnthropicが、Claudeの使い方を解説するページ「Claude Academy」を公開しました。文章・画像・動画でClaudeの使用方法が解説されており、日本語にも対応しています。サインイン不要で誰でも閲覧できるのが特徴です。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
       "title": "Slack、AIとチームで協働する「Slack Code」を発表 ClaudeやDevinを専用チャネルで操作",
       "link": "https://www.itmedia.co.jp/news/article/2608/21/2000000667/",
       "date": "2026-08-21T06:37:48+09:00",
@@ -82,17 +93,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
-      "title": "OpenAIがゼロデータ保持を維持したまま安全性監視を強化する「Private Safety Processing」のプレビュー版を提供開始",
-      "link": "https://gigazine.net/news/20260820-openai-zero-data-retention-private-safety-processing/",
-      "date": "2026-08-20T11:43:00+09:00",
-      "dateLabel": "08/20 11:43",
-      "desc": "現地時間の2026年8月19日、OpenAIがユーザーが入力したプロンプトもAIによる応答も保持しないという「Zero Data Retention(ZDR：ゼロデータ保持)」方針を維持しながら、安全性監視を強化することができる「Private Safety Processing」のプレビュー版を公開しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
       "score": 50
     },
     {
@@ -107,6 +107,17 @@
       "score": 44
     },
     {
+      "title": "「Claudeの使い方」を無料で学べる公式サイト登場 「Code」「Cowork」などサービスごとに解説",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000672/",
+      "date": "2026-08-21T11:26:13+09:00",
+      "dateLabel": "08/21 11:26",
+      "desc": "米Anthropicは、無料の学習サイト「Claude Academy」を公開した。AI技術の基本や、AIサービス「Claude」関連製品の使い方を解説している。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "ChatGPTでAppleのメッセージアプリを管理できる「Apple Messages Plugin」が登場、メッセージの返信・分類・管理が可能",
       "link": "https://gigazine.net/news/20260821-openai-apple-messages-plugin/",
       "date": "2026-08-21T10:33:00+09:00",
@@ -115,17 +126,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "どんぶり勘定から脱却！協力会社への外注費も含めた「リアルな粗利」が一目でわかる新機能を『KOMAINU』がリリース",
-      "link": "https://ascii.jp/elem/000/004/428/4428311/?rss",
-      "date": "2026-08-21T09:40:00+09:00",
-      "dateLabel": "08/21 09:40",
-      "desc": "どんぶり勘定から脱却！協力会社への外注費も含めた「リアルな粗利」が一目でわかる新機能を『KOMAINU』がリリース",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 42
     },
     {
@@ -140,17 +140,6 @@
       "score": 42
     },
     {
-      "title": "ベストサイン、電子部品・半導体業界向け「契約DX」ホワイトペーパーを公開",
-      "link": "https://ascii.jp/elem/000/004/428/4428316/?rss",
-      "date": "2026-08-21T09:00:00+09:00",
-      "dateLabel": "08/21 09:00",
-      "desc": "ベストサイン、電子部品・半導体業界向け「契約DX」ホワイトペーパーを公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
       "title": "「チャピる」「ギュられる」って何？ 今年流行った「就活用語」にAI関連ワード マイナビ調査",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000663/",
       "date": "2026-08-21T07:55:00+09:00",
@@ -162,69 +151,47 @@
       "score": 42
     },
     {
-      "title": "AIモデル「Ornith-1.5」が登場、Claude Opus 4.8級の大型モデルからスマホ動作可能な軽量モデルまで網羅したオープンモデル",
-      "link": "https://gigazine.net/news/20260820-ornith-1-5/",
-      "date": "2026-08-20T10:57:00+09:00",
-      "dateLabel": "08/20 10:57",
-      "desc": "AI研究組織のOrnithがAIモデル「Ornith-1.5」を2026年8月19日に公開しました。Ornith-1.5は「Ornith-1.5-397B」「Ornith-1.5-35B-A3B」「Ornith-1.5-9B」という3種類のモデルに分かれてリリースされており、最大規模のOrnith-1.5-397BはClaude Opus 4.8と同等のベン",
+      "title": "GitHubが約8時間ダウンした原因が判明、急増する利用量に重要なインフラが自動拡張できず障害が連鎖",
+      "link": "https://gigazine.net/news/20260821-why-github-down/",
+      "date": "2026-08-21T11:51:00+09:00",
+      "dateLabel": "08/21 11:51",
+      "desc": "2026年8月17日から18日にかけてGitHubで世界規模の障害が発生し、GitHub.comやGitHub Actions、GitHub Copilotなど多数のサービスが利用しづらくなりました。GitHubは8月20日に調査結果を公表し、過去最高水準のトラフィックに対してアメリカ中部のデータセンターにある重要なインフラが処理能力を拡張できず、障害が連鎖",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
+      "cat": "半導体/GPU",
+      "score": 34
     },
     {
-      "title": "検索・要約で終わらせない、Copilotでつくる「AI社員」実践ワークショップを8月26日に無料オンライン開催",
-      "link": "https://ascii.jp/elem/000/004/428/4428309/?rss",
-      "date": "2026-08-21T10:00:00+09:00",
-      "dateLabel": "08/21 10:00",
-      "desc": "検索・要約で終わらせない、Copilotでつくる「AI社員」実践ワークショップを8月26日に無料オンライン開催",
+      "title": "議事録AI「YOMEL」、直感的な編集を実現する新機能「吹き出し編集モード」を搭載",
+      "link": "https://ascii.jp/elem/000/004/428/4428334/?rss",
+      "date": "2026-08-21T10:10:00+09:00",
+      "dateLabel": "08/21 10:10",
+      "desc": "議事録AI「YOMEL」、直感的な編集を実現する新機能「吹き出し編集モード」を搭載",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "採用の前に、社内から「1人分」を取り出す。不動産業界向け無料レポート『人手不足の不動産会社が、採用の前にやるべき「AIで1人分」の作り方』を公開",
+      "link": "https://ascii.jp/elem/000/004/428/4428359/?rss",
+      "date": "2026-08-21T10:01:52+09:00",
+      "dateLabel": "08/21 10:01",
+      "desc": "採用の前に、社内から「1人分」を取り出す。不動産業界向け無料レポート『人手不足の不動産会社が、採用の前にやるべき「AIで1人分」の作り方』を公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "スニフアウト代表 津本海の著書『図解入門ビジネス 最新 RAGとAIエージェントがよ～くわかる本』が発売",
+      "link": "https://ascii.jp/elem/000/004/428/4428337/?rss",
+      "date": "2026-08-21T10:01:14+09:00",
+      "dateLabel": "08/21 10:01",
+      "desc": "スニフアウト代表 津本海の著書『図解入門ビジネス 最新 RAGとAIエージェントがよ～くわかる本』が発売",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "明石駅前の大型商業施設「アスピア明石」、人流分析AI Agent「ミセシル」を採用し、データに基づくリニューアル検討とテナント誘致・フロア構成の最適化を推進",
-      "link": "https://ascii.jp/elem/000/004/428/4428315/?rss",
-      "date": "2026-08-21T09:00:00+09:00",
-      "dateLabel": "08/21 09:00",
-      "desc": "明石駅前の大型商業施設「アスピア明石」、人流分析AI Agent「ミセシル」を採用し、データに基づくリニューアル検討とテナント誘致・フロア構成の最適化を推進",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "株式会社LANY、「BtoBカンファレンス｜2026年最新勝ち施策｜AI検索時代の打ち手・成功事例を大公開！マーケ戦略～商談化までを徹底解説」を9月8日に開催",
-      "link": "https://ascii.jp/elem/000/004/428/4428318/?rss",
-      "date": "2026-08-21T08:00:00+09:00",
-      "dateLabel": "08/21 08:00",
-      "desc": "株式会社LANY、「BtoBカンファレンス｜2026年最新勝ち施策｜AI検索時代の打ち手・成功事例を大公開！マーケ戦略～商談化までを徹底解説」を9月8日に開催",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "「判断力は、どう育てるのか」― AI時代の育成を問い直す16ページの実務レポートを公開",
-      "link": "https://ascii.jp/elem/000/004/428/4428321/?rss",
-      "date": "2026-08-21T07:36:39+09:00",
-      "dateLabel": "08/21 07:36",
-      "desc": "「判断力は、どう育てるのか」― AI時代の育成を問い直す16ページの実務レポートを公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "物流AIプラットフォーム「EPG AURA」日本展開を開始、国際物流総合展2026で初公開",
-      "link": "https://ascii.jp/elem/000/004/428/4428322/?rss",
-      "date": "2026-08-21T07:00:00+09:00",
-      "dateLabel": "08/21 07:00",
-      "desc": "物流AIプラットフォーム「EPG AURA」日本展開を開始、国際物流総合展2026で初公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -239,28 +206,6 @@
       "score": 34
     },
     {
-      "title": "StripeがOpenRouterの買収を正式発表、AIのための経済インフラを構築へ",
-      "link": "https://gigazine.net/news/20260820-stripe-acquire-openrouter/",
-      "date": "2026-08-20T11:33:00+09:00",
-      "dateLabel": "08/20 11:33",
-      "desc": "決済サービス大手のStripeが、AIゲートウェイサービスを展開するOpenRouterとの買収契約に合意したことを現地時間の2026年8月19日に発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "OpenAI、ZDRを維持したまま悪用検知へ ログ保持を求めるAnthropicに対抗",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000638/",
-      "date": "2026-08-20T09:39:01+09:00",
-      "dateLabel": "08/20 09:39",
-      "desc": "OpenAIは、APIデータの非保持設定（ZDR）を維持したまま、複数のやり取りを横断して悪用の兆候を検知する新機構「Private Safety Processing」を発表した。顧客データを自社インフラ外や暗号化で保護しつつ、活動シグナルのみでリスクを判定する。9月に展開を開始する予定。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表",
       "link": "https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html",
       "date": "2026-08-17T00:10:13+09:00",
@@ -272,14 +217,69 @@
       "score": 28
     },
     {
-      "title": "属人化の解消は多忙な“Aさん”を救うことから 切り札は「kintone×AI」を自然に使わせる仕組み",
-      "link": "https://ascii.jp/elem/000/004/426/4426528/?rss",
-      "date": "2026-08-21T10:00:00+09:00",
-      "dateLabel": "08/21 10:00",
-      "desc": "サイボウズは、kintoneユーザーの事例イベントである「kintone hive 2026 matsuyama」を開催。2番手として登壇したランネットの栢野（かやの）雅行さんが披露したのは、kintoneとAIを駆使して社内の属人化に立ち向かった試行錯誤の軌跡である。",
-      "img": "https://ascii.jp/img/2026/08/13/4512422/s/0da2c769d047a65e.jpg",
+      "title": "最大4Kまで動画を高解像度化できるアップスケーラー「FLUX Video Upscale」が登場",
+      "link": "https://gigazine.net/news/20260821-flux-video-upscale/",
+      "date": "2026-08-21T12:32:00+09:00",
+      "dateLabel": "08/21 12:32",
+      "desc": "AI企業のBlack Forest LabsがAIを用いた動画アップスケーラー「FLUX Video Upscale」をリリースしました。FLUX Video Upscaleは動画を最大4Kにまでアップスケールすることができます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "「人を雇わず、AIチームで会社を回す」経営スキルを学ぶ一人会社の経営者向け「一人会社AI経営講座」を開講",
+      "link": "https://ascii.jp/elem/000/004/428/4428335/?rss",
+      "date": "2026-08-21T10:10:00+09:00",
+      "dateLabel": "08/21 10:10",
+      "desc": "「人を雇わず、AIチームで会社を回す」経営スキルを学ぶ一人会社の経営者向け「一人会社AI経営講座」を開講",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "「Fable禁止」で仕事が止まったあの日々を振り返る 日本企業が取るべき「脱・単一モデル」戦略",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000666/",
+      "date": "2026-08-21T09:00:00+09:00",
+      "dateLabel": "08/21 09:00",
+      "desc": "米政府の輸出管理で「Claude Fable 5」の提供が突如停止し、業務が止まった実体験を基に、単一AIモデル依存の地政学リスクを指摘。オンプレミス化やマルチモデル統合基盤など、日本企業が取るべき分散戦略を整理する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "Snowflakeが過去最高業績 CEOが「他社との差別化は容易になった」と語るワケ",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2608/24/news009.html",
+      "date": "2026-08-21T08:00:00+09:00",
+      "dateLabel": "08/21 08:00",
+      "desc": "競合が同じ方向に走り出した今こそ、差別化はむしろ容易になっている――。SnowflakeのCEOが年次カンファレンスでこう言い切った根拠はどこにあるのか。AIエージェント時代のSnowflakeの戦略に迫る。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "ChatGPTに「おすすめの○○は？」 実は答えが決まっているらしい：893rd Lap",
+      "link": "https://kn.itmedia.co.jp/kn/articles/2608/21/news043.html",
+      "date": "2026-08-21T07:00:00+09:00",
+      "dateLabel": "08/21 07:00",
+      "desc": "ChatGPTに「おすすめの○○は？」と聞けば、幾つかのブランドや商品を教えてくれる。では、その候補はどうやって選ばれているのだろうか。どうやらChatGPTは、検索を始める前から「この分野ならこれ」と、ある程度の候補を持っているらしい。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "「たった14人」の挑戦から7兆円の逆転劇へ ラピダス小池社長の「TSMCとは戦わない」2ナノ半導体の勝算",
+      "link": "https://www.itmedia.co.jp/business/articles/2608/21/news030.html",
+      "date": "2026-08-21T07:00:00+09:00",
+      "dateLabel": "08/21 07:00",
+      "desc": "世界の半導体市場を台湾TSMCが席巻する中、7兆円規模の国家プロジェクトとして最先端「2ナノ」の量産化に挑むのがラピダスだ。同社はTSMCとの規模の勝負を避け、設計から前後工程を一棟で完結させる「RUMS」による多品種生産で勝負する。「たった14人」の同志でスタートした原点から、北海道を「次のシリコンバレー」へと変える小池淳義社長の戦略に迫る。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
       "score": 26
     }
   ]
