@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-21T17:27:03.290859+09:00",
-  "generatedLabel": "2026/08/21 17:27",
+  "generatedAt": "2026-08-21T18:25:44.216614+09:00",
+  "generatedLabel": "2026/08/21 18:25",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 57,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 16
     },
     {
       "source": "CNET Japan",
@@ -107,6 +107,17 @@
       "score": 44
     },
     {
+      "title": "【8/26 14:00開催】AIは企業・サービスをどう認識している？ トドオナダ、LLM認知測定ツール「ディギディギ」を使った実演をセミナーで公開",
+      "link": "https://ascii.jp/elem/000/004/428/4428555/?rss",
+      "date": "2026-08-21T17:00:00+09:00",
+      "dateLabel": "08/21 17:00",
+      "desc": "【8/26 14:00開催】AIは企業・サービスをどう認識している？ トドオナダ、LLM認知測定ツール「ディギディギ」を使った実演をセミナーで公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "Chromebookの後継機種「Googlebook」のプレビューイベントをGoogleが2026年9月15日にニューヨークで開催",
       "link": "https://gigazine.net/news/20260821-googlebook-event/",
       "date": "2026-08-21T13:15:00+09:00",
@@ -162,6 +173,17 @@
       "score": 42
     },
     {
+      "title": "小型モデル「LFM2.5」を2倍以上高速化する投機的デコーディング技術DSpark適用版が登場",
+      "link": "https://gigazine.net/news/20260821-lfm2-5-dspark-faster-inference/",
+      "date": "2026-08-21T18:14:00+09:00",
+      "dateLabel": "08/21 18:14",
+      "desc": "AI企業のLiquid AIが小型モデルのLFM2.5シリーズに高速化技術の「DSpark」を適用したことを発表しました。DSpark適用版のモデルは性能を維持したまま2倍以上の高速化に成功しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "「iPhone Air」256GBが13％オフ！ 薄くて軽量・高性能、新しいiPhoneを待つよりこっちが安い!?",
       "link": "https://ascii.jp/elem/000/004/428/4428468/?rss",
       "date": "2026-08-21T17:00:00+09:00",
@@ -181,28 +203,6 @@
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "OrcaRouter、Z.aiのフラッグシップモデル「GLM-5.3」を10%割引で提供開始",
-      "link": "https://ascii.jp/elem/000/004/428/4428526/?rss",
-      "date": "2026-08-21T16:00:00+09:00",
-      "dateLabel": "08/21 16:00",
-      "desc": "OrcaRouter、Z.aiのフラッグシップモデル「GLM-5.3」を10%割引で提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "ORICO、6RAID・最大130TB・5ベイHDDケースを発表。20Gbps・SATA 3.0・多層冷却・150W電源搭載でプロ向けデータ管理を実現。",
-      "link": "https://ascii.jp/elem/000/004/428/4428529/?rss",
-      "date": "2026-08-21T15:54:16+09:00",
-      "dateLabel": "08/21 15:54",
-      "desc": "ORICO、6RAID・最大130TB・5ベイHDDケースを発表。20Gbps・SATA 3.0・多層冷却・150W電源搭載でプロ向けデータ管理を実現。",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -250,6 +250,17 @@
       "score": 28
     },
     {
+      "title": "100万円の「DGX Spark」価格.comデスクトップランキング2位に ローカルAI特需で急上昇",
+      "link": "https://ascii.jp/elem/000/004/428/4428538/?rss",
+      "date": "2026-08-21T18:20:00+09:00",
+      "dateLabel": "08/21 18:20",
+      "desc": "価格.comの「デスクトップパソコン 人気売れ筋ランキング（8月21日付）」で、エヌビディアのAI開発向けPC「DGX Spark」が2位にランクインした。",
+      "img": "https://ascii.jp/img/2026/08/21/4515541/s/9fefe7896eb9c609.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "一体型デスクトップPCが、Ryzen AI 5 340搭載で24万5300円！ さらにクーポンで2200円オフ！",
       "link": "https://ascii.jp/elem/000/004/427/4427653/?rss",
       "date": "2026-08-21T17:00:00+09:00",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "QommonsAI活用研修を長崎県長与町（ながよちょう）で実施 - ヘビーユーザーが集う上級編、実務直結の質問が相次ぐ熱量の高い一日",
-      "link": "https://ascii.jp/elem/000/004/428/4428501/?rss",
-      "date": "2026-08-21T15:00:00+09:00",
-      "dateLabel": "08/21 15:00",
-      "desc": "QommonsAI活用研修を長崎県長与町（ながよちょう）で実施 - ヘビーユーザーが集う上級編、実務直結の質問が相次ぐ熱量の高い一日",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 26
     }
   ]
