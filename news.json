@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-22T09:38:17.553674+09:00",
-  "generatedLabel": "2026/08/22 09:38",
+  "generatedAt": "2026-08-22T11:08:40.432450+09:00",
+  "generatedLabel": "2026/08/22 11:08",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 17
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -140,17 +140,6 @@
       "score": 42
     },
     {
-      "title": "ChatGPTでAppleのメッセージアプリを管理できる「Apple Messages Plugin」が登場、メッセージの返信・分類・管理が可能",
-      "link": "https://gigazine.net/news/20260821-openai-apple-messages-plugin/",
-      "date": "2026-08-21T10:33:00+09:00",
-      "dateLabel": "08/21 10:33",
-      "desc": "OpenAIの開発するチャットAIのChatGPTが、新しいプラグインの「Apple Messages Plugin」を発表しました。Apple Messages Pluginを利用することで、Mac上のChatGPTでメッセージアプリを管理することが可能となります。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "Slack、AIとチームで協働する「Slack Code」を発表 ClaudeやDevinを専用チャネルで操作",
       "link": "https://www.itmedia.co.jp/news/article/2608/21/2000000667/",
       "date": "2026-08-21T06:37:48+09:00",
@@ -203,6 +192,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "ChatGPTでAppleのメッセージアプリを管理できる「Apple Messages Plugin」が登場、メッセージの返信・分類・管理が可能",
+      "link": "https://gigazine.net/news/20260821-openai-apple-messages-plugin/",
+      "date": "2026-08-21T10:33:00+09:00",
+      "dateLabel": "08/21 10:33",
+      "desc": "OpenAIの開発するチャットAIのChatGPTが、新しいプラグインの「Apple Messages Plugin」を発表しました。Apple Messages Pluginを利用することで、Mac上のChatGPTでメッセージアプリを管理することが可能となります。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
