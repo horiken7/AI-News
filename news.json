@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-22T08:14:12.493636+09:00",
-  "generatedLabel": "2026/08/22 08:14",
+  "generatedAt": "2026-08-22T09:38:17.553674+09:00",
+  "generatedLabel": "2026/08/22 09:38",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 56,
@@ -151,17 +151,6 @@
       "score": 42
     },
     {
-      "title": "macOS版ChatGPT、Appleの「メッセージ」と連携 会話検索や下書き、送信に対応",
-      "link": "https://www.itmedia.co.jp/news/article/2608/21/2000000669/",
-      "date": "2026-08-21T09:22:19+09:00",
-      "dateLabel": "08/21 09:22",
-      "desc": "OpenAIは、macOS版ChatGPT向けにAppleの「メッセージ」アプリと連携するプラグインを公開した。CodexやChatGPT Workのチャット上で過去の会話検索や下書き作成、送信が可能になる。誤送信防止のため都度承認フローを備える。Appleシリコン搭載Mac向けだ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "Slack、AIとチームで協働する「Slack Code」を発表 ClaudeやDevinを専用チャネルで操作",
       "link": "https://www.itmedia.co.jp/news/article/2608/21/2000000667/",
       "date": "2026-08-21T06:37:48+09:00",
@@ -214,6 +203,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "macOS版ChatGPT、Appleの「メッセージ」と連携 会話検索や下書き、送信に対応",
+      "link": "https://www.itmedia.co.jp/news/article/2608/21/2000000669/",
+      "date": "2026-08-21T09:22:19+09:00",
+      "dateLabel": "08/21 09:22",
+      "desc": "OpenAIは、macOS版ChatGPT向けにAppleの「メッセージ」アプリと連携するプラグインを公開した。CodexやChatGPT Workのチャット上で過去の会話検索や下書き作成、送信が可能になる。誤送信防止のため都度承認フローを備える。Appleシリコン搭載Mac向けだ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
