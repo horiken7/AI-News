@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T06:12:11.854533+09:00",
-  "generatedLabel": "2026/08/23 06:12",
+  "generatedAt": "2026-08-23T07:11:17.443097+09:00",
+  "generatedLabel": "2026/08/23 07:11",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 53,
@@ -85,17 +85,6 @@
       "score": 44
     },
     {
-      "title": "Anthropic、「ミュトス 5」を脆弱性スキャンに開放──「Claude Security」経由でEnterprise顧客が利用可能に",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/22/2000000697/",
-      "date": "2026-08-22T07:09:30+09:00",
-      "dateLabel": "08/22 07:09",
-      "desc": "Anthropicは、最上位モデル「Claude Mythos 5」をセキュリティサービス「Claude Security」の脆弱性検出に導入したと発表した。モデル本体への直接アクセスは開放せず、パッチ提案などの出力のみに限定して提供する。オープンソース保護に向けた総額3500万ドルの基金設立も公表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "Claudeの使い方を学べる公式チュートリアル「Claude Academy」が登場、単純なチャットからエージェントまで網羅",
       "link": "https://gigazine.net/news/20260821-anthropic-claude-academy/",
       "date": "2026-08-21T11:42:00+09:00",
@@ -126,6 +115,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "Anthropic、「ミュトス 5」を脆弱性スキャンに開放──「Claude Security」経由でEnterprise顧客が利用可能に",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/22/2000000697/",
+      "date": "2026-08-22T07:09:30+09:00",
+      "dateLabel": "08/22 07:09",
+      "desc": "Anthropicは、最上位モデル「Claude Mythos 5」をセキュリティサービス「Claude Security」の脆弱性検出に導入したと発表した。モデル本体への直接アクセスは開放せず、パッチ提案などの出力のみに限定して提供する。オープンソース保護に向けた総額3500万ドルの基金設立も公表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
