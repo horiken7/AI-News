@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T07:11:17.443097+09:00",
-  "generatedLabel": "2026/08/23 07:11",
+  "generatedAt": "2026-08-23T08:11:02.499534+09:00",
+  "generatedLabel": "2026/08/23 08:11",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 53,
@@ -85,17 +85,6 @@
       "score": 44
     },
     {
-      "title": "Claudeの使い方を学べる公式チュートリアル「Claude Academy」が登場、単純なチャットからエージェントまで網羅",
-      "link": "https://gigazine.net/news/20260821-anthropic-claude-academy/",
-      "date": "2026-08-21T11:42:00+09:00",
-      "dateLabel": "08/21 11:42",
-      "desc": "AIの「Claude」を開発するAnthropicが、Claudeの使い方を解説するページ「Claude Academy」を公開しました。文章・画像・動画でClaudeの使用方法が解説されており、日本語にも対応しています。サインイン不要で誰でも閲覧できるのが特徴です。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "Slack、AIとチームで協働する「Slack Code」を発表 ClaudeやDevinを専用チャネルで操作",
       "link": "https://www.itmedia.co.jp/news/article/2608/21/2000000667/",
       "date": "2026-08-21T06:37:48+09:00",
@@ -105,6 +94,28 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 42
+    },
+    {
+      "title": "ChatGPTが危険な医療アドバイスをしたとしてOpenAIが提訴される、病気の牧師に「神はあなたの体が永遠に壊れ続けるようには設計していない」と助言",
+      "link": "https://gigazine.net/news/20260823-openai-lawsuit-chatgpt-medical-advice/",
+      "date": "2026-08-23T08:00:00+09:00",
+      "dateLabel": "08/23 08:00",
+      "desc": "肺塞栓症を患っていた男性が医療アドバイスを求めてChatGPTを利用したところ、不正確な回答をされ、その結果治療が遅れてしまったとして、その男性がChatGPT開発元のOpenAIを訴えたことが分かりました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "OpenAI、「GPT-5.6 Sol」のAPI料金を値下げ 入力20％出力33％安く、11月21日まで",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/23/2000000700/",
+      "date": "2026-08-23T06:54:23+09:00",
+      "dateLabel": "08/23 06:54",
+      "desc": "OpenAIは、フラグシップモデル「GPT-5.6 Sol」のAPI利用料金を期間限定で最大33％引き下げた。入力4ドル、出力20ドルとするプロモーション価格を少なくとも3カ月間適用し、ChatGPT WorkやCodexのクレジット消費量も削減。利用量や支出上限を追跡・制御できる管理機能も告知している。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "無料でAIエージェントに最適化されたオープンソースのメモ帳アプリ「Hubble.md」、MarkdownとHTMLをベースにして保存・編集・操作が可能",
@@ -266,17 +277,6 @@
       "date": "2026-08-19T00:43:29+09:00",
       "dateLabel": "08/19 00:43",
       "desc": "AIコードエディタのCursorなどを提供するAnysphereは、Gitに対応したコードホスティングサービス「Origin」を発表しました。 Origin, our code hosting platform, is now live.I...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 20
-    },
-    {
-      "title": "Zed開発チームが「Delta」発表。人間とAIの全対話とコード変更履歴をコンテキストとして保存共有するコラボレーションツール",
-      "link": "https://www.publickey1.jp/blog/26/zeddeltaai.html",
-      "date": "2026-08-17T00:05:36+09:00",
-      "dateLabel": "08/17 00:05",
-      "desc": "オープンソースとして開発されている高速なコードエディタ「Zed」の開発チームは、人間の開発チームとAIエージェントの議論や対話内容とコードの変更履歴をすべて共有し、コンテキストとして保存できる「Delta」を発表しました。 Today we...",
       "img": "",
       "src": "Publickey",
       "cat": "AIエージェント/業務",
