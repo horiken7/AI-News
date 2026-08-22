@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-22T12:34:10.429179+09:00",
-  "generatedLabel": "2026/08/22 12:34",
+  "generatedAt": "2026-08-22T13:22:06.840033+09:00",
+  "generatedLabel": "2026/08/22 13:22",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 52,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "source": "PC Watch",
@@ -96,17 +96,6 @@
       "score": 42
     },
     {
-      "title": "Chromebookの後継機種「Googlebook」のプレビューイベントをGoogleが2026年9月15日にニューヨークで開催",
-      "link": "https://gigazine.net/news/20260821-googlebook-event/",
-      "date": "2026-08-21T13:15:00+09:00",
-      "dateLabel": "08/21 13:15",
-      "desc": "Googleは2026年5月に、Gemini Intelligence向けに設計されたノートPC「Googlebook」を発表しました。価格や発売時期、詳細なスペックなどは公開されていませんでしたが、Googleは2026年9月15日にメディア関係者限定のGooglebookプレビューイベントをニューヨークで開催することが明らかになりました。 続きを読む..",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "Claudeの使い方を学べる公式チュートリアル「Claude Academy」が登場、単純なチャットからエージェントまで網羅",
       "link": "https://gigazine.net/news/20260821-anthropic-claude-academy/",
       "date": "2026-08-21T11:42:00+09:00",
@@ -129,6 +118,17 @@
       "score": 42
     },
     {
+      "title": "解体前後の「やること」を時系列で整理、無料機能「解体やることナビ」をKAI-TECH（カイテック）が公開",
+      "link": "https://ascii.jp/elem/000/004/428/4428622/?rss",
+      "date": "2026-08-22T07:20:00+09:00",
+      "dateLabel": "08/22 07:20",
+      "desc": "解体前後の「やること」を時系列で整理、無料機能「解体やることナビ」をKAI-TECH（カイテック）が公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "小型モデル「LFM2.5」を2倍以上高速化する投機的デコーディング技術DSpark適用版が登場",
       "link": "https://gigazine.net/news/20260821-lfm2-5-dspark-faster-inference/",
       "date": "2026-08-21T18:14:00+09:00",
@@ -148,6 +148,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "Chromebookの後継機種「Googlebook」のプレビューイベントをGoogleが2026年9月15日にニューヨークで開催",
+      "link": "https://gigazine.net/news/20260821-googlebook-event/",
+      "date": "2026-08-21T13:15:00+09:00",
+      "dateLabel": "08/21 13:15",
+      "desc": "Googleは2026年5月に、Gemini Intelligence向けに設計されたノートPC「Googlebook」を発表しました。価格や発売時期、詳細なスペックなどは公開されていませんでしたが、Googleは2026年9月15日にメディア関係者限定のGooglebookプレビューイベントをニューヨークで開催することが明らかになりました。 続きを読む..",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -266,17 +277,6 @@
       "date": "2026-08-19T00:43:29+09:00",
       "dateLabel": "08/19 00:43",
       "desc": "AIコードエディタのCursorなどを提供するAnysphereは、Gitに対応したコードホスティングサービス「Origin」を発表しました。 Origin, our code hosting platform, is now live.I...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 20
-    },
-    {
-      "title": "Zed開発チームが「Delta」発表。人間とAIの全対話とコード変更履歴をコンテキストとして保存共有するコラボレーションツール",
-      "link": "https://www.publickey1.jp/blog/26/zeddeltaai.html",
-      "date": "2026-08-17T00:05:36+09:00",
-      "dateLabel": "08/17 00:05",
-      "desc": "オープンソースとして開発されている高速なコードエディタ「Zed」の開発チームは、人間の開発チームとAIエージェントの議論や対話内容とコードの変更履歴をすべて共有し、コンテキストとして保存できる「Delta」を発表しました。 Today we...",
       "img": "",
       "src": "Publickey",
       "cat": "AIエージェント/業務",
