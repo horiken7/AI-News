@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T03:14:51.910126+09:00",
-  "generatedLabel": "2026/08/23 03:14",
+  "generatedAt": "2026-08-23T04:15:45.294056+09:00",
+  "generatedLabel": "2026/08/23 04:15",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 53,
@@ -184,6 +184,17 @@
       "score": 28
     },
     {
+      "title": "AIエージェント担当者が担う6つの役割！必要スキルと90日の進め方",
+      "link": "https://ainow.ai/2026/08/23/278319/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e6%258b%2585%25e5%25bd%2593%25e8%2580%2585%25e3%2581%258c%25e6%258b%2585%25e3%2581%25866%25e3%2581%25a4%25e3%2581%25ae%25e5%25bd%25b9%25e5%2589%25b2%25ef%25bc%2581%25e5%25bf%2585%25e8%25a6%2581%25e3%2582%25b9%25e3%2582%25ad",
+      "date": "2026-08-23T03:07:11+09:00",
+      "dateLabel": "08/23 03:07",
+      "desc": "AIエージェント担当者とは、AIに任せる業務を設計し、自律実行に伴う権限と操作履歴を統制する役割です。ツールを選ぶ担当ではありません。 上司から「AIエージェントを見てくれ」と言われたものの、業務の棚卸しとツール選定と社... The post AIエージェント担当者が担う6つの役割！必要スキルと90日の進め方 first appeared on AI専門ニ",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
       "title": "GoogleのAIエージェント「Antigravity」が別デバイスからのリモートコントロールに対応",
       "link": "https://gigazine.net/news/20260822-antigravity-remote-control/",
       "date": "2026-08-22T17:20:00+09:00",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "Publickey",
       "cat": "AIエージェント/業務",
-      "score": 20
-    },
-    {
-      "title": "無料で使える「Delphi 13 Community Edtion」提供開始。Windows x86/Arm、Mac、iOS、Androidのネイティブアプリなど開発可能",
-      "link": "https://www.publickey1.jp/blog/26/delphi_13_community_edtionwindows_x86armmaciosandroid.html",
-      "date": "2026-08-17T00:01:16+09:00",
-      "dateLabel": "08/17 00:01",
-      "desc": "米エンバカデロ・テクノロジーズは、無料で使える統合開発環境「Delphi 13 Community Edtion」の提供開始を発表しました。 Delphi 13 Community Edition is now available!The ...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AI全般",
       "score": 20
     }
   ]
