@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-22T22:24:05.588678+09:00",
-  "generatedLabel": "2026/08/22 22:24",
+  "generatedAt": "2026-08-22T23:11:41.075229+09:00",
+  "generatedLabel": "2026/08/22 23:11",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 53,
@@ -206,17 +206,6 @@
       "score": 26
     },
     {
-      "title": "使い込むほど成長するAIエージェント「Hermes Agent」で実際に行った作業をスキル化して再利用してみた",
-      "link": "https://gigazine.net/news/20260821-hermes-agent-skill/",
-      "date": "2026-08-21T23:00:00+09:00",
-      "dateLabel": "08/21 23:00",
-      "desc": "前回、AIエージェント「Hermes Agent」をインストールしてGIGAZINEの記事を調査させてみたところ、ブラウザ操作に失敗したり、選んだものとは別の記事を開いてしまったりと試行錯誤しつつも最終的には目的の記事を見つけて内容をまとめることに成功しました。Hermes Agentにはこうして実際に行った作業の手順やトラブルの解決方法を「スキル」として保",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
       "title": "小型モデル「LFM2.5」を2倍以上高速化する投機的デコーディング技術DSpark適用版が登場",
       "link": "https://gigazine.net/news/20260821-lfm2-5-dspark-faster-inference/",
       "date": "2026-08-21T18:14:00+09:00",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "Publickey",
       "cat": "AIエージェント/業務",
+      "score": 20
+    },
+    {
+      "title": "無料で使える「Delphi 13 Community Edtion」提供開始。Windows x86/Arm、Mac、iOS、Androidのネイティブアプリなど開発可能",
+      "link": "https://www.publickey1.jp/blog/26/delphi_13_community_edtionwindows_x86armmaciosandroid.html",
+      "date": "2026-08-17T00:01:16+09:00",
+      "dateLabel": "08/17 00:01",
+      "desc": "米エンバカデロ・テクノロジーズは、無料で使える統合開発環境「Delphi 13 Community Edtion」の提供開始を発表しました。 Delphi 13 Community Edition is now available!The ...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AI全般",
       "score": 20
     }
   ]
