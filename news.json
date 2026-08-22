@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-22T17:17:13.622388+09:00",
-  "generatedLabel": "2026/08/22 17:17",
+  "generatedAt": "2026-08-22T18:17:24.908826+09:00",
+  "generatedLabel": "2026/08/22 18:17",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 16
     },
     {
       "source": "CNET Japan",
@@ -118,17 +118,6 @@
       "score": 42
     },
     {
-      "title": "小型モデル「LFM2.5」を2倍以上高速化する投機的デコーディング技術DSpark適用版が登場",
-      "link": "https://gigazine.net/news/20260821-lfm2-5-dspark-faster-inference/",
-      "date": "2026-08-21T18:14:00+09:00",
-      "dateLabel": "08/21 18:14",
-      "desc": "AI企業のLiquid AIが小型モデルのLFM2.5シリーズに高速化技術の「DSpark」を適用したことを発表しました。DSpark適用版のモデルは性能を維持したまま2倍以上の高速化に成功しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "Chromebookの後継機種「Googlebook」のプレビューイベントをGoogleが2026年9月15日にニューヨークで開催",
       "link": "https://gigazine.net/news/20260821-googlebook-event/",
       "date": "2026-08-21T13:15:00+09:00",
@@ -147,17 +136,6 @@
       "desc": "米Anthropicは、無料の学習サイト「Claude Academy」を公開した。AI技術の基本や、AIサービス「Claude」関連製品の使い方を解説している。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "ChatGPTでAppleのメッセージアプリを管理できる「Apple Messages Plugin」が登場、メッセージの返信・分類・管理が可能",
-      "link": "https://gigazine.net/news/20260821-openai-apple-messages-plugin/",
-      "date": "2026-08-21T10:33:00+09:00",
-      "dateLabel": "08/21 10:33",
-      "desc": "OpenAIの開発するチャットAIのChatGPTが、新しいプラグインの「Apple Messages Plugin」を発表しました。Apple Messages Pluginを利用することで、Mac上のChatGPTでメッセージアプリを管理することが可能となります。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 34
     },
@@ -195,6 +173,17 @@
       "score": 28
     },
     {
+      "title": "GoogleのAIエージェント「Antigravity」が別デバイスからのリモートコントロールに対応",
+      "link": "https://gigazine.net/news/20260822-antigravity-remote-control/",
+      "date": "2026-08-22T17:20:00+09:00",
+      "dateLabel": "08/22 17:20",
+      "desc": "Googleのコーディングエージェント「Antigravity」がウェブブラウザからのリモートコントロールに対応しました。ユーザーの操作が必要になった際にスマートフォンに通知を届ける機能も提供されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
       "title": "Ryzen AI 5 340搭載一体型デスクトップPCなど対象に！ お得にPC買うならFMV Storeの「目玉品」に注目！",
       "link": "https://ascii.jp/elem/000/004/427/4427654/?rss",
       "date": "2026-08-22T17:00:00+09:00",
@@ -225,6 +214,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "小型モデル「LFM2.5」を2倍以上高速化する投機的デコーディング技術DSpark適用版が登場",
+      "link": "https://gigazine.net/news/20260821-lfm2-5-dspark-faster-inference/",
+      "date": "2026-08-21T18:14:00+09:00",
+      "dateLabel": "08/21 18:14",
+      "desc": "AI企業のLiquid AIが小型モデルのLFM2.5シリーズに高速化技術の「DSpark」を適用したことを発表しました。DSpark適用版のモデルは性能を維持したまま2倍以上の高速化に成功しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
       "score": 26
     },
     {
