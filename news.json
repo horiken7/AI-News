@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-22T18:17:24.908826+09:00",
-  "generatedLabel": "2026/08/22 18:17",
+  "generatedAt": "2026-08-22T19:13:01.556516+09:00",
+  "generatedLabel": "2026/08/22 19:13",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 54,
@@ -116,6 +116,17 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 42
+    },
+    {
+      "title": "無料でAIエージェントに最適化されたオープンソースのメモ帳アプリ「Hubble.md」、MarkdownとHTMLをベースにして保存・編集・操作が可能",
+      "link": "https://gigazine.net/news/20260822-hubble-md/",
+      "date": "2026-08-22T19:00:00+09:00",
+      "dateLabel": "08/22 19:00",
+      "desc": "Markdown形式のメモをAIエージェントに直接編集させたり、複数のメモからHTML形式のダッシュボード・本棚・地図を作らせたりと、AIがファイルを扱うことを前提に設計された無料・オープンソースのメモ帳アプリ「Hubble.md」が公開されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "Chromebookの後継機種「Googlebook」のプレビューイベントをGoogleが2026年9月15日にニューヨークで開催",
@@ -266,17 +277,6 @@
       "date": "2026-08-19T00:43:29+09:00",
       "dateLabel": "08/19 00:43",
       "desc": "AIコードエディタのCursorなどを提供するAnysphereは、Gitに対応したコードホスティングサービス「Origin」を発表しました。 Origin, our code hosting platform, is now live.I...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 20
-    },
-    {
-      "title": "Zed開発チームが「Delta」発表。人間とAIの全対話とコード変更履歴をコンテキストとして保存共有するコラボレーションツール",
-      "link": "https://www.publickey1.jp/blog/26/zeddeltaai.html",
-      "date": "2026-08-17T00:05:36+09:00",
-      "dateLabel": "08/17 00:05",
-      "desc": "オープンソースとして開発されている高速なコードエディタ「Zed」の開発チームは、人間の開発チームとAIエージェントの議論や対話内容とコードの変更履歴をすべて共有し、コンテキストとして保存できる「Delta」を発表しました。 Today we...",
       "img": "",
       "src": "Publickey",
       "cat": "AIエージェント/業務",
