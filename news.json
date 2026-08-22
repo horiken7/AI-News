@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-22T11:08:40.432450+09:00",
-  "generatedLabel": "2026/08/22 11:08",
+  "generatedAt": "2026-08-22T12:34:10.429179+09:00",
+  "generatedLabel": "2026/08/22 12:34",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 54,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 2
+      "items": 0
     },
     {
       "source": "PC Watch",
@@ -74,17 +74,6 @@
       "score": 66
     },
     {
-      "title": "Claudeの使い方を学べる公式チュートリアル「Claude Academy」が登場、単純なチャットからエージェントまで網羅",
-      "link": "https://gigazine.net/news/20260821-anthropic-claude-academy/",
-      "date": "2026-08-21T11:42:00+09:00",
-      "dateLabel": "08/21 11:42",
-      "desc": "AIの「Claude」を開発するAnthropicが、Claudeの使い方を解説するページ「Claude Academy」を公開しました。文章・画像・動画でClaudeの使用方法が解説されており、日本語にも対応しています。サインイン不要で誰でも閲覧できるのが特徴です。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
       "title": "Visual Studio Code 1.133正式リリース。プロンプトを見失わない固定スクロール、ローカルHTMLファイルの自動リロード、ClaudeとCopilotの混在可能など新機能",
       "link": "https://www.publickey1.jp/blog/26/visual_studio_code_1133htmlclaudecopilot.html",
       "date": "2026-08-18T00:42:34+09:00",
@@ -107,17 +96,6 @@
       "score": 42
     },
     {
-      "title": "「ゲーミングじゃない高性能ビジネスモバイルノートPCが欲しい」への回答はZenbook SORAが正解。ちょうどタイムセール中",
-      "link": "https://ascii.jp/elem/000/004/428/4428228/?rss",
-      "date": "2026-08-21T19:00:00+09:00",
-      "dateLabel": "08/21 19:00",
-      "desc": "ASUSの14型ノートPC「Zenbook SORA（UX3407NA）」がAmazonでタイムセール対象。参考価格349,800円から9％オフの319,800円で販売中。約990gながら、Snapdragon X2 Elite、32GBメモリー、1TB SSDを搭載する。1kg未満に充実した構成を詰め込んだモバイルノートだ。",
-      "img": "https://ascii.jp/img/2026/08/20/4515049/s/7285a971ad21252d.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 42
-    },
-    {
       "title": "Chromebookの後継機種「Googlebook」のプレビューイベントをGoogleが2026年9月15日にニューヨークで開催",
       "link": "https://gigazine.net/news/20260821-googlebook-event/",
       "date": "2026-08-21T13:15:00+09:00",
@@ -129,14 +107,14 @@
       "score": 42
     },
     {
-      "title": "「Claudeの使い方」を無料で学べる公式サイト登場 「Code」「Cowork」などサービスごとに解説",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000672/",
-      "date": "2026-08-21T11:26:13+09:00",
-      "dateLabel": "08/21 11:26",
-      "desc": "米Anthropicは、無料の学習サイト「Claude Academy」を公開した。AI技術の基本や、AIサービス「Claude」関連製品の使い方を解説している。",
+      "title": "Claudeの使い方を学べる公式チュートリアル「Claude Academy」が登場、単純なチャットからエージェントまで網羅",
+      "link": "https://gigazine.net/news/20260821-anthropic-claude-academy/",
+      "date": "2026-08-21T11:42:00+09:00",
+      "dateLabel": "08/21 11:42",
+      "desc": "AIの「Claude」を開発するAnthropicが、Claudeの使い方を解説するページ「Claude Academy」を公開しました。文章・画像・動画でClaudeの使用方法が解説されており、日本語にも対応しています。サインイン不要で誰でも閲覧できるのが特徴です。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -149,17 +127,6 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 42
-    },
-    {
-      "title": "【相互無料提供開始】BarterMatchにて、株式会社Re-railが提供する『AISTAZ（アイスターズ）』の相互無料提供を開始しました",
-      "link": "https://ascii.jp/elem/000/004/428/4428603/?rss",
-      "date": "2026-08-21T18:59:33+09:00",
-      "dateLabel": "08/21 18:59",
-      "desc": "【相互無料提供開始】BarterMatchにて、株式会社Re-railが提供する『AISTAZ（アイスターズ）』の相互無料提供を開始しました",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
     },
     {
       "title": "小型モデル「LFM2.5」を2倍以上高速化する投機的デコーディング技術DSpark適用版が登場",
@@ -184,14 +151,14 @@
       "score": 34
     },
     {
-      "title": "GitHubが約8時間ダウンした原因が判明、急増する利用量に重要なインフラが自動拡張できず障害が連鎖",
-      "link": "https://gigazine.net/news/20260821-why-github-down/",
-      "date": "2026-08-21T11:51:00+09:00",
-      "dateLabel": "08/21 11:51",
-      "desc": "2026年8月17日から18日にかけてGitHubで世界規模の障害が発生し、GitHub.comやGitHub Actions、GitHub Copilotなど多数のサービスが利用しづらくなりました。GitHubは8月20日に調査結果を公表し、過去最高水準のトラフィックに対してアメリカ中部のデータセンターにある重要なインフラが処理能力を拡張できず、障害が連鎖",
+      "title": "「Claudeの使い方」を無料で学べる公式サイト登場 「Code」「Cowork」などサービスごとに解説",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000672/",
+      "date": "2026-08-21T11:26:13+09:00",
+      "dateLabel": "08/21 11:26",
+      "desc": "米Anthropicは、無料の学習サイト「Claude Academy」を公開した。AI技術の基本や、AIサービス「Claude」関連製品の使い方を解説している。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -272,15 +239,48 @@
       "score": 26
     },
     {
-      "title": "最大4Kまで動画を高解像度化できるアップスケーラー「FLUX Video Upscale」が登場",
-      "link": "https://gigazine.net/news/20260821-flux-video-upscale/",
-      "date": "2026-08-21T12:32:00+09:00",
-      "dateLabel": "08/21 12:32",
-      "desc": "AI企業のBlack Forest LabsがAIを用いた動画アップスケーラー「FLUX Video Upscale」をリリースしました。FLUX Video Upscaleは動画を最大4Kにまでアップスケールすることができます。 続きを読む...",
+      "title": "GitHubが約8時間ダウンした原因が判明、急増する利用量に重要なインフラが自動拡張できず障害が連鎖",
+      "link": "https://gigazine.net/news/20260821-why-github-down/",
+      "date": "2026-08-21T11:51:00+09:00",
+      "dateLabel": "08/21 11:51",
+      "desc": "2026年8月17日から18日にかけてGitHubで世界規模の障害が発生し、GitHub.comやGitHub Actions、GitHub Copilotなど多数のサービスが利用しづらくなりました。GitHubは8月20日に調査結果を公表し、過去最高水準のトラフィックに対してアメリカ中部のデータセンターにある重要なインフラが処理能力を拡張できず、障害が連鎖",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AI全般",
+      "cat": "半導体/GPU",
       "score": 26
+    },
+    {
+      "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
+      "link": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
+      "date": "2026-08-10T00:19:33+09:00",
+      "dateLabel": "08/10 00:19",
+      "desc": "AWS、マイクロソフト、OpenAI、Anysphere、Vercelの各社は、AIエージェントのスキルやMCPサーバの設定を、AIエージェントが異なっていても共有できる業界標準の仕様「Agent Plugins 1.0.0」を発表しました...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 24
+    },
+    {
+      "title": "AIエージェント時代のGitホスティングサービス「Origin」、Cursorが発表。Cursorとの統合、コマンドラインでの操作、GitHubとの同期など提供",
+      "link": "https://www.publickey1.jp/blog/26/aigitorigincursorcursorgithub.html",
+      "date": "2026-08-19T00:43:29+09:00",
+      "dateLabel": "08/19 00:43",
+      "desc": "AIコードエディタのCursorなどを提供するAnysphereは、Gitに対応したコードホスティングサービス「Origin」を発表しました。 Origin, our code hosting platform, is now live.I...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 20
+    },
+    {
+      "title": "Zed開発チームが「Delta」発表。人間とAIの全対話とコード変更履歴をコンテキストとして保存共有するコラボレーションツール",
+      "link": "https://www.publickey1.jp/blog/26/zeddeltaai.html",
+      "date": "2026-08-17T00:05:36+09:00",
+      "dateLabel": "08/17 00:05",
+      "desc": "オープンソースとして開発されている高速なコードエディタ「Zed」の開発チームは、人間の開発チームとAIエージェントの議論や対話内容とコードの変更履歴をすべて共有し、コンテキストとして保存できる「Delta」を発表しました。 Today we...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 20
     }
   ]
 }
