@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-22T20:11:31.641146+09:00",
-  "generatedLabel": "2026/08/22 20:11",
+  "generatedAt": "2026-08-22T21:18:23.742821+09:00",
+  "generatedLabel": "2026/08/22 21:18",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 54,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 16
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -217,17 +217,6 @@
       "score": 26
     },
     {
-      "title": "AIの回答をコピペしないでくれと頼む運動「Don’t paste the AI, please.(AIが書いたものをコピペしないでください)」",
-      "link": "https://gigazine.net/news/20260821-dont-paste-the-ai-please/",
-      "date": "2026-08-21T21:00:00+09:00",
-      "dateLabel": "08/21 21:00",
-      "desc": "ChatGPTなどのAIは、仕組み上、自分が出力した文章の正誤ないしは真偽を確認できません。できているように見えても実際は違うので、最終的には人間がその正確性を確認する必要があります。ところが、この仕組みを知らずにAIが生成した文章をそのままコピペする人間が存在し、そのような文章を受け取った人間にはまずその文章が正しいのかどうかを確認しなければならないという",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
       "title": "小型モデル「LFM2.5」を2倍以上高速化する投機的デコーディング技術DSpark適用版が登場",
       "link": "https://gigazine.net/news/20260821-lfm2-5-dspark-faster-inference/",
       "date": "2026-08-21T18:14:00+09:00",
@@ -277,6 +266,17 @@
       "date": "2026-08-19T00:43:29+09:00",
       "dateLabel": "08/19 00:43",
       "desc": "AIコードエディタのCursorなどを提供するAnysphereは、Gitに対応したコードホスティングサービス「Origin」を発表しました。 Origin, our code hosting platform, is now live.I...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 20
+    },
+    {
+      "title": "Zed開発チームが「Delta」発表。人間とAIの全対話とコード変更履歴をコンテキストとして保存共有するコラボレーションツール",
+      "link": "https://www.publickey1.jp/blog/26/zeddeltaai.html",
+      "date": "2026-08-17T00:05:36+09:00",
+      "dateLabel": "08/17 00:05",
+      "desc": "オープンソースとして開発されている高速なコードエディタ「Zed」の開発チームは、人間の開発チームとAIエージェントの議論や対話内容とコードの変更履歴をすべて共有し、コンテキストとして保存できる「Delta」を発表しました。 Today we...",
       "img": "",
       "src": "Publickey",
       "cat": "AIエージェント/業務",
