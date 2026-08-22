@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-22T13:22:06.840033+09:00",
-  "generatedLabel": "2026/08/22 13:22",
+  "generatedAt": "2026-08-22T14:17:51.598754+09:00",
+  "generatedLabel": "2026/08/22 14:17",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 53,
@@ -140,17 +140,6 @@
       "score": 34
     },
     {
-      "title": "AIエージェント「Grok Build」がスマホアプリやウェブ版Grokでも利用可能に、アプリを作って固有URLで公開する機能もあり",
-      "link": "https://gigazine.net/news/20260821-grok-build-web-mobile/",
-      "date": "2026-08-21T13:28:00+09:00",
-      "dateLabel": "08/21 13:28",
-      "desc": "ウェブ版のGrok、iOSおよびAndroid版のGrokアプリでAIエージェントの「Grok Build」が利用可能となりました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "Chromebookの後継機種「Googlebook」のプレビューイベントをGoogleが2026年9月15日にニューヨークで開催",
       "link": "https://gigazine.net/news/20260821-googlebook-event/",
       "date": "2026-08-21T13:15:00+09:00",
@@ -247,6 +236,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "AIエージェント「Grok Build」がスマホアプリやウェブ版Grokでも利用可能に、アプリを作って固有URLで公開する機能もあり",
+      "link": "https://gigazine.net/news/20260821-grok-build-web-mobile/",
+      "date": "2026-08-21T13:28:00+09:00",
+      "dateLabel": "08/21 13:28",
+      "desc": "ウェブ版のGrok、iOSおよびAndroid版のGrokアプリでAIエージェントの「Grok Build」が利用可能となりました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
       "score": 26
     },
     {
