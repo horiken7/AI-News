@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T17:17:51.607633+09:00",
-  "generatedLabel": "2026/08/23 17:17",
+  "generatedAt": "2026-08-23T18:18:07.290604+09:00",
+  "generatedLabel": "2026/08/23 18:18",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 54,
@@ -250,17 +250,6 @@
       "score": 26
     },
     {
-      "title": "GoogleのAIエージェント「Antigravity」が別デバイスからのリモートコントロールに対応",
-      "link": "https://gigazine.net/news/20260822-antigravity-remote-control/",
-      "date": "2026-08-22T17:20:00+09:00",
-      "dateLabel": "08/22 17:20",
-      "desc": "Googleのコーディングエージェント「Antigravity」がウェブブラウザからのリモートコントロールに対応しました。ユーザーの操作が必要になった際にスマートフォンに通知を届ける機能も提供されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
       "title": "小型モデル「LFM2.5」を2倍以上高速化する投機的デコーディング技術DSpark適用版が登場",
       "link": "https://gigazine.net/news/20260821-lfm2-5-dspark-faster-inference/",
       "date": "2026-08-21T18:14:00+09:00",
@@ -281,6 +270,17 @@
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 26
+    },
+    {
+      "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
+      "link": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
+      "date": "2026-08-10T00:19:33+09:00",
+      "dateLabel": "08/10 00:19",
+      "desc": "AWS、マイクロソフト、OpenAI、Anysphere、Vercelの各社は、AIエージェントのスキルやMCPサーバの設定を、AIエージェントが異なっていても共有できる業界標準の仕様「Agent Plugins 1.0.0」を発表しました...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 24
     }
   ]
 }
