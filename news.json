@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-23T08:11:02.499534+09:00",
-  "generatedLabel": "2026/08/23 08:11",
+  "generatedAt": "2026-08-23T09:41:40.530537+09:00",
+  "generatedLabel": "2026/08/23 09:41",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -250,17 +250,6 @@
       "score": 26
     },
     {
-      "title": "GitHubが約8時間ダウンした原因が判明、急増する利用量に重要なインフラが自動拡張できず障害が連鎖",
-      "link": "https://gigazine.net/news/20260821-why-github-down/",
-      "date": "2026-08-21T11:51:00+09:00",
-      "dateLabel": "08/21 11:51",
-      "desc": "2026年8月17日から18日にかけてGitHubで世界規模の障害が発生し、GitHub.comやGitHub Actions、GitHub Copilotなど多数のサービスが利用しづらくなりました。GitHubは8月20日に調査結果を公表し、過去最高水準のトラフィックに対してアメリカ中部のデータセンターにある重要なインフラが処理能力を拡張できず、障害が連鎖",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
       "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
       "link": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
       "date": "2026-08-10T00:19:33+09:00",
@@ -277,6 +266,17 @@
       "date": "2026-08-19T00:43:29+09:00",
       "dateLabel": "08/19 00:43",
       "desc": "AIコードエディタのCursorなどを提供するAnysphereは、Gitに対応したコードホスティングサービス「Origin」を発表しました。 Origin, our code hosting platform, is now live.I...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 20
+    },
+    {
+      "title": "Zed開発チームが「Delta」発表。人間とAIの全対話とコード変更履歴をコンテキストとして保存共有するコラボレーションツール",
+      "link": "https://www.publickey1.jp/blog/26/zeddeltaai.html",
+      "date": "2026-08-17T00:05:36+09:00",
+      "dateLabel": "08/17 00:05",
+      "desc": "オープンソースとして開発されている高速なコードエディタ「Zed」の開発チームは、人間の開発チームとAIエージェントの議論や対話内容とコードの変更履歴をすべて共有し、コンテキストとして保存できる「Delta」を発表しました。 Today we...",
       "img": "",
       "src": "Publickey",
       "cat": "AIエージェント/業務",
