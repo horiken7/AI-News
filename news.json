@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T16:25:06.518553+09:00",
-  "generatedLabel": "2026/08/23 16:25",
+  "generatedAt": "2026-08-23T17:17:51.607633+09:00",
+  "generatedLabel": "2026/08/23 17:17",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 54,
@@ -217,6 +217,17 @@
       "score": 28
     },
     {
+      "title": "お得なPC買い替えならFMV Storeの「目玉品」に注目！ Ryzen AI 5 340搭載デスクトップPCもこの価格！",
+      "link": "https://ascii.jp/elem/000/004/427/4427655/?rss",
+      "date": "2026-08-23T17:00:00+09:00",
+      "dateLabel": "08/23 17:00",
+      "desc": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
+      "img": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "無料で多種多彩なビジョンAIモデルを試用・比較・評価できる「Roboflow Playground」",
       "link": "https://gigazine.net/news/20260823-roboflow-playground/",
       "date": "2026-08-23T12:00:00+09:00",
@@ -247,17 +258,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "Ryzen AI 5 340搭載一体型デスクトップPCなど対象に！ お得にPC買うならFMV Storeの「目玉品」に注目！",
-      "link": "https://ascii.jp/elem/000/004/427/4427654/?rss",
-      "date": "2026-08-22T17:00:00+09:00",
-      "dateLabel": "08/22 17:00",
-      "desc": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
-      "img": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 26
     },
     {
