@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T21:18:58.008313+09:00",
-  "generatedLabel": "2026/08/23 21:18",
+  "generatedAt": "2026-08-23T22:25:19.207446+09:00",
+  "generatedLabel": "2026/08/23 22:25",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 54,
@@ -96,6 +96,17 @@
       "score": 44
     },
     {
+      "title": "オープンモデルの「Gemma 4 31B」がタスクによっては「Claude Sonnet 5」と同じ品質を40分の1のコストで実現可能",
+      "link": "https://gigazine.net/news/20260823-gemma-4-benchmark/",
+      "date": "2026-08-23T22:05:00+09:00",
+      "dateLabel": "08/23 22:05",
+      "desc": "次々に新たなAIモデルが登場してベンチマークスコアの最高記録を更新し続けていますが、タスクによってはそれほど高性能なAIでなくとも十分な場合が多々あります。AIを活用した文書管理サービスを開発するAlphaSenseは、「財務に関するタスクにおいて、オープンモデルのGemma 4 31BがClaude Sonnet 5と同等の性能を発揮する」というテスト結果",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "Slack、AIとチームで協働する「Slack Code」を発表 ClaudeやDevinを専用チャネルで操作",
       "link": "https://www.itmedia.co.jp/news/article/2608/21/2000000667/",
       "date": "2026-08-21T06:37:48+09:00",
@@ -147,17 +158,6 @@
       "desc": "Anthropicは、最上位モデル「Claude Mythos 5」をセキュリティサービス「Claude Security」の脆弱性検出に導入したと発表した。モデル本体への直接アクセスは開放せず、パッチ提案などの出力のみに限定して提供する。オープンソース保護に向けた総額3500万ドルの基金設立も公表した。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Chromebookの後継機種「Googlebook」のプレビューイベントをGoogleが2026年9月15日にニューヨークで開催",
-      "link": "https://gigazine.net/news/20260821-googlebook-event/",
-      "date": "2026-08-21T13:15:00+09:00",
-      "dateLabel": "08/21 13:15",
-      "desc": "Googleは2026年5月に、Gemini Intelligence向けに設計されたノートPC「Googlebook」を発表しました。価格や発売時期、詳細なスペックなどは公開されていませんでしたが、Googleは2026年9月15日にメディア関係者限定のGooglebookプレビューイベントをニューヨークで開催することが明らかになりました。 続きを読む..",
-      "img": "",
-      "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 34
     },
