@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T18:18:07.290604+09:00",
-  "generatedLabel": "2026/08/23 18:18",
+  "generatedAt": "2026-08-23T19:13:16.873602+09:00",
+  "generatedLabel": "2026/08/23 19:13",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 54,
@@ -140,17 +140,6 @@
       "score": 34
     },
     {
-      "title": "無料でAIエージェントに最適化されたオープンソースのメモ帳アプリ「Hubble.md」、MarkdownとHTMLをベースにして保存・編集・操作が可能",
-      "link": "https://gigazine.net/news/20260822-hubble-md/",
-      "date": "2026-08-22T19:00:00+09:00",
-      "dateLabel": "08/22 19:00",
-      "desc": "Markdown形式のメモをAIエージェントに直接編集させたり、複数のメモからHTML形式のダッシュボード・本棚・地図を作らせたりと、AIがファイルを扱うことを前提に設計された無料・オープンソースのメモ帳アプリ「Hubble.md」が公開されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "Anthropic、「ミュトス 5」を脆弱性スキャンに開放──「Claude Security」経由でEnterprise顧客が利用可能に",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/22/2000000697/",
       "date": "2026-08-22T07:09:30+09:00",
@@ -246,6 +235,17 @@
       "desc": "AIエージェント担当者とは、AIに任せる業務を設計し、自律実行に伴う権限と操作履歴を統制する役割です。ツールを選ぶ担当ではありません。 上司から「AIエージェントを見てくれ」と言われたものの、業務の棚卸しとツール選定と社... The post AIエージェント担当者が担う6つの役割！必要スキルと90日の進め方 first appeared on AI専門ニ",
       "img": "",
       "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "無料でAIエージェントに最適化されたオープンソースのメモ帳アプリ「Hubble.md」、MarkdownとHTMLをベースにして保存・編集・操作が可能",
+      "link": "https://gigazine.net/news/20260822-hubble-md/",
+      "date": "2026-08-22T19:00:00+09:00",
+      "dateLabel": "08/22 19:00",
+      "desc": "Markdown形式のメモをAIエージェントに直接編集させたり、複数のメモからHTML形式のダッシュボード・本棚・地図を作らせたりと、AIがファイルを扱うことを前提に設計された無料・オープンソースのメモ帳アプリ「Hubble.md」が公開されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 26
     },
