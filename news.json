@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-23T11:18:20.204750+09:00",
-  "generatedLabel": "2026/08/23 11:18",
+  "generatedAt": "2026-08-23T12:41:18.527603+09:00",
+  "generatedLabel": "2026/08/23 12:41",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -206,6 +206,17 @@
       "score": 28
     },
     {
+      "title": "無料で多種多彩なビジョンAIモデルを試用・比較・評価できる「Roboflow Playground」",
+      "link": "https://gigazine.net/news/20260823-roboflow-playground/",
+      "date": "2026-08-23T12:00:00+09:00",
+      "dateLabel": "08/23 12:00",
+      "desc": "ゼロショットコンピュータビジョンモデルとは事前の追加学習やアノテーションデータなしで訓練時に見たことのない 新しいオブジェクトやクラスを認識・検出できるAIモデルです。ゼロショットコンピュータビジョンモデルを比較検討するには最新モデルの調査・クラウドAPIを呼び出すコードの記述・オープンウェイトモデル用インフラ整備といった時間のかかる作業が不可欠であり、下手",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "AIエージェント担当者が担う6つの役割！必要スキルと90日の進め方",
       "link": "https://ainow.ai/2026/08/23/278319/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e6%258b%2585%25e5%25bd%2593%25e8%2580%2585%25e3%2581%258c%25e6%258b%2585%25e3%2581%25866%25e3%2581%25a4%25e3%2581%25ae%25e5%25bd%25b9%25e5%2589%25b2%25ef%25bc%2581%25e5%25bf%2585%25e8%25a6%2581%25e3%2582%25b9%25e3%2582%25ad",
       "date": "2026-08-23T03:07:11+09:00",
@@ -270,17 +281,6 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 24
-    },
-    {
-      "title": "AIエージェント時代のGitホスティングサービス「Origin」、Cursorが発表。Cursorとの統合、コマンドラインでの操作、GitHubとの同期など提供",
-      "link": "https://www.publickey1.jp/blog/26/aigitorigincursorcursorgithub.html",
-      "date": "2026-08-19T00:43:29+09:00",
-      "dateLabel": "08/19 00:43",
-      "desc": "AIコードエディタのCursorなどを提供するAnysphereは、Gitに対応したコードホスティングサービス「Origin」を発表しました。 Origin, our code hosting platform, is now live.I...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 20
     }
   ]
 }
