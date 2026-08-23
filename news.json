@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-23T09:41:40.530537+09:00",
-  "generatedLabel": "2026/08/23 09:41",
+  "generatedAt": "2026-08-23T11:18:20.204750+09:00",
+  "generatedLabel": "2026/08/23 11:18",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 52,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 1
+      "items": 2
     },
     {
       "source": "PC Watch",
@@ -94,6 +94,17 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 42
+    },
+    {
+      "title": "AI時代、なぜ「判断できる人」が育たないのか ― 実践研究から見えた「判断経験が残らない4つの構造」を公開",
+      "link": "https://ascii.jp/elem/000/004/428/4428648/?rss",
+      "date": "2026-08-23T09:43:55+09:00",
+      "dateLabel": "08/23 09:43",
+      "desc": "AI時代、なぜ「判断できる人」が育たないのか ― 実践研究から見えた「判断経験が残らない4つの構造」を公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "ChatGPTが危険な医療アドバイスをしたとしてOpenAIが提訴される、病気の牧師に「神はあなたの体が永遠に壊れ続けるようには設計していない」と助言",
@@ -266,17 +277,6 @@
       "date": "2026-08-19T00:43:29+09:00",
       "dateLabel": "08/19 00:43",
       "desc": "AIコードエディタのCursorなどを提供するAnysphereは、Gitに対応したコードホスティングサービス「Origin」を発表しました。 Origin, our code hosting platform, is now live.I...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 20
-    },
-    {
-      "title": "Zed開発チームが「Delta」発表。人間とAIの全対話とコード変更履歴をコンテキストとして保存共有するコラボレーションツール",
-      "link": "https://www.publickey1.jp/blog/26/zeddeltaai.html",
-      "date": "2026-08-17T00:05:36+09:00",
-      "dateLabel": "08/17 00:05",
-      "desc": "オープンソースとして開発されている高速なコードエディタ「Zed」の開発チームは、人間の開発チームとAIエージェントの議論や対話内容とコードの変更履歴をすべて共有し、コンテキストとして保存できる「Delta」を発表しました。 Today we...",
       "img": "",
       "src": "Publickey",
       "cat": "AIエージェント/業務",
