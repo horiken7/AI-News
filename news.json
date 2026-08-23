@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-23T22:25:19.207446+09:00",
-  "generatedLabel": "2026/08/23 22:25",
+  "generatedAt": "2026-08-23T23:13:54.434612+09:00",
+  "generatedLabel": "2026/08/23 23:13",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 54,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 9
+      "items": 10
     },
     {
       "source": "AINOW",
@@ -94,6 +94,39 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 44
+    },
+    {
+      "title": "Rustに移植された「Bun 1.4」正式リリース。Node.jsとの互換性向上でPlaywrightやvitestが動作、CPUとメモリの使用率が大幅改善、正規表現が高速化など",
+      "link": "https://www.publickey1.jp/blog/26/rustbun_14nodejsplaywrightvitestcpu.html",
+      "date": "2026-08-24T00:58:41+09:00",
+      "dateLabel": "08/24 00:58",
+      "desc": "サーバサイドJavaScriptランタイムのBunの最新版となる「Bun 1.4」正式版のリリースが発表されました。 Bun 1.4は、これまでZig言語で開発されていたものをClaude Codeを使ってRustに書き直した最初のバージョ...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "Slack上の開発チームの会話をAIエージェントが把握してコーディング。ドキュメント作成もする「Slack Code」登場",
+      "link": "https://www.publickey1.jp/blog/26/slackaislack_code.html",
+      "date": "2026-08-24T00:52:28+09:00",
+      "dateLabel": "08/24 00:52",
+      "desc": "Salesforce傘下のSlack社は、同社のチャットサービス「Slack」の新機能として、開発チームの一員としてAIエージェントがチャットに加わり、それまでの開発チームの議論を把握してコーディングを行う「Slack Code」の提供開始...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "AIエージェントが実際にどのように動いてトークンを使っているかが後から見てわかるようにできる「Langfuse」、オープンソースでセルフホスト可能",
+      "link": "https://gigazine.net/news/20260823-langfuse/",
+      "date": "2026-08-23T23:00:00+09:00",
+      "dateLabel": "08/23 23:00",
+      "desc": "AIエージェントが回答を作る裏側では「LLMに問い合わせる」「検索する」「ツールを実行する」「結果を再びLLMへ渡す」といった処理が連続して行われています。その実行経路を丸ごと記録し、どこで何トークンを使用したのかまでブラウザから追跡できるオープンソースツールでセルフホストが可能な「Langfuse」が公開されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 42
     },
     {
       "title": "オープンモデルの「Gemma 4 31B」がタスクによっては「Claude Sonnet 5」と同じ品質を40分の1のコストで実現可能",
@@ -248,39 +281,6 @@
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 26
-    },
-    {
-      "title": "小型モデル「LFM2.5」を2倍以上高速化する投機的デコーディング技術DSpark適用版が登場",
-      "link": "https://gigazine.net/news/20260821-lfm2-5-dspark-faster-inference/",
-      "date": "2026-08-21T18:14:00+09:00",
-      "dateLabel": "08/21 18:14",
-      "desc": "AI企業のLiquid AIが小型モデルのLFM2.5シリーズに高速化技術の「DSpark」を適用したことを発表しました。DSpark適用版のモデルは性能を維持したまま2倍以上の高速化に成功しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "AIエージェント「Grok Build」がスマホアプリやウェブ版Grokでも利用可能に、アプリを作って固有URLで公開する機能もあり",
-      "link": "https://gigazine.net/news/20260821-grok-build-web-mobile/",
-      "date": "2026-08-21T13:28:00+09:00",
-      "dateLabel": "08/21 13:28",
-      "desc": "ウェブ版のGrok、iOSおよびAndroid版のGrokアプリでAIエージェントの「Grok Build」が利用可能となりました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
-      "link": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
-      "date": "2026-08-10T00:19:33+09:00",
-      "dateLabel": "08/10 00:19",
-      "desc": "AWS、マイクロソフト、OpenAI、Anysphere、Vercelの各社は、AIエージェントのスキルやMCPサーバの設定を、AIエージェントが異なっていても共有できる業界標準の仕様「Agent Plugins 1.0.0」を発表しました...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 24
     }
   ]
 }
