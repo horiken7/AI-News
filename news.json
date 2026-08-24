@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-24T11:16:32.348065+09:00",
-  "generatedLabel": "2026/08/24 11:16",
+  "generatedAt": "2026-08-24T12:44:37.661202+09:00",
+  "generatedLabel": "2026/08/24 12:44",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 61,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 9
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -85,14 +85,14 @@
       "score": 44
     },
     {
-      "title": "Copilot Cowork の内側を覗いてみた ハーネスの設計はこうなっている",
-      "link": "https://ascii.jp/elem/000/004/428/4428523/?rss",
-      "date": "2026-08-24T10:15:00+09:00",
-      "dateLabel": "08/24 10:15",
-      "desc": "最近正式にリリースされたCopilot Cowork ですが、最近セッションログ（JSONL 形式）を入手する機会があり、中身を分析してみたところ、ハーネスの設計がとても興味深かったので、その内容をまとめてみました！",
-      "img": "https://ascii.jp/img/2026/08/21/4515472/s/66c6c06d888fd427.png",
+      "title": "PowerColor、Radeon RX 9050搭載「RX9050 8G-A」を発売 約5.3万円のコンパクトGPU",
+      "link": "https://ascii.jp/elem/000/004/428/4428721/?rss",
+      "date": "2026-08-24T11:30:00+09:00",
+      "dateLabel": "08/24 11:30",
+      "desc": "PowerColorは、AMD Radeon RX 9050を搭載したグラフィックボード「RX9050 8G-A」を発売。約200mm・2スロットのコンパクト設計に加え、9枚羽根ファンやデュアルボールベアリングを採用し、高い冷却性能と静音性を実現。実売価格は約5万2980円。",
+      "img": "https://ascii.jp/img/2026/08/24/4516184/s/d964238920eb8720.png",
       "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
+      "cat": "半導体/GPU",
       "score": 42
     },
     {
@@ -140,25 +140,14 @@
       "score": 42
     },
     {
-      "title": "PagerDuty、ITR調査の国内AIOps／運用自動化市場においてベンダー別売上金額シェア第3位を獲得",
-      "link": "https://ascii.jp/elem/000/004/428/4428696/?rss",
-      "date": "2026-08-24T10:00:00+09:00",
-      "dateLabel": "08/24 10:00",
-      "desc": "PagerDuty、ITR調査の国内AIOps／運用自動化市場においてベンダー別売上金額シェア第3位を獲得",
+      "title": "DomoAI、AI動画生成機能Omni Referenceをアップデート",
+      "link": "https://ascii.jp/elem/000/004/428/4428735/?rss",
+      "date": "2026-08-24T11:00:00+09:00",
+      "dateLabel": "08/24 11:00",
+      "desc": "DomoAI、AI動画生成機能Omni Referenceをアップデート",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "松尾研究所、JPiXと経営者の思考プロセスを再現する投資検討支援AIを共同開発",
-      "link": "https://ascii.jp/elem/000/004/428/4428691/?rss",
-      "date": "2026-08-24T10:00:00+09:00",
-      "dateLabel": "08/24 10:00",
-      "desc": "松尾研究所、JPiXと経営者の思考プロセスを再現する投資検討支援AIを共同開発",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
@@ -181,7 +170,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
+      "score": 28
     },
     {
       "title": "macOS版ChatGPT、Appleの「メッセージ」と連携 会話検索や下書き、送信に対応",
@@ -195,6 +184,39 @@
       "score": 28
     },
     {
+      "title": "Sakana AI、防衛省の「情報分析」をAIで支援 自衛隊の指揮統制システム高度化に続き",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000711/",
+      "date": "2026-08-24T12:17:22+09:00",
+      "dateLabel": "08/24 12:17",
+      "desc": "Sakana AIは、防衛省における情報の分析業務を支援するAIの開発に関する契約を締結したと発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "TwitchとAmazonがストリーマーのコンテンツをAIに学習させたとして訴えられる",
+      "link": "https://gigazine.net/news/20260824-twitch-sued-streamer-ai-training/",
+      "date": "2026-08-24T11:54:00+09:00",
+      "dateLabel": "08/24 11:54",
+      "desc": "ライブ配信サービスのTwitchと、その親会社であるAmazonに対し、配信者のウォーレン・パンディシア氏が集団訴訟を起こしました。パンディシア氏は自身の動画が勝手にAIのトレーニングに使われたことを問題視しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 26
+    },
+    {
+      "title": "大企業導入も順調なkintone AI時代の“市民開発×ガバナンス”基盤を目指す",
+      "link": "https://ascii.jp/elem/000/004/428/4428657/?rss",
+      "date": "2026-08-24T11:30:00+09:00",
+      "dateLabel": "08/24 11:30",
+      "desc": "契約企業数が4万社を突破し、幅広い業種で導入が進むサイボウズの「kintone」。現在同社は、従業員数1000名を超える“エンタープライズ市場”への展開を推進している。",
+      "img": "https://ascii.jp/img/2026/08/23/4516080/s/d38edcab3bb93f0e.jpg",
+      "src": "ASCII.jp",
+      "cat": "規制/安全",
+      "score": 26
+    },
+    {
       "title": "マウス、AMD Ryzen AI Max+ 395搭載の小型デスクトップ「DAIV CX」を発売",
       "link": "https://ascii.jp/elem/000/004/428/4428665/?rss",
       "date": "2026-08-24T11:00:00+09:00",
@@ -203,61 +225,6 @@
       "img": "https://ascii.jp/img/2026/08/24/4516113/s/fe5748cdca882e0e.png",
       "src": "ASCII.jp",
       "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
-      "title": "AI業務活用力を身につける資格『AI業務支援士』養成研修の受講者アンケート結果を公表 ―修了者の8割以上が業務効率化を実感。40・50代のリスキリングに活用―",
-      "link": "https://ascii.jp/elem/000/004/428/4428697/?rss",
-      "date": "2026-08-24T10:00:00+09:00",
-      "dateLabel": "08/24 10:00",
-      "desc": "AI業務活用力を身につける資格『AI業務支援士』養成研修の受講者アンケート結果を公表 ―修了者の8割以上が業務効率化を実感。40・50代のリスキリングに活用―",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "【AI資料作成の実態調査】AI搭載スライド自動生成サービス「イルシル」、資料の4件に1件は始業前や終業後に作られている ― 昼休みだけ作成が約4割減",
-      "link": "https://ascii.jp/elem/000/004/428/4428694/?rss",
-      "date": "2026-08-24T10:00:00+09:00",
-      "dateLabel": "08/24 10:00",
-      "desc": "【AI資料作成の実態調査】AI搭載スライド自動生成サービス「イルシル」、資料の4件に1件は始業前や終業後に作られている ― 昼休みだけ作成が約4割減",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "【日本初※】デジタルエージェンシーUTATA、AI検索最適化（GEO/AIO対策）プラットフォーム「OtterlyAI」と代理店パートナーシップを締結",
-      "link": "https://ascii.jp/elem/000/004/428/4428693/?rss",
-      "date": "2026-08-24T10:00:00+09:00",
-      "dateLabel": "08/24 10:00",
-      "desc": "【日本初※】デジタルエージェンシーUTATA、AI検索最適化（GEO/AIO対策）プラットフォーム「OtterlyAI」と代理店パートナーシップを締結",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "ロボットタクシーのムービーズ、令和8年度 ISICO「成長戦略ファンド」に採択",
-      "link": "https://ascii.jp/elem/000/004/428/4428689/?rss",
-      "date": "2026-08-24T10:00:00+09:00",
-      "dateLabel": "08/24 10:00",
-      "desc": "ロボットタクシーのムービーズ、令和8年度 ISICO「成長戦略ファンド」に採択",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "仙台市主催 事業化支援プログラム「SENDAI Startup Studio Launch Program（SSLP）」の下期募集を開始",
-      "link": "https://ascii.jp/elem/000/004/428/4428713/?rss",
-      "date": "2026-08-24T09:00:00+09:00",
-      "dateLabel": "08/24 09:00",
-      "desc": "仙台市主催 事業化支援プログラム「SENDAI Startup Studio Launch Program（SSLP）」の下期募集を開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 26
     },
     {
@@ -280,6 +247,39 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "画像がAI生成かどうかを判別して出どころを調べるGoogleのAIツール「Backstory」はメディアのファクトチェックを迅速化している",
+      "link": "https://gigazine.net/news/20260824-googles-backstory-ai-generated-detection/",
+      "date": "2026-08-24T08:00:00+09:00",
+      "dateLabel": "08/24 08:00",
+      "desc": "Google DeepMindは2025年、画像とテキストによる説明文を与えると画像がAI生成かどうかを判別し、これまでにどのような文脈で使われた画像なのかを調べるAIツール「Backstory」を発表しました。このBackstoryがメディアのファクトチェックを迅速化していると、ハーバード大学のジャーナリズム機関であるNieman Journalism L",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "ロボットの費用対効果が3年以内に人手を上回る――インテルが調査結果から洞察",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2608/24/news061.html",
+      "date": "2026-08-24T06:30:00+09:00",
+      "dateLabel": "08/24 06:30",
+      "desc": "インテルがロボティクス導入に関する調査結果を発表。同調査では60％が5年以内に自社で多数のロボットを運用すると予想し、67％が2030年までに人間とロボットが協働する労働力の管理体制が整うと回答した一方で、人間とロボットの協働に関する正式な戦略を策定している組織が40％にとどまるなどギャップが存在することが明らかになった。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
+      "title": "AIエージェントで仕事はどう変わる？任せられる仕事と人に残る仕事",
+      "link": "https://ainow.ai/2026/08/24/278322/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e4%25bb%2595%25e4%25ba%258b%25e3%2581%25af%25e3%2581%25a9%25e3%2581%2586%25e5%25a4%2589%25e3%2582%258f%25e3%2582%258b%25ef%25bc%259f%25e4%25bb%25bb%25e3%2581%259b%25e3%2582%2589%25e3%2582%258c%25e3%2582%258b%25e4%25bb%2595",
+      "date": "2026-08-24T01:03:25+09:00",
+      "dateLabel": "08/24 01:03",
+      "desc": "AIエージェントに仕事を任せられると聞いても、自分の業務のどこが置き換わるのか想像できず、生成AIで下書きを作る使い方から抜け出せていない人は少なくありません。 AIエージェントとは、目標を渡すと計画の立案から実行、結果... The post AIエージェントで仕事はどう変わる？任せられる仕事と人に残る仕事 first appeared on AI専門ニュ",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
