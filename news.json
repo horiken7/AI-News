@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-24T14:29:36.623429+09:00",
-  "generatedLabel": "2026/08/24 14:29",
+  "generatedAt": "2026-08-24T15:36:11.097635+09:00",
+  "generatedLabel": "2026/08/24 15:36",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 57,
@@ -85,6 +85,17 @@
       "score": 44
     },
     {
+      "title": "OKI、生成AIで問い合わせ一次対応を自動化する「CTstage AIコンシェルジュ」を2027年1月提供開始",
+      "link": "https://ascii.jp/elem/000/004/428/4428782/?rss",
+      "date": "2026-08-24T15:00:00+09:00",
+      "dateLabel": "08/24 15:00",
+      "desc": "OKIは、生成AIを活用したコンタクトセンター向け新サービス「CTstage AIコンシェルジュ」を2027年1月に提供開始。問い合わせ一次対応の自動化や有人対応への振り分け、応対品質向上、カスハラ対策などの特長を紹介します。",
+      "img": "https://ascii.jp/img/2026/08/24/4516228/s/ec134713e41aa6ca.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "AIエージェント活用を阻む“予算の壁” セールスフォースらの新機能は打開策になり得るか？",
       "link": "https://www.itmedia.co.jp/enterprise/articles/2608/24/news075.html",
       "date": "2026-08-24T13:30:00+09:00",
@@ -162,6 +173,17 @@
       "score": 42
     },
     {
+      "title": "「Claude」で障害発生中",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000719/",
+      "date": "2026-08-24T14:43:10+09:00",
+      "dateLabel": "08/24 14:43",
+      "desc": "米AnthropicのAIサービス「Claude」「Claude Code」などで障害が発生している。同社のステータスサイトによると、日本時間の8月24日午後2時27分時点でエラーの原因を特定し、修正作業中という。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "MCPが新ロードマップを公開、長時間処理やAIエージェント認証など5分野を重点化",
       "link": "https://gigazine.net/news/20260824-mcp-roadmap/",
       "date": "2026-08-24T14:20:00+09:00",
@@ -184,15 +206,26 @@
       "score": 34
     },
     {
-      "title": "「Claudeの使い方」を無料で学べる公式サイト登場 「Code」「Cowork」などサービスごとに解説",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000672/",
-      "date": "2026-08-21T11:26:13+09:00",
-      "dateLabel": "08/21 11:26",
-      "desc": "米Anthropicは、無料の学習サイト「Claude Academy」を公開した。AI技術の基本や、AIサービス「Claude」関連製品の使い方を解説している。",
+      "title": "AI開発の新たなボトルネックは「ガスタービン不足」",
+      "link": "https://gigazine.net/news/20260824-gas-turbine-shortage/",
+      "date": "2026-08-24T15:02:00+09:00",
+      "dateLabel": "08/24 15:02",
+      "desc": "AI開発においては、データを処理する「データセンター」の新設が急務となっています。ここで、新たに電力供給に必要な「ガスタービン」が不足していて、データセンターへの電力供給が滞る可能性が出てきました。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 28
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "高校生同士が学び合う探究ワークショップ。青楓館高等学院の生徒が、AI活用の経験を活かし神戸市立高校生の探究活動を支援",
+      "link": "https://ascii.jp/elem/000/004/428/4428861/?rss",
+      "date": "2026-08-24T14:00:00+09:00",
+      "dateLabel": "08/24 14:00",
+      "desc": "高校生同士が学び合う探究ワークショップ。青楓館高等学院の生徒が、AI活用の経験を活かし神戸市立高校生の探究活動を支援",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     },
     {
       "title": "【AIで、勝つ。経営を、変える。】MIG総研、経営者限定「AIBXエグゼクティブセミナー」を開催",
@@ -228,28 +261,6 @@
       "score": 26
     },
     {
-      "title": "【報道関係各位】 笹塚エリアで自律走行ロボットを活用したフードデリバリー実証をスタート都市部における実証実験を通じて、次世代配送の社会実装に向けた可能性を検証",
-      "link": "https://ascii.jp/elem/000/004/428/4428814/?rss",
-      "date": "2026-08-24T13:00:00+09:00",
-      "dateLabel": "08/24 13:00",
-      "desc": "【報道関係各位】 笹塚エリアで自律走行ロボットを活用したフードデリバリー実証をスタート都市部における実証実験を通じて、次世代配送の社会実装に向けた可能性を検証",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "SAMURAI TAX、Shopify POSと連携 実店舗での免税販売をスムーズに",
-      "link": "https://ascii.jp/elem/000/004/428/4428813/?rss",
-      "date": "2026-08-24T13:00:00+09:00",
-      "dateLabel": "08/24 13:00",
-      "desc": "SAMURAI TAX、Shopify POSと連携 実店舗での免税販売をスムーズに",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
       "title": "Sakana AI、防衛省の「情報分析」をAIで支援 自衛隊の指揮統制システム高度化に続き",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000711/",
       "date": "2026-08-24T12:17:22+09:00",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "規制/安全",
-      "score": 26
-    },
-    {
-      "title": "「非エンジニアに役立つかで価値が決まる」 たった1時間で開発したツール、なぜGitHub史上最速で伸びた？",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2608/24/news010.html",
-      "date": "2026-08-24T08:00:00+09:00",
-      "dateLabel": "08/24 08:00",
-      "desc": "WhatsAppからAIエージェントに指示を出す――。個人の趣味から始まったツールは今、Microsoftの製品基盤にまで使われている。「OpenClaw」開発者がSnowflakeのイベントで語った、コーディングエージェントとの向き合い方をまとめた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
