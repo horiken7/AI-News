@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-24T08:11:11.924782+09:00",
-  "generatedLabel": "2026/08/24 08:11",
+  "generatedAt": "2026-08-24T09:40:03.098862+09:00",
+  "generatedLabel": "2026/08/24 09:40",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 61,
+  "candidates": 62,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 9
     },
     {
       "source": "PC Watch",
@@ -129,6 +129,17 @@
       "score": 42
     },
     {
+      "title": "首都高が「AIの高利用者」を1年で10倍に 非IT人材に刺さったGemini Notebookと“泥臭い”浸透策",
+      "link": "https://ascii.jp/elem/000/004/427/4427588/?rss",
+      "date": "2026-08-24T09:00:00+09:00",
+      "dateLabel": "08/24 09:00",
+      "desc": "現場のDXマインドの醸成に悩んでいた首都高速道路。転機となったのは「Google Workspace」の新料金プランと「Gemini Notebook（旧NotebookLM）」の登場だった。一度は動画研修でつまずくも、地道な浸透策によって、Geminiを月100回以上利用する社員を1年間で10倍に急増させた。",
+      "img": "https://ascii.jp/img/2026/08/18/4514209/s/0b9a8050306fb79e.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "「うわ、すげえ！」Unreal EngineをCodexに操作させたら制作の常識が変わった",
       "link": "https://ascii.jp/elem/000/004/428/4428658/?rss",
       "date": "2026-08-24T07:00:00+09:00",
@@ -192,18 +203,29 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
+      "score": 28
     },
     {
-      "title": "「チャピる」「ギュられる」って何？ 今年流行った「就活用語」にAI関連ワード マイナビ調査",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000663/",
-      "date": "2026-08-21T07:55:00+09:00",
-      "dateLabel": "08/21 07:55",
-      "desc": "マイナビは、2027年卒の就職活動で流行した用語を発表した。米OpenAIのチャットAI「ChatGPT」を示す「チャッピー」に加え、「チャピる」「ギュられる」といったAIに関する新語が登場した。",
+      "title": "「非エンジニアに役立つかで価値が決まる」 たった1時間で開発したツール、なぜGitHub史上最速で伸びた？",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2608/24/news010.html",
+      "date": "2026-08-24T08:00:00+09:00",
+      "dateLabel": "08/24 08:00",
+      "desc": "WhatsAppからAIエージェントに指示を出す――。個人の趣味から始まったツールは今、Microsoftの製品基盤にまで使われている。「OpenClaw」開発者がSnowflakeのイベントで語った、コーディングエージェントとの向き合い方をまとめた。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 28
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "日本企業のAI投資「成果あり」はわずか13％ アクセンチュアが指摘する“人任せ”の限界",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/24/news047.html",
+      "date": "2026-08-24T08:00:00+09:00",
+      "dateLabel": "08/24 08:00",
+      "desc": "アクセンチュアの調査によれば、日本企業の78％がAI投資拡大に意欲を示す一方、全社的な成果を実感する企業は13％にとどまり、世界平均を大きく下回っている。何が足りていないのか。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 26
     },
     {
       "title": "PC価格高騰で4割の企業が「調達を延期」／“謎のExcelマクロ”は業務継続リスク／日本のデジタル行政、利用率・満足度とも最低レベル、ほか",
@@ -258,28 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "AIエージェントで仕事はどう変わる？任せられる仕事と人に残る仕事",
-      "link": "https://ainow.ai/2026/08/24/278322/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e4%25bb%2595%25e4%25ba%258b%25e3%2581%25af%25e3%2581%25a9%25e3%2581%2586%25e5%25a4%2589%25e3%2582%258f%25e3%2582%258b%25ef%25bc%259f%25e4%25bb%25bb%25e3%2581%259b%25e3%2582%2589%25e3%2582%258c%25e3%2582%258b%25e4%25bb%2595",
-      "date": "2026-08-24T01:03:25+09:00",
-      "dateLabel": "08/24 01:03",
-      "desc": "AIエージェントに仕事を任せられると聞いても、自分の業務のどこが置き換わるのか想像できず、生成AIで下書きを作る使い方から抜け出せていない人は少なくありません。 AIエージェントとは、目標を渡すと計画の立案から実行、結果... The post AIエージェントで仕事はどう変わる？任せられる仕事と人に残る仕事 first appeared on AI専門ニュ",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "お得なPC買い替えならFMV Storeの「目玉品」に注目！ Ryzen AI 5 340搭載デスクトップPCもこの価格！",
-      "link": "https://ascii.jp/elem/000/004/427/4427655/?rss",
-      "date": "2026-08-23T17:00:00+09:00",
-      "dateLabel": "08/23 17:00",
-      "desc": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
-      "img": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 26
     }
   ]
