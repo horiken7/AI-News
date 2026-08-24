@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-25T06:19:17.763317+09:00",
-  "generatedLabel": "2026/08/25 06:19",
+  "generatedAt": "2026-08-25T07:15:26.183958+09:00",
+  "generatedLabel": "2026/08/25 07:15",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 60,
+  "candidates": 59,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -151,17 +151,6 @@
       "score": 40
     },
     {
-      "title": "ソフトクリエイト、国内初「Secure AI Productivity」Specializationを取得 AI活用支援を強化",
-      "link": "https://ascii.jp/elem/000/004/428/4428852/?rss",
-      "date": "2026-08-24T18:15:00+09:00",
-      "dateLabel": "08/24 18:15",
-      "desc": "ソフトクリエイトがマイクロソフトの「Secure AI Productivity」Specializationを国内で先駆けて取得。Microsoft 365 Copilotやゼロトラストを軸に、生成AIを安全に活用するための導入・定着支援や導入事例を紹介します。",
-      "img": "https://ascii.jp/img/2026/08/24/4516336/s/9d4a616edb1ebf9f.png",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "【復旧済み】「Claude」で障害発生中",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000719/",
       "date": "2026-08-24T17:55:15+09:00",
@@ -217,17 +206,6 @@
       "score": 34
     },
     {
-      "title": "オープンモデルの「Gemma 4 31B」がタスクによっては「Claude Sonnet 5」と同じ品質を40分の1のコストで実現可能",
-      "link": "https://gigazine.net/news/20260823-gemma-4-benchmark/",
-      "date": "2026-08-23T22:05:00+09:00",
-      "dateLabel": "08/23 22:05",
-      "desc": "次々に新たなAIモデルが登場してベンチマークスコアの最高記録を更新し続けていますが、タスクによってはそれほど高性能なAIでなくとも十分な場合が多々あります。AIを活用した文書管理サービスを開発するAlphaSenseは、「財務に関するタスクにおいて、オープンモデルのGemma 4 31BがClaude Sonnet 5と同等の性能を発揮する」というテスト結果",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "Anthropic、「ミュトス 5」を脆弱性スキャンに開放──「Claude Security」経由でEnterprise顧客が利用可能に",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/22/2000000697/",
       "date": "2026-08-22T07:09:30+09:00",
@@ -236,7 +214,18 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
+      "score": 28
+    },
+    {
+      "title": "PC単体で完結するAI向けナレッジアプリ",
+      "link": "https://ascii.jp/elem/000/004/428/4428544/?rss",
+      "date": "2026-08-25T07:00:00+09:00",
+      "dateLabel": "08/25 07:00",
+      "desc": "株式会社ありんこは8月18日、PC内で動作が完結するAI向けナレッジアプリ「Anthole（アントホール）」の販売を開始した。同製品は、AIモデル本体を含めた動作に必要なプログラムを同梱し、外部への送信経路を持たない設計とすることで、セキュリティー要件の厳しい環境でも利用可能なデータ管理の手法を提供する。",
+      "img": "https://ascii.jp/img/2026/08/21/4515596/s/d8233642c55a9846.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 26
     },
     {
       "title": "謎のAI「Ox Alpha」が出現し無料テスト中、コンテキストウィンドウは100万トークンで1日数兆トークンを処理できる匿名ラボがAPIを提供",
@@ -278,6 +267,17 @@
       "dateLabel": "08/24 19:30",
       "desc": "Amazon.co.jpにて、NextorageのNintendo Switch 2用microSD Expressメモリーカード「Gシリーズ EX 1TB」が販売中だ。参考価格は4万3610円だが、タイムセールにより8％オフの3万9980円で購入できる（8月24日時点）。",
       "img": "https://ascii.jp/img/2026/08/24/4516361/s/896fc7cdff6ae93c.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "営業職求人28,704件を調査、東京都12,741件が件数上位3都府県を除く44県の合計10,979件を上回る｜AIアポろうくん",
+      "link": "https://ascii.jp/elem/000/004/428/4428948/?rss",
+      "date": "2026-08-24T18:58:42+09:00",
+      "dateLabel": "08/24 18:58",
+      "desc": "営業職求人28,704件を調査、東京都12,741件が件数上位3都府県を除く44県の合計10,979件を上回る｜AIアポろうくん",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
