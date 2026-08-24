@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-24T09:40:03.098862+09:00",
-  "generatedLabel": "2026/08/24 09:40",
+  "generatedAt": "2026-08-24T11:16:32.348065+09:00",
+  "generatedLabel": "2026/08/24 11:16",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 62,
+  "candidates": 61,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,7 +13,7 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 18
+      "items": 17
     },
     {
       "source": "ASCII.jp",
@@ -63,14 +63,14 @@
   ],
   "articles": [
     {
-      "title": "事業承継の募集告知を生成AIで自動作成",
-      "link": "https://ascii.jp/elem/000/004/428/4428146/?rss",
-      "date": "2026-08-24T07:00:00+09:00",
-      "dateLabel": "08/24 07:00",
-      "desc": "株式会社ライトライトは7月30日、オープンネーム事業承継プラットフォーム「relay」において、事業の譲渡希望者が自ら募集告知を作成・公開できる機能「AIかんたん作成」をリリースした。従来、同サービスでの掲載にはスタッフによる情報整理や記事作成の工程が必要だったが、新機能では事業者自身による入力とAIによる文章生成支援を組み合わせることで、手続きの簡略化を図",
-      "img": "https://ascii.jp/img/2026/08/20/4514923/s/76c3cd8a11cd2dd8.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
+      "title": "プロ開発者の90％がAIコーディングエージェントを週1回以上利用、Claude CodeのシェアがGitHub Copilotを逆転して約2倍差の1位",
+      "link": "https://gigazine.net/news/20260824-ai-coding-agent-adoption-trends/",
+      "date": "2026-08-24T10:52:00+09:00",
+      "dateLabel": "08/24 10:52",
+      "desc": "JetBrains Researchは世界中の1万5000人以上のプロの開発者を対象とした調査結果を「Developer Ecosystem Survey 2026」として発表しました。特徴的なのはClaude Codeの急上昇であり、これまでトップであったGitHub Copilotの2倍に迫るシェアとなっています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
       "score": 50
     },
     {
@@ -83,6 +83,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 44
+    },
+    {
+      "title": "Copilot Cowork の内側を覗いてみた ハーネスの設計はこうなっている",
+      "link": "https://ascii.jp/elem/000/004/428/4428523/?rss",
+      "date": "2026-08-24T10:15:00+09:00",
+      "dateLabel": "08/24 10:15",
+      "desc": "最近正式にリリースされたCopilot Cowork ですが、最近セッションログ（JSONL 形式）を入手する機会があり、中身を分析してみたところ、ハーネスの設計がとても興味深かったので、その内容をまとめてみました！",
+      "img": "https://ascii.jp/img/2026/08/21/4515472/s/66c6c06d888fd427.png",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
     },
     {
       "title": "Rustに移植された「Bun 1.4」正式リリース。Node.jsとの互換性向上でPlaywrightやvitestが動作、CPUとメモリの使用率が大幅改善、正規表現が高速化など",
@@ -129,45 +140,23 @@
       "score": 42
     },
     {
-      "title": "首都高が「AIの高利用者」を1年で10倍に 非IT人材に刺さったGemini Notebookと“泥臭い”浸透策",
-      "link": "https://ascii.jp/elem/000/004/427/4427588/?rss",
-      "date": "2026-08-24T09:00:00+09:00",
-      "dateLabel": "08/24 09:00",
-      "desc": "現場のDXマインドの醸成に悩んでいた首都高速道路。転機となったのは「Google Workspace」の新料金プランと「Gemini Notebook（旧NotebookLM）」の登場だった。一度は動画研修でつまずくも、地道な浸透策によって、Geminiを月100回以上利用する社員を1年間で10倍に急増させた。",
-      "img": "https://ascii.jp/img/2026/08/18/4514209/s/0b9a8050306fb79e.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "「うわ、すげえ！」Unreal EngineをCodexに操作させたら制作の常識が変わった",
-      "link": "https://ascii.jp/elem/000/004/428/4428658/?rss",
-      "date": "2026-08-24T07:00:00+09:00",
-      "dateLabel": "08/24 07:00",
-      "desc": "Unreal Engine 5.8をCodexから自然言語で操作し、3Dモデル配置やアニメーション、エフェクト制作まで自動化。ゲームエンジン制作にAIがもたらす大きな変化を実例から検証します。",
-      "img": "https://ascii.jp/img/2026/08/24/4516081/s/9700c6cf9996db73.png",
+      "title": "PagerDuty、ITR調査の国内AIOps／運用自動化市場においてベンダー別売上金額シェア第3位を獲得",
+      "link": "https://ascii.jp/elem/000/004/428/4428696/?rss",
+      "date": "2026-08-24T10:00:00+09:00",
+      "dateLabel": "08/24 10:00",
+      "desc": "PagerDuty、ITR調査の国内AIOps／運用自動化市場においてベンダー別売上金額シェア第3位を獲得",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
       "score": 34
     },
     {
-      "title": "自作PCトーク『ジサトラKTU』生放送～Arc G3 Extreme搭載PCの性能を検証、MSI「Claw 8 EX Ai+」はマジでスゴかった!!～",
-      "link": "https://ascii.jp/elem/000/004/428/4428431/?rss",
-      "date": "2026-08-24T07:00:00+09:00",
-      "dateLabel": "08/24 07:00",
-      "desc": "Arc G3 Extreme搭載PCの性能を検証、MSI「Claw 8 EX Ai+」はマジでスゴかった!! 木曜20:00から放送スタート！",
-      "img": "https://ascii.jp/img/2025/09/19/4324489/s/4111cde7c86cf0b4.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "講師の指導ノウハウをAI化、対話型アバターAI家庭教師",
-      "link": "https://ascii.jp/elem/000/004/428/4428155/?rss",
-      "date": "2026-08-24T07:00:00+09:00",
-      "dateLabel": "08/24 07:00",
-      "desc": "一般社団法人THINKERS NEOは8月1日、個別指導塾の人気講師が持つ指導ノウハウを再現した対話型アバターAI家庭教師「AIの佐藤先生」を正式リリースした。従来の学習AIで課題となっていた、質問しなければ回答しない受動的な仕組みを改善し、AI側から能動的に授業の進行や目標設定を行うシステムを構築。Vtuber風のアニメ調のアバターと音声によるリアルタイム",
-      "img": "https://ascii.jp/img/2026/08/20/4514930/s/f3a652c99da40484.png",
+      "title": "松尾研究所、JPiXと経営者の思考プロセスを再現する投資検討支援AIを共同開発",
+      "link": "https://ascii.jp/elem/000/004/428/4428691/?rss",
+      "date": "2026-08-24T10:00:00+09:00",
+      "dateLabel": "08/24 10:00",
+      "desc": "松尾研究所、JPiXと経営者の思考プロセスを再現する投資検討支援AIを共同開発",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
@@ -206,6 +195,72 @@
       "score": 28
     },
     {
+      "title": "マウス、AMD Ryzen AI Max+ 395搭載の小型デスクトップ「DAIV CX」を発売",
+      "link": "https://ascii.jp/elem/000/004/428/4428665/?rss",
+      "date": "2026-08-24T11:00:00+09:00",
+      "dateLabel": "08/24 11:00",
+      "desc": "マウスコンピューターがローカルAI対応の小型デスクトップPC「DAIV CX」を発売。AMD Ryzen AI Max+ 395、128GBユニファイドメモリを搭載し、画像生成や動画編集、3DCG制作、ソフトウェア開発など高負荷なクリエイティブ用途に対応します。",
+      "img": "https://ascii.jp/img/2026/08/24/4516113/s/fe5748cdca882e0e.png",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 26
+    },
+    {
+      "title": "AI業務活用力を身につける資格『AI業務支援士』養成研修の受講者アンケート結果を公表 ―修了者の8割以上が業務効率化を実感。40・50代のリスキリングに活用―",
+      "link": "https://ascii.jp/elem/000/004/428/4428697/?rss",
+      "date": "2026-08-24T10:00:00+09:00",
+      "dateLabel": "08/24 10:00",
+      "desc": "AI業務活用力を身につける資格『AI業務支援士』養成研修の受講者アンケート結果を公表 ―修了者の8割以上が業務効率化を実感。40・50代のリスキリングに活用―",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "【AI資料作成の実態調査】AI搭載スライド自動生成サービス「イルシル」、資料の4件に1件は始業前や終業後に作られている ― 昼休みだけ作成が約4割減",
+      "link": "https://ascii.jp/elem/000/004/428/4428694/?rss",
+      "date": "2026-08-24T10:00:00+09:00",
+      "dateLabel": "08/24 10:00",
+      "desc": "【AI資料作成の実態調査】AI搭載スライド自動生成サービス「イルシル」、資料の4件に1件は始業前や終業後に作られている ― 昼休みだけ作成が約4割減",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "【日本初※】デジタルエージェンシーUTATA、AI検索最適化（GEO/AIO対策）プラットフォーム「OtterlyAI」と代理店パートナーシップを締結",
+      "link": "https://ascii.jp/elem/000/004/428/4428693/?rss",
+      "date": "2026-08-24T10:00:00+09:00",
+      "dateLabel": "08/24 10:00",
+      "desc": "【日本初※】デジタルエージェンシーUTATA、AI検索最適化（GEO/AIO対策）プラットフォーム「OtterlyAI」と代理店パートナーシップを締結",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "ロボットタクシーのムービーズ、令和8年度 ISICO「成長戦略ファンド」に採択",
+      "link": "https://ascii.jp/elem/000/004/428/4428689/?rss",
+      "date": "2026-08-24T10:00:00+09:00",
+      "dateLabel": "08/24 10:00",
+      "desc": "ロボットタクシーのムービーズ、令和8年度 ISICO「成長戦略ファンド」に採択",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
+      "title": "仙台市主催 事業化支援プログラム「SENDAI Startup Studio Launch Program（SSLP）」の下期募集を開始",
+      "link": "https://ascii.jp/elem/000/004/428/4428713/?rss",
+      "date": "2026-08-24T09:00:00+09:00",
+      "dateLabel": "08/24 09:00",
+      "desc": "仙台市主催 事業化支援プログラム「SENDAI Startup Studio Launch Program（SSLP）」の下期募集を開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "「非エンジニアに役立つかで価値が決まる」 たった1時間で開発したツール、なぜGitHub史上最速で伸びた？",
       "link": "https://www.itmedia.co.jp/enterprise/articles/2608/24/news010.html",
       "date": "2026-08-24T08:00:00+09:00",
@@ -225,61 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "PC価格高騰で4割の企業が「調達を延期」／“謎のExcelマクロ”は業務継続リスク／日本のデジタル行政、利用率・満足度とも最低レベル、ほか",
-      "link": "https://ascii.jp/elem/000/004/428/4428654/?rss",
-      "date": "2026-08-24T08:00:00+09:00",
-      "dateLabel": "08/24 08:00",
-      "desc": "今回（2026年8月15日～8月21日）は、業務用PCの価格高騰の実態と調達業務での対応戦略、テクノロジーよりも「人」が重視されるようになった企業のワークプレース変革、誰が作ったか分からない“謎のExcelマクロ”がもたらす業務継続リスク、日本は低水準にとどまるデジタル行政サービスの利用と満足度、購買行動における消費者の生成AI活用についてのデータを紹介しま",
-      "img": "https://ascii.jp/img/2026/08/23/4516064/s/07046bcb0c4517be.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
-      "title": "画像がAI生成かどうかを判別して出どころを調べるGoogleのAIツール「Backstory」はメディアのファクトチェックを迅速化している",
-      "link": "https://gigazine.net/news/20260824-googles-backstory-ai-generated-detection/",
-      "date": "2026-08-24T08:00:00+09:00",
-      "dateLabel": "08/24 08:00",
-      "desc": "Google DeepMindは2025年、画像とテキストによる説明文を与えると画像がAI生成かどうかを判別し、これまでにどのような文脈で使われた画像なのかを調べるAIツール「Backstory」を発表しました。このBackstoryがメディアのファクトチェックを迅速化していると、ハーバード大学のジャーナリズム機関であるNieman Journalism L",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "人類はなぜ宇宙を目指すのか？ 揺らぐ宇宙飛行士の役割",
-      "link": "https://ascii.jp/elem/000/004/428/4428659/?rss",
-      "date": "2026-08-24T06:57:33+09:00",
-      "dateLabel": "08/24 06:57",
-      "desc": "2026年4月、アルテミスIIの宇宙飛行士4人が月を周回し、人類が地球から最も遠くまで到達した記録を塗り替えた。米中は月の南極に基地を競い、民間企業は宇宙観光へ乗り出す。だが、最も本質的な問いは残ったままだ。危険で費用もかさみ、ロボットで足りるかもしれないのに、人はなぜ宇宙へ行くのか？",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "「親友」だったロボット、 その死が突きつけるもの",
-      "link": "https://ascii.jp/elem/000/004/428/4428660/?rss",
-      "date": "2026-08-24T06:46:48+09:00",
-      "dateLabel": "08/24 06:46",
-      "desc": "神経発達障害のある子どもの遊び友だちとして売られるAIロボット「モキシー」は、アイコンタクトや会話の練習を助け、支援ツールとして期待を集めてきた。だが2024年、開発企業が事業を終了し、ロボットは動作を停止した。愛されるよう設計された機械が消えるとき、脆弱な子どもたちに何が残るのか。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "ロボットの費用対効果が3年以内に人手を上回る――インテルが調査結果から洞察",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2608/24/news061.html",
-      "date": "2026-08-24T06:30:00+09:00",
-      "dateLabel": "08/24 06:30",
-      "desc": "インテルがロボティクス導入に関する調査結果を発表。同調査では60％が5年以内に自社で多数のロボットを運用すると予想し、67％が2030年までに人間とロボットが協働する労働力の管理体制が整うと回答した一方で、人間とロボットの協働に関する正式な戦略を策定している組織が40％にとどまるなどギャップが存在することが明らかになった。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI実装",
       "score": 26
     }
   ]
