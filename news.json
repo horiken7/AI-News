@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-24T12:44:37.661202+09:00",
-  "generatedLabel": "2026/08/24 12:44",
+  "generatedAt": "2026-08-24T13:35:19.168326+09:00",
+  "generatedLabel": "2026/08/24 13:35",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 59,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -83,6 +83,39 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 44
+    },
+    {
+      "title": "ChatGPT、Gemini、Claude Sonnet 5の“最強”は？ 「速度」と「安定性」を実測して比べてみた",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/24/news049.html",
+      "date": "2026-08-24T13:00:00+09:00",
+      "dateLabel": "08/24 13:00",
+      "desc": "主要なAIチャットサービスの「ChatGPT」「Gemini」「Claude Sonnet 5」の中で、応答速度が一番速いのはどれなのか。時間帯によって速度は変わるのか。測定値はどれだけ安定しているのか。実測を基に検証する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "「Claude Mythos 5」の提供範囲が拡大、直接プロンプトを入力できない仕組みで悪用リスクを抑制し「Claude Security」で利用可能に＆外部サービスにも提供へ",
+      "link": "https://gigazine.net/news/20260824-claude-mythos-5-defence/",
+      "date": "2026-08-24T12:44:00+09:00",
+      "dateLabel": "08/24 12:44",
+      "desc": "AI企業のAnthropicが、サイバーセキュリティ分野で高い能力を持つAIモデル「Claude Mythos 5」をセキュリティ製品「Claude Security」で利用可能になったと発表しました。これまでは攻撃への悪用リスクが懸念されて利用が制限されていたものの、Mythos 5を裏側で決められた処理だけに使用する形式にし、脆弱(ぜいじゃく)性の修正案",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "「LLMOチェキ」、専門知識ゼロでも分析結果が読める「やさしい表示モード」を提供開始",
+      "link": "https://ascii.jp/elem/000/004/428/4428794/?rss",
+      "date": "2026-08-24T11:30:00+09:00",
+      "dateLabel": "08/24 11:30",
+      "desc": "「LLMOチェキ」、専門知識ゼロでも分析結果が読める「やさしい表示モード」を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "PowerColor、Radeon RX 9050搭載「RX9050 8G-A」を発売 約5.3万円のコンパクトGPU",
@@ -140,14 +173,25 @@
       "score": 42
     },
     {
-      "title": "DomoAI、AI動画生成機能Omni Referenceをアップデート",
-      "link": "https://ascii.jp/elem/000/004/428/4428735/?rss",
-      "date": "2026-08-24T11:00:00+09:00",
-      "dateLabel": "08/24 11:00",
-      "desc": "DomoAI、AI動画生成機能Omni Referenceをアップデート",
+      "title": "AIエージェント時代のプラットフォームを問い直す。「Platform Engineering Kaigi 2026」を9月26日(土)に開催",
+      "link": "https://ascii.jp/elem/000/004/428/4428795/?rss",
+      "date": "2026-08-24T11:23:55+09:00",
+      "dateLabel": "08/24 11:23",
+      "desc": "AIエージェント時代のプラットフォームを問い直す。「Platform Engineering Kaigi 2026」を9月26日(土)に開催",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "【事例紹介】atama plus株式会社の開発組織におけるAI投資対効果を可視化。AI駆動開発プラットフォーム「supateam」導入事例",
+      "link": "https://ascii.jp/elem/000/004/428/4428789/?rss",
+      "date": "2026-08-24T11:20:00+09:00",
+      "dateLabel": "08/24 11:20",
+      "desc": "【事例紹介】atama plus株式会社の開発組織におけるAI投資対効果を可視化。AI駆動開発プラットフォーム「supateam」導入事例",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 34
     },
     {
@@ -173,15 +217,15 @@
       "score": 28
     },
     {
-      "title": "macOS版ChatGPT、Appleの「メッセージ」と連携 会話検索や下書き、送信に対応",
-      "link": "https://www.itmedia.co.jp/news/article/2608/21/2000000669/",
-      "date": "2026-08-21T09:22:19+09:00",
-      "dateLabel": "08/21 09:22",
-      "desc": "OpenAIは、macOS版ChatGPT向けにAppleの「メッセージ」アプリと連携するプラグインを公開した。CodexやChatGPT Workのチャット上で過去の会話検索や下書き作成、送信が可能になる。誤送信防止のため都度承認フローを備える。Appleシリコン搭載Mac向けだ。",
+      "title": "生成AIの品質を“AIで測る”――「LLM as a Judge」を機能させる3つの要素",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/24/news048.html",
+      "date": "2026-08-24T13:00:00+09:00",
+      "dateLabel": "08/24 13:00",
+      "desc": "AIの出力を別のAIが評価する手法「LLM as a Judge」。その基礎をdotDataがブログで解説した。AIにAIを評価させながら、その品質を確保するにはどのような手法が有効なのか。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 28
+      "score": 26
     },
     {
       "title": "Sakana AI、防衛省の「情報分析」をAIで支援 自衛隊の指揮統制システム高度化に続き",
@@ -191,6 +235,28 @@
       "desc": "Sakana AIは、防衛省における情報の分析業務を支援するAIの開発に関する契約を締結したと発表した。",
       "img": "",
       "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "茨城県教育委員会、対話型AI面接サービス「エンPeopleX AI面接」を導入",
+      "link": "https://ascii.jp/elem/000/004/428/4428787/?rss",
+      "date": "2026-08-24T12:00:00+09:00",
+      "dateLabel": "08/24 12:00",
+      "desc": "茨城県教育委員会、対話型AI面接サービス「エンPeopleX AI面接」を導入",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "伊藤邦雄氏、安野貴博氏らをゲストに迎える“サステナビリティ×AI”ビジネスカンファレンス「The Zeroboard Day 2026」を10月15日に開催",
+      "link": "https://ascii.jp/elem/000/004/428/4428785/?rss",
+      "date": "2026-08-24T12:00:00+09:00",
+      "dateLabel": "08/24 12:00",
+      "desc": "伊藤邦雄氏、安野貴博氏らをゲストに迎える“サステナビリティ×AI”ビジネスカンファレンス「The Zeroboard Day 2026」を10月15日に開催",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
@@ -206,80 +272,14 @@
       "score": 26
     },
     {
-      "title": "大企業導入も順調なkintone AI時代の“市民開発×ガバナンス”基盤を目指す",
-      "link": "https://ascii.jp/elem/000/004/428/4428657/?rss",
-      "date": "2026-08-24T11:30:00+09:00",
-      "dateLabel": "08/24 11:30",
-      "desc": "契約企業数が4万社を突破し、幅広い業種で導入が進むサイボウズの「kintone」。現在同社は、従業員数1000名を超える“エンタープライズ市場”への展開を推進している。",
-      "img": "https://ascii.jp/img/2026/08/23/4516080/s/d38edcab3bb93f0e.jpg",
+      "title": "製造業の品質不具合をAIで未然防止へ。JINGS代表・三上春香が8月28日開催「現場改革＆DX推進ウェビナー」に登壇",
+      "link": "https://ascii.jp/elem/000/004/428/4428792/?rss",
+      "date": "2026-08-24T11:34:22+09:00",
+      "dateLabel": "08/24 11:34",
+      "desc": "製造業の品質不具合をAIで未然防止へ。JINGS代表・三上春香が8月28日開催「現場改革＆DX推進ウェビナー」に登壇",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "規制/安全",
-      "score": 26
-    },
-    {
-      "title": "マウス、AMD Ryzen AI Max+ 395搭載の小型デスクトップ「DAIV CX」を発売",
-      "link": "https://ascii.jp/elem/000/004/428/4428665/?rss",
-      "date": "2026-08-24T11:00:00+09:00",
-      "dateLabel": "08/24 11:00",
-      "desc": "マウスコンピューターがローカルAI対応の小型デスクトップPC「DAIV CX」を発売。AMD Ryzen AI Max+ 395、128GBユニファイドメモリを搭載し、画像生成や動画編集、3DCG制作、ソフトウェア開発など高負荷なクリエイティブ用途に対応します。",
-      "img": "https://ascii.jp/img/2026/08/24/4516113/s/fe5748cdca882e0e.png",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
-      "title": "「非エンジニアに役立つかで価値が決まる」 たった1時間で開発したツール、なぜGitHub史上最速で伸びた？",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2608/24/news010.html",
-      "date": "2026-08-24T08:00:00+09:00",
-      "dateLabel": "08/24 08:00",
-      "desc": "WhatsAppからAIエージェントに指示を出す――。個人の趣味から始まったツールは今、Microsoftの製品基盤にまで使われている。「OpenClaw」開発者がSnowflakeのイベントで語った、コーディングエージェントとの向き合い方をまとめた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "日本企業のAI投資「成果あり」はわずか13％ アクセンチュアが指摘する“人任せ”の限界",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/24/news047.html",
-      "date": "2026-08-24T08:00:00+09:00",
-      "dateLabel": "08/24 08:00",
-      "desc": "アクセンチュアの調査によれば、日本企業の78％がAI投資拡大に意欲を示す一方、全社的な成果を実感する企業は13％にとどまり、世界平均を大きく下回っている。何が足りていないのか。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "画像がAI生成かどうかを判別して出どころを調べるGoogleのAIツール「Backstory」はメディアのファクトチェックを迅速化している",
-      "link": "https://gigazine.net/news/20260824-googles-backstory-ai-generated-detection/",
-      "date": "2026-08-24T08:00:00+09:00",
-      "dateLabel": "08/24 08:00",
-      "desc": "Google DeepMindは2025年、画像とテキストによる説明文を与えると画像がAI生成かどうかを判別し、これまでにどのような文脈で使われた画像なのかを調べるAIツール「Backstory」を発表しました。このBackstoryがメディアのファクトチェックを迅速化していると、ハーバード大学のジャーナリズム機関であるNieman Journalism L",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "ロボットの費用対効果が3年以内に人手を上回る――インテルが調査結果から洞察",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2608/24/news061.html",
-      "date": "2026-08-24T06:30:00+09:00",
-      "dateLabel": "08/24 06:30",
-      "desc": "インテルがロボティクス導入に関する調査結果を発表。同調査では60％が5年以内に自社で多数のロボットを運用すると予想し、67％が2030年までに人間とロボットが協働する労働力の管理体制が整うと回答した一方で、人間とロボットの協働に関する正式な戦略を策定している組織が40％にとどまるなどギャップが存在することが明らかになった。",
-      "img": "",
-      "src": "ITmedia AI+",
       "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "AIエージェントで仕事はどう変わる？任せられる仕事と人に残る仕事",
-      "link": "https://ainow.ai/2026/08/24/278322/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e4%25bb%2595%25e4%25ba%258b%25e3%2581%25af%25e3%2581%25a9%25e3%2581%2586%25e5%25a4%2589%25e3%2582%258f%25e3%2582%258b%25ef%25bc%259f%25e4%25bb%25bb%25e3%2581%259b%25e3%2582%2589%25e3%2582%258c%25e3%2582%258b%25e4%25bb%2595",
-      "date": "2026-08-24T01:03:25+09:00",
-      "dateLabel": "08/24 01:03",
-      "desc": "AIエージェントに仕事を任せられると聞いても、自分の業務のどこが置き換わるのか想像できず、生成AIで下書きを作る使い方から抜け出せていない人は少なくありません。 AIエージェントとは、目標を渡すと計画の立案から実行、結果... The post AIエージェントで仕事はどう変わる？任せられる仕事と人に残る仕事 first appeared on AI専門ニュ",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
