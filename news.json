@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-24T19:27:34.050742+09:00",
-  "generatedLabel": "2026/08/24 19:27",
+  "generatedAt": "2026-08-24T20:18:17.307436+09:00",
+  "generatedLabel": "2026/08/24 20:18",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 60,
+  "candidates": 61,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 9
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -239,44 +239,44 @@
       "score": 34
     },
     {
+      "title": "M5 MacBook Airが4万円以上安い。1TBモデルがAmazonで23万円台に",
+      "link": "https://ascii.jp/elem/000/004/428/4428848/?rss",
+      "date": "2026-08-24T20:00:00+09:00",
+      "dateLabel": "08/24 20:00",
+      "desc": "Appleの13インチ「MacBook Air」M5チップ搭載モデルがAmazonでタイムセール対象。参考価格278,800円から15％オフの236,980円で販売中。16GBメモリと1TB SSDを備えたモデルが、4万円以上安く手に入るセールだ。",
+      "img": "https://ascii.jp/img/2026/08/24/4516303/s/84def889ebb54f7b.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "秋の新作ラッシュに備えよう。Switch 2専用の1TB搭載microSDカードがタイムセール中！",
+      "link": "https://ascii.jp/elem/000/004/428/4428871/?rss",
+      "date": "2026-08-24T19:30:00+09:00",
+      "dateLabel": "08/24 19:30",
+      "desc": "Amazon.co.jpにて、NextorageのNintendo Switch 2用microSD Expressメモリーカード「Gシリーズ EX 1TB」が販売中だ。参考価格は4万3610円だが、タイムセールにより8％オフの3万9980円で購入できる（8月24日時点）。",
+      "img": "https://ascii.jp/img/2026/08/24/4516361/s/896fc7cdff6ae93c.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "営業職求人28,704件を調査、東京都12,741件が件数上位3都府県を除く44県の合計10,979件を上回る｜AIアポろうくん",
+      "link": "https://ascii.jp/elem/000/004/428/4428948/?rss",
+      "date": "2026-08-24T18:58:42+09:00",
+      "dateLabel": "08/24 18:58",
+      "desc": "営業職求人28,704件を調査、東京都12,741件が件数上位3都府県を除く44県の合計10,979件を上回る｜AIアポろうくん",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "『Le Ciel Bleu Clair～ル・シエル・ブルー・クレール～』幻想的な期間限定アバターBOX「アイリスBOX」が登場！精錬をサポートするアイテムも同時販売",
       "link": "https://ascii.jp/elem/000/004/428/4428939/?rss",
       "date": "2026-08-24T18:30:00+09:00",
       "dateLabel": "08/24 18:30",
       "desc": "『Le Ciel Bleu Clair～ル・シエル・ブルー・クレール～』幻想的な期間限定アバターBOX「アイリスBOX」が登場！精錬をサポートするアイテムも同時販売",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "大企業向けRAG「ChatSense」、最大1GBの巨大ファイルもAI学習可能に",
-      "link": "https://ascii.jp/elem/000/004/428/4428942/?rss",
-      "date": "2026-08-24T18:03:44+09:00",
-      "dateLabel": "08/24 18:03",
-      "desc": "大企業向けRAG「ChatSense」、最大1GBの巨大ファイルもAI学習可能に",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "熱が出たら「AIに相談する」が増える中、医師が指摘する“AIセルフ診断”の注意点とは？",
-      "link": "https://ascii.jp/elem/000/004/427/4427319/?rss",
-      "date": "2026-08-24T18:00:00+09:00",
-      "dateLabel": "08/24 18:00",
-      "desc": "塩野義製薬が実施した調査では、風邪の症状を感じたとき、最初の行動として「AIに相談する」と答えた人が31.5％に上り、「熱を測る」の22.3％を上回った。",
-      "img": "https://ascii.jp/img/2026/08/18/4513835/s/a0e0220a2207c457.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "【北海道・札幌市】「SBI MUSIC CIRCUS HOKKAIDO」北海道文化放送（UHB）＆ AIR-G'（エフエム北海道）公式メディアパートナー決定のお知らせ",
-      "link": "https://ascii.jp/elem/000/004/428/4428925/?rss",
-      "date": "2026-08-24T17:00:14+09:00",
-      "dateLabel": "08/24 17:00",
-      "desc": "【北海道・札幌市】「SBI MUSIC CIRCUS HOKKAIDO」北海道文化放送（UHB）＆ AIR-G'（エフエム北海道）公式メディアパートナー決定のお知らせ",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
