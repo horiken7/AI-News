@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T00:29:36.885185+09:00",
-  "generatedLabel": "2026/08/25 00:29",
+  "generatedAt": "2026-08-25T01:23:37.287138+09:00",
+  "generatedLabel": "2026/08/25 01:23",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 60,
@@ -85,17 +85,6 @@
       "score": 50
     },
     {
-      "title": "Visual Studio Code 1.133正式リリース。プロンプトを見失わない固定スクロール、ローカルHTMLファイルの自動リロード、ClaudeとCopilotの混在可能など新機能",
-      "link": "https://www.publickey1.jp/blog/26/visual_studio_code_1133htmlclaudecopilot.html",
-      "date": "2026-08-18T00:42:34+09:00",
-      "dateLabel": "08/18 00:42",
-      "desc": "マイクロソフトはオープンソースで開発されているコードエディタの最新版「Visual Studio Code 1.133」（以下、VS Code 1.133）の正式リリースを発表しました。 The latest @code release b...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 44
-    },
-    {
       "title": "AI分野では「オープンモデルがクローズドモデルに追いつく時間」が飛躍的に縮まっているとの指摘",
       "link": "https://gigazine.net/news/20260824-open-ai-models-catching-up/",
       "date": "2026-08-24T23:00:00+09:00",
@@ -151,26 +140,15 @@
       "score": 42
     },
     {
-      "title": "Rustに移植された「Bun 1.4」正式リリース。Node.jsとの互換性向上でPlaywrightやvitestが動作、CPUとメモリの使用率が大幅改善、正規表現が高速化など",
-      "link": "https://www.publickey1.jp/blog/26/rustbun_14nodejsplaywrightvitestcpu.html",
-      "date": "2026-08-24T00:58:41+09:00",
-      "dateLabel": "08/24 00:58",
-      "desc": "サーバサイドJavaScriptランタイムのBunの最新版となる「Bun 1.4」正式版のリリースが発表されました。 Bun 1.4は、これまでZig言語で開発されていたものをClaude Codeを使ってRustに書き直した最初のバージョ...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "Slack上の開発チームの会話をAIエージェントが把握してコーディング。ドキュメント作成もする「Slack Code」登場",
-      "link": "https://www.publickey1.jp/blog/26/slackaislack_code.html",
-      "date": "2026-08-24T00:52:28+09:00",
-      "dateLabel": "08/24 00:52",
-      "desc": "Salesforce傘下のSlack社は、同社のチャットサービス「Slack」の新機能として、開発チームの一員としてAIエージェントがチャットに加わり、それまでの開発チームの議論を把握してコーディングを行う「Slack Code」の提供開始...",
+      "title": "Visual Studio Code 1.133正式リリース。プロンプトを見失わない固定スクロール、ローカルHTMLファイルの自動リロード、ClaudeとCopilotの混在可能など新機能",
+      "link": "https://www.publickey1.jp/blog/26/visual_studio_code_1133htmlclaudecopilot.html",
+      "date": "2026-08-18T00:42:34+09:00",
+      "dateLabel": "08/18 00:42",
+      "desc": "マイクロソフトはオープンソースで開発されているコードエディタの最新版「Visual Studio Code 1.133」（以下、VS Code 1.133）の正式リリースを発表しました。 The latest @code release b...",
       "img": "",
       "src": "Publickey",
       "cat": "AIエージェント/業務",
-      "score": 42
+      "score": 40
     },
     {
       "title": "ソフトクリエイト、国内初「Secure AI Productivity」Specializationを取得 AI活用支援を強化",
@@ -202,6 +180,28 @@
       "desc": "AIアプリと外部のデータやツールを共通の方法で接続するオープン規格「Model Context Protocol(MCP)」が2026年8月22日に新たなロードマップを公開しました。ロードマップでは単純なツール呼び出しにとどまらず、長時間動作するAIエージェントの処理やエージェント自身の認証、大量のツールを効率よく扱う仕組みなどを今後6～12カ月の重点分野と",
       "img": "",
       "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "Rustに移植された「Bun 1.4」正式リリース。Node.jsとの互換性向上でPlaywrightやvitestが動作、CPUとメモリの使用率が大幅改善、正規表現が高速化など",
+      "link": "https://www.publickey1.jp/blog/26/rustbun_14nodejsplaywrightvitestcpu.html",
+      "date": "2026-08-24T00:58:41+09:00",
+      "dateLabel": "08/24 00:58",
+      "desc": "サーバサイドJavaScriptランタイムのBunの最新版となる「Bun 1.4」正式版のリリースが発表されました。 Bun 1.4は、これまでZig言語で開発されていたものをClaude Codeを使ってRustに書き直した最初のバージョ...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "Slack上の開発チームの会話をAIエージェントが把握してコーディング。ドキュメント作成もする「Slack Code」登場",
+      "link": "https://www.publickey1.jp/blog/26/slackaislack_code.html",
+      "date": "2026-08-24T00:52:28+09:00",
+      "dateLabel": "08/24 00:52",
+      "desc": "Salesforce傘下のSlack社は、同社のチャットサービス「Slack」の新機能として、開発チームの一員としてAIエージェントがチャットに加わり、それまでの開発チームの議論を把握してコーディングを行う「Slack Code」の提供開始...",
+      "img": "",
+      "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 34
     },
