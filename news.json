@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-24T18:36:27.686335+09:00",
-  "generatedLabel": "2026/08/24 18:36",
+  "generatedAt": "2026-08-24T19:27:34.050742+09:00",
+  "generatedLabel": "2026/08/24 19:27",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 60,
@@ -206,6 +206,17 @@
       "score": 34
     },
     {
+      "title": "90日で「現場だけで回る」まで。不動産業界向け無料レポート『ある不動産会社がAIを組み込むまで 90日間のリアル』を公開",
+      "link": "https://ascii.jp/elem/000/004/428/4428943/?rss",
+      "date": "2026-08-24T17:54:24+09:00",
+      "dateLabel": "08/24 17:54",
+      "desc": "90日で「現場だけで回る」まで。不動産業界向け無料レポート『ある不動産会社がAIを組み込むまで 90日間のリアル』を公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "MCPが新ロードマップを公開、長時間処理やAIエージェント認証など5分野を重点化",
       "link": "https://gigazine.net/news/20260824-mcp-roadmap/",
       "date": "2026-08-24T14:20:00+09:00",
@@ -228,6 +239,28 @@
       "score": 34
     },
     {
+      "title": "『Le Ciel Bleu Clair～ル・シエル・ブルー・クレール～』幻想的な期間限定アバターBOX「アイリスBOX」が登場！精錬をサポートするアイテムも同時販売",
+      "link": "https://ascii.jp/elem/000/004/428/4428939/?rss",
+      "date": "2026-08-24T18:30:00+09:00",
+      "dateLabel": "08/24 18:30",
+      "desc": "『Le Ciel Bleu Clair～ル・シエル・ブルー・クレール～』幻想的な期間限定アバターBOX「アイリスBOX」が登場！精錬をサポートするアイテムも同時販売",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "大企業向けRAG「ChatSense」、最大1GBの巨大ファイルもAI学習可能に",
+      "link": "https://ascii.jp/elem/000/004/428/4428942/?rss",
+      "date": "2026-08-24T18:03:44+09:00",
+      "dateLabel": "08/24 18:03",
+      "desc": "大企業向けRAG「ChatSense」、最大1GBの巨大ファイルもAI学習可能に",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "熱が出たら「AIに相談する」が増える中、医師が指摘する“AIセルフ診断”の注意点とは？",
       "link": "https://ascii.jp/elem/000/004/427/4427319/?rss",
       "date": "2026-08-24T18:00:00+09:00",
@@ -244,39 +277,6 @@
       "date": "2026-08-24T17:00:14+09:00",
       "dateLabel": "08/24 17:00",
       "desc": "【北海道・札幌市】「SBI MUSIC CIRCUS HOKKAIDO」北海道文化放送（UHB）＆ AIR-G'（エフエム北海道）公式メディアパートナー決定のお知らせ",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "1kg切りで毎日持ち歩きやすい！ Ryzen AI 5搭載のHPノートが約15万円",
-      "link": "https://ascii.jp/elem/000/004/428/4428874/?rss",
-      "date": "2026-08-24T17:00:00+09:00",
-      "dateLabel": "08/24 17:00",
-      "desc": "Amazon.co.jpにて、HPの13.3型モバイルノートPC「OmniBook7 Aero 13-bg」が12％オフセールを実施中。Ryzen AI 5 340／メモリ16GB／SSD 512GBモデルで、14万9800円となります。",
-      "img": "https://ascii.jp/img/2026/08/24/4516371/s/11f561d82abba0af.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "NVIDIAが大手顧客に対してAI関連製品を15％以上値上げすると通知、「Vera Rubin」や「Grace Blackwell」などにも影響か",
-      "link": "https://gigazine.net/news/20260824-nvidia-price-hike-ai-related-products/",
-      "date": "2026-08-24T16:48:00+09:00",
-      "dateLabel": "08/24 16:48",
-      "desc": "NVIDIAが一部の顧客に対して、「Vera Rubin」や「Grace Blackwell」を含むAIチップ搭載サーバーの価格を15％以上引き上げると通知したことがわかりました。2027年出荷分から値上げ後の価格が適用される見通しです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "【9/9 14:00開催】AI時代の広報効果測定へ。株式会社トドオナダ、「AIの記憶を測る」実践セミナーを開催",
-      "link": "https://ascii.jp/elem/000/004/428/4428903/?rss",
-      "date": "2026-08-24T16:40:00+09:00",
-      "dateLabel": "08/24 16:40",
-      "desc": "【9/9 14:00開催】AI時代の広報効果測定へ。株式会社トドオナダ、「AIの記憶を測る」実践セミナーを開催",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
