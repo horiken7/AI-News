@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-24T15:36:11.097635+09:00",
-  "generatedLabel": "2026/08/24 15:36",
+  "generatedAt": "2026-08-24T16:49:54.548833+09:00",
+  "generatedLabel": "2026/08/24 16:49",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 57,
+  "candidates": 60,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 16
     },
     {
       "source": "CNET Japan",
@@ -93,6 +93,17 @@
       "img": "https://ascii.jp/img/2026/08/24/4516228/s/ec134713e41aa6ca.jpg",
       "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "企業向けAIサービス「ZEROCK」、図面と論文を扱う2つの新機能を提供開始",
+      "link": "https://ascii.jp/elem/000/004/428/4428881/?rss",
+      "date": "2026-08-24T14:00:00+09:00",
+      "dateLabel": "08/24 14:00",
+      "desc": "企業向けAIサービス「ZEROCK」、図面と論文を扱う2つの新機能を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 42
     },
     {
@@ -195,6 +206,17 @@
       "score": 34
     },
     {
+      "title": "オラクル、タレント・マネジメントの向上を支援する新しいFusion Agentic ApplicationsとAIエージェントを追加",
+      "link": "https://ascii.jp/elem/000/004/428/4428891/?rss",
+      "date": "2026-08-24T14:00:00+09:00",
+      "dateLabel": "08/24 14:00",
+      "desc": "オラクル、タレント・マネジメントの向上を支援する新しいFusion Agentic ApplicationsとAIエージェントを追加",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
       "title": "Anthropic、「ミュトス 5」を脆弱性スキャンに開放──「Claude Security」経由でEnterprise顧客が利用可能に",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/22/2000000697/",
       "date": "2026-08-22T07:09:30+09:00",
@@ -204,6 +226,39 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
+    },
+    {
+      "title": "NVIDIAが大手顧客に対してAI関連製品を15％以上値上げすると通知、「Vera Rubin」や「Grace Blackwell」などにも影響か",
+      "link": "https://gigazine.net/news/20260824-nvidia-price-hike-ai-related-products/",
+      "date": "2026-08-24T16:48:00+09:00",
+      "dateLabel": "08/24 16:48",
+      "desc": "NVIDIAが一部の顧客に対して、「Vera Rubin」や「Grace Blackwell」を含むAIチップ搭載サーバーの価格を15％以上引き上げると通知したことがわかりました。2027年出荷分から値上げ後の価格が適用される見通しです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "Google DeepMindが「EVE Online」でAI研究、20年以上続く仮想宇宙を「知能を映す鏡」として活用へ",
+      "link": "https://gigazine.net/news/20260824-google-deepmind-eve-online-ai/",
+      "date": "2026-08-24T16:15:00+09:00",
+      "dateLabel": "08/24 16:15",
+      "desc": "Google DeepMindが宇宙MMORPG「EVE Online」の開発元であるFenris Creationsと進めている研究提携について、EVEシリーズをAI研究に活用する具体的な取り組みを明らかにしました。20年以上にわたってプレイヤーが経済や戦争、外交を作り上げてきたEVE Onlineの世界を使い、AIが長期間にわたって学習・記憶・計画しなが",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "iPhone、AirPods、Apple Watchを3台同時充電できる！ Ankerの折り畳みワイヤレス充電器が27％オフ",
+      "link": "https://ascii.jp/elem/000/004/428/4428723/?rss",
+      "date": "2026-08-24T16:00:00+09:00",
+      "dateLabel": "08/24 16:00",
+      "desc": "Ankerの3-in-1ワイヤレス充電器「MagGo Wireless Charging Station」がAmazonでタイムセール対象。参考価格14,990円から10,990円で販売中。Qi2対応で最大15W、3台同時充電に対応する。折りたたんで持ち運べるのもポイントだ。",
+      "img": "https://ascii.jp/img/2026/08/24/4516186/s/35c8e473c8d9c193.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     },
     {
       "title": "AI開発の新たなボトルネックは「ガスタービン不足」",
@@ -217,69 +272,14 @@
       "score": 26
     },
     {
-      "title": "高校生同士が学び合う探究ワークショップ。青楓館高等学院の生徒が、AI活用の経験を活かし神戸市立高校生の探究活動を支援",
-      "link": "https://ascii.jp/elem/000/004/428/4428861/?rss",
-      "date": "2026-08-24T14:00:00+09:00",
-      "dateLabel": "08/24 14:00",
-      "desc": "高校生同士が学び合う探究ワークショップ。青楓館高等学院の生徒が、AI活用の経験を活かし神戸市立高校生の探究活動を支援",
+      "title": "ビットランド、AI自律型プロダクト「Ownr（オーナー）」の事前登録を開始",
+      "link": "https://ascii.jp/elem/000/004/428/4428880/?rss",
+      "date": "2026-08-24T14:16:39+09:00",
+      "dateLabel": "08/24 14:16",
+      "desc": "ビットランド、AI自律型プロダクト「Ownr（オーナー）」の事前登録を開始",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "【AIで、勝つ。経営を、変える。】MIG総研、経営者限定「AIBXエグゼクティブセミナー」を開催",
-      "link": "https://ascii.jp/elem/000/004/428/4428824/?rss",
-      "date": "2026-08-24T13:22:00+09:00",
-      "dateLabel": "08/24 13:22",
-      "desc": "【AIで、勝つ。経営を、変える。】MIG総研、経営者限定「AIBXエグゼクティブセミナー」を開催",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "生成AIの品質を“AIで測る”――「LLM as a Judge」を機能させる3つの要素",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/24/news048.html",
-      "date": "2026-08-24T13:00:00+09:00",
-      "dateLabel": "08/24 13:00",
-      "desc": "AIの出力を別のAIが評価する手法「LLM as a Judge」。その基礎をdotDataがブログで解説した。AIにAIを評価させながら、その品質を確保するにはどのような手法が有効なのか。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "【導入事例】七十七銀行が「CYBERMAIL Σ」導入により メールシステムのセキュリティ強化と利便性向上を推進",
-      "link": "https://ascii.jp/elem/000/004/428/4428832/?rss",
-      "date": "2026-08-24T13:00:00+09:00",
-      "dateLabel": "08/24 13:00",
-      "desc": "【導入事例】七十七銀行が「CYBERMAIL Σ」導入により メールシステムのセキュリティ強化と利便性向上を推進",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "Sakana AI、防衛省の「情報分析」をAIで支援 自衛隊の指揮統制システム高度化に続き",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000711/",
-      "date": "2026-08-24T12:17:22+09:00",
-      "dateLabel": "08/24 12:17",
-      "desc": "Sakana AIは、防衛省における情報の分析業務を支援するAIの開発に関する契約を締結したと発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "TwitchとAmazonがストリーマーのコンテンツをAIに学習させたとして訴えられる",
-      "link": "https://gigazine.net/news/20260824-twitch-sued-streamer-ai-training/",
-      "date": "2026-08-24T11:54:00+09:00",
-      "dateLabel": "08/24 11:54",
-      "desc": "ライブ配信サービスのTwitchと、その親会社であるAmazonに対し、配信者のウォーレン・パンディシア氏が集団訴訟を起こしました。パンディシア氏は自身の動画が勝手にAIのトレーニングに使われたことを問題視しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
       "score": 26
     }
   ]
