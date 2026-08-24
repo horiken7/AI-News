@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-24T21:26:07.264054+09:00",
-  "generatedLabel": "2026/08/24 21:26",
+  "generatedAt": "2026-08-24T22:41:53.202779+09:00",
+  "generatedLabel": "2026/08/24 22:41",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 61,
+  "candidates": 60,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 10
+      "items": 9
     },
     {
       "source": "AINOW",
@@ -162,17 +162,6 @@
       "score": 42
     },
     {
-      "title": "オープンモデルの「Gemma 4 31B」がタスクによっては「Claude Sonnet 5」と同じ品質を40分の1のコストで実現可能",
-      "link": "https://gigazine.net/news/20260823-gemma-4-benchmark/",
-      "date": "2026-08-23T22:05:00+09:00",
-      "dateLabel": "08/23 22:05",
-      "desc": "次々に新たなAIモデルが登場してベンチマークスコアの最高記録を更新し続けていますが、タスクによってはそれほど高性能なAIでなくとも十分な場合が多々あります。AIを活用した文書管理サービスを開発するAlphaSenseは、「財務に関するタスクにおいて、オープンモデルのGemma 4 31BがClaude Sonnet 5と同等の性能を発揮する」というテスト結果",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "ソフトクリエイト、国内初「Secure AI Productivity」Specializationを取得 AI活用支援を強化",
       "link": "https://ascii.jp/elem/000/004/428/4428852/?rss",
       "date": "2026-08-24T18:15:00+09:00",
@@ -217,6 +206,17 @@
       "score": 34
     },
     {
+      "title": "オープンモデルの「Gemma 4 31B」がタスクによっては「Claude Sonnet 5」と同じ品質を40分の1のコストで実現可能",
+      "link": "https://gigazine.net/news/20260823-gemma-4-benchmark/",
+      "date": "2026-08-23T22:05:00+09:00",
+      "dateLabel": "08/23 22:05",
+      "desc": "次々に新たなAIモデルが登場してベンチマークスコアの最高記録を更新し続けていますが、タスクによってはそれほど高性能なAIでなくとも十分な場合が多々あります。AIを活用した文書管理サービスを開発するAlphaSenseは、「財務に関するタスクにおいて、オープンモデルのGemma 4 31BがClaude Sonnet 5と同等の性能を発揮する」というテスト結果",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "Anthropic、「ミュトス 5」を脆弱性スキャンに開放──「Claude Security」経由でEnterprise顧客が利用可能に",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/22/2000000697/",
       "date": "2026-08-22T07:09:30+09:00",
@@ -226,6 +226,17 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
+    },
+    {
+      "title": "謎のAI「Ox Alpha」が出現し無料テスト中、コンテキストウィンドウは100万トークンで1日数兆トークンを処理できる匿名ラボがAPIを提供",
+      "link": "https://gigazine.net/news/20260824-ox-alpha/",
+      "date": "2026-08-24T22:00:00+09:00",
+      "dateLabel": "08/24 22:00",
+      "desc": "OpenRouterやOpenCodeが謎の匿名AI「Ox Alpha」の無料テストを実施しています。Ox Alphaの開発組織や詳細な仕様は不明で、複数のユーザーが性能検証結果を報告しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
     },
     {
       "title": "半導体関連の予備校が韓国で大盛況、SamsungとSK Hynixの記録的な業績と魅力的な従業員ボーナスが後押し",
@@ -266,17 +277,6 @@
       "date": "2026-08-24T18:58:42+09:00",
       "dateLabel": "08/24 18:58",
       "desc": "営業職求人28,704件を調査、東京都12,741件が件数上位3都府県を除く44県の合計10,979件を上回る｜AIアポろうくん",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "『Le Ciel Bleu Clair～ル・シエル・ブルー・クレール～』幻想的な期間限定アバターBOX「アイリスBOX」が登場！精錬をサポートするアイテムも同時販売",
-      "link": "https://ascii.jp/elem/000/004/428/4428939/?rss",
-      "date": "2026-08-24T18:30:00+09:00",
-      "dateLabel": "08/24 18:30",
-      "desc": "『Le Ciel Bleu Clair～ル・シエル・ブルー・クレール～』幻想的な期間限定アバターBOX「アイリスBOX」が登場！精錬をサポートするアイテムも同時販売",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
