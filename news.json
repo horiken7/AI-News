@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-24T20:18:17.307436+09:00",
-  "generatedLabel": "2026/08/24 20:18",
+  "generatedAt": "2026-08-24T21:26:07.264054+09:00",
+  "generatedLabel": "2026/08/24 21:26",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 61,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 9
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -206,17 +206,6 @@
       "score": 34
     },
     {
-      "title": "90日で「現場だけで回る」まで。不動産業界向け無料レポート『ある不動産会社がAIを組み込むまで 90日間のリアル』を公開",
-      "link": "https://ascii.jp/elem/000/004/428/4428943/?rss",
-      "date": "2026-08-24T17:54:24+09:00",
-      "dateLabel": "08/24 17:54",
-      "desc": "90日で「現場だけで回る」まで。不動産業界向け無料レポート『ある不動産会社がAIを組み込むまで 90日間のリアル』を公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "MCPが新ロードマップを公開、長時間処理やAIエージェント認証など5分野を重点化",
       "link": "https://gigazine.net/news/20260824-mcp-roadmap/",
       "date": "2026-08-24T14:20:00+09:00",
@@ -237,6 +226,17 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
+    },
+    {
+      "title": "半導体関連の予備校が韓国で大盛況、SamsungとSK Hynixの記録的な業績と魅力的な従業員ボーナスが後押し",
+      "link": "https://gigazine.net/news/20260824-chipmaking-cram-schools/",
+      "date": "2026-08-24T21:00:00+09:00",
+      "dateLabel": "08/24 21:00",
+      "desc": "世界最大級の半導体メーカーであるSamsungやSK Hynixが本拠を置く韓国で、半導体業界への就職を目指す若者向けの「半導体予備校」が大盛況となっています。そんな半導体予備校の内部について、イギリスの経済紙であるフィナンシャル・タイムズが報じています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 26
     },
     {
       "title": "M5 MacBook Airが4万円以上安い。1TBモデルがAmazonで23万円台に",
