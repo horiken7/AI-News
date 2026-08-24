@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T07:15:26.183958+09:00",
-  "generatedLabel": "2026/08/25 07:15",
+  "generatedAt": "2026-08-25T08:14:08.593813+09:00",
+  "generatedLabel": "2026/08/25 08:14",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 59,
@@ -62,6 +62,17 @@
     }
   ],
   "articles": [
+    {
+      "title": "NVIDIAのAIエージェント「AVO」がARC-AGI-3で100％を達成、同じベースモデルの別条件での評価は約30％で「実行基盤(ハーネス)」の重要性が示される",
+      "link": "https://gigazine.net/news/20260825-nvidia-avo/",
+      "date": "2026-08-25T08:00:00+09:00",
+      "dateLabel": "08/25 08:00",
+      "desc": "NVIDIAが開発するAIエージェントシステム「Agentic Variation Operators(AVO)」が、AIが未知の環境とやり取りしながら推論する能力を測るベンチマーク「ARC-AGI-3」の公開セットで100％のスコアを達成しました。ベースに使われたClaude Opus 5について、ARC-AGI-3を開発したARC Prizeが別条件のモ",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 66
+    },
     {
       "title": "週刊アスキー No.1610(2026年8月25日発行)",
       "link": "https://ascii.jp/elem/000/004/428/4428635/?rss",
@@ -228,6 +239,17 @@
       "score": 26
     },
     {
+      "title": "教材作成から生徒指導まで、教育現場でAIを賢く使うには？",
+      "link": "https://ascii.jp/elem/000/004/428/4428959/?rss",
+      "date": "2026-08-25T06:51:24+09:00",
+      "dateLabel": "08/25 06:51",
+      "desc": "教育現場でAIをどう使うべきか、多くの教師が戸惑っている。米コネチカット州の私立校チェシャー・アカデミーでは、教師が授業計画やルーブリックの作成にAIを使い、生徒には課題を「信号機」で色分けして使い分けを教えている。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "謎のAI「Ox Alpha」が出現し無料テスト中、コンテキストウィンドウは100万トークンで1日数兆トークンを処理できる匿名ラボがAPIを提供",
       "link": "https://gigazine.net/news/20260824-ox-alpha/",
       "date": "2026-08-24T22:00:00+09:00",
@@ -256,28 +278,6 @@
       "dateLabel": "08/24 20:00",
       "desc": "Appleの13インチ「MacBook Air」M5チップ搭載モデルがAmazonでタイムセール対象。参考価格278,800円から15％オフの236,980円で販売中。16GBメモリと1TB SSDを備えたモデルが、4万円以上安く手に入るセールだ。",
       "img": "https://ascii.jp/img/2026/08/24/4516303/s/84def889ebb54f7b.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "秋の新作ラッシュに備えよう。Switch 2専用の1TB搭載microSDカードがタイムセール中！",
-      "link": "https://ascii.jp/elem/000/004/428/4428871/?rss",
-      "date": "2026-08-24T19:30:00+09:00",
-      "dateLabel": "08/24 19:30",
-      "desc": "Amazon.co.jpにて、NextorageのNintendo Switch 2用microSD Expressメモリーカード「Gシリーズ EX 1TB」が販売中だ。参考価格は4万3610円だが、タイムセールにより8％オフの3万9980円で購入できる（8月24日時点）。",
-      "img": "https://ascii.jp/img/2026/08/24/4516361/s/896fc7cdff6ae93c.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "営業職求人28,704件を調査、東京都12,741件が件数上位3都府県を除く44県の合計10,979件を上回る｜AIアポろうくん",
-      "link": "https://ascii.jp/elem/000/004/428/4428948/?rss",
-      "date": "2026-08-24T18:58:42+09:00",
-      "dateLabel": "08/24 18:58",
-      "desc": "営業職求人28,704件を調査、東京都12,741件が件数上位3都府県を除く44県の合計10,979件を上回る｜AIアポろうくん",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
