@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-24T23:32:04.496127+09:00",
-  "generatedLabel": "2026/08/24 23:32",
+  "generatedAt": "2026-08-25T00:29:36.885185+09:00",
+  "generatedLabel": "2026/08/25 00:29",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 61,
+  "candidates": 60,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -62,6 +62,17 @@
     }
   ],
   "articles": [
+    {
+      "title": "週刊アスキー No.1610(2026年8月25日発行)",
+      "link": "https://ascii.jp/elem/000/004/428/4428635/?rss",
+      "date": "2026-08-25T00:00:00+09:00",
+      "dateLabel": "08/25 00:00",
+      "desc": "特集1はパーソナルAIエージェント「Gemini Spark」とは何かを解説。Googleのウェブアプリと連携して自動化できる便利機能とは？ 特集2はスマホやPCの標準機能になった文字認識の効果的な活用法。",
+      "img": "https://ascii.jp/img/2026/08/23/4516046/s/6a5bc6434aca1d38.png",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
     {
       "title": "プロ開発者の90％がAIコーディングエージェントを週1回以上利用、Claude CodeのシェアがGitHub Copilotを逆転して約2倍差の1位",
       "link": "https://gigazine.net/news/20260824-ai-coding-agent-adoption-trends/",
@@ -168,17 +179,6 @@
       "dateLabel": "08/24 18:15",
       "desc": "ソフトクリエイトがマイクロソフトの「Secure AI Productivity」Specializationを国内で先駆けて取得。Microsoft 365 Copilotやゼロトラストを軸に、生成AIを安全に活用するための導入・定着支援や導入事例を紹介します。",
       "img": "https://ascii.jp/img/2026/08/24/4516336/s/9d4a616edb1ebf9f.png",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Core Ultraシリーズ3搭載の14型Copilot+ PC。「VAIO SX14-R」が23万6500円から、期間限定で3万3000円引き",
-      "link": "https://ascii.jp/elem/000/004/428/4428647/?rss",
-      "date": "2026-08-24T18:00:00+09:00",
-      "dateLabel": "08/24 18:00",
-      "desc": "VAIOストアでは現在、「VAIO SX14-R」を期間限定で33,000円引きで販売中。キャンペーン価格は236,500円からで、表示価格にはすでに33,000円引きが適用されている。キャンペーン期間は9月18日(金)9時59分まで。",
-      "img": "https://ascii.jp/img/2026/08/23/4516044/s/b553fc3b81fb31e4.png",
       "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
       "score": 34
