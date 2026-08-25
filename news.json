@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-25T14:22:55.500379+09:00",
-  "generatedLabel": "2026/08/25 14:22",
+  "generatedAt": "2026-08-25T15:27:55.575453+09:00",
+  "generatedLabel": "2026/08/25 15:27",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 58,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,7 +13,7 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 18
+      "items": 17
     },
     {
       "source": "ASCII.jp",
@@ -140,6 +140,17 @@
       "score": 40
     },
     {
+      "title": "動画生成AI「Wan3.0」が正式リリースされる、最大30秒生成可能で「製品企画スライドを読み込ませてPV作成」など情報分析精度が大幅に向上",
+      "link": "https://gigazine.net/news/20260825-alibaba-wan-3-0/",
+      "date": "2026-08-25T14:30:00+09:00",
+      "dateLabel": "08/25 14:30",
+      "desc": "AlibabaがAI動画生成モデル「Wan3.0」の一般提供を8月24日に開始しました。Wan3.0は文章や画像に加えて文書・スプレッドシート・スライド・ウェブページなども読み込み可能で、1回の生成で最大30秒の動画を作成できます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
       "title": "Copilotを導入し全社横断の生産性を向上（導入事例：大和財託）",
       "link": "https://ascii.jp/elem/000/004/422/4422702/?rss",
       "date": "2026-08-25T14:00:00+09:00",
@@ -228,17 +239,6 @@
       "score": 34
     },
     {
-      "title": "「Claude Mythos 5」の提供範囲が拡大、直接プロンプトを入力できない仕組みで悪用リスクを抑制し「Claude Security」で利用可能に＆外部サービスにも提供へ",
-      "link": "https://gigazine.net/news/20260824-claude-mythos-5-defence/",
-      "date": "2026-08-24T12:44:00+09:00",
-      "dateLabel": "08/24 12:44",
-      "desc": "AI企業のAnthropicが、サイバーセキュリティ分野で高い能力を持つAIモデル「Claude Mythos 5」をセキュリティ製品「Claude Security」で利用可能になったと発表しました。これまでは攻撃への悪用リスクが懸念されて利用が制限されていたものの、Mythos 5を裏側で決められた処理だけに使用する形式にし、脆弱(ぜいじゃく)性の修正案",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "Rustに移植された「Bun 1.4」正式リリース。Node.jsとの互換性向上でPlaywrightやvitestが動作、CPUとメモリの使用率が大幅改善、正規表現が高速化など",
       "link": "https://www.publickey1.jp/blog/26/rustbun_14nodejsplaywrightvitestcpu.html",
       "date": "2026-08-24T00:58:41+09:00",
@@ -261,6 +261,17 @@
       "score": 34
     },
     {
+      "title": "「ChatGPT Plus」で5時間制限復活、Work／Codex対象 Proは「数カ月は対象外」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/25/2000000744/",
+      "date": "2026-08-25T14:11:59+09:00",
+      "dateLabel": "08/25 14:11",
+      "desc": "「5時間制限により計算資源の負荷を平準化でき、週単位の利用枠を手厚く維持できる」",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
       "title": "「GTA6」の情報をリークした人物を特定するため開発元がDiscord・Microsoft・X・YouTubeにDMCA召喚状を請求",
       "link": "https://gigazine.net/news/20260825-gta-6-leaks-dmca/",
       "date": "2026-08-25T13:25:00+09:00",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "規制/安全",
-      "score": 26
-    },
-    {
-      "title": "Linux版の「ChatGPTデスクトップアプリ」ついに登場 何ができて、何ができない？",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/25/news033.html",
-      "date": "2026-08-25T13:00:00+09:00",
-      "dateLabel": "08/25 13:00",
-      "desc": "「ChatGPT」に加えて「ChatGPT Work」「Codex」も使える、Linux版のデスクトップアプリケーションのプレビュー版が登場した。できることと、できないことを整理しよう。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
       "score": 26
     }
   ]
