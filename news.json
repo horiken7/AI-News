@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T09:39:33.943829+09:00",
-  "generatedLabel": "2026/08/25 09:39",
+  "generatedAt": "2026-08-25T11:12:18.799312+09:00",
+  "generatedLabel": "2026/08/25 11:12",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 60,
@@ -85,17 +85,6 @@
       "score": 50
     },
     {
-      "title": "プロ開発者の90％がAIコーディングエージェントを週1回以上利用、Claude CodeのシェアがGitHub Copilotを逆転して約2倍差の1位",
-      "link": "https://gigazine.net/news/20260824-ai-coding-agent-adoption-trends/",
-      "date": "2026-08-24T10:52:00+09:00",
-      "dateLabel": "08/24 10:52",
-      "desc": "JetBrains Researchは世界中の1万5000人以上のプロの開発者を対象とした調査結果を「Developer Ecosystem Survey 2026」として発表しました。特徴的なのはClaude Codeの急上昇であり、これまでトップであったGitHub Copilotの2倍に迫るシェアとなっています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
       "title": "AI分野では「オープンモデルがクローズドモデルに追いつく時間」が飛躍的に縮まっているとの指摘",
       "link": "https://gigazine.net/news/20260824-open-ai-models-catching-up/",
       "date": "2026-08-24T23:00:00+09:00",
@@ -151,6 +140,17 @@
       "score": 42
     },
     {
+      "title": "プロ開発者の90％がAIコーディングエージェントを週1回以上利用、Claude CodeのシェアがGitHub Copilotを逆転して約2倍差の1位",
+      "link": "https://gigazine.net/news/20260824-ai-coding-agent-adoption-trends/",
+      "date": "2026-08-24T10:52:00+09:00",
+      "dateLabel": "08/24 10:52",
+      "desc": "JetBrains Researchは世界中の1万5000人以上のプロの開発者を対象とした調査結果を「Developer Ecosystem Survey 2026」として発表しました。特徴的なのはClaude Codeの急上昇であり、これまでトップであったGitHub Copilotの2倍に迫るシェアとなっています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "Visual Studio Code 1.133正式リリース。プロンプトを見失わない固定スクロール、ローカルHTMLファイルの自動リロード、ClaudeとCopilotの混在可能など新機能",
       "link": "https://www.publickey1.jp/blog/26/visual_studio_code_1133htmlclaudecopilot.html",
       "date": "2026-08-18T00:42:34+09:00",
@@ -162,6 +162,28 @@
       "score": 40
     },
     {
+      "title": "【提言】AIエージェントの“暴走”を防ぐには 安全なAI業務活用には対策が不可欠",
+      "link": "https://ascii.jp/elem/000/004/426/4426794/?rss",
+      "date": "2026-08-25T11:00:00+09:00",
+      "dateLabel": "08/25 11:00",
+      "desc": "企業ビジネスの現場にAIが浸透し始めたなかで、新たな脅威も生まれています。これからさらにAIサービス、AIエージェントの活用を推進していくためには、そうした脅威に対応するための新たなセキュリティ戦略が必要です。元IDC Japanアナリスト、現フォーティネットジャパン Field CISOの登坂恒夫氏による提言です。",
+      "img": "https://ascii.jp/img/2026/08/14/4512887/s/f71e288cd0cb423c.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "AIエージェントが24時間体制で本番障害の一次調査を自動化、人間の役割は「判断」のみに",
+      "link": "https://gigazine.net/news/20260825-trust-agent-triage/",
+      "date": "2026-08-25T09:39:00+09:00",
+      "dateLabel": "08/25 09:39",
+      "desc": "AIエージェントの登場により、深夜のインシデント発生時における人間のエンジニアの役割を劇的に変えつつあります。従来はアラーム発生時のトリアージ(原因および影響範囲の特定)作業はエンジニアが担ってきましたが、トリアージをAIが肩代わりすることにより人間は最終的な意思決定に集中できるようになるというビジョンが現実味を帯びてきました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
       "title": "建築業でも「Claudeの有料導入」が急増 AI導入レベルが上がった企業を悩ます「新たな壁」とは",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/25/news041.html",
       "date": "2026-08-25T08:00:00+09:00",
@@ -170,6 +192,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "【コミュニティ2.0の次の課題】「コミュニティ2.0」提唱の株式会社AI Docksが、相談50件超から「30人の壁」「100人の壁」と突破フレームを公開にしてください。",
+      "link": "https://ascii.jp/elem/000/004/428/4428978/?rss",
+      "date": "2026-08-25T07:30:00+09:00",
+      "dateLabel": "08/25 07:30",
+      "desc": "【コミュニティ2.0の次の課題】「コミュニティ2.0」提唱の株式会社AI Docksが、相談50件超から「30人の壁」「100人の壁」と突破フレームを公開にしてください。",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 34
     },
     {
@@ -217,28 +250,6 @@
       "score": 34
     },
     {
-      "title": "AIエージェントが実際にどのように動いてトークンを使っているかが後から見てわかるようにできる「Langfuse」、オープンソースでセルフホスト可能",
-      "link": "https://gigazine.net/news/20260823-langfuse/",
-      "date": "2026-08-23T23:00:00+09:00",
-      "dateLabel": "08/23 23:00",
-      "desc": "AIエージェントが回答を作る裏側では「LLMに問い合わせる」「検索する」「ツールを実行する」「結果を再びLLMへ渡す」といった処理が連続して行われています。その実行経路を丸ごと記録し、どこで何トークンを使用したのかまでブラウザから追跡できるオープンソースツールでセルフホストが可能な「Langfuse」が公開されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Anthropic、「ミュトス 5」を脆弱性スキャンに開放──「Claude Security」経由でEnterprise顧客が利用可能に",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/22/2000000697/",
-      "date": "2026-08-22T07:09:30+09:00",
-      "dateLabel": "08/22 07:09",
-      "desc": "Anthropicは、最上位モデル「Claude Mythos 5」をセキュリティサービス「Claude Security」の脆弱性検出に導入したと発表した。モデル本体への直接アクセスは開放せず、パッチ提案などの出力のみに限定して提供する。オープンソース保護に向けた総額3500万ドルの基金設立も公表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 28
-    },
-    {
       "title": "天然水素は21世紀のゴールドラッシュ？／AIに「創造性の壁」",
       "link": "https://ascii.jp/elem/000/004/428/4428656/?rss",
       "date": "2026-08-25T09:00:00+09:00",
@@ -269,17 +280,6 @@
       "img": "https://ascii.jp/img/2026/08/21/4515596/s/d8233642c55a9846.jpg",
       "src": "ASCII.jp",
       "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "教材作成から生徒指導まで、教育現場でAIを賢く使うには？",
-      "link": "https://ascii.jp/elem/000/004/428/4428959/?rss",
-      "date": "2026-08-25T06:51:24+09:00",
-      "dateLabel": "08/25 06:51",
-      "desc": "教育現場でAIをどう使うべきか、多くの教師が戸惑っている。米コネチカット州の私立校チェシャー・アカデミーでは、教師が授業計画やルーブリックの作成にAIを使い、生徒には課題を「信号機」で色分けして使い分けを教えている。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 26
     }
   ]
