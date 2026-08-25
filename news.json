@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-25T11:12:18.799312+09:00",
-  "generatedLabel": "2026/08/25 11:12",
+  "generatedAt": "2026-08-25T12:39:45.827401+09:00",
+  "generatedLabel": "2026/08/25 12:39",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 60,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 19
+      "items": 18
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 16
+      "items": 17
     },
     {
       "source": "CNET Japan",
@@ -74,15 +74,26 @@
       "score": 66
     },
     {
-      "title": "週刊アスキー No.1610(2026年8月25日発行)",
-      "link": "https://ascii.jp/elem/000/004/428/4428635/?rss",
-      "date": "2026-08-25T00:00:00+09:00",
-      "dateLabel": "08/25 00:00",
-      "desc": "特集1はパーソナルAIエージェント「Gemini Spark」とは何かを解説。Googleのウェブアプリと連携して自動化できる便利機能とは？ 特集2はスマホやPCの標準機能になった文字認識の効果的な活用法。",
-      "img": "https://ascii.jp/img/2026/08/23/4516046/s/6a5bc6434aca1d38.png",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 50
+      "title": "SpaceXAIがNVIDIAと協力して宇宙空間で動作するAIシステムを本格化＆NVIDIA製AIエージェント用CPU「Vera CPU」の大規模導入も発表",
+      "link": "https://gigazine.net/news/20260825-nvidia-spacexai-vera-space/",
+      "date": "2026-08-25T12:12:00+09:00",
+      "dateLabel": "08/25 12:12",
+      "desc": "NVIDIA製CPU「Vera CPU」がSpaceXAIによって大規模導入されることが明らかになりました。また、2027年中にVera Rubin NVL72をベースとしたAIシステムを軌道上に打ち上げる計画も進んでいます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "各種AIのiPhoneでの動作性能を測定した結果がArtificial Analysisによって公開される、コンテキスト長や応答時間を制限して実環境に近い性能を測定",
+      "link": "https://gigazine.net/news/20260825-iphone-ai-benchmark/",
+      "date": "2026-08-25T11:26:00+09:00",
+      "dateLabel": "08/25 11:26",
+      "desc": "ローカルで実行可能なAIモデルの中にはスマートフォンでの動作も可能な小型モデルも存在します。新たに、AIの性能分析を行っているArtificial Analysisが「iPhone 17 Proでどのように動作するか」に着目したベンチマーク結果を公開しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 42
     },
     {
       "title": "AI分野では「オープンモデルがクローズドモデルに追いつく時間」が飛躍的に縮まっているとの指摘",
@@ -140,17 +151,6 @@
       "score": 42
     },
     {
-      "title": "プロ開発者の90％がAIコーディングエージェントを週1回以上利用、Claude CodeのシェアがGitHub Copilotを逆転して約2倍差の1位",
-      "link": "https://gigazine.net/news/20260824-ai-coding-agent-adoption-trends/",
-      "date": "2026-08-24T10:52:00+09:00",
-      "dateLabel": "08/24 10:52",
-      "desc": "JetBrains Researchは世界中の1万5000人以上のプロの開発者を対象とした調査結果を「Developer Ecosystem Survey 2026」として発表しました。特徴的なのはClaude Codeの急上昇であり、これまでトップであったGitHub Copilotの2倍に迫るシェアとなっています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "Visual Studio Code 1.133正式リリース。プロンプトを見失わない固定スクロール、ローカルHTMLファイルの自動リロード、ClaudeとCopilotの混在可能など新機能",
       "link": "https://www.publickey1.jp/blog/26/visual_studio_code_1133htmlclaudecopilot.html",
       "date": "2026-08-18T00:42:34+09:00",
@@ -162,12 +162,45 @@
       "score": 40
     },
     {
+      "title": "Metaが100万GPU規模を想定した新通信プロトコル「MetaRoCE」を発表、パケットロスを前提にEthernetでAIクラスタを高速接続",
+      "link": "https://gigazine.net/news/20260825-meta-rdma-protocol-metaroce/",
+      "date": "2026-08-25T11:53:00+09:00",
+      "dateLabel": "08/25 11:53",
+      "desc": "Metaが2026年8月24日、100万GPU規模のAIインフラをEthernetで接続することを想定した新しいプロトコル「MetaRoCE」を発表しました。従来のRoCEv2が前提としていた「パケットを順番通りに届ける」「できるだけパケットを失わせない」という考え方を見直し、パケットの到着順が入れ替わったり一部が失われたりする大規模ネットワークでも高い通信",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "「やだかわいいっっ」 シャープの“おれさま”AIロボが大反響",
+      "link": "https://ascii.jp/elem/000/004/428/4428984/?rss",
+      "date": "2026-08-25T11:40:00+09:00",
+      "dateLabel": "08/25 11:40",
+      "desc": "シャープは8月25日、対話AIキャラクター「ポケとも」の第二弾として、ミーアキャットをモチーフにしたコンパニオンロボットSR-C02M-Hを発表した。",
+      "img": "https://ascii.jp/img/2026/08/25/4516857/s/188f6a9bf8b10bb9.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 34
+    },
+    {
       "title": "【提言】AIエージェントの“暴走”を防ぐには 安全なAI業務活用には対策が不可欠",
       "link": "https://ascii.jp/elem/000/004/426/4426794/?rss",
       "date": "2026-08-25T11:00:00+09:00",
       "dateLabel": "08/25 11:00",
       "desc": "企業ビジネスの現場にAIが浸透し始めたなかで、新たな脅威も生まれています。これからさらにAIサービス、AIエージェントの活用を推進していくためには、そうした脅威に対応するための新たなセキュリティ戦略が必要です。元IDC Japanアナリスト、現フォーティネットジャパン Field CISOの登坂恒夫氏による提言です。",
       "img": "https://ascii.jp/img/2026/08/14/4512887/s/f71e288cd0cb423c.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "営業AIエージェントSTRIX、「Stockwork」へ名称変更",
+      "link": "https://ascii.jp/elem/000/004/428/4428991/?rss",
+      "date": "2026-08-25T10:50:45+09:00",
+      "dateLabel": "08/25 10:50",
+      "desc": "営業AIエージェントSTRIX、「Stockwork」へ名称変更",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
       "score": 34
@@ -192,17 +225,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "【コミュニティ2.0の次の課題】「コミュニティ2.0」提唱の株式会社AI Docksが、相談50件超から「30人の壁」「100人の壁」と突破フレームを公開にしてください。",
-      "link": "https://ascii.jp/elem/000/004/428/4428978/?rss",
-      "date": "2026-08-25T07:30:00+09:00",
-      "dateLabel": "08/25 07:30",
-      "desc": "【コミュニティ2.0の次の課題】「コミュニティ2.0」提唱の株式会社AI Docksが、相談50件超から「30人の壁」「100人の壁」と突破フレームを公開にしてください。",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -250,17 +272,6 @@
       "score": 34
     },
     {
-      "title": "天然水素は21世紀のゴールドラッシュ？／AIに「創造性の壁」",
-      "link": "https://ascii.jp/elem/000/004/428/4428656/?rss",
-      "date": "2026-08-25T09:00:00+09:00",
-      "dateLabel": "08/25 09:00",
-      "desc": "世界最先端のテクノロジー情報をお届けするグローバルメディア「MITテクノロジーレビュー」から、ビジネスに役立つ注目のテック企業の最新動向、イノベーションにつながる最新の研究内容をピックアップして紹介します。",
-      "img": "https://ascii.jp/img/2026/08/23/4516067/s/cb31ffb5a641c1fe.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
       "title": "ランボルギーニのSDV開発やAI設計改善も、PTCが“アジア初”デモ機公開",
       "link": "https://monoist.itmedia.co.jp/mn/articles/2608/25/news043.html",
       "date": "2026-08-25T08:15:00+09:00",
@@ -268,17 +279,6 @@
       "desc": "PTCジャパンは日本橋の新オフィスに開設したデモセンター「JXC」において、ランボルギーニのSDV開発や建機のAI設計改善のデモンストレーションを披露した。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "PC単体で完結するAI向けナレッジアプリ",
-      "link": "https://ascii.jp/elem/000/004/428/4428544/?rss",
-      "date": "2026-08-25T07:00:00+09:00",
-      "dateLabel": "08/25 07:00",
-      "desc": "株式会社ありんこは8月18日、PC内で動作が完結するAI向けナレッジアプリ「Anthole（アントホール）」の販売を開始した。同製品は、AIモデル本体を含めた動作に必要なプログラムを同梱し、外部への送信経路を持たない設計とすることで、セキュリティー要件の厳しい環境でも利用可能なデータ管理の手法を提供する。",
-      "img": "https://ascii.jp/img/2026/08/21/4515596/s/d8233642c55a9846.jpg",
-      "src": "ASCII.jp",
       "cat": "AI実装",
       "score": 26
     }
