@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-26T06:17:53.116879+09:00",
-  "generatedLabel": "2026/08/26 06:17",
+  "generatedAt": "2026-08-26T07:15:44.548331+09:00",
+  "generatedLabel": "2026/08/26 07:15",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 59,
+  "candidates": 62,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -72,6 +72,28 @@
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
       "score": 66
+    },
+    {
+      "title": "機密データを自社環境内で処理するAIエージェント",
+      "link": "https://ascii.jp/elem/000/004/428/4428548/?rss",
+      "date": "2026-08-26T07:00:00+09:00",
+      "dateLabel": "08/26 07:00",
+      "desc": "株式会社Athena Technologiesは8月20日、自社管理環境で動作するビジネス向けAIエージェント「Athena Works」の提供を開始した。ローカルLLM環境で処理を完結させることで、機密データを外部に送信せずに資料作成などの作業を自動化する仕組みとして提供される。",
+      "img": "https://ascii.jp/img/2026/08/21/4515602/s/c4333d9de32dbfc8.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
+      "title": "「Jetson Orin Nano 2」は推論性能が2倍、エッジ生成AIもリアルタイム処理可能",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2608/26/news048.html",
+      "date": "2026-08-26T06:15:00+09:00",
+      "dateLabel": "08/26 06:15",
+      "desc": "NVIDIAは、組み込み機器向けAIモジュール「Jetson Orin」の新たなラインアップとなる「Jetson Orin Nano 2」を発表した。現行の「Jetson Orin Nano」のメモリ容量8GBモデルと比べて推論性能が2倍に向上した一方で、同じ推論性能であれば消費電力を40％削減できるという。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 50
     },
     {
       "title": "突然登場のM6搭載の「Mac mini」、AI性能は最大4倍アップ＆2.5GbEを標準サポート",
@@ -173,6 +195,28 @@
       "score": 40
     },
     {
+      "title": "ビックカメラの実店舗で借りて試せる新サービス",
+      "link": "https://ascii.jp/elem/000/004/429/4429038/?rss",
+      "date": "2026-08-26T07:00:00+09:00",
+      "dateLabel": "08/26 07:00",
+      "desc": "株式会社エアークローゼットは8月14日、家電等のレンタルサービス「airCloset Mall」において、株式会社ビックカメラが8月29日に開店するビックカメラ浦和西口店へ「持ち帰りレンタル」の提供店舗を拡大すると発表した。",
+      "img": "https://ascii.jp/img/2026/08/25/4516951/s/e7340334262c8f85.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "UnslothがAIの性能をなるべく維持しつつ省メモリ化する次世代量子化手法「Unsloth Dynamic 3.0 GGUF」を開発",
+      "link": "https://gigazine.net/news/20260826-dynamic-3.0-ggufs/",
+      "date": "2026-08-26T07:00:00+09:00",
+      "dateLabel": "08/26 07:00",
+      "desc": "UnslothUnslothはAIモデルの量子化に取り組んでいる企業で、GoogleやAlibabaなどのAI企業がオープンモデルを公開すると数日以内にUnslothによる量子化版が公開されるのが恒例となっています。そんなUnslothが新たな量子化手法「Unsloth Dynamic 3.0 GGUF(以下Dynamic 3.0)」を開発し、その詳細を公開",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "サイコム、RTX 50シリーズ搭載BTO購入で『CONTROL Resonant』特典配布キャンペーン開始",
       "link": "https://ascii.jp/elem/000/004/429/4429223/?rss",
       "date": "2026-08-26T00:30:00+09:00",
@@ -235,50 +279,6 @@
       "desc": "AIエージェントの登場により、深夜のインシデント発生時における人間のエンジニアの役割を劇的に変えつつあります。従来はアラーム発生時のトリアージ(原因および影響範囲の特定)作業はエンジニアが担ってきましたが、トリアージをAIが肩代わりすることにより人間は最終的な意思決定に集中できるようになるというビジョンが現実味を帯びてきました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "建築業でも「Claudeの有料導入」が急増 AI導入レベルが上がった企業を悩ます「新たな壁」とは",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/25/news041.html",
-      "date": "2026-08-25T08:00:00+09:00",
-      "dateLabel": "08/25 08:00",
-      "desc": "建築AI経営研究会は、「建築AI経営実態調査」の結果を公開した。特定部署以上でAIを活用する企業が68.5％に達したことが判明した。課題は導入初期の試行錯誤から「新たな壁」にシフトしている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "AI分野では「オープンモデルがクローズドモデルに追いつく時間」が飛躍的に縮まっているとの指摘",
-      "link": "https://gigazine.net/news/20260824-open-ai-models-catching-up/",
-      "date": "2026-08-24T23:00:00+09:00",
-      "dateLabel": "08/24 23:00",
-      "desc": "さまざまな企業がリリースしているAIモデルは、モデル自体は非公開でサービスのみが提供される「クローズドモデル」と、モデル自体が公開されている「オープンモデル」に分かれています。オープンモデルは最先端クローズドモデルより性能が低いのが一般的とされてきましたが、オープンモデルがクローズドモデルの性能に追いつく時間はAI分野のステージごとに飛躍的に縮まっていると、",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "なぜいま30Bクラスのオープンモデルが“熱い”のか 「27BパラメータでOpus 4.6超え」も",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000723/",
-      "date": "2026-08-24T16:30:16+09:00",
-      "dateLabel": "08/24 16:30",
-      "desc": "MetaとNVIDIA、Alibabaが30Bクラスのオープンモデルを相次ぎ公開し、国産の「LLM-jp-4 33B」も登場した。このサイズのモデルが今“熱い”理由と留意点を考察する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "AIエージェント活用を阻む“予算の壁” セールスフォースらの新機能は打開策になり得るか？",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2608/24/news075.html",
-      "date": "2026-08-24T13:30:00+09:00",
-      "dateLabel": "08/24 13:30",
-      "desc": "企業にとってはあらかじめAI利用コストを想定できないと投資が決まらない。そうなると予算が立てられず、ROIの見通しもつかない。そんな企業のAIエージェント活用に立ちはだかる“予算の壁”を打破するにはどうすればよいのか。セールスフォース、IBM、マネーフォワードが提供を開始した最新機能はその打開策となるのか。",
-      "img": "",
-      "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 34
     }
