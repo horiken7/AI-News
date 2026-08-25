@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T22:40:25.336190+09:00",
-  "generatedLabel": "2026/08/25 22:40",
+  "generatedAt": "2026-08-25T23:34:17.888482+09:00",
+  "generatedLabel": "2026/08/25 23:34",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 59,
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 18
+      "items": 19
     },
     {
       "source": "CNET Japan",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 9
+      "items": 8
     },
     {
       "source": "AINOW",
@@ -151,17 +151,6 @@
       "score": 42
     },
     {
-      "title": "AI分野では「オープンモデルがクローズドモデルに追いつく時間」が飛躍的に縮まっているとの指摘",
-      "link": "https://gigazine.net/news/20260824-open-ai-models-catching-up/",
-      "date": "2026-08-24T23:00:00+09:00",
-      "dateLabel": "08/24 23:00",
-      "desc": "さまざまな企業がリリースしているAIモデルは、モデル自体は非公開でサービスのみが提供される「クローズドモデル」と、モデル自体が公開されている「オープンモデル」に分かれています。オープンモデルは最先端クローズドモデルより性能が低いのが一般的とされてきましたが、オープンモデルがクローズドモデルの性能に追いつく時間はAI分野のステージごとに飛躍的に縮まっていると、",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
       "title": "Visual Studio Code 1.133正式リリース。プロンプトを見失わない固定スクロール、ローカルHTMLファイルの自動リロード、ClaudeとCopilotの混在可能など新機能",
       "link": "https://www.publickey1.jp/blog/26/visual_studio_code_1133htmlclaudecopilot.html",
       "date": "2026-08-18T00:42:34+09:00",
@@ -247,6 +236,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "AI分野では「オープンモデルがクローズドモデルに追いつく時間」が飛躍的に縮まっているとの指摘",
+      "link": "https://gigazine.net/news/20260824-open-ai-models-catching-up/",
+      "date": "2026-08-24T23:00:00+09:00",
+      "dateLabel": "08/24 23:00",
+      "desc": "さまざまな企業がリリースしているAIモデルは、モデル自体は非公開でサービスのみが提供される「クローズドモデル」と、モデル自体が公開されている「オープンモデル」に分かれています。オープンモデルは最先端クローズドモデルより性能が低いのが一般的とされてきましたが、オープンモデルがクローズドモデルの性能に追いつく時間はAI分野のステージごとに飛躍的に縮まっていると、",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
