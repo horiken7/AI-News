@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-25T19:21:16.989310+09:00",
-  "generatedLabel": "2026/08/25 19:21",
+  "generatedAt": "2026-08-25T20:17:24.586244+09:00",
+  "generatedLabel": "2026/08/25 20:17",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 54,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,7 +13,7 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 17
+      "items": 18
     },
     {
       "source": "ASCII.jp",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 16
     },
     {
       "source": "CNET Japan",
@@ -85,6 +85,17 @@
       "score": 50
     },
     {
+      "title": "台湾検察がNVIDIAとSupermicroの従業員ら9人を起訴、中国へAIサーバーを密輸した疑い",
+      "link": "https://gigazine.net/news/20260825-taiwan-employees-export-ai-servers-to-china/",
+      "date": "2026-08-25T19:40:00+09:00",
+      "dateLabel": "08/25 19:40",
+      "desc": "中国への高性能AIチップおよびAIサーバーの密輸取り締まりを行っていた台湾基隆地方検察署が、NVIDIA台湾支社の従業員やPC機器メーカー・Supermicroの従業員を含む9名を起訴したことを発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
       "title": "FPSも大作ゲームもこれ1台！ Ryzen 7 7800X3D×RX 9060 XT 16GBを30万円以内で",
       "link": "https://ascii.jp/elem/000/004/429/4429227/?rss",
       "date": "2026-08-25T19:00:00+09:00",
@@ -103,17 +114,6 @@
       "desc": "AI開発企業のLiquid AIがスマートフォンのAI実行性能を測定するベンチマークアプリ「Pipette」をリリースしました。無料でGemmaシリーズやQwenシリーズなど複数のAIモデルを用いたテストが可能とのことなので、実際にiPhone 17 Proにインストールして使ってみました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 42
-    },
-    {
-      "title": "フリーシナリオ型のAIチャット形式RPG『RyzaChat:AIライザと創るあなただけのひと夏の夢物語』が日本国内でサービス開始！",
-      "link": "https://ascii.jp/elem/000/004/429/4429228/?rss",
-      "date": "2026-08-25T17:00:00+09:00",
-      "dateLabel": "08/25 17:00",
-      "desc": "SpiralAIは、iOS／Android向けタイトル『RyzaChat:AIライザと創るあなただけのひと夏の夢物語』について、日本国内で提供開始したと2026年8月25日に発表。本作は基本プレイ無料、アプリ内購入ありだ。",
-      "img": "https://ascii.jp/img/2026/08/25/4517062/s/7d9297229dd9323d.jpg",
-      "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 42
     },
@@ -162,14 +162,14 @@
       "score": 40
     },
     {
-      "title": "小説家の乙一氏、Claude Codeで無料ゲーム開発 「最下層まで数十億年」のローグライク",
-      "link": "https://ascii.jp/elem/000/004/429/4429239/?rss",
-      "date": "2026-08-25T17:00:00+09:00",
-      "dateLabel": "08/25 17:00",
-      "desc": "“乙一”名義で活動する小説家の安達寛高氏は8月25日、AIコーディングツール「Claude Code」を使って制作したゲーム「Minimal Rogue」を紹介した。",
-      "img": "https://ascii.jp/img/2026/08/25/4517077/s/71e1bd0e6342fac5.png",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
+      "title": "メモリブームが半導体企業の本拠地周辺に及ぼす影響とは？Micronのケースから見えてくる新たな億万長者の誕生と雇用の増加、さらには交通渋滞の増加と住宅価格の高騰まで",
+      "link": "https://gigazine.net/news/20260825-micron-boise-impact/",
+      "date": "2026-08-25T20:00:00+09:00",
+      "dateLabel": "08/25 20:00",
+      "desc": "AIブームにより、AI開発に必要なデータセンターや発電施設、部品の製造工場が世界各地に建設され始めており、施設周辺地域の開発が進む例がいくつか見られます。日本だとTSMCが熊本県菊陽町に半導体工場を建設した事例があり、内閣府のまとめでは工場周辺の地価や賃料が大きく上昇していることが分かっています。海外メディアのCNBCは、アメリカのアイダホ州ボイシにある半導",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
