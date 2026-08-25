@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-25T18:24:43.389313+09:00",
-  "generatedLabel": "2026/08/25 18:24",
+  "generatedAt": "2026-08-25T19:21:16.989310+09:00",
+  "generatedLabel": "2026/08/25 19:21",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 57,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -85,6 +85,17 @@
       "score": 50
     },
     {
+      "title": "FPSも大作ゲームもこれ1台！ Ryzen 7 7800X3D×RX 9060 XT 16GBを30万円以内で",
+      "link": "https://ascii.jp/elem/000/004/429/4429227/?rss",
+      "date": "2026-08-25T19:00:00+09:00",
+      "dateLabel": "08/25 19:00",
+      "desc": "高fpsで遊びたいなら、GPUだけでなくCPU性能にもこだわりたい。Ryzen 7 7800X3DとRadeon RX 9060 XT 16GB、32GBメモリを搭載しながら28万9800円に収めたSTORMのゲーミングPCを紹介する。",
+      "img": "https://ascii.jp/img/2026/07/29/4507189/s/3288b8c583974ca6.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
       "title": "自分のスマホのAI実行性能を測定できるベンチマークアプリ「Pipette」を使ってみた",
       "link": "https://gigazine.net/news/20260825-pipette-phone-ai/",
       "date": "2026-08-25T17:22:00+09:00",
@@ -104,17 +115,6 @@
       "img": "https://ascii.jp/img/2026/08/25/4517062/s/7d9297229dd9323d.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
-      "score": 42
-    },
-    {
-      "title": "音楽著作権の新時代を拓く価値評価システム『弁財天』を発表",
-      "link": "https://ascii.jp/elem/000/004/429/4429252/?rss",
-      "date": "2026-08-25T16:57:41+09:00",
-      "dateLabel": "08/25 16:57",
-      "desc": "音楽著作権の新時代を拓く価値評価システム『弁財天』を発表",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "規制/安全",
       "score": 42
     },
     {
@@ -170,28 +170,6 @@
       "img": "https://ascii.jp/img/2026/08/25/4517077/s/71e1bd0e6342fac5.png",
       "src": "ASCII.jp",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "HTML・CSSからJavaScript、React、TypeScript、APIまで学ぶ無料100話「Code Trail」を公開 アカウント登録だけで始められます",
-      "link": "https://ascii.jp/elem/000/004/429/4429251/?rss",
-      "date": "2026-08-25T16:59:30+09:00",
-      "dateLabel": "08/25 16:59",
-      "desc": "HTML・CSSからJavaScript、React、TypeScript、APIまで学ぶ無料100話「Code Trail」を公開 アカウント登録だけで始められます",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "転職活動を2週間で区切る個人ボード「Aile Scrum Board」を公開 目標・毎日ひとこと・振り返りまで登録なしで試せます",
-      "link": "https://ascii.jp/elem/000/004/429/4429254/?rss",
-      "date": "2026-08-25T16:29:03+09:00",
-      "dateLabel": "08/25 16:29",
-      "desc": "転職活動を2週間で区切る個人ボード「Aile Scrum Board」を公開 目標・毎日ひとこと・振り返りまで登録なしで試せます",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -280,6 +258,28 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "Rustに移植された「Bun 1.4」正式リリース。Node.jsとの互換性向上でPlaywrightやvitestが動作、CPUとメモリの使用率が大幅改善、正規表現が高速化など",
+      "link": "https://www.publickey1.jp/blog/26/rustbun_14nodejsplaywrightvitestcpu.html",
+      "date": "2026-08-24T00:58:41+09:00",
+      "dateLabel": "08/24 00:58",
+      "desc": "サーバサイドJavaScriptランタイムのBunの最新版となる「Bun 1.4」正式版のリリースが発表されました。 Bun 1.4は、これまでZig言語で開発されていたものをClaude Codeを使ってRustに書き直した最初のバージョ...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "Slack上の開発チームの会話をAIエージェントが把握してコーディング。ドキュメント作成もする「Slack Code」登場",
+      "link": "https://www.publickey1.jp/blog/26/slackaislack_code.html",
+      "date": "2026-08-24T00:52:28+09:00",
+      "dateLabel": "08/24 00:52",
+      "desc": "Salesforce傘下のSlack社は、同社のチャットサービス「Slack」の新機能として、開発チームの一員としてAIエージェントがチャットに加わり、それまでの開発チームの議論を把握してコーディングを行う「Slack Code」の提供開始...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
       "score": 34
     }
   ]
