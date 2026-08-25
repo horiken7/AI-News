@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-25T12:39:45.827401+09:00",
-  "generatedLabel": "2026/08/25 12:39",
+  "generatedAt": "2026-08-25T13:29:19.674103+09:00",
+  "generatedLabel": "2026/08/25 13:29",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 57,
+  "candidates": 59,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 17
+      "items": 18
     },
     {
       "source": "CNET Japan",
@@ -74,7 +74,7 @@
       "score": 66
     },
     {
-      "title": "SpaceXAIがNVIDIAと協力して宇宙空間で動作するAIシステムを本格化＆NVIDIA製AIエージェント用CPU「Vera CPU」の大規模導入も発表",
+      "title": "SpaceXAIがNVIDIAと協力して宇宙空間で動作するAIシステム計画を本格化＆NVIDIA製AIエージェント用CPU「Vera CPU」の大規模導入も発表",
       "link": "https://gigazine.net/news/20260825-nvidia-spacexai-vera-space/",
       "date": "2026-08-25T12:12:00+09:00",
       "dateLabel": "08/25 12:12",
@@ -126,28 +126,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "ChatGPT、Gemini、Claude Sonnet 5の“最強”は？ 「速度」と「安定性」を実測して比べてみた",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/24/news049.html",
-      "date": "2026-08-24T13:00:00+09:00",
-      "dateLabel": "08/24 13:00",
-      "desc": "主要なAIチャットサービスの「ChatGPT」「Gemini」「Claude Sonnet 5」の中で、応答速度が一番速いのはどれなのか。時間帯によって速度は変わるのか。測定値はどれだけ安定しているのか。実測を基に検証する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "「Claude Mythos 5」の提供範囲が拡大、直接プロンプトを入力できない仕組みで悪用リスクを抑制し「Claude Security」で利用可能に＆外部サービスにも提供へ",
-      "link": "https://gigazine.net/news/20260824-claude-mythos-5-defence/",
-      "date": "2026-08-24T12:44:00+09:00",
-      "dateLabel": "08/24 12:44",
-      "desc": "AI企業のAnthropicが、サイバーセキュリティ分野で高い能力を持つAIモデル「Claude Mythos 5」をセキュリティ製品「Claude Security」で利用可能になったと発表しました。これまでは攻撃への悪用リスクが懸念されて利用が制限されていたものの、Mythos 5を裏側で決められた処理だけに使用する形式にし、脆弱(ぜいじゃく)性の修正案",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -250,6 +228,28 @@
       "score": 34
     },
     {
+      "title": "ChatGPT、Gemini、Claude Sonnet 5の“最強”は？ 「速度」と「安定性」を実測して比べてみた",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/24/news049.html",
+      "date": "2026-08-24T13:00:00+09:00",
+      "dateLabel": "08/24 13:00",
+      "desc": "主要なAIチャットサービスの「ChatGPT」「Gemini」「Claude Sonnet 5」の中で、応答速度が一番速いのはどれなのか。時間帯によって速度は変わるのか。測定値はどれだけ安定しているのか。実測を基に検証する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "「Claude Mythos 5」の提供範囲が拡大、直接プロンプトを入力できない仕組みで悪用リスクを抑制し「Claude Security」で利用可能に＆外部サービスにも提供へ",
+      "link": "https://gigazine.net/news/20260824-claude-mythos-5-defence/",
+      "date": "2026-08-24T12:44:00+09:00",
+      "dateLabel": "08/24 12:44",
+      "desc": "AI企業のAnthropicが、サイバーセキュリティ分野で高い能力を持つAIモデル「Claude Mythos 5」をセキュリティ製品「Claude Security」で利用可能になったと発表しました。これまでは攻撃への悪用リスクが懸念されて利用が制限されていたものの、Mythos 5を裏側で決められた処理だけに使用する形式にし、脆弱(ぜいじゃく)性の修正案",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "Rustに移植された「Bun 1.4」正式リリース。Node.jsとの互換性向上でPlaywrightやvitestが動作、CPUとメモリの使用率が大幅改善、正規表現が高速化など",
       "link": "https://www.publickey1.jp/blog/26/rustbun_14nodejsplaywrightvitestcpu.html",
       "date": "2026-08-24T00:58:41+09:00",
@@ -272,14 +272,14 @@
       "score": 34
     },
     {
-      "title": "ランボルギーニのSDV開発やAI設計改善も、PTCが“アジア初”デモ機公開",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2608/25/news043.html",
-      "date": "2026-08-25T08:15:00+09:00",
-      "dateLabel": "08/25 08:15",
-      "desc": "PTCジャパンは日本橋の新オフィスに開設したデモセンター「JXC」において、ランボルギーニのSDV開発や建機のAI設計改善のデモンストレーションを披露した。",
+      "title": "「GTA6」の情報をリークした人物を特定するため開発元がDiscord・Microsoft・X・YouTubeにDMCA召喚状を請求",
+      "link": "https://gigazine.net/news/20260825-gta-6-leaks-dmca/",
+      "date": "2026-08-25T13:25:00+09:00",
+      "dateLabel": "08/25 13:25",
+      "desc": "2026年11月19日に発売が予告されている「グランド・セフト・オートVI(GTA6)」は、登場が心待ちにされすぎて本社付近で酸素濃度や音響ノイズやタバコの吸い殻を徹底監視するゲームファンが現れたほか、リーカーによってゲームプレイ映像とマップ画像が拡散されています。これに対し開発元のTake-TwoはDMCA(デジタルミレニアム著作権法)に基づく召喚状を送付",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI実装",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
       "score": 26
     }
   ]
