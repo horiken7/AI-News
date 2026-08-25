@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-25T08:14:08.593813+09:00",
-  "generatedLabel": "2026/08/25 08:14",
+  "generatedAt": "2026-08-25T09:39:33.943829+09:00",
+  "generatedLabel": "2026/08/25 09:39",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 59,
+  "candidates": 60,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,7 +13,7 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 18
+      "items": 19
     },
     {
       "source": "ASCII.jp",
@@ -162,6 +162,17 @@
       "score": 40
     },
     {
+      "title": "建築業でも「Claudeの有料導入」が急増 AI導入レベルが上がった企業を悩ます「新たな壁」とは",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/25/news041.html",
+      "date": "2026-08-25T08:00:00+09:00",
+      "dateLabel": "08/25 08:00",
+      "desc": "建築AI経営研究会は、「建築AI経営実態調査」の結果を公開した。特定部署以上でAIを活用する企業が68.5％に達したことが判明した。課題は導入初期の試行錯誤から「新たな壁」にシフトしている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "【復旧済み】「Claude」で障害発生中",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000719/",
       "date": "2026-08-24T17:55:15+09:00",
@@ -228,6 +239,28 @@
       "score": 28
     },
     {
+      "title": "天然水素は21世紀のゴールドラッシュ？／AIに「創造性の壁」",
+      "link": "https://ascii.jp/elem/000/004/428/4428656/?rss",
+      "date": "2026-08-25T09:00:00+09:00",
+      "dateLabel": "08/25 09:00",
+      "desc": "世界最先端のテクノロジー情報をお届けするグローバルメディア「MITテクノロジーレビュー」から、ビジネスに役立つ注目のテック企業の最新動向、イノベーションにつながる最新の研究内容をピックアップして紹介します。",
+      "img": "https://ascii.jp/img/2026/08/23/4516067/s/cb31ffb5a641c1fe.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "ランボルギーニのSDV開発やAI設計改善も、PTCが“アジア初”デモ機公開",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2608/25/news043.html",
+      "date": "2026-08-25T08:15:00+09:00",
+      "dateLabel": "08/25 08:15",
+      "desc": "PTCジャパンは日本橋の新オフィスに開設したデモセンター「JXC」において、ランボルギーニのSDV開発や建機のAI設計改善のデモンストレーションを披露した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
       "title": "PC単体で完結するAI向けナレッジアプリ",
       "link": "https://ascii.jp/elem/000/004/428/4428544/?rss",
       "date": "2026-08-25T07:00:00+09:00",
@@ -245,39 +278,6 @@
       "dateLabel": "08/25 06:51",
       "desc": "教育現場でAIをどう使うべきか、多くの教師が戸惑っている。米コネチカット州の私立校チェシャー・アカデミーでは、教師が授業計画やルーブリックの作成にAIを使い、生徒には課題を「信号機」で色分けして使い分けを教えている。",
       "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "謎のAI「Ox Alpha」が出現し無料テスト中、コンテキストウィンドウは100万トークンで1日数兆トークンを処理できる匿名ラボがAPIを提供",
-      "link": "https://gigazine.net/news/20260824-ox-alpha/",
-      "date": "2026-08-24T22:00:00+09:00",
-      "dateLabel": "08/24 22:00",
-      "desc": "OpenRouterやOpenCodeが謎の匿名AI「Ox Alpha」の無料テストを実施しています。Ox Alphaの開発組織や詳細な仕様は不明で、複数のユーザーが性能検証結果を報告しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "半導体関連の予備校が韓国で大盛況、SamsungとSK Hynixの記録的な業績と魅力的な従業員ボーナスが後押し",
-      "link": "https://gigazine.net/news/20260824-chipmaking-cram-schools/",
-      "date": "2026-08-24T21:00:00+09:00",
-      "dateLabel": "08/24 21:00",
-      "desc": "世界最大級の半導体メーカーであるSamsungやSK Hynixが本拠を置く韓国で、半導体業界への就職を目指す若者向けの「半導体予備校」が大盛況となっています。そんな半導体予備校の内部について、イギリスの経済紙であるフィナンシャル・タイムズが報じています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "M5 MacBook Airが4万円以上安い。1TBモデルがAmazonで23万円台に",
-      "link": "https://ascii.jp/elem/000/004/428/4428848/?rss",
-      "date": "2026-08-24T20:00:00+09:00",
-      "dateLabel": "08/24 20:00",
-      "desc": "Appleの13インチ「MacBook Air」M5チップ搭載モデルがAmazonでタイムセール対象。参考価格278,800円から15％オフの236,980円で販売中。16GBメモリと1TB SSDを備えたモデルが、4万円以上安く手に入るセールだ。",
-      "img": "https://ascii.jp/img/2026/08/24/4516303/s/84def889ebb54f7b.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
