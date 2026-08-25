@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-25T16:35:33.499993+09:00",
-  "generatedLabel": "2026/08/25 16:35",
+  "generatedAt": "2026-08-25T17:30:05.005944+09:00",
+  "generatedLabel": "2026/08/25 17:30",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 57,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -74,15 +74,26 @@
       "score": 66
     },
     {
-      "title": "SORACOM Knowledge MCPサーバー、ChatGPT・Claude・GitHub公式ディレクトリに掲載 数クリックで利用可能に",
-      "link": "https://ascii.jp/elem/000/004/429/4429015/?rss",
-      "date": "2026-08-25T13:30:00+09:00",
-      "dateLabel": "08/25 13:30",
-      "desc": "SORACOMは「SORACOM Knowledge MCPサーバー」をChatGPT、Claude、GitHubの公式ディレクトリ／レジストリに掲載。手動設定不要で数クリックから利用でき、公式ドキュメントやAPIリファレンスなどをAIから参照しやすくなった。",
-      "img": "https://ascii.jp/img/2026/08/25/4516933/s/d3199a4832197e96.jpg",
+      "title": "自分のスマホのAI実行性能を測定できるベンチマークアプリ「Pipette」を使ってみた",
+      "link": "https://gigazine.net/news/20260825-pipette-phone-ai/",
+      "date": "2026-08-25T17:22:00+09:00",
+      "dateLabel": "08/25 17:22",
+      "desc": "AI開発企業のLiquid AIがスマートフォンのAI実行性能を測定するベンチマークアプリ「Pipette」をリリースしました。無料でGemmaシリーズやQwenシリーズなど複数のAIモデルを用いたテストが可能とのことなので、実際にiPhone 17 Proにインストールして使ってみました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 42
+    },
+    {
+      "title": "フリーシナリオ型のAIチャット形式RPG『RyzaChat:AIライザと創るあなただけのひと夏の夢物語』が日本国内でサービス開始！",
+      "link": "https://ascii.jp/elem/000/004/429/4429228/?rss",
+      "date": "2026-08-25T17:00:00+09:00",
+      "dateLabel": "08/25 17:00",
+      "desc": "SpiralAIは、iOS／Android向けタイトル『RyzaChat:AIライザと創るあなただけのひと夏の夢物語』について、日本国内で提供開始したと2026年8月25日に発表。本作は基本プレイ無料、アプリ内購入ありだ。",
+      "img": "https://ascii.jp/img/2026/08/25/4517062/s/7d9297229dd9323d.jpg",
       "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 50
+      "cat": "AI全般",
+      "score": 42
     },
     {
       "title": "SpaceXAIがNVIDIAと協力して宇宙空間で動作するAIシステム計画を本格化＆NVIDIA製AIエージェント用CPU「Vera CPU」の大規模導入も発表",
@@ -129,6 +140,39 @@
       "score": 40
     },
     {
+      "title": "小説家の乙一氏、Claude Codeで無料ゲーム開発 「最下層まで数十億年」のローグライク",
+      "link": "https://ascii.jp/elem/000/004/429/4429239/?rss",
+      "date": "2026-08-25T17:00:00+09:00",
+      "dateLabel": "08/25 17:00",
+      "desc": "“乙一”名義で活動する小説家の安達寛高氏は8月25日、AIコーディングツール「Claude Code」を使って制作したゲーム「Minimal Rogue」を紹介した。",
+      "img": "https://ascii.jp/img/2026/08/25/4517077/s/71e1bd0e6342fac5.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "シャープ、対話型AIロボ「ポケとも」に新モデル あえて“全肯定しないキャラ”に 「暇だなー」と話しかけると……",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/25/2000000747/",
+      "date": "2026-08-25T15:56:11+09:00",
+      "dateLabel": "08/25 15:56",
+      "desc": "シャープは対話型のAIロボット「ポケとも」の新モデルを発表した。従来のモデルとは性格を変え、あえてユーザーを“全肯定しないキャラクター”にした。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI実装",
+      "score": 34
+    },
+    {
+      "title": "AI時代の新職種「GTM Engineer（GTMエンジニア）」の育成支援サービスを提供開始",
+      "link": "https://ascii.jp/elem/000/004/429/4429233/?rss",
+      "date": "2026-08-25T14:34:45+09:00",
+      "dateLabel": "08/25 14:34",
+      "desc": "AI時代の新職種「GTM Engineer（GTMエンジニア）」の育成支援サービスを提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "動画生成AI「Wan3.0」が正式リリースされる、最大30秒生成可能で「製品企画スライドを読み込ませてPV作成」など情報分析精度が大幅に向上",
       "link": "https://gigazine.net/news/20260825-alibaba-wan-3-0/",
       "date": "2026-08-25T14:30:00+09:00",
@@ -148,17 +192,6 @@
       "img": "https://ascii.jp/img/2026/07/28/4506259/s/262b64b3d289c67a.png",
       "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "候補者の\"AI人格\"に、面接前に何でも聞ける - AI人格対話型適性検査「Altego Fit」提供開始",
-      "link": "https://ascii.jp/elem/000/004/429/4429145/?rss",
-      "date": "2026-08-25T13:00:00+09:00",
-      "dateLabel": "08/25 13:00",
-      "desc": "候補者の\"AI人格\"に、面接前に何でも聞ける - AI人格対話型適性検査「Altego Fit」提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -248,39 +281,6 @@
       "src": "Publickey",
       "cat": "LLM/モデル",
       "score": 34
-    },
-    {
-      "title": "Slack上の開発チームの会話をAIエージェントが把握してコーディング。ドキュメント作成もする「Slack Code」登場",
-      "link": "https://www.publickey1.jp/blog/26/slackaislack_code.html",
-      "date": "2026-08-24T00:52:28+09:00",
-      "dateLabel": "08/24 00:52",
-      "desc": "Salesforce傘下のSlack社は、同社のチャットサービス「Slack」の新機能として、開発チームの一員としてAIエージェントがチャットに加わり、それまでの開発チームの議論を把握してコーディングを行う「Slack Code」の提供開始...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "「ChatGPT Plus」で5時間制限復活、Work／Codex対象 Proは「数カ月は対象外」",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/25/2000000744/",
-      "date": "2026-08-25T14:11:59+09:00",
-      "dateLabel": "08/25 14:11",
-      "desc": "「5時間制限により計算資源の負荷を平準化でき、週単位の利用枠を手厚く維持できる」",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "「GTA6」の情報をリークした人物を特定するため開発元がDiscord・Microsoft・X・YouTubeにDMCA召喚状を請求",
-      "link": "https://gigazine.net/news/20260825-gta-6-leaks-dmca/",
-      "date": "2026-08-25T13:25:00+09:00",
-      "dateLabel": "08/25 13:25",
-      "desc": "2026年11月19日に発売が予告されている「グランド・セフト・オートVI(GTA6)」は、登場が心待ちにされすぎて本社付近で酸素濃度や音響ノイズやタバコの吸い殻を徹底監視するゲームファンが現れたほか、リーカーによってゲームプレイ映像とマップ画像が拡散されています。これに対し開発元のTake-TwoはDMCA(デジタルミレニアム著作権法)に基づく召喚状を送付",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 26
     }
   ]
 }
