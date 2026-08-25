@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T23:34:17.888482+09:00",
-  "generatedLabel": "2026/08/25 23:34",
+  "generatedAt": "2026-08-26T00:33:13.700079+09:00",
+  "generatedLabel": "2026/08/26 00:33",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 59,
@@ -72,6 +72,17 @@
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
       "score": 66
+    },
+    {
+      "title": "突然登場のM6搭載の「Mac mini」、AI性能は最大4倍アップ＆2.5GbEを標準サポート",
+      "link": "https://ascii.jp/elem/000/004/429/4429335/?rss",
+      "date": "2026-08-25T23:30:00+09:00",
+      "dateLabel": "08/25 23:30",
+      "desc": "アップルは25日、M6とM5 Proを搭載したMac mini新モデルを発表した。すでに予約受付を開始しており、販売開始は9月22日（火）。Mac miniは2024年10月に12.7×12.7cmという手のひらサイズへと大幅に小型化されて登場。それ以来のリニューアルとなる。",
+      "img": "https://ascii.jp/img/2026/08/25/4517236/s/015be4fe1a33cd4f.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 50
     },
     {
       "title": "大量に存在する画像生成AIを同じプロンプトで比較できる「Image benchmarks」をOpenRouterが公開",
@@ -170,17 +181,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "OrcaRouter、AIエージェント名義のアカウント「OrcaID」事前登録受付を開始",
-      "link": "https://ascii.jp/elem/000/004/429/4429325/?rss",
-      "date": "2026-08-25T17:10:00+09:00",
-      "dateLabel": "08/25 17:10",
-      "desc": "OrcaRouter、AIエージェント名義のアカウント「OrcaID」事前登録受付を開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
