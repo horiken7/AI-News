@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-25T13:29:19.674103+09:00",
-  "generatedLabel": "2026/08/25 13:29",
+  "generatedAt": "2026-08-25T14:22:55.500379+09:00",
+  "generatedLabel": "2026/08/25 14:22",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 59,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 18
+      "items": 17
     },
     {
       "source": "CNET Japan",
@@ -72,6 +72,17 @@
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
       "score": 66
+    },
+    {
+      "title": "SORACOM Knowledge MCPサーバー、ChatGPT・Claude・GitHub公式ディレクトリに掲載 数クリックで利用可能に",
+      "link": "https://ascii.jp/elem/000/004/429/4429015/?rss",
+      "date": "2026-08-25T13:30:00+09:00",
+      "dateLabel": "08/25 13:30",
+      "desc": "SORACOMは「SORACOM Knowledge MCPサーバー」をChatGPT、Claude、GitHubの公式ディレクトリ／レジストリに掲載。手動設定不要で数クリックから利用でき、公式ドキュメントやAPIリファレンスなどをAIから参照しやすくなった。",
+      "img": "https://ascii.jp/img/2026/08/25/4516933/s/d3199a4832197e96.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 50
     },
     {
       "title": "SpaceXAIがNVIDIAと協力して宇宙空間で動作するAIシステム計画を本格化＆NVIDIA製AIエージェント用CPU「Vera CPU」の大規模導入も発表",
@@ -118,17 +129,6 @@
       "score": 42
     },
     {
-      "title": "AIエージェント活用を阻む“予算の壁” セールスフォースらの新機能は打開策になり得るか？",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2608/24/news075.html",
-      "date": "2026-08-24T13:30:00+09:00",
-      "dateLabel": "08/24 13:30",
-      "desc": "企業にとってはあらかじめAI利用コストを想定できないと投資が決まらない。そうなると予算が立てられず、ROIの見通しもつかない。そんな企業のAIエージェント活用に立ちはだかる“予算の壁”を打破するにはどうすればよいのか。セールスフォース、IBM、マネーフォワードが提供を開始した最新機能はその打開策となるのか。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "Visual Studio Code 1.133正式リリース。プロンプトを見失わない固定スクロール、ローカルHTMLファイルの自動リロード、ClaudeとCopilotの混在可能など新機能",
       "link": "https://www.publickey1.jp/blog/26/visual_studio_code_1133htmlclaudecopilot.html",
       "date": "2026-08-18T00:42:34+09:00",
@@ -138,6 +138,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 40
+    },
+    {
+      "title": "Copilotを導入し全社横断の生産性を向上（導入事例：大和財託）",
+      "link": "https://ascii.jp/elem/000/004/422/4422702/?rss",
+      "date": "2026-08-25T14:00:00+09:00",
+      "dateLabel": "08/25 14:00",
+      "desc": "大和財託株式会社はソフトクリエイトの伴走支援のもと、ワークショップや社内での活用事例共有などを通じて、全社横断の生産性向上を進めている。その背景と取り組みについて話を伺った。",
+      "img": "https://ascii.jp/img/2026/07/28/4506259/s/262b64b3d289c67a.png",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "Metaが100万GPU規模を想定した新通信プロトコル「MetaRoCE」を発表、パケットロスを前提にEthernetでAIクラスタを高速接続",
@@ -159,28 +170,6 @@
       "img": "https://ascii.jp/img/2026/08/25/4516857/s/188f6a9bf8b10bb9.jpg",
       "src": "ASCII.jp",
       "cat": "AI実装",
-      "score": 34
-    },
-    {
-      "title": "【提言】AIエージェントの“暴走”を防ぐには 安全なAI業務活用には対策が不可欠",
-      "link": "https://ascii.jp/elem/000/004/426/4426794/?rss",
-      "date": "2026-08-25T11:00:00+09:00",
-      "dateLabel": "08/25 11:00",
-      "desc": "企業ビジネスの現場にAIが浸透し始めたなかで、新たな脅威も生まれています。これからさらにAIサービス、AIエージェントの活用を推進していくためには、そうした脅威に対応するための新たなセキュリティ戦略が必要です。元IDC Japanアナリスト、現フォーティネットジャパン Field CISOの登坂恒夫氏による提言です。",
-      "img": "https://ascii.jp/img/2026/08/14/4512887/s/f71e288cd0cb423c.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "営業AIエージェントSTRIX、「Stockwork」へ名称変更",
-      "link": "https://ascii.jp/elem/000/004/428/4428991/?rss",
-      "date": "2026-08-25T10:50:45+09:00",
-      "dateLabel": "08/25 10:50",
-      "desc": "営業AIエージェントSTRIX、「Stockwork」へ名称変更",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -217,13 +206,13 @@
       "score": 34
     },
     {
-      "title": "MCPが新ロードマップを公開、長時間処理やAIエージェント認証など5分野を重点化",
-      "link": "https://gigazine.net/news/20260824-mcp-roadmap/",
-      "date": "2026-08-24T14:20:00+09:00",
-      "dateLabel": "08/24 14:20",
-      "desc": "AIアプリと外部のデータやツールを共通の方法で接続するオープン規格「Model Context Protocol(MCP)」が2026年8月22日に新たなロードマップを公開しました。ロードマップでは単純なツール呼び出しにとどまらず、長時間動作するAIエージェントの処理やエージェント自身の認証、大量のツールを効率よく扱う仕組みなどを今後6～12カ月の重点分野と",
+      "title": "AIエージェント活用を阻む“予算の壁” セールスフォースらの新機能は打開策になり得るか？",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2608/24/news075.html",
+      "date": "2026-08-24T13:30:00+09:00",
+      "dateLabel": "08/24 13:30",
+      "desc": "企業にとってはあらかじめAI利用コストを想定できないと投資が決まらない。そうなると予算が立てられず、ROIの見通しもつかない。そんな企業のAIエージェント活用に立ちはだかる“予算の壁”を打破するにはどうすればよいのか。セールスフォース、IBM、マネーフォワードが提供を開始した最新機能はその打開策となるのか。",
       "img": "",
-      "src": "GIGAZINE",
+      "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 34
     },
@@ -280,6 +269,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "規制/安全",
+      "score": 26
+    },
+    {
+      "title": "Linux版の「ChatGPTデスクトップアプリ」ついに登場 何ができて、何ができない？",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/25/news033.html",
+      "date": "2026-08-25T13:00:00+09:00",
+      "dateLabel": "08/25 13:00",
+      "desc": "「ChatGPT」に加えて「ChatGPT Work」「Codex」も使える、Linux版のデスクトップアプリケーションのプレビュー版が登場した。できることと、できないことを整理しよう。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 26
     }
   ]
