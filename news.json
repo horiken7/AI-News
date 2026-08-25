@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T15:27:55.575453+09:00",
-  "generatedLabel": "2026/08/25 15:27",
+  "generatedAt": "2026-08-25T16:35:33.499993+09:00",
+  "generatedLabel": "2026/08/25 16:35",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 57,
@@ -118,17 +118,6 @@
       "score": 42
     },
     {
-      "title": "なぜいま30Bクラスのオープンモデルが“熱い”のか 「27BパラメータでOpus 4.6超え」も",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000723/",
-      "date": "2026-08-24T16:30:16+09:00",
-      "dateLabel": "08/24 16:30",
-      "desc": "MetaとNVIDIA、Alibabaが30Bクラスのオープンモデルを相次ぎ公開し、国産の「LLM-jp-4 33B」も登場した。このサイズのモデルが今“熱い”理由と留意点を考察する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
       "title": "Visual Studio Code 1.133正式リリース。プロンプトを見失わない固定スクロール、ローカルHTMLファイルの自動リロード、ClaudeとCopilotの混在可能など新機能",
       "link": "https://www.publickey1.jp/blog/26/visual_studio_code_1133htmlclaudecopilot.html",
       "date": "2026-08-18T00:42:34+09:00",
@@ -162,6 +151,17 @@
       "score": 34
     },
     {
+      "title": "候補者の\"AI人格\"に、面接前に何でも聞ける - AI人格対話型適性検査「Altego Fit」提供開始",
+      "link": "https://ascii.jp/elem/000/004/429/4429145/?rss",
+      "date": "2026-08-25T13:00:00+09:00",
+      "dateLabel": "08/25 13:00",
+      "desc": "候補者の\"AI人格\"に、面接前に何でも聞ける - AI人格対話型適性検査「Altego Fit」提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "Metaが100万GPU規模を想定した新通信プロトコル「MetaRoCE」を発表、パケットロスを前提にEthernetでAIクラスタを高速接続",
       "link": "https://gigazine.net/news/20260825-meta-rdma-protocol-metaroce/",
       "date": "2026-08-25T11:53:00+09:00",
@@ -170,17 +170,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "「やだかわいいっっ」 シャープの“おれさま”AIロボが大反響",
-      "link": "https://ascii.jp/elem/000/004/428/4428984/?rss",
-      "date": "2026-08-25T11:40:00+09:00",
-      "dateLabel": "08/25 11:40",
-      "desc": "シャープは8月25日、対話AIキャラクター「ポケとも」の第二弾として、ミーアキャットをモチーフにしたコンパニオンロボットSR-C02M-Hを発表した。",
-      "img": "https://ascii.jp/img/2026/08/25/4516857/s/188f6a9bf8b10bb9.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
       "score": 34
     },
     {
@@ -214,6 +203,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "なぜいま30Bクラスのオープンモデルが“熱い”のか 「27BパラメータでOpus 4.6超え」も",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000723/",
+      "date": "2026-08-24T16:30:16+09:00",
+      "dateLabel": "08/24 16:30",
+      "desc": "MetaとNVIDIA、Alibabaが30Bクラスのオープンモデルを相次ぎ公開し、国産の「LLM-jp-4 33B」も登場した。このサイズのモデルが今“熱い”理由と留意点を考察する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
