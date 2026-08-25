@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-26T00:33:13.700079+09:00",
-  "generatedLabel": "2026/08/26 00:33",
+  "generatedAt": "2026-08-26T01:24:22.203276+09:00",
+  "generatedLabel": "2026/08/26 01:24",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 59,
+  "candidates": 60,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -173,6 +173,17 @@
       "score": 40
     },
     {
+      "title": "サイコム、RTX 50シリーズ搭載BTO購入で『CONTROL Resonant』特典配布キャンペーン開始",
+      "link": "https://ascii.jp/elem/000/004/429/4429223/?rss",
+      "date": "2026-08-26T00:30:00+09:00",
+      "dateLabel": "08/26 00:30",
+      "desc": "サイコムがGeForce RTX 50シリーズ搭載BTOパソコン購入者向けに、『CONTROL Resonant』のゲームコードがもらえるキャンペーンを開始。対象GPUや実施期間、引換期限、おすすめ構成例などの詳細を紹介します。",
+      "img": "https://ascii.jp/img/2026/08/25/4517043/s/e98608bd685d9b26.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
       "title": "メモリブームが半導体企業の本拠地周辺に及ぼす影響とは？Micronのケースから見えてくる新たな億万長者の誕生と雇用の増加、さらには交通渋滞の増加と住宅価格の高騰まで",
       "link": "https://gigazine.net/news/20260825-micron-boise-impact/",
       "date": "2026-08-25T20:00:00+09:00",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "ChatGPT、Gemini、Claude Sonnet 5の“最強”は？ 「速度」と「安定性」を実測して比べてみた",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/24/news049.html",
-      "date": "2026-08-24T13:00:00+09:00",
-      "dateLabel": "08/24 13:00",
-      "desc": "主要なAIチャットサービスの「ChatGPT」「Gemini」「Claude Sonnet 5」の中で、応答速度が一番速いのはどれなのか。時間帯によって速度は変わるのか。測定値はどれだけ安定しているのか。実測を基に検証する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
       "score": 34
     }
   ]
