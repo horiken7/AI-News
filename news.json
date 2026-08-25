@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-25T17:30:05.005944+09:00",
-  "generatedLabel": "2026/08/25 17:30",
+  "generatedAt": "2026-08-25T18:24:43.389313+09:00",
+  "generatedLabel": "2026/08/25 18:24",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 58,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 17
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -74,6 +74,17 @@
       "score": 66
     },
     {
+      "title": "大量に存在する画像生成AIを同じプロンプトで比較できる「Image benchmarks」をOpenRouterが公開",
+      "link": "https://gigazine.net/news/20260825-openrouter-image-benchmarks/",
+      "date": "2026-08-25T18:11:00+09:00",
+      "dateLabel": "08/25 18:11",
+      "desc": "GoogleやOpenAIなど数多くのAI企業が画像生成AIをリリースしていますが、画像生成AIの性能は「プロンプトに対する忠実度」「テキスト描画の精度」「画像編集の正確さ」など多様な要素が絡んでおり、用途によって適切なAIは変化します。OpenRouterが公開している「Image benchmarks」では各種画像生成AIに同じプロンプトを入力した結果を",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
       "title": "自分のスマホのAI実行性能を測定できるベンチマークアプリ「Pipette」を使ってみた",
       "link": "https://gigazine.net/news/20260825-pipette-phone-ai/",
       "date": "2026-08-25T17:22:00+09:00",
@@ -93,6 +104,17 @@
       "img": "https://ascii.jp/img/2026/08/25/4517062/s/7d9297229dd9323d.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
+      "score": 42
+    },
+    {
+      "title": "音楽著作権の新時代を拓く価値評価システム『弁財天』を発表",
+      "link": "https://ascii.jp/elem/000/004/429/4429252/?rss",
+      "date": "2026-08-25T16:57:41+09:00",
+      "dateLabel": "08/25 16:57",
+      "desc": "音楽著作権の新時代を拓く価値評価システム『弁財天』を発表",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "規制/安全",
       "score": 42
     },
     {
@@ -151,6 +173,28 @@
       "score": 34
     },
     {
+      "title": "HTML・CSSからJavaScript、React、TypeScript、APIまで学ぶ無料100話「Code Trail」を公開 アカウント登録だけで始められます",
+      "link": "https://ascii.jp/elem/000/004/429/4429251/?rss",
+      "date": "2026-08-25T16:59:30+09:00",
+      "dateLabel": "08/25 16:59",
+      "desc": "HTML・CSSからJavaScript、React、TypeScript、APIまで学ぶ無料100話「Code Trail」を公開 アカウント登録だけで始められます",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "転職活動を2週間で区切る個人ボード「Aile Scrum Board」を公開 目標・毎日ひとこと・振り返りまで登録なしで試せます",
+      "link": "https://ascii.jp/elem/000/004/429/4429254/?rss",
+      "date": "2026-08-25T16:29:03+09:00",
+      "dateLabel": "08/25 16:29",
+      "desc": "転職活動を2週間で区切る個人ボード「Aile Scrum Board」を公開 目標・毎日ひとこと・振り返りまで登録なしで試せます",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "シャープ、対話型AIロボ「ポケとも」に新モデル あえて“全肯定しないキャラ”に 「暇だなー」と話しかけると……",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/25/2000000747/",
       "date": "2026-08-25T15:56:11+09:00",
@@ -162,17 +206,6 @@
       "score": 34
     },
     {
-      "title": "AI時代の新職種「GTM Engineer（GTMエンジニア）」の育成支援サービスを提供開始",
-      "link": "https://ascii.jp/elem/000/004/429/4429233/?rss",
-      "date": "2026-08-25T14:34:45+09:00",
-      "dateLabel": "08/25 14:34",
-      "desc": "AI時代の新職種「GTM Engineer（GTMエンジニア）」の育成支援サービスを提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "動画生成AI「Wan3.0」が正式リリースされる、最大30秒生成可能で「製品企画スライドを読み込ませてPV作成」など情報分析精度が大幅に向上",
       "link": "https://gigazine.net/news/20260825-alibaba-wan-3-0/",
       "date": "2026-08-25T14:30:00+09:00",
@@ -181,17 +214,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "Copilotを導入し全社横断の生産性を向上（導入事例：大和財託）",
-      "link": "https://ascii.jp/elem/000/004/422/4422702/?rss",
-      "date": "2026-08-25T14:00:00+09:00",
-      "dateLabel": "08/25 14:00",
-      "desc": "大和財託株式会社はソフトクリエイトの伴走支援のもと、ワークショップや社内での活用事例共有などを通じて、全社横断の生産性向上を進めている。その背景と取り組みについて話を伺った。",
-      "img": "https://ascii.jp/img/2026/07/28/4506259/s/262b64b3d289c67a.png",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -228,17 +250,6 @@
       "score": 34
     },
     {
-      "title": "【復旧済み】「Claude」で障害発生中",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000719/",
-      "date": "2026-08-24T17:55:15+09:00",
-      "dateLabel": "08/24 17:55",
-      "desc": "米AnthropicのAIサービス「Claude」「Claude Code」などで障害が発生している。同社のステータスサイトによると、日本時間の8月24日午後2時27分時点でエラーの原因を特定し、修正作業中という。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "なぜいま30Bクラスのオープンモデルが“熱い”のか 「27BパラメータでOpus 4.6超え」も",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000723/",
       "date": "2026-08-24T16:30:16+09:00",
@@ -268,17 +279,6 @@
       "desc": "主要なAIチャットサービスの「ChatGPT」「Gemini」「Claude Sonnet 5」の中で、応答速度が一番速いのはどれなのか。時間帯によって速度は変わるのか。測定値はどれだけ安定しているのか。実測を基に検証する。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Rustに移植された「Bun 1.4」正式リリース。Node.jsとの互換性向上でPlaywrightやvitestが動作、CPUとメモリの使用率が大幅改善、正規表現が高速化など",
-      "link": "https://www.publickey1.jp/blog/26/rustbun_14nodejsplaywrightvitestcpu.html",
-      "date": "2026-08-24T00:58:41+09:00",
-      "dateLabel": "08/24 00:58",
-      "desc": "サーバサイドJavaScriptランタイムのBunの最新版となる「Bun 1.4」正式版のリリースが発表されました。 Bun 1.4は、これまでZig言語で開発されていたものをClaude Codeを使ってRustに書き直した最初のバージョ...",
-      "img": "",
-      "src": "Publickey",
       "cat": "LLM/モデル",
       "score": 34
     }
