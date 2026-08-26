@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-27T03:49:35.039310+09:00",
-  "generatedLabel": "2026/08/27 03:49",
+  "generatedAt": "2026-08-27T06:27:46.632050+09:00",
+  "generatedLabel": "2026/08/27 06:27",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 53,
@@ -96,17 +96,6 @@
       "score": 50
     },
     {
-      "title": "「Jetson Orin Nano 2」は推論性能が2倍、エッジ生成AIもリアルタイム処理可能",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2608/26/news048.html",
-      "date": "2026-08-26T06:15:00+09:00",
-      "dateLabel": "08/26 06:15",
-      "desc": "NVIDIAは、組み込み機器向けAIモジュール「Jetson Orin」の新たなラインアップとなる「Jetson Orin Nano 2」を発表した。現行の「Jetson Orin Nano」のメモリ容量8GBモデルと比べて推論性能が2倍に向上した一方で、同じ推論性能であれば消費電力を40％削減できるという。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
       "title": "性能も見た目も妥協なし！ Ryzen 7 9700X＋RTX 5070搭載の“魅せる”ゲーミングPC",
       "link": "https://ascii.jp/elem/000/004/429/4429718/?rss",
       "date": "2026-08-26T21:00:00+09:00",
@@ -134,6 +123,17 @@
       "date": "2026-08-26T11:17:10+09:00",
       "dateLabel": "08/26 11:17",
       "desc": "EXO Labsが、「M5 Ultra」搭載の新型「Mac Studio」4台のクラスタで約4.8TB/sのメモリ帯域幅を実現できると発表。データセンター級の速度で、「Kimi K3」など巨大LLMをローカル実行できるとうたう。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "「Jetson Orin Nano 2」は推論性能が2倍、エッジ生成AIもリアルタイム処理可能",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2608/26/news048.html",
+      "date": "2026-08-26T06:15:00+09:00",
+      "dateLabel": "08/26 06:15",
+      "desc": "NVIDIAは、組み込み機器向けAIモジュール「Jetson Orin」の新たなラインアップとなる「Jetson Orin Nano 2」を発表した。現行の「Jetson Orin Nano」のメモリ容量8GBモデルと比べて推論性能が2倍に向上した一方で、同じ推論性能であれば消費電力を40％削減できるという。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
