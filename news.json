@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-26T17:30:40.580071+09:00",
-  "generatedLabel": "2026/08/26 17:30",
+  "generatedAt": "2026-08-26T18:30:40.527407+09:00",
+  "generatedLabel": "2026/08/26 18:30",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 54,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 1
     },
     {
       "source": "PC Watch",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "「Perplexity Computer」の完全ローカル版「Portable Computer」をPerplexityがリリース",
+      "link": "https://gigazine.net/news/20260826-perplexity-portable-computer/",
+      "date": "2026-08-26T17:45:00+09:00",
+      "dateLabel": "08/26 17:45",
+      "desc": "Perplexityが2026年2月に公開したAIエージェント「Perplexity Computer」の完全ローカル版にあたる「Portable Computer」をリリースしました。LLMもハーネスも一切クラウドに依存せず、すべてがローカルハードウェア上で動作するのが特徴です。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
       "title": "OpenAIがカスタム推論チップ「Jalapeño」のベンチマーク結果を公開、高スループットと低レイテンシを単一アーキテクチャで両立",
       "link": "https://gigazine.net/news/20260826-jalapeno-ai-inference-results/",
       "date": "2026-08-26T13:45:00+09:00",
@@ -93,17 +104,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
-      "title": "大量に存在する画像生成AIを同じプロンプトで比較できる「Image benchmarks」をOpenRouterが公開",
-      "link": "https://gigazine.net/news/20260825-openrouter-image-benchmarks/",
-      "date": "2026-08-25T18:11:00+09:00",
-      "dateLabel": "08/25 18:11",
-      "desc": "GoogleやOpenAIなど数多くのAI企業が画像生成AIをリリースしていますが、画像生成AIの性能は「プロンプトに対する忠実度」「テキスト描画の精度」「画像編集の正確さ」など多様な要素が絡んでおり、用途によって適切なAIは変化します。OpenRouterが公開している「Image benchmarks」では各種画像生成AIに同じプロンプトを入力した結果を",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 50
     },
     {
@@ -140,6 +140,17 @@
       "score": 42
     },
     {
+      "title": "大量に存在する画像生成AIを同じプロンプトで比較できる「Image benchmarks」をOpenRouterが公開",
+      "link": "https://gigazine.net/news/20260825-openrouter-image-benchmarks/",
+      "date": "2026-08-25T18:11:00+09:00",
+      "dateLabel": "08/25 18:11",
+      "desc": "GoogleやOpenAIなど数多くのAI企業が画像生成AIをリリースしていますが、画像生成AIの性能は「プロンプトに対する忠実度」「テキスト描画の精度」「画像編集の正確さ」など多様な要素が絡んでおり、用途によって適切なAIは変化します。OpenRouterが公開している「Image benchmarks」では各種画像生成AIに同じプロンプトを入力した結果を",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "Visual Studio Code 1.133正式リリース。プロンプトを見失わない固定スクロール、ローカルHTMLファイルの自動リロード、ClaudeとCopilotの混在可能など新機能",
       "link": "https://www.publickey1.jp/blog/26/visual_studio_code_1133htmlclaudecopilot.html",
       "date": "2026-08-18T00:42:34+09:00",
@@ -149,17 +160,6 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 40
-    },
-    {
-      "title": "M5搭載MacBook Airがセールで4万1000円引き！ 持ち運びに最適な13インチ＆1TBモデル",
-      "link": "https://ascii.jp/elem/000/004/429/4429523/?rss",
-      "date": "2026-08-26T15:00:00+09:00",
-      "dateLabel": "08/26 15:00",
-      "desc": "Amazon.co.jpで「MacBook Air M5」がタイムセールを実施中。超高性能M5チップと、最大18時間フル稼働できる内蔵バッテリーを搭載。13インチで極薄と持ち運びやすいサイズ感が好評です。",
-      "img": "https://ascii.jp/img/2026/08/26/4517591/s/b32f95d85a6fc295.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
     },
     {
       "title": "「取りあえずChatGPT」はもう古い？ 2社に1社が複数AIを併用、企業はどう管理すべきか",
@@ -228,17 +228,6 @@
       "score": 34
     },
     {
-      "title": "自分のスマホのAI実行性能を測定できるベンチマークアプリ「Pipette」を使ってみた",
-      "link": "https://gigazine.net/news/20260825-pipette-phone-ai/",
-      "date": "2026-08-25T17:22:00+09:00",
-      "dateLabel": "08/25 17:22",
-      "desc": "AI開発企業のLiquid AIがスマートフォンのAI実行性能を測定するベンチマークアプリ「Pipette」をリリースしました。無料でGemmaシリーズやQwenシリーズなど複数のAIモデルを用いたテストが可能とのことなので、実際にiPhone 17 Proにインストールして使ってみました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "Rustに移植された「Bun 1.4」正式リリース。Node.jsとの互換性向上でPlaywrightやvitestが動作、CPUとメモリの使用率が大幅改善、正規表現が高速化など",
       "link": "https://www.publickey1.jp/blog/26/rustbun_14nodejsplaywrightvitestcpu.html",
       "date": "2026-08-24T00:58:41+09:00",
@@ -272,14 +261,25 @@
       "score": 26
     },
     {
-      "title": "いま本当に使えるSaaS 100選【情シス・セキュリティ編】 エントリー77～80は攻撃遮断くんやCData Connect AI【Tier付け】",
-      "link": "https://ascii.jp/elem/000/004/429/4429461/?rss",
-      "date": "2026-08-26T15:34:00+09:00",
-      "dateLabel": "08/26 15:34",
-      "desc": "世の中に星の数ほどSaaSがあるが、本当に使えるSaaSはどれなのか？ いま本当に使えるSaaSを編集部で100本選抜。先行アンケートで得た情シスの意見を元に、編集部でTier付けしました。今回はその中の情シス・セキュリティ20本をリストアップし、1記事4本ずつ、計5本の特集として紹介していきます。こちらは5本目です。",
-      "img": "https://ascii.jp/img/2026/08/26/4517541/s/2341ff4e12c9e777.png",
-      "src": "ASCII.jp",
+      "title": "「AIエージェントを本番運用中」日本が最下位 “PoC止まり”の原因と、抜け出す方法は？",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/26/news040.html",
+      "date": "2026-08-26T13:00:00+09:00",
+      "dateLabel": "08/26 13:00",
+      "desc": "AIエージェントなど自律型AIを本番運用している日本企業は17％にとどまることが、Confluentの調査で分かった。活用を進める上での課題とは何か。その解決策とは。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "AIとウェブサイトの連携を深める「WebMCP」にデスクトップ版ChatGPTが対応",
+      "link": "https://gigazine.net/news/20260826-chatgpt-webmcp/",
+      "date": "2026-08-26T12:13:00+09:00",
+      "dateLabel": "08/26 12:13",
+      "desc": "デスクトップ版ChatGPTアプリの内蔵ブラウザがWebMCPに対応しました。これにより、WebMCP対応ウェブサイトの情報をChatGPTやCodexで扱いやすくなります。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 26
     }
   ]
