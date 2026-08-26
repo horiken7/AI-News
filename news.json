@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-26T18:30:40.527407+09:00",
-  "generatedLabel": "2026/08/26 18:30",
+  "generatedAt": "2026-08-26T19:24:14.455736+09:00",
+  "generatedLabel": "2026/08/26 19:24",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 52,
@@ -162,6 +162,17 @@
       "score": 40
     },
     {
+      "title": "最大11万円OFF！ マウスコンピューター半期決算セール、9月16日まで",
+      "link": "https://ascii.jp/elem/000/004/429/4429614/?rss",
+      "date": "2026-08-26T18:45:00+09:00",
+      "dateLabel": "08/26 18:45",
+      "desc": "マウスコンピューターが9月16日まで「半期決算セール」を開催。mouse、G TUNE、DAIVの対象PCが最大11万円引きに。ゲーミングPCやCopilot+ PCなど、注目モデルとセール価格を紹介します。",
+      "img": "https://ascii.jp/img/2026/08/26/4517752/s/0655020a2346950d.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
       "title": "「取りあえずChatGPT」はもう古い？ 2社に1社が複数AIを併用、企業はどう管理すべきか",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/26/news044.html",
       "date": "2026-08-26T13:00:00+09:00",
@@ -250,36 +261,25 @@
       "score": 34
     },
     {
-      "title": "約785gと超軽量なのに重めのアクションゲームがヌルヌル動くArc G3 Extreme搭載ポータブルゲーミングPC：ソフマップ なんば店",
-      "link": "https://ascii.jp/elem/000/004/428/4428909/?rss",
-      "date": "2026-08-26T16:00:00+09:00",
-      "dateLabel": "08/26 16:00",
-      "desc": "店舗スタッフの梅島穣さんがオススメする製品は、MSIのポータブルゲーミングPC「Claw 8 EX AI+ CG3EM」です。",
-      "img": "https://ascii.jp/img/2026/08/24/4516506/s/38f33414438b0318.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "「AIエージェントを本番運用中」日本が最下位 “PoC止まり”の原因と、抜け出す方法は？",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/26/news040.html",
-      "date": "2026-08-26T13:00:00+09:00",
-      "dateLabel": "08/26 13:00",
-      "desc": "AIエージェントなど自律型AIを本番運用している日本企業は17％にとどまることが、Confluentの調査で分かった。活用を進める上での課題とは何か。その解決策とは。",
+      "title": "非公開の「AI学習データ工場」に潜入 人型ロボ30台超が稼働、意外と知らない「データ収集」の裏側とは",
+      "link": "https://www.itmedia.co.jp/business/articles/2608/26/news082.html",
+      "date": "2026-08-26T18:10:00+09:00",
+      "dateLabel": "08/26 18:10",
+      "desc": "フィジカルAI用の学習データを収集する施設「J-HRTI 関東データファクトリー」が稼働した。内部には、約30体のロボットが並び、作業を繰り返している。同施設の全容と狙いを、潜入レポートとして紹介する。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
+      "cat": "AI実装",
       "score": 26
     },
     {
-      "title": "AIとウェブサイトの連携を深める「WebMCP」にデスクトップ版ChatGPTが対応",
-      "link": "https://gigazine.net/news/20260826-chatgpt-webmcp/",
-      "date": "2026-08-26T12:13:00+09:00",
-      "dateLabel": "08/26 12:13",
-      "desc": "デスクトップ版ChatGPTアプリの内蔵ブラウザがWebMCPに対応しました。これにより、WebMCP対応ウェブサイトの情報をChatGPTやCodexで扱いやすくなります。 続きを読む...",
+      "title": "韓国SK Hynix、宮城県に半導体工場の計画浮上 「何か知り得ているものはない」と村井知事",
+      "link": "https://www.itmedia.co.jp/news/article/2608/26/2000000820/",
+      "date": "2026-08-26T17:55:22+09:00",
+      "dateLabel": "08/26 17:55",
+      "desc": "韓国半導体大手SKハイニックスが宮城県にメモリー工場を建設する計画が浮上したことについて、宮城県の村井嘉浩知事は26日の定例記者会見で「いろんな半導体関連企業にアプローチしたのは事実だが、今回の件で県として何か知り得ているものはない」と述べ、今後も動向を注視する考えを示した。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
       "score": 26
     }
   ]
