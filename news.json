@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-26T16:37:30.197663+09:00",
-  "generatedLabel": "2026/08/26 16:37",
+  "generatedAt": "2026-08-26T17:30:40.580071+09:00",
+  "generatedLabel": "2026/08/26 17:30",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 54,
@@ -140,17 +140,6 @@
       "score": 42
     },
     {
-      "title": "自分のスマホのAI実行性能を測定できるベンチマークアプリ「Pipette」を使ってみた",
-      "link": "https://gigazine.net/news/20260825-pipette-phone-ai/",
-      "date": "2026-08-25T17:22:00+09:00",
-      "dateLabel": "08/25 17:22",
-      "desc": "AI開発企業のLiquid AIがスマートフォンのAI実行性能を測定するベンチマークアプリ「Pipette」をリリースしました。無料でGemmaシリーズやQwenシリーズなど複数のAIモデルを用いたテストが可能とのことなので、実際にiPhone 17 Proにインストールして使ってみました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 42
-    },
-    {
       "title": "Visual Studio Code 1.133正式リリース。プロンプトを見失わない固定スクロール、ローカルHTMLファイルの自動リロード、ClaudeとCopilotの混在可能など新機能",
       "link": "https://www.publickey1.jp/blog/26/visual_studio_code_1133htmlclaudecopilot.html",
       "date": "2026-08-18T00:42:34+09:00",
@@ -236,6 +225,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "自分のスマホのAI実行性能を測定できるベンチマークアプリ「Pipette」を使ってみた",
+      "link": "https://gigazine.net/news/20260825-pipette-phone-ai/",
+      "date": "2026-08-25T17:22:00+09:00",
+      "dateLabel": "08/25 17:22",
+      "desc": "AI開発企業のLiquid AIがスマートフォンのAI実行性能を測定するベンチマークアプリ「Pipette」をリリースしました。無料でGemmaシリーズやQwenシリーズなど複数のAIモデルを用いたテストが可能とのことなので、実際にiPhone 17 Proにインストールして使ってみました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
       "score": 34
     },
     {
