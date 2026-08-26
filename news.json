@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-26T09:40:23.114899+09:00",
-  "generatedLabel": "2026/08/26 09:40",
+  "generatedAt": "2026-08-26T11:19:04.250452+09:00",
+  "generatedLabel": "2026/08/26 11:19",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 65,
+  "candidates": 66,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 11
+      "items": 12
     },
     {
       "source": "PC Watch",
@@ -63,25 +63,14 @@
   ],
   "articles": [
     {
-      "title": "NVIDIAのAIエージェント「AVO」がARC-AGI-3で100％を達成、同じベースモデルの別条件での評価は約30％で「実行基盤(ハーネス)」の重要性が示される",
-      "link": "https://gigazine.net/news/20260825-nvidia-avo/",
-      "date": "2026-08-25T08:00:00+09:00",
-      "dateLabel": "08/25 08:00",
-      "desc": "NVIDIAが開発するAIエージェントシステム「Agentic Variation Operators(AVO)」が、AIが未知の環境とやり取りしながら推論する能力を測るベンチマーク「ARC-AGI-3」の公開セットで100％のスコアを達成しました。ベースに使われたClaude Opus 5について、ARC-AGI-3を開発したARC Prizeが別条件のモ",
+      "title": "AppleがM6とM5 Ultraを発表、M5 Ultraは最大512GBのメモリを搭載し大型AIモデルをローカル実行可能",
+      "link": "https://gigazine.net/news/20260826-apple-m6-m5-ultra/",
+      "date": "2026-08-26T10:45:00+09:00",
+      "dateLabel": "08/26 10:45",
+      "desc": "Appleシリコン「M6」と「M5 Ultra」が現地時間の2026年8月25日に発表されました。M6は2nmプロセスで生産されるSoCでM5と比べてCPUコアとGPUコアが増加しているのが特徴。M5 Ultraは最大512GBのユニファイドメモリを搭載可能でローカルで大型のAIモデルを実行してエージェントタスクやコンテンツ生成に利用できることがアピールされ",
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 58
-    },
-    {
-      "title": "機密データを自社環境内で処理するAIエージェント",
-      "link": "https://ascii.jp/elem/000/004/428/4428548/?rss",
-      "date": "2026-08-26T07:00:00+09:00",
-      "dateLabel": "08/26 07:00",
-      "desc": "株式会社Athena Technologiesは8月20日、自社管理環境で動作するビジネス向けAIエージェント「Athena Works」の提供を開始した。ローカルLLM環境で処理を完結させることで、機密データを外部に送信せずに資料作成などの作業を自動化する仕組みとして提供される。",
-      "img": "https://ascii.jp/img/2026/08/21/4515602/s/c4333d9de32dbfc8.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
       "score": 50
     },
     {
@@ -96,17 +85,6 @@
       "score": 50
     },
     {
-      "title": "突然登場のM6搭載の「Mac mini」、AI性能は最大4倍アップ＆2.5GbEを標準サポート",
-      "link": "https://ascii.jp/elem/000/004/429/4429335/?rss",
-      "date": "2026-08-25T23:30:00+09:00",
-      "dateLabel": "08/25 23:30",
-      "desc": "アップルは25日、M6とM5 Proを搭載したMac mini新モデルを発表した。すでに予約受付を開始しており、販売開始は9月22日（火）。Mac miniは2024年10月に12.7×12.7cmという手のひらサイズへと大幅に小型化されて登場。それ以来のリニューアルとなる。",
-      "img": "https://ascii.jp/img/2026/08/25/4517236/s/015be4fe1a33cd4f.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 50
-    },
-    {
       "title": "大量に存在する画像生成AIを同じプロンプトで比較できる「Image benchmarks」をOpenRouterが公開",
       "link": "https://gigazine.net/news/20260825-openrouter-image-benchmarks/",
       "date": "2026-08-25T18:11:00+09:00",
@@ -118,6 +96,28 @@
       "score": 50
     },
     {
+      "title": "ソフトクリエイト「Safe AI Gateway」が画像・図表対応、マルチモーダルRAGを提供開始",
+      "link": "https://ascii.jp/elem/000/004/429/4429344/?rss",
+      "date": "2026-08-26T11:00:00+09:00",
+      "dateLabel": "08/26 11:00",
+      "desc": "ソフトクリエイトは「Safe AI Gateway」に、画像や図表も検索・回答に活用できるマルチモーダルRAGを搭載。PDFやマニュアルをそのままナレッジ化でき、対象プランでは追加費用なしで利用できます。",
+      "img": "https://ascii.jp/img/2026/08/26/4517281/s/e2ece1563cee282a.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 42
+    },
+    {
+      "title": "アップル新型Mac、ローカルAI界隈で話題になったワケ",
+      "link": "https://ascii.jp/elem/000/004/429/4429358/?rss",
+      "date": "2026-08-26T10:45:00+09:00",
+      "dateLabel": "08/26 10:45",
+      "desc": "アップルは8月25日、新型Mac miniとMac Studioを発表した。発表後、ローカルLLMユーザーのあいだで注目されたのが1.2TB/sというスペックだ。",
+      "img": "https://ascii.jp/img/2026/08/26/4517349/s/c5dff2caa5691847.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "ROG、720Hz対応OLEDモニターを発表！ Wi-Fi 8ルーターや「鬼武者」限定GPUも",
       "link": "https://ascii.jp/elem/000/004/429/4429348/?rss",
       "date": "2026-08-26T09:30:00+09:00",
@@ -126,6 +126,17 @@
       "img": "https://ascii.jp/img/2026/08/26/4517297/s/f60cec37071b2d7c.jpg",
       "src": "ASCII.jp",
       "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "【Gemini月間利用者10億人突破】“AIに話しかける時代”に、自社のデータは「探せる」状態にあるか？『AI × Data Weekly Insight』を無料公開",
+      "link": "https://ascii.jp/elem/000/004/429/4429368/?rss",
+      "date": "2026-08-26T08:50:00+09:00",
+      "dateLabel": "08/26 08:50",
+      "desc": "【Gemini月間利用者10億人突破】“AIに話しかける時代”に、自社のデータは「探せる」状態にあるか？『AI × Data Weekly Insight』を無料公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -147,17 +158,6 @@
       "desc": "中国への高性能AIチップおよびAIサーバーの密輸取り締まりを行っていた台湾基隆地方検察署が、NVIDIA台湾支社の従業員やPC機器メーカー・Supermicroの従業員を含む9名を起訴したことを発表しました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "FPSも大作ゲームもこれ1台！ Ryzen 7 7800X3D×RX 9060 XT 16GBを30万円以内で",
-      "link": "https://ascii.jp/elem/000/004/429/4429227/?rss",
-      "date": "2026-08-25T19:00:00+09:00",
-      "dateLabel": "08/25 19:00",
-      "desc": "高fpsで遊びたいなら、GPUだけでなくCPU性能にもこだわりたい。Ryzen 7 7800X3DとRadeon RX 9060 XT 16GB、32GBメモリを搭載しながら28万9800円に収めたSTORMのゲーミングPCを紹介する。",
-      "img": "https://ascii.jp/img/2026/07/29/4507189/s/3288b8c583974ca6.png",
-      "src": "ASCII.jp",
       "cat": "半導体/GPU",
       "score": 42
     },
@@ -206,6 +206,61 @@
       "score": 40
     },
     {
+      "title": "Lenovoが2.5K 165Hz OLEDディスプレイ・Snapdragon 8 Elite Gen 5プロセッサ・24GB RAMを搭載したフラッグシップゲーミングタブレットを発表",
+      "link": "https://gigazine.net/news/20260826-lenovo-legion-y700-infinite/",
+      "date": "2026-08-26T11:11:00+09:00",
+      "dateLabel": "08/26 11:11",
+      "desc": "Lenovoが8.4インチタブレットの「Legion Y700 Infinite」を中国で発売しました。モバイル端末向けの高性能SoC「Snapdragon 8 Elite Gen 5」搭載で、ゲーミング端末という位置づけになっています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "「Control Resonant」PC版を無料配布、GIGABYTEのRTX 50シリーズ購入者限定",
+      "link": "https://ascii.jp/elem/000/004/429/4429352/?rss",
+      "date": "2026-08-26T10:30:00+09:00",
+      "dateLabel": "08/26 10:30",
+      "desc": "GIGABYTEが、対象のGeForce RTX 50シリーズ搭載製品購入者に「Control Resonant」PC版を提供するキャンペーンを開始。対象GPUや実施期間、クーポンの引き換え期限を紹介します。",
+      "img": "https://ascii.jp/img/2026/08/26/4517332/s/3893aa2e135f8b68.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "AI検索対策計測ツール「DolphinX AIO」、AI検索での「競合比較分析機能」を正式リリース｜ブランド推薦シェア比較・質問別の勝敗判定・サイト引用比較を一括提供 2026",
+      "link": "https://ascii.jp/elem/000/004/429/4429360/?rss",
+      "date": "2026-08-26T09:14:58+09:00",
+      "dateLabel": "08/26 09:14",
+      "desc": "AI検索対策計測ツール「DolphinX AIO」、AI検索での「競合比較分析機能」を正式リリース｜ブランド推薦シェア比較・質問別の勝敗判定・サイト引用比較を一括提供 2026",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "Baya Systems、日本市場への本格展開を開始、次世代AI半導体設計の進化を後押し",
+      "link": "https://ascii.jp/elem/000/004/429/4429365/?rss",
+      "date": "2026-08-26T09:00:00+09:00",
+      "dateLabel": "08/26 09:00",
+      "desc": "Baya Systems、日本市場への本格展開を開始、次世代AI半導体設計の進化を後押し",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "LLMO施策の日本語圏と英語圏の差異を比較【株式会社トドオナダ】",
+      "link": "https://ascii.jp/elem/000/004/429/4429363/?rss",
+      "date": "2026-08-26T09:00:00+09:00",
+      "dateLabel": "08/26 09:00",
+      "desc": "LLMO施策の日本語圏と英語圏の差異を比較【株式会社トドオナダ】",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "Clouderaが5年をかけた技術革新の集大成「Anywhere Cloud」発表",
       "link": "https://ascii.jp/elem/000/004/429/4429337/?rss",
       "date": "2026-08-26T09:00:00+09:00",
@@ -225,61 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "ビックカメラの実店舗で借りて試せる新サービス",
-      "link": "https://ascii.jp/elem/000/004/429/4429038/?rss",
-      "date": "2026-08-26T07:00:00+09:00",
-      "dateLabel": "08/26 07:00",
-      "desc": "株式会社エアークローゼットは8月14日、家電等のレンタルサービス「airCloset Mall」において、株式会社ビックカメラが8月29日に開店するビックカメラ浦和西口店へ「持ち帰りレンタル」の提供店舗を拡大すると発表した。",
-      "img": "https://ascii.jp/img/2026/08/25/4516951/s/e7340334262c8f85.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "UnslothがAIの性能をなるべく維持しつつ省メモリ化する次世代量子化手法「Unsloth Dynamic 3.0 GGUF」を開発",
-      "link": "https://gigazine.net/news/20260826-dynamic-3.0-ggufs/",
-      "date": "2026-08-26T07:00:00+09:00",
-      "dateLabel": "08/26 07:00",
-      "desc": "UnslothUnslothはAIモデルの量子化に取り組んでいる企業で、GoogleやAlibabaなどのAI企業がオープンモデルを公開すると数日以内にUnslothによる量子化版が公開されるのが恒例となっています。そんなUnslothが新たな量子化手法「Unsloth Dynamic 3.0 GGUF(以下Dynamic 3.0)」を開発し、その詳細を公開",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "サイコム、RTX 50シリーズ搭載BTO購入で『CONTROL Resonant』特典配布キャンペーン開始",
-      "link": "https://ascii.jp/elem/000/004/429/4429223/?rss",
-      "date": "2026-08-26T00:30:00+09:00",
-      "dateLabel": "08/26 00:30",
-      "desc": "サイコムがGeForce RTX 50シリーズ搭載BTOパソコン購入者向けに、『CONTROL Resonant』のゲームコードがもらえるキャンペーンを開始。対象GPUや実施期間、引換期限、おすすめ構成例などの詳細を紹介します。",
-      "img": "https://ascii.jp/img/2026/08/25/4517043/s/e98608bd685d9b26.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "メモリブームが半導体企業の本拠地周辺に及ぼす影響とは？Micronのケースから見えてくる新たな億万長者の誕生と雇用の増加、さらには交通渋滞の増加と住宅価格の高騰まで",
-      "link": "https://gigazine.net/news/20260825-micron-boise-impact/",
-      "date": "2026-08-25T20:00:00+09:00",
-      "dateLabel": "08/25 20:00",
-      "desc": "AIブームにより、AI開発に必要なデータセンターや発電施設、部品の製造工場が世界各地に建設され始めており、施設周辺地域の開発が進む例がいくつか見られます。日本だとTSMCが熊本県菊陽町に半導体工場を建設した事例があり、内閣府のまとめでは工場周辺の地価や賃料が大きく上昇していることが分かっています。海外メディアのCNBCは、アメリカのアイダホ州ボイシにある半導",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "シャープ、対話型AIロボ「ポケとも」に新モデル あえて“全肯定しないキャラ”に 「暇だなー」と話しかけると……",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/25/2000000747/",
-      "date": "2026-08-25T15:56:11+09:00",
-      "dateLabel": "08/25 15:56",
-      "desc": "シャープは対話型のAIロボット「ポケとも」の新モデルを発表した。従来のモデルとは性格を変え、あえてユーザーを“全肯定しないキャラクター”にした。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI実装",
       "score": 34
     }
   ]
