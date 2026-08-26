@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-26T15:29:34.882396+09:00",
-  "generatedLabel": "2026/08/26 15:29",
+  "generatedAt": "2026-08-26T16:37:30.197663+09:00",
+  "generatedLabel": "2026/08/26 16:37",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 2
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -195,17 +195,6 @@
       "score": 34
     },
     {
-      "title": "「LLMOチェキ」、競合の引用元を丸裸にする「ドメイン逆引き分析」を追加、AI改善提案も大幅強化",
-      "link": "https://ascii.jp/elem/000/004/429/4429536/?rss",
-      "date": "2026-08-26T11:30:00+09:00",
-      "dateLabel": "08/26 11:30",
-      "desc": "「LLMOチェキ」、競合の引用元を丸裸にする「ドメイン逆引き分析」を追加、AI改善提案も大幅強化",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "Lenovoが2.5K 165Hz OLEDディスプレイ・Snapdragon 8 Elite Gen 5プロセッサ・24GB RAMを搭載したフラッグシップゲーミングタブレットを発表",
       "link": "https://gigazine.net/news/20260826-lenovo-legion-y700-infinite/",
       "date": "2026-08-26T11:11:00+09:00",
@@ -250,17 +239,6 @@
       "score": 34
     },
     {
-      "title": "シャープ、対話型AIロボ「ポケとも」に新モデル あえて“全肯定しないキャラ”に 「暇だなー」と話しかけると……",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/25/2000000747/",
-      "date": "2026-08-25T15:56:11+09:00",
-      "dateLabel": "08/25 15:56",
-      "desc": "シャープは対話型のAIロボット「ポケとも」の新モデルを発表した。従来のモデルとは性格を変え、あえてユーザーを“全肯定しないキャラクター”にした。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI実装",
-      "score": 34
-    },
-    {
       "title": "Rustに移植された「Bun 1.4」正式リリース。Node.jsとの互換性向上でPlaywrightやvitestが動作、CPUとメモリの使用率が大幅改善、正規表現が高速化など",
       "link": "https://www.publickey1.jp/blog/26/rustbun_14nodejsplaywrightvitestcpu.html",
       "date": "2026-08-24T00:58:41+09:00",
@@ -281,6 +259,28 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 34
+    },
+    {
+      "title": "約785gと超軽量なのに重めのアクションゲームがヌルヌル動くArc G3 Extreme搭載ポータブルゲーミングPC：ソフマップ なんば店",
+      "link": "https://ascii.jp/elem/000/004/428/4428909/?rss",
+      "date": "2026-08-26T16:00:00+09:00",
+      "dateLabel": "08/26 16:00",
+      "desc": "店舗スタッフの梅島穣さんがオススメする製品は、MSIのポータブルゲーミングPC「Claw 8 EX AI+ CG3EM」です。",
+      "img": "https://ascii.jp/img/2026/08/24/4516506/s/38f33414438b0318.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "いま本当に使えるSaaS 100選【情シス・セキュリティ編】 エントリー77～80は攻撃遮断くんやCData Connect AI【Tier付け】",
+      "link": "https://ascii.jp/elem/000/004/429/4429461/?rss",
+      "date": "2026-08-26T15:34:00+09:00",
+      "dateLabel": "08/26 15:34",
+      "desc": "世の中に星の数ほどSaaSがあるが、本当に使えるSaaSはどれなのか？ いま本当に使えるSaaSを編集部で100本選抜。先行アンケートで得た情シスの意見を元に、編集部でTier付けしました。今回はその中の情シス・セキュリティ20本をリストアップし、1記事4本ずつ、計5本の特集として紹介していきます。こちらは5本目です。",
+      "img": "https://ascii.jp/img/2026/08/26/4517541/s/2341ff4e12c9e777.png",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 26
     }
   ]
 }
