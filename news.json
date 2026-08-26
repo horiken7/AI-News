@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-26T20:20:06.697262+09:00",
-  "generatedLabel": "2026/08/26 20:20",
+  "generatedAt": "2026-08-26T21:29:23.794500+09:00",
+  "generatedLabel": "2026/08/26 21:29",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 53,
@@ -107,6 +107,17 @@
       "score": 50
     },
     {
+      "title": "性能も見た目も妥協なし！ Ryzen 7 9700X＋RTX 5070搭載の“魅せる”ゲーミングPC",
+      "link": "https://ascii.jp/elem/000/004/429/4429718/?rss",
+      "date": "2026-08-26T21:00:00+09:00",
+      "dateLabel": "08/26 21:00",
+      "desc": "Ryzen 7 9700XとGeForce RTX 5070を搭載した高性能ゲーミングPC。背面コネクタ対応GPUによってケーブルを目立たせず、ゲーム性能だけでなくケース内部の美しさにもこだわれる1台だ。",
+      "img": "https://ascii.jp/img/2026/08/26/4518063/s/48b27b69e83d4455.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
       "title": "PCゲームの画面録画による負荷を「Windowsのゲームバー」「OBS」「NVIDIAの録画機能」「AMDの録画機能」「Streamlabs」で比較した結果が公開される",
       "link": "https://gigazine.net/news/20260826-pc-screen-recorder/",
       "date": "2026-08-26T20:00:00+09:00",
@@ -149,6 +160,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 40
+    },
+    {
+      "title": "AIトレーニングでGPUが無駄に待機状態になってしまっている理由とAdobeが行った対処とは？",
+      "link": "https://gigazine.net/news/20260826-gpu-idle/",
+      "date": "2026-08-26T21:00:00+09:00",
+      "dateLabel": "08/26 21:00",
+      "desc": "NVIDIAが2026年3月に開催した開発者向けカンファレンス「GTC 2026」で、AdobeのCTOであるエリー・グリーンフィールド氏がカスタム大規模生成AIモデルを構築するまでの道のりやパイプラインについて講演を行い、初期のトレーニング実行時に数千基のGPUのうち約3分の2がアイドル状態となっていたことが明かされました。この問題について、クラウドストレ",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
     },
     {
       "title": "最大11万円OFF！ マウスコンピューター半期決算セール、9月16日まで",
@@ -217,17 +239,6 @@
       "score": 34
     },
     {
-      "title": "台湾検察がNVIDIAとSupermicroの従業員ら9人を起訴、中国へAIサーバーを密輸した疑い",
-      "link": "https://gigazine.net/news/20260825-taiwan-employees-export-ai-servers-to-china/",
-      "date": "2026-08-25T19:40:00+09:00",
-      "dateLabel": "08/25 19:40",
-      "desc": "中国への高性能AIチップおよびAIサーバーの密輸取り締まりを行っていた台湾基隆地方検察署が、NVIDIA台湾支社の従業員やPC機器メーカー・Supermicroの従業員を含む9名を起訴したことを発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
       "title": "Rustに移植された「Bun 1.4」正式リリース。Node.jsとの互換性向上でPlaywrightやvitestが動作、CPUとメモリの使用率が大幅改善、正規表現が高速化など",
       "link": "https://www.publickey1.jp/blog/26/rustbun_14nodejsplaywrightvitestcpu.html",
       "date": "2026-08-24T00:58:41+09:00",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "新たなAI演奏合成ソフトウェアが登場！「Synthesizer V」シリーズを手掛けるDreamtonics社の新製品『Instrument X』 本日発売！",
-      "link": "https://ascii.jp/elem/000/004/429/4429708/?rss",
-      "date": "2026-08-26T17:23:12+09:00",
-      "dateLabel": "08/26 17:23",
-      "desc": "新たなAI演奏合成ソフトウェアが登場！「Synthesizer V」シリーズを手掛けるDreamtonics社の新製品『Instrument X』 本日発売！",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 26
     }
   ]
