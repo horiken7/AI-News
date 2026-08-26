@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-26T23:34:27.919109+09:00",
-  "generatedLabel": "2026/08/26 23:34",
+  "generatedAt": "2026-08-27T01:09:39.208122+09:00",
+  "generatedLabel": "2026/08/27 01:09",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 53,
@@ -258,7 +258,7 @@
       "img": "",
       "src": "Publickey",
       "cat": "LLM/モデル",
-      "score": 34
+      "score": 28
     },
     {
       "title": "Slack上の開発チームの会話をAIエージェントが把握してコーディング。ドキュメント作成もする「Slack Code」登場",
@@ -269,7 +269,7 @@
       "img": "",
       "src": "Publickey",
       "cat": "AIエージェント/業務",
-      "score": 34
+      "score": 28
     },
     {
       "title": "AIエージェント時代のコーディングテクニック「コーディングルールをAGENTS.mdにまとめる」「品質が低下したらAGENTS.mdの読み直しを指示」",
