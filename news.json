@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-26T08:16:26.816039+09:00",
-  "generatedLabel": "2026/08/26 08:16",
+  "generatedAt": "2026-08-26T09:40:23.114899+09:00",
+  "generatedLabel": "2026/08/26 09:40",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 64,
+  "candidates": 65,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 10
+      "items": 11
     },
     {
       "source": "PC Watch",
@@ -118,6 +118,17 @@
       "score": 50
     },
     {
+      "title": "ROG、720Hz対応OLEDモニターを発表！ Wi-Fi 8ルーターや「鬼武者」限定GPUも",
+      "link": "https://ascii.jp/elem/000/004/429/4429348/?rss",
+      "date": "2026-08-26T09:30:00+09:00",
+      "dateLabel": "08/26 09:30",
+      "desc": "ROGがGamescom 2026で発表した最新ゲーミングデバイスを紹介。最高720Hzの24.5型OLEDモニター、Wi-Fi 8対応ルーター、56gの競技向けマウス、「鬼武者」限定GPUなど注目製品をまとめます。",
+      "img": "https://ascii.jp/img/2026/08/26/4517297/s/f60cec37071b2d7c.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
       "title": "Anthropicの最上位AIモデル「Claude Fable 5」は企業需要が伸びず苦戦、AI企業のビジネスモデルが覆される可能性も",
       "link": "https://gigazine.net/news/20260825-anthropic-best-ai-model-struggles/",
       "date": "2026-08-25T22:00:00+09:00",
@@ -195,6 +206,17 @@
       "score": 40
     },
     {
+      "title": "Clouderaが5年をかけた技術革新の集大成「Anywhere Cloud」発表",
+      "link": "https://ascii.jp/elem/000/004/429/4429337/?rss",
+      "date": "2026-08-26T09:00:00+09:00",
+      "dateLabel": "08/26 09:00",
+      "desc": "Clouderaの年次カンファレンス「EVOLVE 26」において、“過去5年間の変革を象徴する製品”として、新たなデータ／AIプラットフォーム「Cloudera Anywhere Cloud」を発表した。",
+      "img": "https://ascii.jp/img/2026/08/26/4517257/s/642e8e3bafaade87.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "AIエージェントがCAEを動かすとどうなる？ 人に残る役割は？",
       "link": "https://monoist.itmedia.co.jp/mn/articles/2608/26/news007.html",
       "date": "2026-08-26T07:00:00+09:00",
@@ -258,28 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AI実装",
-      "score": 34
-    },
-    {
-      "title": "動画生成AI「Wan3.0」が正式リリースされる、最大30秒生成可能で「製品企画スライドを読み込ませてPV作成」など情報分析精度が大幅に向上",
-      "link": "https://gigazine.net/news/20260825-alibaba-wan-3-0/",
-      "date": "2026-08-25T14:30:00+09:00",
-      "dateLabel": "08/25 14:30",
-      "desc": "AlibabaがAI動画生成モデル「Wan3.0」の一般提供を8月24日に開始しました。Wan3.0は文章や画像に加えて文書・スプレッドシート・スライド・ウェブページなども読み込み可能で、1回の生成で最大30秒の動画を作成できます。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "Metaが100万GPU規模を想定した新通信プロトコル「MetaRoCE」を発表、パケットロスを前提にEthernetでAIクラスタを高速接続",
-      "link": "https://gigazine.net/news/20260825-meta-rdma-protocol-metaroce/",
-      "date": "2026-08-25T11:53:00+09:00",
-      "dateLabel": "08/25 11:53",
-      "desc": "Metaが2026年8月24日、100万GPU規模のAIインフラをEthernetで接続することを想定した新しいプロトコル「MetaRoCE」を発表しました。従来のRoCEv2が前提としていた「パケットを順番通りに届ける」「できるだけパケットを失わせない」という考え方を見直し、パケットの到着順が入れ替わったり一部が失われたりする大規模ネットワークでも高い通信",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
       "score": 34
     }
   ]
