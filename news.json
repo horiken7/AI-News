@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-26T13:29:40.120360+09:00",
-  "generatedLabel": "2026/08/26 13:29",
+  "generatedAt": "2026-08-26T14:23:53.966605+09:00",
+  "generatedLabel": "2026/08/26 14:23",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 1
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 16
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -62,6 +62,17 @@
     }
   ],
   "articles": [
+    {
+      "title": "OpenAIがカスタム推論チップ「Jalapeño」のベンチマーク結果を公開、高スループットと低レイテンシを単一アーキテクチャで両立",
+      "link": "https://gigazine.net/news/20260826-jalapeno-ai-inference-results/",
+      "date": "2026-08-26T13:45:00+09:00",
+      "dateLabel": "08/26 13:45",
+      "desc": "OpenAIがBroadcomと共同開発した推論システム向けカスタムチップ「Jalapeño(ハラペーニョ)」についてのブリーフィングを行い、ベンチマークスコアを公表しました。Jalapeñoは通常であればトレードオフの関係にある高スループットと低レイテンシを単一アーキテクチャで実現しているとのことです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
     {
       "title": "AppleがM6とM5 Ultraを発表、M5 Ultraは最大512GBのメモリを搭載し大型AIモデルをローカル実行可能",
       "link": "https://gigazine.net/news/20260826-apple-m6-m5-ultra/",
@@ -104,39 +115,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "ソフトクリエイト「Safe AI Gateway」が画像・図表対応、マルチモーダルRAGを提供開始",
-      "link": "https://ascii.jp/elem/000/004/429/4429344/?rss",
-      "date": "2026-08-26T11:00:00+09:00",
-      "dateLabel": "08/26 11:00",
-      "desc": "ソフトクリエイトは「Safe AI Gateway」に、画像や図表も検索・回答に活用できるマルチモーダルRAGを搭載。PDFやマニュアルをそのままナレッジ化でき、対象プランでは追加費用なしで利用できます。",
-      "img": "https://ascii.jp/img/2026/08/26/4517281/s/e2ece1563cee282a.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 42
-    },
-    {
-      "title": "アップル新型Mac、ローカルAI界隈で話題になったワケ",
-      "link": "https://ascii.jp/elem/000/004/429/4429358/?rss",
-      "date": "2026-08-26T10:45:00+09:00",
-      "dateLabel": "08/26 10:45",
-      "desc": "アップルは8月25日、新型Mac miniとMac Studioを発表した。発表後、ローカルLLMユーザーのあいだで注目されたのが1.2TB/sというスペックだ。",
-      "img": "https://ascii.jp/img/2026/08/26/4517349/s/c5dff2caa5691847.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "ロングライフパンの製造・販売を手がける株式会社コモ、受注業務のAI活用に向けPoCを実施──「コゾカAI 受注AIエージェント」で約90％を「自動化可能」と評価",
-      "link": "https://ascii.jp/elem/000/004/429/4429438/?rss",
-      "date": "2026-08-26T10:10:00+09:00",
-      "dateLabel": "08/26 10:10",
-      "desc": "ロングライフパンの製造・販売を手がける株式会社コモ、受注業務のAI活用に向けPoCを実施──「コゾカAI 受注AIエージェント」で約90％を「自動化可能」と評価",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -184,6 +162,17 @@
       "score": 40
     },
     {
+      "title": "「取りあえずChatGPT」はもう古い？ 2社に1社が複数AIを併用、企業はどう管理すべきか",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/26/news044.html",
+      "date": "2026-08-26T13:00:00+09:00",
+      "dateLabel": "08/26 13:00",
+      "desc": "Okta Japanは、企業におけるAIツールの利用実態をまとめたレポートを発表した。Okta Platformの2万以上の組織における4年間の匿名化されたアクセスデータを分析したものだ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "Stability AIが約370億円を新CEOの下で資金調達したと報告、ソニーミュージックやユニバーサルミュージックなどが出資",
       "link": "https://gigazine.net/news/20260826-stability-ai-funding-backed-232m/",
       "date": "2026-08-26T11:34:00+09:00",
@@ -203,17 +192,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "「Control Resonant」PC版を無料配布、GIGABYTEのRTX 50シリーズ購入者限定",
-      "link": "https://ascii.jp/elem/000/004/429/4429352/?rss",
-      "date": "2026-08-26T10:30:00+09:00",
-      "dateLabel": "08/26 10:30",
-      "desc": "GIGABYTEが、対象のGeForce RTX 50シリーズ搭載製品購入者に「Control Resonant」PC版を提供するキャンペーンを開始。対象GPUや実施期間、クーポンの引き換え期限を紹介します。",
-      "img": "https://ascii.jp/img/2026/08/26/4517332/s/3893aa2e135f8b68.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -261,26 +239,48 @@
       "score": 34
     },
     {
-      "title": "動画生成AI「Wan3.0」が正式リリースされる、最大30秒生成可能で「製品企画スライドを読み込ませてPV作成」など情報分析精度が大幅に向上",
-      "link": "https://gigazine.net/news/20260825-alibaba-wan-3-0/",
-      "date": "2026-08-25T14:30:00+09:00",
-      "dateLabel": "08/25 14:30",
-      "desc": "AlibabaがAI動画生成モデル「Wan3.0」の一般提供を8月24日に開始しました。Wan3.0は文章や画像に加えて文書・スプレッドシート・スライド・ウェブページなども読み込み可能で、1回の生成で最大30秒の動画を作成できます。 続きを読む...",
+      "title": "Rustに移植された「Bun 1.4」正式リリース。Node.jsとの互換性向上でPlaywrightやvitestが動作、CPUとメモリの使用率が大幅改善、正規表現が高速化など",
+      "link": "https://www.publickey1.jp/blog/26/rustbun_14nodejsplaywrightvitestcpu.html",
+      "date": "2026-08-24T00:58:41+09:00",
+      "dateLabel": "08/24 00:58",
+      "desc": "サーバサイドJavaScriptランタイムのBunの最新版となる「Bun 1.4」正式版のリリースが発表されました。 Bun 1.4は、これまでZig言語で開発されていたものをClaude Codeを使ってRustに書き直した最初のバージョ...",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "生成AI/マルチモーダル",
+      "src": "Publickey",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
-      "title": "なぜいま30Bクラスのオープンモデルが“熱い”のか 「27BパラメータでOpus 4.6超え」も",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000723/",
-      "date": "2026-08-24T16:30:16+09:00",
-      "dateLabel": "08/24 16:30",
-      "desc": "MetaとNVIDIA、Alibabaが30Bクラスのオープンモデルを相次ぎ公開し、国産の「LLM-jp-4 33B」も登場した。このサイズのモデルが今“熱い”理由と留意点を考察する。",
+      "title": "Slack上の開発チームの会話をAIエージェントが把握してコーディング。ドキュメント作成もする「Slack Code」登場",
+      "link": "https://www.publickey1.jp/blog/26/slackaislack_code.html",
+      "date": "2026-08-24T00:52:28+09:00",
+      "dateLabel": "08/24 00:52",
+      "desc": "Salesforce傘下のSlack社は、同社のチャットサービス「Slack」の新機能として、開発チームの一員としてAIエージェントがチャットに加わり、それまでの開発チームの議論を把握してコーディングを行う「Slack Code」の提供開始...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "「AIエージェントを本番運用中」日本が最下位 “PoC止まり”の原因と、抜け出す方法は？",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/26/news040.html",
+      "date": "2026-08-26T13:00:00+09:00",
+      "dateLabel": "08/26 13:00",
+      "desc": "AIエージェントなど自律型AIを本番運用している日本企業は17％にとどまることが、Confluentの調査で分かった。活用を進める上での課題とは何か。その解決策とは。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 34
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "AIとウェブサイトの連携を深める「WebMCP」にデスクトップ版ChatGPTが対応",
+      "link": "https://gigazine.net/news/20260826-chatgpt-webmcp/",
+      "date": "2026-08-26T12:13:00+09:00",
+      "dateLabel": "08/26 12:13",
+      "desc": "デスクトップ版ChatGPTアプリの内蔵ブラウザがWebMCPに対応しました。これにより、WebMCP対応ウェブサイトの情報をChatGPTやCodexで扱いやすくなります。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
     }
   ]
 }
