@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-26T19:24:14.455736+09:00",
-  "generatedLabel": "2026/08/26 19:24",
+  "generatedAt": "2026-08-26T20:20:06.697262+09:00",
+  "generatedLabel": "2026/08/26 20:20",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 52,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 1
+      "items": 2
     },
     {
       "source": "PC Watch",
@@ -107,6 +107,17 @@
       "score": 50
     },
     {
+      "title": "PCゲームの画面録画による負荷を「Windowsのゲームバー」「OBS」「NVIDIAの録画機能」「AMDの録画機能」「Streamlabs」で比較した結果が公開される",
+      "link": "https://gigazine.net/news/20260826-pc-screen-recorder/",
+      "date": "2026-08-26T20:00:00+09:00",
+      "dateLabel": "08/26 20:00",
+      "desc": "PCゲームのプレイ動画を録画すると、録画のためにCPUやGPUのリソースを消費することになり、ゲームのフレームレートが少し落ちます。そんな画面録画によるフレームレートへの影響について、PCパーツレビューなどを行っているLTT Labsが「Windowsのゲームバー」「OBS」「NVIDIAの録画機能」「AMDの録画機能」「Streamlabs」を対象に実施し",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
       "title": "4台のM5 Ultra Mac Studioで「データセンター級」メモリ帯域幅4.8TB/s 巨大LLMも高速でローカル実行可能に",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/26/2000000786/",
       "date": "2026-08-26T11:17:10+09:00",
@@ -123,28 +134,6 @@
       "date": "2026-08-25T22:00:00+09:00",
       "dateLabel": "08/25 22:00",
       "desc": "AI開発企業のAnthropicは2026年6月、記事作成時点で最上位となるAIモデル「Claude Fable 5」をリリースしました。ところが、Claude Fable 5の利用量は伸び悩んでおり、より大規模で高度なAIモデルを追求するAI開発企業のビジネスモデルを根本的に変える可能性もあると、経済紙のフィナンシャル・タイムズが報じています。 続きを読む",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "台湾検察がNVIDIAとSupermicroの従業員ら9人を起訴、中国へAIサーバーを密輸した疑い",
-      "link": "https://gigazine.net/news/20260825-taiwan-employees-export-ai-servers-to-china/",
-      "date": "2026-08-25T19:40:00+09:00",
-      "dateLabel": "08/25 19:40",
-      "desc": "中国への高性能AIチップおよびAIサーバーの密輸取り締まりを行っていた台湾基隆地方検察署が、NVIDIA台湾支社の従業員やPC機器メーカー・Supermicroの従業員を含む9名を起訴したことを発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "大量に存在する画像生成AIを同じプロンプトで比較できる「Image benchmarks」をOpenRouterが公開",
-      "link": "https://gigazine.net/news/20260825-openrouter-image-benchmarks/",
-      "date": "2026-08-25T18:11:00+09:00",
-      "dateLabel": "08/25 18:11",
-      "desc": "GoogleやOpenAIなど数多くのAI企業が画像生成AIをリリースしていますが、画像生成AIの性能は「プロンプトに対する忠実度」「テキスト描画の精度」「画像編集の正確さ」など多様な要素が絡んでおり、用途によって適切なAIは変化します。OpenRouterが公開している「Image benchmarks」では各種画像生成AIに同じプロンプトを入力した結果を",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
@@ -228,11 +217,11 @@
       "score": 34
     },
     {
-      "title": "メモリブームが半導体企業の本拠地周辺に及ぼす影響とは？Micronのケースから見えてくる新たな億万長者の誕生と雇用の増加、さらには交通渋滞の増加と住宅価格の高騰まで",
-      "link": "https://gigazine.net/news/20260825-micron-boise-impact/",
-      "date": "2026-08-25T20:00:00+09:00",
-      "dateLabel": "08/25 20:00",
-      "desc": "AIブームにより、AI開発に必要なデータセンターや発電施設、部品の製造工場が世界各地に建設され始めており、施設周辺地域の開発が進む例がいくつか見られます。日本だとTSMCが熊本県菊陽町に半導体工場を建設した事例があり、内閣府のまとめでは工場周辺の地価や賃料が大きく上昇していることが分かっています。海外メディアのCNBCは、アメリカのアイダホ州ボイシにある半導",
+      "title": "台湾検察がNVIDIAとSupermicroの従業員ら9人を起訴、中国へAIサーバーを密輸した疑い",
+      "link": "https://gigazine.net/news/20260825-taiwan-employees-export-ai-servers-to-china/",
+      "date": "2026-08-25T19:40:00+09:00",
+      "dateLabel": "08/25 19:40",
+      "desc": "中国への高性能AIチップおよびAIサーバーの密輸取り締まりを行っていた台湾基隆地方検察署が、NVIDIA台湾支社の従業員やPC機器メーカー・Supermicroの従業員を含む9名を起訴したことを発表しました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "新たなAI演奏合成ソフトウェアが登場！「Synthesizer V」シリーズを手掛けるDreamtonics社の新製品『Instrument X』 本日発売！",
+      "link": "https://ascii.jp/elem/000/004/429/4429708/?rss",
+      "date": "2026-08-26T17:23:12+09:00",
+      "dateLabel": "08/26 17:23",
+      "desc": "新たなAI演奏合成ソフトウェアが登場！「Synthesizer V」シリーズを手掛けるDreamtonics社の新製品『Instrument X』 本日発売！",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 26
     }
   ]
