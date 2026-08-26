@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-26T14:23:53.966605+09:00",
-  "generatedLabel": "2026/08/26 14:23",
+  "generatedAt": "2026-08-26T15:29:34.882396+09:00",
+  "generatedLabel": "2026/08/26 15:29",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 52,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 1
+      "items": 2
     },
     {
       "source": "PC Watch",
@@ -162,6 +162,17 @@
       "score": 40
     },
     {
+      "title": "M5搭載MacBook Airがセールで4万1000円引き！ 持ち運びに最適な13インチ＆1TBモデル",
+      "link": "https://ascii.jp/elem/000/004/429/4429523/?rss",
+      "date": "2026-08-26T15:00:00+09:00",
+      "dateLabel": "08/26 15:00",
+      "desc": "Amazon.co.jpで「MacBook Air M5」がタイムセールを実施中。超高性能M5チップと、最大18時間フル稼働できる内蔵バッテリーを搭載。13インチで極薄と持ち運びやすいサイズ感が好評です。",
+      "img": "https://ascii.jp/img/2026/08/26/4517591/s/b32f95d85a6fc295.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "「取りあえずChatGPT」はもう古い？ 2社に1社が複数AIを併用、企業はどう管理すべきか",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/26/news044.html",
       "date": "2026-08-26T13:00:00+09:00",
@@ -181,6 +192,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "「LLMOチェキ」、競合の引用元を丸裸にする「ドメイン逆引き分析」を追加、AI改善提案も大幅強化",
+      "link": "https://ascii.jp/elem/000/004/429/4429536/?rss",
+      "date": "2026-08-26T11:30:00+09:00",
+      "dateLabel": "08/26 11:30",
+      "desc": "「LLMOチェキ」、競合の引用元を丸裸にする「ドメイン逆引き分析」を追加、AI改善提案も大幅強化",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -259,28 +281,6 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 34
-    },
-    {
-      "title": "「AIエージェントを本番運用中」日本が最下位 “PoC止まり”の原因と、抜け出す方法は？",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/26/news040.html",
-      "date": "2026-08-26T13:00:00+09:00",
-      "dateLabel": "08/26 13:00",
-      "desc": "AIエージェントなど自律型AIを本番運用している日本企業は17％にとどまることが、Confluentの調査で分かった。活用を進める上での課題とは何か。その解決策とは。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "AIとウェブサイトの連携を深める「WebMCP」にデスクトップ版ChatGPTが対応",
-      "link": "https://gigazine.net/news/20260826-chatgpt-webmcp/",
-      "date": "2026-08-26T12:13:00+09:00",
-      "dateLabel": "08/26 12:13",
-      "desc": "デスクトップ版ChatGPTアプリの内蔵ブラウザがWebMCPに対応しました。これにより、WebMCP対応ウェブサイトの情報をChatGPTやCodexで扱いやすくなります。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
     }
   ]
 }
