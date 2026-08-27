@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-27T11:24:17.926195+09:00",
-  "generatedLabel": "2026/08/27 11:24",
+  "generatedAt": "2026-08-27T22:19:29.401211+09:00",
+  "generatedLabel": "2026/08/27 22:19",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 57,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 19
+      "items": 20
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -63,26 +63,37 @@
   ],
   "articles": [
     {
-      "title": "「Perplexity Computer」の完全ローカル版「Portable Computer」をPerplexityがリリース",
-      "link": "https://gigazine.net/news/20260826-perplexity-portable-computer/",
-      "date": "2026-08-26T17:45:00+09:00",
-      "dateLabel": "08/26 17:45",
-      "desc": "Perplexityが2026年2月に公開したAIエージェント「Perplexity Computer」の完全ローカル版にあたる「Portable Computer」をリリースしました。LLMもハーネスも一切クラウドに依存せず、すべてがローカルハードウェア上で動作するのが特徴です。 続きを読む...",
+      "title": "中国製AIチップのクラスタで「Opus 4.8並み性能」モデルを提供 話題のステルスモデルの正体は「GLM-5.3-Flash」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/27/2000000840/",
+      "date": "2026-08-27T13:15:18+09:00",
+      "dateLabel": "08/27 13:15",
+      "desc": "中国Z.aiが「GLM-5.3-Flash」をMITライセンスで公開。「Ox Alpha」として匿名検証していたマルチモーダルモデルで、「Claude Opus 4.8」に迫る性能を安価で提供するとうたう。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 50
     },
     {
-      "title": "OpenAIがカスタム推論チップ「Jalapeño」のベンチマーク結果を公開、高スループットと低レイテンシを単一アーキテクチャで両立",
-      "link": "https://gigazine.net/news/20260826-jalapeno-ai-inference-results/",
-      "date": "2026-08-26T13:45:00+09:00",
-      "dateLabel": "08/26 13:45",
-      "desc": "OpenAIがBroadcomと共同開発した推論システム向けカスタムチップ「Jalapeño(ハラペーニョ)」についてのブリーフィングを行い、ベンチマークスコアを公表しました。Jalapeñoは通常であればトレードオフの関係にある高スループットと低レイテンシを単一アーキテクチャで実現しているとのことです。 続きを読む...",
+      "title": "Claudeの公式Chrome拡張機能「Claude in Chrome」が一般提供開始",
+      "link": "https://gigazine.net/news/20260827-claude-chrome-available/",
+      "date": "2026-08-27T12:40:00+09:00",
+      "dateLabel": "08/27 12:40",
+      "desc": "現地時間の2026年8月26日、AnthropicがGoogle ChromeでClaudeを使える公式拡張機能「Claude in Chrome」の一般提供開始をアナウンスしました。これまでベータ版が提供されていた「Claude in Chrome」ですが、Claudeの有料プランユーザー向けに一般提供されることとなります。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 50
+      "score": 42
+    },
+    {
+      "title": "謎の高性能AI「Ox Alpha」の正体は「GLM-5.3-Flash」だったことが判明、Claude Opus 4.8と同等性能のオープンモデル＆中国製チップで運用可能",
+      "link": "https://gigazine.net/news/20260827-glm-5-3-flash/",
+      "date": "2026-08-27T11:41:00+09:00",
+      "dateLabel": "08/27 11:41",
+      "desc": "中国に拠点を置くAI企業のZ.aiがAIモデル「GLM-5.3-Flash」を2026年8月26日に発表しました。GLM-5.3-Flashは「Ox Alpha」という仮称でテストされていたモデルで、Claude Opus 4.8に匹敵する性能であることがアピールされています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "MCPの新たなロードマップ公開 今後はAIエージェント対応、HTTP通信への統一などに注力",
@@ -96,36 +107,14 @@
       "score": 42
     },
     {
-      "title": "DProの広告データ分析から画像・動画制作まで、Codex／Claude Codeなどでつなぐ「Pro ai MCP」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/429/4429745/?rss",
-      "date": "2026-08-27T08:46:48+09:00",
-      "dateLabel": "08/27 08:46",
-      "desc": "DProの広告データ分析から画像・動画制作まで、Codex／Claude Codeなどでつなぐ「Pro ai MCP」を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "PCゲームの画面録画による負荷を「Windowsのゲームバー」「OBS」「NVIDIAの録画機能」「AMDの録画機能」「Streamlabs」で比較した結果が公開される",
-      "link": "https://gigazine.net/news/20260826-pc-screen-recorder/",
-      "date": "2026-08-26T20:00:00+09:00",
-      "dateLabel": "08/26 20:00",
-      "desc": "PCゲームのプレイ動画を録画すると、録画のためにCPUやGPUのリソースを消費することになり、ゲームのフレームレートが少し落ちます。そんな画面録画によるフレームレートへの影響について、PCパーツレビューなどを行っているLTT Labsが「Windowsのゲームバー」「OBS」「NVIDIAの録画機能」「AMDの録画機能」「Streamlabs」を対象に実施し",
+      "title": "「Perplexity Computer」の完全ローカル版「Portable Computer」をPerplexityがリリース",
+      "link": "https://gigazine.net/news/20260826-perplexity-portable-computer/",
+      "date": "2026-08-26T17:45:00+09:00",
+      "dateLabel": "08/26 17:45",
+      "desc": "Perplexityが2026年2月に公開したAIエージェント「Perplexity Computer」の完全ローカル版にあたる「Portable Computer」をリリースしました。LLMもハーネスも一切クラウドに依存せず、すべてがローカルハードウェア上で動作するのが特徴です。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "AppleがM6とM5 Ultraを発表、M5 Ultraは最大512GBのメモリを搭載し大型AIモデルをローカル実行可能",
-      "link": "https://gigazine.net/news/20260826-apple-m6-m5-ultra/",
-      "date": "2026-08-26T10:45:00+09:00",
-      "dateLabel": "08/26 10:45",
-      "desc": "Appleシリコン「M6」と「M5 Ultra」が現地時間の2026年8月25日に発表されました。M6は2nmプロセスで生産されるSoCでM5と比べてCPUコアとGPUコアが増加しているのが特徴。M5 Ultraは最大512GBのユニファイドメモリを搭載可能でローカルで大型のAIモデルを実行してエージェントタスクやコンテンツ生成に利用できることがアピールされ",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
+      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -151,13 +140,68 @@
       "score": 40
     },
     {
-      "title": "AI検索で「これはAIに聞かない方がいい」と思うジャンルとは？医療・投資・法律が上位に ― 全国308名の意識調査",
-      "link": "https://ascii.jp/elem/000/004/429/4429754/?rss",
-      "date": "2026-08-27T09:00:00+09:00",
-      "dateLabel": "08/27 09:00",
-      "desc": "AI検索で「これはAIに聞かない方がいい」と思うジャンルとは？医療・投資・法律が上位に ― 全国308名の意識調査",
+      "title": "【導入事例インタビュー公開】東海東京証券がAIオペレーター「miraio」を選んだ理由とは？決め手は業界特有の専門用語にも対応する高度な「意図推定力」",
+      "link": "https://ascii.jp/elem/000/004/430/4430106/?rss",
+      "date": "2026-08-27T17:30:00+09:00",
+      "dateLabel": "08/27 17:30",
+      "desc": "【導入事例インタビュー公開】東海東京証券がAIオペレーター「miraio」を選んだ理由とは？決め手は業界特有の専門用語にも対応する高度な「意図推定力」",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "Microsoft・Amazon・Googleが中国製高性能モデル「Kimi K3」を自社でサービス展開するべく協議中との報道、開発元のMoonshot AIは30％の収益分配を打診",
+      "link": "https://gigazine.net/news/20260827-kimi-k3-microsoft-amazon-google/",
+      "date": "2026-08-27T16:10:00+09:00",
+      "dateLabel": "08/27 16:10",
+      "desc": "中国企業のMoonshot AIは高性能AIモデル「Kimi K3」を2026年7月にリリースしました。このKimi K3のホスティングを巡ってMoonshot AIがMicrosoft・Amazon・Googleと協議していることがロイターによって報じられています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "OpenAIがHugging Faceを誤ってハッキングしてしまった件で分析結果を報告、隔離された複数のエージェントがお互いの存在を発見するところから壮大な協力作戦が始まる",
+      "link": "https://gigazine.net/news/20260827-openai-hugging-face-incident-report/",
+      "date": "2026-08-27T13:35:00+09:00",
+      "dateLabel": "08/27 13:35",
+      "desc": "2026年7月、OpenAIのAIエージェントがサイバーセキュリティの評価試験を実施している最中に、AIモデル・データセット共有プラットフォームのHugging Faceを誤ってハッキングしてしまうインシデントが発生しました。この件で調査を進めていたOpenAIが詳細な報告書をまとめ、共有しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "「あー」「えー」などを自動削除しつつリアルタイムで文字起こししできる音声認識モデル「Gemini 3.5 Transcribe」をGoogleが発表",
+      "link": "https://gigazine.net/news/20260827-gemini-3-5-transcribe/",
+      "date": "2026-08-27T13:15:00+09:00",
+      "dateLabel": "08/27 13:15",
+      "desc": "ノイズや複雑な専門用語、話し言葉などにも苦しむことなく、生の音声データから正確で洗練された書式設定済みテキストを生成できる音声認識モデル「Gemini 3.5 Transcribe」をGoogleが発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "「NVIDIAがHugging Faceを2兆円超えで買収する契約に合意」との報道",
+      "link": "https://gigazine.net/news/20260827-nvidia-hugging-face/",
+      "date": "2026-08-27T12:25:00+09:00",
+      "dateLabel": "08/27 12:25",
+      "desc": "海外メディアのThe Informationが「NVIDIAがHugging Faceを129億ドル(約2兆円)で買収する契約に合意した」と報じています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "「Qwen3.8-Flash-Next」がオープンモデルとして公開される、Qwen4の次世代アーキテクチャを使用",
+      "link": "https://gigazine.net/news/20260827-qwen3-8-flash-next/",
+      "date": "2026-08-27T12:22:00+09:00",
+      "dateLabel": "08/27 12:22",
+      "desc": "AlibabaのAI研究チームであるQwenがAIモデル「Qwen3.8-Flash-Next」を2026年8月26日に公開しました。Qwen3.8-Flash-NextはQwen4シリーズで採用される予定の次世代アーキテクチャを用いて開発されており、学習コストを抑えつつ高性能なモデルを構築することに成功しています。また、すでにUnslothによる量子化版モ",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AI全般",
       "score": 34
     },
@@ -173,36 +217,14 @@
       "score": 34
     },
     {
-      "title": "AIトレーニングでGPUが無駄に待機状態になってしまっている理由とAdobeが行った対処とは？",
-      "link": "https://gigazine.net/news/20260826-gpu-idle/",
-      "date": "2026-08-26T21:00:00+09:00",
-      "dateLabel": "08/26 21:00",
-      "desc": "NVIDIAが2026年3月に開催した開発者向けカンファレンス「GTC 2026」で、AdobeのCTOであるエリー・グリーンフィールド氏がカスタム大規模生成AIモデルを構築するまでの道のりやパイプラインについて講演を行い、初期のトレーニング実行時に数千基のGPUのうち約3分の2がアイドル状態となっていたことが明かされました。この問題について、クラウドストレ",
+      "title": "PCゲームの画面録画による負荷を「Windowsのゲームバー」「OBS」「NVIDIAの録画機能」「AMDの録画機能」「Streamlabs」で比較した結果が公開される",
+      "link": "https://gigazine.net/news/20260826-pc-screen-recorder/",
+      "date": "2026-08-26T20:00:00+09:00",
+      "dateLabel": "08/26 20:00",
+      "desc": "PCゲームのプレイ動画を録画すると、録画のためにCPUやGPUのリソースを消費することになり、ゲームのフレームレートが少し落ちます。そんな画面録画によるフレームレートへの影響について、PCパーツレビューなどを行っているLTT Labsが「Windowsのゲームバー」「OBS」「NVIDIAの録画機能」「AMDの録画機能」「Streamlabs」を対象に実施し",
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "「取りあえずChatGPT」はもう古い？ 2社に1社が複数AIを併用、企業はどう管理すべきか",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/26/news044.html",
-      "date": "2026-08-26T13:00:00+09:00",
-      "dateLabel": "08/26 13:00",
-      "desc": "Okta Japanは、企業におけるAIツールの利用実態をまとめたレポートを発表した。Okta Platformの2万以上の組織における4年間の匿名化されたアクセスデータを分析したものだ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Stability AIが約370億円を新CEOの下で資金調達したと報告、ソニーミュージックやユニバーサルミュージックなどが出資",
-      "link": "https://gigazine.net/news/20260826-stability-ai-funding-backed-232m/",
-      "date": "2026-08-26T11:34:00+09:00",
-      "dateLabel": "08/26 11:34",
-      "desc": "現地時間の2026年8月25日、Stable Diffusionの開発元として知られるAI企業のStability AIが、シリーズBで7600万ドル(約120億円)の新規資金調達を実施したと発表しました。これにより、2024年6月にCEOに就任したプレム・アッカラジュ氏の下での資金調達総額は、2億3200万ドル(約370億円)に到達したこととなります。 続",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -239,44 +261,22 @@
       "score": 28
     },
     {
-      "title": "PKSHA Algorithm Fund、AI採用人事「OpenSeek」を提供する株式会社CAPERへ出資",
-      "link": "https://ascii.jp/elem/000/004/429/4429743/?rss",
-      "date": "2026-08-27T10:00:00+09:00",
-      "dateLabel": "08/27 10:00",
-      "desc": "PKSHA Algorithm Fund、AI採用人事「OpenSeek」を提供する株式会社CAPERへ出資",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "title": "AirPods Pro 3がタイムセール。4万2800円→3万6800円、心拍数センサー搭載",
+      "link": "https://ascii.jp/elem/000/004/429/4429453/?rss",
+      "date": "2026-08-27T20:00:00+09:00",
+      "dateLabel": "08/27 20:00",
+      "desc": "Appleの「AirPods Pro 3」がAmazonでタイムセール対象。参考価格42,800円から14％オフの36,800円で販売中。心拍数センサーを搭載し、50種類のワークアウトで心拍数や消費カロリーを把握できる。心拍数センサーを備えたAirPods Pro 3を、3万円台で手にできるセールだ。",
+      "img": "https://ascii.jp/img/2026/08/26/4517531/s/37e1b53b354fb0f5.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "株式会社on the bakery、AI Commerce EXPO / SNS運用戦略Expo 2026に出展・代表の井戸裕哉が2日間登壇",
-      "link": "https://ascii.jp/elem/000/004/429/4429749/?rss",
-      "date": "2026-08-27T09:30:00+09:00",
-      "dateLabel": "08/27 09:30",
-      "desc": "株式会社on the bakery、AI Commerce EXPO / SNS運用戦略Expo 2026に出展・代表の井戸裕哉が2日間登壇",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "ハイロボティクス「HaiPick Climb」、世界累計受注10,000台を突破",
-      "link": "https://ascii.jp/elem/000/004/429/4429755/?rss",
-      "date": "2026-08-27T09:00:00+09:00",
-      "dateLabel": "08/27 09:00",
-      "desc": "ハイロボティクス「HaiPick Climb」、世界累計受注10,000台を突破",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "「PeopleX AIロープレ」、次世代モデル「パーソナルトレーナー型」にメジャーアップデート",
-      "link": "https://ascii.jp/elem/000/004/429/4429750/?rss",
-      "date": "2026-08-27T09:00:00+09:00",
-      "dateLabel": "08/27 09:00",
-      "desc": "「PeopleX AIロープレ」、次世代モデル「パーソナルトレーナー型」にメジャーアップデート",
+      "title": "H.VIEWの屋外用4K PoE防犯カメラ「HV-800G10」800万画素・AI人体検知・双方向音声に対応",
+      "link": "https://ascii.jp/elem/000/004/430/4430103/?rss",
+      "date": "2026-08-27T18:44:03+09:00",
+      "dateLabel": "08/27 18:44",
+      "desc": "H.VIEWの屋外用4K PoE防犯カメラ「HV-800G10」800万画素・AI人体検知・双方向音声に対応",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
