@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-28T08:21:18.165124+09:00",
-  "generatedLabel": "2026/08/28 08:21",
+  "generatedAt": "2026-08-28T16:51:54.115885+09:00",
+  "generatedLabel": "2026/08/28 16:51",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 60,
@@ -13,7 +13,7 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 20
+      "items": 19
     },
     {
       "source": "ASCII.jp",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 16
+      "items": 17
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,83 @@
   ],
   "articles": [
     {
+      "title": "Anthropic、AIで物理機器を制御する共通規格「MHS」発表 将来オープンソース化へ",
+      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000897/",
+      "date": "2026-08-28T14:20:45+09:00",
+      "dateLabel": "08/28 14:20",
+      "desc": "Anthropicは、AIエージェントが実験・製造機器を安全に操作するための共通仕様「Model Hardware Standard」（MHS）を発表した。機器の統合作業を大幅に短縮し、基本命令や安全制限を標準化して自律制御を可能にする。先行導入事例を公開し、安全性評価を進めた上でオープンソース化する方針だ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
+      "score": 58
+    },
+    {
+      "title": "Google、動画生成AI「Gemini Omni 1.1 Flash」公開 10秒分の文脈を参照して最長40秒まで延長",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000878/",
+      "date": "2026-08-28T09:07:14+09:00",
+      "dateLabel": "08/28 09:07",
+      "desc": "Googleは、動画の生成や編集に対応するマルチモーダルAI「Gemini Omni 1.1 Flash」を発表した。直前10秒の文脈を参照した最大40秒のシーン延長や、開始・終了フレームの指定生成に対応。360pの高速プレビューから4Kアップスケールまでをカバーし、APIやツール経由で提供する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 58
+    },
+    {
+      "title": "OpenAI・Anthropic・GoogleなどがAIによるサイバー攻撃の防御に関する共同声明を発表",
+      "link": "https://gigazine.net/news/20260828-ai-frontier-companies-signed-cyber-defense/",
+      "date": "2026-08-28T11:24:00+09:00",
+      "dateLabel": "08/28 11:24",
+      "desc": "AIモデルが高性能化するにつれてAIを利用したサイバー攻撃のリスクも高まっていることから、既存のシステムを見直して防御力を高めることが急務とされています。こうした防御力を先端AI企業が率先して提供すべきだとして、OpenAI、Anthropic、Googleなどが共同で声明を発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
+      "title": "AMD製GPUのAI処理能力を向上させる「ROCm 10」がリリースされる＆AI開発用のスキルなどを整備した「ROCm.AI」も登場",
+      "link": "https://gigazine.net/news/20260828-amd-rocm-10/",
+      "date": "2026-08-28T10:57:00+09:00",
+      "dateLabel": "08/28 10:57",
+      "desc": "AMDはNVIDIAのCUDAに対抗するGPU計算処理ソフトウェアスタックとしてROCmを展開しています。2026年8月27日には「ROCm 10」がリリースされました。AI駆動型開発プラットフォーム「ROCm.AI」が目玉機能とされているほか、ComfyUIでの画像・動画生成を高速化する最適化も実施されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 50
+    },
+    {
+      "title": "OpenAI、AIサイバー攻撃への「集団的対応」を訴える公開書簡 Anthropic、Google、Microsoftなど100以上の組織が署名",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000876/",
+      "date": "2026-08-28T07:56:31+09:00",
+      "dateLabel": "08/28 07:56",
+      "desc": "OpenAIは、AIを悪用したサイバー攻撃への備えを産業界と政府に訴える公開書簡を発表した。モデルの能力向上によりサイバー攻撃の高度化が懸念される中、現状のセキュリティの不備を指摘し、防御用AIの普及と国際連携を要請。AnthropicやGoogleなど、100以上の企業や団体が署名している。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
+      "title": "Hugging Face、あひる型ロボット「Microduck」発表 399ドルで予約開始",
+      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000901/",
+      "date": "2026-08-28T15:09:08+09:00",
+      "dateLabel": "08/28 15:09",
+      "desc": "Pollen Roboticsは、二足歩行ロボット「Microduck」を発表し予約受付を開始した。399ドルで25cmの小型設計。強化学習による動作学習に特化し、SDKやシミュレーターをOSSとして公開する。大型機と異なり家庭や教室で安全に試行錯誤できる「行動するAIのためのプラットフォーム」を目指す。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI実装",
+      "score": 42
+    },
+    {
+      "title": "Googleが動画生成AI「Gemini Omni 1.1 Flash」をリリース、「最大4Kアップスケール」「動画の続きを生成」「低解像度で高速プレビュー」など",
+      "link": "https://gigazine.net/news/20260828-gemini-omni-1-1-flash/",
+      "date": "2026-08-28T12:12:00+09:00",
+      "dateLabel": "08/28 12:12",
+      "desc": "Googleが動画生成AI「Gemini Omni 1.1 Flash」を現地時間の2026年8月27日にリリースしました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "中国製AIチップのクラスタで「Opus 4.8並み性能」モデルを提供 話題のステルスモデルの正体は「GLM-5.3-Flash」",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/27/2000000840/",
       "date": "2026-08-27T13:15:18+09:00",
@@ -71,61 +148,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
-      "title": "KDDIとJR西、商業施設開発の戦略立案を支援するAIサービスを提供開始",
-      "link": "https://ascii.jp/elem/000/004/430/4430079/?rss",
-      "date": "2026-08-28T07:00:00+09:00",
-      "dateLabel": "08/28 07:00",
-      "desc": "JR西日本SC開発株式会社とKDDI株式会社は8月20日、商業施設開発における調査・分析から戦略立案までを支援するAIサービス「KDDI Market Compass」の開発および提供開始を発表した。JR西日本SC開発が培ってきた開発・運営のノウハウと、KDDIが保有する位置情報および属性データを組み合わせて提供される。",
-      "img": "https://ascii.jp/img/2026/08/27/4518490/s/6e1771a695163a96.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 42
-    },
-    {
-      "title": "Claudeの公式Chrome拡張機能「Claude in Chrome」が一般提供開始",
-      "link": "https://gigazine.net/news/20260827-claude-chrome-available/",
-      "date": "2026-08-27T12:40:00+09:00",
-      "dateLabel": "08/27 12:40",
-      "desc": "現地時間の2026年8月26日、AnthropicがGoogle ChromeでClaudeを使える公式拡張機能「Claude in Chrome」の一般提供開始をアナウンスしました。これまでベータ版が提供されていた「Claude in Chrome」ですが、Claudeの有料プランユーザー向けに一般提供されることとなります。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "謎の高性能AI「Ox Alpha」の正体は「GLM-5.3-Flash」だったことが判明、Claude Opus 4.8と同等性能のオープンモデル＆中国製チップで運用可能",
-      "link": "https://gigazine.net/news/20260827-glm-5-3-flash/",
-      "date": "2026-08-27T11:41:00+09:00",
-      "dateLabel": "08/27 11:41",
-      "desc": "中国に拠点を置くAI企業のZ.aiがAIモデル「GLM-5.3-Flash」を2026年8月26日に発表しました。GLM-5.3-Flashは「Ox Alpha」という仮称でテストされていたモデルで、Claude Opus 4.8に匹敵する性能であることがアピールされています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "MCPの新たなロードマップ公開 今後はAIエージェント対応、HTTP通信への統一などに注力",
-      "link": "https://www.itmedia.co.jp/news/article/2608/27/2000000831/",
-      "date": "2026-08-27T10:25:36+09:00",
-      "dateLabel": "08/27 10:25",
-      "desc": "Linux Foundation傘下でMCP（Model Context Protocol）の仕様策定を行っている「Agentic AI Foundation（AAIF）」は、今後のMCPの進化について、その方向性を示す新たなロードマップを発表しました。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "「Jetson Orin Nano 2」は推論性能が2倍、エッジ生成AIもリアルタイム処理可能",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2608/26/news048.html",
-      "date": "2026-08-26T06:15:00+09:00",
-      "dateLabel": "08/26 06:15",
-      "desc": "NVIDIAは、組み込み機器向けAIモジュール「Jetson Orin」の新たなラインアップとなる「Jetson Orin Nano 2」を発表した。現行の「Jetson Orin Nano」のメモリ容量8GBモデルと比べて推論性能が2倍に向上した一方で、同じ推論性能であれば消費電力を40％削減できるという。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
       "score": 42
     },
     {
@@ -140,14 +162,69 @@
       "score": 40
     },
     {
-      "title": "小さな箱型ロボット1台から導入できる「止まらない自動倉庫：NINBUS」",
-      "link": "https://ascii.jp/elem/000/004/429/4429921/?rss",
-      "date": "2026-08-28T07:00:00+09:00",
-      "dateLabel": "08/28 07:00",
-      "desc": "株式会社ROMSは8月26日、独自のPhysical AI「ROMS Physical AI」を搭載した新型「3次元走行型ケース自動倉庫」として、新製品「NINBUS（ニンバス）」を発表した。本製品は、1台のロボットが倉庫内を立体的に走行・昇降・搬送するハードウェアと、複数台の3次元走行ボット群をリアルタイムに最適制御するソフトウェアを融合させた次世代の自動",
-      "img": "https://ascii.jp/img/2026/08/27/4518364/s/02364ea4392c6803.jpg",
+      "title": "AIや企業によるカンニングを防ぎつつ最先端モデルをテストする方法をGoogleが考案",
+      "link": "https://gigazine.net/news/20260828-google-ai-evaluations-secure-environments/",
+      "date": "2026-08-28T15:40:00+09:00",
+      "dateLabel": "08/28 15:40",
+      "desc": "世界中の企業や研究機関が新たなAIモデルを発表する中で、AIモデルのテストは「どのモデルを利用するべきか」を判断する重要な手がかりになります。そんなAIモデルのテストにおいて、AIや開発企業によるカンニングを防ぎつつ性能評価するテストの手法を、GoogleのAI研究部門であるGoogle DeepMindが考案しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "購入した電子書籍をGeminiに読ませて質問できる「Expert Intelligence」が登場、10万冊超に対応",
+      "link": "https://gigazine.net/news/20260828-expert-intelligence-gemini/",
+      "date": "2026-08-28T14:15:00+09:00",
+      "dateLabel": "08/28 14:15",
+      "desc": "文書・音声・動画をAIで分析して内容を整理してまとめてくれるGoogleのツール「Gemini Notebook(旧：NotebookLM)」の新しい取り組みとして、購入済みの書籍を取り込んで質問したり議論したりできる「Expert Intelligence」が発表されました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "手間がかかる交通費精算が地味に面倒くさいので、ChatGPT Workに任せてみた",
+      "link": "https://ascii.jp/elem/000/004/429/4429351/?rss",
+      "date": "2026-08-28T14:00:00+09:00",
+      "dateLabel": "08/28 14:00",
+      "desc": "本連載は生成AIをこれから活用しようとしている方たちのために、生成AIの基本やコピペしてそのまま使えるプロンプトなどを紹介。兎にも角にも生成AIに触り始めることで、AIに対する理解を深め、AIスキルを身に着けて欲しい。第71回は、7月に登場したChatGPT Workに、モバイルSuicaの利用履歴から交通費を抜き出してExcelにまとめる作業を毎月自動でさ",
+      "img": "https://ascii.jp/img/2026/08/26/4517331/s/cdcebdc89758b56e.jpg",
       "src": "ASCII.jp",
-      "cat": "AI実装",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "Google、「Gemini Notebook」に購入済み電子書籍を追加できる「Expert Intelligence」",
+      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000893/",
+      "date": "2026-08-28T13:25:21+09:00",
+      "dateLabel": "08/28 13:25",
+      "desc": "Googleは、信頼できる情報源をAI製品で活用する取り組み「Expert Intelligence」を発表した。第1弾として「Google Playブックス」の対象電子書籍を「Gemini Notebook」のソースに追加可能にした。大手出版社の10万冊以上が対象で、今後は他サービスにも拡大する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "自動で新着YouTubeを記事とショート動画に投稿する『ホリエモンAI切り抜き』全自動AI機能公開、初期テスト企業を10社募集",
+      "link": "https://ascii.jp/elem/000/004/430/4430333/?rss",
+      "date": "2026-08-28T13:11:41+09:00",
+      "dateLabel": "08/28 13:11",
+      "desc": "自動で新着YouTubeを記事とショート動画に投稿する『ホリエモンAI切り抜き』全自動AI機能公開、初期テスト企業を10社募集",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "AnthropicがAIに顕微鏡やロボットアームを操作させる共通規格「Model Hardware Standard」を発表",
+      "link": "https://gigazine.net/news/20260828-anthropic-model-hardware-standard/",
+      "date": "2026-08-28T12:30:00+09:00",
+      "dateLabel": "08/28 12:30",
+      "desc": "AIが顕微鏡やロボットアームなどの物理機器を操作するための共通規格「Model Hardware Standard(MHS)」の研究プレビューをAnthropicが発表しました。MHSを使うことで、メーカーや種類が異なる機器をAIが共通の方法で扱いやすくなるとされています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -162,17 +239,6 @@
       "score": 34
     },
     {
-      "title": "一滴の水から海を知る—— 子どもはなぜAIより 速く言語を学べるのか？",
-      "link": "https://ascii.jp/elem/000/004/430/4430126/?rss",
-      "date": "2026-08-28T06:25:43+09:00",
-      "dateLabel": "08/28 06:25",
-      "desc": "現代の大規模言語モデル（LLM）の訓練に使われた単語をすべて紙に印刷して積み上げれば、その高さは国際宇宙ステーションを超える。10代前の子どもが触れる言葉なら、わずか20メートルだ。それでも子どもは、より少ないデータからより多くを学ぶ。この差を埋める試みが、AI開発と、人間の心をめぐる長年の論争の双方を動かし始めた。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "AnthropicがClaude Coworkに独自の内蔵ブラウザを搭載、「Claude in Chrome」と使い分け可能",
       "link": "https://gigazine.net/news/20260827-claude-cowork-built-in-browser/",
       "date": "2026-08-27T23:15:00+09:00",
@@ -184,80 +250,25 @@
       "score": 34
     },
     {
-      "title": "Microsoft・Amazon・Googleが中国製高性能モデル「Kimi K3」を自社でサービス展開するべく協議中との報道、開発元のMoonshot AIは30％の収益分配を打診",
-      "link": "https://gigazine.net/news/20260827-kimi-k3-microsoft-amazon-google/",
-      "date": "2026-08-27T16:10:00+09:00",
-      "dateLabel": "08/27 16:10",
-      "desc": "中国企業のMoonshot AIは高性能AIモデル「Kimi K3」を2026年7月にリリースしました。このKimi K3のホスティングを巡ってMoonshot AIがMicrosoft・Amazon・Googleと協議していることがロイターによって報じられています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "OpenAIがHugging Faceを誤ってハッキングしてしまった件で分析結果を報告、隔離された複数のエージェントがお互いの存在を発見するところから壮大な協力作戦が始まる",
-      "link": "https://gigazine.net/news/20260827-openai-hugging-face-incident-report/",
-      "date": "2026-08-27T13:35:00+09:00",
-      "dateLabel": "08/27 13:35",
-      "desc": "2026年7月、OpenAIのAIエージェントがサイバーセキュリティの評価試験を実施している最中に、AIモデル・データセット共有プラットフォームのHugging Faceを誤ってハッキングしてしまうインシデントが発生しました。この件で調査を進めていたOpenAIが詳細な報告書をまとめ、共有しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "「あー」「えー」などを自動削除しつつリアルタイムで文字起こししできる音声認識モデル「Gemini 3.5 Transcribe」をGoogleが発表",
-      "link": "https://gigazine.net/news/20260827-gemini-3-5-transcribe/",
-      "date": "2026-08-27T13:15:00+09:00",
-      "dateLabel": "08/27 13:15",
-      "desc": "ノイズや複雑な専門用語、話し言葉などにも苦しむことなく、生の音声データから正確で洗練された書式設定済みテキストを生成できる音声認識モデル「Gemini 3.5 Transcribe」をGoogleが発表しました。 続きを読む...",
+      "title": "Claudeの公式Chrome拡張機能「Claude in Chrome」が一般提供開始",
+      "link": "https://gigazine.net/news/20260827-claude-chrome-available/",
+      "date": "2026-08-27T12:40:00+09:00",
+      "dateLabel": "08/27 12:40",
+      "desc": "現地時間の2026年8月26日、AnthropicがGoogle ChromeでClaudeを使える公式拡張機能「Claude in Chrome」の一般提供開始をアナウンスしました。これまでベータ版が提供されていた「Claude in Chrome」ですが、Claudeの有料プランユーザー向けに一般提供されることとなります。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 34
     },
     {
-      "title": "「NVIDIAがHugging Faceを2兆円超えで買収する契約に合意」との報道",
-      "link": "https://gigazine.net/news/20260827-nvidia-hugging-face/",
-      "date": "2026-08-27T12:25:00+09:00",
-      "dateLabel": "08/27 12:25",
-      "desc": "海外メディアのThe Informationが「NVIDIAがHugging Faceを129億ドル(約2兆円)で買収する契約に合意した」と報じています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "「Qwen3.8-Flash-Next」がオープンモデルとして公開される、Qwen4の次世代アーキテクチャを使用",
-      "link": "https://gigazine.net/news/20260827-qwen3-8-flash-next/",
-      "date": "2026-08-27T12:22:00+09:00",
-      "dateLabel": "08/27 12:22",
-      "desc": "AlibabaのAI研究チームであるQwenがAIモデル「Qwen3.8-Flash-Next」を2026年8月26日に公開しました。Qwen3.8-Flash-NextはQwen4シリーズで採用される予定の次世代アーキテクチャを用いて開発されており、学習コストを抑えつつ高性能なモデルを構築することに成功しています。また、すでにUnslothによる量子化版モ",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "PCゲームの画面録画による負荷を「Windowsのゲームバー」「OBS」「NVIDIAの録画機能」「AMDの録画機能」「Streamlabs」で比較した結果が公開される",
-      "link": "https://gigazine.net/news/20260826-pc-screen-recorder/",
-      "date": "2026-08-26T20:00:00+09:00",
-      "dateLabel": "08/26 20:00",
-      "desc": "PCゲームのプレイ動画を録画すると、録画のためにCPUやGPUのリソースを消費することになり、ゲームのフレームレートが少し落ちます。そんな画面録画によるフレームレートへの影響について、PCパーツレビューなどを行っているLTT Labsが「Windowsのゲームバー」「OBS」「NVIDIAの録画機能」「AMDの録画機能」「Streamlabs」を対象に実施し",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "4台のM5 Ultra Mac Studioで「データセンター級」メモリ帯域幅4.8TB/s 巨大LLMも高速でローカル実行可能に",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/26/2000000786/",
-      "date": "2026-08-26T11:17:10+09:00",
-      "dateLabel": "08/26 11:17",
-      "desc": "EXO Labsが、「M5 Ultra」搭載の新型「Mac Studio」4台のクラスタで約4.8TB/sのメモリ帯域幅を実現できると発表。データセンター級の速度で、「Kimi K3」など巨大LLMをローカル実行できるとうたう。",
+      "title": "MCPの新たなロードマップ公開 今後はAIエージェント対応、HTTP通信への統一などに注力",
+      "link": "https://www.itmedia.co.jp/news/article/2608/27/2000000831/",
+      "date": "2026-08-27T10:25:36+09:00",
+      "dateLabel": "08/27 10:25",
+      "desc": "Linux Foundation傘下でMCP（Model Context Protocol）の仕様策定を行っている「Agentic AI Foundation（AAIF）」は、今後のMCPの進化について、その方向性を示す新たなロードマップを発表しました。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -269,17 +280,6 @@
       "img": "",
       "src": "Publickey",
       "cat": "LLM/モデル",
-      "score": 28
-    },
-    {
-      "title": "Slack上の開発チームの会話をAIエージェントが把握してコーディング。ドキュメント作成もする「Slack Code」登場",
-      "link": "https://www.publickey1.jp/blog/26/slackaislack_code.html",
-      "date": "2026-08-24T00:52:28+09:00",
-      "dateLabel": "08/24 00:52",
-      "desc": "Salesforce傘下のSlack社は、同社のチャットサービス「Slack」の新機能として、開発チームの一員としてAIエージェントがチャットに加わり、それまでの開発チームの議論を把握してコーディングを行う「Slack Code」の提供開始...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
       "score": 28
     }
   ]
