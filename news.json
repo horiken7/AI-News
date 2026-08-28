@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-28T16:51:54.115885+09:00",
-  "generatedLabel": "2026/08/28 16:51",
+  "generatedAt": "2026-08-29T04:46:19.333371+09:00",
+  "generatedLabel": "2026/08/29 04:46",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 60,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 0
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 17
+      "items": 16
     },
     {
       "source": "CNET Japan",
@@ -118,6 +118,17 @@
       "score": 50
     },
     {
+      "title": "中国製AIモデル「GLM-5.3」が約束通りオープンモデルとして無償公開される、Claude Fable 5やGPT-5.6 Solに匹敵する高性能モデル",
+      "link": "https://gigazine.net/news/20260829-glm-5-3-open/",
+      "date": "2026-08-29T00:10:00+09:00",
+      "dateLabel": "08/29 00:10",
+      "desc": "中国のAI企業であるZ.aiがAIモデル「GLM-5.3」を日本時間の2026年8月29日0時にオープンモデルとして公開しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "Hugging Face、あひる型ロボット「Microduck」発表 399ドルで予約開始",
       "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000901/",
       "date": "2026-08-28T15:09:08+09:00",
@@ -162,6 +173,17 @@
       "score": 40
     },
     {
+      "title": "国防総省によるAnthropicのサプライチェーンリスク指定は違法だと連邦判事が判断",
+      "link": "https://gigazine.net/news/20260828-anthropic-pentagon-blacklist-lawsuit/",
+      "date": "2026-08-28T18:24:00+09:00",
+      "dateLabel": "08/28 18:24",
+      "desc": "AIの軍事利用を巡って「Claude」開発元のAnthropicと決裂したアメリカ国防総省が、Anthropicを「国家安全保障上のサプライチェーンリスク」に指定したことについて争われていた裁判で、連邦地方裁判所が「国防総省は憲法修正第1条に違反した」と認定し、サプライチェーンリスク指定を違法とする判決を下しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "AIや企業によるカンニングを防ぎつつ最先端モデルをテストする方法をGoogleが考案",
       "link": "https://gigazine.net/news/20260828-google-ai-evaluations-secure-environments/",
       "date": "2026-08-28T15:40:00+09:00",
@@ -184,17 +206,6 @@
       "score": 34
     },
     {
-      "title": "手間がかかる交通費精算が地味に面倒くさいので、ChatGPT Workに任せてみた",
-      "link": "https://ascii.jp/elem/000/004/429/4429351/?rss",
-      "date": "2026-08-28T14:00:00+09:00",
-      "dateLabel": "08/28 14:00",
-      "desc": "本連載は生成AIをこれから活用しようとしている方たちのために、生成AIの基本やコピペしてそのまま使えるプロンプトなどを紹介。兎にも角にも生成AIに触り始めることで、AIに対する理解を深め、AIスキルを身に着けて欲しい。第71回は、7月に登場したChatGPT Workに、モバイルSuicaの利用履歴から交通費を抜き出してExcelにまとめる作業を毎月自動でさ",
-      "img": "https://ascii.jp/img/2026/08/26/4517331/s/cdcebdc89758b56e.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "Google、「Gemini Notebook」に購入済み電子書籍を追加できる「Expert Intelligence」",
       "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000893/",
       "date": "2026-08-28T13:25:21+09:00",
@@ -203,17 +214,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "自動で新着YouTubeを記事とショート動画に投稿する『ホリエモンAI切り抜き』全自動AI機能公開、初期テスト企業を10社募集",
-      "link": "https://ascii.jp/elem/000/004/430/4430333/?rss",
-      "date": "2026-08-28T13:11:41+09:00",
-      "dateLabel": "08/28 13:11",
-      "desc": "自動で新着YouTubeを記事とショート動画に投稿する『ホリエモンAI切り抜き』全自動AI機能公開、初期テスト企業を10社募集",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -239,39 +239,6 @@
       "score": 34
     },
     {
-      "title": "AnthropicがClaude Coworkに独自の内蔵ブラウザを搭載、「Claude in Chrome」と使い分け可能",
-      "link": "https://gigazine.net/news/20260827-claude-cowork-built-in-browser/",
-      "date": "2026-08-27T23:15:00+09:00",
-      "dateLabel": "08/27 23:15",
-      "desc": "Anthropicが、PC操作支援AI「Claude Cowork」に独自のブラウザを搭載しました。サブスクリプションプランの有料ユーザー向けに順次提供されることになっています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Claudeの公式Chrome拡張機能「Claude in Chrome」が一般提供開始",
-      "link": "https://gigazine.net/news/20260827-claude-chrome-available/",
-      "date": "2026-08-27T12:40:00+09:00",
-      "dateLabel": "08/27 12:40",
-      "desc": "現地時間の2026年8月26日、AnthropicがGoogle ChromeでClaudeを使える公式拡張機能「Claude in Chrome」の一般提供開始をアナウンスしました。これまでベータ版が提供されていた「Claude in Chrome」ですが、Claudeの有料プランユーザー向けに一般提供されることとなります。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "MCPの新たなロードマップ公開 今後はAIエージェント対応、HTTP通信への統一などに注力",
-      "link": "https://www.itmedia.co.jp/news/article/2608/27/2000000831/",
-      "date": "2026-08-27T10:25:36+09:00",
-      "dateLabel": "08/27 10:25",
-      "desc": "Linux Foundation傘下でMCP（Model Context Protocol）の仕様策定を行っている「Agentic AI Foundation（AAIF）」は、今後のMCPの進化について、その方向性を示す新たなロードマップを発表しました。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "Rustに移植された「Bun 1.4」正式リリース。Node.jsとの互換性向上でPlaywrightやvitestが動作、CPUとメモリの使用率が大幅改善、正規表現が高速化など",
       "link": "https://www.publickey1.jp/blog/26/rustbun_14nodejsplaywrightvitestcpu.html",
       "date": "2026-08-24T00:58:41+09:00",
@@ -281,6 +248,39 @@
       "src": "Publickey",
       "cat": "LLM/モデル",
       "score": 28
+    },
+    {
+      "title": "Slack上の開発チームの会話をAIエージェントが把握してコーディング。ドキュメント作成もする「Slack Code」登場",
+      "link": "https://www.publickey1.jp/blog/26/slackaislack_code.html",
+      "date": "2026-08-24T00:52:28+09:00",
+      "dateLabel": "08/24 00:52",
+      "desc": "Salesforce傘下のSlack社は、同社のチャットサービス「Slack」の新機能として、開発チームの一員としてAIエージェントがチャットに加わり、それまでの開発チームの議論を把握してコーディングを行う「Slack Code」の提供開始...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 28
+    },
+    {
+      "title": "AIに同じミスを繰り返させない「ハーネスエンジニアリング」とは？",
+      "link": "https://gigazine.net/news/20260828-harness-engineering/",
+      "date": "2026-08-28T23:10:00+09:00",
+      "dateLabel": "08/28 23:10",
+      "desc": "AIにプログラムを書かせる「AIコーディングエージェント」により多くの作業を任せるには、AIが生成したコードをどこまで信頼できるかが問題になります。AI支援開発の専門家であるビルギッタ・ベッケラー氏が、AIをうまく働かせる周辺環境を整える「ハーネスエンジニアリング」という考え方を解説しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "eSIM内蔵イヤホンで会話を録音・文字起こし・要約してAIエージェントにプレゼン資料作成などをお願いできるウェアラブルAI「Plaud One」が登場",
+      "link": "https://gigazine.net/news/20260828-plaud-one/",
+      "date": "2026-08-28T19:00:00+09:00",
+      "dateLabel": "08/28 19:00",
+      "desc": "イヤホンの充電ケースにeSIMが内蔵されているため、いつでもAIエージェントを使用できるワイヤレスイヤホンが「Plaud One」です。ボタンを押すか「ヘイ、Plaud(プラウド)」と言うだけで、いつでもどこでも独自のAIエージェントである「Plaud Agent」を起動できる「ウェアラブルAI」となっています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 26
     }
   ]
 }
