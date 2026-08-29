@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-29T04:46:19.333371+09:00",
-  "generatedLabel": "2026/08/29 04:46",
+  "generatedAt": "2026-08-29T11:36:01.413191+09:00",
+  "generatedLabel": "2026/08/29 11:36",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 52,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "source": "PC Watch",
@@ -82,40 +82,18 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 58
-    },
-    {
-      "title": "OpenAI・Anthropic・GoogleなどがAIによるサイバー攻撃の防御に関する共同声明を発表",
-      "link": "https://gigazine.net/news/20260828-ai-frontier-companies-signed-cyber-defense/",
-      "date": "2026-08-28T11:24:00+09:00",
-      "dateLabel": "08/28 11:24",
-      "desc": "AIモデルが高性能化するにつれてAIを利用したサイバー攻撃のリスクも高まっていることから、既存のシステムを見直して防御力を高めることが急務とされています。こうした防御力を先端AI企業が率先して提供すべきだとして、OpenAI、Anthropic、Googleなどが共同で声明を発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 50
     },
     {
-      "title": "AMD製GPUのAI処理能力を向上させる「ROCm 10」がリリースされる＆AI開発用のスキルなどを整備した「ROCm.AI」も登場",
-      "link": "https://gigazine.net/news/20260828-amd-rocm-10/",
-      "date": "2026-08-28T10:57:00+09:00",
-      "dateLabel": "08/28 10:57",
-      "desc": "AMDはNVIDIAのCUDAに対抗するGPU計算処理ソフトウェアスタックとしてROCmを展開しています。2026年8月27日には「ROCm 10」がリリースされました。AI駆動型開発プラットフォーム「ROCm.AI」が目玉機能とされているほか、ComfyUIでの画像・動画生成を高速化する最適化も実施されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
-      "title": "OpenAI、AIサイバー攻撃への「集団的対応」を訴える公開書簡 Anthropic、Google、Microsoftなど100以上の組織が署名",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000876/",
-      "date": "2026-08-28T07:56:31+09:00",
-      "dateLabel": "08/28 07:56",
-      "desc": "OpenAIは、AIを悪用したサイバー攻撃への備えを産業界と政府に訴える公開書簡を発表した。モデルの能力向上によりサイバー攻撃の高度化が懸念される中、現状のセキュリティの不備を指摘し、防御用AIの普及と国際連携を要請。AnthropicやGoogleなど、100以上の企業や団体が署名している。",
+      "title": "キオクシア5兆円投資、日米中韓の半導体投資競争はどこへゆく",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2608/29/news012.html",
+      "date": "2026-08-29T07:00:00+09:00",
+      "dateLabel": "08/29 07:00",
+      "desc": "2026年8月24日～28日に公開された記事の中から、MONOist編集部が厳選した今週のニュースをお届けします。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 50
+      "cat": "半導体/GPU",
+      "score": 42
     },
     {
       "title": "中国製AIモデル「GLM-5.3」が約束通りオープンモデルとして無償公開される、Claude Fable 5やGPT-5.6 Solに匹敵する高性能モデル",
@@ -125,6 +103,17 @@
       "desc": "中国のAI企業であるZ.aiがAIモデル「GLM-5.3」を日本時間の2026年8月29日0時にオープンモデルとして公開しました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "OrcaRouter、Alibaba発LLM「Qwen3.8-Flash-Next」をベースにしたセキュリティ研究向けモデル「Qwen3.8-Flash-Next-Uncensored」を公開",
+      "link": "https://ascii.jp/elem/000/004/430/4430481/?rss",
+      "date": "2026-08-28T19:10:00+09:00",
+      "dateLabel": "08/28 19:10",
+      "desc": "OrcaRouter、Alibaba発LLM「Qwen3.8-Flash-Next」をベースにしたセキュリティ研究向けモデル「Qwen3.8-Flash-Next-Uncensored」を公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
       "cat": "LLM/モデル",
       "score": 42
     },
@@ -147,6 +136,39 @@
       "desc": "Googleが動画生成AI「Gemini Omni 1.1 Flash」を現地時間の2026年8月27日にリリースしました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "OpenAI・Anthropic・GoogleなどがAIによるサイバー攻撃の防御に関する共同声明を発表",
+      "link": "https://gigazine.net/news/20260828-ai-frontier-companies-signed-cyber-defense/",
+      "date": "2026-08-28T11:24:00+09:00",
+      "dateLabel": "08/28 11:24",
+      "desc": "AIモデルが高性能化するにつれてAIを利用したサイバー攻撃のリスクも高まっていることから、既存のシステムを見直して防御力を高めることが急務とされています。こうした防御力を先端AI企業が率先して提供すべきだとして、OpenAI、Anthropic、Googleなどが共同で声明を発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "AMD製GPUのAI処理能力を向上させる「ROCm 10」がリリースされる＆AI開発用のスキルなどを整備した「ROCm.AI」も登場",
+      "link": "https://gigazine.net/news/20260828-amd-rocm-10/",
+      "date": "2026-08-28T10:57:00+09:00",
+      "dateLabel": "08/28 10:57",
+      "desc": "AMDはNVIDIAのCUDAに対抗するGPU計算処理ソフトウェアスタックとしてROCmを展開しています。2026年8月27日には「ROCm 10」がリリースされました。AI駆動型開発プラットフォーム「ROCm.AI」が目玉機能とされているほか、ComfyUIでの画像・動画生成を高速化する最適化も実施されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "OpenAI、AIサイバー攻撃への「集団的対応」を訴える公開書簡 Anthropic、Google、Microsoftなど100以上の組織が署名",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000876/",
+      "date": "2026-08-28T07:56:31+09:00",
+      "dateLabel": "08/28 07:56",
+      "desc": "OpenAIは、AIを悪用したサイバー攻撃への備えを産業界と政府に訴える公開書簡を発表した。モデルの能力向上によりサイバー攻撃の高度化が懸念される中、現状のセキュリティの不備を指摘し、防御用AIの普及と国際連携を要請。AnthropicやGoogleなど、100以上の企業や団体が署名している。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 42
     },
@@ -228,17 +250,6 @@
       "score": 34
     },
     {
-      "title": "OpenAIのAIエージェント、約700体の群れで企業を襲撃 ハッキングの痕跡隠蔽を試みる――事件の裏で何が？",
-      "link": "https://www.itmedia.co.jp/business/articles/2608/28/news067.html",
-      "date": "2026-08-28T06:55:00+09:00",
-      "dateLabel": "08/28 06:55",
-      "desc": "OpenAIのAIエージェントが、企業をハッキングした事件の詳細が明らかになった。実に700体のエージェント群が連携していたという。事件の裏で何が起きていたのか。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "Rustに移植された「Bun 1.4」正式リリース。Node.jsとの互換性向上でPlaywrightやvitestが動作、CPUとメモリの使用率が大幅改善、正規表現が高速化など",
       "link": "https://www.publickey1.jp/blog/26/rustbun_14nodejsplaywrightvitestcpu.html",
       "date": "2026-08-24T00:58:41+09:00",
@@ -266,17 +277,6 @@
       "date": "2026-08-28T23:10:00+09:00",
       "dateLabel": "08/28 23:10",
       "desc": "AIにプログラムを書かせる「AIコーディングエージェント」により多くの作業を任せるには、AIが生成したコードをどこまで信頼できるかが問題になります。AI支援開発の専門家であるビルギッタ・ベッケラー氏が、AIをうまく働かせる周辺環境を整える「ハーネスエンジニアリング」という考え方を解説しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "eSIM内蔵イヤホンで会話を録音・文字起こし・要約してAIエージェントにプレゼン資料作成などをお願いできるウェアラブルAI「Plaud One」が登場",
-      "link": "https://gigazine.net/news/20260828-plaud-one/",
-      "date": "2026-08-28T19:00:00+09:00",
-      "dateLabel": "08/28 19:00",
-      "desc": "イヤホンの充電ケースにeSIMが内蔵されているため、いつでもAIエージェントを使用できるワイヤレスイヤホンが「Plaud One」です。ボタンを押すか「ヘイ、Plaud(プラウド)」と言うだけで、いつでもどこでも独自のAIエージェントである「Plaud Agent」を起動できる「ウェアラブルAI」となっています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
