@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-29T23:47:52.812928+09:00",
-  "generatedLabel": "2026/08/29 23:47",
+  "generatedAt": "2026-08-30T03:00:31.977657+09:00",
+  "generatedLabel": "2026/08/30 03:00",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 53,
@@ -107,17 +107,6 @@
       "score": 42
     },
     {
-      "title": "中国製AIモデル「GLM-5.3」が約束通りオープンモデルとして無償公開される、Claude Fable 5やGPT-5.6 Solに匹敵する高性能モデル",
-      "link": "https://gigazine.net/news/20260829-glm-5-3-open/",
-      "date": "2026-08-29T00:10:00+09:00",
-      "dateLabel": "08/29 00:10",
-      "desc": "中国のAI企業であるZ.aiがAIモデル「GLM-5.3」を日本時間の2026年8月29日0時にオープンモデルとして公開しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "OpenAI、AIサイバー攻撃への「集団的対応」を訴える公開書簡 Anthropic、Google、Microsoftなど100以上の組織が署名",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000876/",
       "date": "2026-08-28T07:56:31+09:00",
@@ -170,6 +159,17 @@
       "img": "https://ascii.jp/img/2026/08/13/4512686/s/846f6f73f9f000da.jpg",
       "src": "ASCII.jp",
       "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "中国製AIモデル「GLM-5.3」が約束通りオープンモデルとして無償公開される、Claude Fable 5やGPT-5.6 Solに匹敵する高性能モデル",
+      "link": "https://gigazine.net/news/20260829-glm-5-3-open/",
+      "date": "2026-08-29T00:10:00+09:00",
+      "dateLabel": "08/29 00:10",
+      "desc": "中国のAI企業であるZ.aiがAIモデル「GLM-5.3」を日本時間の2026年8月29日0時にオープンモデルとして公開しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
