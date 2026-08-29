@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-29T11:36:01.413191+09:00",
-  "generatedLabel": "2026/08/29 11:36",
+  "generatedAt": "2026-08-29T18:33:14.661717+09:00",
+  "generatedLabel": "2026/08/29 18:33",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 1
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 16
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -71,7 +71,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "規制/安全",
-      "score": 58
+      "score": 50
     },
     {
       "title": "Google、動画生成AI「Gemini Omni 1.1 Flash」公開 10秒分の文脈を参照して最長40秒まで延長",
@@ -83,6 +83,17 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 50
+    },
+    {
+      "title": "OpenAIがCursorとの提携・モデル提供の終了を通達、「SpaceXがOpenAIの利用規約に従って技術を使うという確信が持てないため」",
+      "link": "https://gigazine.net/news/20260829-openai-decided-to-end-partnership-with-cursor/",
+      "date": "2026-08-29T15:45:00+09:00",
+      "dateLabel": "08/29 15:45",
+      "desc": "OpenAIがAIコーディングツール・Cursorとの提携関係を終了し、モデル提供を2026年11月12日で終えることを明らかにしました。理由はCursorがSpaceXに買収されたことです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "キオクシア5兆円投資、日米中韓の半導体投資競争はどこへゆく",
@@ -101,39 +112,6 @@
       "date": "2026-08-29T00:10:00+09:00",
       "dateLabel": "08/29 00:10",
       "desc": "中国のAI企業であるZ.aiがAIモデル「GLM-5.3」を日本時間の2026年8月29日0時にオープンモデルとして公開しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "OrcaRouter、Alibaba発LLM「Qwen3.8-Flash-Next」をベースにしたセキュリティ研究向けモデル「Qwen3.8-Flash-Next-Uncensored」を公開",
-      "link": "https://ascii.jp/elem/000/004/430/4430481/?rss",
-      "date": "2026-08-28T19:10:00+09:00",
-      "dateLabel": "08/28 19:10",
-      "desc": "OrcaRouter、Alibaba発LLM「Qwen3.8-Flash-Next」をベースにしたセキュリティ研究向けモデル「Qwen3.8-Flash-Next-Uncensored」を公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "Hugging Face、あひる型ロボット「Microduck」発表 399ドルで予約開始",
-      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000901/",
-      "date": "2026-08-28T15:09:08+09:00",
-      "dateLabel": "08/28 15:09",
-      "desc": "Pollen Roboticsは、二足歩行ロボット「Microduck」を発表し予約受付を開始した。399ドルで25cmの小型設計。強化学習による動作学習に特化し、SDKやシミュレーターをOSSとして公開する。大型機と異なり家庭や教室で安全に試行錯誤できる「行動するAIのためのプラットフォーム」を目指す。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI実装",
-      "score": 42
-    },
-    {
-      "title": "Googleが動画生成AI「Gemini Omni 1.1 Flash」をリリース、「最大4Kアップスケール」「動画の続きを生成」「低解像度で高速プレビュー」など",
-      "link": "https://gigazine.net/news/20260828-gemini-omni-1-1-flash/",
-      "date": "2026-08-28T12:12:00+09:00",
-      "dateLabel": "08/28 12:12",
-      "desc": "Googleが動画生成AI「Gemini Omni 1.1 Flash」を現地時間の2026年8月27日にリリースしました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
@@ -195,55 +173,44 @@
       "score": 40
     },
     {
-      "title": "国防総省によるAnthropicのサプライチェーンリスク指定は違法だと連邦判事が判断",
-      "link": "https://gigazine.net/news/20260828-anthropic-pentagon-blacklist-lawsuit/",
-      "date": "2026-08-28T18:24:00+09:00",
-      "dateLabel": "08/28 18:24",
-      "desc": "AIの軍事利用を巡って「Claude」開発元のAnthropicと決裂したアメリカ国防総省が、Anthropicを「国家安全保障上のサプライチェーンリスク」に指定したことについて争われていた裁判で、連邦地方裁判所が「国防総省は憲法修正第1条に違反した」と認定し、サプライチェーンリスク指定を違法とする判決を下しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
+      "title": "「介護施設のシフト作成が大変すぎる」現場の声から誕生、施設長が生成AIと開発したシフト自動作成アプリ「shiftsemi（シフトゼミ）」を提供開始",
+      "link": "https://ascii.jp/elem/000/004/430/4430497/?rss",
+      "date": "2026-08-29T14:30:41+09:00",
+      "dateLabel": "08/29 14:30",
+      "desc": "「介護施設のシフト作成が大変すぎる」現場の声から誕生、施設長が生成AIと開発したシフト自動作成アプリ「shiftsemi（シフトゼミ）」を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
-      "title": "AIや企業によるカンニングを防ぎつつ最先端モデルをテストする方法をGoogleが考案",
-      "link": "https://gigazine.net/news/20260828-google-ai-evaluations-secure-environments/",
-      "date": "2026-08-28T15:40:00+09:00",
-      "dateLabel": "08/28 15:40",
-      "desc": "世界中の企業や研究機関が新たなAIモデルを発表する中で、AIモデルのテストは「どのモデルを利用するべきか」を判断する重要な手がかりになります。そんなAIモデルのテストにおいて、AIや開発企業によるカンニングを防ぎつつ性能評価するテストの手法を、GoogleのAI研究部門であるGoogle DeepMindが考案しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
+      "title": "アイドル時は34dBと極静音、Noctuaファンを合計8基搭載するゲーミングPCはいかが？側面にはCPUとGPUの温度がわかる独自ギミックも",
+      "link": "https://ascii.jp/elem/000/004/426/4426691/?rss",
+      "date": "2026-08-29T11:00:00+09:00",
+      "dateLabel": "08/29 11:00",
+      "desc": "パソコンショップSEVENの静音ゲーミングPC「ZEFT R65YC」をご紹介。Noctuaファンならぜひチェックしてほしい1台だ。",
+      "img": "https://ascii.jp/img/2026/08/13/4512686/s/846f6f73f9f000da.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
-      "title": "購入した電子書籍をGeminiに読ませて質問できる「Expert Intelligence」が登場、10万冊超に対応",
-      "link": "https://gigazine.net/news/20260828-expert-intelligence-gemini/",
-      "date": "2026-08-28T14:15:00+09:00",
-      "dateLabel": "08/28 14:15",
-      "desc": "文書・音声・動画をAIで分析して内容を整理してまとめてくれるGoogleのツール「Gemini Notebook(旧：NotebookLM)」の新しい取り組みとして、購入済みの書籍を取り込んで質問したり議論したりできる「Expert Intelligence」が発表されました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Google、「Gemini Notebook」に購入済み電子書籍を追加できる「Expert Intelligence」",
-      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000893/",
-      "date": "2026-08-28T13:25:21+09:00",
-      "dateLabel": "08/28 13:25",
-      "desc": "Googleは、信頼できる情報源をAI製品で活用する取り組み「Expert Intelligence」を発表した。第1弾として「Google Playブックス」の対象電子書籍を「Gemini Notebook」のソースに追加可能にした。大手出版社の10万冊以上が対象で、今後は他サービスにも拡大する。",
+      "title": "Hugging Face、あひる型ロボット「Microduck」発表 399ドルで予約開始",
+      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000901/",
+      "date": "2026-08-28T15:09:08+09:00",
+      "dateLabel": "08/28 15:09",
+      "desc": "Pollen Roboticsは、二足歩行ロボット「Microduck」を発表し予約受付を開始した。399ドルで25cmの小型設計。強化学習による動作学習に特化し、SDKやシミュレーターをOSSとして公開する。大型機と異なり家庭や教室で安全に試行錯誤できる「行動するAIのためのプラットフォーム」を目指す。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
+      "cat": "AI実装",
       "score": 34
     },
     {
-      "title": "AnthropicがAIに顕微鏡やロボットアームを操作させる共通規格「Model Hardware Standard」を発表",
-      "link": "https://gigazine.net/news/20260828-anthropic-model-hardware-standard/",
-      "date": "2026-08-28T12:30:00+09:00",
-      "dateLabel": "08/28 12:30",
-      "desc": "AIが顕微鏡やロボットアームなどの物理機器を操作するための共通規格「Model Hardware Standard(MHS)」の研究プレビューをAnthropicが発表しました。MHSを使うことで、メーカーや種類が異なる機器をAIが共通の方法で扱いやすくなるとされています。 続きを読む...",
+      "title": "Googleが動画生成AI「Gemini Omni 1.1 Flash」をリリース、「最大4Kアップスケール」「動画の続きを生成」「低解像度で高速プレビュー」など",
+      "link": "https://gigazine.net/news/20260828-gemini-omni-1-1-flash/",
+      "date": "2026-08-28T12:12:00+09:00",
+      "dateLabel": "08/28 12:12",
+      "desc": "Googleが動画生成AI「Gemini Omni 1.1 Flash」を現地時間の2026年8月27日にリリースしました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
@@ -272,11 +239,44 @@
       "score": 28
     },
     {
+      "title": "Ryzen AI 5 340搭載で、23.8型ディスプレーの一体型デスクトップPCが22万円台！",
+      "link": "https://ascii.jp/elem/000/004/429/4429930/?rss",
+      "date": "2026-08-29T16:00:00+09:00",
+      "dateLabel": "08/29 16:00",
+      "desc": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
+      "img": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "今年のPixelは全部おもしろい。だから迷う、標準モデルかProモデルか、Foldか",
+      "link": "https://ascii.jp/elem/000/004/429/4429721/?rss",
+      "date": "2026-08-29T12:00:00+09:00",
+      "dateLabel": "08/29 12:00",
+      "desc": "Pixel 11 Pro XLを実機レビュー。輝度2400ニトの6.8型、5115mAhの余裕、Tensor G6のAI音声入力や背面が光るHiLightが日常を変える。ただ6.3型Proとの価格差は3万3000円。無印やFoldも含め、選び方を考えた。",
+      "img": "https://ascii.jp/img/2026/08/27/4518106/s/138ed9bdb9c18146.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "AIに同じミスを繰り返させない「ハーネスエンジニアリング」とは？",
       "link": "https://gigazine.net/news/20260828-harness-engineering/",
       "date": "2026-08-28T23:10:00+09:00",
       "dateLabel": "08/28 23:10",
       "desc": "AIにプログラムを書かせる「AIコーディングエージェント」により多くの作業を任せるには、AIが生成したコードをどこまで信頼できるかが問題になります。AI支援開発の専門家であるビルギッタ・ベッケラー氏が、AIをうまく働かせる周辺環境を整える「ハーネスエンジニアリング」という考え方を解説しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "eSIM内蔵イヤホンで会話を録音・文字起こし・要約してAIエージェントにプレゼン資料作成などをお願いできるウェアラブルAI「Plaud One」が登場",
+      "link": "https://gigazine.net/news/20260828-plaud-one/",
+      "date": "2026-08-28T19:00:00+09:00",
+      "dateLabel": "08/28 19:00",
+      "desc": "イヤホンの充電ケースにeSIMが内蔵されているため、いつでもAIエージェントを使用できるワイヤレスイヤホンが「Plaud One」です。ボタンを押すか「ヘイ、Plaud(プラウド)」と言うだけで、いつでもどこでも独自のAIエージェントである「Plaud Agent」を起動できる「ウェアラブルAI」となっています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
