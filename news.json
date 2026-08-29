@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-29T18:33:14.661717+09:00",
-  "generatedLabel": "2026/08/29 18:33",
+  "generatedAt": "2026-08-29T23:47:52.812928+09:00",
+  "generatedLabel": "2026/08/29 23:47",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -115,28 +115,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "OpenAI・Anthropic・GoogleなどがAIによるサイバー攻撃の防御に関する共同声明を発表",
-      "link": "https://gigazine.net/news/20260828-ai-frontier-companies-signed-cyber-defense/",
-      "date": "2026-08-28T11:24:00+09:00",
-      "dateLabel": "08/28 11:24",
-      "desc": "AIモデルが高性能化するにつれてAIを利用したサイバー攻撃のリスクも高まっていることから、既存のシステムを見直して防御力を高めることが急務とされています。こうした防御力を先端AI企業が率先して提供すべきだとして、OpenAI、Anthropic、Googleなどが共同で声明を発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "AMD製GPUのAI処理能力を向上させる「ROCm 10」がリリースされる＆AI開発用のスキルなどを整備した「ROCm.AI」も登場",
-      "link": "https://gigazine.net/news/20260828-amd-rocm-10/",
-      "date": "2026-08-28T10:57:00+09:00",
-      "dateLabel": "08/28 10:57",
-      "desc": "AMDはNVIDIAのCUDAに対抗するGPU計算処理ソフトウェアスタックとしてROCmを展開しています。2026年8月27日には「ROCm 10」がリリースされました。AI駆動型開発プラットフォーム「ROCm.AI」が目玉機能とされているほか、ComfyUIでの画像・動画生成を高速化する最適化も実施されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
       "score": 42
     },
     {
@@ -261,25 +239,47 @@
       "score": 26
     },
     {
-      "title": "AIに同じミスを繰り返させない「ハーネスエンジニアリング」とは？",
-      "link": "https://gigazine.net/news/20260828-harness-engineering/",
-      "date": "2026-08-28T23:10:00+09:00",
-      "dateLabel": "08/28 23:10",
-      "desc": "AIにプログラムを書かせる「AIコーディングエージェント」により多くの作業を任せるには、AIが生成したコードをどこまで信頼できるかが問題になります。AI支援開発の専門家であるビルギッタ・ベッケラー氏が、AIをうまく働かせる周辺環境を整える「ハーネスエンジニアリング」という考え方を解説しています。 続きを読む...",
+      "title": "国防総省によるAnthropicのサプライチェーンリスク指定は違法だと連邦判事が判断",
+      "link": "https://gigazine.net/news/20260828-anthropic-pentagon-blacklist-lawsuit/",
+      "date": "2026-08-28T18:24:00+09:00",
+      "dateLabel": "08/28 18:24",
+      "desc": "AIの軍事利用を巡って「Claude」開発元のAnthropicと決裂したアメリカ国防総省が、Anthropicを「国家安全保障上のサプライチェーンリスク」に指定したことについて争われていた裁判で、連邦地方裁判所が「国防総省は憲法修正第1条に違反した」と認定し、サプライチェーンリスク指定を違法とする判決を下しました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
+      "cat": "LLM/モデル",
       "score": 26
     },
     {
-      "title": "eSIM内蔵イヤホンで会話を録音・文字起こし・要約してAIエージェントにプレゼン資料作成などをお願いできるウェアラブルAI「Plaud One」が登場",
-      "link": "https://gigazine.net/news/20260828-plaud-one/",
-      "date": "2026-08-28T19:00:00+09:00",
-      "dateLabel": "08/28 19:00",
-      "desc": "イヤホンの充電ケースにeSIMが内蔵されているため、いつでもAIエージェントを使用できるワイヤレスイヤホンが「Plaud One」です。ボタンを押すか「ヘイ、Plaud(プラウド)」と言うだけで、いつでもどこでも独自のAIエージェントである「Plaud Agent」を起動できる「ウェアラブルAI」となっています。 続きを読む...",
+      "title": "AIや企業によるカンニングを防ぎつつ最先端モデルをテストする方法をGoogleが考案",
+      "link": "https://gigazine.net/news/20260828-google-ai-evaluations-secure-environments/",
+      "date": "2026-08-28T15:40:00+09:00",
+      "dateLabel": "08/28 15:40",
+      "desc": "世界中の企業や研究機関が新たなAIモデルを発表する中で、AIモデルのテストは「どのモデルを利用するべきか」を判断する重要な手がかりになります。そんなAIモデルのテストにおいて、AIや開発企業によるカンニングを防ぎつつ性能評価するテストの手法を、GoogleのAI研究部門であるGoogle DeepMindが考案しました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "購入した電子書籍をGeminiに読ませて質問できる「Expert Intelligence」が登場、10万冊超に対応",
+      "link": "https://gigazine.net/news/20260828-expert-intelligence-gemini/",
+      "date": "2026-08-28T14:15:00+09:00",
+      "dateLabel": "08/28 14:15",
+      "desc": "文書・音声・動画をAIで分析して内容を整理してまとめてくれるGoogleのツール「Gemini Notebook(旧：NotebookLM)」の新しい取り組みとして、購入済みの書籍を取り込んで質問したり議論したりできる「Expert Intelligence」が発表されました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "Google、「Gemini Notebook」に購入済み電子書籍を追加できる「Expert Intelligence」",
+      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000893/",
+      "date": "2026-08-28T13:25:21+09:00",
+      "dateLabel": "08/28 13:25",
+      "desc": "Googleは、信頼できる情報源をAI製品で活用する取り組み「Expert Intelligence」を発表した。第1弾として「Google Playブックス」の対象電子書籍を「Gemini Notebook」のソースに追加可能にした。大手出版社の10万冊以上が対象で、今後は他サービスにも拡大する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 26
     }
   ]
