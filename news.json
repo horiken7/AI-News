@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-30T06:22:41.387488+09:00",
-  "generatedLabel": "2026/08/30 06:22",
+  "generatedAt": "2026-08-30T08:41:40.992219+09:00",
+  "generatedLabel": "2026/08/30 08:41",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 53,
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "OpenAI、Cursorへのモデル提供を11月12日に終了 SpaceXによる買収が理由",
+      "link": "https://www.itmedia.co.jp/news/article/2608/30/2000000945/",
+      "date": "2026-08-30T08:12:23+09:00",
+      "dateLabel": "08/30 08:12",
+      "desc": "OpenAIは、AIコードエディタ「Cursor」へのモデル提供契約を11月12日に終了すると発表した。SpaceXによるCursor買収を受け、イーロン・マスク氏の過去の契約違反実績から規約順守を確信できないことを理由に挙げている。Cursor側は影響が限定的としつつ協議継続を表明、Anthropicは支援継続を示した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
       "title": "Anthropic、AIで物理機器を制御する共通規格「MHS」発表 将来オープンソース化へ",
       "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000897/",
       "date": "2026-08-28T14:20:45+09:00",
@@ -93,17 +104,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "キオクシア5兆円投資、日米中韓の半導体投資競争はどこへゆく",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2608/29/news012.html",
-      "date": "2026-08-29T07:00:00+09:00",
-      "dateLabel": "08/29 07:00",
-      "desc": "2026年8月24日～28日に公開された記事の中から、MONOist編集部が厳選した今週のニュースをお届けします。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
       "score": 42
     },
     {
@@ -158,6 +158,17 @@
       "desc": "パソコンショップSEVENの静音ゲーミングPC「ZEFT R65YC」をご紹介。Noctuaファンならぜひチェックしてほしい1台だ。",
       "img": "https://ascii.jp/img/2026/08/13/4512686/s/846f6f73f9f000da.jpg",
       "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "キオクシア5兆円投資、日米中韓の半導体投資競争はどこへゆく",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2608/29/news012.html",
+      "date": "2026-08-29T07:00:00+09:00",
+      "dateLabel": "08/29 07:00",
+      "desc": "2026年8月24日～28日に公開された記事の中から、MONOist編集部が厳選した今週のニュースをお届けします。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "半導体/GPU",
       "score": 34
     },
@@ -268,17 +279,6 @@
       "desc": "文書・音声・動画をAIで分析して内容を整理してまとめてくれるGoogleのツール「Gemini Notebook(旧：NotebookLM)」の新しい取り組みとして、購入済みの書籍を取り込んで質問したり議論したりできる「Expert Intelligence」が発表されました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "Google、「Gemini Notebook」に購入済み電子書籍を追加できる「Expert Intelligence」",
-      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000893/",
-      "date": "2026-08-28T13:25:21+09:00",
-      "dateLabel": "08/28 13:25",
-      "desc": "Googleは、信頼できる情報源をAI製品で活用する取り組み「Expert Intelligence」を発表した。第1弾として「Google Playブックス」の対象電子書籍を「Gemini Notebook」のソースに追加可能にした。大手出版社の10万冊以上が対象で、今後は他サービスにも拡大する。",
-      "img": "",
-      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 26
     }
