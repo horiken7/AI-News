@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-31T03:15:04.823356+09:00",
-  "generatedLabel": "2026/08/31 03:15",
+  "generatedAt": "2026-08-31T06:43:26.477468+09:00",
+  "generatedLabel": "2026/08/31 06:43",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 49,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 9
     },
     {
       "source": "CNET Japan",
@@ -206,6 +206,28 @@
       "score": 34
     },
     {
+      "title": "「人類はもう境界線越えた」 ビル・ゲイツがいま AIに警鐘を鳴らす理由",
+      "link": "https://ascii.jp/elem/000/004/430/4430554/?rss",
+      "date": "2026-08-31T06:29:47+09:00",
+      "dateLabel": "08/31 06:29",
+      "desc": "「バイオテロのリスクは、自然発生するパンデミックより約50倍恐ろしく、約50倍起こりやすい」。楽観主義者だったビル・ゲイツはいま、AIについてこう警告している。分子を作れるモデルはすべて監視すべきだと訴え、ロボット税や「人間専用の仕事」といった案も示す。なぜ70歳の慈善活動家が、最も声高な警告者になったのか。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
+      "title": "パナソニックHDがAI・ロボティクス研究開発本部を新設、CAIOの榊原氏がトップに",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2608/31/news057.html",
+      "date": "2026-08-31T06:15:00+09:00",
+      "dateLabel": "08/31 06:15",
+      "desc": "パナソニック ホールディングス（パナソニックHD）が技術部門の再編を行うと発表。現行のDX・CPS本部を「事業開発本部」に名称変更し、「AI・ロボティクス研究開発本部」を新設する。AI・ロボティクス研究開発本部長には同社 執行役員 グループCAIO（最高AI責任者）の榊原彰氏が就任する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "「AIに意識はあるのか？」という疑問に対するGoogle研究者の見解",
       "link": "https://gigazine.net/news/20260830-ai-consciousness-backwards/",
       "date": "2026-08-30T18:00:00+09:00",
@@ -258,28 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "国防総省によるAnthropicのサプライチェーンリスク指定は違法だと連邦判事が判断",
-      "link": "https://gigazine.net/news/20260828-anthropic-pentagon-blacklist-lawsuit/",
-      "date": "2026-08-28T18:24:00+09:00",
-      "dateLabel": "08/28 18:24",
-      "desc": "AIの軍事利用を巡って「Claude」開発元のAnthropicと決裂したアメリカ国防総省が、Anthropicを「国家安全保障上のサプライチェーンリスク」に指定したことについて争われていた裁判で、連邦地方裁判所が「国防総省は憲法修正第1条に違反した」と認定し、サプライチェーンリスク指定を違法とする判決を下しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "AIや企業によるカンニングを防ぎつつ最先端モデルをテストする方法をGoogleが考案",
-      "link": "https://gigazine.net/news/20260828-google-ai-evaluations-secure-environments/",
-      "date": "2026-08-28T15:40:00+09:00",
-      "dateLabel": "08/28 15:40",
-      "desc": "世界中の企業や研究機関が新たなAIモデルを発表する中で、AIモデルのテストは「どのモデルを利用するべきか」を判断する重要な手がかりになります。そんなAIモデルのテストにおいて、AIや開発企業によるカンニングを防ぎつつ性能評価するテストの手法を、GoogleのAI研究部門であるGoogle DeepMindが考案しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
       "score": 26
     }
   ]
