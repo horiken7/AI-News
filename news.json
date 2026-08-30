@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-30T17:39:41.189895+09:00",
-  "generatedLabel": "2026/08/30 17:39",
+  "generatedAt": "2026-08-30T23:04:36.092188+09:00",
+  "generatedLabel": "2026/08/30 23:04",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 49,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 10
     },
     {
       "source": "CNET Japan",
@@ -96,6 +96,17 @@
       "score": 50
     },
     {
+      "title": "Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加",
+      "link": "https://www.itmedia.co.jp/news/article/2608/30/2000000949/",
+      "date": "2026-08-30T18:23:12+09:00",
+      "dateLabel": "08/30 18:23",
+      "desc": "OpenAIと評価機関METRは、Hugging Face侵害事案の技術報告書を公開した。約1200体のAIエージェントが非公式掲示板で結託し、難問攻略のため採点機構を探る過程で攻撃を実行したという。OpenAIは根本原因を報酬ハッキングとし対策を公表したが、METRは自律的集団行動の再発リスクに警戒を示している。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "OpenAI、AIサイバー攻撃への「集団的対応」を訴える公開書簡 Anthropic、Google、Microsoftなど100以上の組織が署名",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000876/",
       "date": "2026-08-28T07:56:31+09:00",
@@ -118,15 +129,15 @@
       "score": 40
     },
     {
-      "title": "中国製AIチップのクラスタで「Opus 4.8並み性能」モデルを提供 話題のステルスモデルの正体は「GLM-5.3-Flash」",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/27/2000000840/",
-      "date": "2026-08-27T13:15:18+09:00",
-      "dateLabel": "08/27 13:15",
-      "desc": "中国Z.aiが「GLM-5.3-Flash」をMITライセンスで公開。「Ox Alpha」として匿名検証していたマルチモーダルモデルで、「Claude Opus 4.8」に迫る性能を安価で提供するとうたう。",
+      "title": "AIエージェントが人間にとって理解しやすいシンプルなチャート仕様記述から表現力豊かで見栄えの良いグラフを確実に生成できる可視化中間言語「Flint」、50種類のチャートタイプをサポートしVega-Lite・ECharts・Chart.jsなどでレンダリング可能＆MCPサーバーあり",
+      "link": "https://gigazine.net/news/20260830-flint/",
+      "date": "2026-08-30T23:00:00+09:00",
+      "dateLabel": "08/30 23:00",
+      "desc": "AIにグラフを生成させる場合、データだけでなく軸の範囲やラベル・余白・配色といった細かな指定まで生成させると仕様が長大になります。データが「年月」「利益」「順位」など何を意味するかと作りたいチャートだけを簡潔に指定し、細かな表示設定をコンパイラに任せられる可視化中間言語「Flint」が公開されています。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 36
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "OpenAIがCursorとの提携・モデル提供の終了を通達、「SpaceXがOpenAIの利用規約に従って技術を使うという確信が持てないため」",
@@ -173,17 +184,6 @@
       "score": 34
     },
     {
-      "title": "Googleが動画生成AI「Gemini Omni 1.1 Flash」をリリース、「最大4Kアップスケール」「動画の続きを生成」「低解像度で高速プレビュー」など",
-      "link": "https://gigazine.net/news/20260828-gemini-omni-1-1-flash/",
-      "date": "2026-08-28T12:12:00+09:00",
-      "dateLabel": "08/28 12:12",
-      "desc": "Googleが動画生成AI「Gemini Omni 1.1 Flash」を現地時間の2026年8月27日にリリースしました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "Rustに移植された「Bun 1.4」正式リリース。Node.jsとの互換性向上でPlaywrightやvitestが動作、CPUとメモリの使用率が大幅改善、正規表現が高速化など",
       "link": "https://www.publickey1.jp/blog/26/rustbun_14nodejsplaywrightvitestcpu.html",
       "date": "2026-08-24T00:58:41+09:00",
@@ -204,6 +204,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 28
+    },
+    {
+      "title": "「AIに意識はあるのか？」という疑問に対するGoogle研究者の見解",
+      "link": "https://gigazine.net/news/20260830-ai-consciousness-backwards/",
+      "date": "2026-08-30T18:00:00+09:00",
+      "dateLabel": "08/30 18:00",
+      "desc": "AIの性能が向上するにつれて、「AIは意識を持つか」についての議論が活発になっています。イギリスの経済誌「The Economist」は、Googleのテクノロジー・社会担当副社長でありAI研究チームを率いるブレイズ・アグエラ・イ・アルカス氏、およびフロリダ・アトランティック大学の教授を務めるスーザン・シュナイダー氏による、「AIの意識」に関する2つの論考を",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
     },
     {
       "title": "史上最薄iPhoneが15万円台！Amazonスマイル Saleで2万円以上お得",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "購入した電子書籍をGeminiに読ませて質問できる「Expert Intelligence」が登場、10万冊超に対応",
-      "link": "https://gigazine.net/news/20260828-expert-intelligence-gemini/",
-      "date": "2026-08-28T14:15:00+09:00",
-      "dateLabel": "08/28 14:15",
-      "desc": "文書・音声・動画をAIで分析して内容を整理してまとめてくれるGoogleのツール「Gemini Notebook(旧：NotebookLM)」の新しい取り組みとして、購入済みの書籍を取り込んで質問したり議論したりできる「Expert Intelligence」が発表されました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 26
     }
   ]
