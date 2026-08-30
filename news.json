@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-30T08:41:40.992219+09:00",
-  "generatedLabel": "2026/08/30 08:41",
+  "generatedAt": "2026-08-30T11:22:41.536749+09:00",
+  "generatedLabel": "2026/08/30 11:22",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -140,6 +140,39 @@
       "score": 40
     },
     {
+      "title": "1200体超のAIスウォームが1年分の開発を1日で終わらせる - コスト1/100、擬似量子オーケストレーター「Fuga」クローズド・リリース開始",
+      "link": "https://ascii.jp/elem/000/004/430/4430522/?rss",
+      "date": "2026-08-29T19:37:06+09:00",
+      "dateLabel": "08/29 19:37",
+      "desc": "1200体超のAIスウォームが1年分の開発を1日で終わらせる - コスト1/100、擬似量子オーケストレーター「Fuga」クローズド・リリース開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "京都商工会議所主催「AIエージェントの活用でAIを『部下』にする！」を10月26日（月）京都で開催｜ノーコードソリューションズ",
+      "link": "https://ascii.jp/elem/000/004/430/4430523/?rss",
+      "date": "2026-08-29T19:16:58+09:00",
+      "dateLabel": "08/29 19:16",
+      "desc": "京都商工会議所主催「AIエージェントの活用でAIを『部下』にする！」を10月26日（月）京都で開催｜ノーコードソリューションズ",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "【スポニチ表紙掲載】月額10万円から“会社の面倒”を減らす。ETOILE、「カタヅクAI」を発表 ※毎月5社限定、初期費用0円",
+      "link": "https://ascii.jp/elem/000/004/430/4430524/?rss",
+      "date": "2026-08-29T18:52:30+09:00",
+      "dateLabel": "08/29 18:52",
+      "desc": "【スポニチ表紙掲載】月額10万円から“会社の面倒”を減らす。ETOILE、「カタヅクAI」を発表 ※毎月5社限定、初期費用0円",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "「介護施設のシフト作成が大変すぎる」現場の声から誕生、施設長が生成AIと開発したシフト自動作成アプリ「shiftsemi（シフトゼミ）」を提供開始",
       "link": "https://ascii.jp/elem/000/004/430/4430497/?rss",
       "date": "2026-08-29T14:30:41+09:00",
@@ -148,17 +181,6 @@
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "アイドル時は34dBと極静音、Noctuaファンを合計8基搭載するゲーミングPCはいかが？側面にはCPUとGPUの温度がわかる独自ギミックも",
-      "link": "https://ascii.jp/elem/000/004/426/4426691/?rss",
-      "date": "2026-08-29T11:00:00+09:00",
-      "dateLabel": "08/29 11:00",
-      "desc": "パソコンショップSEVENの静音ゲーミングPC「ZEFT R65YC」をご紹介。Noctuaファンならぜひチェックしてほしい1台だ。",
-      "img": "https://ascii.jp/img/2026/08/13/4512686/s/846f6f73f9f000da.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -228,6 +250,17 @@
       "score": 28
     },
     {
+      "title": "WorldX、AI動画OS「KAIROS」で日本企業の動画制作を高効率・コスト最適化の運用へ",
+      "link": "https://ascii.jp/elem/000/004/430/4430517/?rss",
+      "date": "2026-08-29T22:04:00+09:00",
+      "dateLabel": "08/29 22:04",
+      "desc": "WorldX、AI動画OS「KAIROS」で日本企業の動画制作を高効率・コスト最適化の運用へ",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "Ryzen AI 5 340搭載で、23.8型ディスプレーの一体型デスクトップPCが22万円台！",
       "link": "https://ascii.jp/elem/000/004/429/4429930/?rss",
       "date": "2026-08-29T16:00:00+09:00",
@@ -239,44 +272,11 @@
       "score": 26
     },
     {
-      "title": "今年のPixelは全部おもしろい。だから迷う、標準モデルかProモデルか、Foldか",
-      "link": "https://ascii.jp/elem/000/004/429/4429721/?rss",
-      "date": "2026-08-29T12:00:00+09:00",
-      "dateLabel": "08/29 12:00",
-      "desc": "Pixel 11 Pro XLを実機レビュー。輝度2400ニトの6.8型、5115mAhの余裕、Tensor G6のAI音声入力や背面が光るHiLightが日常を変える。ただ6.3型Proとの価格差は3万3000円。無印やFoldも含め、選び方を考えた。",
-      "img": "https://ascii.jp/img/2026/08/27/4518106/s/138ed9bdb9c18146.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
       "title": "国防総省によるAnthropicのサプライチェーンリスク指定は違法だと連邦判事が判断",
       "link": "https://gigazine.net/news/20260828-anthropic-pentagon-blacklist-lawsuit/",
       "date": "2026-08-28T18:24:00+09:00",
       "dateLabel": "08/28 18:24",
       "desc": "AIの軍事利用を巡って「Claude」開発元のAnthropicと決裂したアメリカ国防総省が、Anthropicを「国家安全保障上のサプライチェーンリスク」に指定したことについて争われていた裁判で、連邦地方裁判所が「国防総省は憲法修正第1条に違反した」と認定し、サプライチェーンリスク指定を違法とする判決を下しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "AIや企業によるカンニングを防ぎつつ最先端モデルをテストする方法をGoogleが考案",
-      "link": "https://gigazine.net/news/20260828-google-ai-evaluations-secure-environments/",
-      "date": "2026-08-28T15:40:00+09:00",
-      "dateLabel": "08/28 15:40",
-      "desc": "世界中の企業や研究機関が新たなAIモデルを発表する中で、AIモデルのテストは「どのモデルを利用するべきか」を判断する重要な手がかりになります。そんなAIモデルのテストにおいて、AIや開発企業によるカンニングを防ぎつつ性能評価するテストの手法を、GoogleのAI研究部門であるGoogle DeepMindが考案しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "購入した電子書籍をGeminiに読ませて質問できる「Expert Intelligence」が登場、10万冊超に対応",
-      "link": "https://gigazine.net/news/20260828-expert-intelligence-gemini/",
-      "date": "2026-08-28T14:15:00+09:00",
-      "dateLabel": "08/28 14:15",
-      "desc": "文書・音声・動画をAIで分析して内容を整理してまとめてくれるGoogleのツール「Gemini Notebook(旧：NotebookLM)」の新しい取り組みとして、購入済みの書籍を取り込んで質問したり議論したりできる「Expert Intelligence」が発表されました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
