@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-30T11:22:41.536749+09:00",
-  "generatedLabel": "2026/08/30 11:22",
+  "generatedAt": "2026-08-30T17:39:41.189895+09:00",
+  "generatedLabel": "2026/08/30 17:39",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -96,33 +96,11 @@
       "score": 50
     },
     {
-      "title": "OpenAIがCursorとの提携・モデル提供の終了を通達、「SpaceXがOpenAIの利用規約に従って技術を使うという確信が持てないため」",
-      "link": "https://gigazine.net/news/20260829-openai-decided-to-end-partnership-with-cursor/",
-      "date": "2026-08-29T15:45:00+09:00",
-      "dateLabel": "08/29 15:45",
-      "desc": "OpenAIがAIコーディングツール・Cursorとの提携関係を終了し、モデル提供を2026年11月12日で終えることを明らかにしました。理由はCursorがSpaceXに買収されたことです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "OpenAI、AIサイバー攻撃への「集団的対応」を訴える公開書簡 Anthropic、Google、Microsoftなど100以上の組織が署名",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000876/",
       "date": "2026-08-28T07:56:31+09:00",
       "dateLabel": "08/28 07:56",
       "desc": "OpenAIは、AIを悪用したサイバー攻撃への備えを産業界と政府に訴える公開書簡を発表した。モデルの能力向上によりサイバー攻撃の高度化が懸念される中、現状のセキュリティの不備を指摘し、防御用AIの普及と国際連携を要請。AnthropicやGoogleなど、100以上の企業や団体が署名している。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "中国製AIチップのクラスタで「Opus 4.8並み性能」モデルを提供 話題のステルスモデルの正体は「GLM-5.3-Flash」",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/27/2000000840/",
-      "date": "2026-08-27T13:15:18+09:00",
-      "dateLabel": "08/27 13:15",
-      "desc": "中国Z.aiが「GLM-5.3-Flash」をMITライセンスで公開。「Ox Alpha」として匿名検証していたマルチモーダルモデルで、「Claude Opus 4.8」に迫る性能を安価で提供するとうたう。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
@@ -140,47 +118,25 @@
       "score": 40
     },
     {
-      "title": "1200体超のAIスウォームが1年分の開発を1日で終わらせる - コスト1/100、擬似量子オーケストレーター「Fuga」クローズド・リリース開始",
-      "link": "https://ascii.jp/elem/000/004/430/4430522/?rss",
-      "date": "2026-08-29T19:37:06+09:00",
-      "dateLabel": "08/29 19:37",
-      "desc": "1200体超のAIスウォームが1年分の開発を1日で終わらせる - コスト1/100、擬似量子オーケストレーター「Fuga」クローズド・リリース開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
+      "title": "中国製AIチップのクラスタで「Opus 4.8並み性能」モデルを提供 話題のステルスモデルの正体は「GLM-5.3-Flash」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/27/2000000840/",
+      "date": "2026-08-27T13:15:18+09:00",
+      "dateLabel": "08/27 13:15",
+      "desc": "中国Z.aiが「GLM-5.3-Flash」をMITライセンスで公開。「Ox Alpha」として匿名検証していたマルチモーダルモデルで、「Claude Opus 4.8」に迫る性能を安価で提供するとうたう。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 36
     },
     {
-      "title": "京都商工会議所主催「AIエージェントの活用でAIを『部下』にする！」を10月26日（月）京都で開催｜ノーコードソリューションズ",
-      "link": "https://ascii.jp/elem/000/004/430/4430523/?rss",
-      "date": "2026-08-29T19:16:58+09:00",
-      "dateLabel": "08/29 19:16",
-      "desc": "京都商工会議所主催「AIエージェントの活用でAIを『部下』にする！」を10月26日（月）京都で開催｜ノーコードソリューションズ",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "【スポニチ表紙掲載】月額10万円から“会社の面倒”を減らす。ETOILE、「カタヅクAI」を発表 ※毎月5社限定、初期費用0円",
-      "link": "https://ascii.jp/elem/000/004/430/4430524/?rss",
-      "date": "2026-08-29T18:52:30+09:00",
-      "dateLabel": "08/29 18:52",
-      "desc": "【スポニチ表紙掲載】月額10万円から“会社の面倒”を減らす。ETOILE、「カタヅクAI」を発表 ※毎月5社限定、初期費用0円",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "「介護施設のシフト作成が大変すぎる」現場の声から誕生、施設長が生成AIと開発したシフト自動作成アプリ「shiftsemi（シフトゼミ）」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/430/4430497/?rss",
-      "date": "2026-08-29T14:30:41+09:00",
-      "dateLabel": "08/29 14:30",
-      "desc": "「介護施設のシフト作成が大変すぎる」現場の声から誕生、施設長が生成AIと開発したシフト自動作成アプリ「shiftsemi（シフトゼミ）」を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
+      "title": "OpenAIがCursorとの提携・モデル提供の終了を通達、「SpaceXがOpenAIの利用規約に従って技術を使うという確信が持てないため」",
+      "link": "https://gigazine.net/news/20260829-openai-decided-to-end-partnership-with-cursor/",
+      "date": "2026-08-29T15:45:00+09:00",
+      "dateLabel": "08/29 15:45",
+      "desc": "OpenAIがAIコーディングツール・Cursorとの提携関係を終了し、モデル提供を2026年11月12日で終えることを明らかにしました。理由はCursorがSpaceXに買収されたことです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -250,25 +206,47 @@
       "score": 28
     },
     {
-      "title": "WorldX、AI動画OS「KAIROS」で日本企業の動画制作を高効率・コスト最適化の運用へ",
-      "link": "https://ascii.jp/elem/000/004/430/4430517/?rss",
-      "date": "2026-08-29T22:04:00+09:00",
-      "dateLabel": "08/29 22:04",
-      "desc": "WorldX、AI動画OS「KAIROS」で日本企業の動画制作を高効率・コスト最適化の運用へ",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "title": "史上最薄iPhoneが15万円台！Amazonスマイル Saleで2万円以上お得",
+      "link": "https://ascii.jp/elem/000/004/430/4430538/?rss",
+      "date": "2026-08-30T17:00:00+09:00",
+      "dateLabel": "08/30 17:00",
+      "desc": "Amazonスマイル Saleで「iPhone Air 256GB」がお買い得です。一部カラーは参考価格177,800円から13％オフの154,900円。A19 Proチップや最大120HzのProMotionに対応した薄型iPhoneを15万円台で購入できます。",
+      "img": "https://ascii.jp/img/2026/08/05/4509483/s/f6288756c5354540.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "Ryzen AI 5 340搭載で、23.8型ディスプレーの一体型デスクトップPCが22万円台！",
-      "link": "https://ascii.jp/elem/000/004/429/4429930/?rss",
-      "date": "2026-08-29T16:00:00+09:00",
-      "dateLabel": "08/29 16:00",
+      "title": "Ryzen AI 5 340+512GB SSD搭載で22万円台！ FMVの一体型デスクトップPCがお買い得",
+      "link": "https://ascii.jp/elem/000/004/429/4429931/?rss",
+      "date": "2026-08-30T16:00:00+09:00",
+      "dateLabel": "08/30 16:00",
       "desc": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
       "img": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png",
       "src": "ASCII.jp",
       "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "【1割引き】M5 MacBook AirをAmazonでチェック！ 1TBモデルが2万7880円引き",
+      "link": "https://ascii.jp/elem/000/004/430/4430534/?rss",
+      "date": "2026-08-30T13:00:00+09:00",
+      "dateLabel": "08/30 13:00",
+      "desc": "AmazonのスマイルSaleで、M5チップを搭載した13インチMacBook Airの1TB SSDモデルがセール中です。参考価格278,800円から10％オフの250,920円で購入できます。",
+      "img": "https://ascii.jp/img/2026/08/30/4519335/s/cf132333a89fabf8.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "無料でAIチャットを編集可能なノードのつながりに変えてくれる「ThoughtDAG」",
+      "link": "https://gigazine.net/news/20260830-thoughtdag/",
+      "date": "2026-08-30T12:00:00+09:00",
+      "dateLabel": "08/30 12:00",
+      "desc": "「ThoughtDAG」はLLMとの対話をグラフ構造で直感的に編集でき、AIとの対話における「コンテキスト」の扱い方を根本から変える革新的なツールです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 26
     },
     {
@@ -277,6 +255,28 @@
       "date": "2026-08-28T18:24:00+09:00",
       "dateLabel": "08/28 18:24",
       "desc": "AIの軍事利用を巡って「Claude」開発元のAnthropicと決裂したアメリカ国防総省が、Anthropicを「国家安全保障上のサプライチェーンリスク」に指定したことについて争われていた裁判で、連邦地方裁判所が「国防総省は憲法修正第1条に違反した」と認定し、サプライチェーンリスク指定を違法とする判決を下しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "AIや企業によるカンニングを防ぎつつ最先端モデルをテストする方法をGoogleが考案",
+      "link": "https://gigazine.net/news/20260828-google-ai-evaluations-secure-environments/",
+      "date": "2026-08-28T15:40:00+09:00",
+      "dateLabel": "08/28 15:40",
+      "desc": "世界中の企業や研究機関が新たなAIモデルを発表する中で、AIモデルのテストは「どのモデルを利用するべきか」を判断する重要な手がかりになります。そんなAIモデルのテストにおいて、AIや開発企業によるカンニングを防ぎつつ性能評価するテストの手法を、GoogleのAI研究部門であるGoogle DeepMindが考案しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "購入した電子書籍をGeminiに読ませて質問できる「Expert Intelligence」が登場、10万冊超に対応",
+      "link": "https://gigazine.net/news/20260828-expert-intelligence-gemini/",
+      "date": "2026-08-28T14:15:00+09:00",
+      "dateLabel": "08/28 14:15",
+      "desc": "文書・音声・動画をAIで分析して内容を整理してまとめてくれるGoogleのツール「Gemini Notebook(旧：NotebookLM)」の新しい取り組みとして、購入済みの書籍を取り込んで質問したり議論したりできる「Expert Intelligence」が発表されました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
