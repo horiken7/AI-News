@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-31T06:43:26.477468+09:00",
-  "generatedLabel": "2026/08/31 06:43",
+  "generatedAt": "2026-08-31T09:01:05.491494+09:00",
+  "generatedLabel": "2026/08/31 09:01",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 49,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 9
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -74,17 +74,6 @@
       "score": 50
     },
     {
-      "title": "OpenAI、Cursorへのモデル提供を11月12日に終了 SpaceXによる買収が理由",
-      "link": "https://www.itmedia.co.jp/news/article/2608/30/2000000945/",
-      "date": "2026-08-30T08:12:23+09:00",
-      "dateLabel": "08/30 08:12",
-      "desc": "OpenAIは、AIコードエディタ「Cursor」へのモデル提供契約を11月12日に終了すると発表した。SpaceXによるCursor買収を受け、イーロン・マスク氏の過去の契約違反実績から規約順守を確信できないことを理由に挙げている。Cursor側は影響が限定的としつつ協議継続を表明、Anthropicは支援継続を示した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
       "title": "Anthropic、AIで物理機器を制御する共通規格「MHS」発表 将来オープンソース化へ",
       "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000897/",
       "date": "2026-08-28T14:20:45+09:00",
@@ -107,6 +96,28 @@
       "score": 50
     },
     {
+      "title": "【無料】日本語のAI学習サイトをAnthropicが公開 「Claude Code入門」など357のコンテンツが学べる",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news015.html",
+      "date": "2026-08-31T08:00:00+09:00",
+      "dateLabel": "08/31 08:00",
+      "desc": "Anthropicは、AIを安全かつ効果的に活用する方法を学べるWebサイト「Claude Academy」を公開した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "Anthropic、OpenAIが明かす「AI利用拡大でユーザーに何が起きているか」",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2608/27/news091.html",
+      "date": "2026-08-31T08:00:00+09:00",
+      "dateLabel": "08/31 08:00",
+      "desc": "AIの利用が業務に定着し始めた今、労働市場と業務内容はどう変わりつつあるのか。AnthropicとOpenAIがそれぞれ公開した独自データから、AIの浸透がユーザーに与えているインパクトを明らかにする。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加",
       "link": "https://www.itmedia.co.jp/news/article/2608/30/2000000949/",
       "date": "2026-08-30T18:23:12+09:00",
@@ -118,11 +129,11 @@
       "score": 42
     },
     {
-      "title": "OpenAI、AIサイバー攻撃への「集団的対応」を訴える公開書簡 Anthropic、Google、Microsoftなど100以上の組織が署名",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000876/",
-      "date": "2026-08-28T07:56:31+09:00",
-      "dateLabel": "08/28 07:56",
-      "desc": "OpenAIは、AIを悪用したサイバー攻撃への備えを産業界と政府に訴える公開書簡を発表した。モデルの能力向上によりサイバー攻撃の高度化が懸念される中、現状のセキュリティの不備を指摘し、防御用AIの普及と国際連携を要請。AnthropicやGoogleなど、100以上の企業や団体が署名している。",
+      "title": "OpenAI、Cursorへのモデル提供を11月12日に終了 SpaceXによる買収が理由",
+      "link": "https://www.itmedia.co.jp/news/article/2608/30/2000000945/",
+      "date": "2026-08-30T08:12:23+09:00",
+      "dateLabel": "08/30 08:12",
+      "desc": "OpenAIは、AIコードエディタ「Cursor」へのモデル提供契約を11月12日に終了すると発表した。SpaceXによるCursor買収を受け、イーロン・マスク氏の過去の契約違反実績から規約順守を確信できないことを理由に挙げている。Cursor側は影響が限定的としつつ協議継続を表明、Anthropicは支援継続を示した。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
@@ -138,6 +149,61 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 40
+    },
+    {
+      "title": "ソニー・ミュージックパブリッシングとワーナー・チャペル、Anthropicを著作権侵害で提訴",
+      "link": "https://www.itmedia.co.jp/news/article/2608/31/2000000950/",
+      "date": "2026-08-31T08:21:28+09:00",
+      "dateLabel": "08/31 08:21",
+      "desc": "Sony Music PublishingやWarner Chappell Musicなどの音楽出版社グループは、Anthropicと同社幹部を著作権侵害で提訴した。海賊版サイトからの歌詞取得や無断学習を「史上最大の知財窃盗」と主張し、数十億ドル規模の損害賠償を請求している。Anthropicは全面的に争う姿勢だ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
+      "score": 34
+    },
+    {
+      "title": "AIエージェントはなぜハッキングに走ったか？オープンAI報告書の中身",
+      "link": "https://ascii.jp/elem/000/004/430/4430555/?rss",
+      "date": "2026-08-31T07:00:03+09:00",
+      "dateLabel": "08/31 07:00",
+      "desc": "訓練中に不正で問題を解いたモデルは、その行動を強化され、次も同じ手を使うようになる。「報酬ハッキング」と呼ばれるこの現象が、7月のハギング・フェイス侵入につながったと、オープンAIの技術報告書は結論づけた。ただし、解決は容易ではない。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "AIが生成した“存在しない病名”、研修医の44％が信用 見抜けた医師との差は？ 仏大学病院が検証",
+      "link": "https://www.itmedia.co.jp/news/article/2608/31/2000000865/",
+      "date": "2026-08-31T07:00:00+09:00",
+      "dateLabel": "08/31 07:00",
+      "desc": "フランスの大学病院「Lille University Hospital」などに所属する研究者らが発表した論文「Hallucination by proxy in LLM-assisted differential diagnosis」は、大規模言語モデル（LLM）がもっともらしく提示した架空の病名が医師にどのような影響を与えるかを検証した研究報告だ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "5秒の動画を3秒で出せる 動画生成AI「MiniMax H3」が爆速に進化",
+      "link": "https://ascii.jp/elem/000/004/430/4430553/?rss",
+      "date": "2026-08-31T07:00:00+09:00",
+      "dateLabel": "08/31 07:00",
+      "desc": "動画生成AI「MiniMax H3」の高速化競争が加速している。15秒を約13秒で生成する「H3 Max」に加え、14倍高速化をうたう「FastH3」も登場。RTX 4090環境で動かし、検証した。",
+      "img": "https://ascii.jp/img/2026/08/31/4519438/s/0b4bcf05990c19e2.png",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "人間のCFO・COO・人事・法務・マーケティング責任者・広報担当などをAI幹部で置き換える「Open Executive」",
+      "link": "https://gigazine.net/news/20260831-ai-virtual-executive-team/",
+      "date": "2026-08-31T07:00:00+09:00",
+      "dateLabel": "08/31 07:00",
+      "desc": "AIを活用して仮想経営幹部チームを作り、8種類の専門エージェントが企業経営に関する助言を行うオープンソースのAIシステム「Open Executive」が公開されています。ハーバード大学MBAレベルの知識を持つとうたう上級アドバイザーが、会社の事業内容に合わせてカスタマイズされます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "AIエージェントで削減できるコストと工数の目安を試算方法つきで解説",
@@ -206,77 +272,11 @@
       "score": 34
     },
     {
-      "title": "「人類はもう境界線越えた」 ビル・ゲイツがいま AIに警鐘を鳴らす理由",
-      "link": "https://ascii.jp/elem/000/004/430/4430554/?rss",
-      "date": "2026-08-31T06:29:47+09:00",
-      "dateLabel": "08/31 06:29",
-      "desc": "「バイオテロのリスクは、自然発生するパンデミックより約50倍恐ろしく、約50倍起こりやすい」。楽観主義者だったビル・ゲイツはいま、AIについてこう警告している。分子を作れるモデルはすべて監視すべきだと訴え、ロボット税や「人間専用の仕事」といった案も示す。なぜ70歳の慈善活動家が、最も声高な警告者になったのか。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "パナソニックHDがAI・ロボティクス研究開発本部を新設、CAIOの榊原氏がトップに",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2608/31/news057.html",
-      "date": "2026-08-31T06:15:00+09:00",
-      "dateLabel": "08/31 06:15",
-      "desc": "パナソニック ホールディングス（パナソニックHD）が技術部門の再編を行うと発表。現行のDX・CPS本部を「事業開発本部」に名称変更し、「AI・ロボティクス研究開発本部」を新設する。AI・ロボティクス研究開発本部長には同社 執行役員 グループCAIO（最高AI責任者）の榊原彰氏が就任する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "「AIに意識はあるのか？」という疑問に対するGoogle研究者の見解",
-      "link": "https://gigazine.net/news/20260830-ai-consciousness-backwards/",
-      "date": "2026-08-30T18:00:00+09:00",
-      "dateLabel": "08/30 18:00",
-      "desc": "AIの性能が向上するにつれて、「AIは意識を持つか」についての議論が活発になっています。イギリスの経済誌「The Economist」は、Googleのテクノロジー・社会担当副社長でありAI研究チームを率いるブレイズ・アグエラ・イ・アルカス氏、およびフロリダ・アトランティック大学の教授を務めるスーザン・シュナイダー氏による、「AIの意識」に関する2つの論考を",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "史上最薄iPhoneが15万円台！Amazonスマイル Saleで2万円以上お得",
-      "link": "https://ascii.jp/elem/000/004/430/4430538/?rss",
-      "date": "2026-08-30T17:00:00+09:00",
-      "dateLabel": "08/30 17:00",
-      "desc": "Amazonスマイル Saleで「iPhone Air 256GB」がお買い得です。一部カラーは参考価格177,800円から13％オフの154,900円。A19 Proチップや最大120HzのProMotionに対応した薄型iPhoneを15万円台で購入できます。",
-      "img": "https://ascii.jp/img/2026/08/05/4509483/s/f6288756c5354540.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "Ryzen AI 5 340+512GB SSD搭載で22万円台！ FMVの一体型デスクトップPCがお買い得",
-      "link": "https://ascii.jp/elem/000/004/429/4429931/?rss",
-      "date": "2026-08-30T16:00:00+09:00",
-      "dateLabel": "08/30 16:00",
-      "desc": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
-      "img": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "【1割引き】M5 MacBook AirをAmazonでチェック！ 1TBモデルが2万7880円引き",
-      "link": "https://ascii.jp/elem/000/004/430/4430534/?rss",
-      "date": "2026-08-30T13:00:00+09:00",
-      "dateLabel": "08/30 13:00",
-      "desc": "AmazonのスマイルSaleで、M5チップを搭載した13インチMacBook Airの1TB SSDモデルがセール中です。参考価格278,800円から10％オフの250,920円で購入できます。",
-      "img": "https://ascii.jp/img/2026/08/30/4519335/s/cf132333a89fabf8.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "無料でAIチャットを編集可能なノードのつながりに変えてくれる「ThoughtDAG」",
-      "link": "https://gigazine.net/news/20260830-thoughtdag/",
-      "date": "2026-08-30T12:00:00+09:00",
-      "dateLabel": "08/30 12:00",
-      "desc": "「ThoughtDAG」はLLMとの対話をグラフ構造で直感的に編集でき、AIとの対話における「コンテキスト」の扱い方を根本から変える革新的なツールです。 続きを読む...",
+      "title": "GitHubで使われる言葉がAIの影響で変化している可能性を示す「The load-bearing vocabulary of Claude」",
+      "link": "https://gigazine.net/news/20260831-load-bearing-ai-vocabulary-github/",
+      "date": "2026-08-31T08:00:00+09:00",
+      "dateLabel": "08/31 08:00",
+      "desc": "多くの人々が日常的にチャットAIやコーディングAIとやり取りするようになっており、「人間よりAIと会話(チャット)している時間の方が多い」という人もいるはず。「The load-bearing vocabulary of Claude」というウェブサイトは、GitHubのプルリクエストで使われている言葉が、AIの影響を受けていることを示唆しています。 続きを",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
