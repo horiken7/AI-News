@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-31T23:35:07.902466+09:00",
-  "generatedLabel": "2026/08/31 23:35",
+  "generatedAt": "2026-09-01T05:28:23.840596+09:00",
+  "generatedLabel": "2026/09/01 05:28",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 9
     },
     {
       "source": "PC Watch",
@@ -85,15 +85,15 @@
       "score": 50
     },
     {
-      "title": "JetBrains、Mac上で動作するコーディングエージェント「Junie Local」提供開始。Claude Sonnet 4.5と同等の能力、RTX5090対応も開発中",
-      "link": "https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html",
-      "date": "2026-08-31T00:07:47+09:00",
-      "dateLabel": "08/31 00:07",
-      "desc": "JetBrainsは、ローカルで動作するAIコーディングエージェント「Junie Local」の提供開始を発表しました。 Junie Localはその名称の通り完全にローカルマシン上で動作し、API使用料やモデル使用料などは一切不要。ソフト...",
-      "img": "",
-      "src": "Publickey",
+      "title": "週刊アスキー No.1611(2026年9月1日発行)",
+      "link": "https://ascii.jp/elem/000/004/430/4430559/?rss",
+      "date": "2026-09-01T00:00:00+09:00",
+      "dateLabel": "09/01 00:00",
+      "desc": "特集1はAIを使った自動化の実践技。よく聞くエージェントはどう使えば、効果的？ 特集2は音声を記録してAIで活用する技。議事録やインタビューの先にある仕事を効率化する方法とは？",
+      "img": "https://ascii.jp/img/2026/08/31/4519512/s/3a1e1600a93a4220.png",
+      "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
-      "score": 50
+      "score": 42
     },
     {
       "title": "ソニーとワーナーが共同でAnthropicを提訴、楽曲をClaudeのトレーニングに利用された「史上最大かつ最も甚だしい知的財産窃盗事件」",
@@ -137,6 +137,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "JetBrains、Mac上で動作するコーディングエージェント「Junie Local」提供開始。Claude Sonnet 4.5と同等の能力、RTX5090対応も開発中",
+      "link": "https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html",
+      "date": "2026-08-31T00:07:47+09:00",
+      "dateLabel": "08/31 00:07",
+      "desc": "JetBrainsは、ローカルで動作するAIコーディングエージェント「Junie Local」の提供開始を発表しました。 Junie Localはその名称の通り完全にローカルマシン上で動作し、API使用料やモデル使用料などは一切不要。ソフト...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -257,17 +268,6 @@
       "desc": "AIを活用して仮想経営幹部チームを作り、8種類の専門エージェントが企業経営に関する助言を行うオープンソースのAIシステム「Open Executive」が公開されています。ハーバード大学MBAレベルの知識を持つとうたう上級アドバイザーが、会社の事業内容に合わせてカスタマイズされます。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "AIエージェントで削減できるコストと工数の目安を試算方法つきで解説",
-      "link": "https://ainow.ai/2026/08/31/278338/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e5%2589%258a%25e6%25b8%259b%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b%25e3%2582%25b3%25e3%2582%25b9%25e3%2583%2588%25e3%2581%25a8%25e5%25b7%25a5%25e6%2595%25b0%25e3%2581%25ae%25e7%259b%25ae%25e5%25ae%2589%25e3%2582%2592",
-      "date": "2026-08-31T02:12:16+09:00",
-      "dateLabel": "08/31 02:12",
-      "desc": "AIエージェントで削減できるのは、作業工数と人件費や外部委託費、そしてミスによる手戻りの3つです。削減幅の大きさは、ツールの性能ではなく対象業務の選び方でほぼ決まります。 導入の効果は理解していても、経営会議で「結局いく... The post AIエージェントで削減できるコストと工数の目安を試算方法つきで解説 first appeared on AI専門ニ",
-      "img": "",
-      "src": "AINOW",
       "cat": "AIエージェント/業務",
       "score": 34
     },
