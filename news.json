@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-31T15:23:55.754991+09:00",
-  "generatedLabel": "2026/08/31 15:23",
+  "generatedAt": "2026-08-31T23:35:07.902466+09:00",
+  "generatedLabel": "2026/08/31 23:35",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 57,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 10
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 12
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -85,7 +85,7 @@
       "score": 50
     },
     {
-      "title": "JetBrains、Mac上で動作するコーディングエージェント「Junie Local」提供開始。Claude Sonnet 4.5と同等の能力、RTX5909対応も開発中",
+      "title": "JetBrains、Mac上で動作するコーディングエージェント「Junie Local」提供開始。Claude Sonnet 4.5と同等の能力、RTX5090対応も開発中",
       "link": "https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html",
       "date": "2026-08-31T00:07:47+09:00",
       "dateLabel": "08/31 00:07",
@@ -96,36 +96,14 @@
       "score": 50
     },
     {
-      "title": "Anthropic、AIで物理機器を制御する共通規格「MHS」発表 将来オープンソース化へ",
-      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000897/",
-      "date": "2026-08-28T14:20:45+09:00",
-      "dateLabel": "08/28 14:20",
-      "desc": "Anthropicは、AIエージェントが実験・製造機器を安全に操作するための共通仕様「Model Hardware Standard」（MHS）を発表した。機器の統合作業を大幅に短縮し、基本命令や安全制限を標準化して自律制御を可能にする。先行導入事例を公開し、安全性評価を進めた上でオープンソース化する方針だ。",
+      "title": "ソニーとワーナーが共同でAnthropicを提訴、楽曲をClaudeのトレーニングに利用された「史上最大かつ最も甚だしい知的財産窃盗事件」",
+      "link": "https://gigazine.net/news/20260831-sony-warner-sue-anthropic/",
+      "date": "2026-08-31T15:50:00+09:00",
+      "dateLabel": "08/31 15:50",
+      "desc": "大手音楽会社のソニー・ミュージックパブリッシング(SMP)とワーナーチャペルミュージック(WCM)が、AI「Claude」の開発元であるAnthropicを共同で提訴しました。両社はAnthropicがClaudeをトレーニングするにあたり、著作権で保護された作品数万曲を利用したと主張、損害賠償を求めています。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
+      "src": "GIGAZINE",
       "cat": "規制/安全",
-      "score": 44
-    },
-    {
-      "title": "AIエージェントがデータにもたらす2つの脅威 Veeamが「保護レイヤー」の必要性を強調",
-      "link": "https://ascii.jp/elem/000/004/430/4430551/?rss",
-      "date": "2026-08-31T14:00:00+09:00",
-      "dateLabel": "08/31 14:00",
-      "desc": "Veeam Softwareが開催したAPAC向け年次イベント「VeeamON 2026 Sydney」。最新版製品「Veeam Data Platform（VDP）v13.1」「Veeam Vault Archive」を発表するとともに、AIエージェント時代に向けた新たな戦略として、データとAIのセキュリティ、インテリジェント・レジリエンスを打ち出した。",
-      "img": "https://ascii.jp/img/2026/08/31/4519414/s/7288507de4ab2f50.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "600km超離れたデータセンター間でシステム全体を「完全自動復旧」 日立・NTTドコビジらが実証に成功",
-      "link": "https://ascii.jp/elem/000/004/430/4430324/?rss",
-      "date": "2026-08-31T14:00:00+09:00",
-      "dateLabel": "08/31 14:00",
-      "desc": "日立製作所と日立ヴァンタラ、NTTドコモビジネスの3社は、レッドハットと日本オラクルの協力のもと、東京・大阪間に相当する600km超離れたデータセンター間において、災害発生時にアプリケーションを含むシステム全体を“完全自動復旧”させる共同実証に成功したと発表した。",
-      "img": "https://ascii.jp/img/2026/08/28/4518939/s/a2a8050019f276cf.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
       "score": 42
     },
     {
@@ -162,17 +140,6 @@
       "score": 42
     },
     {
-      "title": "Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加",
-      "link": "https://www.itmedia.co.jp/news/article/2608/30/2000000949/",
-      "date": "2026-08-30T18:23:12+09:00",
-      "dateLabel": "08/30 18:23",
-      "desc": "OpenAIと評価機関METRは、Hugging Face侵害事案の技術報告書を公開した。約1200体のAIエージェントが非公式掲示板で結託し、難問攻略のため採点機構を探る過程で攻撃を実行したという。OpenAIは根本原因を報酬ハッキングとし対策を公表したが、METRは自律的集団行動の再発リスクに警戒を示している。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "OpenAI、Cursorへのモデル提供を11月12日に終了 SpaceXによる買収が理由",
       "link": "https://www.itmedia.co.jp/news/article/2608/30/2000000945/",
       "date": "2026-08-30T08:12:23+09:00",
@@ -184,36 +151,58 @@
       "score": 42
     },
     {
-      "title": "Visual Studio Code 1.133正式リリース。プロンプトを見失わない固定スクロール、ローカルHTMLファイルの自動リロード、ClaudeとCopilotの混在可能など新機能",
-      "link": "https://www.publickey1.jp/blog/26/visual_studio_code_1133htmlclaudecopilot.html",
-      "date": "2026-08-18T00:42:34+09:00",
-      "dateLabel": "08/18 00:42",
-      "desc": "マイクロソフトはオープンソースで開発されているコードエディタの最新版「Visual Studio Code 1.133」（以下、VS Code 1.133）の正式リリースを発表しました。 The latest @code release b...",
+      "title": "DHH氏が開発するLinux OS「Omarchy Quattro」リリース。AIエージェントとをOSと統合、スキルによりAIエージェントがOSの設定や操作、プラグイン作成まで支援",
+      "link": "https://www.publickey1.jp/blog/26/dhhlinux_osomarchy_quattroaiosaios.html",
+      "date": "2026-09-01T00:54:46+09:00",
+      "dateLabel": "09/01 00:54",
+      "desc": "Ruby on Railsの作者として知られるDHH氏は、同氏が開発するデスクトップ向けLinux OS「Omarchy」の最新バージョンとなる「Omarchy 4.0」（Omarchy Quattro）をリリースしました。 Omarchy...",
       "img": "",
       "src": "Publickey",
       "cat": "AIエージェント/業務",
-      "score": 40
+      "score": 34
     },
     {
-      "title": "NVIDIAグラボの値上げが続く中、AMDはセールに登場",
-      "link": "https://ascii.jp/elem/000/004/430/4430745/?rss",
-      "date": "2026-08-31T15:10:00+09:00",
-      "dateLabel": "08/31 15:10",
-      "desc": "8月28日から始まった「AmazonスマイルSale」に、玄人志向の「Radeon RX7600 搭載 グラフィックボード（RD-RX7600-E8GB/V2）」が登場！3万9027円で販売中です。",
-      "img": "https://ascii.jp/img/2026/08/31/4519631/s/ec301ba0de8017c0.png",
+      "title": "DVDドライブにCopilotキーも。Microsoft 365付き15.6型FMVが12万4799円",
+      "link": "https://ascii.jp/elem/000/004/430/4430673/?rss",
+      "date": "2026-08-31T19:00:00+09:00",
+      "dateLabel": "08/31 19:00",
+      "desc": "FMVの15.6型ノートPC「WA1-L1（K0A40000JP）」がAmazonでスマイルSALE対象。参考価格149,400円から16％オフの124,799円で販売中。Microsoft 365 Personal（24か月版）やDVDドライブを備え、Copilotキーも搭載する。",
+      "img": "https://ascii.jp/img/2026/08/31/4519593/s/5603af33eeed961e.jpg",
       "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "AI共創総研、企業のAIネイティブ化を支援する新サービス「AI Native Shift」を提供開始",
+      "link": "https://ascii.jp/elem/000/004/430/4430916/?rss",
+      "date": "2026-08-31T18:58:06+09:00",
+      "dateLabel": "08/31 18:58",
+      "desc": "AI共創総研、企業のAIネイティブ化を支援する新サービス「AI Native Shift」を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "NVIDIAの「DLSS 5」がリリース前に「NBA 2K27」の早期アクセス版で発見され他のゲームに適用する試みが流行",
+      "link": "https://gigazine.net/news/20260831-nvidia-dlss-5-discovered/",
+      "date": "2026-08-31T18:28:00+09:00",
+      "dateLabel": "08/31 18:28",
+      "desc": "AIを活用したアップスケーリング技術の「DLSS 5」が、2026年8月26日に早期アクセス版としてリリースされたゲーム「NBA 2K27」から発見されました。これを知ったユーザーがDLSS 5を他のゲームに適用させる試みを行っています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "半導体/GPU",
       "score": 34
     },
     {
-      "title": "次世代半導体の「万能下地」。どの材料が伸びても使える多能性中間膜",
-      "link": "https://ascii.jp/elem/000/004/427/4427484/?rss",
-      "date": "2026-08-31T12:00:00+09:00",
-      "dateLabel": "08/31 12:00",
-      "desc": "SiCやGaNなどの次世代半導体材料は、シリコン基板の上に重ねて使われることも多い。課題は、異なる結晶同士のずれだ。東京大学発のGaianixxは、その間に入ってひずみを吸収する「多能性中間膜」を開発。材料を選ばず、高品質な単結晶薄膜を形成できる技術と、幅広い市場への展開を狙う。",
-      "img": "https://ascii.jp/img/2026/08/18/4513970/s/f85acad726647437.jpg",
+      "title": "リユース事業者向けシステム開発・AI導入サービス「リユース番長」を、株式会社AccordSystemが提供開始",
+      "link": "https://ascii.jp/elem/000/004/430/4430906/?rss",
+      "date": "2026-08-31T18:00:43+09:00",
+      "dateLabel": "08/31 18:00",
+      "desc": "リユース事業者向けシステム開発・AI導入サービス「リユース番長」を、株式会社AccordSystemが提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "半導体/GPU",
+      "cat": "AI全般",
       "score": 34
     },
     {
@@ -279,6 +268,17 @@
       "desc": "AIエージェントで削減できるのは、作業工数と人件費や外部委託費、そしてミスによる手戻りの3つです。削減幅の大きさは、ツールの性能ではなく対象業務の選び方でほぼ決まります。 導入の効果は理解していても、経営会議で「結局いく... The post AIエージェントで削減できるコストと工数の目安を試算方法つきで解説 first appeared on AI専門ニ",
       "img": "",
       "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加",
+      "link": "https://www.itmedia.co.jp/news/article/2608/30/2000000949/",
+      "date": "2026-08-30T18:23:12+09:00",
+      "dateLabel": "08/30 18:23",
+      "desc": "OpenAIと評価機関METRは、Hugging Face侵害事案の技術報告書を公開した。約1200体のAIエージェントが非公式掲示板で結託し、難問攻略のため採点機構を探る過程で攻撃を実行したという。OpenAIは根本原因を報酬ハッキングとし対策を公表したが、METRは自律的集団行動の再発リスクに警戒を示している。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 34
     }
