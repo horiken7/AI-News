@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-02T06:36:39.119545+09:00",
-  "generatedLabel": "2026/09/02 06:36",
+  "generatedAt": "2026-09-02T08:40:15.842082+09:00",
+  "generatedLabel": "2026/09/02 08:40",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 54,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 18
+      "items": 19
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 10
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,28 @@
   ],
   "articles": [
     {
+      "title": "Anthropic、「Claude Fable 5.1」と「Claude Mythos 5.1」発表 「監視の難しさ」への懸念も開示",
+      "link": "https://www.itmedia.co.jp/news/article/2609/02/2000001048/",
+      "date": "2026-09-02T07:23:30+09:00",
+      "dateLabel": "09/02 07:23",
+      "desc": "Anthropicは新LLM「Claude Fable 5.1」と「Claude Mythos 5.1」を発表した。科学研究やコーディング性能が大幅に向上し、一般提供のFableに対し、Mythosは厳格な審査制を採用。System Cardでは高度な推論力に伴うエクスプロイト成功率や監視困難性などのリスクも報告されている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 66
+    },
+    {
+      "title": "Anthropic、企業向け「Enterprise Frontier Safeguards」発表 ログは顧客のクラウドに保存し、人手による確認も顧客側で",
+      "link": "https://www.itmedia.co.jp/news/article/2609/02/2000001049/",
+      "date": "2026-09-02T08:06:30+09:00",
+      "dateLabel": "09/02 08:06",
+      "desc": "Anthropicは、ゼロデータ保持（ZDR）と同等のプライバシーを確保しつつ不正利用を検知する企業向け新機能「Enterprise Frontier Safeguards」（EFS）を発表した。活動データを顧客自身のクラウドに保存し、フラグも顧客へ直接送信することで社外の人的レビューを排除する。今秋提供開始予定。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
+      "score": 50
+    },
+    {
       "title": "“軍事向けChatGPT”導入、米国防総省 「Gemini」「Grok」の計3モデルが利用可能に",
       "link": "https://www.itmedia.co.jp/aiplus/article/2609/01/2000001033/",
       "date": "2026-09-01T16:31:21+09:00",
@@ -71,17 +93,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
-      "title": "Anthropic、AIに「AIの安全性研究」を任せる実験 うそ、迎合などの問題行動を性能落とさず改善",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/31/2000000964/",
-      "date": "2026-08-31T14:07:36+09:00",
-      "dateLabel": "08/31 14:07",
-      "desc": "AnthropicはAIモデル「Claude」にAIの安全性研究を自律的に任せる実験結果を公開。うそや追従など10種類の問題行動全てで、性能を落とさず行動を改善する手法を発見した。人間の研究者28人の成績を上回ったという。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
       "score": 50
     },
     {
@@ -129,17 +140,6 @@
       "score": 42
     },
     {
-      "title": "「ChatGPT」広告、年換算の売上高10億ドルに 開始200日足らずで達成",
-      "link": "https://www.itmedia.co.jp/news/article/2609/01/2000000997/",
-      "date": "2026-09-01T08:27:31+09:00",
-      "dateLabel": "09/01 08:27",
-      "desc": "OpenAIは、「ChatGPT」上の広告事業「ChatGPT Ads」の年換算売上高が開始200日足らずで10億ドル（約1600億円）に達したと発表した。セルフサービス出稿の提供地域をインドや欧州などに拡大する。上場を控える中、広告を多角化の重要な柱と位置付け、収益源の多様化と急成長をアピールする狙いがある。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "AIをよく使う社員だけ5倍に Claude、ChatGPT／Codex、Cursorで企業がAIを本格運用できる時代へ",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news009.html",
       "date": "2026-09-01T05:00:00+09:00",
@@ -160,6 +160,39 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 42
+    },
+    {
+      "title": "エンジニアの「AI協働力」を測る評価基準を無償公開",
+      "link": "https://ascii.jp/elem/000/004/431/4431047/?rss",
+      "date": "2026-09-02T07:00:00+09:00",
+      "dateLabel": "09/02 07:00",
+      "desc": "株式会社ハイヤールーは8月25日、エンジニアがAIと協力して作業するプロセスの質を測る独自の指標「AI協働力」の評価設計と解説資料を無償公開した。",
+      "img": "https://ascii.jp/img/2026/09/01/4519987/s/05831960c889ef23.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 34
+    },
+    {
+      "title": "AIが設計した軌道で恒星間へ、到達まで最大8万年の探査計画",
+      "link": "https://ascii.jp/elem/000/004/431/4431466/?rss",
+      "date": "2026-09-02T06:54:13+09:00",
+      "dateLabel": "09/02 06:54",
+      "desc": "非営利団体フェルミ・エクスプローラー・ミッションが、2029年末までにアルファ・ケンタウリへ探査機を打ち上げると発表した。4.4光年先への到達には最大8万年かかる。チームが1年かけても見つけられなかった軌道を導いたのは、AIシステムだった。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 34
+    },
+    {
+      "title": "AIエージェントのハッキング、報告書が見落とした「組織の失敗」",
+      "link": "https://ascii.jp/elem/000/004/431/4431464/?rss",
+      "date": "2026-09-02T06:24:01+09:00",
+      "dateLabel": "09/02 06:24",
+      "desc": "画像クレジット:Stephanie Arnett/MIT Technology Review | Getty Images, Adobe Stock",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "RTX 5070に32GBメモリ/240Hz対応16型液晶でもっと強くなれ！ 高性能ゲーミングノートPCがスマイルセール対象",
@@ -217,69 +250,36 @@
       "score": 34
     },
     {
-      "title": "「安いモデルで3回やり直し」と「高いモデルで一発完了」 コストが低いのはどっち？",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news018.html",
-      "date": "2026-09-01T08:00:00+09:00",
-      "dateLabel": "09/01 08:00",
-      "desc": "OpenAIは、AI投資の成果を測る指標として「1ドル当たりの有用なインテリジェンス」を提唱した。購入したシート数や利用者数といった導入状況ではなく、完了した仕事の量と品質、成功したタスク1件当たりのコストで評価する考え方だ。",
+      "title": "「ChatGPT」広告、年換算の売上高10億ドルに 開始200日足らずで達成",
+      "link": "https://www.itmedia.co.jp/news/article/2609/01/2000000997/",
+      "date": "2026-09-01T08:27:31+09:00",
+      "dateLabel": "09/01 08:27",
+      "desc": "OpenAIは、「ChatGPT」上の広告事業「ChatGPT Ads」の年換算売上高が開始200日足らずで10億ドル（約1600億円）に達したと発表した。セルフサービス出稿の提供地域をインドや欧州などに拡大する。上場を控える中、広告を多角化の重要な柱と位置付け、収益源の多様化と急成長をアピールする狙いがある。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
     },
     {
-      "title": "AIエージェントの活用方法！業務別シーン10選と定着させる進め方を解説",
-      "link": "https://ainow.ai/2026/09/02/278341/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e6%25b4%25bb%25e7%2594%25a8%25e6%2596%25b9%25e6%25b3%2595-%25e6%25a5%25ad%25e5%258b%2599%25e5%2588%25a5%25e3%2582%25b7%25e3%2583%25bc%25e3%2583%25b310%25e9%2581%25b8%25e3%2581%25a8%25e5%25ae%259a%25e7%259d%2580",
-      "date": "2026-09-02T02:03:39+09:00",
-      "dateLabel": "09/02 02:03",
-      "desc": "経営層から「AIエージェントを活用してほしい」と言われたものの、自社のどの業務に当てはめればよいか判断できず、検討が止まっている担当者は少なくありません。 AIエージェントの活用とは、目標を伝えるだけで情報収集から実行ま... The post AIエージェントの活用方法！業務別シーン10選と定着させる進め方を解説 first appeared on AI専",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "AIエージェントがRedshiftを操作してDWH構築や集計分析など可能に、Amazon RedshiftがAgent Toolkit for AWSと統合",
-      "link": "https://www.publickey1.jp/blog/26/airedshiftdwhamazon_redshiftagent_toolkit_for_aws.html",
-      "date": "2026-09-02T00:07:04+09:00",
-      "dateLabel": "09/02 00:07",
-      "desc": "Amazon Web Services（AWS）は、同社がフルマネージドで提供するデータウェアハウスサービス「Amazon Redshift」が、Agent Toolkit for AWSと統合されたことを明らかにしました。 Agent T...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "VS Code上で開発のセカンドオピニオンを別のAIエージェントから得られる「Rubber Duck」機能が実験的実装",
-      "link": "https://www.publickey1.jp/blog/26/vs_codeairubber_duck.html",
-      "date": "2026-09-02T00:01:52+09:00",
-      "dateLabel": "09/02 00:01",
-      "desc": "オープンソースで開発されているコードエディタ「Visual Studio Code」（以下、VS Code）の最新版となる「VS Code 1.135」で、開発に関するセカンドオピニオンをメインのAIエージェントとは別のAIエージェントに依...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "シャオミ「POCO F9 Ultra」は最上級CPUに背面サブウーファー！ Bose監修のバケモノ級スマホが発売",
-      "link": "https://ascii.jp/elem/000/004/430/4430934/?rss",
-      "date": "2026-09-01T22:00:00+09:00",
-      "dateLabel": "09/01 22:00",
-      "desc": "シャオミ「POCO F9 Ultra」は、国内初となる背面サブウーファー内蔵のBose監修2.1CHスピーカーを備えた最上位スマホです。Snapdragon 8 Elite Gen 5や8050mAh電池を搭載しAnTuTu400万点超を記録。早割12万9800円〜で買える最強のエンタメ機です。",
-      "img": "https://ascii.jp/img/2026/09/01/4519863/s/2e188f23c95a5911.jpg",
+      "title": "CORSAIR「FRAME 4000／5000」用木製フロントパネル発売、天然木でPCをインテリアに",
+      "link": "https://ascii.jp/elem/000/004/431/4431468/?rss",
+      "date": "2026-09-02T08:15:00+09:00",
+      "dateLabel": "09/02 08:15",
+      "desc": "CORSAIR「FRAME 4000／5000」シリーズ向けの天然木フロントパネルと、USB Type-Cを3基搭載したFRAME 4000用強化I/Oパネルが9月3日発売。対応モデルや特徴、価格を紹介します。",
+      "img": "https://ascii.jp/img/2026/09/02/4520424/s/7d28a45aac45100d.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "使い込むほど成長するAIエージェント「Hermes Agent」でタスクを自動実行させてみた、PCを放置していても時間になれば勝手に実行",
-      "link": "https://gigazine.net/news/20260901-hermes-agent-cron-automation/",
-      "date": "2026-09-01T22:00:00+09:00",
-      "dateLabel": "09/01 22:00",
-      "desc": "前回、AIエージェント「Hermes Agent」で「GIGAZINEから記事を探して内容をまとめる」という作業の手順や、途中で発生したトラブルの解決方法を「スキル」として保存してみたところ、新しいセッションでも作成したスキルが自動的に読み込まれ、同じ作業をスムーズに実行できるようになりました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
+      "title": "AIヒアリングと独自フレームワークを用いた1on1伴走サービス",
+      "link": "https://ascii.jp/elem/000/004/431/4431079/?rss",
+      "date": "2026-09-02T07:00:00+09:00",
+      "dateLabel": "09/02 07:00",
+      "desc": "デジノベーション株式会社は8月24日、新規事業開発やDX推進、起業に取り組むビジネスパーソンや起業家を対象とした1on1サービス「Diginno Mentoring」の提供を開始した。",
+      "img": "https://ascii.jp/img/2026/09/01/4519998/s/2bf0bf8770373ba9.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 26
     }
   ]
