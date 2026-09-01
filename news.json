@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-01T19:44:59.161876+09:00",
-  "generatedLabel": "2026/09/01 19:44",
+  "generatedAt": "2026-09-02T00:17:58.652101+09:00",
+  "generatedLabel": "2026/09/02 00:17",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 52,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -162,14 +162,25 @@
       "score": 42
     },
     {
-      "title": "自分のVRMモデルが、デスクトップで話し、働く。AIキャラクター作成サービス「Tatara」正式リリース",
-      "link": "https://ascii.jp/elem/000/004/431/4431371/?rss",
-      "date": "2026-09-01T17:06:45+09:00",
-      "dateLabel": "09/01 17:06",
-      "desc": "自分のVRMモデルが、デスクトップで話し、働く。AIキャラクター作成サービス「Tatara」正式リリース",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "title": "RTX 5070に32GBメモリ/240Hz対応16型液晶でもっと強くなれ！ 高性能ゲーミングノートPCがスマイルセール対象",
+      "link": "https://ascii.jp/elem/000/004/430/4430915/?rss",
+      "date": "2026-09-01T20:30:00+09:00",
+      "dateLabel": "09/01 20:30",
+      "desc": "Amazon.co.jpにて、MSIの16型ゲーミングノートPC「Crosshair 16 HX E14W」が販売中だ。参考価格は43万4800円だが、スマイルセールにより9％オフの39万4800円で購入できる（8月31日時点）。",
+      "img": "https://ascii.jp/img/2026/08/31/4519788/s/c8b1488e16b26254.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "店舗集客AIエージェント「KUROKO AI」、AEO分析機能を新たに実装。AI検索における店舗の「推奨状況」を週次で可視化",
+      "link": "https://ascii.jp/elem/000/004/431/4431402/?rss",
+      "date": "2026-09-01T18:28:36+09:00",
+      "dateLabel": "09/01 18:28",
+      "desc": "店舗集客AIエージェント「KUROKO AI」、AEO分析機能を新たに実装。AI検索における店舗の「推奨状況」を週次で可視化",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -250,36 +261,25 @@
       "score": 34
     },
     {
-      "title": "【新卒社員向け生成AI研修の実態調査】9割超が実施も、研修後のレベルを非常に高く評価する担当者の約3人に2人が研修内容に強い課題意識。新たな人材育成課題「AIネイティブ・パラドックス」が顕在化",
-      "link": "https://ascii.jp/elem/000/004/431/4431368/?rss",
-      "date": "2026-09-01T17:30:05+09:00",
-      "dateLabel": "09/01 17:30",
-      "desc": "【新卒社員向け生成AI研修の実態調査】9割超が実施も、研修後のレベルを非常に高く評価する担当者の約3人に2人が研修内容に強い課題意識。新たな人材育成課題「AIネイティブ・パラドックス」が顕在化",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
-      "title": "Dr. Maintenance が予算管理機能を追加。店舗ごとの予算配分から実績集計までを一元管理。",
-      "link": "https://ascii.jp/elem/000/004/431/4431369/?rss",
-      "date": "2026-09-01T17:29:33+09:00",
-      "dateLabel": "09/01 17:29",
-      "desc": "Dr. Maintenance が予算管理機能を追加。店舗ごとの予算配分から実績集計までを一元管理。",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "Googleが売上や天気など複数のデータから未来を予測するAI「TimesFM-3」を公開、追加学習なしで予測可能",
-      "link": "https://gigazine.net/news/20260901-google-timesfm-3/",
-      "date": "2026-09-01T17:15:00+09:00",
-      "dateLabel": "09/01 17:15",
-      "desc": "Google Researchが時系列データから将来を予測するAIモデル「TimesFM-3」を公開しました。TimesFM-3は売上や客足、天気など時間とともに変化する複数のデータをまとめて読み込み、将来の数値を予測できるAIです。1兆を超えるデータ点を含む大量の時系列データで事前学習されており、追加学習不要で使える点が特徴とされています。 続きを読む..",
+      "title": "AIエージェントがRedshiftを操作してDWH構築や集計分析など可能に、Amazon RedshiftがAgent Toolkit for AWSと統合",
+      "link": "https://www.publickey1.jp/blog/26/airedshiftdwhamazon_redshiftagent_toolkit_for_aws.html",
+      "date": "2026-09-02T00:07:04+09:00",
+      "dateLabel": "09/02 00:07",
+      "desc": "Amazon Web Services（AWS）は、同社がフルマネージドで提供するデータウェアハウスサービス「Amazon Redshift」が、Agent Toolkit for AWSと統合されたことを明らかにしました。 Agent T...",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "VS Code上で開発のセカンドオピニオンを別のAIエージェントから得られる「Rubber Duck」機能が実験的実装",
+      "link": "https://www.publickey1.jp/blog/26/vs_codeairubber_duck.html",
+      "date": "2026-09-02T00:01:52+09:00",
+      "dateLabel": "09/02 00:01",
+      "desc": "オープンソースで開発されているコードエディタ「Visual Studio Code」（以下、VS Code）の最新版となる「VS Code 1.135」で、開発に関するセカンドオピニオンをメインのAIエージェントとは別のAIエージェントに依...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
