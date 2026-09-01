@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-02T03:59:10.748861+09:00",
-  "generatedLabel": "2026/09/02 03:59",
+  "generatedAt": "2026-09-02T06:36:39.119545+09:00",
+  "generatedLabel": "2026/09/02 06:36",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,7 +13,7 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 19
+      "items": 18
     },
     {
       "source": "ASCII.jp",
@@ -68,17 +68,6 @@
       "date": "2026-09-01T16:31:21+09:00",
       "dateLabel": "09/01 16:31",
       "desc": "米国防総省は、米OpenAIの「ChatGPT」のカスタマイズ版「ChatGPT Mil」を導入したと発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
-      "title": "AIをよく使う社員だけ5倍に Claude、ChatGPT／Codex、Cursorで企業がAIを本格運用できる時代へ",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news009.html",
-      "date": "2026-09-01T05:00:00+09:00",
-      "dateLabel": "09/01 05:00",
-      "desc": "OpenAIがChatGPT BusinessでPremiumシートの提供を開始した。Anthropic、Cursorに続き、主要な企業向けAIで、利用量の多い社員だけ上位シートを割り当てられる仕組みがそろった。3社の料金や利用枠、実際の設定方法を比較し、企業のAI利用で何が変わるのかを考える。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
@@ -145,6 +134,17 @@
       "date": "2026-09-01T08:27:31+09:00",
       "dateLabel": "09/01 08:27",
       "desc": "OpenAIは、「ChatGPT」上の広告事業「ChatGPT Ads」の年換算売上高が開始200日足らずで10億ドル（約1600億円）に達したと発表した。セルフサービス出稿の提供地域をインドや欧州などに拡大する。上場を控える中、広告を多角化の重要な柱と位置付け、収益源の多様化と急成長をアピールする狙いがある。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "AIをよく使う社員だけ5倍に Claude、ChatGPT／Codex、Cursorで企業がAIを本格運用できる時代へ",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news009.html",
+      "date": "2026-09-01T05:00:00+09:00",
+      "dateLabel": "09/01 05:00",
+      "desc": "OpenAIがChatGPT BusinessでPremiumシートの提供を開始した。Anthropic、Cursorに続き、主要な企業向けAIで、利用量の多い社員だけ上位シートを割り当てられる仕組みがそろった。3社の料金や利用枠、実際の設定方法を比較し、企業のAI利用で何が変わるのかを考える。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
@@ -228,28 +228,6 @@
       "score": 34
     },
     {
-      "title": "「ChatGPT Work」の仕組みに関する考察",
-      "link": "https://gigazine.net/news/20260901-understanding-chatgpt-work/",
-      "date": "2026-09-01T06:00:00+09:00",
-      "dateLabel": "09/01 06:00",
-      "desc": "オープンソース開発者のサイモン・ウィリソン氏が、2026年7月に登場した「ChatGPT ワーク」について調査を行い、わかった仕組みについてブログで情報を公開しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "「Claude Code」の週次制限枠、9月14日に\"25％引き上げ\" 実質は現状比17％減に",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/31/2000000951/",
-      "date": "2026-08-31T09:51:04+09:00",
-      "dateLabel": "08/31 09:51",
-      "desc": "Anthropicは、コーディング支援「Claude Code」の週間利用上限を標準比25％増に恒久設定すると発表した。現在は期間限定で50％増が適用されているため、9月14日の切り替え後は現状比で約17％の減少となる。同社は利用状況の可視性や管理性を高める改善も進めているとしている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "AIエージェントの活用方法！業務別シーン10選と定着させる進め方を解説",
       "link": "https://ainow.ai/2026/09/02/278341/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e6%25b4%25bb%25e7%2594%25a8%25e6%2596%25b9%25e6%25b3%2595-%25e6%25a5%25ad%25e5%258b%2599%25e5%2588%25a5%25e3%2582%25b7%25e3%2583%25bc%25e3%2583%25b310%25e9%2581%25b8%25e3%2581%25a8%25e5%25ae%259a%25e7%259d%2580",
       "date": "2026-09-02T02:03:39+09:00",
@@ -279,6 +257,28 @@
       "desc": "オープンソースで開発されているコードエディタ「Visual Studio Code」（以下、VS Code）の最新版となる「VS Code 1.135」で、開発に関するセカンドオピニオンをメインのAIエージェントとは別のAIエージェントに依...",
       "img": "",
       "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "シャオミ「POCO F9 Ultra」は最上級CPUに背面サブウーファー！ Bose監修のバケモノ級スマホが発売",
+      "link": "https://ascii.jp/elem/000/004/430/4430934/?rss",
+      "date": "2026-09-01T22:00:00+09:00",
+      "dateLabel": "09/01 22:00",
+      "desc": "シャオミ「POCO F9 Ultra」は、国内初となる背面サブウーファー内蔵のBose監修2.1CHスピーカーを備えた最上位スマホです。Snapdragon 8 Elite Gen 5や8050mAh電池を搭載しAnTuTu400万点超を記録。早割12万9800円〜で買える最強のエンタメ機です。",
+      "img": "https://ascii.jp/img/2026/09/01/4519863/s/2e188f23c95a5911.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "使い込むほど成長するAIエージェント「Hermes Agent」でタスクを自動実行させてみた、PCを放置していても時間になれば勝手に実行",
+      "link": "https://gigazine.net/news/20260901-hermes-agent-cron-automation/",
+      "date": "2026-09-01T22:00:00+09:00",
+      "dateLabel": "09/01 22:00",
+      "desc": "前回、AIエージェント「Hermes Agent」で「GIGAZINEから記事を探して内容をまとめる」という作業の手順や、途中で発生したトラブルの解決方法を「スキル」として保存してみたところ、新しいセッションでも作成したスキルが自動的に読み込まれ、同じ作業をスムーズに実行できるようになりました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 26
     }
