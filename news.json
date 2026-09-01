@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-01T09:11:16.419364+09:00",
-  "generatedLabel": "2026/09/01 09:11",
+  "generatedAt": "2026-09-01T14:51:57.111216+09:00",
+  "generatedLabel": "2026/09/01 14:51",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 58,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 18
+      "items": 19
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -63,17 +63,6 @@
   ],
   "articles": [
     {
-      "title": "Anthropic、AIに「AIの安全性研究」を任せる実験 うそ、迎合などの問題行動を性能落とさず改善",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/31/2000000964/",
-      "date": "2026-08-31T14:07:36+09:00",
-      "dateLabel": "08/31 14:07",
-      "desc": "AnthropicはAIモデル「Claude」にAIの安全性研究を自律的に任せる実験結果を公開。うそや追従など10種類の問題行動全てで、性能を落とさず行動を改善する手法を発見した。人間の研究者28人の成績を上回ったという。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
-      "score": 58
-    },
-    {
       "title": "AIをよく使う社員だけ5倍に Claude、ChatGPT／Codex、Cursorで企業がAIを本格運用できる時代へ",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news009.html",
       "date": "2026-09-01T05:00:00+09:00",
@@ -85,15 +74,37 @@
       "score": 50
     },
     {
-      "title": "AnthropicがSlackとの会話でClaudeを使える「Claude Tag」の社内活用事例を公開",
-      "link": "https://gigazine.net/news/20260831-claude-tag-example/",
-      "date": "2026-08-31T11:58:00+09:00",
-      "dateLabel": "08/31 11:58",
-      "desc": "AnthropicはSlackにClaudeを参加させて各種タスクを依頼できるようにする「Claude Tag」を2026年6月にリリースしました。このClaude Tagについて、Anthropic社内での活用事例が公式ブログに掲載されています。 続きを読む...",
+      "title": "Anthropic、AIに「AIの安全性研究」を任せる実験 うそ、迎合などの問題行動を性能落とさず改善",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/31/2000000964/",
+      "date": "2026-08-31T14:07:36+09:00",
+      "dateLabel": "08/31 14:07",
+      "desc": "AnthropicはAIモデル「Claude」にAIの安全性研究を自律的に任せる実験結果を公開。うそや追従など10種類の問題行動全てで、性能を落とさず行動を改善する手法を発見した。人間の研究者28人の成績を上回ったという。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
+      "score": 50
+    },
+    {
+      "title": "ChatGPTの広告事業が開始200日足らずで年換算約1600億円に",
+      "link": "https://gigazine.net/news/20260901-openai-chatgpt/",
+      "date": "2026-09-01T11:35:00+09:00",
+      "dateLabel": "09/01 11:35",
+      "desc": "OpenAIが2026年8月31日、ChatGPT上で展開する広告事業「ChatGPT Ads」の年間換算売上高が10億ドル(約1600億円)に達したと発表しました。広告主は数万社、展開地域は40カ国以上まで拡大しており、広告事業の立ち上げから200日未満での到達となっています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 50
+      "score": 42
+    },
+    {
+      "title": "NVIDIA、MediaTekの転換社債に35億ドル投資 「NVLink Fusion」採用などでAI協業を強化",
+      "link": "https://www.itmedia.co.jp/news/article/2609/01/2000001005/",
+      "date": "2026-09-01T10:36:31+09:00",
+      "dateLabel": "09/01 10:36",
+      "desc": "NVIDIAとMediaTekは、AI基盤をめぐる協業拡大を発表した。NVIDIAはMediaTekの転換社債に35億ドルを投資する。独自AIチップのラック統合やPC・車載向けチップの共同開発などを推進し、NVIDIAは顧客の囲い込みを、MediaTekは受託設計事業の強化を図る構えだ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 42
     },
     {
       "title": "「ChatGPT」広告、年換算の売上高10億ドルに 開始200日足らずで達成",
@@ -118,17 +129,6 @@
       "score": 42
     },
     {
-      "title": "「Claude Code」の週次制限枠、9月14日に\"25％引き上げ\" 実質は現状比17％減に",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/31/2000000951/",
-      "date": "2026-08-31T09:51:04+09:00",
-      "dateLabel": "08/31 09:51",
-      "desc": "Anthropicは、コーディング支援「Claude Code」の週間利用上限を標準比25％増に恒久設定すると発表した。現在は期間限定で50％増が適用されているため、9月14日の切り替え後は現状比で約17％の減少となる。同社は利用状況の可視性や管理性を高める改善も進めているとしている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "JetBrains、Mac上で動作するコーディングエージェント「Junie Local」提供開始。Claude Sonnet 4.5と同等の能力、RTX5090対応も開発中",
       "link": "https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html",
       "date": "2026-08-31T00:07:47+09:00",
@@ -140,14 +140,47 @@
       "score": 42
     },
     {
-      "title": "「AI競争の本質は『データ競争』、データ基盤がビジネス成果を左右する」NetApp斉藤社長",
-      "link": "https://ascii.jp/elem/000/004/430/4430935/?rss",
-      "date": "2026-09-01T09:00:00+09:00",
-      "dateLabel": "09/01 09:00",
-      "desc": "NetApp日本法人（ネットアップ）が新年度（2027会計年度、FY27）の事業戦略を発表した。社長の斉藤千春氏は、企業のAI活用が本格化してビジネス成果が求められるようになった現在、データ基盤の整備がより重要になっていることを強調。国内のビジネスが大きく伸長した2026年度に続いて「飛躍の年」を目指す。",
-      "img": "https://ascii.jp/img/2026/09/01/4519878/s/486b37cb4a75fc7d.jpg",
+      "title": "「ChatGPT」一部プランに広告表示、売上高は年1600億円ペース 「Google」「Meta」の牙城を崩せるか",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/01/news074.html",
+      "date": "2026-09-01T14:15:00+09:00",
+      "dateLabel": "09/01 14:15",
+      "desc": "「ChatGPT」に広告を表示できるようになった。OpenAIの広告事業は年換算の売上高10億ドルに達したという。“Web広告の巨人”であるGoogleに対抗できるのか。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "3万円引き！ RTX 5060＋Core i7搭載、144Hz液晶のMSI「Cyborg 15」が20万9800円",
+      "link": "https://ascii.jp/elem/000/004/430/4430795/?rss",
+      "date": "2026-09-01T12:30:00+09:00",
+      "dateLabel": "09/01 12:30",
+      "desc": "MSIのゲーミングノートPC「Cyborg 15（B13WFKG-1172JP）」がAmazonでタイムセール対象。参考価格239,800円から13％オフの209,800円で販売中。Core i7-13620HとGeForce RTX 5060 Laptop GPUを搭載し、15.6型フルHDの144Hz対応液晶を採用する。3万円引きで手に入るAmazon.",
+      "img": "https://ascii.jp/img/2026/08/31/4519656/s/de86b701e3a3281b.jpg",
       "src": "ASCII.jp",
-      "cat": "AI全般",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "「OpenClaw 2.0」が登場、インストール簡略化や複数人共同作業などを含む大規模アップデート",
+      "link": "https://gigazine.net/news/20260901-openclaw-2/",
+      "date": "2026-09-01T11:28:00+09:00",
+      "dateLabel": "09/01 11:28",
+      "desc": "自分専用のAIエージェントを構築できる「OpenClaw」のバージョン2.0が2026年8月30日にリリースされました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "AppleがOpenAIとの企業秘密侵害訴訟で元従業員のMacBookから衝撃的な証拠を発見",
+      "link": "https://gigazine.net/news/20260901-apple-reveals-shocking-evidence-openai-suit/",
+      "date": "2026-09-01T11:19:00+09:00",
+      "dateLabel": "09/01 11:19",
+      "desc": "Appleは同社からOpenAIに引き抜かれた元従業員が企業秘密ファイルを盗み出したとして、OpenAIと元従業員を訴えています。この訴訟に関する新しい資料をAppleが裁判所に提出しました。この資料について、Apple関連メディアの9to5Macは「衝撃的な証拠」と報じています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
       "score": 34
     },
     {
@@ -195,24 +228,13 @@
       "score": 34
     },
     {
-      "title": "Anthropicがマルウェア感染の疑いがあるユーザーを強制ログアウトさせ支払い方法を削除し返金処理を実施",
-      "link": "https://gigazine.net/news/20260831-anthropic-warn-malware/",
-      "date": "2026-08-31T11:49:00+09:00",
-      "dateLabel": "08/31 11:49",
-      "desc": "ユーザーのPCを乗っ取ってAnthropicのAI「Claude」を不正に使用するマルウェアが確認されました。Anthropicはこうしたマルウェアを検知し、ユーザーを強制ログアウトする措置を取っています。 続きを読む...",
+      "title": "「Claude Code」の週次制限枠、9月14日に\"25％引き上げ\" 実質は現状比17％減に",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/31/2000000951/",
+      "date": "2026-08-31T09:51:04+09:00",
+      "dateLabel": "08/31 09:51",
+      "desc": "Anthropicは、コーディング支援「Claude Code」の週間利用上限を標準比25％増に恒久設定すると発表した。現在は期間限定で50％増が適用されているため、9月14日の切り替え後は現状比で約17％の減少となる。同社は利用状況の可視性や管理性を高める改善も進めているとしている。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "TencentがAIモデル「Hy4 preview」を公開、一部テストでGPT-5.6 Solを上回る＆213GBまで軽量化した1bit量子化版も公開される",
-      "link": "https://gigazine.net/news/20260831-hy4-preview-tencent/",
-      "date": "2026-08-31T10:44:00+09:00",
-      "dateLabel": "08/31 10:44",
-      "desc": "中国の大手テクノロジー企業であるTencentがAIモデル「Hy4 preview」を2026年8月28日に公開しました。GPT-5.6 Solなどの最先端モデルに匹敵する性能を備えており、オープンモデルとして無償公開されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
+      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
     },
@@ -228,58 +250,36 @@
       "score": 34
     },
     {
-      "title": "Anthropic、OpenAIが明かす「AI利用拡大でユーザーに何が起きているか」",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2608/27/news091.html",
-      "date": "2026-08-31T08:00:00+09:00",
-      "dateLabel": "08/31 08:00",
-      "desc": "AIの利用が業務に定着し始めた今、労働市場と業務内容はどう変わりつつあるのか。AnthropicとOpenAIがそれぞれ公開した独自データから、AIの浸透がユーザーに与えているインパクトを明らかにする。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加",
-      "link": "https://www.itmedia.co.jp/news/article/2608/30/2000000949/",
-      "date": "2026-08-30T18:23:12+09:00",
-      "dateLabel": "08/30 18:23",
-      "desc": "OpenAIと評価機関METRは、Hugging Face侵害事案の技術報告書を公開した。約1200体のAIエージェントが非公式掲示板で結託し、難問攻略のため採点機構を探る過程で攻撃を実行したという。OpenAIは根本原因を報酬ハッキングとし対策を公表したが、METRは自律的集団行動の再発リスクに警戒を示している。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "CLIP STUDIO PAINT推奨PCが2,000円OFF！ SENSE∞限定クーポン配布",
-      "link": "https://ascii.jp/elem/000/004/430/4430941/?rss",
-      "date": "2026-09-01T09:00:00+09:00",
-      "dateLabel": "09/01 09:00",
-      "desc": "SENSE∞のCLIP STUDIO PAINT動作検証済み推奨PCが2,000円OFF。クーポンコードや対象期間、11万円台から選べる対象モデルの特徴を紹介します。",
-      "img": "https://ascii.jp/img/2026/09/01/4519902/s/98821c73b59c6c7a.jpg",
+      "title": "ラピトリ搭載ゲーミングキーボード最初の一台にいかが？ 8Kポーリングレートの瞬がスマイルセールで10％オフ",
+      "link": "https://ascii.jp/elem/000/004/430/4430838/?rss",
+      "date": "2026-09-01T13:00:00+09:00",
+      "dateLabel": "09/01 13:00",
+      "desc": "Amazon.co.jpにて、AIM1のゲーミングキーボード「瞬（ブラック）」が販売中だ。参考価格は1万4980円だが、スマイルセールにより10％オフの1万3482円で購入できる（8月31日時点）。",
+      "img": "https://ascii.jp/img/2026/08/31/4519748/s/93499db721803d7f.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "kintone公式のMCPサーバーとCData Connect AIを徹底比較 コスト、正確性、使える場面まで",
-      "link": "https://ascii.jp/elem/000/004/428/4428591/?rss",
-      "date": "2026-09-01T09:00:00+09:00",
-      "dateLabel": "09/01 09:00",
-      "desc": "CData では「CData Connect AI」というkintone やSalesforce、SAP などに接続できるマネージドMCP プラットフォームを提供しています。今回はkintone の公式MCP Server とCData Connect AI のkintone コネクタを対象として、同一の kintone データ・同一のプロンプト・同一の A",
-      "img": "https://ascii.jp/img/2026/08/21/4515688/s/5b5a52bb02af12f7.png",
-      "src": "ASCII.jp",
+      "title": "Instagram、「AIクリエイター」ラベルを「AI生成プロフィール」に改称 未設定なら表示を制限",
+      "link": "https://www.itmedia.co.jp/news/article/2609/01/2000001010/",
+      "date": "2026-09-01T12:19:28+09:00",
+      "dateLabel": "09/01 12:19",
+      "desc": "Metaは、Instagramの「AIクリエイター」ラベルを「AI-generated profile」に改称すると発表した。実在の人物ではないAI生成プロフィールであることを明確にする狙い。AI生成人物を使用しながら未設定のアカウントは、おすすめ表示などのリーチを制限し、自主的な設定を促す。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "「AIが勝手にやった」は通用しない？ AIエージェントにも“社員証”と“委任状”が要るワケ 今からできる対策も解説",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/01/2000000898/",
-      "date": "2026-09-01T08:00:00+09:00",
-      "dateLabel": "09/01 08:00",
-      "desc": "AIエージェントの業務利用が広がるにつれ、AI向けの「社員証」と「委任状」に注目が集まっている。これらはどのような仕組みで、何を防げるのか。実際の事故や各社の動きを整理し、今からできる対策を解説する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
+      "title": "【無料ゲーム】16ビットJRPG「Chained Echoes」が面白そう！ PS Plusフリープレイ9月ぶん配信開始",
+      "link": "https://ascii.jp/elem/000/004/431/4431003/?rss",
+      "date": "2026-09-01T12:10:00+09:00",
+      "dateLabel": "09/01 12:10",
+      "desc": "ソニー・インタラクティブエンタテインメントは、PlayStation Plusにおける「フリープレイ」9月ぶんの配信を開始した。提供期間は2026年9月1日～10月5日まで。",
+      "img": "https://ascii.jp/img/2026/09/01/4519945/s/75692dfb20e74f5c.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 26
     }
   ]
