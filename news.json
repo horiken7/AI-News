@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-01T14:51:57.111216+09:00",
-  "generatedLabel": "2026/09/01 14:51",
+  "generatedAt": "2026-09-01T19:44:59.161876+09:00",
+  "generatedLabel": "2026/09/01 19:44",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "“軍事向けChatGPT”導入、米国防総省 「Gemini」「Grok」の計3モデルが利用可能に",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/01/2000001033/",
+      "date": "2026-09-01T16:31:21+09:00",
+      "dateLabel": "09/01 16:31",
+      "desc": "米国防総省は、米OpenAIの「ChatGPT」のカスタマイズ版「ChatGPT Mil」を導入したと発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
       "title": "AIをよく使う社員だけ5倍に Claude、ChatGPT／Codex、Cursorで企業がAIを本格運用できる時代へ",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news009.html",
       "date": "2026-09-01T05:00:00+09:00",
@@ -83,6 +94,28 @@
       "src": "ITmedia AI+",
       "cat": "規制/安全",
       "score": 50
+    },
+    {
+      "title": "Anthropicが「開発中のAIで外部を攻撃しないための対策」を発表",
+      "link": "https://gigazine.net/news/20260901-anthropic-alignment-security/",
+      "date": "2026-09-01T18:56:00+09:00",
+      "dateLabel": "09/01 18:56",
+      "desc": "「OpenAIのテスト中モデルがHugging Faceを攻撃してしまった」という問題が話題になる中、Anthropicも「AIモデルのテスト中に外部への攻撃が発生していた」と報告しています。新たに、Anthropicがテスト中のモデルによる誤った攻撃を防ぐための対応内容を発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "EUがChatGPTを「超大規模オンライン検索エンジン」に正式指定、OpenAIにリスク評価や独立監査など追加義務",
+      "link": "https://gigazine.net/news/20260901-eu-chatgpt-digital-services-act/",
+      "date": "2026-09-01T15:10:00+09:00",
+      "dateLabel": "09/01 15:10",
+      "desc": "欧州委員会が2026年8月31日、OpenAIのChatGPTをデジタルサービス法(DSA)に基づく「超大規模オンライン検索エンジン(VLOSE)」に正式指定しました。ChatGPTはEUで月間4500万人以上が利用するサービスに適用されるDSAの最も厳しい規制区分に入り、OpenAIにはサービスが社会に与えるリスクの評価や対策など追加の義務が課されることに",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 42
     },
     {
       "title": "ChatGPTの広告事業が開始200日足らずで年換算約1600億円に",
@@ -118,17 +151,6 @@
       "score": 42
     },
     {
-      "title": "ソニーとワーナーが共同でAnthropicを提訴、楽曲をClaudeのトレーニングに利用された「史上最大かつ最も甚だしい知的財産窃盗事件」",
-      "link": "https://gigazine.net/news/20260831-sony-warner-sue-anthropic/",
-      "date": "2026-08-31T15:50:00+09:00",
-      "dateLabel": "08/31 15:50",
-      "desc": "大手音楽会社のソニー・ミュージックパブリッシング(SMP)とワーナーチャペルミュージック(WCM)が、AI「Claude」の開発元であるAnthropicを共同で提訴しました。両社はAnthropicがClaudeをトレーニングするにあたり、著作権で保護された作品数万曲を利用したと主張、損害賠償を求めています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 42
-    },
-    {
       "title": "JetBrains、Mac上で動作するコーディングエージェント「Junie Local」提供開始。Claude Sonnet 4.5と同等の能力、RTX5090対応も開発中",
       "link": "https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html",
       "date": "2026-08-31T00:07:47+09:00",
@@ -140,6 +162,17 @@
       "score": 42
     },
     {
+      "title": "自分のVRMモデルが、デスクトップで話し、働く。AIキャラクター作成サービス「Tatara」正式リリース",
+      "link": "https://ascii.jp/elem/000/004/431/4431371/?rss",
+      "date": "2026-09-01T17:06:45+09:00",
+      "dateLabel": "09/01 17:06",
+      "desc": "自分のVRMモデルが、デスクトップで話し、働く。AIキャラクター作成サービス「Tatara」正式リリース",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "「ChatGPT」一部プランに広告表示、売上高は年1600億円ペース 「Google」「Meta」の牙城を崩せるか",
       "link": "https://www.itmedia.co.jp/business/articles/2609/01/news074.html",
       "date": "2026-09-01T14:15:00+09:00",
@@ -148,17 +181,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "3万円引き！ RTX 5060＋Core i7搭載、144Hz液晶のMSI「Cyborg 15」が20万9800円",
-      "link": "https://ascii.jp/elem/000/004/430/4430795/?rss",
-      "date": "2026-09-01T12:30:00+09:00",
-      "dateLabel": "09/01 12:30",
-      "desc": "MSIのゲーミングノートPC「Cyborg 15（B13WFKG-1172JP）」がAmazonでタイムセール対象。参考価格239,800円から13％オフの209,800円で販売中。Core i7-13620HとGeForce RTX 5060 Laptop GPUを搭載し、15.6型フルHDの144Hz対応液晶を採用する。3万円引きで手に入るAmazon.",
-      "img": "https://ascii.jp/img/2026/08/31/4519656/s/de86b701e3a3281b.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -217,17 +239,6 @@
       "score": 34
     },
     {
-      "title": "NVIDIAの「DLSS 5」がリリース前に「NBA 2K27」の早期アクセス版で発見され他のゲームに適用する試みが流行",
-      "link": "https://gigazine.net/news/20260831-nvidia-dlss-5-discovered/",
-      "date": "2026-08-31T18:28:00+09:00",
-      "dateLabel": "08/31 18:28",
-      "desc": "AIを活用したアップスケーリング技術の「DLSS 5」が、2026年8月26日に早期アクセス版としてリリースされたゲーム「NBA 2K27」から発見されました。これを知ったユーザーがDLSS 5を他のゲームに適用させる試みを行っています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
       "title": "「Claude Code」の週次制限枠、9月14日に\"25％引き上げ\" 実質は現状比17％減に",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/31/2000000951/",
       "date": "2026-08-31T09:51:04+09:00",
@@ -239,46 +250,35 @@
       "score": 34
     },
     {
-      "title": "【無料】日本語のAI学習サイトをAnthropicが公開 「Claude Code入門」など357のコンテンツが学べる",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news015.html",
-      "date": "2026-08-31T08:00:00+09:00",
-      "dateLabel": "08/31 08:00",
-      "desc": "Anthropicは、AIを安全かつ効果的に活用する方法を学べるWebサイト「Claude Academy」を公開した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
+      "title": "【新卒社員向け生成AI研修の実態調査】9割超が実施も、研修後のレベルを非常に高く評価する担当者の約3人に2人が研修内容に強い課題意識。新たな人材育成課題「AIネイティブ・パラドックス」が顕在化",
+      "link": "https://ascii.jp/elem/000/004/431/4431368/?rss",
+      "date": "2026-09-01T17:30:05+09:00",
+      "dateLabel": "09/01 17:30",
+      "desc": "【新卒社員向け生成AI研修の実態調査】9割超が実施も、研修後のレベルを非常に高く評価する担当者の約3人に2人が研修内容に強い課題意識。新たな人材育成課題「AIネイティブ・パラドックス」が顕在化",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 26
     },
     {
-      "title": "ラピトリ搭載ゲーミングキーボード最初の一台にいかが？ 8Kポーリングレートの瞬がスマイルセールで10％オフ",
-      "link": "https://ascii.jp/elem/000/004/430/4430838/?rss",
-      "date": "2026-09-01T13:00:00+09:00",
-      "dateLabel": "09/01 13:00",
-      "desc": "Amazon.co.jpにて、AIM1のゲーミングキーボード「瞬（ブラック）」が販売中だ。参考価格は1万4980円だが、スマイルセールにより10％オフの1万3482円で購入できる（8月31日時点）。",
-      "img": "https://ascii.jp/img/2026/08/31/4519748/s/93499db721803d7f.jpg",
+      "title": "Dr. Maintenance が予算管理機能を追加。店舗ごとの予算配分から実績集計までを一元管理。",
+      "link": "https://ascii.jp/elem/000/004/431/4431369/?rss",
+      "date": "2026-09-01T17:29:33+09:00",
+      "dateLabel": "09/01 17:29",
+      "desc": "Dr. Maintenance が予算管理機能を追加。店舗ごとの予算配分から実績集計までを一元管理。",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "Instagram、「AIクリエイター」ラベルを「AI生成プロフィール」に改称 未設定なら表示を制限",
-      "link": "https://www.itmedia.co.jp/news/article/2609/01/2000001010/",
-      "date": "2026-09-01T12:19:28+09:00",
-      "dateLabel": "09/01 12:19",
-      "desc": "Metaは、Instagramの「AIクリエイター」ラベルを「AI-generated profile」に改称すると発表した。実在の人物ではないAI生成プロフィールであることを明確にする狙い。AI生成人物を使用しながら未設定のアカウントは、おすすめ表示などのリーチを制限し、自主的な設定を促す。",
+      "title": "Googleが売上や天気など複数のデータから未来を予測するAI「TimesFM-3」を公開、追加学習なしで予測可能",
+      "link": "https://gigazine.net/news/20260901-google-timesfm-3/",
+      "date": "2026-09-01T17:15:00+09:00",
+      "dateLabel": "09/01 17:15",
+      "desc": "Google Researchが時系列データから将来を予測するAIモデル「TimesFM-3」を公開しました。TimesFM-3は売上や客足、天気など時間とともに変化する複数のデータをまとめて読み込み、将来の数値を予測できるAIです。1兆を超えるデータ点を含む大量の時系列データで事前学習されており、追加学習不要で使える点が特徴とされています。 続きを読む..",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "【無料ゲーム】16ビットJRPG「Chained Echoes」が面白そう！ PS Plusフリープレイ9月ぶん配信開始",
-      "link": "https://ascii.jp/elem/000/004/431/4431003/?rss",
-      "date": "2026-09-01T12:10:00+09:00",
-      "dateLabel": "09/01 12:10",
-      "desc": "ソニー・インタラクティブエンタテインメントは、PlayStation Plusにおける「フリープレイ」9月ぶんの配信を開始した。提供期間は2026年9月1日～10月5日まで。",
-      "img": "https://ascii.jp/img/2026/09/01/4519945/s/75692dfb20e74f5c.jpg",
-      "src": "ASCII.jp",
+      "src": "GIGAZINE",
       "cat": "AI全般",
       "score": 26
     }
