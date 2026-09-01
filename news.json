@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-02T00:17:58.652101+09:00",
-  "generatedLabel": "2026/09/02 00:17",
+  "generatedAt": "2026-09-02T03:59:10.748861+09:00",
+  "generatedLabel": "2026/09/02 03:59",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 55,
@@ -239,17 +239,6 @@
       "score": 34
     },
     {
-      "title": "DHH氏が開発するLinux OS「Omarchy Quattro」リリース。AIエージェントとをOSと統合、スキルによりAIエージェントがOSの設定や操作、プラグイン作成まで支援",
-      "link": "https://www.publickey1.jp/blog/26/dhhlinux_osomarchy_quattroaiosaios.html",
-      "date": "2026-09-01T00:54:46+09:00",
-      "dateLabel": "09/01 00:54",
-      "desc": "Ruby on Railsの作者として知られるDHH氏は、同氏が開発するデスクトップ向けLinux OS「Omarchy」の最新バージョンとなる「Omarchy 4.0」（Omarchy Quattro）をリリースしました。 Omarchy...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "「Claude Code」の週次制限枠、9月14日に\"25％引き上げ\" 実質は現状比17％減に",
       "link": "https://www.itmedia.co.jp/aiplus/article/2608/31/2000000951/",
       "date": "2026-08-31T09:51:04+09:00",
@@ -259,6 +248,17 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
+    },
+    {
+      "title": "AIエージェントの活用方法！業務別シーン10選と定着させる進め方を解説",
+      "link": "https://ainow.ai/2026/09/02/278341/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e6%25b4%25bb%25e7%2594%25a8%25e6%2596%25b9%25e6%25b3%2595-%25e6%25a5%25ad%25e5%258b%2599%25e5%2588%25a5%25e3%2582%25b7%25e3%2583%25bc%25e3%2583%25b310%25e9%2581%25b8%25e3%2581%25a8%25e5%25ae%259a%25e7%259d%2580",
+      "date": "2026-09-02T02:03:39+09:00",
+      "dateLabel": "09/02 02:03",
+      "desc": "経営層から「AIエージェントを活用してほしい」と言われたものの、自社のどの業務に当てはめればよいか判断できず、検討が止まっている担当者は少なくありません。 AIエージェントの活用とは、目標を伝えるだけで情報収集から実行ま... The post AIエージェントの活用方法！業務別シーン10選と定着させる進め方を解説 first appeared on AI専",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 26
     },
     {
       "title": "AIエージェントがRedshiftを操作してDWH構築や集計分析など可能に、Amazon RedshiftがAgent Toolkit for AWSと統合",
