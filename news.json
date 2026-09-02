@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-03T04:05:01.053531+09:00",
-  "generatedLabel": "2026/09/03 04:05",
+  "generatedAt": "2026-09-03T07:08:26.771342+09:00",
+  "generatedLabel": "2026/09/03 07:08",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 12
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -228,12 +228,12 @@
       "score": 36
     },
     {
-      "title": "Uravation、業務を実行するAIを構築して引き継ぐ「AI社員構築代行」サービスを提供開始",
-      "link": "https://ascii.jp/elem/000/004/431/4431818/?rss",
-      "date": "2026-09-02T18:03:35+09:00",
-      "dateLabel": "09/02 18:03",
-      "desc": "Uravation、業務を実行するAIを構築して引き継ぐ「AI社員構築代行」サービスを提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "title": "米国・NATO標準規格に準拠した国産AI防衛システム",
+      "link": "https://ascii.jp/elem/000/004/431/4431081/?rss",
+      "date": "2026-09-03T07:00:00+09:00",
+      "dateLabel": "09/03 07:00",
+      "desc": "スカイゲートテクノロジズ株式会社は8月27日、米国やNATOの軍事規格に準拠した国産AI防衛システム「Alayasiki（アラヤシキ）」を発表した。ドローンやAIを活用した現代戦の高速化に加え、安全保障上の自立と同盟国との連携を両立させるシステムとして展開される。",
+      "img": "https://ascii.jp/img/2026/09/01/4520000/s/d9d16fe7f7969de9.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
