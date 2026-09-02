@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-02T20:51:30.852678+09:00",
-  "generatedLabel": "2026/09/02 20:51",
+  "generatedAt": "2026-09-03T00:35:56.155687+09:00",
+  "generatedLabel": "2026/09/03 00:35",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 50,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 2
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 8
+      "items": 9
     },
     {
       "source": "AINOW",
@@ -116,6 +116,17 @@
       "src": "ITmedia AI+",
       "cat": "規制/安全",
       "score": 50
+    },
+    {
+      "title": "ASUSが世界に向けて初の「RTX Spark」搭載ノートPCを正式発表＝16型は100Whバッテリーで1.7kgを実現!!",
+      "link": "https://ascii.jp/elem/000/004/431/4431831/?rss",
+      "date": "2026-09-03T00:01:00+09:00",
+      "dateLabel": "09/03 00:01",
+      "desc": "ASUSはIFA2026でNVIDIAの次世代チップ「RTX Spark」を搭載したクリエイター向けPC「ProArtシリーズ」を3モデルを発表しました",
+      "img": "https://ascii.jp/img/2026/09/02/4521045/s/c46635d39dc714d8.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
     },
     {
       "title": "OrcaRouter、AIエージェントの実行を記録・再生・分岐できるOSSツール「OrcaReplay」を公開サブタイトル",
@@ -203,7 +214,7 @@
       "img": "",
       "src": "Publickey",
       "cat": "AIエージェント/業務",
-      "score": 42
+      "score": 36
     },
     {
       "title": "Uravation、業務を実行するAIを構築して引き継ぐ「AI社員構築代行」サービスを提供開始",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "「Firefox 155」正式版リリース、ブロックしたトラッカー数をアドレスバーに表示＆AI機能「Smart Window」の提供範囲を拡大",
-      "link": "https://gigazine.net/news/20260902-firefox-155/",
-      "date": "2026-09-02T10:41:00+09:00",
-      "dateLabel": "09/02 10:41",
-      "desc": "ウェブブラウザ「Firefox 155」の正式版が公開されました。AIを活用したブラウジング機能「Smart Window」がアメリカ・カナダ・フランスの全ユーザー向けに提供されるようになったほか、Firefoxがブロックしたトラッカー数をアドレスバーで確認できるようになりました。また、コンテナーの並び替えや翻訳対応言語の追加、PDF印刷機能の改善なども行わ",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
       "score": 34
     }
   ]
