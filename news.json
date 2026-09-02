@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-02T15:41:59.659358+09:00",
-  "generatedLabel": "2026/09/02 15:41",
+  "generatedAt": "2026-09-02T20:51:30.852678+09:00",
+  "generatedLabel": "2026/09/02 20:51",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 59,
+  "candidates": 50,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 9
+      "items": 2
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -85,17 +85,6 @@
       "score": 66
     },
     {
-      "title": "Anthropic「Fable 5.1」発表 コーディング性能でGPT-5.6 Sol超え キャッシュ料金は75％値下げ",
-      "link": "https://ascii.jp/elem/000/004/431/4431620/?rss",
-      "date": "2026-09-02T13:40:00+09:00",
-      "dateLabel": "09/02 13:40",
-      "desc": "Anthropicが9月1日、新たなAIモデル「Claude Fable 5.1」「Claude Mythos 5.1」を発表した。",
-      "img": "https://ascii.jp/img/2026/09/02/4520537/s/a47c90f1fcc26fbe.png",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 58
-    },
-    {
       "title": "「Claude」利用制限を“一括リセット” 「Fable 5.1」のリリースに伴い",
       "link": "https://www.itmedia.co.jp/aiplus/article/2609/02/2000001056/",
       "date": "2026-09-02T11:04:40+09:00",
@@ -129,15 +118,37 @@
       "score": 50
     },
     {
-      "title": "“軍事向けChatGPT”導入、米国防総省 「Gemini」「Grok」の計3モデルが利用可能に",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/01/2000001033/",
-      "date": "2026-09-01T16:31:21+09:00",
-      "dateLabel": "09/01 16:31",
-      "desc": "米国防総省は、米OpenAIの「ChatGPT」のカスタマイズ版「ChatGPT Mil」を導入したと発表した。",
+      "title": "OrcaRouter、AIエージェントの実行を記録・再生・分岐できるOSSツール「OrcaReplay」を公開サブタイトル",
+      "link": "https://ascii.jp/elem/000/004/431/4431808/?rss",
+      "date": "2026-09-02T18:30:00+09:00",
+      "dateLabel": "09/02 18:30",
+      "desc": "OrcaRouter、AIエージェントの実行を記録・再生・分岐できるOSSツール「OrcaReplay」を公開サブタイトル",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "NEC、AIモデル「ミュトス」をサイバーセキュリティに活用 「Project Glasswing」に参画",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/02/2000001075/",
+      "date": "2026-09-02T16:48:34+09:00",
+      "dateLabel": "09/02 16:48",
+      "desc": "NECは、米AnthropicのAIモデル「Claude Mythos Preview」をサイバーセキュリティ業務に活用すると発表した。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 50
+      "score": 42
+    },
+    {
+      "title": "NEC、先進AI「Claude Mythos」ついに導入 Anthropic主導“セキュリティ防衛連合”で、何ができる？",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/02/news095.html",
+      "date": "2026-09-02T16:30:00+09:00",
+      "dateLabel": "09/02 16:30",
+      "desc": "NECが、Anthropicの先進AI「Claude Mythos Preview」を導入すると発表した。Anthropicが主導し、200社以上が参画する“セキュリティ防衛連合”「Project Glasswing」に参画した同社。何ができるようになったのか。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "アクションカメラのGoProが約460億円で非公開企業のStarman Opticalに買収される、カメラ事業を継続しながらAIインフラ分野へ進出",
@@ -173,13 +184,13 @@
       "score": 42
     },
     {
-      "title": "Anthropicが「開発中のAIで外部を攻撃しないための対策」を発表",
-      "link": "https://gigazine.net/news/20260901-anthropic-alignment-security/",
-      "date": "2026-09-01T18:56:00+09:00",
-      "dateLabel": "09/01 18:56",
-      "desc": "「OpenAIのテスト中モデルがHugging Faceを攻撃してしまった」という問題が話題になる中、Anthropicも「AIモデルのテスト中に外部への攻撃が発生していた」と報告しています。新たに、Anthropicがテスト中のモデルによる誤った攻撃を防ぐための対応内容を発表しました。 続きを読む...",
+      "title": "“軍事向けChatGPT”導入、米国防総省 「Gemini」「Grok」の計3モデルが利用可能に",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/01/2000001033/",
+      "date": "2026-09-01T16:31:21+09:00",
+      "dateLabel": "09/01 16:31",
+      "desc": "米国防総省は、米OpenAIの「ChatGPT」のカスタマイズ版「ChatGPT Mil」を導入したと発表した。",
       "img": "",
-      "src": "GIGAZINE",
+      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 42
     },
@@ -195,25 +206,47 @@
       "score": 42
     },
     {
-      "title": "「取引先への謝罪文をAIに作らせたことがある」46.8%",
-      "link": "https://ascii.jp/elem/000/004/431/4431717/?rss",
-      "date": "2026-09-02T15:35:00+09:00",
-      "dateLabel": "09/02 15:35",
-      "desc": "英語学習情報メディア「EnglishHub」は9月2日、会社員など340人を対象にした「仕事の文章作成とAI利用に関する実態調査」の結果を発表した。",
-      "img": "https://ascii.jp/img/2026/09/02/4520791/s/b8af51c37ec2fd9b.png",
+      "title": "Uravation、業務を実行するAIを構築して引き継ぐ「AI社員構築代行」サービスを提供開始",
+      "link": "https://ascii.jp/elem/000/004/431/4431818/?rss",
+      "date": "2026-09-02T18:03:35+09:00",
+      "dateLabel": "09/02 18:03",
+      "desc": "Uravation、業務を実行するAIを構築して引き継ぐ「AI社員構築代行」サービスを提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
     },
     {
-      "title": "AI時代、「アート思考」を曖昧なままにしない ―「判断前提生成」として定義した図解11ページを公開",
-      "link": "https://ascii.jp/elem/000/004/431/4431692/?rss",
-      "date": "2026-09-02T14:23:47+09:00",
-      "dateLabel": "09/02 14:23",
-      "desc": "AI時代、「アート思考」を曖昧なままにしない ―「判断前提生成」として定義した図解11ページを公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
+      "title": "Metaがリアルタイム文字起こしAI「Muse Voice Transcribe」をリリース",
+      "link": "https://gigazine.net/news/20260902-meta-muse-voice-transcribe/",
+      "date": "2026-09-02T17:30:00+09:00",
+      "dateLabel": "09/02 17:30",
+      "desc": "Meta Superintelligence Labs(Meta超知能ラボ)が、初のリアルタイム音声認識モデル「Muse Voice Transcribe」を発表しました。Metaのリアルタイム音声モデルにとって大きな節目となるモデルで、リアルタイムストリーミング音声認識や20人以上の話者に対応した対話識別、および発話終了検出を備え、AI評価プラットフォーム",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "画像も動画も3D空間も生成可能な世界モデル「Atlas」が登場、「1枚の画像から3D空間を生成」「指示に忠実なカメラワーク」「1440pの動画生成」など多機能なモデル",
+      "link": "https://gigazine.net/news/20260902-world-model-atlas/",
+      "date": "2026-09-02T16:34:00+09:00",
+      "dateLabel": "09/02 16:34",
+      "desc": "「世界モデル」とは、現実世界の物理特性や物体の構造などを学習して再現できるAIモデルを指します。新たに、AI企業のWorld Labsが世界モデル「Atlas」を発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "GoogleがCanva・Adobe Express対抗の画像生成・編集ツール「Google Pics」を提供開始、GoogleドキュメントやGoogleスライドとも連携可能",
+      "link": "https://gigazine.net/news/20260902-google-pics/",
+      "date": "2026-09-02T16:20:00+09:00",
+      "dateLabel": "09/02 16:20",
+      "desc": "Googleが2026年9月1日、Google Workspace向けの画像生成・編集ツール「Google Pics」を順次提供すると発表しました。Google PicsはAIを使って画像を生成したり、画像内の一部分だけを編集したりできるツールで、GoogleドキュメントやGoogleスライドとの連携にも対応します。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
@@ -225,39 +258,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Google、画像生成AIツール「Google Pics」発表 オブジェクト単位で編集可能、資料作りが激変",
-      "link": "https://ascii.jp/elem/000/004/431/4431618/?rss",
-      "date": "2026-09-02T13:15:00+09:00",
-      "dateLabel": "09/02 13:15",
-      "desc": "Googleは9月1日、新たな画像生成AIツール「Google Pics」を発表した。",
-      "img": "https://ascii.jp/img/2026/09/02/4520525/s/e73d464a038a3cbd.png",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "ANAとの共同開発から得た知見を応用。勤務計画の作成をAIで支援する「AISプラットフォーム」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/431/4431704/?rss",
-      "date": "2026-09-02T13:07:50+09:00",
-      "dateLabel": "09/02 13:07",
-      "desc": "ANAとの共同開発から得た知見を応用。勤務計画の作成をAIで支援する「AISプラットフォーム」を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "AI時代、発生型から潜在型・設定型へ ―「深い関心」と「未来像の解像度」を仕事の中で育てる12ページを公開",
-      "link": "https://ascii.jp/elem/000/004/431/4431703/?rss",
-      "date": "2026-09-02T13:03:18+09:00",
-      "dateLabel": "09/02 13:03",
-      "desc": "AI時代、発生型から潜在型・設定型へ ―「深い関心」と「未来像の解像度」を仕事の中で育てる12ページを公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
