@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-02T10:56:43.199139+09:00",
-  "generatedLabel": "2026/09/02 10:56",
+  "generatedAt": "2026-09-02T15:41:59.659358+09:00",
+  "generatedLabel": "2026/09/02 15:41",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 60,
+  "candidates": 59,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 19
+      "items": 18
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 11
+      "items": 9
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 7
+      "items": 8
     },
     {
       "source": "AINOW",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "DeepSeekが画像認識に対応した「DeepSeek-V4-Flash-Vision-Exp」をオープンモデルとして公開、画像認識を含むタスクでClaude Opus 4.8と同等の性能",
+      "link": "https://gigazine.net/news/20260902-deepseek-v4-flash-vision-exp/",
+      "date": "2026-09-02T12:03:00+09:00",
+      "dateLabel": "09/02 12:03",
+      "desc": "中国企業のDeepSeekが「DeepSeek-V4-Flash-Vision-Exp」をオープンモデルとして公開しました。DeepSeek-V4-Flash-Vision-ExphはDeepSeek-V4シリーズとして初めて画像の入力に対応したマルチモーダルモデルで、画像認識を含むタスクでClaude Opus 4.8と同等のベンチマークスコアを記録してい",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 66
+    },
+    {
       "title": "Anthropic、「Claude Fable 5.1」と「Claude Mythos 5.1」発表 「監視の難しさ」への懸念も開示",
       "link": "https://www.itmedia.co.jp/news/article/2609/02/2000001048/",
       "date": "2026-09-02T07:23:30+09:00",
@@ -72,6 +83,28 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 66
+    },
+    {
+      "title": "Anthropic「Fable 5.1」発表 コーディング性能でGPT-5.6 Sol超え キャッシュ料金は75％値下げ",
+      "link": "https://ascii.jp/elem/000/004/431/4431620/?rss",
+      "date": "2026-09-02T13:40:00+09:00",
+      "dateLabel": "09/02 13:40",
+      "desc": "Anthropicが9月1日、新たなAIモデル「Claude Fable 5.1」「Claude Mythos 5.1」を発表した。",
+      "img": "https://ascii.jp/img/2026/09/02/4520537/s/a47c90f1fcc26fbe.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 58
+    },
+    {
+      "title": "「Claude」利用制限を“一括リセット” 「Fable 5.1」のリリースに伴い",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/02/2000001056/",
+      "date": "2026-09-02T11:04:40+09:00",
+      "dateLabel": "09/02 11:04",
+      "desc": "米Anthropicは、AIサービス「Claude」の5時間および1週間の利用制限枠をリセットしたと発表した。AIモデル「Claude Fable 5.1」の提供開始に伴うもの。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 58
     },
     {
       "title": "「Claude Fable 5.1」と「Claude Mythos 5.1」が登場、Fable 5より最大45％安くて高性能",
@@ -107,13 +140,35 @@
       "score": 50
     },
     {
-      "title": "【AIに任せるデータ「本番に足る」のはわずか8.4%】エージェント時代の勝敗を分けるのは“メタデータ”だった。『AI × Data Weekly Insight』を無料公開",
-      "link": "https://ascii.jp/elem/000/004/431/4431476/?rss",
-      "date": "2026-09-02T08:10:00+09:00",
-      "dateLabel": "09/02 08:10",
-      "desc": "【AIに任せるデータ「本番に足る」のはわずか8.4%】エージェント時代の勝敗を分けるのは“メタデータ”だった。『AI × Data Weekly Insight』を無料公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
+      "title": "アクションカメラのGoProが約460億円で非公開企業のStarman Opticalに買収される、カメラ事業を継続しながらAIインフラ分野へ進出",
+      "link": "https://gigazine.net/news/20260902-gopro-merge-starman-optical-285-million/",
+      "date": "2026-09-02T13:46:00+09:00",
+      "dateLabel": "09/02 13:46",
+      "desc": "世界的なメモリ不足を起因とするコスト上昇と売上減少で事業継続が困難に陥り、身売りを検討してきたアクションカメラメーカーのGoProが、非公開会社の光学機器メーカーであるStarman Opticalに株式の90％を2億8500万ドル(約460億円)で売却する合併契約を締結したことを発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 42
+    },
+    {
+      "title": "Geminiが動画を自律的に分析する「Agentic Video Understanding」登場、文字起こしや再確認を繰り返して長時間動画を詳しく分析しつつ安価に回答を生成",
+      "link": "https://gigazine.net/news/20260902-gemini-agentic-video/",
+      "date": "2026-09-02T11:50:00+09:00",
+      "dateLabel": "09/02 11:50",
+      "desc": "Google DeepMindが2026年9月1日、Geminiの動画分析を自律的に進める新機能「Agentic Video Understanding」を発表しました。Geminiが質問内容に応じて動画内の必要な場面を探し、映像を見直したり音声の文字起こしを確認したりしながら回答を組み立てる仕組みで、Gemini 3.7 Flash、Gemini 3.6 ",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "ClaudeにSalesforceを統合した「Claudeforce」、AnthropicとSalesforceが発表。Claudeから営業データ分析や顧客対応を実現",
+      "link": "https://www.publickey1.jp/blog/26/claudesalesforceclaudeforceanthropicsalesforceclaude.html",
+      "date": "2026-09-02T11:43:59+09:00",
+      "dateLabel": "09/02 11:43",
+      "desc": "SalesforceとAnthropicが「Claudeforce」を発表しました。 第一弾となる「Salesforce in Claude」では、Claudeの画面からプロンプトを入力するだけで、Salesforceのデータやワークフロー...",
+      "img": "",
+      "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 42
     },
@@ -123,28 +178,6 @@
       "date": "2026-09-01T18:56:00+09:00",
       "dateLabel": "09/01 18:56",
       "desc": "「OpenAIのテスト中モデルがHugging Faceを攻撃してしまった」という問題が話題になる中、Anthropicも「AIモデルのテスト中に外部への攻撃が発生していた」と報告しています。新たに、Anthropicがテスト中のモデルによる誤った攻撃を防ぐための対応内容を発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "EUがChatGPTを「超大規模オンライン検索エンジン」に正式指定、OpenAIにリスク評価や独立監査など追加義務",
-      "link": "https://gigazine.net/news/20260901-eu-chatgpt-digital-services-act/",
-      "date": "2026-09-01T15:10:00+09:00",
-      "dateLabel": "09/01 15:10",
-      "desc": "欧州委員会が2026年8月31日、OpenAIのChatGPTをデジタルサービス法(DSA)に基づく「超大規模オンライン検索エンジン(VLOSE)」に正式指定しました。ChatGPTはEUで月間4500万人以上が利用するサービスに適用されるDSAの最も厳しい規制区分に入り、OpenAIにはサービスが社会に与えるリスクの評価や対策など追加の義務が課されることに",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 42
-    },
-    {
-      "title": "ChatGPTの広告事業が開始200日足らずで年換算約1600億円に",
-      "link": "https://gigazine.net/news/20260901-openai-chatgpt/",
-      "date": "2026-09-01T11:35:00+09:00",
-      "dateLabel": "09/01 11:35",
-      "desc": "OpenAIが2026年8月31日、ChatGPT上で展開する広告事業「ChatGPT Ads」の年間換算売上高が10億ドル(約1600億円)に達したと発表しました。広告主は数万社、展開地域は40カ国以上まで拡大しており、広告事業の立ち上げから200日未満での到達となっています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
@@ -162,6 +195,83 @@
       "score": 42
     },
     {
+      "title": "「取引先への謝罪文をAIに作らせたことがある」46.8%",
+      "link": "https://ascii.jp/elem/000/004/431/4431717/?rss",
+      "date": "2026-09-02T15:35:00+09:00",
+      "dateLabel": "09/02 15:35",
+      "desc": "英語学習情報メディア「EnglishHub」は9月2日、会社員など340人を対象にした「仕事の文章作成とAI利用に関する実態調査」の結果を発表した。",
+      "img": "https://ascii.jp/img/2026/09/02/4520791/s/b8af51c37ec2fd9b.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "AI時代、「アート思考」を曖昧なままにしない ―「判断前提生成」として定義した図解11ページを公開",
+      "link": "https://ascii.jp/elem/000/004/431/4431692/?rss",
+      "date": "2026-09-02T14:23:47+09:00",
+      "dateLabel": "09/02 14:23",
+      "desc": "AI時代、「アート思考」を曖昧なままにしない ―「判断前提生成」として定義した図解11ページを公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "OpenAIが次期主力AIモデル「Astra」の開発状況を報告",
+      "link": "https://gigazine.net/news/20260902-path-to-astra/",
+      "date": "2026-09-02T13:39:00+09:00",
+      "dateLabel": "09/02 13:39",
+      "desc": "OpenAIは次期主力AIモデルの「Astra」を開発中です。Astraは数学と理論計算機科学における10件の未解決課題について新たな成果を上げるなど、開発段階で既に優れたパフォーマンスを発揮していたのですが、OpenAIは「強力すぎる」としてAstraの開発が安全かつ確実に進むよう追加の管理措置を講じると発表しました。そんなAstraの最新の開発状況を、O",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "Google、画像生成AIツール「Google Pics」発表 オブジェクト単位で編集可能、資料作りが激変",
+      "link": "https://ascii.jp/elem/000/004/431/4431618/?rss",
+      "date": "2026-09-02T13:15:00+09:00",
+      "dateLabel": "09/02 13:15",
+      "desc": "Googleは9月1日、新たな画像生成AIツール「Google Pics」を発表した。",
+      "img": "https://ascii.jp/img/2026/09/02/4520525/s/e73d464a038a3cbd.png",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "ANAとの共同開発から得た知見を応用。勤務計画の作成をAIで支援する「AISプラットフォーム」を提供開始",
+      "link": "https://ascii.jp/elem/000/004/431/4431704/?rss",
+      "date": "2026-09-02T13:07:50+09:00",
+      "dateLabel": "09/02 13:07",
+      "desc": "ANAとの共同開発から得た知見を応用。勤務計画の作成をAIで支援する「AISプラットフォーム」を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "AI時代、発生型から潜在型・設定型へ ―「深い関心」と「未来像の解像度」を仕事の中で育てる12ページを公開",
+      "link": "https://ascii.jp/elem/000/004/431/4431703/?rss",
+      "date": "2026-09-02T13:03:18+09:00",
+      "dateLabel": "09/02 13:03",
+      "desc": "AI時代、発生型から潜在型・設定型へ ―「深い関心」と「未来像の解像度」を仕事の中で育てる12ページを公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "Google、AI画像生成・編集ツール「Google Pics」提供開始 特定オブジェクトの編集や文字翻訳も可能",
+      "link": "https://www.itmedia.co.jp/news/article/2609/02/2000001058/",
+      "date": "2026-09-02T11:10:34+09:00",
+      "dateLabel": "09/02 11:10",
+      "desc": "Googleは、画像生成・編集ツール「Google Pics」を発表した。画像モデル「Nano Banana」を基盤とし、ポスターやSNS画像の制作、特定領域の編集や文字の翻訳・修正が可能。Web版に加えGoogle Workspaceアプリにも統合され、対象の有料プラン向けに順次展開される。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
       "title": "「Firefox 155」正式版リリース、ブロックしたトラッカー数をアドレスバーに表示＆AI機能「Smart Window」の提供範囲を拡大",
       "link": "https://gigazine.net/news/20260902-firefox-155/",
       "date": "2026-09-02T10:41:00+09:00",
@@ -171,116 +281,6 @@
       "src": "GIGAZINE",
       "cat": "AI全般",
       "score": 34
-    },
-    {
-      "title": "AI時代の評価、「この点数を信じてください」から「物差しを変えても結論は変わらないか」へ--GD数理研、「評価OS」をGitHubで公開",
-      "link": "https://ascii.jp/elem/000/004/431/4431474/?rss",
-      "date": "2026-09-02T08:50:00+09:00",
-      "dateLabel": "09/02 08:50",
-      "desc": "AI時代の評価、「この点数を信じてください」から「物差しを変えても結論は変わらないか」へ--GD数理研、「評価OS」をGitHubで公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "エンジニアの「AI協働力」を測る評価基準を無償公開",
-      "link": "https://ascii.jp/elem/000/004/431/4431047/?rss",
-      "date": "2026-09-02T07:00:00+09:00",
-      "dateLabel": "09/02 07:00",
-      "desc": "株式会社ハイヤールーは8月25日、エンジニアがAIと協力して作業するプロセスの質を測る独自の指標「AI協働力」の評価設計と解説資料を無償公開した。",
-      "img": "https://ascii.jp/img/2026/09/01/4519987/s/05831960c889ef23.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 34
-    },
-    {
-      "title": "AIが設計した軌道で恒星間へ、到達まで最大8万年の探査計画",
-      "link": "https://ascii.jp/elem/000/004/431/4431466/?rss",
-      "date": "2026-09-02T06:54:13+09:00",
-      "dateLabel": "09/02 06:54",
-      "desc": "非営利団体フェルミ・エクスプローラー・ミッションが、2029年末までにアルファ・ケンタウリへ探査機を打ち上げると発表した。4.4光年先への到達には最大8万年かかる。チームが1年かけても見つけられなかった軌道を導いたのは、AIシステムだった。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 34
-    },
-    {
-      "title": "AIエージェントのハッキング、報告書が見落とした「組織の失敗」",
-      "link": "https://ascii.jp/elem/000/004/431/4431464/?rss",
-      "date": "2026-09-02T06:24:01+09:00",
-      "dateLabel": "09/02 06:24",
-      "desc": "画像クレジット:Stephanie Arnett/MIT Technology Review | Getty Images, Adobe Stock",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "「ChatGPT」一部プランに広告表示、売上高は年1600億円ペース 「Google」「Meta」の牙城を崩せるか",
-      "link": "https://www.itmedia.co.jp/business/articles/2609/01/news074.html",
-      "date": "2026-09-01T14:15:00+09:00",
-      "dateLabel": "09/01 14:15",
-      "desc": "「ChatGPT」に広告を表示できるようになった。OpenAIの広告事業は年換算の売上高10億ドルに達したという。“Web広告の巨人”であるGoogleに対抗できるのか。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "「OpenClaw 2.0」が登場、インストール簡略化や複数人共同作業などを含む大規模アップデート",
-      "link": "https://gigazine.net/news/20260901-openclaw-2/",
-      "date": "2026-09-01T11:28:00+09:00",
-      "dateLabel": "09/01 11:28",
-      "desc": "自分専用のAIエージェントを構築できる「OpenClaw」のバージョン2.0が2026年8月30日にリリースされました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "AppleがOpenAIとの企業秘密侵害訴訟で元従業員のMacBookから衝撃的な証拠を発見",
-      "link": "https://gigazine.net/news/20260901-apple-reveals-shocking-evidence-openai-suit/",
-      "date": "2026-09-01T11:19:00+09:00",
-      "dateLabel": "09/01 11:19",
-      "desc": "Appleは同社からOpenAIに引き抜かれた元従業員が企業秘密ファイルを盗み出したとして、OpenAIと元従業員を訴えています。この訴訟に関する新しい資料をAppleが裁判所に提出しました。この資料について、Apple関連メディアの9to5Macは「衝撃的な証拠」と報じています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "NVIDIA、MediaTekの転換社債に35億ドル投資 「NVLink Fusion」採用などでAI協業を強化",
-      "link": "https://www.itmedia.co.jp/news/article/2609/01/2000001005/",
-      "date": "2026-09-01T10:36:31+09:00",
-      "dateLabel": "09/01 10:36",
-      "desc": "NVIDIAとMediaTekは、AI基盤をめぐる協業拡大を発表した。NVIDIAはMediaTekの転換社債に35億ドルを投資する。独自AIチップのラック統合やPC・車載向けチップの共同開発などを推進し、NVIDIAは顧客の囲い込みを、MediaTekは受託設計事業の強化を図る構えだ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "「ChatGPT」広告、年換算の売上高10億ドルに 開始200日足らずで達成",
-      "link": "https://www.itmedia.co.jp/news/article/2609/01/2000000997/",
-      "date": "2026-09-01T08:27:31+09:00",
-      "dateLabel": "09/01 08:27",
-      "desc": "OpenAIは、「ChatGPT」上の広告事業「ChatGPT Ads」の年換算売上高が開始200日足らずで10億ドル（約1600億円）に達したと発表した。セルフサービス出稿の提供地域をインドや欧州などに拡大する。上場を控える中、広告を多角化の重要な柱と位置付け、収益源の多様化と急成長をアピールする狙いがある。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "深刻な「人手不足」を“退職”から解決する。COCOROコンサルティング、退職を起点とした新たな人材育成・組織改革事業を全国展開へ。サービス名「RE:TAIN」リテイン登場。",
-      "link": "https://ascii.jp/elem/000/004/431/4431473/?rss",
-      "date": "2026-09-02T09:00:00+09:00",
-      "dateLabel": "09/02 09:00",
-      "desc": "深刻な「人手不足」を“退職”から解決する。COCOROコンサルティング、退職を起点とした新たな人材育成・組織改革事業を全国展開へ。サービス名「RE:TAIN」リテイン登場。",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
     }
   ]
 }
