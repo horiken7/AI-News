@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-03T14:20:18.462268+09:00",
-  "generatedLabel": "2026/09/03 14:20",
+  "generatedAt": "2026-09-03T19:21:36.184580+09:00",
+  "generatedLabel": "2026/09/03 19:21",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 54,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 9
     },
     {
       "source": "CNET Japan",
@@ -85,6 +85,17 @@
       "score": 66
     },
     {
+      "title": "Microsoft Officeの責任者が「AIが生成した質の低い文書」に対して苦言",
+      "link": "https://gigazine.net/news/20260903-microsofts-office-ai/",
+      "date": "2026-09-03T18:55:00+09:00",
+      "dateLabel": "09/03 18:55",
+      "desc": "Microsoftは2026年6月にAIエージェントを中心に動作する新しいデバイス向けプラットフォーム「Project Solara」を発表していたり、画像生成AI「MAI-Image」シリーズをリリースしていたりするほか、AnthropicのAI・ClaudeをOffice製品で活用する「Claude for Word」などの拡張機能も展開されており、AI",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 58
+    },
+    {
       "title": "Meta、「Muse Spark 1.3」公開 コーディングとエージェント性能を強化 「最大の飛躍」とザッカーバーグCEO",
       "link": "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001101/",
       "date": "2026-09-03T10:25:09+09:00",
@@ -107,26 +118,15 @@
       "score": 58
     },
     {
-      "title": "DeepSeekが画像認識に対応した「DeepSeek-V4-Flash-Vision-Exp」をオープンモデルとして公開、画像認識を含むタスクでClaude Opus 4.8と同等の性能",
-      "link": "https://gigazine.net/news/20260902-deepseek-v4-flash-vision-exp/",
-      "date": "2026-09-02T12:03:00+09:00",
-      "dateLabel": "09/02 12:03",
-      "desc": "中国企業のDeepSeekが「DeepSeek-V4-Flash-Vision-Exp」をオープンモデルとして公開しました。DeepSeek-V4-Flash-Vision-ExphはDeepSeek-V4シリーズとして初めて画像の入力に対応したマルチモーダルモデルで、画像認識を含むタスクでClaude Opus 4.8と同等のベンチマークスコアを記録してい",
-      "img": "",
-      "src": "GIGAZINE",
+      "title": "OrcaRouter、セキュリティ研究向けモデル「DeepSeek-V4-Flash-Vision-Uncensored」のGGUF量子化版を公開",
+      "link": "https://ascii.jp/elem/000/004/432/4432190/?rss",
+      "date": "2026-09-03T18:40:00+09:00",
+      "dateLabel": "09/03 18:40",
+      "desc": "OrcaRouter、セキュリティ研究向けモデル「DeepSeek-V4-Flash-Vision-Uncensored」のGGUF量子化版を公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
       "cat": "LLM/モデル",
-      "score": 58
-    },
-    {
-      "title": "「Claude」利用制限を“一括リセット” 「Fable 5.1」のリリースに伴い",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/02/2000001056/",
-      "date": "2026-09-02T11:04:40+09:00",
-      "dateLabel": "09/02 11:04",
-      "desc": "米Anthropicは、AIサービス「Claude」の5時間および1週間の利用制限枠をリセットしたと発表した。AIモデル「Claude Fable 5.1」の提供開始に伴うもの。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 50
+      "score": 42
     },
     {
       "title": "著作権を巡るOpenAIとニューヨーク・タイムズの訴訟について司法省が「AIトレーニングはフェアユース」と主張する書面を提出",
@@ -151,28 +151,6 @@
       "score": 42
     },
     {
-      "title": "NEC、AIモデル「ミュトス」をサイバーセキュリティに活用 「Project Glasswing」に参画",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/02/2000001075/",
-      "date": "2026-09-02T16:48:34+09:00",
-      "dateLabel": "09/02 16:48",
-      "desc": "NECは、米AnthropicのAIモデル「Claude Mythos Preview」をサイバーセキュリティ業務に活用すると発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "NEC、先進AI「Claude Mythos」ついに導入 Anthropic主導“セキュリティ防衛連合”で、何ができる？",
-      "link": "https://www.itmedia.co.jp/business/articles/2609/02/news095.html",
-      "date": "2026-09-02T16:30:00+09:00",
-      "dateLabel": "09/02 16:30",
-      "desc": "NECが、Anthropicの先進AI「Claude Mythos Preview」を導入すると発表した。Anthropicが主導し、200社以上が参画する“セキュリティ防衛連合”「Project Glasswing」に参画した同社。何ができるようになったのか。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "JetBrains、Mac上で動作するコーディングエージェント「Junie Local」提供開始。Claude Sonnet 4.5と同等の能力、RTX5090対応も開発中",
       "link": "https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html",
       "date": "2026-08-31T00:07:47+09:00",
@@ -184,91 +162,36 @@
       "score": 36
     },
     {
-      "title": "ASUS新型X870Eマザーボード登場、AIO Q-Connectorで水冷PCの配線を簡単に",
-      "link": "https://ascii.jp/elem/000/004/431/4431976/?rss",
-      "date": "2026-09-03T13:30:00+09:00",
-      "dateLabel": "09/03 13:30",
-      "desc": "ASUSがAMD X870E搭載マザーボード2製品を発売。AIO Q-Connectorや64MB BIOS、Wi-Fi 7、5G LAN、USB4に対応し、配線のしやすさと高性能を両立します。",
-      "img": "https://ascii.jp/img/2026/09/03/4521223/s/8f7a8f595dabc1a5.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "2D図面から3D CAD、3Dアセンブリから部品図まで。CAD業務をAIで自動化するWebサービス「Zumen AI」の先行提供を開始",
-      "link": "https://ascii.jp/elem/000/004/432/4432012/?rss",
-      "date": "2026-09-03T12:31:29+09:00",
-      "dateLabel": "09/03 12:31",
-      "desc": "2D図面から3D CAD、3Dアセンブリから部品図まで。CAD業務をAIで自動化するWebサービス「Zumen AI」の先行提供を開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
+      "title": "Googleが脆弱性の発見・再現・修正を自動化するオープンソースフレームワーク「Mantis」の詳細を公開、巨大リポジトリでもトークンのオーバーヘッドを85％超削減",
+      "link": "https://gigazine.net/news/20260903-google-mantis-open-source/",
+      "date": "2026-09-03T14:30:00+09:00",
+      "dateLabel": "09/03 14:30",
+      "desc": "Googleは2026年9月2日、AIを使ってソフトウェアの脆弱(ぜいじゃく)性を発見し、候補の絞り込みから再現、修正まで進めるオープンソースフレームワーク「Mantis」の仕組みや利用方法を解説する記事を公開しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 34
     },
     {
-      "title": "MLism、独自AI-OCRを搭載した無料の文書解析Webアプリ「YomiToku Studio」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/432/4432013/?rss",
-      "date": "2026-09-03T12:22:46+09:00",
-      "dateLabel": "09/03 12:22",
-      "desc": "MLism、独自AI-OCRを搭載した無料の文書解析Webアプリ「YomiToku Studio」を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "【9/14無料ウェビナー開催】Claudeの答え、毎回違いませんか？～AIで実務文章を作らせる手順と指示文～",
-      "link": "https://ascii.jp/elem/000/004/432/4432051/?rss",
-      "date": "2026-09-03T12:00:01+09:00",
-      "dateLabel": "09/03 12:00",
-      "desc": "【9/14無料ウェビナー開催】Claudeの答え、毎回違いませんか？～AIで実務文章を作らせる手順と指示文～",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
+      "title": "NEC、AIモデル「ミュトス」をサイバーセキュリティに活用 「Project Glasswing」に参画",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/02/2000001075/",
+      "date": "2026-09-02T16:48:34+09:00",
+      "dateLabel": "09/02 16:48",
+      "desc": "NECは、米AnthropicのAIモデル「Claude Mythos Preview」をサイバーセキュリティ業務に活用すると発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
     },
     {
-      "title": "Metaがリアルタイム文字起こしAI「Muse Voice Transcribe」をリリース",
-      "link": "https://gigazine.net/news/20260902-meta-muse-voice-transcribe/",
-      "date": "2026-09-02T17:30:00+09:00",
-      "dateLabel": "09/02 17:30",
-      "desc": "Meta Superintelligence Labs(Meta超知能ラボ)が、初のリアルタイム音声認識モデル「Muse Voice Transcribe」を発表しました。Metaのリアルタイム音声モデルにとって大きな節目となるモデルで、リアルタイムストリーミング音声認識や20人以上の話者に対応した対話識別、および発話終了検出を備え、AI評価プラットフォーム",
+      "title": "NEC、先進AI「Claude Mythos」ついに導入 Anthropic主導“セキュリティ防衛連合”で、何ができる？",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/02/news095.html",
+      "date": "2026-09-02T16:30:00+09:00",
+      "dateLabel": "09/02 16:30",
+      "desc": "NECが、Anthropicの先進AI「Claude Mythos Preview」を導入すると発表した。Anthropicが主導し、200社以上が参画する“セキュリティ防衛連合”「Project Glasswing」に参画した同社。何ができるようになったのか。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "画像も動画も3D空間も生成可能な世界モデル「Atlas」が登場、「1枚の画像から3D空間を生成」「指示に忠実なカメラワーク」「1440pの動画生成」など多機能なモデル",
-      "link": "https://gigazine.net/news/20260902-world-model-atlas/",
-      "date": "2026-09-02T16:34:00+09:00",
-      "dateLabel": "09/02 16:34",
-      "desc": "「世界モデル」とは、現実世界の物理特性や物体の構造などを学習して再現できるAIモデルを指します。新たに、AI企業のWorld Labsが世界モデル「Atlas」を発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "GoogleがCanva・Adobe Express対抗の画像生成・編集ツール「Google Pics」を提供開始、GoogleドキュメントやGoogleスライドとも連携可能",
-      "link": "https://gigazine.net/news/20260902-google-pics/",
-      "date": "2026-09-02T16:20:00+09:00",
-      "dateLabel": "09/02 16:20",
-      "desc": "Googleが2026年9月1日、Google Workspace向けの画像生成・編集ツール「Google Pics」を順次提供すると発表しました。Google PicsはAIを使って画像を生成したり、画像内の一部分だけを編集したりできるツールで、GoogleドキュメントやGoogleスライドとの連携にも対応します。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "アクションカメラのGoProが約460億円で非公開企業のStarman Opticalに買収される、カメラ事業を継続しながらAIインフラ分野へ進出",
-      "link": "https://gigazine.net/news/20260902-gopro-merge-starman-optical-285-million/",
-      "date": "2026-09-02T13:46:00+09:00",
-      "dateLabel": "09/02 13:46",
-      "desc": "世界的なメモリ不足を起因とするコスト上昇と売上減少で事業継続が困難に陥り、身売りを検討してきたアクションカメラメーカーのGoProが、非公開会社の光学機器メーカーであるStarman Opticalに株式の90％を2億8500万ドル(約460億円)で売却する合併契約を締結したことを発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -281,6 +204,83 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 34
+    },
+    {
+      "title": "【特許権利化】AIが買い物を代行する「エージェンティックコマース」元年。「誤発注」、「なりすまし」、「偽物購入」を確定前に止め、証跡を「BaaS」へ刻む日本初の特許（※1）",
+      "link": "https://ascii.jp/elem/000/004/432/4432191/?rss",
+      "date": "2026-09-03T18:11:08+09:00",
+      "dateLabel": "09/03 18:11",
+      "desc": "【特許権利化】AIが買い物を代行する「エージェンティックコマース」元年。「誤発注」、「なりすまし」、「偽物購入」を確定前に止め、証跡を「BaaS」へ刻む日本初の特許（※1）",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "AIで経営管理はどう変わる？ ログラスとRX Japan、「AI×経営管理 Day」を2026年10月22日（木）に開催",
+      "link": "https://ascii.jp/elem/000/004/432/4432181/?rss",
+      "date": "2026-09-03T17:30:00+09:00",
+      "dateLabel": "09/03 17:30",
+      "desc": "AIで経営管理はどう変わる？ ログラスとRX Japan、「AI×経営管理 Day」を2026年10月22日（木）に開催",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "【本日セール最終日】iPhone Airもまだ安い！ Amazonで今のうちに買っておきたいもの5選",
+      "link": "https://ascii.jp/elem/000/004/432/4432157/?rss",
+      "date": "2026-09-03T17:30:00+09:00",
+      "dateLabel": "09/03 17:30",
+      "desc": "スマイルSaleの最後にもう一度チェックしておきたい商品を5つピックアップしました。「これなら今買っておきたい」と思える値引きと、セール終了後もちゃんと使える実用性の両方を重視して選んでいます。",
+      "img": "https://ascii.jp/img/2026/09/03/4521408/s/eacd3c5b55e9a248.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "AI×データベースによる教育データプラットフォームの構築へ",
+      "link": "https://ascii.jp/elem/000/004/432/4432180/?rss",
+      "date": "2026-09-03T17:00:00+09:00",
+      "dateLabel": "09/03 17:00",
+      "desc": "AI×データベースによる教育データプラットフォームの構築へ",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "Ryzen AI 5 340搭載で22万円台！ 23.8型ディスプレーの一体型デスクトップPCがFMV直販で安い！",
+      "link": "https://ascii.jp/elem/000/004/431/4431614/?rss",
+      "date": "2026-09-03T17:00:00+09:00",
+      "dateLabel": "09/03 17:00",
+      "desc": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
+      "img": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "公立学校の生徒が高校生になるまでAIの使用を禁止するとニューヨーク市教育局が発表、すべての学年でチャットボットを禁止するなど新たな方針も採用",
+      "link": "https://gigazine.net/news/20260903-nyc-school-system-ban-ai-middle-school/",
+      "date": "2026-09-03T15:00:00+09:00",
+      "dateLabel": "09/03 15:00",
+      "desc": "現地時間の2026年9月2日、ニューヨーク市長のゾーラン・マムダニ氏と、ニューヨーク市教育局のカマル・サミュエルズ教育長が、アメリカにおいて最も広範な学校におけるAI禁止措置を発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "Adobe、Slackから「Photoshop」などのツールを使える「Adobe for Slack」提供開始 会話からPDFや動画を生成",
+      "link": "https://www.itmedia.co.jp/news/article/2609/03/2000001114/",
+      "date": "2026-09-03T13:51:58+09:00",
+      "dateLabel": "09/03 13:51",
+      "desc": "Adobeは、Slack上で「Photoshop」や「Firefly」など70種以上のツールを使える「Adobe for Slack」の提供を開始した。Slackbot経由で指示を出し、チャットやcanvasの内容を文脈として反映した画像や資料を制作できる。業務チャットをAIの実行基盤とする動きが加速している。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 26
     }
   ]
 }
