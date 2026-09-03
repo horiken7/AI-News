@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-03T09:51:09.559284+09:00",
-  "generatedLabel": "2026/09/03 09:51",
+  "generatedAt": "2026-09-03T14:20:18.462268+09:00",
+  "generatedLabel": "2026/09/03 14:20",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 54,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 11
+      "items": 10
     },
     {
       "source": "CNET Japan",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 9
+      "items": 8
     },
     {
       "source": "AINOW",
@@ -63,15 +63,37 @@
   ],
   "articles": [
     {
-      "title": "DeepSeekが画像認識に対応した「DeepSeek-V4-Flash-Vision-Exp」をオープンモデルとして公開、画像認識を含むタスクでClaude Opus 4.8と同等の性能",
-      "link": "https://gigazine.net/news/20260902-deepseek-v4-flash-vision-exp/",
-      "date": "2026-09-02T12:03:00+09:00",
-      "dateLabel": "09/02 12:03",
-      "desc": "中国企業のDeepSeekが「DeepSeek-V4-Flash-Vision-Exp」をオープンモデルとして公開しました。DeepSeek-V4-Flash-Vision-ExphはDeepSeek-V4シリーズとして初めて画像の入力に対応したマルチモーダルモデルで、画像認識を含むタスクでClaude Opus 4.8と同等のベンチマークスコアを記録してい",
+      "title": "Metaが「Muse Spark 1.3」を発表、ついにAnthropicやOpenAIの最先端モデルに追いつく性能を達成",
+      "link": "https://gigazine.net/news/20260903-meta-muse-spark-1-3/",
+      "date": "2026-09-03T11:14:00+09:00",
+      "dateLabel": "09/03 11:14",
+      "desc": "MetaがAIモデル「Muse Spark 1.3」を現地時間の2026年9月2日にリリースしました。Muse Spark 1.3は長期的なコーディングタスクに対応できるようにトレーニングされており、コーディング性能を測定するベンチマークテストでGPT-5.6 SolやClaude Opus 5を超えるスコアを記録しています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
+      "score": 74
+    },
+    {
+      "title": "Googleが「Gemini 3.8 Flash」をリリース、2027年から価格2倍に",
+      "link": "https://gigazine.net/news/20260903-gemini-3-8-flash-cyber/",
+      "date": "2026-09-03T12:52:00+09:00",
+      "dateLabel": "09/03 12:52",
+      "desc": "Googleは2026年9月2日、AIモデル「Gemini 3.8 Flash」とサイバーセキュリティ向けの「Gemini 3.8 Flash Cyber」を発表しました。Gemini 3.8 Flashはソフトウェア開発やAIエージェントとしての性能、複数段階の推論能力を強化したモデルで、Gemini 3.8 Flash Cyberは脆弱(ぜいじゃく)性の",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
       "score": 66
+    },
+    {
+      "title": "Meta、「Muse Spark 1.3」公開 コーディングとエージェント性能を強化 「最大の飛躍」とザッカーバーグCEO",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001101/",
+      "date": "2026-09-03T10:25:09+09:00",
+      "dateLabel": "09/03 10:25",
+      "desc": "MetaはAIモデル「Muse Spark 1.3」を発表した。エージェント機能とコーディング性能を強化し、曖昧な指示への対応や長時間作業の継続性を改善した。ベンチマーク「DeepSWE」などで他社フロンティアモデルを上回るスコアを記録。API等で提供し、前モデルのオープンウェイト公開も予定する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 58
     },
     {
       "title": "Google、「Gemini 3.8 Flash」公開 3.7から3週間、価格据え置きで防御特化の「Cyber」も",
@@ -85,6 +107,17 @@
       "score": 58
     },
     {
+      "title": "DeepSeekが画像認識に対応した「DeepSeek-V4-Flash-Vision-Exp」をオープンモデルとして公開、画像認識を含むタスクでClaude Opus 4.8と同等の性能",
+      "link": "https://gigazine.net/news/20260902-deepseek-v4-flash-vision-exp/",
+      "date": "2026-09-02T12:03:00+09:00",
+      "dateLabel": "09/02 12:03",
+      "desc": "中国企業のDeepSeekが「DeepSeek-V4-Flash-Vision-Exp」をオープンモデルとして公開しました。DeepSeek-V4-Flash-Vision-ExphはDeepSeek-V4シリーズとして初めて画像の入力に対応したマルチモーダルモデルで、画像認識を含むタスクでClaude Opus 4.8と同等のベンチマークスコアを記録してい",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 58
+    },
+    {
       "title": "「Claude」利用制限を“一括リセット” 「Fable 5.1」のリリースに伴い",
       "link": "https://www.itmedia.co.jp/aiplus/article/2609/02/2000001056/",
       "date": "2026-09-02T11:04:40+09:00",
@@ -93,50 +126,28 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 58
-    },
-    {
-      "title": "Anthropic、「Claude Fable 5.1」と「Claude Mythos 5.1」発表 「監視の難しさ」への懸念も開示",
-      "link": "https://www.itmedia.co.jp/news/article/2609/02/2000001048/",
-      "date": "2026-09-02T07:23:30+09:00",
-      "dateLabel": "09/02 07:23",
-      "desc": "Anthropicは新LLM「Claude Fable 5.1」と「Claude Mythos 5.1」を発表した。科学研究やコーディング性能が大幅に向上し、一般提供のFableに対し、Mythosは厳格な審査制を採用。System Cardでは高度な推論力に伴うエクスプロイト成功率や監視困難性などのリスクも報告されている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 58
-    },
-    {
-      "title": "「Claude Fable 5.1」と「Claude Mythos 5.1」が登場、Fable 5より最大45％安くて高性能",
-      "link": "https://gigazine.net/news/20260902-claude-fable-mythos-5-1/",
-      "date": "2026-09-02T10:49:00+09:00",
-      "dateLabel": "09/02 10:49",
-      "desc": "Anthropicが「Claude Fable 5.1」と「Claude Mythos 5.1」を現地時間の2026年9月1日にリリースしました。Claude Fable 5.1は前世代モデルのClaude Fable 5より高い性能を備えつつ、コストを最大45％削減することが可能。さらに、安全対策システムのアップデートによって誤検出が60％減少しています。",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 50
     },
     {
-      "title": "AcerがIFA2026で超変形ゲーミングPCや800g切りのモバイルノート、RTX Sparkを発表",
-      "link": "https://ascii.jp/elem/000/004/431/4431833/?rss",
-      "date": "2026-09-03T03:00:00+09:00",
-      "dateLabel": "09/03 03:00",
-      "desc": "AcerはIFA2026に向けて開催したnext@acerグローバル記者会見で、モバイル性能を極限まで追求した超軽量ノートPCや、次世代AI、環境配慮、そしてポータブルゲームに焦点を当てた新製品群を発表しまし",
-      "img": "https://ascii.jp/img/2026/09/03/4521063/s/4e479dcdf7be080f.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "著作権を巡るOpenAIとニューヨーク・タイムズの訴訟について司法省が「AIトレーニングはフェアユース」と主張する書面を提出",
+      "link": "https://gigazine.net/news/20260903-trump-administration-sides-with-openai-in-lawsuit-against-nyt/",
+      "date": "2026-09-03T13:55:00+09:00",
+      "dateLabel": "09/03 13:55",
+      "desc": "アメリカの大手日刊紙であるニューヨーク・タイムズがOpenAIとMicrosoftを著作権侵害で訴えた訴訟で、アメリカの司法省が「AIのトレーニングで著作権保護対象の資料を使うのは著作権法違反ではない」と主張し、OpenAIを支持する意見書を提出しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
       "score": 42
     },
     {
-      "title": "ASUSが世界に向けて初の「RTX Spark」搭載ノートPCを正式発表＝16型は100Whバッテリーで1.7kgを実現!!",
-      "link": "https://ascii.jp/elem/000/004/431/4431831/?rss",
-      "date": "2026-09-03T00:01:00+09:00",
-      "dateLabel": "09/03 00:01",
-      "desc": "ASUSはIFA2026でNVIDIAの次世代チップ「RTX Spark」を搭載したクリエイター向けPC「ProArtシリーズ」を3モデルを発表しました",
-      "img": "https://ascii.jp/img/2026/09/02/4521045/s/c46635d39dc714d8.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
+      "title": "Anthropicが「オンラインストアに商品提案AIを組み込んで売上アップ」を実現するためのエージェントをオープンソースで公開",
+      "link": "https://gigazine.net/news/20260903-claude-commerce-agents/",
+      "date": "2026-09-03T13:05:00+09:00",
+      "dateLabel": "09/03 13:05",
+      "desc": "AnthropicがオンラインストアにAIを組み込むための開発者向けエージェント「commerce agents」を公開しました。commerce agentsを使うことで「ユーザーの質問に応じて商品を提案するAI」や「販売実績を分析して価格設定や値引きキャンペーンを提案するAI」を開発することができます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -162,50 +173,6 @@
       "score": 42
     },
     {
-      "title": "アクションカメラのGoProが約460億円で非公開企業のStarman Opticalに買収される、カメラ事業を継続しながらAIインフラ分野へ進出",
-      "link": "https://gigazine.net/news/20260902-gopro-merge-starman-optical-285-million/",
-      "date": "2026-09-02T13:46:00+09:00",
-      "dateLabel": "09/02 13:46",
-      "desc": "世界的なメモリ不足を起因とするコスト上昇と売上減少で事業継続が困難に陥り、身売りを検討してきたアクションカメラメーカーのGoProが、非公開会社の光学機器メーカーであるStarman Opticalに株式の90％を2億8500万ドル(約460億円)で売却する合併契約を締結したことを発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 42
-    },
-    {
-      "title": "Geminiが動画を自律的に分析する「Agentic Video Understanding」登場、文字起こしや再確認を繰り返して長時間動画を詳しく分析しつつ安価に回答を生成",
-      "link": "https://gigazine.net/news/20260902-gemini-agentic-video/",
-      "date": "2026-09-02T11:50:00+09:00",
-      "dateLabel": "09/02 11:50",
-      "desc": "Google DeepMindが2026年9月1日、Geminiの動画分析を自律的に進める新機能「Agentic Video Understanding」を発表しました。Geminiが質問内容に応じて動画内の必要な場面を探し、映像を見直したり音声の文字起こしを確認したりしながら回答を組み立てる仕組みで、Gemini 3.7 Flash、Gemini 3.6 ",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "ClaudeにSalesforceを統合した「Claudeforce」、AnthropicとSalesforceが発表。Claudeから営業データ分析や顧客対応を実現",
-      "link": "https://www.publickey1.jp/blog/26/claudesalesforceclaudeforceanthropicsalesforceclaude.html",
-      "date": "2026-09-02T11:43:59+09:00",
-      "dateLabel": "09/02 11:43",
-      "desc": "SalesforceとAnthropicが「Claudeforce」を発表しました。 第一弾となる「Salesforce in Claude」では、Claudeの画面からプロンプトを入力するだけで、Salesforceのデータやワークフロー...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "Anthropic、企業向け「Enterprise Frontier Safeguards」発表 ログは顧客のクラウドに保存し、人手による確認も顧客側で",
-      "link": "https://www.itmedia.co.jp/news/article/2609/02/2000001049/",
-      "date": "2026-09-02T08:06:30+09:00",
-      "dateLabel": "09/02 08:06",
-      "desc": "Anthropicは、ゼロデータ保持（ZDR）と同等のプライバシーを確保しつつ不正利用を検知する企業向け新機能「Enterprise Frontier Safeguards」（EFS）を発表した。活動データを顧客自身のクラウドに保存し、フラグも顧客へ直接送信することで社外の人的レビューを排除する。今秋提供開始予定。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
-      "score": 42
-    },
-    {
       "title": "JetBrains、Mac上で動作するコーディングエージェント「Junie Local」提供開始。Claude Sonnet 4.5と同等の能力、RTX5090対応も開発中",
       "link": "https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html",
       "date": "2026-08-31T00:07:47+09:00",
@@ -217,36 +184,47 @@
       "score": 36
     },
     {
-      "title": "ボタンひとつで録音、ローカルAIで文字起こしできる超小型SSD「NANO PRO」",
-      "link": "https://ascii.jp/elem/000/004/431/4431841/?rss",
-      "date": "2026-09-03T09:30:00+09:00",
-      "dateLabel": "09/03 09:30",
-      "desc": "旭東トレーディングが、ローカルAI搭載の超小型ポータブルSSD「NANO PRO」を発表。ワンタッチ録音から文字起こし、要約、情報整理まで端末内で完結する注目製品の特徴を紹介します。",
-      "img": "https://ascii.jp/img/2026/09/03/4521133/s/2fdc643c8061c38e.jpg",
+      "title": "ASUS新型X870Eマザーボード登場、AIO Q-Connectorで水冷PCの配線を簡単に",
+      "link": "https://ascii.jp/elem/000/004/431/4431976/?rss",
+      "date": "2026-09-03T13:30:00+09:00",
+      "dateLabel": "09/03 13:30",
+      "desc": "ASUSがAMD X870E搭載マザーボード2製品を発売。AIO Q-Connectorや64MB BIOS、Wi-Fi 7、5G LAN、USB4に対応し、配線のしやすさと高性能を両立します。",
+      "img": "https://ascii.jp/img/2026/09/03/4521223/s/8f7a8f595dabc1a5.png",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
     },
     {
-      "title": "Claudeでkintoneを操作する Webやスマホ、デスクトップの設定を全網羅",
-      "link": "https://ascii.jp/elem/000/004/428/4428594/?rss",
-      "date": "2026-09-03T09:00:00+09:00",
-      "dateLabel": "09/03 09:00",
-      "desc": "今回紹介する CData Connect AI を使った連携は リモート MCP 方式です。クラウド上にエンドポイントが存在するため、Claude.ai（ブラウザ）・Claude スマホアプリ・Claude Desktop のすべてから、追加インストールなしで kintone のデータにアクセスできます。",
-      "img": "https://ascii.jp/img/2026/08/21/4515695/s/89954e278440e20a.png",
+      "title": "2D図面から3D CAD、3Dアセンブリから部品図まで。CAD業務をAIで自動化するWebサービス「Zumen AI」の先行提供を開始",
+      "link": "https://ascii.jp/elem/000/004/432/4432012/?rss",
+      "date": "2026-09-03T12:31:29+09:00",
+      "dateLabel": "09/03 12:31",
+      "desc": "2D図面から3D CAD、3Dアセンブリから部品図まで。CAD業務をAIで自動化するWebサービス「Zumen AI」の先行提供を開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "MLism、独自AI-OCRを搭載した無料の文書解析Webアプリ「YomiToku Studio」を提供開始",
+      "link": "https://ascii.jp/elem/000/004/432/4432013/?rss",
+      "date": "2026-09-03T12:22:46+09:00",
+      "dateLabel": "09/03 12:22",
+      "desc": "MLism、独自AI-OCRを搭載した無料の文書解析Webアプリ「YomiToku Studio」を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "【9/14無料ウェビナー開催】Claudeの答え、毎回違いませんか？～AIで実務文章を作らせる手順と指示文～",
+      "link": "https://ascii.jp/elem/000/004/432/4432051/?rss",
+      "date": "2026-09-03T12:00:01+09:00",
+      "dateLabel": "09/03 12:00",
+      "desc": "【9/14無料ウェビナー開催】Claudeの答え、毎回違いませんか？～AIで実務文章を作らせる手順と指示文～",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "米国・NATO標準規格に準拠した国産AI防衛システム",
-      "link": "https://ascii.jp/elem/000/004/431/4431081/?rss",
-      "date": "2026-09-03T07:00:00+09:00",
-      "dateLabel": "09/03 07:00",
-      "desc": "スカイゲートテクノロジズ株式会社は8月27日、米国やNATOの軍事規格に準拠した国産AI防衛システム「Alayasiki（アラヤシキ）」を発表した。ドローンやAIを活用した現代戦の高速化に加え、安全保障上の自立と同盟国との連携を両立させるシステムとして展開される。",
-      "img": "https://ascii.jp/img/2026/09/01/4520000/s/d9d16fe7f7969de9.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -280,6 +258,28 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "アクションカメラのGoProが約460億円で非公開企業のStarman Opticalに買収される、カメラ事業を継続しながらAIインフラ分野へ進出",
+      "link": "https://gigazine.net/news/20260902-gopro-merge-starman-optical-285-million/",
+      "date": "2026-09-02T13:46:00+09:00",
+      "dateLabel": "09/02 13:46",
+      "desc": "世界的なメモリ不足を起因とするコスト上昇と売上減少で事業継続が困難に陥り、身売りを検討してきたアクションカメラメーカーのGoProが、非公開会社の光学機器メーカーであるStarman Opticalに株式の90％を2億8500万ドル(約460億円)で売却する合併契約を締結したことを発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "ClaudeにSalesforceを統合した「Claudeforce」、AnthropicとSalesforceが発表。Claudeから営業データ分析や顧客対応を実現",
+      "link": "https://www.publickey1.jp/blog/26/claudesalesforceclaudeforceanthropicsalesforceclaude.html",
+      "date": "2026-09-02T11:43:59+09:00",
+      "dateLabel": "09/02 11:43",
+      "desc": "SalesforceとAnthropicが「Claudeforce」を発表しました。 第一弾となる「Salesforce in Claude」では、Claudeの画面からプロンプトを入力するだけで、Salesforceのデータやワークフロー...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
       "score": 34
     }
   ]
