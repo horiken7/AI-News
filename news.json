@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-03T07:08:26.771342+09:00",
-  "generatedLabel": "2026/09/03 07:08",
+  "generatedAt": "2026-09-03T09:51:09.559284+09:00",
+  "generatedLabel": "2026/09/03 09:51",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 52,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 18
+      "items": 19
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -74,15 +74,15 @@
       "score": 66
     },
     {
-      "title": "Anthropic、「Claude Fable 5.1」と「Claude Mythos 5.1」発表 「監視の難しさ」への懸念も開示",
-      "link": "https://www.itmedia.co.jp/news/article/2609/02/2000001048/",
-      "date": "2026-09-02T07:23:30+09:00",
-      "dateLabel": "09/02 07:23",
-      "desc": "Anthropicは新LLM「Claude Fable 5.1」と「Claude Mythos 5.1」を発表した。科学研究やコーディング性能が大幅に向上し、一般提供のFableに対し、Mythosは厳格な審査制を採用。System Cardでは高度な推論力に伴うエクスプロイト成功率や監視困難性などのリスクも報告されている。",
+      "title": "Google、「Gemini 3.8 Flash」公開 3.7から3週間、価格据え置きで防御特化の「Cyber」も",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001096/",
+      "date": "2026-09-03T07:42:19+09:00",
+      "dateLabel": "09/03 07:42",
+      "desc": "GoogleはAIモデル「Gemini 3.8 Flash」と、サイバー防御に特化した「Gemini 3.8 Flash Cyber」を発表した。推論とコーディング性能を大幅に向上させつつ価格は据え置いた。サイバー版は政府やインフラ企業など信頼できる防御側に限定提供され、脆弱性発見やパッチ自動生成を支援する。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 66
+      "score": 58
     },
     {
       "title": "「Claude」利用制限を“一括リセット” 「Fable 5.1」のリリースに伴い",
@@ -90,6 +90,17 @@
       "date": "2026-09-02T11:04:40+09:00",
       "dateLabel": "09/02 11:04",
       "desc": "米Anthropicは、AIサービス「Claude」の5時間および1週間の利用制限枠をリセットしたと発表した。AIモデル「Claude Fable 5.1」の提供開始に伴うもの。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 58
+    },
+    {
+      "title": "Anthropic、「Claude Fable 5.1」と「Claude Mythos 5.1」発表 「監視の難しさ」への懸念も開示",
+      "link": "https://www.itmedia.co.jp/news/article/2609/02/2000001048/",
+      "date": "2026-09-02T07:23:30+09:00",
+      "dateLabel": "09/02 07:23",
+      "desc": "Anthropicは新LLM「Claude Fable 5.1」と「Claude Mythos 5.1」を発表した。科学研究やコーディング性能が大幅に向上し、一般提供のFableに対し、Mythosは厳格な審査制を採用。System Cardでは高度な推論力に伴うエクスプロイト成功率や監視困難性などのリスクも報告されている。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
@@ -104,17 +115,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
-      "title": "Anthropic、企業向け「Enterprise Frontier Safeguards」発表 ログは顧客のクラウドに保存し、人手による確認も顧客側で",
-      "link": "https://www.itmedia.co.jp/news/article/2609/02/2000001049/",
-      "date": "2026-09-02T08:06:30+09:00",
-      "dateLabel": "09/02 08:06",
-      "desc": "Anthropicは、ゼロデータ保持（ZDR）と同等のプライバシーを確保しつつ不正利用を検知する企業向け新機能「Enterprise Frontier Safeguards」（EFS）を発表した。活動データを顧客自身のクラウドに保存し、フラグも顧客へ直接送信することで社外の人的レビューを排除する。今秋提供開始予定。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
       "score": 50
     },
     {
@@ -137,17 +137,6 @@
       "img": "https://ascii.jp/img/2026/09/02/4521045/s/c46635d39dc714d8.png",
       "src": "ASCII.jp",
       "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "OrcaRouter、AIエージェントの実行を記録・再生・分岐できるOSSツール「OrcaReplay」を公開サブタイトル",
-      "link": "https://ascii.jp/elem/000/004/431/4431808/?rss",
-      "date": "2026-09-02T18:30:00+09:00",
-      "dateLabel": "09/02 18:30",
-      "desc": "OrcaRouter、AIエージェントの実行を記録・再生・分岐できるOSSツール「OrcaReplay」を公開サブタイトル",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -206,14 +195,14 @@
       "score": 42
     },
     {
-      "title": "“軍事向けChatGPT”導入、米国防総省 「Gemini」「Grok」の計3モデルが利用可能に",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/01/2000001033/",
-      "date": "2026-09-01T16:31:21+09:00",
-      "dateLabel": "09/01 16:31",
-      "desc": "米国防総省は、米OpenAIの「ChatGPT」のカスタマイズ版「ChatGPT Mil」を導入したと発表した。",
+      "title": "Anthropic、企業向け「Enterprise Frontier Safeguards」発表 ログは顧客のクラウドに保存し、人手による確認も顧客側で",
+      "link": "https://www.itmedia.co.jp/news/article/2609/02/2000001049/",
+      "date": "2026-09-02T08:06:30+09:00",
+      "dateLabel": "09/02 08:06",
+      "desc": "Anthropicは、ゼロデータ保持（ZDR）と同等のプライバシーを確保しつつ不正利用を検知する企業向け新機能「Enterprise Frontier Safeguards」（EFS）を発表した。活動データを顧客自身のクラウドに保存し、フラグも顧客へ直接送信することで社外の人的レビューを排除する。今秋提供開始予定。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
+      "cat": "規制/安全",
       "score": 42
     },
     {
@@ -226,6 +215,28 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 36
+    },
+    {
+      "title": "ボタンひとつで録音、ローカルAIで文字起こしできる超小型SSD「NANO PRO」",
+      "link": "https://ascii.jp/elem/000/004/431/4431841/?rss",
+      "date": "2026-09-03T09:30:00+09:00",
+      "dateLabel": "09/03 09:30",
+      "desc": "旭東トレーディングが、ローカルAI搭載の超小型ポータブルSSD「NANO PRO」を発表。ワンタッチ録音から文字起こし、要約、情報整理まで端末内で完結する注目製品の特徴を紹介します。",
+      "img": "https://ascii.jp/img/2026/09/03/4521133/s/2fdc643c8061c38e.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "Claudeでkintoneを操作する Webやスマホ、デスクトップの設定を全網羅",
+      "link": "https://ascii.jp/elem/000/004/428/4428594/?rss",
+      "date": "2026-09-03T09:00:00+09:00",
+      "dateLabel": "09/03 09:00",
+      "desc": "今回紹介する CData Connect AI を使った連携は リモート MCP 方式です。クラウド上にエンドポイントが存在するため、Claude.ai（ブラウザ）・Claude スマホアプリ・Claude Desktop のすべてから、追加インストールなしで kintone のデータにアクセスできます。",
+      "img": "https://ascii.jp/img/2026/08/21/4515695/s/89954e278440e20a.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "米国・NATO標準規格に準拠した国産AI防衛システム",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "OpenAIが次期主力AIモデル「Astra」の開発状況を報告",
-      "link": "https://gigazine.net/news/20260902-path-to-astra/",
-      "date": "2026-09-02T13:39:00+09:00",
-      "dateLabel": "09/02 13:39",
-      "desc": "OpenAIは次期主力AIモデルの「Astra」を開発中です。Astraは数学と理論計算機科学における10件の未解決課題について新たな成果を上げるなど、開発段階で既に優れたパフォーマンスを発揮していたのですが、OpenAIは「強力すぎる」としてAstraの開発が安全かつ確実に進むよう追加の管理措置を講じると発表しました。そんなAstraの最新の開発状況を、O",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 34
     }
   ]
