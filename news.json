@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-04T03:13:29.020530+09:00",
-  "generatedLabel": "2026/09/04 03:13",
+  "generatedAt": "2026-09-04T06:30:20.816192+09:00",
+  "generatedLabel": "2026/09/04 06:30",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 53,
@@ -118,10 +118,10 @@
       "score": 58
     },
     {
-      "title": "複数のAIサービスで障害発生 ChatGPT／Claude／Grok【一部復旧】",
+      "title": "複数のAIサービスで障害発生 ChatGPT／Claude／Grok【復旧済み】",
       "link": "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001152/",
-      "date": "2026-09-04T01:51:12+09:00",
-      "dateLabel": "09/04 01:51",
+      "date": "2026-09-04T03:10:08+09:00",
+      "dateLabel": "09/04 03:10",
       "desc": "日本時間の2026年9月4日午前0時30分現在、複数のAIサービスで障害が発生しており、接続しにくい、もしくは接続できない状態となっている。少なくとも、米OpenAIの「ChatGPT」、米Anthropicの「Claude」、米SpaceXAIの「Grok」で障害が報告されている。",
       "img": "",
       "src": "ITmedia AI+",
@@ -193,6 +193,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 36
+    },
+    {
+      "title": "なぜAI企業は社内で「ソフトウェアエンジニア」と呼ばなくなったのか 広がる「MTS」と職種の未来",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/04/news003.html",
+      "date": "2026-09-04T05:00:00+09:00",
+      "dateLabel": "09/04 05:00",
+      "desc": "AnthropicやOpenAIでは、研究者とエンジニアをまたぐ共通の社内肩書きとして「Member of Technical Staff（技術スタッフの一員）」が使われている。元CTOたちが次々とこの肩書きに転じている現象から、肩書きが専門性を証明しなくなった時代に何が価値を決めるのかを考える。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "【特許権利化】AIエージェントが買い物を代行する「エージェンティックコマース」元年。誤発注、なりすまし、偽物購入を「確定前」に止め、証跡は「BaaS」へ刻む日本初の特許を権利化（※1）",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "AI懐疑論者の予測はどれぐらい正確だったか？",
-      "link": "https://gigazine.net/news/20260903-ai-skeptic-predictions/",
-      "date": "2026-09-03T22:00:00+09:00",
-      "dateLabel": "09/03 22:00",
-      "desc": "2022年にChatGPTが登場して以来、生成AIの存在が広く認知され利便性が拡大していきました。ただ、当時からAIに懐疑的な見方をする人がいて、中には影響力のある人がAIの没落を予想するケースもありました。GoogleやMicrosoftに在職経験があり、エッセイストとしても人気があるソフトウェアエンジニアのダン・ルー氏が、有名なAI懐疑論者であるエドワー",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 26
     }
   ]
