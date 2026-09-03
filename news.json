@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-03T19:21:36.184580+09:00",
-  "generatedLabel": "2026/09/03 19:21",
+  "generatedAt": "2026-09-03T23:48:13.556665+09:00",
+  "generatedLabel": "2026/09/03 23:48",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 52,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 9
     },
     {
       "source": "PC Watch",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 8
+      "items": 7
     },
     {
       "source": "AINOW",
@@ -118,6 +118,28 @@
       "score": 58
     },
     {
+      "title": "NVIDIAがHugging Face買収で合意 約2兆円 ジェンスン・フアンCEOはオープンモデルの重要性に言及",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001150/",
+      "date": "2026-09-03T22:34:49+09:00",
+      "dateLabel": "09/03 22:34",
+      "desc": "米NVIDIAが、AI開発プラットフォームを運営する米Hugging Faceを129億3030万ドルで買収することに合意したと発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "RTX 5070搭載で25万円台！ WQHDで遊びたい人にちょうどいいゲーミングPC",
+      "link": "https://ascii.jp/elem/000/004/432/4432194/?rss",
+      "date": "2026-09-03T20:00:00+09:00",
+      "dateLabel": "09/03 20:00",
+      "desc": "RTX 5070を搭載しながら25万円台に抑えたSTORMの「K2-75F8B57」。WQHDで最新ゲームを楽しみたい人や、30万円以内でGPU性能を重視したゲーミングPCを探している人に注目の1台。",
+      "img": "https://ascii.jp/img/2026/08/24/4516292/s/43c948c1bbf4ded5.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
       "title": "OrcaRouter、セキュリティ研究向けモデル「DeepSeek-V4-Flash-Vision-Uncensored」のGGUF量子化版を公開",
       "link": "https://ascii.jp/elem/000/004/432/4432190/?rss",
       "date": "2026-09-03T18:40:00+09:00",
@@ -160,6 +182,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 36
+    },
+    {
+      "title": "【特許権利化】AIエージェントが買い物を代行する「エージェンティックコマース」元年。誤発注、なりすまし、偽物購入を「確定前」に止め、証跡は「BaaS」へ刻む日本初の特許を権利化（※1）",
+      "link": "https://ascii.jp/elem/000/004/432/4432191/?rss",
+      "date": "2026-09-03T18:11:08+09:00",
+      "dateLabel": "09/03 18:11",
+      "desc": "【特許権利化】AIエージェントが買い物を代行する「エージェンティックコマース」元年。誤発注、なりすまし、偽物購入を「確定前」に止め、証跡は「BaaS」へ刻む日本初の特許を権利化（※1）",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "Googleが脆弱性の発見・再現・修正を自動化するオープンソースフレームワーク「Mantis」の詳細を公開、巨大リポジトリでもトークンのオーバーヘッドを85％超削減",
@@ -206,79 +239,46 @@
       "score": 34
     },
     {
-      "title": "【特許権利化】AIが買い物を代行する「エージェンティックコマース」元年。「誤発注」、「なりすまし」、「偽物購入」を確定前に止め、証跡を「BaaS」へ刻む日本初の特許（※1）",
-      "link": "https://ascii.jp/elem/000/004/432/4432191/?rss",
-      "date": "2026-09-03T18:11:08+09:00",
-      "dateLabel": "09/03 18:11",
-      "desc": "【特許権利化】AIが買い物を代行する「エージェンティックコマース」元年。「誤発注」、「なりすまし」、「偽物購入」を確定前に止め、証跡を「BaaS」へ刻む日本初の特許（※1）",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "AIで経営管理はどう変わる？ ログラスとRX Japan、「AI×経営管理 Day」を2026年10月22日（木）に開催",
-      "link": "https://ascii.jp/elem/000/004/432/4432181/?rss",
-      "date": "2026-09-03T17:30:00+09:00",
-      "dateLabel": "09/03 17:30",
-      "desc": "AIで経営管理はどう変わる？ ログラスとRX Japan、「AI×経営管理 Day」を2026年10月22日（木）に開催",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "【本日セール最終日】iPhone Airもまだ安い！ Amazonで今のうちに買っておきたいもの5選",
-      "link": "https://ascii.jp/elem/000/004/432/4432157/?rss",
-      "date": "2026-09-03T17:30:00+09:00",
-      "dateLabel": "09/03 17:30",
-      "desc": "スマイルSaleの最後にもう一度チェックしておきたい商品を5つピックアップしました。「これなら今買っておきたい」と思える値引きと、セール終了後もちゃんと使える実用性の両方を重視して選んでいます。",
-      "img": "https://ascii.jp/img/2026/09/03/4521408/s/eacd3c5b55e9a248.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "AI×データベースによる教育データプラットフォームの構築へ",
-      "link": "https://ascii.jp/elem/000/004/432/4432180/?rss",
-      "date": "2026-09-03T17:00:00+09:00",
-      "dateLabel": "09/03 17:00",
-      "desc": "AI×データベースによる教育データプラットフォームの構築へ",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "Ryzen AI 5 340搭載で22万円台！ 23.8型ディスプレーの一体型デスクトップPCがFMV直販で安い！",
-      "link": "https://ascii.jp/elem/000/004/431/4431614/?rss",
-      "date": "2026-09-03T17:00:00+09:00",
-      "dateLabel": "09/03 17:00",
-      "desc": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
-      "img": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "公立学校の生徒が高校生になるまでAIの使用を禁止するとニューヨーク市教育局が発表、すべての学年でチャットボットを禁止するなど新たな方針も採用",
-      "link": "https://gigazine.net/news/20260903-nyc-school-system-ban-ai-middle-school/",
-      "date": "2026-09-03T15:00:00+09:00",
-      "dateLabel": "09/03 15:00",
-      "desc": "現地時間の2026年9月2日、ニューヨーク市長のゾーラン・マムダニ氏と、ニューヨーク市教育局のカマル・サミュエルズ教育長が、アメリカにおいて最も広範な学校におけるAI禁止措置を発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "Adobe、Slackから「Photoshop」などのツールを使える「Adobe for Slack」提供開始 会話からPDFや動画を生成",
-      "link": "https://www.itmedia.co.jp/news/article/2609/03/2000001114/",
-      "date": "2026-09-03T13:51:58+09:00",
-      "dateLabel": "09/03 13:51",
-      "desc": "Adobeは、Slack上で「Photoshop」や「Firefly」など70種以上のツールを使える「Adobe for Slack」の提供を開始した。Slackbot経由で指示を出し、チャットやcanvasの内容を文脈として反映した画像や資料を制作できる。業務チャットをAIの実行基盤とする動きが加速している。",
+      "title": "「AIで業務アプリを作成する仕組み」で特許取得、KDDI傘下のELYZA X上では一部批判も【追記あり】",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001144/",
+      "date": "2026-09-03T23:09:57+09:00",
+      "dateLabel": "09/03 23:09",
+      "desc": "KDDIグループのAI開発企業ELYZAは、法人向けAIツール「ELYZA Works」において、業務アプリをAIで作成する仕組みの特許を取得したと発表した。一方、X上の一部では批判の声も上がっている。",
       "img": "",
       "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "AI懐疑論者の予測はどれぐらい正確だったか？",
+      "link": "https://gigazine.net/news/20260903-ai-skeptic-predictions/",
+      "date": "2026-09-03T22:00:00+09:00",
+      "dateLabel": "09/03 22:00",
+      "desc": "2022年にChatGPTが登場して以来、生成AIの存在が広く認知され利便性が拡大していきました。ただ、当時からAIに懐疑的な見方をする人がいて、中には影響力のある人がAIの没落を予想するケースもありました。GoogleやMicrosoftに在職経験があり、エッセイストとしても人気があるソフトウェアエンジニアのダン・ルー氏が、有名なAI懐疑論者であるエドワー",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "史上最薄iPhone Airが3万6500円引き！ 512GBモデルが17万円台に",
+      "link": "https://ascii.jp/elem/000/004/431/4431642/?rss",
+      "date": "2026-09-03T20:00:00+09:00",
+      "dateLabel": "09/03 20:00",
+      "desc": "Appleのスマートフォン「iPhone Air」512GBモデルがAmazonでスマイルSALE対象。参考価格212,800円から17％オフの176,300円で販売中。史上最薄のiPhoneで、厚さ5.64mm、重量165gのボディに6.5インチSuper Retina XDRディスプレイを搭載する。A19 Proチップも備えたモデルだ。",
+      "img": "https://ascii.jp/img/2026/09/02/4520545/s/cd2a58d1153709eb.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "AI時代、「アート思考」はどこまで検証されているのか ― 国内外の定義・実践・効果研究を整理した図解26ページを無料提供",
+      "link": "https://ascii.jp/elem/000/004/432/4432197/?rss",
+      "date": "2026-09-03T18:46:32+09:00",
+      "dateLabel": "09/03 18:46",
+      "desc": "AI時代、「アート思考」はどこまで検証されているのか ― 国内外の定義・実践・効果研究を整理した図解26ページを無料提供",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     }
