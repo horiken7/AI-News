@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-03T23:48:13.556665+09:00",
-  "generatedLabel": "2026/09/03 23:48",
+  "generatedAt": "2026-09-04T03:13:29.020530+09:00",
+  "generatedLabel": "2026/09/04 03:13",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 54,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 9
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -116,6 +116,17 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 58
+    },
+    {
+      "title": "複数のAIサービスで障害発生 ChatGPT／Claude／Grok【一部復旧】",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001152/",
+      "date": "2026-09-04T01:51:12+09:00",
+      "dateLabel": "09/04 01:51",
+      "desc": "日本時間の2026年9月4日午前0時30分現在、複数のAIサービスで障害が発生しており、接続しにくい、もしくは接続できない状態となっている。少なくとも、米OpenAIの「ChatGPT」、米Anthropicの「Claude」、米SpaceXAIの「Grok」で障害が報告されている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 50
     },
     {
       "title": "NVIDIAがHugging Face買収で合意 約2兆円 ジェンスン・フアンCEOはオープンモデルの重要性に言及",
@@ -239,6 +250,17 @@
       "score": 34
     },
     {
+      "title": "AIエージェント会社おすすめ16選をタイプ別比較！選び方と費用相場も解説",
+      "link": "https://ainow.ai/2026/09/04/278345/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e4%25bc%259a%25e7%25a4%25be%25e3%2581%258a%25e3%2581%2599%25e3%2581%2599%25e3%2582%258116%25e9%2581%25b8%25e3%2582%2592%25e3%2582%25bf%25e3%2582%25a4%25e3%2583%2597%25e5%2588%25a5%25e6%25af%2594%25e8%25bc%2583%25ef%25bc%2581",
+      "date": "2026-09-04T00:20:28+09:00",
+      "dateLabel": "09/04 00:20",
+      "desc": "AIエージェントの相談先は、完成したサービスを月額で提供する会社と、自社の要件に合わせて開発する会社に大きく分かれます。 この違いを知らないまま問い合わせると、予算に合わない提案しか出てこないまま検討が止まります。タイプ... The post AIエージェント会社おすすめ16選をタイプ別比較！選び方と費用相場も解説 first appeared on AI",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
       "title": "「AIで業務アプリを作成する仕組み」で特許取得、KDDI傘下のELYZA X上では一部批判も【追記あり】",
       "link": "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001144/",
       "date": "2026-09-03T23:09:57+09:00",
@@ -258,28 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "史上最薄iPhone Airが3万6500円引き！ 512GBモデルが17万円台に",
-      "link": "https://ascii.jp/elem/000/004/431/4431642/?rss",
-      "date": "2026-09-03T20:00:00+09:00",
-      "dateLabel": "09/03 20:00",
-      "desc": "Appleのスマートフォン「iPhone Air」512GBモデルがAmazonでスマイルSALE対象。参考価格212,800円から17％オフの176,300円で販売中。史上最薄のiPhoneで、厚さ5.64mm、重量165gのボディに6.5インチSuper Retina XDRディスプレイを搭載する。A19 Proチップも備えたモデルだ。",
-      "img": "https://ascii.jp/img/2026/09/02/4520545/s/cd2a58d1153709eb.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "AI時代、「アート思考」はどこまで検証されているのか ― 国内外の定義・実践・効果研究を整理した図解26ページを無料提供",
-      "link": "https://ascii.jp/elem/000/004/432/4432197/?rss",
-      "date": "2026-09-03T18:46:32+09:00",
-      "dateLabel": "09/03 18:46",
-      "desc": "AI時代、「アート思考」はどこまで検証されているのか ― 国内外の定義・実践・効果研究を整理した図解26ページを無料提供",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 26
     }
   ]
