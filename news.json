@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-05T06:09:17.502516+09:00",
-  "generatedLabel": "2026/09/05 06:09",
+  "generatedAt": "2026-09-05T08:33:27.011027+09:00",
+  "generatedLabel": "2026/09/05 08:33",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 54,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -151,17 +151,6 @@
       "score": 42
     },
     {
-      "title": "OpenAI、「GPT-6 Astra」を一部組織向けに公開 サイバー能力が初の「Critical」に",
-      "link": "https://www.itmedia.co.jp/news/article/2609/04/2000001153/",
-      "date": "2026-09-04T08:19:48+09:00",
-      "dateLabel": "09/04 08:19",
-      "desc": "OpenAIは新モデル「GPT-6 Astra」を公開した。サイバーセキュリティ能力が自社基準で最高の「Critical」に達した初のモデル。提供版は悪用防止のため防御用途に限定し、高度な機能は防御側支援プログラム「Daybreak」で段階的に開放する。数学やコーディング、PC操作など各領域で最高水準を記録した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "複数のAIサービスで障害発生 ChatGPT／Claude／Grok【復旧済み】",
       "link": "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001152/",
       "date": "2026-09-04T03:10:08+09:00",
@@ -217,24 +206,13 @@
       "score": 34
     },
     {
-      "title": "10月1日「カスハラ対策」義務化 暴言をAIが検知する腕時計型デバイスが登場",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/04/news045.html",
-      "date": "2026-09-04T08:00:00+09:00",
-      "dateLabel": "09/04 08:00",
-      "desc": "2026年10月1日に施行される改正労働施策総合推進法により、企業にはカスハラへの対策が求められる。アイフォーカスは、AI音声データ解析機能を備えたLTE通信スマートウォッチ「カスハラ対策Watch」を2026年10月1日から提供開始すると発表した。",
+      "title": "OpenAI、「GPT-6 Astra」を一部組織向けに公開 サイバー能力が初の「Critical」に",
+      "link": "https://www.itmedia.co.jp/news/article/2609/04/2000001153/",
+      "date": "2026-09-04T08:19:48+09:00",
+      "dateLabel": "09/04 08:19",
+      "desc": "OpenAIは新モデル「GPT-6 Astra」を公開した。サイバーセキュリティ能力が自社基準で最高の「Critical」に達した初のモデル。提供版は悪用防止のため防御用途に限定し、高度な機能は防御側支援プログラム「Daybreak」で段階的に開放する。数学やコーディング、PC操作など各領域で最高水準を記録した。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "AIの検索を強化する「RAG」をシンプルに始めて高度化する6つの方法",
-      "link": "https://gigazine.net/news/20260904-rag-is-simple/",
-      "date": "2026-09-04T07:00:00+09:00",
-      "dateLabel": "09/04 07:00",
-      "desc": "ChatGPTのような大規模言語モデル(LLM)に外部の文書を検索させ、見つけた情報を基に回答を作らせる仕組みが「検索拡張生成(RAG)」です。Hugging FaceやDatabricksでの勤務経験を持つAIエンジニアのラファエル・ピエール氏が、RAGを単純な全文検索から始めて段階的に高度化する6つの方法を紹介しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 34
     },
@@ -261,6 +239,17 @@
       "score": 34
     },
     {
+      "title": "イギリスの映画館が著作権侵害の懸念からスマートグラスの着用禁止を検討",
+      "link": "https://gigazine.net/news/20260905-cinema-ban-smartglass/",
+      "date": "2026-09-05T08:00:00+09:00",
+      "dateLabel": "09/05 08:00",
+      "desc": "Metaなどは録音・録画が可能なスマートグラスを展開しています。一目見ただけでは普通の眼鏡とあまり区別が付かないものもあることから、盗撮などのプライバシー問題が騒がれる中、新たにイギリスの映画館がこうしたスマートグラスの着用禁止を検討していることが報じられました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 26
+    },
+    {
       "title": "使い込むほど成長するAIエージェント「Hermes Agent」の実行結果をメールで受け取ってみた",
       "link": "https://gigazine.net/news/20260905-hermes-agent-mail/",
       "date": "2026-09-05T00:25:00+09:00",
@@ -279,6 +268,17 @@
       "desc": "アップルは2029年に、MacBook AirとMacBook Proの中間に位置する新しいMacBookを発売する可能性がある。",
       "img": "https://ascii.jp/img/2026/09/04/4521663/s/a4529c02e7bb48d5.png",
       "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "GoogleがAI気象モデル「WeatherNext 3」発表、衛星データを直接使ってスパコンの待ち時間を回避し1時間ごとに予報更新",
+      "link": "https://gigazine.net/news/20260904-google-weathernext-3/",
+      "date": "2026-09-04T18:00:00+09:00",
+      "dateLabel": "09/04 18:00",
+      "desc": "Google DeepMindとGoogle ResearchがAIを使った新しい気象予測モデル「WeatherNext 3」を発表しました。リアルタイムの衛星観測データを取り込んで1時間ごとに予報を更新できるほか、従来モデルのWeatherNext 2と比べて空間解像度が最大約5倍に向上しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AI全般",
       "score": 26
     }
