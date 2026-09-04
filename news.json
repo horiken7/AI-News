@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-05T03:42:03.594950+09:00",
-  "generatedLabel": "2026/09/05 03:42",
+  "generatedAt": "2026-09-05T06:09:17.502516+09:00",
+  "generatedLabel": "2026/09/05 06:09",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 54,
@@ -239,17 +239,6 @@
       "score": 34
     },
     {
-      "title": "なぜAI企業は社内で「ソフトウェアエンジニア」と呼ばなくなったのか 広がる「MTS」と職種の未来",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/04/news003.html",
-      "date": "2026-09-04T05:00:00+09:00",
-      "dateLabel": "09/04 05:00",
-      "desc": "AnthropicやOpenAIでは、研究者とエンジニアをまたぐ共通の社内肩書きとして「Member of Technical Staff（技術スタッフの一員）」が使われている。元CTOたちが次々とこの肩書きに転じている現象から、肩書きが専門性を証明しなくなった時代に何が価値を決めるのかを考える。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "NVIDIAがHugging Face買収で合意 約2兆円 ジェンスン・フアンCEOはオープンモデルの重要性に言及",
       "link": "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001150/",
       "date": "2026-09-03T22:34:49+09:00",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "アップルが13.8インチ有機EL「MacBook」投入か AirとProの中間に",
+      "link": "https://ascii.jp/elem/000/004/432/4432335/?rss",
+      "date": "2026-09-04T20:00:00+09:00",
+      "dateLabel": "09/04 20:00",
+      "desc": "アップルは2029年に、MacBook AirとMacBook Proの中間に位置する新しいMacBookを発売する可能性がある。",
+      "img": "https://ascii.jp/img/2026/09/04/4521663/s/a4529c02e7bb48d5.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 26
     }
   ]
