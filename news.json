@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-04T15:53:47.318628+09:00",
-  "generatedLabel": "2026/09/04 15:53",
+  "generatedAt": "2026-09-04T20:53:09.705673+09:00",
+  "generatedLabel": "2026/09/04 20:53",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 54,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -74,17 +74,6 @@
       "score": 58
     },
     {
-      "title": "Microsoft Officeの責任者が「AIが生成した質の低い文書」に対して苦言",
-      "link": "https://gigazine.net/news/20260903-microsofts-office-ai/",
-      "date": "2026-09-03T18:55:00+09:00",
-      "dateLabel": "09/03 18:55",
-      "desc": "Microsoftは2026年6月にAIエージェントを中心に動作する新しいデバイス向けプラットフォーム「Project Solara」を発表していたり、画像生成AI「MAI-Image」シリーズをリリースしていたりするほか、AnthropicのAI・ClaudeをOffice製品で活用する「Claude for Word」などの拡張機能も展開されており、AI",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 58
-    },
-    {
       "title": "「GPT-6 Astra」登場、PC操作が非常に上手で「Blenderで3Dモデルを作ってUE5で歩ける空間にする」なども可能＆ARC-AGI-3で99.9％を達成",
       "link": "https://gigazine.net/news/20260904-openai-gpt-6-astra/",
       "date": "2026-09-04T12:35:00+09:00",
@@ -105,6 +94,28 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 50
+    },
+    {
+      "title": "WQHDでガッツリ遊ぶならコレ！ Ryzen 7 7800X3D＋16GB GPU搭載の黒×金ゲーミングPC",
+      "link": "https://ascii.jp/elem/000/004/432/4432530/?rss",
+      "date": "2026-09-04T20:00:00+09:00",
+      "dateLabel": "09/04 20:00",
+      "desc": "Ryzen 7 7800X3DとRadeon RX 9060 XT 16GBを搭載し、WQHDゲームをしっかり楽しめるSTORMの「GKG-PSK78X3D96XT」。32GBメモリーや黒×金のケースも備え、性能と見た目を両立した1台。",
+      "img": "https://ascii.jp/img/2026/07/29/4507189/s/3288b8c583974ca6.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "アップル「iPhone 18 Pro」A20 Pro、GPU7コア化か メモリ帯域も1.5倍に？",
+      "link": "https://ascii.jp/elem/000/004/432/4432336/?rss",
+      "date": "2026-09-04T20:00:00+09:00",
+      "dateLabel": "09/04 20:00",
+      "desc": "アップルが来週発表するとうわさのiPhone 18 Pro／Pro Maxに搭載される「A20 Pro」チップは、GPUを7コア構成にするなどの複数の強化が施されているようだ。",
+      "img": "https://ascii.jp/img/2026/09/04/4521664/s/18eaf2d67b8bc5c1.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
     },
     {
       "title": "NVIDIAが重たいAI処理を同一ネットワーク内のPCに割り振れる無料ツール「PAIR」を公開",
@@ -184,14 +195,14 @@
       "score": 36
     },
     {
-      "title": "estoma、「サステナ×Copilot」活用支援を開始",
-      "link": "https://ascii.jp/elem/000/004/432/4432374/?rss",
-      "date": "2026-09-04T13:00:00+09:00",
-      "dateLabel": "09/04 13:00",
-      "desc": "estoma、「サステナ×Copilot」活用支援を開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
+      "title": "ChatGPT・Claude・Grokがほぼ同時刻にダウン",
+      "link": "https://gigazine.net/news/20260904-openai-anthropic-spacexai-down/",
+      "date": "2026-09-04T19:00:00+09:00",
+      "dateLabel": "09/04 19:00",
+      "desc": "2026年9月3日深夜、大手3社のAIサービスがほぼ同時に停止しました。なぜタイミングが重なったのか、理由は明らかになっていません。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -239,47 +250,36 @@
       "score": 34
     },
     {
-      "title": "ASUS「ROG STRIX SLC IV 360 ARGB LCD」発売、配線をまとめて自作PCを美しく",
-      "link": "https://ascii.jp/elem/000/004/432/4432428/?rss",
-      "date": "2026-09-04T15:30:00+09:00",
-      "dateLabel": "09/04 15:30",
-      "desc": "ASUSが360mm簡易水冷CPUクーラー「ROG STRIX SLC IV 360 ARGB LCD」を発売。配線を減らせるAIO Q-CONNECTORや5.08型LCD、一体型3連ARGBファンなどの特徴を紹介します。",
-      "img": "https://ascii.jp/img/2026/09/04/4521758/s/27c4b7b3450ee527.png",
+      "title": "アップルが13.8インチ有機EL「MacBook」投入か AirとProの中間に",
+      "link": "https://ascii.jp/elem/000/004/432/4432335/?rss",
+      "date": "2026-09-04T20:00:00+09:00",
+      "dateLabel": "09/04 20:00",
+      "desc": "アップルは2029年に、MacBook AirとMacBook Proの中間に位置する新しいMacBookを発売する可能性がある。",
+      "img": "https://ascii.jp/img/2026/09/04/4521663/s/a4529c02e7bb48d5.png",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "Microsoftが明かした「AIでチーム全体を速くする」開発術、重要なのはコード生成より「仕様書」",
-      "link": "https://gigazine.net/news/20260904-microsoft-spec-driven-development/",
-      "date": "2026-09-04T15:30:00+09:00",
-      "dateLabel": "09/04 15:30",
-      "desc": "Microsoftの社内IT組織Microsoft Digitalは、AIを使ったソフトウェア開発で個人の作業速度だけを高めてもチーム全体の生産性向上にはつながりにくいとして、仕様を開発全体の共通基準にする「仕様駆動開発(SDD)」の取り組みを公開しました。AIにコードを書かせる前に「何を作るのか」を明確にすることが重要だと説明しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
+      "title": "【受賞】株式会社トレンドタウン、「2026年度SMB Excellent 企業賞 AIコンサルティング部門」を受賞",
+      "link": "https://ascii.jp/elem/000/004/432/4432533/?rss",
+      "date": "2026-09-04T18:12:13+09:00",
+      "dateLabel": "09/04 18:12",
+      "desc": "【受賞】株式会社トレンドタウン、「2026年度SMB Excellent 企業賞 AIコンサルティング部門」を受賞",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "Ankerがスマートホームハブ「MindBase」を発表、専用のAIチップと最大48TBのストレージを備えて独自ローカルAIモデルを実行",
-      "link": "https://gigazine.net/news/20260904-anker-mindbase/",
-      "date": "2026-09-04T15:10:00+09:00",
-      "dateLabel": "09/04 15:10",
-      "desc": "Ankerは2026年9月4日からドイツのベルリンで開催されているテクノロジーイベント「IFA Berlin 2026」に出展し、スマートホームの中核となるよう設計されたAI搭載のローカルホームハブ「MindBase」を発表しました。MindBaseは64GBのSSDと最大48TBまで拡張可能なストレージを備えており、その上に独自のAI演算処理機能が搭載され",
+      "title": "GoogleがAI気象モデル「WeatherNext 3」発表、衛星データを直接使ってスパコンの待ち時間を回避し1時間ごとに予報更新",
+      "link": "https://gigazine.net/news/20260904-google-weathernext-3/",
+      "date": "2026-09-04T18:00:00+09:00",
+      "dateLabel": "09/04 18:00",
+      "desc": "Google DeepMindとGoogle ResearchがAIを使った新しい気象予測モデル「WeatherNext 3」を発表しました。リアルタイムの衛星観測データを取り込んで1時間ごとに予報を更新できるほか、従来モデルのWeatherNext 2と比べて空間解像度が最大約5倍に向上しています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "草加市が全国自治体初、オンプレミス型生成AI「Sovereign GaiXer」を導入",
-      "link": "https://ascii.jp/elem/000/004/432/4432328/?rss",
-      "date": "2026-09-04T15:00:00+09:00",
-      "dateLabel": "09/04 15:00",
-      "desc": "埼玉県草加市が、全国の自治体で初めてオンプレミス型生成AI「Sovereign GaiXer」を導入。個人情報や機密データを庁内環境で安全に活用し、会議録作成や計画策定など行政業務の効率化を目指します。",
-      "img": "https://ascii.jp/img/2026/09/04/4521660/s/b26e88bb78bf8676.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
+      "cat": "AI全般",
       "score": 26
     }
   ]
