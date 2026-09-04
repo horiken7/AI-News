@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-05T00:25:33.505024+09:00",
-  "generatedLabel": "2026/09/05 00:25",
+  "generatedAt": "2026-09-05T03:42:03.594950+09:00",
+  "generatedLabel": "2026/09/05 03:42",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 54,
@@ -85,17 +85,6 @@
       "score": 50
     },
     {
-      "title": "複数のAIサービスで障害発生 ChatGPT／Claude／Grok【復旧済み】",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001152/",
-      "date": "2026-09-04T03:10:08+09:00",
-      "dateLabel": "09/04 03:10",
-      "desc": "日本時間の2026年9月4日午前0時30分現在、複数のAIサービスで障害が発生しており、接続しにくい、もしくは接続できない状態となっている。少なくとも、米OpenAIの「ChatGPT」、米Anthropicの「Claude」、米SpaceXAIの「Grok」で障害が報告されている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
       "title": "WQHDでガッツリ遊ぶならコレ！ Ryzen 7 7800X3D＋16GB GPU搭載の黒×金ゲーミングPC",
       "link": "https://ascii.jp/elem/000/004/432/4432530/?rss",
       "date": "2026-09-04T20:00:00+09:00",
@@ -167,6 +156,17 @@
       "date": "2026-09-04T08:19:48+09:00",
       "dateLabel": "09/04 08:19",
       "desc": "OpenAIは新モデル「GPT-6 Astra」を公開した。サイバーセキュリティ能力が自社基準で最高の「Critical」に達した初のモデル。提供版は悪用防止のため防御用途に限定し、高度な機能は防御側支援プログラム「Daybreak」で段階的に開放する。数学やコーディング、PC操作など各領域で最高水準を記録した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "複数のAIサービスで障害発生 ChatGPT／Claude／Grok【復旧済み】",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001152/",
+      "date": "2026-09-04T03:10:08+09:00",
+      "dateLabel": "09/04 03:10",
+      "desc": "日本時間の2026年9月4日午前0時30分現在、複数のAIサービスで障害が発生しており、接続しにくい、もしくは接続できない状態となっている。少なくとも、米OpenAIの「ChatGPT」、米Anthropicの「Claude」、米SpaceXAIの「Grok」で障害が報告されている。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
