@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-04T08:40:47.372456+09:00",
-  "generatedLabel": "2026/09/04 08:40",
+  "generatedAt": "2026-09-04T10:57:46.033160+09:00",
+  "generatedLabel": "2026/09/04 10:57",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 52,
@@ -13,7 +13,7 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 18
+      "items": 17
     },
     {
       "source": "ASCII.jp",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -85,6 +85,17 @@
       "score": 66
     },
     {
+      "title": "OrcaRouter、Google「Gemini 3.8 Flash」、Alibaba「Qwen3.8 Max」、Anthropic「Claude Fable 5.1」のフロンティアモデルを提供開始",
+      "link": "https://ascii.jp/elem/000/004/432/4432213/?rss",
+      "date": "2026-09-03T20:00:00+09:00",
+      "dateLabel": "09/03 20:00",
+      "desc": "OrcaRouter、Google「Gemini 3.8 Flash」、Alibaba「Qwen3.8 Max」、Anthropic「Claude Fable 5.1」のフロンティアモデルを提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 58
+    },
+    {
       "title": "Microsoft Officeの責任者が「AIが生成した質の低い文書」に対して苦言",
       "link": "https://gigazine.net/news/20260903-microsofts-office-ai/",
       "date": "2026-09-03T18:55:00+09:00",
@@ -92,17 +103,6 @@
       "desc": "Microsoftは2026年6月にAIエージェントを中心に動作する新しいデバイス向けプラットフォーム「Project Solara」を発表していたり、画像生成AI「MAI-Image」シリーズをリリースしていたりするほか、AnthropicのAI・ClaudeをOffice製品で活用する「Claude for Word」などの拡張機能も展開されており、AI",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 58
-    },
-    {
-      "title": "Meta、「Muse Spark 1.3」公開 コーディングとエージェント性能を強化 「最大の飛躍」とザッカーバーグCEO",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001101/",
-      "date": "2026-09-03T10:25:09+09:00",
-      "dateLabel": "09/03 10:25",
-      "desc": "MetaはAIモデル「Muse Spark 1.3」を発表した。エージェント機能とコーディング性能を強化し、曖昧な指示への対応や長時間作業の継続性を改善した。ベンチマーク「DeepSWE」などで他社フロンティアモデルを上回るスコアを記録。API等で提供し、前モデルのオープンウェイト公開も予定する。",
-      "img": "",
-      "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 58
     },
@@ -116,6 +116,39 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 50
+    },
+    {
+      "title": "Meta、「Muse Spark 1.3」公開 コーディングとエージェント性能を強化 「最大の飛躍」とザッカーバーグCEO",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001101/",
+      "date": "2026-09-03T10:25:09+09:00",
+      "dateLabel": "09/03 10:25",
+      "desc": "MetaはAIモデル「Muse Spark 1.3」を発表した。エージェント機能とコーディング性能を強化し、曖昧な指示への対応や長時間作業の継続性を改善した。ベンチマーク「DeepSWE」などで他社フロンティアモデルを上回るスコアを記録。API等で提供し、前モデルのオープンウェイト公開も予定する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
+      "title": "NVIDIAがHugging Faceを2兆円超えで買収したことを正式発表",
+      "link": "https://gigazine.net/news/20260904-nvidia-acquire-hugging-face/",
+      "date": "2026-09-04T10:44:00+09:00",
+      "dateLabel": "09/04 10:44",
+      "desc": "NVIDIAがHugging Faceを129億3030万ドル(約2兆円)で買収したことを現地時間の2026年9月3日に正式発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "OpenAI「GPT-6 Astra」驚異の進化 “未知に挑む力”人間超える",
+      "link": "https://ascii.jp/elem/000/004/432/4432209/?rss",
+      "date": "2026-09-04T09:35:00+09:00",
+      "dateLabel": "09/04 09:35",
+      "desc": "OpenAIは9月3日、最新AIモデル「GPT-6 Astra」を発表。「ARC-AGI-3」では99.9％を記録し、人間より少ない操作回数で多くの課題を攻略した。",
+      "img": "https://ascii.jp/img/2026/09/04/4521590/s/5c35ffb0c7acd9d5.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "OpenAI、「GPT-6 Astra」を一部組織向けに公開 サイバー能力が初の「Critical」に",
@@ -148,17 +181,6 @@
       "img": "https://ascii.jp/img/2026/08/24/4516292/s/43c948c1bbf4ded5.png",
       "src": "ASCII.jp",
       "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "OrcaRouter、セキュリティ研究向けモデル「DeepSeek-V4-Flash-Vision-Uncensored」のGGUF量子化版を公開",
-      "link": "https://ascii.jp/elem/000/004/432/4432190/?rss",
-      "date": "2026-09-03T18:40:00+09:00",
-      "dateLabel": "09/03 18:40",
-      "desc": "OrcaRouter、セキュリティ研究向けモデル「DeepSeek-V4-Flash-Vision-Uncensored」のGGUF量子化版を公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -195,6 +217,17 @@
       "score": 36
     },
     {
+      "title": "AIエージェントが「想定外の経路」で攻撃？ Black Hat・DEF CONで見えた新たなセキュリティリスク",
+      "link": "https://ascii.jp/elem/000/004/431/4431682/?rss",
+      "date": "2026-09-04T09:00:00+09:00",
+      "dateLabel": "09/04 09:00",
+      "desc": "Black HatとDEF CON 2026は、自律型AIがサイバー攻撃と防御をどのように再構築しているか、そしてアイデンティティ、セグメンテーション、信頼できるインテリジェンスがなぜ重要なのかを示しました。",
+      "img": "https://ascii.jp/img/2026/09/02/4520583/s/9899e6952f6385eb.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
       "title": "10月1日「カスハラ対策」義務化 暴言をAIが検知する腕時計型デバイスが登場",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/04/news045.html",
       "date": "2026-09-04T08:00:00+09:00",
@@ -228,14 +261,14 @@
       "score": 34
     },
     {
-      "title": "【特許権利化】AIエージェントが買い物を代行する「エージェンティックコマース」元年。誤発注、なりすまし、偽物購入を「確定前」に止め、証跡は「BaaS」へ刻む日本初の特許を権利化（※1）",
-      "link": "https://ascii.jp/elem/000/004/432/4432191/?rss",
-      "date": "2026-09-03T18:11:08+09:00",
-      "dateLabel": "09/03 18:11",
-      "desc": "【特許権利化】AIエージェントが買い物を代行する「エージェンティックコマース」元年。誤発注、なりすまし、偽物購入を「確定前」に止め、証跡は「BaaS」へ刻む日本初の特許を権利化（※1）",
+      "title": "株式会社プエンテ、生成AIに頼らずコンウェイのライフゲームとオイラーの等式でミニマル音楽を自動生成するWebサービス「Minimal Music Maker」を提供開始",
+      "link": "https://ascii.jp/elem/000/004/432/4432211/?rss",
+      "date": "2026-09-03T22:15:12+09:00",
+      "dateLabel": "09/03 22:15",
+      "desc": "株式会社プエンテ、生成AIに頼らずコンウェイのライフゲームとオイラーの等式でミニマル音楽を自動生成するWebサービス「Minimal Music Maker」を提供開始",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
+      "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
@@ -248,39 +281,6 @@
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 34
-    },
-    {
-      "title": "ClaudeにSalesforceを統合した「Claudeforce」、AnthropicとSalesforceが発表。Claudeから営業データ分析や顧客対応を実現",
-      "link": "https://www.publickey1.jp/blog/26/claudesalesforceclaudeforceanthropicsalesforceclaude.html",
-      "date": "2026-09-02T11:43:59+09:00",
-      "dateLabel": "09/02 11:43",
-      "desc": "SalesforceとAnthropicが「Claudeforce」を発表しました。 第一弾となる「Salesforce in Claude」では、Claudeの画面からプロンプトを入力するだけで、Salesforceのデータやワークフロー...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "物流、病院、家事まで変える“フィジカルAI”最前線 AWSが支援する日本企業14社の挑戦",
-      "link": "https://ascii.jp/elem/000/004/432/4432201/?rss",
-      "date": "2026-09-04T08:00:00+09:00",
-      "dateLabel": "09/04 08:00",
-      "desc": "フィジカルAIの開発では、高速な検証サイクルや実装までのスピード感が求められる。アマゾン ウェブ サービス ジャパンでは、開発をそのように加速する上での技術面・コスト面の課題を解消する「フィジカルAI開発支援プログラム」を展開している。",
-      "img": "https://ascii.jp/img/2026/09/03/4521530/s/154ea59038ce8adc.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "「Copilot、Word文書まとめて」で社内全滅？ 勝手に増殖するAIウイルスで大騒ぎ：895th Lap",
-      "link": "https://kn.itmedia.co.jp/kn/article/2609/04/2000001139/",
-      "date": "2026-09-04T07:00:00+09:00",
-      "dateLabel": "09/04 07:00",
-      "desc": "「Microsoft Copilot」が仕事で使われるようになるなか、Word文書を介して感染が広がる、これまでとは少し違った脅威が見つかった。生成AIを仕事で使う企業が増えているだけに、警戒した方が良さそうだ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
     }
   ]
 }
