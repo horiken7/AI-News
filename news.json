@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-04T20:53:09.705673+09:00",
-  "generatedLabel": "2026/09/04 20:53",
+  "generatedAt": "2026-09-05T00:25:33.505024+09:00",
+  "generatedLabel": "2026/09/05 00:25",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 52,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -173,17 +173,6 @@
       "score": 42
     },
     {
-      "title": "NVIDIAがHugging Face買収で合意 約2兆円 ジェンスン・フアンCEOはオープンモデルの重要性に言及",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001150/",
-      "date": "2026-09-03T22:34:49+09:00",
-      "dateLabel": "09/03 22:34",
-      "desc": "米NVIDIAが、AI開発プラットフォームを運営する米Hugging Faceを129億3030万ドルで買収することに合意したと発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
       "title": "JetBrains、Mac上で動作するコーディングエージェント「Junie Local」提供開始。Claude Sonnet 4.5と同等の能力、RTX5090対応も開発中",
       "link": "https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html",
       "date": "2026-08-31T00:07:47+09:00",
@@ -193,6 +182,28 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 36
+    },
+    {
+      "title": "約4万円引き！ 32GB Copilot+ PC「mouse B5」が23万9980円、画面はWQXGA・120Hz",
+      "link": "https://ascii.jp/elem/000/004/432/4432248/?rss",
+      "date": "2026-09-04T22:00:00+09:00",
+      "dateLabel": "09/04 22:00",
+      "desc": "マウスコンピューターのノートPC「mouse B5（B5A7A01SR3SIW1106AZ）」がAmazonでタイムセール対象。参考価格279,800円から14％オフの239,980円で販売中。Ryzen AI 7 350と32GBメモリ、500GB SSDを搭載するCopilot+ PC。15.3型WQXGAディスプレーを備える国内生産のノートPCだ。",
+      "img": "https://ascii.jp/img/2026/09/04/4521627/s/a16f2d4c110787d0.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "VAIO価格改定前の大セール開催中！ 「VAIOストア祭り」は対象モデルが10％オフ",
+      "link": "https://ascii.jp/elem/000/004/432/4432469/?rss",
+      "date": "2026-09-04T21:00:00+09:00",
+      "dateLabel": "09/04 21:00",
+      "desc": "現在、VAIOは「VAIOストア祭り」を開催中。期間中は対象モデルが10％オフになる。期間は2026年9月18日(金)9時59分まで。すでにVAIOは価格改定を発表しているため、気になるモデルはこのタイミングでの購入がオススメだ。",
+      "img": "https://ascii.jp/img/2026/09/04/4521835/s/cad152a2250d9746.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "ChatGPT・Claude・Grokがほぼ同時刻にダウン",
@@ -239,6 +250,17 @@
       "score": 34
     },
     {
+      "title": "NVIDIAがHugging Face買収で合意 約2兆円 ジェンスン・フアンCEOはオープンモデルの重要性に言及",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001150/",
+      "date": "2026-09-03T22:34:49+09:00",
+      "dateLabel": "09/03 22:34",
+      "desc": "米NVIDIAが、AI開発プラットフォームを運営する米Hugging Faceを129億3030万ドルで買収することに合意したと発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
       "title": "ClaudeにSalesforceを統合した「Claudeforce」、AnthropicとSalesforceが発表。Claudeから営業データ分析や顧客対応を実現",
       "link": "https://www.publickey1.jp/blog/26/claudesalesforceclaudeforceanthropicsalesforceclaude.html",
       "date": "2026-09-02T11:43:59+09:00",
@@ -250,36 +272,14 @@
       "score": 34
     },
     {
-      "title": "アップルが13.8インチ有機EL「MacBook」投入か AirとProの中間に",
-      "link": "https://ascii.jp/elem/000/004/432/4432335/?rss",
-      "date": "2026-09-04T20:00:00+09:00",
-      "dateLabel": "09/04 20:00",
-      "desc": "アップルは2029年に、MacBook AirとMacBook Proの中間に位置する新しいMacBookを発売する可能性がある。",
-      "img": "https://ascii.jp/img/2026/09/04/4521663/s/a4529c02e7bb48d5.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "【受賞】株式会社トレンドタウン、「2026年度SMB Excellent 企業賞 AIコンサルティング部門」を受賞",
-      "link": "https://ascii.jp/elem/000/004/432/4432533/?rss",
-      "date": "2026-09-04T18:12:13+09:00",
-      "dateLabel": "09/04 18:12",
-      "desc": "【受賞】株式会社トレンドタウン、「2026年度SMB Excellent 企業賞 AIコンサルティング部門」を受賞",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "GoogleがAI気象モデル「WeatherNext 3」発表、衛星データを直接使ってスパコンの待ち時間を回避し1時間ごとに予報更新",
-      "link": "https://gigazine.net/news/20260904-google-weathernext-3/",
-      "date": "2026-09-04T18:00:00+09:00",
-      "dateLabel": "09/04 18:00",
-      "desc": "Google DeepMindとGoogle ResearchがAIを使った新しい気象予測モデル「WeatherNext 3」を発表しました。リアルタイムの衛星観測データを取り込んで1時間ごとに予報を更新できるほか、従来モデルのWeatherNext 2と比べて空間解像度が最大約5倍に向上しています。 続きを読む...",
+      "title": "使い込むほど成長するAIエージェント「Hermes Agent」の実行結果をメールで受け取ってみた",
+      "link": "https://gigazine.net/news/20260905-hermes-agent-mail/",
+      "date": "2026-09-05T00:25:00+09:00",
+      "dateLabel": "09/05 00:25",
+      "desc": "今回はHermes Agentにメールアカウントを設定し、メールを通じてHermes Agentとやりとりできるのかを確認していきます。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AI全般",
+      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
