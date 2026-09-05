@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-05T10:58:15.309438+09:00",
-  "generatedLabel": "2026/09/05 10:58",
+  "generatedAt": "2026-09-05T15:40:16.755764+09:00",
+  "generatedLabel": "2026/09/05 15:40",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -71,7 +71,40 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 58
+      "score": 50
+    },
+    {
+      "title": "「最大45％コスト減」 Anthropicが「Claude Fable 5.1」発表 脆弱性検知にも対応",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/05/news009.html",
+      "date": "2026-09-05T13:00:00+09:00",
+      "dateLabel": "09/05 13:00",
+      "desc": "Anthropicは、新AIモデル「Claude Fable 5.1」および「Claude Mythos 5.1」を発表した。キャッシュ読み取り価格の引き下げによりFable 5.1は最大約45％のコスト削減が見込めるとしている。脆弱性検知への対応など、セーフガードも一部変更されたという。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "OpenAIのAIエージェント、休眠サイトを掲示板化してタスク回答を共有か 研究団体が報告書公開",
+      "link": "https://www.itmedia.co.jp/news/article/2609/05/2000001200/",
+      "date": "2026-09-05T12:06:58+09:00",
+      "dateLabel": "09/05 12:06",
+      "desc": "OpenAIの社内AIエージェントが休眠状態の外部Wikiサイトを不正に“掲示板”として利用し、評価タスクの答えや制限回避の手法を共有していたとする報告書を研究団体が公開した。閲覧のみ許可されていた環境の抜け道を突き、GETリクエストで書き込みを行っていた。OpenAI側は内容を精査して対処するとしている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "Uravation、無料ホワイトペーパーを8本追加し計31本に。AI業務移管の導入基準書と白書、経営者向けAIエージェント活用ガイド、Codex活用事例50選などを新たに無料公開",
+      "link": "https://ascii.jp/elem/000/004/432/4432571/?rss",
+      "date": "2026-09-05T09:41:24+09:00",
+      "dateLabel": "09/05 09:41",
+      "desc": "Uravation、無料ホワイトペーパーを8本追加し計31本に。AI業務移管の導入基準書と白書、経営者向けAIエージェント活用ガイド、Codex活用事例50選などを新たに無料公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
     },
     {
       "title": "「GPT-6 Astra」登場、PC操作が非常に上手で「Blenderで3Dモデルを作ってUE5で歩ける空間にする」なども可能＆ARC-AGI-3で99.9％を達成",
@@ -82,61 +115,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
-      "title": "WQHDでガッツリ遊ぶならコレ！ Ryzen 7 7800X3D＋16GB GPU搭載の黒×金ゲーミングPC",
-      "link": "https://ascii.jp/elem/000/004/432/4432530/?rss",
-      "date": "2026-09-04T20:00:00+09:00",
-      "dateLabel": "09/04 20:00",
-      "desc": "Ryzen 7 7800X3DとRadeon RX 9060 XT 16GBを搭載し、WQHDゲームをしっかり楽しめるSTORMの「GKG-PSK78X3D96XT」。32GBメモリーや黒×金のケースも備え、性能と見た目を両立した1台。",
-      "img": "https://ascii.jp/img/2026/07/29/4507189/s/3288b8c583974ca6.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "アップル「iPhone 18 Pro」A20 Pro、GPU7コア化か メモリ帯域も1.5倍に？",
-      "link": "https://ascii.jp/elem/000/004/432/4432336/?rss",
-      "date": "2026-09-04T20:00:00+09:00",
-      "dateLabel": "09/04 20:00",
-      "desc": "アップルが来週発表するとうわさのiPhone 18 Pro／Pro Maxに搭載される「A20 Pro」チップは、GPUを7コア構成にするなどの複数の強化が施されているようだ。",
-      "img": "https://ascii.jp/img/2026/09/04/4521664/s/18eaf2d67b8bc5c1.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "NVIDIAが重たいAI処理を同一ネットワーク内のPCに割り振れる無料ツール「PAIR」を公開",
-      "link": "https://gigazine.net/news/20260904-nvidia-personal-ai-router/",
-      "date": "2026-09-04T13:00:00+09:00",
-      "dateLabel": "09/04 13:00",
-      "desc": "「Ollama」や「LM Studio」といったツールを使って、ローカル環境でAIに推論タスクを実行させるにあたり、ネットワーク上にいる互換性のあるPCを検出して接続し、連携してタスクに参加させることができる仮想推論ルーター「PAIR(Personal AI Router)」をNVIDIAが公開しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "ChatGPTの利用制限、新モデル「Astra」提供まで“毎日リセット” 有料ユーザー向け",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001165/",
-      "date": "2026-09-04T12:25:16+09:00",
-      "dateLabel": "09/04 12:25",
-      "desc": "新AIモデル「GPT-6 Astra」を使えるようになるまで、「ChatGPT」の利用制限枠のリセット権を有料ユーザー向けに毎日提供する――米OpenAIのティボ・ソティオ氏は、自身のXアカウントでこのように投稿した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "NVIDIAが「RTX Spark」搭載PCの2026年10月出荷開始を予告",
-      "link": "https://gigazine.net/news/20260904-nvidia-rtx-spark-device/",
-      "date": "2026-09-04T11:35:00+09:00",
-      "dateLabel": "09/04 11:35",
-      "desc": "Armベースで高性能AIをローカル実行できることが特徴のSoC「RTX Spark」を搭載したPCが、2026年10月に登場する予定です。加えてRTX Sparkにゲームを対応させる新たなパブリッシャーも公開されました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
       "score": 42
     },
     {
@@ -162,6 +140,17 @@
       "score": 36
     },
     {
+      "title": "テスラがCybercabによるロボタクシーを開始した直後に規制当局が調査を開始",
+      "link": "https://gigazine.net/news/20260905-tesla-cybercab-nhtsa-investigation/",
+      "date": "2026-09-05T11:12:00+09:00",
+      "dateLabel": "09/05 11:12",
+      "desc": "テスラがアメリカのテキサス州オースティンでCybercabによるロボットタクシーサービスを開始しました。その直後、アメリカ運輸省道路交通安全局(NHTSA)がCybercabに関する調査を開始したと発表しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 34
+    },
+    {
       "title": "【今月の自作PCレシピ】ゲームもAI動画編集もVRChatもローカルLLMもできる！ 欲望全部乗せPC",
       "link": "https://ascii.jp/elem/000/004/431/4431838/?rss",
       "date": "2026-09-05T10:00:00+09:00",
@@ -184,17 +173,6 @@
       "score": 34
     },
     {
-      "title": "VAIO価格改定前の大セール開催中！ 「VAIOストア祭り」は対象モデルが10％オフ",
-      "link": "https://ascii.jp/elem/000/004/432/4432469/?rss",
-      "date": "2026-09-04T21:00:00+09:00",
-      "dateLabel": "09/04 21:00",
-      "desc": "現在、VAIOは「VAIOストア祭り」を開催中。期間中は対象モデルが10％オフになる。期間は2026年9月18日(金)9時59分まで。すでにVAIOは価格改定を発表しているため、気になるモデルはこのタイミングでの購入がオススメだ。",
-      "img": "https://ascii.jp/img/2026/09/04/4521835/s/cad152a2250d9746.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "ChatGPT・Claude・Grokがほぼ同時刻にダウン",
       "link": "https://gigazine.net/news/20260904-openai-anthropic-spacexai-down/",
       "date": "2026-09-04T19:00:00+09:00",
@@ -206,11 +184,33 @@
       "score": 34
     },
     {
-      "title": "NVIDIAがHugging Faceを2兆円超えで買収したことを正式発表",
-      "link": "https://gigazine.net/news/20260904-nvidia-acquire-hugging-face/",
-      "date": "2026-09-04T10:44:00+09:00",
-      "dateLabel": "09/04 10:44",
-      "desc": "NVIDIAがHugging Faceを129億3030万ドル(約2兆円)で買収したことを現地時間の2026年9月3日に正式発表しました。 続きを読む...",
+      "title": "NVIDIAが重たいAI処理を同一ネットワーク内のPCに割り振れる無料ツール「PAIR」を公開",
+      "link": "https://gigazine.net/news/20260904-nvidia-personal-ai-router/",
+      "date": "2026-09-04T13:00:00+09:00",
+      "dateLabel": "09/04 13:00",
+      "desc": "「Ollama」や「LM Studio」といったツールを使って、ローカル環境でAIに推論タスクを実行させるにあたり、ネットワーク上にいる互換性のあるPCを検出して接続し、連携してタスクに参加させることができる仮想推論ルーター「PAIR(Personal AI Router)」をNVIDIAが公開しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "ChatGPTの利用制限、新モデル「Astra」提供まで“毎日リセット” 有料ユーザー向け",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001165/",
+      "date": "2026-09-04T12:25:16+09:00",
+      "dateLabel": "09/04 12:25",
+      "desc": "新AIモデル「GPT-6 Astra」を使えるようになるまで、「ChatGPT」の利用制限枠のリセット権を有料ユーザー向けに毎日提供する――米OpenAIのティボ・ソティオ氏は、自身のXアカウントでこのように投稿した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "NVIDIAが「RTX Spark」搭載PCの2026年10月出荷開始を予告",
+      "link": "https://gigazine.net/news/20260904-nvidia-rtx-spark-device/",
+      "date": "2026-09-04T11:35:00+09:00",
+      "dateLabel": "09/04 11:35",
+      "desc": "Armベースで高性能AIをローカル実行できることが特徴のSoC「RTX Spark」を搭載したPCが、2026年10月に登場する予定です。加えてRTX Sparkにゲームを対応させる新たなパブリッシャーも公開されました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
@@ -228,17 +228,6 @@
       "score": 34
     },
     {
-      "title": "NVIDIAがHugging Face買収で合意 約2兆円 ジェンスン・フアンCEOはオープンモデルの重要性に言及",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001150/",
-      "date": "2026-09-03T22:34:49+09:00",
-      "dateLabel": "09/03 22:34",
-      "desc": "米NVIDIAが、AI開発プラットフォームを運営する米Hugging Faceを129億3030万ドルで買収することに合意したと発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
       "title": "ClaudeにSalesforceを統合した「Claudeforce」、AnthropicとSalesforceが発表。Claudeから営業データ分析や顧客対応を実現",
       "link": "https://www.publickey1.jp/blog/26/claudesalesforceclaudeforceanthropicsalesforceclaude.html",
       "date": "2026-09-02T11:43:59+09:00",
@@ -247,7 +236,40 @@
       "img": "",
       "src": "Publickey",
       "cat": "AIエージェント/業務",
-      "score": 34
+      "score": 28
+    },
+    {
+      "title": "仙台から挑戦の火を灯す！高校生・大学生対象「AKINAIプログラム」2026年度採択者15名が決定！",
+      "link": "https://ascii.jp/elem/000/004/432/4432579/?rss",
+      "date": "2026-09-05T12:30:00+09:00",
+      "dateLabel": "09/05 12:30",
+      "desc": "仙台から挑戦の火を灯す！高校生・大学生対象「AKINAIプログラム」2026年度採択者15名が決定！",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "185円、8gの命綱！ Rokidを超長時間駆動する極細充電ケーブルを衝動買い",
+      "link": "https://ascii.jp/elem/000/004/432/4432568/?rss",
+      "date": "2026-09-05T12:00:00+09:00",
+      "dateLabel": "09/05 12:00",
+      "desc": "AIスマートグラスにハマっている筆者だが、一番気になるのはバッテリーの持続時間だ。筆者一番のお気に入りの「Rokid スマートAIグラス」でその問題を解決してくれそうな、長さ1.2mの「極細USB充電ケーブル」をAliExpressで手に入れたのでご紹介したい。",
+      "img": "https://ascii.jp/img/2026/09/05/4522178/s/bfd88544ba4cac3c.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "【ド変態スマホ】正方形ボディ×物理キーボード!? 異端児IKKO「MindOne Pro」のギミックが面白すぎる",
+      "link": "https://ascii.jp/elem/000/004/431/4431805/?rss",
+      "date": "2026-09-05T12:00:00+09:00",
+      "dateLabel": "09/05 12:00",
+      "desc": "IKKOの「MindOne Pro」は、約4型の正方形ディスプレーと回転式カメラを備えた異色の小型スマホです。専用ボタンでAndroidとAI OSを切り替え可能で、AI機能は対象国で無料通信できる「NovaLink」に対応。別売のキーボードケースを使えば長文入力もこなせる、遊び心満載の端末です。",
+      "img": "https://ascii.jp/img/2026/09/02/4520987/s/1393e02dc1c65ce2.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     },
     {
       "title": "イギリスの映画館が著作権侵害の懸念からスマートグラスの着用禁止を検討",
@@ -258,28 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "規制/安全",
-      "score": 26
-    },
-    {
-      "title": "使い込むほど成長するAIエージェント「Hermes Agent」の実行結果をメールで受け取ってみた",
-      "link": "https://gigazine.net/news/20260905-hermes-agent-mail/",
-      "date": "2026-09-05T00:25:00+09:00",
-      "dateLabel": "09/05 00:25",
-      "desc": "今回はHermes Agentにメールアカウントを設定し、メールを通じてHermes Agentとやりとりできるのかを確認していきます。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "Olive、経済産業省・NEDO『GENIAC-PRIZE 2026』国産基盤モデル開発事業者リストに掲載",
-      "link": "https://ascii.jp/elem/000/004/432/4432563/?rss",
-      "date": "2026-09-04T23:18:25+09:00",
-      "dateLabel": "09/04 23:18",
-      "desc": "Olive、経済産業省・NEDO『GENIAC-PRIZE 2026』国産基盤モデル開発事業者リストに掲載",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
       "score": 26
     }
   ]
