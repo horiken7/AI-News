@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-05T15:40:16.755764+09:00",
-  "generatedLabel": "2026/09/05 15:40",
+  "generatedAt": "2026-09-05T20:02:09.841989+09:00",
+  "generatedLabel": "2026/09/05 20:02",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 54,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -96,17 +96,6 @@
       "score": 42
     },
     {
-      "title": "Uravation、無料ホワイトペーパーを8本追加し計31本に。AI業務移管の導入基準書と白書、経営者向けAIエージェント活用ガイド、Codex活用事例50選などを新たに無料公開",
-      "link": "https://ascii.jp/elem/000/004/432/4432571/?rss",
-      "date": "2026-09-05T09:41:24+09:00",
-      "dateLabel": "09/05 09:41",
-      "desc": "Uravation、無料ホワイトペーパーを8本追加し計31本に。AI業務移管の導入基準書と白書、経営者向けAIエージェント活用ガイド、Codex活用事例50選などを新たに無料公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "「GPT-6 Astra」登場、PC操作が非常に上手で「Blenderで3Dモデルを作ってUE5で歩ける空間にする」なども可能＆ARC-AGI-3で99.9％を達成",
       "link": "https://gigazine.net/news/20260904-openai-gpt-6-astra/",
       "date": "2026-09-04T12:35:00+09:00",
@@ -140,6 +129,28 @@
       "score": 36
     },
     {
+      "title": "6.8インチ大型スマホ「Pixel 11 Pro XL」を使い倒して、大画面ってやっぱりいい！と思った",
+      "link": "https://ascii.jp/elem/000/004/432/4432529/?rss",
+      "date": "2026-09-05T18:00:00+09:00",
+      "dateLabel": "09/05 18:00",
+      "desc": "グーグルの最上位スマホ「Pixel 11 Pro XL」の実機レビューです。6.8型の大画面は明るく見やすく、226gの重さもすぐに慣れると評価。Tensor G6による高速なローカルAI処理や、全レンズ高画素で最大120倍ズーム対応のカメラなど、妥協のないスペックを解説します。",
+      "img": "https://ascii.jp/img/2026/09/04/4521976/s/ed8281bc263c6c2d.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "AI時代、「はじめてのアート思考」を公開 ―「知る」から「自分の仕事で試す」へ進む図解13ページ",
+      "link": "https://ascii.jp/elem/000/004/432/4432582/?rss",
+      "date": "2026-09-05T13:01:15+09:00",
+      "dateLabel": "09/05 13:01",
+      "desc": "AI時代、「はじめてのアート思考」を公開 ―「知る」から「自分の仕事で試す」へ進む図解13ページ",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "テスラがCybercabによるロボタクシーを開始した直後に規制当局が調査を開始",
       "link": "https://gigazine.net/news/20260905-tesla-cybercab-nhtsa-investigation/",
       "date": "2026-09-05T11:12:00+09:00",
@@ -148,39 +159,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "【今月の自作PCレシピ】ゲームもAI動画編集もVRChatもローカルLLMもできる！ 欲望全部乗せPC",
-      "link": "https://ascii.jp/elem/000/004/431/4431838/?rss",
-      "date": "2026-09-05T10:00:00+09:00",
-      "dateLabel": "09/05 10:00",
-      "desc": "秋葉原の主要パーツショップ店員に聞いたオススメパーツ構成を紹介。コスト重視の激安から、最新ゲームをヌルヌル表示でプレイできるゲーミング構成まで、さまざまなPC構成をお届けしよう。",
-      "img": "https://ascii.jp/img/2026/09/03/4521102/s/50a433087d219839.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "約4万円引き！ 32GB Copilot+ PC「mouse B5」が23万9980円、画面はWQXGA・120Hz",
-      "link": "https://ascii.jp/elem/000/004/432/4432248/?rss",
-      "date": "2026-09-04T22:00:00+09:00",
-      "dateLabel": "09/04 22:00",
-      "desc": "マウスコンピューターのノートPC「mouse B5（B5A7A01SR3SIW1106AZ）」がAmazonでタイムセール対象。参考価格279,800円から14％オフの239,980円で販売中。Ryzen AI 7 350と32GBメモリ、500GB SSDを搭載するCopilot+ PC。15.3型WQXGAディスプレーを備える国内生産のノートPCだ。",
-      "img": "https://ascii.jp/img/2026/09/04/4521627/s/a16f2d4c110787d0.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "ChatGPT・Claude・Grokがほぼ同時刻にダウン",
-      "link": "https://gigazine.net/news/20260904-openai-anthropic-spacexai-down/",
-      "date": "2026-09-04T19:00:00+09:00",
-      "dateLabel": "09/04 19:00",
-      "desc": "2026年9月3日深夜、大手3社のAIサービスがほぼ同時に停止しました。なぜタイミングが重なったのか、理由は明らかになっていません。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -239,6 +217,39 @@
       "score": 28
     },
     {
+      "title": "約1kgのVAIOが17万円台！ 16:10画面で仕事がはかどる「VAIO S13」が10％オフ",
+      "link": "https://ascii.jp/elem/000/004/432/4432523/?rss",
+      "date": "2026-09-05T19:00:00+09:00",
+      "dateLabel": "09/05 19:00",
+      "desc": "VAIOストアで「VAIOストア祭り」を開催中。約1kgの軽量ボディと縦横比16:10の13.3型ディスプレーを備えた「VAIO S13」が10％オフとなり、17万8200円から購入できる。",
+      "img": "https://ascii.jp/img/2026/09/04/4521937/s/37003289fc826a1c.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "無料でPDF・電子書籍・Word文書・テキストファイルなどからローカルAIを使って検索＆要約ができる「DocuBrowser」、個人情報の認識も可能",
+      "link": "https://gigazine.net/news/20260905-docubrowser/",
+      "date": "2026-09-05T18:00:00+09:00",
+      "dateLabel": "09/05 18:00",
+      "desc": "PCに保存した文書が増えてくるとファイル名や保存場所だけを手掛かりに必要な情報を探すのが難しくなります。そこでPDF・Word文書・電子書籍などをまとめて読み込み、キーワード検索とローカルAIによる意味検索、文書要約が利用できる「DocuBrowser」が公開されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "おっ、お買い得！ 23.8型のFMV一体型デスクトップPCが、Ryzen AI 5 340搭載で22万円台！",
+      "link": "https://ascii.jp/elem/000/004/431/4431616/?rss",
+      "date": "2026-09-05T17:00:00+09:00",
+      "dateLabel": "09/05 17:00",
+      "desc": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
+      "img": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "仙台から挑戦の火を灯す！高校生・大学生対象「AKINAIプログラム」2026年度採択者15名が決定！",
       "link": "https://ascii.jp/elem/000/004/432/4432579/?rss",
       "date": "2026-09-05T12:30:00+09:00",
@@ -269,17 +280,6 @@
       "img": "https://ascii.jp/img/2026/09/02/4520987/s/1393e02dc1c65ce2.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "イギリスの映画館が著作権侵害の懸念からスマートグラスの着用禁止を検討",
-      "link": "https://gigazine.net/news/20260905-cinema-ban-smartglass/",
-      "date": "2026-09-05T08:00:00+09:00",
-      "dateLabel": "09/05 08:00",
-      "desc": "Metaなどは録音・録画が可能なスマートグラスを展開しています。一目見ただけでは普通の眼鏡とあまり区別が付かないものもあることから、盗撮などのプライバシー問題が騒がれる中、新たにイギリスの映画館がこうしたスマートグラスの着用禁止を検討していることが報じられました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
       "score": 26
     }
   ]
