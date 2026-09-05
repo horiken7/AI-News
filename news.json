@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-05T20:02:09.841989+09:00",
-  "generatedLabel": "2026/09/05 20:02",
+  "generatedAt": "2026-09-05T23:12:37.098169+09:00",
+  "generatedLabel": "2026/09/05 23:12",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 55,
@@ -184,17 +184,6 @@
       "score": 34
     },
     {
-      "title": "NVIDIAが「RTX Spark」搭載PCの2026年10月出荷開始を予告",
-      "link": "https://gigazine.net/news/20260904-nvidia-rtx-spark-device/",
-      "date": "2026-09-04T11:35:00+09:00",
-      "dateLabel": "09/04 11:35",
-      "desc": "Armベースで高性能AIをローカル実行できることが特徴のSoC「RTX Spark」を搭載したPCが、2026年10月に登場する予定です。加えてRTX Sparkにゲームを対応させる新たなパブリッシャーも公開されました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
       "title": "OpenAI、「GPT-6 Astra」を一部組織向けに公開 サイバー能力が初の「Critical」に",
       "link": "https://www.itmedia.co.jp/news/article/2609/04/2000001153/",
       "date": "2026-09-04T08:19:48+09:00",
@@ -280,6 +269,17 @@
       "img": "https://ascii.jp/img/2026/09/02/4520987/s/1393e02dc1c65ce2.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "イギリスの映画館が著作権侵害の懸念からスマートグラスの着用禁止を検討",
+      "link": "https://gigazine.net/news/20260905-cinema-ban-smartglass/",
+      "date": "2026-09-05T08:00:00+09:00",
+      "dateLabel": "09/05 08:00",
+      "desc": "Metaなどは録音・録画が可能なスマートグラスを展開しています。一目見ただけでは普通の眼鏡とあまり区別が付かないものもあることから、盗撮などのプライバシー問題が騒がれる中、新たにイギリスの映画館がこうしたスマートグラスの着用禁止を検討していることが報じられました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
       "score": 26
     }
   ]
