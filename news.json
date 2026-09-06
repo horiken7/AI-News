@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-06T08:26:59.699990+09:00",
-  "generatedLabel": "2026/09/06 08:26",
+  "generatedAt": "2026-09-06T10:53:16.941203+09:00",
+  "generatedLabel": "2026/09/06 10:53",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -127,6 +127,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 36
+    },
+    {
+      "title": "トランプ政権が公開したテトリスライクなゲームにテトリス公式が反応",
+      "link": "https://gigazine.net/news/20260906-tetris-responds-trump-build-the-wall/",
+      "date": "2026-09-06T10:00:00+09:00",
+      "dateLabel": "09/06 10:00",
+      "desc": "ホワイトハウスが公開したテトリスを模倣したゲームに対して、テトリス公式が「著作権侵害について、深刻に受け止めています」と反応しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 34
     },
     {
       "title": "ChatGPT登場以降に公開されたウェブサイトの3分の1に「AI」の痕跡が見られることが研究で判明",
@@ -267,17 +278,6 @@
       "dateLabel": "09/05 12:00",
       "desc": "AIスマートグラスにハマっている筆者だが、一番気になるのはバッテリーの持続時間だ。筆者一番のお気に入りの「Rokid スマートAIグラス」でその問題を解決してくれそうな、長さ1.2mの「極細USB充電ケーブル」をAliExpressで手に入れたのでご紹介したい。",
       "img": "https://ascii.jp/img/2026/09/05/4522178/s/bfd88544ba4cac3c.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "【ド変態スマホ】正方形ボディ×物理キーボード!? 異端児IKKO「MindOne Pro」のギミックが面白すぎる",
-      "link": "https://ascii.jp/elem/000/004/431/4431805/?rss",
-      "date": "2026-09-05T12:00:00+09:00",
-      "dateLabel": "09/05 12:00",
-      "desc": "IKKOの「MindOne Pro」は、約4型の正方形ディスプレーと回転式カメラを備えた異色の小型スマホです。専用ボタンでAndroidとAI OSを切り替え可能で、AI機能は対象国で無料通信できる「NovaLink」に対応。別売のキーボードケースを使えば長文入力もこなせる、遊び心満載の端末です。",
-      "img": "https://ascii.jp/img/2026/09/02/4520987/s/1393e02dc1c65ce2.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
