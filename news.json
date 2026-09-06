@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-06T10:53:16.941203+09:00",
-  "generatedLabel": "2026/09/06 10:53",
+  "generatedAt": "2026-09-06T15:38:59.970512+09:00",
+  "generatedLabel": "2026/09/06 15:38",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 56,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 16
     },
     {
       "source": "CNET Japan",
@@ -74,39 +74,6 @@
       "score": 50
     },
     {
-      "title": "「最大45％コスト減」 Anthropicが「Claude Fable 5.1」発表 脆弱性検知にも対応",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/05/news009.html",
-      "date": "2026-09-05T13:00:00+09:00",
-      "dateLabel": "09/05 13:00",
-      "desc": "Anthropicは、新AIモデル「Claude Fable 5.1」および「Claude Mythos 5.1」を発表した。キャッシュ読み取り価格の引き下げによりFable 5.1は最大約45％のコスト削減が見込めるとしている。脆弱性検知への対応など、セーフガードも一部変更されたという。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "OpenAIのAIエージェント、休眠サイトを掲示板化してタスク回答を共有か 研究団体が報告書公開",
-      "link": "https://www.itmedia.co.jp/news/article/2609/05/2000001200/",
-      "date": "2026-09-05T12:06:58+09:00",
-      "dateLabel": "09/05 12:06",
-      "desc": "OpenAIの社内AIエージェントが休眠状態の外部Wikiサイトを不正に“掲示板”として利用し、評価タスクの答えや制限回避の手法を共有していたとする報告書を研究団体が公開した。閲覧のみ許可されていた環境の抜け道を突き、GETリクエストで書き込みを行っていた。OpenAI側は内容を精査して対処するとしている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "「GPT-6 Astra」登場、PC操作が非常に上手で「Blenderで3Dモデルを作ってUE5で歩ける空間にする」なども可能＆ARC-AGI-3で99.9％を達成",
-      "link": "https://gigazine.net/news/20260904-openai-gpt-6-astra/",
-      "date": "2026-09-04T12:35:00+09:00",
-      "dateLabel": "09/04 12:35",
-      "desc": "OpenAIが2026年9月3日に新しいAIモデル「GPT-6 Astra」を発表しました。GPT-6 AstraはPC操作やブラウジング、プログラミング、科学、サイバーセキュリティなどで従来のGPT-5.6 Solを上回る性能をうたっており、Blenderを使った3D制作やUnreal Engine 5を操作するデモも公開されています。さらにAIの未知の問",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "複数のAIサービスで障害発生 ChatGPT／Claude／Grok【復旧済み】",
       "link": "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001152/",
       "date": "2026-09-04T03:10:08+09:00",
@@ -127,6 +94,39 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 36
+    },
+    {
+      "title": "AI時代、「営業・顧客接点のためのアート思考」を公開 ― 提案を磨く前に、自分は相手の何を見ていたか",
+      "link": "https://ascii.jp/elem/000/004/432/4432612/?rss",
+      "date": "2026-09-06T12:39:42+09:00",
+      "dateLabel": "09/06 12:39",
+      "desc": "AI時代、「営業・顧客接点のためのアート思考」を公開 ― 提案を磨く前に、自分は相手の何を見ていたか",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "AI時代、「上司のためのアート思考」を公開 ― 部下に「もっと考えて」と伝える前に",
+      "link": "https://ascii.jp/elem/000/004/432/4432606/?rss",
+      "date": "2026-09-06T10:55:03+09:00",
+      "dateLabel": "09/06 10:55",
+      "desc": "AI時代、「上司のためのアート思考」を公開 ― 部下に「もっと考えて」と伝える前に",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "【9月21日(月)22時・無料】営業DXが新局面へ──生成AIで営業生産性を最大化、未経験営業でも「1人あたり年商6,000万円」を目指す実践手法を公開！",
+      "link": "https://ascii.jp/elem/000/004/432/4432607/?rss",
+      "date": "2026-09-06T10:20:00+09:00",
+      "dateLabel": "09/06 10:20",
+      "desc": "【9月21日(月)22時・無料】営業DXが新局面へ──生成AIで営業生産性を最大化、未経験営業でも「1人あたり年商6,000万円」を目指す実践手法を公開！",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
     },
     {
       "title": "トランプ政権が公開したテトリスライクなゲームにテトリス公式が反応",
@@ -162,25 +162,25 @@
       "score": 34
     },
     {
-      "title": "AI時代、「はじめてのアート思考」を公開 ―「知る」から「自分の仕事で試す」へ進む図解13ページ",
-      "link": "https://ascii.jp/elem/000/004/432/4432582/?rss",
-      "date": "2026-09-05T13:01:15+09:00",
-      "dateLabel": "09/05 13:01",
-      "desc": "AI時代、「はじめてのアート思考」を公開 ―「知る」から「自分の仕事で試す」へ進む図解13ページ",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "「最大45％コスト減」 Anthropicが「Claude Fable 5.1」発表 脆弱性検知にも対応",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/05/news009.html",
+      "date": "2026-09-05T13:00:00+09:00",
+      "dateLabel": "09/05 13:00",
+      "desc": "Anthropicは、新AIモデル「Claude Fable 5.1」および「Claude Mythos 5.1」を発表した。キャッシュ読み取り価格の引き下げによりFable 5.1は最大約45％のコスト削減が見込めるとしている。脆弱性検知への対応など、セーフガードも一部変更されたという。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
-      "title": "テスラがCybercabによるロボタクシーを開始した直後に規制当局が調査を開始",
-      "link": "https://gigazine.net/news/20260905-tesla-cybercab-nhtsa-investigation/",
-      "date": "2026-09-05T11:12:00+09:00",
-      "dateLabel": "09/05 11:12",
-      "desc": "テスラがアメリカのテキサス州オースティンでCybercabによるロボットタクシーサービスを開始しました。その直後、アメリカ運輸省道路交通安全局(NHTSA)がCybercabに関する調査を開始したと発表しています。 続きを読む...",
+      "title": "OpenAIのAIエージェント、休眠サイトを掲示板化してタスク回答を共有か 研究団体が報告書公開",
+      "link": "https://www.itmedia.co.jp/news/article/2609/05/2000001200/",
+      "date": "2026-09-05T12:06:58+09:00",
+      "dateLabel": "09/05 12:06",
+      "desc": "OpenAIの社内AIエージェントが休眠状態の外部Wikiサイトを不正に“掲示板”として利用し、評価タスクの答えや制限回避の手法を共有していたとする報告書を研究団体が公開した。閲覧のみ許可されていた環境の抜け道を突き、GETリクエストで書き込みを行っていた。OpenAI側は内容を精査して対処するとしている。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -228,6 +228,28 @@
       "score": 28
     },
     {
+      "title": "女性の割合が多い仕事の方がAIによる自動化の影響を受けやすい可能性がある",
+      "link": "https://gigazine.net/news/20260906-female-jobs-ai/",
+      "date": "2026-09-06T13:00:00+09:00",
+      "dateLabel": "09/06 13:00",
+      "desc": "「AIによって仕事が奪われる」と言われるとき、エンジニアや力仕事など男性の割合が多い職業が影響を受けると考えられる一方で、女性の割合が多い育児や看護、介護といった職種ではAIの影響を受けにくいと考えられることがあります。しかし、オーストラリアの政府機関がまとめたデータを分析した研究では、AIによる自動化の影響を最も受けやすいのは、女性の割合が多い職種であるこ",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "圧縮とLLMに共通する本質は「データの予測」",
+      "link": "https://gigazine.net/news/20260906-compression-is-prediction/",
+      "date": "2026-09-06T12:00:00+09:00",
+      "dateLabel": "09/06 12:00",
+      "desc": "「データの圧縮」と「大規模言語モデル(LLM)」は一見すると全く異なる分野ですが、根幹では「データの予測」という同じ課題を解決しようとしています。いずれも「データの冗長性を削減」「より効率的な表現」を目指すものであり、ひいては情報理論におけるエントロピーという数学的枠組みで結びついています。ngrokのデベロッパー・エデュケーターであるアニー・セクストン氏は",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
       "title": "約1kgのVAIOが17万円台！ 16:10画面で仕事がはかどる「VAIO S13」が10％オフ",
       "link": "https://ascii.jp/elem/000/004/432/4432523/?rss",
       "date": "2026-09-05T19:00:00+09:00",
@@ -256,28 +278,6 @@
       "dateLabel": "09/05 17:00",
       "desc": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
       "img": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "仙台から挑戦の火を灯す！高校生・大学生対象「AKINAIプログラム」2026年度採択者15名が決定！",
-      "link": "https://ascii.jp/elem/000/004/432/4432579/?rss",
-      "date": "2026-09-05T12:30:00+09:00",
-      "dateLabel": "09/05 12:30",
-      "desc": "仙台から挑戦の火を灯す！高校生・大学生対象「AKINAIプログラム」2026年度採択者15名が決定！",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "185円、8gの命綱！ Rokidを超長時間駆動する極細充電ケーブルを衝動買い",
-      "link": "https://ascii.jp/elem/000/004/432/4432568/?rss",
-      "date": "2026-09-05T12:00:00+09:00",
-      "dateLabel": "09/05 12:00",
-      "desc": "AIスマートグラスにハマっている筆者だが、一番気になるのはバッテリーの持続時間だ。筆者一番のお気に入りの「Rokid スマートAIグラス」でその問題を解決してくれそうな、長さ1.2mの「極細USB充電ケーブル」をAliExpressで手に入れたのでご紹介したい。",
-      "img": "https://ascii.jp/img/2026/09/05/4522178/s/bfd88544ba4cac3c.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
