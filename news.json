@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-07T04:44:55.396762+09:00",
-  "generatedLabel": "2026/09/07 04:44",
+  "generatedAt": "2026-09-07T06:50:17.088393+09:00",
+  "generatedLabel": "2026/09/07 06:50",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 51,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -72,6 +72,17 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 50
+    },
+    {
+      "title": "戦場映像がAI訓練に、ウクライナ戦争が生んだ「新たな金脈」",
+      "link": "https://ascii.jp/elem/000/004/432/4432623/?rss",
+      "date": "2026-09-07T06:09:04+09:00",
+      "dateLabel": "09/07 06:09",
+      "desc": "ウクライナ国防省は1月、数万回のドローン飛行から集めた数百万点のデータを、軍事・民間の企業に提供すると発表した。すでに100社以上と英国政府がアクセス権を得ている。非日常的なできごとが日常的に起きる戦場が、AIモデルの訓練場となり、戦時下の国の資金源にもなっている。この市場を規制する当局は、まだ存在しない。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "規制/安全",
+      "score": 42
     },
     {
       "title": "複数のAIエージェントを1つのターミナルから統括できる「Herdr」",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "規制/安全",
-      "score": 26
-    },
-    {
-      "title": "ChatGPT・Claude・Grokがほぼ同時刻にダウン",
-      "link": "https://gigazine.net/news/20260904-openai-anthropic-spacexai-down/",
-      "date": "2026-09-04T19:00:00+09:00",
-      "dateLabel": "09/04 19:00",
-      "desc": "2026年9月3日深夜、大手3社のAIサービスがほぼ同時に停止しました。なぜタイミングが重なったのか、理由は明らかになっていません。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 26
     }
   ]
