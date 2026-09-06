@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-06T15:38:59.970512+09:00",
-  "generatedLabel": "2026/09/06 15:38",
+  "generatedAt": "2026-09-06T20:25:53.700590+09:00",
+  "generatedLabel": "2026/09/06 20:25",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -74,6 +74,17 @@
       "score": 50
     },
     {
+      "title": "複数のAIエージェントを1つのターミナルから統括できる「Herdr」",
+      "link": "https://gigazine.net/news/20260906-herdr/",
+      "date": "2026-09-06T18:00:00+09:00",
+      "dateLabel": "09/06 18:00",
+      "desc": "Claude CodeやCodexなど複数のAIエージェントへ同時に仕事を任せる場合、それぞれのターミナルを開いて進行状況を確認する作業が必要になります。複数のターミナルを1つのターミナル画面へまとめ、作業中・入力待ち・完了といった状態の確認やAIエージェント同士の連携も可能な「Herdr」が公開されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "複数のAIサービスで障害発生 ChatGPT／Claude／Grok【復旧済み】",
       "link": "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001152/",
       "date": "2026-09-04T03:10:08+09:00",
@@ -94,6 +105,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 36
+    },
+    {
+      "title": "AI時代、「新人のためのアート思考」を公開 ― 最初の一仕事から、自分の見方と問いを育てる",
+      "link": "https://ascii.jp/elem/000/004/432/4432617/?rss",
+      "date": "2026-09-06T15:49:18+09:00",
+      "dateLabel": "09/06 15:49",
+      "desc": "AI時代、「新人のためのアート思考」を公開 ― 最初の一仕事から、自分の見方と問いを育てる",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "AI時代、「営業・顧客接点のためのアート思考」を公開 ― 提案を磨く前に、自分は相手の何を見ていたか",
@@ -151,17 +173,6 @@
       "score": 34
     },
     {
-      "title": "6.8インチ大型スマホ「Pixel 11 Pro XL」を使い倒して、大画面ってやっぱりいい！と思った",
-      "link": "https://ascii.jp/elem/000/004/432/4432529/?rss",
-      "date": "2026-09-05T18:00:00+09:00",
-      "dateLabel": "09/05 18:00",
-      "desc": "グーグルの最上位スマホ「Pixel 11 Pro XL」の実機レビューです。6.8型の大画面は明るく見やすく、226gの重さもすぐに慣れると評価。Tensor G6による高速なローカルAI処理や、全レンズ高画素で最大120倍ズーム対応のカメラなど、妥協のないスペックを解説します。",
-      "img": "https://ascii.jp/img/2026/09/04/4521976/s/ed8281bc263c6c2d.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "「最大45％コスト減」 Anthropicが「Claude Fable 5.1」発表 脆弱性検知にも対応",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/05/news009.html",
       "date": "2026-09-05T13:00:00+09:00",
@@ -181,17 +192,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "NVIDIAが重たいAI処理を同一ネットワーク内のPCに割り振れる無料ツール「PAIR」を公開",
-      "link": "https://gigazine.net/news/20260904-nvidia-personal-ai-router/",
-      "date": "2026-09-04T13:00:00+09:00",
-      "dateLabel": "09/04 13:00",
-      "desc": "「Ollama」や「LM Studio」といったツールを使って、ローカル環境でAIに推論タスクを実行させるにあたり、ネットワーク上にいる互換性のあるPCを検出して接続し、連携してタスクに参加させることができる仮想推論ルーター「PAIR(Personal AI Router)」をNVIDIAが公開しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -228,6 +228,17 @@
       "score": 28
     },
     {
+      "title": "今年のPixelで買いなのは通常版の「Pixel 11」 その理由を教えます",
+      "link": "https://ascii.jp/elem/000/004/431/4431832/?rss",
+      "date": "2026-09-06T17:00:00+09:00",
+      "dateLabel": "09/06 17:00",
+      "desc": "新型「Pixel 11」は、上位機と同じTensor G6チップやAI機能を搭載しつつ13万6800円という高コスパ機です。前機種よりカメラバーが40%薄くなり机に置いてもガタつきません。重い3Dゲームには不向きですが、7年アップデート保証もあり、日常使いの大本命です。",
+      "img": "https://ascii.jp/img/2026/09/02/4521032/s/6672ffa8d7163878.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "女性の割合が多い仕事の方がAIによる自動化の影響を受けやすい可能性がある",
       "link": "https://gigazine.net/news/20260906-female-jobs-ai/",
       "date": "2026-09-06T13:00:00+09:00",
@@ -250,36 +261,25 @@
       "score": 26
     },
     {
-      "title": "約1kgのVAIOが17万円台！ 16:10画面で仕事がはかどる「VAIO S13」が10％オフ",
-      "link": "https://ascii.jp/elem/000/004/432/4432523/?rss",
-      "date": "2026-09-05T19:00:00+09:00",
-      "dateLabel": "09/05 19:00",
-      "desc": "VAIOストアで「VAIOストア祭り」を開催中。約1kgの軽量ボディと縦横比16:10の13.3型ディスプレーを備えた「VAIO S13」が10％オフとなり、17万8200円から購入できる。",
-      "img": "https://ascii.jp/img/2026/09/04/4521937/s/37003289fc826a1c.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "無料でPDF・電子書籍・Word文書・テキストファイルなどからローカルAIを使って検索＆要約ができる「DocuBrowser」、個人情報の認識も可能",
-      "link": "https://gigazine.net/news/20260905-docubrowser/",
-      "date": "2026-09-05T18:00:00+09:00",
-      "dateLabel": "09/05 18:00",
-      "desc": "PCに保存した文書が増えてくるとファイル名や保存場所だけを手掛かりに必要な情報を探すのが難しくなります。そこでPDF・Word文書・電子書籍などをまとめて読み込み、キーワード検索とローカルAIによる意味検索、文書要約が利用できる「DocuBrowser」が公開されています。 続きを読む...",
+      "title": "テスラがCybercabによるロボタクシーを開始した直後に規制当局が調査を開始",
+      "link": "https://gigazine.net/news/20260905-tesla-cybercab-nhtsa-investigation/",
+      "date": "2026-09-05T11:12:00+09:00",
+      "dateLabel": "09/05 11:12",
+      "desc": "テスラがアメリカのテキサス州オースティンでCybercabによるロボットタクシーサービスを開始しました。その直後、アメリカ運輸省道路交通安全局(NHTSA)がCybercabに関する調査を開始したと発表しています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AI全般",
+      "cat": "規制/安全",
       "score": 26
     },
     {
-      "title": "おっ、お買い得！ 23.8型のFMV一体型デスクトップPCが、Ryzen AI 5 340搭載で22万円台！",
-      "link": "https://ascii.jp/elem/000/004/431/4431616/?rss",
-      "date": "2026-09-05T17:00:00+09:00",
-      "dateLabel": "09/05 17:00",
-      "desc": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
-      "img": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "ChatGPT・Claude・Grokがほぼ同時刻にダウン",
+      "link": "https://gigazine.net/news/20260904-openai-anthropic-spacexai-down/",
+      "date": "2026-09-04T19:00:00+09:00",
+      "dateLabel": "09/04 19:00",
+      "desc": "2026年9月3日深夜、大手3社のAIサービスがほぼ同時に停止しました。なぜタイミングが重なったのか、理由は明らかになっていません。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 26
     }
   ]
