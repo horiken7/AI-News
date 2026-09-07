@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-08T06:50:20.038242+09:00",
-  "generatedLabel": "2026/09/08 06:50",
+  "generatedAt": "2026-09-08T08:51:38.387409+09:00",
+  "generatedLabel": "2026/09/08 08:51",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 56,
@@ -96,6 +96,17 @@
       "score": 58
     },
     {
+      "title": "人事・営業向けAIの導入による「データの分断」を防ぐ統合基盤",
+      "link": "https://ascii.jp/elem/000/004/432/4432362/?rss",
+      "date": "2026-09-08T07:00:00+09:00",
+      "dateLabel": "09/08 07:00",
+      "desc": "株式会社PeopleXは9月2日、54.5億円の資金調達を実施したと発表した。創業からの累計調達額は78.2億円となる。同社はあわせて、提供中および今後展開する各種AIツールを統合する基盤「MotherAI OS Athena（アテナ）」の発表と人事特化型LLMの開発、ならびに2031年度に売上高1000億円を目指す中期経営計画を公表した。",
+      "img": "https://ascii.jp/img/2026/09/04/4521665/s/dd9c7ef0ba0db448.gif",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
       "title": "M365 Copilotでも「GPT-6 Astra」利用可能に 「Fable 5.1」も可 Work IQと合わせて「より的確な応答」に",
       "link": "https://www.itmedia.co.jp/aiplus/article/2609/07/2000001217/",
       "date": "2026-09-07T15:32:17+09:00",
@@ -118,15 +129,15 @@
       "score": 50
     },
     {
-      "title": "Google「Gemini 3.8 Flash」発表 プロンプト1つで3Dゲーム生成、価格据え置きで大規模モデルに迫る",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/07/news031.html",
-      "date": "2026-09-07T08:00:00+09:00",
-      "dateLabel": "09/07 08:00",
-      "desc": "Googleは、「Gemini 3.8 Flash」と防衛特化の「Gemini 3.8 Flash Cyber」を発表した。3.7と同等の低価格を維持しながら、コーディングや推論、脆弱性検知／修正の性能を大幅に向上させた。",
+      "title": "初回正答率の向上で「対話の往復」削減 Meta「Muse Spark 1.3」の推論強化と活用ポイント",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/08/news045.html",
+      "date": "2026-09-08T08:00:00+09:00",
+      "dateLabel": "09/08 08:00",
+      "desc": "Metaが新たに公開したモデル「Muse Spark 1.3」は、推論能力の強化により開発時の「会話の往復」を削減するという。100万トークンのコンテキストやマルチモーダル処理を継承しつつ、選べる2種類の料金体系を提示している。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 50
+      "cat": "生成AI/マルチモーダル",
+      "score": 42
     },
     {
       "title": "DeepSeekが内モンゴル自治区にデータセンターを建設してHuawei製AIチップを16万基導入予定との報道、中国製GPUでAIを開発・運用する動きが加速",
@@ -184,6 +195,17 @@
       "score": 42
     },
     {
+      "title": "Google「Gemini 3.8 Flash」発表 プロンプト1つで3Dゲーム生成、価格据え置きで大規模モデルに迫る",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/07/news031.html",
+      "date": "2026-09-07T08:00:00+09:00",
+      "dateLabel": "09/07 08:00",
+      "desc": "Googleは、「Gemini 3.8 Flash」と防衛特化の「Gemini 3.8 Flash Cyber」を発表した。3.7と同等の低価格を維持しながら、コーディングや推論、脆弱性検知／修正の性能を大幅に向上させた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "OpenAI、休眠サイトへの自社AIエージェント書き込みを認め、非公表の理由を説明",
       "link": "https://www.itmedia.co.jp/news/article/2609/06/2000001202/",
       "date": "2026-09-06T07:35:17+09:00",
@@ -193,6 +215,17 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 42
+    },
+    {
+      "title": "「使えるパスワードを片っ端から探せ」AI悪用が本格化、世界150超の組織が危機感",
+      "link": "https://ascii.jp/limit/group/ida/elem/000/004/432/4432678/?rss",
+      "date": "2026-09-08T07:00:00+09:00",
+      "dateLabel": "09/08 07:00",
+      "desc": "AIを悪用したサイバー攻撃が現実の脅威になっている。約700のAIがHugging Faceへの攻撃に参加した事故も発生。OpenAIなど150超の組織が連携し、サイバー防御強化を呼びかけている。",
+      "img": "https://ascii.jp/img/2026/09/07/4522587/s/388813431273a7b7.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "GPT-6 Astraの3Dモデリング性能を示す作例が続々登場、短い指示でBlenderを巧みに操作して3D作品を作れる",
@@ -247,39 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "GPT-6 Astraの「low」はGPT-5.6 Solの「high」より高性能？ 公式が推奨",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/07/2000001209/",
-      "date": "2026-09-07T11:46:28+09:00",
-      "dateLabel": "09/07 11:46",
-      "desc": "OpenAIの「Tibo」氏はXでGPT-6 Astraの「low」設定はGPT-5.6 Solの「high」設定よりも優れていると発言した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "OpenAI研究員によるAI利用の中央値は「1日9万円超え」で上位10％は「1日100万円超え」",
-      "link": "https://gigazine.net/news/20260907-ai-use-inside-openai/",
-      "date": "2026-09-07T11:42:00+09:00",
-      "dateLabel": "09/07 11:42",
-      "desc": "OpenAI所属の研究者によるAI利用の実態をまとめたレポートが2026年9月6日に公開されました。レポートには研究者たちによるAI使用量や用途の推移が含まれており、最先端研究機関におけるAI利用の実態が分かるようになっています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "報道機関が著作権侵害でOpenAIとMicrosoftを提訴",
-      "link": "https://gigazine.net/news/20260907-seattle-times-newsday-sue-openai-microsoft/",
-      "date": "2026-09-07T11:23:00+09:00",
-      "dateLabel": "09/07 11:23",
-      "desc": "現地時間の2026年9月4日(金)、アメリカのローカルメディアであるThe Seattle TimesとNewsdayが、OpenAIとMicrosoftが許可なく両メディアの記事をAIシステムのトレーニングに利用したとして、裁判所に訴状を提出しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
       "score": 34
     }
   ]
