@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-07T10:50:11.753776+09:00",
-  "generatedLabel": "2026/09/07 10:50",
+  "generatedAt": "2026-09-07T15:46:54.829561+09:00",
+  "generatedLabel": "2026/09/07 15:46",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 60,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 17
+      "items": 18
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 10
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 16
     },
     {
       "source": "CNET Japan",
@@ -74,6 +74,17 @@
       "score": 58
     },
     {
+      "title": "GitHub Copilotが複数AIモデルを自動で使い分ける「HydraFusion」を公開、TerminalBench 2.1でClaude Opus 5比コスト67％減・スコア4.9ポイント向上",
+      "link": "https://gigazine.net/news/20260907-github-copilot-hydrafusion/",
+      "date": "2026-09-07T15:10:00+09:00",
+      "dateLabel": "09/07 15:10",
+      "desc": "GitHubは2026年9月4日、GitHub Copilotでタスクに応じて複数のAIモデルを使い分ける「Project HydraFusion」を研究プレビューとして発表しました。GitHubによる評価では、TerminalBench 2.1でClaude Opus 5と比べて推定コストを67％削減しながら正しく完了できたタスクの割合が4.9ポイント高く",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
       "title": "Google「Gemini 3.8 Flash」発表 プロンプト1つで3Dゲーム生成、価格据え置きで大規模モデルに迫る",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/07/news031.html",
       "date": "2026-09-07T08:00:00+09:00",
@@ -85,15 +96,37 @@
       "score": 50
     },
     {
-      "title": "SaaSに代わりAIエージェント支える“AaaS”が台頭／議事録作成AIは「意思決定支援」へ進化／生成AIの顧客満足度・1位はClaude、ほか",
-      "link": "https://ascii.jp/elem/000/004/432/4432581/?rss",
-      "date": "2026-09-07T08:00:00+09:00",
-      "dateLabel": "09/07 08:00",
-      "desc": "今回（2026年8月29日～9月4日）は、“意思決定支援”へと進化する会議支援AIツール市場、AIエージェントを支える基盤＝「AaaS」市場の台頭、最新の生成AIサービスの顧客満足度ランキング、ソフトウェア開発組織におけるAI活用の実態、企業のAI投資とROI（投資対効果）についてのデータを紹介します。",
-      "img": "https://ascii.jp/img/2026/09/05/4522293/s/fe6099bddf0e5be0.jpg",
+      "title": "Claudeがフェルマーの最終定理を11日で形式化、1300万行のLeanコードで初の完全な機械検証済み証明を完成",
+      "link": "https://gigazine.net/news/20260907-claude-fermat-last-theorem-formalizing/",
+      "date": "2026-09-07T15:37:00+09:00",
+      "dateLabel": "09/07 15:37",
+      "desc": "AI開発企業のAnthropicは2026年9月4日、AI「Claude」がフェルマーの最終定理について最初から最後までコンピューターで検証できる証明を完成させたと発表しました。Claudeは11日間にわたってほぼ自律的に作業し、証明支援システム「Lean 4」で約1300万行のコードを生成。Anthropicはフェルマーの最終定理について初の完全な機械検証",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "「AGIは到来した」NVIDIAジェンスン・フアンCEOが断言 一方で異論も",
+      "link": "https://ascii.jp/elem/000/004/432/4432796/?rss",
+      "date": "2026-09-07T14:45:00+09:00",
+      "dateLabel": "09/07 14:45",
+      "desc": "エヌビディアのジェンスン・フアンCEOは9月7日、自身のXアカウントを通じて、OpenAIの「GPT-6 Astra」がAGI（Artificial General Intelligence／汎用人工知能）に到達したと発言。OpenAIのチームに対して、祝辞を贈った。",
+      "img": "https://ascii.jp/img/2026/09/07/4522648/s/97d24c7216a771df.png",
       "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "OpenAI製エージェント約3700体が放置されていた過疎Wikiサイトを「秘密の情報共有掲示板」として利用、約1万8000件の投稿で答えやサンドボックス回避方法を共有",
+      "link": "https://gigazine.net/news/20260907-openai-agents-german-wiki-incident/",
+      "date": "2026-09-07T13:31:00+09:00",
+      "dateLabel": "09/07 13:31",
+      "desc": "OpenAIのAIエージェントが実験環境の外にアクセスし、ドイツ語のWikiサイトを利用して他のエージェントと情報を共有していた事案について、OpenAIが自社のエージェントによるものだったことを認めました。今回の事案を調査したシドニー・フォン・アーク氏らは2026年9月4日、調査結果をまとめたウェブサイト「collusion.wiki」を公開しました。 続",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 50
+      "score": 42
     },
     {
       "title": "Artificial Analysisがベンチマークテスト更新 非公開データ拡充で「ゲーム化を防ぐ」",
@@ -104,17 +137,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "戦場映像がAI訓練に、ウクライナ戦争が生んだ「新たな金脈」",
-      "link": "https://ascii.jp/elem/000/004/432/4432623/?rss",
-      "date": "2026-09-07T06:09:04+09:00",
-      "dateLabel": "09/07 06:09",
-      "desc": "ウクライナ国防省は1月、数万回のドローン飛行から集めた数百万点のデータを、軍事・民間の企業に提供すると発表した。すでに100社以上と英国政府がアクセス権を得ている。非日常的なできごとが日常的に起きる戦場が、AIモデルの訓練場となり、戦時下の国の資金源にもなっている。この市場を規制する当局は、まだ存在しない。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "規制/安全",
       "score": 42
     },
     {
@@ -140,25 +162,69 @@
       "score": 42
     },
     {
-      "title": "ディコーディングエックスが提供する対話型音声AIエージェント「DEN.Ai」、NECネクサソリューションズとの連携により、千葉県旭市役所で市民向け実証実験を9月17日より開始",
-      "link": "https://ascii.jp/elem/000/004/432/4432635/?rss",
-      "date": "2026-09-07T08:00:00+09:00",
-      "dateLabel": "09/07 08:00",
-      "desc": "ディコーディングエックスが提供する対話型音声AIエージェント「DEN.Ai」、NECネクサソリューションズとの連携により、千葉県旭市役所で市民向け実証実験を9月17日より開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "title": "手首にピカチュウ、一緒にすやすや Fitbit AirにPokémon Sleepコラボ版が登場",
+      "link": "https://ascii.jp/elem/000/004/432/4432821/?rss",
+      "date": "2026-09-07T15:05:00+09:00",
+      "dateLabel": "09/07 15:05",
+      "desc": "グーグルは8月27日、「Google Fitbit Air」の限定モデルとして、スマートフォンアプリ「Pokémon Sleep」とのコラボモデルを発表した。",
+      "img": "https://ascii.jp/img/2026/09/07/4522660/s/b48d66ebe22a800e.png",
       "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "OpenAIの主任科学者が「今後AIは自身の開発をますます推進するようになる」と見通しを表明",
+      "link": "https://gigazine.net/news/20260907-openai-rsi/",
+      "date": "2026-09-07T13:30:00+09:00",
+      "dateLabel": "09/07 13:30",
+      "desc": "記事作成時点では、生成AIは人間がトレーニングすることで性能向上や改善が行われるのが常です。OpenAIの主任科学者であるヤクブ・パホツキ氏は、将来的にAIが自分自身の開発を行う「再帰的自己改善(RSI)」が実現する可能性が高いと予想しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "初登場の“あの技術”、早くも「過度な期待」ピーク期に Gartnerが2026年版ハイプ・サイクルを発表",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2609/07/news043.html",
+      "date": "2026-09-07T11:55:00+09:00",
+      "dateLabel": "09/07 11:55",
+      "desc": "Gartnerが2026年版のハイプ・サイクルを発表した。2025年版では「黎明期」にあったエージェント型AIの他、これまで取り上げられてこなかった「ある技術」が早くも「過度な期待」に突入した。初登場にもかかわらず、「過度な期待」を背負っている技術とは何か。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 34
     },
     {
-      "title": "ついにAIキャラクターと“ビデオチャット”へ 「MiniMax H3」がリアルタイム生成に接近",
-      "link": "https://ascii.jp/elem/000/004/432/4432622/?rss",
-      "date": "2026-09-07T07:00:00+09:00",
-      "dateLabel": "09/07 07:00",
-      "desc": "動画生成AI「MiniMax H3」の高速化により、ローカルPCでもセミリアルタイムの動画対話や連続生成が可能になりつつある。将来的には動画は続きを“作って見る”時代になるかもしれない。",
-      "img": "https://ascii.jp/img/2026/09/07/4522523/s/cb37a552c0e1baa0.png",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
+      "title": "GPT-6 Astraの「low」はGPT-5.6 Solの「high」より高性能？ 公式が推奨",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/07/2000001209/",
+      "date": "2026-09-07T11:46:28+09:00",
+      "dateLabel": "09/07 11:46",
+      "desc": "OpenAIの「Tibo」氏はXでGPT-6 Astraの「low」設定はGPT-5.6 Solの「high」設定よりも優れていると発言した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "OpenAI研究員によるAI利用の中央値は「1日9万円超え」で上位10％は「1日100万円超え」",
+      "link": "https://gigazine.net/news/20260907-ai-use-inside-openai/",
+      "date": "2026-09-07T11:42:00+09:00",
+      "dateLabel": "09/07 11:42",
+      "desc": "OpenAI所属の研究者によるAI利用の実態をまとめたレポートが2026年9月6日に公開されました。レポートには研究者たちによるAI使用量や用途の推移が含まれており、最先端研究機関におけるAI利用の実態が分かるようになっています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "報道機関が著作権侵害でOpenAIとMicrosoftを提訴",
+      "link": "https://gigazine.net/news/20260907-seattle-times-newsday-sue-openai-microsoft/",
+      "date": "2026-09-07T11:23:00+09:00",
+      "dateLabel": "09/07 11:23",
+      "desc": "現地時間の2026年9月4日(金)、アメリカのローカルメディアであるThe Seattle TimesとNewsdayが、OpenAIとMicrosoftが許可なく両メディアの記事をAIシステムのトレーニングに利用したとして、裁判所に訴状を提出しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
       "score": 34
     },
     {
@@ -170,17 +236,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "AIで仕事は速くなった。では、会社は何を変えると決めたか ― 意思決定の再設計につなぐ「アート思考」10ページを無料公開",
-      "link": "https://ascii.jp/elem/000/004/432/4432638/?rss",
-      "date": "2026-09-06T20:58:05+09:00",
-      "dateLabel": "09/06 20:58",
-      "desc": "AIで仕事は速くなった。では、会社は何を変えると決めたか ― 意思決定の再設計につなぐ「アート思考」10ページを無料公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
       "score": 34
     },
     {
@@ -206,17 +261,6 @@
       "score": 34
     },
     {
-      "title": "ChatGPTの利用制限、新モデル「Astra」提供まで“毎日リセット” 有料ユーザー向け",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001165/",
-      "date": "2026-09-04T12:25:16+09:00",
-      "dateLabel": "09/04 12:25",
-      "desc": "新AIモデル「GPT-6 Astra」を使えるようになるまで、「ChatGPT」の利用制限枠のリセット権を有料ユーザー向けに毎日提供する――米OpenAIのティボ・ソティオ氏は、自身のXアカウントでこのように投稿した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "JetBrains、Mac上で動作するコーディングエージェント「Junie Local」提供開始。Claude Sonnet 4.5と同等の能力、RTX5090対応も開発中",
       "link": "https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html",
       "date": "2026-08-31T00:07:47+09:00",
@@ -228,59 +272,15 @@
       "score": 32
     },
     {
-      "title": "OpenAI、「GPT-6 Astra」を一部組織向けに公開 サイバー能力が初の「Critical」に",
-      "link": "https://www.itmedia.co.jp/news/article/2609/04/2000001153/",
-      "date": "2026-09-04T08:19:48+09:00",
-      "dateLabel": "09/04 08:19",
-      "desc": "OpenAIは新モデル「GPT-6 Astra」を公開した。サイバーセキュリティ能力が自社基準で最高の「Critical」に達した初のモデル。提供版は悪用防止のため防御用途に限定し、高度な機能は防御側支援プログラム「Daybreak」で段階的に開放する。数学やコーディング、PC操作など各領域で最高水準を記録した。",
+      "title": "ChatGPTの利用制限、新モデル「Astra」提供まで“毎日リセット” 有料ユーザー向け",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001165/",
+      "date": "2026-09-04T12:25:16+09:00",
+      "dateLabel": "09/04 12:25",
+      "desc": "新AIモデル「GPT-6 Astra」を使えるようになるまで、「ChatGPT」の利用制限枠のリセット権を有料ユーザー向けに毎日提供する――米OpenAIのティボ・ソティオ氏は、自身のXアカウントでこのように投稿した。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 28
-    },
-    {
-      "title": "ClaudeにSalesforceを統合した「Claudeforce」、AnthropicとSalesforceが発表。Claudeから営業データ分析や顧客対応を実現",
-      "link": "https://www.publickey1.jp/blog/26/claudesalesforceclaudeforceanthropicsalesforceclaude.html",
-      "date": "2026-09-02T11:43:59+09:00",
-      "dateLabel": "09/02 11:43",
-      "desc": "SalesforceとAnthropicが「Claudeforce」を発表しました。 第一弾となる「Salesforce in Claude」では、Claudeの画面からプロンプトを入力するだけで、Salesforceのデータやワークフロー...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 28
-    },
-    {
-      "title": "ASUS、AMD X870E搭載マザーボード2機種を発売 AIO Q-Connector・Wi-Fi 7対応",
-      "link": "https://ascii.jp/elem/000/004/432/4432628/?rss",
-      "date": "2026-09-07T10:00:00+09:00",
-      "dateLabel": "09/07 10:00",
-      "desc": "ASUSがAMD X870E搭載マザーボード「ROG STRIX X870E NEO」2機種を発売。AIO Q-ConnectorやWi-Fi 7、USB4、PCIe 5.0に対応し、自作PCの配線性と拡張性を高めます。",
-      "img": "https://ascii.jp/img/2026/09/07/4522536/s/b09305744bedff05.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "「医師が病気を経験しても、地域医療を途切れさせない」～エクイタスメディカル、茨木こうもと内科クリニックでDX・AIを活用した次世代クリニック運営モデルを開始～",
-      "link": "https://ascii.jp/elem/000/004/432/4432636/?rss",
-      "date": "2026-09-07T07:20:00+09:00",
-      "dateLabel": "09/07 07:20",
-      "desc": "「医師が病気を経験しても、地域医療を途切れさせない」～エクイタスメディカル、茨木こうもと内科クリニックでDX・AIを活用した次世代クリニック運営モデルを開始～",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "女性の割合が多い仕事の方がAIによる自動化の影響を受けやすい可能性がある",
-      "link": "https://gigazine.net/news/20260906-female-jobs-ai/",
-      "date": "2026-09-06T13:00:00+09:00",
-      "dateLabel": "09/06 13:00",
-      "desc": "「AIによって仕事が奪われる」と言われるとき、エンジニアや力仕事など男性の割合が多い職業が影響を受けると考えられる一方で、女性の割合が多い育児や看護、介護といった職種ではAIの影響を受けにくいと考えられることがあります。しかし、オーストラリアの政府機関がまとめたデータを分析した研究では、AIによる自動化の影響を最も受けやすいのは、女性の割合が多い職種であるこ",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 26
     }
   ]
 }
