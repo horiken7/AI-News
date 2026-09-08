@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-08T08:51:38.387409+09:00",
-  "generatedLabel": "2026/09/08 08:51",
+  "generatedAt": "2026-09-08T11:01:36.917688+09:00",
+  "generatedLabel": "2026/09/08 11:01",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 56,
@@ -74,39 +74,6 @@
       "score": 66
     },
     {
-      "title": "週刊アスキー No.1612(2026年9月8日発行)",
-      "link": "https://ascii.jp/elem/000/004/432/4432584/?rss",
-      "date": "2026-09-08T00:00:00+09:00",
-      "dateLabel": "09/08 00:00",
-      "desc": "特集1はClaudeやGrokを使って、AIエージェント＆PCの自動化を実践。作業効率を高めるための応用編としての位置付けだ。特集２は大画面をコンパクトに持ち運べる注目の折り畳みスマホ。薄くて高性能！",
-      "img": "https://ascii.jp/img/2026/09/05/4522331/s/9706f3ac875daf62.png",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 58
-    },
-    {
-      "title": "OpenAI、エージェントによる研究加速と直面する安全性の壁を開示 チーフサイエンティストは「自発的減速」を提唱",
-      "link": "https://www.itmedia.co.jp/news/article/2609/07/2000001204/",
-      "date": "2026-09-07T09:19:02+09:00",
-      "dateLabel": "09/07 09:19",
-      "desc": "OpenAIは、研究加速レポートとチーフサイエンティストのエッセイを公開した。社内でのAIエージェント活用により研究が急加速する一方、7月のインシデントによる訓練停止や、CoT監視の有効性低下など深刻な課題に直面していると開示。安全基準確立までの「自発的な減速」や国際的な規制枠組みの必要性を訴えた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
-      "score": 58
-    },
-    {
-      "title": "人事・営業向けAIの導入による「データの分断」を防ぐ統合基盤",
-      "link": "https://ascii.jp/elem/000/004/432/4432362/?rss",
-      "date": "2026-09-08T07:00:00+09:00",
-      "dateLabel": "09/08 07:00",
-      "desc": "株式会社PeopleXは9月2日、54.5億円の資金調達を実施したと発表した。創業からの累計調達額は78.2億円となる。同社はあわせて、提供中および今後展開する各種AIツールを統合する基盤「MotherAI OS Athena（アテナ）」の発表と人事特化型LLMの開発、ならびに2031年度に売上高1000億円を目指す中期経営計画を公表した。",
-      "img": "https://ascii.jp/img/2026/09/04/4521665/s/dd9c7ef0ba0db448.gif",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
       "title": "M365 Copilotでも「GPT-6 Astra」利用可能に 「Fable 5.1」も可 Work IQと合わせて「より的確な応答」に",
       "link": "https://www.itmedia.co.jp/aiplus/article/2609/07/2000001217/",
       "date": "2026-09-07T15:32:17+09:00",
@@ -129,6 +96,28 @@
       "score": 50
     },
     {
+      "title": "OpenAI、エージェントによる研究加速と直面する安全性の壁を開示 チーフサイエンティストは「自発的減速」を提唱",
+      "link": "https://www.itmedia.co.jp/news/article/2609/07/2000001204/",
+      "date": "2026-09-07T09:19:02+09:00",
+      "dateLabel": "09/07 09:19",
+      "desc": "OpenAIは、研究加速レポートとチーフサイエンティストのエッセイを公開した。社内でのAIエージェント活用により研究が急加速する一方、7月のインシデントによる訓練停止や、CoT監視の有効性低下など深刻な課題に直面していると開示。安全基準確立までの「自発的な減速」や国際的な規制枠組みの必要性を訴えた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
+      "score": 50
+    },
+    {
+      "title": "小型かつ高性能で日本語応答も可能な中国製AIモデル「MiniCPM5-2B」が登場、2BモデルなのにGemma 4 12Bと同等のベンチマークスコア",
+      "link": "https://gigazine.net/news/20260908-openbmb-minicpm5-2b/",
+      "date": "2026-09-08T10:47:00+09:00",
+      "dateLabel": "09/08 10:47",
+      "desc": "中国のAI企業であるOpenBMBがAIモデル「MiniCPM5-2B」を2026年9月7日に公開しました。MiniCPM5-2Bは20億パラメーター規模のモデルですが、40億パラメーター規模のモデルより高い性能を備えています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 42
+    },
+    {
       "title": "初回正答率の向上で「対話の往復」削減 Meta「Muse Spark 1.3」の推論強化と活用ポイント",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/08/news045.html",
       "date": "2026-09-08T08:00:00+09:00",
@@ -147,17 +136,6 @@
       "desc": "中国のAI企業であるDeepSeekが内モンゴル自治区でデータセンター建設計画を進めていることがBloombergによって報じられています。データセンターにはHuawei製AIチップ「Ascend 950DT」が最大16万基導入される予定とのことです。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "初めてのゲーミングノートPC、コレでいいのでは？ RTX 5050搭載のMSI「Cyborg 15 C13W」が20万円切りで販売中",
-      "link": "https://ascii.jp/elem/000/004/432/4432799/?rss",
-      "date": "2026-09-07T19:00:00+09:00",
-      "dateLabel": "09/07 19:00",
-      "desc": "Amazon.co.jpにて、MSIの15.6型ゲーミングノートPC「Cyborg 15 C13W」が販売中だ。インテル「Core i7-13620H」とNVIDIA「GeForce RTX 5050 Laptop GPU」を搭載したモデルで、価格は19万9800円。",
-      "img": "https://ascii.jp/img/2026/09/07/4522650/s/f7c0e1bc1774b023.jpg",
-      "src": "ASCII.jp",
       "cat": "半導体/GPU",
       "score": 42
     },
@@ -184,47 +162,25 @@
       "score": 42
     },
     {
-      "title": "Artificial Analysisがベンチマークテスト更新 非公開データ拡充で「ゲーム化を防ぐ」",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/07/2000001205/",
-      "date": "2026-09-07T10:23:27+09:00",
-      "dateLabel": "09/07 10:23",
-      "desc": "Artificial Analysisが知能指標「Intelligence Index」をv4.2に更新。実務に近い評価を加え、非公開データの比重を倍増して「ゲーム化を防ぐ」とうたう。首位はClaude Fable 5.1で、GPT-6 Astraが続く。",
+      "title": "ChatGPT、有料ユーザー全リセット 「Astra」で使い切った人向けに",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/08/2000001243/",
+      "date": "2026-09-08T09:31:55+09:00",
+      "dateLabel": "09/08 09:31",
+      "desc": "最新モデル「GPT-6 Astra」を使ってBlenderでの3Dモデリングなどを楽しみ、7日（レイバー・デーの祝日）までの連休に利用枠を使い切った人が、平日が始まる8日にもAstraを引き続き使えるようにする。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 42
+      "score": 34
     },
     {
-      "title": "Google「Gemini 3.8 Flash」発表 プロンプト1つで3Dゲーム生成、価格据え置きで大規模モデルに迫る",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/07/news031.html",
-      "date": "2026-09-07T08:00:00+09:00",
-      "dateLabel": "09/07 08:00",
-      "desc": "Googleは、「Gemini 3.8 Flash」と防衛特化の「Gemini 3.8 Flash Cyber」を発表した。3.7と同等の低価格を維持しながら、コーディングや推論、脆弱性検知／修正の性能を大幅に向上させた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "OpenAI、休眠サイトへの自社AIエージェント書き込みを認め、非公表の理由を説明",
-      "link": "https://www.itmedia.co.jp/news/article/2609/06/2000001202/",
-      "date": "2026-09-06T07:35:17+09:00",
-      "dateLabel": "09/06 07:35",
-      "desc": "OpenAIは、AIエージェントが休眠Wikiを掲示板として悪用した問題について声明を発表し、自社モデルの関与を初めて認めた。セキュリティ侵害ではなく「ミスアライメント」の研究事例と位置付けていたため個別公表しなかったと釈明し、新たな開示基準を数週間以内に策定、公開するとしている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "「使えるパスワードを片っ端から探せ」AI悪用が本格化、世界150超の組織が危機感",
-      "link": "https://ascii.jp/limit/group/ida/elem/000/004/432/4432678/?rss",
-      "date": "2026-09-08T07:00:00+09:00",
-      "dateLabel": "09/08 07:00",
-      "desc": "AIを悪用したサイバー攻撃が現実の脅威になっている。約700のAIがHugging Faceへの攻撃に参加した事故も発生。OpenAIなど150超の組織が連携し、サイバー防御強化を呼びかけている。",
-      "img": "https://ascii.jp/img/2026/09/07/4522587/s/388813431273a7b7.jpg",
+      "title": "パトスロゴス、文書から計算ルールをAIが実行する「Combosite Functions AI」構想を発表",
+      "link": "https://ascii.jp/elem/000/004/432/4432950/?rss",
+      "date": "2026-09-08T09:00:00+09:00",
+      "dateLabel": "09/08 09:00",
+      "desc": "パトスロゴス、文書から計算ルールをAIが実行する「Combosite Functions AI」構想を発表",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "LLM/モデル",
+      "cat": "AI全般",
       "score": 34
     },
     {
@@ -236,17 +192,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "LeapAI、経営者・AX担当者向け「AIエージェント活用交流会」を9月16日にWeWork竹芝で開催",
-      "link": "https://ascii.jp/elem/000/004/432/4432914/?rss",
-      "date": "2026-09-07T18:56:23+09:00",
-      "dateLabel": "09/07 18:56",
-      "desc": "LeapAI、経営者・AX担当者向け「AIエージェント活用交流会」を9月16日にWeWork竹芝で開催",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -281,6 +226,61 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 34
+    },
+    {
+      "title": "GPT-6 Astraの「low」はGPT-5.6 Solの「high」より高性能？ 公式が推奨",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/07/2000001209/",
+      "date": "2026-09-07T11:46:28+09:00",
+      "dateLabel": "09/07 11:46",
+      "desc": "OpenAIの「Tibo」氏はXでGPT-6 Astraの「low」設定はGPT-5.6 Solの「high」設定よりも優れていると発言した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "OpenAI研究員によるAI利用の中央値は「1日9万円超え」で上位10％は「1日100万円超え」",
+      "link": "https://gigazine.net/news/20260907-ai-use-inside-openai/",
+      "date": "2026-09-07T11:42:00+09:00",
+      "dateLabel": "09/07 11:42",
+      "desc": "OpenAI所属の研究者によるAI利用の実態をまとめたレポートが2026年9月6日に公開されました。レポートには研究者たちによるAI使用量や用途の推移が含まれており、最先端研究機関におけるAI利用の実態が分かるようになっています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "Artificial Analysisがベンチマークテスト更新 非公開データ拡充で「ゲーム化を防ぐ」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/07/2000001205/",
+      "date": "2026-09-07T10:23:27+09:00",
+      "dateLabel": "09/07 10:23",
+      "desc": "Artificial Analysisが知能指標「Intelligence Index」をv4.2に更新。実務に近い評価を加え、非公開データの比重を倍増して「ゲーム化を防ぐ」とうたう。首位はClaude Fable 5.1で、GPT-6 Astraが続く。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "ClaudeにSalesforceを統合した「Claudeforce」、AnthropicとSalesforceが発表。Claudeから営業データ分析や顧客対応を実現",
+      "link": "https://www.publickey1.jp/blog/26/claudesalesforceclaudeforceanthropicsalesforceclaude.html",
+      "date": "2026-09-02T11:43:59+09:00",
+      "dateLabel": "09/02 11:43",
+      "desc": "SalesforceとAnthropicが「Claudeforce」を発表しました。 第一弾となる「Salesforce in Claude」では、Claudeの画面からプロンプトを入力するだけで、Salesforceのデータやワークフロー...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 28
+    },
+    {
+      "title": "GPT-6 AstraがパズルFPS『Portal』を人間の助けなしにクリア、コストは約9万円",
+      "link": "https://gigazine.net/news/20260908-gpt-6-astra-plays-portal/",
+      "date": "2026-09-08T10:56:00+09:00",
+      "dateLabel": "09/08 10:56",
+      "desc": "OpenAIのGPT-6 Astraが人間の操作による助けを得ることなく、パズルFPSの『Portal』をクリアしたと報告されています。GPT-6 AstraがクリアするまでにかかったAPIコストは571.18ドル(約8万9000円)でした。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
     }
   ]
 }
