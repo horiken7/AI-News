@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-08T21:22:59.996813+09:00",
-  "generatedLabel": "2026/09/08 21:22",
+  "generatedAt": "2026-09-09T01:54:23.319759+09:00",
+  "generatedLabel": "2026/09/09 01:54",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 51,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -70,17 +70,6 @@
       "desc": "Googleが「Gemini 3.8 Flash」の一般提供を開始した。長時間のコーディングや自律型エージェントを想定する新モデルだ。発表内容を読み解くと、単なる性能向上とは異なる3つの変化が見えてくる。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 58
-    },
-    {
-      "title": "GPT-6 AstraがAIコーディング性能でトップ級の67点、圧倒的なトークン効率を示すもFable 5.1には届かず",
-      "link": "https://gigazine.net/news/20260907-artificial-analysis-gpt-6-astra/",
-      "date": "2026-09-07T20:00:00+09:00",
-      "dateLabel": "09/07 20:00",
-      "desc": "AIモデルの性能を独自に評価しているArtificial Analysisが、OpenAIの「GPT-6 Astra」のベンチマーク結果を公開しました。コーディングエージェントとしての性能を測る「Artificial Analysis Coding Agent Index」でGPT-6 Astraは67点を記録し、Claude Opus 5やFable 5、",
-      "img": "",
-      "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 58
     },
@@ -127,6 +116,17 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 42
+    },
+    {
+      "title": "AIエージェントの採用活用 自動化できる業務とおすすめツール10選",
+      "link": "https://ainow.ai/2026/09/08/278350/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e6%258e%25a1%25e7%2594%25a8%25e6%25b4%25bb%25e7%2594%25a8-%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b%25e6%25a5%25ad%25e5%258b%2599%25e3%2581%25a8%25e3%2581%258a",
+      "date": "2026-09-08T22:18:01+09:00",
+      "dateLabel": "09/08 22:18",
+      "desc": "スカウト送信と面接日程の調整に一日が溶けてしまい、本来向き合うべき採用要件の設計や候補者との関係づくりに手が回らない採用担当者は少なくないでしょう。 採用AIエージェントとは、求人票の作成から書類選考、日程調整、面接評価... The post AIエージェントの採用活用 自動化できる業務とおすすめツール10選 first appeared on AI専門ニ",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "AIが答えを出す時代に、エンジニアの「判断力」を鍛える研修を提供開始",
@@ -191,17 +191,6 @@
       "desc": "最新モデル「GPT-6 Astra」を使ってBlenderでの3Dモデリングなどを楽しみ、7日（レイバー・デーの祝日）までの連休に利用枠を使い切った人が、平日が始まる8日にもAstraを引き続き使えるようにする。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "GPT-6 Astraの3Dモデリング性能を示す作例が続々登場、短い指示でBlenderを巧みに操作して3D作品を作れる",
-      "link": "https://gigazine.net/news/20260907-gpt-6-astra-3d-modeling/",
-      "date": "2026-09-07T22:00:00+09:00",
-      "dateLabel": "09/07 22:00",
-      "desc": "OpenAIの最先端モデル「GPT-6 Astra」が2026年9月3日に登場しました。GPT-6 Astraは3Dモデリングやゲームエンジンの操作に優れていることがアピールされており、インターネット上にはGPT-6 Astraを用いて作成した3D作品の実例が数多く投稿されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 34
     },
@@ -280,6 +269,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AI実装",
+      "score": 26
+    },
+    {
+      "title": "100万円のPCが注目ランキング1位に？ ローカルLLMブームを生んだ「3つの条件」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/08/2000001257/",
+      "date": "2026-09-08T12:43:41+09:00",
+      "dateLabel": "09/08 12:43",
+      "desc": "価格比較サイト「価格.com」のデスクトップPC注目ランキング1位に約100万円のAIスパコンが掲載されるなど、いま「ローカルLLM」が熱い状況だ。ここでは3本の記事で、ローカルLLM関連が急速に盛り上がりを見せている理由を解剖していく。1本目となるこの記事では、「モデル」「ハードウェア」「ソフトウェア」という3つの土壌が成熟しつつあることを紹介する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 26
     }
   ]
