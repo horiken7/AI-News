@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-08T11:01:36.917688+09:00",
-  "generatedLabel": "2026/09/08 11:01",
+  "generatedAt": "2026-09-08T16:32:36.096852+09:00",
+  "generatedLabel": "2026/09/08 16:32",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -74,37 +74,37 @@
       "score": 66
     },
     {
-      "title": "M365 Copilotでも「GPT-6 Astra」利用可能に 「Fable 5.1」も可 Work IQと合わせて「より的確な応答」に",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/07/2000001217/",
-      "date": "2026-09-07T15:32:17+09:00",
-      "dateLabel": "09/07 15:32",
-      "desc": "Microsoftは、OpenAIの新モデル「GPT-6 Astra」を「Copilot Cowork」と「Copilot Studio」で提供開始。作業を細かく分けて指示せずとも、より大きなタスクを委任できるとうたう。",
+      "title": "「Gemini 3.8 Flash」の狙いは“賢さ”ではない？ 発表から見えた3つのポイント",
+      "link": "https://kn.itmedia.co.jp/kn/article/2609/08/2000001255/",
+      "date": "2026-09-08T12:32:12+09:00",
+      "dateLabel": "09/08 12:32",
+      "desc": "Googleが「Gemini 3.8 Flash」の一般提供を開始した。長時間のコーディングや自律型エージェントを想定する新モデルだ。発表内容を読み解くと、単なる性能向上とは異なる3つの変化が見えてくる。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 50
+      "score": 58
     },
     {
-      "title": "GitHub Copilotが複数AIモデルを自動で使い分ける「HydraFusion」を公開、TerminalBench 2.1でClaude Opus 5比コスト67％減・スコア4.9ポイント向上",
-      "link": "https://gigazine.net/news/20260907-github-copilot-hydrafusion/",
-      "date": "2026-09-07T15:10:00+09:00",
-      "dateLabel": "09/07 15:10",
-      "desc": "GitHubは2026年9月4日、GitHub Copilotでタスクに応じて複数のAIモデルを使い分ける「Project HydraFusion」を研究プレビューとして発表しました。GitHubによる評価では、TerminalBench 2.1でClaude Opus 5と比べて推定コストを67％削減しながら正しく完了できたタスクの割合が4.9ポイント高く",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 50
+      "title": "3DCG制作ソフト「Blender」AI効果で人気急上昇 OpenAI「Astra」が生み出す“力作”が話題",
+      "link": "https://ascii.jp/elem/000/004/433/4433088/?rss",
+      "date": "2026-09-08T14:20:00+09:00",
+      "dateLabel": "09/08 14:20",
+      "desc": "3DCG制作ソフト「Blender」の作品が9月3日以降、SNS（X）に数多く投稿され、注目が集まっている。背景にあるのは、OpenAIが同日発表したAIモデル「GPT-6 Astra」との連携だ。",
+      "img": "https://ascii.jp/img/2026/09/08/4523028/s/c5b758e3ef0fb49c.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
-      "title": "OpenAI、エージェントによる研究加速と直面する安全性の壁を開示 チーフサイエンティストは「自発的減速」を提唱",
-      "link": "https://www.itmedia.co.jp/news/article/2609/07/2000001204/",
-      "date": "2026-09-07T09:19:02+09:00",
-      "dateLabel": "09/07 09:19",
-      "desc": "OpenAIは、研究加速レポートとチーフサイエンティストのエッセイを公開した。社内でのAIエージェント活用により研究が急加速する一方、7月のインシデントによる訓練停止や、CoT監視の有効性低下など深刻な課題に直面していると開示。安全基準確立までの「自発的な減速」や国際的な規制枠組みの必要性を訴えた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
-      "score": 50
+      "title": "LLMがブランドを「何として」覚えているかを可視化--ディギディギに新機能「連想スター」を搭載",
+      "link": "https://ascii.jp/elem/000/004/433/4433176/?rss",
+      "date": "2026-09-08T13:00:52+09:00",
+      "dateLabel": "09/08 13:00",
+      "desc": "LLMがブランドを「何として」覚えているかを可視化--ディギディギに新機能「連想スター」を搭載",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "小型かつ高性能で日本語応答も可能な中国製AIモデル「MiniCPM5-2B」が登場、2BモデルなのにGemma 4 12Bと同等のベンチマークスコア",
@@ -140,26 +140,59 @@
       "score": 42
     },
     {
-      "title": "Claudeがフェルマーの最終定理を11日で形式化、1300万行のLeanコードで初の完全な機械検証済み証明を完成",
-      "link": "https://gigazine.net/news/20260907-claude-fermat-last-theorem-formalizing/",
-      "date": "2026-09-07T15:37:00+09:00",
-      "dateLabel": "09/07 15:37",
-      "desc": "AI開発企業のAnthropicは2026年9月4日、AI「Claude」がフェルマーの最終定理について最初から最後までコンピューターで検証できる証明を完成させたと発表しました。Claudeは11日間にわたってほぼ自律的に作業し、証明支援システム「Lean 4」で約1300万行のコードを生成。Anthropicはフェルマーの最終定理について初の完全な機械検証",
+      "title": "M365 Copilotでも「GPT-6 Astra」利用可能に 「Fable 5.1」も可 Work IQと合わせて「より的確な応答」に",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/07/2000001217/",
+      "date": "2026-09-07T15:32:17+09:00",
+      "dateLabel": "09/07 15:32",
+      "desc": "Microsoftは、OpenAIの新モデル「GPT-6 Astra」を「Copilot Cowork」と「Copilot Studio」で提供開始。作業を細かく分けて指示せずとも、より大きなタスクを委任できるとうたう。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
-      "title": "OpenAI製エージェント約3700体が放置されていた過疎Wikiサイトを「秘密の情報共有掲示板」として利用、約1万8000件の投稿で答えやサンドボックス回避方法を共有",
-      "link": "https://gigazine.net/news/20260907-openai-agents-german-wiki-incident/",
-      "date": "2026-09-07T13:31:00+09:00",
-      "dateLabel": "09/07 13:31",
-      "desc": "OpenAIのAIエージェントが実験環境の外にアクセスし、ドイツ語のWikiサイトを利用して他のエージェントと情報を共有していた事案について、OpenAIが自社のエージェントによるものだったことを認めました。今回の事案を調査したシドニー・フォン・アーク氏らは2026年9月4日、調査結果をまとめたウェブサイト「collusion.wiki」を公開しました。 続",
+      "title": "AI時代、「アート思考」と「判断デザイン」を一つの仕事でつなぐ ― 26ページの図解を公開",
+      "link": "https://ascii.jp/elem/000/004/433/4433185/?rss",
+      "date": "2026-09-08T13:48:47+09:00",
+      "dateLabel": "09/08 13:48",
+      "desc": "AI時代、「アート思考」と「判断デザイン」を一つの仕事でつなぐ ― 26ページの図解を公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "工場管理システム「MENTENA」、AIで類似する過去作業を検索可能に 新機能「Axel SEARCH」で設備トラブル時の迅速な対応を支援",
+      "link": "https://ascii.jp/elem/000/004/433/4433181/?rss",
+      "date": "2026-09-08T13:00:00+09:00",
+      "dateLabel": "09/08 13:00",
+      "desc": "工場管理システム「MENTENA」、AIで類似する過去作業を検索可能に 新機能「Axel SEARCH」で設備トラブル時の迅速な対応を支援",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "ChatGPT Workに「ユーザーの文章のクセを学んで再現する機能」が追加される",
+      "link": "https://gigazine.net/news/20260908-chatgpt-learning-writing-quirks/",
+      "date": "2026-09-08T12:43:00+09:00",
+      "dateLabel": "09/08 12:43",
+      "desc": "文書作成やウェブサイトの作成といった日常業務をこなせるAIエージェント「ChatGPT Work」に、ユーザーの文体を学んで再現する機能が追加されました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 42
+      "score": 34
+    },
+    {
+      "title": "Googleの自動化ツール「Workspace Studio」×Gemini、4つの業務効率化アイデア",
+      "link": "https://kn.itmedia.co.jp/kn/article/2609/08/2000001168/",
+      "date": "2026-09-08T12:16:02+09:00",
+      "dateLabel": "09/08 12:16",
+      "desc": "AIに仕事を手伝わせるだけでなく、仕事そのものを自動化するにはどうすればいいのか。Google Workspace Studioを使った4つの実例から、日々の業務を効率化する具体的な方法を紹介する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "ChatGPT、有料ユーザー全リセット 「Astra」で使い切った人向けに",
@@ -170,17 +203,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "パトスロゴス、文書から計算ルールをAIが実行する「Combosite Functions AI」構想を発表",
-      "link": "https://ascii.jp/elem/000/004/432/4432950/?rss",
-      "date": "2026-09-08T09:00:00+09:00",
-      "dateLabel": "09/08 09:00",
-      "desc": "パトスロゴス、文書から計算ルールをAIが実行する「Combosite Functions AI」構想を発表",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -206,57 +228,13 @@
       "score": 34
     },
     {
-      "title": "OpenAIの主任科学者が「今後AIは自身の開発をますます推進するようになる」と見通しを表明",
-      "link": "https://gigazine.net/news/20260907-openai-rsi/",
-      "date": "2026-09-07T13:30:00+09:00",
-      "dateLabel": "09/07 13:30",
-      "desc": "記事作成時点では、生成AIは人間がトレーニングすることで性能向上や改善が行われるのが常です。OpenAIの主任科学者であるヤクブ・パホツキ氏は、将来的にAIが自分自身の開発を行う「再帰的自己改善(RSI)」が実現する可能性が高いと予想しました。 続きを読む...",
+      "title": "Claudeがフェルマーの最終定理を11日で形式化、1300万行のLeanコードで初の完全な機械検証済み証明を完成",
+      "link": "https://gigazine.net/news/20260907-claude-fermat-last-theorem-formalizing/",
+      "date": "2026-09-07T15:37:00+09:00",
+      "dateLabel": "09/07 15:37",
+      "desc": "AI開発企業のAnthropicは2026年9月4日、AI「Claude」がフェルマーの最終定理について最初から最後までコンピューターで検証できる証明を完成させたと発表しました。Claudeは11日間にわたってほぼ自律的に作業し、証明支援システム「Lean 4」で約1300万行のコードを生成。Anthropicはフェルマーの最終定理について初の完全な機械検証",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "初登場の“あの技術”、早くも「過度な期待」ピーク期に Gartnerが2026年版ハイプ・サイクルを発表",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2609/07/news043.html",
-      "date": "2026-09-07T11:55:00+09:00",
-      "dateLabel": "09/07 11:55",
-      "desc": "Gartnerが2026年版のハイプ・サイクルを発表した。2025年版では「黎明期」にあったエージェント型AIの他、これまで取り上げられてこなかった「ある技術」が早くも「過度な期待」に突入した。初登場にもかかわらず、「過度な期待」を背負っている技術とは何か。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "GPT-6 Astraの「low」はGPT-5.6 Solの「high」より高性能？ 公式が推奨",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/07/2000001209/",
-      "date": "2026-09-07T11:46:28+09:00",
-      "dateLabel": "09/07 11:46",
-      "desc": "OpenAIの「Tibo」氏はXでGPT-6 Astraの「low」設定はGPT-5.6 Solの「high」設定よりも優れていると発言した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "OpenAI研究員によるAI利用の中央値は「1日9万円超え」で上位10％は「1日100万円超え」",
-      "link": "https://gigazine.net/news/20260907-ai-use-inside-openai/",
-      "date": "2026-09-07T11:42:00+09:00",
-      "dateLabel": "09/07 11:42",
-      "desc": "OpenAI所属の研究者によるAI利用の実態をまとめたレポートが2026年9月6日に公開されました。レポートには研究者たちによるAI使用量や用途の推移が含まれており、最先端研究機関におけるAI利用の実態が分かるようになっています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Artificial Analysisがベンチマークテスト更新 非公開データ拡充で「ゲーム化を防ぐ」",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/07/2000001205/",
-      "date": "2026-09-07T10:23:27+09:00",
-      "dateLabel": "09/07 10:23",
-      "desc": "Artificial Analysisが知能指標「Intelligence Index」をv4.2に更新。実務に近い評価を加え、非公開データの比重を倍増して「ゲーム化を防ぐ」とうたう。首位はClaude Fable 5.1で、GPT-6 Astraが続く。",
-      "img": "",
-      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
     },
@@ -272,14 +250,36 @@
       "score": 28
     },
     {
-      "title": "GPT-6 AstraがパズルFPS『Portal』を人間の助けなしにクリア、コストは約9万円",
-      "link": "https://gigazine.net/news/20260908-gpt-6-astra-plays-portal/",
-      "date": "2026-09-08T10:56:00+09:00",
-      "dateLabel": "09/08 10:56",
-      "desc": "OpenAIのGPT-6 Astraが人間の操作による助けを得ることなく、パズルFPSの『Portal』をクリアしたと報告されています。GPT-6 AstraがクリアするまでにかかったAPIコストは571.18ドル(約8万9000円)でした。 続きを読む...",
+      "title": "「AIの種類」と「業務課題に応じた使い分け・組み合わせ」を知ることが重要",
+      "link": "https://ascii.jp/elem/000/004/430/4430133/?rss",
+      "date": "2026-09-08T14:00:00+09:00",
+      "dateLabel": "09/08 14:00",
+      "desc": "本コラムでは、AIへの期待と現実のギャップを整理するとともに、本格的な活用へのロードマップの入口として「AIの種類」と「業務課題に応じた使い分けや組み合わせ例」を紹介します。",
+      "img": "https://ascii.jp/img/2026/08/28/4518650/s/7db3c502c0f377b0.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "「中に人いる？」と疑われた人型ロボ、ついに量産へ 2027年に市場投入 中国EVメーカーのシャオペン",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/08/2000001261/",
+      "date": "2026-09-08T13:24:41+09:00",
+      "dateLabel": "09/08 13:24",
+      "desc": "中国のEVメーカー小鵬汽車（シャオペン）は、人型ロボット「IRON」の生産ラインを稼働させたと発表した。2026年内に量産を始め、27年に中国および海外市場に投入する予定だ。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
+      "src": "ITmedia AI+",
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
+      "title": "Aitane、PCAグループのCVC・飯田橋クロスパートナーズからプレシリーズAで3,000万円を調達",
+      "link": "https://ascii.jp/elem/000/004/433/4433174/?rss",
+      "date": "2026-09-08T13:10:00+09:00",
+      "dateLabel": "09/08 13:10",
+      "desc": "Aitane、PCAグループのCVC・飯田橋クロスパートナーズからプレシリーズAで3,000万円を調達",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 26
     }
   ]
