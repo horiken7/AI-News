@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-09T04:39:30.195613+09:00",
-  "generatedLabel": "2026/09/09 04:39",
+  "generatedAt": "2026-09-09T07:09:40.722639+09:00",
+  "generatedLabel": "2026/09/09 07:09",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 51,
+  "candidates": 49,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 11
+      "items": 10
     },
     {
       "source": "CNET Japan",
@@ -74,6 +74,17 @@
       "score": 58
     },
     {
+      "title": "Meta、パーソナルAIエージェント「Muse」発表 メール送信や買い物も代行（まずは米国で無料提供開始）",
+      "link": "https://www.itmedia.co.jp/news/article/2609/09/2000001294/",
+      "date": "2026-09-09T06:41:57+09:00",
+      "dateLabel": "09/09 06:41",
+      "desc": "Metaは、日常の作業を代行するパーソナルAIエージェント「Muse」を発表した。専用アプリやWhatsAppから操作でき、メール送信や旅行予約、Webフォーム入力などを自律して行う。専用VMや別エージェントによる多層防御で安全性を高め、決済やログイン情報との連携にも対応する。基本機能は無料。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
+      "score": 50
+    },
+    {
       "title": "OpenAI「GPT-6 Astra」発表 Codexのコーディングは前世代からどれだけ進化？",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/08/news035.html",
       "date": "2026-09-08T17:00:00+09:00",
@@ -107,15 +118,15 @@
       "score": 42
     },
     {
-      "title": "M365 Copilotでも「GPT-6 Astra」利用可能に 「Fable 5.1」も可 Work IQと合わせて「より的確な応答」に",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/07/2000001217/",
-      "date": "2026-09-07T15:32:17+09:00",
-      "dateLabel": "09/07 15:32",
-      "desc": "Microsoftは、OpenAIの新モデル「GPT-6 Astra」を「Copilot Cowork」と「Copilot Studio」で提供開始。作業を細かく分けて指示せずとも、より大きなタスクを委任できるとうたう。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
+      "title": "登録・送信不要で文字や表を自動データ化。ブラウザ上で完結する無料のAI文字認識ツール",
+      "link": "https://ascii.jp/elem/000/004/432/4432500/?rss",
+      "date": "2026-09-09T07:00:00+09:00",
+      "dateLabel": "09/09 07:00",
+      "desc": "MLism株式会社は9月3日、独自開発のAI-OCR（文字自動認識）エンジンを搭載した文書解析Webアプリ「YomiToku Studio」の提供を開始したと発表した。アカウント登録やソフトウェアのインストールが不要で、ブラウザ上から無料で利用できる。",
+      "img": "https://ascii.jp/img/2026/09/04/4521898/s/ab522154461e69a8.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "AIエージェントの採用活用 自動化できる業務とおすすめツール10選",
@@ -228,28 +239,6 @@
       "score": 26
     },
     {
-      "title": "「Suica Renaissance」 第5弾",
-      "link": "https://ascii.jp/elem/000/004/433/4433277/?rss",
-      "date": "2026-09-08T17:40:00+09:00",
-      "dateLabel": "09/08 17:40",
-      "desc": "「Suica Renaissance」 第5弾",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "【製造現場の立ち疲労を軽減】アルケリス、ファクトリーイノベーション Week [秋] 2026にスタビシリーズと姿勢解析AIアプリ（β版）を出展",
-      "link": "https://ascii.jp/elem/000/004/433/4433226/?rss",
-      "date": "2026-09-08T17:37:57+09:00",
-      "dateLabel": "09/08 17:37",
-      "desc": "【製造現場の立ち疲労を軽減】アルケリス、ファクトリーイノベーション Week [秋] 2026にスタビシリーズと姿勢解析AIアプリ（β版）を出展",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 26
-    },
-    {
       "title": "「人型ロボット向け救急車」登場、国内初うたう 世界の救急車両を参考にデザイン GMO傘下",
       "link": "https://www.itmedia.co.jp/aiplus/article/2609/08/2000001279/",
       "date": "2026-09-08T16:58:18+09:00",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "数学の難問を与えられた100体のAIエージェントが不正を行う側と不正に対抗する側に分かれたことがGoogleの実験で判明",
+      "link": "https://gigazine.net/news/20260908-ai-cheating-vs-whistleblowing/",
+      "date": "2026-09-08T12:22:00+09:00",
+      "dateLabel": "09/08 12:22",
+      "desc": "数学問題を解くというタスクを実行していた100体のAIエージェントが、システムの欠陥を見つけて解いてもいない問題を「解いた」と報告したことが分かりました。ただ、100体全てが不正をしていたわけではなく、不正行為を見つけて人間の監督者に知らせようとしたAIエージェントもいたようです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
