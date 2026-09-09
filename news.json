@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-09T14:32:20.054669+09:00",
-  "generatedLabel": "2026/09/09 14:32",
-  "feedOk": 6,
-  "feedNg": 5,
+  "generatedAt": "2026-09-09T19:22:17.538028+09:00",
+  "generatedLabel": "2026/09/09 19:22",
+  "feedOk": 7,
+  "feedNg": 4,
   "candidates": 54,
   "status": [
     {
@@ -18,17 +18,17 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 10
+      "items": 9
     },
     {
       "source": "PC Watch",
-      "ok": false,
-      "error": "Remote end closed connection without response"
+      "ok": true,
+      "items": 0
     },
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "OpenAIが画像生成AI「ChatGPT Images 2.5」をリリースしたので使ってみた",
+      "link": "https://gigazine.net/news/20260909-chatgpt-images-gpt-image-2-5/",
+      "date": "2026-09-09T14:49:00+09:00",
+      "dateLabel": "09/09 14:49",
+      "desc": "ChatGPTの画像生成機能が「ChatGPT Images 2.5」にアップデートされました。複雑な視覚的指示を理解できるほか、編集性能も向上しているとのこと。APIは高速な「GPT-Image-2.5 Flare」と高品質な「GPT-Image-2.5 Sunburst」の2種類が用意されています。ChatGPT Images 2.5は無料プランでも使用",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
       "title": "OpenAIが「GPT-6 Astraより高性能なモデル」を用いて数学の難問「ナビエ・ストークス方程式」の解決を主張、一方で人間の数学者の成果を流用した疑惑も生じる",
       "link": "https://gigazine.net/news/20260909-openai-navier-stokes/",
       "date": "2026-09-09T13:03:00+09:00",
@@ -85,28 +96,6 @@
       "score": 50
     },
     {
-      "title": "「LLMOチェキ」、記事生成の画像作成機能をOpenAIの最新モデル「GPT-Image-2.5」に対応",
-      "link": "https://ascii.jp/elem/000/004/433/4433448/?rss",
-      "date": "2026-09-09T11:40:00+09:00",
-      "dateLabel": "09/09 11:40",
-      "desc": "「LLMOチェキ」、記事生成の画像作成機能をOpenAIの最新モデル「GPT-Image-2.5」に対応",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
-      "title": "「これ本当にAI？」ChatGPT画像生成が進化 新モデル「Images 2.5」にびっくり",
-      "link": "https://ascii.jp/elem/000/004/433/4433340/?rss",
-      "date": "2026-09-09T11:30:00+09:00",
-      "dateLabel": "09/09 11:30",
-      "desc": "OpenAIは画像生成モデル「ChatGPT Images 2.5」の提供を開始した。生成の待ち時間を最大50％短縮し、参照写真の保持や部分編集を強化。ChatGPT、Codexなどの全ユーザーが利用できる。",
-      "img": "https://ascii.jp/img/2026/09/09/4523420/s/59a2e2a4d37a4375.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
       "title": "Meta、パーソナルAIエージェント「Muse」発表 メール送信や買い物も代行（まずは米国で無料提供開始）",
       "link": "https://www.itmedia.co.jp/news/article/2609/09/2000001294/",
       "date": "2026-09-09T06:41:57+09:00",
@@ -115,17 +104,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "規制/安全",
-      "score": 50
-    },
-    {
-      "title": "OpenAI「GPT-6 Astra」発表 Codexのコーディングは前世代からどれだけ進化？",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/08/news035.html",
-      "date": "2026-09-08T17:00:00+09:00",
-      "dateLabel": "09/08 17:00",
-      "desc": "OpenAIは、次世代AIモデル「GPT-6 Astra」を発表した。PC自律操作やコーディング、セキュリティ検証などの能力が大幅に向上し、抽象推論ベンチマークテスト「ARC-AGI-3」で99.9％のスコアを達成したという。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
       "score": 50
     },
     {
@@ -138,6 +116,39 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 50
+    },
+    {
+      "title": "AI検索の引用シェアが4日で86%消失。株式会社Itera、「2026年8月 LLMO/AIOトレンドレポート」を無料公開",
+      "link": "https://ascii.jp/elem/000/004/433/4433590/?rss",
+      "date": "2026-09-09T17:05:21+09:00",
+      "dateLabel": "09/09 17:05",
+      "desc": "AI検索の引用シェアが4日で86%消失。株式会社Itera、「2026年8月 LLMO/AIOトレンドレポート」を無料公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "【本日発売】日本円だけで大丈夫？「オルカン・S&P500」の次の一手は「半導体×テック」! 米国証券業界歴30年以上の著者が教える米国株ETF投資",
+      "link": "https://ascii.jp/elem/000/004/433/4433600/?rss",
+      "date": "2026-09-09T17:00:40+09:00",
+      "dateLabel": "09/09 17:00",
+      "desc": "【本日発売】日本円だけで大丈夫？「オルカン・S&P500」の次の一手は「半導体×テック」! 米国証券業界歴30年以上の著者が教える米国株ETF投資",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "ChatGPTのProプラン「新規受付一時停止するかも…」 GPT-6 Astraの「前例のない需要」受けて",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/09/2000001322/",
+      "date": "2026-09-09T16:16:00+09:00",
+      "dateLabel": "09/09 16:16",
+      "desc": "OpenAIのティボー・ソティオ氏（通称Tibo）は、新モデル「GPT-6 Astra」の需要拡大により「新規のProプラン登録を一時停止しなければならないかも」とXで述べた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "DaVinci Resolve 21.1がClaudeやChatGPTなどのAIアシスタントとの連携をサポート",
@@ -184,36 +195,36 @@
       "score": 42
     },
     {
-      "title": "Googleの自動化ツール「Workspace Studio」×Gemini、4つの業務効率化アイデア",
-      "link": "https://kn.itmedia.co.jp/kn/article/2609/08/2000001168/",
-      "date": "2026-09-09T13:31:12+09:00",
-      "dateLabel": "09/09 13:31",
-      "desc": "AIに仕事を手伝わせるだけでなく、仕事そのものを自動化するにはどうすればいいのか。Google Workspace Studioを使った4つの実例から、日々の業務を効率化する具体的な方法を紹介する。",
+      "title": "OpenAI「GPT-6 Astra」発表 Codexのコーディングは前世代からどれだけ進化？",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/08/news035.html",
+      "date": "2026-09-08T17:00:00+09:00",
+      "dateLabel": "09/08 17:00",
+      "desc": "OpenAIは、次世代AIモデル「GPT-6 Astra」を発表した。PC自律操作やコーディング、セキュリティ検証などの能力が大幅に向上し、抽象推論ベンチマークテスト「ARC-AGI-3」で99.9％のスコアを達成したという。",
       "img": "",
       "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "ノーコードWeb制作「Studio」、ヒアリングから初稿デザインを自動生成するAIアシスタント「Studio.Assistant」正式リリース",
+      "link": "https://ascii.jp/elem/000/004/433/4433611/?rss",
+      "date": "2026-09-09T17:29:32+09:00",
+      "dateLabel": "09/09 17:29",
+      "desc": "ノーコードWeb制作「Studio」、ヒアリングから初稿デザインを自動生成するAIアシスタント「Studio.Assistant」正式リリース",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "Metaがメール送信や旅行予約までやってくれる個人AI「Muse」を発表、専用VMと監視AI「Sentinel」で安全対策",
+      "link": "https://gigazine.net/news/20260909-meta-muse-agent/",
+      "date": "2026-09-09T14:50:00+09:00",
+      "dateLabel": "09/09 14:50",
+      "desc": "Metaが2026年9月8日、メールの送信や旅行の予約、買い物などをユーザーに代わって進める個人AIエージェント「Muse」を発表しました。Museは質問に答えるだけでなく、専用のブラウザを操作して実際の作業まで進められるAIで、アプリを閉じた後も動作し続けられる仕組みになっています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "SORACOM Knowledge MCP Server公式掲載、後付けIoTデバイス4製品を最大25％オフ 期間限定キャンペーン、他 ほぼ週刊ソラコム 08/15-09/04",
-      "link": "https://ascii.jp/elem/000/004/433/4433408/?rss",
-      "date": "2026-09-09T13:00:00+09:00",
-      "dateLabel": "09/09 13:00",
-      "desc": "SORACOM Knowledge MCP Server公式掲載、後付けIoTデバイス4製品を最大25％オフ 期間限定キャンペーン、他 ほぼ週刊ソラコム 08/15-09/04",
-      "img": "https://ascii.jp/img/2026/09/09/4523483/s/68c53208df48d763.png",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "ソラコムがIoT設計ガイドを拡充、生成AI・衛星通信の活用法を解説",
-      "link": "https://ascii.jp/elem/000/004/433/4433343/?rss",
-      "date": "2026-09-09T12:00:00+09:00",
-      "dateLabel": "09/09 12:00",
-      "desc": "ソラコムがIoTシステム設計ガイドを拡充。生成AIの処理場所や、衛星通信を含む通信方式の選び方、コネクテッド製品の設計ポイントなど、実践的なノウハウを公開しました。",
-      "img": "https://ascii.jp/img/2026/09/09/4523454/s/571404dd93f34486.png",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
@@ -239,28 +250,6 @@
       "score": 34
     },
     {
-      "title": "福祉窓口専用のAI対面通訳「福祉フォロー通訳」を開発！専用端末に向かって\"普通に話すだけ\"で、外国人相談も耳の不自由な方の相談もスムーズに。全国の社会福祉協議会向け提供開始！",
-      "link": "https://ascii.jp/elem/000/004/433/4433450/?rss",
-      "date": "2026-09-09T11:33:05+09:00",
-      "dateLabel": "09/09 11:33",
-      "desc": "福祉窓口専用のAI対面通訳「福祉フォロー通訳」を開発！専用端末に向かって\"普通に話すだけ\"で、外国人相談も耳の不自由な方の相談もスムーズに。全国の社会福祉協議会向け提供開始！",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "パートナーの仲をAIが取りもつ時代へ？AIがつなぐ、気持ちの記録と共有のアプリ『Emopi（エモピ）』をリリース。",
-      "link": "https://ascii.jp/elem/000/004/433/4433451/?rss",
-      "date": "2026-09-09T11:32:02+09:00",
-      "dateLabel": "09/09 11:32",
-      "desc": "パートナーの仲をAIが取りもつ時代へ？AIがつなぐ、気持ちの記録と共有のアプリ『Emopi（エモピ）』をリリース。",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "Armが3つの新プロダクトを発表、モバイルとAIインフラ、フィジカルAI向け",
       "link": "https://monoist.itmedia.co.jp/mn/articles/2609/09/news059.html",
       "date": "2026-09-09T08:00:00+09:00",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "AIエージェントの採用活用 自動化できる業務とおすすめツール10選",
+      "link": "https://ainow.ai/2026/09/08/278350/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e6%258e%25a1%25e7%2594%25a8%25e6%25b4%25bb%25e7%2594%25a8-%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b%25e6%25a5%25ad%25e5%258b%2599%25e3%2581%25a8%25e3%2581%258a",
+      "date": "2026-09-08T22:18:01+09:00",
+      "dateLabel": "09/08 22:18",
+      "desc": "スカウト送信と面接日程の調整に一日が溶けてしまい、本来向き合うべき採用要件の設計や候補者との関係づくりに手が回らない採用担当者は少なくないでしょう。 採用AIエージェントとは、求人票の作成から書類選考、日程調整、面接評価... The post AIエージェントの採用活用 自動化できる業務とおすすめツール10選 first appeared on AI専門ニ",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
       "score": 34
     }
   ]
