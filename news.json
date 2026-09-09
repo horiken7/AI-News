@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-10T03:09:39.269816+09:00",
-  "generatedLabel": "2026/09/10 03:09",
+  "generatedAt": "2026-09-10T06:22:04.138144+09:00",
+  "generatedLabel": "2026/09/10 06:22",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 51,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -107,17 +107,6 @@
       "score": 50
     },
     {
-      "title": "「Gemini 3.8 Flash」の狙いは“賢さ”ではない？ 発表から見えた3つのポイント",
-      "link": "https://kn.itmedia.co.jp/kn/article/2609/08/2000001255/",
-      "date": "2026-09-08T12:32:12+09:00",
-      "dateLabel": "09/08 12:32",
-      "desc": "Googleが「Gemini 3.8 Flash」の一般提供を開始した。長時間のコーディングや自律型エージェントを想定する新モデルだ。発表内容を読み解くと、単なる性能向上とは異なる3つの変化が見えてくる。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
       "title": "ChatGPTのProプラン「新規受付一時停止するかも…」 GPT-6 Astraの「前例のない需要」受けて",
       "link": "https://www.itmedia.co.jp/aiplus/article/2609/09/2000001322/",
       "date": "2026-09-09T16:16:00+09:00",
@@ -184,7 +173,18 @@
       "score": 42
     },
     {
-      "title": "アップル、AirPods 5を発表。発売は18日から。",
+      "title": "ANC付きが標準になって、実質大幅値下げ！ 「AirPods 5」登場",
+      "link": "https://ascii.jp/elem/000/004/433/4433655/?rss",
+      "date": "2026-09-10T04:45:00+09:00",
+      "dateLabel": "09/10 04:45",
+      "desc": "アップルはAirPodsシリーズの標準モデルで、インナーイヤー型の「AirPods 5」を発表。すでに予約受付を開始しており、9月18日に発売する。ANC付きがデフォルトになり、価格は2万3800円。実質的には大幅値下げとなる。",
+      "img": "https://ascii.jp/img/2026/09/10/4523841/s/8f61ac3d2acbe6ed.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "【速報】129ドルから！ オープンイヤーなのにノイキャン搭載の新型「AirPods 5」がコスパ最強すぎる",
       "link": "https://ascii.jp/elem/000/004/433/4433651/?rss",
       "date": "2026-09-10T03:00:00+09:00",
       "dateLabel": "09/10 03:00",
