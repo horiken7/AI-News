@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-10T06:22:04.138144+09:00",
-  "generatedLabel": "2026/09/10 06:22",
+  "generatedAt": "2026-09-10T08:40:02.509547+09:00",
+  "generatedLabel": "2026/09/10 08:40",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 53,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "AIとの対話で自己分析から選考管理まで完結。学生起点の就活スマートアプリ",
+      "link": "https://ascii.jp/elem/000/004/433/4433140/?rss",
+      "date": "2026-09-10T07:00:00+09:00",
+      "dateLabel": "09/10 07:00",
+      "desc": "ライフイズテック株式会社は9月2日、大学生向け就活スマートアプリ「JRNY（ジャーニー）」のiOS版をリリースしたと発表した。LLM（大規模言語モデル）を活用した対話型自己分析から企業の推薦、選考ごとの振り返りまでを単一のアプリ内で完結させる構成が特徴だ。",
+      "img": "https://ascii.jp/img/2026/09/08/4523070/s/f907bb7d97b43c06.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
       "title": "OpenAIが画像生成AI「ChatGPT Images 2.5」をリリースしたので使ってみた",
       "link": "https://gigazine.net/news/20260909-chatgpt-images-gpt-image-2-5/",
       "date": "2026-09-09T14:49:00+09:00",
@@ -96,15 +107,26 @@
       "score": 50
     },
     {
-      "title": "Meta、パーソナルAIエージェント「Muse」発表 メール送信や買い物も代行（まずは米国で無料提供開始）",
-      "link": "https://www.itmedia.co.jp/news/article/2609/09/2000001294/",
-      "date": "2026-09-09T06:41:57+09:00",
-      "dateLabel": "09/09 06:41",
-      "desc": "Metaは、日常の作業を代行するパーソナルAIエージェント「Muse」を発表した。専用アプリやWhatsAppから操作でき、メール送信や旅行予約、Webフォーム入力などを自律して行う。専用VMや別エージェントによる多層防御で安全性を高め、決済やログイン情報との連携にも対応する。基本機能は無料。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
-      "score": 50
+      "title": "米国のバッテリー導入が過去最高、データセンターも需要けん引",
+      "link": "https://ascii.jp/elem/000/004/433/4433662/?rss",
+      "date": "2026-09-10T06:50:42+09:00",
+      "dateLabel": "09/10 06:50",
+      "desc": "米国のバッテリー導入は2026年に71ギガワット時に達し、前年から20％増える見通しだ。バッテリー価格の低下と、再生可能エネルギーの拡大に伴う蓄電需要が背景にある。記録的な四半期を押し上げたのは大型の系統向け設備で、需要家側ではデータセンターが商業部門の約4分の3を占めた。一方、住宅用は16%減る見込みだ。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "1万のAIエージェントが ミレニアム懸賞問題を解決、 人間の数学者に残る役割は？",
+      "link": "https://ascii.jp/elem/000/004/433/4433661/?rss",
+      "date": "2026-09-10T06:29:40+09:00",
+      "dateLabel": "09/10 06:29",
+      "desc": "2人の数学者が公開モデルと1年かけて進めた研究は、完全な解には届かなかった。オープンAIは社内モデルと約1万のAIエージェントを投じ、数日で解いた。かかった費用は数百万ドル。数学の最難問が、潤沢な資金と専用モデルを持つ企業の領域になりつつある。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
     },
     {
       "title": "ChatGPTのProプラン「新規受付一時停止するかも…」 GPT-6 Astraの「前例のない需要」受けて",
@@ -162,15 +184,15 @@
       "score": 42
     },
     {
-      "title": "OpenAI「GPT-6 Astra」発表 Codexのコーディングは前世代からどれだけ進化？",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/08/news035.html",
-      "date": "2026-09-08T17:00:00+09:00",
-      "dateLabel": "09/08 17:00",
-      "desc": "OpenAIは、次世代AIモデル「GPT-6 Astra」を発表した。PC自律操作やコーディング、セキュリティ検証などの能力が大幅に向上し、抽象推論ベンチマークテスト「ARC-AGI-3」で99.9％のスコアを達成したという。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
+      "title": "iPhone Duoが登場！ 【5分でわかる】新iPhone発表会2026まとめ",
+      "link": "https://ascii.jp/elem/000/004/433/4433659/?rss",
+      "date": "2026-09-10T06:30:00+09:00",
+      "dateLabel": "09/10 06:30",
+      "desc": "2026年のApple発表会まとめ。新CEOへの交代が明かされ、約36万円の折りたたみ「iPhone Duo」が登場しました。可変絞り搭載の「iPhone 18 Pro」シリーズ、オープン型ノイキャン対応「AirPods 5」、体調を数値化する新型「Apple Watch」が披露され、無印iPhoneの発表はありませんでした。",
+      "img": "https://ascii.jp/img/2026/09/10/4523881/s/1ecfaf4a0f4a2118.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "ANC付きが標準になって、実質大幅値下げ！ 「AirPods 5」登場",
@@ -217,17 +239,6 @@
       "score": 34
     },
     {
-      "title": "【Amazon限定30％OFF】Android 16搭載12インチタブレット「P12 セット版」Gemini AI・48GB RAM・2.4K高解像度・120Hzディスプレイ搭載モデルを7日間限定販売",
-      "link": "https://ascii.jp/elem/000/004/433/4433644/?rss",
-      "date": "2026-09-09T18:24:35+09:00",
-      "dateLabel": "09/09 18:24",
-      "desc": "【Amazon限定30％OFF】Android 16搭載12インチタブレット「P12 セット版」Gemini AI・48GB RAM・2.4K高解像度・120Hzディスプレイ搭載モデルを7日間限定販売",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "Metaがメール送信や旅行予約までやってくれる個人AI「Muse」を発表、専用VMと監視AI「Sentinel」で安全対策",
       "link": "https://gigazine.net/news/20260909-meta-muse-agent/",
       "date": "2026-09-09T14:50:00+09:00",
@@ -239,48 +250,37 @@
       "score": 34
     },
     {
-      "title": "DeepSeekを含む中国のAI企業が超大規模な蒸留でアメリカのAIをコピーしているとNSA・CISA・FBIが共同で警告を出して非難",
-      "link": "https://gigazine.net/news/20260909-china-ai-targeting-us/",
-      "date": "2026-09-09T11:46:00+09:00",
-      "dateLabel": "09/09 11:46",
-      "desc": "既存の高性能AIから知識を抽出することで別モデルの性能を向上させる「蒸留」という手法が存在します。この蒸留を不当に用いて中国企業がアメリカ企業のAIを標的にしているとして、アメリカの国家安全保障局(NSA)とサイバーセキュリティ・インフラストラクチャ・セキュリティ庁(CISA)、連邦捜査局(FBI)が共同で警告を出しました。 続きを読む...",
+      "title": "ルールを作る「管理職」ほどシャドーAI 「AI白書2026」調査が映す“ガイドライン”の限界",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/10/news027.html",
+      "date": "2026-09-10T08:00:00+09:00",
+      "dateLabel": "09/10 08:00",
+      "desc": "角川アスキー総合研究所が企業の生成AI導入に関する調査結果を公表。AI投資の拡大やAI統制の実態などを明らかにした。",
       "img": "",
-      "src": "GIGAZINE",
+      "src": "ITmedia AI+",
+      "cat": "生成AI/マルチモーダル",
+      "score": 26
+    },
+    {
+      "title": "「かすり傷を負ってでも歩く」 日立が見せる覚悟 売り上げ5000億円見込む“AI事業”の拡大にどう挑むか",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/10/news028.html",
+      "date": "2026-09-10T07:00:00+09:00",
+      "dateLabel": "09/10 07:00",
+      "desc": "日立製作所がフィジカルAIの実装を加速させる新サービスを発表した。変化が激しいAIの動向をどう読み取り、顧客が必要とするサービスを開発したのか。そこに日立の覚悟が見えた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
+      "title": "Anthropic在籍の研究者2人も同調──「AIが人類を滅ぼしかねないと本気で考えている」",
+      "link": "https://www.itmedia.co.jp/news/article/2609/10/2000001342/",
+      "date": "2026-09-10T06:26:33+09:00",
+      "dateLabel": "09/10 06:26",
+      "desc": "Anthropicの研究幹部2人が、超知能開発への危機感を訴えて退社した研究員の主張に同意する見解を個人として投稿した。10年以内に人類が滅亡する確率を10％超と試算する声や、堅牢な安全制御手法がないまま開発競争が続いている実態を指摘し、減速の必要性を改めて訴えている。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "AMD製GPUが売れ筋ランキングを駆け上がる",
-      "link": "https://gigazine.net/news/20260909-amd-gpu-climbing-ranking/",
-      "date": "2026-09-09T11:43:00+09:00",
-      "dateLabel": "09/09 11:43",
-      "desc": "自作PC勢やゲーミングPCユーザーにとって「NVIDIAとAMDどちらのGPUを選ぶか」という選択は大きな要素です。NVIDIAが優勢な状況が長年続いていますが、近頃は一部市場でAMD製GPUの人気が増加しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "Armが3つの新プロダクトを発表、モバイルとAIインフラ、フィジカルAI向け",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2609/09/news059.html",
-      "date": "2026-09-09T08:00:00+09:00",
-      "dateLabel": "09/09 08:00",
-      "desc": "Armが3つの新プロダクトを発表した。モバイル機器向けソリューション「Arm CSS for Mobile 2」とインフラストラクチャ向けソリューション「Arm Neoverse CSS N4」、半導体製品の市場投入期間を短縮するサービスをフィジカルAI向けに拡大する「Arm Total Design for Physical AI」である。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "「AIエージェントはモデルだけじゃない」 NVIDIAらが説く“エージェント防御”の勘所と共有の仕組み",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/09/news038.html",
-      "date": "2026-09-09T08:00:00+09:00",
-      "dateLabel": "09/09 08:00",
-      "desc": "Linux Foundationは、エージェント型AIのセキュリティインシデントを業界で共有するためのガイドライン「SAFE」について意見募集を始めた。NVIDIAやCisco、CrowdStrikeなどが初期案の作成に参加している。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 34
+      "score": 26
     }
   ]
 }
