@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-09T23:54:13.213175+09:00",
-  "generatedLabel": "2026/09/09 23:54",
+  "generatedAt": "2026-09-10T03:09:39.269816+09:00",
+  "generatedLabel": "2026/09/10 03:09",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 51,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -184,6 +184,17 @@
       "score": 42
     },
     {
+      "title": "アップル、AirPods 5を発表。発売は18日から。",
+      "link": "https://ascii.jp/elem/000/004/433/4433651/?rss",
+      "date": "2026-09-10T03:00:00+09:00",
+      "dateLabel": "09/10 03:00",
+      "desc": "アップルが「AirPods 5」を発表しました。耳を塞がないオープンイヤー型ながら、前世代比50%向上の強力なノイズキャンセリングを搭載。Apple Intelligenceと連携し、リアルタイム翻訳やハンズフリーSiriにも対応します。129ドルからで9月18日発売です。",
+      "img": "https://ascii.jp/img/2026/09/10/4523804/s/92ba0cb2a5818a14.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "OpenAI創業者サム・アルトマンを描く映画『Artificial』ティザー予告編公開、Amazon撤退後にNeonが推定30億円で購入",
       "link": "https://gigazine.net/news/20260909-artificial-teaser-trailer/",
       "date": "2026-09-09T20:35:00+09:00",
@@ -214,17 +225,6 @@
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "エモーショナル・テクノロジーズの感情解析AI「KDE」、米Robutlerにエージェント搭載",
-      "link": "https://ascii.jp/elem/000/004/433/4433641/?rss",
-      "date": "2026-09-09T17:59:24+09:00",
-      "dateLabel": "09/09 17:59",
-      "desc": "エモーショナル・テクノロジーズの感情解析AI「KDE」、米Robutlerにエージェント搭載",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
