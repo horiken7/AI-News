@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-09T09:51:12.201527+09:00",
-  "generatedLabel": "2026/09/09 09:51",
-  "feedOk": 7,
-  "feedNg": 4,
-  "candidates": 52,
+  "generatedAt": "2026-09-09T14:32:20.054669+09:00",
+  "generatedLabel": "2026/09/09 14:32",
+  "feedOk": 6,
+  "feedNg": 5,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,12 +18,12 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 10
     },
     {
       "source": "PC Watch",
-      "ok": true,
-      "items": 0
+      "ok": false,
+      "error": "Remote end closed connection without response"
     },
     {
       "source": "GIGAZINE",
@@ -63,15 +63,48 @@
   ],
   "articles": [
     {
-      "title": "「Gemini 3.8 Flash」の狙いは“賢さ”ではない？ 発表から見えた3つのポイント",
-      "link": "https://kn.itmedia.co.jp/kn/article/2609/08/2000001255/",
-      "date": "2026-09-08T12:32:12+09:00",
-      "dateLabel": "09/08 12:32",
-      "desc": "Googleが「Gemini 3.8 Flash」の一般提供を開始した。長時間のコーディングや自律型エージェントを想定する新モデルだ。発表内容を読み解くと、単なる性能向上とは異なる3つの変化が見えてくる。",
+      "title": "OpenAIが「GPT-6 Astraより高性能なモデル」を用いて数学の難問「ナビエ・ストークス方程式」の解決を主張、一方で人間の数学者の成果を流用した疑惑も生じる",
+      "link": "https://gigazine.net/news/20260909-openai-navier-stokes/",
+      "date": "2026-09-09T13:03:00+09:00",
+      "dateLabel": "09/09 13:03",
+      "desc": "OpenAIが「ナビエ・ストークス方程式」に関する難問の解決策を発見したことを2026年9月8日に発表しました。一方で、Anthropicやニューヨーク大学に所属する数学者らの成果を流用した疑いも生じています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
+      "title": "Anthropicの研究者が退社し超知能の開発競争を猛批判──「来年末には制御不能になる可能性」",
+      "link": "https://www.itmedia.co.jp/news/article/2609/09/2000001309/",
+      "date": "2026-09-09T12:29:01+09:00",
+      "dateLabel": "09/09 12:29",
+      "desc": "OpenAIからAnthropicに移った研究者がAnthropicを退社し、両社が超知能の開発競争で人々の生命を賭けの対象にしていると批判した。業界全体での減速や規制がない限り来年末には制御不能になると懸念を示し、安全性を軽視した急速なスケーリングを続ける現状に強い警鐘を鳴らしている。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 58
+      "cat": "規制/安全",
+      "score": 50
+    },
+    {
+      "title": "「LLMOチェキ」、記事生成の画像作成機能をOpenAIの最新モデル「GPT-Image-2.5」に対応",
+      "link": "https://ascii.jp/elem/000/004/433/4433448/?rss",
+      "date": "2026-09-09T11:40:00+09:00",
+      "dateLabel": "09/09 11:40",
+      "desc": "「LLMOチェキ」、記事生成の画像作成機能をOpenAIの最新モデル「GPT-Image-2.5」に対応",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
+      "title": "「これ本当にAI？」ChatGPT画像生成が進化 新モデル「Images 2.5」にびっくり",
+      "link": "https://ascii.jp/elem/000/004/433/4433340/?rss",
+      "date": "2026-09-09T11:30:00+09:00",
+      "dateLabel": "09/09 11:30",
+      "desc": "OpenAIは画像生成モデル「ChatGPT Images 2.5」の提供を開始した。生成の待ち時間を最大50％短縮し、参照写真の保持や部分編集を強化。ChatGPT、Codexなどの全ユーザーが利用できる。",
+      "img": "https://ascii.jp/img/2026/09/09/4523420/s/59a2e2a4d37a4375.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 50
     },
     {
       "title": "Meta、パーソナルAIエージェント「Muse」発表 メール送信や買い物も代行（まずは米国で無料提供開始）",
@@ -96,6 +129,50 @@
       "score": 50
     },
     {
+      "title": "「Gemini 3.8 Flash」の狙いは“賢さ”ではない？ 発表から見えた3つのポイント",
+      "link": "https://kn.itmedia.co.jp/kn/article/2609/08/2000001255/",
+      "date": "2026-09-08T12:32:12+09:00",
+      "dateLabel": "09/08 12:32",
+      "desc": "Googleが「Gemini 3.8 Flash」の一般提供を開始した。長時間のコーディングや自律型エージェントを想定する新モデルだ。発表内容を読み解くと、単なる性能向上とは異なる3つの変化が見えてくる。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
+      "title": "DaVinci Resolve 21.1がClaudeやChatGPTなどのAIアシスタントとの連携をサポート",
+      "link": "https://gigazine.net/news/20260909-davinci-resolve-21-1-update/",
+      "date": "2026-09-09T13:05:00+09:00",
+      "dateLabel": "09/09 13:05",
+      "desc": "映像編集ソフトウェア「DaVinci Resolve」の開発元であるBlackmagic Designが、ClaudeやChatGPT CodexなどのAIアシスタントとの連携機能を搭載した「DaVinci Resolve 21.1」のアップデート内容を発表しました。AIアシスタントに映像編集やメディア管理を指示できるようになったほか、フォトページの対応カメ",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "文章を「拡散」で高速生成するAIモデル「Mercury 2.5」登場、毎秒1107トークンの高速生成＆GPT-5.6 Luna級の性能を100万出力トークン当たり約120円で提供",
+      "link": "https://gigazine.net/news/20260909-mercury-2-5/",
+      "date": "2026-09-09T12:30:00+09:00",
+      "dateLabel": "09/09 12:30",
+      "desc": "AI企業のInceptionが2026年9月8日、拡散モデルを使って文章を生成するAIモデル「Mercury 2.5」を発表しました。一般的な大規模言語モデル(LLM)が文章を左から順番に生成するのに対してMercury 2.5は複数のトークンを並行して生成・修正する仕組みを採用しており、毎秒1107トークンを出力できるとのこと。性能はGPT-5.6 Lun",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "OpenAI、ミレニアム懸賞問題「ナビエ・ストークス方程式」をAIが解決したと発表 数学者は経緯に反発",
+      "link": "https://www.itmedia.co.jp/news/article/2609/09/2000001300/",
+      "date": "2026-09-09T09:55:27+09:00",
+      "dateLabel": "09/09 09:55",
+      "desc": "OpenAIは、社内の未公開モデルがミレニアム懸賞問題の「ナビエ・ストークス方程式」の特異点発生を証明したと発表した。一方、先行研究を行っていた数学者は、自らの成果伝達後に着手され手法が酷似していると不正疑惑を主張。OpenAI側は反論しており、成果の検証と経緯を巡り論争が起きている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "「ChatGPT Images 2.5」登場 特定部分の編集を強化、落書きの清書やテンプレート機能も",
       "link": "https://www.itmedia.co.jp/aiplus/article/2609/09/2000001298/",
       "date": "2026-09-09T08:57:08+09:00",
@@ -107,36 +184,80 @@
       "score": 42
     },
     {
-      "title": "小型かつ高性能で日本語応答も可能な中国製AIモデル「MiniCPM5-2B」が登場、2BモデルなのにGemma 4 12Bと同等のベンチマークスコア",
-      "link": "https://gigazine.net/news/20260908-openbmb-minicpm5-2b/",
-      "date": "2026-09-08T10:47:00+09:00",
-      "dateLabel": "09/08 10:47",
-      "desc": "中国のAI企業であるOpenBMBがAIモデル「MiniCPM5-2B」を2026年9月7日に公開しました。MiniCPM5-2Bは20億パラメーター規模のモデルですが、40億パラメーター規模のモデルより高い性能を備えています。 続きを読む...",
+      "title": "Googleの自動化ツール「Workspace Studio」×Gemini、4つの業務効率化アイデア",
+      "link": "https://kn.itmedia.co.jp/kn/article/2609/08/2000001168/",
+      "date": "2026-09-09T13:31:12+09:00",
+      "dateLabel": "09/09 13:31",
+      "desc": "AIに仕事を手伝わせるだけでなく、仕事そのものを自動化するにはどうすればいいのか。Google Workspace Studioを使った4つの実例から、日々の業務を効率化する具体的な方法を紹介する。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 42
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
-      "title": "通信からモジュール、ゲートウェイ、デバイス開発まで ―― IoTビジネスを加速させるソラコム・パートナーの実力",
-      "link": "https://ascii.jp/elem/000/004/432/4432922/?rss",
-      "date": "2026-09-09T09:00:00+09:00",
-      "dateLabel": "09/09 09:00",
-      "desc": "ソラコムが開催した「SORACOM Discovery 2026」の展示ブースでは、パートナー企業による多様なIoTソリューションが一堂に会した。今回はその中から、KDDI、Quectel Wireless Solutions、JENESIS、センチュリー・システムズの4社のブースを紹介する。",
-      "img": "https://ascii.jp/img/2026/09/07/4522837/s/5e8c2aa572b5a97b.jpg",
+      "title": "SORACOM Knowledge MCP Server公式掲載、後付けIoTデバイス4製品を最大25％オフ 期間限定キャンペーン、他 ほぼ週刊ソラコム 08/15-09/04",
+      "link": "https://ascii.jp/elem/000/004/433/4433408/?rss",
+      "date": "2026-09-09T13:00:00+09:00",
+      "dateLabel": "09/09 13:00",
+      "desc": "SORACOM Knowledge MCP Server公式掲載、後付けIoTデバイス4製品を最大25％オフ 期間限定キャンペーン、他 ほぼ週刊ソラコム 08/15-09/04",
+      "img": "https://ascii.jp/img/2026/09/09/4523483/s/68c53208df48d763.png",
       "src": "ASCII.jp",
       "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
-      "title": "AI攻撃の高度化にどう対抗する？ Black Hat 2026で浮かび上がる「官民連携」の課題",
-      "link": "https://ascii.jp/elem/000/004/432/4432754/?rss",
-      "date": "2026-09-09T09:00:00+09:00",
-      "dateLabel": "09/09 09:00",
-      "desc": "Black Hat 2026は、AI、製品セキュリティ、主権、量子リスク、サイバー規制に対処するために、信頼できる官民パートナーシップが不可欠である理由を示した。",
-      "img": "https://ascii.jp/img/2026/09/07/4522612/s/0b133577ae5e1474.jpg",
+      "title": "ソラコムがIoT設計ガイドを拡充、生成AI・衛星通信の活用法を解説",
+      "link": "https://ascii.jp/elem/000/004/433/4433343/?rss",
+      "date": "2026-09-09T12:00:00+09:00",
+      "dateLabel": "09/09 12:00",
+      "desc": "ソラコムがIoTシステム設計ガイドを拡充。生成AIの処理場所や、衛星通信を含む通信方式の選び方、コネクテッド製品の設計ポイントなど、実践的なノウハウを公開しました。",
+      "img": "https://ascii.jp/img/2026/09/09/4523454/s/571404dd93f34486.png",
       "src": "ASCII.jp",
-      "cat": "規制/安全",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "DeepSeekを含む中国のAI企業が超大規模な蒸留でアメリカのAIをコピーしているとNSA・CISA・FBIが共同で警告を出して非難",
+      "link": "https://gigazine.net/news/20260909-china-ai-targeting-us/",
+      "date": "2026-09-09T11:46:00+09:00",
+      "dateLabel": "09/09 11:46",
+      "desc": "既存の高性能AIから知識を抽出することで別モデルの性能を向上させる「蒸留」という手法が存在します。この蒸留を不当に用いて中国企業がアメリカ企業のAIを標的にしているとして、アメリカの国家安全保障局(NSA)とサイバーセキュリティ・インフラストラクチャ・セキュリティ庁(CISA)、連邦捜査局(FBI)が共同で警告を出しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "AMD製GPUが売れ筋ランキングを駆け上がる",
+      "link": "https://gigazine.net/news/20260909-amd-gpu-climbing-ranking/",
+      "date": "2026-09-09T11:43:00+09:00",
+      "dateLabel": "09/09 11:43",
+      "desc": "自作PC勢やゲーミングPCユーザーにとって「NVIDIAとAMDどちらのGPUを選ぶか」という選択は大きな要素です。NVIDIAが優勢な状況が長年続いていますが、近頃は一部市場でAMD製GPUの人気が増加しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "福祉窓口専用のAI対面通訳「福祉フォロー通訳」を開発！専用端末に向かって\"普通に話すだけ\"で、外国人相談も耳の不自由な方の相談もスムーズに。全国の社会福祉協議会向け提供開始！",
+      "link": "https://ascii.jp/elem/000/004/433/4433450/?rss",
+      "date": "2026-09-09T11:33:05+09:00",
+      "dateLabel": "09/09 11:33",
+      "desc": "福祉窓口専用のAI対面通訳「福祉フォロー通訳」を開発！専用端末に向かって\"普通に話すだけ\"で、外国人相談も耳の不自由な方の相談もスムーズに。全国の社会福祉協議会向け提供開始！",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "パートナーの仲をAIが取りもつ時代へ？AIがつなぐ、気持ちの記録と共有のアプリ『Emopi（エモピ）』をリリース。",
+      "link": "https://ascii.jp/elem/000/004/433/4433451/?rss",
+      "date": "2026-09-09T11:32:02+09:00",
+      "dateLabel": "09/09 11:32",
+      "desc": "パートナーの仲をAIが取りもつ時代へ？AIがつなぐ、気持ちの記録と共有のアプリ『Emopi（エモピ）』をリリース。",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 34
     },
     {
@@ -160,127 +281,6 @@
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
       "score": 34
-    },
-    {
-      "title": "登録・送信不要で文字や表を自動データ化。ブラウザ上で完結する無料のAI文字認識ツール",
-      "link": "https://ascii.jp/elem/000/004/432/4432500/?rss",
-      "date": "2026-09-09T07:00:00+09:00",
-      "dateLabel": "09/09 07:00",
-      "desc": "MLism株式会社は9月3日、独自開発のAI-OCR（文字自動認識）エンジンを搭載した文書解析Webアプリ「YomiToku Studio」の提供を開始したと発表した。アカウント登録やソフトウェアのインストールが不要で、ブラウザ上から無料で利用できる。",
-      "img": "https://ascii.jp/img/2026/09/04/4521898/s/ab522154461e69a8.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "AIに「夢を見せて」訓練、未知の環境でも動くロボットを作る起業家",
-      "link": "https://ascii.jp/elem/000/004/433/4433294/?rss",
-      "date": "2026-09-09T06:42:37+09:00",
-      "dateLabel": "09/09 06:42",
-      "desc": "ロボットを人の家に送り込むなら、見たことのない間取りや家具に対処できなければならない。現実世界で何度も試行錯誤させる従来の方法では、それは難しい。ダニヤル・ハフナーの答えは、現実を模したAIの中でエージェントに「夢を見させる」ことだ。31歳の彼は今、その手法を人型ロボットに載せようとしている。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "AIエージェントの採用活用 自動化できる業務とおすすめツール10選",
-      "link": "https://ainow.ai/2026/09/08/278350/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e6%258e%25a1%25e7%2594%25a8%25e6%25b4%25bb%25e7%2594%25a8-%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b%25e6%25a5%25ad%25e5%258b%2599%25e3%2581%25a8%25e3%2581%258a",
-      "date": "2026-09-08T22:18:01+09:00",
-      "dateLabel": "09/08 22:18",
-      "desc": "スカウト送信と面接日程の調整に一日が溶けてしまい、本来向き合うべき採用要件の設計や候補者との関係づくりに手が回らない採用担当者は少なくないでしょう。 採用AIエージェントとは、求人票の作成から書類選考、日程調整、面接評価... The post AIエージェントの採用活用 自動化できる業務とおすすめツール10選 first appeared on AI専門ニ",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "AIが答えを出す時代に、エンジニアの「判断力」を鍛える研修を提供開始",
-      "link": "https://ascii.jp/elem/000/004/433/4433267/?rss",
-      "date": "2026-09-08T18:15:55+09:00",
-      "dateLabel": "09/08 18:15",
-      "desc": "AIが答えを出す時代に、エンジニアの「判断力」を鍛える研修を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "「2026年はフィジカルAI元年」 日立、AIサービス群全体で売上5000億円へ ミュトス利用の知見を基にした新サービスも",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/08/2000001272/",
-      "date": "2026-09-08T16:06:21+09:00",
-      "dateLabel": "09/08 16:06",
-      "desc": "日立製作所は9月3日、社会インフラ向けAIソリューション群「HMAX」を拡充し、データセンター運用やサイバー防御などの新サービスを発表。2026年を「フィジカルAI元年」と位置付け、HMAXを売上高5000億円の事業に育てる見込み。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "ChatGPT Workに「ユーザーの文章のクセを学んで再現する機能」が追加される",
-      "link": "https://gigazine.net/news/20260908-chatgpt-learning-writing-quirks/",
-      "date": "2026-09-08T12:43:00+09:00",
-      "dateLabel": "09/08 12:43",
-      "desc": "文書作成やウェブサイトの作成といった日常業務をこなせるAIエージェント「ChatGPT Work」に、ユーザーの文体を学んで再現する機能が追加されました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Googleの自動化ツール「Workspace Studio」×Gemini、4つの業務効率化アイデア",
-      "link": "https://kn.itmedia.co.jp/kn/article/2609/08/2000001168/",
-      "date": "2026-09-08T12:16:02+09:00",
-      "dateLabel": "09/08 12:16",
-      "desc": "AIに仕事を手伝わせるだけでなく、仕事そのものを自動化するにはどうすればいいのか。Google Workspace Studioを使った4つの実例から、日々の業務を効率化する具体的な方法を紹介する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "ClaudeにSalesforceを統合した「Claudeforce」、AnthropicとSalesforceが発表。Claudeから営業データ分析や顧客対応を実現",
-      "link": "https://www.publickey1.jp/blog/26/claudesalesforceclaudeforceanthropicsalesforceclaude.html",
-      "date": "2026-09-02T11:43:59+09:00",
-      "dateLabel": "09/02 11:43",
-      "desc": "SalesforceとAnthropicが「Claudeforce」を発表しました。 第一弾となる「Salesforce in Claude」では、Claudeの画面からプロンプトを入力するだけで、Salesforceのデータやワークフロー...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 28
-    },
-    {
-      "title": "Teams会議後に“自分好みの自由な形”で要約が読めるフローを作ろう",
-      "link": "https://ascii.jp/elem/000/004/432/4432598/?rss",
-      "date": "2026-09-09T09:00:00+09:00",
-      "dateLabel": "09/09 09:00",
-      "desc": "Microsoft Teamsには、会議後にAIが会議内容を要約してくれる機能が用意されています。しかし、要約形式と自分の知りたい情報がかみ合わない場合は、結局、トランスクリプト（文字起こし）全文を読み返さなければなりません。そこで今回は、Power Automateを使って「自分が欲しい形式」の要約を自動でまとめてくれるフローを作ってみます。",
-      "img": "https://ascii.jp/img/2026/09/07/4522570/s/e8aca1fa02bbadc2.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "「眠れるデータ」をAIの力で呼び覚ます 中堅・中小企業が選ぶべきデータ環境の“現実解”",
-      "link": "https://ascii.jp/elem/000/004/430/4430637/?rss",
-      "date": "2026-09-09T09:00:00+09:00",
-      "dateLabel": "09/09 09:00",
-      "desc": "いまや大企業だけでなく、中堅・中小企業においても「AIの業務活用」に対する期待が高まっている。ただし、AIに正しい判断や回答をさせるために必要なデータ環境の整備は、中堅・中小企業ではまだまだ進んでいない。限りのあるIT予算や人員の中で、このハードルを乗り越えられる“現実解”はどこにあるのか。中堅・中小企業におけるITの現状をよく知る、サイボウズとBox Ja",
-      "img": "https://ascii.jp/img/2026/08/31/4519559/s/f300ab073aeef932.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "求職者がAIで会社を選ぶ時代、AIの「企業評価」が採用にも影響 企業はどう対策すべき？",
-      "link": "https://kn.itmedia.co.jp/kn/article/2609/09/2000001267/",
-      "date": "2026-09-09T07:00:00+09:00",
-      "dateLabel": "09/09 07:00",
-      "desc": "「ChatGPT」などの生成AIに企業選びを相談する求職者が増えている。AIの回答が応募や選考辞退を左右する可能性もあるなか、企業には「AIからどう見られているか」という新たな採用対策が求められている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
     }
   ]
 }
