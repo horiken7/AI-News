@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-09T07:09:40.722639+09:00",
-  "generatedLabel": "2026/09/09 07:09",
+  "generatedAt": "2026-09-09T09:51:12.201527+09:00",
+  "generatedLabel": "2026/09/09 09:51",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 49,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 20
+      "items": 19
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -96,6 +96,17 @@
       "score": 50
     },
     {
+      "title": "「ChatGPT Images 2.5」登場 特定部分の編集を強化、落書きの清書やテンプレート機能も",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/09/2000001298/",
+      "date": "2026-09-09T08:57:08+09:00",
+      "dateLabel": "09/09 08:57",
+      "desc": "OpenAIが「ChatGPT Images 2.5」を発表。指定部分だけを編集する精度を高め、テンプレートや手描きの下絵を使う機能も追加した。生成の待ち時間は従来比で最大50％短縮し、全プランに提供する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "小型かつ高性能で日本語応答も可能な中国製AIモデル「MiniCPM5-2B」が登場、2BモデルなのにGemma 4 12Bと同等のベンチマークスコア",
       "link": "https://gigazine.net/news/20260908-openbmb-minicpm5-2b/",
       "date": "2026-09-08T10:47:00+09:00",
@@ -107,15 +118,48 @@
       "score": 42
     },
     {
-      "title": "初回正答率の向上で「対話の往復」削減 Meta「Muse Spark 1.3」の推論強化と活用ポイント",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/08/news045.html",
-      "date": "2026-09-08T08:00:00+09:00",
-      "dateLabel": "09/08 08:00",
-      "desc": "Metaが新たに公開したモデル「Muse Spark 1.3」は、推論能力の強化により開発時の「会話の往復」を削減するという。100万トークンのコンテキストやマルチモーダル処理を継承しつつ、選べる2種類の料金体系を提示している。",
+      "title": "通信からモジュール、ゲートウェイ、デバイス開発まで ―― IoTビジネスを加速させるソラコム・パートナーの実力",
+      "link": "https://ascii.jp/elem/000/004/432/4432922/?rss",
+      "date": "2026-09-09T09:00:00+09:00",
+      "dateLabel": "09/09 09:00",
+      "desc": "ソラコムが開催した「SORACOM Discovery 2026」の展示ブースでは、パートナー企業による多様なIoTソリューションが一堂に会した。今回はその中から、KDDI、Quectel Wireless Solutions、JENESIS、センチュリー・システムズの4社のブースを紹介する。",
+      "img": "https://ascii.jp/img/2026/09/07/4522837/s/5e8c2aa572b5a97b.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "AI攻撃の高度化にどう対抗する？ Black Hat 2026で浮かび上がる「官民連携」の課題",
+      "link": "https://ascii.jp/elem/000/004/432/4432754/?rss",
+      "date": "2026-09-09T09:00:00+09:00",
+      "dateLabel": "09/09 09:00",
+      "desc": "Black Hat 2026は、AI、製品セキュリティ、主権、量子リスク、サイバー規制に対処するために、信頼できる官民パートナーシップが不可欠である理由を示した。",
+      "img": "https://ascii.jp/img/2026/09/07/4522612/s/0b133577ae5e1474.jpg",
+      "src": "ASCII.jp",
+      "cat": "規制/安全",
+      "score": 34
+    },
+    {
+      "title": "Armが3つの新プロダクトを発表、モバイルとAIインフラ、フィジカルAI向け",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2609/09/news059.html",
+      "date": "2026-09-09T08:00:00+09:00",
+      "dateLabel": "09/09 08:00",
+      "desc": "Armが3つの新プロダクトを発表した。モバイル機器向けソリューション「Arm CSS for Mobile 2」とインフラストラクチャ向けソリューション「Arm Neoverse CSS N4」、半導体製品の市場投入期間を短縮するサービスをフィジカルAI向けに拡大する「Arm Total Design for Physical AI」である。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "生成AI/マルチモーダル",
-      "score": 42
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "「AIエージェントはモデルだけじゃない」 NVIDIAらが説く“エージェント防御”の勘所と共有の仕組み",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/09/news038.html",
+      "date": "2026-09-09T08:00:00+09:00",
+      "dateLabel": "09/09 08:00",
+      "desc": "Linux Foundationは、エージェント型AIのセキュリティインシデントを業界で共有するためのガイドライン「SAFE」について意見募集を始めた。NVIDIAやCisco、CrowdStrikeなどが初期案の作成に参加している。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 34
     },
     {
       "title": "登録・送信不要で文字や表を自動データ化。ブラウザ上で完結する無料のAI文字認識ツール",
@@ -126,6 +170,17 @@
       "img": "https://ascii.jp/img/2026/09/04/4521898/s/ab522154461e69a8.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "AIに「夢を見せて」訓練、未知の環境でも動くロボットを作る起業家",
+      "link": "https://ascii.jp/elem/000/004/433/4433294/?rss",
+      "date": "2026-09-09T06:42:37+09:00",
+      "dateLabel": "09/09 06:42",
+      "desc": "ロボットを人の家に送り込むなら、見たことのない間取りや家具に対処できなければならない。現実世界で何度も試行錯誤させる従来の方法では、それは難しい。ダニヤル・ハフナーの答えは、現実を模したAIの中でエージェントに「夢を見させる」ことだ。31歳の彼は今、その手法を人型ロボットに載せようとしている。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -148,17 +203,6 @@
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "Amazonで33％オフ！ Snapdragon X Elite搭載「Surface Laptop」が18万円台",
-      "link": "https://ascii.jp/elem/000/004/433/4433038/?rss",
-      "date": "2026-09-08T18:00:00+09:00",
-      "dateLabel": "09/08 18:00",
-      "desc": "マイクロソフトの13.8型ノートPC「Surface Laptop」がAmazonで割引対象。参考価格279,180円から33％オフの187,087円で販売中。Snapdragon X Eliteを搭載するCopilot+ PCで、16GBメモリと512GB SSDを備えている。",
-      "img": "https://ascii.jp/img/2026/09/08/4522973/s/9390fe19ddc0cbab.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -195,17 +239,6 @@
       "score": 34
     },
     {
-      "title": "ChatGPT、有料ユーザー全リセット 「Astra」で使い切った人向けに",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/08/2000001243/",
-      "date": "2026-09-08T09:31:55+09:00",
-      "dateLabel": "09/08 09:31",
-      "desc": "最新モデル「GPT-6 Astra」を使ってBlenderでの3Dモデリングなどを楽しみ、7日（レイバー・デーの祝日）までの連休に利用枠を使い切った人が、平日が始まる8日にもAstraを引き続き使えるようにする。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "ClaudeにSalesforceを統合した「Claudeforce」、AnthropicとSalesforceが発表。Claudeから営業データ分析や顧客対応を実現",
       "link": "https://www.publickey1.jp/blog/26/claudesalesforceclaudeforceanthropicsalesforceclaude.html",
       "date": "2026-09-02T11:43:59+09:00",
@@ -217,69 +250,36 @@
       "score": 28
     },
     {
-      "title": "マラソン大会のポスターが“AIっぽい”と波紋 「説明に不適切な部分があった」と事務局声明",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/08/2000001291/",
-      "date": "2026-09-08T20:43:34+09:00",
-      "dateLabel": "09/08 20:43",
-      "desc": "鹿児島県指宿市のマラソン大会を告知するポスターに、「生成AIで描かれているようだ」などの指摘が相次ぎ、同事務局が9月8日に声明を発表した",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
-      "title": "迷ったら純正を選ぶべし！ XBOXのワイヤレスコントローラー「ロボット ホワイト」が14％オフの7681円",
-      "link": "https://ascii.jp/elem/000/004/433/4433170/?rss",
-      "date": "2026-09-08T19:30:00+09:00",
-      "dateLabel": "09/08 19:30",
-      "desc": "Amazon.co.jpにて、マイクロソフトの「【純正品】Xbox ワイヤレス コントローラー (ロボット ホワイト)」が販売中だ。参考価格は8910円だが、執筆時点では14％オフの7681円で購入できる（9月8日時点）。",
-      "img": "https://ascii.jp/img/2026/09/08/4523110/s/4f6e0f2e175b7043.jpg",
+      "title": "Teams会議後に“自分好みの自由な形”で要約が読めるフローを作ろう",
+      "link": "https://ascii.jp/elem/000/004/432/4432598/?rss",
+      "date": "2026-09-09T09:00:00+09:00",
+      "dateLabel": "09/09 09:00",
+      "desc": "Microsoft Teamsには、会議後にAIが会議内容を要約してくれる機能が用意されています。しかし、要約形式と自分の知りたい情報がかみ合わない場合は、結局、トランスクリプト（文字起こし）全文を読み返さなければなりません。そこで今回は、Power Automateを使って「自分が欲しい形式」の要約を自動でまとめてくれるフローを作ってみます。",
+      "img": "https://ascii.jp/img/2026/09/07/4522570/s/e8aca1fa02bbadc2.jpg",
       "src": "ASCII.jp",
-      "cat": "AI実装",
+      "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "「人型ロボット向け救急車」登場、国内初うたう 世界の救急車両を参考にデザイン GMO傘下",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/08/2000001279/",
-      "date": "2026-09-08T16:58:18+09:00",
-      "dateLabel": "09/08 16:58",
-      "desc": "GMO AI&ロボティクス商事は人型ロボットの故障・トラブル時に診断や修理、代替機の提供などを行う「GMOヒューマノイド救急車」を導入すると発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI実装",
+      "title": "「眠れるデータ」をAIの力で呼び覚ます 中堅・中小企業が選ぶべきデータ環境の“現実解”",
+      "link": "https://ascii.jp/elem/000/004/430/4430637/?rss",
+      "date": "2026-09-09T09:00:00+09:00",
+      "dateLabel": "09/09 09:00",
+      "desc": "いまや大企業だけでなく、中堅・中小企業においても「AIの業務活用」に対する期待が高まっている。ただし、AIに正しい判断や回答をさせるために必要なデータ環境の整備は、中堅・中小企業ではまだまだ進んでいない。限りのあるIT予算や人員の中で、このハードルを乗り越えられる“現実解”はどこにあるのか。中堅・中小企業におけるITの現状をよく知る、サイボウズとBox Ja",
+      "img": "https://ascii.jp/img/2026/08/31/4519559/s/f300ab073aeef932.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "「中に人いる？」と疑われた人型ロボ、ついに量産へ 2027年に市場投入 中国EVメーカーのシャオペン",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/08/2000001261/",
-      "date": "2026-09-08T13:24:41+09:00",
-      "dateLabel": "09/08 13:24",
-      "desc": "中国のEVメーカー小鵬汽車（シャオペン）は、人型ロボット「IRON」の生産ラインを稼働させたと発表した。2026年内に量産を始め、27年に中国および海外市場に投入する予定だ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "100万円のPCが注目ランキング1位に？ ローカルLLMブームを生んだ「3つの条件」",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/08/2000001257/",
-      "date": "2026-09-08T12:43:41+09:00",
-      "dateLabel": "09/08 12:43",
-      "desc": "価格比較サイト「価格.com」のデスクトップPC注目ランキング1位に約100万円のAIスパコンが掲載されるなど、いま「ローカルLLM」が熱い状況だ。ここでは3本の記事で、ローカルLLM関連が急速に盛り上がりを見せている理由を解剖していく。1本目となるこの記事では、「モデル」「ハードウェア」「ソフトウェア」という3つの土壌が成熟しつつあることを紹介する。",
+      "title": "求職者がAIで会社を選ぶ時代、AIの「企業評価」が採用にも影響 企業はどう対策すべき？",
+      "link": "https://kn.itmedia.co.jp/kn/article/2609/09/2000001267/",
+      "date": "2026-09-09T07:00:00+09:00",
+      "dateLabel": "09/09 07:00",
+      "desc": "「ChatGPT」などの生成AIに企業選びを相談する求職者が増えている。AIの回答が応募や選考辞退を左右する可能性もあるなか、企業には「AIからどう見られているか」という新たな採用対策が求められている。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "数学の難問を与えられた100体のAIエージェントが不正を行う側と不正に対抗する側に分かれたことがGoogleの実験で判明",
-      "link": "https://gigazine.net/news/20260908-ai-cheating-vs-whistleblowing/",
-      "date": "2026-09-08T12:22:00+09:00",
-      "dateLabel": "09/08 12:22",
-      "desc": "数学問題を解くというタスクを実行していた100体のAIエージェントが、システムの欠陥を見つけて解いてもいない問題を「解いた」と報告したことが分かりました。ただ、100体全てが不正をしていたわけではなく、不正行為を見つけて人間の監督者に知らせようとしたAIエージェントもいたようです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
