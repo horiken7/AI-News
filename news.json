@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-10T21:28:54.322368+09:00",
-  "generatedLabel": "2026/09/10 21:28",
+  "generatedAt": "2026-09-11T01:45:03.091764+09:00",
+  "generatedLabel": "2026/09/11 01:45",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 48,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 2
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 4
+      "items": 3
     },
     {
       "source": "AINOW",
@@ -138,6 +138,17 @@
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
       "score": 42
+    },
+    {
+      "title": "RTX Sparkには2つのSKUが!!＝HPが薄型AIノートPC「HP OmniBook Ultra 16 / X 14」を発表",
+      "link": "https://ascii.jp/elem/000/004/433/4433889/?rss",
+      "date": "2026-09-11T00:01:00+09:00",
+      "dateLabel": "09/11 00:01",
+      "desc": "新機種のスペックシートには2種類のRTX Sparkが掲載されていました",
+      "img": "https://ascii.jp/img/2026/09/10/4524137/s/0e23b64229874fd7.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "4万5000円引き！ 約1.95kgの16型ゲーミングノート「ASUS Gaming V16」が19万4800円",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
-      "title": "「かすり傷を負ってでも歩く」 日立が見せる覚悟 売り上げ5000億円見込む“AI事業”の拡大にどう挑むか",
-      "link": "https://www.itmedia.co.jp/business/articles/2609/10/news028.html",
-      "date": "2026-09-10T07:00:00+09:00",
-      "dateLabel": "09/10 07:00",
-      "desc": "日立製作所がフィジカルAIの実装を加速させる新サービスを発表した。変化が激しいAIの動向をどう読み取り、顧客が必要とするサービスを開発したのか。そこに日立の覚悟が見えた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI実装",
       "score": 26
     }
   ]
