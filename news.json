@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-10T16:36:50.561353+09:00",
-  "generatedLabel": "2026/09/10 16:36",
+  "generatedAt": "2026-09-10T21:28:54.322368+09:00",
+  "generatedLabel": "2026/09/10 21:28",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 57,
+  "candidates": 48,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 11
+      "items": 2
     },
     {
       "source": "PC Watch",
@@ -63,6 +63,28 @@
   ],
   "articles": [
     {
+      "title": "「DeepSeek-V4.1-Flash」発表 値上げから一転「より低コストでフラッグシップ超え」うたう",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001374/",
+      "date": "2026-09-10T17:16:11+09:00",
+      "dateLabel": "09/10 17:16",
+      "desc": "中国のAI開発会社DeepSeekは新モデル「DeepSeek-V4.1-Flash」を発表。新しいアーキテクチャや学習方法を採用することで、同社フラッグシップの「DeepSeek-V4-Pro」や米OpenAIの「GPT-5.6 Sol」、米Anthropicの「Claude Opus 5」などを一部超える性能を実現したとうたう。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 74
+    },
+    {
+      "title": "チャットAIのClaudeに「カートに追加するボタンを青色にして」とウェブデザインの変更を依頼すると堂々巡りで全く完成しない様子を再現した「Opusfived」",
+      "link": "https://gigazine.net/news/20260910-opusfived/",
+      "date": "2026-09-10T21:00:00+09:00",
+      "dateLabel": "09/10 21:00",
+      "desc": "Anthropicが2026年7月に発表した「Claude Opus 5」は、同社が2026年6月にリリースしたClaude Fable 5と同等の性能を半分の価格で実現したというAIモデルです。そんなClaude Opus 5を使ってオンラインショッピングサイトなどで配置されている「カートに追加」ボタンを青色にしようとした際の苛立たしいAIとのやり取りを、",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 58
+    },
+    {
       "title": "GPT-6 Astraが人気すぎてOpenAIのサーバーがピンチでProプランの新規サブスク契約が一時停止されるかも",
       "link": "https://gigazine.net/news/20260910-openai-astra-high-growth/",
       "date": "2026-09-10T13:09:00+09:00",
@@ -71,28 +93,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
-      "title": "1NCE、IoT分析「Insights」を強化 3万件超のデータ活用と新サービス「1NCE AI」を発表",
-      "link": "https://ascii.jp/elem/000/004/433/4433753/?rss",
-      "date": "2026-09-10T13:00:00+09:00",
-      "dateLabel": "09/10 13:00",
-      "desc": "1NCEが「1NCE Insights」を強化し、17業界・30,000件超の導入実績に基づくIoTベンチマークを提供開始。「1NCE AI」も新たに追加し、複数AIモデルへの統合アクセスを実現した。",
-      "img": "https://ascii.jp/img/2026/09/10/4523983/s/3eaf508ca7cefc6b.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 50
-    },
-    {
-      "title": "MSI「Cyborg 15」新モデル登場、Core i7×RTX 5060搭載で9月17日発売",
-      "link": "https://ascii.jp/elem/000/004/433/4433758/?rss",
-      "date": "2026-09-10T12:45:00+09:00",
-      "dateLabel": "09/10 12:45",
-      "desc": "エムエスアイコンピュータージャパンが、GeForce RTX 5060 Laptop GPUを最大70W動作で搭載したゲーミングノートPC「Cyborg-15-C13WFO-5899JP」を9月17日より順次発売する。Core i7採用の高性能構成で、ゲームとクリエイティブ作業の両立を狙うモデルだ。",
-      "img": "https://ascii.jp/img/2026/09/10/4523998/s/1a6b4a242f80c04b.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
       "score": 50
     },
     {
@@ -105,72 +105,6 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 50
-    },
-    {
-      "title": "ASUS「ROG Equalizer」発売、最大17A対応でGPU電源の発熱・負荷集中を抑制",
-      "link": "https://ascii.jp/elem/000/004/433/4433888/?rss",
-      "date": "2026-09-10T15:30:00+09:00",
-      "dateLabel": "09/10 15:30",
-      "desc": "ASUS JAPANが、最大17Aの給電能力を備えた12V-2x6電源ケーブル「ROG Equalizer」を発表した。電流の偏りを均一化して発熱を抑える設計や、ATX 3.1 / PCIe 5.1対応、750mmの柔軟なケーブルなどが特徴だ。",
-      "img": "https://ascii.jp/img/2026/09/10/4524084/s/4955a14434a5db59.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "ソラコム、RTK対応GNSS受信機向け補正情報サービスをSORACOM IoTストアで単体提供開始",
-      "link": "https://ascii.jp/elem/000/004/433/4433871/?rss",
-      "date": "2026-09-10T15:15:00+09:00",
-      "dateLabel": "09/10 15:15",
-      "desc": "SORACOM IoTストアで、Quectel社のRTK補正情報サービス単体提供が9月10日に開始。RTK対応GNSS受信機を持つ利用者が後から契約しやすくなり、月額2,970円で高精度測位を導入できる。",
-      "img": "https://ascii.jp/img/2026/09/10/4524073/s/e5b62e34dd68f5f8.png",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 42
-    },
-    {
-      "title": "SORACOM Air RTC GatewayとAsteriskで音声AIエージェント開発",
-      "link": "https://ascii.jp/elem/000/004/433/4433794/?rss",
-      "date": "2026-09-10T14:00:00+09:00",
-      "dateLabel": "09/10 14:00",
-      "desc": "SORACOM Air RTC GatewayとAsteriskで音声AIエージェント開発",
-      "img": "https://ascii.jp/img/2026/09/10/4524026/s/9065ee40dc14b0a7.png",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "Core Ultra 7×RTX 4050搭載！ MSI「Cyborg 15」新モデル登場",
-      "link": "https://ascii.jp/elem/000/004/433/4433791/?rss",
-      "date": "2026-09-10T14:00:00+09:00",
-      "dateLabel": "09/10 14:00",
-      "desc": "MSIが、Core Ultra 7とRTX 4050を搭載した15.6型ゲーミングノートPC「Cyborg-15-B2VEK-3312JP」を9月10日より発売する。AI処理からゲーム、動画編集まで幅広く対応する高性能モデルだ。",
-      "img": "https://ascii.jp/img/2026/09/10/4524018/s/09bc23ffba2b574a.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 42
-    },
-    {
-      "title": "MSI「Katana 15 HX」発売、RTX 5070×Core i9搭載の高性能ゲーミングノート",
-      "link": "https://ascii.jp/elem/000/004/433/4433770/?rss",
-      "date": "2026-09-10T13:30:00+09:00",
-      "dateLabel": "09/10 13:30",
-      "desc": "MSIが、GeForce RTX 5070 Laptop GPUとCore i9を搭載した15.6型ゲーミングノート「Katana 15 HX」を発売。WQHD・165Hz液晶や32GBメモリを備え、ゲームから動画編集まで快適にこなします。",
-      "img": "https://ascii.jp/img/2026/09/10/4524008/s/5a82d8983b90e188.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "そんな殺生な……円高が進む中、iPhoneの国内価格は「1ドル＝166～168円」 日本のユーザーに厳しい判断",
-      "link": "https://ascii.jp/elem/000/004/433/4433789/?rss",
-      "date": "2026-09-10T13:10:00+09:00",
-      "dateLabel": "09/10 13:10",
-      "desc": "ついに発表の新iPhone。半導体価格の急騰で前モデルからの値上げは仕方ないかなと思いつつ、ここに来ての円高でちょっとオトクになるかも……というほのかな期待とは逆に、アップルは為替レートでは日本のユーザーに厳しめの判断をしたようだ。",
-      "img": "https://ascii.jp/img/2026/09/10/4524014/s/585d049a9129a9d6.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 42
     },
     {
       "title": "Googleがフィンランドに2年間で2兆円超を投資しデータセンターを3つ新設",
@@ -206,25 +140,36 @@
       "score": 42
     },
     {
-      "title": "Anthropicの研究者が退社し超知能の開発競争を猛批判──「来年末には制御不能になる可能性」",
-      "link": "https://www.itmedia.co.jp/news/article/2609/09/2000001309/",
-      "date": "2026-09-09T12:29:01+09:00",
-      "dateLabel": "09/09 12:29",
-      "desc": "OpenAIからAnthropicに移った研究者がAnthropicを退社し、両社が超知能の開発競争で人々の生命を賭けの対象にしていると批判した。業界全体での減速や規制がない限り来年末には制御不能になると懸念を示し、安全性を軽視した急速なスケーリングを続ける現状に強い警鐘を鳴らしている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
-      "score": 42
+      "title": "4万5000円引き！ 約1.95kgの16型ゲーミングノート「ASUS Gaming V16」が19万4800円",
+      "link": "https://ascii.jp/elem/000/004/433/4433402/?rss",
+      "date": "2026-09-10T20:00:00+09:00",
+      "dateLabel": "09/10 20:00",
+      "desc": "ASUSの16型ゲーミングノートPC「ASUS Gaming V16（V3607VH-C5165R5050W）」がAmazonでタイムセール中。参考価格239,800円から19％オフの194,800円で販売中。Core 5 210HとGeForce RTX 5050 Laptop GPUを搭載し、重量は約1.95kg。16型で持ち運びも考えたい人にうれしい1",
+      "img": "https://ascii.jp/img/2026/09/09/4523466/s/ec9b9a274526c92c.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
     },
     {
-      "title": "iPhone Duo、ケースだけでも約2万5000円 新しいAirPodsが買える",
-      "link": "https://ascii.jp/elem/000/004/433/4433870/?rss",
-      "date": "2026-09-10T15:15:00+09:00",
-      "dateLabel": "09/10 15:15",
-      "desc": "アップルが9月9日に発表した「iPhone Duo」の純正ケース「スタンド付きiPhone Duo Folioフォリオ」の値段が注目を集めている。",
-      "img": "https://ascii.jp/img/2026/09/10/4524072/s/879032a9cccf0e53.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "OpenAIのAIエージェントによるハッキング事件で他にも最低10件のサイトが侵害されていたことが判明",
+      "link": "https://gigazine.net/news/20260910-openai-agent-hacking-incident-another-sites/",
+      "date": "2026-09-10T19:30:00+09:00",
+      "dateLabel": "09/10 19:30",
+      "desc": "OpenAIのAIエージェントがAIプラットフォーム・Hugging Faceに不正アクセスを行ったことで明らかになったハッキング事件で、問題のAIエージェントはすでに公表されているものの他にも最低で10件のウェブサイトを侵害していたことがわかりました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "“Google弱体化説”にDeepMindエンジニアが反論 「最新モデルはセキュリティでMythos超え」、「Gemini 4」にも言及",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001381/",
+      "date": "2026-09-10T18:23:08+09:00",
+      "dateLabel": "09/10 18:23",
+      "desc": "「Googleはもはやフロンティアモデルを持っていない」というX上の意見に対してGoogle DeepMindのエンジニアが「最新モデルはセキュリティでMythos超え」だと反論した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -236,17 +181,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "「VAIO Nextシリーズ」始動！ マルチフリップ機構搭載の次世代AI PC「VAIO T」を発表",
-      "link": "https://ascii.jp/elem/000/004/432/4432331/?rss",
-      "date": "2026-09-10T13:05:00+09:00",
-      "dateLabel": "09/10 13:05",
-      "desc": "VAIOは9月10日、13.3型ワイドの個人向けモバイルノートPC「VAIO T」および法人向けの「VAIO T work」を発表した。受注受付は9月18日10時より開始となる。",
-      "img": "https://ascii.jp/img/2026/09/04/4521838/s/a78c8a0a60799c76.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -272,15 +206,81 @@
       "score": 34
     },
     {
-      "title": "OpenAI創業者サム・アルトマンを描く映画『Artificial』ティザー予告編公開、Amazon撤退後にNeonが推定30億円で購入",
-      "link": "https://gigazine.net/news/20260909-artificial-teaser-trailer/",
-      "date": "2026-09-09T20:35:00+09:00",
-      "dateLabel": "09/09 20:35",
-      "desc": "OpenAIの創業者であるサム・アルトマン氏が2023年、OpenAIの取締役会によって退任させられたのち2週間足らずで復帰した出来事を中心として描く映画『Artificial』のティザー予告編が公開されました。本作はすでに完成していて2026年6月に公開される予定でしたが、Amazon MGMスタジオの配給撤退で宙に浮いていました。 続きを読む...",
+      "title": "ChatGPTのProプラン「新規受付一時停止するかも…」 GPT-6 Astraの「前例のない需要」受けて",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/09/2000001322/",
+      "date": "2026-09-09T16:16:00+09:00",
+      "dateLabel": "09/09 16:16",
+      "desc": "OpenAIのティボー・ソティオ氏（通称Tibo）は、新モデル「GPT-6 Astra」の需要拡大により「新規のProプラン登録を一時停止しなければならないかも」とXで述べた。",
       "img": "",
-      "src": "GIGAZINE",
+      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
+    },
+    {
+      "title": "生成AI時代のパワポ活用術を学ぶ！AIとの役割分担とは？ 10/2（金）・10/9（金）無料セミナー「AI時代のPowerPoint活用術 Vol.9/Vol.10」",
+      "link": "https://ascii.jp/elem/000/004/434/4434050/?rss",
+      "date": "2026-09-10T18:30:00+09:00",
+      "dateLabel": "09/10 18:30",
+      "desc": "生成AI時代のパワポ活用術を学ぶ！AIとの役割分担とは？ 10/2（金）・10/9（金）無料セミナー「AI時代のPowerPoint活用術 Vol.9/Vol.10」",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 26
+    },
+    {
+      "title": "まさかの「AIが面接に来た」 話し方に“違和感” AIベンチャー代表が動画公開し注意喚起",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001378/",
+      "date": "2026-09-10T17:16:19+09:00",
+      "dateLabel": "09/10 17:16",
+      "desc": "「人生で初めてAIが面接に来た」――AIベンチャーKOWRO（コヲロ、東京都港区）の原田祐二CEOは、自身のXアカウントでこのような動画を公開した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "結局、AIはどれだけ人間の労働を代替し給料を下げるのか Anthropicが提示する「米国経済3つのシナリオ」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001363/",
+      "date": "2026-09-10T14:37:21+09:00",
+      "dateLabel": "09/10 14:37",
+      "desc": "Anthropicの経済チームがAIの米国経済への影響を3つのシナリオで予測。AIが知識労働の半分を担えても失業率は歴史的範囲内で、知識労働者の賃金は横ばい。急速に普及する「極端」なシナリオに限り失業率は11.9％に上がる。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "Apple Watchで周囲の音を聞き取ってAIが分析する「Audio Intelligence」はどうやってプライバシーを保護するのか",
+      "link": "https://gigazine.net/news/20260910-apple-watch-explaining-audio-intelligence/",
+      "date": "2026-09-10T12:03:00+09:00",
+      "dateLabel": "09/10 12:03",
+      "desc": "Appleが2026年9月10日に発表したApple Watch Series 12とApple Watch Ultra 4では、AIがApple Watchを通じて聞いた音声を理解することができる「Audio Intelligence」という機能が搭載されます。このAudio Intelligenceがどうやってプライバシーを保護するのかに関する技術的資料",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 26
+    },
+    {
+      "title": "ルールを作る「管理職」ほどシャドーAI 「AI白書2026」調査が映す“ガイドライン”の限界",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/10/news027.html",
+      "date": "2026-09-10T08:00:00+09:00",
+      "dateLabel": "09/10 08:00",
+      "desc": "角川アスキー総合研究所が企業の生成AI導入に関する調査結果を公表。AI投資の拡大やAI統制の実態などを明らかにした。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "生成AI/マルチモーダル",
+      "score": 26
+    },
+    {
+      "title": "「かすり傷を負ってでも歩く」 日立が見せる覚悟 売り上げ5000億円見込む“AI事業”の拡大にどう挑むか",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/10/news028.html",
+      "date": "2026-09-10T07:00:00+09:00",
+      "dateLabel": "09/10 07:00",
+      "desc": "日立製作所がフィジカルAIの実装を加速させる新サービスを発表した。変化が激しいAIの動向をどう読み取り、顧客が必要とするサービスを開発したのか。そこに日立の覚悟が見えた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI実装",
+      "score": 26
     }
   ]
 }
