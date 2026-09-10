@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-10T11:03:38.641971+09:00",
-  "generatedLabel": "2026/09/10 11:03",
+  "generatedAt": "2026-09-10T16:36:50.561353+09:00",
+  "generatedLabel": "2026/09/10 16:36",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 52,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 19
+      "items": 18
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 11
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,39 @@
   ],
   "articles": [
     {
+      "title": "GPT-6 Astraが人気すぎてOpenAIのサーバーがピンチでProプランの新規サブスク契約が一時停止されるかも",
+      "link": "https://gigazine.net/news/20260910-openai-astra-high-growth/",
+      "date": "2026-09-10T13:09:00+09:00",
+      "dateLabel": "09/10 13:09",
+      "desc": "AIエージェントとしての能力やコーディング能力が非常に高いOpenAIの最先端モデル「GPT-6 Astra」が2026年9月3日に公開され、「Plus」以上の有料プランで利用できるようになりました。ところが、あまりにも人気が高すぎて、ChatGPTの開発スタッフが「サブスクリプションの新規登録を一時停止しなければならないかもしれない」と発言したことが分かり",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
+      "title": "1NCE、IoT分析「Insights」を強化 3万件超のデータ活用と新サービス「1NCE AI」を発表",
+      "link": "https://ascii.jp/elem/000/004/433/4433753/?rss",
+      "date": "2026-09-10T13:00:00+09:00",
+      "dateLabel": "09/10 13:00",
+      "desc": "1NCEが「1NCE Insights」を強化し、17業界・30,000件超の導入実績に基づくIoTベンチマークを提供開始。「1NCE AI」も新たに追加し、複数AIモデルへの統合アクセスを実現した。",
+      "img": "https://ascii.jp/img/2026/09/10/4523983/s/3eaf508ca7cefc6b.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 50
+    },
+    {
+      "title": "MSI「Cyborg 15」新モデル登場、Core i7×RTX 5060搭載で9月17日発売",
+      "link": "https://ascii.jp/elem/000/004/433/4433758/?rss",
+      "date": "2026-09-10T12:45:00+09:00",
+      "dateLabel": "09/10 12:45",
+      "desc": "エムエスアイコンピュータージャパンが、GeForce RTX 5060 Laptop GPUを最大70W動作で搭載したゲーミングノートPC「Cyborg-15-C13WFO-5899JP」を9月17日より順次発売する。Core i7採用の高性能構成で、ゲームとクリエイティブ作業の両立を狙うモデルだ。",
+      "img": "https://ascii.jp/img/2026/09/10/4523998/s/1a6b4a242f80c04b.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 50
+    },
+    {
       "title": "「Claude」による不正アクセス、4件目が判明──Anthropic、「アライメントの失敗」と評価を修正",
       "link": "https://www.itmedia.co.jp/news/article/2609/10/2000001346/",
       "date": "2026-09-10T09:07:49+09:00",
@@ -74,37 +107,103 @@
       "score": 50
     },
     {
-      "title": "AIとの対話で自己分析から選考管理まで完結。学生起点の就活スマートアプリ",
-      "link": "https://ascii.jp/elem/000/004/433/4433140/?rss",
-      "date": "2026-09-10T07:00:00+09:00",
-      "dateLabel": "09/10 07:00",
-      "desc": "ライフイズテック株式会社は9月2日、大学生向け就活スマートアプリ「JRNY（ジャーニー）」のiOS版をリリースしたと発表した。LLM（大規模言語モデル）を活用した対話型自己分析から企業の推薦、選考ごとの振り返りまでを単一のアプリ内で完結させる構成が特徴だ。",
-      "img": "https://ascii.jp/img/2026/09/08/4523070/s/f907bb7d97b43c06.jpg",
+      "title": "ASUS「ROG Equalizer」発売、最大17A対応でGPU電源の発熱・負荷集中を抑制",
+      "link": "https://ascii.jp/elem/000/004/433/4433888/?rss",
+      "date": "2026-09-10T15:30:00+09:00",
+      "dateLabel": "09/10 15:30",
+      "desc": "ASUS JAPANが、最大17Aの給電能力を備えた12V-2x6電源ケーブル「ROG Equalizer」を発表した。電流の偏りを均一化して発熱を抑える設計や、ATX 3.1 / PCIe 5.1対応、750mmの柔軟なケーブルなどが特徴だ。",
+      "img": "https://ascii.jp/img/2026/09/10/4524084/s/4955a14434a5db59.jpg",
       "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 50
+      "cat": "半導体/GPU",
+      "score": 42
     },
     {
-      "title": "OpenAIが画像生成AI「ChatGPT Images 2.5」をリリースしたので使ってみた",
-      "link": "https://gigazine.net/news/20260909-chatgpt-images-gpt-image-2-5/",
-      "date": "2026-09-09T14:49:00+09:00",
-      "dateLabel": "09/09 14:49",
-      "desc": "ChatGPTの画像生成機能が「ChatGPT Images 2.5」にアップデートされました。複雑な視覚的指示を理解できるほか、編集性能も向上しているとのこと。APIは高速な「GPT-Image-2.5 Flare」と高品質な「GPT-Image-2.5 Sunburst」の2種類が用意されています。ChatGPT Images 2.5は無料プランでも使用",
+      "title": "ソラコム、RTK対応GNSS受信機向け補正情報サービスをSORACOM IoTストアで単体提供開始",
+      "link": "https://ascii.jp/elem/000/004/433/4433871/?rss",
+      "date": "2026-09-10T15:15:00+09:00",
+      "dateLabel": "09/10 15:15",
+      "desc": "SORACOM IoTストアで、Quectel社のRTK補正情報サービス単体提供が9月10日に開始。RTK対応GNSS受信機を持つ利用者が後から契約しやすくなり、月額2,970円で高精度測位を導入できる。",
+      "img": "https://ascii.jp/img/2026/09/10/4524073/s/e5b62e34dd68f5f8.png",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 42
+    },
+    {
+      "title": "SORACOM Air RTC GatewayとAsteriskで音声AIエージェント開発",
+      "link": "https://ascii.jp/elem/000/004/433/4433794/?rss",
+      "date": "2026-09-10T14:00:00+09:00",
+      "dateLabel": "09/10 14:00",
+      "desc": "SORACOM Air RTC GatewayとAsteriskで音声AIエージェント開発",
+      "img": "https://ascii.jp/img/2026/09/10/4524026/s/9065ee40dc14b0a7.png",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "Core Ultra 7×RTX 4050搭載！ MSI「Cyborg 15」新モデル登場",
+      "link": "https://ascii.jp/elem/000/004/433/4433791/?rss",
+      "date": "2026-09-10T14:00:00+09:00",
+      "dateLabel": "09/10 14:00",
+      "desc": "MSIが、Core Ultra 7とRTX 4050を搭載した15.6型ゲーミングノートPC「Cyborg-15-B2VEK-3312JP」を9月10日より発売する。AI処理からゲーム、動画編集まで幅広く対応する高性能モデルだ。",
+      "img": "https://ascii.jp/img/2026/09/10/4524018/s/09bc23ffba2b574a.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 42
+    },
+    {
+      "title": "MSI「Katana 15 HX」発売、RTX 5070×Core i9搭載の高性能ゲーミングノート",
+      "link": "https://ascii.jp/elem/000/004/433/4433770/?rss",
+      "date": "2026-09-10T13:30:00+09:00",
+      "dateLabel": "09/10 13:30",
+      "desc": "MSIが、GeForce RTX 5070 Laptop GPUとCore i9を搭載した15.6型ゲーミングノート「Katana 15 HX」を発売。WQHD・165Hz液晶や32GBメモリを備え、ゲームから動画編集まで快適にこなします。",
+      "img": "https://ascii.jp/img/2026/09/10/4524008/s/5a82d8983b90e188.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "そんな殺生な……円高が進む中、iPhoneの国内価格は「1ドル＝166～168円」 日本のユーザーに厳しい判断",
+      "link": "https://ascii.jp/elem/000/004/433/4433789/?rss",
+      "date": "2026-09-10T13:10:00+09:00",
+      "dateLabel": "09/10 13:10",
+      "desc": "ついに発表の新iPhone。半導体価格の急騰で前モデルからの値上げは仕方ないかなと思いつつ、ここに来ての円高でちょっとオトクになるかも……というほのかな期待とは逆に、アップルは為替レートでは日本のユーザーに厳しめの判断をしたようだ。",
+      "img": "https://ascii.jp/img/2026/09/10/4524014/s/585d049a9129a9d6.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "Googleがフィンランドに2年間で2兆円超を投資しデータセンターを3つ新設",
+      "link": "https://gigazine.net/news/20260910-google-finland-13-billion-euro-investment/",
+      "date": "2026-09-10T12:38:00+09:00",
+      "dateLabel": "09/10 12:38",
+      "desc": "Googleが2027年から2028年の2年間、フィンランドのデジタルインフラに少なくとも130億ユーロ(約2兆3200億円)を投資する計画を発表しました。既存のハミナのデータセンターを拡張するとともに、新たなデータセンターを3つ建設することが予定されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "Anthropicが「テスト中のAIで他社を攻撃してしまったインシデント」の発生原因を報告",
+      "link": "https://gigazine.net/news/20260910-anthropic-ai-incident/",
+      "date": "2026-09-10T12:37:00+09:00",
+      "dateLabel": "09/10 12:37",
+      "desc": "Anthropicが、自社のAI「Claude」の実験中に発生した不正アクセス事件の報告書を公開しました。Claudeが誤って第三者のシステムに不正アクセスしてしまう事例が合計4件確認されているということです。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 50
+      "score": 42
     },
     {
-      "title": "OpenAIが「GPT-6 Astraより高性能なモデル」を用いて数学の難問「ナビエ・ストークス方程式」の解決を主張、一方で人間の数学者の成果を流用した疑惑も生じる",
-      "link": "https://gigazine.net/news/20260909-openai-navier-stokes/",
-      "date": "2026-09-09T13:03:00+09:00",
-      "dateLabel": "09/09 13:03",
-      "desc": "OpenAIが「ナビエ・ストークス方程式」に関する難問の解決策を発見したことを2026年9月8日に発表しました。一方で、Anthropicやニューヨーク大学に所属する数学者らの成果を流用した疑いも生じています。 続きを読む...",
+      "title": "大金かけて作ったAIを無料公開できるワケ ローカルLLMブームを支えるベンダーと国家の思惑",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001352/",
+      "date": "2026-09-10T12:08:53+09:00",
+      "dateLabel": "09/10 12:08",
+      "desc": "AIモデルを無料で公開して、企業はどこで稼ぐのか。ローカルLLMの盛り上がりを支えるオープンウェイトモデルには、開発に多くの資金と計算資源が投じられている。それでも公開が続く背景には、GPUやクラウドを売りたい企業の戦略がある。さらに、どの国のモデルが世界で使われるかは、国家間の競争にも関わる。ローカルLLMブームについてベンダーの側面を見ると、個人の熱狂と",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 50
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 42
     },
     {
       "title": "Anthropicの研究者が退社し超知能の開発競争を猛批判──「来年末には制御不能になる可能性」",
@@ -115,72 +214,61 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "規制/安全",
-      "score": 50
-    },
-    {
-      "title": "ChatGPTのProプラン「新規受付一時停止するかも…」 GPT-6 Astraの「前例のない需要」受けて",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/09/2000001322/",
-      "date": "2026-09-09T16:16:00+09:00",
-      "dateLabel": "09/09 16:16",
-      "desc": "OpenAIのティボー・ソティオ氏（通称Tibo）は、新モデル「GPT-6 Astra」の需要拡大により「新規のProプラン登録を一時停止しなければならないかも」とXで述べた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
       "score": 42
     },
     {
-      "title": "DaVinci Resolve 21.1がClaudeやChatGPTなどのAIアシスタントとの連携をサポート",
-      "link": "https://gigazine.net/news/20260909-davinci-resolve-21-1-update/",
-      "date": "2026-09-09T13:05:00+09:00",
-      "dateLabel": "09/09 13:05",
-      "desc": "映像編集ソフトウェア「DaVinci Resolve」の開発元であるBlackmagic Designが、ClaudeやChatGPT CodexなどのAIアシスタントとの連携機能を搭載した「DaVinci Resolve 21.1」のアップデート内容を発表しました。AIアシスタントに映像編集やメディア管理を指示できるようになったほか、フォトページの対応カメ",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "文章を「拡散」で高速生成するAIモデル「Mercury 2.5」登場、毎秒1107トークンの高速生成＆GPT-5.6 Luna級の性能を100万出力トークン当たり約120円で提供",
-      "link": "https://gigazine.net/news/20260909-mercury-2-5/",
-      "date": "2026-09-09T12:30:00+09:00",
-      "dateLabel": "09/09 12:30",
-      "desc": "AI企業のInceptionが2026年9月8日、拡散モデルを使って文章を生成するAIモデル「Mercury 2.5」を発表しました。一般的な大規模言語モデル(LLM)が文章を左から順番に生成するのに対してMercury 2.5は複数のトークンを並行して生成・修正する仕組みを採用しており、毎秒1107トークンを出力できるとのこと。性能はGPT-5.6 Lun",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "「屋外広告の日」に、看板・サイン業界特化の法人向けAI「SignAI 」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/433/4433696/?rss",
-      "date": "2026-09-10T09:00:00+09:00",
-      "dateLabel": "09/10 09:00",
-      "desc": "「屋外広告の日」に、看板・サイン業界特化の法人向けAI「SignAI 」を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "title": "iPhone Duo、ケースだけでも約2万5000円 新しいAirPodsが買える",
+      "link": "https://ascii.jp/elem/000/004/433/4433870/?rss",
+      "date": "2026-09-10T15:15:00+09:00",
+      "dateLabel": "09/10 15:15",
+      "desc": "アップルが9月9日に発表した「iPhone Duo」の純正ケース「スタンド付きiPhone Duo Folioフォリオ」の値段が注目を集めている。",
+      "img": "https://ascii.jp/img/2026/09/10/4524072/s/879032a9cccf0e53.png",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
     },
     {
-      "title": "生成AI検索（AIO・GEO）時代の店舗集客自動化SaaSを開発のSYPHER CREATION、大手・中堅企業向けに【1次OEM・代理店パートナー】を募集開始！",
-      "link": "https://ascii.jp/elem/000/004/433/4433701/?rss",
-      "date": "2026-09-10T07:38:51+09:00",
-      "dateLabel": "09/10 07:38",
-      "desc": "生成AI検索（AIO・GEO）時代の店舗集客自動化SaaSを開発のSYPHER CREATION、大手・中堅企業向けに【1次OEM・代理店パートナー】を募集開始！",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
+      "title": "Anthropicの上級安全研究者が「AIが21世紀末までに人類を滅ぼす可能性が10％以上ある」と発言、「Anthropicの安全対策が甘い」と退職する社員も",
+      "link": "https://gigazine.net/news/20260910-ai-kill-humans/",
+      "date": "2026-09-10T14:06:00+09:00",
+      "dateLabel": "09/10 14:06",
+      "desc": "AI企業・AnthropicのAI安全チームを率いる責任者が、人間の手を借りずに性能を向上させ続けることができる「自己改善型AI」について「予想以上に速いペースで進んでいる」と警告を発しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
-      "title": "【教育×AI】小学校受験「マジタク」がキヤノンマーケティングジャパンとの提携スタート！自宅にあるプリンターですぐに始められる家庭学習へ",
-      "link": "https://ascii.jp/elem/000/004/433/4433704/?rss",
-      "date": "2026-09-10T07:00:00+09:00",
-      "dateLabel": "09/10 07:00",
-      "desc": "【教育×AI】小学校受験「マジタク」がキヤノンマーケティングジャパンとの提携スタート！自宅にあるプリンターですぐに始められる家庭学習へ",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "title": "「VAIO Nextシリーズ」始動！ マルチフリップ機構搭載の次世代AI PC「VAIO T」を発表",
+      "link": "https://ascii.jp/elem/000/004/432/4432331/?rss",
+      "date": "2026-09-10T13:05:00+09:00",
+      "dateLabel": "09/10 13:05",
+      "desc": "VAIOは9月10日、13.3型ワイドの個人向けモバイルノートPC「VAIO T」および法人向けの「VAIO T work」を発表した。受注受付は9月18日10時より開始となる。",
+      "img": "https://ascii.jp/img/2026/09/04/4521838/s/a78c8a0a60799c76.png",
       "src": "ASCII.jp",
       "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "画面が回転するノートPC「VAIO T」のベンチマークテストを実行してみた＆バッテリー持続時間も検証してみたよレビュー",
+      "link": "https://gigazine.net/news/20260910-vaio-t-benchmark-battery/",
+      "date": "2026-09-10T13:00:05+09:00",
+      "dateLabel": "09/10 13:00",
+      "desc": "マルチフリップ機構を搭載したノートPC「VAIO T」が2026年9月11日に登場します。画面を回転させて「ノートPCモード」「ビューモード」「タブレットモード」を切り替えられる個性的なPCで、他者に画面を見せる用途などで活躍するとのこと。そんなVAIO Tに一足先に触れることができたので、ベンチマークテストとバッテリー性能検証テストを実施してみました。 続",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "Anthropicが「2030年までにAIが経済に与える影響」を示すウェブページを公開",
+      "link": "https://gigazine.net/news/20260910-anthropic-ai-economic-scenario/",
+      "date": "2026-09-10T11:53:00+09:00",
+      "dateLabel": "09/10 11:53",
+      "desc": "Anthropicの経済研究チームが、今後数年間でAIがアメリカの雇用や失業率にどのような影響を与えるかを予測するモデルを構築しました。2030年時点で経済状況はどうなっていると考えられるのか、AI専門家の考えが示されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -193,94 +281,6 @@
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 34
-    },
-    {
-      "title": "Metaがメール送信や旅行予約までやってくれる個人AI「Muse」を発表、専用VMと監視AI「Sentinel」で安全対策",
-      "link": "https://gigazine.net/news/20260909-meta-muse-agent/",
-      "date": "2026-09-09T14:50:00+09:00",
-      "dateLabel": "09/09 14:50",
-      "desc": "Metaが2026年9月8日、メールの送信や旅行の予約、買い物などをユーザーに代わって進める個人AIエージェント「Muse」を発表しました。Museは質問に答えるだけでなく、専用のブラウザを操作して実際の作業まで進められるAIで、アプリを閉じた後も動作し続けられる仕組みになっています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "OpenAI、ミレニアム懸賞問題「ナビエ・ストークス方程式」をAIが解決したと発表 数学者は経緯に反発",
-      "link": "https://www.itmedia.co.jp/news/article/2609/09/2000001300/",
-      "date": "2026-09-09T09:55:27+09:00",
-      "dateLabel": "09/09 09:55",
-      "desc": "OpenAIは、社内の未公開モデルがミレニアム懸賞問題の「ナビエ・ストークス方程式」の特異点発生を証明したと発表した。一方、先行研究を行っていた数学者は、自らの成果伝達後に着手され手法が酷似していると不正疑惑を主張。OpenAI側は反論しており、成果の検証と経緯を巡り論争が起きている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "「ChatGPT Images 2.5」登場 特定部分の編集を強化、落書きの清書やテンプレート機能も",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/09/2000001298/",
-      "date": "2026-09-09T08:57:08+09:00",
-      "dateLabel": "09/09 08:57",
-      "desc": "OpenAIが「ChatGPT Images 2.5」を発表。指定部分だけを編集する精度を高め、テンプレートや手描きの下絵を使う機能も追加した。生成の待ち時間は従来比で最大50％短縮し、全プランに提供する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "締切迫る。AIに\"存在する企業\"になるための広報戦略を無料セミナーで解説【9/18開催】",
-      "link": "https://ascii.jp/elem/000/004/433/4433686/?rss",
-      "date": "2026-09-10T09:47:07+09:00",
-      "dateLabel": "09/10 09:47",
-      "desc": "締切迫る。AIに\"存在する企業\"になるための広報戦略を無料セミナーで解説【9/18開催】",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "QommonsAI活用研修を長野県長野市（ながのけんながのし）で実施 - 実務事例から考える、生成AIの使い方",
-      "link": "https://ascii.jp/elem/000/004/433/4433698/?rss",
-      "date": "2026-09-10T09:00:00+09:00",
-      "dateLabel": "09/10 09:00",
-      "desc": "QommonsAI活用研修を長野県長野市（ながのけんながのし）で実施 - 実務事例から考える、生成AIの使い方",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
-      "title": "ルールを作る「管理職」ほどシャドーAI 「AI白書2026」調査が映す“ガイドライン”の限界",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/10/news027.html",
-      "date": "2026-09-10T08:00:00+09:00",
-      "dateLabel": "09/10 08:00",
-      "desc": "角川アスキー総合研究所が企業の生成AI導入に関する調査結果を公表。AI投資の拡大やAI統制の実態などを明らかにした。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
-      "title": "「かすり傷を負ってでも歩く」 日立が見せる覚悟 売り上げ5000億円見込む“AI事業”の拡大にどう挑むか",
-      "link": "https://www.itmedia.co.jp/business/articles/2609/10/news028.html",
-      "date": "2026-09-10T07:00:00+09:00",
-      "dateLabel": "09/10 07:00",
-      "desc": "日立製作所がフィジカルAIの実装を加速させる新サービスを発表した。変化が激しいAIの動向をどう読み取り、顧客が必要とするサービスを開発したのか。そこに日立の覚悟が見えた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "Anthropic在籍の研究者2人も同調──「AIが人類を滅ぼしかねないと本気で考えている」",
-      "link": "https://www.itmedia.co.jp/news/article/2609/10/2000001342/",
-      "date": "2026-09-10T06:26:33+09:00",
-      "dateLabel": "09/10 06:26",
-      "desc": "Anthropicの研究幹部2人が、超知能開発への危機感を訴えて退社した研究員の主張に同意する見解を個人として投稿した。10年以内に人類が滅亡する確率を10％超と試算する声や、堅牢な安全制御手法がないまま開発競争が続いている実態を指摘し、減速の必要性を改めて訴えている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
     }
   ]
 }
