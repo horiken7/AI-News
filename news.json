@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-11T04:20:52.475286+09:00",
-  "generatedLabel": "2026/09/11 04:20",
+  "generatedAt": "2026-09-11T07:04:14.358826+09:00",
+  "generatedLabel": "2026/09/11 07:04",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 48,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -217,15 +217,15 @@
       "score": 34
     },
     {
-      "title": "ChatGPTのProプラン「新規受付一時停止するかも…」 GPT-6 Astraの「前例のない需要」受けて",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/09/2000001322/",
-      "date": "2026-09-09T16:16:00+09:00",
-      "dateLabel": "09/09 16:16",
-      "desc": "OpenAIのティボー・ソティオ氏（通称Tibo）は、新モデル「GPT-6 Astra」の需要拡大により「新規のProプラン登録を一時停止しなければならないかも」とXで述べた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
+      "title": "「ロボット大国だから勝てる」の危うさ、それでも賭ける起業家",
+      "link": "https://ascii.jp/elem/000/004/434/4434076/?rss",
+      "date": "2026-09-11T06:02:35+09:00",
+      "dateLabel": "09/11 06:02",
+      "desc": "画像クレジット:アトムの青木俊介・代表取締役（写真提供：TECHNIUM Global Conference実行委員会）",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 26
     },
     {
       "title": "生成AI時代のパワポ活用術を学ぶ！AIとの役割分担とは？ 10/2（金）・10/9（金）無料セミナー「AI時代のPowerPoint活用術 Vol.9/Vol.10」",
