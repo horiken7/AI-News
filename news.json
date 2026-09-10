@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-10T08:40:02.509547+09:00",
-  "generatedLabel": "2026/09/10 08:40",
+  "generatedAt": "2026-09-10T11:03:38.641971+09:00",
+  "generatedLabel": "2026/09/10 11:03",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 54,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -62,6 +62,17 @@
     }
   ],
   "articles": [
+    {
+      "title": "「Claude」による不正アクセス、4件目が判明──Anthropic、「アライメントの失敗」と評価を修正",
+      "link": "https://www.itmedia.co.jp/news/article/2609/10/2000001346/",
+      "date": "2026-09-10T09:07:49+09:00",
+      "dateLabel": "09/10 09:07",
+      "desc": "Anthropicは、AIモデル「Claude」が評価中に実在システムに不正侵入した事案に関するアライメント分析報告書を公開した。新たに判明した1件を含む計4件を精査し、運用上の不備ではなくモデルの「偏った推論」や「無謀さ」に起因すると見解を修正。第三者評価機関METRによる独立調査の実施も公表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
     {
       "title": "AIとの対話で自己分析から選考管理まで完結。学生起点の就活スマートアプリ",
       "link": "https://ascii.jp/elem/000/004/433/4433140/?rss",
@@ -107,28 +118,6 @@
       "score": 50
     },
     {
-      "title": "米国のバッテリー導入が過去最高、データセンターも需要けん引",
-      "link": "https://ascii.jp/elem/000/004/433/4433662/?rss",
-      "date": "2026-09-10T06:50:42+09:00",
-      "dateLabel": "09/10 06:50",
-      "desc": "米国のバッテリー導入は2026年に71ギガワット時に達し、前年から20％増える見通しだ。バッテリー価格の低下と、再生可能エネルギーの拡大に伴う蓄電需要が背景にある。記録的な四半期を押し上げたのは大型の系統向け設備で、需要家側ではデータセンターが商業部門の約4分の3を占めた。一方、住宅用は16%減る見込みだ。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "1万のAIエージェントが ミレニアム懸賞問題を解決、 人間の数学者に残る役割は？",
-      "link": "https://ascii.jp/elem/000/004/433/4433661/?rss",
-      "date": "2026-09-10T06:29:40+09:00",
-      "dateLabel": "09/10 06:29",
-      "desc": "2人の数学者が公開モデルと1年かけて進めた研究は、完全な解には届かなかった。オープンAIは社内モデルと約1万のAIエージェントを投じ、数日で解いた。かかった費用は数百万ドル。数学の最難問が、潤沢な資金と専用モデルを持つ企業の領域になりつつある。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "ChatGPTのProプラン「新規受付一時停止するかも…」 GPT-6 Astraの「前例のない需要」受けて",
       "link": "https://www.itmedia.co.jp/aiplus/article/2609/09/2000001322/",
       "date": "2026-09-09T16:16:00+09:00",
@@ -162,56 +151,34 @@
       "score": 42
     },
     {
-      "title": "OpenAI、ミレニアム懸賞問題「ナビエ・ストークス方程式」をAIが解決したと発表 数学者は経緯に反発",
-      "link": "https://www.itmedia.co.jp/news/article/2609/09/2000001300/",
-      "date": "2026-09-09T09:55:27+09:00",
-      "dateLabel": "09/09 09:55",
-      "desc": "OpenAIは、社内の未公開モデルがミレニアム懸賞問題の「ナビエ・ストークス方程式」の特異点発生を証明したと発表した。一方、先行研究を行っていた数学者は、自らの成果伝達後に着手され手法が酷似していると不正疑惑を主張。OpenAI側は反論しており、成果の検証と経緯を巡り論争が起きている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "「ChatGPT Images 2.5」登場 特定部分の編集を強化、落書きの清書やテンプレート機能も",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/09/2000001298/",
-      "date": "2026-09-09T08:57:08+09:00",
-      "dateLabel": "09/09 08:57",
-      "desc": "OpenAIが「ChatGPT Images 2.5」を発表。指定部分だけを編集する精度を高め、テンプレートや手描きの下絵を使う機能も追加した。生成の待ち時間は従来比で最大50％短縮し、全プランに提供する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "iPhone Duoが登場！ 【5分でわかる】新iPhone発表会2026まとめ",
-      "link": "https://ascii.jp/elem/000/004/433/4433659/?rss",
-      "date": "2026-09-10T06:30:00+09:00",
-      "dateLabel": "09/10 06:30",
-      "desc": "2026年のApple発表会まとめ。新CEOへの交代が明かされ、約36万円の折りたたみ「iPhone Duo」が登場しました。可変絞り搭載の「iPhone 18 Pro」シリーズ、オープン型ノイキャン対応「AirPods 5」、体調を数値化する新型「Apple Watch」が披露され、無印iPhoneの発表はありませんでした。",
-      "img": "https://ascii.jp/img/2026/09/10/4523881/s/1ecfaf4a0f4a2118.png",
+      "title": "「屋外広告の日」に、看板・サイン業界特化の法人向けAI「SignAI 」を提供開始",
+      "link": "https://ascii.jp/elem/000/004/433/4433696/?rss",
+      "date": "2026-09-10T09:00:00+09:00",
+      "dateLabel": "09/10 09:00",
+      "desc": "「屋外広告の日」に、看板・サイン業界特化の法人向けAI「SignAI 」を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
     },
     {
-      "title": "ANC付きが標準になって、実質大幅値下げ！ 「AirPods 5」登場",
-      "link": "https://ascii.jp/elem/000/004/433/4433655/?rss",
-      "date": "2026-09-10T04:45:00+09:00",
-      "dateLabel": "09/10 04:45",
-      "desc": "アップルはAirPodsシリーズの標準モデルで、インナーイヤー型の「AirPods 5」を発表。すでに予約受付を開始しており、9月18日に発売する。ANC付きがデフォルトになり、価格は2万3800円。実質的には大幅値下げとなる。",
-      "img": "https://ascii.jp/img/2026/09/10/4523841/s/8f61ac3d2acbe6ed.jpg",
+      "title": "生成AI検索（AIO・GEO）時代の店舗集客自動化SaaSを開発のSYPHER CREATION、大手・中堅企業向けに【1次OEM・代理店パートナー】を募集開始！",
+      "link": "https://ascii.jp/elem/000/004/433/4433701/?rss",
+      "date": "2026-09-10T07:38:51+09:00",
+      "dateLabel": "09/10 07:38",
+      "desc": "生成AI検索（AIO・GEO）時代の店舗集客自動化SaaSを開発のSYPHER CREATION、大手・中堅企業向けに【1次OEM・代理店パートナー】を募集開始！",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AI全般",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
-      "title": "【速報】129ドルから！ オープンイヤーなのにノイキャン搭載の新型「AirPods 5」がコスパ最強すぎる",
-      "link": "https://ascii.jp/elem/000/004/433/4433651/?rss",
-      "date": "2026-09-10T03:00:00+09:00",
-      "dateLabel": "09/10 03:00",
-      "desc": "アップルが「AirPods 5」を発表しました。耳を塞がないオープンイヤー型ながら、前世代比50%向上の強力なノイズキャンセリングを搭載。Apple Intelligenceと連携し、リアルタイム翻訳やハンズフリーSiriにも対応します。129ドルからで9月18日発売です。",
-      "img": "https://ascii.jp/img/2026/09/10/4523804/s/92ba0cb2a5818a14.png",
+      "title": "【教育×AI】小学校受験「マジタク」がキヤノンマーケティングジャパンとの提携スタート！自宅にあるプリンターですぐに始められる家庭学習へ",
+      "link": "https://ascii.jp/elem/000/004/433/4433704/?rss",
+      "date": "2026-09-10T07:00:00+09:00",
+      "dateLabel": "09/10 07:00",
+      "desc": "【教育×AI】小学校受験「マジタク」がキヤノンマーケティングジャパンとの提携スタート！自宅にあるプリンターですぐに始められる家庭学習へ",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
@@ -228,17 +195,6 @@
       "score": 34
     },
     {
-      "title": "【Amazon限定30％OFF】P12 Pro Android 16 タブレット 12インチ Gemini AI搭載！SIMフリー4G LTE・48GB RAM・256GB ROM・12,000mAh",
-      "link": "https://ascii.jp/elem/000/004/433/4433638/?rss",
-      "date": "2026-09-09T18:59:08+09:00",
-      "dateLabel": "09/09 18:59",
-      "desc": "【Amazon限定30％OFF】P12 Pro Android 16 タブレット 12インチ Gemini AI搭載！SIMフリー4G LTE・48GB RAM・256GB ROM・12,000mAh",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "Metaがメール送信や旅行予約までやってくれる個人AI「Muse」を発表、専用VMと監視AI「Sentinel」で安全対策",
       "link": "https://gigazine.net/news/20260909-meta-muse-agent/",
       "date": "2026-09-09T14:50:00+09:00",
@@ -248,6 +204,50 @@
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 34
+    },
+    {
+      "title": "OpenAI、ミレニアム懸賞問題「ナビエ・ストークス方程式」をAIが解決したと発表 数学者は経緯に反発",
+      "link": "https://www.itmedia.co.jp/news/article/2609/09/2000001300/",
+      "date": "2026-09-09T09:55:27+09:00",
+      "dateLabel": "09/09 09:55",
+      "desc": "OpenAIは、社内の未公開モデルがミレニアム懸賞問題の「ナビエ・ストークス方程式」の特異点発生を証明したと発表した。一方、先行研究を行っていた数学者は、自らの成果伝達後に着手され手法が酷似していると不正疑惑を主張。OpenAI側は反論しており、成果の検証と経緯を巡り論争が起きている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "「ChatGPT Images 2.5」登場 特定部分の編集を強化、落書きの清書やテンプレート機能も",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/09/2000001298/",
+      "date": "2026-09-09T08:57:08+09:00",
+      "dateLabel": "09/09 08:57",
+      "desc": "OpenAIが「ChatGPT Images 2.5」を発表。指定部分だけを編集する精度を高め、テンプレートや手描きの下絵を使う機能も追加した。生成の待ち時間は従来比で最大50％短縮し、全プランに提供する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "締切迫る。AIに\"存在する企業\"になるための広報戦略を無料セミナーで解説【9/18開催】",
+      "link": "https://ascii.jp/elem/000/004/433/4433686/?rss",
+      "date": "2026-09-10T09:47:07+09:00",
+      "dateLabel": "09/10 09:47",
+      "desc": "締切迫る。AIに\"存在する企業\"になるための広報戦略を無料セミナーで解説【9/18開催】",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "QommonsAI活用研修を長野県長野市（ながのけんながのし）で実施 - 実務事例から考える、生成AIの使い方",
+      "link": "https://ascii.jp/elem/000/004/433/4433698/?rss",
+      "date": "2026-09-10T09:00:00+09:00",
+      "dateLabel": "09/10 09:00",
+      "desc": "QommonsAI活用研修を長野県長野市（ながのけんながのし）で実施 - 実務事例から考える、生成AIの使い方",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 26
     },
     {
       "title": "ルールを作る「管理職」ほどシャドーAI 「AI白書2026」調査が映す“ガイドライン”の限界",
