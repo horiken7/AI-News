@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-11T09:40:17.193137+09:00",
-  "generatedLabel": "2026/09/11 09:40",
+  "generatedAt": "2026-09-11T14:24:38.247888+09:00",
+  "generatedLabel": "2026/09/11 14:24",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 52,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 17
+      "items": 19
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 9
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 17
     },
     {
       "source": "CNET Japan",
@@ -74,6 +74,28 @@
       "score": 74
     },
     {
+      "title": "「DeepSeek-V4.1-Flash」が登場、複数テストでClaude Opus 5やGPT-5.6 Solを超える性能のオープンモデル",
+      "link": "https://gigazine.net/news/20260911-deepseek-v4-1-flash/",
+      "date": "2026-09-11T11:32:00+09:00",
+      "dateLabel": "09/11 11:32",
+      "desc": "中国企業のDeepSeekがAIモデル「DeepSeek-V4.1-Flash」を2026年9月10日に公開しました。複数のベンチマークテストでClaude Opus 5やGPT-5.6 Solを上回る性能を示しつつ、オープンモデルとして無償公開されています。また、API料金も低く抑えられています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 58
+    },
+    {
+      "title": "Windows用「Gemini」アプリ提供開始 画面上に重ねて作業を中断せず利用可能に",
+      "link": "https://www.itmedia.co.jp/news/article/2609/11/2000001399/",
+      "date": "2026-09-11T11:06:11+09:00",
+      "dateLabel": "09/11 11:06",
+      "desc": "Googleは、Windows向けデスクトップアプリ「Gemini app for Windows」を公開した。Windows 10および11に対応し、UIは日本語をサポートする。［Alt］＋［Space］で作業画面上に重ねて呼び出せるほか、自律型AIエージェント「Gemini Spark」や画像・動画生成もPC上で利用できる（一部は有料プランが必要）。Ma",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 58
+    },
+    {
       "title": "チャットAIのClaudeに「カートに追加するボタンを青色にして」とウェブデザインの変更を依頼すると堂々巡りで全く完成しない様子を再現した「Opusfived」",
       "link": "https://gigazine.net/news/20260910-opusfived/",
       "date": "2026-09-10T21:00:00+09:00",
@@ -83,6 +105,50 @@
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 58
+    },
+    {
+      "title": "OpenAIが音声会話AI「GPT-Live-1」のAPIをリリース",
+      "link": "https://gigazine.net/news/20260911-gpt-live-1/",
+      "date": "2026-09-11T12:21:00+09:00",
+      "dateLabel": "09/11 12:21",
+      "desc": "OpenAIが音声エージェントの話し方や動作をより細かく制御できる音声モデル「GPT-Live-1」のAPIを発表しました。開発者が用途に合わせて音声エクスペリエンスを制御することができます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
+      "title": "財務処理AI「ChatGPT for Financial Services」が登場",
+      "link": "https://gigazine.net/news/20260911-chatgpt-for-financial-services/",
+      "date": "2026-09-11T11:10:00+09:00",
+      "dateLabel": "09/11 11:10",
+      "desc": "OpenAIが、自社でホストする金融データと「GPT-6 Astra」の推論能力を組み合わせた財務処理AI「ChatGPT for Financial Services」を発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
+      "title": "Amazon、OpenAIと広告で提携 Amazon DSPの広告主が「ChatGPT」内に広告出稿可能に",
+      "link": "https://www.itmedia.co.jp/news/article/2609/11/2000001396/",
+      "date": "2026-09-11T10:03:13+09:00",
+      "dateLabel": "09/11 10:03",
+      "desc": "Amazon Adsは、OpenAIと提携して「ChatGPT」上での広告配信に対応すると発表した。広告主はAmazon DSPを通じ、会話画面下にテキストや画像広告を出稿できるようになる。まずは米国の成人無料プラン向けパイロットとして開始し、配信面の制御はOpenAIのシステムが担う。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
+      "title": "ChatGPT、最上位プランの新規受付を一時停止 「Astra」需要対応のため 既存加入者には影響なし",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/11/2000001394/",
+      "date": "2026-09-11T09:31:23+09:00",
+      "dateLabel": "09/11 09:31",
+      "desc": "OpenAIのティボー・ソティオ氏（通称Tibo）は新モデル「GPT-6 Astra」の需要拡大に対応するため、最上位プランの新規受付を停止すると発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 50
     },
     {
       "title": "OpenAI、金融機関向け「ChatGPT for Financial Services」 金融データ搭載し「GPT-6 Astra」で分析",
@@ -107,6 +173,28 @@
       "score": 50
     },
     {
+      "title": "株式会社Wisteria、AI×点検サービス「SORAMIRU（ソラミル）」を提供開始",
+      "link": "https://ascii.jp/elem/000/004/434/4434216/?rss",
+      "date": "2026-09-11T12:45:07+09:00",
+      "dateLabel": "09/11 12:45",
+      "desc": "株式会社Wisteria、AI×点検サービス「SORAMIRU（ソラミル）」を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 42
+    },
+    {
+      "title": "Codexと同じハーネスを使ってAIエージェントを作れる「Agents API」が登場",
+      "link": "https://gigazine.net/news/20260911-openai-agents-api/",
+      "date": "2026-09-11T12:10:00+09:00",
+      "dateLabel": "09/11 12:10",
+      "desc": "OpenAIがAIエージェントの構築に役立つ「Agents API」のパブリックベータ版をリリースしました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "GPT-6 Astraが人気すぎてOpenAIのサーバーがピンチでProプランの新規サブスク契約が一時停止されるかも",
       "link": "https://gigazine.net/news/20260910-openai-astra-high-growth/",
       "date": "2026-09-10T13:09:00+09:00",
@@ -115,62 +203,62 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 50
+      "score": 42
     },
     {
-      "title": "衛星データとAIで水道管の漏水リスクを診断：宇宙水道局",
-      "link": "https://ascii.jp/elem/000/004/433/4433555/?rss",
-      "date": "2026-09-11T07:00:00+09:00",
-      "dateLabel": "09/11 07:00",
-      "desc": "株式会社天地人は9月7日、同社が提供する水道DXソリューション「宇宙水道局」が愛媛県八幡浜市上下水道課に導入されたと発表した。同サービスの導入事業体数は、2023年4月の提供開始から累計80（2026年7月時点）となった。",
-      "img": "https://ascii.jp/img/2026/09/09/4523609/s/f8401576ba370dd6.jpg",
+      "title": "急成長中の「AIガバナンス・リスク管理」市場 2030年には150億円規模に",
+      "link": "https://ascii.jp/elem/000/004/433/4433287/?rss",
+      "date": "2026-09-11T14:00:00+09:00",
+      "dateLabel": "09/11 14:00",
+      "desc": "アイ・ティ・アールは、国内における「AIガバナンス・リスク管理市場」の規模推移および予測を発表した。",
+      "img": "https://ascii.jp/img/2026/09/09/4523339/s/3443510ddaa51e39.jpg",
+      "src": "ASCII.jp",
+      "cat": "規制/安全",
+      "score": 34
+    },
+    {
+      "title": "JAPAN AI、Microsoft Foundryの活用を開始。日本マイクロソフトと協働し、AIエージェントのMicrosoft 365連携・Marketplace展開を目指す",
+      "link": "https://ascii.jp/elem/000/004/434/4434214/?rss",
+      "date": "2026-09-11T13:00:00+09:00",
+      "dateLabel": "09/11 13:00",
+      "desc": "JAPAN AI、Microsoft Foundryの活用を開始。日本マイクロソフトと協働し、AIエージェントのMicrosoft 365連携・Marketplace展開を目指す",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "AI音声は、もっと速く。CoeFont、最新音声モデル「CoeFont v4」を正式リリース",
+      "link": "https://ascii.jp/elem/000/004/434/4434217/?rss",
+      "date": "2026-09-11T12:10:00+09:00",
+      "dateLabel": "09/11 12:10",
+      "desc": "AI音声は、もっと速く。CoeFont、最新音声モデル「CoeFont v4」を正式リリース",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
-      "score": 42
+      "score": 34
     },
     {
-      "title": "Googleがフィンランドに2年間で2兆円超を投資しデータセンターを3つ新設",
-      "link": "https://gigazine.net/news/20260910-google-finland-13-billion-euro-investment/",
-      "date": "2026-09-10T12:38:00+09:00",
-      "dateLabel": "09/10 12:38",
-      "desc": "Googleが2027年から2028年の2年間、フィンランドのデジタルインフラに少なくとも130億ユーロ(約2兆3200億円)を投資する計画を発表しました。既存のハミナのデータセンターを拡張するとともに、新たなデータセンターを3つ建設することが予定されています。 続きを読む...",
+      "title": "チェック・ポイント、ChatGPTのアカウント間に潜む隠れた通信経路を経由した連携アプリへの不正アクセスにつながる可能性を明らかに",
+      "link": "https://ascii.jp/elem/000/004/434/4434243/?rss",
+      "date": "2026-09-11T12:00:09+09:00",
+      "dateLabel": "09/11 12:00",
+      "desc": "チェック・ポイント、ChatGPTのアカウント間に潜む隠れた通信経路を経由した連携アプリへの不正アクセスにつながる可能性を明らかに",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "iPhone 18 Proに搭載されるA20 Proチップのベンチマーク結果が流出、CPUは前世代よりも約25％高速化でGPUスコアも約40％向上",
+      "link": "https://gigazine.net/news/20260911-apple-m20-pro-benchmark/",
+      "date": "2026-09-11T10:33:00+09:00",
+      "dateLabel": "09/11 10:33",
+      "desc": "AppleがiPhone DuoやiPhone 18 Pro／Pro Maxに搭載した新型SoC「A20 Pro」のGeekbench 6における測定結果が登場しました。シングルコアとマルチコアの両方で前世代のA19 Proを約25％上回り、動作クロックは5GHzに迫っています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "Anthropicが「テスト中のAIで他社を攻撃してしまったインシデント」の発生原因を報告",
-      "link": "https://gigazine.net/news/20260910-anthropic-ai-incident/",
-      "date": "2026-09-10T12:37:00+09:00",
-      "dateLabel": "09/10 12:37",
-      "desc": "Anthropicが、自社のAI「Claude」の実験中に発生した不正アクセス事件の報告書を公開しました。Claudeが誤って第三者のシステムに不正アクセスしてしまう事例が合計4件確認されているということです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "大金かけて作ったAIを無料公開できるワケ ローカルLLMブームを支えるベンダーと国家の思惑",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001352/",
-      "date": "2026-09-10T12:08:53+09:00",
-      "dateLabel": "09/10 12:08",
-      "desc": "AIモデルを無料で公開して、企業はどこで稼ぐのか。ローカルLLMの盛り上がりを支えるオープンウェイトモデルには、開発に多くの資金と計算資源が投じられている。それでも公開が続く背景には、GPUやクラウドを売りたい企業の戦略がある。さらに、どの国のモデルが世界で使われるかは、国家間の競争にも関わる。ローカルLLMブームについてベンダーの側面を見ると、個人の熱狂と",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "「Claude」による不正アクセス、4件目が判明──Anthropic、「アライメントの失敗」と評価を修正",
-      "link": "https://www.itmedia.co.jp/news/article/2609/10/2000001346/",
-      "date": "2026-09-10T09:07:49+09:00",
-      "dateLabel": "09/10 09:07",
-      "desc": "Anthropicは、AIモデル「Claude」が評価中に実在システムに不正侵入した事案に関するアライメント分析報告書を公開した。新たに判明した1件を含む計4件を精査し、運用上の不備ではなくモデルの「偏った推論」や「無謀さ」に起因すると見解を修正。第三者評価機関METRによる独立調査の実施も公表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
+      "score": 34
     },
     {
       "title": "「危険コマンド停止率、AIは89％、人間だと14％」 Claude Codeが「自動モード」をデフォルトにした理由",
@@ -189,94 +277,6 @@
       "date": "2026-09-11T08:00:00+09:00",
       "dateLabel": "09/11 08:00",
       "desc": "2026年9月9日、人気のCSSフレームワーク「Tailwind CSS」を開発するTailwind LabsがShopifyに参画することが、Tailwind Labsの創設者であるアダム・ワサン氏によって発表されました。「参画(join)」という言葉が使われているものの、事実上はShopifyがTailwind Labsを買収したものと見る向きもあります",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "ラスボスCOBOLを倒すために、7チームはなにを選択し、なにを捨てたのか？",
-      "link": "https://ascii.jp/elem/000/004/433/4433955/?rss",
-      "date": "2026-09-11T07:00:00+09:00",
-      "dateLabel": "09/11 07:00",
-      "desc": "いよいよ3回目を迎えたAIモダナイゼーションのハッカソン「GitHub Copilot Quest Lv3」。今回のテーマはレガシーシステムの代名詞とも言えるCOBOL。古式ゆかしいCOBOL製の銀行夜間バッチは、GitHub CopilotとMicrosoft Azureでどのように生まれ変わるのか？ コメンテーターを務めたASCII編集部の大谷イビサがイ",
-      "img": "https://ascii.jp/img/2026/09/10/4524216/s/03b78d79c1fe8847.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "農作業や栽培管理のすべての判断をAIに任せる社会実験",
-      "link": "https://ascii.jp/elem/000/004/433/4433410/?rss",
-      "date": "2026-09-11T07:00:00+09:00",
-      "dateLabel": "09/11 07:00",
-      "desc": "ABC株式会社は9月7日、作物の栽培や資材調達といった農業に関するすべての判断をAIが行い、人間はその指示に従って作業を実行する社会実験を9月10日から開始すると発表した。実施期間は2027年6月末までを予定している。",
-      "img": "https://ascii.jp/img/2026/09/09/4523481/s/5595acd847b43196.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "RTX Sparkには2つのSKUが!!＝HPが薄型AIノートPC「HP OmniBook Ultra 16 / X 14」を発表",
-      "link": "https://ascii.jp/elem/000/004/433/4433889/?rss",
-      "date": "2026-09-11T00:01:00+09:00",
-      "dateLabel": "09/11 00:01",
-      "desc": "新機種のスペックシートには2種類のRTX Sparkが掲載されていました",
-      "img": "https://ascii.jp/img/2026/09/10/4524137/s/0e23b64229874fd7.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "4万5000円引き！ 約1.95kgの16型ゲーミングノート「ASUS Gaming V16」が19万4800円",
-      "link": "https://ascii.jp/elem/000/004/433/4433402/?rss",
-      "date": "2026-09-10T20:00:00+09:00",
-      "dateLabel": "09/10 20:00",
-      "desc": "ASUSの16型ゲーミングノートPC「ASUS Gaming V16（V3607VH-C5165R5050W）」がAmazonでタイムセール中。参考価格239,800円から19％オフの194,800円で販売中。Core 5 210HとGeForce RTX 5050 Laptop GPUを搭載し、重量は約1.95kg。16型で持ち運びも考えたい人にうれしい1",
-      "img": "https://ascii.jp/img/2026/09/09/4523466/s/ec9b9a274526c92c.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "OpenAIのAIエージェントによるハッキング事件で他にも最低10件のサイトが侵害されていたことが判明",
-      "link": "https://gigazine.net/news/20260910-openai-agent-hacking-incident-another-sites/",
-      "date": "2026-09-10T19:30:00+09:00",
-      "dateLabel": "09/10 19:30",
-      "desc": "OpenAIのAIエージェントがAIプラットフォーム・Hugging Faceに不正アクセスを行ったことで明らかになったハッキング事件で、問題のAIエージェントはすでに公表されているものの他にも最低で10件のウェブサイトを侵害していたことがわかりました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "“Google弱体化説”にDeepMindエンジニアが反論 「最新モデルはセキュリティでMythos超え」、「Gemini 4」にも言及",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001381/",
-      "date": "2026-09-10T18:23:08+09:00",
-      "dateLabel": "09/10 18:23",
-      "desc": "「Googleはもはやフロンティアモデルを持っていない」というX上の意見に対してGoogle DeepMindのエンジニアが「最新モデルはセキュリティでMythos超え」だと反論した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Anthropicの上級安全研究者が「AIが21世紀末までに人類を滅ぼす可能性が10％以上ある」と発言、「Anthropicの安全対策が甘い」と退職する社員も",
-      "link": "https://gigazine.net/news/20260910-ai-kill-humans/",
-      "date": "2026-09-10T14:06:00+09:00",
-      "dateLabel": "09/10 14:06",
-      "desc": "AI企業・AnthropicのAI安全チームを率いる責任者が、人間の手を借りずに性能を向上させ続けることができる「自己改善型AI」について「予想以上に速いペースで進んでいる」と警告を発しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "画面が回転するノートPC「VAIO T」のベンチマークテストを実行してみた＆バッテリー持続時間も検証してみたよレビュー",
-      "link": "https://gigazine.net/news/20260910-vaio-t-benchmark-battery/",
-      "date": "2026-09-10T13:00:05+09:00",
-      "dateLabel": "09/10 13:00",
-      "desc": "マルチフリップ機構を搭載したノートPC「VAIO T」が2026年9月11日に登場します。画面を回転させて「ノートPCモード」「ビューモード」「タブレットモード」を切り替えられる個性的なPCで、他者に画面を見せる用途などで活躍するとのこと。そんなVAIO Tに一足先に触れることができたので、ベンチマークテストとバッテリー性能検証テストを実施してみました。 続",
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
