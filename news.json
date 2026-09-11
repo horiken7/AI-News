@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-11T19:12:13.699329+09:00",
-  "generatedLabel": "2026/09/11 19:12",
+  "generatedAt": "2026-09-11T23:41:34.514366+09:00",
+  "generatedLabel": "2026/09/11 23:41",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 50,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 17
     },
     {
       "source": "CNET Japan",
@@ -63,17 +63,6 @@
   ],
   "articles": [
     {
-      "title": "「DeepSeek-V4.1-Flash」発表 値上げから一転「より低コストでフラッグシップ超え」うたう",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001374/",
-      "date": "2026-09-10T17:16:11+09:00",
-      "dateLabel": "09/10 17:16",
-      "desc": "中国のAI開発会社DeepSeekは新モデル「DeepSeek-V4.1-Flash」を発表。新しいアーキテクチャや学習方法を採用することで、同社フラッグシップの「DeepSeek-V4-Pro」や米OpenAIの「GPT-5.6 Sol」、米Anthropicの「Claude Opus 5」などを一部超える性能を実現したとうたう。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 66
-    },
-    {
       "title": "「DeepSeek-V4.1-Flash」が登場、複数テストでClaude Opus 5やGPT-5.6 Solを超える性能のオープンモデル",
       "link": "https://gigazine.net/news/20260911-deepseek-v4-1-flash/",
       "date": "2026-09-11T11:32:00+09:00",
@@ -93,17 +82,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 58
-    },
-    {
-      "title": "チャットAIのClaudeに「カートに追加するボタンを青色にして」とウェブデザインの変更を依頼すると堂々巡りで全く完成しない様子を再現した「Opusfived」",
-      "link": "https://gigazine.net/news/20260910-opusfived/",
-      "date": "2026-09-10T21:00:00+09:00",
-      "dateLabel": "09/10 21:00",
-      "desc": "Anthropicが2026年7月に発表した「Claude Opus 5」は、同社が2026年6月にリリースしたClaude Fable 5と同等の性能を半分の価格で実現したというAIモデルです。そんなClaude Opus 5を使ってオンラインショッピングサイトなどで配置されている「カートに追加」ボタンを青色にしようとした際の苛立たしいAIとのやり取りを、",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 58
     },
     {
@@ -184,6 +162,28 @@
       "score": 50
     },
     {
+      "title": "チャットAIのClaudeに「カートに追加するボタンを青色にして」とウェブデザインの変更を依頼すると堂々巡りで全く完成しない様子を再現した「Opusfived」",
+      "link": "https://gigazine.net/news/20260910-opusfived/",
+      "date": "2026-09-10T21:00:00+09:00",
+      "dateLabel": "09/10 21:00",
+      "desc": "Anthropicが2026年7月に発表した「Claude Opus 5」は、同社が2026年6月にリリースしたClaude Fable 5と同等の性能を半分の価格で実現したというAIモデルです。そんなClaude Opus 5を使ってオンラインショッピングサイトなどで配置されている「カートに追加」ボタンを青色にしようとした際の苛立たしいAIとのやり取りを、",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
+      "title": "OrcaRouter、DeepSeekの新モデル「DeepSeek-V4.1-Flash」の提供を開始",
+      "link": "https://ascii.jp/elem/000/004/434/4434343/?rss",
+      "date": "2026-09-11T18:00:00+09:00",
+      "dateLabel": "09/11 18:00",
+      "desc": "OrcaRouter、DeepSeekの新モデル「DeepSeek-V4.1-Flash」の提供を開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "Codexと同じハーネスを使ってAIエージェントを作れる「Agents API」が登場",
       "link": "https://gigazine.net/news/20260911-openai-agents-api/",
       "date": "2026-09-11T12:10:00+09:00",
@@ -195,6 +195,28 @@
       "score": 42
     },
     {
+      "title": "Macをフリーズさせるウェブページ「The Deathray」",
+      "link": "https://gigazine.net/news/20260911-the-deathray/",
+      "date": "2026-09-11T21:44:00+09:00",
+      "dateLabel": "09/11 21:44",
+      "desc": "ウェブページを開くだけでMacの画面操作ができなくなる「The Deathray」を、開発者のオーベロン・ロペス氏が公開しました。ブラウザからGPUを利用する機能を使ったもので、ロペス氏によるとChrome、Firefox、Safariで再現したとのことです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "音楽生成AI「YuE2」が無料公開される、有料のSuno 5に近い性能で楽譜から楽曲生成可能＆日本語ボーカルも対応",
+      "link": "https://gigazine.net/news/20260911-yue2-music-generation-ai/",
+      "date": "2026-09-11T21:00:00+09:00",
+      "dateLabel": "09/11 21:00",
+      "desc": "AI研究コミュニティのMultimodal Art Projectionが音楽生成AI「YuE2」を2026年9月10日に公開しました。開発チームは「Suno 5に匹敵するオープンな音楽生成モデル」とアピールしています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
       "title": "山﨑賢人がユーグリーン新アンバサダーに就任！ 新CMと「UGREEN AI NAS」を披露",
       "link": "https://ascii.jp/elem/000/004/434/4434328/?rss",
       "date": "2026-09-11T18:30:00+09:00",
@@ -203,6 +225,17 @@
       "img": "https://ascii.jp/img/2026/09/11/4524694/s/dbe9323ed16a3c0e.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "GMOインターネット「石狩データセンターコンソーシアム」に参画",
+      "link": "https://ascii.jp/elem/000/004/434/4434345/?rss",
+      "date": "2026-09-11T18:20:00+09:00",
+      "dateLabel": "09/11 18:20",
+      "desc": "GMOインターネット「石狩データセンターコンソーシアム」に参画",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -248,39 +281,6 @@
       "src": "GIGAZINE",
       "cat": "AI全般",
       "score": 34
-    },
-    {
-      "title": "OpenAIのAIエージェントによるハッキング事件で他にも最低10件のサイトが侵害されていたことが判明",
-      "link": "https://gigazine.net/news/20260910-openai-agent-hacking-incident-another-sites/",
-      "date": "2026-09-10T19:30:00+09:00",
-      "dateLabel": "09/10 19:30",
-      "desc": "OpenAIのAIエージェントがAIプラットフォーム・Hugging Faceに不正アクセスを行ったことで明らかになったハッキング事件で、問題のAIエージェントはすでに公表されているものの他にも最低で10件のウェブサイトを侵害していたことがわかりました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "OpenAIのサム・アルトマンCEOがAI開発速度を緩める可能性を示唆",
-      "link": "https://gigazine.net/news/20260911-openai-brakes-on-ai/",
-      "date": "2026-09-11T18:35:00+09:00",
-      "dateLabel": "09/11 18:35",
-      "desc": "OpenAIの全社会議で、サム・アルトマンCEOがAIの開発ペースを緩める方向で調整する可能性を示したことが、経済紙のブルームバーグによって明らかになりました。この方針にOpenAI以外のAI開発企業が同調するかどうかは不明瞭です。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "クラシテク、ケアネット主催／アイティメディア共催「病院DXサミット 2026 夏」に登壇 ―『現場を変えないAI』で実現する、地域連携の未来",
-      "link": "https://ascii.jp/elem/000/004/434/4434339/?rss",
-      "date": "2026-09-11T18:30:00+09:00",
-      "dateLabel": "09/11 18:30",
-      "desc": "クラシテク、ケアネット主催／アイティメディア共催「病院DXサミット 2026 夏」に登壇 ―『現場を変えないAI』で実現する、地域連携の未来",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
     }
   ]
 }
