@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-11T07:04:14.358826+09:00",
-  "generatedLabel": "2026/09/11 07:04",
+  "generatedAt": "2026-09-11T09:40:17.193137+09:00",
+  "generatedLabel": "2026/09/11 09:40",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 48,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 18
+      "items": 17
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -85,6 +85,28 @@
       "score": 58
     },
     {
+      "title": "OpenAI、金融機関向け「ChatGPT for Financial Services」 金融データ搭載し「GPT-6 Astra」で分析",
+      "link": "https://www.itmedia.co.jp/news/article/2609/11/2000001392/",
+      "date": "2026-09-11T09:10:41+09:00",
+      "dateLabel": "09/11 09:10",
+      "desc": "OpenAIは、金融機関向けAI「ChatGPT for Financial Services」を発表した。最新モデル「GPT-6 Astra」を基盤に、主要な金融データセットを標準で内蔵。財務分析や顧客向け資料作成を支援し、既存の契約データとの連携やMicrosoft Officeテンプレートの社内配布にも対応する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
+      "title": "Anthropic、AI悪用レポートを公開 中国AI企業の「蒸留」、各国政府の監視・世論操作、生物兵器につながり得る研究を列挙",
+      "link": "https://www.itmedia.co.jp/news/article/2609/11/2000001390/",
+      "date": "2026-09-11T08:13:19+09:00",
+      "dateLabel": "09/11 08:13",
+      "desc": "Anthropicは、自社AI「Claude」の悪用事例をまとめた脅威レポートを公開した。生物兵器の設計や国家機関による世論操作や反体制派監視、通常兵器開発への利用を検知、遮断したと発表。中国AI企業による組織的なモデル抽出（蒸留）の実態も報告し、危険な転用への警戒を強めている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
       "title": "GPT-6 Astraが人気すぎてOpenAIのサーバーがピンチでProプランの新規サブスク契約が一時停止されるかも",
       "link": "https://gigazine.net/news/20260910-openai-astra-high-growth/",
       "date": "2026-09-10T13:09:00+09:00",
@@ -96,15 +118,15 @@
       "score": 50
     },
     {
-      "title": "「Claude」による不正アクセス、4件目が判明──Anthropic、「アライメントの失敗」と評価を修正",
-      "link": "https://www.itmedia.co.jp/news/article/2609/10/2000001346/",
-      "date": "2026-09-10T09:07:49+09:00",
-      "dateLabel": "09/10 09:07",
-      "desc": "Anthropicは、AIモデル「Claude」が評価中に実在システムに不正侵入した事案に関するアライメント分析報告書を公開した。新たに判明した1件を含む計4件を精査し、運用上の不備ではなくモデルの「偏った推論」や「無謀さ」に起因すると見解を修正。第三者評価機関METRによる独立調査の実施も公表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 50
+      "title": "衛星データとAIで水道管の漏水リスクを診断：宇宙水道局",
+      "link": "https://ascii.jp/elem/000/004/433/4433555/?rss",
+      "date": "2026-09-11T07:00:00+09:00",
+      "dateLabel": "09/11 07:00",
+      "desc": "株式会社天地人は9月7日、同社が提供する水道DXソリューション「宇宙水道局」が愛媛県八幡浜市上下水道課に導入されたと発表した。同サービスの導入事業体数は、2023年4月の提供開始から累計80（2026年7月時点）となった。",
+      "img": "https://ascii.jp/img/2026/09/09/4523609/s/f8401576ba370dd6.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 42
     },
     {
       "title": "Googleがフィンランドに2年間で2兆円超を投資しデータセンターを3つ新設",
@@ -138,6 +160,61 @@
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
       "score": 42
+    },
+    {
+      "title": "「Claude」による不正アクセス、4件目が判明──Anthropic、「アライメントの失敗」と評価を修正",
+      "link": "https://www.itmedia.co.jp/news/article/2609/10/2000001346/",
+      "date": "2026-09-10T09:07:49+09:00",
+      "dateLabel": "09/10 09:07",
+      "desc": "Anthropicは、AIモデル「Claude」が評価中に実在システムに不正侵入した事案に関するアライメント分析報告書を公開した。新たに判明した1件を含む計4件を精査し、運用上の不備ではなくモデルの「偏った推論」や「無謀さ」に起因すると見解を修正。第三者評価機関METRによる独立調査の実施も公表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "「危険コマンド停止率、AIは89％、人間だと14％」 Claude Codeが「自動モード」をデフォルトにした理由",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/11/news018.html",
+      "date": "2026-09-11T08:00:00+09:00",
+      "dateLabel": "09/11 08:00",
+      "desc": "Anthropicは「Claude Code」のデフォルトモードを、都度承認から「自動」に切り替える。1053人を対象にした対照実験では、危険なコマンドを検知した割合が人のレビューを大きく上回ったという。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "Tailwind CSSの開発元をShopifyが買収",
+      "link": "https://gigazine.net/news/20260911-tailwind-is-joining-shopify/",
+      "date": "2026-09-11T08:00:00+09:00",
+      "dateLabel": "09/11 08:00",
+      "desc": "2026年9月9日、人気のCSSフレームワーク「Tailwind CSS」を開発するTailwind LabsがShopifyに参画することが、Tailwind Labsの創設者であるアダム・ワサン氏によって発表されました。「参画(join)」という言葉が使われているものの、事実上はShopifyがTailwind Labsを買収したものと見る向きもあります",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "ラスボスCOBOLを倒すために、7チームはなにを選択し、なにを捨てたのか？",
+      "link": "https://ascii.jp/elem/000/004/433/4433955/?rss",
+      "date": "2026-09-11T07:00:00+09:00",
+      "dateLabel": "09/11 07:00",
+      "desc": "いよいよ3回目を迎えたAIモダナイゼーションのハッカソン「GitHub Copilot Quest Lv3」。今回のテーマはレガシーシステムの代名詞とも言えるCOBOL。古式ゆかしいCOBOL製の銀行夜間バッチは、GitHub CopilotとMicrosoft Azureでどのように生まれ変わるのか？ コメンテーターを務めたASCII編集部の大谷イビサがイ",
+      "img": "https://ascii.jp/img/2026/09/10/4524216/s/03b78d79c1fe8847.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "農作業や栽培管理のすべての判断をAIに任せる社会実験",
+      "link": "https://ascii.jp/elem/000/004/433/4433410/?rss",
+      "date": "2026-09-11T07:00:00+09:00",
+      "dateLabel": "09/11 07:00",
+      "desc": "ABC株式会社は9月7日、作物の栽培や資材調達といった農業に関するすべての判断をAIが行い、人間はその指示に従って作業を実行する社会実験を9月10日から開始すると発表した。実施期間は2027年6月末までを予定している。",
+      "img": "https://ascii.jp/img/2026/09/09/4523481/s/5595acd847b43196.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "RTX Sparkには2つのSKUが!!＝HPが薄型AIノートPC「HP OmniBook Ultra 16 / X 14」を発表",
@@ -204,83 +281,6 @@
       "src": "GIGAZINE",
       "cat": "AI全般",
       "score": 34
-    },
-    {
-      "title": "Anthropicが「2030年までにAIが経済に与える影響」を示すウェブページを公開",
-      "link": "https://gigazine.net/news/20260910-anthropic-ai-economic-scenario/",
-      "date": "2026-09-10T11:53:00+09:00",
-      "dateLabel": "09/10 11:53",
-      "desc": "Anthropicの経済研究チームが、今後数年間でAIがアメリカの雇用や失業率にどのような影響を与えるかを予測するモデルを構築しました。2030年時点で経済状況はどうなっていると考えられるのか、AI専門家の考えが示されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "「ロボット大国だから勝てる」の危うさ、それでも賭ける起業家",
-      "link": "https://ascii.jp/elem/000/004/434/4434076/?rss",
-      "date": "2026-09-11T06:02:35+09:00",
-      "dateLabel": "09/11 06:02",
-      "desc": "画像クレジット:アトムの青木俊介・代表取締役（写真提供：TECHNIUM Global Conference実行委員会）",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "生成AI時代のパワポ活用術を学ぶ！AIとの役割分担とは？ 10/2（金）・10/9（金）無料セミナー「AI時代のPowerPoint活用術 Vol.9/Vol.10」",
-      "link": "https://ascii.jp/elem/000/004/434/4434050/?rss",
-      "date": "2026-09-10T18:30:00+09:00",
-      "dateLabel": "09/10 18:30",
-      "desc": "生成AI時代のパワポ活用術を学ぶ！AIとの役割分担とは？ 10/2（金）・10/9（金）無料セミナー「AI時代のPowerPoint活用術 Vol.9/Vol.10」",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
-      "title": "まさかの「AIが面接に来た」 話し方に“違和感” AIベンチャー代表が動画公開し注意喚起",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001378/",
-      "date": "2026-09-10T17:16:19+09:00",
-      "dateLabel": "09/10 17:16",
-      "desc": "「人生で初めてAIが面接に来た」――AIベンチャーKOWRO（コヲロ、東京都港区）の原田祐二CEOは、自身のXアカウントでこのような動画を公開した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "結局、AIはどれだけ人間の労働を代替し給料を下げるのか Anthropicが提示する「米国経済3つのシナリオ」",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001363/",
-      "date": "2026-09-10T14:37:21+09:00",
-      "dateLabel": "09/10 14:37",
-      "desc": "Anthropicの経済チームがAIの米国経済への影響を3つのシナリオで予測。AIが知識労働の半分を担えても失業率は歴史的範囲内で、知識労働者の賃金は横ばい。急速に普及する「極端」なシナリオに限り失業率は11.9％に上がる。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "Apple Watchで周囲の音を聞き取ってAIが分析する「Audio Intelligence」はどうやってプライバシーを保護するのか",
-      "link": "https://gigazine.net/news/20260910-apple-watch-explaining-audio-intelligence/",
-      "date": "2026-09-10T12:03:00+09:00",
-      "dateLabel": "09/10 12:03",
-      "desc": "Appleが2026年9月10日に発表したApple Watch Series 12とApple Watch Ultra 4では、AIがApple Watchを通じて聞いた音声を理解することができる「Audio Intelligence」という機能が搭載されます。このAudio Intelligenceがどうやってプライバシーを保護するのかに関する技術的資料",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 26
-    },
-    {
-      "title": "ルールを作る「管理職」ほどシャドーAI 「AI白書2026」調査が映す“ガイドライン”の限界",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/10/news027.html",
-      "date": "2026-09-10T08:00:00+09:00",
-      "dateLabel": "09/10 08:00",
-      "desc": "角川アスキー総合研究所が企業の生成AI導入に関する調査結果を公表。AI投資の拡大やAI統制の実態などを明らかにした。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "生成AI/マルチモーダル",
-      "score": 26
     }
   ]
 }
