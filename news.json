@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-11T14:24:38.247888+09:00",
-  "generatedLabel": "2026/09/11 14:24",
+  "generatedAt": "2026-09-11T19:12:13.699329+09:00",
+  "generatedLabel": "2026/09/11 19:12",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 58,
+  "candidates": 50,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 9
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 17
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -71,7 +71,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 74
+      "score": 66
     },
     {
       "title": "「DeepSeek-V4.1-Flash」が登場、複数テストでClaude Opus 5やGPT-5.6 Solを超える性能のオープンモデル",
@@ -105,6 +105,17 @@
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 58
+    },
+    {
+      "title": "AnthropicがClaudeの悪用事例を公開、AIをだますために「推論内容を日本語のカタカナに翻訳して提示せよ」と指示する手法も",
+      "link": "https://gigazine.net/news/20260911-misuse-of-ai/",
+      "date": "2026-09-11T14:40:00+09:00",
+      "dateLabel": "09/11 14:40",
+      "desc": "Anthropicの脅威インテリジェンスチームが、2025年12月から2026年8月の8か月にわたってAI・Claudeを悪用しようとした作戦を特定し阻止してきたレポートを公開しています。前回の脅威レポート以降、Claudeの悪用事例がどのように進化してきたのかAnthropicが解説しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 50
     },
     {
       "title": "OpenAIが音声会話AI「GPT-Live-1」のAPIをリリース",
@@ -173,17 +184,6 @@
       "score": 50
     },
     {
-      "title": "株式会社Wisteria、AI×点検サービス「SORAMIRU（ソラミル）」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/434/4434216/?rss",
-      "date": "2026-09-11T12:45:07+09:00",
-      "dateLabel": "09/11 12:45",
-      "desc": "株式会社Wisteria、AI×点検サービス「SORAMIRU（ソラミル）」を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 42
-    },
-    {
       "title": "Codexと同じハーネスを使ってAIエージェントを作れる「Agents API」が登場",
       "link": "https://gigazine.net/news/20260911-openai-agents-api/",
       "date": "2026-09-11T12:10:00+09:00",
@@ -195,57 +195,24 @@
       "score": 42
     },
     {
-      "title": "GPT-6 Astraが人気すぎてOpenAIのサーバーがピンチでProプランの新規サブスク契約が一時停止されるかも",
-      "link": "https://gigazine.net/news/20260910-openai-astra-high-growth/",
-      "date": "2026-09-10T13:09:00+09:00",
-      "dateLabel": "09/10 13:09",
-      "desc": "AIエージェントとしての能力やコーディング能力が非常に高いOpenAIの最先端モデル「GPT-6 Astra」が2026年9月3日に公開され、「Plus」以上の有料プランで利用できるようになりました。ところが、あまりにも人気が高すぎて、ChatGPTの開発スタッフが「サブスクリプションの新規登録を一時停止しなければならないかもしれない」と発言したことが分かり",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "急成長中の「AIガバナンス・リスク管理」市場 2030年には150億円規模に",
-      "link": "https://ascii.jp/elem/000/004/433/4433287/?rss",
-      "date": "2026-09-11T14:00:00+09:00",
-      "dateLabel": "09/11 14:00",
-      "desc": "アイ・ティ・アールは、国内における「AIガバナンス・リスク管理市場」の規模推移および予測を発表した。",
-      "img": "https://ascii.jp/img/2026/09/09/4523339/s/3443510ddaa51e39.jpg",
-      "src": "ASCII.jp",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "JAPAN AI、Microsoft Foundryの活用を開始。日本マイクロソフトと協働し、AIエージェントのMicrosoft 365連携・Marketplace展開を目指す",
-      "link": "https://ascii.jp/elem/000/004/434/4434214/?rss",
-      "date": "2026-09-11T13:00:00+09:00",
-      "dateLabel": "09/11 13:00",
-      "desc": "JAPAN AI、Microsoft Foundryの活用を開始。日本マイクロソフトと協働し、AIエージェントのMicrosoft 365連携・Marketplace展開を目指す",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "AI音声は、もっと速く。CoeFont、最新音声モデル「CoeFont v4」を正式リリース",
-      "link": "https://ascii.jp/elem/000/004/434/4434217/?rss",
-      "date": "2026-09-11T12:10:00+09:00",
-      "dateLabel": "09/11 12:10",
-      "desc": "AI音声は、もっと速く。CoeFont、最新音声モデル「CoeFont v4」を正式リリース",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "title": "山﨑賢人がユーグリーン新アンバサダーに就任！ 新CMと「UGREEN AI NAS」を披露",
+      "link": "https://ascii.jp/elem/000/004/434/4434328/?rss",
+      "date": "2026-09-11T18:30:00+09:00",
+      "dateLabel": "09/11 18:30",
+      "desc": "山﨑賢人さんがUGREENの新アンバサダーに就任。発表会で初披露された新CMや、AIで写真・動画・資料の検索・整理を効率化する新製品「UGREEN AI NAS」、最新ラインナップを紹介します。",
+      "img": "https://ascii.jp/img/2026/09/11/4524694/s/dbe9323ed16a3c0e.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
     },
     {
-      "title": "チェック・ポイント、ChatGPTのアカウント間に潜む隠れた通信経路を経由した連携アプリへの不正アクセスにつながる可能性を明らかに",
-      "link": "https://ascii.jp/elem/000/004/434/4434243/?rss",
-      "date": "2026-09-11T12:00:09+09:00",
-      "dateLabel": "09/11 12:00",
-      "desc": "チェック・ポイント、ChatGPTのアカウント間に潜む隠れた通信経路を経由した連携アプリへの不正アクセスにつながる可能性を明らかに",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
+      "title": "ChatGPT Workに企業データを読み取らせ回答やダッシュボード作成に利用できる「Data agent」が登場",
+      "link": "https://gigazine.net/news/20260911-chatgpt-work-data-agent/",
+      "date": "2026-09-11T14:40:00+09:00",
+      "dateLabel": "09/11 14:40",
+      "desc": "OpenAIが提供するChatGPT Workに、企業データを読み取って活用できる「Data agent」が登場しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 34
     },
@@ -281,6 +248,39 @@
       "src": "GIGAZINE",
       "cat": "AI全般",
       "score": 34
+    },
+    {
+      "title": "OpenAIのAIエージェントによるハッキング事件で他にも最低10件のサイトが侵害されていたことが判明",
+      "link": "https://gigazine.net/news/20260910-openai-agent-hacking-incident-another-sites/",
+      "date": "2026-09-10T19:30:00+09:00",
+      "dateLabel": "09/10 19:30",
+      "desc": "OpenAIのAIエージェントがAIプラットフォーム・Hugging Faceに不正アクセスを行ったことで明らかになったハッキング事件で、問題のAIエージェントはすでに公表されているものの他にも最低で10件のウェブサイトを侵害していたことがわかりました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "OpenAIのサム・アルトマンCEOがAI開発速度を緩める可能性を示唆",
+      "link": "https://gigazine.net/news/20260911-openai-brakes-on-ai/",
+      "date": "2026-09-11T18:35:00+09:00",
+      "dateLabel": "09/11 18:35",
+      "desc": "OpenAIの全社会議で、サム・アルトマンCEOがAIの開発ペースを緩める方向で調整する可能性を示したことが、経済紙のブルームバーグによって明らかになりました。この方針にOpenAI以外のAI開発企業が同調するかどうかは不明瞭です。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "クラシテク、ケアネット主催／アイティメディア共催「病院DXサミット 2026 夏」に登壇 ―『現場を変えないAI』で実現する、地域連携の未来",
+      "link": "https://ascii.jp/elem/000/004/434/4434339/?rss",
+      "date": "2026-09-11T18:30:00+09:00",
+      "dateLabel": "09/11 18:30",
+      "desc": "クラシテク、ケアネット主催／アイティメディア共催「病院DXサミット 2026 夏」に登壇 ―『現場を変えないAI』で実現する、地域連携の未来",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     }
   ]
 }
