@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-12T07:53:21.916245+09:00",
-  "generatedLabel": "2026/09/12 07:53",
+  "generatedAt": "2026-09-12T09:47:38.001342+09:00",
+  "generatedLabel": "2026/09/12 09:47",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 54,
@@ -129,39 +129,6 @@
       "score": 50
     },
     {
-      "title": "ChatGPT、最上位プランの新規受付を一時停止 「Astra」需要対応のため 既存加入者には影響なし",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/11/2000001394/",
-      "date": "2026-09-11T09:31:23+09:00",
-      "dateLabel": "09/11 09:31",
-      "desc": "OpenAIのティボー・ソティオ氏（通称Tibo）は新モデル「GPT-6 Astra」の需要拡大に対応するため、最上位プランの新規受付を停止すると発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
-      "title": "OpenAI、金融機関向け「ChatGPT for Financial Services」 金融データ搭載し「GPT-6 Astra」で分析",
-      "link": "https://www.itmedia.co.jp/news/article/2609/11/2000001392/",
-      "date": "2026-09-11T09:10:41+09:00",
-      "dateLabel": "09/11 09:10",
-      "desc": "OpenAIは、金融機関向けAI「ChatGPT for Financial Services」を発表した。最新モデル「GPT-6 Astra」を基盤に、主要な金融データセットを標準で内蔵。財務分析や顧客向け資料作成を支援し、既存の契約データとの連携やMicrosoft Officeテンプレートの社内配布にも対応する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
-      "title": "Anthropic、AI悪用レポートを公開 中国AI企業の「蒸留」、各国政府の監視・世論操作、生物兵器につながり得る研究を列挙",
-      "link": "https://www.itmedia.co.jp/news/article/2609/11/2000001390/",
-      "date": "2026-09-11T08:13:19+09:00",
-      "dateLabel": "09/11 08:13",
-      "desc": "Anthropicは、自社AI「Claude」の悪用事例をまとめた脅威レポートを公開した。生物兵器の設計や国家機関による世論操作や反体制派監視、通常兵器開発への利用を検知、遮断したと発表。中国AI企業による組織的なモデル抽出（蒸留）の実態も報告し、危険な転用への警戒を強めている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
       "title": "チャットAIのClaudeに「カートに追加するボタンを青色にして」とウェブデザインの変更を依頼すると堂々巡りで全く完成しない様子を再現した「Opusfived」",
       "link": "https://gigazine.net/news/20260910-opusfived/",
       "date": "2026-09-10T21:00:00+09:00",
@@ -192,6 +159,39 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "ChatGPT、最上位プランの新規受付を一時停止 「Astra」需要対応のため 既存加入者には影響なし",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/11/2000001394/",
+      "date": "2026-09-11T09:31:23+09:00",
+      "dateLabel": "09/11 09:31",
+      "desc": "OpenAIのティボー・ソティオ氏（通称Tibo）は新モデル「GPT-6 Astra」の需要拡大に対応するため、最上位プランの新規受付を停止すると発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "OpenAI、金融機関向け「ChatGPT for Financial Services」 金融データ搭載し「GPT-6 Astra」で分析",
+      "link": "https://www.itmedia.co.jp/news/article/2609/11/2000001392/",
+      "date": "2026-09-11T09:10:41+09:00",
+      "dateLabel": "09/11 09:10",
+      "desc": "OpenAIは、金融機関向けAI「ChatGPT for Financial Services」を発表した。最新モデル「GPT-6 Astra」を基盤に、主要な金融データセットを標準で内蔵。財務分析や顧客向け資料作成を支援し、既存の契約データとの連携やMicrosoft Officeテンプレートの社内配布にも対応する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "Anthropic、AI悪用レポートを公開 中国AI企業の「蒸留」、各国政府の監視・世論操作、生物兵器につながり得る研究を列挙",
+      "link": "https://www.itmedia.co.jp/news/article/2609/11/2000001390/",
+      "date": "2026-09-11T08:13:19+09:00",
+      "dateLabel": "09/11 08:13",
+      "desc": "Anthropicは、自社AI「Claude」の悪用事例をまとめた脅威レポートを公開した。生物兵器の設計や国家機関による世論操作や反体制派監視、通常兵器開発への利用を検知、遮断したと発表。中国AI企業による組織的なモデル抽出（蒸留）の実態も報告し、危険な転用への警戒を強めている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -261,26 +261,26 @@
       "score": 34
     },
     {
-      "title": "「危険コマンド停止率、AIは89％、人間だと14％」 Claude Codeが「自動モード」をデフォルトにした理由",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/11/news018.html",
-      "date": "2026-09-11T08:00:00+09:00",
-      "dateLabel": "09/11 08:00",
-      "desc": "Anthropicは「Claude Code」のデフォルトモードを、都度承認から「自動」に切り替える。1053人を対象にした対照実験では、危険なコマンドを検知した割合が人のレビューを大きく上回ったという。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Tailwind CSSの開発元をShopifyが買収",
-      "link": "https://gigazine.net/news/20260911-tailwind-is-joining-shopify/",
-      "date": "2026-09-11T08:00:00+09:00",
-      "dateLabel": "09/11 08:00",
-      "desc": "2026年9月9日、人気のCSSフレームワーク「Tailwind CSS」を開発するTailwind LabsがShopifyに参画することが、Tailwind Labsの創設者であるアダム・ワサン氏によって発表されました。「参画(join)」という言葉が使われているものの、事実上はShopifyがTailwind Labsを買収したものと見る向きもあります",
+      "title": "OpenAIのサム・アルトマンCEOがAI開発速度を緩める可能性を示唆",
+      "link": "https://gigazine.net/news/20260911-openai-brakes-on-ai/",
+      "date": "2026-09-11T18:35:00+09:00",
+      "dateLabel": "09/11 18:35",
+      "desc": "OpenAIの全社会議で、サム・アルトマンCEOがAIの開発ペースを緩める方向で調整する可能性を示したことが、経済紙のブルームバーグによって明らかになりました。この方針にOpenAI以外のAI開発企業が同調するかどうかは不明瞭です。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "OrcaRouter、20代エンジニア向けAIハッカソン「AI HACK 2026」第2回に協賛",
+      "link": "https://ascii.jp/elem/000/004/434/4434342/?rss",
+      "date": "2026-09-11T18:30:00+09:00",
+      "dateLabel": "09/11 18:30",
+      "desc": "OrcaRouter、20代エンジニア向けAIハッカソン「AI HACK 2026」第2回に協賛",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
       "cat": "AI全般",
-      "score": 34
+      "score": 26
     }
   ]
 }
