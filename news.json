@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-12T22:14:26.053714+09:00",
-  "generatedLabel": "2026/09/12 22:14",
+  "generatedAt": "2026-09-13T01:37:49.952157+09:00",
+  "generatedLabel": "2026/09/13 01:37",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 50,
+  "candidates": 49,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -118,17 +118,6 @@
       "score": 42
     },
     {
-      "title": "財務処理AI「ChatGPT for Financial Services」が登場",
-      "link": "https://gigazine.net/news/20260911-chatgpt-for-financial-services/",
-      "date": "2026-09-11T11:10:00+09:00",
-      "dateLabel": "09/11 11:10",
-      "desc": "OpenAIが、自社でホストする金融データと「GPT-6 Astra」の推論能力を組み合わせた財務処理AI「ChatGPT for Financial Services」を発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "Amazon、OpenAIと広告で提携 Amazon DSPの広告主が「ChatGPT」内に広告出稿可能に",
       "link": "https://www.itmedia.co.jp/news/article/2609/11/2000001396/",
       "date": "2026-09-11T10:03:13+09:00",
@@ -171,6 +160,28 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 42
+    },
+    {
+      "title": "AIエージェントでサイトを制作する7ステップとおすすめツール10選",
+      "link": "https://ainow.ai/2026/09/13/278356/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e3%2582%25b5%25e3%2582%25a4%25e3%2583%2588%25e3%2582%2592%25e5%2588%25b6%25e4%25bd%259c%25e3%2581%2599%25e3%2582%258b7%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583%25e3%2583%2597%25e3%2581%25a8%25e3%2581%258a",
+      "date": "2026-09-13T00:28:51+09:00",
+      "dateLabel": "09/13 00:28",
+      "desc": "AIエージェントは、サイトマップの設計から原稿・デザイン・コードの実装、公開までを対話で進められる段階に入っています。 ただし、AIでサイトを作る手段をホームページ作成ツールだけだと考えていると、テンプレートに寄せた妥協... The post AIエージェントでサイトを制作する7ステップとおすすめツール10選 first appeared on AI専門ニ",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "AIエージェントでLPを制作する6ステップとおすすめツール8選！",
+      "link": "https://ainow.ai/2026/09/13/278353/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7lp%25e3%2582%2592%25e5%2588%25b6%25e4%25bd%259c%25e3%2581%2599%25e3%2582%258b6%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583%25e3%2583%2597%25e3%2581%25a8%25e3%2581%258a%25e3%2581%2599%25e3%2581%2599%25e3%2582%2581",
+      "date": "2026-09-13T00:24:10+09:00",
+      "dateLabel": "09/13 00:24",
+      "desc": "AIエージェントは、LPの構成案からコピー・デザイン・実装までを自律的に進められる段階に入っています。 ただし、訴求設計と法令チェックを人が握らないまま公開すると、修正の手戻りと表示上のリスクを抱えます。反対に工程の分担... The post AIエージェントでLPを制作する6ステップとおすすめツール8選！ first appeared on AI専門ニュ",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "AndroidユーザーならPixel Watchを選べ！ 決済もヘルスケアもAIも全力で使えるスマートウォッチを試してみた",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
-      "title": "ChatGPT Workに企業データを読み取らせ回答やダッシュボード作成に利用できる「Data agent」が登場",
-      "link": "https://gigazine.net/news/20260911-chatgpt-work-data-agent/",
-      "date": "2026-09-11T14:40:00+09:00",
-      "dateLabel": "09/11 14:40",
-      "desc": "OpenAIが提供するChatGPT Workに、企業データを読み取って活用できる「Data agent」が登場しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 26
     }
   ]
