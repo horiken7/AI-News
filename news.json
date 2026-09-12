@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-12T14:15:04.904182+09:00",
-  "generatedLabel": "2026/09/12 14:15",
+  "generatedAt": "2026-09-12T18:46:21.820919+09:00",
+  "generatedLabel": "2026/09/12 18:46",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 48,
+  "candidates": 50,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 1
+      "items": 2
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 16
     },
     {
       "source": "CNET Japan",
@@ -63,15 +63,15 @@
   ],
   "articles": [
     {
-      "title": "AnthropicがClaudeの悪用事例を公開、AIをだますために「推論内容を日本語のカタカナに翻訳して提示せよ」と指示する手法も",
-      "link": "https://gigazine.net/news/20260911-misuse-of-ai/",
-      "date": "2026-09-11T14:40:00+09:00",
-      "dateLabel": "09/11 14:40",
-      "desc": "Anthropicの脅威インテリジェンスチームが、2025年12月から2026年8月の8か月にわたってAI・Claudeを悪用しようとした作戦を特定し阻止してきたレポートを公開しています。前回の脅威レポート以降、Claudeの悪用事例がどのように進化してきたのかAnthropicが解説しています。 続きを読む...",
+      "title": "無料のオープンソースAIエージェント「goose」、デスクトップアプリ・CLI・APIなどコード・ワークフロー・その他あらゆる用途に対応",
+      "link": "https://gigazine.net/news/20260912-goose/",
+      "date": "2026-09-12T18:00:00+09:00",
+      "dateLabel": "09/12 18:00",
+      "desc": "AIエージェントを使い始めると、用途や料金に応じてOpenAI・Claude・Google Gemini・ローカルLLMなどを使い分けたいケースがあります。そこで複数のAIプロバイダーを自由に切り替えながら、デスクトップアプリ・CLI・APIなどからMCPによるツール連携や自動化まで1つの環境で利用できるオープンソースのAIエージェント「goose」が公開さ",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 50
+      "cat": "AIエージェント/業務",
+      "score": 74
     },
     {
       "title": "「DeepSeek-V4.1-Flash」が登場、複数テストでClaude Opus 5やGPT-5.6 Solを超える性能のオープンモデル",
@@ -94,6 +94,17 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 50
+    },
+    {
+      "title": "AnthropicがClaudeの悪用事例を公開、AIをだますために「推論内容を日本語のカタカナに翻訳して提示せよ」と指示する手法も",
+      "link": "https://gigazine.net/news/20260911-misuse-of-ai/",
+      "date": "2026-09-11T14:40:00+09:00",
+      "dateLabel": "09/11 14:40",
+      "desc": "Anthropicの脅威インテリジェンスチームが、2025年12月から2026年8月の8か月にわたってAI・Claudeを悪用しようとした作戦を特定し阻止してきたレポートを公開しています。前回の脅威レポート以降、Claudeの悪用事例がどのように進化してきたのかAnthropicが解説しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "OpenAIが音声会話AI「GPT-Live-1」のAPIをリリース",
@@ -162,6 +173,17 @@
       "score": 42
     },
     {
+      "title": "SpotifyのエンジニアがClaude Codeのトークン消費を約90％削減した方法とは?",
+      "link": "https://gigazine.net/news/20260912-spotify-cut-claude-code-token-usage/",
+      "date": "2026-09-12T17:00:00+09:00",
+      "dateLabel": "09/12 17:00",
+      "desc": "音楽ストリーミングサービスのSpotifyが、Claude Codeで大量のトークンを消費する単純作業を別のAIモデルに任せることでトークン消費を大幅に削減する手法を公開しました。Spotifyのディミトリ・マズマノフ氏は、この手法を検証した結果、大量のファイル読み込みを委譲するテストでClaude側のトークン消費を平均約90％削減できたと報告しています。 ",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
       "title": "Macをフリーズさせるウェブページ「The Deathray」",
       "link": "https://gigazine.net/news/20260911-the-deathray/",
       "date": "2026-09-11T21:44:00+09:00",
@@ -184,17 +206,6 @@
       "score": 34
     },
     {
-      "title": "ChatGPT Workに企業データを読み取らせ回答やダッシュボード作成に利用できる「Data agent」が登場",
-      "link": "https://gigazine.net/news/20260911-chatgpt-work-data-agent/",
-      "date": "2026-09-11T14:40:00+09:00",
-      "dateLabel": "09/11 14:40",
-      "desc": "OpenAIが提供するChatGPT Workに、企業データを読み取って活用できる「Data agent」が登場しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "Codexと同じハーネスを使ってAIエージェントを作れる「Agents API」が登場",
       "link": "https://gigazine.net/news/20260911-openai-agents-api/",
       "date": "2026-09-11T12:10:00+09:00",
@@ -204,6 +215,28 @@
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 34
+    },
+    {
+      "title": "FMV直販、Ryzen AI 5 340+512GB SSD搭載の一体型デスクトップPCを24万4200円で販売中！",
+      "link": "https://ascii.jp/elem/000/004/433/4433765/?rss",
+      "date": "2026-09-12T16:00:00+09:00",
+      "dateLabel": "09/12 16:00",
+      "desc": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
+      "img": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "Firefoxのローカル翻訳機能をGoogle翻訳っぽく使える「about:translations」が便利",
+      "link": "https://gigazine.net/news/20260912-firefox-translations/",
+      "date": "2026-09-12T16:00:00+09:00",
+      "dateLabel": "09/12 16:00",
+      "desc": "Google翻訳やDeepLなどの翻訳サイトは非常に便利ですが「機密文書」や「プライバシーに直結するテキスト」を翻訳する場合はあまり使いたくありません。かといって、ローカルで使える翻訳システムは「LLMの実行が必要で負荷が高い」とか「負荷は軽いけど品質が低い」といった問題があります。「ローカルで使えて簡単に導入できて低負荷で品質も十分な翻訳システムはないかな",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 26
     },
     {
       "title": "普通のスマホだけじゃない!? シャオミが放つ折りたたみiPhone対抗機と1900馬力の仮想ハイパーカー",
@@ -217,25 +250,14 @@
       "score": 26
     },
     {
-      "title": "OpenAIのサム・アルトマンCEOがAI開発速度を緩める可能性を示唆",
-      "link": "https://gigazine.net/news/20260911-openai-brakes-on-ai/",
-      "date": "2026-09-11T18:35:00+09:00",
-      "dateLabel": "09/11 18:35",
-      "desc": "OpenAIの全社会議で、サム・アルトマンCEOがAIの開発ペースを緩める方向で調整する可能性を示したことが、経済紙のブルームバーグによって明らかになりました。この方針にOpenAI以外のAI開発企業が同調するかどうかは不明瞭です。 続きを読む...",
+      "title": "ChatGPT Workに企業データを読み取らせ回答やダッシュボード作成に利用できる「Data agent」が登場",
+      "link": "https://gigazine.net/news/20260911-chatgpt-work-data-agent/",
+      "date": "2026-09-11T14:40:00+09:00",
+      "dateLabel": "09/11 14:40",
+      "desc": "OpenAIが提供するChatGPT Workに、企業データを読み取って活用できる「Data agent」が登場しました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "動画編集AI「FLUX Video Edit」が登場、指定箇所のみ編集可能",
-      "link": "https://gigazine.net/news/20260911-flux-video-edit/",
-      "date": "2026-09-11T17:13:00+09:00",
-      "dateLabel": "09/11 17:13",
-      "desc": "ドイツとアメリカに拠点を置くAI企業のBlack Forest Labsが動画編集AIサービス「FLUX Video Edit」を発表しました。動画の指定した部分だけを編集可能で、競合サービスと比べて価格を低く抑えています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
       "score": 26
     },
     {
@@ -255,28 +277,6 @@
       "date": "2026-09-11T08:00:00+09:00",
       "dateLabel": "09/11 08:00",
       "desc": "Anthropicは「Claude Code」のデフォルトモードを、都度承認から「自動」に切り替える。1053人を対象にした対照実験では、危険なコマンドを検知した割合が人のレビューを大きく上回ったという。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "Tailwind CSSの開発元をShopifyが買収",
-      "link": "https://gigazine.net/news/20260911-tailwind-is-joining-shopify/",
-      "date": "2026-09-11T08:00:00+09:00",
-      "dateLabel": "09/11 08:00",
-      "desc": "2026年9月9日、人気のCSSフレームワーク「Tailwind CSS」を開発するTailwind LabsがShopifyに参画することが、Tailwind Labsの創設者であるアダム・ワサン氏によって発表されました。「参画(join)」という言葉が使われているものの、事実上はShopifyがTailwind Labsを買収したものと見る向きもあります",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "“Google弱体化説”にDeepMindエンジニアが反論 「最新モデルはセキュリティでMythos超え」、「Gemini 4」にも言及",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001381/",
-      "date": "2026-09-10T18:23:08+09:00",
-      "dateLabel": "09/10 18:23",
-      "desc": "「Googleはもはやフロンティアモデルを持っていない」というX上の意見に対してGoogle DeepMindのエンジニアが「最新モデルはセキュリティでMythos超え」だと反論した。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
