@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-12T18:46:21.820919+09:00",
-  "generatedLabel": "2026/09/12 18:46",
+  "generatedAt": "2026-09-12T22:14:26.053714+09:00",
+  "generatedLabel": "2026/09/12 22:14",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 50,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 2
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 16
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -173,6 +173,17 @@
       "score": 42
     },
     {
+      "title": "AndroidユーザーならPixel Watchを選べ！ 決済もヘルスケアもAIも全力で使えるスマートウォッチを試してみた",
+      "link": "https://ascii.jp/elem/000/004/434/4434062/?rss",
+      "date": "2026-09-12T22:00:00+09:00",
+      "dateLabel": "09/12 22:00",
+      "desc": "Androidユーザー必見の「Google Pixel Watch 5」レビューです。FeliCa対応で手首決済が可能になり、手首を上げて話すだけでAI（Gemini）が起動するなど使い勝手が大幅進化。AI補正でGPS精度が2倍に向上した点も魅力ですが、2日は持たないバッテリーやiPhone非対応には注意が必要です。",
+      "img": "https://ascii.jp/img/2026/09/12/4525032/s/3f81a553a3ba5001.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "SpotifyのエンジニアがClaude Codeのトークン消費を約90％削減した方法とは?",
       "link": "https://gigazine.net/news/20260912-spotify-cut-claude-code-token-usage/",
       "date": "2026-09-12T17:00:00+09:00",
@@ -181,28 +192,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Macをフリーズさせるウェブページ「The Deathray」",
-      "link": "https://gigazine.net/news/20260911-the-deathray/",
-      "date": "2026-09-11T21:44:00+09:00",
-      "dateLabel": "09/11 21:44",
-      "desc": "ウェブページを開くだけでMacの画面操作ができなくなる「The Deathray」を、開発者のオーベロン・ロペス氏が公開しました。ブラウザからGPUを利用する機能を使ったもので、ロペス氏によるとChrome、Firefox、Safariで再現したとのことです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "音楽生成AI「YuE2」が無料公開される、有料のSuno 5に近い性能で楽譜から楽曲生成可能＆日本語ボーカルも対応",
-      "link": "https://gigazine.net/news/20260911-yue2-music-generation-ai/",
-      "date": "2026-09-11T21:00:00+09:00",
-      "dateLabel": "09/11 21:00",
-      "desc": "AI研究コミュニティのMultimodal Art Projectionが音楽生成AI「YuE2」を2026年9月10日に公開しました。開発チームは「Suno 5に匹敵するオープンな音楽生成モデル」とアピールしています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
@@ -215,6 +204,17 @@
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 34
+    },
+    {
+      "title": "これを逃すと値上げが待っている！ 対象モデル10％オフの「VAIOストア祭り」終了まであと1週間",
+      "link": "https://ascii.jp/elem/000/004/434/4434354/?rss",
+      "date": "2026-09-12T21:00:00+09:00",
+      "dateLabel": "09/12 21:00",
+      "desc": "VAIOは2026年9月18日(金)9時59分まで直販サイトにて「VAIOストア祭り」を開催中。期間内は対象モデルが10％オフになる。また、9月18日(金)10時からは価格改定（値上げ）が実施されるため、現在の価格で購入できる最後のチャンスでもある。",
+      "img": "https://ascii.jp/img/2026/09/11/4524780/s/cd96c1c17e0bd578.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     },
     {
       "title": "FMV直販、Ryzen AI 5 340+512GB SSD搭載の一体型デスクトップPCを24万4200円で販売中！",
@@ -250,6 +250,28 @@
       "score": 26
     },
     {
+      "title": "Macをフリーズさせるウェブページ「The Deathray」",
+      "link": "https://gigazine.net/news/20260911-the-deathray/",
+      "date": "2026-09-11T21:44:00+09:00",
+      "dateLabel": "09/11 21:44",
+      "desc": "ウェブページを開くだけでMacの画面操作ができなくなる「The Deathray」を、開発者のオーベロン・ロペス氏が公開しました。ブラウザからGPUを利用する機能を使ったもので、ロペス氏によるとChrome、Firefox、Safariで再現したとのことです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "音楽生成AI「YuE2」が無料公開される、有料のSuno 5に近い性能で楽譜から楽曲生成可能＆日本語ボーカルも対応",
+      "link": "https://gigazine.net/news/20260911-yue2-music-generation-ai/",
+      "date": "2026-09-11T21:00:00+09:00",
+      "dateLabel": "09/11 21:00",
+      "desc": "AI研究コミュニティのMultimodal Art Projectionが音楽生成AI「YuE2」を2026年9月10日に公開しました。開発チームは「Suno 5に匹敵するオープンな音楽生成モデル」とアピールしています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "生成AI/マルチモーダル",
+      "score": 26
+    },
+    {
       "title": "ChatGPT Workに企業データを読み取らせ回答やダッシュボード作成に利用できる「Data agent」が登場",
       "link": "https://gigazine.net/news/20260911-chatgpt-work-data-agent/",
       "date": "2026-09-11T14:40:00+09:00",
@@ -257,28 +279,6 @@
       "desc": "OpenAIが提供するChatGPT Workに、企業データを読み取って活用できる「Data agent」が登場しました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "iPhone 18 Proに搭載されるA20 Proチップのベンチマーク結果が流出、CPUは前世代よりも約25％高速化でGPUスコアも約40％向上",
-      "link": "https://gigazine.net/news/20260911-apple-m20-pro-benchmark/",
-      "date": "2026-09-11T10:33:00+09:00",
-      "dateLabel": "09/11 10:33",
-      "desc": "AppleがiPhone DuoやiPhone 18 Pro／Pro Maxに搭載した新型SoC「A20 Pro」のGeekbench 6における測定結果が登場しました。シングルコアとマルチコアの両方で前世代のA19 Proを約25％上回り、動作クロックは5GHzに迫っています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "「危険コマンド停止率、AIは89％、人間だと14％」 Claude Codeが「自動モード」をデフォルトにした理由",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/11/news018.html",
-      "date": "2026-09-11T08:00:00+09:00",
-      "dateLabel": "09/11 08:00",
-      "desc": "Anthropicは「Claude Code」のデフォルトモードを、都度承認から「自動」に切り替える。1053人を対象にした対照実験では、危険なコマンドを検知した割合が人のレビューを大きく上回ったという。",
-      "img": "",
-      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 26
     }
