@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-12T09:47:38.001342+09:00",
-  "generatedLabel": "2026/09/12 09:47",
+  "generatedAt": "2026-09-12T14:15:04.904182+09:00",
+  "generatedLabel": "2026/09/12 14:15",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 54,
+  "candidates": 48,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 1
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 17
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -63,28 +63,6 @@
   ],
   "articles": [
     {
-      "title": "「DeepSeek-V4.1-Flash」が登場、複数テストでClaude Opus 5やGPT-5.6 Solを超える性能のオープンモデル",
-      "link": "https://gigazine.net/news/20260911-deepseek-v4-1-flash/",
-      "date": "2026-09-11T11:32:00+09:00",
-      "dateLabel": "09/11 11:32",
-      "desc": "中国企業のDeepSeekがAIモデル「DeepSeek-V4.1-Flash」を2026年9月10日に公開しました。複数のベンチマークテストでClaude Opus 5やGPT-5.6 Solを上回る性能を示しつつ、オープンモデルとして無償公開されています。また、API料金も低く抑えられています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 58
-    },
-    {
-      "title": "Windows用「Gemini」アプリ提供開始 画面上に重ねて作業を中断せず利用可能に",
-      "link": "https://www.itmedia.co.jp/news/article/2609/11/2000001399/",
-      "date": "2026-09-11T11:06:11+09:00",
-      "dateLabel": "09/11 11:06",
-      "desc": "Googleは、Windows向けデスクトップアプリ「Gemini app for Windows」を公開した。Windows 10および11に対応し、UIは日本語をサポートする。［Alt］＋［Space］で作業画面上に重ねて呼び出せるほか、自律型AIエージェント「Gemini Spark」や画像・動画生成もPC上で利用できる（一部は有料プランが必要）。Ma",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 58
-    },
-    {
       "title": "AnthropicがClaudeの悪用事例を公開、AIをだますために「推論内容を日本語のカタカナに翻訳して提示せよ」と指示する手法も",
       "link": "https://gigazine.net/news/20260911-misuse-of-ai/",
       "date": "2026-09-11T14:40:00+09:00",
@@ -96,6 +74,28 @@
       "score": 50
     },
     {
+      "title": "「DeepSeek-V4.1-Flash」が登場、複数テストでClaude Opus 5やGPT-5.6 Solを超える性能のオープンモデル",
+      "link": "https://gigazine.net/news/20260911-deepseek-v4-1-flash/",
+      "date": "2026-09-11T11:32:00+09:00",
+      "dateLabel": "09/11 11:32",
+      "desc": "中国企業のDeepSeekがAIモデル「DeepSeek-V4.1-Flash」を2026年9月10日に公開しました。複数のベンチマークテストでClaude Opus 5やGPT-5.6 Solを上回る性能を示しつつ、オープンモデルとして無償公開されています。また、API料金も低く抑えられています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
+      "title": "Windows用「Gemini」アプリ提供開始 画面上に重ねて作業を中断せず利用可能に",
+      "link": "https://www.itmedia.co.jp/news/article/2609/11/2000001399/",
+      "date": "2026-09-11T11:06:11+09:00",
+      "dateLabel": "09/11 11:06",
+      "desc": "Googleは、Windows向けデスクトップアプリ「Gemini app for Windows」を公開した。Windows 10および11に対応し、UIは日本語をサポートする。［Alt］＋［Space］で作業画面上に重ねて呼び出せるほか、自律型AIエージェント「Gemini Spark」や画像・動画生成もPC上で利用できる（一部は有料プランが必要）。Ma",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
       "title": "OpenAIが音声会話AI「GPT-Live-1」のAPIをリリース",
       "link": "https://gigazine.net/news/20260911-gpt-live-1/",
       "date": "2026-09-11T12:21:00+09:00",
@@ -104,7 +104,7 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 50
+      "score": 42
     },
     {
       "title": "財務処理AI「ChatGPT for Financial Services」が登場",
@@ -115,7 +115,7 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 50
+      "score": 42
     },
     {
       "title": "Amazon、OpenAIと広告で提携 Amazon DSPの広告主が「ChatGPT」内に広告出稿可能に",
@@ -126,39 +126,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
-      "title": "チャットAIのClaudeに「カートに追加するボタンを青色にして」とウェブデザインの変更を依頼すると堂々巡りで全く完成しない様子を再現した「Opusfived」",
-      "link": "https://gigazine.net/news/20260910-opusfived/",
-      "date": "2026-09-10T21:00:00+09:00",
-      "dateLabel": "09/10 21:00",
-      "desc": "Anthropicが2026年7月に発表した「Claude Opus 5」は、同社が2026年6月にリリースしたClaude Fable 5と同等の性能を半分の価格で実現したというAIモデルです。そんなClaude Opus 5を使ってオンラインショッピングサイトなどで配置されている「カートに追加」ボタンを青色にしようとした際の苛立たしいAIとのやり取りを、",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
-      "title": "OrcaRouter、DeepSeekの新モデル「DeepSeek-V4.1-Flash」の提供を開始",
-      "link": "https://ascii.jp/elem/000/004/434/4434343/?rss",
-      "date": "2026-09-11T18:00:00+09:00",
-      "dateLabel": "09/11 18:00",
-      "desc": "OrcaRouter、DeepSeekの新モデル「DeepSeek-V4.1-Flash」の提供を開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "Codexと同じハーネスを使ってAIエージェントを作れる「Agents API」が登場",
-      "link": "https://gigazine.net/news/20260911-openai-agents-api/",
-      "date": "2026-09-11T12:10:00+09:00",
-      "dateLabel": "09/11 12:10",
-      "desc": "OpenAIがAIエージェントの構築に役立つ「Agents API」のパブリックベータ版をリリースしました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -217,28 +184,6 @@
       "score": 34
     },
     {
-      "title": "山﨑賢人がユーグリーン新アンバサダーに就任！ 新CMと「UGREEN AI NAS」を披露",
-      "link": "https://ascii.jp/elem/000/004/434/4434328/?rss",
-      "date": "2026-09-11T18:30:00+09:00",
-      "dateLabel": "09/11 18:30",
-      "desc": "山﨑賢人さんがUGREENの新アンバサダーに就任。発表会で初披露された新CMや、AIで写真・動画・資料の検索・整理を効率化する新製品「UGREEN AI NAS」、最新ラインナップを紹介します。",
-      "img": "https://ascii.jp/img/2026/09/11/4524694/s/dbe9323ed16a3c0e.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "GMOインターネット「石狩データセンターコンソーシアム」に参画",
-      "link": "https://ascii.jp/elem/000/004/434/4434345/?rss",
-      "date": "2026-09-11T18:20:00+09:00",
-      "dateLabel": "09/11 18:20",
-      "desc": "GMOインターネット「石狩データセンターコンソーシアム」に参画",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
       "title": "ChatGPT Workに企業データを読み取らせ回答やダッシュボード作成に利用できる「Data agent」が登場",
       "link": "https://gigazine.net/news/20260911-chatgpt-work-data-agent/",
       "date": "2026-09-11T14:40:00+09:00",
@@ -250,15 +195,26 @@
       "score": 34
     },
     {
-      "title": "iPhone 18 Proに搭載されるA20 Proチップのベンチマーク結果が流出、CPUは前世代よりも約25％高速化でGPUスコアも約40％向上",
-      "link": "https://gigazine.net/news/20260911-apple-m20-pro-benchmark/",
-      "date": "2026-09-11T10:33:00+09:00",
-      "dateLabel": "09/11 10:33",
-      "desc": "AppleがiPhone DuoやiPhone 18 Pro／Pro Maxに搭載した新型SoC「A20 Pro」のGeekbench 6における測定結果が登場しました。シングルコアとマルチコアの両方で前世代のA19 Proを約25％上回り、動作クロックは5GHzに迫っています。 続きを読む...",
+      "title": "Codexと同じハーネスを使ってAIエージェントを作れる「Agents API」が登場",
+      "link": "https://gigazine.net/news/20260911-openai-agents-api/",
+      "date": "2026-09-11T12:10:00+09:00",
+      "dateLabel": "09/11 12:10",
+      "desc": "OpenAIがAIエージェントの構築に役立つ「Agents API」のパブリックベータ版をリリースしました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "半導体/GPU",
+      "cat": "AIエージェント/業務",
       "score": 34
+    },
+    {
+      "title": "普通のスマホだけじゃない!? シャオミが放つ折りたたみiPhone対抗機と1900馬力の仮想ハイパーカー",
+      "link": "https://ascii.jp/elem/000/004/434/4434349/?rss",
+      "date": "2026-09-12T12:00:00+09:00",
+      "dateLabel": "09/12 12:00",
+      "desc": "シャオミがIFA 2026に初出展。注目の新型折りたたみスマホ「Xiaomi 18 Fold」や、1900馬力想定の仮想EV「Xiaomi Vision Gran Turismo Concept」を展示しました。さらに、AIが人の行動を先読みするスマート家電やロボット、AIグラスも披露し、スマホ・車・家が連携するエコシステムをアピールしています。",
+      "img": "https://ascii.jp/img/2026/09/11/4524721/s/414548e974dc080d.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 26
     },
     {
       "title": "OpenAIのサム・アルトマンCEOがAI開発速度を緩める可能性を示唆",
@@ -272,14 +228,58 @@
       "score": 26
     },
     {
-      "title": "OrcaRouter、20代エンジニア向けAIハッカソン「AI HACK 2026」第2回に協賛",
-      "link": "https://ascii.jp/elem/000/004/434/4434342/?rss",
-      "date": "2026-09-11T18:30:00+09:00",
-      "dateLabel": "09/11 18:30",
-      "desc": "OrcaRouter、20代エンジニア向けAIハッカソン「AI HACK 2026」第2回に協賛",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
+      "title": "動画編集AI「FLUX Video Edit」が登場、指定箇所のみ編集可能",
+      "link": "https://gigazine.net/news/20260911-flux-video-edit/",
+      "date": "2026-09-11T17:13:00+09:00",
+      "dateLabel": "09/11 17:13",
+      "desc": "ドイツとアメリカに拠点を置くAI企業のBlack Forest Labsが動画編集AIサービス「FLUX Video Edit」を発表しました。動画の指定した部分だけを編集可能で、競合サービスと比べて価格を低く抑えています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "iPhone 18 Proに搭載されるA20 Proチップのベンチマーク結果が流出、CPUは前世代よりも約25％高速化でGPUスコアも約40％向上",
+      "link": "https://gigazine.net/news/20260911-apple-m20-pro-benchmark/",
+      "date": "2026-09-11T10:33:00+09:00",
+      "dateLabel": "09/11 10:33",
+      "desc": "AppleがiPhone DuoやiPhone 18 Pro／Pro Maxに搭載した新型SoC「A20 Pro」のGeekbench 6における測定結果が登場しました。シングルコアとマルチコアの両方で前世代のA19 Proを約25％上回り、動作クロックは5GHzに迫っています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "「危険コマンド停止率、AIは89％、人間だと14％」 Claude Codeが「自動モード」をデフォルトにした理由",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/11/news018.html",
+      "date": "2026-09-11T08:00:00+09:00",
+      "dateLabel": "09/11 08:00",
+      "desc": "Anthropicは「Claude Code」のデフォルトモードを、都度承認から「自動」に切り替える。1053人を対象にした対照実験では、危険なコマンドを検知した割合が人のレビューを大きく上回ったという。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "Tailwind CSSの開発元をShopifyが買収",
+      "link": "https://gigazine.net/news/20260911-tailwind-is-joining-shopify/",
+      "date": "2026-09-11T08:00:00+09:00",
+      "dateLabel": "09/11 08:00",
+      "desc": "2026年9月9日、人気のCSSフレームワーク「Tailwind CSS」を開発するTailwind LabsがShopifyに参画することが、Tailwind Labsの創設者であるアダム・ワサン氏によって発表されました。「参画(join)」という言葉が使われているものの、事実上はShopifyがTailwind Labsを買収したものと見る向きもあります",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "“Google弱体化説”にDeepMindエンジニアが反論 「最新モデルはセキュリティでMythos超え」、「Gemini 4」にも言及",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001381/",
+      "date": "2026-09-10T18:23:08+09:00",
+      "dateLabel": "09/10 18:23",
+      "desc": "「Googleはもはやフロンティアモデルを持っていない」というX上の意見に対してGoogle DeepMindのエンジニアが「最新モデルはセキュリティでMythos超え」だと反論した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 26
     }
   ]
