@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-14T04:06:12.992068+09:00",
-  "generatedLabel": "2026/09/14 04:06",
+  "generatedAt": "2026-09-14T06:55:33.551641+09:00",
+  "generatedLabel": "2026/09/14 06:55",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 46,
+  "candidates": 45,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 9
+      "items": 8
     },
     {
       "source": "CNET Japan",
@@ -272,13 +272,13 @@
       "score": 26
     },
     {
-      "title": "ChatGPT Workに企業データを読み取らせ回答やダッシュボード作成に利用できる「Data agent」が登場",
-      "link": "https://gigazine.net/news/20260911-chatgpt-work-data-agent/",
-      "date": "2026-09-11T14:40:00+09:00",
-      "dateLabel": "09/11 14:40",
-      "desc": "OpenAIが提供するChatGPT Workに、企業データを読み取って活用できる「Data agent」が登場しました。 続きを読む...",
+      "title": "「危険コマンド停止率、AIは89％、人間だと14％」 Claude Codeが「自動モード」をデフォルトにした理由",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/11/news018.html",
+      "date": "2026-09-11T08:00:00+09:00",
+      "dateLabel": "09/11 08:00",
+      "desc": "Anthropicは「Claude Code」のデフォルトモードを、都度承認から「自動」に切り替える。1053人を対象にした対照実験では、危険なコマンドを検知した割合が人のレビューを大きく上回ったという。",
       "img": "",
-      "src": "GIGAZINE",
+      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 26
     }
