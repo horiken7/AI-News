@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-13T11:01:44.284361+09:00",
-  "generatedLabel": "2026/09/13 11:01",
+  "generatedAt": "2026-09-13T16:45:48.134604+09:00",
+  "generatedLabel": "2026/09/13 16:45",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 50,
+  "candidates": 49,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -72,17 +72,6 @@
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 74
-    },
-    {
-      "title": "「DeepSeek-V4.1-Flash」が登場、複数テストでClaude Opus 5やGPT-5.6 Solを超える性能のオープンモデル",
-      "link": "https://gigazine.net/news/20260911-deepseek-v4-1-flash/",
-      "date": "2026-09-11T11:32:00+09:00",
-      "dateLabel": "09/11 11:32",
-      "desc": "中国企業のDeepSeekがAIモデル「DeepSeek-V4.1-Flash」を2026年9月10日に公開しました。複数のベンチマークテストでClaude Opus 5やGPT-5.6 Solを上回る性能を示しつつ、オープンモデルとして無償公開されています。また、API料金も低く抑えられています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 50
     },
     {
       "title": "Windows用「Gemini」アプリ提供開始 画面上に重ねて作業を中断せず利用可能に",
@@ -239,6 +228,28 @@
       "score": 34
     },
     {
+      "title": "FMV直販、Ryzen AI 5 340搭載の一体型デスクトップPCが24万4200円！",
+      "link": "https://ascii.jp/elem/000/004/433/4433766/?rss",
+      "date": "2026-09-13T16:00:00+09:00",
+      "dateLabel": "09/13 16:00",
+      "desc": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
+      "img": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "日産、6709億円の巨額損失からの反撃。これからの日産車は「早く・手ごろに・尖る」",
+      "link": "https://ascii.jp/elem/000/004/434/4434353/?rss",
+      "date": "2026-09-13T12:00:00+09:00",
+      "dateLabel": "09/13 12:00",
+      "desc": "日産の再建計画「Re:Nissan」を解説。開発期間を50ヵ月から最短30ヵ月に短縮するため、部品を広範に共通化する「ファミリー企画」やAI・DX実験を導入。「刺さる強み」に絞る目標設定や体制のスリム化で意思決定を早め、2028年のコンパクト車刷新などタイムリーな商品投入を狙います。",
+      "img": "https://ascii.jp/img/2026/09/11/4524785/s/fb3c84fbc5b36e16.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "「AIコーディングより人を雇う方が安い」時代が来る？ 生成AIの予算超過を防ぐトークン浪費対策の全て",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/13/news005.html",
       "date": "2026-09-13T08:00:00+09:00",
@@ -261,25 +272,14 @@
       "score": 26
     },
     {
-      "title": "FMV直販、Ryzen AI 5 340+512GB SSD搭載の一体型デスクトップPCを24万4200円で販売中！",
-      "link": "https://ascii.jp/elem/000/004/433/4433765/?rss",
-      "date": "2026-09-12T16:00:00+09:00",
-      "dateLabel": "09/12 16:00",
-      "desc": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
-      "img": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "Firefoxのローカル翻訳機能をGoogle翻訳っぽく使える「about:translations」が便利",
-      "link": "https://gigazine.net/news/20260912-firefox-translations/",
-      "date": "2026-09-12T16:00:00+09:00",
-      "dateLabel": "09/12 16:00",
-      "desc": "Google翻訳やDeepLなどの翻訳サイトは非常に便利ですが「機密文書」や「プライバシーに直結するテキスト」を翻訳する場合はあまり使いたくありません。かといって、ローカルで使える翻訳システムは「LLMの実行が必要で負荷が高い」とか「負荷は軽いけど品質が低い」といった問題があります。「ローカルで使えて簡単に導入できて低負荷で品質も十分な翻訳システムはないかな",
+      "title": "Macをフリーズさせるウェブページ「The Deathray」",
+      "link": "https://gigazine.net/news/20260911-the-deathray/",
+      "date": "2026-09-11T21:44:00+09:00",
+      "dateLabel": "09/11 21:44",
+      "desc": "ウェブページを開くだけでMacの画面操作ができなくなる「The Deathray」を、開発者のオーベロン・ロペス氏が公開しました。ブラウザからGPUを利用する機能を使ったもので、ロペス氏によるとChrome、Firefox、Safariで再現したとのことです。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "規制/安全",
+      "cat": "半導体/GPU",
       "score": 26
     }
   ]
