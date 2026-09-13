@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-13T16:45:48.134604+09:00",
-  "generatedLabel": "2026/09/13 16:45",
+  "generatedAt": "2026-09-13T21:56:03.261466+09:00",
+  "generatedLabel": "2026/09/13 21:56",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 49,
+  "candidates": 47,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 12
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -71,7 +71,7 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 74
+      "score": 66
     },
     {
       "title": "Windows用「Gemini」アプリ提供開始 画面上に重ねて作業を中断せず利用可能に",
@@ -162,6 +162,28 @@
       "score": 42
     },
     {
+      "title": "12.5型ボディに高機能を目一杯詰め込んだコンパクトモバイル「VAIO SX12」が9/18まで特価",
+      "link": "https://ascii.jp/elem/000/004/434/4434378/?rss",
+      "date": "2026-09-13T18:00:00+09:00",
+      "dateLabel": "09/13 18:00",
+      "desc": "VAIOストアでは2026年9月18日(金)9時59分まで対象モデル10％オフの「VAIOストア祭り」開催中。オススメは、性能を犠牲にしないコンパクトモバイルノートPC「VAIO SX12（VJS1278）」。",
+      "img": "https://ascii.jp/img/2026/09/13/4525053/s/d8564b41ea3f0fbc.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "【Anker】モバイルバッテリーの不安を撲滅できるか？ネオリチウムイオンの新型を試してみた",
+      "link": "https://ascii.jp/elem/000/004/434/4434212/?rss",
+      "date": "2026-09-13T17:00:00+09:00",
+      "dateLabel": "09/13 17:00",
+      "desc": "モバイルバッテリーを選ぶとき、容量や充電速度と並んで、いや、それ以上に気になるのが「安全性」ではないでしょうか。アンカー・ジャパンの「Anker Nano Power Bank (MagGo, Plus)」は安全性という面で新たなアプローチを打ち出しています",
+      "img": "https://ascii.jp/img/2026/09/11/4524488/s/c80fb7570ae73068.jpg",
+      "src": "ASCII.jp",
+      "cat": "規制/安全",
+      "score": 34
+    },
+    {
       "title": "AIエージェントでサイトを制作する7ステップとおすすめツール10選",
       "link": "https://ainow.ai/2026/09/13/278356/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e3%2582%25b5%25e3%2582%25a4%25e3%2583%2588%25e3%2582%2592%25e5%2588%25b6%25e4%25bd%259c%25e3%2581%2599%25e3%2582%258b7%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583%25e3%2583%2597%25e3%2581%25a8%25e3%2581%258a",
       "date": "2026-09-13T00:28:51+09:00",
@@ -180,50 +202,6 @@
       "desc": "AIエージェントは、LPの構成案からコピー・デザイン・実装までを自律的に進められる段階に入っています。 ただし、訴求設計と法令チェックを人が握らないまま公開すると、修正の手戻りと表示上のリスクを抱えます。反対に工程の分担... The post AIエージェントでLPを制作する6ステップとおすすめツール8選！ first appeared on AI専門ニュ",
       "img": "",
       "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "AndroidユーザーならPixel Watchを選べ！ 決済もヘルスケアもAIも全力で使えるスマートウォッチを試してみた",
-      "link": "https://ascii.jp/elem/000/004/434/4434062/?rss",
-      "date": "2026-09-12T22:00:00+09:00",
-      "dateLabel": "09/12 22:00",
-      "desc": "Androidユーザー必見の「Google Pixel Watch 5」レビューです。FeliCa対応で手首決済が可能になり、手首を上げて話すだけでAI（Gemini）が起動するなど使い勝手が大幅進化。AI補正でGPS精度が2倍に向上した点も魅力ですが、2日は持たないバッテリーやiPhone非対応には注意が必要です。",
-      "img": "https://ascii.jp/img/2026/09/12/4525032/s/3f81a553a3ba5001.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "「見えないAI誤用」の作業定義と4つの構造仮説を公開 ― AIは使えている。では、その使い方で人は育っているか",
-      "link": "https://ascii.jp/elem/000/004/434/4434385/?rss",
-      "date": "2026-09-12T20:16:17+09:00",
-      "dateLabel": "09/12 20:16",
-      "desc": "「見えないAI誤用」の作業定義と4つの構造仮説を公開 ― AIは使えている。では、その使い方で人は育っているか",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "SpotifyのエンジニアがClaude Codeのトークン消費を約90％削減した方法とは?",
-      "link": "https://gigazine.net/news/20260912-spotify-cut-claude-code-token-usage/",
-      "date": "2026-09-12T17:00:00+09:00",
-      "dateLabel": "09/12 17:00",
-      "desc": "音楽ストリーミングサービスのSpotifyが、Claude Codeで大量のトークンを消費する単純作業を別のAIモデルに任せることでトークン消費を大幅に削減する手法を公開しました。Spotifyのディミトリ・マズマノフ氏は、この手法を検証した結果、大量のファイル読み込みを委譲するテストでClaude側のトークン消費を平均約90％削減できたと報告しています。 ",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Codexと同じハーネスを使ってAIエージェントを作れる「Agents API」が登場",
-      "link": "https://gigazine.net/news/20260911-openai-agents-api/",
-      "date": "2026-09-11T12:10:00+09:00",
-      "dateLabel": "09/11 12:10",
-      "desc": "OpenAIがAIエージェントの構築に役立つ「Agents API」のパブリックベータ版をリリースしました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 34
     },
@@ -261,14 +239,14 @@
       "score": 26
     },
     {
-      "title": "これを逃すと値上げが待っている！ 対象モデル10％オフの「VAIOストア祭り」終了まであと1週間",
-      "link": "https://ascii.jp/elem/000/004/434/4434354/?rss",
-      "date": "2026-09-12T21:00:00+09:00",
-      "dateLabel": "09/12 21:00",
-      "desc": "VAIOは2026年9月18日(金)9時59分まで直販サイトにて「VAIOストア祭り」を開催中。期間内は対象モデルが10％オフになる。また、9月18日(金)10時からは価格改定（値上げ）が実施されるため、現在の価格で購入できる最後のチャンスでもある。",
-      "img": "https://ascii.jp/img/2026/09/11/4524780/s/cd96c1c17e0bd578.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "SpotifyのエンジニアがClaude Codeのトークン消費を約90％削減した方法とは?",
+      "link": "https://gigazine.net/news/20260912-spotify-cut-claude-code-token-usage/",
+      "date": "2026-09-12T17:00:00+09:00",
+      "dateLabel": "09/12 17:00",
+      "desc": "音楽ストリーミングサービスのSpotifyが、Claude Codeで大量のトークンを消費する単純作業を別のAIモデルに任せることでトークン消費を大幅に削減する手法を公開しました。Spotifyのディミトリ・マズマノフ氏は、この手法を検証した結果、大量のファイル読み込みを委譲するテストでClaude側のトークン消費を平均約90％削減できたと報告しています。 ",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
       "score": 26
     },
     {
@@ -280,6 +258,28 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "音楽生成AI「YuE2」が無料公開される、有料のSuno 5に近い性能で楽譜から楽曲生成可能＆日本語ボーカルも対応",
+      "link": "https://gigazine.net/news/20260911-yue2-music-generation-ai/",
+      "date": "2026-09-11T21:00:00+09:00",
+      "dateLabel": "09/11 21:00",
+      "desc": "AI研究コミュニティのMultimodal Art Projectionが音楽生成AI「YuE2」を2026年9月10日に公開しました。開発チームは「Suno 5に匹敵するオープンな音楽生成モデル」とアピールしています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "生成AI/マルチモーダル",
+      "score": 26
+    },
+    {
+      "title": "ChatGPT Workに企業データを読み取らせ回答やダッシュボード作成に利用できる「Data agent」が登場",
+      "link": "https://gigazine.net/news/20260911-chatgpt-work-data-agent/",
+      "date": "2026-09-11T14:40:00+09:00",
+      "dateLabel": "09/11 14:40",
+      "desc": "OpenAIが提供するChatGPT Workに、企業データを読み取って活用できる「Data agent」が登場しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 26
     }
   ]
