@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-15T00:25:10.015147+09:00",
-  "generatedLabel": "2026/09/15 00:25",
+  "generatedAt": "2026-09-15T05:02:14.441131+09:00",
+  "generatedLabel": "2026/09/15 05:02",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 50,
+  "candidates": 51,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -272,14 +272,14 @@
       "score": 34
     },
     {
-      "title": "なぜAIエージェントはウソをつき不正行為を行い協調するのか？",
-      "link": "https://gigazine.net/news/20260914-why-ai-agents-lying-cheating-coordinating/",
-      "date": "2026-09-14T21:00:00+09:00",
-      "dateLabel": "09/14 21:00",
-      "desc": "AIは時にウソをついたり、不正行為を行ったりします。「なぜAIエージェントはウソをつき、不正行為を行い、協調するのか？」について、2018年にチューリング賞を受賞したAI研究の第一人者であるヨシュア・ベンジオ氏が解説しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
+      "title": "「iOS 27」配信開始！ 対応するのはiPhone 11以降 日本語のSiri AIは10月開始予定",
+      "link": "https://ascii.jp/elem/000/004/434/4434738/?rss",
+      "date": "2026-09-15T02:50:00+09:00",
+      "dateLabel": "09/15 02:50",
+      "desc": "アップルは、iOSの最新バージョン「iOS 27」の配信を開始。対応iPhoneでダウンロードできることを確認している。iPadOS 27／macOS 27なども同様に配信が始まっている。",
+      "img": "https://ascii.jp/img/2026/09/15/4525638/s/07db69019ef03db1.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 26
     }
   ]
