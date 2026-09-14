@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-14T11:19:33.644973+09:00",
-  "generatedLabel": "2026/09/14 11:19",
+  "generatedAt": "2026-09-14T17:16:45.899072+09:00",
+  "generatedLabel": "2026/09/14 17:16",
   "feedOk": 7,
   "feedNg": 4,
   "candidates": 48,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 9
+      "items": 8
     },
     {
       "source": "CNET Japan",
@@ -63,15 +63,37 @@
   ],
   "articles": [
     {
-      "title": "無料のオープンソースAIエージェント「goose」、デスクトップアプリ・CLI・APIなどコード・ワークフロー・その他あらゆる用途に対応",
-      "link": "https://gigazine.net/news/20260912-goose/",
-      "date": "2026-09-12T18:00:00+09:00",
-      "dateLabel": "09/12 18:00",
-      "desc": "AIエージェントを使い始めると、用途や料金に応じてOpenAI・Claude・Google Gemini・ローカルLLMなどを使い分けたいケースがあります。そこで複数のAIプロバイダーを自由に切り替えながら、デスクトップアプリ・CLI・APIなどからMCPによるツール連携や自動化まで1つの環境で利用できるオープンソースのAIエージェント「goose」が公開さ",
+      "title": "GPT-6 AstraとClaude Fableの性能を引き出すハーネス「Fusion」が登場、Claude CodeやCodexで使う場合と同等の性能を示しつつコストを最大39％削減",
+      "link": "https://gigazine.net/news/20260914-cognition-fusion/",
+      "date": "2026-09-14T12:56:00+09:00",
+      "dateLabel": "09/14 12:56",
+      "desc": "AIエージェントの「Devin」を開発するCognitionが、OpenAIの「GPT-6 Astra」やAnthropicの「Claude Fable」の性能を引き出すハーネス「Fusion」を開発しました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 66
+      "score": 58
+    },
+    {
+      "title": "Uravation、AIエージェント「Genspark」に特化した法人研修〈Genspark実践編〉を提供開始。受講者の実業務を題材に、調査・資料作成・定型業務の自動化を12時間で作り切る",
+      "link": "https://ascii.jp/elem/000/004/434/4434675/?rss",
+      "date": "2026-09-14T16:32:40+09:00",
+      "dateLabel": "09/14 16:32",
+      "desc": "Uravation、AIエージェント「Genspark」に特化した法人研修〈Genspark実践編〉を提供開始。受講者の実業務を題材に、調査・資料作成・定型業務の自動化を12時間で作り切る",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
+      "title": "Sakana AIが複数モデルの使い分けでGPT-6 Astra超えを達成する「Fugu Ultra v2」をリリース＆コスパに優れた「Fugu Max」も登場",
+      "link": "https://gigazine.net/news/20260914-fugu-ultra-v2/",
+      "date": "2026-09-14T12:52:00+09:00",
+      "dateLabel": "09/14 12:52",
+      "desc": "東京に拠点を置くAI企業のSakana AIが、複数のAIモデルにタスクを割り振るシステム「Fugu Ultra v2」と「Fugu Max」を発表しました。Fugu Ultra v2は複数のベンチマークテストでGPT-6 AstraやClaude Fable 5.1を上回っています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 50
     },
     {
       "title": "Windows用「Gemini」アプリ提供開始 画面上に重ねて作業を中断せず利用可能に",
@@ -83,6 +105,28 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 44
+    },
+    {
+      "title": "Uravation、AIエージェントが設計・実装・テストまで担ったブラウザゲーム6本を公開。YouTube Playables に公開申込",
+      "link": "https://ascii.jp/elem/000/004/434/4434676/?rss",
+      "date": "2026-09-14T16:30:24+09:00",
+      "dateLabel": "09/14 16:30",
+      "desc": "Uravation、AIエージェントが設計・実装・テストまで担ったブラウザゲーム6本を公開。YouTube Playables に公開申込",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "Anthropicのダリオ・アモデイCEOが「6～12カ月以内にAIがインターネットを乗っ取る可能性あり」「AI開発を減速させるべき」と主張、イーロン・マスクやサム・アルトマンやデミス・ハサビスらも賛同",
+      "link": "https://gigazine.net/news/20260914-ai-pace-slow-down/",
+      "date": "2026-09-14T11:23:00+09:00",
+      "dateLabel": "09/14 11:23",
+      "desc": "Anthropicのダリオ・アモデイCEOが「We Must Pace the Frontier(フロンティアを慎重に進めるべき)」と題したブログ記事を公開し、「AIのリスクが高まっており、開発ペースを減速させる必要がある」と主張しました。アモデイCEOの意見にはSpaceXのイーロン・マスクCEO、OpenAIのサム・アルトマンCEO、Google Dee",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "トランプ政権のサックス氏、AI「ペース調整」論に苦言 「規制がなければできないふりをやめろ」",
@@ -151,14 +195,25 @@
       "score": 36
     },
     {
-      "title": "就活生に寄り添うエンジニア採用のプロ「AIメンターコヤマさん」 なぜ他社志望者にも無料開放するのか？",
-      "link": "https://ascii.jp/elem/000/004/434/4434350/?rss",
-      "date": "2026-09-14T10:00:00+09:00",
-      "dateLabel": "09/14 10:00",
-      "desc": "エンジニア採用のプロの思考を移植したAIが、就活生の自己分析や選考対策の悩みを聞いてくれる ―― 。ITインフラを中心としたSIerであるエーピーコミュニケーションズが、自社の採用サイトで「AIメンターコヤマさん」を公開した。",
-      "img": "https://ascii.jp/img/2026/09/11/4524736/s/edc5dd296e072aab.jpg",
+      "title": "Uravation、研修会社・士業事務所向けに「研修支援事業」を提供開始。AI研修の商品設計・営業キット・講師育成から初回案件の受注まで、事業者自身のブランドで伴走",
+      "link": "https://ascii.jp/elem/000/004/434/4434677/?rss",
+      "date": "2026-09-14T16:28:07+09:00",
+      "dateLabel": "09/14 16:28",
+      "desc": "Uravation、研修会社・士業事務所向けに「研修支援事業」を提供開始。AI研修の商品設計・営業キット・講師育成から初回案件の受注まで、事業者自身のブランドで伴走",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AI全般",
+      "cat": "AI実装",
+      "score": 34
+    },
+    {
+      "title": "OpenAIのAIエージェントがRubyGemsへの攻撃に関与か、2000件超のパッケージ投稿やAPIキー窃取の試みが判明",
+      "link": "https://gigazine.net/news/20260914-openai-agent-cyber-attack-rubygems/",
+      "date": "2026-09-14T14:15:00+09:00",
+      "dateLabel": "09/14 14:15",
+      "desc": "OpenAIが訓練・評価していたAIエージェントが、プログラミング言語「Ruby」のパッケージ配布サービス「RubyGems.org」への大規模な攻撃に関与していた可能性があることが分かりました。セキュリティ研究者らによると、2026年5月に2000件を超えるパッケージが投稿され、RubyDoc.infoのサーバー上で任意のコードを実行したほか、一部では利用",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -206,80 +261,25 @@
       "score": 34
     },
     {
-      "title": "業務改善を実現するシステムをこの手で AIにも強いClaris FileMakerの魔法",
-      "link": "https://ascii.jp/elem/000/004/433/4433896/?rss",
-      "date": "2026-09-14T11:00:00+09:00",
-      "dateLabel": "09/14 11:00",
-      "desc": "プログラムの知識がなくても、業務改善の意欲やアイデアがあれば、すぐにシステムが作れる。そんな「魔法」を40年以上に渡って提供してきたのが、元祖市民開発ツールとも言えるClaris FileMakerだ。クラウド、モバイルなどの最新技術を盛り込み、AI機能を強化したClaris FileMakerならシステム開発はもっと自由になる。",
-      "img": "https://ascii.jp/img/2026/09/10/4524181/s/3dc68dcc31cd62cb.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "作業手順やベテランの知見をAIがマニュアル化 Teachme Bizは人手不足の現場を救う",
-      "link": "https://ascii.jp/elem/000/004/433/4433629/?rss",
-      "date": "2026-09-14T11:00:00+09:00",
-      "dateLabel": "09/14 11:00",
-      "desc": "勤務している⼯場に、機械や資材の名前もわからない新入社員や日本語が不慣れな外国人の従業員が入ってきた。教育係のあなたは、どうやって彼ら・彼⼥らに業務を教えればいいのだろうか︖ そんな課題に応えるのが、現場の業務マニュアルを素材から⾃動⽣成してくれるスタディストのAIマニュアル「Teachme Biz（ティーチミー・ビズ）」だ。",
-      "img": "https://ascii.jp/img/2026/09/09/4523740/s/31b9a2418c2e0a0c.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "戦場のドローン映像がAIの訓練データに／米国のバッテリー導入が過去最高",
-      "link": "https://ascii.jp/elem/000/004/434/4434394/?rss",
-      "date": "2026-09-14T10:30:00+09:00",
-      "dateLabel": "09/14 10:30",
-      "desc": "世界最先端のテクノロジー情報をお届けするグローバルメディア「MITテクノロジーレビュー」から、ビジネスに役立つ注目のテック企業の最新動向、イノベーションにつながる最新の研究内容をピックアップして紹介します。",
-      "img": "https://ascii.jp/img/2026/09/13/4525074/s/bb5ed247af1f63ee.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "日本のパブリッシャーへのAIボット流入が半年で50%増、世界平均を上回るペースに -- 株式会社LINC、AIコンテンツライセンス事業で設立",
-      "link": "https://ascii.jp/elem/000/004/434/4434452/?rss",
-      "date": "2026-09-14T09:33:44+09:00",
-      "dateLabel": "09/14 09:33",
-      "desc": "日本のパブリッシャーへのAIボット流入が半年で50%増、世界平均を上回るペースに -- 株式会社LINC、AIコンテンツライセンス事業で設立",
+      "title": "AI時代、「センス」で仕事の説明を終わらせない - アート思考と判断デザインで、目的形成と判断を学べる実務へ",
+      "link": "https://ascii.jp/elem/000/004/434/4434673/?rss",
+      "date": "2026-09-14T16:39:56+09:00",
+      "dateLabel": "09/14 16:39",
+      "desc": "AI時代、「センス」で仕事の説明を終わらせない - アート思考と判断デザインで、目的形成と判断を学べる実務へ",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "“最強エージェント”は、まさかのポンコツだった 業務の30％をAIに任せるIT運用部門が明かす「つまずきポイント」",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2608/21/news015.html",
-      "date": "2026-09-14T08:00:00+09:00",
-      "dateLabel": "09/14 08:00",
-      "desc": "さまざまな業務を一手に担う“最強”の万能型エージェントが、なぜ期待を下回る結果しか返せないのか。NTTドコモソリューションズのIT運用部門のトップに、AIエージェント実装を成功させた道のりを聞いた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "AI技術を“無料で公開”、なぜ？ 米IT業界の文化「オープン化」の裏にしたたかな戦略、日本は追随できるか",
-      "link": "https://www.itmedia.co.jp/business/articles/2609/14/news047.html",
-      "date": "2026-09-14T07:00:00+09:00",
-      "dateLabel": "09/14 07:00",
-      "desc": "AI分野で「オープン化」が進んでいる。企業はなぜ、自社技術を無料で公開するのか。そこには、AI企業のしたたかな戦略があった。",
-      "img": "",
-      "src": "ITmedia AI+",
+      "title": "Uravation、毎日動く「AI社員」の運用コストを台帳で実測。記事を書く部門の10日間・54回で1日16～31ドル、費用の8割が執筆",
+      "link": "https://ascii.jp/elem/000/004/434/4434678/?rss",
+      "date": "2026-09-14T16:25:18+09:00",
+      "dateLabel": "09/14 16:25",
+      "desc": "Uravation、毎日動く「AI社員」の運用コストを台帳で実測。記事を書く部門の10日間・54回で1日16～31ドル、費用の8割が執筆",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "「Gemini Notebook」になって何が変わった？ NotebookLMからの変更点をおさらい",
-      "link": "https://kn.itmedia.co.jp/kn/article/2609/14/2000001421/",
-      "date": "2026-09-14T07:00:00+09:00",
-      "dateLabel": "09/14 07:00",
-      "desc": "Googleの「Gemini Notebook」が、資料を読むためのAIから、データ分析や成果物の作成までを任せられるツールへと変わりつつある。NotebookLMから何が変わったのか。2026年の主な機能追加と最新動向を整理する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
       "score": 26
     }
   ]
