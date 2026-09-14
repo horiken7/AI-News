@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-15T05:02:14.441131+09:00",
-  "generatedLabel": "2026/09/15 05:02",
+  "generatedAt": "2026-09-15T08:35:04.785082+09:00",
+  "generatedLabel": "2026/09/15 08:35",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 51,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 9
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -96,6 +96,39 @@
       "score": 44
     },
     {
+      "title": "「科学者がAIで生物兵器の設計を試みている可能性がある」とAnthropicが報告するも専門家の見解はさまざま",
+      "link": "https://gigazine.net/news/20260915-ai-bioweapons-report-anthropic-divides-experts/",
+      "date": "2026-09-15T08:00:00+09:00",
+      "dateLabel": "09/15 08:00",
+      "desc": "2026年9月、生成AIツールのClaudeを開発するAnthropicの脅威インテリジェンスチームが、Claudeを悪用しようとした事例についてまとめたレポートを公開しました。このレポートの中で、「科学者が生物兵器の設計を試みた可能性がある事例」についても報告されていますが、科学者らの反応はさまざまだと学術誌のScienceが報じています。 続きを読む..",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "ラピダス、2nm量産まであと1年 政府2.6兆円投資も、民間投資は1676億円にとどまる",
+      "link": "https://ascii.jp/limit/group/ida/elem/000/004/434/4434616/?rss",
+      "date": "2026-09-15T07:00:00+09:00",
+      "dateLabel": "09/15 07:00",
+      "desc": "先端半導体の国産化と量産を目指すラピダスが、量産開始の目安とした2027年10月まで1年となった。",
+      "img": "https://ascii.jp/img/2026/09/14/4525365/s/637d3373ad46b5ad.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "AIベンチマークに数学を使うのは有害だとして数学者たちが反発",
+      "link": "https://gigazine.net/news/20260915-misalignment-of-ai-in-mathematics/",
+      "date": "2026-09-15T06:00:00+09:00",
+      "dateLabel": "09/15 06:00",
+      "desc": "大規模言語モデル(LLM)の数学的能力は目覚ましい進歩を遂げており、数々の難問を解けるレベルにまで到達しました。しかしその一方で、AI企業が数学的問題解決をベンチマークとして推進する動きについては数学という学問そのものや数学コミュニティにとって有害であると、フィールズ賞受賞者25名からなる数学者たちが公開書簡を通じて警鐘を鳴らしています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "OpenAIやAnthropicなどAIベンダごとのAPIの違いを吸収し統合する「Agent Router」、Linux Foundation傘下で業界標準へ",
       "link": "https://www.publickey1.jp/blog/26/openaianthropicapiagent_routerlinux_foundation.html",
       "date": "2026-09-15T00:51:16+09:00",
@@ -118,48 +151,37 @@
       "score": 42
     },
     {
-      "title": "トランプ政権のサックス氏、AI「ペース調整」論に苦言 「規制がなければできないふりをやめろ」",
-      "link": "https://www.itmedia.co.jp/news/article/2609/14/2000001433/",
-      "date": "2026-09-14T08:14:08+09:00",
-      "dateLabel": "09/14 08:14",
-      "desc": "大統領科学技術諮問委員会のデビッド・サックス共同議長は、AnthropicとOpenAIのトップによるAI開発減速の提案を批判した。減速を望むなら規制や他者の許可を待たずに自ら実行すべきだと指摘。減速を条件に規制の枠組みを要求する姿勢は政治への脅迫に見えると述べ、利己的な動機を装うのをやめるよう求めた。",
+      "title": "トランプ大統領、アモデイ氏を名指しで「完璧な小さい天使のふり」 「AIに必要なガードレールは強く賢い大統領だけ」",
+      "link": "https://www.itmedia.co.jp/news/article/2609/15/2000001470/",
+      "date": "2026-09-15T07:30:10+09:00",
+      "dateLabel": "09/15 07:30",
+      "desc": "トランプ米大統領はSNSへの投稿で、AIに必要なガードレールは強く賢い大統領だけで十分だと述べ、AI企業に対する刑事・規制上の強い権限を強調した。AnthropicのアモデイCEOを名指しで批判し、AI開発を妨げる動きを中国を利する陰謀だと非難して、米国の優位性を維持する姿勢を示した。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "規制/安全",
-      "score": 42
+      "score": 34
     },
     {
-      "title": "Amazon、OpenAIと広告で提携 Amazon DSPの広告主が「ChatGPT」内に広告出稿可能に",
-      "link": "https://www.itmedia.co.jp/news/article/2609/11/2000001396/",
-      "date": "2026-09-11T10:03:13+09:00",
-      "dateLabel": "09/11 10:03",
-      "desc": "Amazon Adsは、OpenAIと提携して「ChatGPT」上での広告配信に対応すると発表した。広告主はAmazon DSPを通じ、会話画面下にテキストや画像広告を出稿できるようになる。まずは米国の成人無料プラン向けパイロットとして開始し、配信面の制御はOpenAIのシステムが担う。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 36
+      "title": "2028年の適正原価義務化を見据えた物流の契約・運賃条件を一元管理するAIクラウド基盤",
+      "link": "https://ascii.jp/elem/000/004/433/4433958/?rss",
+      "date": "2026-09-15T07:00:00+09:00",
+      "dateLabel": "09/15 07:00",
+      "desc": "人件費や燃料費の高騰に伴う運賃改定の動きに加え、2028年6月からは国が定める「適正原価」を下回る運賃設定を禁止する法的規制の施行が予定されている。取引適正化への対応が求められる中、株式会社Hacobuは9月8日、AIを活用して契約書や覚書、見積書から運賃・契約条件を自動で読み取り、データ化して一元管理するサービス「MOVO Contract」の提供を開始し",
+      "img": "https://ascii.jp/img/2026/09/10/4524230/s/5f274729a9e4f002.jpg",
+      "src": "ASCII.jp",
+      "cat": "規制/安全",
+      "score": 34
     },
     {
-      "title": "ChatGPT、最上位プランの新規受付を一時停止 「Astra」需要対応のため 既存加入者には影響なし",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/11/2000001394/",
-      "date": "2026-09-11T09:31:23+09:00",
-      "dateLabel": "09/11 09:31",
-      "desc": "OpenAIのティボー・ソティオ氏（通称Tibo）は新モデル「GPT-6 Astra」の需要拡大に対応するため、最上位プランの新規受付を停止すると発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 36
-    },
-    {
-      "title": "OpenAI、金融機関向け「ChatGPT for Financial Services」 金融データ搭載し「GPT-6 Astra」で分析",
-      "link": "https://www.itmedia.co.jp/news/article/2609/11/2000001392/",
-      "date": "2026-09-11T09:10:41+09:00",
-      "dateLabel": "09/11 09:10",
-      "desc": "OpenAIは、金融機関向けAI「ChatGPT for Financial Services」を発表した。最新モデル「GPT-6 Astra」を基盤に、主要な金融データセットを標準で内蔵。財務分析や顧客向け資料作成を支援し、既存の契約データとの連携やMicrosoft Officeテンプレートの社内配布にも対応する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 36
+      "title": "「この学会は茶番だ」 AIエージェント100体が 不正と内部告発で分裂",
+      "link": "https://ascii.jp/elem/000/004/434/4434742/?rss",
+      "date": "2026-09-15T06:50:49+09:00",
+      "dateLabel": "09/15 06:50",
+      "desc": "グーグル・ディープマインドの実験で、数学問題を解く100体のAIエージェントが不正と内部告発をめぐり対立する派閥に分裂した。1体が検証の抜け穴を見つけると、不正は仲間の行動に引きずられるように広がったが、内部告発も同じ速さで伝染し、最終的には24体対14体で告発側が上回った。動かしていたのは、個々の判断よりも仲間からの圧力だったという。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "AnthropicのMCP共同作者が来日、基調講演で語るこれからのMCP注力領域。AGNTCon＋MCPCon Japan 2026",
@@ -228,25 +250,14 @@
       "score": 34
     },
     {
-      "title": "日立HMAX新技術「AIオーケストレーション」、特急注文など部門間調整を自動化",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2609/14/news041.html",
-      "date": "2026-09-14T08:30:00+09:00",
-      "dateLabel": "09/14 08:30",
-      "desc": "日立製作所は、製造業の部門間スケジュール調整を自動化する「AIオーケストレーション技術」の具体的な運用シナリオを公開した。部門特化型のAI群と計画最適化エンジンを連携させ、人は最終的な意思決定に集中する。2027年提供予定だ。",
+      "title": "トランプ政権のサックス氏、AI「ペース調整」論に苦言 「規制がなければできないふりをやめろ」",
+      "link": "https://www.itmedia.co.jp/news/article/2609/14/2000001433/",
+      "date": "2026-09-14T08:14:08+09:00",
+      "dateLabel": "09/14 08:14",
+      "desc": "大統領科学技術諮問委員会のデビッド・サックス共同議長は、AnthropicとOpenAIのトップによるAI開発減速の提案を批判した。減速を望むなら規制や他者の許可を待たずに自ら実行すべきだと指摘。減速を条件に規制の枠組みを要求する姿勢は政治への脅迫に見えると述べ、利己的な動機を装うのをやめるよう求めた。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Shopifyがスマホアプリ開発でReact NativeからSwiftとKotlinに回帰、コーディングAIの性能向上が理由",
-      "link": "https://gigazine.net/news/20260914-shopify-back-to-native-mobile-ai/",
-      "date": "2026-09-14T07:00:00+09:00",
-      "dateLabel": "09/14 07:00",
-      "desc": "eコマースプラットフォームのShopifyは過去数年間にわたり、スマートフォンアプリの開発にモバイルアプリケーションフレームワークのReact Nativeを使用してきました。ところがShopifyが2026年9月10日に公開したブログでは、React Nativeに注力するとしていた方針を撤回し、かつて使用していたSwiftとKotlinに回帰することを表",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
+      "cat": "規制/安全",
       "score": 34
     },
     {
@@ -270,17 +281,6 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
-    },
-    {
-      "title": "「iOS 27」配信開始！ 対応するのはiPhone 11以降 日本語のSiri AIは10月開始予定",
-      "link": "https://ascii.jp/elem/000/004/434/4434738/?rss",
-      "date": "2026-09-15T02:50:00+09:00",
-      "dateLabel": "09/15 02:50",
-      "desc": "アップルは、iOSの最新バージョン「iOS 27」の配信を開始。対応iPhoneでダウンロードできることを確認している。iPadOS 27／macOS 27なども同様に配信が始まっている。",
-      "img": "https://ascii.jp/img/2026/09/15/4525638/s/07db69019ef03db1.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
     }
   ]
 }
