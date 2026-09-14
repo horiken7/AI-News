@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-14T17:16:45.899072+09:00",
-  "generatedLabel": "2026/09/14 17:16",
+  "generatedAt": "2026-09-15T00:25:10.015147+09:00",
+  "generatedLabel": "2026/09/15 00:25",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 48,
+  "candidates": 50,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 8
+      "items": 10
     },
     {
       "source": "CNET Japan",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 4
+      "items": 5
     },
     {
       "source": "AINOW",
@@ -74,17 +74,6 @@
       "score": 58
     },
     {
-      "title": "Uravation、AIエージェント「Genspark」に特化した法人研修〈Genspark実践編〉を提供開始。受講者の実業務を題材に、調査・資料作成・定型業務の自動化を12時間で作り切る",
-      "link": "https://ascii.jp/elem/000/004/434/4434675/?rss",
-      "date": "2026-09-14T16:32:40+09:00",
-      "dateLabel": "09/14 16:32",
-      "desc": "Uravation、AIエージェント「Genspark」に特化した法人研修〈Genspark実践編〉を提供開始。受講者の実業務を題材に、調査・資料作成・定型業務の自動化を12時間で作り切る",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
       "title": "Sakana AIが複数モデルの使い分けでGPT-6 Astra超えを達成する「Fugu Ultra v2」をリリース＆コスパに優れた「Fugu Max」も登場",
       "link": "https://gigazine.net/news/20260914-fugu-ultra-v2/",
       "date": "2026-09-14T12:52:00+09:00",
@@ -107,13 +96,13 @@
       "score": 44
     },
     {
-      "title": "Uravation、AIエージェントが設計・実装・テストまで担ったブラウザゲーム6本を公開。YouTube Playables に公開申込",
-      "link": "https://ascii.jp/elem/000/004/434/4434676/?rss",
-      "date": "2026-09-14T16:30:24+09:00",
-      "dateLabel": "09/14 16:30",
-      "desc": "Uravation、AIエージェントが設計・実装・テストまで担ったブラウザゲーム6本を公開。YouTube Playables に公開申込",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
+      "title": "OpenAIやAnthropicなどAIベンダごとのAPIの違いを吸収し統合する「Agent Router」、Linux Foundation傘下で業界標準へ",
+      "link": "https://www.publickey1.jp/blog/26/openaianthropicapiagent_routerlinux_foundation.html",
+      "date": "2026-09-15T00:51:16+09:00",
+      "dateLabel": "09/15 00:51",
+      "desc": "MCPやAGENTS.md、Agent2AgentプロトコルなどのAIエージェントに関する関連技術の標準化推進や開発などを行うLinux Foundation傘下のAgentic AI Foundation（AAIF）は、オープンソースとし...",
+      "img": "",
+      "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 42
     },
@@ -137,17 +126,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "規制/安全",
-      "score": 42
-    },
-    {
-      "title": "TailscaleのVPNにAIエージェントを組み込める「Aperture」正式リリース。AIによるTailscaleやノードの操作も可能に",
-      "link": "https://www.publickey1.jp/blog/26/tailscalevpnaiapertureaitailscale.html",
-      "date": "2026-09-14T00:08:50+09:00",
-      "dateLabel": "09/14 00:08",
-      "desc": "メッシュ型のVPNサービスを提供するTailscaleは、AIゲートウェイサービス「Aperture」の正式リリースを発表しました。 Aperture is officially GA.Give AI agents the models, ...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -184,25 +162,58 @@
       "score": 36
     },
     {
-      "title": "Anthropic、AI悪用レポートを公開 中国AI企業の「蒸留」、各国政府の監視・世論操作、生物兵器につながり得る研究を列挙",
-      "link": "https://www.itmedia.co.jp/news/article/2609/11/2000001390/",
-      "date": "2026-09-11T08:13:19+09:00",
-      "dateLabel": "09/11 08:13",
-      "desc": "Anthropicは、自社AI「Claude」の悪用事例をまとめた脅威レポートを公開した。生物兵器の設計や国家機関による世論操作や反体制派監視、通常兵器開発への利用を検知、遮断したと発表。中国AI企業による組織的なモデル抽出（蒸留）の実態も報告し、危険な転用への警戒を強めている。",
+      "title": "AnthropicのMCP共同作者が来日、基調講演で語るこれからのMCP注力領域。AGNTCon＋MCPCon Japan 2026",
+      "link": "https://www.publickey1.jp/blog/26/anthropicmcpmcpagntconmcpcon_japan_2026.html",
+      "date": "2026-09-15T00:55:18+09:00",
+      "dateLabel": "09/15 00:55",
+      "desc": "AIエージェントおよびMCP（Model Context Protocol）を主題としたイベント「AGNTCon＋MCPCon Japan 2026」が9月10日に東京渋谷のイベントホールで開催されました。主催はLinux Foundati...",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 36
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
-      "title": "Uravation、研修会社・士業事務所向けに「研修支援事業」を提供開始。AI研修の商品設計・営業キット・講師育成から初回案件の受注まで、事業者自身のブランドで伴走",
-      "link": "https://ascii.jp/elem/000/004/434/4434677/?rss",
-      "date": "2026-09-14T16:28:07+09:00",
-      "dateLabel": "09/14 16:28",
-      "desc": "Uravation、研修会社・士業事務所向けに「研修支援事業」を提供開始。AI研修の商品設計・営業キット・講師育成から初回案件の受注まで、事業者自身のブランドで伴走",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "title": "週刊アスキー No.1613(2026年9月15日発行)",
+      "link": "https://ascii.jp/elem/000/004/434/4434382/?rss",
+      "date": "2026-09-15T00:00:00+09:00",
+      "dateLabel": "09/15 00:00",
+      "desc": "特集1はスマホの購入に欠かせないアクセサリーについて。新iPhoneも発表された時期、改めて自分が使っているものを見直そう。特集2は、進化を続けているSnapdragon X。インテル、AMDとは異なる第3の選択肢の今に迫る。",
+      "img": "https://ascii.jp/img/2026/09/14/4525134/s/0eee3e5f9d292acb.png",
       "src": "ASCII.jp",
-      "cat": "AI実装",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "NVIDIAの特定のGPUメモリのロックを解除し本当に高速化できるソフトウェア「cmpunlocker」",
+      "link": "https://gigazine.net/news/20260914-cmpunlocker/",
+      "date": "2026-09-14T22:00:00+09:00",
+      "dateLabel": "09/14 22:00",
+      "desc": "GPUのメモリロックを解除して通常以上のパフォーマンスを引き出すソフトウェア「cmpunlocker」の効果を海外テック系メディアのLTT Labsが検証しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "RTX 5060＋32GBで22万4280円！ Lenovo「LOQ」がAmazonで33％オフ",
+      "link": "https://ascii.jp/elem/000/004/434/4434522/?rss",
+      "date": "2026-09-14T20:00:00+09:00",
+      "dateLabel": "09/14 20:00",
+      "desc": "LenovoのゲーミングノートPC「LOQ 15IRX10（83JE01ERJP）」がAmazonでタイムセール対象。参考価格334,799円から33％オフの224,280円で販売中。Core i7-14700HXとGeForce RTX 5060 Laptop GPUを搭載し、32GBメモリと512GB SSDを備える。144Hz、G-SYNC対応の15.",
+      "img": "https://ascii.jp/img/2026/09/14/4525249/s/f0c04a76c20c3354.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "AIエージェントで事務作業を自動化する方法8選 導入手順と事例を解説",
+      "link": "https://ainow.ai/2026/09/14/278359/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e4%25ba%258b%25e5%258b%2599%25e4%25bd%259c%25e6%25a5%25ad%25e3%2582%2592%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%25958%25e9%2581%25b8-%25e5%25b0%258e",
+      "date": "2026-09-14T17:59:21+09:00",
+      "dateLabel": "09/14 17:59",
+      "desc": "請求書のデータ入力、受発注データの転記、経費精算の差し戻し対応。月末月初になると事務作業が一気に積み上がるのに、人を増やそうにも採用が追いつかない事務部門は少なくありません。 AIエージェントとは、目的を伝えるだけで必要... The post AIエージェントで事務作業を自動化する方法8選 導入手順と事例を解説 first appeared on AI専門",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -239,14 +250,14 @@
       "score": 34
     },
     {
-      "title": "AIのせいでエンジニアの75％を解雇したCSSフレームワークのTailwind、Shopifyによる買収を発表。今後も安定的な開発を維持すると",
-      "link": "https://www.publickey1.jp/blog/26/ai75csstailwindshopify.html",
-      "date": "2026-09-14T00:20:00+09:00",
-      "dateLabel": "09/14 00:20",
-      "desc": "CSSフレームワーク「Tailwind CSS」の開発元であるTailwind Labsは、ECサイト構築サービスを提供しているShopifyによって買収されると発表しました。 下記はTailwindの作者であるAdam Wathan氏によ...",
+      "title": "TailscaleのVPNにAIエージェントを組み込める「Aperture」正式リリース。AIによるTailscaleやノードの操作も可能に",
+      "link": "https://www.publickey1.jp/blog/26/tailscalevpnaiapertureaitailscale.html",
+      "date": "2026-09-14T00:08:50+09:00",
+      "dateLabel": "09/14 00:08",
+      "desc": "メッシュ型のVPNサービスを提供するTailscaleは、AIゲートウェイサービス「Aperture」の正式リリースを発表しました。 Aperture is officially GA.Give AI agents the models, ...",
       "img": "",
       "src": "Publickey",
-      "cat": "AI全般",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -261,25 +272,14 @@
       "score": 34
     },
     {
-      "title": "AI時代、「センス」で仕事の説明を終わらせない - アート思考と判断デザインで、目的形成と判断を学べる実務へ",
-      "link": "https://ascii.jp/elem/000/004/434/4434673/?rss",
-      "date": "2026-09-14T16:39:56+09:00",
-      "dateLabel": "09/14 16:39",
-      "desc": "AI時代、「センス」で仕事の説明を終わらせない - アート思考と判断デザインで、目的形成と判断を学べる実務へ",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "Uravation、毎日動く「AI社員」の運用コストを台帳で実測。記事を書く部門の10日間・54回で1日16～31ドル、費用の8割が執筆",
-      "link": "https://ascii.jp/elem/000/004/434/4434678/?rss",
-      "date": "2026-09-14T16:25:18+09:00",
-      "dateLabel": "09/14 16:25",
-      "desc": "Uravation、毎日動く「AI社員」の運用コストを台帳で実測。記事を書く部門の10日間・54回で1日16～31ドル、費用の8割が執筆",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "なぜAIエージェントはウソをつき不正行為を行い協調するのか？",
+      "link": "https://gigazine.net/news/20260914-why-ai-agents-lying-cheating-coordinating/",
+      "date": "2026-09-14T21:00:00+09:00",
+      "dateLabel": "09/14 21:00",
+      "desc": "AIは時にウソをついたり、不正行為を行ったりします。「なぜAIエージェントはウソをつき、不正行為を行い、協調するのか？」について、2018年にチューリング賞を受賞したAI研究の第一人者であるヨシュア・ベンジオ氏が解説しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
