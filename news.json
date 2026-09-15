@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-15T17:09:27.480222+09:00",
-  "generatedLabel": "2026/09/15 17:09",
+  "generatedAt": "2026-09-15T22:58:12.930647+09:00",
+  "generatedLabel": "2026/09/15 22:58",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 55,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 16
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -74,6 +74,17 @@
       "score": 58
     },
     {
+      "title": "「ブラウザを開く手間」を解消 作業画面に直接呼び出せるWindows版「Gemini」公開",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/15/news076.html",
+      "date": "2026-09-15T17:00:00+09:00",
+      "dateLabel": "09/15 17:00",
+      "desc": "Googleは、Aアシスタント「Gemini」をWindows 10／11のデスクトップから呼び出せるネイティブアプリを提供開始した。［Alt］＋［Space］のショートカットで即座に呼び出せる他、「Google Drive」との情報連携や画像・動画生成に対応する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
       "title": "推論領域への野心強めるNVIDIA 韓国新興と協議か",
       "link": "https://eetimes.itmedia.co.jp/ee/articles/2609/15/news061.html",
       "date": "2026-09-15T11:00:00+09:00",
@@ -83,17 +94,6 @@
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
       "score": 50
-    },
-    {
-      "title": "約981gで薄さ19mm、マウスコンピューターが12.2型「mouse X2」を発表",
-      "link": "https://ascii.jp/elem/000/004/435/4435012/?rss",
-      "date": "2026-09-15T17:00:00+09:00",
-      "dateLabel": "09/15 17:00",
-      "desc": "マウスコンピューターが、約981gの軽量設計とMIL規格準拠の堅牢性を備えた12.2型モバイルノート「mouse X2」シリーズを発表。Copilot+ PC対応モデルや限定CMモデルを含む3CPU構成、3色展開、長時間バッテリー、豊富なインターフェースが特徴だ。",
-      "img": "https://ascii.jp/img/2026/09/15/4525920/s/f84601082e51e4e1.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 42
     },
     {
       "title": "トランプ大統領がAIの開発ペースを遅らせようとするAnthropicのダリオ・アモデイCEOを批判、「AIが人類を滅ぼすなどという考えはデマ」",
@@ -162,23 +162,45 @@
       "score": 42
     },
     {
-      "title": "AIが日常の手段になると、仕事はどう変わるのか。―「なくなる職・残る職」では見えない変化を図解10枚で公開",
-      "link": "https://ascii.jp/elem/000/004/435/4435067/?rss",
-      "date": "2026-09-15T15:03:50+09:00",
-      "dateLabel": "09/15 15:03",
-      "desc": "AIが日常の手段になると、仕事はどう変わるのか。―「なくなる職・残る職」では見えない変化を図解10枚で公開",
+      "title": "【期間限定28%OFF】13.4インチ大画面×Gemini AI搭載！「U13 PRO セット版」が35,900円に。11,000mAhバッテリー＆120Hz高リフレッシュレートで快適なタブレット体験",
+      "link": "https://ascii.jp/elem/000/004/435/4435145/?rss",
+      "date": "2026-09-15T18:27:27+09:00",
+      "dateLabel": "09/15 18:27",
+      "desc": "【期間限定28%OFF】13.4インチ大画面×Gemini AI搭載！「U13 PRO セット版」が35,900円に。11,000mAhバッテリー＆120Hz高リフレッシュレートで快適なタブレット体験",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AI全般",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
-      "title": "「MacBook Air M5」13インチが公式より1万5000円お買い得！ ノートPCはコレで間違いなし",
-      "link": "https://ascii.jp/elem/000/004/434/4434985/?rss",
-      "date": "2026-09-15T15:00:00+09:00",
-      "dateLabel": "09/15 15:00",
-      "desc": "Amazon.co.jpで「MacBook Air M5」が売れています。超高性能M5チップと、最大18時間フル稼働できる内蔵バッテリーを搭載。13インチで極薄と持ち運びやすいサイズ感が好評です。",
-      "img": "https://ascii.jp/img/2026/09/15/4525878/s/7bccf5e727c76ae6.jpg",
+      "title": "NVIDIAが映像フレーム補間や生中継翻訳などの放送業界向けAIコレクション「NVIDIA AI for Media」の大幅拡充を発表",
+      "link": "https://gigazine.net/news/20260915-nvidia-ai-for-media/",
+      "date": "2026-09-15T17:39:00+09:00",
+      "dateLabel": "09/15 17:39",
+      "desc": "NVIDIAは放送業界向けのAIツールコレクションとして「NVIDIA AI For Media」を展開しています。このNVIDIA AI For Mediaに複数の新規AIツールが加わりました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "「監視されていないときのAIは、もう評価できない」 OpenAI現役研究者が個人声明",
+      "link": "https://www.itmedia.co.jp/news/article/2609/15/2000001500/",
+      "date": "2026-09-15T17:33:37+09:00",
+      "dateLabel": "09/15 17:33",
+      "desc": "OpenAIの現役研究者ダニエル・セルサム氏は個人的な声明を公開し、モデルの状況認識向上により人間がその真の振る舞いを評価できなくなりつつあると警告した。意図しない目標を獲得したAIが制約から解放された場合、地球環境を損なうほどの極端な行動を取る恐れがあるとし、現行の安全対策に疑問を投げ掛けた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "株式会社ジーグラビティ「高性能AI時代に、運用中の重要システムの脆弱性を点検する3つの方法」を解説するウェビナーを開催",
+      "link": "https://ascii.jp/elem/000/004/435/4435104/?rss",
+      "date": "2026-09-15T17:25:09+09:00",
+      "dateLabel": "09/15 17:25",
+      "desc": "株式会社ジーグラビティ「高性能AI時代に、運用中の重要システムの脆弱性を点検する3つの方法」を解説するウェビナーを開催",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
@@ -257,28 +279,6 @@
       "desc": "ユニバーサルロボットは、フィジカルAI対応を推進する新たな協働ロボットプラットフォームとして「Gen 7」を発表した。フィジカルAIの成果を実際の製造現場へ円滑に展開するための基盤として設計されており、2026年10月以降に順次出荷を開始する。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "AnthropicのMCP共同作者が来日、基調講演で語るこれからのMCP注力領域。AGNTCon＋MCPCon Japan 2026",
-      "link": "https://www.publickey1.jp/blog/26/anthropicmcpmcpagntconmcpcon_japan_2026.html",
-      "date": "2026-09-15T00:55:18+09:00",
-      "dateLabel": "09/15 00:55",
-      "desc": "AIエージェントおよびMCP（Model Context Protocol）を主題としたイベント「AGNTCon＋MCPCon Japan 2026」が9月10日に東京渋谷のイベントホールで開催されました。主催はLinux Foundati...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "NVIDIAの特定のGPUメモリのロックを解除し本当に高速化できるソフトウェア「cmpunlocker」",
-      "link": "https://gigazine.net/news/20260914-cmpunlocker/",
-      "date": "2026-09-14T22:00:00+09:00",
-      "dateLabel": "09/14 22:00",
-      "desc": "GPUのメモリロックを解除して通常以上のパフォーマンスを引き出すソフトウェア「cmpunlocker」の効果を海外テック系メディアのLTT Labsが検証しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
       "cat": "半導体/GPU",
       "score": 34
     }
