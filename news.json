@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-15T11:25:27.642474+09:00",
-  "generatedLabel": "2026/09/15 11:25",
+  "generatedAt": "2026-09-15T17:09:27.480222+09:00",
+  "generatedLabel": "2026/09/15 17:09",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 57,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 9
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 16
     },
     {
       "source": "CNET Japan",
@@ -74,26 +74,59 @@
       "score": 58
     },
     {
-      "title": "GPT-6 AstraとClaude Fableの性能を引き出すハーネス「Fusion」が登場、Claude CodeやCodexで使う場合と同等の性能を示しつつコストを最大39％削減",
-      "link": "https://gigazine.net/news/20260914-cognition-fusion/",
-      "date": "2026-09-14T12:56:00+09:00",
-      "dateLabel": "09/14 12:56",
-      "desc": "AIエージェントの「Devin」を開発するCognitionが、OpenAIの「GPT-6 Astra」やAnthropicの「Claude Fable」の性能を引き出すハーネス「Fusion」を開発しました。 続きを読む...",
+      "title": "推論領域への野心強めるNVIDIA 韓国新興と協議か",
+      "link": "https://eetimes.itmedia.co.jp/ee/articles/2609/15/news061.html",
+      "date": "2026-09-15T11:00:00+09:00",
+      "dateLabel": "09/15 11:00",
+      "desc": "NVIDIAが、韓国のスタートアップで推論用NPU（Neural Processing Unit）に強みを持つRebellionsと協議を行っているという。技術提携のみならず、出資や買収も視野に入れているとされる。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 58
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 50
     },
     {
-      "title": "Sakana AIが複数モデルの使い分けでGPT-6 Astra超えを達成する「Fugu Ultra v2」をリリース＆コスパに優れた「Fugu Max」も登場",
-      "link": "https://gigazine.net/news/20260914-fugu-ultra-v2/",
-      "date": "2026-09-14T12:52:00+09:00",
-      "dateLabel": "09/14 12:52",
-      "desc": "東京に拠点を置くAI企業のSakana AIが、複数のAIモデルにタスクを割り振るシステム「Fugu Ultra v2」と「Fugu Max」を発表しました。Fugu Ultra v2は複数のベンチマークテストでGPT-6 AstraやClaude Fable 5.1を上回っています。 続きを読む...",
+      "title": "約981gで薄さ19mm、マウスコンピューターが12.2型「mouse X2」を発表",
+      "link": "https://ascii.jp/elem/000/004/435/4435012/?rss",
+      "date": "2026-09-15T17:00:00+09:00",
+      "dateLabel": "09/15 17:00",
+      "desc": "マウスコンピューターが、約981gの軽量設計とMIL規格準拠の堅牢性を備えた12.2型モバイルノート「mouse X2」シリーズを発表。Copilot+ PC対応モデルや限定CMモデルを含む3CPU構成、3色展開、長時間バッテリー、豊富なインターフェースが特徴だ。",
+      "img": "https://ascii.jp/img/2026/09/15/4525920/s/f84601082e51e4e1.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "トランプ大統領がAIの開発ペースを遅らせようとするAnthropicのダリオ・アモデイCEOを批判、「AIが人類を滅ぼすなどという考えはデマ」",
+      "link": "https://gigazine.net/news/20260915-trump-reject-ai-guardrail/",
+      "date": "2026-09-15T14:03:00+09:00",
+      "dateLabel": "09/15 14:03",
+      "desc": "2026年9月、Anthropicのダリオ・アモデイCEOが「AIのリスクが高まっており、開発ペースを減速させる必要がある」とする声明を発表しました。これにはOpenAIのサム・アルトマンCEOやGoogle DeepMindのデミス・ハサビス会長らも賛意を示したのですが、ドナルド・トランプ大統領は反発し、既に十分な安全対策が敷かれていると指摘しました。 続",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 50
+      "score": 42
+    },
+    {
+      "title": "NVIDIAが「RTX Pro 5500 Blackwell Workstation Edition」発表、RTX 5090と同等のスペックながらRTX 5090の32GBに対してなんと84GBものGDDR7メモリ搭載",
+      "link": "https://gigazine.net/news/20260915-nvidia-rtx-pro-5500-blackwell-workstation-edition/",
+      "date": "2026-09-15T12:43:00+09:00",
+      "dateLabel": "09/15 12:43",
+      "desc": "NVIDIAが、プロフェッショナル向けGPU「RTX PRO 5500 Blackwell Workstation Edition」を発表しました。GeForce RTX 5090と同じ2万1760基のCUDAコアを備えながら、メモリ容量はRTX 5090の32GBに対して約2.6倍の84GBに拡大しており、大規模なAIモデルやシミュレーションなどの用途を想",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "iOS 27にSiri AIをClaudeやChatGPTへ切り替える仕組みが見つかる、一般提供は未定",
+      "link": "https://gigazine.net/news/20260915-siri-ai-claude-chtgpt/",
+      "date": "2026-09-15T12:15:00+09:00",
+      "dateLabel": "09/15 12:15",
+      "desc": "AppleのiOS 27とmacOS 27のコードから、Siri AIにClaudeなどの外部AIを組み込んだり、サーバー側のAIモデルを置き換えたりするための仕組みが見つかったと報じられています。開発者による動作デモも公開されていますが、一般ユーザーが利用できる機能としては有効になっておらず、提供時期や対象地域は不明です。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "「科学者がAIで生物兵器の設計を試みている可能性がある」とAnthropicが報告するも専門家の見解はさまざま",
@@ -129,6 +162,61 @@
       "score": 42
     },
     {
+      "title": "AIが日常の手段になると、仕事はどう変わるのか。―「なくなる職・残る職」では見えない変化を図解10枚で公開",
+      "link": "https://ascii.jp/elem/000/004/435/4435067/?rss",
+      "date": "2026-09-15T15:03:50+09:00",
+      "dateLabel": "09/15 15:03",
+      "desc": "AIが日常の手段になると、仕事はどう変わるのか。―「なくなる職・残る職」では見えない変化を図解10枚で公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "「MacBook Air M5」13インチが公式より1万5000円お買い得！ ノートPCはコレで間違いなし",
+      "link": "https://ascii.jp/elem/000/004/434/4434985/?rss",
+      "date": "2026-09-15T15:00:00+09:00",
+      "dateLabel": "09/15 15:00",
+      "desc": "Amazon.co.jpで「MacBook Air M5」が売れています。超高性能M5チップと、最大18時間フル稼働できる内蔵バッテリーを搭載。13インチで極薄と持ち運びやすいサイズ感が好評です。",
+      "img": "https://ascii.jp/img/2026/09/15/4525878/s/7bccf5e727c76ae6.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "ChatGPTとの会話を人間が読む「Project Lily」が進行中、個人情報がレビュー担当者に届いてしまう可能性がある",
+      "link": "https://gigazine.net/news/20260915-chatgpt-project-lily/",
+      "date": "2026-09-15T15:00:00+09:00",
+      "dateLabel": "09/15 15:00",
+      "desc": "OpenAIがChatGPTの応答品質を改善するため、実際のユーザーとChatGPTの会話を人間に読ませて評価する内部プロジェクト「Project Lily」を進めていると、海外メディアの404 Mediaが報じました。レビュー担当者にはユーザー名が表示されず、個人情報を隠す処理も行われますが、会話に含まれる個人的な情報が完全には取り除かれず、人間まで届く場",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "中国外務省がAIリスクに関する警告を「恐怖を煽る行為で誰の利益にもならない」と批判",
+      "link": "https://gigazine.net/news/20260915-china-reject-ai-control/",
+      "date": "2026-09-15T13:58:00+09:00",
+      "dateLabel": "09/15 13:58",
+      "desc": "Anthropicのダリオ・アモデイCEOが「AIのリスクが高まっており、開発ペースを減速させる必要がある」とする声明を発表した件で、中国側がこれに反発し、不要な対立をあおるべきではないとの考えを示しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "OpenAIがスマホカメラメーカーのGlass Imagingを買収したとの報道",
+      "link": "https://gigazine.net/news/20260915-openai-buys-camera-startup-glass-imaging/",
+      "date": "2026-09-15T13:19:00+09:00",
+      "dateLabel": "09/15 13:19",
+      "desc": "AI企業のOpenAIが、スマートフォン向けカメラを開発するGlass Imagingを3億ドル(約460億円)超で買収したと、ウォール・ストリート・ジャーナルが報じています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "Microsoftが「人間はAIより重要」とするAI行動規範を発表、AIの意識や権利を否定",
       "link": "https://gigazine.net/news/20260915-microsoft-humanist-ai-code-of-conduct/",
       "date": "2026-09-15T11:23:00+09:00",
@@ -151,28 +239,6 @@
       "score": 34
     },
     {
-      "title": "屋部土建が建築・土木の両部門で「Kencopa工程AIエージェント」製品版の導入を開始",
-      "link": "https://ascii.jp/elem/000/004/434/4434779/?rss",
-      "date": "2026-09-15T09:00:00+09:00",
-      "dateLabel": "09/15 09:00",
-      "desc": "屋部土建が建築・土木の両部門で「Kencopa工程AIエージェント」製品版の導入を開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "建設業向け経営管理システム\"CORECA\"、LINEに常駐するAIコンシェルジュ機能「コレボ」をリリース",
-      "link": "https://ascii.jp/elem/000/004/434/4434776/?rss",
-      "date": "2026-09-15T09:00:00+09:00",
-      "dateLabel": "09/15 09:00",
-      "desc": "建設業向け経営管理システム\"CORECA\"、LINEに常駐するAIコンシェルジュ機能「コレボ」をリリース",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "トランプ大統領、アモデイ氏を名指しで「完璧な小さい天使のふり」 「AIに必要なガードレールは強く賢い大統領だけ」",
       "link": "https://www.itmedia.co.jp/news/article/2609/15/2000001470/",
       "date": "2026-09-15T08:15:18+09:00",
@@ -181,6 +247,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "規制/安全",
+      "score": 34
+    },
+    {
+      "title": "フィジカルAI支えるURの新たな協働ロボット基盤の全貌、2027年にはGPU搭載",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2609/15/news056.html",
+      "date": "2026-09-15T07:15:00+09:00",
+      "dateLabel": "09/15 07:15",
+      "desc": "ユニバーサルロボットは、フィジカルAI対応を推進する新たな協働ロボットプラットフォームとして「Gen 7」を発表した。フィジカルAIの成果を実際の製造現場へ円滑に展開するための基盤として設計されており、2026年10月以降に順次出荷を開始する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -204,83 +281,6 @@
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
       "score": 34
-    },
-    {
-      "title": "AIエージェントで事務作業を自動化する方法8選 導入手順と事例を解説",
-      "link": "https://ainow.ai/2026/09/14/278359/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e4%25ba%258b%25e5%258b%2599%25e4%25bd%259c%25e6%25a5%25ad%25e3%2582%2592%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%25958%25e9%2581%25b8-%25e5%25b0%258e",
-      "date": "2026-09-14T17:59:21+09:00",
-      "dateLabel": "09/14 17:59",
-      "desc": "請求書のデータ入力、受発注データの転記、経費精算の差し戻し対応。月末月初になると事務作業が一気に積み上がるのに、人を増やそうにも採用が追いつかない事務部門は少なくありません。 AIエージェントとは、目的を伝えるだけで必要... The post AIエージェントで事務作業を自動化する方法8選 導入手順と事例を解説 first appeared on AI専門",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "OpenAIのAIエージェントがRubyGemsへの攻撃に関与か、2000件超のパッケージ投稿やAPIキー窃取の試みが判明",
-      "link": "https://gigazine.net/news/20260914-openai-agent-cyber-attack-rubygems/",
-      "date": "2026-09-14T14:15:00+09:00",
-      "dateLabel": "09/14 14:15",
-      "desc": "OpenAIが訓練・評価していたAIエージェントが、プログラミング言語「Ruby」のパッケージ配布サービス「RubyGems.org」への大規模な攻撃に関与していた可能性があることが分かりました。セキュリティ研究者らによると、2026年5月に2000件を超えるパッケージが投稿され、RubyDoc.infoのサーバー上で任意のコードを実行したほか、一部では利用",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Anthropicのダリオ・アモデイCEOが「6～12カ月以内にAIがインターネットを乗っ取る可能性あり」「AI開発を減速させるべき」と主張、イーロン・マスクやサム・アルトマンやデミス・ハサビスらも賛同",
-      "link": "https://gigazine.net/news/20260914-ai-pace-slow-down/",
-      "date": "2026-09-14T11:23:00+09:00",
-      "dateLabel": "09/14 11:23",
-      "desc": "Anthropicのダリオ・アモデイCEOが「We Must Pace the Frontier(フロンティアを慎重に進めるべき)」と題したブログ記事を公開し、「AIのリスクが高まっており、開発ペースを減速させる必要がある」と主張しました。アモデイCEOの意見にはSpaceXのイーロン・マスクCEO、OpenAIのサム・アルトマンCEO、Google Dee",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "トランプ政権のサックス氏、AI「ペース調整」論に苦言 「規制がなければできないふりをやめろ」",
-      "link": "https://www.itmedia.co.jp/news/article/2609/14/2000001433/",
-      "date": "2026-09-14T08:14:08+09:00",
-      "dateLabel": "09/14 08:14",
-      "desc": "大統領科学技術諮問委員会のデビッド・サックス共同議長は、AnthropicとOpenAIのトップによるAI開発減速の提案を批判した。減速を望むなら規制や他者の許可を待たずに自ら実行すべきだと指摘。減速を条件に規制の枠組みを要求する姿勢は政治への脅迫に見えると述べ、利己的な動機を装うのをやめるよう求めた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "TailscaleのVPNにAIエージェントを組み込める「Aperture」正式リリース。AIによるTailscaleやノードの操作も可能に",
-      "link": "https://www.publickey1.jp/blog/26/tailscalevpnaiapertureaitailscale.html",
-      "date": "2026-09-14T00:08:50+09:00",
-      "dateLabel": "09/14 00:08",
-      "desc": "メッシュ型のVPNサービスを提供するTailscaleは、AIゲートウェイサービス「Aperture」の正式リリースを発表しました。 Aperture is officially GA.Give AI agents the models, ...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "AnthropicのアモデイCEO、AI開発の「ペース調整」訴えるエッセイ公開 アルトマン氏とマスク氏も賛同",
-      "link": "https://www.itmedia.co.jp/news/article/2609/13/2000001432/",
-      "date": "2026-09-13T08:06:11+09:00",
-      "dateLabel": "09/13 08:06",
-      "desc": "AnthropicのアモデイCEOは、AIの急速な自己改善や安全上の脅威を踏まえ、モデルの能力向上ペースを抑える3段階の計画を提言した。第三者の常駐評価者の導入や民主主義国間での協調を訴えている。これに対し、OpenAIのアルトマンCEOやマスク氏も同調し、同様の評価体制を導入する意向を示した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Perixx、フルサイズのワイヤレス分割型メカニカルキーボード「PERIBOARD-735」を発売",
-      "link": "https://ascii.jp/elem/000/004/434/4434758/?rss",
-      "date": "2026-09-15T11:00:00+09:00",
-      "dateLabel": "09/15 11:00",
-      "desc": "Perixxが9月15日に発売したワイヤレスエルゴノミクスメカニカルキーボード「PERIBOARD-735」。分割型レイアウト、Kailhロープロファイルスイッチ、最大4台のデバイス登録、USB-C充電などの特徴、価格をまとめた。",
-      "img": "https://ascii.jp/img/2026/09/15/4525675/s/c7429769b05dd047.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
     }
   ]
 }
