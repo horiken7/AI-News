@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T05:38:13.330752+09:00",
-  "generatedLabel": "2026/09/16 05:38",
+  "generatedAt": "2026-09-16T08:18:15.100664+09:00",
+  "generatedLabel": "2026/09/16 08:18",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 54,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 16
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -72,6 +72,17 @@
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
       "score": 58
+    },
+    {
+      "title": "OpenAI、AI安全性でAnthropic、Google DeepMindと協議中──Bloomberg報道",
+      "link": "https://www.itmedia.co.jp/news/article/2609/16/2000001522/",
+      "date": "2026-09-16T07:13:20+09:00",
+      "dateLabel": "09/16 07:13",
+      "desc": "OpenAIが、AnthropicやGoogle DeepMindとAIの安全性確保に向けて協議を進めているとBloombergが報じた。反トラスト法の適用除外を巡っては米当局の警戒や議会での法案提出など議論が活発化。一方、NVIDIAのフアンCEOは市場原理で安全性と迅速な開発は両立可能として政府の介入に否定的な見方を示した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 50
     },
     {
       "title": "アップル、日本語でのSiri AIの10月提供開始を正式発表 EUと中国では規制対応で当初利用不可",
@@ -151,26 +162,15 @@
       "score": 42
     },
     {
-      "title": "「科学者がAIで生物兵器の設計を試みている可能性がある」とAnthropicが報告するも専門家の見解はさまざま",
-      "link": "https://gigazine.net/news/20260915-ai-bioweapons-report-anthropic-divides-experts/",
-      "date": "2026-09-15T08:00:00+09:00",
-      "dateLabel": "09/15 08:00",
-      "desc": "2026年9月、生成AIツールのClaudeを開発するAnthropicの脅威インテリジェンスチームが、Claudeを悪用しようとした事例についてまとめたレポートを公開しました。このレポートの中で、「科学者が生物兵器の設計を試みた可能性がある事例」についても報告されていますが、科学者らの反応はさまざまだと学術誌のScienceが報じています。 続きを読む..",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "AIベンチマークに数学を使うのは有害だとして数学者たちが反発",
-      "link": "https://gigazine.net/news/20260915-misalignment-of-ai-in-mathematics/",
-      "date": "2026-09-15T06:00:00+09:00",
-      "dateLabel": "09/15 06:00",
-      "desc": "大規模言語モデル(LLM)の数学的能力は目覚ましい進歩を遂げており、数々の難問を解けるレベルにまで到達しました。しかしその一方で、AI企業が数学的問題解決をベンチマークとして推進する動きについては数学という学問そのものや数学コミュニティにとって有害であると、フィールズ賞受賞者25名からなる数学者たちが公開書簡を通じて警鐘を鳴らしています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
+      "title": "統合型ホテルOSとAIエージェントを組み合わせた伴走支援事業",
+      "link": "https://ascii.jp/elem/000/004/434/4434687/?rss",
+      "date": "2026-09-16T07:00:00+09:00",
+      "dateLabel": "09/16 07:00",
+      "desc": "統合型ホテルOS「WASIMIL（ワシミル）」を提供する株式会社AZOOは、ホテルチェーン向けの新規事業「ホテル運営AX化パートナー」（AX：AIトランスフォーメーション）の本格展開と、AI運営エージェントのβ版「Kanko AI」の提供を開始した。",
+      "img": "https://ascii.jp/img/2026/09/14/4525446/s/b7c69fa017cf3ca7.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "「Java 27」正式リリース。全環境でG1 GCがデフォルトに、TLS 1.3用に耐量子暗号のハイブリッドキー交換など新機能",
