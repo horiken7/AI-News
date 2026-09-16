@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-16T22:52:06.417014+09:00",
-  "generatedLabel": "2026/09/16 22:52",
+  "generatedAt": "2026-09-17T02:50:39.179877+09:00",
+  "generatedLabel": "2026/09/17 02:50",
   "feedOk": 6,
   "feedNg": 5,
   "candidates": 58,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 7
+      "items": 8
     },
     {
       "source": "AINOW",
@@ -107,6 +107,17 @@
       "score": 50
     },
     {
+      "title": "Devinが仮想環境でmacOSの提供開始。Macの実機不要でDevinがコード生成、テスト、デバッグ、実行、AppStore配信前のベータ公開まで実行",
+      "link": "https://www.publickey1.jp/blog/26/devinmacosmacdevinappstore.html",
+      "date": "2026-09-17T01:00:51+09:00",
+      "dateLabel": "09/17 01:00",
+      "desc": "コーディングAIエージェントを提供するDevinが、Devinがホストする仮想環境内でのmacOSの提供を開始しました。 Devinはこれまで仮想環境内でUbuntu LinuxおよびWindowsを提供しており、ここにmacOSが加わりま...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "1年半、公開せずに企業へ納品し続けてきた、AIネイティブの経営基盤OS「SATELLITE OS」を正式発表",
       "link": "https://ascii.jp/elem/000/004/435/4435541/?rss",
       "date": "2026-09-16T18:09:36+09:00",
@@ -115,28 +126,6 @@
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
-      "score": 42
-    },
-    {
-      "title": "株式会社日本能率協会マネジメントセンター（JMAM）様に「AI検索パートナーズ」を提供開始。AI検索時代を見据え、SEO対策とAI検索対策（AIO/LLMO/GEO）を一体で推進",
-      "link": "https://ascii.jp/elem/000/004/435/4435544/?rss",
-      "date": "2026-09-16T17:21:58+09:00",
-      "dateLabel": "09/16 17:21",
-      "desc": "株式会社日本能率協会マネジメントセンター（JMAM）様に「AI検索パートナーズ」を提供開始。AI検索時代を見据え、SEO対策とAI検索対策（AIO/LLMO/GEO）を一体で推進",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "AIエージェントのブログ運用を自動化する5ステップとツール8選を解説",
-      "link": "https://ainow.ai/2026/09/16/278362/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e3%2583%2596%25e3%2583%25ad%25e3%2582%25b0%25e9%2581%258b%25e7%2594%25a8%25e3%2582%2592%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%2599%25e3%2582%258b5%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583",
-      "date": "2026-09-16T01:20:51+09:00",
-      "dateLabel": "09/16 01:20",
-      "desc": "AIエージェントを使えば、ブログのキーワード調査から本文執筆、WordPressへの入稿までを一連の流れとして任せられます。本記事では、任せられる工程の切り分け方から具体的なツール選定までを解説します。 ChatGPTで... The post AIエージェントのブログ運用を自動化する5ステップとツール8選を解説 first appeared on AI専門",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -160,6 +149,17 @@
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
       "score": 42
+    },
+    {
+      "title": "AIエージェント「Hermes Agent」新機能「Local Models」でローカルAIモデル「Qwen3.8 27B」を直接動かしてみた、16GBのVRAMでも量子化で高速動作",
+      "link": "https://gigazine.net/news/20260916-hermes-agent-local-ai-model/",
+      "date": "2026-09-16T23:00:00+09:00",
+      "dateLabel": "09/16 23:00",
+      "desc": "Hermes Agentでは以前からOllamaやllama.cppなどで起動したローカルAIモデルを利用できましたが、2026年9月上旬のアップデートでHermes Agent自身がllama.cppやモデルのダウンロード・管理まで行う「Local Models」機能が利用可能になりました。今回はLocal Models機能を使ってローカルでAIモデルを実",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "安全柵などがなくても人間の同僚と一緒に作業可能な新型汎用人型ロボット「Digit 5」をAgilityが発表",
@@ -239,35 +239,13 @@
       "score": 34
     },
     {
-      "title": "「Java 27」正式リリース。全環境でG1 GCがデフォルトに、TLS 1.3用に耐量子暗号のハイブリッドキー交換など新機能",
-      "link": "https://www.publickey1.jp/blog/26/java_27g1_gctls_13.html",
-      "date": "2026-09-16T00:52:17+09:00",
-      "dateLabel": "09/16 00:52",
-      "desc": "オラクルはJavaの最新バージョン「Java 27」正式版をリリースしました。 Java 27 is now available! #Java27 #JDK27 #OpenJDK Download now: https://t.co/0Zw...",
+      "title": "AIエージェントのブログ運用を自動化する5ステップとツール8選を解説",
+      "link": "https://ainow.ai/2026/09/16/278362/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e3%2583%2596%25e3%2583%25ad%25e3%2582%25b0%25e9%2581%258b%25e7%2594%25a8%25e3%2582%2592%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%2599%25e3%2582%258b5%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583",
+      "date": "2026-09-16T01:20:51+09:00",
+      "dateLabel": "09/16 01:20",
+      "desc": "AIエージェントを使えば、ブログのキーワード調査から本文執筆、WordPressへの入稿までを一連の流れとして任せられます。本記事では、任せられる工程の切り分け方から具体的なツール選定までを解説します。 ChatGPTで... The post AIエージェントのブログ運用を自動化する5ステップとツール8選を解説 first appeared on AI専門",
       "img": "",
-      "src": "Publickey",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "オラクル、Javaのセキュリティパッチを毎月提供開始、AIが脆弱性の発見を加速しているとして",
-      "link": "https://www.publickey1.jp/blog/26/javaai.html",
-      "date": "2026-09-16T00:49:38+09:00",
-      "dateLabel": "09/16 00:49",
-      "desc": "オラクルは、これまで3カ月ごとに提供してきたJavaのアップデートパッチのサイクルを速め、1カ月ごとにセキュリティパッチを提供することを発表。先月（2026年8月）から実際にセキュリティパッチの提供が開始されていることを明らかにしました。 ...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "会社を丸ごとAIに経営させるAIエージェント「Pion」が登場、メール・電話・銀行機能まで使って事業を自律運営",
-      "link": "https://gigazine.net/news/20260915-pion/",
-      "date": "2026-09-15T23:00:00+09:00",
-      "dateLabel": "09/15 23:00",
-      "desc": "AIに文章作成や調査を任せるだけでなく、会社の経営そのものをAIエージェントに任せるためのプラットフォーム「Pion」をAndon Labsが発表しました。PionではAIエージェントが長時間動き続け、メールや電話、ブラウザ、銀行機能などを使いながら事業運営を進めます。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
+      "src": "AINOW",
       "cat": "AIエージェント/業務",
       "score": 34
     },
@@ -281,6 +259,28 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 34
+    },
+    {
+      "title": "TailscaleのVPNにAIエージェントを組み込める「Aperture」正式リリース。AIによるTailscaleやノードの操作も可能に",
+      "link": "https://www.publickey1.jp/blog/26/tailscalevpnaiapertureaitailscale.html",
+      "date": "2026-09-14T00:08:50+09:00",
+      "dateLabel": "09/14 00:08",
+      "desc": "メッシュ型のVPNサービスを提供するTailscaleは、AIゲートウェイサービス「Aperture」の正式リリースを発表しました。 Aperture is officially GA.Give AI agents the models, ...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 28
+    },
+    {
+      "title": "AIで作ったアプリをUIもデータも単一ファイルで持ち運べる無料ツール「Capsule」、クラウド不要で完全オフラインで動作",
+      "link": "https://gigazine.net/news/20260916-capsule/",
+      "date": "2026-09-16T22:00:00+09:00",
+      "dateLabel": "09/16 22:00",
+      "desc": "アプリの操作画面や画像、保存データを1つのファイルにまとめ、文書のように持ち運べる無料ツール「Capsule」が公開されています。クラウドやアカウント登録を必要とせず、オフラインで利用できることが特徴です。Windows・macOS・Linux向けに提供されており、Android・iOSへの対応も予定されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
     }
   ]
 }
