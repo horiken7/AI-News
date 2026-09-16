@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T11:19:11.363293+09:00",
-  "generatedLabel": "2026/09/16 11:19",
-  "feedOk": 7,
-  "feedNg": 4,
-  "candidates": 61,
+  "generatedAt": "2026-09-16T17:02:43.683066+09:00",
+  "generatedLabel": "2026/09/16 17:02",
+  "feedOk": 6,
+  "feedNg": 5,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 9
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -28,12 +28,12 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 16
+      "items": 15
     },
     {
       "source": "CNET Japan",
-      "ok": true,
-      "items": 0
+      "ok": false,
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "source": "ZDNET Japan",
@@ -74,14 +74,25 @@
       "score": 58
     },
     {
-      "title": "ASUS、NVIDIA Rubin搭載の液冷AIサーバーを国内初展示 CTC DISCOVER 2026で公開",
-      "link": "https://ascii.jp/elem/000/004/435/4435168/?rss",
-      "date": "2026-09-16T11:00:00+09:00",
-      "dateLabel": "09/16 11:00",
-      "desc": "ASUS JAPANが10月16日に開催される「CTC DISCOVER 2026」へ出展し、NVIDIA Rubin搭載の100%液冷2Uサーバー「XA NR1I-E12R」を国内初展示すると発表した。",
-      "img": "https://ascii.jp/img/2026/09/16/4526180/s/b3b850fad61de785.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
+      "title": "Googleが音声会話AI「Gemini 3.8 Live」と「Gemini 3.8 Live Extended Thinking」をリリース、リアルタイムで会話しながらコーディング可能",
+      "link": "https://gigazine.net/news/20260916-gemini-3-8-live/",
+      "date": "2026-09-16T13:22:00+09:00",
+      "dateLabel": "09/16 13:22",
+      "desc": "Googleがリアルタイムで会話できるAIモデル「Gemini 3.8 Live」と「Gemini 3.8 Live Extended Thinking」をリリースしました。Gemini 3.8 Live Extended ThinkingはベンチマークテストでOpenAIやSpaceXAIのライバルモデルを上回るスコアを記録しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
+      "title": "ChatGPT共同開発者がLLMとは異なる方法で処理するAIモデル「Jev」を開発、GPT-5.6 Terra級の性能でタスクを安価かつ超高速に実行可能",
+      "link": "https://gigazine.net/news/20260916-system-one-jev/",
+      "date": "2026-09-16T11:42:00+09:00",
+      "dateLabel": "09/16 11:42",
+      "desc": "AI企業のTypeSafe AIが大規模言語モデル(LLM)とは異なるアプローチでタスクを解決するAI「System One Models」と、System One Modelsの第1弾モデルである「Jev」を現地時間の2026年9月15日に発表しました。TypeSafe AIはChatGPTの開発に携わったAI研究者であるディオゴ・アルメイダ氏がCEOを務",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 50
     },
     {
@@ -96,17 +107,6 @@
       "score": 50
     },
     {
-      "title": "「ブラウザを開く手間」を解消 作業画面に直接呼び出せるWindows版「Gemini」公開",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/15/news076.html",
-      "date": "2026-09-15T17:00:00+09:00",
-      "dateLabel": "09/15 17:00",
-      "desc": "Googleは、Aアシスタント「Gemini」をWindows 10／11のデスクトップから呼び出せるネイティブアプリを提供開始した。［Alt］＋［Space］のショートカットで即座に呼び出せる他、「Google Drive」との情報連携や画像・動画生成に対応する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
       "title": "AIエージェントのブログ運用を自動化する5ステップとツール8選を解説",
       "link": "https://ainow.ai/2026/09/16/278362/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e3%2583%2596%25e3%2583%25ad%25e3%2582%25b0%25e9%2581%258b%25e7%2594%25a8%25e3%2582%2592%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%2599%25e3%2582%258b5%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583",
       "date": "2026-09-16T01:20:51+09:00",
@@ -118,35 +118,13 @@
       "score": 42
     },
     {
-      "title": "トランプ大統領がAIの開発ペースを遅らせようとするAnthropicのダリオ・アモデイCEOを批判、「AIが人類を滅ぼすなどという考えはデマ」",
-      "link": "https://gigazine.net/news/20260915-trump-reject-ai-guardrail/",
-      "date": "2026-09-15T14:03:00+09:00",
-      "dateLabel": "09/15 14:03",
-      "desc": "2026年9月、Anthropicのダリオ・アモデイCEOが「AIのリスクが高まっており、開発ペースを減速させる必要がある」とする声明を発表しました。これにはOpenAIのサム・アルトマンCEOやGoogle DeepMindのデミス・ハサビス会長らも賛意を示したのですが、ドナルド・トランプ大統領は反発し、既に十分な安全対策が敷かれていると指摘しました。 続",
+      "title": "「ブラウザを開く手間」を解消 作業画面に直接呼び出せるWindows版「Gemini」公開",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/15/news076.html",
+      "date": "2026-09-15T17:00:00+09:00",
+      "dateLabel": "09/15 17:00",
+      "desc": "Googleは、Aアシスタント「Gemini」をWindows 10／11のデスクトップから呼び出せるネイティブアプリを提供開始した。［Alt］＋［Space］のショートカットで即座に呼び出せる他、「Google Drive」との情報連携や画像・動画生成に対応する。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "NVIDIAが「RTX Pro 5500 Blackwell Workstation Edition」発表、RTX 5090と同等のスペックながらRTX 5090の32GBに対してなんと84GBものGDDR7メモリ搭載",
-      "link": "https://gigazine.net/news/20260915-nvidia-rtx-pro-5500-blackwell-workstation-edition/",
-      "date": "2026-09-15T12:43:00+09:00",
-      "dateLabel": "09/15 12:43",
-      "desc": "NVIDIAが、プロフェッショナル向けGPU「RTX PRO 5500 Blackwell Workstation Edition」を発表しました。GeForce RTX 5090と同じ2万1760基のCUDAコアを備えながら、メモリ容量はRTX 5090の32GBに対して約2.6倍の84GBに拡大しており、大規模なAIモデルやシミュレーションなどの用途を想",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "iOS 27にSiri AIをClaudeやChatGPTへ切り替える仕組みが見つかる、一般提供は未定",
-      "link": "https://gigazine.net/news/20260915-siri-ai-claude-chtgpt/",
-      "date": "2026-09-15T12:15:00+09:00",
-      "dateLabel": "09/15 12:15",
-      "desc": "AppleのiOS 27とmacOS 27のコードから、Siri AIにClaudeなどの外部AIを組み込んだり、サーバー側のAIモデルを置き換えたりするための仕組みが見つかったと報じられています。開発者による動作デモも公開されていますが、一般ユーザーが利用できる機能としては有効になっておらず、提供時期や対象地域は不明です。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
+      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 42
     },
@@ -162,47 +140,36 @@
       "score": 42
     },
     {
-      "title": "Shokz、イヤーフック型の開放型イヤホン「OpenFit Air 2」と骨伝導イヤホンの「OpenRun Air 2」を発表、価格2万円弱",
-      "link": "https://ascii.jp/elem/000/004/435/4435153/?rss",
-      "date": "2026-09-16T10:00:00+09:00",
-      "dateLabel": "09/16 10:00",
-      "desc": "Shokzから軽快に使えるイヤーフック型のオープンイヤーと骨伝導イヤホンが登場だ。",
-      "img": "https://ascii.jp/img/2026/09/16/4526126/s/de31959d0be7dadc.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "Postman、AIエージェント時代にシークレットレスなAPIアクセスを実現する「Passport」の一般提供を開始",
-      "link": "https://ascii.jp/elem/000/004/435/4435177/?rss",
-      "date": "2026-09-16T09:13:04+09:00",
-      "dateLabel": "09/16 09:13",
-      "desc": "Postman、AIエージェント時代にシークレットレスなAPIアクセスを実現する「Passport」の一般提供を開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "【「質問するだけ」でデータが動く時代へ】生成AIが「データ層」に降りた衝撃。『AI × Data Weekly Insight』を無料公開",
-      "link": "https://ascii.jp/elem/000/004/435/4435185/?rss",
-      "date": "2026-09-16T08:50:00+09:00",
-      "dateLabel": "09/16 08:50",
-      "desc": "【「質問するだけ」でデータが動く時代へ】生成AIが「データ層」に降りた衝撃。『AI × Data Weekly Insight』を無料公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "AI時代の「選ばれ方」を再設計するNOTZERO、GEO/LLMO・海外ブランドの日本進出支援を強化",
-      "link": "https://ascii.jp/elem/000/004/435/4435189/?rss",
-      "date": "2026-09-16T08:19:15+09:00",
-      "dateLabel": "09/16 08:19",
-      "desc": "AI時代の「選ばれ方」を再設計するNOTZERO、GEO/LLMO・海外ブランドの日本進出支援を強化",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "title": "AIの答えでわかったつもりになってない？ 答えを返さない「ガイド付き学習」で知識を確実にアップデートする",
+      "link": "https://ascii.jp/elem/000/004/434/4434401/?rss",
+      "date": "2026-09-16T14:00:00+09:00",
+      "dateLabel": "09/16 14:00",
+      "desc": "本連載は生成AIをこれから活用しようとしている方たちのために、生成AIの基本やコピペしてそのまま使えるプロンプトなどを紹介。兎にも角にも生成AIに触り始めることで、AIに対する理解を深め、AIスキルを身に着けて欲しい。第73回は、AIを使って学習を支援してくれるGeminiの「ガイド付き学習」について解説する。",
+      "img": "https://ascii.jp/img/2026/09/14/4525117/s/1bb68d433bb774e8.jpg",
       "src": "ASCII.jp",
       "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "Google DeepmindのAI研究者が退職し「AIが人類を絶滅させる可能性がある」と警告",
+      "link": "https://gigazine.net/news/20260916-google-deepmind-engineer-resigned/",
+      "date": "2026-09-16T13:50:00+09:00",
+      "dateLabel": "09/16 13:50",
+      "desc": "Google DeepmindでAGI(汎用人工知能)の安全性やAIアライメントなどに取り組んできた研究者のビラル・チュグタイ氏が退職したことを表明しました。AI開発の最前線にいたというチュグタイ氏は、Anthropicを退職したジェイコブ・コクソン氏と同じく「AIが人類を絶滅させる可能性がある」と警告を発しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 34
+    },
+    {
+      "title": "Meta、InstagramやFacebook横断の新サブスク「Meta One」発表 AI枠拡大で月額949円から",
+      "link": "https://www.itmedia.co.jp/news/article/2609/16/2000001529/",
+      "date": "2026-09-16T11:24:39+09:00",
+      "dateLabel": "09/16 11:24",
+      "desc": "Metaがサブスク「Meta One」を提供開始した。InstagramやFacebook、WhatsAppを横断し、AI利用枠の拡大や表現機能、ビジネスツールなど50以上の機能を用意。日本でも展開し、バンドルプランは月額949円から。認証バッジを含む事業者向け機能も揃える。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
       "score": 34
     },
     {
@@ -261,26 +228,59 @@
       "score": 34
     },
     {
-      "title": "ChatGPTとの会話を人間が読む「Project Lily」が進行中、個人情報がレビュー担当者に届いてしまう可能性がある",
-      "link": "https://gigazine.net/news/20260915-chatgpt-project-lily/",
-      "date": "2026-09-15T15:00:00+09:00",
-      "dateLabel": "09/15 15:00",
-      "desc": "OpenAIがChatGPTの応答品質を改善するため、実際のユーザーとChatGPTの会話を人間に読ませて評価する内部プロジェクト「Project Lily」を進めていると、海外メディアの404 Mediaが報じました。レビュー担当者にはユーザー名が表示されず、個人情報を隠す処理も行われますが、会話に含まれる個人的な情報が完全には取り除かれず、人間まで届く場",
+      "title": "OpenAIやAnthropicなどAIベンダごとのAPIの違いを吸収し統合する「Agent Router」、Linux Foundation傘下で業界標準へ",
+      "link": "https://www.publickey1.jp/blog/26/openaianthropicapiagent_routerlinux_foundation.html",
+      "date": "2026-09-15T00:51:16+09:00",
+      "dateLabel": "09/15 00:51",
+      "desc": "MCPやAGENTS.md、Agent2AgentプロトコルなどのAIエージェントに関する関連技術の標準化推進や開発などを行うLinux Foundation傘下のAgentic AI Foundation（AAIF）は、オープンソースとし...",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
-      "title": "中国外務省がAIリスクに関する警告を「恐怖を煽る行為で誰の利益にもならない」と批判",
-      "link": "https://gigazine.net/news/20260915-china-reject-ai-control/",
-      "date": "2026-09-15T13:58:00+09:00",
-      "dateLabel": "09/15 13:58",
-      "desc": "Anthropicのダリオ・アモデイCEOが「AIのリスクが高まっており、開発ペースを減速させる必要がある」とする声明を発表した件で、中国側がこれに反発し、不要な対立をあおるべきではないとの考えを示しました。 続きを読む...",
+      "title": "TailscaleのVPNにAIエージェントを組み込める「Aperture」正式リリース。AIによるTailscaleやノードの操作も可能に",
+      "link": "https://www.publickey1.jp/blog/26/tailscalevpnaiapertureaitailscale.html",
+      "date": "2026-09-14T00:08:50+09:00",
+      "dateLabel": "09/14 00:08",
+      "desc": "メッシュ型のVPNサービスを提供するTailscaleは、AIゲートウェイサービス「Aperture」の正式リリースを発表しました。 Aperture is officially GA.Give AI agents the models, ...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "iOS 27でSafariに追加された「AIに言葉で説明するだけで自分好みの機能拡張を即座に開発する」機能が便利、文字色変更やスクロールボタン追加などをサイトごとに設定可能",
+      "link": "https://gigazine.net/news/20260916-safari-extension-apple-intelligence/",
+      "date": "2026-09-16T16:48:00+09:00",
+      "dateLabel": "09/16 16:48",
+      "desc": "日本時間の2026年9月15日に「iOS 27」や「macOS 27」などのApple製OSが一斉にリリースされました。ウェブブラウザのSafariにはApple IntelligenceのAI機能の一環として「言葉で説明するだけで新しい機能拡張を作成する」という機能が追加され、簡単にSafariに機能を追加したり各種ウェブサイトを自分好みにカスタムできるよ",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "いよいよ開催の東京ゲームショウ2026。マウスコンピューターの出展記念モデルは、RTX 5070 Ti搭載ですんごい良コスパですよ！：マウスコンピューター G-Tune : Garage 大阪店",
+      "link": "https://ascii.jp/elem/000/004/434/4434592/?rss",
+      "date": "2026-09-16T16:00:00+09:00",
+      "dateLabel": "09/16 16:00",
+      "desc": "店長の尼田龍さんがオススメするのは、ゲーミングパソコン「G TUNE FZ-A7G7T」です。マウスコンピューターの東京ゲームショウ2026出展を記念した特別モデルになります。",
+      "img": "https://ascii.jp/img/2026/09/14/4525304/s/1029cdf01e33b08a.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "マウスコンピューター「TGS2026出展記念セール」開催、G TUNEなど最大14万円オフ",
+      "link": "https://ascii.jp/elem/000/004/435/4435296/?rss",
+      "date": "2026-09-16T14:30:00+09:00",
+      "dateLabel": "09/16 14:30",
+      "desc": "マウスコンピューターが9月16日から公式ECサイトでTGS2026出展記念セールを開催。mouse、G TUNE、DAIVのノートPCやデスクトップPCが対象で、最大14万円引きとなる。",
+      "img": "https://ascii.jp/img/2026/09/16/4526352/s/0b2ba677f9d6e958.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     }
   ]
 }
