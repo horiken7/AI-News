@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-17T05:37:20.819916+09:00",
-  "generatedLabel": "2026/09/17 05:37",
+  "generatedAt": "2026-09-17T08:23:28.399622+09:00",
+  "generatedLabel": "2026/09/17 08:23",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 58,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -96,15 +96,15 @@
       "score": 50
     },
     {
-      "title": "OpenAI、AI安全性でAnthropic、Google DeepMindと協議中──Bloomberg報道",
-      "link": "https://www.itmedia.co.jp/news/article/2609/16/2000001522/",
-      "date": "2026-09-16T07:13:20+09:00",
-      "dateLabel": "09/16 07:13",
-      "desc": "OpenAIが、AnthropicやGoogle DeepMindとAIの安全性確保に向けて協議を進めているとBloombergが報じた。反トラスト法の適用除外を巡っては米当局の警戒や議会での法案提出など議論が活発化。一方、NVIDIAのフアンCEOは市場原理で安全性と迅速な開発は両立可能として政府の介入に否定的な見方を示した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 50
+      "title": "破綻バイオ企業もターゲット、オープンAIが生物学データに投資",
+      "link": "https://ascii.jp/elem/000/004/435/4435571/?rss",
+      "date": "2026-09-17T06:52:33+09:00",
+      "dateLabel": "09/17 06:52",
+      "desc": "オープンAI財団が、AIの学習用に「高品質な科学データセット」を作る新たな取り組みを始めた。助成先の一つは、経営破綻したバイオテクノロジー企業の破産手続きで、規制当局への申請資料など通常は営業秘密にあたる文書を買い取る構想だ。生物学データの不足が医療AIの最大のボトルネックになっているとの認識が背景にある。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "規制/安全",
+      "score": 42
     },
     {
       "title": "Devinが仮想環境でmacOSの提供開始。Macの実機不要でDevinがコード生成、テスト、デバッグ、実行、AppStore配信前のベータ公開まで実行",
@@ -129,6 +129,17 @@
       "score": 42
     },
     {
+      "title": "OpenAI、AI安全性でAnthropic、Google DeepMindと協議中──Bloomberg報道",
+      "link": "https://www.itmedia.co.jp/news/article/2609/16/2000001522/",
+      "date": "2026-09-16T07:13:20+09:00",
+      "dateLabel": "09/16 07:13",
+      "desc": "OpenAIが、AnthropicやGoogle DeepMindとAIの安全性確保に向けて協議を進めているとBloombergが報じた。反トラスト法の適用除外を巡っては米当局の警戒や議会での法案提出など議論が活発化。一方、NVIDIAのフアンCEOは市場原理で安全性と迅速な開発は両立可能として政府の介入に否定的な見方を示した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
       "title": "「ブラウザを開く手間」を解消 作業画面に直接呼び出せるWindows版「Gemini」公開",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/15/news076.html",
       "date": "2026-09-15T17:00:00+09:00",
@@ -140,15 +151,15 @@
       "score": 42
     },
     {
-      "title": "推論領域への野心強めるNVIDIA 韓国新興と協議か",
-      "link": "https://eetimes.itmedia.co.jp/ee/articles/2609/15/news061.html",
-      "date": "2026-09-15T11:00:00+09:00",
-      "dateLabel": "09/15 11:00",
-      "desc": "NVIDIAが、韓国のスタートアップで推論用NPU（Neural Processing Unit）に強みを持つRebellionsと協議を行っているという。技術提携のみならず、出資や買収も視野に入れているとされる。",
+      "title": "NVIDIAはAIの中央銀行と化している",
+      "link": "https://gigazine.net/news/20260917-nvidia-central-bank-ai/",
+      "date": "2026-09-17T08:00:00+09:00",
+      "dateLabel": "09/17 08:00",
+      "desc": "AIを支える半導体の多くを供給するのは、アメリカの半導体企業であるNVIDIAです。AIの普及に伴いNVIDIAの時価総額は上昇し続けており、2025年10月には世界で初めて5兆ドル(約780兆円)に到達しています。そんなNVIDIAが「AIの中央銀行と化している」と経済メディアのThe Economistが報じました。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
+      "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 42
+      "score": 34
     },
     {
       "title": "AIエージェント「Hermes Agent」新機能「Local Models」でローカルAIモデル「Qwen3.8 27B」を直接動かしてみた、16GBのVRAMでも量子化で高速動作",
@@ -192,17 +203,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "【Amazonタイムセール最終日】 「NOTE59 Pro」が29,898円 5G Android16＆Gemini AI搭載・最大32GB RAM＋256GB ROM（2TB拡張）＆6250mAh",
-      "link": "https://ascii.jp/elem/000/004/435/4435556/?rss",
-      "date": "2026-09-16T17:36:08+09:00",
-      "dateLabel": "09/16 17:36",
-      "desc": "【Amazonタイムセール最終日】 「NOTE59 Pro」が29,898円 5G Android16＆Gemini AI搭載・最大32GB RAM＋256GB ROM（2TB拡張）＆6250mAh",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -272,14 +272,14 @@
       "score": 28
     },
     {
-      "title": "AIで作ったアプリをUIもデータも単一ファイルで持ち運べる無料ツール「Capsule」、クラウド不要で完全オフラインで動作",
-      "link": "https://gigazine.net/news/20260916-capsule/",
-      "date": "2026-09-16T22:00:00+09:00",
-      "dateLabel": "09/16 22:00",
-      "desc": "アプリの操作画面や画像、保存データを1つのファイルにまとめ、文書のように持ち運べる無料ツール「Capsule」が公開されています。クラウドやアカウント登録を必要とせず、オフラインで利用できることが特徴です。Windows・macOS・Linux向けに提供されており、Android・iOSへの対応も予定されています。 続きを読む...",
+      "title": "国産汎用ロボットによるフィジカルAIのデータ収集で7社が競う、試作機を披露",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2609/17/news053.html",
+      "date": "2026-09-17T06:45:00+09:00",
+      "dateLabel": "09/17 06:45",
+      "desc": "AIRoA（AIロボット協会）は、「フィジカル AI Summit」において、「国産汎用ロボット開発コンペティション」に参加する7社のロボットの試作機を公開した。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
+      "src": "ITmedia AI+",
+      "cat": "AI実装",
       "score": 26
     }
   ]
