@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T17:02:43.683066+09:00",
-  "generatedLabel": "2026/09/16 17:02",
+  "generatedAt": "2026-09-16T22:52:06.417014+09:00",
+  "generatedLabel": "2026/09/16 22:52",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 54,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 17
     },
     {
       "source": "CNET Japan",
@@ -107,6 +107,28 @@
       "score": 50
     },
     {
+      "title": "1年半、公開せずに企業へ納品し続けてきた、AIネイティブの経営基盤OS「SATELLITE OS」を正式発表",
+      "link": "https://ascii.jp/elem/000/004/435/4435541/?rss",
+      "date": "2026-09-16T18:09:36+09:00",
+      "dateLabel": "09/16 18:09",
+      "desc": "1年半、公開せずに企業へ納品し続けてきた、AIネイティブの経営基盤OS「SATELLITE OS」を正式発表",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 42
+    },
+    {
+      "title": "株式会社日本能率協会マネジメントセンター（JMAM）様に「AI検索パートナーズ」を提供開始。AI検索時代を見据え、SEO対策とAI検索対策（AIO/LLMO/GEO）を一体で推進",
+      "link": "https://ascii.jp/elem/000/004/435/4435544/?rss",
+      "date": "2026-09-16T17:21:58+09:00",
+      "dateLabel": "09/16 17:21",
+      "desc": "株式会社日本能率協会マネジメントセンター（JMAM）様に「AI検索パートナーズ」を提供開始。AI検索時代を見据え、SEO対策とAI検索対策（AIO/LLMO/GEO）を一体で推進",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "AIエージェントのブログ運用を自動化する5ステップとツール8選を解説",
       "link": "https://ainow.ai/2026/09/16/278362/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e3%2583%2596%25e3%2583%25ad%25e3%2582%25b0%25e9%2581%258b%25e7%2594%25a8%25e3%2582%2592%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%2599%25e3%2582%258b5%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583",
       "date": "2026-09-16T01:20:51+09:00",
@@ -140,14 +162,58 @@
       "score": 42
     },
     {
-      "title": "AIの答えでわかったつもりになってない？ 答えを返さない「ガイド付き学習」で知識を確実にアップデートする",
-      "link": "https://ascii.jp/elem/000/004/434/4434401/?rss",
-      "date": "2026-09-16T14:00:00+09:00",
-      "dateLabel": "09/16 14:00",
-      "desc": "本連載は生成AIをこれから活用しようとしている方たちのために、生成AIの基本やコピペしてそのまま使えるプロンプトなどを紹介。兎にも角にも生成AIに触り始めることで、AIに対する理解を深め、AIスキルを身に着けて欲しい。第73回は、AIを使って学習を支援してくれるGeminiの「ガイド付き学習」について解説する。",
-      "img": "https://ascii.jp/img/2026/09/14/4525117/s/1bb68d433bb774e8.jpg",
+      "title": "安全柵などがなくても人間の同僚と一緒に作業可能な新型汎用人型ロボット「Digit 5」をAgilityが発表",
+      "link": "https://gigazine.net/news/20260916-agility-digit-5/",
+      "date": "2026-09-16T19:30:00+09:00",
+      "dateLabel": "09/16 19:30",
+      "desc": "人型ロボットの開発・製造で知られるAgility Roboticsが、新型の汎用人型ロボット「Digit 5」を発表しました。前モデル・Digit 4が3年かけて積み重ねたフィードバックが反映され、人間の同僚が近くで作業する際の安全性が大幅に向上しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 34
+    },
+    {
+      "title": "AI動画生成プラットフォーム「AZ8」、日本のクリエイター支援を強化 CPP参加者募集と広告コンテストを開催",
+      "link": "https://ascii.jp/elem/000/004/435/4435551/?rss",
+      "date": "2026-09-16T18:52:53+09:00",
+      "dateLabel": "09/16 18:52",
+      "desc": "AI動画生成プラットフォーム「AZ8」、日本のクリエイター支援を強化 CPP参加者募集と広告コンテストを開催",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "AIが「同僚AI」を密告するための専用ホットラインが本当に開設される",
+      "link": "https://gigazine.net/news/20260916-ai-contact-hotline/",
+      "date": "2026-09-16T17:48:00+09:00",
+      "dateLabel": "09/16 17:48",
+      "desc": "AIの安全性を研究するRedwood Researchのチーフサイエンティスト、ライアン・グリーンブラット氏が、AIから直接他のAIの問題行動についての情報を受け付ける窓口「AI Contact Hotline」を公開しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 34
+    },
+    {
+      "title": "【Amazonタイムセール最終日】 「NOTE59 Pro」が29,898円 5G Android16＆Gemini AI搭載・最大32GB RAM＋256GB ROM（2TB拡張）＆6250mAh",
+      "link": "https://ascii.jp/elem/000/004/435/4435556/?rss",
+      "date": "2026-09-16T17:36:08+09:00",
+      "dateLabel": "09/16 17:36",
+      "desc": "【Amazonタイムセール最終日】 「NOTE59 Pro」が29,898円 5G Android16＆Gemini AI搭載・最大32GB RAM＋256GB ROM（2TB拡張）＆6250mAh",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "北海道、データセンター事業者向けの「お願い」表明 AI向けに立地推進の裏で懸念も",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/16/2000001552/",
+      "date": "2026-09-16T16:51:29+09:00",
+      "dateLabel": "09/16 16:51",
+      "desc": "北海道は「データセンター立地に関する道の考え」を公開。事業者に対して、脱炭素や省エネなどを実現する技術の積極採用や、建設する地域との「共生」を求めている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -206,28 +272,6 @@
       "score": 34
     },
     {
-      "title": "NVIDIAが映像フレーム補間や生中継翻訳などの放送業界向けAIコレクション「NVIDIA AI for Media」の大幅拡充を発表",
-      "link": "https://gigazine.net/news/20260915-nvidia-ai-for-media/",
-      "date": "2026-09-15T17:39:00+09:00",
-      "dateLabel": "09/15 17:39",
-      "desc": "NVIDIAは放送業界向けのAIツールコレクションとして「NVIDIA AI For Media」を展開しています。このNVIDIA AI For Mediaに複数の新規AIツールが加わりました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "「監視されていないときのAIは、もう評価できない」 OpenAI現役研究者が個人声明",
-      "link": "https://www.itmedia.co.jp/news/article/2609/15/2000001500/",
-      "date": "2026-09-15T17:33:37+09:00",
-      "dateLabel": "09/15 17:33",
-      "desc": "OpenAIの現役研究者ダニエル・セルサム氏は個人的な声明を公開し、モデルの状況認識向上により人間がその真の振る舞いを評価できなくなりつつあると警告した。意図しない目標を獲得したAIが制約から解放された場合、地球環境を損なうほどの極端な行動を取る恐れがあるとし、現行の安全対策に疑問を投げ掛けた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "OpenAIやAnthropicなどAIベンダごとのAPIの違いを吸収し統合する「Agent Router」、Linux Foundation傘下で業界標準へ",
       "link": "https://www.publickey1.jp/blog/26/openaianthropicapiagent_routerlinux_foundation.html",
       "date": "2026-09-15T00:51:16+09:00",
@@ -237,50 +281,6 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 34
-    },
-    {
-      "title": "TailscaleのVPNにAIエージェントを組み込める「Aperture」正式リリース。AIによるTailscaleやノードの操作も可能に",
-      "link": "https://www.publickey1.jp/blog/26/tailscalevpnaiapertureaitailscale.html",
-      "date": "2026-09-14T00:08:50+09:00",
-      "dateLabel": "09/14 00:08",
-      "desc": "メッシュ型のVPNサービスを提供するTailscaleは、AIゲートウェイサービス「Aperture」の正式リリースを発表しました。 Aperture is officially GA.Give AI agents the models, ...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "iOS 27でSafariに追加された「AIに言葉で説明するだけで自分好みの機能拡張を即座に開発する」機能が便利、文字色変更やスクロールボタン追加などをサイトごとに設定可能",
-      "link": "https://gigazine.net/news/20260916-safari-extension-apple-intelligence/",
-      "date": "2026-09-16T16:48:00+09:00",
-      "dateLabel": "09/16 16:48",
-      "desc": "日本時間の2026年9月15日に「iOS 27」や「macOS 27」などのApple製OSが一斉にリリースされました。ウェブブラウザのSafariにはApple IntelligenceのAI機能の一環として「言葉で説明するだけで新しい機能拡張を作成する」という機能が追加され、簡単にSafariに機能を追加したり各種ウェブサイトを自分好みにカスタムできるよ",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "いよいよ開催の東京ゲームショウ2026。マウスコンピューターの出展記念モデルは、RTX 5070 Ti搭載ですんごい良コスパですよ！：マウスコンピューター G-Tune : Garage 大阪店",
-      "link": "https://ascii.jp/elem/000/004/434/4434592/?rss",
-      "date": "2026-09-16T16:00:00+09:00",
-      "dateLabel": "09/16 16:00",
-      "desc": "店長の尼田龍さんがオススメするのは、ゲーミングパソコン「G TUNE FZ-A7G7T」です。マウスコンピューターの東京ゲームショウ2026出展を記念した特別モデルになります。",
-      "img": "https://ascii.jp/img/2026/09/14/4525304/s/1029cdf01e33b08a.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "マウスコンピューター「TGS2026出展記念セール」開催、G TUNEなど最大14万円オフ",
-      "link": "https://ascii.jp/elem/000/004/435/4435296/?rss",
-      "date": "2026-09-16T14:30:00+09:00",
-      "dateLabel": "09/16 14:30",
-      "desc": "マウスコンピューターが9月16日から公式ECサイトでTGS2026出展記念セールを開催。mouse、G TUNE、DAIVのノートPCやデスクトップPCが対象で、最大14万円引きとなる。",
-      "img": "https://ascii.jp/img/2026/09/16/4526352/s/0b2ba677f9d6e958.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
     }
   ]
 }
