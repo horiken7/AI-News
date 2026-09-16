@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T08:18:15.100664+09:00",
-  "generatedLabel": "2026/09/16 08:18",
+  "generatedAt": "2026-09-16T11:19:11.363293+09:00",
+  "generatedLabel": "2026/09/16 11:19",
   "feedOk": 7,
   "feedNg": 4,
-  "candidates": 56,
+  "candidates": 61,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 18
+      "items": 19
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 9
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 16
     },
     {
       "source": "CNET Japan",
@@ -63,15 +63,26 @@
   ],
   "articles": [
     {
-      "title": "Anthropicの新規株式公開に対してNVIDIAがアンカー投資家として1.5兆円の出資を検討か",
-      "link": "https://gigazine.net/news/20260915-anthropic-mega-ipo/",
-      "date": "2026-09-15T09:42:00+09:00",
-      "dateLabel": "09/15 09:42",
-      "desc": "AIモデル「Claude」で知られるAnthropicの新規株式公開(IPO)が2026年11月に行われる見込みであることがわかりました。IPOでは約1000億ドル(約15兆5000億円)を調達予定で、そのうち100億ドル(約1兆5000億円)分をNVIDIAがアンカー投資家として出資するか検討していると報じられています。 続きを読む...",
+      "title": "Google、会話を止めずに裏でタスクを実行する音声モデル「Gemini 3.8 Live」公開 推論強化の上位版も",
+      "link": "https://www.itmedia.co.jp/news/article/2609/16/2000001524/",
+      "date": "2026-09-16T10:16:42+09:00",
+      "dateLabel": "09/16 10:16",
+      "desc": "Googleが音声対話向け新モデル「Gemini 3.8 Live」と多段階推論を強化した「Gemini 3.8 Live Extended Thinking」を提供開始した。会話を止めずにツール実行や推論を進められる点が特長で、一般向け機能やWorkspace、API経由で展開する。音声には電子透かしを埋め込む。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 58
+    },
+    {
+      "title": "ASUS、NVIDIA Rubin搭載の液冷AIサーバーを国内初展示 CTC DISCOVER 2026で公開",
+      "link": "https://ascii.jp/elem/000/004/435/4435168/?rss",
+      "date": "2026-09-16T11:00:00+09:00",
+      "dateLabel": "09/16 11:00",
+      "desc": "ASUS JAPANが10月16日に開催される「CTC DISCOVER 2026」へ出展し、NVIDIA Rubin搭載の100%液冷2Uサーバー「XA NR1I-E12R」を国内初展示すると発表した。",
+      "img": "https://ascii.jp/img/2026/09/16/4526180/s/b3b850fad61de785.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 50
     },
     {
       "title": "OpenAI、AI安全性でAnthropic、Google DeepMindと協議中──Bloomberg報道",
@@ -85,17 +96,6 @@
       "score": 50
     },
     {
-      "title": "アップル、日本語でのSiri AIの10月提供開始を正式発表 EUと中国では規制対応で当初利用不可",
-      "link": "https://ascii.jp/elem/000/004/435/4435151/?rss",
-      "date": "2026-09-15T23:30:00+09:00",
-      "dateLabel": "09/15 23:30",
-      "desc": "アップルは14日、iOS 27／iPadOS 27／macOS 27／watchOS 27／visionOS 27の目玉機能であるSiri AIについて、10月から日本語でもベータ版で提供開始することを正式発表した（現時点では英語版のみ）。",
-      "img": "https://ascii.jp/img/2026/09/15/4526069/s/bdc2737fe9f1d558.jpg",
-      "src": "ASCII.jp",
-      "cat": "規制/安全",
-      "score": 50
-    },
-    {
       "title": "「ブラウザを開く手間」を解消 作業画面に直接呼び出せるWindows版「Gemini」公開",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/15/news076.html",
       "date": "2026-09-15T17:00:00+09:00",
@@ -104,17 +104,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
-      "title": "推論領域への野心強めるNVIDIA 韓国新興と協議か",
-      "link": "https://eetimes.itmedia.co.jp/ee/articles/2609/15/news061.html",
-      "date": "2026-09-15T11:00:00+09:00",
-      "dateLabel": "09/15 11:00",
-      "desc": "NVIDIAが、韓国のスタートアップで推論用NPU（Neural Processing Unit）に強みを持つRebellionsと協議を行っているという。技術提携のみならず、出資や買収も視野に入れているとされる。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
       "score": 50
     },
     {
@@ -162,14 +151,58 @@
       "score": 42
     },
     {
-      "title": "統合型ホテルOSとAIエージェントを組み合わせた伴走支援事業",
-      "link": "https://ascii.jp/elem/000/004/434/4434687/?rss",
-      "date": "2026-09-16T07:00:00+09:00",
-      "dateLabel": "09/16 07:00",
-      "desc": "統合型ホテルOS「WASIMIL（ワシミル）」を提供する株式会社AZOOは、ホテルチェーン向けの新規事業「ホテル運営AX化パートナー」（AX：AIトランスフォーメーション）の本格展開と、AI運営エージェントのβ版「Kanko AI」の提供を開始した。",
-      "img": "https://ascii.jp/img/2026/09/14/4525446/s/b7c69fa017cf3ca7.jpg",
+      "title": "推論領域への野心強めるNVIDIA 韓国新興と協議か",
+      "link": "https://eetimes.itmedia.co.jp/ee/articles/2609/15/news061.html",
+      "date": "2026-09-15T11:00:00+09:00",
+      "dateLabel": "09/15 11:00",
+      "desc": "NVIDIAが、韓国のスタートアップで推論用NPU（Neural Processing Unit）に強みを持つRebellionsと協議を行っているという。技術提携のみならず、出資や買収も視野に入れているとされる。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "Shokz、イヤーフック型の開放型イヤホン「OpenFit Air 2」と骨伝導イヤホンの「OpenRun Air 2」を発表、価格2万円弱",
+      "link": "https://ascii.jp/elem/000/004/435/4435153/?rss",
+      "date": "2026-09-16T10:00:00+09:00",
+      "dateLabel": "09/16 10:00",
+      "desc": "Shokzから軽快に使えるイヤーフック型のオープンイヤーと骨伝導イヤホンが登場だ。",
+      "img": "https://ascii.jp/img/2026/09/16/4526126/s/de31959d0be7dadc.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "Postman、AIエージェント時代にシークレットレスなAPIアクセスを実現する「Passport」の一般提供を開始",
+      "link": "https://ascii.jp/elem/000/004/435/4435177/?rss",
+      "date": "2026-09-16T09:13:04+09:00",
+      "dateLabel": "09/16 09:13",
+      "desc": "Postman、AIエージェント時代にシークレットレスなAPIアクセスを実現する「Passport」の一般提供を開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "【「質問するだけ」でデータが動く時代へ】生成AIが「データ層」に降りた衝撃。『AI × Data Weekly Insight』を無料公開",
+      "link": "https://ascii.jp/elem/000/004/435/4435185/?rss",
+      "date": "2026-09-16T08:50:00+09:00",
+      "dateLabel": "09/16 08:50",
+      "desc": "【「質問するだけ」でデータが動く時代へ】生成AIが「データ層」に降りた衝撃。『AI × Data Weekly Insight』を無料公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "AI時代の「選ばれ方」を再設計するNOTZERO、GEO/LLMO・海外ブランドの日本進出支援を強化",
+      "link": "https://ascii.jp/elem/000/004/435/4435189/?rss",
+      "date": "2026-09-16T08:19:15+09:00",
+      "dateLabel": "09/16 08:19",
+      "desc": "AI時代の「選ばれ方」を再設計するNOTZERO、GEO/LLMO・海外ブランドの日本進出支援を強化",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -203,17 +236,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "【期間限定28%OFF】13.4インチ大画面×Gemini AI搭載！「U13 PRO セット版」が35,900円に。11,000mAhバッテリー＆120Hz高リフレッシュレートで快適なタブレット体験",
-      "link": "https://ascii.jp/elem/000/004/435/4435145/?rss",
-      "date": "2026-09-15T18:27:27+09:00",
-      "dateLabel": "09/15 18:27",
-      "desc": "【期間限定28%OFF】13.4インチ大画面×Gemini AI搭載！「U13 PRO セット版」が35,900円に。11,000mAhバッテリー＆120Hz高リフレッシュレートで快適なタブレット体験",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -258,28 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "OpenAIがスマホカメラメーカーのGlass Imagingを買収したとの報道",
-      "link": "https://gigazine.net/news/20260915-openai-buys-camera-startup-glass-imaging/",
-      "date": "2026-09-15T13:19:00+09:00",
-      "dateLabel": "09/15 13:19",
-      "desc": "AI企業のOpenAIが、スマートフォン向けカメラを開発するGlass Imagingを3億ドル(約460億円)超で買収したと、ウォール・ストリート・ジャーナルが報じています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Microsoftが「人間はAIより重要」とするAI行動規範を発表、AIの意識や権利を否定",
-      "link": "https://gigazine.net/news/20260915-microsoft-humanist-ai-code-of-conduct/",
-      "date": "2026-09-15T11:23:00+09:00",
-      "dateLabel": "09/15 11:23",
-      "desc": "Microsoft AIが2026年9月14日、同社が開発するAIモデル「MAI」の振る舞いや価値観を定める「Humanist AI Code of Conduct」の草案を公開しました。Microsoft AIは「人間はAIより重要」という考えを出発点とし、AIを人間の管理下にとどまる従属的な技術として設計すると表明しています。また、AIに意識を模倣させる",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI実装",
       "score": 34
     }
   ]
