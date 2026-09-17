@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-18T05:44:16.746723+09:00",
-  "generatedLabel": "2026/09/18 05:44",
+  "generatedAt": "2026-09-18T08:15:12.092984+09:00",
+  "generatedLabel": "2026/09/18 08:15",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 62,
+  "candidates": 64,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 20
+      "items": 19
     },
     {
       "source": "CNET Japan",
@@ -74,15 +74,37 @@
       "score": 58
     },
     {
-      "title": "Google、会話を止めずに裏でタスクを実行する音声モデル「Gemini 3.8 Live」公開 推論強化の上位版も",
-      "link": "https://www.itmedia.co.jp/news/article/2609/16/2000001524/",
-      "date": "2026-09-16T10:16:42+09:00",
-      "dateLabel": "09/16 10:16",
-      "desc": "Googleが音声対話向け新モデル「Gemini 3.8 Live」と多段階推論を強化した「Gemini 3.8 Live Extended Thinking」を提供開始した。会話を止めずにツール実行や推論を進められる点が特長で、一般向け機能やWorkspace、API経由で展開する。音声には電子透かしを埋め込む。",
+      "title": "英チャールズ国王、AI大手トップらに「実存的な危険」を警告 NVIDIAやOpenAI、Anthropicが参加",
+      "link": "https://www.itmedia.co.jp/news/article/2609/18/2000001600/",
+      "date": "2026-09-18T07:23:23+09:00",
+      "dateLabel": "09/18 07:23",
+      "desc": "英国王室は、チャールズ国王主催のAIサミットを開催した。NVIDIAのフアンCEOやGoogle DeepMindのハサビス会長ら業界幹部が参加。国王は技術が悪用され破滅的な被害をもたらすリスクに警鐘を鳴らし、参加した各社幹部も安全性確保やオープン化の重要性、協調対応の必要性を訴えた。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
+      "cat": "半導体/GPU",
       "score": 50
+    },
+    {
+      "title": "地方総合病院から生まれたデータとAIを組み合わせた医療機関向け基幹システム",
+      "link": "https://ascii.jp/elem/000/004/435/4435533/?rss",
+      "date": "2026-09-18T07:00:00+09:00",
+      "dateLabel": "09/18 07:00",
+      "desc": "医療機関向けAI事業を手がける株式会社Albatrusは9月10日、電子カルテなどの院内データとAIエージェントによる業務自動化を統合した病院向け基幹システム「Apollo AI」の正式提供を開始した。2024年から提供してきた従来製品「メディラクAI」の機能を刷新したアップデート版となる。",
+      "img": "https://ascii.jp/img/2026/09/16/4526630/s/2788f6e901c585f8.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "NVIDIA、Google、Emerald AIがAIデータセンターの電力消費調整を目指すアライアンス設立 Anthropicも参加",
+      "link": "https://www.itmedia.co.jp/news/article/2609/18/2000001599/",
+      "date": "2026-09-18T06:46:04+09:00",
+      "dateLabel": "09/18 06:46",
+      "desc": "NVIDIAとGoogleは新興企業Emerald AIとともに、電力網の状況に応じて消費電力を動的に制御する「柔軟なデータセンター」の普及を目指す新団体「AEMA」を設立した。送電網の容量不足や住民の電気料金高騰懸念がAIインフラ拡充の壁となる中、計算処理の分散や専用ソフトを活用し、既存電力網の効率運用と接続期間の短縮を図る。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 42
     },
     {
       "title": "AIコーディングエージェントにとってハーネスはどれほど重要なのか？",
@@ -118,15 +140,37 @@
       "score": 42
     },
     {
-      "title": "「中国AIがClaudeやGPTから数十億トークン抽出」 米当局が暴いた「知識蒸留」の実態",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/17/news038.html",
-      "date": "2026-09-17T08:00:00+09:00",
-      "dateLabel": "09/17 08:00",
-      "desc": "米国のNSA、CISA、FBIは、中国AI企業が米国のフロンティアモデルから組織的に「知識蒸留」を行っているとして共同勧告を公開した。プロキシ経由で推論機能などを抽出していると指摘し、対抗措置を推奨している。",
+      "title": "ASRock、有機ELゲーミングモニター体験イベントを10月3日に秋葉原で開催",
+      "link": "https://ascii.jp/elem/000/004/436/4436039/?rss",
+      "date": "2026-09-18T08:00:00+09:00",
+      "dateLabel": "09/18 08:00",
+      "desc": "ASRockがTaichiおよびPhantom Gamingシリーズの有機ELゲーミングモニター発表を記念し、10月3日に秋葉原で体験イベントを開催する。無料・事前登録不要で、試遊やステージ、抽選会などを実施する内容だ。",
+      "img": "https://ascii.jp/img/2026/09/18/4527508/s/2de580f7d71a5450.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "カスハラ対策義務化に即応。既存の電話環境のまま導入できるリアルタイムAI音声解析",
+      "link": "https://ascii.jp/elem/000/004/435/4435535/?rss",
+      "date": "2026-09-18T07:00:00+09:00",
+      "dateLabel": "09/18 07:00",
+      "desc": "株式会社RevCommは9月10日、既存の電話システム環境を変更することなく、通話音声をリアルタイムで音声解析AIに取り込む新機能「MiiTel Incoming WebSocket」の提供を開始した。本機能は利用中の電話システムやコンタクトセンター基盤を維持したまま連携でき、システムの全入れ替えを行わずにリアルタイム音声AIの導入を可能にする。",
+      "img": "https://ascii.jp/img/2026/09/16/4526633/s/5b313668bbaf2788.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "AIエージェントで自動化できる事務作業10選！判断基準と導入手順を解説",
+      "link": "https://ainow.ai/2026/09/18/278369/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b%25e4%25ba%258b%25e5%258b%2599%25e4%25bd%259c%25e6%25a5%25ad10%25e9%2581%25b8%25ef%25bc%2581%25e5%2588%25a4%25e6%2596%25ad",
+      "date": "2026-09-18T05:58:11+09:00",
+      "dateLabel": "09/18 05:58",
+      "desc": "月末になると請求書の仕訳入力や勤怠の不備チェックに部署総出で追われ、人を増やす以外の解決策が見つからないという状況に陥っていないでしょうか。 AIエージェントは、目的を与えると手順の組み立てから実行までを自ら進めるAIで... The post AIエージェントで自動化できる事務作業10選！判断基準と導入手順を解説 first appeared on AI専",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "RTX 5050搭載ゲーミングノートが16万9800円！ MSI「Cyborg 15」がタイムセールに",
@@ -228,58 +272,14 @@
       "score": 34
     },
     {
-      "title": "Anthropic、Claudeの「チャット」と「Cowork」を統合 資料作成の「Docs」「Slides」も",
-      "link": "https://www.itmedia.co.jp/news/article/2609/17/2000001565/",
-      "date": "2026-09-17T08:05:35+09:00",
-      "dateLabel": "09/17 08:05",
-      "desc": "AnthropicがAIアシスタント「Claude」のチャットと作業環境「Claude Cowork」を統合した。簡単な対話から複数手順の複雑な作業までを1つの会話内で完結でき、文書作成「Claude Docs」やスライド作成機能も追加。ProやMax向けから段階的に展開する。",
+      "title": "「中国AIがClaudeやGPTから数十億トークン抽出」 米当局が暴いた「知識蒸留」の実態",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/17/news038.html",
+      "date": "2026-09-17T08:00:00+09:00",
+      "dateLabel": "09/17 08:00",
+      "desc": "米国のNSA、CISA、FBIは、中国AI企業が米国のフロンティアモデルから組織的に「知識蒸留」を行っているとして共同勧告を公開した。プロキシ経由で推論機能などを抽出していると指摘し、対抗措置を推奨している。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "なぜ「Claude Code」で想定外のコストになるのか？ 「トークン浪費」を防ぐポイントまとめ",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/17/news030.html",
-      "date": "2026-09-17T08:00:00+09:00",
-      "dateLabel": "09/17 08:00",
-      "desc": "Anthropicは、「Claude Code」でトークンを効率的に使用し、セッションから最大限の価値を引き出す方法を解説した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "NVIDIAはAIの中央銀行と化している",
-      "link": "https://gigazine.net/news/20260917-nvidia-central-bank-ai/",
-      "date": "2026-09-17T08:00:00+09:00",
-      "dateLabel": "09/17 08:00",
-      "desc": "AIを支える半導体の多くを供給するのは、アメリカの半導体企業であるNVIDIAです。AIの普及に伴いNVIDIAの時価総額は上昇し続けており、2025年10月には世界で初めて5兆ドル(約780兆円)に到達しています。そんなNVIDIAが「AIの中央銀行と化している」と経済メディアのThe Economistが報じました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "Devinが仮想環境でmacOSの提供開始。Macの実機不要でDevinがコード生成、テスト、デバッグ、実行、AppStore配信前のベータ公開まで実行",
-      "link": "https://www.publickey1.jp/blog/26/devinmacosmacdevinappstore.html",
-      "date": "2026-09-17T01:00:51+09:00",
-      "dateLabel": "09/17 01:00",
-      "desc": "コーディングAIエージェントを提供するDevinが、Devinがホストする仮想環境内でのmacOSの提供を開始しました。 Devinはこれまで仮想環境内でUbuntu LinuxおよびWindowsを提供しており、ここにmacOSが加わりま...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "AIエージェントのブログ運用を自動化する5ステップとツール8選を解説",
-      "link": "https://ainow.ai/2026/09/16/278362/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e3%2583%2596%25e3%2583%25ad%25e3%2582%25b0%25e9%2581%258b%25e7%2594%25a8%25e3%2582%2592%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%2599%25e3%2582%258b5%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583",
-      "date": "2026-09-16T01:20:51+09:00",
-      "dateLabel": "09/16 01:20",
-      "desc": "AIエージェントを使えば、ブログのキーワード調査から本文執筆、WordPressへの入稿までを一連の流れとして任せられます。本記事では、任せられる工程の切り分け方から具体的なツール選定までを解説します。 ChatGPTで... The post AIエージェントのブログ運用を自動化する5ステップとツール8選を解説 first appeared on AI専門",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
       "score": 34
     }
   ]
