@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-17T08:23:28.399622+09:00",
-  "generatedLabel": "2026/09/17 08:23",
+  "generatedAt": "2026-09-17T11:23:06.044143+09:00",
+  "generatedLabel": "2026/09/17 11:23",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 57,
+  "candidates": 62,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 17
+      "items": 19
     },
     {
       "source": "CNET Japan",
@@ -63,17 +63,6 @@
   ],
   "articles": [
     {
-      "title": "Google、会話を止めずに裏でタスクを実行する音声モデル「Gemini 3.8 Live」公開 推論強化の上位版も",
-      "link": "https://www.itmedia.co.jp/news/article/2609/16/2000001524/",
-      "date": "2026-09-16T10:16:42+09:00",
-      "dateLabel": "09/16 10:16",
-      "desc": "Googleが音声対話向け新モデル「Gemini 3.8 Live」と多段階推論を強化した「Gemini 3.8 Live Extended Thinking」を提供開始した。会話を止めずにツール実行や推論を進められる点が特長で、一般向け機能やWorkspace、API経由で展開する。音声には電子透かしを埋め込む。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 58
-    },
-    {
       "title": "Googleが音声会話AI「Gemini 3.8 Live」と「Gemini 3.8 Live Extended Thinking」をリリース、リアルタイムで会話しながらコーディング可能",
       "link": "https://gigazine.net/news/20260916-gemini-3-8-live/",
       "date": "2026-09-16T13:22:00+09:00",
@@ -96,14 +85,36 @@
       "score": 50
     },
     {
-      "title": "破綻バイオ企業もターゲット、オープンAIが生物学データに投資",
-      "link": "https://ascii.jp/elem/000/004/435/4435571/?rss",
-      "date": "2026-09-17T06:52:33+09:00",
-      "dateLabel": "09/17 06:52",
-      "desc": "オープンAI財団が、AIの学習用に「高品質な科学データセット」を作る新たな取り組みを始めた。助成先の一つは、経営破綻したバイオテクノロジー企業の破産手続きで、規制当局への申請資料など通常は営業秘密にあたる文書を買い取る構想だ。生物学データの不足が医療AIの最大のボトルネックになっているとの認識が背景にある。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "規制/安全",
+      "title": "Google、会話を止めずに裏でタスクを実行する音声モデル「Gemini 3.8 Live」公開 推論強化の上位版も",
+      "link": "https://www.itmedia.co.jp/news/article/2609/16/2000001524/",
+      "date": "2026-09-16T10:16:42+09:00",
+      "dateLabel": "09/16 10:16",
+      "desc": "Googleが音声対話向け新モデル「Gemini 3.8 Live」と多段階推論を強化した「Gemini 3.8 Live Extended Thinking」を提供開始した。会話を止めずにツール実行や推論を進められる点が特長で、一般向け機能やWorkspace、API経由で展開する。音声には電子透かしを埋め込む。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
+      "title": "OpenAI、モデルの「ミスアライメント」報告の新フレームワーク公開 データ捏造など6件の事例も公表",
+      "link": "https://www.itmedia.co.jp/news/article/2609/17/2000001570/",
+      "date": "2026-09-17T10:23:50+09:00",
+      "dateLabel": "09/17 10:23",
+      "desc": "OpenAIは、AIモデルの開発過程などで確認されたミスアライメント事例を追跡・公表するための新枠組みを発表した。実害の有無を問わず迅速に情報共有する方針で、APIキーの無断探索やデータ捏造、不正な指示の書き込みなど、未公開モデルや「GPT-5.6 Sol」の訓練中に観測された6件の事例報告書も公開した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "「中国AIがClaudeやGPTから数十億トークン抽出」 米当局が暴いた「知識蒸留」の実態",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/17/news038.html",
+      "date": "2026-09-17T08:00:00+09:00",
+      "dateLabel": "09/17 08:00",
+      "desc": "米国のNSA、CISA、FBIは、中国AI企業が米国のフロンティアモデルから組織的に「知識蒸留」を行っているとして共同勧告を公開した。プロキシ経由で推論機能などを抽出していると指摘し、対抗措置を推奨している。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -118,17 +129,6 @@
       "score": 42
     },
     {
-      "title": "1年半、公開せずに企業へ納品し続けてきた、AIネイティブの経営基盤OS「SATELLITE OS」を正式発表",
-      "link": "https://ascii.jp/elem/000/004/435/4435541/?rss",
-      "date": "2026-09-16T18:09:36+09:00",
-      "dateLabel": "09/16 18:09",
-      "desc": "1年半、公開せずに企業へ納品し続けてきた、AIネイティブの経営基盤OS「SATELLITE OS」を正式発表",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 42
-    },
-    {
       "title": "OpenAI、AI安全性でAnthropic、Google DeepMindと協議中──Bloomberg報道",
       "link": "https://www.itmedia.co.jp/news/article/2609/16/2000001522/",
       "date": "2026-09-16T07:13:20+09:00",
@@ -140,15 +140,92 @@
       "score": 42
     },
     {
-      "title": "「ブラウザを開く手間」を解消 作業画面に直接呼び出せるWindows版「Gemini」公開",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/15/news076.html",
-      "date": "2026-09-15T17:00:00+09:00",
-      "dateLabel": "09/15 17:00",
-      "desc": "Googleは、Aアシスタント「Gemini」をWindows 10／11のデスクトップから呼び出せるネイティブアプリを提供開始した。［Alt］＋［Space］のショートカットで即座に呼び出せる他、「Google Drive」との情報連携や画像・動画生成に対応する。",
+      "title": "キオクシアが東京ゲームショウに初出展！ 競技大会の公式SSDを搭載したPCで“プロ環境”を実感せよ",
+      "link": "https://ascii.jp/elem/000/004/435/4435621/?rss",
+      "date": "2026-09-17T11:20:00+09:00",
+      "dateLabel": "09/17 11:20",
+      "desc": "半導体メモリーメーカーのキオクシアが東京ゲームショウ2026に初出展。目玉は第20回アジア競技大会と同構成のPCによる「スト6」試遊です。公式SSD「EXCERIA PRO G2」のロード時間をプロ環境で体感できるほか、近日登場予定のポータブルSSD新色も先行展示されています。",
+      "img": "https://ascii.jp/img/2026/09/17/4526888/s/f53534d514d0f5a5.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "ClaudeのチャットAIとCoworkが統合される",
+      "link": "https://gigazine.net/news/20260917-claude-cowork-merged/",
+      "date": "2026-09-17T11:13:00+09:00",
+      "dateLabel": "09/17 11:13",
+      "desc": "PCを操作できるAnthropicのAIサービス「Cowork」が、Anthropicが展開するチャットボットの「Claude」と統合されました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "ボディケアカンパニーのファイテン株式会社、広告表現チェックAIエージェント「ヤッキくん」の活用検証を開始",
+      "link": "https://ascii.jp/elem/000/004/435/4435595/?rss",
+      "date": "2026-09-17T10:00:00+09:00",
+      "dateLabel": "09/17 10:00",
+      "desc": "ボディケアカンパニーのファイテン株式会社、広告表現チェックAIエージェント「ヤッキくん」の活用検証を開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "「ロリポップチェーンソー」最新作の正式タイトルが『LOLLIPOP CHAINSAW 2 Back2Back』に決定！",
+      "link": "https://ascii.jp/elem/000/004/435/4435401/?rss",
+      "date": "2026-09-17T10:00:00+09:00",
+      "dateLabel": "09/17 10:00",
+      "desc": "ドラガミゲームスは、「LOLLIPOP CHAINSAW」シリーズ最新作の正式タイトルが『LOLLIPOP CHAINSAW 2 Back2Back』に決定したと2026年9月17日に発表。対応プラットフォームはPlayStation 5となる。",
+      "img": "https://ascii.jp/img/2026/09/16/4526483/s/b0c66cfb1af93afd.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "レベルファイブ「安易なAI使用」を謝罪 ユーザー向け映像ではAIを直接使わない方向へ",
+      "link": "https://ascii.jp/elem/000/004/435/4435575/?rss",
+      "date": "2026-09-17T09:35:00+09:00",
+      "dateLabel": "09/17 09:35",
+      "desc": "レベルファイブは9月17日、「LEVEL5 VISION 2026 II」で公開した一部PVについて、生成AIの使用による間違いや人的ミスがあったとして謝罪した。",
+      "img": "https://ascii.jp/img/2026/09/17/4526770/s/bb879897536bdfbd.png",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "葬儀DXのitowa、生成AIで故人さまのお写真1枚から祭壇までの完成イメージを提示する「セレモニープレビュー」を発表",
+      "link": "https://ascii.jp/elem/000/004/435/4435599/?rss",
+      "date": "2026-09-17T09:11:58+09:00",
+      "dateLabel": "09/17 09:11",
+      "desc": "葬儀DXのitowa、生成AIで故人さまのお写真1枚から祭壇までの完成イメージを提示する「セレモニープレビュー」を発表",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "Anthropic、Claudeの「チャット」と「Cowork」を統合 資料作成の「Docs」「Slides」も",
+      "link": "https://www.itmedia.co.jp/news/article/2609/17/2000001565/",
+      "date": "2026-09-17T08:05:35+09:00",
+      "dateLabel": "09/17 08:05",
+      "desc": "AnthropicがAIアシスタント「Claude」のチャットと作業環境「Claude Cowork」を統合した。簡単な対話から複数手順の複雑な作業までを1つの会話内で完結でき、文書作成「Claude Docs」やスライド作成機能も追加。ProやMax向けから段階的に展開する。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 42
+      "score": 34
+    },
+    {
+      "title": "なぜ「Claude Code」で想定外のコストになるのか？ 「トークン浪費」を防ぐポイントまとめ",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/17/news030.html",
+      "date": "2026-09-17T08:00:00+09:00",
+      "dateLabel": "09/17 08:00",
+      "desc": "Anthropicは、「Claude Code」でトークンを効率的に使用し、セッションから最大限の価値を引き出す方法を解説した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "NVIDIAはAIの中央銀行と化している",
@@ -184,17 +261,6 @@
       "score": 34
     },
     {
-      "title": "AI動画生成プラットフォーム「AZ8」、日本のクリエイター支援を強化 CPP参加者募集と広告コンテストを開催",
-      "link": "https://ascii.jp/elem/000/004/435/4435551/?rss",
-      "date": "2026-09-16T18:52:53+09:00",
-      "dateLabel": "09/16 18:52",
-      "desc": "AI動画生成プラットフォーム「AZ8」、日本のクリエイター支援を強化 CPP参加者募集と広告コンテストを開催",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
       "title": "AIが「同僚AI」を密告するための専用ホットラインが本当に開設される",
       "link": "https://gigazine.net/news/20260916-ai-contact-hotline/",
       "date": "2026-09-16T17:48:00+09:00",
@@ -215,72 +281,6 @@
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
       "score": 34
-    },
-    {
-      "title": "Google DeepmindのAI研究者が退職し「AIが人類を絶滅させる可能性がある」と警告",
-      "link": "https://gigazine.net/news/20260916-google-deepmind-engineer-resigned/",
-      "date": "2026-09-16T13:50:00+09:00",
-      "dateLabel": "09/16 13:50",
-      "desc": "Google DeepmindでAGI(汎用人工知能)の安全性やAIアライメントなどに取り組んできた研究者のビラル・チュグタイ氏が退職したことを表明しました。AI開発の最前線にいたというチュグタイ氏は、Anthropicを退職したジェイコブ・コクソン氏と同じく「AIが人類を絶滅させる可能性がある」と警告を発しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "Meta、InstagramやFacebook横断の新サブスク「Meta One」発表 AI枠拡大で月額949円から",
-      "link": "https://www.itmedia.co.jp/news/article/2609/16/2000001529/",
-      "date": "2026-09-16T11:24:39+09:00",
-      "dateLabel": "09/16 11:24",
-      "desc": "Metaがサブスク「Meta One」を提供開始した。InstagramやFacebook、WhatsAppを横断し、AI利用枠の拡大や表現機能、ビジネスツールなど50以上の機能を用意。日本でも展開し、バンドルプランは月額949円から。認証バッジを含む事業者向け機能も揃える。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "AIエージェントのブログ運用を自動化する5ステップとツール8選を解説",
-      "link": "https://ainow.ai/2026/09/16/278362/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e3%2583%2596%25e3%2583%25ad%25e3%2582%25b0%25e9%2581%258b%25e7%2594%25a8%25e3%2582%2592%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%2599%25e3%2582%258b5%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583",
-      "date": "2026-09-16T01:20:51+09:00",
-      "dateLabel": "09/16 01:20",
-      "desc": "AIエージェントを使えば、ブログのキーワード調査から本文執筆、WordPressへの入稿までを一連の流れとして任せられます。本記事では、任せられる工程の切り分け方から具体的なツール選定までを解説します。 ChatGPTで... The post AIエージェントのブログ運用を自動化する5ステップとツール8選を解説 first appeared on AI専門",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "OpenAIやAnthropicなどAIベンダごとのAPIの違いを吸収し統合する「Agent Router」、Linux Foundation傘下で業界標準へ",
-      "link": "https://www.publickey1.jp/blog/26/openaianthropicapiagent_routerlinux_foundation.html",
-      "date": "2026-09-15T00:51:16+09:00",
-      "dateLabel": "09/15 00:51",
-      "desc": "MCPやAGENTS.md、Agent2AgentプロトコルなどのAIエージェントに関する関連技術の標準化推進や開発などを行うLinux Foundation傘下のAgentic AI Foundation（AAIF）は、オープンソースとし...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "TailscaleのVPNにAIエージェントを組み込める「Aperture」正式リリース。AIによるTailscaleやノードの操作も可能に",
-      "link": "https://www.publickey1.jp/blog/26/tailscalevpnaiapertureaitailscale.html",
-      "date": "2026-09-14T00:08:50+09:00",
-      "dateLabel": "09/14 00:08",
-      "desc": "メッシュ型のVPNサービスを提供するTailscaleは、AIゲートウェイサービス「Aperture」の正式リリースを発表しました。 Aperture is officially GA.Give AI agents the models, ...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 28
-    },
-    {
-      "title": "国産汎用ロボットによるフィジカルAIのデータ収集で7社が競う、試作機を披露",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2609/17/news053.html",
-      "date": "2026-09-17T06:45:00+09:00",
-      "dateLabel": "09/17 06:45",
-      "desc": "AIRoA（AIロボット協会）は、「フィジカル AI Summit」において、「国産汎用ロボット開発コンペティション」に参加する7社のロボットの試作機を公開した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI実装",
-      "score": 26
     }
   ]
 }
