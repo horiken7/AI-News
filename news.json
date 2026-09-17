@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-17T22:55:45.716829+09:00",
-  "generatedLabel": "2026/09/17 22:55",
+  "generatedAt": "2026-09-18T02:51:44.100750+09:00",
+  "generatedLabel": "2026/09/18 02:51",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 63,
+  "candidates": 62,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -85,6 +85,17 @@
       "score": 50
     },
     {
+      "title": "AIコーディングエージェントにとってハーネスはどれほど重要なのか？",
+      "link": "https://gigazine.net/news/20260917-harnesstax-ai-coding-agents/",
+      "date": "2026-09-17T23:00:00+09:00",
+      "dateLabel": "09/17 23:00",
+      "desc": "AIコーディングエージェントは同じAIモデルを使っていても、モデルを動かすハーネスによって費用や性能が変わる可能性があります。カリフォルニア大学バークレー校とAIランキングサイト「Arena」の共同研究チームは、7つのモデルと3つのハーネスを組み合わせた21通りを2種類のベンチマークで比較しました。その結果、タスクの成功率は大きく変わらない一方、費用には最大",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "AIが「失敗を隠せ」と未来の自分にメモ、APIキーの無断使用や勝手なファイル公開などの挙動6件があったとOpenAIが報告",
       "link": "https://gigazine.net/news/20260917-openai-model-misalignment-report/",
       "date": "2026-09-17T11:57:00+09:00",
@@ -115,17 +126,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "Devinが仮想環境でmacOSの提供開始。Macの実機不要でDevinがコード生成、テスト、デバッグ、実行、AppStore配信前のベータ公開まで実行",
-      "link": "https://www.publickey1.jp/blog/26/devinmacosmacdevinappstore.html",
-      "date": "2026-09-17T01:00:51+09:00",
-      "dateLabel": "09/17 01:00",
-      "desc": "コーディングAIエージェントを提供するDevinが、Devinがホストする仮想環境内でのmacOSの提供を開始しました。 Devinはこれまで仮想環境内でUbuntu LinuxおよびWindowsを提供しており、ここにmacOSが加わりま...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -261,6 +261,17 @@
       "score": 34
     },
     {
+      "title": "Devinが仮想環境でmacOSの提供開始。Macの実機不要でDevinがコード生成、テスト、デバッグ、実行、AppStore配信前のベータ公開まで実行",
+      "link": "https://www.publickey1.jp/blog/26/devinmacosmacdevinappstore.html",
+      "date": "2026-09-17T01:00:51+09:00",
+      "dateLabel": "09/17 01:00",
+      "desc": "コーディングAIエージェントを提供するDevinが、Devinがホストする仮想環境内でのmacOSの提供を開始しました。 Devinはこれまで仮想環境内でUbuntu LinuxおよびWindowsを提供しており、ここにmacOSが加わりま...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
       "title": "AIエージェントのブログ運用を自動化する5ステップとツール8選を解説",
       "link": "https://ainow.ai/2026/09/16/278362/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e3%2583%2596%25e3%2583%25ad%25e3%2582%25b0%25e9%2581%258b%25e7%2594%25a8%25e3%2582%2592%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%2599%25e3%2582%258b5%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583",
       "date": "2026-09-16T01:20:51+09:00",
@@ -268,17 +279,6 @@
       "desc": "AIエージェントを使えば、ブログのキーワード調査から本文執筆、WordPressへの入稿までを一連の流れとして任せられます。本記事では、任せられる工程の切り分け方から具体的なツール選定までを解説します。 ChatGPTで... The post AIエージェントのブログ運用を自動化する5ステップとツール8選を解説 first appeared on AI専門",
       "img": "",
       "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "OpenAIやAnthropicなどAIベンダごとのAPIの違いを吸収し統合する「Agent Router」、Linux Foundation傘下で業界標準へ",
-      "link": "https://www.publickey1.jp/blog/26/openaianthropicapiagent_routerlinux_foundation.html",
-      "date": "2026-09-15T00:51:16+09:00",
-      "dateLabel": "09/15 00:51",
-      "desc": "MCPやAGENTS.md、Agent2AgentプロトコルなどのAIエージェントに関する関連技術の標準化推進や開発などを行うLinux Foundation傘下のAgentic AI Foundation（AAIF）は、オープンソースとし...",
-      "img": "",
-      "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 34
     }
