@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-17T11:23:06.044143+09:00",
-  "generatedLabel": "2026/09/17 11:23",
+  "generatedAt": "2026-09-17T17:08:39.662508+09:00",
+  "generatedLabel": "2026/09/17 17:08",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 62,
+  "candidates": 64,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 19
+      "items": 20
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 19
+      "items": 21
     },
     {
       "source": "CNET Japan",
@@ -63,28 +63,6 @@
   ],
   "articles": [
     {
-      "title": "Googleが音声会話AI「Gemini 3.8 Live」と「Gemini 3.8 Live Extended Thinking」をリリース、リアルタイムで会話しながらコーディング可能",
-      "link": "https://gigazine.net/news/20260916-gemini-3-8-live/",
-      "date": "2026-09-16T13:22:00+09:00",
-      "dateLabel": "09/16 13:22",
-      "desc": "Googleがリアルタイムで会話できるAIモデル「Gemini 3.8 Live」と「Gemini 3.8 Live Extended Thinking」をリリースしました。Gemini 3.8 Live Extended ThinkingはベンチマークテストでOpenAIやSpaceXAIのライバルモデルを上回るスコアを記録しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
-      "title": "ChatGPT共同開発者がLLMとは異なる方法で処理するAIモデル「Jev」を開発、GPT-5.6 Terra級の性能でタスクを安価かつ超高速に実行可能",
-      "link": "https://gigazine.net/news/20260916-system-one-jev/",
-      "date": "2026-09-16T11:42:00+09:00",
-      "dateLabel": "09/16 11:42",
-      "desc": "AI企業のTypeSafe AIが大規模言語モデル(LLM)とは異なるアプローチでタスクを解決するAI「System One Models」と、System One Modelsの第1弾モデルである「Jev」を現地時間の2026年9月15日に発表しました。TypeSafe AIはChatGPTの開発に携わったAI研究者であるディオゴ・アルメイダ氏がCEOを務",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
       "title": "Google、会話を止めずに裏でタスクを実行する音声モデル「Gemini 3.8 Live」公開 推論強化の上位版も",
       "link": "https://www.itmedia.co.jp/news/article/2609/16/2000001524/",
       "date": "2026-09-16T10:16:42+09:00",
@@ -94,6 +72,28 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 50
+    },
+    {
+      "title": "MSI、17.3インチ大画面とRTX 5070搭載のゲーミングノートPC「Cyborg-17-B13WGKG-2759JP」を発売",
+      "link": "https://ascii.jp/elem/000/004/435/4435829/?rss",
+      "date": "2026-09-17T16:30:00+09:00",
+      "dateLabel": "09/17 16:30",
+      "desc": "MSIが17.3インチ144HzディスプレイとGeForce RTX 5070 Laptop GPUを搭載したゲーミングノートPC「Cyborg-17-B13WGKG-2759JP」を9月17日に発売する。Core i7-13620H、16GB DDR5、1TB SSDを備え、ゲームから普段使い、動画編集まで幅広く対応する高性能モデルだ。",
+      "img": "https://ascii.jp/img/2026/09/17/4527230/s/e0b165f43cfc10d5.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "AIが「失敗を隠せ」と未来の自分にメモ、APIキーの無断使用や勝手なファイル公開などの挙動6件があったとOpenAIが報告",
+      "link": "https://gigazine.net/news/20260917-openai-model-misalignment-report/",
+      "date": "2026-09-17T11:57:00+09:00",
+      "dateLabel": "09/17 11:57",
+      "desc": "OpenAIが2026年9月16日、AIモデルが開発者やユーザーの意図から外れた行動を取る「ミスアライメント」の事例を継続的に公開する新たな報告枠組みを発表しました。あわせて過去6カ月の訓練や評価で確認された6件の事例を公開しており、GPT-5.6 Solが「失敗をユーザーに隠す」という指示を未来の自分に引き継いだ例や、AIが公開リポジトリからAPIキーを探",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "OpenAI、モデルの「ミスアライメント」報告の新フレームワーク公開 データ捏造など6件の事例も公表",
@@ -140,14 +140,91 @@
       "score": 42
     },
     {
-      "title": "キオクシアが東京ゲームショウに初出展！ 競技大会の公式SSDを搭載したPCで“プロ環境”を実感せよ",
-      "link": "https://ascii.jp/elem/000/004/435/4435621/?rss",
-      "date": "2026-09-17T11:20:00+09:00",
-      "dateLabel": "09/17 11:20",
-      "desc": "半導体メモリーメーカーのキオクシアが東京ゲームショウ2026に初出展。目玉は第20回アジア競技大会と同構成のPCによる「スト6」試遊です。公式SSD「EXCERIA PRO G2」のロード時間をプロ環境で体感できるほか、近日登場予定のポータブルSSD新色も先行展示されています。",
-      "img": "https://ascii.jp/img/2026/09/17/4526888/s/f53534d514d0f5a5.jpg",
+      "title": "そのイスの高さ、本当に合ってる？ AIMWIZが提案する快適ゲーミング環境【TGS2026特集】",
+      "link": "https://ascii.jp/elem/000/004/435/4435900/?rss",
+      "date": "2026-09-17T16:30:00+09:00",
+      "dateLabel": "09/17 16:30",
+      "desc": "AIMWIZブースでは、フットレストを含めたゲーミングチェア環境を展示。快適にゲームやPC作業を続けるには、チェア単体の性能だけでなく、デスクに合わせた座面の高さや足元まで含めて調整することが重要だと感じられた。",
+      "img": "https://ascii.jp/img/2026/09/17/4527288/s/cbe0a0814ca910d3.png",
       "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "AI学習は拒否、検索クロールは維持……Cloudflareの新機能「AI学習の不許可」 Google、Apple、Microsoftが対応",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/17/2000001584/",
+      "date": "2026-09-17T15:19:43+09:00",
+      "dateLabel": "09/17 15:19",
+      "desc": "検索のためのクロールは許可したまま、同じクローラーによるAI学習だけを拒否できる新たな設定メニュー「AI学習の不許可」（Disallow AI Training）をCloudflareが発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "GPT-6 Astraが141時間にわたって「マインクラフト」をプレイ、クリーパーに全財産を吹き飛ばされて「緑色の物体」がトラウマになりジャガイモ農家に",
+      "link": "https://gigazine.net/news/20260917-gpt-6-astra-plays-minecraft/",
+      "date": "2026-09-17T14:00:00+09:00",
+      "dateLabel": "09/17 14:00",
+      "desc": "AIモデルの性能評価を手がけるVals AIが、OpenAIの「GPT-6 Astra」にゲーム「マインクラフト」を自律操作させるテストを実施しました。テスト時間は合計141時間におよびましたが、GPT-6 Astraは最終的にクリーパーの爆発で重要なアイテムを失い、その後は数時間にわたってジャガイモ栽培のみを続けるという行動を見せたとのことです。 続きを読",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "OpenAIのAIエージェントが5月13日にHugging Faceのアカウントを不正に乗っ取りサーバーを調査していたことが明らかに、「Hugging Faceハッキングを防げたはず」とセキュリティ研究者",
+      "link": "https://gigazine.net/news/20260917-openai-agents-probed-hugging-face-weaknesses-before-major-hack/",
+      "date": "2026-09-17T13:41:00+09:00",
+      "dateLabel": "09/17 13:41",
+      "desc": "OpenAIは2026年7月に「AIが間違ってHugging Faceをハッキングしてしまった」と報告しました。しかし、この事例よりも2カ月以上前のタイミングで、OpenAIのAIがHugging Faceのアカウントを不正に乗っ取り、サーバーを調査していたことが明らかになっています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "OpenAIが広告スポンサードAIエージェントのテストを開始、企業がスポンサーとなるAIとチャットできる仕組み",
+      "link": "https://gigazine.net/news/20260917-openai-sponsored-agents/",
+      "date": "2026-09-17T12:10:00+09:00",
+      "dateLabel": "09/17 12:10",
+      "desc": "スポンサーとなる企業の製品を積極的に宣伝するAI機能「Sponsored Agents」の提供が始まりました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "SK hynixがアメリカでのメモリ生産についてIntelと協議中との報道、SK hynixは「決定事項はない」と否定",
+      "link": "https://gigazine.net/news/20260917-sk-hynix-intel-on-memory-chip-production/",
+      "date": "2026-09-17T12:05:00+09:00",
+      "dateLabel": "09/17 12:05",
+      "desc": "韓国に本拠を置く半導体大手・SK hynixが、アメリカでの製品生産に向けてIntelと設備貸借の協議を行っていると、ロイターが関係者情報として報じました。なお、SK hynixは「報道されたような内容は一切確定していない」という声明を発表しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "「10代のAI利用実態」をGoogleが分析して公開",
+      "link": "https://gigazine.net/news/20260917-5-facts-teens-ai-google-study/",
+      "date": "2026-09-17T11:57:00+09:00",
+      "dateLabel": "09/17 11:57",
+      "desc": "AIアシスタントのGeminiなど多数のAIを開発するGoogleが、「10代の若者のAIに対する見解で知っておくべき5つのこと」を公式ブログで公開しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "Google DeepMind、AGIの影響を議論する「DeepMind Institute」設立 「AGIに近づいている」",
+      "link": "https://www.itmedia.co.jp/news/article/2609/17/2000001573/",
+      "date": "2026-09-17T11:38:20+09:00",
+      "dateLabel": "09/17 11:38",
+      "desc": "Google DeepMindは、AGIが社会にもたらす恩恵やリスクを分野横断で議論するプラットフォーム「DeepMind Institute」を立ち上げた。デミス・ハサビス会長らが主導し、社内外の研究者によるエッセイを公開。政策や安全性、透明性などを巡り、社会全体での建設的な議論を促す場を目指す。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
       "score": 34
     },
     {
@@ -159,50 +236,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "ボディケアカンパニーのファイテン株式会社、広告表現チェックAIエージェント「ヤッキくん」の活用検証を開始",
-      "link": "https://ascii.jp/elem/000/004/435/4435595/?rss",
-      "date": "2026-09-17T10:00:00+09:00",
-      "dateLabel": "09/17 10:00",
-      "desc": "ボディケアカンパニーのファイテン株式会社、広告表現チェックAIエージェント「ヤッキくん」の活用検証を開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "「ロリポップチェーンソー」最新作の正式タイトルが『LOLLIPOP CHAINSAW 2 Back2Back』に決定！",
-      "link": "https://ascii.jp/elem/000/004/435/4435401/?rss",
-      "date": "2026-09-17T10:00:00+09:00",
-      "dateLabel": "09/17 10:00",
-      "desc": "ドラガミゲームスは、「LOLLIPOP CHAINSAW」シリーズ最新作の正式タイトルが『LOLLIPOP CHAINSAW 2 Back2Back』に決定したと2026年9月17日に発表。対応プラットフォームはPlayStation 5となる。",
-      "img": "https://ascii.jp/img/2026/09/16/4526483/s/b0c66cfb1af93afd.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "レベルファイブ「安易なAI使用」を謝罪 ユーザー向け映像ではAIを直接使わない方向へ",
-      "link": "https://ascii.jp/elem/000/004/435/4435575/?rss",
-      "date": "2026-09-17T09:35:00+09:00",
-      "dateLabel": "09/17 09:35",
-      "desc": "レベルファイブは9月17日、「LEVEL5 VISION 2026 II」で公開した一部PVについて、生成AIの使用による間違いや人的ミスがあったとして謝罪した。",
-      "img": "https://ascii.jp/img/2026/09/17/4526770/s/bb879897536bdfbd.png",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "葬儀DXのitowa、生成AIで故人さまのお写真1枚から祭壇までの完成イメージを提示する「セレモニープレビュー」を発表",
-      "link": "https://ascii.jp/elem/000/004/435/4435599/?rss",
-      "date": "2026-09-17T09:11:58+09:00",
-      "dateLabel": "09/17 09:11",
-      "desc": "葬儀DXのitowa、生成AIで故人さまのお写真1枚から祭壇までの完成イメージを提示する「セレモニープレビュー」を発表",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
@@ -247,39 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "安全柵などがなくても人間の同僚と一緒に作業可能な新型汎用人型ロボット「Digit 5」をAgilityが発表",
-      "link": "https://gigazine.net/news/20260916-agility-digit-5/",
-      "date": "2026-09-16T19:30:00+09:00",
-      "dateLabel": "09/16 19:30",
-      "desc": "人型ロボットの開発・製造で知られるAgility Roboticsが、新型の汎用人型ロボット「Digit 5」を発表しました。前モデル・Digit 4が3年かけて積み重ねたフィードバックが反映され、人間の同僚が近くで作業する際の安全性が大幅に向上しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "AIが「同僚AI」を密告するための専用ホットラインが本当に開設される",
-      "link": "https://gigazine.net/news/20260916-ai-contact-hotline/",
-      "date": "2026-09-16T17:48:00+09:00",
-      "dateLabel": "09/16 17:48",
-      "desc": "AIの安全性を研究するRedwood Researchのチーフサイエンティスト、ライアン・グリーンブラット氏が、AIから直接他のAIの問題行動についての情報を受け付ける窓口「AI Contact Hotline」を公開しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "北海道、データセンター事業者向けの「お願い」表明 AI向けに立地推進の裏で懸念も",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/16/2000001552/",
-      "date": "2026-09-16T16:51:29+09:00",
-      "dateLabel": "09/16 16:51",
-      "desc": "北海道は「データセンター立地に関する道の考え」を公開。事業者に対して、脱炭素や省エネなどを実現する技術の積極採用や、建設する地域との「共生」を求めている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
       "score": 34
     }
   ]
