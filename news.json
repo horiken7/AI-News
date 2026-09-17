@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-17T17:08:39.662508+09:00",
-  "generatedLabel": "2026/09/17 17:08",
+  "generatedAt": "2026-09-17T22:55:45.716829+09:00",
+  "generatedLabel": "2026/09/17 22:55",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 64,
+  "candidates": 63,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 21
+      "items": 20
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "OpenAIのHugging Face攻撃事件などで調査を担当しているAI監査組織「METR」とは何なのか？",
+      "link": "https://gigazine.net/news/20260917-model-evaluation-and-threat-research/",
+      "date": "2026-09-17T22:45:00+09:00",
+      "dateLabel": "09/17 22:45",
+      "desc": "OpenAIのテストモデルによるHugging Faceへの攻撃事件では、OpenAIが対応の一環としてAI監査組織「METR(Model Evaluation and Threat Research：モデルの評価と脅威の調査)」に監査を依頼しています。また、AnthropicもAIの安全性強化のためにMETRと提携したことを発表しています。このMETRが一",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 58
+    },
+    {
       "title": "Google、会話を止めずに裏でタスクを実行する音声モデル「Gemini 3.8 Live」公開 推論強化の上位版も",
       "link": "https://www.itmedia.co.jp/news/article/2609/16/2000001524/",
       "date": "2026-09-16T10:16:42+09:00",
@@ -72,17 +83,6 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 50
-    },
-    {
-      "title": "MSI、17.3インチ大画面とRTX 5070搭載のゲーミングノートPC「Cyborg-17-B13WGKG-2759JP」を発売",
-      "link": "https://ascii.jp/elem/000/004/435/4435829/?rss",
-      "date": "2026-09-17T16:30:00+09:00",
-      "dateLabel": "09/17 16:30",
-      "desc": "MSIが17.3インチ144HzディスプレイとGeForce RTX 5070 Laptop GPUを搭載したゲーミングノートPC「Cyborg-17-B13WGKG-2759JP」を9月17日に発売する。Core i7-13620H、16GB DDR5、1TB SSDを備え、ゲームから普段使い、動画編集まで幅広く対応する高性能モデルだ。",
-      "img": "https://ascii.jp/img/2026/09/17/4527230/s/e0b165f43cfc10d5.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 42
     },
     {
       "title": "AIが「失敗を隠せ」と未来の自分にメモ、APIキーの無断使用や勝手なファイル公開などの挙動6件があったとOpenAIが報告",
@@ -129,25 +129,14 @@
       "score": 42
     },
     {
-      "title": "OpenAI、AI安全性でAnthropic、Google DeepMindと協議中──Bloomberg報道",
-      "link": "https://www.itmedia.co.jp/news/article/2609/16/2000001522/",
-      "date": "2026-09-16T07:13:20+09:00",
-      "dateLabel": "09/16 07:13",
-      "desc": "OpenAIが、AnthropicやGoogle DeepMindとAIの安全性確保に向けて協議を進めているとBloombergが報じた。反トラスト法の適用除外を巡っては米当局の警戒や議会での法案提出など議論が活発化。一方、NVIDIAのフアンCEOは市場原理で安全性と迅速な開発は両立可能として政府の介入に否定的な見方を示した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "そのイスの高さ、本当に合ってる？ AIMWIZが提案する快適ゲーミング環境【TGS2026特集】",
-      "link": "https://ascii.jp/elem/000/004/435/4435900/?rss",
-      "date": "2026-09-17T16:30:00+09:00",
-      "dateLabel": "09/17 16:30",
-      "desc": "AIMWIZブースでは、フットレストを含めたゲーミングチェア環境を展示。快適にゲームやPC作業を続けるには、チェア単体の性能だけでなく、デスクに合わせた座面の高さや足元まで含めて調整することが重要だと感じられた。",
-      "img": "https://ascii.jp/img/2026/09/17/4527288/s/cbe0a0814ca910d3.png",
+      "title": "RTX 5050搭載ゲーミングノートが16万9800円！ MSI「Cyborg 15」がタイムセールに",
+      "link": "https://ascii.jp/elem/000/004/435/4435557/?rss",
+      "date": "2026-09-17T20:00:00+09:00",
+      "dateLabel": "09/17 20:00",
+      "desc": "MSIのゲーミングノートPC「Cyborg 15」がAmazonでタイムセール対象。過去価格224,800円から24％オフの169,800円で販売中。GeForce RTX 5050 Laptop GPUとCore i7-13620Hを搭載し、15.6型フルHD・144Hzディスプレー、16GBメモリ、512GB SSDを備える。RTX 5050搭載ノートを",
+      "img": "https://ascii.jp/img/2026/09/16/4526637/s/00726a974a7b1beb.jpg",
       "src": "ASCII.jp",
-      "cat": "AI全般",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -272,13 +261,24 @@
       "score": 34
     },
     {
-      "title": "AIエージェント「Hermes Agent」新機能「Local Models」でローカルAIモデル「Qwen3.8 27B」を直接動かしてみた、16GBのVRAMでも量子化で高速動作",
-      "link": "https://gigazine.net/news/20260916-hermes-agent-local-ai-model/",
-      "date": "2026-09-16T23:00:00+09:00",
-      "dateLabel": "09/16 23:00",
-      "desc": "Hermes Agentでは以前からOllamaやllama.cppなどで起動したローカルAIモデルを利用できましたが、2026年9月上旬のアップデートでHermes Agent自身がllama.cppやモデルのダウンロード・管理まで行う「Local Models」機能が利用可能になりました。今回はLocal Models機能を使ってローカルでAIモデルを実",
+      "title": "AIエージェントのブログ運用を自動化する5ステップとツール8選を解説",
+      "link": "https://ainow.ai/2026/09/16/278362/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e3%2583%2596%25e3%2583%25ad%25e3%2582%25b0%25e9%2581%258b%25e7%2594%25a8%25e3%2582%2592%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%2599%25e3%2582%258b5%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583",
+      "date": "2026-09-16T01:20:51+09:00",
+      "dateLabel": "09/16 01:20",
+      "desc": "AIエージェントを使えば、ブログのキーワード調査から本文執筆、WordPressへの入稿までを一連の流れとして任せられます。本記事では、任せられる工程の切り分け方から具体的なツール選定までを解説します。 ChatGPTで... The post AIエージェントのブログ運用を自動化する5ステップとツール8選を解説 first appeared on AI専門",
       "img": "",
-      "src": "GIGAZINE",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "OpenAIやAnthropicなどAIベンダごとのAPIの違いを吸収し統合する「Agent Router」、Linux Foundation傘下で業界標準へ",
+      "link": "https://www.publickey1.jp/blog/26/openaianthropicapiagent_routerlinux_foundation.html",
+      "date": "2026-09-15T00:51:16+09:00",
+      "dateLabel": "09/15 00:51",
+      "desc": "MCPやAGENTS.md、Agent2AgentプロトコルなどのAIエージェントに関する関連技術の標準化推進や開発などを行うLinux Foundation傘下のAgentic AI Foundation（AAIF）は、オープンソースとし...",
+      "img": "",
+      "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 34
     }
