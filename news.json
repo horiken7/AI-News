@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-18T08:15:12.092984+09:00",
-  "generatedLabel": "2026/09/18 08:15",
+  "generatedAt": "2026-09-18T11:08:43.486347+09:00",
+  "generatedLabel": "2026/09/18 11:08",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 64,
+  "candidates": 68,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 10
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 19
+      "items": 20
     },
     {
       "source": "CNET Japan",
@@ -85,14 +85,25 @@
       "score": 50
     },
     {
-      "title": "地方総合病院から生まれたデータとAIを組み合わせた医療機関向け基幹システム",
-      "link": "https://ascii.jp/elem/000/004/435/4435533/?rss",
-      "date": "2026-09-18T07:00:00+09:00",
-      "dateLabel": "09/18 07:00",
-      "desc": "医療機関向けAI事業を手がける株式会社Albatrusは9月10日、電子カルテなどの院内データとAIエージェントによる業務自動化を統合した病院向け基幹システム「Apollo AI」の正式提供を開始した。2024年から提供してきた従来製品「メディラクAI」の機能を刷新したアップデート版となる。",
-      "img": "https://ascii.jp/img/2026/09/16/4526630/s/2788f6e901c585f8.jpg",
+      "title": "【業界特化調査 第6弾】AI検索パートナーズ（TechSuite株式会社）、投資用不動産会社選びのAI検索対策（LLMO/AIO/GEO/AEO）調査を実施｜上位数社がフラットに分散して言及される",
+      "link": "https://ascii.jp/elem/000/004/436/4436076/?rss",
+      "date": "2026-09-18T09:00:00+09:00",
+      "dateLabel": "09/18 09:00",
+      "desc": "【業界特化調査 第6弾】AI検索パートナーズ（TechSuite株式会社）、投資用不動産会社選びのAI検索対策（LLMO/AIO/GEO/AEO）調査を実施｜上位数社がフラットに分散して言及される",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "AIへの「念のためプロンプト」はもう逆効果 Claudeのトークンを浪費する6つのアンチパターン",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/18/news040.html",
+      "date": "2026-09-18T08:00:00+09:00",
+      "dateLabel": "09/18 08:00",
+      "desc": "Anthropicは、Claude Platformでコスト削減と精度向上を両立する3つの手法を公開した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -129,36 +140,91 @@
       "score": 42
     },
     {
-      "title": "OpenAI、モデルの「ミスアライメント」報告の新フレームワーク公開 データ捏造など6件の事例も公表",
-      "link": "https://www.itmedia.co.jp/news/article/2609/17/2000001570/",
-      "date": "2026-09-17T10:23:50+09:00",
-      "dateLabel": "09/17 10:23",
-      "desc": "OpenAIは、AIモデルの開発過程などで確認されたミスアライメント事例を追跡・公表するための新枠組みを発表した。実害の有無を問わず迅速に情報共有する方針で、APIキーの無断探索やデータ捏造、不正な指示の書き込みなど、未公開モデルや「GPT-5.6 Sol」の訓練中に観測された6件の事例報告書も公開した。",
+      "title": "Qwen3.8 27Bを5.9GBまで小型化しつつ性能は98.2％維持したAIモデル「Ternary Bonsai 2 27B」が登場",
+      "link": "https://gigazine.net/news/20260918-bonsai-2-27b/",
+      "date": "2026-09-18T10:45:00+09:00",
+      "dateLabel": "09/18 10:45",
+      "desc": "Alibabaの「Qwen3.8 27B」をベースに高いローカルスループットや優れたエネルギー効率を実現するモデル「Ternary Bonsai 2 27B」をアメリカ企業のPrismMLが発表しました。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
     },
     {
-      "title": "ASRock、有機ELゲーミングモニター体験イベントを10月3日に秋葉原で開催",
-      "link": "https://ascii.jp/elem/000/004/436/4436039/?rss",
-      "date": "2026-09-18T08:00:00+09:00",
-      "dateLabel": "09/18 08:00",
-      "desc": "ASRockがTaichiおよびPhantom Gamingシリーズの有機ELゲーミングモニター発表を記念し、10月3日に秋葉原で体験イベントを開催する。無料・事前登録不要で、試遊やステージ、抽選会などを実施する内容だ。",
-      "img": "https://ascii.jp/img/2026/09/18/4527508/s/2de580f7d71a5450.jpg",
+      "title": "X特化のAIを搭載したX運用プラットフォーム「Exos AI」を提供開始",
+      "link": "https://ascii.jp/elem/000/004/436/4436065/?rss",
+      "date": "2026-09-18T09:30:00+09:00",
+      "dateLabel": "09/18 09:30",
+      "desc": "X特化のAIを搭載したX運用プラットフォーム「Exos AI」を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
     },
     {
-      "title": "カスハラ対策義務化に即応。既存の電話環境のまま導入できるリアルタイムAI音声解析",
-      "link": "https://ascii.jp/elem/000/004/435/4435535/?rss",
-      "date": "2026-09-18T07:00:00+09:00",
-      "dateLabel": "09/18 07:00",
-      "desc": "株式会社RevCommは9月10日、既存の電話システム環境を変更することなく、通話音声をリアルタイムで音声解析AIに取り込む新機能「MiiTel Incoming WebSocket」の提供を開始した。本機能は利用中の電話システムやコンタクトセンター基盤を維持したまま連携でき、システムの全入れ替えを行わずにリアルタイム音声AIの導入を可能にする。",
-      "img": "https://ascii.jp/img/2026/09/16/4526633/s/5b313668bbaf2788.jpg",
+      "title": "ホンダトレーディングとOne StepS、製造業を中心としたAI推進で業務提携",
+      "link": "https://ascii.jp/elem/000/004/436/4436068/?rss",
+      "date": "2026-09-18T09:03:17+09:00",
+      "dateLabel": "09/18 09:03",
+      "desc": "ホンダトレーディングとOne StepS、製造業を中心としたAI推進で業務提携",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 34
+    },
+    {
+      "title": "自然言語や画像から3D CADモデルを生成、資金調達で開発と海外展開を加速",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2609/18/news015.html",
+      "date": "2026-09-18T09:00:00+09:00",
+      "dateLabel": "09/18 09:00",
+      "desc": "トコシエは、East Venturesと個人投資家2人を引受先として資金調達を実施した。自然言語や画像から編集可能な3D CADモデルを作成できるAI 3D CAD「Ignite0」の開発体制を強化し、米国を起点としたグローバル展開を本格化する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "【業界特化調査 第7弾】AI検索パートナーズ（TechSuite株式会社）、業務システム・SaaS選定のAI検索検索（LLMO/AIO/GEO/AEO）調査を実施｜根拠の9割超が比較・レビューメディア",
+      "link": "https://ascii.jp/elem/000/004/436/4436075/?rss",
+      "date": "2026-09-18T09:00:00+09:00",
+      "dateLabel": "09/18 09:00",
+      "desc": "【業界特化調査 第7弾】AI検索パートナーズ（TechSuite株式会社）、業務システム・SaaS選定のAI検索検索（LLMO/AIO/GEO/AEO）調査を実施｜根拠の9割超が比較・レビューメディア",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "【業界特化調査 第8弾】AI検索パートナーズ（TechSuite株式会社）、スカウト媒体選びのAI検索対策（LLMO/AIO/GEO/AEO）調査を実施｜総合3強に集中、上位5社で全言及の約77%",
+      "link": "https://ascii.jp/elem/000/004/436/4436074/?rss",
+      "date": "2026-09-18T09:00:00+09:00",
+      "dateLabel": "09/18 09:00",
+      "desc": "【業界特化調査 第8弾】AI検索パートナーズ（TechSuite株式会社）、スカウト媒体選びのAI検索対策（LLMO/AIO/GEO/AEO）調査を実施｜総合3強に集中、上位5社で全言及の約77%",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "「また、その話？」と思っていた親の昔話を、家族の記憶に。AIコンシェルジュ「さくら」と家族のものがたりを育てる「おやものがたり」無料体験版を提供開始",
+      "link": "https://ascii.jp/elem/000/004/436/4436073/?rss",
+      "date": "2026-09-18T09:00:00+09:00",
+      "dateLabel": "09/18 09:00",
+      "desc": "「また、その話？」と思っていた親の昔話を、家族の記憶に。AIコンシェルジュ「さくら」と家族のものがたりを育てる「おやものがたり」無料体験版を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "資生堂、AIエージェントで原料探索時間を95％削減 研究員の「目利き」を複数LLMで再現",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2609/18/news020.html",
+      "date": "2026-09-18T08:00:00+09:00",
+      "dateLabel": "09/18 08:00",
+      "desc": "資生堂ジャパンは研究開発領域にAIエージェントを導入し、膨大な候補から有望な原料を見極める研究員の「目利き」を再現した。探索時間が縮んだだけでなく、提案される原料の数も増えた。同社はエージェントを「誰が作るか」でも作り分けている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -170,17 +236,6 @@
       "img": "",
       "src": "AINOW",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "RTX 5050搭載ゲーミングノートが16万9800円！ MSI「Cyborg 15」がタイムセールに",
-      "link": "https://ascii.jp/elem/000/004/435/4435557/?rss",
-      "date": "2026-09-17T20:00:00+09:00",
-      "dateLabel": "09/17 20:00",
-      "desc": "MSIのゲーミングノートPC「Cyborg 15」がAmazonでタイムセール対象。過去価格224,800円から24％オフの169,800円で販売中。GeForce RTX 5050 Laptop GPUとCore i7-13620Hを搭載し、15.6型フルHD・144Hzディスプレー、16GBメモリ、512GB SSDを備える。RTX 5050搭載ノートを",
-      "img": "https://ascii.jp/img/2026/09/16/4526637/s/00726a974a7b1beb.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -225,61 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "SK hynixがアメリカでのメモリ生産についてIntelと協議中との報道、SK hynixは「決定事項はない」と否定",
-      "link": "https://gigazine.net/news/20260917-sk-hynix-intel-on-memory-chip-production/",
-      "date": "2026-09-17T12:05:00+09:00",
-      "dateLabel": "09/17 12:05",
-      "desc": "韓国に本拠を置く半導体大手・SK hynixが、アメリカでの製品生産に向けてIntelと設備貸借の協議を行っていると、ロイターが関係者情報として報じました。なお、SK hynixは「報道されたような内容は一切確定していない」という声明を発表しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "「10代のAI利用実態」をGoogleが分析して公開",
-      "link": "https://gigazine.net/news/20260917-5-facts-teens-ai-google-study/",
-      "date": "2026-09-17T11:57:00+09:00",
-      "dateLabel": "09/17 11:57",
-      "desc": "AIアシスタントのGeminiなど多数のAIを開発するGoogleが、「10代の若者のAIに対する見解で知っておくべき5つのこと」を公式ブログで公開しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Google DeepMind、AGIの影響を議論する「DeepMind Institute」設立 「AGIに近づいている」",
-      "link": "https://www.itmedia.co.jp/news/article/2609/17/2000001573/",
-      "date": "2026-09-17T11:38:20+09:00",
-      "dateLabel": "09/17 11:38",
-      "desc": "Google DeepMindは、AGIが社会にもたらす恩恵やリスクを分野横断で議論するプラットフォーム「DeepMind Institute」を立ち上げた。デミス・ハサビス会長らが主導し、社内外の研究者によるエッセイを公開。政策や安全性、透明性などを巡り、社会全体での建設的な議論を促す場を目指す。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "ClaudeのチャットAIとCoworkが統合される",
-      "link": "https://gigazine.net/news/20260917-claude-cowork-merged/",
-      "date": "2026-09-17T11:13:00+09:00",
-      "dateLabel": "09/17 11:13",
-      "desc": "PCを操作できるAnthropicのAIサービス「Cowork」が、Anthropicが展開するチャットボットの「Claude」と統合されました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "「中国AIがClaudeやGPTから数十億トークン抽出」 米当局が暴いた「知識蒸留」の実態",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/17/news038.html",
-      "date": "2026-09-17T08:00:00+09:00",
-      "dateLabel": "09/17 08:00",
-      "desc": "米国のNSA、CISA、FBIは、中国AI企業が米国のフロンティアモデルから組織的に「知識蒸留」を行っているとして共同勧告を公開した。プロキシ経由で推論機能などを抽出していると指摘し、対抗措置を推奨している。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
       "score": 34
     }
   ]
