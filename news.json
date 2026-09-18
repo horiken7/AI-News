@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-18T16:43:59.459468+09:00",
-  "generatedLabel": "2026/09/18 16:43",
-  "feedOk": 5,
-  "feedNg": 6,
-  "candidates": 52,
+  "generatedAt": "2026-09-18T21:28:42.819059+09:00",
+  "generatedLabel": "2026/09/18 21:28",
+  "feedOk": 6,
+  "feedNg": 5,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 18
+      "items": 16
     },
     {
       "source": "CNET Japan",
@@ -42,8 +42,8 @@
     },
     {
       "source": "Publickey",
-      "ok": false,
-      "error": "HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 8
     },
     {
       "source": "AINOW",
@@ -71,17 +71,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 58
-    },
-    {
-      "title": "OpenAIのHugging Face攻撃事件などで調査を担当しているAI監査組織「METR」とは何なのか？",
-      "link": "https://gigazine.net/news/20260917-model-evaluation-and-threat-research/",
-      "date": "2026-09-17T22:45:00+09:00",
-      "dateLabel": "09/17 22:45",
-      "desc": "OpenAIのテストモデルによるHugging Faceへの攻撃事件では、OpenAIが対応の一環としてAI監査組織「METR(Model Evaluation and Threat Research：モデルの評価と脅威の調査)」に監査を依頼しています。また、AnthropicもAIの安全性強化のためにMETRと提携したことを発表しています。このMETRが一",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
       "score": 58
     },
     {
@@ -162,15 +151,37 @@
       "score": 42
     },
     {
-      "title": "AIコーディングエージェントにとってハーネスはどれほど重要なのか？",
-      "link": "https://gigazine.net/news/20260917-harnesstax-ai-coding-agents/",
-      "date": "2026-09-17T23:00:00+09:00",
-      "dateLabel": "09/17 23:00",
-      "desc": "AIコーディングエージェントは同じAIモデルを使っていても、モデルを動かすハーネスによって費用や性能が変わる可能性があります。カリフォルニア大学バークレー校とAIランキングサイト「Arena」の共同研究チームは、7つのモデルと3つのハーネスを組み合わせた21通りを2種類のベンチマークで比較しました。その結果、タスクの成功率は大きく変わらない一方、費用には最大",
+      "title": "AI標準化団体設立をめぐりザッカーバーグ＆マスク＆フアンがトランプ大統領とともに反対の方針で同調",
+      "link": "https://gigazine.net/news/20260918-trump-ai-regulation/",
+      "date": "2026-09-18T20:30:00+09:00",
+      "dateLabel": "09/18 20:30",
+      "desc": "Google DeepMindのデミス・ハサビスCEOが提唱した最先端AIを規制するための独立した標準化団体の設立について、Metaのマーク・ザッカーバーグCEOやSpaceXAIのイーロン・マスクCEO、NVIDIAのジェンスン・フアンCEOがトランプ大統領にロビー活動を行い、設立に反対する方向で同調していることがわかりました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "国連が「UN System Data Commons」を公開、約4400万件の統計データをAIから利用可能に",
+      "link": "https://gigazine.net/news/20260918-un-system-data-commons/",
+      "date": "2026-09-18T20:15:00+09:00",
+      "dateLabel": "09/18 20:15",
+      "desc": "国連システムは2026年9月17日、国連機関が公開している統計データをまとめて検索・利用できる「UN System Data Commons」を公開しました。26の国連機関が参加しており、公開時点で約4400万件のデータを収録。自然な文章で統計を検索できるほか、AIエージェントが国連の一次データを取得する仕組みも用意されています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 42
+      "score": 34
+    },
+    {
+      "title": "Anthropic、AI開発の26％を「Claudeが主導」 「1％未満」から半年で急拡大",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/18/2000001634/",
+      "date": "2026-09-18T16:46:34+09:00",
+      "dateLabel": "09/18 16:46",
+      "desc": "同社のAIモデルの研究開発全体を100とした時、AIが主導する仕事が全体の26％を占めた。人間が細かく指示しながらAIと進める仕事と合わせると90％を超えた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "「iPhone 18 Pro」と「iPhone 17 Pro」のベンチマークスコアを比較してA20 Proチップの実力を検証してみた",
@@ -181,28 +192,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "【SORACOM Napter】SIM グループ単位でリモートアクセスの作業者を分ける方法",
-      "link": "https://ascii.jp/elem/000/004/436/4436321/?rss",
-      "date": "2026-09-18T16:00:00+09:00",
-      "dateLabel": "09/18 16:00",
-      "desc": "【SORACOM Napter】SIM グループ単位でリモートアクセスの作業者を分ける方法",
-      "img": "https://ascii.jp/img/2026/09/18/4527982/s/89fbe2a75cfd94fc.png",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "人手不足・属人化に悩む企業のSNS運用を支援。AIによる制作から10媒体への投稿、分析・改善までを一元化する「コノハ ソーシャルAI」提供開始。販売パートナーも募集",
-      "link": "https://ascii.jp/elem/000/004/436/4436330/?rss",
-      "date": "2026-09-18T14:53:23+09:00",
-      "dateLabel": "09/18 14:53",
-      "desc": "人手不足・属人化に悩む企業のSNS運用を支援。AIによる制作から10媒体への投稿、分析・改善までを一元化する「コノハ ソーシャルAI」提供開始。販売パートナーも募集",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -280,6 +269,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "Devinが仮想環境でmacOSの提供開始。Macの実機不要でDevinがコード生成、テスト、デバッグ、実行、AppStore配信前のベータ公開まで実行",
+      "link": "https://www.publickey1.jp/blog/26/devinmacosmacdevinappstore.html",
+      "date": "2026-09-17T01:00:51+09:00",
+      "dateLabel": "09/17 01:00",
+      "desc": "コーディングAIエージェントを提供するDevinが、Devinがホストする仮想環境内でのmacOSの提供を開始しました。 Devinはこれまで仮想環境内でUbuntu LinuxおよびWindowsを提供しており、ここにmacOSが加わりま...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
       "score": 34
     }
   ]
