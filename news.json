@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-19T04:17:54.251929+09:00",
-  "generatedLabel": "2026/09/19 04:17",
+  "generatedAt": "2026-09-19T07:03:08.432701+09:00",
+  "generatedLabel": "2026/09/19 07:03",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 59,
+  "candidates": 60,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -140,17 +140,6 @@
       "score": 42
     },
     {
-      "title": "NVIDIA、Google、Emerald AIがAIデータセンターの電力消費調整を目指すアライアンス設立 Anthropicも参加",
-      "link": "https://www.itmedia.co.jp/news/article/2609/18/2000001599/",
-      "date": "2026-09-18T06:46:04+09:00",
-      "dateLabel": "09/18 06:46",
-      "desc": "NVIDIAとGoogleは新興企業Emerald AIとともに、電力網の状況に応じて消費電力を動的に制御する「柔軟なデータセンター」の普及を目指す新団体「AEMA」を設立した。送電網の容量不足や住民の電気料金高騰懸念がAIインフラ拡充の壁となる中、計算処理の分散や専用ソフトを活用し、既存電力網の効率運用と接続期間の短縮を図る。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
       "title": "「ゲームも、クリエイティブも、AIも。」 日本のハイパフォーマンスPCの世界をリードする！ GALLERIAがアピール【TGS2026特集】",
       "link": "https://ascii.jp/elem/000/004/436/4436467/?rss",
       "date": "2026-09-18T22:25:00+09:00",
@@ -261,14 +250,14 @@
       "score": 34
     },
     {
-      "title": "AIエージェントで自動化できる事務作業10選！判断基準と導入手順を解説",
-      "link": "https://ainow.ai/2026/09/18/278369/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b%25e4%25ba%258b%25e5%258b%2599%25e4%25bd%259c%25e6%25a5%25ad10%25e9%2581%25b8%25ef%25bc%2581%25e5%2588%25a4%25e6%2596%25ad",
-      "date": "2026-09-18T05:58:11+09:00",
-      "dateLabel": "09/18 05:58",
-      "desc": "月末になると請求書の仕訳入力や勤怠の不備チェックに部署総出で追われ、人を増やす以外の解決策が見つからないという状況に陥っていないでしょうか。 AIエージェントは、目的を与えると手順の組み立てから実行までを自ら進めるAIで... The post AIエージェントで自動化できる事務作業10選！判断基準と導入手順を解説 first appeared on AI専",
+      "title": "NVIDIA、Google、Emerald AIがAIデータセンターの電力消費調整を目指すアライアンス設立 Anthropicも参加",
+      "link": "https://www.itmedia.co.jp/news/article/2609/18/2000001599/",
+      "date": "2026-09-18T06:46:04+09:00",
+      "dateLabel": "09/18 06:46",
+      "desc": "NVIDIAとGoogleは新興企業Emerald AIとともに、電力網の状況に応じて消費電力を動的に制御する「柔軟なデータセンター」の普及を目指す新団体「AEMA」を設立した。送電網の容量不足や住民の電気料金高騰懸念がAIインフラ拡充の壁となる中、計算処理の分散や専用ソフトを活用し、既存電力網の効率運用と接続期間の短縮を図る。",
       "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -280,6 +269,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "Devinが仮想環境でmacOSの提供開始。Macの実機不要でDevinがコード生成、テスト、デバッグ、実行、AppStore配信前のベータ公開まで実行",
+      "link": "https://www.publickey1.jp/blog/26/devinmacosmacdevinappstore.html",
+      "date": "2026-09-17T01:00:51+09:00",
+      "dateLabel": "09/17 01:00",
+      "desc": "コーディングAIエージェントを提供するDevinが、Devinがホストする仮想環境内でのmacOSの提供を開始しました。 Devinはこれまで仮想環境内でUbuntu LinuxおよびWindowsを提供しており、ここにmacOSが加わりま...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
       "score": 34
     }
   ]
