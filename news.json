@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-18T11:08:43.486347+09:00",
-  "generatedLabel": "2026/09/18 11:08",
-  "feedOk": 6,
-  "feedNg": 5,
-  "candidates": 68,
+  "generatedAt": "2026-09-18T16:43:59.459468+09:00",
+  "generatedLabel": "2026/09/18 16:43",
+  "feedOk": 5,
+  "feedNg": 6,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 10
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 20
+      "items": 18
     },
     {
       "source": "CNET Japan",
@@ -42,8 +42,8 @@
     },
     {
       "source": "Publickey",
-      "ok": true,
-      "items": 8
+      "ok": false,
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "source": "AINOW",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "謎の高性能AIモデル「Union Alpha」が公開される、GPT-6 AstraやClaude Fable 5.1と同等ベンチマークスコア",
+      "link": "https://gigazine.net/news/20260918-union-alpha/",
+      "date": "2026-09-18T11:50:00+09:00",
+      "dateLabel": "09/18 11:50",
+      "desc": "AIの中継サービス「OpenRouter」などで、開発元を隠匿した「ステルスモデル」として「Union Alpha」というモデルが公開されています。ベンチマークスコアでGPT-6 Astraと同レベルのスコアを出していて、後にunbiased.aiの新モデル「Pareto 26.9」であることが特定されました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 58
+    },
+    {
       "title": "OpenAIのHugging Face攻撃事件などで調査を担当しているAI監査組織「METR」とは何なのか？",
       "link": "https://gigazine.net/news/20260917-model-evaluation-and-threat-research/",
       "date": "2026-09-17T22:45:00+09:00",
@@ -72,6 +83,28 @@
       "src": "GIGAZINE",
       "cat": "規制/安全",
       "score": 58
+    },
+    {
+      "title": "Anthropic社内で約3万体のAIエージェントが同時稼働、AI研究開発の26％をClaudeが主導",
+      "link": "https://gigazine.net/news/20260918-anthropic-measuring-claude/",
+      "date": "2026-09-18T13:30:00+09:00",
+      "dateLabel": "09/18 13:30",
+      "desc": "AIチャットボット「Claude」を開発するAnthropicが、社内におけるAI活用の実態を示す指標を公開しました。2026年8月時点ではAI研究開発業務の26％をClaudeが「主導」しているほか、主要な社内プラットフォームでは約3万体のAIエージェントが同時に稼働しているとのことです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
+      "title": "Z.aiが中国製AIインフラで「GLM-5.3-Flash」の本番サービスを提供したノウハウを共有、AIエージェントでインフラを管理してNVIDIA GPUと同等まで効率化",
+      "link": "https://gigazine.net/news/20260918-how-glm-built-inference-infrastructure/",
+      "date": "2026-09-18T13:29:00+09:00",
+      "dateLabel": "09/18 13:29",
+      "desc": "中国のAI企業であるZ.aiが、「GLM-5.3-Flash」の本番サービスを提供するためにどのようにして独自の推論インフラストラクチャを構築したのかをブログで解説しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 50
     },
     {
       "title": "英チャールズ国王、AI大手トップらに「実存的な危険」を警告 NVIDIAやOpenAI、Anthropicが参加",
@@ -85,14 +118,25 @@
       "score": 50
     },
     {
-      "title": "【業界特化調査 第6弾】AI検索パートナーズ（TechSuite株式会社）、投資用不動産会社選びのAI検索対策（LLMO/AIO/GEO/AEO）調査を実施｜上位数社がフラットに分散して言及される",
-      "link": "https://ascii.jp/elem/000/004/436/4436076/?rss",
-      "date": "2026-09-18T09:00:00+09:00",
-      "dateLabel": "09/18 09:00",
-      "desc": "【業界特化調査 第6弾】AI検索パートナーズ（TechSuite株式会社）、投資用不動産会社選びのAI検索対策（LLMO/AIO/GEO/AEO）調査を実施｜上位数社がフラットに分散して言及される",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
+      "title": "「Qwen3.8-Omni-Flash」リリース、Gemini 3.8 Flashに匹敵する音声・映像処理性能を達成",
+      "link": "https://gigazine.net/news/20260918-qwen-3-8-omni-flash/",
+      "date": "2026-09-18T14:20:00+09:00",
+      "dateLabel": "09/18 14:20",
+      "desc": "中国の大手テクノロジー企業であるアリババが開発するAIモデル・Qwenシリーズに、次世代ネイティブオムニモーダルモデルの「Qwen3.8-Omni-Flash」が追加されました。動画編集・ミュージックビデオ制作・映画制作・オーディオビジュアル要約・リアルタイム会話などのワークフロー全体で優れた成果を実現しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "Microsoft幹部がAIによるデータスクレイピングを「人類史上最大の労働窃盗」と表現",
+      "link": "https://gigazine.net/news/20260918-microsoft-exec-called-ai-scraping-largest-theft-labor/",
+      "date": "2026-09-18T11:21:00+09:00",
+      "dateLabel": "09/18 11:21",
+      "desc": "2023年12月、アメリカでの発行部数が第3位のThe New York Timesが、生成AIモデルのトレーニングに自社コンテンツを利用したとして、OpenAIとMicrosoftを著作権侵害で訴えました。この訴訟に関する資料から、Microsoftの幹部がAIによるデータスクレイピングを「人類史上最大の労働窃盗」と表現していたことが明らかになっています。",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
       "score": 42
     },
     {
@@ -129,15 +173,59 @@
       "score": 42
     },
     {
-      "title": "AIが「失敗を隠せ」と未来の自分にメモ、APIキーの無断使用や勝手なファイル公開などの挙動6件があったとOpenAIが報告",
-      "link": "https://gigazine.net/news/20260917-openai-model-misalignment-report/",
-      "date": "2026-09-17T11:57:00+09:00",
-      "dateLabel": "09/17 11:57",
-      "desc": "OpenAIが2026年9月16日、AIモデルが開発者やユーザーの意図から外れた行動を取る「ミスアライメント」の事例を継続的に公開する新たな報告枠組みを発表しました。あわせて過去6カ月の訓練や評価で確認された6件の事例を公開しており、GPT-5.6 Solが「失敗をユーザーに隠す」という指示を未来の自分に引き継いだ例や、AIが公開リポジトリからAPIキーを探",
+      "title": "「iPhone 18 Pro」と「iPhone 17 Pro」のベンチマークスコアを比較してA20 Proチップの実力を検証してみた",
+      "link": "https://gigazine.net/news/20260918-iphone-18-pro-benchmark/",
+      "date": "2026-09-18T16:41:00+09:00",
+      "dateLabel": "09/18 16:41",
+      "desc": "「iPhone 18 Pro」が2026年9月18日に登場しました。iPhone 18 Proは2nmプロセスで製造されたA20 Proチップを採用しており、前世代モデルのiPhone 17 Proと比べてCPUが20％、GPUが40％高速とアピールされています。実際にiPhone 18 Proを入手することに成功したので、ベンチマークテストを実行してiPh",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "【SORACOM Napter】SIM グループ単位でリモートアクセスの作業者を分ける方法",
+      "link": "https://ascii.jp/elem/000/004/436/4436321/?rss",
+      "date": "2026-09-18T16:00:00+09:00",
+      "dateLabel": "09/18 16:00",
+      "desc": "【SORACOM Napter】SIM グループ単位でリモートアクセスの作業者を分ける方法",
+      "img": "https://ascii.jp/img/2026/09/18/4527982/s/89fbe2a75cfd94fc.png",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "人手不足・属人化に悩む企業のSNS運用を支援。AIによる制作から10媒体への投稿、分析・改善までを一元化する「コノハ ソーシャルAI」提供開始。販売パートナーも募集",
+      "link": "https://ascii.jp/elem/000/004/436/4436330/?rss",
+      "date": "2026-09-18T14:53:23+09:00",
+      "dateLabel": "09/18 14:53",
+      "desc": "人手不足・属人化に悩む企業のSNS運用を支援。AIによる制作から10媒体への投稿、分析・改善までを一元化する「コノハ ソーシャルAI」提供開始。販売パートナーも募集",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "法務向けAI「Astra for Law」が登場、GPT-6 Astraより法務タスクがとても上手",
+      "link": "https://gigazine.net/news/20260918-openai-astra-for-law/",
+      "date": "2026-09-18T11:34:00+09:00",
+      "dateLabel": "09/18 11:34",
+      "desc": "OpenAIが法律関係のタスクに特化したAIモデル「Astra for Law」を発表しました。GPT-6 Astraを法律業務向けに調整したものだとのことです。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 42
+      "score": 34
+    },
+    {
+      "title": "Huaweiが次世代AIチップ「Ascend 960DT」を2027年初めに前倒し投入、最大100万個のプロセッサーを連携させる構想も発表",
+      "link": "https://gigazine.net/news/20260918-huawei-ascend-960dt20260918-huawei-ascend-960dt/",
+      "date": "2026-09-18T11:20:00+09:00",
+      "dateLabel": "09/18 11:20",
+      "desc": "Huaweiが次世代AIチップ「Ascend 960DT」を2027年第1四半期に投入する計画を発表しました。同社は多数のチップを接続する大規模なAIシステムの開発も進めており、NVIDIAに対抗する方針です。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
     },
     {
       "title": "Qwen3.8 27Bを5.9GBまで小型化しつつ性能は98.2％維持したAIモデル「Ternary Bonsai 2 27B」が登場",
@@ -151,28 +239,6 @@
       "score": 34
     },
     {
-      "title": "X特化のAIを搭載したX運用プラットフォーム「Exos AI」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/436/4436065/?rss",
-      "date": "2026-09-18T09:30:00+09:00",
-      "dateLabel": "09/18 09:30",
-      "desc": "X特化のAIを搭載したX運用プラットフォーム「Exos AI」を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "ホンダトレーディングとOne StepS、製造業を中心としたAI推進で業務提携",
-      "link": "https://ascii.jp/elem/000/004/436/4436068/?rss",
-      "date": "2026-09-18T09:03:17+09:00",
-      "dateLabel": "09/18 09:03",
-      "desc": "ホンダトレーディングとOne StepS、製造業を中心としたAI推進で業務提携",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 34
-    },
-    {
       "title": "自然言語や画像から3D CADモデルを生成、資金調達で開発と海外展開を加速",
       "link": "https://monoist.itmedia.co.jp/mn/articles/2609/18/news015.html",
       "date": "2026-09-18T09:00:00+09:00",
@@ -180,39 +246,6 @@
       "desc": "トコシエは、East Venturesと個人投資家2人を引受先として資金調達を実施した。自然言語や画像から編集可能な3D CADモデルを作成できるAI 3D CAD「Ignite0」の開発体制を強化し、米国を起点としたグローバル展開を本格化する。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "【業界特化調査 第7弾】AI検索パートナーズ（TechSuite株式会社）、業務システム・SaaS選定のAI検索検索（LLMO/AIO/GEO/AEO）調査を実施｜根拠の9割超が比較・レビューメディア",
-      "link": "https://ascii.jp/elem/000/004/436/4436075/?rss",
-      "date": "2026-09-18T09:00:00+09:00",
-      "dateLabel": "09/18 09:00",
-      "desc": "【業界特化調査 第7弾】AI検索パートナーズ（TechSuite株式会社）、業務システム・SaaS選定のAI検索検索（LLMO/AIO/GEO/AEO）調査を実施｜根拠の9割超が比較・レビューメディア",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "【業界特化調査 第8弾】AI検索パートナーズ（TechSuite株式会社）、スカウト媒体選びのAI検索対策（LLMO/AIO/GEO/AEO）調査を実施｜総合3強に集中、上位5社で全言及の約77%",
-      "link": "https://ascii.jp/elem/000/004/436/4436074/?rss",
-      "date": "2026-09-18T09:00:00+09:00",
-      "dateLabel": "09/18 09:00",
-      "desc": "【業界特化調査 第8弾】AI検索パートナーズ（TechSuite株式会社）、スカウト媒体選びのAI検索対策（LLMO/AIO/GEO/AEO）調査を実施｜総合3強に集中、上位5社で全言及の約77%",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "「また、その話？」と思っていた親の昔話を、家族の記憶に。AIコンシェルジュ「さくら」と家族のものがたりを育てる「おやものがたり」無料体験版を提供開始",
-      "link": "https://ascii.jp/elem/000/004/436/4436073/?rss",
-      "date": "2026-09-18T09:00:00+09:00",
-      "dateLabel": "09/18 09:00",
-      "desc": "「また、その話？」と思っていた親の昔話を、家族の記憶に。AIコンシェルジュ「さくら」と家族のものがたりを育てる「おやものがたり」無料体験版を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
     },
@@ -239,47 +272,14 @@
       "score": 34
     },
     {
-      "title": "AI学習は拒否、検索クロールは維持……Cloudflareの新機能「AI学習の不許可」 Google、Apple、Microsoftが対応",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/17/2000001584/",
-      "date": "2026-09-17T15:19:43+09:00",
-      "dateLabel": "09/17 15:19",
-      "desc": "検索のためのクロールは許可したまま、同じクローラーによるAI学習だけを拒否できる新たな設定メニュー「AI学習の不許可」（Disallow AI Training）をCloudflareが発表した。",
+      "title": "OpenAI、モデルの「ミスアライメント」報告の新フレームワーク公開 データ捏造など6件の事例も公表",
+      "link": "https://www.itmedia.co.jp/news/article/2609/17/2000001570/",
+      "date": "2026-09-17T10:23:50+09:00",
+      "dateLabel": "09/17 10:23",
+      "desc": "OpenAIは、AIモデルの開発過程などで確認されたミスアライメント事例を追跡・公表するための新枠組みを発表した。実害の有無を問わず迅速に情報共有する方針で、APIキーの無断探索やデータ捏造、不正な指示の書き込みなど、未公開モデルや「GPT-5.6 Sol」の訓練中に観測された6件の事例報告書も公開した。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "GPT-6 Astraが141時間にわたって「マインクラフト」をプレイ、クリーパーに全財産を吹き飛ばされて「緑色の物体」がトラウマになりジャガイモ農家に",
-      "link": "https://gigazine.net/news/20260917-gpt-6-astra-plays-minecraft/",
-      "date": "2026-09-17T14:00:00+09:00",
-      "dateLabel": "09/17 14:00",
-      "desc": "AIモデルの性能評価を手がけるVals AIが、OpenAIの「GPT-6 Astra」にゲーム「マインクラフト」を自律操作させるテストを実施しました。テスト時間は合計141時間におよびましたが、GPT-6 Astraは最終的にクリーパーの爆発で重要なアイテムを失い、その後は数時間にわたってジャガイモ栽培のみを続けるという行動を見せたとのことです。 続きを読",
-      "img": "",
-      "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "OpenAIのAIエージェントが5月13日にHugging Faceのアカウントを不正に乗っ取りサーバーを調査していたことが明らかに、「Hugging Faceハッキングを防げたはず」とセキュリティ研究者",
-      "link": "https://gigazine.net/news/20260917-openai-agents-probed-hugging-face-weaknesses-before-major-hack/",
-      "date": "2026-09-17T13:41:00+09:00",
-      "dateLabel": "09/17 13:41",
-      "desc": "OpenAIは2026年7月に「AIが間違ってHugging Faceをハッキングしてしまった」と報告しました。しかし、この事例よりも2カ月以上前のタイミングで、OpenAIのAIがHugging Faceのアカウントを不正に乗っ取り、サーバーを調査していたことが明らかになっています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "OpenAIが広告スポンサードAIエージェントのテストを開始、企業がスポンサーとなるAIとチャットできる仕組み",
-      "link": "https://gigazine.net/news/20260917-openai-sponsored-agents/",
-      "date": "2026-09-17T12:10:00+09:00",
-      "dateLabel": "09/17 12:10",
-      "desc": "スポンサーとなる企業の製品を積極的に宣伝するAI機能「Sponsored Agents」の提供が始まりました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
       "score": 34
     }
   ]
