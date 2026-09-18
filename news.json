@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-18T21:28:42.819059+09:00",
-  "generatedLabel": "2026/09/18 21:28",
+  "generatedAt": "2026-09-19T01:48:13.365546+09:00",
+  "generatedLabel": "2026/09/19 01:48",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 58,
+  "candidates": 59,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -151,6 +151,17 @@
       "score": 42
     },
     {
+      "title": "「ゲームも、クリエイティブも、AIも。」 日本のハイパフォーマンスPCの世界をリードする！ GALLERIAがアピール【TGS2026特集】",
+      "link": "https://ascii.jp/elem/000/004/436/4436467/?rss",
+      "date": "2026-09-18T22:25:00+09:00",
+      "dateLabel": "09/18 22:25",
+      "desc": "東京ゲームショウ2026では、サードウェーブのハイパフォーマンスPCブランド「GALLERIA」が大規模なブースを展開。初日でのステージでは、永井社長がGALLERIAの今後の展開について語るとともに、新製品を発表した。",
+      "img": "https://ascii.jp/img/2026/09/18/4528143/s/9cc09c6b10ac80c1.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "AI標準化団体設立をめぐりザッカーバーグ＆マスク＆フアンがトランプ大統領とともに反対の方針で同調",
       "link": "https://gigazine.net/news/20260918-trump-ai-regulation/",
       "date": "2026-09-18T20:30:00+09:00",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Devinが仮想環境でmacOSの提供開始。Macの実機不要でDevinがコード生成、テスト、デバッグ、実行、AppStore配信前のベータ公開まで実行",
-      "link": "https://www.publickey1.jp/blog/26/devinmacosmacdevinappstore.html",
-      "date": "2026-09-17T01:00:51+09:00",
-      "dateLabel": "09/17 01:00",
-      "desc": "コーディングAIエージェントを提供するDevinが、Devinがホストする仮想環境内でのmacOSの提供を開始しました。 Devinはこれまで仮想環境内でUbuntu LinuxおよびWindowsを提供しており、ここにmacOSが加わりま...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
       "score": 34
     }
   ]
