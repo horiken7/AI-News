@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-19T14:16:48.294257+09:00",
-  "generatedLabel": "2026/09/19 14:16",
+  "generatedAt": "2026-09-19T18:56:07.960993+09:00",
+  "generatedLabel": "2026/09/19 18:56",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 58,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -63,26 +63,15 @@
   ],
   "articles": [
     {
-      "title": "WellSkate AI、AIエージェントがビデオ会議へ参加する新機能を提供開始",
-      "link": "https://ascii.jp/elem/000/004/436/4436483/?rss",
-      "date": "2026-09-19T02:19:25+09:00",
-      "dateLabel": "09/19 02:19",
-      "desc": "WellSkate AI、AIエージェントがビデオ会議へ参加する新機能を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
-      "title": "謎の高性能AIモデル「Union Alpha」が公開される、GPT-6 AstraやClaude Fable 5.1と同等ベンチマークスコア",
-      "link": "https://gigazine.net/news/20260918-union-alpha/",
-      "date": "2026-09-18T11:50:00+09:00",
-      "dateLabel": "09/18 11:50",
-      "desc": "AIの中継サービス「OpenRouter」などで、開発元を隠匿した「ステルスモデル」として「Union Alpha」というモデルが公開されています。ベンチマークスコアでGPT-6 Astraと同レベルのスコアを出していて、後にunbiased.aiの新モデル「Pareto 26.9」であることが特定されました。 続きを読む...",
+      "title": "無料でAIエージェントの追跡・評価・プロンプト管理・本番環境の監視ができる「Opik」、セルフホスト可能",
+      "link": "https://gigazine.net/news/20260919-opik/",
+      "date": "2026-09-19T18:00:00+09:00",
+      "dateLabel": "09/19 18:00",
+      "desc": "AIアプリの開発ではLLMが生成した回答を確認するだけでなく、どの処理を経由して回答に到達したのかを追跡し、改善後の結果を比較する作業も必要になります。これらの検証に必要なトレーシング・評価・プロンプト管理・本番監視を1つの画面にまとめたオープンソースの「Opik」が公開されています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 50
+      "cat": "AIエージェント/業務",
+      "score": 42
     },
     {
       "title": "ハッカーがAnthropicのClaudeを使ってOpenAIに侵入",
@@ -93,17 +82,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "「Qwen3.8-Omni-Flash」リリース、Gemini 3.8 Flashに匹敵する音声・映像処理性能を達成",
-      "link": "https://gigazine.net/news/20260918-qwen-3-8-omni-flash/",
-      "date": "2026-09-18T14:20:00+09:00",
-      "dateLabel": "09/18 14:20",
-      "desc": "中国の大手テクノロジー企業であるアリババが開発するAIモデル・Qwenシリーズに、次世代ネイティブオムニモーダルモデルの「Qwen3.8-Omni-Flash」が追加されました。動画編集・ミュージックビデオ制作・映画制作・オーディオビジュアル要約・リアルタイム会話などのワークフロー全体で優れた成果を実現しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -140,6 +118,17 @@
       "score": 42
     },
     {
+      "title": "文字起こし字幕編集ソフト「Zimaku」を公開。話者ごとの自動分離とAIチャット修正で、文字起こしから字幕修正を簡単に。ローカルでの文字起こしは無料。",
+      "link": "https://ascii.jp/elem/000/004/436/4436505/?rss",
+      "date": "2026-09-19T14:00:00+09:00",
+      "dateLabel": "09/19 14:00",
+      "desc": "文字起こし字幕編集ソフト「Zimaku」を公開。話者ごとの自動分離とAIチャット修正で、文字起こしから字幕修正を簡単に。ローカルでの文字起こしは無料。",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "東京ゲームショウと生成AI ゲームの祭典で商談見込むベンダーたち",
       "link": "https://www.itmedia.co.jp/news/article/2609/19/2000001639/",
       "date": "2026-09-19T12:00:00+09:00",
@@ -148,39 +137,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "生成AIで、アニメ制作を効率化。プエンテ「AI Anime Factory」、企画から映像化まで最短1週間・従来コストの1/3～1/2以下で提供開始",
-      "link": "https://ascii.jp/elem/000/004/436/4436482/?rss",
-      "date": "2026-09-19T02:57:06+09:00",
-      "dateLabel": "09/19 02:57",
-      "desc": "生成AIで、アニメ制作を効率化。プエンテ「AI Anime Factory」、企画から映像化まで最短1週間・従来コストの1/3～1/2以下で提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "「ゲームも、クリエイティブも、AIも。」 日本のハイパフォーマンスPCの世界をリードする！ GALLERIAがアピール【TGS2026特集】",
-      "link": "https://ascii.jp/elem/000/004/436/4436467/?rss",
-      "date": "2026-09-18T22:25:00+09:00",
-      "dateLabel": "09/18 22:25",
-      "desc": "東京ゲームショウ2026では、サードウェーブのハイパフォーマンスPCブランド「GALLERIA」が大規模なブースを展開。初日でのステージでは、永井社長がGALLERIAの今後の展開について語るとともに、新製品を発表した。",
-      "img": "https://ascii.jp/img/2026/09/18/4528143/s/9cc09c6b10ac80c1.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "SpiralAI、累計1500万発話で話題になった『RyzaChat:AI』の「ソフィーのアトリエ」版『SophieChat:AI』の開発を東京ゲームショウ2026で発表。9月１8日より事前登録開始。",
-      "link": "https://ascii.jp/elem/000/004/436/4436484/?rss",
-      "date": "2026-09-18T22:23:45+09:00",
-      "dateLabel": "09/18 22:23",
-      "desc": "SpiralAI、累計1500万発話で話題になった『RyzaChat:AI』の「ソフィーのアトリエ」版『SophieChat:AI』の開発を東京ゲームショウ2026で発表。9月１8日より事前登録開始。",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -206,25 +162,14 @@
       "score": 34
     },
     {
-      "title": "Anthropic、AI開発の26％を「Claudeが主導」 「1％未満」から半年で急拡大",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/18/2000001634/",
-      "date": "2026-09-18T16:46:34+09:00",
-      "dateLabel": "09/18 16:46",
-      "desc": "同社のAIモデルの研究開発全体を100とした時、AIが主導する仕事が全体の26％を占めた。人間が細かく指示しながらAIと進める仕事と合わせると90％を超えた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "「iPhone 18 Pro」と「iPhone 17 Pro」のベンチマークスコアを比較してA20 Proチップの実力を検証してみた",
-      "link": "https://gigazine.net/news/20260918-iphone-18-pro-benchmark/",
-      "date": "2026-09-18T16:41:00+09:00",
-      "dateLabel": "09/18 16:41",
-      "desc": "「iPhone 18 Pro」が2026年9月18日に登場しました。iPhone 18 Proは2nmプロセスで製造されたA20 Proチップを採用しており、前世代モデルのiPhone 17 Proと比べてCPUが20％、GPUが40％高速とアピールされています。実際にiPhone 18 Proを入手することに成功したので、ベンチマークテストを実行してiPh",
+      "title": "「Qwen3.8-Omni-Flash」リリース、Gemini 3.8 Flashに匹敵する音声・映像処理性能を達成",
+      "link": "https://gigazine.net/news/20260918-qwen-3-8-omni-flash/",
+      "date": "2026-09-18T14:20:00+09:00",
+      "dateLabel": "09/18 14:20",
+      "desc": "中国の大手テクノロジー企業であるアリババが開発するAIモデル・Qwenシリーズに、次世代ネイティブオムニモーダルモデルの「Qwen3.8-Omni-Flash」が追加されました。動画編集・ミュージックビデオ制作・映画制作・オーディオビジュアル要約・リアルタイム会話などのワークフロー全体で優れた成果を実現しています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "半導体/GPU",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -281,6 +226,61 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 28
+    },
+    {
+      "title": "TailscaleのVPNにAIエージェントを組み込める「Aperture」正式リリース。AIによるTailscaleやノードの操作も可能に",
+      "link": "https://www.publickey1.jp/blog/26/tailscalevpnaiapertureaitailscale.html",
+      "date": "2026-09-14T00:08:50+09:00",
+      "dateLabel": "09/14 00:08",
+      "desc": "メッシュ型のVPNサービスを提供するTailscaleは、AIゲートウェイサービス「Aperture」の正式リリースを発表しました。 Aperture is officially GA.Give AI agents the models, ...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 28
+    },
+    {
+      "title": "テキストAIの透かし・ウォーターマークは技術的に困難な上に簡単に削除できる",
+      "link": "https://gigazine.net/news/20260919-text-ai-watermarks/",
+      "date": "2026-09-19T16:00:00+09:00",
+      "dateLabel": "09/19 16:00",
+      "desc": "2026年8月より欧州連合(EU)でAI法が施行され、EU域内ではAIによって生成されたコンテンツであることを検出可能にする義務が課されるようになり、EU域内で事業を行う大規模言語モデル(LLM)プロバイダーに対してAI生成物であることを示す「ウォーターマーク」の適用が事実上義務付けられるようになりました。しかしながら、テキストに対するAIウォーターマーク技",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "診断だけでは終わらせない。Zept株式会社、AI活用課題を現場実装する「外部AI事業部」を正式ローンチ",
+      "link": "https://ascii.jp/elem/000/004/436/4436500/?rss",
+      "date": "2026-09-19T12:00:00+09:00",
+      "dateLabel": "09/19 12:00",
+      "desc": "診断だけでは終わらせない。Zept株式会社、AI活用課題を現場実装する「外部AI事業部」を正式ローンチ",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
+      "title": "民泊開業支援・運営代行「CocoPaku」のEnagic株式会社、「賃貸・民泊サミット2026 in長崎」を共催｜約100名が来場し地方民泊のリアルに熱視線",
+      "link": "https://ascii.jp/elem/000/004/436/4436497/?rss",
+      "date": "2026-09-19T10:28:16+09:00",
+      "dateLabel": "09/19 10:28",
+      "desc": "民泊開業支援・運営代行「CocoPaku」のEnagic株式会社、「賃貸・民泊サミット2026 in長崎」を共催｜約100名が来場し地方民泊のリアルに熱視線",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "生徒が自分のテーマを楽しみながら自走できるようになるには？慶應義塾大学 安宅和人研究室とマイパレ社、AIの「関わり方」の違いを検証する実証実験の協力校・生徒を募集",
+      "link": "https://ascii.jp/elem/000/004/436/4436493/?rss",
+      "date": "2026-09-19T10:00:00+09:00",
+      "dateLabel": "09/19 10:00",
+      "desc": "生徒が自分のテーマを楽しみながら自走できるようになるには？慶應義塾大学 安宅和人研究室とマイパレ社、AIの「関わり方」の違いを検証する実証実験の協力校・生徒を募集",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     }
   ]
 }
