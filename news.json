@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-19T07:03:08.432701+09:00",
-  "generatedLabel": "2026/09/19 07:03",
+  "generatedAt": "2026-09-19T09:46:58.038616+09:00",
+  "generatedLabel": "2026/09/19 09:46",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 60,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 20
+      "items": 19
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -96,17 +96,6 @@
       "score": 50
     },
     {
-      "title": "英チャールズ国王、AI大手トップらに「実存的な危険」を警告 NVIDIAやOpenAI、Anthropicが参加",
-      "link": "https://www.itmedia.co.jp/news/article/2609/18/2000001600/",
-      "date": "2026-09-18T07:23:23+09:00",
-      "dateLabel": "09/18 07:23",
-      "desc": "英国王室は、チャールズ国王主催のAIサミットを開催した。NVIDIAのフアンCEOやGoogle DeepMindのハサビス会長ら業界幹部が参加。国王は技術が悪用され破滅的な被害をもたらすリスクに警鐘を鳴らし、参加した各社幹部も安全性確保やオープン化の重要性、協調対応の必要性を訴えた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
       "title": "「Qwen3.8-Omni-Flash」リリース、Gemini 3.8 Flashに匹敵する音声・映像処理性能を達成",
       "link": "https://gigazine.net/news/20260918-qwen-3-8-omni-flash/",
       "date": "2026-09-18T14:20:00+09:00",
@@ -129,14 +118,14 @@
       "score": 42
     },
     {
-      "title": "AIへの「念のためプロンプト」はもう逆効果 Claudeのトークンを浪費する6つのアンチパターン",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/18/news040.html",
-      "date": "2026-09-18T08:00:00+09:00",
-      "dateLabel": "09/18 08:00",
-      "desc": "Anthropicは、Claude Platformでコスト削減と精度向上を両立する3つの手法を公開した。",
+      "title": "英チャールズ国王、AI大手トップらに「実存的な危険」を警告 NVIDIAやOpenAI、Anthropicが参加",
+      "link": "https://www.itmedia.co.jp/news/article/2609/18/2000001600/",
+      "date": "2026-09-18T07:23:23+09:00",
+      "dateLabel": "09/18 07:23",
+      "desc": "英国王室は、チャールズ国王主催のAIサミットを開催した。NVIDIAのフアンCEOやGoogle DeepMindのハサビス会長ら業界幹部が参加。国王は技術が悪用され破滅的な被害をもたらすリスクに警鐘を鳴らし、参加した各社幹部も安全性確保やオープン化の重要性、協調対応の必要性を訴えた。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
+      "cat": "半導体/GPU",
       "score": 42
     },
     {
@@ -228,25 +217,14 @@
       "score": 34
     },
     {
-      "title": "自然言語や画像から3D CADモデルを生成、資金調達で開発と海外展開を加速",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2609/18/news015.html",
-      "date": "2026-09-18T09:00:00+09:00",
-      "dateLabel": "09/18 09:00",
-      "desc": "トコシエは、East Venturesと個人投資家2人を引受先として資金調達を実施した。自然言語や画像から編集可能な3D CADモデルを作成できるAI 3D CAD「Ignite0」の開発体制を強化し、米国を起点としたグローバル展開を本格化する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "資生堂、AIエージェントで原料探索時間を95％削減 研究員の「目利き」を複数LLMで再現",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2609/18/news020.html",
+      "title": "AIへの「念のためプロンプト」はもう逆効果 Claudeのトークンを浪費する6つのアンチパターン",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/18/news040.html",
       "date": "2026-09-18T08:00:00+09:00",
       "dateLabel": "09/18 08:00",
-      "desc": "資生堂ジャパンは研究開発領域にAIエージェントを導入し、膨大な候補から有望な原料を見極める研究員の「目利き」を再現した。探索時間が縮んだだけでなく、提案される原料の数も増えた。同社はエージェントを「誰が作るか」でも作り分けている。",
+      "desc": "Anthropicは、Claude Platformでコスト削減と精度向上を両立する3つの手法を公開した。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -261,17 +239,6 @@
       "score": 34
     },
     {
-      "title": "OpenAI、モデルの「ミスアライメント」報告の新フレームワーク公開 データ捏造など6件の事例も公表",
-      "link": "https://www.itmedia.co.jp/news/article/2609/17/2000001570/",
-      "date": "2026-09-17T10:23:50+09:00",
-      "dateLabel": "09/17 10:23",
-      "desc": "OpenAIは、AIモデルの開発過程などで確認されたミスアライメント事例を追跡・公表するための新枠組みを発表した。実害の有無を問わず迅速に情報共有する方針で、APIキーの無断探索やデータ捏造、不正な指示の書き込みなど、未公開モデルや「GPT-5.6 Sol」の訓練中に観測された6件の事例報告書も公開した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "Devinが仮想環境でmacOSの提供開始。Macの実機不要でDevinがコード生成、テスト、デバッグ、実行、AppStore配信前のベータ公開まで実行",
       "link": "https://www.publickey1.jp/blog/26/devinmacosmacdevinappstore.html",
       "date": "2026-09-17T01:00:51+09:00",
@@ -281,6 +248,39 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 34
+    },
+    {
+      "title": "AIエージェントのブログ運用を自動化する5ステップとツール8選を解説",
+      "link": "https://ainow.ai/2026/09/16/278362/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e3%2583%2596%25e3%2583%25ad%25e3%2582%25b0%25e9%2581%258b%25e7%2594%25a8%25e3%2582%2592%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%2599%25e3%2582%258b5%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583",
+      "date": "2026-09-16T01:20:51+09:00",
+      "dateLabel": "09/16 01:20",
+      "desc": "AIエージェントを使えば、ブログのキーワード調査から本文執筆、WordPressへの入稿までを一連の流れとして任せられます。本記事では、任せられる工程の切り分け方から具体的なツール選定までを解説します。 ChatGPTで... The post AIエージェントのブログ運用を自動化する5ステップとツール8選を解説 first appeared on AI専門",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 28
+    },
+    {
+      "title": "OpenAIやAnthropicなどAIベンダごとのAPIの違いを吸収し統合する「Agent Router」、Linux Foundation傘下で業界標準へ",
+      "link": "https://www.publickey1.jp/blog/26/openaianthropicapiagent_routerlinux_foundation.html",
+      "date": "2026-09-15T00:51:16+09:00",
+      "dateLabel": "09/15 00:51",
+      "desc": "MCPやAGENTS.md、Agent2AgentプロトコルなどのAIエージェントに関する関連技術の標準化推進や開発などを行うLinux Foundation傘下のAgentic AI Foundation（AAIF）は、オープンソースとし...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 28
+    },
+    {
+      "title": "TailscaleのVPNにAIエージェントを組み込める「Aperture」正式リリース。AIによるTailscaleやノードの操作も可能に",
+      "link": "https://www.publickey1.jp/blog/26/tailscalevpnaiapertureaitailscale.html",
+      "date": "2026-09-14T00:08:50+09:00",
+      "dateLabel": "09/14 00:08",
+      "desc": "メッシュ型のVPNサービスを提供するTailscaleは、AIゲートウェイサービス「Aperture」の正式リリースを発表しました。 Aperture is officially GA.Give AI agents the models, ...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 28
     }
   ]
 }
