@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-19T09:46:58.038616+09:00",
-  "generatedLabel": "2026/09/19 09:46",
+  "generatedAt": "2026-09-19T14:16:48.294257+09:00",
+  "generatedLabel": "2026/09/19 14:16",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 57,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 16
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "WellSkate AI、AIエージェントがビデオ会議へ参加する新機能を提供開始",
+      "link": "https://ascii.jp/elem/000/004/436/4436483/?rss",
+      "date": "2026-09-19T02:19:25+09:00",
+      "dateLabel": "09/19 02:19",
+      "desc": "WellSkate AI、AIエージェントがビデオ会議へ参加する新機能を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
       "title": "謎の高性能AIモデル「Union Alpha」が公開される、GPT-6 AstraやClaude Fable 5.1と同等ベンチマークスコア",
       "link": "https://gigazine.net/news/20260918-union-alpha/",
       "date": "2026-09-18T11:50:00+09:00",
@@ -71,29 +82,18 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 58
-    },
-    {
-      "title": "Anthropic社内で約3万体のAIエージェントが同時稼働、AI研究開発の26％をClaudeが主導",
-      "link": "https://gigazine.net/news/20260918-anthropic-measuring-claude/",
-      "date": "2026-09-18T13:30:00+09:00",
-      "dateLabel": "09/18 13:30",
-      "desc": "AIチャットボット「Claude」を開発するAnthropicが、社内におけるAI活用の実態を示す指標を公開しました。2026年8月時点ではAI研究開発業務の26％をClaudeが「主導」しているほか、主要な社内プラットフォームでは約3万体のAIエージェントが同時に稼働しているとのことです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
       "score": 50
     },
     {
-      "title": "Z.aiが中国製AIインフラで「GLM-5.3-Flash」の本番サービスを提供したノウハウを共有、AIエージェントでインフラを管理してNVIDIA GPUと同等まで効率化",
-      "link": "https://gigazine.net/news/20260918-how-glm-built-inference-infrastructure/",
-      "date": "2026-09-18T13:29:00+09:00",
-      "dateLabel": "09/18 13:29",
-      "desc": "中国のAI企業であるZ.aiが、「GLM-5.3-Flash」の本番サービスを提供するためにどのようにして独自の推論インフラストラクチャを構築したのかをブログで解説しています。 続きを読む...",
+      "title": "ハッカーがAnthropicのClaudeを使ってOpenAIに侵入",
+      "link": "https://gigazine.net/news/20260919-hack-openai-claude/",
+      "date": "2026-09-19T11:00:00+09:00",
+      "dateLabel": "09/19 11:00",
+      "desc": "サイバーセキュリティスタートアップ・Hacktron AIのセキュリティ研究者が、AnthropicのClaudeを使ってOpenAIの内部データにアクセスすることに成功したと報告しています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 50
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "「Qwen3.8-Omni-Flash」リリース、Gemini 3.8 Flashに匹敵する音声・映像処理性能を達成",
@@ -107,14 +107,25 @@
       "score": 42
     },
     {
-      "title": "Microsoft幹部がAIによるデータスクレイピングを「人類史上最大の労働窃盗」と表現",
-      "link": "https://gigazine.net/news/20260918-microsoft-exec-called-ai-scraping-largest-theft-labor/",
-      "date": "2026-09-18T11:21:00+09:00",
-      "dateLabel": "09/18 11:21",
-      "desc": "2023年12月、アメリカでの発行部数が第3位のThe New York Timesが、生成AIモデルのトレーニングに自社コンテンツを利用したとして、OpenAIとMicrosoftを著作権侵害で訴えました。この訴訟に関する資料から、Microsoftの幹部がAIによるデータスクレイピングを「人類史上最大の労働窃盗」と表現していたことが明らかになっています。",
+      "title": "Anthropic社内で約3万体のAIエージェントが同時稼働、AI研究開発の26％をClaudeが主導",
+      "link": "https://gigazine.net/news/20260918-anthropic-measuring-claude/",
+      "date": "2026-09-18T13:30:00+09:00",
+      "dateLabel": "09/18 13:30",
+      "desc": "AIチャットボット「Claude」を開発するAnthropicが、社内におけるAI活用の実態を示す指標を公開しました。2026年8月時点ではAI研究開発業務の26％をClaudeが「主導」しているほか、主要な社内プラットフォームでは約3万体のAIエージェントが同時に稼働しているとのことです。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "規制/安全",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "Z.aiが中国製AIインフラで「GLM-5.3-Flash」の本番サービスを提供したノウハウを共有、AIエージェントでインフラを管理してNVIDIA GPUと同等まで効率化",
+      "link": "https://gigazine.net/news/20260918-how-glm-built-inference-infrastructure/",
+      "date": "2026-09-18T13:29:00+09:00",
+      "dateLabel": "09/18 13:29",
+      "desc": "中国のAI企業であるZ.aiが、「GLM-5.3-Flash」の本番サービスを提供するためにどのようにして独自の推論インフラストラクチャを構築したのかをブログで解説しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
       "score": 42
     },
     {
@@ -129,12 +140,45 @@
       "score": 42
     },
     {
+      "title": "東京ゲームショウと生成AI ゲームの祭典で商談見込むベンダーたち",
+      "link": "https://www.itmedia.co.jp/news/article/2609/19/2000001639/",
+      "date": "2026-09-19T12:00:00+09:00",
+      "dateLabel": "09/19 12:00",
+      "desc": "ゲームでのAI活用と言えば、オンライン発表会での動画生成AI使用が物議を醸したレベルファイブをはじめ、まだまだユーザー側の拒否感が強い領域でもある。こうした状況下で、ベンダーはどういったソリューションを、どんな企業にプッシュしようとしているのか。TGS2026現地で何社かに話を聞いてみた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "生成AIで、アニメ制作を効率化。プエンテ「AI Anime Factory」、企画から映像化まで最短1週間・従来コストの1/3～1/2以下で提供開始",
+      "link": "https://ascii.jp/elem/000/004/436/4436482/?rss",
+      "date": "2026-09-19T02:57:06+09:00",
+      "dateLabel": "09/19 02:57",
+      "desc": "生成AIで、アニメ制作を効率化。プエンテ「AI Anime Factory」、企画から映像化まで最短1週間・従来コストの1/3～1/2以下で提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
       "title": "「ゲームも、クリエイティブも、AIも。」 日本のハイパフォーマンスPCの世界をリードする！ GALLERIAがアピール【TGS2026特集】",
       "link": "https://ascii.jp/elem/000/004/436/4436467/?rss",
       "date": "2026-09-18T22:25:00+09:00",
       "dateLabel": "09/18 22:25",
       "desc": "東京ゲームショウ2026では、サードウェーブのハイパフォーマンスPCブランド「GALLERIA」が大規模なブースを展開。初日でのステージでは、永井社長がGALLERIAの今後の展開について語るとともに、新製品を発表した。",
       "img": "https://ascii.jp/img/2026/09/18/4528143/s/9cc09c6b10ac80c1.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "SpiralAI、累計1500万発話で話題になった『RyzaChat:AI』の「ソフィーのアトリエ」版『SophieChat:AI』の開発を東京ゲームショウ2026で発表。9月１8日より事前登録開始。",
+      "link": "https://ascii.jp/elem/000/004/436/4436484/?rss",
+      "date": "2026-09-18T22:23:45+09:00",
+      "dateLabel": "09/18 22:23",
+      "desc": "SpiralAI、累計1500万発話で話題になった『RyzaChat:AI』の「ソフィーのアトリエ」版『SophieChat:AI』の開発を東京ゲームショウ2026で発表。9月１8日より事前登録開始。",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
@@ -181,39 +225,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "法務向けAI「Astra for Law」が登場、GPT-6 Astraより法務タスクがとても上手",
-      "link": "https://gigazine.net/news/20260918-openai-astra-for-law/",
-      "date": "2026-09-18T11:34:00+09:00",
-      "dateLabel": "09/18 11:34",
-      "desc": "OpenAIが法律関係のタスクに特化したAIモデル「Astra for Law」を発表しました。GPT-6 Astraを法律業務向けに調整したものだとのことです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Huaweiが次世代AIチップ「Ascend 960DT」を2027年初めに前倒し投入、最大100万個のプロセッサーを連携させる構想も発表",
-      "link": "https://gigazine.net/news/20260918-huawei-ascend-960dt20260918-huawei-ascend-960dt/",
-      "date": "2026-09-18T11:20:00+09:00",
-      "dateLabel": "09/18 11:20",
-      "desc": "Huaweiが次世代AIチップ「Ascend 960DT」を2027年第1四半期に投入する計画を発表しました。同社は多数のチップを接続する大規模なAIシステムの開発も進めており、NVIDIAに対抗する方針です。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "Qwen3.8 27Bを5.9GBまで小型化しつつ性能は98.2％維持したAIモデル「Ternary Bonsai 2 27B」が登場",
-      "link": "https://gigazine.net/news/20260918-bonsai-2-27b/",
-      "date": "2026-09-18T10:45:00+09:00",
-      "dateLabel": "09/18 10:45",
-      "desc": "Alibabaの「Qwen3.8 27B」をベースに高いローカルスループットや優れたエネルギー効率を実現するモデル「Ternary Bonsai 2 27B」をアメリカ企業のPrismMLが発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -266,17 +277,6 @@
       "date": "2026-09-15T00:51:16+09:00",
       "dateLabel": "09/15 00:51",
       "desc": "MCPやAGENTS.md、Agent2AgentプロトコルなどのAIエージェントに関する関連技術の標準化推進や開発などを行うLinux Foundation傘下のAgentic AI Foundation（AAIF）は、オープンソースとし...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 28
-    },
-    {
-      "title": "TailscaleのVPNにAIエージェントを組み込める「Aperture」正式リリース。AIによるTailscaleやノードの操作も可能に",
-      "link": "https://www.publickey1.jp/blog/26/tailscalevpnaiapertureaitailscale.html",
-      "date": "2026-09-14T00:08:50+09:00",
-      "dateLabel": "09/14 00:08",
-      "desc": "メッシュ型のVPNサービスを提供するTailscaleは、AIゲートウェイサービス「Aperture」の正式リリースを発表しました。 Aperture is officially GA.Give AI agents the models, ...",
       "img": "",
       "src": "Publickey",
       "cat": "AIエージェント/業務",
