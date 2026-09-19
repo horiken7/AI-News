@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-19T22:36:00.082783+09:00",
-  "generatedLabel": "2026/09/19 22:36",
+  "generatedAt": "2026-09-20T01:53:57.380816+09:00",
+  "generatedLabel": "2026/09/20 01:53",
   "feedOk": 6,
   "feedNg": 5,
   "candidates": 57,
@@ -203,7 +203,7 @@
       "img": "",
       "src": "Publickey",
       "cat": "AIエージェント/業務",
-      "score": 34
+      "score": 28
     },
     {
       "title": "AIエージェントのブログ運用を自動化する5ステップとツール8選を解説",
