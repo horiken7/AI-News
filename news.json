@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-20T06:55:25.450550+09:00",
-  "generatedLabel": "2026/09/20 06:55",
+  "generatedAt": "2026-09-20T08:46:46.963449+09:00",
+  "generatedLabel": "2026/09/20 08:46",
   "feedOk": 6,
   "feedNg": 5,
   "candidates": 57,
@@ -129,6 +129,17 @@
       "score": 42
     },
     {
+      "title": "AI攻撃は「調べて対応」では間に合わない ゼットスケーラーがSOCをAIエージェント化",
+      "link": "https://kn.itmedia.co.jp/kn/article/2609/20/2000001661/",
+      "date": "2026-09-20T07:00:00+09:00",
+      "dateLabel": "09/20 07:00",
+      "desc": "AIによってサイバー攻撃のスピードが増す一方、企業の防御現場では人が大量のアラートを調査し、対応を判断している。人手不足も重なる中、ゼットスケーラーはAIエージェントを活用し、検知から調査、対応までを自動化する新たなSOCを打ち出した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
       "title": "ゲーム開発に「ローカルLLM」を取り込む必然性とは？ メインメモリーの96GBをVRAM化するAI特化「DAIV」が示すPCの変革【TGS2026特集】",
       "link": "https://ascii.jp/elem/000/004/436/4436507/?rss",
       "date": "2026-09-19T19:30:00+09:00",
@@ -184,17 +195,6 @@
       "score": 34
     },
     {
-      "title": "NVIDIA、Google、Emerald AIがAIデータセンターの電力消費調整を目指すアライアンス設立 Anthropicも参加",
-      "link": "https://www.itmedia.co.jp/news/article/2609/18/2000001599/",
-      "date": "2026-09-18T06:46:04+09:00",
-      "dateLabel": "09/18 06:46",
-      "desc": "NVIDIAとGoogleは新興企業Emerald AIとともに、電力網の状況に応じて消費電力を動的に制御する「柔軟なデータセンター」の普及を目指す新団体「AEMA」を設立した。送電網の容量不足や住民の電気料金高騰懸念がAIインフラ拡充の壁となる中、計算処理の分散や専用ソフトを活用し、既存電力網の効率運用と接続期間の短縮を図る。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
       "title": "Devinが仮想環境でmacOSの提供開始。Macの実機不要でDevinがコード生成、テスト、デバッグ、実行、AppStore配信前のベータ公開まで実行",
       "link": "https://www.publickey1.jp/blog/26/devinmacosmacdevinappstore.html",
       "date": "2026-09-17T01:00:51+09:00",
@@ -239,6 +239,28 @@
       "score": 28
     },
     {
+      "title": "AIを入れても仕事は変わらない？ アビームとNotionが「企業ナレッジ」に注目する理由",
+      "link": "https://kn.itmedia.co.jp/kn/article/2609/20/2000001660/",
+      "date": "2026-09-20T07:00:00+09:00",
+      "dateLabel": "09/20 07:00",
+      "desc": "AIエージェントの導入が進む一方、企業固有の業務を任せるには、社内に分散する知識や個人の経験則をAIが使える形に整える必要がある。アビームとNotionは、ナレッジを起点に業務と組織を変える。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "AIを入れても「最後は人頼み」 自動化の穴を「AI＋人」で埋める新たなBPOサービス",
+      "link": "https://kn.itmedia.co.jp/kn/article/2609/20/2000001625/",
+      "date": "2026-09-20T07:00:00+09:00",
+      "dateLabel": "09/20 07:00",
+      "desc": "RPAや生成AIを導入しても、例外処理や目視確認、システム更新など「最後に人がやる仕事」は残る。Generative Partnersは、こうした自動化しきれない業務をAIと人力で分担し、BPOとして丸ごと引き受けるサービスを始めた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
       "title": "Ryzen AI 5 340搭載で24万円台！ 23.8型ディスプレーの一体型デスクトップPCがFMV直販「目玉品」で登場！",
       "link": "https://ascii.jp/elem/000/004/435/4435939/?rss",
       "date": "2026-09-19T20:00:00+09:00",
@@ -258,28 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "診断だけでは終わらせない。Zept株式会社、AI活用課題を現場実装する「外部AI事業部」を正式ローンチ",
-      "link": "https://ascii.jp/elem/000/004/436/4436500/?rss",
-      "date": "2026-09-19T12:00:00+09:00",
-      "dateLabel": "09/19 12:00",
-      "desc": "診断だけでは終わらせない。Zept株式会社、AI活用課題を現場実装する「外部AI事業部」を正式ローンチ",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "民泊開業支援・運営代行「CocoPaku」のEnagic株式会社、「賃貸・民泊サミット2026 in長崎」を共催｜約100名が来場し地方民泊のリアルに熱視線",
-      "link": "https://ascii.jp/elem/000/004/436/4436497/?rss",
-      "date": "2026-09-19T10:28:16+09:00",
-      "dateLabel": "09/19 10:28",
-      "desc": "民泊開業支援・運営代行「CocoPaku」のEnagic株式会社、「賃貸・民泊サミット2026 in長崎」を共催｜約100名が来場し地方民泊のリアルに熱視線",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 26
     }
   ]
