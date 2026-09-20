@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-20T11:19:50.737651+09:00",
-  "generatedLabel": "2026/09/20 11:19",
+  "generatedAt": "2026-09-20T17:03:02.940746+09:00",
+  "generatedLabel": "2026/09/20 17:03",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 54,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "Claude・ChatGPTのサブスクで使えるデスクトップAIエージェントアプリ「Kari」をGotoAIが無償公開",
+      "link": "https://ascii.jp/elem/000/004/436/4436526/?rss",
+      "date": "2026-09-20T10:46:53+09:00",
+      "dateLabel": "09/20 10:46",
+      "desc": "Claude・ChatGPTのサブスクで使えるデスクトップAIエージェントアプリ「Kari」をGotoAIが無償公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 58
+    },
+    {
       "title": "VRAM容量32GBで30万円未満なIntelグラボ「Intel Arc Pro B70 Creator 32GB」でローカルLLM「Qwen3.8 27B」や動画生成AI「MiniMax H3」を実行して生成速度を確かめてみた",
       "link": "https://gigazine.net/news/20260919-arc-pro-b70-llm-review/",
       "date": "2026-09-19T20:00:00+09:00",
@@ -74,22 +85,22 @@
       "score": 50
     },
     {
+      "title": "「Jev」とは “文章を書かないAI”がなぜ話題に？ 元OpenAI研究者が開発、「“スマートなif文”と考えてみて」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/20/2000001664/",
+      "date": "2026-09-20T16:00:26+09:00",
+      "dateLabel": "09/20 16:00",
+      "desc": "米スタートアップのTypeSafe AIが9月15日（現地時間）に発表したAIモデル「Jev」（ジェヴ）が、海外や日本のAIコミュニティで大きな注目を集めている。この記事では、Jevとは何か、LLMとはどう違うのかなどを整理する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "無料でAIエージェントの追跡・評価・プロンプト管理・本番環境の監視ができる「Opik」、セルフホスト可能",
       "link": "https://gigazine.net/news/20260919-opik/",
       "date": "2026-09-19T18:00:00+09:00",
       "dateLabel": "09/19 18:00",
       "desc": "AIアプリの開発ではLLMが生成した回答を確認するだけでなく、どの処理を経由して回答に到達したのかを追跡し、改善後の結果を比較する作業も必要になります。これらの検証に必要なトレーシング・評価・プロンプト管理・本番監視を1つの画面にまとめたオープンソースの「Opik」が公開されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "Anthropic社内で約3万体のAIエージェントが同時稼働、AI研究開発の26％をClaudeが主導",
-      "link": "https://gigazine.net/news/20260918-anthropic-measuring-claude/",
-      "date": "2026-09-18T13:30:00+09:00",
-      "dateLabel": "09/18 13:30",
-      "desc": "AIチャットボット「Claude」を開発するAnthropicが、社内におけるAI活用の実態を示す指標を公開しました。2026年8月時点ではAI研究開発業務の26％をClaudeが「主導」しているほか、主要な社内プラットフォームでは約3万体のAIエージェントが同時に稼働しているとのことです。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
@@ -105,6 +116,17 @@
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
       "score": 42
+    },
+    {
+      "title": "【Amazon限定・7日間】13.4インチ大画面「P13 セット版」が50％OFF！53,900円→26,900円、Android 16×Gemini AI対応タブレットを在庫限りで販売",
+      "link": "https://ascii.jp/elem/000/004/436/4436532/?rss",
+      "date": "2026-09-20T08:00:00+09:00",
+      "dateLabel": "09/20 08:00",
+      "desc": "【Amazon限定・7日間】13.4インチ大画面「P13 セット版」が50％OFF！53,900円→26,900円、Android 16×Gemini AI対応タブレットを在庫限りで販売",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "AI攻撃は「調べて対応」では間に合わない ゼットスケーラーがSOCをAIエージェント化",
@@ -129,28 +151,6 @@
       "score": 34
     },
     {
-      "title": "文字起こし字幕編集ソフト「Zimaku」を公開。話者ごとの自動分離とAIチャット修正で、文字起こしから字幕修正を簡単に。ローカルでの文字起こしは無料。",
-      "link": "https://ascii.jp/elem/000/004/436/4436505/?rss",
-      "date": "2026-09-19T14:00:00+09:00",
-      "dateLabel": "09/19 14:00",
-      "desc": "文字起こし字幕編集ソフト「Zimaku」を公開。話者ごとの自動分離とAIチャット修正で、文字起こしから字幕修正を簡単に。ローカルでの文字起こしは無料。",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "東京ゲームショウと生成AI ゲームの祭典で商談見込むベンダーたち",
-      "link": "https://www.itmedia.co.jp/news/article/2609/19/2000001639/",
-      "date": "2026-09-19T12:00:00+09:00",
-      "dateLabel": "09/19 12:00",
-      "desc": "ゲームでのAI活用と言えば、オンライン発表会での動画生成AI使用が物議を醸したレベルファイブをはじめ、まだまだユーザー側の拒否感が強い領域でもある。こうした状況下で、ベンダーはどういったソリューションを、どんな企業にプッシュしようとしているのか。TGS2026現地で何社かに話を聞いてみた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
       "title": "ハッカーがAnthropicのClaudeを使ってOpenAIに侵入",
       "link": "https://gigazine.net/news/20260919-hack-openai-claude/",
       "date": "2026-09-19T11:00:00+09:00",
@@ -159,17 +159,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "「Qwen3.8-Omni-Flash」リリース、Gemini 3.8 Flashに匹敵する音声・映像処理性能を達成",
-      "link": "https://gigazine.net/news/20260918-qwen-3-8-omni-flash/",
-      "date": "2026-09-18T14:20:00+09:00",
-      "dateLabel": "09/18 14:20",
-      "desc": "中国の大手テクノロジー企業であるアリババが開発するAIモデル・Qwenシリーズに、次世代ネイティブオムニモーダルモデルの「Qwen3.8-Omni-Flash」が追加されました。動画編集・ミュージックビデオ制作・映画制作・オーディオビジュアル要約・リアルタイム会話などのワークフロー全体で優れた成果を実現しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -228,6 +217,28 @@
       "score": 28
     },
     {
+      "title": "沖縄県知事選、当選者の得票率を誤差0.1ポイントで再現。AIペルソナによる投票行動シミュレーション",
+      "link": "https://ascii.jp/elem/000/004/436/4436534/?rss",
+      "date": "2026-09-20T12:00:00+09:00",
+      "dateLabel": "09/20 12:00",
+      "desc": "沖縄県知事選、当選者の得票率を誤差0.1ポイントで再現。AIペルソナによる投票行動シミュレーション",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "16年間放置されていたSQLiteのバグを突き止めた方法",
+      "link": "https://gigazine.net/news/20260920-sqlite-wal-reset-bug/",
+      "date": "2026-09-20T12:00:00+09:00",
+      "dateLabel": "09/20 12:00",
+      "desc": "VPN構築・ネットワーク接続サービスのTailscaleが、自社のサービスが安定しない理由について数ヶ月にわたり調査を行ったところ、データベースのSQLiteに16年間潜在していたバグが原因であったことが判明しました。Tailscaleは「何が問題だったのか」「どう対応したのか」「SQLiteの不具合発見にどう貢献したか」についての説明を自社のブログにて公開",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "AIを入れても仕事は変わらない？ アビームとNotionが「企業ナレッジ」に注目する理由",
       "link": "https://kn.itmedia.co.jp/kn/article/2609/20/2000001660/",
       "date": "2026-09-20T07:00:00+09:00",
@@ -261,25 +272,14 @@
       "score": 26
     },
     {
-      "title": "テキストAIの透かし・ウォーターマークは技術的に困難な上に簡単に削除できる",
-      "link": "https://gigazine.net/news/20260919-text-ai-watermarks/",
-      "date": "2026-09-19T16:00:00+09:00",
-      "dateLabel": "09/19 16:00",
-      "desc": "2026年8月より欧州連合(EU)でAI法が施行され、EU域内ではAIによって生成されたコンテンツであることを検出可能にする義務が課されるようになり、EU域内で事業を行う大規模言語モデル(LLM)プロバイダーに対してAI生成物であることを示す「ウォーターマーク」の適用が事実上義務付けられるようになりました。しかしながら、テキストに対するAIウォーターマーク技",
+      "title": "東京ゲームショウと生成AI ゲームの祭典で商談見込むベンダーたち",
+      "link": "https://www.itmedia.co.jp/news/article/2609/19/2000001639/",
+      "date": "2026-09-19T12:00:00+09:00",
+      "dateLabel": "09/19 12:00",
+      "desc": "ゲームでのAI活用と言えば、オンライン発表会での動画生成AI使用が物議を醸したレベルファイブをはじめ、まだまだユーザー側の拒否感が強い領域でもある。こうした状況下で、ベンダーはどういったソリューションを、どんな企業にプッシュしようとしているのか。TGS2026現地で何社かに話を聞いてみた。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "AI標準化団体設立をめぐりザッカーバーグ＆マスク＆フアンがトランプ大統領とともに反対の方針で同調",
-      "link": "https://gigazine.net/news/20260918-trump-ai-regulation/",
-      "date": "2026-09-18T20:30:00+09:00",
-      "dateLabel": "09/18 20:30",
-      "desc": "Google DeepMindのデミス・ハサビスCEOが提唱した最先端AIを規制するための独立した標準化団体の設立について、Metaのマーク・ザッカーバーグCEOやSpaceXAIのイーロン・マスクCEO、NVIDIAのジェンスン・フアンCEOがトランプ大統領にロビー活動を行い、設立に反対する方向で同調していることがわかりました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
+      "src": "ITmedia AI+",
+      "cat": "生成AI/マルチモーダル",
       "score": 26
     }
   ]
