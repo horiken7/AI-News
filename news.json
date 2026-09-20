@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-20T17:03:02.940746+09:00",
-  "generatedLabel": "2026/09/20 17:03",
+  "generatedAt": "2026-09-20T22:18:31.908480+09:00",
+  "generatedLabel": "2026/09/20 22:18",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 55,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -74,17 +74,6 @@
       "score": 58
     },
     {
-      "title": "VRAM容量32GBで30万円未満なIntelグラボ「Intel Arc Pro B70 Creator 32GB」でローカルLLM「Qwen3.8 27B」や動画生成AI「MiniMax H3」を実行して生成速度を確かめてみた",
-      "link": "https://gigazine.net/news/20260919-arc-pro-b70-llm-review/",
-      "date": "2026-09-19T20:00:00+09:00",
-      "dateLabel": "09/19 20:00",
-      "desc": "大規模言語モデル(LLM)や画像・動画生成AIを高速実行するにはモデル全体を高速なVRAMに収める必要があります。しかし、AI需要に伴うグラフィックボードの価格高騰によって、VRAM容量32GBのNVIDIA GeForce RTX 5090は100万円を超えるようになってしまいました。一方で、Intel製GPU「Intel Arc Pro B70」を搭載し",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
       "title": "「Jev」とは “文章を書かないAI”がなぜ話題に？ 元OpenAI研究者が開発、「“スマートなif文”と考えてみて」",
       "link": "https://www.itmedia.co.jp/aiplus/article/2609/20/2000001664/",
       "date": "2026-09-20T16:00:26+09:00",
@@ -96,14 +85,14 @@
       "score": 42
     },
     {
-      "title": "無料でAIエージェントの追跡・評価・プロンプト管理・本番環境の監視ができる「Opik」、セルフホスト可能",
-      "link": "https://gigazine.net/news/20260919-opik/",
-      "date": "2026-09-19T18:00:00+09:00",
-      "dateLabel": "09/19 18:00",
-      "desc": "AIアプリの開発ではLLMが生成した回答を確認するだけでなく、どの処理を経由して回答に到達したのかを追跡し、改善後の結果を比較する作業も必要になります。これらの検証に必要なトレーシング・評価・プロンプト管理・本番監視を1つの画面にまとめたオープンソースの「Opik」が公開されています。 続きを読む...",
+      "title": "VRAM容量32GBで30万円未満なIntelグラボ「Intel Arc Pro B70 Creator 32GB」でローカルLLM「Qwen3.8 27B」や動画生成AI「MiniMax H3」を実行して生成速度を確かめてみた",
+      "link": "https://gigazine.net/news/20260919-arc-pro-b70-llm-review/",
+      "date": "2026-09-19T20:00:00+09:00",
+      "dateLabel": "09/19 20:00",
+      "desc": "大規模言語モデル(LLM)や画像・動画生成AIを高速実行するにはモデル全体を高速なVRAMに収める必要があります。しかし、AI需要に伴うグラフィックボードの価格高騰によって、VRAM容量32GBのNVIDIA GeForce RTX 5090は100万円を超えるようになってしまいました。一方で、Intel製GPU「Intel Arc Pro B70」を搭載し",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
+      "cat": "半導体/GPU",
       "score": 42
     },
     {
@@ -140,14 +129,14 @@
       "score": 34
     },
     {
-      "title": "ゲーム開発に「ローカルLLM」を取り込む必然性とは？ メインメモリーの96GBをVRAM化するAI特化「DAIV」が示すPCの変革【TGS2026特集】",
-      "link": "https://ascii.jp/elem/000/004/436/4436507/?rss",
-      "date": "2026-09-19T19:30:00+09:00",
-      "dateLabel": "09/19 19:30",
-      "desc": "ゲーム開発現場でどこまでローカルLLMや生成AIの実運用が可能なのか。新清士氏が実際に開発で活用している知見を披露。ローカルLLM運用の実践的意義と、そこから見えてきたPCハードウェアのパラダイムシフトについてレポートする。",
-      "img": "https://ascii.jp/img/2026/09/19/4528297/s/6ab98f5a8dc3c430.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
+      "title": "無料でAIエージェントの追跡・評価・プロンプト管理・本番環境の監視ができる「Opik」、セルフホスト可能",
+      "link": "https://gigazine.net/news/20260919-opik/",
+      "date": "2026-09-19T18:00:00+09:00",
+      "dateLabel": "09/19 18:00",
+      "desc": "AIアプリの開発ではLLMが生成した回答を確認するだけでなく、どの処理を経由して回答に到達したのかを追跡し、改善後の結果を比較する作業も必要になります。これらの検証に必要なトレーシング・評価・プロンプト管理・本番監視を1つの画面にまとめたオープンソースの「Opik」が公開されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -261,17 +250,6 @@
       "score": 26
     },
     {
-      "title": "Ryzen AI 5 340搭載で24万円台！ 23.8型ディスプレーの一体型デスクトップPCがFMV直販「目玉品」で登場！",
-      "link": "https://ascii.jp/elem/000/004/435/4435939/?rss",
-      "date": "2026-09-19T20:00:00+09:00",
-      "dateLabel": "09/19 20:00",
-      "desc": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
-      "img": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
       "title": "東京ゲームショウと生成AI ゲームの祭典で商談見込むベンダーたち",
       "link": "https://www.itmedia.co.jp/news/article/2609/19/2000001639/",
       "date": "2026-09-19T12:00:00+09:00",
@@ -280,6 +258,28 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "生成AI/マルチモーダル",
+      "score": 26
+    },
+    {
+      "title": "AI標準化団体設立をめぐりザッカーバーグ＆マスク＆フアンがトランプ大統領とともに反対の方針で同調",
+      "link": "https://gigazine.net/news/20260918-trump-ai-regulation/",
+      "date": "2026-09-18T20:30:00+09:00",
+      "dateLabel": "09/18 20:30",
+      "desc": "Google DeepMindのデミス・ハサビスCEOが提唱した最先端AIを規制するための独立した標準化団体の設立について、Metaのマーク・ザッカーバーグCEOやSpaceXAIのイーロン・マスクCEO、NVIDIAのジェンスン・フアンCEOがトランプ大統領にロビー活動を行い、設立に反対する方向で同調していることがわかりました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "国連が「UN System Data Commons」を公開、約4400万件の統計データをAIから利用可能に",
+      "link": "https://gigazine.net/news/20260918-un-system-data-commons/",
+      "date": "2026-09-18T20:15:00+09:00",
+      "dateLabel": "09/18 20:15",
+      "desc": "国連システムは2026年9月17日、国連機関が公開している統計データをまとめて検索・利用できる「UN System Data Commons」を公開しました。26の国連機関が参加しており、公開時点で約4400万件のデータを収録。自然な文章で統計を検索できるほか、AIエージェントが国連の一次データを取得する仕組みも用意されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
