@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-20T08:46:46.963449+09:00",
-  "generatedLabel": "2026/09/20 08:46",
+  "generatedAt": "2026-09-20T11:19:50.737651+09:00",
+  "generatedLabel": "2026/09/20 11:19",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 57,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -85,17 +85,6 @@
       "score": 42
     },
     {
-      "title": "ハッカーがAnthropicのClaudeを使ってOpenAIに侵入",
-      "link": "https://gigazine.net/news/20260919-hack-openai-claude/",
-      "date": "2026-09-19T11:00:00+09:00",
-      "dateLabel": "09/19 11:00",
-      "desc": "サイバーセキュリティスタートアップ・Hacktron AIのセキュリティ研究者が、AnthropicのClaudeを使ってOpenAIの内部データにアクセスすることに成功したと報告しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "Anthropic社内で約3万体のAIエージェントが同時稼働、AI研究開発の26％をClaudeが主導",
       "link": "https://gigazine.net/news/20260918-anthropic-measuring-claude/",
       "date": "2026-09-18T13:30:00+09:00",
@@ -104,17 +93,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "Z.aiが中国製AIインフラで「GLM-5.3-Flash」の本番サービスを提供したノウハウを共有、AIエージェントでインフラを管理してNVIDIA GPUと同等まで効率化",
-      "link": "https://gigazine.net/news/20260918-how-glm-built-inference-infrastructure/",
-      "date": "2026-09-18T13:29:00+09:00",
-      "dateLabel": "09/18 13:29",
-      "desc": "中国のAI企業であるZ.aiが、「GLM-5.3-Flash」の本番サービスを提供するためにどのようにして独自の推論インフラストラクチャを構築したのかをブログで解説しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
       "score": 42
     },
     {
@@ -170,6 +148,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "ハッカーがAnthropicのClaudeを使ってOpenAIに侵入",
+      "link": "https://gigazine.net/news/20260919-hack-openai-claude/",
+      "date": "2026-09-19T11:00:00+09:00",
+      "dateLabel": "09/19 11:00",
+      "desc": "サイバーセキュリティスタートアップ・Hacktron AIのセキュリティ研究者が、AnthropicのClaudeを使ってOpenAIの内部データにアクセスすることに成功したと報告しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -280,6 +269,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "AI標準化団体設立をめぐりザッカーバーグ＆マスク＆フアンがトランプ大統領とともに反対の方針で同調",
+      "link": "https://gigazine.net/news/20260918-trump-ai-regulation/",
+      "date": "2026-09-18T20:30:00+09:00",
+      "dateLabel": "09/18 20:30",
+      "desc": "Google DeepMindのデミス・ハサビスCEOが提唱した最先端AIを規制するための独立した標準化団体の設立について、Metaのマーク・ザッカーバーグCEOやSpaceXAIのイーロン・マスクCEO、NVIDIAのジェンスン・フアンCEOがトランプ大統領にロビー活動を行い、設立に反対する方向で同調していることがわかりました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
       "score": 26
     }
   ]
