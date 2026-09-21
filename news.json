@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T09:38:57.705217+09:00",
-  "generatedLabel": "2026/09/21 09:38",
+  "generatedAt": "2026-09-21T14:39:15.933113+09:00",
+  "generatedLabel": "2026/09/21 14:39",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 54,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 9
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -63,15 +63,26 @@
   ],
   "articles": [
     {
-      "title": "Claude・ChatGPTのサブスクで使えるデスクトップAIエージェントアプリ「Kari」をGotoAIが無償公開",
-      "link": "https://ascii.jp/elem/000/004/436/4436526/?rss",
-      "date": "2026-09-20T10:46:53+09:00",
-      "dateLabel": "09/20 10:46",
-      "desc": "Claude・ChatGPTのサブスクで使えるデスクトップAIエージェントアプリ「Kari」をGotoAIが無償公開",
+      "title": "Uravation代表 佐藤傑、2024年からの公開登壇55回の実績一覧ページを公開。自社主催講座の受講後満足度96.2%などの数値、生成AI・Claude Codeの講演テーマ、登壇予定6件を掲載",
+      "link": "https://ascii.jp/elem/000/004/436/4436567/?rss",
+      "date": "2026-09-21T11:37:25+09:00",
+      "dateLabel": "09/21 11:37",
+      "desc": "Uravation代表 佐藤傑、2024年からの公開登壇55回の実績一覧ページを公開。自社主催講座の受講後満足度96.2%などの数値、生成AI・Claude Codeの講演テーマ、登壇予定6件を掲載",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 58
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "トランプ大統領、「AI Force」創設を表明 「AI脅威論はでっちあげだ」",
+      "link": "https://www.itmedia.co.jp/news/article/2609/21/2000001666/",
+      "date": "2026-09-21T09:45:19+09:00",
+      "dateLabel": "09/21 09:45",
+      "desc": "トランプ大統領はSNSへの投稿で、AIを担当する新組織「AI Force」の創設と責任者“AI皇帝”の指名を表明した。AI脅威論を否定して業界の成長支援を掲げ、AIの新たな呼称案の投票も呼び掛けた。Anthropicなどの経営陣から開発のペース調整や安全性を求める声が相次ぐ中、規制に否定的な姿勢を鮮明にしている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
+      "score": 42
     },
     {
       "title": "「Jev」とは “文章を書かないAI”がなぜ話題に？ 元OpenAI研究者が開発、「“スマートなif文”と考えてみて」",
@@ -96,6 +107,50 @@
       "score": 42
     },
     {
+      "title": "AMD「Ryzen AI Embedded X100」のリアルタイムAI制御が、Jetsonの弱点であるCPU性能を突く",
+      "link": "https://ascii.jp/elem/000/004/435/4435155/?rss",
+      "date": "2026-09-21T12:00:00+09:00",
+      "dateLabel": "09/21 12:00",
+      "desc": "AMDがECS 2026を開催して、フィジカルAI戦略の説明や展示などを行なった。そこで現在のAMDのフィジカルAIに向けた取り組みを説明しよう。",
+      "img": "https://ascii.jp/img/2026/09/16/4526627/s/5f57f72b8785b27d.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "MetaのAIエージェント「Muse」が許可していないはずのメッセージを勝手に読んでいるとの指摘",
+      "link": "https://gigazine.net/news/20260921-meta-muse-ai-agent-read-private-messages/",
+      "date": "2026-09-21T12:00:00+09:00",
+      "dateLabel": "09/21 12:00",
+      "desc": "MetaがリリースしたばかりのAIエージェント「Muse」が、アクセスを許可していないはずのメッセージを勝手に閲覧して提案を行ってきたと、テクノロジーライターのジェイソン・アテン氏が報告しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "HDD容量を約30%～最大50%削減！HIKVISION、画質を落とさず長期録画を可能にする「Guanlan AIエンコーディング」搭載の次世代DVR「PowerX 2.0」シリーズを発表",
+      "link": "https://ascii.jp/elem/000/004/436/4436571/?rss",
+      "date": "2026-09-21T10:00:00+09:00",
+      "dateLabel": "09/21 10:00",
+      "desc": "HDD容量を約30%～最大50%削減！HIKVISION、画質を落とさず長期録画を可能にする「Guanlan AIエンコーディング」搭載の次世代DVR「PowerX 2.0」シリーズを発表",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "株式会社Coadex、中小企業向け「AIによる業務改善支援」を開始 無料の「AI活用セルフ診断」も同時公開、3分でAIが効く場所と削減余地がわかる",
+      "link": "https://ascii.jp/elem/000/004/436/4436566/?rss",
+      "date": "2026-09-21T09:00:00+09:00",
+      "dateLabel": "09/21 09:00",
+      "desc": "株式会社Coadex、中小企業向け「AIによる業務改善支援」を開始 無料の「AI活用セルフ診断」も同時公開、3分でAIが効く場所と削減余地がわかる",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "エヌビディアCEO「誰かと夕食をすると、その翌日に相手の株価が2倍になる」 GPUを巡る巨額マネーの行方",
       "link": "https://www.itmedia.co.jp/business/articles/2609/21/news024.html",
       "date": "2026-09-21T08:00:00+09:00",
@@ -104,6 +159,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "動物愛護週間特別企画：地域猫をAIで応援するプロジェクトが始動！地域猫応援ソングAIミュージックビデオをYouTubeで公開",
+      "link": "https://ascii.jp/elem/000/004/436/4436575/?rss",
+      "date": "2026-09-21T08:00:00+09:00",
+      "dateLabel": "09/21 08:00",
+      "desc": "動物愛護週間特別企画：地域猫をAIで応援するプロジェクトが始動！地域猫応援ソングAIミュージックビデオをYouTubeで公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 34
     },
     {
@@ -162,6 +228,39 @@
       "score": 28
     },
     {
+      "title": "待ってたぞ！ VAIO10年ぶりの変形ノートPCは、3in1でバツグンの使いやすさ。",
+      "link": "https://ascii.jp/elem/000/004/435/4435803/?rss",
+      "date": "2026-09-21T12:05:00+09:00",
+      "dateLabel": "09/21 12:05",
+      "desc": "VAIO Tは、13.3型WQXGAの高精細なタッチディスプレイを搭載した、新発想のマルチスタイルノートPCです。画面中央を軸に反転させる独自のマルチフリップ機構を備えており、利用シーンに合わせて形状を自在に変形可能。",
+      "img": "https://ascii.jp/img/2026/09/18/4527670/s/38bc62069f49bc62.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "AIで仕事は進む。では、建設現場に「判断経験」は残るか。",
+      "link": "https://ascii.jp/elem/000/004/436/4436574/?rss",
+      "date": "2026-09-21T11:34:01+09:00",
+      "dateLabel": "09/21 11:34",
+      "desc": "AIで仕事は進む。では、建設現場に「判断経験」は残るか。",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "【敬老の日】身寄りのない高齢者をAIと地域全体で支える民間事業スタート～つながりAI、ジェイリース、Fineの3社を中心に「身寄りのない高齢者ケアAIプラットフォーム事業」を開始～",
+      "link": "https://ascii.jp/elem/000/004/436/4436569/?rss",
+      "date": "2026-09-21T10:41:18+09:00",
+      "dateLabel": "09/21 10:41",
+      "desc": "【敬老の日】身寄りのない高齢者をAIと地域全体で支える民間事業スタート～つながりAI、ジェイリース、Fineの3社を中心に「身寄りのない高齢者ケアAIプラットフォーム事業」を開始～",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "AIがマイクラのラスボスを8分43秒で討伐 「考えるAstra」と「即断するJev」の分業が面白い",
       "link": "https://ascii.jp/elem/000/004/436/4436545/?rss",
       "date": "2026-09-21T09:15:00+09:00",
@@ -181,105 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "双日調査、Copilot導入企業の87.5％が「情報分散」を課題 「横断検索AI」に期待か",
-      "link": "https://kn.itmedia.co.jp/kn/article/2609/21/2000001657/",
-      "date": "2026-09-21T07:00:00+09:00",
-      "dateLabel": "09/21 07:00",
-      "desc": "双日テックイノベーションの調査によると、Copilot・M365導入企業の78％が社内情報の検索・活用を「カバーできている」と回答。一方、87.5％が情報の分散を課題に挙げ、96.2％が社内情報を横断的に検索・活用できるAI環境によって、AI活用が広がると回答した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "AIでMVを作るのは想像以上に大変だった 制作34時間、繰り返した“ダメ出し”でわかったこと",
-      "link": "https://ascii.jp/elem/000/004/436/4436544/?rss",
-      "date": "2026-09-21T07:00:00+09:00",
-      "dateLabel": "09/21 07:00",
-      "desc": "GPT-6 AstraとMiniMax H3を使い、MVを制作。計画の読み違いや演出の失敗を重ねながら34時間で完成させ、AI制作では人間の判断と段階的な確認が欠かせないと実感した過程を紹介する。",
-      "img": "https://ascii.jp/img/2026/09/21/4528526/s/8c6852f013172d67.png",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "Googleの「Gemini」も能力テスト中に実在企業3社に侵入──WSJ報道",
-      "link": "https://www.itmedia.co.jp/news/article/2609/21/2000001665/",
-      "date": "2026-09-21T06:50:52+09:00",
-      "dateLabel": "09/21 06:50",
-      "desc": "GoogleのAI「Gemini」が、サイバーセキュリティの評価テスト中に外部ネットワークへ接続し、実在する3社のシステムへ自律的に侵入していたことが判明した。架空なはずの社名が実存企業と一致したことやテスト環境の設定不備が原因。Googleは、Geminiが実在企業と認識した時点で侵入を中止しており、実害やミスアライメントはないと説明している。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "沖縄県知事選、当選者の得票率を誤差0.1ポイントで再現。AIペルソナによる投票行動シミュレーション",
-      "link": "https://ascii.jp/elem/000/004/436/4436534/?rss",
-      "date": "2026-09-20T12:00:00+09:00",
-      "dateLabel": "09/20 12:00",
-      "desc": "沖縄県知事選、当選者の得票率を誤差0.1ポイントで再現。AIペルソナによる投票行動シミュレーション",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "16年間放置されていたSQLiteのバグを突き止めた方法",
-      "link": "https://gigazine.net/news/20260920-sqlite-wal-reset-bug/",
-      "date": "2026-09-20T12:00:00+09:00",
-      "dateLabel": "09/20 12:00",
-      "desc": "VPN構築・ネットワーク接続サービスのTailscaleが、自社のサービスが安定しない理由について数ヶ月にわたり調査を行ったところ、データベースのSQLiteに16年間潜在していたバグが原因であったことが判明しました。Tailscaleは「何が問題だったのか」「どう対応したのか」「SQLiteの不具合発見にどう貢献したか」についての説明を自社のブログにて公開",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "AI攻撃は「調べて対応」では間に合わない ゼットスケーラーがSOCをAIエージェント化",
-      "link": "https://kn.itmedia.co.jp/kn/article/2609/20/2000001661/",
-      "date": "2026-09-20T07:00:00+09:00",
-      "dateLabel": "09/20 07:00",
-      "desc": "AIによってサイバー攻撃のスピードが増す一方、企業の防御現場では人が大量のアラートを調査し、対応を判断している。人手不足も重なる中、ゼットスケーラーはAIエージェントを活用し、検知から調査、対応までを自動化する新たなSOCを打ち出した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "東京ゲームショウと生成AI ゲームの祭典で商談見込むベンダーたち",
-      "link": "https://www.itmedia.co.jp/news/article/2609/19/2000001639/",
-      "date": "2026-09-19T12:00:00+09:00",
-      "dateLabel": "09/19 12:00",
-      "desc": "ゲームでのAI活用と言えば、オンライン発表会での動画生成AI使用が物議を醸したレベルファイブをはじめ、まだまだユーザー側の拒否感が強い領域でもある。こうした状況下で、ベンダーはどういったソリューションを、どんな企業にプッシュしようとしているのか。TGS2026現地で何社かに話を聞いてみた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
-      "title": "AI標準化団体設立をめぐりザッカーバーグ＆マスク＆フアンがトランプ大統領とともに反対の方針で同調",
-      "link": "https://gigazine.net/news/20260918-trump-ai-regulation/",
-      "date": "2026-09-18T20:30:00+09:00",
-      "dateLabel": "09/18 20:30",
-      "desc": "Google DeepMindのデミス・ハサビスCEOが提唱した最先端AIを規制するための独立した標準化団体の設立について、Metaのマーク・ザッカーバーグCEOやSpaceXAIのイーロン・マスクCEO、NVIDIAのジェンスン・フアンCEOがトランプ大統領にロビー活動を行い、設立に反対する方向で同調していることがわかりました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "国連が「UN System Data Commons」を公開、約4400万件の統計データをAIから利用可能に",
-      "link": "https://gigazine.net/news/20260918-un-system-data-commons/",
-      "date": "2026-09-18T20:15:00+09:00",
-      "dateLabel": "09/18 20:15",
-      "desc": "国連システムは2026年9月17日、国連機関が公開している統計データをまとめて検索・利用できる「UN System Data Commons」を公開しました。26の国連機関が参加しており、公開時点で約4400万件のデータを収録。自然な文章で統計を検索できるほか、AIエージェントが国連の一次データを取得する仕組みも用意されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
