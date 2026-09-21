@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T07:11:03.853594+09:00",
-  "generatedLabel": "2026/09/21 07:11",
+  "generatedAt": "2026-09-21T09:38:57.705217+09:00",
+  "generatedLabel": "2026/09/21 09:38",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 53,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -96,6 +96,17 @@
       "score": 42
     },
     {
+      "title": "エヌビディアCEO「誰かと夕食をすると、その翌日に相手の株価が2倍になる」 GPUを巡る巨額マネーの行方",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/21/news024.html",
+      "date": "2026-09-21T08:00:00+09:00",
+      "dateLabel": "09/21 08:00",
+      "desc": "NVIDIAのフアンCEOが「私がどこで夕食を食べるのか、そして誰と夕食を食べるのかを調べることだ。そうすると、相手の株価が翌日に2倍になる」と語った。GPUを巡る巨額マネーの行方は。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
       "title": "無料でAIエージェントの追跡・評価・プロンプト管理・本番環境の監視ができる「Opik」、セルフホスト可能",
       "link": "https://gigazine.net/news/20260919-opik/",
       "date": "2026-09-19T18:00:00+09:00",
@@ -114,17 +125,6 @@
       "desc": "サイバーセキュリティスタートアップ・Hacktron AIのセキュリティ研究者が、AnthropicのClaudeを使ってOpenAIの内部データにアクセスすることに成功したと報告しています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "AIへの「念のためプロンプト」はもう逆効果 Claudeのトークンを浪費する6つのアンチパターン",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/18/news040.html",
-      "date": "2026-09-18T08:00:00+09:00",
-      "dateLabel": "09/18 08:00",
-      "desc": "Anthropicは、Claude Platformでコスト削減と精度向上を両立する3つの手法を公開した。",
-      "img": "",
-      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
     },
@@ -160,6 +160,39 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 28
+    },
+    {
+      "title": "AIがマイクラのラスボスを8分43秒で討伐 「考えるAstra」と「即断するJev」の分業が面白い",
+      "link": "https://ascii.jp/elem/000/004/436/4436545/?rss",
+      "date": "2026-09-21T09:15:00+09:00",
+      "dateLabel": "09/21 09:15",
+      "desc": "GPT-6 Astraと高速判断AI「Jev」を組み合わせ、マインクラフトのエンダードラゴンを8分43秒で討伐したという報告があった。",
+      "img": "https://ascii.jp/img/2026/09/21/4528543/s/9f5d08c9e69f9cfc.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "Geminiが使えるスマートウォッチ「Google Pixel Watch 5」を使ってみた",
+      "link": "https://gigazine.net/news/20260921-google-pixel-watch-review/",
+      "date": "2026-09-21T08:00:00+09:00",
+      "dateLabel": "09/21 08:00",
+      "desc": "外観レビューに続いて「Google Pixel Watch 5」を実際に使ってみました。ワークアウトや睡眠測定を行っています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "双日調査、Copilot導入企業の87.5％が「情報分散」を課題 「横断検索AI」に期待か",
+      "link": "https://kn.itmedia.co.jp/kn/article/2609/21/2000001657/",
+      "date": "2026-09-21T07:00:00+09:00",
+      "dateLabel": "09/21 07:00",
+      "desc": "双日テックイノベーションの調査によると、Copilot・M365導入企業の78％が社内情報の検索・活用を「カバーできている」と回答。一方、87.5％が情報の分散を課題に挙げ、96.2％が社内情報を横断的に検索・活用できるAI環境によって、AI活用が広がると回答した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 26
     },
     {
       "title": "AIでMVを作るのは想像以上に大変だった 制作34時間、繰り返した“ダメ出し”でわかったこと",
@@ -247,39 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "Anthropic、AI開発の26％を「Claudeが主導」 「1％未満」から半年で急拡大",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/18/2000001634/",
-      "date": "2026-09-18T16:46:34+09:00",
-      "dateLabel": "09/18 16:46",
-      "desc": "同社のAIモデルの研究開発全体を100とした時、AIが主導する仕事が全体の26％を占めた。人間が細かく指示しながらAIと進める仕事と合わせると90％を超えた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "「iPhone 18 Pro」と「iPhone 17 Pro」のベンチマークスコアを比較してA20 Proチップの実力を検証してみた",
-      "link": "https://gigazine.net/news/20260918-iphone-18-pro-benchmark/",
-      "date": "2026-09-18T16:41:00+09:00",
-      "dateLabel": "09/18 16:41",
-      "desc": "「iPhone 18 Pro」が2026年9月18日に登場しました。iPhone 18 Proは2nmプロセスで製造されたA20 Proチップを採用しており、前世代モデルのiPhone 17 Proと比べてCPUが20％、GPUが40％高速とアピールされています。実際にiPhone 18 Proを入手することに成功したので、ベンチマークテストを実行してiPh",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "自然言語や画像から3D CADモデルを生成、資金調達で開発と海外展開を加速",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2609/18/news015.html",
-      "date": "2026-09-18T09:00:00+09:00",
-      "dateLabel": "09/18 09:00",
-      "desc": "トコシエは、East Venturesと個人投資家2人を引受先として資金調達を実施した。自然言語や画像から編集可能な3D CADモデルを作成できるAI 3D CAD「Ignite0」の開発体制を強化し、米国を起点としたグローバル展開を本格化する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
       "score": 26
     }
   ]
