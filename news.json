@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T14:39:15.933113+09:00",
-  "generatedLabel": "2026/09/21 14:39",
+  "generatedAt": "2026-09-21T20:24:50.554344+09:00",
+  "generatedLabel": "2026/09/21 20:24",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 58,
+  "candidates": 61,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 9
+      "items": 10
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 12
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,28 @@
   ],
   "articles": [
     {
+      "title": "無料でクラウド・ローカルの各AIモデルをOpenAI互換の単一APIでまとめて品質・速度・コストで最適化して管理しAIエージェントがどれだけの金額を使用できるかも制御できるオープンソースのゲートウェイ・ルーター「Experiential」",
+      "link": "https://gigazine.net/news/20260921-experiential/",
+      "date": "2026-09-21T18:00:00+09:00",
+      "dateLabel": "09/21 18:00",
+      "desc": "OpenAI・Anthropic・Geminiなど複数のAIモデルを使い分ける場合、APIキーや料金、利用状況の管理もサービスごとに分散します。クラウドやローカルのAIモデルをOpenAI互換の単一APIにまとめ、利用量や予算を一元管理できるオープンソースのAIゲートウェイ「Experiential」が公開されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 58
+    },
+    {
+      "title": "Uravation、クラウドAIが使えない企業向け「ローカルLLM導入支援」サービスを提供開始",
+      "link": "https://ascii.jp/elem/000/004/436/4436581/?rss",
+      "date": "2026-09-21T13:07:08+09:00",
+      "dateLabel": "09/21 13:07",
+      "desc": "Uravation、クラウドAIが使えない企業向け「ローカルLLM導入支援」サービスを提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "Uravation代表 佐藤傑、2024年からの公開登壇55回の実績一覧ページを公開。自社主催講座の受講後満足度96.2%などの数値、生成AI・Claude Codeの講演テーマ、登壇予定6件を掲載",
       "link": "https://ascii.jp/elem/000/004/436/4436567/?rss",
       "date": "2026-09-21T11:37:25+09:00",
@@ -82,17 +104,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "規制/安全",
-      "score": 42
-    },
-    {
-      "title": "「Jev」とは “文章を書かないAI”がなぜ話題に？ 元OpenAI研究者が開発、「“スマートなif文”と考えてみて」",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/20/2000001664/",
-      "date": "2026-09-20T16:00:26+09:00",
-      "dateLabel": "09/20 16:00",
-      "desc": "米スタートアップのTypeSafe AIが9月15日（現地時間）に発表したAIモデル「Jev」（ジェヴ）が、海外や日本のAIコミュニティで大きな注目を集めている。この記事では、Jevとは何か、LLMとはどう違うのかなどを整理する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -140,17 +151,6 @@
       "score": 34
     },
     {
-      "title": "株式会社Coadex、中小企業向け「AIによる業務改善支援」を開始 無料の「AI活用セルフ診断」も同時公開、3分でAIが効く場所と削減余地がわかる",
-      "link": "https://ascii.jp/elem/000/004/436/4436566/?rss",
-      "date": "2026-09-21T09:00:00+09:00",
-      "dateLabel": "09/21 09:00",
-      "desc": "株式会社Coadex、中小企業向け「AIによる業務改善支援」を開始 無料の「AI活用セルフ診断」も同時公開、3分でAIが効く場所と削減余地がわかる",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "エヌビディアCEO「誰かと夕食をすると、その翌日に相手の株価が2倍になる」 GPUを巡る巨額マネーの行方",
       "link": "https://www.itmedia.co.jp/business/articles/2609/21/news024.html",
       "date": "2026-09-21T08:00:00+09:00",
@@ -162,14 +162,14 @@
       "score": 34
     },
     {
-      "title": "動物愛護週間特別企画：地域猫をAIで応援するプロジェクトが始動！地域猫応援ソングAIミュージックビデオをYouTubeで公開",
-      "link": "https://ascii.jp/elem/000/004/436/4436575/?rss",
-      "date": "2026-09-21T08:00:00+09:00",
-      "dateLabel": "09/21 08:00",
-      "desc": "動物愛護週間特別企画：地域猫をAIで応援するプロジェクトが始動！地域猫応援ソングAIミュージックビデオをYouTubeで公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "「Jev」とは “文章を書かないAI”がなぜ話題に？ 元OpenAI研究者が開発、「“スマートなif文”と考えてみて」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/20/2000001664/",
+      "date": "2026-09-20T16:00:26+09:00",
+      "dateLabel": "09/20 16:00",
+      "desc": "米スタートアップのTypeSafe AIが9月15日（現地時間）に発表したAIモデル「Jev」（ジェヴ）が、海外や日本のAIコミュニティで大きな注目を集めている。この記事では、Jevとは何か、LLMとはどう違うのかなどを整理する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -228,6 +228,39 @@
       "score": 28
     },
     {
+      "title": "「三井アウトレットパーク 札幌北広島」にAIでのパーソナルカラー診断やYOASOBIのドームツアー公演ロゴ入りフォトフレームでのフォト撮影など様々な体験が楽しめる「＋PLUS MIRROR」を設置",
+      "link": "https://ascii.jp/elem/000/004/436/4436589/?rss",
+      "date": "2026-09-21T16:40:20+09:00",
+      "dateLabel": "09/21 16:40",
+      "desc": "「三井アウトレットパーク 札幌北広島」にAIでのパーソナルカラー診断やYOASOBIのドームツアー公演ロゴ入りフォトフレームでのフォト撮影など様々な体験が楽しめる「＋PLUS MIRROR」を設置",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "カラー電子ペーパーノート【BOOX NoteAir6C】新発売のお知らせ",
+      "link": "https://ascii.jp/elem/000/004/436/4436585/?rss",
+      "date": "2026-09-21T14:00:08+09:00",
+      "dateLabel": "09/21 14:00",
+      "desc": "カラー電子ペーパーノート【BOOX NoteAir6C】新発売のお知らせ",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "Uravation、「AI画像チェッカー」「画像の文字起こし（OCR）」「生成AIパスポート 模擬試験」など無料ツール6種類を追加し、自社サイトの無料ツールは計17種類に。いずれも登録不要・無料",
+      "link": "https://ascii.jp/elem/000/004/436/4436584/?rss",
+      "date": "2026-09-21T13:11:08+09:00",
+      "dateLabel": "09/21 13:11",
+      "desc": "Uravation、「AI画像チェッカー」「画像の文字起こし（OCR）」「生成AIパスポート 模擬試験」など無料ツール6種類を追加し、自社サイトの無料ツールは計17種類に。いずれも登録不要・無料",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 26
+    },
+    {
       "title": "待ってたぞ！ VAIO10年ぶりの変形ノートPCは、3in1でバツグンの使いやすさ。",
       "link": "https://ascii.jp/elem/000/004/435/4435803/?rss",
       "date": "2026-09-21T12:05:00+09:00",
@@ -247,39 +280,6 @@
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "【敬老の日】身寄りのない高齢者をAIと地域全体で支える民間事業スタート～つながりAI、ジェイリース、Fineの3社を中心に「身寄りのない高齢者ケアAIプラットフォーム事業」を開始～",
-      "link": "https://ascii.jp/elem/000/004/436/4436569/?rss",
-      "date": "2026-09-21T10:41:18+09:00",
-      "dateLabel": "09/21 10:41",
-      "desc": "【敬老の日】身寄りのない高齢者をAIと地域全体で支える民間事業スタート～つながりAI、ジェイリース、Fineの3社を中心に「身寄りのない高齢者ケアAIプラットフォーム事業」を開始～",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "AIがマイクラのラスボスを8分43秒で討伐 「考えるAstra」と「即断するJev」の分業が面白い",
-      "link": "https://ascii.jp/elem/000/004/436/4436545/?rss",
-      "date": "2026-09-21T09:15:00+09:00",
-      "dateLabel": "09/21 09:15",
-      "desc": "GPT-6 Astraと高速判断AI「Jev」を組み合わせ、マインクラフトのエンダードラゴンを8分43秒で討伐したという報告があった。",
-      "img": "https://ascii.jp/img/2026/09/21/4528543/s/9f5d08c9e69f9cfc.png",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "Geminiが使えるスマートウォッチ「Google Pixel Watch 5」を使ってみた",
-      "link": "https://gigazine.net/news/20260921-google-pixel-watch-review/",
-      "date": "2026-09-21T08:00:00+09:00",
-      "dateLabel": "09/21 08:00",
-      "desc": "外観レビューに続いて「Google Pixel Watch 5」を実際に使ってみました。ワークアウトや睡眠測定を行っています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 26
     }
   ]
