@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T20:24:50.554344+09:00",
-  "generatedLabel": "2026/09/21 20:24",
+  "generatedAt": "2026-09-22T02:24:10.993162+09:00",
+  "generatedLabel": "2026/09/22 02:24",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 61,
+  "candidates": 60,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -140,17 +140,6 @@
       "score": 34
     },
     {
-      "title": "HDD容量を約30%～最大50%削減！HIKVISION、画質を落とさず長期録画を可能にする「Guanlan AIエンコーディング」搭載の次世代DVR「PowerX 2.0」シリーズを発表",
-      "link": "https://ascii.jp/elem/000/004/436/4436571/?rss",
-      "date": "2026-09-21T10:00:00+09:00",
-      "dateLabel": "09/21 10:00",
-      "desc": "HDD容量を約30%～最大50%削減！HIKVISION、画質を落とさず長期録画を可能にする「Guanlan AIエンコーディング」搭載の次世代DVR「PowerX 2.0」シリーズを発表",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "エヌビディアCEO「誰かと夕食をすると、その翌日に相手の株価が2倍になる」 GPUを巡る巨額マネーの行方",
       "link": "https://www.itmedia.co.jp/business/articles/2609/21/news024.html",
       "date": "2026-09-21T08:00:00+09:00",
@@ -217,15 +206,15 @@
       "score": 28
     },
     {
-      "title": "OpenAIやAnthropicなどAIベンダごとのAPIの違いを吸収し統合する「Agent Router」、Linux Foundation傘下で業界標準へ",
-      "link": "https://www.publickey1.jp/blog/26/openaianthropicapiagent_routerlinux_foundation.html",
-      "date": "2026-09-15T00:51:16+09:00",
-      "dateLabel": "09/15 00:51",
-      "desc": "MCPやAGENTS.md、Agent2AgentプロトコルなどのAIエージェントに関する関連技術の標準化推進や開発などを行うLinux Foundation傘下のAgentic AI Foundation（AAIF）は、オープンソースとし...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 28
+      "title": "週刊アスキー No.1614(2026年9月22日発行)",
+      "link": "https://ascii.jp/elem/000/004/436/4436041/?rss",
+      "date": "2026-09-22T00:00:00+09:00",
+      "dateLabel": "09/22 00:00",
+      "desc": "特集1は秋のAppleの新製品。ついに出たFoldableのiPhoneや、コスパ高そうなAirPodsまで新製品と、その周辺の話題をピックアップして紹介。特集2はローカルAI、環境構築、QwenなどソブリンAIはどう？",
+      "img": "https://ascii.jp/img/2026/09/18/4528049/s/11de18b30e400dee.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     },
     {
       "title": "「三井アウトレットパーク 札幌北広島」にAIでのパーソナルカラー診断やYOASOBIのドームツアー公演ロゴ入りフォトフレームでのフォト撮影など様々な体験が楽しめる「＋PLUS MIRROR」を設置",
@@ -277,6 +266,17 @@
       "date": "2026-09-21T11:34:01+09:00",
       "dateLabel": "09/21 11:34",
       "desc": "AIで仕事は進む。では、建設現場に「判断経験」は残るか。",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "【敬老の日】身寄りのない高齢者をAIと地域全体で支える民間事業スタート～つながりAI、ジェイリース、ファインの3社を中心に「身寄りのない高齢者ケアAIプラットフォーム事業」を開始～",
+      "link": "https://ascii.jp/elem/000/004/436/4436569/?rss",
+      "date": "2026-09-21T10:41:18+09:00",
+      "dateLabel": "09/21 10:41",
+      "desc": "【敬老の日】身寄りのない高齢者をAIと地域全体で支える民間事業スタート～つながりAI、ジェイリース、ファインの3社を中心に「身寄りのない高齢者ケアAIプラットフォーム事業」を開始～",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
