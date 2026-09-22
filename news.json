@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-23T04:22:34.311591+09:00",
-  "generatedLabel": "2026/09/23 04:22",
+  "generatedAt": "2026-09-23T07:30:52.867877+09:00",
+  "generatedLabel": "2026/09/23 07:30",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 53,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "Anthropic「Claude Opus 5.5」発表 40％低コストになり、OpenAI「GPT-6 Astra」を一部で上回る",
+      "link": "https://ascii.jp/elem/000/004/436/4436645/?rss",
+      "date": "2026-09-23T06:25:00+09:00",
+      "dateLabel": "09/23 06:25",
+      "desc": "Anthropicは9月22日、新AIモデル「Claude Opus 5.5」を発表した。",
+      "img": "https://ascii.jp/img/2026/09/23/4529071/s/b502f74bcc4287ed.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 58
+    },
+    {
       "title": "SpaceXAI、「Grok 4.7」発表 コーディングと知識労働向けで同社最高性能、価格は据え置き",
       "link": "https://www.itmedia.co.jp/news/article/2609/22/2000001668/",
       "date": "2026-09-22T08:46:47+09:00",
@@ -83,6 +94,17 @@
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 50
+    },
+    {
+      "title": "OpenAI「GPT-6 Sol/Luna」発表 料金半額、ただし普通のChatではまだ使えず",
+      "link": "https://ascii.jp/elem/000/004/436/4436644/?rss",
+      "date": "2026-09-23T06:10:00+09:00",
+      "dateLabel": "09/23 06:10",
+      "desc": "OpenAIは9月22日、新AIモデルの「GPT-6 Sol」「GPT-6 Luna」を発表した。",
+      "img": "https://ascii.jp/img/2026/09/23/4529070/s/905c49e593486c27.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "Uravation、法人向け「Claude Cowork導入研修」を提供開始。Claudeの標準機能になったCoworkで、営業・経理・人事などの非エンジニア部門が自分の業務を任せるまでを2日間で",
@@ -116,6 +138,17 @@
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
       "score": 36
+    },
+    {
+      "title": "AIは人類を滅ぼすのか？ 米国版編集部が読者の質問に答えた",
+      "link": "https://ascii.jp/elem/000/004/436/4436646/?rss",
+      "date": "2026-09-23T06:10:07+09:00",
+      "dateLabel": "09/23 06:10",
+      "desc": "AIは本当に人類を滅ぼすのか。MITテクノロジーレビュー［米国版］の購読者向けオンラインイベントには、この問いをめぐって30分では答えきれないほどの質問が集まった。米国版のAI担当編集者と記者が、絶滅リスクから規制の難しさまで、読者の疑問に答える。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "規制/安全",
+      "score": 34
     },
     {
       "title": "OpenAIが10億人以上・40ペタバイト超えのユーザーデータを扱う自社製ストレージシステム「Habitat」について解説",
@@ -159,17 +192,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "「おためし転職」、就活・転職・採用を支援するAIスキル16種をオープンソースで公開",
-      "link": "https://ascii.jp/elem/000/004/436/4436603/?rss",
-      "date": "2026-09-22T08:00:00+09:00",
-      "dateLabel": "09/22 08:00",
-      "desc": "「おためし転職」、就活・転職・採用を支援するAIスキル16種をオープンソースで公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -239,17 +261,6 @@
       "score": 26
     },
     {
-      "title": "Teams会議をAIエージェントの「教材」に 埋もれた経験則を資産に変える新たな手法とは",
-      "link": "https://kn.itmedia.co.jp/kn/article/2609/22/2000001658/",
-      "date": "2026-09-22T07:00:00+09:00",
-      "dateLabel": "09/22 07:00",
-      "desc": "AIエージェントの活用が広がる中、企業固有の「仕事の進め方」をどうAIに教えるかが課題になっている。Teams会議に埋もれた判断や経験則を、AIが扱える業務知識へどう変換するか。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
       "title": "MetaのAIエージェント「Muse」が許可していないはずのメッセージを勝手に読んでいるとの指摘",
       "link": "https://gigazine.net/news/20260921-meta-muse-ai-agent-read-private-messages/",
       "date": "2026-09-21T12:00:00+09:00",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "AI攻撃は「調べて対応」では間に合わない ゼットスケーラーがSOCをAIエージェント化",
-      "link": "https://kn.itmedia.co.jp/kn/article/2609/20/2000001661/",
-      "date": "2026-09-20T07:00:00+09:00",
-      "dateLabel": "09/20 07:00",
-      "desc": "AIによってサイバー攻撃のスピードが増す一方、企業の防御現場では人が大量のアラートを調査し、対応を判断している。人手不足も重なる中、ゼットスケーラーはAIエージェントを活用し、検知から調査、対応までを自動化する新たなSOCを打ち出した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
