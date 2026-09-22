@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-22T14:36:25.353735+09:00",
-  "generatedLabel": "2026/09/22 14:36",
+  "generatedAt": "2026-09-22T19:33:39.144192+09:00",
+  "generatedLabel": "2026/09/22 19:33",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 57,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -63,17 +63,6 @@
   ],
   "articles": [
     {
-      "title": "無料でクラウド・ローカルの各AIモデルをOpenAI互換の単一APIでまとめて品質・速度・コストで最適化して管理しAIエージェントがどれだけの金額を使用できるかも制御できるオープンソースのゲートウェイ・ルーター「Experiential」",
-      "link": "https://gigazine.net/news/20260921-experiential/",
-      "date": "2026-09-21T18:00:00+09:00",
-      "dateLabel": "09/21 18:00",
-      "desc": "OpenAI・Anthropic・Geminiなど複数のAIモデルを使い分ける場合、APIキーや料金、利用状況の管理もサービスごとに分散します。クラウドやローカルのAIモデルをOpenAI互換の単一APIにまとめ、利用量や予算を一元管理できるオープンソースのAIゲートウェイ「Experiential」が公開されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 58
-    },
-    {
       "title": "SpaceXAI、「Grok 4.7」発表 コーディングと知識労働向けで同社最高性能、価格は据え置き",
       "link": "https://www.itmedia.co.jp/news/article/2609/22/2000001668/",
       "date": "2026-09-22T08:46:47+09:00",
@@ -82,6 +71,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "規制/安全",
+      "score": 50
+    },
+    {
+      "title": "無料でクラウド・ローカルの各AIモデルをOpenAI互換の単一APIでまとめて品質・速度・コストで最適化して管理しAIエージェントがどれだけの金額を使用できるかも制御できるオープンソースのゲートウェイ・ルーター「Experiential」",
+      "link": "https://gigazine.net/news/20260921-experiential/",
+      "date": "2026-09-21T18:00:00+09:00",
+      "dateLabel": "09/21 18:00",
+      "desc": "OpenAI・Anthropic・Geminiなど複数のAIモデルを使い分ける場合、APIキーや料金、利用状況の管理もサービスごとに分散します。クラウドやローカルのAIモデルをOpenAI互換の単一APIにまとめ、利用量や予算を一元管理できるオープンソースのAIゲートウェイ「Experiential」が公開されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
       "score": 50
     },
     {
@@ -116,6 +116,17 @@
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
       "score": 42
+    },
+    {
+      "title": "無料でひとりでは無く複数人のチームで使うことができるAIエージェント「OneCLI」、オープンソースでセルフホスト可能",
+      "link": "https://gigazine.net/news/20260922-onecli/",
+      "date": "2026-09-22T18:00:00+09:00",
+      "dateLabel": "09/22 18:00",
+      "desc": "AIエージェントを社員ごとに導入すると、それぞれの実行環境やAPIキー・利用できるサービス・権限などを個別に管理する必要があります。各メンバーに専用のAIエージェントを割り当てながら、認証情報やアクセスルールをチーム単位でまとめて管理できるオープンソースの「OneCLI」が公開されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "OpenAI、数学者の独立諮問グループと連携 内部モデルは「100件超の未解決問題を解決」",
@@ -181,17 +192,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "ハッカーがAnthropicのClaudeを使ってOpenAIに侵入",
-      "link": "https://gigazine.net/news/20260919-hack-openai-claude/",
-      "date": "2026-09-19T11:00:00+09:00",
-      "dateLabel": "09/19 11:00",
-      "desc": "サイバーセキュリティスタートアップ・Hacktron AIのセキュリティ研究者が、AnthropicのClaudeを使ってOpenAIの内部データにアクセスすることに成功したと報告しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 28
     },
     {
@@ -272,14 +272,14 @@
       "score": 26
     },
     {
-      "title": "週刊アスキー No.1614(2026年9月22日発行)",
-      "link": "https://ascii.jp/elem/000/004/436/4436041/?rss",
-      "date": "2026-09-22T00:00:00+09:00",
-      "dateLabel": "09/22 00:00",
-      "desc": "特集1は秋のAppleの新製品。ついに出たFoldableのiPhoneや、コスパ高そうなAirPodsまで新製品と、その周辺の話題をピックアップして紹介。特集2はローカルAI、環境構築、QwenなどソブリンAIはどう？",
-      "img": "https://ascii.jp/img/2026/09/18/4528049/s/11de18b30e400dee.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "MetaのAIエージェント「Muse」が許可していないはずのメッセージを勝手に読んでいるとの指摘",
+      "link": "https://gigazine.net/news/20260921-meta-muse-ai-agent-read-private-messages/",
+      "date": "2026-09-21T12:00:00+09:00",
+      "dateLabel": "09/21 12:00",
+      "desc": "MetaがリリースしたばかりのAIエージェント「Muse」が、アクセスを許可していないはずのメッセージを勝手に閲覧して提案を行ってきたと、テクノロジーライターのジェイソン・アテン氏が報告しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
