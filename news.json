@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-22T19:33:39.144192+09:00",
-  "generatedLabel": "2026/09/22 19:33",
+  "generatedAt": "2026-09-23T00:14:59.984807+09:00",
+  "generatedLabel": "2026/09/23 00:14",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 56,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -115,7 +115,18 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 42
+      "score": 36
+    },
+    {
+      "title": "OpenAIが10億人以上・40ペタバイト超えのユーザーデータを扱う自社製ストレージシステム「Habitat」について解説",
+      "link": "https://gigazine.net/news/20260922-openai-storage-habitat/",
+      "date": "2026-09-22T21:22:00+09:00",
+      "dateLabel": "09/22 21:22",
+      "desc": "OpenAIはChatGPTやCodexといったサービスを展開しており、ユーザー数は2026年7月末時点で10億人に達しています。OpenAIは10億人を超えるユーザーのデータを自社製オンラインストレージシステム「Habitat」で管理しているとのこと。このHabitatの詳細がOpenAIの公式ブログで解説されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "無料でひとりでは無く複数人のチームで使うことができるAIエージェント「OneCLI」、オープンソースでセルフホスト可能",
@@ -184,17 +195,6 @@
       "score": 34
     },
     {
-      "title": "無料でAIエージェントの追跡・評価・プロンプト管理・本番環境の監視ができる「Opik」、セルフホスト可能",
-      "link": "https://gigazine.net/news/20260919-opik/",
-      "date": "2026-09-19T18:00:00+09:00",
-      "dateLabel": "09/19 18:00",
-      "desc": "AIアプリの開発ではLLMが生成した回答を確認するだけでなく、どの処理を経由して回答に到達したのかを追跡し、改善後の結果を比較する作業も必要になります。これらの検証に必要なトレーシング・評価・プロンプト管理・本番監視を1つの画面にまとめたオープンソースの「Opik」が公開されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 28
-    },
-    {
       "title": "Devinが仮想環境でmacOSの提供開始。Macの実機不要でDevinがコード生成、テスト、デバッグ、実行、AppStore配信前のベータ公開まで実行",
       "link": "https://www.publickey1.jp/blog/26/devinmacosmacdevinappstore.html",
       "date": "2026-09-17T01:00:51+09:00",
@@ -261,17 +261,6 @@
       "score": 26
     },
     {
-      "title": "偶然出会った彼女はAI、電話に出た警察官はディープフェイク──急速に巧妙化するAI詐欺",
-      "link": "https://ascii.jp/limit/group/ida/elem/000/004/436/4436553/?rss",
-      "date": "2026-09-22T07:00:00+09:00",
-      "dateLabel": "09/22 07:00",
-      "desc": "生成AIの進化で、詐欺の手口も急速に巧妙化している。マッチング相手がAI、声を女性に変換、警察官を装ったディープフェイクまで、実際に確認された事例から最新のAI詐欺の実態を紹介する。",
-      "img": "https://ascii.jp/img/2026/09/21/4528548/s/0669f794fc6dbb2b.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
       "title": "MetaのAIエージェント「Muse」が許可していないはずのメッセージを勝手に読んでいるとの指摘",
       "link": "https://gigazine.net/news/20260921-meta-muse-ai-agent-read-private-messages/",
       "date": "2026-09-21T12:00:00+09:00",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "エヌビディアCEO「誰かと夕食をすると、その翌日に相手の株価が2倍になる」 GPUを巡る巨額マネーの行方",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/21/news024.html",
+      "date": "2026-09-21T08:00:00+09:00",
+      "dateLabel": "09/21 08:00",
+      "desc": "NVIDIAのフアンCEOが「私がどこで夕食を食べるのか、そして誰と夕食を食べるのかを調べることだ。そうすると、相手の株価が翌日に2倍になる」と語った。GPUを巡る巨額マネーの行方は。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
       "score": 26
     }
   ]
