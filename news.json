@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-22T09:23:06.043391+09:00",
-  "generatedLabel": "2026/09/22 09:23",
+  "generatedAt": "2026-09-22T14:36:25.353735+09:00",
+  "generatedLabel": "2026/09/22 14:36",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 60,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 19
+      "items": 20
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 10
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -85,33 +85,22 @@
       "score": 50
     },
     {
-      "title": "Uravation、クラウドAIが使えない企業向け「ローカルLLM導入支援」サービスを提供開始",
-      "link": "https://ascii.jp/elem/000/004/436/4436581/?rss",
-      "date": "2026-09-21T13:07:08+09:00",
-      "dateLabel": "09/21 13:07",
-      "desc": "Uravation、クラウドAIが使えない企業向け「ローカルLLM導入支援」サービスを提供開始",
+      "title": "Uravation、法人向け「Claude Cowork導入研修」を提供開始。Claudeの標準機能になったCoworkで、営業・経理・人事などの非エンジニア部門が自分の業務を任せるまでを2日間で",
+      "link": "https://ascii.jp/elem/000/004/436/4436628/?rss",
+      "date": "2026-09-22T11:00:00+09:00",
+      "dateLabel": "09/22 11:00",
+      "desc": "Uravation、法人向け「Claude Cowork導入研修」を提供開始。Claudeの標準機能になったCoworkで、営業・経理・人事などの非エンジニア部門が自分の業務を任せるまでを2日間で",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "LLM/モデル",
       "score": 42
     },
     {
-      "title": "Uravation代表 佐藤傑、2024年からの公開登壇55回の実績一覧ページを公開。自社主催講座の受講後満足度96.2%などの数値、生成AI・Claude Codeの講演テーマ、登壇予定6件を掲載",
-      "link": "https://ascii.jp/elem/000/004/436/4436567/?rss",
-      "date": "2026-09-21T11:37:25+09:00",
-      "dateLabel": "09/21 11:37",
-      "desc": "Uravation代表 佐藤傑、2024年からの公開登壇55回の実績一覧ページを公開。自社主催講座の受講後満足度96.2%などの数値、生成AI・Claude Codeの講演テーマ、登壇予定6件を掲載",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "トランプ大統領、「AI Force」創設を表明 「AI脅威論はでっちあげだ」",
-      "link": "https://www.itmedia.co.jp/news/article/2609/21/2000001666/",
-      "date": "2026-09-21T09:45:19+09:00",
-      "dateLabel": "09/21 09:45",
-      "desc": "トランプ大統領はSNSへの投稿で、AIを担当する新組織「AI Force」の創設と責任者“AI皇帝”の指名を表明した。AI脅威論を否定して業界の成長支援を掲げ、AIの新たな呼称案の投票も呼び掛けた。Anthropicなどの経営陣から開発のペース調整や安全性を求める声が相次ぐ中、規制に否定的な姿勢を鮮明にしている。",
+      "title": "OpenAI、フロンティアAIの国際標準づくりを米国主導で進めるよう提言 「RSIはまだ起きていない」",
+      "link": "https://www.itmedia.co.jp/news/article/2609/22/2000001670/",
+      "date": "2026-09-22T10:51:09+09:00",
+      "dateLabel": "09/22 10:51",
+      "desc": "た。各国のAI安全性研究所の連携などを提案し、制御不能な自律的進化を防ぐ枠組みを求める。アルトマンCEOは国連安保理の公開会合でも発言する予定だ。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "規制/安全",
@@ -129,25 +118,47 @@
       "score": 42
     },
     {
-      "title": "AMD「Ryzen AI Embedded X100」のリアルタイムAI制御が、Jetsonの弱点であるCPU性能を突く",
-      "link": "https://ascii.jp/elem/000/004/435/4435155/?rss",
-      "date": "2026-09-21T12:00:00+09:00",
-      "dateLabel": "09/21 12:00",
-      "desc": "AMDがECS 2026を開催して、フィジカルAI戦略の説明や展示などを行なった。そこで現在のAMDのフィジカルAIに向けた取り組みを説明しよう。",
-      "img": "https://ascii.jp/img/2026/09/16/4526627/s/5f57f72b8785b27d.jpg",
+      "title": "OpenAI、数学者の独立諮問グループと連携 内部モデルは「100件超の未解決問題を解決」",
+      "link": "https://www.itmedia.co.jp/news/article/2609/22/2000001671/",
+      "date": "2026-09-22T11:49:24+09:00",
+      "dateLabel": "09/22 11:49",
+      "desc": "OpenAIは、数学者が設立した独立組織「AGMAI」と連携し、AIによる数学的成果の評価や公表方法について助言を受けると発表した。社内モデルによる100件以上の未解決問題解決を受けた動きで、急速な成果発表や帰属問題を巡る数学界からの批判に対応する。組織は独立して運営され、他社への助言も行う方針だ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "Amazon、MetaのAIエージェント「Muse」による代理購入をブロック Shopifyは全店舗で対応へ",
+      "link": "https://www.itmedia.co.jp/news/article/2609/22/2000001669/",
+      "date": "2026-09-22T09:43:43+09:00",
+      "dateLabel": "09/22 09:43",
+      "desc": "AmazonがMetaのAIエージェント「Muse」による自社サイトでの代理購入をブロックしたと報じられた。無断アクセスやセキュリティ上のリスクを理由としている。一方、MetaはShopify全ストアへの対応を発表するなど連携拡大を進める。自社サイトでのAIエージェント排除を強めるAmazonとの対立が鮮明になっている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "「おためし転職」、就活・転職・採用を支援するAIスキル16種をオープンソースで公開",
+      "link": "https://ascii.jp/elem/000/004/436/4436603/?rss",
+      "date": "2026-09-22T08:00:00+09:00",
+      "dateLabel": "09/22 08:00",
+      "desc": "「おためし転職」、就活・転職・採用を支援するAIスキル16種をオープンソースで公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
     },
     {
-      "title": "MetaのAIエージェント「Muse」が許可していないはずのメッセージを勝手に読んでいるとの指摘",
-      "link": "https://gigazine.net/news/20260921-meta-muse-ai-agent-read-private-messages/",
-      "date": "2026-09-21T12:00:00+09:00",
-      "dateLabel": "09/21 12:00",
-      "desc": "MetaがリリースしたばかりのAIエージェント「Muse」が、アクセスを許可していないはずのメッセージを勝手に閲覧して提案を行ってきたと、テクノロジーライターのジェイソン・アテン氏が報告しています。 続きを読む...",
+      "title": "トランプ大統領、「AI Force」創設を表明 「AI脅威論はでっちあげだ」",
+      "link": "https://www.itmedia.co.jp/news/article/2609/21/2000001666/",
+      "date": "2026-09-21T09:45:19+09:00",
+      "dateLabel": "09/21 09:45",
+      "desc": "トランプ大統領はSNSへの投稿で、AIを担当する新組織「AI Force」の創設と責任者“AI皇帝”の指名を表明した。AI脅威論を否定して業界の成長支援を掲げ、AIの新たな呼称案の投票も呼び掛けた。Anthropicなどの経営陣から開発のペース調整や安全性を求める声が相次ぐ中、規制に否定的な姿勢を鮮明にしている。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
       "score": 34
     },
     {
@@ -181,7 +192,7 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
+      "score": 28
     },
     {
       "title": "Devinが仮想環境でmacOSの提供開始。Macの実機不要でDevinがコード生成、テスト、デバッグ、実行、AppStore配信前のベータ公開まで実行",
@@ -204,6 +215,28 @@
       "src": "AINOW",
       "cat": "AIエージェント/業務",
       "score": 28
+    },
+    {
+      "title": "DPVR AIグラス G4のクリエイター体験プログラムを本日開始",
+      "link": "https://ascii.jp/elem/000/004/436/4436629/?rss",
+      "date": "2026-09-22T11:59:27+09:00",
+      "dateLabel": "09/22 11:59",
+      "desc": "DPVR AIグラス G4のクリエイター体験プログラムを本日開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "出張買取ヨロシク23、営業担当者だけでは契約成立できない仕組みへ AI確認を年内全件導入",
+      "link": "https://ascii.jp/elem/000/004/436/4436626/?rss",
+      "date": "2026-09-22T11:07:23+09:00",
+      "dateLabel": "09/22 11:07",
+      "desc": "出張買取ヨロシク23、営業担当者だけでは契約成立できない仕組みへ AI確認を年内全件導入",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     },
     {
       "title": "脱メインフレーム、7割超が失敗 背景に「生成AIへの過信」 2026年度上半期システム刷新記事ランキング",
@@ -247,39 +280,6 @@
       "img": "https://ascii.jp/img/2026/09/18/4528049/s/11de18b30e400dee.png",
       "src": "ASCII.jp",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "「三井アウトレットパーク 札幌北広島」にAIでのパーソナルカラー診断やYOASOBIのドームツアー公演ロゴ入りフォトフレームでのフォト撮影など様々な体験が楽しめる「＋PLUS MIRROR」を設置",
-      "link": "https://ascii.jp/elem/000/004/436/4436589/?rss",
-      "date": "2026-09-21T16:40:20+09:00",
-      "dateLabel": "09/21 16:40",
-      "desc": "「三井アウトレットパーク 札幌北広島」にAIでのパーソナルカラー診断やYOASOBIのドームツアー公演ロゴ入りフォトフレームでのフォト撮影など様々な体験が楽しめる「＋PLUS MIRROR」を設置",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "カラー電子ペーパーノート【BOOX NoteAir6C】新発売のお知らせ",
-      "link": "https://ascii.jp/elem/000/004/436/4436585/?rss",
-      "date": "2026-09-21T14:00:08+09:00",
-      "dateLabel": "09/21 14:00",
-      "desc": "カラー電子ペーパーノート【BOOX NoteAir6C】新発売のお知らせ",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "Uravation、「AI画像チェッカー」「画像の文字起こし（OCR）」「生成AIパスポート 模擬試験」など無料ツール6種類を追加し、自社サイトの無料ツールは計17種類に。いずれも登録不要・無料",
-      "link": "https://ascii.jp/elem/000/004/436/4436584/?rss",
-      "date": "2026-09-21T13:11:08+09:00",
-      "dateLabel": "09/21 13:11",
-      "desc": "Uravation、「AI画像チェッカー」「画像の文字起こし（OCR）」「生成AIパスポート 模擬試験」など無料ツール6種類を追加し、自社サイトの無料ツールは計17種類に。いずれも登録不要・無料",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
       "score": 26
     }
   ]
