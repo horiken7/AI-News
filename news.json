@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-24T02:34:16.869907+09:00",
-  "generatedLabel": "2026/09/24 02:34",
+  "generatedAt": "2026-09-24T05:50:05.871277+09:00",
+  "generatedLabel": "2026/09/24 05:50",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 55,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -206,6 +206,17 @@
       "score": 34
     },
     {
+      "title": "主張：「超知能」近づく？ AI企業の誇大宣伝にだまされるな",
+      "link": "https://ascii.jp/elem/000/004/436/4436693/?rss",
+      "date": "2026-09-24T05:22:40+09:00",
+      "dateLabel": "09/24 05:22",
+      "desc": "この数カ月、AI企業は脆弱性発見の能力や数学上のブレークスルーを次々と誇示し、メディアもそれを大きく報じてきた。だが専門家が検証すると、ハッキング事件の本質はセキュリティ対策の不備であり、数学的成果も見かけほど新規性はなかった。「暴走したモデル」という表現は、企業の責任を製品に肩代わりさせているとティムニット・ゲブルとエミリー・M・ベンダーは主張する。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "企業向けスライドAI、生成速度とデザイン品質の改善を予定",
       "link": "https://ascii.jp/elem/000/004/436/4436682/?rss",
       "date": "2026-09-23T15:22:09+09:00",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "Amazon、MetaのAIエージェント「Muse」による代理購入をブロック Shopifyは全店舗で対応へ",
-      "link": "https://www.itmedia.co.jp/news/article/2609/22/2000001669/",
-      "date": "2026-09-22T09:43:43+09:00",
-      "dateLabel": "09/22 09:43",
-      "desc": "AmazonがMetaのAIエージェント「Muse」による自社サイトでの代理購入をブロックしたと報じられた。無断アクセスやセキュリティ上のリスクを理由としている。一方、MetaはShopify全ストアへの対応を発表するなど連携拡大を進める。自社サイトでのAIエージェント排除を強めるAmazonとの対立が鮮明になっている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
