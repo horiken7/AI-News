@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-23T10:02:55.473201+09:00",
-  "generatedLabel": "2026/09/23 10:02",
+  "generatedAt": "2026-09-23T15:57:30.047564+09:00",
+  "generatedLabel": "2026/09/23 15:57",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 56,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -62,6 +62,17 @@
     }
   ],
   "articles": [
+    {
+      "title": "AnthropicがAIモデル「Claude Opus 5.5」を発表、Opus 5よりコスト40％減・30％以上高速化しコーディング性能も向上",
+      "link": "https://gigazine.net/news/20260923-claude-opus-5-5/",
+      "date": "2026-09-23T14:30:00+09:00",
+      "dateLabel": "09/23 14:30",
+      "desc": "AI企業のAnthropicが、新しいAIモデル「Claude Opus 5.5」を発表しました。Claude 5.5ファミリーで最初のモデルで、従来のClaude Opus 5から性能や効率、安全性を改善し、一般的な処理ではOpus 5より40％低いコストで利用できるとしています。また、出力速度もOpus 5より30％以上高速化しています。 続きを読む..",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 58
+    },
     {
       "title": "Anthropic、「Claude Opus 5.5」公開 Fable 5.1並みの性能で利用コスト4割減",
       "link": "https://www.itmedia.co.jp/news/article/2609/23/2000001673/",
@@ -118,25 +129,14 @@
       "score": 50
     },
     {
-      "title": "OpenAI「GPT-6 Sol/Luna」発表 料金半額、ただし普通のChatではまだ使えず",
-      "link": "https://ascii.jp/elem/000/004/436/4436644/?rss",
-      "date": "2026-09-23T06:10:00+09:00",
-      "dateLabel": "09/23 06:10",
-      "desc": "OpenAIは9月22日、新AIモデルの「GPT-6 Sol」「GPT-6 Luna」を発表した。",
-      "img": "https://ascii.jp/img/2026/09/23/4529070/s/905c49e593486c27.png",
+      "title": "Uravation、Microsoft Copilot研修に「Copilot Studioでエージェントを作る」コースを追加。非エンジニアが2日間で社内Q&Aや問い合わせ一次回答のエージェントを自作",
+      "link": "https://ascii.jp/elem/000/004/436/4436676/?rss",
+      "date": "2026-09-23T11:00:00+09:00",
+      "dateLabel": "09/23 11:00",
+      "desc": "Uravation、Microsoft Copilot研修に「Copilot Studioでエージェントを作る」コースを追加。非エンジニアが2日間で社内Q&Aや問い合わせ一次回答のエージェントを自作",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "OpenAI、フロンティアAIの国際標準づくりを米国主導で進めるよう提言 「RSIはまだ起きていない」",
-      "link": "https://www.itmedia.co.jp/news/article/2609/22/2000001670/",
-      "date": "2026-09-22T10:51:09+09:00",
-      "dateLabel": "09/22 10:51",
-      "desc": "た。各国のAI安全性研究所の連携などを提案し、制御不能な自律的進化を防ぐ枠組みを求める。アルトマンCEOは国連安保理の公開会合でも発言する予定だ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
+      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -149,6 +149,17 @@
       "src": "ITmedia AI+",
       "cat": "規制/安全",
       "score": 42
+    },
+    {
+      "title": "「GPT-6 Sol」と「GPT-6 Luna」が登場、API料金は前世代の半額でコスト効率が大幅に向上",
+      "link": "https://gigazine.net/news/20260923-gpt-6-sol-luna/",
+      "date": "2026-09-23T15:30:00+09:00",
+      "dateLabel": "09/23 15:30",
+      "desc": "OpenAIが「GPT-6 Sol」と「GPT-6 Luna」を現地時間の2026年9月22日にリリースしました。どちらもGPT-6 Astraと同様の手法でトレーニングされており、前世代モデルと比べてコスト効率が大幅に向上しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "今押さえたい「半導体」の基礎知識 極小チップが“AI時代の戦略物資”になった、納得の理由",
@@ -184,17 +195,6 @@
       "score": 34
     },
     {
-      "title": "3D鋼製シャフトの疲労寿命をノード単位で予測するAIサロゲートモデル「FatigueNet」をASME国際会議で発表",
-      "link": "https://ascii.jp/elem/000/004/436/4436650/?rss",
-      "date": "2026-09-22T18:56:41+09:00",
-      "dateLabel": "09/22 18:56",
-      "desc": "3D鋼製シャフトの疲労寿命をノード単位で予測するAIサロゲートモデル「FatigueNet」をASME国際会議で発表",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "無料でひとりでは無く複数人のチームで使うことができるAIエージェント「OneCLI」、オープンソースでセルフホスト可能",
       "link": "https://gigazine.net/news/20260922-onecli/",
       "date": "2026-09-22T18:00:00+09:00",
@@ -206,14 +206,14 @@
       "score": 34
     },
     {
-      "title": "OpenAI、数学者の独立諮問グループと連携 内部モデルは「100件超の未解決問題を解決」",
-      "link": "https://www.itmedia.co.jp/news/article/2609/22/2000001671/",
-      "date": "2026-09-22T11:49:24+09:00",
-      "dateLabel": "09/22 11:49",
-      "desc": "OpenAIは、数学者が設立した独立組織「AGMAI」と連携し、AIによる数学的成果の評価や公表方法について助言を受けると発表した。社内モデルによる100件以上の未解決問題解決を受けた動きで、急速な成果発表や帰属問題を巡る数学界からの批判に対応する。組織は独立して運営され、他社への助言も行う方針だ。",
+      "title": "OpenAI、フロンティアAIの国際標準づくりを米国主導で進めるよう提言 「RSIはまだ起きていない」",
+      "link": "https://www.itmedia.co.jp/news/article/2609/22/2000001670/",
+      "date": "2026-09-22T10:51:09+09:00",
+      "dateLabel": "09/22 10:51",
+      "desc": "た。各国のAI安全性研究所の連携などを提案し、制御不能な自律的進化を防ぐ枠組みを求める。アルトマンCEOは国連安保理の公開会合でも発言する予定だ。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
+      "cat": "規制/安全",
       "score": 34
     },
     {
@@ -228,17 +228,6 @@
       "score": 34
     },
     {
-      "title": "「Jev」とは “文章を書かないAI”がなぜ話題に？ 元OpenAI研究者が開発、「“スマートなif文”と考えてみて」",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/20/2000001664/",
-      "date": "2026-09-20T16:00:26+09:00",
-      "dateLabel": "09/20 16:00",
-      "desc": "米スタートアップのTypeSafe AIが9月15日（現地時間）に発表したAIモデル「Jev」（ジェヴ）が、海外や日本のAIコミュニティで大きな注目を集めている。この記事では、Jevとは何か、LLMとはどう違うのかなどを整理する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "Devinが仮想環境でmacOSの提供開始。Macの実機不要でDevinがコード生成、テスト、デバッグ、実行、AppStore配信前のベータ公開まで実行",
       "link": "https://www.publickey1.jp/blog/26/devinmacosmacdevinappstore.html",
       "date": "2026-09-17T01:00:51+09:00",
@@ -248,6 +237,28 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 28
+    },
+    {
+      "title": "企業向けスライドAI、生成速度とデザイン品質の改善を予定",
+      "link": "https://ascii.jp/elem/000/004/436/4436682/?rss",
+      "date": "2026-09-23T15:22:09+09:00",
+      "dateLabel": "09/23 15:22",
+      "desc": "企業向けスライドAI、生成速度とデザイン品質の改善を予定",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
+      "title": "その鳴き声、甘え？それとも不安？犬・猫の気分をAIで予想する「PettiChat」Makuake先行販売",
+      "link": "https://ascii.jp/elem/000/004/436/4436663/?rss",
+      "date": "2026-09-23T09:10:00+09:00",
+      "dateLabel": "09/23 09:10",
+      "desc": "その鳴き声、甘え？それとも不安？犬・猫の気分をAIで予想する「PettiChat」Makuake先行販売",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     },
     {
       "title": "AWS、SalesforceがAI連携を強化 データ分断をどう解消するか",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "Aurora Mobile の GPTBots.ai、Jev を統合し、単一の企業向けプラットフォームで二層型 AI アーキテクチャを実現",
-      "link": "https://ascii.jp/elem/000/004/436/4436651/?rss",
-      "date": "2026-09-22T18:56:07+09:00",
-      "dateLabel": "09/22 18:56",
-      "desc": "Aurora Mobile の GPTBots.ai、Jev を統合し、単一の企業向けプラットフォームで二層型 AI アーキテクチャを実現",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
       "score": 26
     }
   ]
