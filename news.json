@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-23T07:30:52.867877+09:00",
-  "generatedLabel": "2026/09/23 07:30",
+  "generatedAt": "2026-09-23T10:02:55.473201+09:00",
+  "generatedLabel": "2026/09/23 10:02",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 55,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 11
+      "items": 10
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "Anthropic、「Claude Opus 5.5」公開 Fable 5.1並みの性能で利用コスト4割減",
+      "link": "https://www.itmedia.co.jp/news/article/2609/23/2000001673/",
+      "date": "2026-09-23T06:57:43+09:00",
+      "dateLabel": "09/23 06:57",
+      "desc": "Anthropicは「Claude Opus 5.5」を発表した。多くの作業で「Fable 5.1」並みの性能を持ち、利用コストは「Opus 5」より約40％低い。Pro以上の有料プランとAPIで即日提供を始めた。アモデイCEOの「ペース調整」エッセイ後初のモデルで、METRなど外部機関による事前評価を経て、Fable 5.1と同等クラスのセーフガードを適用",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 58
+    },
+    {
       "title": "Anthropic「Claude Opus 5.5」発表 40％低コストになり、OpenAI「GPT-6 Astra」を一部で上回る",
       "link": "https://ascii.jp/elem/000/004/436/4436645/?rss",
       "date": "2026-09-23T06:25:00+09:00",
@@ -74,14 +85,25 @@
       "score": 58
     },
     {
-      "title": "SpaceXAI、「Grok 4.7」発表 コーディングと知識労働向けで同社最高性能、価格は据え置き",
-      "link": "https://www.itmedia.co.jp/news/article/2609/22/2000001668/",
-      "date": "2026-09-22T08:46:47+09:00",
-      "dateLabel": "09/22 08:46",
-      "desc": "SpaceXAIはAIモデル「Grok 4.7」を発表した。前モデルと同価格・同速度を維持しつつ大規模なベースモデルを採用し、コーディングや長時間の業務タスク性能、安全性を強化した。[Cursor](https://www.itmedia.co.jp/news/article/2606/17/1260617066/)やAPI経由で即日提供し、競合の最新モデル",
+      "title": "OpenAI、「GPT-6 Sol」と「GPT-6 Luna」公開 API料金は前世代の半額に",
+      "link": "https://www.itmedia.co.jp/news/article/2609/23/2000001674/",
+      "date": "2026-09-23T09:12:02+09:00",
+      "dateLabel": "09/23 09:12",
+      "desc": "OpenAIは新モデル「GPT-6 Sol」と「GPT-6 Luna」を公開した。最上位のAstraと同様の手法で訓練し、前世代からAPI料金を半額に引き下げた。ChatGPTやCodexで順次提供する。アライメント改善が進む一方、思考過程で評価を察知する兆候が増加するなど監視上の課題も残る。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "規制/安全",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
+      "title": "AI投資1兆ドルの帳尻は？ 「生産性2.7倍が必要」と 経済学者たちは試算する",
+      "link": "https://ascii.jp/elem/000/004/436/4436647/?rss",
+      "date": "2026-09-23T06:33:14+09:00",
+      "dateLabel": "09/23 06:33",
+      "desc": "AIデータセンターへの投資が2027年までに1.1兆ドル近くに膨らむ一方、2026年のAI関連の総収益は1500億〜2000億ドル程度にとどまる見込みだ。投資の元を取るには生産性を2.7倍にする必要があるとの試算もあるが、経済統計はAIによる生産性向上をほとんど示していない。しかも借入による資金調達が進み、リスクは年金基金や生命保険にまで広がりつつある。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
       "score": 50
     },
     {
@@ -107,17 +129,6 @@
       "score": 42
     },
     {
-      "title": "Uravation、法人向け「Claude Cowork導入研修」を提供開始。Claudeの標準機能になったCoworkで、営業・経理・人事などの非エンジニア部門が自分の業務を任せるまでを2日間で",
-      "link": "https://ascii.jp/elem/000/004/436/4436628/?rss",
-      "date": "2026-09-22T11:00:00+09:00",
-      "dateLabel": "09/22 11:00",
-      "desc": "Uravation、法人向け「Claude Cowork導入研修」を提供開始。Claudeの標準機能になったCoworkで、営業・経理・人事などの非エンジニア部門が自分の業務を任せるまでを2日間で",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "OpenAI、フロンティアAIの国際標準づくりを米国主導で進めるよう提言 「RSIはまだ起きていない」",
       "link": "https://www.itmedia.co.jp/news/article/2609/22/2000001670/",
       "date": "2026-09-22T10:51:09+09:00",
@@ -129,15 +140,26 @@
       "score": 42
     },
     {
-      "title": "VRAM容量32GBで30万円未満なIntelグラボ「Intel Arc Pro B70 Creator 32GB」でローカルLLM「Qwen3.8 27B」や動画生成AI「MiniMax H3」を実行して生成速度を確かめてみた",
-      "link": "https://gigazine.net/news/20260919-arc-pro-b70-llm-review/",
-      "date": "2026-09-19T20:00:00+09:00",
-      "dateLabel": "09/19 20:00",
-      "desc": "大規模言語モデル(LLM)や画像・動画生成AIを高速実行するにはモデル全体を高速なVRAMに収める必要があります。しかし、AI需要に伴うグラフィックボードの価格高騰によって、VRAM容量32GBのNVIDIA GeForce RTX 5090は100万円を超えるようになってしまいました。一方で、Intel製GPU「Intel Arc Pro B70」を搭載し",
+      "title": "SpaceXAI、「Grok 4.7」発表 コーディングと知識労働向けで同社最高性能、価格は据え置き",
+      "link": "https://www.itmedia.co.jp/news/article/2609/22/2000001668/",
+      "date": "2026-09-22T08:46:47+09:00",
+      "dateLabel": "09/22 08:46",
+      "desc": "SpaceXAIはAIモデル「Grok 4.7」を発表した。前モデルと同価格・同速度を維持しつつ大規模なベースモデルを採用し、コーディングや長時間の業務タスク性能、安全性を強化した。[Cursor](https://www.itmedia.co.jp/news/article/2606/17/1260617066/)やAPI経由で即日提供し、競合の最新モデル",
       "img": "",
-      "src": "GIGAZINE",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
+      "score": 42
+    },
+    {
+      "title": "今押さえたい「半導体」の基礎知識 極小チップが“AI時代の戦略物資”になった、納得の理由",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/23/news004.html",
+      "date": "2026-09-23T08:00:00+09:00",
+      "dateLabel": "09/23 08:00",
+      "desc": "ニュースでよく聞く「半導体」。「GPUのことね」「AI時代に重要なんでしょ」という認識はあっても、その本質を理解できていますか？ 半導体が重要視される理由を基礎から解説します。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "半導体/GPU",
-      "score": 36
+      "score": 34
     },
     {
       "title": "AIは人類を滅ぼすのか？ 米国版編集部が読者の質問に答えた",
@@ -162,6 +184,17 @@
       "score": 34
     },
     {
+      "title": "3D鋼製シャフトの疲労寿命をノード単位で予測するAIサロゲートモデル「FatigueNet」をASME国際会議で発表",
+      "link": "https://ascii.jp/elem/000/004/436/4436650/?rss",
+      "date": "2026-09-22T18:56:41+09:00",
+      "dateLabel": "09/22 18:56",
+      "desc": "3D鋼製シャフトの疲労寿命をノード単位で予測するAIサロゲートモデル「FatigueNet」をASME国際会議で発表",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "無料でひとりでは無く複数人のチームで使うことができるAIエージェント「OneCLI」、オープンソースでセルフホスト可能",
       "link": "https://gigazine.net/news/20260922-onecli/",
       "date": "2026-09-22T18:00:00+09:00",
@@ -181,17 +214,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Amazon、MetaのAIエージェント「Muse」による代理購入をブロック Shopifyは全店舗で対応へ",
-      "link": "https://www.itmedia.co.jp/news/article/2609/22/2000001669/",
-      "date": "2026-09-22T09:43:43+09:00",
-      "dateLabel": "09/22 09:43",
-      "desc": "AmazonがMetaのAIエージェント「Muse」による自社サイトでの代理購入をブロックしたと報じられた。無断アクセスやセキュリティ上のリスクを理由としている。一方、MetaはShopify全ストアへの対応を発表するなど連携拡大を進める。自社サイトでのAIエージェント排除を強めるAmazonとの対立が鮮明になっている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -228,58 +250,36 @@
       "score": 28
     },
     {
-      "title": "DPVR AIグラス G4のクリエイター体験プログラムを本日開始",
-      "link": "https://ascii.jp/elem/000/004/436/4436629/?rss",
-      "date": "2026-09-22T11:59:27+09:00",
-      "dateLabel": "09/22 11:59",
-      "desc": "DPVR AIグラス G4のクリエイター体験プログラムを本日開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "出張買取ヨロシク23、営業担当者だけでは契約成立できない仕組みへ AI確認を年内全件導入",
-      "link": "https://ascii.jp/elem/000/004/436/4436626/?rss",
-      "date": "2026-09-22T11:07:23+09:00",
-      "dateLabel": "09/22 11:07",
-      "desc": "出張買取ヨロシク23、営業担当者だけでは契約成立できない仕組みへ AI確認を年内全件導入",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "脱メインフレーム、7割超が失敗 背景に「生成AIへの過信」 2026年度上半期システム刷新記事ランキング",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2609/22/news018.html",
-      "date": "2026-09-22T08:00:00+09:00",
-      "dateLabel": "09/22 08:00",
-      "desc": "生成AIがあればレガシー刷新は楽になる――。この期待に冷や水を浴びせる予測が発表されました。2026年度上半期（4～9月）のシステム刷新関連記事トップ10を紹介し、「システム刷新における生成AIの現在地」と「AI時代に人に残る役割」に迫ります。",
+      "title": "AWS、SalesforceがAI連携を強化 データ分断をどう解消するか",
+      "link": "https://kn.itmedia.co.jp/kn/article/2609/23/2000001663/",
+      "date": "2026-09-23T07:00:00+09:00",
+      "dateLabel": "09/23 07:00",
+      "desc": "AIエージェントの導入が進む一方、企業には「必要なデータが別のシステムにある」というボトルネックがある。AWSとSalesforceは、データを移動させず、普段使うツールの中でAIを活用できる環境づくりを進める。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
-      "title": "MetaのAIエージェント「Muse」が許可していないはずのメッセージを勝手に読んでいるとの指摘",
-      "link": "https://gigazine.net/news/20260921-meta-muse-ai-agent-read-private-messages/",
-      "date": "2026-09-21T12:00:00+09:00",
-      "dateLabel": "09/21 12:00",
-      "desc": "MetaがリリースしたばかりのAIエージェント「Muse」が、アクセスを許可していないはずのメッセージを勝手に閲覧して提案を行ってきたと、テクノロジーライターのジェイソン・アテン氏が報告しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 26
     },
     {
-      "title": "エヌビディアCEO「誰かと夕食をすると、その翌日に相手の株価が2倍になる」 GPUを巡る巨額マネーの行方",
-      "link": "https://www.itmedia.co.jp/business/articles/2609/21/news024.html",
-      "date": "2026-09-21T08:00:00+09:00",
-      "dateLabel": "09/21 08:00",
-      "desc": "NVIDIAのフアンCEOが「私がどこで夕食を食べるのか、そして誰と夕食を食べるのかを調べることだ。そうすると、相手の株価が翌日に2倍になる」と語った。GPUを巡る巨額マネーの行方は。",
+      "title": "AIを導入した企業ほど困る「データ基盤問題」 パーソルが3サービスで支援へ",
+      "link": "https://kn.itmedia.co.jp/kn/article/2609/23/2000001607/",
+      "date": "2026-09-23T07:00:00+09:00",
+      "dateLabel": "09/23 07:00",
+      "desc": "生成AIやAIエージェントの導入が進む一方、データの整理不足や権限管理、コスト、老朽化した基盤が活用のボトルネックとなる。パーソルビジネスプロセスデザインは、AIを継続利用するためのデータ基盤を支援する3サービスを開始した。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "Aurora Mobile の GPTBots.ai、Jev を統合し、単一の企業向けプラットフォームで二層型 AI アーキテクチャを実現",
+      "link": "https://ascii.jp/elem/000/004/436/4436651/?rss",
+      "date": "2026-09-22T18:56:07+09:00",
+      "dateLabel": "09/22 18:56",
+      "desc": "Aurora Mobile の GPTBots.ai、Jev を統合し、単一の企業向けプラットフォームで二層型 AI アーキテクチャを実現",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
       "score": 26
     }
   ]
