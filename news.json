@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-24T22:04:33.828601+09:00",
-  "generatedLabel": "2026/09/24 22:04",
+  "generatedAt": "2026-09-25T03:03:14.570355+09:00",
+  "generatedLabel": "2026/09/25 03:03",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 64,
+  "candidates": 65,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 9
+      "items": 10
     },
     {
       "source": "AINOW",
@@ -94,6 +94,17 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 50
+    },
+    {
+      "title": "Go言語で書かれた高速なIDE「Rune」、オープンソースで公開。ターミナルとコマンドプロンプト中心の開発環境、複数リモートノードをローカルのように操作可能",
+      "link": "https://www.publickey1.jp/blog/26/goiderune.html",
+      "date": "2026-09-25T00:45:08+09:00",
+      "dateLabel": "09/25 00:45",
+      "desc": "開発ツールベンダのUnstablebuildは、Go言語製のIDE「Rune」をオープンソースで公開したことを発表しました。 Runeの画面 RuneはGo言語によるネイティブアプリケーションとして提供される高速なIDEです。GPUによる描...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "半導体/GPU",
+      "score": 42
     },
     {
       "title": "AnthropicのClaudeがバクテリオファージからCRISPRに似た未知の酵素システムを発見、ダリオ・アモデイCEOはAIで「5〜10年以内に多くの病気を治せる」と予測",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "Claude Codeが「AGENTS.md」に対応。CLAUDE.mdが存在しない場合、自動的に読み込み",
-      "link": "https://www.publickey1.jp/blog/26/claude_codeagentsmdclaudemd.html",
-      "date": "2026-09-24T00:23:11+09:00",
-      "dateLabel": "09/24 00:23",
-      "desc": "Anthropicは、Claude Codeの9月18日付けアップデートClaude Code 2.1.277で「AGENTS.md」の読み込みに対応したことを明らかにしました。 以下のように説明されています。 Added AGENTS...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "LLM/モデル",
       "score": 34
     }
   ]
