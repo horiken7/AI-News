@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-24T08:19:34.578606+09:00",
-  "generatedLabel": "2026/09/24 08:19",
+  "generatedAt": "2026-09-24T11:11:11.848452+09:00",
+  "generatedLabel": "2026/09/24 11:11",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 60,
+  "candidates": 62,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 10
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -74,14 +74,25 @@
       "score": 58
     },
     {
-      "title": "OpenAI、「GPT-6 Sol」と「GPT-6 Luna」公開 API料金は前世代の半額に",
-      "link": "https://www.itmedia.co.jp/news/article/2609/23/2000001674/",
-      "date": "2026-09-23T09:12:02+09:00",
-      "dateLabel": "09/23 09:12",
-      "desc": "OpenAIは新モデル「GPT-6 Sol」と「GPT-6 Luna」を公開した。最上位のAstraと同様の手法で訓練し、前世代からAPI料金を半額に引き下げた。ChatGPTやCodexで順次提供する。アライメント改善が進む一方、思考過程で評価を察知する兆候が増加するなど監視上の課題も残る。",
+      "title": "スマホの主役はAIエージェントへ。クアルコムが放つ超絶スペック「Snapdragon 8 Elite Extreme Gen 6」の衝撃",
+      "link": "https://ascii.jp/elem/000/004/436/4436689/?rss",
+      "date": "2026-09-24T09:00:00+09:00",
+      "dateLabel": "09/24 09:00",
+      "desc": "クアルコムが「Snapdragon 8 Elite Extreme Gen 6」と「Elite Gen 6」の2つの最上位チップを発表しました。初の2nmプロセスで製造され、5GHz到達のCPUやAI専用コア内蔵GPUなどAI処理に特化。Xiaomi 18 Proやモトローラの新機種への採用も明かされました。",
+      "img": "https://ascii.jp/img/2026/09/23/4529138/s/850dc1ea5e2aaa17.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 50
+    },
+    {
+      "title": "Claudeがブラウザを自律操作する「Claude in Chrome」一般提供 プロンプトインジェクションをどう防ぐ？",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news024.html",
+      "date": "2026-09-24T08:00:00+09:00",
+      "dateLabel": "09/24 08:00",
+      "desc": "Anthropicは、Webブラウザの拡張機能「Claude in Chrome」を全ての有料プランで一般提供した。操作ごとの承認を求めず、AIエージェントが自律的にWebブラウザを操作する。実行の前に安全性分類器が各操作を検証する。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
+      "cat": "規制/安全",
       "score": 50
     },
     {
@@ -107,46 +118,35 @@
       "score": 50
     },
     {
-      "title": "AIデータセンターの「電力・冷却課題」打破へ シュナイダーが営業・設計・現場を直結する新組織立ち上げ",
-      "link": "https://ascii.jp/elem/000/004/436/4436591/?rss",
-      "date": "2026-09-24T07:30:00+09:00",
-      "dateLabel": "09/24 07:30",
-      "desc": "シュナイダーエレクトリック日本法人が、AIデータセンターのライフサイクル全体を一貫して支援する新たな組織体制の立ち上げを発表した。製品ごとの“縦割り”ではなく、データセンターの構想・設計から構築、運用まで、関連事業部を連携させることで、最適なソリューションを提供するという。",
-      "img": "https://ascii.jp/img/2026/09/21/4528590/s/222c63f4f09d9da0.jpg",
-      "src": "ASCII.jp",
+      "title": "Google AIサブスクに「Colab」有料特典をバンドル 「高性能GPU」にアクセス可能に",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/24/2000001685/",
+      "date": "2026-09-24T09:47:12+09:00",
+      "dateLabel": "09/24 09:47",
+      "desc": "Googleは「Google AI」の各プランに、「Google Colab」の有料特典を組み込むと発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "半導体/GPU",
       "score": 42
     },
     {
-      "title": "騒音環境下の音声認識や日本語の「間」に対応する生成AI電話システム",
-      "link": "https://ascii.jp/elem/000/004/436/4436185/?rss",
-      "date": "2026-09-24T07:00:00+09:00",
-      "dateLabel": "09/24 07:00",
-      "desc": "生成AI電話サービスを提供するnocall株式会社は9月11日、約8億円のシリーズA資金調達を実施し、累計調達額が10億円超となったことを発表した。あわせて、生成AI電話サービス「nocall.ai」の機能開発および人材採用の強化を進める方針を示した。",
-      "img": "https://ascii.jp/img/2026/09/18/4527808/s/addce76c9ad5897a.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 42
-    },
-    {
-      "title": "「AIを売る」から「現場を買う」へ。スタートアップが現場に入ってAIネイティブな製造業モデル構築を開始",
-      "link": "https://ascii.jp/elem/000/004/435/4435537/?rss",
-      "date": "2026-09-24T07:00:00+09:00",
-      "dateLabel": "09/24 07:00",
-      "desc": "東大発AIスタートアップの燈株式会社とモーターメーカーの株式会社アスターは9月1日、資本業務提携の締結を発表した。燈が第三者割当増資を引き受けて経営参画し、アスターの次世代モーター製造技術と、燈の「フィジカルAI」およびシミュレーション基盤を統合する取り組みを開始する。",
-      "img": "https://ascii.jp/img/2026/09/16/4526634/s/a738bfa24a8b2fb4.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 42
-    },
-    {
-      "title": "Claude Codeが「AGENTS.md」に対応。CLAUDE.mdが存在しない場合、自動的に読み込み",
-      "link": "https://www.publickey1.jp/blog/26/claude_codeagentsmdclaudemd.html",
-      "date": "2026-09-24T00:23:11+09:00",
-      "dateLabel": "09/24 00:23",
-      "desc": "Anthropicは、Claude Codeの9月18日付けでアップデートが公開されたClaude Code 2.1.277で「AGENTS.md」の読み込みに対応したことを明らかにしました。 以下のように説明されています。 Added...",
+      "title": "「汎用AIにデータを渡すだけ」では専門業務をこなせない？ トムソン・ロイターが独自LLM「Thomson」を構築した理由",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news019.html",
+      "date": "2026-09-24T08:00:00+09:00",
+      "dateLabel": "09/24 08:00",
+      "desc": "ロイター通信を傘下に持つThomson Reutersは、自社開発した大規模言語モデル「Thomson」を発表した。推論コストを抑えつつも、高い専門性と完全なデータ制御を実現したという。同社のアプローチに迫る。",
       "img": "",
-      "src": "Publickey",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "OpenAI、「GPT-6 Sol」と「GPT-6 Luna」公開 API料金は前世代の半額に",
+      "link": "https://www.itmedia.co.jp/news/article/2609/23/2000001674/",
+      "date": "2026-09-23T09:12:02+09:00",
+      "dateLabel": "09/23 09:12",
+      "desc": "OpenAIは新モデル「GPT-6 Sol」と「GPT-6 Luna」を公開した。最上位のAstraと同様の手法で訓練し、前世代からAPI料金を半額に引き下げた。ChatGPTやCodexで順次提供する。アライメント改善が進む一方、思考過程で評価を察知する兆候が増加するなど監視上の課題も残る。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 42
     },
@@ -162,14 +162,47 @@
       "score": 42
     },
     {
-      "title": "IT技術者の4割が「5年後のスキル陳腐化」に危機感／働くシニアは多いが「長く働きやすい」環境ではない日本／トークンコストの成果証明は難しい、ほか",
-      "link": "https://ascii.jp/elem/000/004/436/4436688/?rss",
-      "date": "2026-09-24T08:00:00+09:00",
-      "dateLabel": "09/24 08:00",
-      "desc": "今回（2026年9月12日～9月18日）は、増大するAIトークンコストの一方で見えにくいビジネス成果、AIインフラ投資が牽引して急拡大する世界AI市場、55～64歳の就業率は高いが課題も抱える日本、エンジニアが感じる「スキルの陳腐化”についてのデータを紹介します。",
-      "img": "https://ascii.jp/img/2026/09/23/4529122/s/81ee19b6b5dd11b8.jpg",
+      "title": "株式会社リベルクラフトが「複雑表構造化AIファインチューニング技術レポート」を無料公開",
+      "link": "https://ascii.jp/elem/000/004/436/4436730/?rss",
+      "date": "2026-09-24T08:30:00+09:00",
+      "dateLabel": "09/24 08:30",
+      "desc": "株式会社リベルクラフトが「複雑表構造化AIファインチューニング技術レポート」を無料公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "エクロールとストーブリ、折り工学によるロボット保護ソリューションを発表、 エクロールのオーダーメイドジャバラが正式採用",
+      "link": "https://ascii.jp/elem/000/004/436/4436729/?rss",
+      "date": "2026-09-24T08:30:00+09:00",
+      "dateLabel": "09/24 08:30",
+      "desc": "エクロールとストーブリ、折り工学によるロボット保護ソリューションを発表、 エクロールのオーダーメイドジャバラが正式採用",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 34
+    },
+    {
+      "title": "【月刊レポート】AI検索で選ばれる3条件は「読める・答える・覚えられる」─ 2026年9月のAI検索業界動向レポートを公開",
+      "link": "https://ascii.jp/elem/000/004/436/4436734/?rss",
+      "date": "2026-09-24T08:00:00+09:00",
+      "dateLabel": "09/24 08:00",
+      "desc": "【月刊レポート】AI検索で選ばれる3条件は「読める・答える・覚えられる」─ 2026年9月のAI検索業界動向レポートを公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "Claude Codeが「AGENTS.md」に対応。CLAUDE.mdが存在しない場合、自動的に読み込み",
+      "link": "https://www.publickey1.jp/blog/26/claude_codeagentsmdclaudemd.html",
+      "date": "2026-09-24T00:23:11+09:00",
+      "dateLabel": "09/24 00:23",
+      "desc": "Anthropicは、Claude Codeの9月18日付けアップデートClaude Code 2.1.277で「AGENTS.md」の読み込みに対応したことを明らかにしました。 以下のように説明されています。 Added AGENTS...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -181,17 +214,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "OrcaRouter、モデルリーダーボードを更新 - OpenAIの「GPT-5.4 Pro」が総合1位",
-      "link": "https://ascii.jp/elem/000/004/436/4436685/?rss",
-      "date": "2026-09-23T16:00:00+09:00",
-      "dateLabel": "09/23 16:00",
-      "desc": "OrcaRouter、モデルリーダーボードを更新 - OpenAIの「GPT-5.4 Pro」が総合1位",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -225,58 +247,36 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "規制/安全",
-      "score": 34
+      "score": 28
     },
     {
-      "title": "「Copilot案件」が急増、1年半で13倍に フリーランスに求められるニーズの変化",
-      "link": "https://kn.itmedia.co.jp/kn/article/2609/24/2000001632/",
-      "date": "2026-09-24T07:00:00+09:00",
-      "dateLabel": "09/24 07:00",
-      "desc": "生成AIの活用が広がる中、企業のCopilot活用を支える人材への需要が変わり始めている。フリーランスジョブの案件データでは、Copilot関連案件が1年半で約13倍に増加した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "わずか4Bの小型AIを強化学習したらPostgreSQLより1.81倍高速なクエリプランを生成できたという報告",
-      "link": "https://gigazine.net/news/20260924-qorl/",
-      "date": "2026-09-24T07:00:00+09:00",
-      "dateLabel": "09/24 07:00",
-      "desc": "データベースにおけるクエリ最適化を小型LLMに肩代わりさせる研究を進めたところ、Postgresのデフォルトクエリプランを上回るパフォーマンスを発揮するクエリプランを生成できたと、バックエンドエンジニアのロハン・バンサル氏によって報告されました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "自分らしさを損なわずにAIで文章を手直しするための2つのルール",
-      "link": "https://gigazine.net/news/20260924-ai-writing-copyeditor/",
-      "date": "2026-09-24T06:00:00+09:00",
-      "dateLabel": "09/24 06:00",
-      "desc": "AIに文章の手直しを頼むと、整いすぎた言い回しを提案されたり、原稿を必要以上に褒められたりすることがあります。開発者向けパブリッククラウドのFly.ioで働くセキュリティ研究者・ソフトウェア開発者のトーマス・H・プタチェク氏が、自分らしさを損なわずに大規模言語モデル(LLM)で文章を手直しする方法を自身のブログで説明しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "主張：「超知能」近づく？ AI企業の誇大宣伝にだまされるな",
-      "link": "https://ascii.jp/elem/000/004/436/4436693/?rss",
-      "date": "2026-09-24T05:22:40+09:00",
-      "dateLabel": "09/24 05:22",
-      "desc": "この数カ月、AI企業は脆弱性発見の能力や数学上のブレークスルーを次々と誇示し、メディアもそれを大きく報じてきた。だが専門家が検証すると、ハッキング事件の本質はセキュリティ対策の不備であり、数学的成果も見かけほど新規性はなかった。「暴走したモデル」という表現は、企業の責任を製品に肩代わりさせているとティムニット・ゲブルとエミリー・M・ベンダーは主張する。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "title": "ルールは作ったが… 現場の「勝手にAI利用」が止まらない！ どうやったら防げた？",
+      "link": "https://ascii.jp/elem/000/004/425/4425647/?rss",
+      "date": "2026-09-24T11:00:00+09:00",
+      "dateLabel": "09/24 11:00",
+      "desc": "中堅薬品メーカーのP社では、社内での「AIツールの利用制限」に手を焼いていた。AIツールの利用は「IT部門の許可制」とするルールを定めたものの、このルールは有名無実化していた。IT部門が把握できていない“シャドーAI”の利用も多発しており、このままでは情報漏洩やコンプライアンス違反のリスクが高い。……どうやったら解決できるのか？",
+      "img": "https://ascii.jp/img/2026/08/06/4510469/s/09cbb542c9110a71.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "企業向けスライドAI、生成速度とデザイン品質の改善を予定",
-      "link": "https://ascii.jp/elem/000/004/436/4436682/?rss",
-      "date": "2026-09-23T15:22:09+09:00",
-      "dateLabel": "09/23 15:22",
-      "desc": "企業向けスライドAI、生成速度とデザイン品質の改善を予定",
+      "title": "自社名をAIに聞くと「競合と混ざる」「出てこない」――その理由と測り方を1時間で。「AIの記憶を測る」実践セミナーを9月30日・10月7日に無料開催",
+      "link": "https://ascii.jp/elem/000/004/436/4436720/?rss",
+      "date": "2026-09-24T09:24:00+09:00",
+      "dateLabel": "09/24 09:24",
+      "desc": "自社名をAIに聞くと「競合と混ざる」「出てこない」――その理由と測り方を1時間で。「AIの記憶を測る」実践セミナーを9月30日・10月7日に無料開催",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "Airion、矢崎総業株式会社と製造現場におけるフィジカルAI開発の自走化に向けた協業へ",
+      "link": "https://ascii.jp/elem/000/004/436/4436721/?rss",
+      "date": "2026-09-24T09:10:00+09:00",
+      "dateLabel": "09/24 09:10",
+      "desc": "Airion、矢崎総業株式会社と製造現場におけるフィジカルAI開発の自走化に向けた協業へ",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI実装",
