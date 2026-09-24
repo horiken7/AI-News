@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-24T11:11:11.848452+09:00",
-  "generatedLabel": "2026/09/24 11:11",
+  "generatedAt": "2026-09-24T16:56:46.144302+09:00",
+  "generatedLabel": "2026/09/24 16:56",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 62,
+  "candidates": 69,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 10
+      "items": 9
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 21
     },
     {
       "source": "CNET Japan",
@@ -63,28 +63,6 @@
   ],
   "articles": [
     {
-      "title": "AnthropicがAIモデル「Claude Opus 5.5」を発表、Opus 5よりコスト40％減・30％以上高速化しコーディング性能も向上",
-      "link": "https://gigazine.net/news/20260923-claude-opus-5-5/",
-      "date": "2026-09-23T14:30:00+09:00",
-      "dateLabel": "09/23 14:30",
-      "desc": "AI企業のAnthropicが、新しいAIモデル「Claude Opus 5.5」を発表しました。Claude 5.5ファミリーで最初のモデルで、従来のClaude Opus 5から性能や効率、安全性を改善し、一般的な処理ではOpus 5より40％低いコストで利用できるとしています。また、出力速度もOpus 5より30％以上高速化しています。 続きを読む..",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 58
-    },
-    {
-      "title": "スマホの主役はAIエージェントへ。クアルコムが放つ超絶スペック「Snapdragon 8 Elite Extreme Gen 6」の衝撃",
-      "link": "https://ascii.jp/elem/000/004/436/4436689/?rss",
-      "date": "2026-09-24T09:00:00+09:00",
-      "dateLabel": "09/24 09:00",
-      "desc": "クアルコムが「Snapdragon 8 Elite Extreme Gen 6」と「Elite Gen 6」の2つの最上位チップを発表しました。初の2nmプロセスで製造され、5GHz到達のCPUやAI専用コア内蔵GPUなどAI処理に特化。Xiaomi 18 Proやモトローラの新機種への採用も明かされました。",
-      "img": "https://ascii.jp/img/2026/09/23/4529138/s/850dc1ea5e2aaa17.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
       "title": "Claudeがブラウザを自律操作する「Claude in Chrome」一般提供 プロンプトインジェクションをどう防ぐ？",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news024.html",
       "date": "2026-09-24T08:00:00+09:00",
@@ -107,15 +85,70 @@
       "score": 50
     },
     {
-      "title": "無料でクラウド・ローカルの各AIモデルをOpenAI互換の単一APIでまとめて品質・速度・コストで最適化して管理しAIエージェントがどれだけの金額を使用できるかも制御できるオープンソースのゲートウェイ・ルーター「Experiential」",
-      "link": "https://gigazine.net/news/20260921-experiential/",
-      "date": "2026-09-21T18:00:00+09:00",
-      "dateLabel": "09/21 18:00",
-      "desc": "OpenAI・Anthropic・Geminiなど複数のAIモデルを使い分ける場合、APIキーや料金、利用状況の管理もサービスごとに分散します。クラウドやローカルのAIモデルをOpenAI互換の単一APIにまとめ、利用量や予算を一元管理できるオープンソースのAIゲートウェイ「Experiential」が公開されています。 続きを読む...",
+      "title": "AnthropicのClaudeがバクテリオファージからCRISPRに似た未知の酵素システムを発見、ダリオ・アモデイCEOはAIで「5〜10年以内に多くの病気を治せる」と予測",
+      "link": "https://gigazine.net/news/20260924-anthropic-claude-crispr/",
+      "date": "2026-09-24T15:20:00+09:00",
+      "dateLabel": "09/24 15:20",
+      "desc": "AI企業のAnthropicが、同社のAI「Claude」がバクテリオファージのDNAを解析し、ゲノム編集技術のCRISPRに似た反復配列を伴う未知の酵素システムを発見したと発表しました。「array-associated reverse transcriptases」、略して「ART」と名付けられたこのシステムの具体的な機能はまだ分かっていませんが、Cla",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "豪首相、OpenAIのAIが政府システムに不正アクセスしたと報告",
+      "link": "https://ascii.jp/elem/000/004/436/4436903/?rss",
+      "date": "2026-09-24T15:00:00+09:00",
+      "dateLabel": "09/24 15:00",
+      "desc": "オーストラリアのアンソニー・アルバネーゼ首相は9月24日、OpenAIのAIエージェントが豪州の政府システムに不正アクセスしたことを公表した。",
+      "img": "https://ascii.jp/img/2026/09/24/4529552/s/17045bbc1ec203b1.png",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "Geminiがテスト中に暴走して3つの企業をハッキングしたがGoogleは公表せず沈黙していたことが発覚",
+      "link": "https://gigazine.net/news/20260924-googles-gemini-hacked-three-companies-ai/",
+      "date": "2026-09-24T14:35:00+09:00",
+      "dateLabel": "09/24 14:35",
+      "desc": "近年は優れた性能を発揮するAIエージェントが相次いで登場していますが、テスト中のAIが暴走して他の企業やサービスをハッキングしてしまう事例も報告されています。新たに、GoogleのAIモデルであるGeminiもテスト中に意図せずインターネットにアクセスし、実在する企業をハッキングしてしまったことが発覚しました。Googleはこの事例について、経済紙のウォール",
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 50
+      "score": 42
+    },
+    {
+      "title": "10月19日、全国向けZoomセミナー「AIに選ばれる会社のつくり方」を開催 ChatGPT・Gemini・Google時代の企業集客を解説",
+      "link": "https://ascii.jp/elem/000/004/436/4436930/?rss",
+      "date": "2026-09-24T13:42:37+09:00",
+      "dateLabel": "09/24 13:42",
+      "desc": "10月19日、全国向けZoomセミナー「AIに選ばれる会社のつくり方」を開催 ChatGPT・Gemini・Google時代の企業集客を解説",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "高性能AIモデル「MiMo-V2.6-Pro」と「MiMo-V2.6-Flash」が無償公開される、GPT-5.6 Solに近い性能",
+      "link": "https://gigazine.net/news/20260924-mimo-v2-6-pro-flash/",
+      "date": "2026-09-24T12:20:00+09:00",
+      "dateLabel": "09/24 12:20",
+      "desc": "中国の大手テクノロジー企業であるXiaomiがAIモデル「MiMo-V2.6-Pro」および「MiMo-V2.6-Flash」を日本時間の2026年9月22日にリリースしました。両モデルはオープンモデルとして無償公開されており、MiMo-V2.6-Proはオープンモデルの中で最高性能と評価されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "「Claudeを2週間で3倍速にした方法」をAnthropicが解説",
+      "link": "https://gigazine.net/news/20260924-anthropic-faster-claude/",
+      "date": "2026-09-24T11:48:00+09:00",
+      "dateLabel": "09/24 11:48",
+      "desc": "Anthropicが、ClaudeでClaudeの動作を精査させることでClaudeの動作を約3倍高速化することに成功したと発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "Google AIサブスクに「Colab」有料特典をバンドル 「高性能GPU」にアクセス可能に",
@@ -162,35 +195,68 @@
       "score": 42
     },
     {
-      "title": "株式会社リベルクラフトが「複雑表構造化AIファインチューニング技術レポート」を無料公開",
-      "link": "https://ascii.jp/elem/000/004/436/4436730/?rss",
-      "date": "2026-09-24T08:30:00+09:00",
-      "dateLabel": "09/24 08:30",
-      "desc": "株式会社リベルクラフトが「複雑表構造化AIファインチューニング技術レポート」を無料公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "Metaが手のひらサイズのたまごっちっぽいAIデバイス「Muse Charm」発表、Museがローカル動作・約2インチのOLEDスクリーンやカメラを搭載で2026年末までに発売予定",
+      "link": "https://gigazine.net/news/20260924-meta-muse-charm/",
+      "date": "2026-09-24T14:00:00+09:00",
+      "dateLabel": "09/24 14:00",
+      "desc": "Metaが新製品発表イベント「Meta Connect 2026」で、AIエージェント「Muse」を単体で利用できる小型デバイス「Muse Charm」を発表しました。手のひらサイズの本体にディスプレイと指紋センサーを備え、キーチェーンなどに取り付けて持ち運べる小型デバイスで、Metaのマーク・ザッカーバーグCEOによると、2026年12月のホリデーシーズン",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
-      "title": "エクロールとストーブリ、折り工学によるロボット保護ソリューションを発表、 エクロールのオーダーメイドジャバラが正式採用",
-      "link": "https://ascii.jp/elem/000/004/436/4436729/?rss",
-      "date": "2026-09-24T08:30:00+09:00",
-      "dateLabel": "09/24 08:30",
-      "desc": "エクロールとストーブリ、折り工学によるロボット保護ソリューションを発表、 エクロールのオーダーメイドジャバラが正式採用",
+      "title": "評価から継続的な改善まで学ぶ実践書『LLMアプリケーション評価駆動開発』が9月24日に翔泳社から発売",
+      "link": "https://ascii.jp/elem/000/004/436/4436932/?rss",
+      "date": "2026-09-24T13:30:00+09:00",
+      "dateLabel": "09/24 13:30",
+      "desc": "評価から継続的な改善まで学ぶ実践書『LLMアプリケーション評価駆動開発』が9月24日に翔泳社から発売",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AI実装",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
-      "title": "【月刊レポート】AI検索で選ばれる3条件は「読める・答える・覚えられる」─ 2026年9月のAI検索業界動向レポートを公開",
-      "link": "https://ascii.jp/elem/000/004/436/4436734/?rss",
-      "date": "2026-09-24T08:00:00+09:00",
-      "dateLabel": "09/24 08:00",
-      "desc": "【月刊レポート】AI検索で選ばれる3条件は「読める・答える・覚えられる」─ 2026年9月のAI検索業界動向レポートを公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "title": "14型・約1.4kgで有線LANも搭載！ MSIの新Copilot+ PCが登場",
+      "link": "https://ascii.jp/elem/000/004/436/4436809/?rss",
+      "date": "2026-09-24T13:30:00+09:00",
+      "dateLabel": "09/24 13:30",
+      "desc": "MSIがAMD Ryzen AI 5 330搭載の14型ノートPC「Modern-A14-AI+F3HMG-5582JP」を10月1日に発売。Copilot+ PC対応のAI機能、豊富なI/Oポート、約1.4kgの軽量ボディが特徴となる。",
+      "img": "https://ascii.jp/img/2026/09/24/4529424/s/d9eb73b47fefaf01.png",
       "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "Googleが音声合成AI「Gemini 3.8 Flash TTS」と「Gemini 3.8 Flash-Lite TTS」をリリース",
+      "link": "https://gigazine.net/news/20260924-gemini-3-8-flash-tts/",
+      "date": "2026-09-24T12:12:00+09:00",
+      "dateLabel": "09/24 12:12",
+      "desc": "Googleが音声合成・テキスト読み上げモデルの「Gemini 3.8 Flash TTS」と「Gemini 3.8 Flash-Lite TTS」をリリースしました。日本語を含む100以上の言語・方言に対応し、2000種以上の音声でテキストを読み上げさせることができます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "MetaのザッカーバーグCEO、「ワンモアシング」としてたまごっちのような「Muse Charm」披露",
+      "link": "https://www.itmedia.co.jp/news/article/2609/24/2000001688/",
+      "date": "2026-09-24T11:37:24+09:00",
+      "dateLabel": "09/24 11:37",
+      "desc": "Metaは年次イベント「Meta Connect 2026」で、AIエージェントを持ち歩ける小型ガジェット「Muse Charm」をサプライズ発表した。指紋センサーのタップで音声会話を開始できるポケットサイズ端末で、12月の出荷を目指して開発中。日本の公式サイトでは現時点で利用不可と案内されている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "Grok 4.7が登場、前世代モデルと同価格で高性能",
+      "link": "https://gigazine.net/news/20260924-grok-4-7/",
+      "date": "2026-09-24T11:32:00+09:00",
+      "dateLabel": "09/24 11:32",
+      "desc": "SpaceXAIが「Grok 4.7」を2026年9月21日に発表しました。Grok 4.6と同じ価格と速度で顕著な改善を示しており、イーロン・マスクCEOは「Grok 4.7は知能・速度・低コストの強力な組み合わせです」とアピールしています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AI全般",
       "score": 34
     },
@@ -215,72 +281,6 @@
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 34
-    },
-    {
-      "title": "「GPT-6 Sol」と「GPT-6 Luna」が登場、API料金は前世代の半額でコスト効率が大幅に向上",
-      "link": "https://gigazine.net/news/20260923-gpt-6-sol-luna/",
-      "date": "2026-09-23T15:30:00+09:00",
-      "dateLabel": "09/23 15:30",
-      "desc": "OpenAIが「GPT-6 Sol」と「GPT-6 Luna」を現地時間の2026年9月22日にリリースしました。どちらもGPT-6 Astraと同様の手法でトレーニングされており、前世代モデルと比べてコスト効率が大幅に向上しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "OpenAI、フロンティアAIの国際標準づくりを米国主導で進めるよう提言 「RSIはまだ起きていない」",
-      "link": "https://www.itmedia.co.jp/news/article/2609/22/2000001670/",
-      "date": "2026-09-22T10:51:09+09:00",
-      "dateLabel": "09/22 10:51",
-      "desc": "た。各国のAI安全性研究所の連携などを提案し、制御不能な自律的進化を防ぐ枠組みを求める。アルトマンCEOは国連安保理の公開会合でも発言する予定だ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "トランプ大統領、「AI Force」創設を表明 「AI脅威論はでっちあげだ」",
-      "link": "https://www.itmedia.co.jp/news/article/2609/21/2000001666/",
-      "date": "2026-09-21T09:45:19+09:00",
-      "dateLabel": "09/21 09:45",
-      "desc": "トランプ大統領はSNSへの投稿で、AIを担当する新組織「AI Force」の創設と責任者“AI皇帝”の指名を表明した。AI脅威論を否定して業界の成長支援を掲げ、AIの新たな呼称案の投票も呼び掛けた。Anthropicなどの経営陣から開発のペース調整や安全性を求める声が相次ぐ中、規制に否定的な姿勢を鮮明にしている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
-      "score": 28
-    },
-    {
-      "title": "ルールは作ったが… 現場の「勝手にAI利用」が止まらない！ どうやったら防げた？",
-      "link": "https://ascii.jp/elem/000/004/425/4425647/?rss",
-      "date": "2026-09-24T11:00:00+09:00",
-      "dateLabel": "09/24 11:00",
-      "desc": "中堅薬品メーカーのP社では、社内での「AIツールの利用制限」に手を焼いていた。AIツールの利用は「IT部門の許可制」とするルールを定めたものの、このルールは有名無実化していた。IT部門が把握できていない“シャドーAI”の利用も多発しており、このままでは情報漏洩やコンプライアンス違反のリスクが高い。……どうやったら解決できるのか？",
-      "img": "https://ascii.jp/img/2026/08/06/4510469/s/09cbb542c9110a71.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "自社名をAIに聞くと「競合と混ざる」「出てこない」――その理由と測り方を1時間で。「AIの記憶を測る」実践セミナーを9月30日・10月7日に無料開催",
-      "link": "https://ascii.jp/elem/000/004/436/4436720/?rss",
-      "date": "2026-09-24T09:24:00+09:00",
-      "dateLabel": "09/24 09:24",
-      "desc": "自社名をAIに聞くと「競合と混ざる」「出てこない」――その理由と測り方を1時間で。「AIの記憶を測る」実践セミナーを9月30日・10月7日に無料開催",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "Airion、矢崎総業株式会社と製造現場におけるフィジカルAI開発の自走化に向けた協業へ",
-      "link": "https://ascii.jp/elem/000/004/436/4436721/?rss",
-      "date": "2026-09-24T09:10:00+09:00",
-      "dateLabel": "09/24 09:10",
-      "desc": "Airion、矢崎総業株式会社と製造現場におけるフィジカルAI開発の自走化に向けた協業へ",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 26
     }
   ]
 }
