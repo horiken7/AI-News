@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-24T16:56:46.144302+09:00",
-  "generatedLabel": "2026/09/24 16:56",
+  "generatedAt": "2026-09-24T22:04:33.828601+09:00",
+  "generatedLabel": "2026/09/24 22:04",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 69,
+  "candidates": 64,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 9
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 21
+      "items": 20
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "AMD、エージェント型AI時代における「EPYC」の優位性を解説したホワイトペーパーとブログ記事を公開",
+      "link": "https://ascii.jp/elem/000/004/437/4437070/?rss",
+      "date": "2026-09-24T20:40:00+09:00",
+      "dateLabel": "09/24 20:40",
+      "desc": "AMDは、同社のサーバー向けプロセッサ「AMD EPYC」が現代のデータセンターやAI環境で果たす役割を解説する最新コンテンツとして、ホワイトペーパーと公式ブログを公開した。EPYC CPUがどのように活用されているかが包括的に示されている。",
+      "img": "https://ascii.jp/img/2026/09/24/4529789/s/9d66a111a04fd1ba.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 50
+    },
+    {
       "title": "Claudeがブラウザを自律操作する「Claude in Chrome」一般提供 プロンプトインジェクションをどう防ぐ？",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news024.html",
       "date": "2026-09-24T08:00:00+09:00",
@@ -96,17 +107,6 @@
       "score": 42
     },
     {
-      "title": "豪首相、OpenAIのAIが政府システムに不正アクセスしたと報告",
-      "link": "https://ascii.jp/elem/000/004/436/4436903/?rss",
-      "date": "2026-09-24T15:00:00+09:00",
-      "dateLabel": "09/24 15:00",
-      "desc": "オーストラリアのアンソニー・アルバネーゼ首相は9月24日、OpenAIのAIエージェントが豪州の政府システムに不正アクセスしたことを公表した。",
-      "img": "https://ascii.jp/img/2026/09/24/4529552/s/17045bbc1ec203b1.png",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "Geminiがテスト中に暴走して3つの企業をハッキングしたがGoogleは公表せず沈黙していたことが発覚",
       "link": "https://gigazine.net/news/20260924-googles-gemini-hacked-three-companies-ai/",
       "date": "2026-09-24T14:35:00+09:00",
@@ -115,17 +115,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "10月19日、全国向けZoomセミナー「AIに選ばれる会社のつくり方」を開催 ChatGPT・Gemini・Google時代の企業集客を解説",
-      "link": "https://ascii.jp/elem/000/004/436/4436930/?rss",
-      "date": "2026-09-24T13:42:37+09:00",
-      "dateLabel": "09/24 13:42",
-      "desc": "10月19日、全国向けZoomセミナー「AIに選ばれる会社のつくり方」を開催 ChatGPT・Gemini・Google時代の企業集客を解説",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -184,15 +173,59 @@
       "score": 42
     },
     {
-      "title": "SpaceXAI、「Grok 4.7」発表 コーディングと知識労働向けで同社最高性能、価格は据え置き",
-      "link": "https://www.itmedia.co.jp/news/article/2609/22/2000001668/",
-      "date": "2026-09-22T08:46:47+09:00",
-      "dateLabel": "09/22 08:46",
-      "desc": "SpaceXAIはAIモデル「Grok 4.7」を発表した。前モデルと同価格・同速度を維持しつつ大規模なベースモデルを採用し、コーディングや長時間の業務タスク性能、安全性を強化した。[Cursor](https://www.itmedia.co.jp/news/article/2606/17/1260617066/)やAPI経由で即日提供し、競合の最新モデル",
+      "title": "M6搭載Mac miniがAmazonで早くもタイムセール！ 16GB＋512GBで17万6500円",
+      "link": "https://ascii.jp/elem/000/004/436/4436744/?rss",
+      "date": "2026-09-24T20:00:00+09:00",
+      "dateLabel": "09/24 20:00",
+      "desc": "Appleの「Mac mini」がAmazonでタイムセール対象。参考価格185,800円から5％オフの176,500円で販売中。12コアCPUと12コアGPUを備えるM6チップを搭載し、16GBユニファイドメモリと512GB SSDを採用する。12.7cm四方のコンパクトな本体ながら、最大3台の外部ディスプレイにも対応するデスクトップMacだ。",
+      "img": "https://ascii.jp/img/2026/09/24/4529332/s/5d17c5f632cd3dfd.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "最大8人の話者を識別しつつリアルタイム文字起こしできるAIモデル「NVIDIA Nemotron 3 Diarization」がオープンモデルとして公開される",
+      "link": "https://gigazine.net/news/20260924-nvidia-nemotron-3-diarization/",
+      "date": "2026-09-24T18:15:00+09:00",
+      "dateLabel": "09/24 18:15",
+      "desc": "NVIDIAが音声認識AIモデル「NVIDIA Nemotron 3 Diarization」を公開しました。最大8人の話者を識別しつつリアルタイムでの文字起こしが可能です。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "本日まで！ 約970gで最大15.5時間駆動、Copilot+ PC「HP OmniBook 7 Aero」が3万円引きの16万4800円",
+      "link": "https://ascii.jp/elem/000/004/436/4436698/?rss",
+      "date": "2026-09-24T18:00:00+09:00",
+      "dateLabel": "09/24 18:00",
+      "desc": "HPの13.3型ノートPC「OmniBook 7 Aero 13-bg（BF8H3PA-ABZR）」がAmazonでタイムセール対象。過去価格194,800円から15％オフの164,800円で販売中。約970gの軽量ボディーで、最大15.5時間のバッテリー駆動に対応し、Ryzen AI 5 340を搭載するCopilot+ PCだ。",
+      "img": "https://ascii.jp/img/2026/09/24/4529269/s/8c659ad80e28f1cb.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "ゼロから声を作れる音声生成モデル「Gemini 3.8 Flash TTS」公開 「Gemini Notebook」でも利用可能に",
+      "link": "https://www.itmedia.co.jp/news/article/2609/24/2000001703/",
+      "date": "2026-09-24T16:46:40+09:00",
+      "dateLabel": "09/24 16:46",
+      "desc": "Googleは、テキストから音声を生成する「Gemini 3.8 Flash TTS」とその軽量版を公開した。従来の選択式から進化し、自然言語による声のゼロからの生成や演技・感情の細かな制御に対応する。日本語を含む多言語をサポートし、透かし技術「SynthID」も埋め込む。開発者向けAPIや各種サービスで順次提供する。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "規制/安全",
-      "score": 42
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "「Gemini 4」は年末までに発表――開発責任者が言及か 「Googleは確かに最先端」と主張",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/24/2000001701/",
+      "date": "2026-09-24T16:31:01+09:00",
+      "dateLabel": "09/24 16:31",
+      "desc": "「Gemini 4」は間もなく登場――The Information主催のイベントで、Google DeepMindの開発責任者コーレイ・カヴクチュオール氏がそう示唆したという。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "Metaが手のひらサイズのたまごっちっぽいAIデバイス「Muse Charm」発表、Museがローカル動作・約2インチのOLEDスクリーンやカメラを搭載で2026年末までに発売予定",
@@ -202,28 +235,6 @@
       "desc": "Metaが新製品発表イベント「Meta Connect 2026」で、AIエージェント「Muse」を単体で利用できる小型デバイス「Muse Charm」を発表しました。手のひらサイズの本体にディスプレイと指紋センサーを備え、キーチェーンなどに取り付けて持ち運べる小型デバイスで、Metaのマーク・ザッカーバーグCEOによると、2026年12月のホリデーシーズン",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "評価から継続的な改善まで学ぶ実践書『LLMアプリケーション評価駆動開発』が9月24日に翔泳社から発売",
-      "link": "https://ascii.jp/elem/000/004/436/4436932/?rss",
-      "date": "2026-09-24T13:30:00+09:00",
-      "dateLabel": "09/24 13:30",
-      "desc": "評価から継続的な改善まで学ぶ実践書『LLMアプリケーション評価駆動開発』が9月24日に翔泳社から発売",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "14型・約1.4kgで有線LANも搭載！ MSIの新Copilot+ PCが登場",
-      "link": "https://ascii.jp/elem/000/004/436/4436809/?rss",
-      "date": "2026-09-24T13:30:00+09:00",
-      "dateLabel": "09/24 13:30",
-      "desc": "MSIがAMD Ryzen AI 5 330搭載の14型ノートPC「Modern-A14-AI+F3HMG-5582JP」を10月1日に発売。Copilot+ PC対応のAI機能、豊富なI/Oポート、約1.4kgの軽量ボディが特徴となる。",
-      "img": "https://ascii.jp/img/2026/09/24/4529424/s/d9eb73b47fefaf01.png",
-      "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
       "score": 34
     },
@@ -269,17 +280,6 @@
       "img": "",
       "src": "Publickey",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "AI従業員を雇って定型作業をお任せできる「Geta.Team」、各AI従業員に個別にメールアドレス・電話番号を割り当てできてセルフホスト可能、機能限定の無料版もあり",
-      "link": "https://gigazine.net/news/20260923-geta-team/",
-      "date": "2026-09-23T18:00:00+09:00",
-      "dateLabel": "09/23 18:00",
-      "desc": "メールへの返信や顧客への連絡や定期的な情報収集など、毎日繰り返す作業には多くの時間がかかります。そこでAIエージェントごとに名前や役職だけでなく、メールアドレスや電話番号まで用意し、人間の従業員に近い形で任せることができるサービス「Geta.Team」が公開されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
       "score": 34
     }
   ]
