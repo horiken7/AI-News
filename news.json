@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-25T09:08:19.723218+09:00",
-  "generatedLabel": "2026/09/25 09:08",
+  "generatedAt": "2026-09-25T14:35:30.085190+09:00",
+  "generatedLabel": "2026/09/25 14:35",
   "feedOk": 6,
   "feedNg": 5,
   "candidates": 67,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 20
+      "items": 21
     },
     {
       "source": "CNET Japan",
@@ -63,15 +63,15 @@
   ],
   "articles": [
     {
-      "title": "AMD、エージェント型AI時代における「EPYC」の優位性を解説したホワイトペーパーとブログ記事を公開",
-      "link": "https://ascii.jp/elem/000/004/437/4437070/?rss",
-      "date": "2026-09-24T20:40:00+09:00",
-      "dateLabel": "09/24 20:40",
-      "desc": "AMDは、同社のサーバー向けプロセッサ「AMD EPYC」が現代のデータセンターやAI環境で果たす役割を解説する最新コンテンツとして、ホワイトペーパーと公式ブログを公開した。EPYC CPUがどのように活用されているかが包括的に示されている。",
-      "img": "https://ascii.jp/img/2026/09/24/4529789/s/9d66a111a04fd1ba.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 50
+      "title": "Google、リアルタイムで表情豊かに話すAIアバター「Gemini 3.8 Live with Live Avatar」提供開始 画像1枚で独自アバターも",
+      "link": "https://www.itmedia.co.jp/news/article/2609/25/2000001730/",
+      "date": "2026-09-25T09:10:33+09:00",
+      "dateLabel": "09/25 09:10",
+      "desc": "Googleは、リアルタイム音声対話と動画生成アバターを組み合わせた「Gemini 3.8 Live with Live Avatar」をGemini Enterpriseで提供を開始した。写真1枚から自然に応答するアバターを生成し、多言語や非同期ツール実行に対応。顧客対応や店頭端末などの商用展開を見込む。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "ハルシネーション排除、最大200倍高速――元OpenAI研究者の新AI「Jev」は何が違うのか",
@@ -81,17 +81,6 @@
       "desc": "TypeSafe AIは、自動化に特化した新AIモデル「Jev」の早期アクセス提供を開始した。文字列生成を廃止し、従来のLLM比で最大200倍の高速化とハルシネーション排除を実現したという。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "法規適合の間取りプランと3Dパースを3分で生成する住宅AI",
-      "link": "https://ascii.jp/elem/000/004/436/4436190/?rss",
-      "date": "2026-09-25T07:00:00+09:00",
-      "dateLabel": "09/25 07:00",
-      "desc": "株式会社まどりLABOは9月9日、住宅メーカーの営業・設計業務を支援するSaaS「まどりLABO PRO」の正式版を提供開始したと発表した。土地図面の画像をアップロードし顧客の要望を入力すると、日本の建築基準法やモジュール（尺・メーター）に適合した間取り・3Dイメージ・提案書を約3分で生成するサービスだ。",
-      "img": "https://ascii.jp/img/2026/09/18/4527819/s/5807f8cb8d2eae62.jpg",
-      "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
       "score": 42
     },
@@ -129,50 +118,6 @@
       "score": 42
     },
     {
-      "title": "Geminiがテスト中に暴走して3つの企業をハッキングしたがGoogleは公表せず沈黙していたことが発覚",
-      "link": "https://gigazine.net/news/20260924-googles-gemini-hacked-three-companies-ai/",
-      "date": "2026-09-24T14:35:00+09:00",
-      "dateLabel": "09/24 14:35",
-      "desc": "近年は優れた性能を発揮するAIエージェントが相次いで登場していますが、テスト中のAIが暴走して他の企業やサービスをハッキングしてしまう事例も報告されています。新たに、GoogleのAIモデルであるGeminiもテスト中に意図せずインターネットにアクセスし、実在する企業をハッキングしてしまったことが発覚しました。Googleはこの事例について、経済紙のウォール",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "高性能AIモデル「MiMo-V2.6-Pro」と「MiMo-V2.6-Flash」が無償公開される、GPT-5.6 Solに近い性能",
-      "link": "https://gigazine.net/news/20260924-mimo-v2-6-pro-flash/",
-      "date": "2026-09-24T12:20:00+09:00",
-      "dateLabel": "09/24 12:20",
-      "desc": "中国の大手テクノロジー企業であるXiaomiがAIモデル「MiMo-V2.6-Pro」および「MiMo-V2.6-Flash」を日本時間の2026年9月22日にリリースしました。両モデルはオープンモデルとして無償公開されており、MiMo-V2.6-Proはオープンモデルの中で最高性能と評価されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "「Claudeを2週間で3倍速にした方法」をAnthropicが解説",
-      "link": "https://gigazine.net/news/20260924-anthropic-faster-claude/",
-      "date": "2026-09-24T11:48:00+09:00",
-      "dateLabel": "09/24 11:48",
-      "desc": "Anthropicが、ClaudeでClaudeの動作を精査させることでClaudeの動作を約3倍高速化することに成功したと発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "Google AIサブスクに「Colab」有料特典をバンドル 「高性能GPU」にアクセス可能に",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/24/2000001685/",
-      "date": "2026-09-24T09:47:12+09:00",
-      "dateLabel": "09/24 09:47",
-      "desc": "Googleは「Google AI」の各プランに、「Google Colab」の有料特典を組み込むと発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
       "title": "Claudeがブラウザを自律操作する「Claude in Chrome」一般提供 プロンプトインジェクションをどう防ぐ？",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news024.html",
       "date": "2026-09-24T08:00:00+09:00",
@@ -184,6 +129,94 @@
       "score": 42
     },
     {
+      "title": "軽量な視覚言語モデル「LFM2.5-VL-3B」にDSparkのドラフトモデルを適用して爆速化した「LFM2.5-VL-3B-DSpark」が登場",
+      "link": "https://gigazine.net/news/20260925-lfm2-5-vl-dspark/",
+      "date": "2026-09-25T13:49:00+09:00",
+      "dateLabel": "09/25 13:49",
+      "desc": "アメリカに拠点を置くAI開発企業のLiquid AIが視覚言語モデル「LFM2.5-VL-3B-DSpark」を2026年9月24日に公開しました。LFM2.5-VL-3B-DSparkは「LFM2.5-VL-3B」に投機的デコード技術「DSpark」を適用したモデルで、性能を維持したまま数倍の高速化を実現しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "OpenAIのAIエージェントがオーストラリア政府機関のシステムをハッキングしたことが判明、OpenAIは3カ月間報告せず",
+      "link": "https://gigazine.net/news/20260925-openai-hacked-australian-system/",
+      "date": "2026-09-25T12:59:00+09:00",
+      "dateLabel": "09/25 12:59",
+      "desc": "OpenAIのAIエージェントが、オーストラリアの公的医療サービス・メディケアなど4つのシステムにハッキングを仕掛けていたことがわかりました。アンソニー・アルバニージー首相によるとハッキングがあったのは2026年6月のことですが、OpenAIから事実の通知があったのは9月に入ってからでした。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "AIに指示してアプリを自作！ Snapdragon搭載の「GoogleBook」がPCの常識をぶっ壊す",
+      "link": "https://ascii.jp/elem/000/004/437/4437072/?rss",
+      "date": "2026-09-25T12:00:00+09:00",
+      "dateLabel": "09/25 12:00",
+      "desc": "Snapdragon Summit 2026の2日目でPC関連の発表が行われました。注目はChromeOSとAndroidを統合したグーグルの新PC「Google Book」です。Snapdragonを採用し、Androidスマホとの強力な連携や、AIによるウィジェット・アプリの自動生成機能を備える実機デモをレポートします。",
+      "img": "https://ascii.jp/img/2026/09/24/4529827/s/d717e435b62c96da.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "「現代AIの父」シュミットフーバー氏がSakana AIに参画 RSI研究のアドバイザーに",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/25/2000001742/",
+      "date": "2026-09-25T11:53:22+09:00",
+      "dateLabel": "09/25 11:53",
+      "desc": "Sakana AIが「現代AIの父」と称されるユルゲン・シュミットフーバー氏の参画を発表。ChatGPTの「P」「T」の原型を1991年に発表したと主張する同氏は、再帰的自己改善（RSI）を研究する新設組織のアドバイザーを務める。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "「クリスタの素材が見つからない」大量非公開で混乱、セルシスが謝罪",
+      "link": "https://ascii.jp/elem/000/004/437/4437134/?rss",
+      "date": "2026-09-25T11:45:00+09:00",
+      "dateLabel": "09/25 11:45",
+      "desc": "セルシスの「CLIP STUDIO PAINT」向け素材共有サービス「CLIP STUDIO ASSETS」で9月22日ごろから多数の素材が非公開となった。",
+      "img": "https://ascii.jp/img/2026/09/25/4529957/s/15919959c940a1ef.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "イヤホンなどのオーディオデバイスでAI機能を強化するチップ「Snapdragon Sound Elite Gen 2」が発表される",
+      "link": "https://gigazine.net/news/20260925-snapdragon-sound-elite-gen-2/",
+      "date": "2026-09-25T11:15:00+09:00",
+      "dateLabel": "09/25 11:15",
+      "desc": "Qualcommが、オーディオデバイス向けのSoC「Snapdragon Sound Elite Gen 2」を発表しました。イヤホンやオーディオグラスなどでAIを活用する際に高い性能を発揮できるとされています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "Googleが宇宙にAIデータセンターを設置する実証実験「Project Suncatcher」でAI専用チップ・TPUを搭載した人工衛星を10月1日に打ち上げ",
+      "link": "https://gigazine.net/news/20260925-google-project-suncatcher/",
+      "date": "2026-09-25T11:08:00+09:00",
+      "dateLabel": "09/25 11:08",
+      "desc": "現地時間の2026年9月24日、Googleは地球の軌道上でAI向けデータセンターを稼働させる「Project Suncatcher」の初期実験として、Google製AIチップである「TPU」が宇宙空間でどのように機能するかを評価するためのプロトタイプ衛星を2026年10月1日に打ち上げると発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "Claudeで「セーフガードにブロックされたAI処理」に対する課金が開始される",
+      "link": "https://gigazine.net/news/20260925-claude-safeguard-block-request/",
+      "date": "2026-09-25T11:01:00+09:00",
+      "dateLabel": "09/25 11:01",
+      "desc": "Claudeにはサイバー攻撃や生物兵器といった危険なカテゴリに関する質問を識別する安全分類器が搭載されています。この安全分類器によって中断された処理については料金が加算されていなかったのですが、一部のカテゴリで課金を開始することが日本時間の2026年9月25日に発表されました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "ChatGPTやCopilotから直接翻訳 「DeepL」のMCP対応で多言語業務はどう変わる？",
       "link": "https://kn.itmedia.co.jp/kn/article/2609/25/2000001723/",
       "date": "2026-09-25T07:00:00+09:00",
@@ -192,17 +225,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "M6搭載Mac miniがAmazonで早くもタイムセール！ 16GB＋512GBで17万6500円",
-      "link": "https://ascii.jp/elem/000/004/436/4436744/?rss",
-      "date": "2026-09-24T20:00:00+09:00",
-      "dateLabel": "09/24 20:00",
-      "desc": "Appleの「Mac mini」がAmazonでタイムセール対象。参考価格185,800円から5％オフの176,500円で販売中。12コアCPUと12コアGPUを備えるM6チップを搭載し、16GBユニファイドメモリと512GB SSDを採用する。12.7cm四方のコンパクトな本体ながら、最大3台の外部ディスプレイにも対応するデスクトップMacだ。",
-      "img": "https://ascii.jp/img/2026/09/24/4529332/s/5d17c5f632cd3dfd.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -239,47 +261,25 @@
       "score": 34
     },
     {
-      "title": "Metaが手のひらサイズのたまごっちっぽいAIデバイス「Muse Charm」発表、Museがローカル動作・約2インチのOLEDスクリーンやカメラを搭載で2026年末までに発売予定",
-      "link": "https://gigazine.net/news/20260924-meta-muse-charm/",
-      "date": "2026-09-24T14:00:00+09:00",
-      "dateLabel": "09/24 14:00",
-      "desc": "Metaが新製品発表イベント「Meta Connect 2026」で、AIエージェント「Muse」を単体で利用できる小型デバイス「Muse Charm」を発表しました。手のひらサイズの本体にディスプレイと指紋センサーを備え、キーチェーンなどに取り付けて持ち運べる小型デバイスで、Metaのマーク・ザッカーバーグCEOによると、2026年12月のホリデーシーズン",
+      "title": "Geminiがテスト中に暴走して3つの企業をハッキングしたがGoogleは公表せず沈黙していたことが発覚",
+      "link": "https://gigazine.net/news/20260924-googles-gemini-hacked-three-companies-ai/",
+      "date": "2026-09-24T14:35:00+09:00",
+      "dateLabel": "09/24 14:35",
+      "desc": "近年は優れた性能を発揮するAIエージェントが相次いで登場していますが、テスト中のAIが暴走して他の企業やサービスをハッキングしてしまう事例も報告されています。新たに、GoogleのAIモデルであるGeminiもテスト中に意図せずインターネットにアクセスし、実在する企業をハッキングしてしまったことが発覚しました。Googleはこの事例について、経済紙のウォール",
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 34
     },
     {
-      "title": "Googleが音声合成AI「Gemini 3.8 Flash TTS」と「Gemini 3.8 Flash-Lite TTS」をリリース",
-      "link": "https://gigazine.net/news/20260924-gemini-3-8-flash-tts/",
-      "date": "2026-09-24T12:12:00+09:00",
-      "dateLabel": "09/24 12:12",
-      "desc": "Googleが音声合成・テキスト読み上げモデルの「Gemini 3.8 Flash TTS」と「Gemini 3.8 Flash-Lite TTS」をリリースしました。日本語を含む100以上の言語・方言に対応し、2000種以上の音声でテキストを読み上げさせることができます。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "MetaのザッカーバーグCEO、「ワンモアシング」としてたまごっちのような「Muse Charm」披露",
-      "link": "https://www.itmedia.co.jp/news/article/2609/24/2000001688/",
-      "date": "2026-09-24T11:37:24+09:00",
-      "dateLabel": "09/24 11:37",
-      "desc": "Metaは年次イベント「Meta Connect 2026」で、AIエージェントを持ち歩ける小型ガジェット「Muse Charm」をサプライズ発表した。指紋センサーのタップで音声会話を開始できるポケットサイズ端末で、12月の出荷を目指して開発中。日本の公式サイトでは現時点で利用不可と案内されている。",
+      "title": "Google AIサブスクに「Colab」有料特典をバンドル 「高性能GPU」にアクセス可能に",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/24/2000001685/",
+      "date": "2026-09-24T09:47:12+09:00",
+      "dateLabel": "09/24 09:47",
+      "desc": "Googleは「Google AI」の各プランに、「Google Colab」の有料特典を組み込むと発表した。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Grok 4.7が登場、前世代モデルと同価格で高性能",
-      "link": "https://gigazine.net/news/20260924-grok-4-7/",
-      "date": "2026-09-24T11:32:00+09:00",
-      "dateLabel": "09/24 11:32",
-      "desc": "SpaceXAIが「Grok 4.7」を2026年9月21日に発表しました。Grok 4.6と同じ価格と速度で顕著な改善を示しており、イーロン・マスクCEOは「Grok 4.7は知能・速度・低コストの強力な組み合わせです」とアピールしています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
+      "cat": "半導体/GPU",
       "score": 34
     }
   ]
