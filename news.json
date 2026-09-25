@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-25T06:53:24.777224+09:00",
-  "generatedLabel": "2026/09/25 06:53",
+  "generatedAt": "2026-09-25T09:08:19.723218+09:00",
+  "generatedLabel": "2026/09/25 09:08",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 65,
+  "candidates": 67,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -74,26 +74,37 @@
       "score": 50
     },
     {
-      "title": "Claudeがブラウザを自律操作する「Claude in Chrome」一般提供 プロンプトインジェクションをどう防ぐ？",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news024.html",
-      "date": "2026-09-24T08:00:00+09:00",
-      "dateLabel": "09/24 08:00",
-      "desc": "Anthropicは、Webブラウザの拡張機能「Claude in Chrome」を全ての有料プランで一般提供した。操作ごとの承認を求めず、AIエージェントが自律的にWebブラウザを操作する。実行の前に安全性分類器が各操作を検証する。",
+      "title": "ハルシネーション排除、最大200倍高速――元OpenAI研究者の新AI「Jev」は何が違うのか",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news055.html",
+      "date": "2026-09-25T08:00:00+09:00",
+      "dateLabel": "09/25 08:00",
+      "desc": "TypeSafe AIは、自動化に特化した新AIモデル「Jev」の早期アクセス提供を開始した。文字列生成を廃止し、従来のLLM比で最大200倍の高速化とハルシネーション排除を実現したという。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "規制/安全",
-      "score": 50
+      "cat": "AIエージェント/業務",
+      "score": 42
     },
     {
-      "title": "Anthropic、「Claude Opus 5.5」公開 Fable 5.1並みの性能で利用コスト4割減",
-      "link": "https://www.itmedia.co.jp/news/article/2609/23/2000001673/",
-      "date": "2026-09-23T06:57:43+09:00",
-      "dateLabel": "09/23 06:57",
-      "desc": "Anthropicは「Claude Opus 5.5」を発表した。多くの作業で「Fable 5.1」並みの性能を持ち、利用コストは「Opus 5」より約40％低い。Pro以上の有料プランとAPIで即日提供を始めた。アモデイCEOの「ペース調整」エッセイ後初のモデルで、METRなど外部機関による事前評価を経て、Fable 5.1と同等クラスのセーフガードを適用",
+      "title": "法規適合の間取りプランと3Dパースを3分で生成する住宅AI",
+      "link": "https://ascii.jp/elem/000/004/436/4436190/?rss",
+      "date": "2026-09-25T07:00:00+09:00",
+      "dateLabel": "09/25 07:00",
+      "desc": "株式会社まどりLABOは9月9日、住宅メーカーの営業・設計業務を支援するSaaS「まどりLABO PRO」の正式版を提供開始したと発表した。土地図面の画像をアップロードし顧客の要望を入力すると、日本の建築基準法やモジュール（尺・メーター）に適合した間取り・3Dイメージ・提案書を約3分で生成するサービスだ。",
+      "img": "https://ascii.jp/img/2026/09/18/4527819/s/5807f8cb8d2eae62.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "日本発スタートアップのエッジAIチップがNVIDIA超え、AI処理性能は3.36PFLOPS",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2609/25/news063.html",
+      "date": "2026-09-25T06:45:00+09:00",
+      "dateLabel": "09/25 06:45",
+      "desc": "AIアクセラレータを手掛ける日本発スタートアップのEdgeCortix（エッジコーティックス）は、最大3.36PFLOPSのAI処理性能を発揮するフィジカルAI向けの次世代スケーラブルAIチップレットプラットフォーム「RAIDEN」を発表した。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 50
+      "cat": "半導体/GPU",
+      "score": 42
     },
     {
       "title": "Go言語で書かれた高速なIDE「Rune」、オープンソースで公開。ターミナルとコマンドプロンプト中心の開発環境、複数リモートノードをローカルのように操作可能",
@@ -162,26 +173,26 @@
       "score": 42
     },
     {
-      "title": "「汎用AIにデータを渡すだけ」では専門業務をこなせない？ トムソン・ロイターが独自LLM「Thomson」を構築した理由",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news019.html",
+      "title": "Claudeがブラウザを自律操作する「Claude in Chrome」一般提供 プロンプトインジェクションをどう防ぐ？",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news024.html",
       "date": "2026-09-24T08:00:00+09:00",
       "dateLabel": "09/24 08:00",
-      "desc": "ロイター通信を傘下に持つThomson Reutersは、自社開発した大規模言語モデル「Thomson」を発表した。推論コストを抑えつつも、高い専門性と完全なデータ制御を実現したという。同社のアプローチに迫る。",
+      "desc": "Anthropicは、Webブラウザの拡張機能「Claude in Chrome」を全ての有料プランで一般提供した。操作ごとの承認を求めず、AIエージェントが自律的にWebブラウザを操作する。実行の前に安全性分類器が各操作を検証する。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
+      "cat": "規制/安全",
       "score": 42
     },
     {
-      "title": "OpenAI、「GPT-6 Sol」と「GPT-6 Luna」公開 API料金は前世代の半額に",
-      "link": "https://www.itmedia.co.jp/news/article/2609/23/2000001674/",
-      "date": "2026-09-23T09:12:02+09:00",
-      "dateLabel": "09/23 09:12",
-      "desc": "OpenAIは新モデル「GPT-6 Sol」と「GPT-6 Luna」を公開した。最上位のAstraと同様の手法で訓練し、前世代からAPI料金を半額に引き下げた。ChatGPTやCodexで順次提供する。アライメント改善が進む一方、思考過程で評価を察知する兆候が増加するなど監視上の課題も残る。",
+      "title": "ChatGPTやCopilotから直接翻訳 「DeepL」のMCP対応で多言語業務はどう変わる？",
+      "link": "https://kn.itmedia.co.jp/kn/article/2609/25/2000001723/",
+      "date": "2026-09-25T07:00:00+09:00",
+      "dateLabel": "09/25 07:00",
+      "desc": "多言語を扱う業務では、翻訳のたびにAIと翻訳サービスを行き来する手間がある。DeepLはMCPに対応し、ChatGPTやMicrosoft Copilotなどから直接翻訳できる仕組みを提供する。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "M6搭載Mac miniがAmazonで早くもタイムセール！ 16GB＋512GBで17万6500円",
@@ -203,17 +214,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "本日まで！ 約970gで最大15.5時間駆動、Copilot+ PC「HP OmniBook 7 Aero」が3万円引きの16万4800円",
-      "link": "https://ascii.jp/elem/000/004/436/4436698/?rss",
-      "date": "2026-09-24T18:00:00+09:00",
-      "dateLabel": "09/24 18:00",
-      "desc": "HPの13.3型ノートPC「OmniBook 7 Aero 13-bg（BF8H3PA-ABZR）」がAmazonでタイムセール対象。過去価格194,800円から15％オフの164,800円で販売中。約970gの軽量ボディーで、最大15.5時間のバッテリー駆動に対応し、Ryzen AI 5 340を搭載するCopilot+ PCだ。",
-      "img": "https://ascii.jp/img/2026/09/24/4529269/s/8c659ad80e28f1cb.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
