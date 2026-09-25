@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-25T14:35:30.085190+09:00",
-  "generatedLabel": "2026/09/25 14:35",
+  "generatedAt": "2026-09-25T19:48:00.087066+09:00",
+  "generatedLabel": "2026/09/25 19:48",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 67,
+  "candidates": 62,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 21
+      "items": 17
     },
     {
       "source": "CNET Japan",
@@ -62,6 +62,17 @@
     }
   ],
   "articles": [
+    {
+      "title": "株式会社Co-Labo AI、製造業における紙文書・PDF業務のAI活用モデルを公開｜AI-OCRから業務自動化までを解説",
+      "link": "https://ascii.jp/elem/000/004/437/4437407/?rss",
+      "date": "2026-09-25T17:30:10+09:00",
+      "dateLabel": "09/25 17:30",
+      "desc": "株式会社Co-Labo AI、製造業における紙文書・PDF業務のAI活用モデルを公開｜AI-OCRから業務自動化までを解説",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
     {
       "title": "Google、リアルタイムで表情豊かに話すAIアバター「Gemini 3.8 Live with Live Avatar」提供開始 画像1枚で独自アバターも",
       "link": "https://www.itmedia.co.jp/news/article/2609/25/2000001730/",
@@ -107,17 +118,6 @@
       "score": 42
     },
     {
-      "title": "AnthropicのClaudeがバクテリオファージからCRISPRに似た未知の酵素システムを発見、ダリオ・アモデイCEOはAIで「5〜10年以内に多くの病気を治せる」と予測",
-      "link": "https://gigazine.net/news/20260924-anthropic-claude-crispr/",
-      "date": "2026-09-24T15:20:00+09:00",
-      "dateLabel": "09/24 15:20",
-      "desc": "AI企業のAnthropicが、同社のAI「Claude」がバクテリオファージのDNAを解析し、ゲノム編集技術のCRISPRに似た反復配列を伴う未知の酵素システムを発見したと発表しました。「array-associated reverse transcriptases」、略して「ART」と名付けられたこのシステムの具体的な機能はまだ分かっていませんが、Cla",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "Claudeがブラウザを自律操作する「Claude in Chrome」一般提供 プロンプトインジェクションをどう防ぐ？",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news024.html",
       "date": "2026-09-24T08:00:00+09:00",
@@ -127,6 +127,72 @@
       "src": "ITmedia AI+",
       "cat": "規制/安全",
       "score": 42
+    },
+    {
+      "title": "ロジクールG「YETI 2」発表 AIノイズ低減＆音声自動調整のUSBマイク",
+      "link": "https://ascii.jp/elem/000/004/437/4437310/?rss",
+      "date": "2026-09-25T19:00:00+09:00",
+      "dateLabel": "09/25 19:00",
+      "desc": "ロジクールGが10月15日に発売する「YETI 2 アダプティブマルチパターン USB マイク」を紹介。ボイス近接センサーによる自動音声調整、高解像度ディスプレイ、AIノイズリダクション、24bit／48kHz録音など、配信や通話を支える機能をまとめた。",
+      "img": "https://ascii.jp/img/2026/09/25/4530148/s/a02f48729e973dad.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "株式会社Co-Labo AI、製造業向け「予兆保全AI」の活用モデルを公開｜設備確認工数75％削減を試算",
+      "link": "https://ascii.jp/elem/000/004/437/4437408/?rss",
+      "date": "2026-09-25T17:25:12+09:00",
+      "dateLabel": "09/25 17:25",
+      "desc": "株式会社Co-Labo AI、製造業向け「予兆保全AI」の活用モデルを公開｜設備確認工数75％削減を試算",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 34
+    },
+    {
+      "title": "ロボット制御向けAIモデル「FLUX 3 Action」をBlack Forest Labsが公開",
+      "link": "https://gigazine.net/news/20260925-flux-3-action/",
+      "date": "2026-09-25T17:20:00+09:00",
+      "dateLabel": "09/25 17:20",
+      "desc": "Black Forest LabsのマルチモーダルAIモデル「FLUX 3」から派生した、ロボット制御向けの世界行動モデル「FLUX 3 Action」が公開されました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "【お問い合わせ管理システム】月額550円から！30日間無料！自社のお問い合わせ窓口を設置できるお問い合わせ管理システム「お問い合わせ軍師DX」を北海道札幌市のテラアセンダントAI株式会社が提供開始！",
+      "link": "https://ascii.jp/elem/000/004/437/4437409/?rss",
+      "date": "2026-09-25T17:03:02+09:00",
+      "dateLabel": "09/25 17:03",
+      "desc": "【お問い合わせ管理システム】月額550円から！30日間無料！自社のお問い合わせ窓口を設置できるお問い合わせ管理システム「お問い合わせ軍師DX」を北海道札幌市のテラアセンダントAI株式会社が提供開始！",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "ChatGPTを開いた後に別サイトで見たページの情報がOpenAIへ送られる仕組みが指摘される",
+      "link": "https://gigazine.net/news/20260925-chatgpt-other-website/",
+      "date": "2026-09-25T16:30:00+09:00",
+      "dateLabel": "09/25 16:30",
+      "desc": "「ChatGPTを利用した後にOpenAIの広告計測コードを導入したウェブサイトを閲覧すると、閲覧したページなどの情報とChatGPT側で発行された識別子がOpenAIへ送信される場合がある」とセキュリティ関連の調査を行うBuchodiが報告しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "ChatGPTなどのAIに企業の偽の連絡先を出力させユーザーを詐欺へと導くサイバー攻撃「Dark Sourcery」",
+      "link": "https://gigazine.net/news/20260925-dark-sourcery-hackers-manipulate-ai-scam/",
+      "date": "2026-09-25T15:10:00+09:00",
+      "dateLabel": "09/25 15:10",
+      "desc": "ChatGPTやGeminiといったAIチャットボットによる出力を汚染するために、悪意のあるリンクやデータをインターネット上にばらまくというサイバー攻撃キャンペーン「Dark Sourcery」について、サイバーセキュリティ企業・Vigilance Securityの研究者が報告しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "軽量な視覚言語モデル「LFM2.5-VL-3B」にDSparkのドラフトモデルを適用して爆速化した「LFM2.5-VL-3B-DSpark」が登場",
@@ -151,17 +217,6 @@
       "score": 34
     },
     {
-      "title": "AIに指示してアプリを自作！ Snapdragon搭載の「GoogleBook」がPCの常識をぶっ壊す",
-      "link": "https://ascii.jp/elem/000/004/437/4437072/?rss",
-      "date": "2026-09-25T12:00:00+09:00",
-      "dateLabel": "09/25 12:00",
-      "desc": "Snapdragon Summit 2026の2日目でPC関連の発表が行われました。注目はChromeOSとAndroidを統合したグーグルの新PC「Google Book」です。Snapdragonを採用し、Androidスマホとの強力な連携や、AIによるウィジェット・アプリの自動生成機能を備える実機デモをレポートします。",
-      "img": "https://ascii.jp/img/2026/09/24/4529827/s/d717e435b62c96da.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "「現代AIの父」シュミットフーバー氏がSakana AIに参画 RSI研究のアドバイザーに",
       "link": "https://www.itmedia.co.jp/aiplus/article/2609/25/2000001742/",
       "date": "2026-09-25T11:53:22+09:00",
@@ -170,17 +225,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "「クリスタの素材が見つからない」大量非公開で混乱、セルシスが謝罪",
-      "link": "https://ascii.jp/elem/000/004/437/4437134/?rss",
-      "date": "2026-09-25T11:45:00+09:00",
-      "dateLabel": "09/25 11:45",
-      "desc": "セルシスの「CLIP STUDIO PAINT」向け素材共有サービス「CLIP STUDIO ASSETS」で9月22日ごろから多数の素材が非公開となった。",
-      "img": "https://ascii.jp/img/2026/09/25/4529957/s/15919959c940a1ef.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -224,50 +268,6 @@
       "desc": "多言語を扱う業務では、翻訳のたびにAIと翻訳サービスを行き来する手間がある。DeepLはMCPに対応し、ChatGPTやMicrosoft Copilotなどから直接翻訳できる仕組みを提供する。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "最大8人の話者を識別しつつリアルタイム文字起こしできるAIモデル「NVIDIA Nemotron 3 Diarization」がオープンモデルとして公開される",
-      "link": "https://gigazine.net/news/20260924-nvidia-nemotron-3-diarization/",
-      "date": "2026-09-24T18:15:00+09:00",
-      "dateLabel": "09/24 18:15",
-      "desc": "NVIDIAが音声認識AIモデル「NVIDIA Nemotron 3 Diarization」を公開しました。最大8人の話者を識別しつつリアルタイムでの文字起こしが可能です。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "ゼロから声を作れる音声生成モデル「Gemini 3.8 Flash TTS」公開 「Gemini Notebook」でも利用可能に",
-      "link": "https://www.itmedia.co.jp/news/article/2609/24/2000001703/",
-      "date": "2026-09-24T16:46:40+09:00",
-      "dateLabel": "09/24 16:46",
-      "desc": "Googleは、テキストから音声を生成する「Gemini 3.8 Flash TTS」とその軽量版を公開した。従来の選択式から進化し、自然言語による声のゼロからの生成や演技・感情の細かな制御に対応する。日本語を含む多言語をサポートし、透かし技術「SynthID」も埋め込む。開発者向けAPIや各種サービスで順次提供する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "「Gemini 4」は年末までに発表――開発責任者が言及か 「Googleは確かに最先端」と主張",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/24/2000001701/",
-      "date": "2026-09-24T16:31:01+09:00",
-      "dateLabel": "09/24 16:31",
-      "desc": "「Gemini 4」は間もなく登場――The Information主催のイベントで、Google DeepMindの開発責任者コーレイ・カヴクチュオール氏がそう示唆したという。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Geminiがテスト中に暴走して3つの企業をハッキングしたがGoogleは公表せず沈黙していたことが発覚",
-      "link": "https://gigazine.net/news/20260924-googles-gemini-hacked-three-companies-ai/",
-      "date": "2026-09-24T14:35:00+09:00",
-      "dateLabel": "09/24 14:35",
-      "desc": "近年は優れた性能を発揮するAIエージェントが相次いで登場していますが、テスト中のAIが暴走して他の企業やサービスをハッキングしてしまう事例も報告されています。新たに、GoogleのAIモデルであるGeminiもテスト中に意図せずインターネットにアクセスし、実在する企業をハッキングしてしまったことが発覚しました。Googleはこの事例について、経済紙のウォール",
-      "img": "",
-      "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 34
     },
