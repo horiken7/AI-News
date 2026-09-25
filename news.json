@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-25T19:48:00.087066+09:00",
-  "generatedLabel": "2026/09/25 19:48",
+  "generatedAt": "2026-09-26T00:39:55.621403+09:00",
+  "generatedLabel": "2026/09/26 00:39",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 62,
+  "candidates": 60,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -63,12 +63,23 @@
   ],
   "articles": [
     {
-      "title": "株式会社Co-Labo AI、製造業における紙文書・PDF業務のAI活用モデルを公開｜AI-OCRから業務自動化までを解説",
-      "link": "https://ascii.jp/elem/000/004/437/4437407/?rss",
-      "date": "2026-09-25T17:30:10+09:00",
-      "dateLabel": "09/25 17:30",
-      "desc": "株式会社Co-Labo AI、製造業における紙文書・PDF業務のAI活用モデルを公開｜AI-OCRから業務自動化までを解説",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "title": "AIに「StarCraft」をリアルタイムで戦わせる「Brood War Bench」が登場、全モデルが初心者レベルながらCodex Astraは18戦全勝",
+      "link": "https://gigazine.net/news/20260925-starcraft-brood-war-bench/",
+      "date": "2026-09-25T19:50:00+09:00",
+      "dateLabel": "09/25 19:50",
+      "desc": "AIエージェントにリアルタイムストラテジーゲーム「StarCraft: Brood War」を操作させて対戦能力を比較するベンチマーク「Brood War Bench」をソフトウェアエンジニアのベン・スワードロウ氏が公開しました。OpenAI系やAnthropicのClaude、xAIのGrokなどを含む19種類の構成が総当たりで対戦した結果、最上位のCod",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 66
+    },
+    {
+      "title": "Microsoftが次世代「Copilot」を発表=「Home」「Code」「Autopilot」でAI時代の働き方を再定義",
+      "link": "https://ascii.jp/elem/000/004/437/4437076/?rss",
+      "date": "2026-09-25T21:00:00+09:00",
+      "dateLabel": "09/25 21:00",
+      "desc": "次世代「Microsoft Copilot」は従来のオフィスツールと連携しつつ、生成AIとの対話から自律的なタスク実行、ノーコードでのアプリ開発までを一体化させた新しいプラットフォームへと進化します",
+      "img": "https://ascii.jp/img/2026/09/25/4529895/s/6a0f7112e263c0af.png",
       "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
       "score": 42
@@ -140,17 +151,6 @@
       "score": 34
     },
     {
-      "title": "株式会社Co-Labo AI、製造業向け「予兆保全AI」の活用モデルを公開｜設備確認工数75％削減を試算",
-      "link": "https://ascii.jp/elem/000/004/437/4437408/?rss",
-      "date": "2026-09-25T17:25:12+09:00",
-      "dateLabel": "09/25 17:25",
-      "desc": "株式会社Co-Labo AI、製造業向け「予兆保全AI」の活用モデルを公開｜設備確認工数75％削減を試算",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 34
-    },
-    {
       "title": "ロボット制御向けAIモデル「FLUX 3 Action」をBlack Forest Labsが公開",
       "link": "https://gigazine.net/news/20260925-flux-3-action/",
       "date": "2026-09-25T17:20:00+09:00",
@@ -159,17 +159,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "【お問い合わせ管理システム】月額550円から！30日間無料！自社のお問い合わせ窓口を設置できるお問い合わせ管理システム「お問い合わせ軍師DX」を北海道札幌市のテラアセンダントAI株式会社が提供開始！",
-      "link": "https://ascii.jp/elem/000/004/437/4437409/?rss",
-      "date": "2026-09-25T17:03:02+09:00",
-      "dateLabel": "09/25 17:03",
-      "desc": "【お問い合わせ管理システム】月額550円から！30日間無料！自社のお問い合わせ窓口を設置できるお問い合わせ管理システム「お問い合わせ軍師DX」を北海道札幌市のテラアセンダントAI株式会社が提供開始！",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -280,6 +269,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "「汎用AIにデータを渡すだけ」では専門業務をこなせない？ トムソン・ロイターが独自LLM「Thomson」を構築した理由",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news019.html",
+      "date": "2026-09-24T08:00:00+09:00",
+      "dateLabel": "09/24 08:00",
+      "desc": "ロイター通信を傘下に持つThomson Reutersは、自社開発した大規模言語モデル「Thomson」を発表した。推論コストを抑えつつも、高い専門性と完全なデータ制御を実現したという。同社のアプローチに迫る。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 34
     }
   ]
