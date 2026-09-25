@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-26T04:41:16.467849+09:00",
-  "generatedLabel": "2026/09/26 04:41",
+  "generatedAt": "2026-09-26T07:56:46.796898+09:00",
+  "generatedLabel": "2026/09/26 07:56",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 60,
+  "candidates": 59,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,7 +13,7 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 20
+      "items": 19
     },
     {
       "source": "ASCII.jp",
@@ -104,17 +104,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "日本発スタートアップのエッジAIチップがNVIDIA超え、AI処理性能は3.36PFLOPS",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2609/25/news063.html",
-      "date": "2026-09-25T06:45:00+09:00",
-      "dateLabel": "09/25 06:45",
-      "desc": "AIアクセラレータを手掛ける日本発スタートアップのEdgeCortix（エッジコーティックス）は、最大3.36PFLOPSのAI処理性能を発揮するフィジカルAI向けの次世代スケーラブルAIチップレットプラットフォーム「RAIDEN」を発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
       "score": 42
     },
     {
@@ -239,14 +228,14 @@
       "score": 34
     },
     {
-      "title": "ChatGPTやCopilotから直接翻訳 「DeepL」のMCP対応で多言語業務はどう変わる？",
-      "link": "https://kn.itmedia.co.jp/kn/article/2609/25/2000001723/",
-      "date": "2026-09-25T07:00:00+09:00",
-      "dateLabel": "09/25 07:00",
-      "desc": "多言語を扱う業務では、翻訳のたびにAIと翻訳サービスを行き来する手間がある。DeepLはMCPに対応し、ChatGPTやMicrosoft Copilotなどから直接翻訳できる仕組みを提供する。",
+      "title": "日本発スタートアップのエッジAIチップがNVIDIA超え、AI処理性能は3.36PFLOPS",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2609/25/news063.html",
+      "date": "2026-09-25T06:45:00+09:00",
+      "dateLabel": "09/25 06:45",
+      "desc": "AIアクセラレータを手掛ける日本発スタートアップのEdgeCortix（エッジコーティックス）は、最大3.36PFLOPSのAI処理性能を発揮するフィジカルAI向けの次世代スケーラブルAIチップレットプラットフォーム「RAIDEN」を発表した。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -281,6 +270,17 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
+    },
+    {
+      "title": "Snapdragon X2シリーズでLinuxを公式サポートすることをQualcommが発表",
+      "link": "https://gigazine.net/news/20260925-qualcomm-snapdragon-x2-linux/",
+      "date": "2026-09-25T19:35:00+09:00",
+      "dateLabel": "09/25 19:35",
+      "desc": "Qualcommが「Snapdragon Summit 2026」において、Snapdragon X2シリーズでLinuxを公式サポートすることを発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
     }
   ]
 }
