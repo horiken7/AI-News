@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-26T15:50:19.503353+09:00",
-  "generatedLabel": "2026/09/26 15:50",
+  "generatedAt": "2026-09-26T20:56:53.477782+09:00",
+  "generatedLabel": "2026/09/26 20:56",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 59,
+  "candidates": 61,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 16
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -71,7 +71,7 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 66
+      "score": 58
     },
     {
       "title": "Microsoft、「Copilot」を刷新 「仕事のための新しいOS」とナデラCEO",
@@ -85,15 +85,37 @@
       "score": 50
     },
     {
-      "title": "AnTuTu 560万点超え！ iPhone 18 Pro Maxをもスコアで圧倒。「Snapdragon 8 Elite Extreme Gen 6」の実力",
-      "link": "https://ascii.jp/elem/000/004/437/4437132/?rss",
-      "date": "2026-09-26T12:00:00+09:00",
-      "dateLabel": "09/26 12:00",
-      "desc": "最新チップ「Snapdragon 8 Elite Extreme Gen 6」搭載機のベンチマークを実施しました。AnTuTuでは驚異の560万点超えを記録し、前世代機やiPhone 18 Pro Maxをスコアで圧倒。Geekbenchでも大幅な性能向上を確認でき、次期Android最高峰の性能を実証しました。",
-      "img": "https://ascii.jp/img/2026/09/25/4529952/s/fee3cbd4e8345bd4.jpg",
+      "title": "ゲーム実況や動画編集もこなせる高コスパRTX 5050搭載の15.6型ゲーミングノートPCを22万円未満で発見",
+      "link": "https://ascii.jp/elem/000/004/437/4437429/?rss",
+      "date": "2026-09-26T19:30:00+09:00",
+      "dateLabel": "09/26 19:30",
+      "desc": "Amazon.co.jpにて、GALLERIAの15.6型ゲーミングノートPC「GALLERIA NPC5L-R55-G5」が販売中だ。インテル「Core i5-14450HX」とNVIDIA「GeForce RTX 5050」を搭載したモデルで、価格は21万8080円。",
+      "img": "https://ascii.jp/img/2026/09/25/4530300/s/53215a68ba76d850.jpg",
       "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 42
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "「AIトークンコスト増を44％抑制」できる可能性も 高性能モデルの“使い過ぎ”、どう減らす？",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news011.html",
+      "date": "2026-09-26T17:00:00+09:00",
+      "dateLabel": "09/26 17:00",
+      "desc": "生成AIやAIエージェントの活用が広がる中、企業のAI利用コストも膨らんでいる。AI活用を減らすことなく、増加するコストを抑えるには何を見直せばいいのか。アクセンチュアの調査から、その実態が見えてきた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "Uravation、AI検索対策（AIEO）の実装代行を提供開始。5つのAI検索での引用率を実測し、受け皿ページの原稿・構造化・配信・週次計測まで引き受けて、回答に引用される状態をつくる",
+      "link": "https://ascii.jp/elem/000/004/437/4437471/?rss",
+      "date": "2026-09-26T16:00:00+09:00",
+      "dateLabel": "09/26 16:00",
+      "desc": "Uravation、AI検索対策（AIEO）の実装代行を提供開始。5つのAI検索での引用率を実測し、受け皿ページの原稿・構造化・配信・週次計測まで引き受けて、回答に引用される状態をつくる",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 34
     },
     {
       "title": "「1週間の開発タスク」でAIの限界を検証 Googleが「Android Bench 2.0」公開",
@@ -104,50 +126,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "最高峰のスペックに変態ギミック全部盛り！ シャオミ「Xiaomi 18 Pro Max」は今年一番ワクワクするスマホだ",
-      "link": "https://ascii.jp/elem/000/004/437/4437431/?rss",
-      "date": "2026-09-26T12:00:00+09:00",
-      "dateLabel": "09/26 12:00",
-      "desc": "シャオミが最新チップ「Snapdragon 8 Elite Extreme Gen 6」初搭載の「Xiaomi 18 Pro」シリーズを発表しました。デュアル2億画素カメラに加え、覗き見防止のプライバシー画面や、背面でAI会話もできるディスプレーなど独自機能が満載。透明赤の特別版も登場し、日本発売にも期待が高まる1台です。",
-      "img": "https://ascii.jp/img/2026/09/25/4530315/s/d2153e790001277e.jpg",
-      "src": "ASCII.jp",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "and°、東大阪の内装元請けGO.REFORMと業務提携。7月から現場で使ってきた図面の拾い出しAIを、11月から協力業者も使えるようにする。10月はまず3社で先行し、使うかどうかは各社が決める",
-      "link": "https://ascii.jp/elem/000/004/437/4437458/?rss",
-      "date": "2026-09-26T11:55:23+09:00",
-      "dateLabel": "09/26 11:55",
-      "desc": "and°、東大阪の内装元請けGO.REFORMと業務提携。7月から現場で使ってきた図面の拾い出しAIを、11月から協力業者も使えるようにする。10月はまず3社で先行し、使うかどうかは各社が決める",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "ロボット制御向けAIモデル「FLUX 3 Action」をBlack Forest Labsが公開",
-      "link": "https://gigazine.net/news/20260925-flux-3-action/",
-      "date": "2026-09-25T17:20:00+09:00",
-      "dateLabel": "09/25 17:20",
-      "desc": "Black Forest LabsのマルチモーダルAIモデル「FLUX 3」から派生した、ロボット制御向けの世界行動モデル「FLUX 3 Action」が公開されました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "ChatGPTを開いた後に別サイトで見たページの情報がOpenAIへ送られる仕組みが指摘される",
-      "link": "https://gigazine.net/news/20260925-chatgpt-other-website/",
-      "date": "2026-09-25T16:30:00+09:00",
-      "dateLabel": "09/25 16:30",
-      "desc": "「ChatGPTを利用した後にOpenAIの広告計測コードを導入したウェブサイトを閲覧すると、閲覧したページなどの情報とChatGPT側で発行された識別子がOpenAIへ送信される場合がある」とセキュリティ関連の調査を行うBuchodiが報告しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -195,6 +173,50 @@
       "score": 34
     },
     {
+      "title": "6000円のリングライト一体型カメラ、DMM.make「DKS-CAM3G」で顔面“盛れすぎて”大変です",
+      "link": "https://ascii.jp/elem/000/004/435/4435366/?rss",
+      "date": "2026-09-26T19:20:00+09:00",
+      "dateLabel": "09/26 19:20",
+      "desc": "Elgato「Key Light Air MK.2」は、全配信者に触ってほしいですね。手元でライトを操れる神ガジェットです。",
+      "img": "https://ascii.jp/img/2026/09/16/4526410/s/14b126cce986da67.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "手元でライトを操れる神ガジェット、全配信者に触ってほしいElgato「Key Light Air MK.2」",
+      "link": "https://ascii.jp/elem/000/004/435/4435365/?rss",
+      "date": "2026-09-26T19:10:00+09:00",
+      "dateLabel": "09/26 19:10",
+      "desc": "Elgato「Key Light Air MK.2」は、全配信者に触ってほしいですね。手元でライトを操れる神ガジェットです。",
+      "img": "https://ascii.jp/img/2026/09/16/4526399/s/76fa4df8466ab94e.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "ミニPCなのにめっちゃ光る！Ryzen 5搭載だけど、見た目だけじゃなくしっかり使えるか検証してみた",
+      "link": "https://ascii.jp/elem/000/004/436/4436318/?rss",
+      "date": "2026-09-26T17:00:00+09:00",
+      "dateLabel": "09/26 17:00",
+      "desc": "ACEMAGICの「AM18 AMD Ryzen 5 7640HS ミニPC」です。一見するとゲーミングデバイスのようなサイバーパンク風のデザインですが、中身はしっかりスペックを詰め込んだ実力派。",
+      "img": "https://ascii.jp/img/2026/09/24/4529442/s/e93875d23adf3c6b.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "三重県内企業の51.8%が正社員不足 ATIS×Central AX、経営者向けAI活用セミナーを10月5日に四日市商工会議所で開催",
+      "link": "https://ascii.jp/elem/000/004/437/4437468/?rss",
+      "date": "2026-09-26T15:21:42+09:00",
+      "dateLabel": "09/26 15:21",
+      "desc": "三重県内企業の51.8%が正社員不足 ATIS×Central AX、経営者向けAI活用セミナーを10月5日に四日市商工会議所で開催",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "ホテルも列車もロボットだらけ！ 31体の「LOVOT」と行く伊豆の国市1泊2日貸切ツアー",
       "link": "https://ascii.jp/elem/000/004/437/4437058/?rss",
       "date": "2026-09-26T13:00:00+09:00",
@@ -217,36 +239,25 @@
       "score": 26
     },
     {
-      "title": "Snapdragon X2シリーズでLinuxを公式サポートすることをQualcommが発表",
-      "link": "https://gigazine.net/news/20260925-qualcomm-snapdragon-x2-linux/",
-      "date": "2026-09-25T19:35:00+09:00",
-      "dateLabel": "09/25 19:35",
-      "desc": "Qualcommが「Snapdragon Summit 2026」において、Snapdragon X2シリーズでLinuxを公式サポートすることを発表しました。 続きを読む...",
+      "title": "ロボット制御向けAIモデル「FLUX 3 Action」をBlack Forest Labsが公開",
+      "link": "https://gigazine.net/news/20260925-flux-3-action/",
+      "date": "2026-09-25T17:20:00+09:00",
+      "dateLabel": "09/25 17:20",
+      "desc": "Black Forest LabsのマルチモーダルAIモデル「FLUX 3」から派生した、ロボット制御向けの世界行動モデル「FLUX 3 Action」が公開されました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AI全般",
+      "cat": "生成AI/マルチモーダル",
       "score": 26
     },
     {
-      "title": "AIエージェントによるプログラミングとは？できること・ツール7選・始め方",
-      "link": "https://ainow.ai/2026/09/25/278386/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ab%25e3%2582%2588%25e3%2582%258b%25e3%2583%2597%25e3%2583%25ad%25e3%2582%25b0%25e3%2583%25a9%25e3%2583%259f%25e3%2583%25b3%25e3%2582%25b0%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b",
-      "date": "2026-09-25T19:24:11+09:00",
-      "dateLabel": "09/25 19:24",
-      "desc": "AIエージェントによるプログラミングとは、AIが計画から実装、テスト、修正までを自律的に進める開発手法です。本記事では、AIエージェントがプログラミングでできることと、3つの型で整理した主要ツール7選を解説します。 Cl... The post AIエージェントによるプログラミングとは？できること・ツール7選・始め方 first appeared on AI",
+      "title": "ChatGPTを開いた後に別サイトで見たページの情報がOpenAIへ送られる仕組みが指摘される",
+      "link": "https://gigazine.net/news/20260925-chatgpt-other-website/",
+      "date": "2026-09-25T16:30:00+09:00",
+      "dateLabel": "09/25 16:30",
+      "desc": "「ChatGPTを利用した後にOpenAIの広告計測コードを導入したウェブサイトを閲覧すると、閲覧したページなどの情報とChatGPT側で発行された識別子がOpenAIへ送信される場合がある」とセキュリティ関連の調査を行うBuchodiが報告しました。 続きを読む...",
       "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "AIエージェントの将来性は？市場予測と2030年までの進化を解説",
-      "link": "https://ainow.ai/2026/09/25/278382/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e5%25b0%2586%25e6%259d%25a5%25e6%2580%25a7%25e3%2581%25af%25ef%25bc%259f%25e5%25b8%2582%25e5%25a0%25b4%25e4%25ba%2588%25e6%25b8%25ac%25e3%2581%25a82030%25e5%25b9%25b4%25e3%2581%25be%25e3%2581%25a7%25e3%2581%25ae",
-      "date": "2026-09-25T19:11:03+09:00",
-      "dateLabel": "09/25 19:11",
-      "desc": "「AIエージェント元年」という言葉を目にする一方で、期待ほど成果が出ないという声も聞き、本当に伸びる技術なのか判断できずにいる方は多いでしょう。 結論から言えば、AIエージェントの将来性は高いと言えます。ただし現在は期待... The post AIエージェントの将来性は？市場予測と2030年までの進化を解説 first appeared on AI専門ニュ",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 26
     },
     {
@@ -269,17 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "OpenAIのAIエージェントがオーストラリア政府機関のシステムをハッキングしたことが判明、OpenAIは3カ月間報告せず",
-      "link": "https://gigazine.net/news/20260925-openai-hacked-australian-system/",
-      "date": "2026-09-25T12:59:00+09:00",
-      "dateLabel": "09/25 12:59",
-      "desc": "OpenAIのAIエージェントが、オーストラリアの公的医療サービス・メディケアなど4つのシステムにハッキングを仕掛けていたことがわかりました。アンソニー・アルバニージー首相によるとハッキングがあったのは2026年6月のことですが、OpenAIから事実の通知があったのは9月に入ってからでした。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
