@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-27T03:50:32.991456+09:00",
-  "generatedLabel": "2026/09/27 03:50",
-  "feedOk": 6,
-  "feedNg": 5,
+  "generatedAt": "2026-09-27T06:42:34.006606+09:00",
+  "generatedLabel": "2026/09/27 06:42",
+  "feedOk": 7,
+  "feedNg": 4,
   "candidates": 61,
   "status": [
     {
@@ -32,8 +32,8 @@
     },
     {
       "source": "CNET Japan",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "items": 0
     },
     {
       "source": "ZDNET Japan",
