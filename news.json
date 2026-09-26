@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-26T10:06:19.416881+09:00",
-  "generatedLabel": "2026/09/26 10:06",
+  "generatedAt": "2026-09-26T15:50:19.503353+09:00",
+  "generatedLabel": "2026/09/26 15:50",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 60,
+  "candidates": 59,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 17
+      "items": 16
     },
     {
       "source": "CNET Japan",
@@ -85,34 +85,45 @@
       "score": 50
     },
     {
-      "title": "Microsoftが次世代「Copilot」を発表=「Home」「Code」「Autopilot」でAI時代の働き方を再定義",
-      "link": "https://ascii.jp/elem/000/004/437/4437076/?rss",
-      "date": "2026-09-25T21:00:00+09:00",
-      "dateLabel": "09/25 21:00",
-      "desc": "次世代「Microsoft Copilot」は従来のオフィスツールと連携しつつ、生成AIとの対話から自律的なタスク実行、ノーコードでのアプリ開発までを一体化させた新しいプラットフォームへと進化します",
-      "img": "https://ascii.jp/img/2026/09/25/4529895/s/6a0f7112e263c0af.png",
+      "title": "AnTuTu 560万点超え！ iPhone 18 Pro Maxをもスコアで圧倒。「Snapdragon 8 Elite Extreme Gen 6」の実力",
+      "link": "https://ascii.jp/elem/000/004/437/4437132/?rss",
+      "date": "2026-09-26T12:00:00+09:00",
+      "dateLabel": "09/26 12:00",
+      "desc": "最新チップ「Snapdragon 8 Elite Extreme Gen 6」搭載機のベンチマークを実施しました。AnTuTuでは驚異の560万点超えを記録し、前世代機やiPhone 18 Pro Maxをスコアで圧倒。Geekbenchでも大幅な性能向上を確認でき、次期Android最高峰の性能を実証しました。",
+      "img": "https://ascii.jp/img/2026/09/25/4529952/s/fee3cbd4e8345bd4.jpg",
       "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
+      "cat": "AI全般",
       "score": 42
     },
     {
-      "title": "前回は延べ2,000名以上が参加。AIでデザインを「作れる」時代の次の課題に、デザイン制作会社が制作の裏側をライブで公開する3日間の無料オンラインセミナーを10月2日から開催",
-      "link": "https://ascii.jp/elem/000/004/437/4437437/?rss",
-      "date": "2026-09-25T19:36:44+09:00",
-      "dateLabel": "09/25 19:36",
-      "desc": "前回は延べ2,000名以上が参加。AIでデザインを「作れる」時代の次の課題に、デザイン制作会社が制作の裏側をライブで公開する3日間の無料オンラインセミナーを10月2日から開催",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "「1週間の開発タスク」でAIの限界を検証 Googleが「Android Bench 2.0」公開",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news013.html",
+      "date": "2026-09-26T13:00:00+09:00",
+      "dateLabel": "09/26 13:00",
+      "desc": "Googleは、AIモデルやエージェントのコーディング能力を測る「Android Bench 2.0」を公開した。エンジニアが数日を要する複雑な長期タスクを課す仕様に刷新。最高通過率は従来の約91％から約28％に急落した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
-      "title": "ロジクールG「YETI 2」発表 AIノイズ低減＆音声自動調整のUSBマイク",
-      "link": "https://ascii.jp/elem/000/004/437/4437310/?rss",
-      "date": "2026-09-25T19:00:00+09:00",
-      "dateLabel": "09/25 19:00",
-      "desc": "ロジクールGが10月15日に発売する「YETI 2 アダプティブマルチパターン USB マイク」を紹介。ボイス近接センサーによる自動音声調整、高解像度ディスプレイ、AIノイズリダクション、24bit／48kHz録音など、配信や通話を支える機能をまとめた。",
-      "img": "https://ascii.jp/img/2026/09/25/4530148/s/a02f48729e973dad.png",
+      "title": "最高峰のスペックに変態ギミック全部盛り！ シャオミ「Xiaomi 18 Pro Max」は今年一番ワクワクするスマホだ",
+      "link": "https://ascii.jp/elem/000/004/437/4437431/?rss",
+      "date": "2026-09-26T12:00:00+09:00",
+      "dateLabel": "09/26 12:00",
+      "desc": "シャオミが最新チップ「Snapdragon 8 Elite Extreme Gen 6」初搭載の「Xiaomi 18 Pro」シリーズを発表しました。デュアル2億画素カメラに加え、覗き見防止のプライバシー画面や、背面でAI会話もできるディスプレーなど独自機能が満載。透明赤の特別版も登場し、日本発売にも期待が高まる1台です。",
+      "img": "https://ascii.jp/img/2026/09/25/4530315/s/d2153e790001277e.jpg",
+      "src": "ASCII.jp",
+      "cat": "規制/安全",
+      "score": 34
+    },
+    {
+      "title": "and°、東大阪の内装元請けGO.REFORMと業務提携。7月から現場で使ってきた図面の拾い出しAIを、11月から協力業者も使えるようにする。10月はまず3社で先行し、使うかどうかは各社が決める",
+      "link": "https://ascii.jp/elem/000/004/437/4437458/?rss",
+      "date": "2026-09-26T11:55:23+09:00",
+      "dateLabel": "09/26 11:55",
+      "desc": "and°、東大阪の内装元請けGO.REFORMと業務提携。7月から現場で使ってきた図面の拾い出しAIを、11月から協力業者も使えるようにする。10月はまず3社で先行し、使うかどうかは各社が決める",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
@@ -134,83 +145,6 @@
       "date": "2026-09-25T16:30:00+09:00",
       "dateLabel": "09/25 16:30",
       "desc": "「ChatGPTを利用した後にOpenAIの広告計測コードを導入したウェブサイトを閲覧すると、閲覧したページなどの情報とChatGPT側で発行された識別子がOpenAIへ送信される場合がある」とセキュリティ関連の調査を行うBuchodiが報告しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "ChatGPTなどのAIに企業の偽の連絡先を出力させユーザーを詐欺へと導くサイバー攻撃「Dark Sourcery」",
-      "link": "https://gigazine.net/news/20260925-dark-sourcery-hackers-manipulate-ai-scam/",
-      "date": "2026-09-25T15:10:00+09:00",
-      "dateLabel": "09/25 15:10",
-      "desc": "ChatGPTやGeminiといったAIチャットボットによる出力を汚染するために、悪意のあるリンクやデータをインターネット上にばらまくというサイバー攻撃キャンペーン「Dark Sourcery」について、サイバーセキュリティ企業・Vigilance Securityの研究者が報告しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "軽量な視覚言語モデル「LFM2.5-VL-3B」にDSparkのドラフトモデルを適用して爆速化した「LFM2.5-VL-3B-DSpark」が登場",
-      "link": "https://gigazine.net/news/20260925-lfm2-5-vl-dspark/",
-      "date": "2026-09-25T13:49:00+09:00",
-      "dateLabel": "09/25 13:49",
-      "desc": "アメリカに拠点を置くAI開発企業のLiquid AIが視覚言語モデル「LFM2.5-VL-3B-DSpark」を2026年9月24日に公開しました。LFM2.5-VL-3B-DSparkは「LFM2.5-VL-3B」に投機的デコード技術「DSpark」を適用したモデルで、性能を維持したまま数倍の高速化を実現しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "OpenAIのAIエージェントがオーストラリア政府機関のシステムをハッキングしたことが判明、OpenAIは3カ月間報告せず",
-      "link": "https://gigazine.net/news/20260925-openai-hacked-australian-system/",
-      "date": "2026-09-25T12:59:00+09:00",
-      "dateLabel": "09/25 12:59",
-      "desc": "OpenAIのAIエージェントが、オーストラリアの公的医療サービス・メディケアなど4つのシステムにハッキングを仕掛けていたことがわかりました。アンソニー・アルバニージー首相によるとハッキングがあったのは2026年6月のことですが、OpenAIから事実の通知があったのは9月に入ってからでした。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "「現代AIの父」シュミットフーバー氏がSakana AIに参画 RSI研究のアドバイザーに",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/25/2000001742/",
-      "date": "2026-09-25T11:53:22+09:00",
-      "dateLabel": "09/25 11:53",
-      "desc": "Sakana AIが「現代AIの父」と称されるユルゲン・シュミットフーバー氏の参画を発表。ChatGPTの「P」「T」の原型を1991年に発表したと主張する同氏は、再帰的自己改善（RSI）を研究する新設組織のアドバイザーを務める。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "イヤホンなどのオーディオデバイスでAI機能を強化するチップ「Snapdragon Sound Elite Gen 2」が発表される",
-      "link": "https://gigazine.net/news/20260925-snapdragon-sound-elite-gen-2/",
-      "date": "2026-09-25T11:15:00+09:00",
-      "dateLabel": "09/25 11:15",
-      "desc": "Qualcommが、オーディオデバイス向けのSoC「Snapdragon Sound Elite Gen 2」を発表しました。イヤホンやオーディオグラスなどでAIを活用する際に高い性能を発揮できるとされています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "Googleが宇宙にAIデータセンターを設置する実証実験「Project Suncatcher」でAI専用チップ・TPUを搭載した人工衛星を10月1日に打ち上げ",
-      "link": "https://gigazine.net/news/20260925-google-project-suncatcher/",
-      "date": "2026-09-25T11:08:00+09:00",
-      "dateLabel": "09/25 11:08",
-      "desc": "現地時間の2026年9月24日、Googleは地球の軌道上でAI向けデータセンターを稼働させる「Project Suncatcher」の初期実験として、Google製AIチップである「TPU」が宇宙空間でどのように機能するかを評価するためのプロトタイプ衛星を2026年10月1日に打ち上げると発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "Claudeで「セーフガードにブロックされたAI処理」に対する課金が開始される",
-      "link": "https://gigazine.net/news/20260925-claude-safeguard-block-request/",
-      "date": "2026-09-25T11:01:00+09:00",
-      "dateLabel": "09/25 11:01",
-      "desc": "Claudeにはサイバー攻撃や生物兵器といった危険なカテゴリに関する質問を識別する安全分類器が搭載されています。この安全分類器によって中断された処理については料金が加算されていなかったのですが、一部のカテゴリで課金を開始することが日本時間の2026年9月25日に発表されました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
@@ -261,25 +195,91 @@
       "score": 34
     },
     {
-      "title": "Google AIサブスクに「Colab」有料特典をバンドル 「高性能GPU」にアクセス可能に",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/24/2000001685/",
-      "date": "2026-09-24T09:47:12+09:00",
-      "dateLabel": "09/24 09:47",
-      "desc": "Googleは「Google AI」の各プランに、「Google Colab」の有料特典を組み込むと発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 34
+      "title": "ホテルも列車もロボットだらけ！ 31体の「LOVOT」と行く伊豆の国市1泊2日貸切ツアー",
+      "link": "https://ascii.jp/elem/000/004/437/4437058/?rss",
+      "date": "2026-09-26T13:00:00+09:00",
+      "dateLabel": "09/26 13:00",
+      "desc": "ホテルも列車もLOVOTだらけの観光ツアー？ 31体のLOVOTと伊豆の国市をまわる1泊2日貸切ツアーに参加してきた！",
+      "img": "https://ascii.jp/img/2026/09/24/4529765/s/c7b59fef35b38ea9.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 26
     },
     {
-      "title": "「Codex」全機能に障害 約1時間にわたり",
+      "title": "「Codex」で1時間にわたる障害→使用量リセットへ",
       "link": "https://www.itmedia.co.jp/aiplus/article/2609/26/2000001774/",
-      "date": "2026-09-26T09:23:15+09:00",
-      "dateLabel": "09/26 09:23",
-      "desc": "ChatGPTなど他のサービスに影響はなかった。",
+      "date": "2026-09-26T10:27:56+09:00",
+      "dateLabel": "09/26 10:27",
+      "desc": "「私たちは再び稼働中で、CodexとChatGPT全体で全有料ユーザーの使用制限をリセットするよ」",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "Snapdragon X2シリーズでLinuxを公式サポートすることをQualcommが発表",
+      "link": "https://gigazine.net/news/20260925-qualcomm-snapdragon-x2-linux/",
+      "date": "2026-09-25T19:35:00+09:00",
+      "dateLabel": "09/25 19:35",
+      "desc": "Qualcommが「Snapdragon Summit 2026」において、Snapdragon X2シリーズでLinuxを公式サポートすることを発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "AIエージェントによるプログラミングとは？できること・ツール7選・始め方",
+      "link": "https://ainow.ai/2026/09/25/278386/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ab%25e3%2582%2588%25e3%2582%258b%25e3%2583%2597%25e3%2583%25ad%25e3%2582%25b0%25e3%2583%25a9%25e3%2583%259f%25e3%2583%25b3%25e3%2582%25b0%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b",
+      "date": "2026-09-25T19:24:11+09:00",
+      "dateLabel": "09/25 19:24",
+      "desc": "AIエージェントによるプログラミングとは、AIが計画から実装、テスト、修正までを自律的に進める開発手法です。本記事では、AIエージェントがプログラミングでできることと、3つの型で整理した主要ツール7選を解説します。 Cl... The post AIエージェントによるプログラミングとは？できること・ツール7選・始め方 first appeared on AI",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "AIエージェントの将来性は？市場予測と2030年までの進化を解説",
+      "link": "https://ainow.ai/2026/09/25/278382/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e5%25b0%2586%25e6%259d%25a5%25e6%2580%25a7%25e3%2581%25af%25ef%25bc%259f%25e5%25b8%2582%25e5%25a0%25b4%25e4%25ba%2588%25e6%25b8%25ac%25e3%2581%25a82030%25e5%25b9%25b4%25e3%2581%25be%25e3%2581%25a7%25e3%2581%25ae",
+      "date": "2026-09-25T19:11:03+09:00",
+      "dateLabel": "09/25 19:11",
+      "desc": "「AIエージェント元年」という言葉を目にする一方で、期待ほど成果が出ないという声も聞き、本当に伸びる技術なのか判断できずにいる方は多いでしょう。 結論から言えば、AIエージェントの将来性は高いと言えます。ただし現在は期待... The post AIエージェントの将来性は？市場予測と2030年までの進化を解説 first appeared on AI専門ニュ",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "ChatGPTなどのAIに企業の偽の連絡先を出力させユーザーを詐欺へと導くサイバー攻撃「Dark Sourcery」",
+      "link": "https://gigazine.net/news/20260925-dark-sourcery-hackers-manipulate-ai-scam/",
+      "date": "2026-09-25T15:10:00+09:00",
+      "dateLabel": "09/25 15:10",
+      "desc": "ChatGPTやGeminiといったAIチャットボットによる出力を汚染するために、悪意のあるリンクやデータをインターネット上にばらまくというサイバー攻撃キャンペーン「Dark Sourcery」について、サイバーセキュリティ企業・Vigilance Securityの研究者が報告しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "軽量な視覚言語モデル「LFM2.5-VL-3B」にDSparkのドラフトモデルを適用して爆速化した「LFM2.5-VL-3B-DSpark」が登場",
+      "link": "https://gigazine.net/news/20260925-lfm2-5-vl-dspark/",
+      "date": "2026-09-25T13:49:00+09:00",
+      "dateLabel": "09/25 13:49",
+      "desc": "アメリカに拠点を置くAI開発企業のLiquid AIが視覚言語モデル「LFM2.5-VL-3B-DSpark」を2026年9月24日に公開しました。LFM2.5-VL-3B-DSparkは「LFM2.5-VL-3B」に投機的デコード技術「DSpark」を適用したモデルで、性能を維持したまま数倍の高速化を実現しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "OpenAIのAIエージェントがオーストラリア政府機関のシステムをハッキングしたことが判明、OpenAIは3カ月間報告せず",
+      "link": "https://gigazine.net/news/20260925-openai-hacked-australian-system/",
+      "date": "2026-09-25T12:59:00+09:00",
+      "dateLabel": "09/25 12:59",
+      "desc": "OpenAIのAIエージェントが、オーストラリアの公的医療サービス・メディケアなど4つのシステムにハッキングを仕掛けていたことがわかりました。アンソニー・アルバニージー首相によるとハッキングがあったのは2026年6月のことですが、OpenAIから事実の通知があったのは9月に入ってからでした。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
