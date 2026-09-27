@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-27T14:58:52.573684+09:00",
-  "generatedLabel": "2026/09/27 14:58",
+  "generatedAt": "2026-09-27T20:28:50.874087+09:00",
+  "generatedLabel": "2026/09/27 20:28",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 56,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 2
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 12
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -118,25 +118,14 @@
       "score": 42
     },
     {
-      "title": "ゲーム実況や動画編集もこなせる高コスパRTX 5050搭載の15.6型ゲーミングノートPCを22万円未満で発見",
-      "link": "https://ascii.jp/elem/000/004/437/4437429/?rss",
-      "date": "2026-09-26T19:30:00+09:00",
-      "dateLabel": "09/26 19:30",
-      "desc": "Amazon.co.jpにて、GALLERIAの15.6型ゲーミングノートPC「GALLERIA NPC5L-R55-G5」が販売中だ。インテル「Core i5-14450HX」とNVIDIA「GeForce RTX 5050」を搭載したモデルで、価格は21万8080円。",
-      "img": "https://ascii.jp/img/2026/09/25/4530300/s/53215a68ba76d850.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "「AIトークンコスト増を44％抑制」できる可能性も 高性能モデルの“使い過ぎ”、どう減らす？",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news011.html",
-      "date": "2026-09-26T17:00:00+09:00",
-      "dateLabel": "09/26 17:00",
-      "desc": "生成AIやAIエージェントの活用が広がる中、企業のAI利用コストも膨らんでいる。AI活用を減らすことなく、増加するコストを抑えるには何を見直せばいいのか。アクセンチュアの調査から、その実態が見えてきた。",
+      "title": "画像・動画生成AIのAPIを安さや制限の緩さで選んで簡単に使えるようにする「Comfy Router」が登場、OpenRouterのコンテンツ生成版",
+      "link": "https://gigazine.net/news/20260927-comfy-router/",
+      "date": "2026-09-27T19:00:00+09:00",
+      "dateLabel": "09/27 19:00",
+      "desc": "画像生成AIや動画生成AIをPCでローカル実行できるアプリ「ComfyUI」を開発するComfyが、サービスごとの画像・動画生成AIのAPIをまとめて扱えるようにする「Comfy Router」を2026年9月23日にリリースしました。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
+      "src": "GIGAZINE",
+      "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
@@ -195,25 +184,14 @@
       "score": 26
     },
     {
-      "title": "6000円のリングライト一体型カメラ、DMM.make「DKS-CAM3G」で顔面“盛れすぎて”大変です",
-      "link": "https://ascii.jp/elem/000/004/435/4435366/?rss",
-      "date": "2026-09-26T19:20:00+09:00",
-      "dateLabel": "09/26 19:20",
-      "desc": "Elgato「Key Light Air MK.2」は、全配信者に触ってほしいですね。手元でライトを操れる神ガジェットです。",
-      "img": "https://ascii.jp/img/2026/09/16/4526410/s/14b126cce986da67.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "手元でライトを操れる神ガジェット、全配信者に触ってほしいElgato「Key Light Air MK.2」",
-      "link": "https://ascii.jp/elem/000/004/435/4435365/?rss",
-      "date": "2026-09-26T19:10:00+09:00",
-      "dateLabel": "09/26 19:10",
-      "desc": "Elgato「Key Light Air MK.2」は、全配信者に触ってほしいですね。手元でライトを操れる神ガジェットです。",
-      "img": "https://ascii.jp/img/2026/09/16/4526399/s/76fa4df8466ab94e.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "「AIトークンコスト増を44％抑制」できる可能性も 高性能モデルの“使い過ぎ”、どう減らす？",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news011.html",
+      "date": "2026-09-26T17:00:00+09:00",
+      "dateLabel": "09/26 17:00",
+      "desc": "生成AIやAIエージェントの活用が広がる中、企業のAI利用コストも膨らんでいる。AI活用を減らすことなく、増加するコストを抑えるには何を見直せばいいのか。アクセンチュアの調査から、その実態が見えてきた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 26
     },
     {
@@ -250,17 +228,6 @@
       "score": 26
     },
     {
-      "title": "ChatGPTなどのAIに企業の偽の連絡先を出力させユーザーを詐欺へと導くサイバー攻撃「Dark Sourcery」",
-      "link": "https://gigazine.net/news/20260925-dark-sourcery-hackers-manipulate-ai-scam/",
-      "date": "2026-09-25T15:10:00+09:00",
-      "dateLabel": "09/25 15:10",
-      "desc": "ChatGPTやGeminiといったAIチャットボットによる出力を汚染するために、悪意のあるリンクやデータをインターネット上にばらまくというサイバー攻撃キャンペーン「Dark Sourcery」について、サイバーセキュリティ企業・Vigilance Securityの研究者が報告しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
       "title": "「現代AIの父」シュミットフーバー氏がSakana AIに参画 RSI研究のアドバイザーに",
       "link": "https://www.itmedia.co.jp/aiplus/article/2609/25/2000001742/",
       "date": "2026-09-25T11:53:22+09:00",
@@ -281,6 +248,39 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 26
+    },
+    {
+      "title": "Devinが仮想環境でmacOSの提供開始。Macの実機不要でDevinがコード生成、テスト、デバッグ、実行、AppStore配信前のベータ公開まで実行",
+      "link": "https://www.publickey1.jp/blog/26/devinmacosmacdevinappstore.html",
+      "date": "2026-09-17T01:00:51+09:00",
+      "dateLabel": "09/17 01:00",
+      "desc": "コーディングAIエージェントを提供するDevinが、Devinがホストする仮想環境内でのmacOSの提供を開始しました。 Devinはこれまで仮想環境内でUbuntu LinuxおよびWindowsを提供しており、ここにmacOSが加わりま...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 24
+    },
+    {
+      "title": "AIエージェントのブログ運用を自動化する5ステップとツール8選を解説",
+      "link": "https://ainow.ai/2026/09/16/278362/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e3%2583%2596%25e3%2583%25ad%25e3%2582%25b0%25e9%2581%258b%25e7%2594%25a8%25e3%2582%2592%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%2599%25e3%2582%258b5%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583",
+      "date": "2026-09-16T01:20:51+09:00",
+      "dateLabel": "09/16 01:20",
+      "desc": "AIエージェントを使えば、ブログのキーワード調査から本文執筆、WordPressへの入稿までを一連の流れとして任せられます。本記事では、任せられる工程の切り分け方から具体的なツール選定までを解説します。 ChatGPTで... The post AIエージェントのブログ運用を自動化する5ステップとツール8選を解説 first appeared on AI専門",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 24
+    },
+    {
+      "title": "OpenAIやAnthropicなどAIベンダごとのAPIの違いを吸収し統合する「Agent Router」、Linux Foundation傘下で業界標準へ",
+      "link": "https://www.publickey1.jp/blog/26/openaianthropicapiagent_routerlinux_foundation.html",
+      "date": "2026-09-15T00:51:16+09:00",
+      "dateLabel": "09/15 00:51",
+      "desc": "MCPやAGENTS.md、Agent2AgentプロトコルなどのAIエージェントに関する関連技術の標準化推進や開発などを行うLinux Foundation傘下のAgentic AI Foundation（AAIF）は、オープンソースとし...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 24
     }
   ]
 }
