@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-28T04:38:20.238784+09:00",
-  "generatedLabel": "2026/09/28 04:38",
+  "generatedAt": "2026-09-28T07:41:13.932235+09:00",
+  "generatedLabel": "2026/09/28 07:41",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 52,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 2
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 9
     },
     {
       "source": "CNET Japan",
@@ -74,14 +74,14 @@
       "score": 58
     },
     {
-      "title": "Uravation、ChatGPT広告（ChatGPT Ads）の出稿・運用支援を提供開始。開設と計測の実装から、日予算2,500円からの試験出稿、週次の運用、Claude Codeでの内製化まで",
-      "link": "https://ascii.jp/elem/000/004/437/4437487/?rss",
-      "date": "2026-09-27T11:00:00+09:00",
-      "dateLabel": "09/27 11:00",
-      "desc": "Uravation、ChatGPT広告（ChatGPT Ads）の出稿・運用支援を提供開始。開設と計測の実装から、日予算2,500円からの試験出稿、週次の運用、Claude Codeでの内製化まで",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "title": "大学の研究費申請で求められる「海外リスク調査」を自動化、研究セキュリティ対応AIエージェント",
+      "link": "https://ascii.jp/elem/000/004/436/4436207/?rss",
+      "date": "2026-09-28T07:00:00+09:00",
+      "dateLabel": "09/28 07:00",
+      "desc": "株式会社TIMEWELLは9月14日、輸出管理AIエージェント「TRAFEED」において、大学・研究機関向けの研究セキュリティ対応機能の提供を順次開始したと発表した。2025年12月に内閣府が策定した「手順書」に基づき、防衛装備庁や科学技術振興機構（JST）などの公募審査において、研究者や共同研究先に関するリスク確認結果の提出が求められるようになったことが背",
+      "img": "https://ascii.jp/img/2026/09/18/4527823/s/c7446fc41ac91b17.jpg",
       "src": "ASCII.jp",
-      "cat": "LLM/モデル",
+      "cat": "AIエージェント/業務",
       "score": 50
     },
     {
@@ -96,17 +96,6 @@
       "score": 42
     },
     {
-      "title": "カメラが飛び出し、うなずく!? HONORの「Robot Phone」はスマホの形をしたAIロボットだ",
-      "link": "https://ascii.jp/elem/000/004/436/4436691/?rss",
-      "date": "2026-09-27T12:00:00+09:00",
-      "dateLabel": "09/27 12:00",
-      "desc": "HONORが発表した「Robot Phone」は、背面に180度回転するジンバル型カメラを内蔵した革新的なスマホです。顔認識による被写体追尾やARRI協業の本格的な動画撮影に対応。さらにAIエージェント「YOYO Pro」と連動し、カメラが首を振るなどロボットのように反応する未来的な1台です。",
-      "img": "https://ascii.jp/img/2026/09/23/4529172/s/3f57f8b57ac63df3.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "Microsoft、「Copilot」を刷新 「仕事のための新しいOS」とナデラCEO",
       "link": "https://www.itmedia.co.jp/news/article/2609/26/2000001773/",
       "date": "2026-09-26T07:48:32+09:00",
@@ -116,6 +105,39 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 42
+    },
+    {
+      "title": "Microsoft IQとは？ AIエージェントが必要とする理由は？ マイクロソフトの担当幹部が解説",
+      "link": "https://ascii.jp/elem/000/004/437/4437493/?rss",
+      "date": "2026-09-28T07:30:00+09:00",
+      "dateLabel": "09/28 07:30",
+      "desc": "「Microsoft IQ」は、AIエージェントが企業の中で高い生産性を発揮することを支える“コンテキストプラットフォーム”と位置付けられている。高品質なコンテキスト基盤を整備することが、AIを通じた次世代のビジネス価値を生む鍵を握っているというのが、マイクロソフトの考えだ。具体的にどんなものか、米マイクロソフト幹部のアルーン・ウラグ氏が解説した。",
+      "img": "https://ascii.jp/img/2026/09/27/4530579/s/a38a10e47b3b53f4.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "フィジカルAI時代を見据え、NTTドコビジがNaaS基盤を強化 数万台のIoTデバイスをセキュアに管理",
+      "link": "https://ascii.jp/elem/000/004/437/4437354/?rss",
+      "date": "2026-09-28T07:30:00+09:00",
+      "dateLabel": "09/28 07:30",
+      "desc": "フィジカルAIの進展に伴い、IoTデバイスのさらなる増加が見込まれている。一方で、セキュリティの担保や運用管理の負荷増が大きな課題となっていく。こうした未来を見据えNTTドコモビジネスは、IoTやAI活用を支えるNaaS「docomo business SIGN」の機能拡充や新プランを発表した。",
+      "img": "https://ascii.jp/img/2026/09/25/4530195/s/66c1794b220e6d62.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "ChatGPTを“神SaaS”だと思っている人が、こんなにも多いようです。",
+      "link": "https://ascii.jp/elem/000/004/433/4433894/?rss",
+      "date": "2026-09-28T06:00:00+09:00",
+      "dateLabel": "09/28 06:00",
+      "desc": "TECH.ASCII.jpが実施している「SaaS最強Tierアンケート」にご協力ください！ あなたの回答、待ってます！",
+      "img": "https://ascii.jp/img/2026/09/10/4524024/s/f2a1c68bf9ab294b.png",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "「Docker Cloud Sandboxes」発表、AIエージェント向けサンドボックスをローカルとクラウド間で自由に移動可能に",
@@ -184,17 +206,6 @@
       "score": 34
     },
     {
-      "title": "日本発スタートアップのエッジAIチップがNVIDIA超え、AI処理性能は3.36PFLOPS",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2609/25/news063.html",
-      "date": "2026-09-25T06:45:00+09:00",
-      "dateLabel": "09/25 06:45",
-      "desc": "AIアクセラレータを手掛ける日本発スタートアップのEdgeCortix（エッジコーティックス）は、最大3.36PFLOPSのAI処理性能を発揮するフィジカルAI向けの次世代スケーラブルAIチップレットプラットフォーム「RAIDEN」を発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
       "title": "Go言語で書かれた高速なIDE「Rune」、オープンソースで公開。ターミナルとコマンドプロンプト中心の開発環境、複数リモートノードをローカルのように操作可能",
       "link": "https://www.publickey1.jp/blog/26/goiderune.html",
       "date": "2026-09-25T00:45:08+09:00",
@@ -206,81 +217,70 @@
       "score": 28
     },
     {
-      "title": "「AIトークンコスト増を44％抑制」できる可能性も 高性能モデルの“使い過ぎ”、どう減らす？",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news011.html",
-      "date": "2026-09-26T17:00:00+09:00",
-      "dateLabel": "09/26 17:00",
-      "desc": "生成AIやAIエージェントの活用が広がる中、企業のAI利用コストも膨らんでいる。AI活用を減らすことなく、増加するコストを抑えるには何を見直せばいいのか。アクセンチュアの調査から、その実態が見えてきた。",
+      "title": "ロボットを入れれば終わりじゃない フィジカルAIを現場で動かす企業の役割とは",
+      "link": "https://kn.itmedia.co.jp/kn/article/2609/28/2000001734/",
+      "date": "2026-09-28T07:00:00+09:00",
+      "dateLabel": "09/28 07:00",
+      "desc": "AIロボットを工場や物流現場に導入しても、それだけで現場が変わるわけではない。システム統合や設備の自動化、導入後の運用・保守など、さまざまな企業の力が必要になる。Listerの分析から、フィジカルAIの実装を支える構造が見えてきた。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 26
     },
     {
-      "title": "「1週間の開発タスク」でAIの限界を検証 Googleが「Android Bench 2.0」公開",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news013.html",
-      "date": "2026-09-26T13:00:00+09:00",
-      "dateLabel": "09/26 13:00",
-      "desc": "Googleは、AIモデルやエージェントのコーディング能力を測る「Android Bench 2.0」を公開した。エンジニアが数日を要する複雑な長期タスクを課す仕様に刷新。最高通過率は従来の約91％から約28％に急落した。",
+      "title": "AIが人間のようにゲームをプレイ 話題の「Jev」を試してわかったこと",
+      "link": "https://ascii.jp/elem/000/004/437/4437496/?rss",
+      "date": "2026-09-28T07:00:00+09:00",
+      "dateLabel": "09/28 07:00",
+      "desc": "低コスト・低遅延で判断するAI「Jev」が話題。自作ゲームに実装したところ、シューティングでは人間らしい動きを見せ、騎馬戦では勝率の変化を確認することができた。",
+      "img": "https://ascii.jp/img/2026/09/28/4530600/s/601c76b22f7457b0.png",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
+      "title": "冨山和彦氏らが登壇！AI時代の価値創造戦略と地方での事業・人材開発を学ぶ無料イベントを10月6日に開催",
+      "link": "https://ascii.jp/elem/000/004/437/4437208/?rss",
+      "date": "2026-09-28T07:00:00+09:00",
+      "dateLabel": "09/28 07:00",
+      "desc": "広島県公立大学法人叡啓大学ソーシャルデザインセンター（SDC）が主催するイベント「AI時代における企業の価値創造戦略―『地方』から見えてくる事業開発と人材開発の未来―」が、10月6日に開催される。",
+      "img": "https://ascii.jp/img/2026/09/25/4530005/s/ff5d0e0fed95e07e.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "トランプ大統領と習主席、AIを「超知能（SI）」と呼ぶことで合意 「米中SI対話」も創設",
+      "link": "https://www.itmedia.co.jp/news/article/2609/28/2000001776/",
+      "date": "2026-09-28T06:38:20+09:00",
+      "dateLabel": "09/28 06:38",
+      "desc": "米連邦政府は、習近平国家主席の国賓訪問に関するファクトシートを公開した。首脳会談でAIを「超知能（SI）」と呼ぶことで合意し、リスク対応の定期対話や連絡チャネルを創設した。公式晩餐会にはマスク氏やザッカーバーグ氏らIT首脳が集結した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "AI搭載「次世代うそ発見器」開発へ、米国防総省が予算要求",
+      "link": "https://ascii.jp/elem/000/004/437/4437497/?rss",
+      "date": "2026-09-28T06:27:27+09:00",
+      "dateLabel": "09/28 06:27",
+      "desc": "米国防総省は今後5年間で3030万ドルを投じ、AIによる採点アルゴリズムと、装置を装着せずに生体反応を測る技術を使った新型のうそ発見器を開発する計画だ。だが1920年代の発明以来ほとんど変わらないポリグラフは、その有効性を裏付ける証拠が「ひいき目に見ても弱い」と指摘されてきた技術でもある。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "ファナックがAI溶接エージェント実演 ロボット制御装置が安全PLCに",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2609/28/news038.html",
+      "date": "2026-09-28T06:15:00+09:00",
+      "dateLabel": "09/28 06:15",
+      "desc": "ファナックは「2026国際ウエルディングショー」において、部品の図面を読み取りロボットがアーク溶接を行うAI溶接エージェントのデモンストレーションなどを披露した。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 26
-    },
-    {
-      "title": "ロボット制御向けAIモデル「FLUX 3 Action」をBlack Forest Labsが公開",
-      "link": "https://gigazine.net/news/20260925-flux-3-action/",
-      "date": "2026-09-25T17:20:00+09:00",
-      "dateLabel": "09/25 17:20",
-      "desc": "Black Forest LabsのマルチモーダルAIモデル「FLUX 3」から派生した、ロボット制御向けの世界行動モデル「FLUX 3 Action」が公開されました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
-      "title": "「現代AIの父」シュミットフーバー氏がSakana AIに参画 RSI研究のアドバイザーに",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/25/2000001742/",
-      "date": "2026-09-25T11:53:22+09:00",
-      "dateLabel": "09/25 11:53",
-      "desc": "Sakana AIが「現代AIの父」と称されるユルゲン・シュミットフーバー氏の参画を発表。ChatGPTの「P」「T」の原型を1991年に発表したと主張する同氏は、再帰的自己改善（RSI）を研究する新設組織のアドバイザーを務める。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "ChatGPTやCopilotから直接翻訳 「DeepL」のMCP対応で多言語業務はどう変わる？",
-      "link": "https://kn.itmedia.co.jp/kn/article/2609/25/2000001723/",
-      "date": "2026-09-25T07:00:00+09:00",
-      "dateLabel": "09/25 07:00",
-      "desc": "多言語を扱う業務では、翻訳のたびにAIと翻訳サービスを行き来する手間がある。DeepLはMCPに対応し、ChatGPTやMicrosoft Copilotなどから直接翻訳できる仕組みを提供する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "Devinが仮想環境でmacOSの提供開始。Macの実機不要でDevinがコード生成、テスト、デバッグ、実行、AppStore配信前のベータ公開まで実行",
-      "link": "https://www.publickey1.jp/blog/26/devinmacosmacdevinappstore.html",
-      "date": "2026-09-17T01:00:51+09:00",
-      "dateLabel": "09/17 01:00",
-      "desc": "コーディングAIエージェントを提供するDevinが、Devinがホストする仮想環境内でのmacOSの提供を開始しました。 Devinはこれまで仮想環境内でUbuntu LinuxおよびWindowsを提供しており、ここにmacOSが加わりま...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 24
-    },
-    {
-      "title": "AIエージェントのブログ運用を自動化する5ステップとツール8選を解説",
-      "link": "https://ainow.ai/2026/09/16/278362/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e3%2583%2596%25e3%2583%25ad%25e3%2582%25b0%25e9%2581%258b%25e7%2594%25a8%25e3%2582%2592%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%2599%25e3%2582%258b5%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583",
-      "date": "2026-09-16T01:20:51+09:00",
-      "dateLabel": "09/16 01:20",
-      "desc": "AIエージェントを使えば、ブログのキーワード調査から本文執筆、WordPressへの入稿までを一連の流れとして任せられます。本記事では、任せられる工程の切り分け方から具体的なツール選定までを解説します。 ChatGPTで... The post AIエージェントのブログ運用を自動化する5ステップとツール8選を解説 first appeared on AI専門",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 24
     }
   ]
 }
