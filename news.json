@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-27T06:42:34.006606+09:00",
-  "generatedLabel": "2026/09/27 06:42",
-  "feedOk": 7,
-  "feedNg": 4,
-  "candidates": 61,
+  "generatedAt": "2026-09-27T09:02:21.787182+09:00",
+  "generatedLabel": "2026/09/27 09:02",
+  "feedOk": 6,
+  "feedNg": 5,
+  "candidates": 60,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,12 +28,12 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 14
     },
     {
       "source": "CNET Japan",
-      "ok": true,
-      "items": 0
+      "ok": false,
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "source": "ZDNET Japan",
@@ -74,17 +74,6 @@
       "score": 58
     },
     {
-      "title": "Microsoft、「Copilot」を刷新 「仕事のための新しいOS」とナデラCEO",
-      "link": "https://www.itmedia.co.jp/news/article/2609/26/2000001773/",
-      "date": "2026-09-26T07:48:32+09:00",
-      "dateLabel": "09/26 07:48",
-      "desc": "Microsoftは「Microsoft Copilot」アプリの大幅な刷新を発表した。「Home」「Code」「Autopilot」の3タブ構成とし、Officeを直接統合する。自然言語でのアプリ構築や自律的な業務代行エージェントを導入し、日常機能は月額課金、高度なエージェントや最新モデルは従量課金に移行する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
       "title": "AIエージェントで資料作成を自動化！おすすめ10選と使い方を解説",
       "link": "https://ainow.ai/2026/09/27/278389/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e8%25b3%2587%25e6%2596%2599%25e4%25bd%259c%25e6%2588%2590%25e3%2582%2592%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25ef%25bc%2581%25e3%2581%258a%25e3%2581%2599%25e3%2581%2599%25e3%2582%258110%25e9%2581%25b8",
       "date": "2026-09-27T00:11:22+09:00",
@@ -92,6 +81,17 @@
       "desc": "提案書や会議資料づくりに毎週何時間も取られ、ChatGPTに構成を出させても結局スライド化は自分でやっている。本記事では、資料作成に使えるAIエージェント10選の比較と、資料の種類別プロンプト例を中心に、初稿をAIに任せ... The post AIエージェントで資料作成を自動化！おすすめ10選と使い方を解説 first appeared on AI専門ニュ",
       "img": "",
       "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "Microsoft、「Copilot」を刷新 「仕事のための新しいOS」とナデラCEO",
+      "link": "https://www.itmedia.co.jp/news/article/2609/26/2000001773/",
+      "date": "2026-09-26T07:48:32+09:00",
+      "dateLabel": "09/26 07:48",
+      "desc": "Microsoftは「Microsoft Copilot」アプリの大幅な刷新を発表した。「Home」「Code」「Autopilot」の3タブ構成とし、Officeを直接統合する。自然言語でのアプリ構築や自律的な業務代行エージェントを導入し、日常機能は月額課金、高度なエージェントや最新モデルは従量課金に移行する。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 42
     },
