@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-29T01:18:56.661365+09:00",
-  "generatedLabel": "2026/09/29 01:18",
+  "generatedAt": "2026-09-29T07:20:32.793390+09:00",
+  "generatedLabel": "2026/09/29 07:20",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 58,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 19
+      "items": 20
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -107,15 +107,26 @@
       "score": 42
     },
     {
-      "title": "Microsoft、「Copilot」を刷新 「仕事のための新しいOS」とナデラCEO",
-      "link": "https://www.itmedia.co.jp/news/article/2609/26/2000001773/",
-      "date": "2026-09-26T07:48:32+09:00",
-      "dateLabel": "09/26 07:48",
-      "desc": "Microsoftは「Microsoft Copilot」アプリの大幅な刷新を発表した。「Home」「Code」「Autopilot」の3タブ構成とし、Officeを直接統合する。自然言語でのアプリ構築や自律的な業務代行エージェントを導入し、日常機能は月額課金、高度なエージェントや最新モデルは従量課金に移行する。",
+      "title": "生成AIの能力と権限を分離する医療向け実行制御基盤",
+      "link": "https://ascii.jp/elem/000/004/437/4437272/?rss",
+      "date": "2026-09-29T07:00:00+09:00",
+      "dateLabel": "09/29 07:00",
+      "desc": "株式会社シェアメディカルは9月16日、医療現場で生成AIを安全に使うための共通システム「MediLine Engine」を発表した。このシステムは、電子カルテなどの医療システムとAIの間で、AIがどこまでの処理を行ってよいかを外部から制御する役割を持つ。",
+      "img": "https://ascii.jp/img/2026/09/25/4530068/s/354a543ab8beb946.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "AIエージェントに頼るだけでは失敗する 「あと5年」で打つべき次の一手",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/28/news027.html",
+      "date": "2026-09-29T05:00:00+09:00",
+      "dateLabel": "09/29 05:00",
+      "desc": "AIモデルの性能議論が一巡し、AIエージェントを自律的に動かすための環境整備「ハーネスエンジニアリング」へと潮流が移る一方、日本企業の取り組みは「ほぼ皆無」だという。ITRのプリンシパル・アナリスト甲元宏明氏に、現在地と、勝ち残るための「現実解」を聞いた。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 42
+      "score": 34
     },
     {
       "title": "週刊アスキー No.1615(2026年9月29日発行)",
@@ -270,17 +281,6 @@
       "src": "AINOW",
       "cat": "AIエージェント/業務",
       "score": 34
-    },
-    {
-      "title": "Go言語で書かれた高速なIDE「Rune」、オープンソースで公開。ターミナルとコマンドプロンプト中心の開発環境、複数リモートノードをローカルのように操作可能",
-      "link": "https://www.publickey1.jp/blog/26/goiderune.html",
-      "date": "2026-09-25T00:45:08+09:00",
-      "dateLabel": "09/25 00:45",
-      "desc": "開発ツールベンダのUnstablebuildは、Go言語製のIDE「Rune」をオープンソースで公開したことを発表しました。 Runeの画面 RuneはGo言語によるネイティブアプリケーションとして提供される高速なIDEです。GPUによる描...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "半導体/GPU",
-      "score": 28
     }
   ]
 }
