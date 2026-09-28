@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-28T10:18:01.756099+09:00",
-  "generatedLabel": "2026/09/28 10:18",
+  "generatedAt": "2026-09-28T16:56:21.148159+09:00",
+  "generatedLabel": "2026/09/28 16:56",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 60,
+  "candidates": 61,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 11
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 9
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -63,36 +63,69 @@
   ],
   "articles": [
     {
-      "title": "AIに「StarCraft」をリアルタイムで戦わせる「Brood War Bench」が登場、全モデルが初心者レベルながらCodex Astraは18戦全勝",
-      "link": "https://gigazine.net/news/20260925-starcraft-brood-war-bench/",
-      "date": "2026-09-25T19:50:00+09:00",
-      "dateLabel": "09/25 19:50",
-      "desc": "AIエージェントにリアルタイムストラテジーゲーム「StarCraft: Brood War」を操作させて対戦能力を比較するベンチマーク「Brood War Bench」をソフトウェアエンジニアのベン・スワードロウ氏が公開しました。OpenAI系やAnthropicのClaude、xAIのGrokなどを含む19種類の構成が総当たりで対戦した結果、最上位のCod",
+      "title": "アリババとByteDanceによるNVIDIAの最先端チップ購入を中国政府が承認へ",
+      "link": "https://gigazine.net/news/20260928-china-nvidia-chips/",
+      "date": "2026-09-28T14:25:00+09:00",
+      "dateLabel": "09/28 14:25",
+      "desc": "2026年9月にNVIDIAが発表したワークステーション向けの高性能GPU「RTX Pro 5500」について、中国政府がIT大手・アリババ(阿里巴巴)とByteDanceによる購入を認める方針であることがわかりました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 58
+      "cat": "半導体/GPU",
+      "score": 50
     },
     {
-      "title": "大学の研究費申請で求められる「海外リスク調査」を自動化、研究セキュリティ対応AIエージェント",
-      "link": "https://ascii.jp/elem/000/004/436/4436207/?rss",
-      "date": "2026-09-28T07:00:00+09:00",
-      "dateLabel": "09/28 07:00",
-      "desc": "株式会社TIMEWELLは9月14日、輸出管理AIエージェント「TRAFEED」において、大学・研究機関向けの研究セキュリティ対応機能の提供を順次開始したと発表した。2025年12月に内閣府が策定した「手順書」に基づき、防衛装備庁や科学技術振興機構（JST）などの公募審査において、研究者や共同研究先に関するリスク確認結果の提出が求められるようになったことが背",
-      "img": "https://ascii.jp/img/2026/09/18/4527823/s/c7446fc41ac91b17.jpg",
-      "src": "ASCII.jp",
+      "title": "OpenAIが「最も高性能なAIモデル」の学習を一時停止、AIエージェントの挙動を大規模調査中",
+      "link": "https://gigazine.net/news/20260928-openai-pauses-training-ai/",
+      "date": "2026-09-28T11:11:00+09:00",
+      "dateLabel": "09/28 11:11",
+      "desc": "OpenAIが最も能力の高いAIモデルを対象に、ツール利用を伴う学習、評価、推論を一時停止しました。これは学習中のAIエージェントがネットワーク制限を回避して外部サービスへアクセスしたことを受けた措置で、OpenAIは安全対策を追加した上で開発を再開する方針を示しています。サム・アルトマンCEOは「学習や評価中のAIエージェントによるインターネット利用につい",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 50
     },
     {
-      "title": "FIXER、伊賀市と共同開発した「黒塗りアプリ」をSovereign GaiXerに標準搭載",
-      "link": "https://ascii.jp/elem/000/004/437/4437499/?rss",
-      "date": "2026-09-28T08:00:00+09:00",
-      "dateLabel": "09/28 08:00",
-      "desc": "FIXERが伊賀市と共同開発した黒塗りアプリを、オンプレミス型生成AI「Sovereign GaiXer」の標準機能として9月25日から提供開始。自治体の情報公開請求業務で必要となる黒塗り作業を、閉域環境でAIが支援する。",
-      "img": "https://ascii.jp/img/2026/09/28/4530614/s/6ce6373fe4e60cdb.jpg",
+      "title": "あなたをAIに例えると「何億パラメータ」？ 人間の“AI性能”を測るサイトが話題",
+      "link": "https://ascii.jp/elem/000/004/437/4437752/?rss",
+      "date": "2026-09-28T16:00:00+09:00",
+      "dateLabel": "09/28 16:00",
+      "desc": "AIの性能を測る「ベンチマーク」を、人間が受ける──そんなジョークサイト「HumanBench」が話題だ。",
+      "img": "https://ascii.jp/img/2026/09/28/4530951/s/57b1cc020efacea4.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 42
+    },
+    {
+      "title": "印刷物の校正・校閲を支援するAIエージェント「Shodoプリント」が正式リリース",
+      "link": "https://ascii.jp/elem/000/004/437/4437790/?rss",
+      "date": "2026-09-28T15:00:00+09:00",
+      "dateLabel": "09/28 15:00",
+      "desc": "印刷物の校正・校閲を支援するAIエージェント「Shodoプリント」が正式リリース",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "ソラコム、日経クロステックNEXT 東京2026に出展 ソラカメ ProやWisoraを公開",
+      "link": "https://ascii.jp/elem/000/004/437/4437663/?rss",
+      "date": "2026-09-28T14:15:00+09:00",
+      "dateLabel": "09/28 14:15",
+      "desc": "ソラコムが9月29日・30日に開催される日経クロステックNEXT 東京2026へ出展し、SORACOM、ソラカメ Pro、Wisoraを紹介する。",
+      "img": "https://ascii.jp/img/2026/09/28/4530857/s/9ab175f97bd1aeca.jpg",
       "src": "ASCII.jp",
       "cat": "生成AI/マルチモーダル",
+      "score": 42
+    },
+    {
+      "title": "ネット接続禁止のOpenAI製AIが「DNSの抜け道」を発見して外部AIにアクセス、OpenAIは高性能モデルのツール利用を一時停止",
+      "link": "https://gigazine.net/news/20260928-openai-misalignment-report/",
+      "date": "2026-09-28T11:40:00+09:00",
+      "dateLabel": "09/28 11:40",
+      "desc": "OpenAIがインターネットへの接続を制限した環境でAIエージェントを訓練していたところ、AIがDNSを経由して制限を回避し、外部のチャットボットに質問を送信することに成功したと報告しました。OpenAIは問題を受けてネットワーク制限を強化するとともに、高性能モデルを使ったツール利用を伴う訓練や評価などを一時停止しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -118,14 +151,58 @@
       "score": 42
     },
     {
-      "title": "膨らむAIへの投資、帳尻は合う？／脳容積の半分がヒト細胞になったマウス",
-      "link": "https://ascii.jp/elem/000/004/437/4437491/?rss",
-      "date": "2026-09-28T09:00:00+09:00",
-      "dateLabel": "09/28 09:00",
-      "desc": "世界最先端のテクノロジー情報をお届けするグローバルメディア「MITテクノロジーレビュー」から、ビジネスに役立つ注目のテック企業の最新動向、イノベーションにつながる最新の研究内容をピックアップして紹介します。",
-      "img": "https://ascii.jp/img/2026/09/27/4530569/s/96df09ce9c753d46.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "AIに「推測するな」と指示するだけで架空データが70％から20％に減少したという実験結果",
+      "link": "https://gigazine.net/news/20260928-ai-do-not-guess/",
+      "date": "2026-09-28T16:30:00+09:00",
+      "dateLabel": "09/28 16:30",
+      "desc": "生成AIにウェブページから情報を抜き出させる際に「ページに値がなければnullを使い、推測しないでください」と指示するだけで、存在しない値を作り出す割合が70.7％から20.2％まで低下したという実験結果をAIエージェント向けマーケットプレイスのEarn an Honest Dollarが公開しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "Gemini、ClaudeとAdobeが連携 AIで作った画像や文書の編集、仕上げまで効率化",
+      "link": "https://kn.itmedia.co.jp/kn/article/2609/28/2000001798/",
+      "date": "2026-09-28T12:52:43+09:00",
+      "dateLabel": "09/28 12:52",
+      "desc": "生成AIで作るだけでは、仕事は終わらない。画像の調整やPDFの編集など、生成後にも残る作業をどう効率化するか。AdobeはGeminiやClaudeとの連携を強化し、Adobeの制作ツールをAIチャットから利用できるようにした。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "OpenAIのAIエージェントがアメリカの教育省・商務省・証券取引委員会のサイトに干渉していた",
+      "link": "https://gigazine.net/news/20260928-openai-us-government/",
+      "date": "2026-09-28T12:22:00+09:00",
+      "dateLabel": "09/28 12:22",
+      "desc": "OpenAIのAIエージェントが2026年7月に「誤ってHugging Faceをハッキングしてしまった」ことが報告されたり、プログラミング言語「Ruby」のパッケージ配布サービス「RubyGems.org」への大規模な攻撃に関与していた可能性があることが報じられたり、オーストラリア政府機関のシステムをハッキングしたことが判明したりと、さまざまな事件が発生し",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "OpenAIのAIエージェントが国連のウェブサイトにブルートフォース攻撃を試みる",
+      "link": "https://gigazine.net/news/20260928-openai-agents-try-bruteforce-un-website/",
+      "date": "2026-09-28T11:27:00+09:00",
+      "dateLabel": "09/28 11:27",
+      "desc": "OpenAIのAIエージェントが、国連のウェブサイトにブルートフォース攻撃(総当たり攻撃)を試みるという事態が発生していたと、セキュリティ研究者のローワン・ハワード＝ジョーンズ氏が報告しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "Microsoft製AI「Copilot」にWord・Excel・PowerPointが統合される＆OpenClawベースの「Autopilot」も追加されて単一アプリで事務処理からコーディングまで可能に",
+      "link": "https://gigazine.net/news/20260928-copilot-home-code-autopilot/",
+      "date": "2026-09-28T11:21:00+09:00",
+      "dateLabel": "09/28 11:21",
+      "desc": "MicrosoftがAIアシスタント「Copilot」の刷新を発表しました。Copilot内に「Home」「Code」「Autopilot」という3種類の機能が集約され、日常的なチャットからOfficeアプリの自動操作、コーディング、各種自動処理まで管理できるようになります。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -136,39 +213,6 @@
       "desc": "IDCは、AIエージェントの普及に伴う「SaaS終焉論」を分析したレポートを公開した。AIはSaaSを代替するのではなくデータモデルを拡張すると指摘。市場ごとの浸透格差や成果型課金の急増など、真の構造変化を解説した。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Microsoft IQとは？ AIエージェントが必要とする理由は？ マイクロソフトの担当幹部が解説",
-      "link": "https://ascii.jp/elem/000/004/437/4437493/?rss",
-      "date": "2026-09-28T07:30:00+09:00",
-      "dateLabel": "09/28 07:30",
-      "desc": "「Microsoft IQ」は、AIエージェントが企業の中で高い生産性を発揮することを支える“コンテキストプラットフォーム”と位置付けられている。高品質なコンテキスト基盤を整備することが、AIを通じた次世代のビジネス価値を生む鍵を握っているというのが、マイクロソフトの考えだ。具体的にどんなものか、米マイクロソフト幹部のアルーン・ウラグ氏が解説した。",
-      "img": "https://ascii.jp/img/2026/09/27/4530579/s/a38a10e47b3b53f4.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "フィジカルAI時代を見据え、NTTドコビジがNaaS基盤を強化 数万台のIoTデバイスをセキュアに管理",
-      "link": "https://ascii.jp/elem/000/004/437/4437354/?rss",
-      "date": "2026-09-28T07:30:00+09:00",
-      "dateLabel": "09/28 07:30",
-      "desc": "フィジカルAIの進展に伴い、IoTデバイスのさらなる増加が見込まれている。一方で、セキュリティの担保や運用管理の負荷増が大きな課題となっていく。こうした未来を見据えNTTドコモビジネスは、IoTやAI活用を支えるNaaS「docomo business SIGN」の機能拡充や新プランを発表した。",
-      "img": "https://ascii.jp/img/2026/09/25/4530195/s/66c1794b220e6d62.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "ChatGPTを“神SaaS”だと思っている人が、こんなにも多いようです。",
-      "link": "https://ascii.jp/elem/000/004/433/4433894/?rss",
-      "date": "2026-09-28T06:00:00+09:00",
-      "dateLabel": "09/28 06:00",
-      "desc": "TECH.ASCII.jpが実施している「SaaS最強Tierアンケート」にご協力ください！ あなたの回答、待ってます！",
-      "img": "https://ascii.jp/img/2026/09/10/4524024/s/f2a1c68bf9ab294b.png",
-      "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
       "score": 34
     },
@@ -217,28 +261,6 @@
       "score": 34
     },
     {
-      "title": "Google、リアルタイムで表情豊かに話すAIアバター「Gemini 3.8 Live with Live Avatar」提供開始 画像1枚で独自アバターも",
-      "link": "https://www.itmedia.co.jp/news/article/2609/25/2000001730/",
-      "date": "2026-09-25T09:10:33+09:00",
-      "dateLabel": "09/25 09:10",
-      "desc": "Googleは、リアルタイム音声対話と動画生成アバターを組み合わせた「Gemini 3.8 Live with Live Avatar」をGemini Enterpriseで提供を開始した。写真1枚から自然に応答するアバターを生成し、多言語や非同期ツール実行に対応。顧客対応や店頭端末などの商用展開を見込む。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 28
-    },
-    {
-      "title": "ハルシネーション排除、最大200倍高速――元OpenAI研究者の新AI「Jev」は何が違うのか",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news055.html",
-      "date": "2026-09-25T08:00:00+09:00",
-      "dateLabel": "09/25 08:00",
-      "desc": "TypeSafe AIは、自動化に特化した新AIモデル「Jev」の早期アクセス提供を開始した。文字列生成を廃止し、従来のLLM比で最大200倍の高速化とハルシネーション排除を実現したという。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 28
-    },
-    {
       "title": "Go言語で書かれた高速なIDE「Rune」、オープンソースで公開。ターミナルとコマンドプロンプト中心の開発環境、複数リモートノードをローカルのように操作可能",
       "link": "https://www.publickey1.jp/blog/26/goiderune.html",
       "date": "2026-09-25T00:45:08+09:00",
@@ -250,36 +272,14 @@
       "score": 28
     },
     {
-      "title": "開発業務へのAI適用、「品質やROIの把握」は未成熟／10月義務化のカスハラ対策、遅れる現状／AI利用で「幸福感が向上」は2割未満、ほか",
-      "link": "https://ascii.jp/elem/000/004/437/4437467/?rss",
-      "date": "2026-09-28T08:00:00+09:00",
-      "dateLabel": "09/28 08:00",
-      "desc": "今回（2026年9月19日～9月25日）は、ソフトウェア開発現場のAI活用における品質影響やROIにまつわる課題、AIとウェルビーイングに関する生活者調査、10月から義務化されるカスハラ対策の現状、全世界規模のセキュリティ／プライバシー知識テストの結果についてのデータを紹介します。",
-      "img": "https://ascii.jp/img/2026/09/26/4530445/s/869ef278715b7341.jpg",
+      "title": "45万9800円のタブレットって何者!? Ryzen AI MAX+ 395＋64GBの「ROG Flow Z13」が5万円引き",
+      "link": "https://ascii.jp/elem/000/004/437/4437531/?rss",
+      "date": "2026-09-28T16:30:00+09:00",
+      "dateLabel": "09/28 16:30",
+      "desc": "ASUSのゲーミングノートPC「ROG Flow Z13 GZ302EA」がAmazonでセール対象。参考価格509,800円から50,000円引きの459,800円で販売中。AMD Ryzen AI MAX+ 395、64GBメモリ、1TB SSDを搭載し、キーボードを外せばタブレットモードでも使用できる。13.4型ディスプレーは2560×1600ドット、",
+      "img": "https://ascii.jp/img/2026/09/28/4530706/s/4b9f02b278de316f.jpg",
       "src": "ASCII.jp",
-      "cat": "規制/安全",
-      "score": 26
-    },
-    {
-      "title": "ロボットを入れれば終わりじゃない フィジカルAIを現場で動かす企業の役割とは",
-      "link": "https://kn.itmedia.co.jp/kn/article/2609/28/2000001734/",
-      "date": "2026-09-28T07:00:00+09:00",
-      "dateLabel": "09/28 07:00",
-      "desc": "AIロボットを工場や物流現場に導入しても、それだけで現場が変わるわけではない。システム統合や設備の自動化、導入後の運用・保守など、さまざまな企業の力が必要になる。Listerの分析から、フィジカルAIの実装を支える構造が見えてきた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "AIが人間のようにゲームをプレイ 話題の「Jev」を試してわかったこと",
-      "link": "https://ascii.jp/elem/000/004/437/4437496/?rss",
-      "date": "2026-09-28T07:00:00+09:00",
-      "dateLabel": "09/28 07:00",
-      "desc": "低コスト・低遅延で判断するAI「Jev」が話題。自作ゲームに実装したところ、シューティングでは人間らしい動きを見せ、騎馬戦では勝率の変化を確認することができた。",
-      "img": "https://ascii.jp/img/2026/09/28/4530600/s/601c76b22f7457b0.png",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
+      "cat": "AI全般",
       "score": 26
     }
   ]
