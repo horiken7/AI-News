@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-29T07:20:32.793390+09:00",
-  "generatedLabel": "2026/09/29 07:20",
+  "generatedAt": "2026-09-29T11:23:56.741382+09:00",
+  "generatedLabel": "2026/09/29 11:23",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 57,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 20
+      "items": 19
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -74,6 +74,39 @@
       "score": 66
     },
     {
+      "title": "「Claude Sonnet 5.5」が登場、前モデルより30％高速・30％安価でGPT-6 Solより高性能",
+      "link": "https://gigazine.net/news/20260929-claude-sonnet-5-5/",
+      "date": "2026-09-29T11:11:00+09:00",
+      "dateLabel": "09/29 11:11",
+      "desc": "AnthropicがAIモデル「Claude Sonnet 5.5」をリリースしました。前世代モデルのClaude Sonnet 5と比べて性能が向上しつつ30％の高速化も達成しているとのこと。ベンチマークテストではGPT-6 Solのスコアを上回っています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 58
+    },
+    {
+      "title": "Anthropic、「Claude Sonnet 5.5」公開 料金据え置きで30％以上高速化、タスク当たりコスト最大3割減",
+      "link": "https://www.itmedia.co.jp/news/article/2609/29/2000001823/",
+      "date": "2026-09-29T06:55:33+09:00",
+      "dateLabel": "09/29 06:55",
+      "desc": "Anthropicは、新モデル「Claude Sonnet 5.5」を発表した。料金を据え置きつつ出力速度を30％以上高速化し、トークン効率向上でタスク当たり最大30％のコスト削減を実現した。コーディング評価で大幅にスコアを伸ばし、最上位モデル級のサイバー対策を初適用。無料枠を含む全プランとAPIで即日提供する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 58
+    },
+    {
+      "title": "NVIDIA、AIエージェントをハードウェアでも監視する「Open Agent Safety Platform」発表 Anthropicなど100以上の組織が参加",
+      "link": "https://www.itmedia.co.jp/news/article/2609/29/2000001824/",
+      "date": "2026-09-29T08:59:11+09:00",
+      "dateLabel": "09/29 08:59",
+      "desc": "NVIDIAは、AIエージェントの安全対策基盤「Open Agent Safety Platform」を発表した。評価環境からの自律的な「脱走」事案が相次ぐ中、オープンソースの隔離ソフトと監視用DPUを組み合わせ、エージェントの暴走を防ぐ。AnthropicやMicrosoftなど100以上の組織が参加する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 50
+    },
+    {
       "title": "アリババとByteDanceによるNVIDIAの最先端チップ購入を中国政府が承認へ",
       "link": "https://gigazine.net/news/20260928-china-nvidia-chips/",
       "date": "2026-09-28T14:25:00+09:00",
@@ -85,15 +118,15 @@
       "score": 50
     },
     {
-      "title": "OpenAIが「最も高性能なAIモデル」の学習を一時停止、AIエージェントの挙動を大規模調査中",
-      "link": "https://gigazine.net/news/20260928-openai-pauses-training-ai/",
-      "date": "2026-09-28T11:11:00+09:00",
-      "dateLabel": "09/28 11:11",
-      "desc": "OpenAIが最も能力の高いAIモデルを対象に、ツール利用を伴う学習、評価、推論を一時停止しました。これは学習中のAIエージェントがネットワーク制限を回避して外部サービスへアクセスしたことを受けた措置で、OpenAIは安全対策を追加した上で開発を再開する方針を示しています。サム・アルトマンCEOは「学習や評価中のAIエージェントによるインターネット利用につい",
-      "img": "",
-      "src": "GIGAZINE",
+      "title": "“現場で作る”カメラ× AI！ソラカメAPIとClaude Codeで定期巡回を自動化してみよう！！",
+      "link": "https://ascii.jp/elem/000/004/437/4437879/?rss",
+      "date": "2026-09-29T10:00:00+09:00",
+      "dateLabel": "09/29 10:00",
+      "desc": "“現場で作る”カメラ× AI！ソラカメAPIとClaude Codeで定期巡回を自動化してみよう！！",
+      "img": "https://ascii.jp/img/2026/09/29/4531271/s/131b37c5dceefe3b.png",
+      "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
-      "score": 50
+      "score": 42
     },
     {
       "title": "ネット接続禁止のOpenAI製AIが「DNSの抜け道」を発見して外部AIにアクセス、OpenAIは高性能モデルのツール利用を一時停止",
@@ -107,14 +140,47 @@
       "score": 42
     },
     {
-      "title": "生成AIの能力と権限を分離する医療向け実行制御基盤",
-      "link": "https://ascii.jp/elem/000/004/437/4437272/?rss",
+      "title": "AMDが3D世界を構築するAI企業「World Labs」を買収、「AIのゴッドマザー」が率いる画像・動画・3D空間の生成が可能な世界モデルの開発企業",
+      "link": "https://gigazine.net/news/20260929-amd-acquire-world-labs/",
+      "date": "2026-09-29T11:02:00+09:00",
+      "dateLabel": "09/29 11:02",
+      "desc": "現地時間の2026年9月28日、AMDがフェイフェイ・リー氏率いるAI研究所のWorld Labsを買収する最終契約を締結したことを発表しました。これにより、世界トップクラスのAI研究者がAMDに加わり、新たなAIモデルやアプリケーションのニーズに対応したAIハードウェア・ソフトウェア・システムの開発能力が強化されます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "「最大応力はどこ？」とAIに質問、解析結果を確認できるCAEソフト新版",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2609/29/news022.html",
+      "date": "2026-09-29T08:30:00+09:00",
+      "dateLabel": "09/29 08:30",
+      "desc": "アライドエンジニアリングは、構造解析ソフト「ADVENTURECluster2026」を2026年10月1日にリリースする。自然言語による指示で解析条件の設定から実行、結果確認までを自動化する「AI Expert」を搭載。位相最適化の計算時間短縮や、固有振動数を考慮した最適化への対応、大規模モデルへの適用範囲の拡大、接触解析の高精度化も図った。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "限界性能はどこか？ パナソニックの「設計AI」が導く勘と経験を超えた設計解",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2609/29/news009.html",
       "date": "2026-09-29T07:00:00+09:00",
       "dateLabel": "09/29 07:00",
-      "desc": "株式会社シェアメディカルは9月16日、医療現場で生成AIを安全に使うための共通システム「MediLine Engine」を発表した。このシステムは、電子カルテなどの医療システムとAIの間で、AIがどこまでの処理を行ってよいかを外部から制御する役割を持つ。",
-      "img": "https://ascii.jp/img/2026/09/25/4530068/s/354a543ab8beb946.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
+      "desc": "パナソニック ホールディングスは、シミュレーションとAIを融合し、デバイス設計の自動化と高度化を目指す「設計AI」を開発している。「ITmedia Virtual EXPO 2026 夏」の基調講演では、メンズシェーバー用リニアモーターの設計で直面した課題を出発点に、「設計AI」の仕組みや活用成果、今後の展開を紹介した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "NVIDIAですら1社では半導体は作れない――それでもAI時代の“勝者”になれたワケ",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/29/news027.html",
+      "date": "2026-09-29T07:00:00+09:00",
+      "dateLabel": "09/29 07:00",
+      "desc": "AI時代の“勝者”として君臨するNVIDIA。そんなNVIDIAですら、1社では半導体は作れない。NVIDIAが勝ち、NECや富士通などの日本企業が衰退していった理由はどこにあるのか。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -126,17 +192,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "週刊アスキー No.1615(2026年9月29日発行)",
-      "link": "https://ascii.jp/elem/000/004/437/4437524/?rss",
-      "date": "2026-09-29T00:00:00+09:00",
-      "dateLabel": "09/29 00:00",
-      "desc": "特集1は年末のパソコン市場を賑わせる存在になりそうなNVIDIA RTX Sparkとは何か？ 特集2は秋から年末の自作に向けて復習しておきたいCPUの基礎知識。買いはどれ？",
-      "img": "https://ascii.jp/img/2026/09/28/4530731/s/05fb2331a8c8249b.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -159,17 +214,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "Pro ai、生成した広告バナーを出稿前に採点する新機能を追加。DPro市場データで勝ち筋と差別化余地を評価",
-      "link": "https://ascii.jp/elem/000/004/437/4437859/?rss",
-      "date": "2026-09-28T18:43:41+09:00",
-      "dateLabel": "09/28 18:43",
-      "desc": "Pro ai、生成した広告バナーを出稿前に採点する新機能を追加。DPro市場データで勝ち筋と差別化余地を評価",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -228,39 +272,6 @@
       "score": 34
     },
     {
-      "title": "OpenAIのAIエージェントが国連のウェブサイトにブルートフォース攻撃を試みる",
-      "link": "https://gigazine.net/news/20260928-openai-agents-try-bruteforce-un-website/",
-      "date": "2026-09-28T11:27:00+09:00",
-      "dateLabel": "09/28 11:27",
-      "desc": "OpenAIのAIエージェントが、国連のウェブサイトにブルートフォース攻撃(総当たり攻撃)を試みるという事態が発生していたと、セキュリティ研究者のローワン・ハワード＝ジョーンズ氏が報告しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Microsoft製AI「Copilot」にWord・Excel・PowerPointが統合される＆OpenClawベースの「Autopilot」も追加されて単一アプリで事務処理からコーディングまで可能に",
-      "link": "https://gigazine.net/news/20260928-copilot-home-code-autopilot/",
-      "date": "2026-09-28T11:21:00+09:00",
-      "dateLabel": "09/28 11:21",
-      "desc": "MicrosoftがAIアシスタント「Copilot」の刷新を発表しました。Copilot内に「Home」「Code」「Autopilot」という3種類の機能が集約され、日常的なチャットからOfficeアプリの自動操作、コーディング、各種自動処理まで管理できるようになります。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "「AIがSaaSを消す」は根本的な誤解 IDCが示す“本当に起こる変化”とは",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/28/news036.html",
-      "date": "2026-09-28T08:00:00+09:00",
-      "dateLabel": "09/28 08:00",
-      "desc": "IDCは、AIエージェントの普及に伴う「SaaS終焉論」を分析したレポートを公開した。AIはSaaSを代替するのではなくデータモデルを拡張すると指摘。市場ごとの浸透格差や成果型課金の急増など、真の構造変化を解説した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "マイクロソフト、企業内アプリの実行基盤「Copilot Managed Runtime」プレビュー公開。Microsoft 365と同じテナント内でコード実行、管理者による集中管理も",
       "link": "https://www.publickey1.jp/blog/26/copilot_managed_runtimemicrosoft_365.html",
       "date": "2026-09-28T00:59:50+09:00",
@@ -268,17 +279,6 @@
       "desc": "マイクロソフトは、AIコーディングエージェントのMicrosoft Copilotなどで開発した社内アプリケーションを実行するためのセキュアな基盤「Copilot Managed Runtime」をパブリックプレビューとして公開しました。 ...",
       "img": "",
       "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "AIエージェントで資料作成を自動化！おすすめ10選と使い方を解説",
-      "link": "https://ainow.ai/2026/09/27/278389/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e8%25b3%2587%25e6%2596%2599%25e4%25bd%259c%25e6%2588%2590%25e3%2582%2592%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25ef%25bc%2581%25e3%2581%258a%25e3%2581%2599%25e3%2581%2599%25e3%2582%258110%25e9%2581%25b8",
-      "date": "2026-09-27T00:11:22+09:00",
-      "dateLabel": "09/27 00:11",
-      "desc": "提案書や会議資料づくりに毎週何時間も取られ、ChatGPTに構成を出させても結局スライド化は自分でやっている。本記事では、資料作成に使えるAIエージェント10選の比較と、資料の種類別プロンプト例を中心に、初稿をAIに任せ... The post AIエージェントで資料作成を自動化！おすすめ10選と使い方を解説 first appeared on AI専門ニュ",
-      "img": "",
-      "src": "AINOW",
       "cat": "AIエージェント/業務",
       "score": 34
     }
