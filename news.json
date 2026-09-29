@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-30T01:14:00.401796+09:00",
-  "generatedLabel": "2026/09/30 01:14",
+  "generatedAt": "2026-09-30T06:09:29.136768+09:00",
+  "generatedLabel": "2026/09/30 06:09",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 60,
+  "candidates": 62,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 17
+      "items": 18
     },
     {
       "source": "CNET Japan",
@@ -74,6 +74,17 @@
       "score": 66
     },
     {
+      "title": "「GPT-6.1 Sol」登場 「一部Astra並み」性能をコスト5分の1で提供 先代モデルからわずか1週間で公開",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/30/2000001867/",
+      "date": "2026-09-30T04:08:07+09:00",
+      "dateLabel": "09/30 04:08",
+      "desc": "OpenAIは新モデル「GPT?6.1 Sol」を発表。「GPT?6 Astra」に迫る性能を5分の1の料金で提供するとうたう。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 58
+    },
+    {
       "title": "AIエージェント「Manus 2.0」リリース、さらにパーソナルAIエージェント向けアプリ「Cue」やプロフェッショナルなAIワークスペースを実現するデスクトップアプリ「Manus Studio」も",
       "link": "https://gigazine.net/news/20260929-manus-2-0/",
       "date": "2026-09-29T19:11:00+09:00",
@@ -107,6 +118,28 @@
       "score": 58
     },
     {
+      "title": "OpenAI、24時間働くAIエージェント「dots」発表 ただしプロ向け、月額500ドルの新プランも",
+      "link": "https://ascii.jp/elem/000/004/438/4438355/?rss",
+      "date": "2026-09-30T03:25:00+09:00",
+      "dateLabel": "09/30 03:25",
+      "desc": "OpenAIは9月29日、米サンフランシスコで開発者イベント「OpenAI DevDay 2026」を開催し、新しいAIエージェント「dots（ドッツ）」を発表した。",
+      "img": "https://ascii.jp/img/2026/09/30/4531812/s/853b61b737a6b9b5.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
+      "title": "ChatGPTに「Ultrafast」、Astraを8倍高速に 利用には「月500ドル」最上位プランが必須",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/30/2000001865/",
+      "date": "2026-09-30T03:09:11+09:00",
+      "dateLabel": "09/30 03:09",
+      "desc": "米OpenAIは9月29日（現地時間）、フロンティアモデル「GPT-6 Astra」を通常の最大8倍高速に推論できる「Ultrafast」モードを発表した。利用には、最上位の新プラン「Pro 500」（月額500ドル、約7万8000円）もしくは従量課金のAPIが必要。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
       "title": "ChatGPT、サブスク最上位プランの新規受付を再開へ “5時間制限”を完全撤廃 「利用枠を消費しない新機能」も",
       "link": "https://www.itmedia.co.jp/aiplus/article/2609/29/2000001851/",
       "date": "2026-09-29T16:29:16+09:00",
@@ -127,6 +160,17 @@
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
       "score": 50
+    },
+    {
+      "title": "OpenAI、「24時間働く」エージェント「dots」発表 Astra搭載、クラウド上で常時稼働",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/30/2000001864/",
+      "date": "2026-09-30T03:02:40+09:00",
+      "dateLabel": "09/30 03:02",
+      "desc": "OpenAIは常時稼働エージェント機能「dots」を発表。「GPT-6 Astra」を搭載し、ユーザーが定義した目標に応じて、クラウド上のコンピュータで24時間自律的に稼働するとうたう。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 42
     },
     {
       "title": "コーディングエージェントにGoogle Cloudの専門知識とツールを組み込む「Google Cloud Developer Plugin for AI Coding Agents」発表",
@@ -195,6 +239,17 @@
       "score": 42
     },
     {
+      "title": "OpenAIが「Jev」に追従、「Decisions API」 Lunaで“リアルタイムに意思決定”",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/30/2000001866/",
+      "date": "2026-09-30T03:42:13+09:00",
+      "dateLabel": "09/30 03:42",
+      "desc": "米OpenAIは9月29日（現地時間）、開発者向けカンファレンス「OpenAI DevDay 2026」の中で、リアルタイムの意思決定を提供する「Decisions API」のプレビュー版を発表した。直近で話題になっていたAIモデル「Jev」へ追従する動きとみられる。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "Google Cloud、AIエージェントからの大量アクセスをPostgreSQLのプライマリDBから切り離せる「PostgreSQL for agents in AlloyDB」発表",
       "link": "https://www.publickey1.jp/blog/26/google_cloudaipostgresqldbpostgresql_for_agents_in_alloydb.html",
       "date": "2026-09-30T00:46:18+09:00",
@@ -222,61 +277,6 @@
       "date": "2026-09-29T19:02:00+09:00",
       "dateLabel": "09/29 19:02",
       "desc": "OpenAIはAIの開発中に「国連の統計サイト」「オーストラリアの公的医療サービス」「アメリカの教育省・商務省・証券取引委員会」といった重要サービスに対する攻撃を実行してしまったことが明らかになっています。新たに、イギリスの政府機関であるAI Security Institute(AISI)が「GPT-6 Astraで攻撃シミュレーションを実行した結果、前世",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "MetaのAI「Muse」にFacebook Marketplaceの対応を任せたら勝手に値下げ＆住所公開、購入者が自宅に来る事態に",
-      "link": "https://gigazine.net/news/20260929-meta-muse-give-home-address/",
-      "date": "2026-09-29T18:40:00+09:00",
-      "dateLabel": "09/29 18:40",
-      "desc": "Metaが2026年9月に公開したパーソナルAIエージェント「Muse」にFacebook Marketplaceでの販売対応を任せたところユーザーの承認を得ずに値下げに応じた上、自宅の住所まで購入希望者に伝え、実際に購入希望者が自宅を訪れる事態が発生しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "【日本初】国境を跨ぐ証跡「CoC（管理連鎖）」×「CoP（来歴連鎖）」で「真正性」を判定する発明が特許査定。国際標準規格「ISO26345」との「オープンクローズ戦略」でサプライチェーンの安全性を担保",
-      "link": "https://ascii.jp/elem/000/004/438/4438336/?rss",
-      "date": "2026-09-29T18:31:01+09:00",
-      "dateLabel": "09/29 18:31",
-      "desc": "【日本初】国境を跨ぐ証跡「CoC（管理連鎖）」×「CoP（来歴連鎖）」で「真正性」を判定する発明が特許査定。国際標準規格「ISO26345」との「オープンクローズ戦略」でサプライチェーンの安全性を担保",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "【日本初】ただの効率化では国家の防衛装備品は守れない― 航空・防衛領域の「補給倉庫」から偽造部品を完全排除。「特許群×ISO 26345」で運用最適化と絶対的な安全性を両立する新基盤に係る特許を権利化",
-      "link": "https://ascii.jp/elem/000/004/438/4438337/?rss",
-      "date": "2026-09-29T18:25:49+09:00",
-      "dateLabel": "09/29 18:25",
-      "desc": "【日本初】ただの効率化では国家の防衛装備品は守れない― 航空・防衛領域の「補給倉庫」から偽造部品を完全排除。「特許群×ISO 26345」で運用最適化と絶対的な安全性を両立する新基盤に係る特許を権利化",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "自分の脳が何B級のAIと同等性能なのか診断できるウェブサイト「HumanBench」が登場、選択問題で人間の力を試してどのAIに性格が似ているかも判定可能",
-      "link": "https://gigazine.net/news/20260929-humanbench-brain-ai/",
-      "date": "2026-09-29T17:02:00+09:00",
-      "dateLabel": "09/29 17:02",
-      "desc": "AIは急速に発展しており、ベンチマークスコアが毎日のように更新されています。そんなAIと比べて自分の能力がどれくらいの位置にあるのかを診断できるウェブサイト「HumanBench」が登場しました。登録不要で無料で診断可能だったので実際に試してみました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "AI時代にはこれまで以上に「顔の良さ」が重要になる可能性がある、AIは人間以上に顔の偏見が強いため",
-      "link": "https://gigazine.net/news/20260929-ai-use-facial-features-criminality-performance/",
-      "date": "2026-09-29T16:00:00+09:00",
-      "dateLabel": "09/29 16:00",
-      "desc": "人間は他者を評価する時にその人の「顔」に影響を受けやすいことがわかっており、ルックスが魅力的な人ほど成績が高くなったり、犯罪で捕まった際の刑期が短くなったりする傾向があります。さまざまな現場にAIを導入すればこうした偏見(バイアス)を排除できると考えるかもしれませんが、OpenAI・Google・AnthropicのAIモデルを調べた研究では、AIはむしろ人",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
