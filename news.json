@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-30T15:09:17.206555+09:00",
-  "generatedLabel": "2026/09/30 15:09",
-  "feedOk": 5,
-  "feedNg": 6,
-  "candidates": 55,
+  "generatedAt": "2026-09-30T22:09:55.113353+09:00",
+  "generatedLabel": "2026/09/30 22:09",
+  "feedOk": 6,
+  "feedNg": 5,
+  "candidates": 63,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 18
+      "items": 17
     },
     {
       "source": "CNET Japan",
@@ -47,8 +47,8 @@
     },
     {
       "source": "AINOW",
-      "ok": false,
-      "error": "HTTP Error 504: Gateway Time-out"
+      "ok": true,
+      "items": 10
     },
     {
       "source": "Ledge.ai",
@@ -96,17 +96,6 @@
       "score": 58
     },
     {
-      "title": "AIエージェント「Manus 2.0」リリース、さらにパーソナルAIエージェント向けアプリ「Cue」やプロフェッショナルなAIワークスペースを実現するデスクトップアプリ「Manus Studio」も",
-      "link": "https://gigazine.net/news/20260929-manus-2-0/",
-      "date": "2026-09-29T19:11:00+09:00",
-      "dateLabel": "09/29 19:11",
-      "desc": "アジア圏を中心にサービスを展開し、一度Metaとの買収合意に至った後に再び独立したという異色の経歴を持つAI起業のManusが、AIエージェントの「Manus 2.0」を発表しました。独立後初の大型アップデートということで、「ただのバージョンアップではない」とアピールされています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 58
-    },
-    {
       "title": "AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開 特定のLLMに依存せず入れ替え可能",
       "link": "https://www.itmedia.co.jp/news/article/2609/29/2000001837/",
       "date": "2026-09-29T14:56:39+09:00",
@@ -151,25 +140,14 @@
       "score": 50
     },
     {
-      "title": "ChatGPT、サブスク最上位プランの新規受付を再開へ “5時間制限”を完全撤廃 「利用枠を消費しない新機能」も",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/29/2000001851/",
-      "date": "2026-09-29T16:29:16+09:00",
-      "dateLabel": "09/29 16:29",
-      "desc": "米OpenAIのプロダクト責任者ティボー・ソティオ氏は、「ChatGPT」サブスクリプションの最上位プラン「Pro（20倍）」の新規受付を9月29日（現地時間）に再開すると発表した。",
+      "title": "ベンチマークでJev超えな意思決定モデル「d1」が登場",
+      "link": "https://gigazine.net/news/20260930-d1-decision-model-liquid-ai/",
+      "date": "2026-09-30T17:52:00+09:00",
+      "dateLabel": "09/30 17:52",
+      "desc": "AI開発企業のLiquid AIが意思決定モデル「d1」をリリースしました。2026年9月に登場して大きな話題となっている「Jev」と同様の機能を備えており、性能テストでJevを上回ったとのことです。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
-      "title": "「誰でも入手できるAI」がサイバー攻撃を自律構築 Anthropicが「GLM-5.3」に警鐘",
-      "link": "https://ascii.jp/elem/000/004/438/4438590/?rss",
-      "date": "2026-09-30T14:55:00+09:00",
-      "dateLabel": "09/30 14:55",
-      "desc": "Anthropicは9月29日、Zhipu AI（Z.ai）のAIモデル「GLM-5.3」を検証し、エンドツーエンドの攻撃コードを自律的に構築できる能力を確認したと発表した。",
-      "img": "https://ascii.jp/img/2026/09/30/4532218/s/f3f0c839c0e68ef4.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
       "score": 42
     },
     {
@@ -250,36 +228,58 @@
       "score": 42
     },
     {
-      "title": "Anthropic、IPO目論見書でAIによる「人類存亡リスク」を警告 海外報道",
-      "link": "https://www.itmedia.co.jp/news/article/2609/29/2000001860/",
-      "date": "2026-09-29T19:18:11+09:00",
-      "dateLabel": "09/29 19:18",
-      "desc": "英Reutersは9月28日（現地時間）、米Anthropicが新規株式公開（IPO）の目論見書で、AIが人類存亡に関わるリスクをもたらす可能性があると投資家に警告していると報じた。",
+      "title": "ChatGPT、サブスク最上位プランの新規受付を再開へ “5時間制限”を完全撤廃 「利用枠を消費しない新機能」も",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/29/2000001851/",
+      "date": "2026-09-29T16:29:16+09:00",
+      "dateLabel": "09/29 16:29",
+      "desc": "米OpenAIのプロダクト責任者ティボー・ソティオ氏は、「ChatGPT」サブスクリプションの最上位プラン「Pro（20倍）」の新規受付を9月29日（現地時間）に再開すると発表した。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 42
     },
     {
-      "title": "AIが人類存亡のリスクに？ AnthropicがIPO目論見書で異例の警告 報道",
-      "link": "https://ascii.jp/elem/000/004/438/4438579/?rss",
-      "date": "2026-09-30T14:10:00+09:00",
-      "dateLabel": "09/30 14:10",
-      "desc": "AnthropicはIPO目論見書のなかで、AIが「壊滅的、あるいは存亡にかかわるリスク」を人類にもたらす可能性があると警告しているという。",
-      "img": "https://ascii.jp/img/2026/09/30/4532168/s/a6ebe4208831f60c.png",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
+      "title": "ぶっ壊れやすいHDDはどれ？Backblazeが2026年第2四半期の統計データ公開",
+      "link": "https://gigazine.net/news/20260930-backblaze-drive-stats-q2-2026/",
+      "date": "2026-09-30T21:42:00+09:00",
+      "dateLabel": "09/30 21:42",
+      "desc": "クラウドストレージサービスやデータバックアップサービスで大量のハードディスクドライブ(HDD)を運用するBackblazeは、自社データセンター内で運用するストレージデバイスの故障率をメーカーやモデルごとに公開しています。2026年第2四半期の統計データが2026年9月29日に公開されました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
-      "title": "「中国のGLM-5.3はClaude Mythos Preview級のサイバー攻撃能力を持つ一方で安全対策が不十分」とAnthropicが警告",
-      "link": "https://gigazine.net/news/20260930-anthropic-warned-about-glm-5-3-risk/",
-      "date": "2026-09-30T13:05:00+09:00",
-      "dateLabel": "09/30 13:05",
-      "desc": "中国のAI企業Z.aiが開発したオープンウェイトAIモデル「GLM-5.3」について、Anthropicは、同社の「Claude Mythos Preview」に近い水準でソフトウェアの脆弱(ぜいじゃく)性を発見し、攻撃コードを最初から最後まで構築する能力を持つ一方、悪用を防ぐ安全対策を容易に回避できるとの評価結果を公表しました。Anthropicは、高度な",
+      "title": "ローマ教皇レオ14世がAIの危険性に関する主張を否定したトランプ大統領やNVIDIAのジェンスン・フアンを非難",
+      "link": "https://gigazine.net/news/20260930-pope-leo-nvidia-trump-ai-threat/",
+      "date": "2026-09-30T19:00:00+09:00",
+      "dateLabel": "09/30 19:00",
+      "desc": "2026年9月、Anthropicのダリオ・アモデイCEOがAIの急速な進歩によるリスクが高まっているとして、AIが壊滅的な被害をもたらす危険性があると警告しました。これに対しアメリカのドナルド・トランプ大統領は「デマだ」と否定し、NVIDIAのジェンスン・フアンCEOもAI研究所のリーダーらは誠実さに欠けると非難しています。そんな中でローマ教皇のレオ14世",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "LLM/モデル",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "広島のAI研修会社WEAVE、90分・1講座から選べるオンラインの「スポットAI研修」を提供開始",
+      "link": "https://ascii.jp/elem/000/004/438/4438851/?rss",
+      "date": "2026-09-30T18:30:00+09:00",
+      "dateLabel": "09/30 18:30",
+      "desc": "広島のAI研修会社WEAVE、90分・1講座から選べるオンラインの「スポットAI研修」を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "OrcaRouter、AIエージェント事案の収録数が9月に75件で月別最多に ─ オープンデータベースを更新",
+      "link": "https://ascii.jp/elem/000/004/438/4438852/?rss",
+      "date": "2026-09-30T18:00:00+09:00",
+      "dateLabel": "09/30 18:00",
+      "desc": "OrcaRouter、AIエージェント事案の収録数が9月に75件で月別最多に ─ オープンデータベースを更新",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
       "score": 34
     }
   ]
