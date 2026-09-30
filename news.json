@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-01T03:42:12.944299+09:00",
-  "generatedLabel": "2026/10/01 03:42",
+  "generatedAt": "2026-10-01T07:43:24.691796+09:00",
+  "generatedLabel": "2026/10/01 07:43",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 61,
+  "candidates": 63,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -71,7 +71,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 74
+      "score": 66
     },
     {
       "title": "Anthropicが「高度なAIが人類存亡に関わるリスクをもたらす可能性がある」と新規株式公開(IPO)の目論見書で警告",
@@ -82,28 +82,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "規制/安全",
-      "score": 58
-    },
-    {
-      "title": "「GPT-6.1 Sol」登場 「一部Astra並み」性能をコスト5分の1で提供 先代モデルからわずか1週間で公開",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/30/2000001867/",
-      "date": "2026-09-30T04:08:07+09:00",
-      "dateLabel": "09/30 04:08",
-      "desc": "OpenAIは新モデル「GPT?6.1 Sol」を発表。「GPT?6 Astra」に迫る性能を5分の1の料金で提供するとうたう。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 58
-    },
-    {
-      "title": "AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開 特定のLLMに依存せず入れ替え可能",
-      "link": "https://www.itmedia.co.jp/news/article/2609/29/2000001837/",
-      "date": "2026-09-29T14:56:39+09:00",
-      "dateLabel": "09/29 14:56",
-      "desc": "Amazon Web Services（AWS）は、GPTやClaude、Gemini、Ollamaなど主要なLLMやLLMランタイムを基にした高性能なAIエージェントを簡単に自作できるツール「Strandsハーネス」をオープンソースで公開しました。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 58
     },
     {
@@ -126,6 +104,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
+      "title": "「GPT-6.1 Sol」登場 「一部Astra並み」性能をコスト5分の1で提供 先代モデルからわずか1週間で公開",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/30/2000001867/",
+      "date": "2026-09-30T04:08:07+09:00",
+      "dateLabel": "09/30 04:08",
+      "desc": "OpenAIは新モデル「GPT?6.1 Sol」を発表。「GPT?6 Astra」に迫る性能を5分の1の料金で提供するとうたう。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 50
     },
     {
@@ -184,17 +173,6 @@
       "score": 42
     },
     {
-      "title": "OpenAI、豪政府サイトへの不正アクセスで謝罪 最先端AI学習の安全指針も公開",
-      "link": "https://www.itmedia.co.jp/news/article/2609/30/2000001869/",
-      "date": "2026-09-30T07:41:40+09:00",
-      "dateLabel": "09/30 07:41",
-      "desc": "OpenAIは、学習中のAIモデルが豪政府サイトへ不正アクセスした問題で、通知の遅れを認め謝罪した。ネットワーク制限の強化や最上位モデルの学習停止に加え、航空や原子力分野にならい学習前に安全性を体系的に検証する仕組みを導入する。豪議会の特別委員会にも出席し、一連の経緯を説明する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
-      "score": 42
-    },
-    {
       "title": "ChatGPTに「Ultrafast」、Astraを8倍高速に 利用には「月500ドル」最上位プランが必須",
       "link": "https://www.itmedia.co.jp/aiplus/article/2609/30/2000001865/",
       "date": "2026-09-30T03:09:11+09:00",
@@ -206,15 +184,37 @@
       "score": 42
     },
     {
-      "title": "ChatGPT、サブスク最上位プランの新規受付を再開へ “5時間制限”を完全撤廃 「利用枠を消費しない新機能」も",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/29/2000001851/",
-      "date": "2026-09-29T16:29:16+09:00",
-      "dateLabel": "09/29 16:29",
-      "desc": "米OpenAIのプロダクト責任者ティボー・ソティオ氏は、「ChatGPT」サブスクリプションの最上位プラン「Pro（20倍）」の新規受付を9月29日（現地時間）に再開すると発表した。",
+      "title": "すべての企業の“セキュリティ疲れ”解消を 「Symantec CBX」TD SYNNEXが提供開始",
+      "link": "https://ascii.jp/elem/000/004/438/4438868/?rss",
+      "date": "2026-10-01T07:30:00+09:00",
+      "dateLabel": "10/01 07:30",
+      "desc": "ITディストリビューターのTD SYNNEX日本法人が、企業の“セキュリティ疲れ”を解消するXDRソリューション「Symantec CBX」の国内提供を開始した。SymantecとCarbon Blackが提供してきた各種セキュリティ機能をプラットフォーム統合し、脅威判断やインシデント調査をAIが支援する。中堅／中小企業層への普及拡大も目指す。",
+      "img": "https://ascii.jp/img/2026/10/01/4532420/s/87ea073f6cbcf9fa.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "Google、「Gemini 4 Pro」ではなく「Gemini 4 Agron」発表 まずはサイバー防御組織に限定提供、出力上限は100万トークンに",
+      "link": "https://www.itmedia.co.jp/news/article/2610/01/2000001912/",
+      "date": "2026-10-01T07:16:25+09:00",
+      "dateLabel": "10/01 07:16",
+      "desc": "Googleは、次世代フロンティアモデル「Gemini 4 Argon」を発表した。最大出力100万トークンに対応し、長時間に及ぶ業務処理や自律的なサイバー脆弱性修正に強みを持つ。安全対策を強化した上で、まずは信頼できるサイバー防御組織に先行提供し、有料APIなどで順次拡大する。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 42
+      "score": 34
+    },
+    {
+      "title": "「スマホの次もスマホだ」クアルコムCEOが断言する“AIエージェント時代”の未来",
+      "link": "https://ascii.jp/elem/000/004/438/4438584/?rss",
+      "date": "2026-10-01T07:00:00+09:00",
+      "dateLabel": "10/01 07:00",
+      "desc": "スマホの次は何なのか。クアルコムのクリスチアーノ・アモンCEOは、「スマホはなくならない。スマホの次もスマホだ」と断言した。ただしそこにはAIエージェントが搭載される。",
+      "img": "https://ascii.jp/img/2026/09/30/4532189/s/e4d55f28eb3e9a54.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "ぶっ壊れやすいHDDはどれ？Backblazeが2026年第2四半期の統計データ公開",
@@ -250,17 +250,6 @@
       "score": 34
     },
     {
-      "title": "OrcaRouter、AIエージェント事案の収録数が9月に75件で月別最多に ─ オープンデータベースを更新",
-      "link": "https://ascii.jp/elem/000/004/438/4438852/?rss",
-      "date": "2026-09-30T18:00:00+09:00",
-      "dateLabel": "09/30 18:00",
-      "desc": "OrcaRouter、AIエージェント事案の収録数が9月に75件で月別最多に ─ オープンデータベースを更新",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "「中国のGLM-5.3はClaude Mythos Preview級のサイバー攻撃能力を持つ一方で安全対策が不十分」とAnthropicが警告",
       "link": "https://gigazine.net/news/20260930-anthropic-warned-about-glm-5-3-risk/",
       "date": "2026-09-30T13:05:00+09:00",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "「マルチエージェント」を名乗るだけの作品が続出 Googleが数千の応募から見つけた“勝てる設計”4つのパターン",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/30/news048.html",
+      "date": "2026-09-30T11:00:00+09:00",
+      "dateLabel": "09/30 11:00",
+      "desc": "Googleは、AIエージェント開発コンテストの上位作に見られる4つの設計パターンを公開した。応募の多くが「マルチエージェントシステム」を掲げていたが、実態は単一のモデルがプロンプトをつなげているだけのものもあったという。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 34
     }
   ]
