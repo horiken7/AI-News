@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-30T09:52:49.643707+09:00",
-  "generatedLabel": "2026/09/30 09:52",
-  "feedOk": 6,
-  "feedNg": 5,
-  "candidates": 65,
+  "generatedAt": "2026-09-30T15:09:17.206555+09:00",
+  "generatedLabel": "2026/09/30 15:09",
+  "feedOk": 5,
+  "feedNg": 6,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 17
+      "items": 18
     },
     {
       "source": "CNET Japan",
@@ -47,8 +47,8 @@
     },
     {
       "source": "AINOW",
-      "ok": true,
-      "items": 10
+      "ok": false,
+      "error": "HTTP Error 504: Gateway Time-out"
     },
     {
       "source": "Ledge.ai",
@@ -74,15 +74,15 @@
       "score": 74
     },
     {
-      "title": "AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開 特定のLLMに依存せず入れ替え可能",
-      "link": "https://www.itmedia.co.jp/news/article/2609/29/2000001837/",
-      "date": "2026-09-29T14:56:39+09:00",
-      "dateLabel": "09/29 14:56",
-      "desc": "Amazon Web Services（AWS）は、GPTやClaude、Gemini、Ollamaなど主要なLLMやLLMランタイムを基にした高性能なAIエージェントを簡単に自作できるツール「Strandsハーネス」をオープンソースで公開しました。",
+      "title": "Anthropicが「高度なAIが人類存亡に関わるリスクをもたらす可能性がある」と新規株式公開(IPO)の目論見書で警告",
+      "link": "https://gigazine.net/news/20260930-anthropic-ai-existential-risk-to-humanity/",
+      "date": "2026-09-30T10:46:00+09:00",
+      "dateLabel": "09/30 10:46",
+      "desc": "AIチャットボット「Claude」を開発するAnthropicが新規株式公開(IPO)に向けた目論見書で、高度なAIが「人類に壊滅的または存亡に関わるリスク」をもたらす可能性があると投資家に警告していることが明らかになりました。目論見書では、AIモデルが停止に抵抗したり、情報を隠したり操作したりする可能性など、AIの安全性に関する幅広いリスクが挙げられていま",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 66
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 58
     },
     {
       "title": "「GPT-6.1 Sol」登場 「一部Astra並み」性能をコスト5分の1で提供 先代モデルからわずか1週間で公開",
@@ -107,6 +107,17 @@
       "score": 58
     },
     {
+      "title": "AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開 特定のLLMに依存せず入れ替え可能",
+      "link": "https://www.itmedia.co.jp/news/article/2609/29/2000001837/",
+      "date": "2026-09-29T14:56:39+09:00",
+      "dateLabel": "09/29 14:56",
+      "desc": "Amazon Web Services（AWS）は、GPTやClaude、Gemini、Ollamaなど主要なLLMやLLMランタイムを基にした高性能なAIエージェントを簡単に自作できるツール「Strandsハーネス」をオープンソースで公開しました。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 58
+    },
+    {
       "title": "AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開。特定のLLMに依存せず入れ替え可能、任意のコンテナ環境にデプロイ",
       "link": "https://www.publickey1.jp/blog/26/awsaistrandsllm.html",
       "date": "2026-09-29T00:01:25+09:00",
@@ -118,13 +129,13 @@
       "score": 58
     },
     {
-      "title": "OpenAI、24時間働くAIエージェント「dots」発表 ただしプロ向け、月額500ドルの新プランも",
-      "link": "https://ascii.jp/elem/000/004/438/4438355/?rss",
-      "date": "2026-09-30T03:25:00+09:00",
-      "dateLabel": "09/30 03:25",
-      "desc": "OpenAIは9月29日、米サンフランシスコで開発者イベント「OpenAI DevDay 2026」を開催し、新しいAIエージェント「dots（ドッツ）」を発表した。",
-      "img": "https://ascii.jp/img/2026/09/30/4531812/s/853b61b737a6b9b5.jpg",
-      "src": "ASCII.jp",
+      "title": "OpenAIが常時稼働型のAIアシスタント「Dots」を公開、GPT‑6 Astra を搭載して専用のクラウドコンピューターで稼働",
+      "link": "https://gigazine.net/news/20260930-openai-dots/",
+      "date": "2026-09-30T11:32:00+09:00",
+      "dateLabel": "09/30 11:32",
+      "desc": "OpenAIが、2026年9月30日に開催された年次開発者会議「OpenAI DevDay 2026」の基調講演で、常時稼働型のAIアシスタント「Dots」を発表しました。DotsはGPT‑6 Astra を搭載し、専用のクラウドコンピューターで稼働するAIエージェントで、4000以上のアプリと連携しながらテキストメッセージやSlack、Teamsから指示を",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 50
     },
@@ -151,6 +162,61 @@
       "score": 50
     },
     {
+      "title": "「誰でも入手できるAI」がサイバー攻撃を自律構築 Anthropicが「GLM-5.3」に警鐘",
+      "link": "https://ascii.jp/elem/000/004/438/4438590/?rss",
+      "date": "2026-09-30T14:55:00+09:00",
+      "dateLabel": "09/30 14:55",
+      "desc": "Anthropicは9月29日、Zhipu AI（Z.ai）のAIモデル「GLM-5.3」を検証し、エンドツーエンドの攻撃コードを自律的に構築できる能力を確認したと発表した。",
+      "img": "https://ascii.jp/img/2026/09/30/4532218/s/f3f0c839c0e68ef4.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "AIエージェントが「画像を貼れない」問題を勝手に解決、343組織の機密スクショ1万3000枚超をGitHubの公開リポジトリに保存していたことが判明",
+      "link": "https://gigazine.net/news/20260930-pixelleak/",
+      "date": "2026-09-30T13:10:00+09:00",
+      "dateLabel": "09/30 13:10",
+      "desc": "AIコーディングエージェントが開発中の画面をレビュー担当者と共有する際、非公開リポジトリのスクリーンショットをGitHub上の公開リポジトリへアップロードしていたことがセキュリティ企業のGlow Securityによって明らかにされました。Glow Securityは343組織に関連する1万3000枚を超える画像を確認しており、認証情報や個人情報、未発表製品",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "トランプ大統領とGoogle・Anthropic・Meta・OpenAI・SpaceXAI・NVIDIAがAIの安全管理を目指す「ホワイトハウス・超知能協定」に署名",
+      "link": "https://gigazine.net/news/20260930-white-house-super-intelligence/",
+      "date": "2026-09-30T12:58:00+09:00",
+      "dateLabel": "09/30 12:58",
+      "desc": "日本時間の2026年9月30日にホワイトハウスでAI業界のリーダーたちを集めた会合が実施され、ドナルド・トランプ大統領とGoogle・Anthropic・Meta・OpenAI・SpaceXAI・NVIDIAの代表が「White House Accord on Super Intelligence(ホワイトハウス・超知能協定)」に署名しました。 続きを読む.",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "WindowsでLinuxコンテナの作成や実行を可能にする「WSL Containers」正式リリース。コマンドラインとAPIから利用可能",
+      "link": "https://www.publickey1.jp/blog/26/windowslinuxwsl_containersapi.html",
+      "date": "2026-09-30T11:43:18+09:00",
+      "dateLabel": "09/30 11:43",
+      "desc": "マイクロソフトはWSL（Windows Subsystem for Linux）の新機能として、WindowsでLinuxコンテナの作成や実行を可能にする「WSL Containers」の正式リリースを発表しました（発表ブログ、アーキテクチ...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AI全般",
+      "score": 42
+    },
+    {
+      "title": "「GPT-6.1 Sol」がもう登場、GPT-6 Astraと同等性能で料金は5分の1",
+      "link": "https://gigazine.net/news/20260930-gpt-6-1-sol/",
+      "date": "2026-09-30T10:45:00+09:00",
+      "dateLabel": "09/30 10:45",
+      "desc": "OpenAIが「GPT-6.1 Sol」を現地時間の2026年9月29日にリリースしました。前モデル「GPT-6 Sol」の登場からわずか1週間でのアップデートです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "OpenAI、豪政府サイトへの不正アクセスで謝罪 最先端AI学習の安全指針も公開",
       "link": "https://www.itmedia.co.jp/news/article/2609/30/2000001869/",
       "date": "2026-09-30T07:41:40+09:00",
@@ -159,17 +225,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "規制/安全",
-      "score": 42
-    },
-    {
-      "title": "食事記録の分析から次の食事提案まで自動化するAI機能",
-      "link": "https://ascii.jp/elem/000/004/437/4437287/?rss",
-      "date": "2026-09-30T07:00:00+09:00",
-      "dateLabel": "09/30 07:00",
-      "desc": "株式会社おいしい健康は9月17日、ユーザーが記録した食事内容を基に、AI栄養ロボット「ぴたこん」が栄養面の分析と次の食事に関する提案を行う「AI食事アドバイス」機能をリリースした。",
-      "img": "https://ascii.jp/img/2026/09/25/4530093/s/197ce5a0e9305304.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -206,80 +261,25 @@
       "score": 42
     },
     {
-      "title": "OpenAIとサム・アルトマンCEOにAI開発の一時停止を求めてフロリダ州司法長官が仮処分申請",
-      "link": "https://gigazine.net/news/20260929-florida-ag-temporary-injunction-openai/",
-      "date": "2026-09-29T15:10:00+09:00",
-      "dateLabel": "09/29 15:10",
-      "desc": "「危険なChatGPTをリリースした」としてOpenAIとサム・アルトマンCEOを提訴しているフロリダ州のジェームズ・ウスマイヤー司法長官が、法廷闘争の間にさらなるAI開発が行われないよう、裁判所に仮処分申請を行いました。ウスマイヤー司法長官は「アルトマン氏の『開発速度を落とす』という発言が本気だったなら、裁判所への我々の要請に賛同するべきです」と述べていま",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "NVIDIAがAIの安全を強化する枠組み「Open Agent Safety Platform」を発表",
-      "link": "https://gigazine.net/news/20260929-nvidia-open-agent-safety-platform/",
-      "date": "2026-09-29T13:02:00+09:00",
-      "dateLabel": "09/29 13:02",
-      "desc": "AIエージェントの意図しない動作を防ぐためのプラットフォーム「Open Agent Safety Platform」をNVIDIAが発表しました。AIを強制的にルールに従わせるものになっています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "OpenAIが「GPT-6.1 Astra」の一般公開を中止、安全基準を満たさないため",
-      "link": "https://gigazine.net/news/20260929-openai-abandons-plan-to-release-gpt-6-1-astra/",
-      "date": "2026-09-29T12:26:00+09:00",
-      "dateLabel": "09/29 12:26",
-      "desc": "OpenAIが2026年10月に予定していた「GPT-6.1 Astra」のリリース計画を中止したことがわかりました。自社の安全基準を十分に満たしていないと判断したためだそうです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "ShopifyがブラウザベースのAIエージェントによる会計機能を発表、AIにお買い物を完全おまかせ可能に",
-      "link": "https://gigazine.net/news/20260929-shopify-opens-checkout-browser-based-ai-agents/",
-      "date": "2026-09-29T12:01:00+09:00",
-      "dateLabel": "09/29 12:01",
-      "desc": "eコマースプラットフォームのShopifyが、ブラウザベースのAIエージェントによる会計機能をリリースしました。Amazonやアディダスは、AIエージェントによる商品購入をブロックしていますが、Shopifyは逆にAIエージェントを受け入れる方向にシフトします。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "AIは魔法の杖ではなく“子ども”だ 「ずる賢く」育つのを阻止するための3つのポイント",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2609/30/news017.html",
-      "date": "2026-09-30T08:00:00+09:00",
-      "dateLabel": "09/30 08:00",
-      "desc": "AIも子どもと同じで、適切な学習を繰り返して初めて育つ――。筆者が学生時代に携わった脳科学の実験を手掛かりに、AIを育てる条件と、IT負債の分析をAIに任せることの危うさ、AI向けデータセンター投資の落とし穴を論じる。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "AIがもたらした「半導体」の進化 光電融合、HBM、新トランジスタ――果てなき性能向上、どうかなえる？",
-      "link": "https://www.itmedia.co.jp/business/articles/2609/30/news021.html",
-      "date": "2026-09-30T07:00:00+09:00",
-      "dateLabel": "09/30 07:00",
-      "desc": "生成AIの登場によって、半導体の進化が加速している。「ムーアの法則」に限界が見える中、半導体メーカーは新たな技術を次々に生み出している。果てなき性能向上、どうかなえるのか。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "AIエージェント暴走は誰の責任？ 報告義務も監査も届かない法の空白",
-      "link": "https://ascii.jp/elem/000/004/438/4438357/?rss",
-      "date": "2026-09-30T06:29:31+09:00",
-      "dateLabel": "09/30 06:29",
-      "desc": "オープンAIのエージェント群が7月にハギング・フェイスをハッキングした事案を、同社は法的に開示する義務を負っていなかった可能性が高い。米国の州法が報告を義務付ける「重大な安全事案」は、50人超の死傷者や10億ドルの損害、モデルが開発者を欺いて破局的リスクを著しく高めた場合などに限られるためだ。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "title": "AIが人類存亡のリスクに？ AnthropicがIPO目論見書で異例の警告 報道",
+      "link": "https://ascii.jp/elem/000/004/438/4438579/?rss",
+      "date": "2026-09-30T14:10:00+09:00",
+      "dateLabel": "09/30 14:10",
+      "desc": "AnthropicはIPO目論見書のなかで、AIが「壊滅的、あるいは存亡にかかわるリスク」を人類にもたらす可能性があると警告しているという。",
+      "img": "https://ascii.jp/img/2026/09/30/4532168/s/a6ebe4208831f60c.png",
       "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "「中国のGLM-5.3はClaude Mythos Preview級のサイバー攻撃能力を持つ一方で安全対策が不十分」とAnthropicが警告",
+      "link": "https://gigazine.net/news/20260930-anthropic-warned-about-glm-5-3-risk/",
+      "date": "2026-09-30T13:05:00+09:00",
+      "dateLabel": "09/30 13:05",
+      "desc": "中国のAI企業Z.aiが開発したオープンウェイトAIモデル「GLM-5.3」について、Anthropicは、同社の「Claude Mythos Preview」に近い水準でソフトウェアの脆弱(ぜいじゃく)性を発見し、攻撃コードを最初から最後まで構築する能力を持つ一方、悪用を防ぐ安全対策を容易に回避できるとの評価結果を公表しました。Anthropicは、高度な",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 34
     }
   ]
