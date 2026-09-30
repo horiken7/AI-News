@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-30T22:09:55.113353+09:00",
-  "generatedLabel": "2026/09/30 22:09",
+  "generatedAt": "2026-10-01T03:42:12.944299+09:00",
+  "generatedLabel": "2026/10/01 03:42",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 63,
+  "candidates": 61,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 12
+      "items": 10
     },
     {
       "source": "AINOW",
@@ -129,17 +129,6 @@
       "score": 50
     },
     {
-      "title": "ChatGPTに「Ultrafast」、Astraを8倍高速に 利用には「月500ドル」最上位プランが必須",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/30/2000001865/",
-      "date": "2026-09-30T03:09:11+09:00",
-      "dateLabel": "09/30 03:09",
-      "desc": "米OpenAIは9月29日（現地時間）、フロンティアモデル「GPT-6 Astra」を通常の最大8倍高速に推論できる「Ultrafast」モードを発表した。利用には、最上位の新プラン「Pro 500」（月額500ドル、約7万8000円）もしくは従量課金のAPIが必要。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
       "title": "ベンチマークでJev超えな意思決定モデル「d1」が登場",
       "link": "https://gigazine.net/news/20260930-d1-decision-model-liquid-ai/",
       "date": "2026-09-30T17:52:00+09:00",
@@ -206,25 +195,14 @@
       "score": 42
     },
     {
-      "title": "OpenAI、「24時間働く」エージェント「dots」発表 Astra搭載、クラウド上で常時稼働",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/30/2000001864/",
-      "date": "2026-09-30T03:02:40+09:00",
-      "dateLabel": "09/30 03:02",
-      "desc": "OpenAIは常時稼働エージェント機能「dots」を発表。「GPT-6 Astra」を搭載し、ユーザーが定義した目標に応じて、クラウド上のコンピュータで24時間自律的に稼働するとうたう。",
+      "title": "ChatGPTに「Ultrafast」、Astraを8倍高速に 利用には「月500ドル」最上位プランが必須",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/30/2000001865/",
+      "date": "2026-09-30T03:09:11+09:00",
+      "dateLabel": "09/30 03:09",
+      "desc": "米OpenAIは9月29日（現地時間）、フロンティアモデル「GPT-6 Astra」を通常の最大8倍高速に推論できる「Ultrafast」モードを発表した。利用には、最上位の新プラン「Pro 500」（月額500ドル、約7万8000円）もしくは従量課金のAPIが必要。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "コーディングエージェントにGoogle Cloudの専門知識とツールを組み込む「Google Cloud Developer Plugin for AI Coding Agents」発表",
-      "link": "https://www.publickey1.jp/blog/26/google_cloudgoogle_cloud_developer_plugin_for_ai_coding_agents.html",
-      "date": "2026-09-30T00:44:15+09:00",
-      "dateLabel": "09/30 00:44",
-      "desc": "Google Cloudは、Claude CodeなどのコーディングエージェントにGoogle Cloudの専門知識とツールなどを組み込める「Google Cloud Developer Plugin for AI Coding Agent...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
+      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -280,6 +258,28 @@
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "「中国のGLM-5.3はClaude Mythos Preview級のサイバー攻撃能力を持つ一方で安全対策が不十分」とAnthropicが警告",
+      "link": "https://gigazine.net/news/20260930-anthropic-warned-about-glm-5-3-risk/",
+      "date": "2026-09-30T13:05:00+09:00",
+      "dateLabel": "09/30 13:05",
+      "desc": "中国のAI企業Z.aiが開発したオープンウェイトAIモデル「GLM-5.3」について、Anthropicは、同社の「Claude Mythos Preview」に近い水準でソフトウェアの脆弱(ぜいじゃく)性を発見し、攻撃コードを最初から最後まで構築する能力を持つ一方、悪用を防ぐ安全対策を容易に回避できるとの評価結果を公表しました。Anthropicは、高度な",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "OpenAIがゲームボーイカラーっぽいゲーム機「Chromatic」とコラボしてCodexでレトロゲームを作成可能に",
+      "link": "https://gigazine.net/news/20260930-chromatic-codex/",
+      "date": "2026-09-30T11:25:00+09:00",
+      "dateLabel": "09/30 11:25",
+      "desc": "2026年9月29日にOpenAIが実施したイベント「OpenAI DevDay 2026」で、ゲームボーイカラー風のデバイス「ModRetro Chromatic(Chromatic)」とOpenAIがコラボしたことが発表されました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 34
     }
   ]
