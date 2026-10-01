@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-01T07:43:24.691796+09:00",
-  "generatedLabel": "2026/10/01 07:43",
+  "generatedAt": "2026-10-01T10:41:11.292821+09:00",
+  "generatedLabel": "2026/10/01 10:41",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 63,
+  "candidates": 65,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 17
+      "items": 18
     },
     {
       "source": "CNET Japan",
@@ -118,6 +118,17 @@
       "score": 50
     },
     {
+      "title": "AIと自動化がクラウド攻撃チェーンを加速（2026年クラウドネイティブ脅威動向レポートより）",
+      "link": "https://ascii.jp/elem/000/004/437/4437872/?rss",
+      "date": "2026-10-01T09:00:00+09:00",
+      "dateLabel": "10/01 09:00",
+      "desc": "「2026年クラウドネイティブ脅威動向レポート」では、クラウド侵入がもはや一連の孤立した取り組みではないことを示しています。。攻撃者は継続的に環境をマッピングし、クレデンシャルをテストし、公開されたサービスを悪用し、目的に向かって急速に前進しています。",
+      "img": "https://ascii.jp/img/2026/09/29/4531246/s/3565fe6e3269af0b.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "ベンチマークでJev超えな意思決定モデル「d1」が登場",
       "link": "https://gigazine.net/news/20260930-d1-decision-model-liquid-ai/",
       "date": "2026-09-30T17:52:00+09:00",
@@ -184,6 +195,28 @@
       "score": 42
     },
     {
+      "title": "グーグル、AI合成たんぱく質にも「透かし」 アミノ酸配列に“目印”埋め込む",
+      "link": "https://ascii.jp/elem/000/004/438/4438881/?rss",
+      "date": "2026-10-01T10:10:00+09:00",
+      "dateLabel": "10/01 10:10",
+      "desc": "Google DeepMindは9月30日、AIが設計したタンパク質などに識別可能なウォーターマークを埋め込む「SynthID Bio」を発表した。",
+      "img": "https://ascii.jp/img/2026/10/01/4532493/s/ae1e80d3224924ad.png",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 34
+    },
+    {
+      "title": "Autodesk、FusionなどのAI機能を発表 設計作業の自動化や設計資産の再利用を支援",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/01/news015.html",
+      "date": "2026-10-01T09:00:00+09:00",
+      "dateLabel": "10/01 09:00",
+      "desc": "Autodeskは「Autodesk University 2026（AU 2026）」において、「Fusion」「Inventor」「Vault」およびPLMに関する新たなAI機能や取り組みを発表した。部品の編集や組み立て、製造工程の自動化に加え、製品情報の連携や既存の設計資産の再利用を支援する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
       "title": "すべての企業の“セキュリティ疲れ”解消を 「Symantec CBX」TD SYNNEXが提供開始",
       "link": "https://ascii.jp/elem/000/004/438/4438868/?rss",
       "date": "2026-10-01T07:30:00+09:00",
@@ -239,17 +272,6 @@
       "score": 34
     },
     {
-      "title": "広島のAI研修会社WEAVE、90分・1講座から選べるオンラインの「スポットAI研修」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/438/4438851/?rss",
-      "date": "2026-09-30T18:30:00+09:00",
-      "dateLabel": "09/30 18:30",
-      "desc": "広島のAI研修会社WEAVE、90分・1講座から選べるオンラインの「スポットAI研修」を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "「中国のGLM-5.3はClaude Mythos Preview級のサイバー攻撃能力を持つ一方で安全対策が不十分」とAnthropicが警告",
       "link": "https://gigazine.net/news/20260930-anthropic-warned-about-glm-5-3-risk/",
       "date": "2026-09-30T13:05:00+09:00",
@@ -258,28 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "OpenAIがゲームボーイカラーっぽいゲーム機「Chromatic」とコラボしてCodexでレトロゲームを作成可能に",
-      "link": "https://gigazine.net/news/20260930-chromatic-codex/",
-      "date": "2026-09-30T11:25:00+09:00",
-      "dateLabel": "09/30 11:25",
-      "desc": "2026年9月29日にOpenAIが実施したイベント「OpenAI DevDay 2026」で、ゲームボーイカラー風のデバイス「ModRetro Chromatic(Chromatic)」とOpenAIがコラボしたことが発表されました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "「マルチエージェント」を名乗るだけの作品が続出 Googleが数千の応募から見つけた“勝てる設計”4つのパターン",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/30/news048.html",
-      "date": "2026-09-30T11:00:00+09:00",
-      "dateLabel": "09/30 11:00",
-      "desc": "Googleは、AIエージェント開発コンテストの上位作に見られる4つの設計パターンを公開した。応募の多くが「マルチエージェントシステム」を掲げていたが、実態は単一のモデルがプロンプトをつなげているだけのものもあったという。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 34
     }
   ]
