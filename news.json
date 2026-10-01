@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-01T16:59:55.970160+09:00",
-  "generatedLabel": "2026/10/01 16:59",
+  "generatedAt": "2026-10-02T00:12:10.179205+09:00",
+  "generatedLabel": "2026/10/02 00:12",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 69,
+  "candidates": 66,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 10
+      "items": 9
     },
     {
       "source": "AINOW",
@@ -74,17 +74,6 @@
       "score": 58
     },
     {
-      "title": "Gemini、ついに覚醒か グーグル「Gemini 4 Argon」AstraやOpus 5.5超えるベンチマークも",
-      "link": "https://ascii.jp/elem/000/004/439/4439067/?rss",
-      "date": "2026-10-01T13:45:00+09:00",
-      "dateLabel": "10/01 13:45",
-      "desc": "Googleは10月1日、最新AIモデル「Gemini 4 Argon」を発表した。長時間の推論やコーディング、知識労働、サイバーセキュリティなどを強化したモデル。",
-      "img": "https://ascii.jp/img/2026/10/01/4532580/s/fdaa7cd86cb1de4a.png",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 58
-    },
-    {
       "title": "Googleが「Gemini 4 Argon」を発表、GPT-6 AstraやClaude Fable 5.1を超える性能でGemini 4シリーズの先駆けモデル",
       "link": "https://gigazine.net/news/20261001-google-gemini-4-argon/",
       "date": "2026-10-01T10:58:00+09:00",
@@ -104,7 +93,40 @@
       "img": "",
       "src": "Publickey",
       "cat": "AIエージェント/業務",
-      "score": 58
+      "score": 52
+    },
+    {
+      "title": "ハードウェアに合わせて自動最適化してオープンモデルを最大2倍高速化するAIエージェント向け推論エンジン「Magnitude」、Appleシリコン・NVIDIA・AMD・CPUに対応",
+      "link": "https://gigazine.net/news/20261001-magnitude/",
+      "date": "2026-10-01T22:00:00+09:00",
+      "dateLabel": "10/01 22:00",
+      "desc": "AIエージェントでオープンモデルをローカル実行する際に、使用中のハードウェアに合わせて処理を自動調整するオープンソースの推論エンジン「Magnitude」が公開されています。Magnitudeはモデルを実行するための処理を端末上でコンパイルして調整する仕組みを備えており、特定の条件では「llama.cpp」と比べて最大約2倍の速度を記録しています。Apple",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 50
+    },
+    {
+      "title": "OpenAIはテストの監視が不十分であるという社内警告を繰り返し無視して追加のセキュリティ対策をせず迅速なリリースを優先していた",
+      "link": "https://gigazine.net/news/20261001-openai-ignored-warnings/",
+      "date": "2026-10-01T23:00:00+09:00",
+      "dateLabel": "10/01 23:00",
+      "desc": "OpenAIではAIエージェントが社内テスト中に誤ってHugging Faceをハッキングしてしまった事例など、複数のインシデントが発生しています。OpenAIのAIモデルが暴走を始める数か月前に、従業員が経営幹部に警告を送っていたものの、経営幹部はその警告を無視していたことが社内メールから明らかになりました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "総額2.3兆円、千葉市に巨大な「AIデータセンター」建設へ 発電大手JERA参画の“ドリームチーム”、勝機どうつかむ？",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/01/news082.html",
+      "date": "2026-10-01T18:00:00+09:00",
+      "dateLabel": "10/01 18:00",
+      "desc": "JERA、Dell Technologies、RHAELMは、千葉市に日本最大の「AIデータセンター」を建設すると発表した。投資額は2.3兆円以上に上る。3社によるドリームチームは、勝機をどこに見いだしているのか。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 42
     },
     {
       "title": "OpenAI、推論過程を狙った組織的な“蒸留”行為を阻止 「Kimi」開発元の関係者が関与と主張",
@@ -129,17 +151,6 @@
       "score": 42
     },
     {
-      "title": "はてな匿名ダイアリー、“AI増田”増えるかも ChatGPTから直接投稿、早くも賛否",
-      "link": "https://ascii.jp/elem/000/004/439/4439065/?rss",
-      "date": "2026-10-01T14:05:00+09:00",
-      "dateLabel": "10/01 14:05",
-      "desc": "はてなは9月30日、「はてな匿名ダイアリー」をChatGPTから利用できるプラグインを実験的に公開した。",
-      "img": "https://ascii.jp/img/2026/10/01/4532588/s/27b0e0a45bcb675c.png",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "「システムプロンプト陳腐化」をどう防ぐか AWSの試行錯誤に見る「自社AIエージェント」運用のポイント",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/01/news029.html",
       "date": "2026-10-01T11:00:00+09:00",
@@ -151,12 +162,34 @@
       "score": 42
     },
     {
-      "title": "AMD、組み込み開発向けエージェンティックAIアシスタント「AMD Ross」を発表",
-      "link": "https://ascii.jp/elem/000/004/439/4439152/?rss",
-      "date": "2026-10-01T14:47:00+09:00",
-      "dateLabel": "10/01 14:47",
-      "desc": "AMDは2026年9月30日（米国太平洋時間）、組込みシステム開発の全ライフサイクルを支援するエージェンティック（自律型）AIアシスタント「AMD Ross」を発表した。",
-      "img": "https://ascii.jp/img/2026/10/01/4532610/s/55922b1ade5399c5.jpg",
+      "title": "10月になってスマホ続々値上げ……Pixel 10aは1万2900円アップで9万2800円、Galaxy S26も",
+      "link": "https://ascii.jp/elem/000/004/439/4439397/?rss",
+      "date": "2026-10-01T19:20:00+09:00",
+      "dateLabel": "10/01 19:20",
+      "desc": "PCにスマホと、半導体高騰にともなう価格上昇が目立つが、10月に入り、既存製品でも値上げ例が見られる。Pixel 10aは7万9900円だったが、9万2800円に。Galaxy S26も15万5800円と2万円弱の値上げ。",
+      "img": "https://ascii.jp/img/2026/10/01/4532819/s/7e4db22eb84973d1.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "人間は「取締役2人だけ」 実務をAIが担う新会社、セキュリティサービスのHENNGE",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/01/2000001936/",
+      "date": "2026-10-01T18:01:23+09:00",
+      "dateLabel": "10/01 18:01",
+      "desc": "セキュリティサービスなどを手掛けるHENNGEは、AI活用におけるガバナンス・コスト管理を支援する新会社「HENNGE AI」を設立したと発表した。人間の従業員は取締役の2人を除いて配置せず、自律的にタスクをこなすAIエージェントが実務を担う。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
+      "score": 34
+    },
+    {
+      "title": "AIBORN、メディカル・データ・ビジョンからの出資を受け資本業務提携",
+      "link": "https://ascii.jp/elem/000/004/439/4439408/?rss",
+      "date": "2026-10-01T18:00:00+09:00",
+      "dateLabel": "10/01 18:00",
+      "desc": "AIBORN、メディカル・データ・ビジョンからの出資を受け資本業務提携",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
@@ -170,39 +203,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "人間のように深掘りするAI面接「オクティAI面接」を提供開始。無料デモのお申し込みで、AI面接3回分を無料提供",
-      "link": "https://ascii.jp/elem/000/004/439/4439258/?rss",
-      "date": "2026-10-01T14:00:00+09:00",
-      "dateLabel": "10/01 14:00",
-      "desc": "人間のように深掘りするAI面接「オクティAI面接」を提供開始。無料デモのお申し込みで、AI面接3回分を無料提供",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "社内業務のニーズに応じた「企業向けAI」選び",
-      "link": "https://ascii.jp/elem/000/004/437/4437503/?rss",
-      "date": "2026-10-01T14:00:00+09:00",
-      "dateLabel": "10/01 14:00",
-      "desc": "ChatGPTに代表される「汎用AI」は“万能”ではありません。企業が抱えるセキュリティ課題や、社内業務のニーズに応じ適応できる「企業向けAI」にも目を向ける必要があることをご存知でしょうか。",
-      "img": "https://ascii.jp/img/2026/09/28/4530625/s/9467d71d43deec3c.png",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "歯科医院の集患におけるAI検索表示を無料診断「DENT SHIFT」正式リリース",
-      "link": "https://ascii.jp/elem/000/004/439/4439260/?rss",
-      "date": "2026-10-01T13:57:04+09:00",
-      "dateLabel": "10/01 13:57",
-      "desc": "歯科医院の集患におけるAI検索表示を無料診断「DENT SHIFT」正式リリース",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -272,14 +272,14 @@
       "score": 34
     },
     {
-      "title": "ぶっ壊れやすいHDDはどれ？Backblazeが2026年第2四半期の統計データ公開",
-      "link": "https://gigazine.net/news/20260930-backblaze-drive-stats-q2-2026/",
-      "date": "2026-09-30T21:42:00+09:00",
-      "dateLabel": "09/30 21:42",
-      "desc": "クラウドストレージサービスやデータバックアップサービスで大量のハードディスクドライブ(HDD)を運用するBackblazeは、自社データセンター内で運用するストレージデバイスの故障率をメーカーやモデルごとに公開しています。2026年第2四半期の統計データが2026年9月29日に公開されました。 続きを読む...",
+      "title": "WindowsでLinuxコンテナの作成や実行を可能にする「WSL Containers」正式リリース。コマンドラインとAPIから利用可能",
+      "link": "https://www.publickey1.jp/blog/26/windowslinuxwsl_containersapi.html",
+      "date": "2026-09-30T11:43:18+09:00",
+      "dateLabel": "09/30 11:43",
+      "desc": "マイクロソフトはWSL（Windows Subsystem for Linux）の新機能として、WindowsでLinuxコンテナの作成や実行を可能にする「WSL Containers」の正式リリースを発表しました（発表ブログ、アーキテクチ...",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
+      "src": "Publickey",
+      "cat": "AI全般",
       "score": 34
     }
   ]
