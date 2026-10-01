@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-01T10:41:11.292821+09:00",
-  "generatedLabel": "2026/10/01 10:41",
+  "generatedAt": "2026-10-01T16:59:55.970160+09:00",
+  "generatedLabel": "2026/10/01 16:59",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 65,
+  "candidates": 69,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 18
+      "items": 22
     },
     {
       "source": "CNET Japan",
@@ -63,25 +63,36 @@
   ],
   "articles": [
     {
-      "title": "OpenAIの「DevDay 2026」で発表された主なことまとめ",
-      "link": "https://www.itmedia.co.jp/news/article/2609/30/2000001868/",
-      "date": "2026-09-30T06:36:34+09:00",
-      "dateLabel": "09/30 06:36",
-      "desc": "OpenAIは、年次開発者会議「DevDay 2026」で20件以上の新機能を発表した。常時稼働エージェント「dots」、新モデル「GPT-6.1 Sol」、最大8倍高速な有料枠「Ultrafast」を投入。Codexのクラウド実行やチーム向け協働空間「ChatGPT Space」も公開した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 66
-    },
-    {
-      "title": "Anthropicが「高度なAIが人類存亡に関わるリスクをもたらす可能性がある」と新規株式公開(IPO)の目論見書で警告",
-      "link": "https://gigazine.net/news/20260930-anthropic-ai-existential-risk-to-humanity/",
-      "date": "2026-09-30T10:46:00+09:00",
-      "dateLabel": "09/30 10:46",
-      "desc": "AIチャットボット「Claude」を開発するAnthropicが新規株式公開(IPO)に向けた目論見書で、高度なAIが「人類に壊滅的または存亡に関わるリスク」をもたらす可能性があると投資家に警告していることが明らかになりました。目論見書では、AIモデルが停止に抵抗したり、情報を隠したり操作したりする可能性など、AIの安全性に関する幅広いリスクが挙げられていま",
+      "title": "DeepSeekがHuaweiと提携しAscend向け「TileLang」など6つのAI開発ツールをオープンソースで公開、NVIDIAのCUDA依存低減を狙う",
+      "link": "https://gigazine.net/news/20261001-deepseek-huawei-ascend/",
+      "date": "2026-10-01T16:45:00+09:00",
+      "dateLabel": "10/01 16:45",
+      "desc": "中国のAI企業であるDeepSeekがHuaweiと協力し、Huawei製AIチップ「Ascend」向けのプログラミング基盤を公開しました。公開されたソフトウェアには高性能な演算プログラムを開発しやすくする「TileLang」や行列計算ライブラリ「DeepGEMM Ascend」などが含まれており、いずれもオープンソースで公開されています。DeepSeekは",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "規制/安全",
+      "cat": "半導体/GPU",
+      "score": 58
+    },
+    {
+      "title": "Gemini、ついに覚醒か グーグル「Gemini 4 Argon」AstraやOpus 5.5超えるベンチマークも",
+      "link": "https://ascii.jp/elem/000/004/439/4439067/?rss",
+      "date": "2026-10-01T13:45:00+09:00",
+      "dateLabel": "10/01 13:45",
+      "desc": "Googleは10月1日、最新AIモデル「Gemini 4 Argon」を発表した。長時間の推論やコーディング、知識労働、サイバーセキュリティなどを強化したモデル。",
+      "img": "https://ascii.jp/img/2026/10/01/4532580/s/fdaa7cd86cb1de4a.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 58
+    },
+    {
+      "title": "Googleが「Gemini 4 Argon」を発表、GPT-6 AstraやClaude Fable 5.1を超える性能でGemini 4シリーズの先駆けモデル",
+      "link": "https://gigazine.net/news/20261001-google-gemini-4-argon/",
+      "date": "2026-10-01T10:58:00+09:00",
+      "dateLabel": "10/01 10:58",
+      "desc": "Googleは2026年9月30日、新たなAIモデル「Gemini 4 Argon」を発表しました。Gemini 4 Argonは複数の工程にわたる作業を長時間続ける能力を重視したモデルで、ソフトウェア開発や企業の知識作業、サイバーセキュリティ防御などで高い性能を示しています。記事作成時点では一般公開されておらず、信頼できるサイバーセキュリティ担当者などに提",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 58
     },
     {
@@ -96,113 +107,157 @@
       "score": 58
     },
     {
-      "title": "OpenAIが常時稼働型のAIアシスタント「Dots」を公開、GPT‑6 Astra を搭載して専用のクラウドコンピューターで稼働",
-      "link": "https://gigazine.net/news/20260930-openai-dots/",
-      "date": "2026-09-30T11:32:00+09:00",
-      "dateLabel": "09/30 11:32",
-      "desc": "OpenAIが、2026年9月30日に開催された年次開発者会議「OpenAI DevDay 2026」の基調講演で、常時稼働型のAIアシスタント「Dots」を発表しました。DotsはGPT‑6 Astra を搭載し、専用のクラウドコンピューターで稼働するAIエージェントで、4000以上のアプリと連携しながらテキストメッセージやSlack、Teamsから指示を",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
-      "title": "「GPT-6.1 Sol」登場 「一部Astra並み」性能をコスト5分の1で提供 先代モデルからわずか1週間で公開",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/30/2000001867/",
-      "date": "2026-09-30T04:08:07+09:00",
-      "dateLabel": "09/30 04:08",
-      "desc": "OpenAIは新モデル「GPT?6.1 Sol」を発表。「GPT?6 Astra」に迫る性能を5分の1の料金で提供するとうたう。",
+      "title": "OpenAI、推論過程を狙った組織的な“蒸留”行為を阻止 「Kimi」開発元の関係者が関与と主張",
+      "link": "https://www.itmedia.co.jp/news/article/2610/01/2000001929/",
+      "date": "2026-10-01T15:06:55+09:00",
+      "dateLabel": "10/01 15:06",
+      "desc": "OpenAIは、モデルの推論過程を抜き出す組織的な“敵対的蒸留”を特定し、阻止したと発表した。活動の中核には中国Moonshot AIの関係者が関与したと分析。暗号化された推論を悪用する新たな手口に対し、アカウント停止や推論保護の強化を実施し、業界や政府機関との脅威情報共有を進めている。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
-      "title": "AIと自動化がクラウド攻撃チェーンを加速（2026年クラウドネイティブ脅威動向レポートより）",
-      "link": "https://ascii.jp/elem/000/004/437/4437872/?rss",
-      "date": "2026-10-01T09:00:00+09:00",
-      "dateLabel": "10/01 09:00",
-      "desc": "「2026年クラウドネイティブ脅威動向レポート」では、クラウド侵入がもはや一連の孤立した取り組みではないことを示しています。。攻撃者は継続的に環境をマッピングし、クレデンシャルをテストし、公開されたサービスを悪用し、目的に向かって急速に前進しています。",
-      "img": "https://ascii.jp/img/2026/09/29/4531246/s/3565fe6e3269af0b.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
-      "title": "ベンチマークでJev超えな意思決定モデル「d1」が登場",
-      "link": "https://gigazine.net/news/20260930-d1-decision-model-liquid-ai/",
-      "date": "2026-09-30T17:52:00+09:00",
-      "dateLabel": "09/30 17:52",
-      "desc": "AI開発企業のLiquid AIが意思決定モデル「d1」をリリースしました。2026年9月に登場して大きな話題となっている「Jev」と同様の機能を備えており、性能テストでJevを上回ったとのことです。 続きを読む...",
+      "title": "最先端AIモデルがリリース後にひそかに劣化しているかどうかを検出するためのベンチマーク「livenerf」",
+      "link": "https://gigazine.net/news/20261001-livenerf-benchmark-ai-capability-after-release/",
+      "date": "2026-10-01T15:05:00+09:00",
+      "dateLabel": "10/01 15:05",
+      "desc": "ひとたびリリースされたAIモデルの性能はずっと変わらないと思っている人もいるかもしれませんが、過去にはリリース後にAIモデルの性能が低下した事例がたびたび報告されています。そんなリリース後のAIモデルがひそかに劣化しているかどうかを検出するためのベンチマークが「livenerf」です。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
       "score": 42
     },
     {
-      "title": "AIエージェントが「画像を貼れない」問題を勝手に解決、343組織の機密スクショ1万3000枚超をGitHubの公開リポジトリに保存していたことが判明",
-      "link": "https://gigazine.net/news/20260930-pixelleak/",
-      "date": "2026-09-30T13:10:00+09:00",
-      "dateLabel": "09/30 13:10",
-      "desc": "AIコーディングエージェントが開発中の画面をレビュー担当者と共有する際、非公開リポジトリのスクリーンショットをGitHub上の公開リポジトリへアップロードしていたことがセキュリティ企業のGlow Securityによって明らかにされました。Glow Securityは343組織に関連する1万3000枚を超える画像を確認しており、認証情報や個人情報、未発表製品",
+      "title": "はてな匿名ダイアリー、“AI増田”増えるかも ChatGPTから直接投稿、早くも賛否",
+      "link": "https://ascii.jp/elem/000/004/439/4439065/?rss",
+      "date": "2026-10-01T14:05:00+09:00",
+      "dateLabel": "10/01 14:05",
+      "desc": "はてなは9月30日、「はてな匿名ダイアリー」をChatGPTから利用できるプラグインを実験的に公開した。",
+      "img": "https://ascii.jp/img/2026/10/01/4532588/s/27b0e0a45bcb675c.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "「システムプロンプト陳腐化」をどう防ぐか AWSの試行錯誤に見る「自社AIエージェント」運用のポイント",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/01/news029.html",
+      "date": "2026-10-01T11:00:00+09:00",
+      "dateLabel": "10/01 11:00",
+      "desc": "AWSは、AIコーディングエージェント「Kiro」のシステムプロンプトを継続的に評価する仕組みを公開した。社内の実利用データをLLMに採点させ、システムプロンプト変更の効果を比較しているという。",
       "img": "",
-      "src": "GIGAZINE",
+      "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 42
     },
     {
-      "title": "トランプ大統領とGoogle・Anthropic・Meta・OpenAI・SpaceXAI・NVIDIAがAIの安全管理を目指す「ホワイトハウス・超知能協定」に署名",
-      "link": "https://gigazine.net/news/20260930-white-house-super-intelligence/",
-      "date": "2026-09-30T12:58:00+09:00",
-      "dateLabel": "09/30 12:58",
-      "desc": "日本時間の2026年9月30日にホワイトハウスでAI業界のリーダーたちを集めた会合が実施され、ドナルド・トランプ大統領とGoogle・Anthropic・Meta・OpenAI・SpaceXAI・NVIDIAの代表が「White House Accord on Super Intelligence(ホワイトハウス・超知能協定)」に署名しました。 続きを読む.",
+      "title": "AMD、組み込み開発向けエージェンティックAIアシスタント「AMD Ross」を発表",
+      "link": "https://ascii.jp/elem/000/004/439/4439152/?rss",
+      "date": "2026-10-01T14:47:00+09:00",
+      "dateLabel": "10/01 14:47",
+      "desc": "AMDは2026年9月30日（米国太平洋時間）、組込みシステム開発の全ライフサイクルを支援するエージェンティック（自律型）AIアシスタント「AMD Ross」を発表した。",
+      "img": "https://ascii.jp/img/2026/10/01/4532610/s/55922b1ade5399c5.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "Google、「Gemini 4 Pro」ではなく「Gemini 4 Argon」発表 まずはサイバー防御組織に限定提供、出力上限は100万トークンに",
+      "link": "https://www.itmedia.co.jp/news/article/2610/01/2000001912/",
+      "date": "2026-10-01T14:02:06+09:00",
+      "dateLabel": "10/01 14:02",
+      "desc": "Googleは、次世代フロンティアモデル「Gemini 4 Argon」を発表した。最大出力100万トークンに対応し、長時間に及ぶ業務処理や自律的なサイバー脆弱性修正に強みを持つ。安全対策を強化した上で、まずは信頼できるサイバー防御組織に先行提供し、有料APIなどで順次拡大する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "人間のように深掘りするAI面接「オクティAI面接」を提供開始。無料デモのお申し込みで、AI面接3回分を無料提供",
+      "link": "https://ascii.jp/elem/000/004/439/4439258/?rss",
+      "date": "2026-10-01T14:00:00+09:00",
+      "dateLabel": "10/01 14:00",
+      "desc": "人間のように深掘りするAI面接「オクティAI面接」を提供開始。無料デモのお申し込みで、AI面接3回分を無料提供",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "社内業務のニーズに応じた「企業向けAI」選び",
+      "link": "https://ascii.jp/elem/000/004/437/4437503/?rss",
+      "date": "2026-10-01T14:00:00+09:00",
+      "dateLabel": "10/01 14:00",
+      "desc": "ChatGPTに代表される「汎用AI」は“万能”ではありません。企業が抱えるセキュリティ課題や、社内業務のニーズに応じ適応できる「企業向けAI」にも目を向ける必要があることをご存知でしょうか。",
+      "img": "https://ascii.jp/img/2026/09/28/4530625/s/9467d71d43deec3c.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "歯科医院の集患におけるAI検索表示を無料診断「DENT SHIFT」正式リリース",
+      "link": "https://ascii.jp/elem/000/004/439/4439260/?rss",
+      "date": "2026-10-01T13:57:04+09:00",
+      "dateLabel": "10/01 13:57",
+      "desc": "歯科医院の集患におけるAI検索表示を無料診断「DENT SHIFT」正式リリース",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "メモリメーカーのMicronが2026年第4四半期の決算発表、AIインフラの需要急増で爆発的に成長し売上高前年同期比379％増・純利益1078％増・データセンター部門売上高1000％増",
+      "link": "https://gigazine.net/news/20261001-micron-q4-2026/",
+      "date": "2026-10-01T13:41:00+09:00",
+      "dateLabel": "10/01 13:41",
+      "desc": "アメリカで唯一AIに不可欠な高帯域幅メモリを製造するメーカーであるMicronは2026年9月30日に、2026年度第4四半期(2026年9月3日終了)および通期の決算を発表しました。決算によると前年同期比で約4.8倍、純利益は前年比で10倍近くまで跳ね上がっており、AI需要の高まりにより大きく成長しています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 42
+      "score": 34
     },
     {
-      "title": "WindowsでLinuxコンテナの作成や実行を可能にする「WSL Containers」正式リリース。コマンドラインとAPIから利用可能",
-      "link": "https://www.publickey1.jp/blog/26/windowslinuxwsl_containersapi.html",
-      "date": "2026-09-30T11:43:18+09:00",
-      "dateLabel": "09/30 11:43",
-      "desc": "マイクロソフトはWSL（Windows Subsystem for Linux）の新機能として、WindowsでLinuxコンテナの作成や実行を可能にする「WSL Containers」の正式リリースを発表しました（発表ブログ、アーキテクチ...",
+      "title": "OpenAIのAIが勝手にHugging Faceをハッキングした件を受け非営利団体がOpenAIを提訴",
+      "link": "https://gigazine.net/news/20261001-nonprofit-suing-openai-hugging-face-hack/",
+      "date": "2026-10-01T12:13:00+09:00",
+      "dateLabel": "10/01 12:13",
+      "desc": "OpenAIのAIモデルが誤ってHugging Faceをハッキングしてしまった一件を受け、同社に対して「公共に被害をおよぼす恐れのあるAI開発手法」を中止することを求める訴訟が提起されました。 続きを読む...",
       "img": "",
-      "src": "Publickey",
-      "cat": "AI全般",
-      "score": 42
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 34
     },
     {
-      "title": "「GPT-6.1 Sol」がもう登場、GPT-6 Astraと同等性能で料金は5分の1",
-      "link": "https://gigazine.net/news/20260930-gpt-6-1-sol/",
-      "date": "2026-09-30T10:45:00+09:00",
-      "dateLabel": "09/30 10:45",
-      "desc": "OpenAIが「GPT-6.1 Sol」を現地時間の2026年9月29日にリリースしました。前モデル「GPT-6 Sol」の登場からわずか1週間でのアップデートです。 続きを読む...",
+      "title": "Anthropicの営業チームはClaudeの自動返信で成約件数を2.5倍にした",
+      "link": "https://gigazine.net/news/20261001-inbound-claude-managed-agents/",
+      "date": "2026-10-01T11:40:00+09:00",
+      "dateLabel": "10/01 11:40",
+      "desc": "Anthropicで営業開発リーダーを務めるカール・ジョンソン氏が、ほとんどの問い合わせにAI・Claudeが対応している状況と、それによって営業チームの働き方がどのように変わったのかについて解説しています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 42
+      "score": 34
     },
     {
-      "title": "ChatGPTに「Ultrafast」、Astraを8倍高速に 利用には「月500ドル」最上位プランが必須",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/30/2000001865/",
-      "date": "2026-09-30T03:09:11+09:00",
-      "dateLabel": "09/30 03:09",
-      "desc": "米OpenAIは9月29日（現地時間）、フロンティアモデル「GPT-6 Astra」を通常の最大8倍高速に推論できる「Ultrafast」モードを発表した。利用には、最上位の新プラン「Pro 500」（月額500ドル、約7万8000円）もしくは従量課金のAPIが必要。",
+      "title": "RedditがAIボット対策としてRSSフィードを廃止し公開APIへのアクセスを終了すると発表",
+      "link": "https://gigazine.net/news/20261001-reddit-killing-rss-feeds-end-public-api/",
+      "date": "2026-10-01T11:35:00+09:00",
+      "dateLabel": "10/01 11:35",
+      "desc": "現地時間の2026年9月30日(水)、RedditがRSSフィードのサポート終了を発表しました。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
     },
     {
-      "title": "グーグル、AI合成たんぱく質にも「透かし」 アミノ酸配列に“目印”埋め込む",
-      "link": "https://ascii.jp/elem/000/004/438/4438881/?rss",
-      "date": "2026-10-01T10:10:00+09:00",
-      "dateLabel": "10/01 10:10",
-      "desc": "Google DeepMindは9月30日、AIが設計したタンパク質などに識別可能なウォーターマークを埋め込む「SynthID Bio」を発表した。",
-      "img": "https://ascii.jp/img/2026/10/01/4532493/s/ae1e80d3224924ad.png",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
+      "title": "OpenAIが「中国のAI企業が1万5000以上のユーザーを使ってモデルの思考を盗み取る蒸留攻撃を実行していた」と報告",
+      "link": "https://gigazine.net/news/20261001-openai-model-distillation-campaign/",
+      "date": "2026-10-01T11:20:00+09:00",
+      "dateLabel": "10/01 11:20",
+      "desc": "OpenAIが「1万5000人以上のユーザーによる組織化された敵対的蒸留攻撃」を検出したことを発表しました。OpenAIは「攻撃活動の中心を担ったのは、Kimiシリーズの開発元である中国企業のMoonshot AIに関係する人物であると推測される」と述べています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -217,39 +272,6 @@
       "score": 34
     },
     {
-      "title": "すべての企業の“セキュリティ疲れ”解消を 「Symantec CBX」TD SYNNEXが提供開始",
-      "link": "https://ascii.jp/elem/000/004/438/4438868/?rss",
-      "date": "2026-10-01T07:30:00+09:00",
-      "dateLabel": "10/01 07:30",
-      "desc": "ITディストリビューターのTD SYNNEX日本法人が、企業の“セキュリティ疲れ”を解消するXDRソリューション「Symantec CBX」の国内提供を開始した。SymantecとCarbon Blackが提供してきた各種セキュリティ機能をプラットフォーム統合し、脅威判断やインシデント調査をAIが支援する。中堅／中小企業層への普及拡大も目指す。",
-      "img": "https://ascii.jp/img/2026/10/01/4532420/s/87ea073f6cbcf9fa.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "Google、「Gemini 4 Pro」ではなく「Gemini 4 Agron」発表 まずはサイバー防御組織に限定提供、出力上限は100万トークンに",
-      "link": "https://www.itmedia.co.jp/news/article/2610/01/2000001912/",
-      "date": "2026-10-01T07:16:25+09:00",
-      "dateLabel": "10/01 07:16",
-      "desc": "Googleは、次世代フロンティアモデル「Gemini 4 Argon」を発表した。最大出力100万トークンに対応し、長時間に及ぶ業務処理や自律的なサイバー脆弱性修正に強みを持つ。安全対策を強化した上で、まずは信頼できるサイバー防御組織に先行提供し、有料APIなどで順次拡大する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "「スマホの次もスマホだ」クアルコムCEOが断言する“AIエージェント時代”の未来",
-      "link": "https://ascii.jp/elem/000/004/438/4438584/?rss",
-      "date": "2026-10-01T07:00:00+09:00",
-      "dateLabel": "10/01 07:00",
-      "desc": "スマホの次は何なのか。クアルコムのクリスチアーノ・アモンCEOは、「スマホはなくならない。スマホの次もスマホだ」と断言した。ただしそこにはAIエージェントが搭載される。",
-      "img": "https://ascii.jp/img/2026/09/30/4532189/s/e4d55f28eb3e9a54.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "ぶっ壊れやすいHDDはどれ？Backblazeが2026年第2四半期の統計データ公開",
       "link": "https://gigazine.net/news/20260930-backblaze-drive-stats-q2-2026/",
       "date": "2026-09-30T21:42:00+09:00",
@@ -258,28 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "ローマ教皇レオ14世がAIの危険性に関する主張を否定したトランプ大統領やNVIDIAのジェンスン・フアンを非難",
-      "link": "https://gigazine.net/news/20260930-pope-leo-nvidia-trump-ai-threat/",
-      "date": "2026-09-30T19:00:00+09:00",
-      "dateLabel": "09/30 19:00",
-      "desc": "2026年9月、Anthropicのダリオ・アモデイCEOがAIの急速な進歩によるリスクが高まっているとして、AIが壊滅的な被害をもたらす危険性があると警告しました。これに対しアメリカのドナルド・トランプ大統領は「デマだ」と否定し、NVIDIAのジェンスン・フアンCEOもAI研究所のリーダーらは誠実さに欠けると非難しています。そんな中でローマ教皇のレオ14世",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "「中国のGLM-5.3はClaude Mythos Preview級のサイバー攻撃能力を持つ一方で安全対策が不十分」とAnthropicが警告",
-      "link": "https://gigazine.net/news/20260930-anthropic-warned-about-glm-5-3-risk/",
-      "date": "2026-09-30T13:05:00+09:00",
-      "dateLabel": "09/30 13:05",
-      "desc": "中国のAI企業Z.aiが開発したオープンウェイトAIモデル「GLM-5.3」について、Anthropicは、同社の「Claude Mythos Preview」に近い水準でソフトウェアの脆弱(ぜいじゃく)性を発見し、攻撃コードを最初から最後まで構築する能力を持つ一方、悪用を防ぐ安全対策を容易に回避できるとの評価結果を公表しました。Anthropicは、高度な",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 34
     }
   ]
