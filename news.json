@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-02T22:20:48.952713+09:00",
-  "generatedLabel": "2026/10/02 22:20",
+  "generatedAt": "2026-10-03T03:48:09.680424+09:00",
+  "generatedLabel": "2026/10/03 03:48",
   "feedOk": 6,
   "feedNg": 5,
   "candidates": 53,
@@ -258,7 +258,7 @@
       "img": "",
       "src": "Publickey",
       "cat": "AIエージェント/業務",
-      "score": 34
+      "score": 28
     },
     {
       "title": "マイクロソフト、企業内アプリの実行基盤「Copilot Managed Runtime」プレビュー公開。Microsoft 365と同じテナント内でコード実行、管理者による集中管理も",
