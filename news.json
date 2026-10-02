@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T05:40:03.978909+09:00",
-  "generatedLabel": "2026/10/02 05:40",
+  "generatedAt": "2026-10-02T09:19:36.846782+09:00",
+  "generatedLabel": "2026/10/02 09:19",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 66,
+  "candidates": 65,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 22
+      "items": 20
     },
     {
       "source": "CNET Japan",
@@ -74,17 +74,6 @@
       "score": 58
     },
     {
-      "title": "Googleが「Gemini 4 Argon」を発表、GPT-6 AstraやClaude Fable 5.1を超える性能でGemini 4シリーズの先駆けモデル",
-      "link": "https://gigazine.net/news/20261001-google-gemini-4-argon/",
-      "date": "2026-10-01T10:58:00+09:00",
-      "dateLabel": "10/01 10:58",
-      "desc": "Googleは2026年9月30日、新たなAIモデル「Gemini 4 Argon」を発表しました。Gemini 4 Argonは複数の工程にわたる作業を長時間続ける能力を重視したモデルで、ソフトウェア開発や企業の知識作業、サイバーセキュリティ防御などで高い性能を示しています。記事作成時点では一般公開されておらず、信頼できるサイバーセキュリティ担当者などに提",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 58
-    },
-    {
       "title": "AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開。特定のLLMに依存せず入れ替え可能、任意のコンテナ環境にデプロイ",
       "link": "https://www.publickey1.jp/blog/26/awsaistrandsllm.html",
       "date": "2026-09-29T00:01:25+09:00",
@@ -105,6 +94,28 @@
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
       "score": 50
+    },
+    {
+      "title": "「DMに逃げる理由は秘密保持ではない」 人とAIエージェントの“最強チーム”を作るベストプラクティス",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/02/news009.html",
+      "date": "2026-10-02T08:00:00+09:00",
+      "dateLabel": "10/02 08:00",
+      "desc": "Anthropicは、人間とAIエージェントによる効果的なチームを構築するためのベストプラクティスをまとめたブログ記事を公開した。Slack社の最高製品責任者（CPO）へのインタビューに基づいている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "ChatGPTにAIでバーチャル試着機能とカメラでの書類スキャン→PDF化機能",
+      "link": "https://www.itmedia.co.jp/news/article/2610/02/2000001945/",
+      "date": "2026-10-02T07:17:12+09:00",
+      "dateLabel": "10/02 07:17",
+      "desc": "OpenAIは、ChatGPTにバーチャル試着やお気に入り保存などの新機能を追加した。商品情報カードから自身の写真を使って服やアクセサリーを着用した姿を生成できる。気になった商品の整理機能も備える。また、iOSアプリに、連続撮影した書類を自動で1つのPDFにまとめて送信できるスキャン機能も導入した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "OpenAIはテストの監視が不十分であるという社内警告を繰り返し無視して追加のセキュリティ対策をせず迅速なリリースを優先していた",
@@ -160,6 +171,39 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 42
+    },
+    {
+      "title": "「長く働くAI」が裏目に？ OpenAIの“脱走事件”が示すリスクの変化 企業に求められる対応は",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001900/",
+      "date": "2026-10-02T08:00:00+09:00",
+      "dateLabel": "10/02 08:00",
+      "desc": "AIの「粘り強さ」が原因となって、米OpenAIの評価環境から数百体のエージェントが外部システムに侵入する事件が起きた。この事件が示したリスクの変化と、企業に求められる対応を解説する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "「Claude」3倍高速化の裏で、Anthropic開発者が「あえてしなかったこと」：899th Lap",
+      "link": "https://kn.itmedia.co.jp/kn/article/2610/02/2000001932/",
+      "date": "2026-10-02T07:00:00+09:00",
+      "dateLabel": "10/02 07:00",
+      "desc": "「2週間で約3倍高速化」という驚きの成果を上げたClaude。いったい、Anthropicの開発者たちは何を変えたのか。短期間での高速化を支えたのは、ある開発アプローチだった。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "「当社なき世界は良くない」 オープンAI研究トップ、 エージェント脱出事件を語る",
+      "link": "https://ascii.jp/elem/000/004/439/4439434/?rss",
+      "date": "2026-10-02T06:59:40+09:00",
+      "dateLabel": "10/02 06:59",
+      "desc": "AIエージェント群が封じ込めを破り、ハギング・フェイスのコンピューターに侵入した事件から2カ月。オープンAIの最高研究責任者マーク・チェンは、訓練中のモデルも監視するなど対策を講じたと説明する。「もしオープンAIがなくなってしまったら、それは世界にとって良くないことです」とも。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "10月になってスマホ続々値上げ……Pixel 10aは1万2900円アップで9万2800円、Galaxy S26も",
@@ -236,50 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "RedditがAIボット対策としてRSSフィードを廃止し公開APIへのアクセスを終了すると発表",
-      "link": "https://gigazine.net/news/20261001-reddit-killing-rss-feeds-end-public-api/",
-      "date": "2026-10-01T11:35:00+09:00",
-      "dateLabel": "10/01 11:35",
-      "desc": "現地時間の2026年9月30日(水)、RedditがRSSフィードのサポート終了を発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "OpenAIが「中国のAI企業が1万5000以上のユーザーを使ってモデルの思考を盗み取る蒸留攻撃を実行していた」と報告",
-      "link": "https://gigazine.net/news/20261001-openai-model-distillation-campaign/",
-      "date": "2026-10-01T11:20:00+09:00",
-      "dateLabel": "10/01 11:20",
-      "desc": "OpenAIが「1万5000人以上のユーザーによる組織化された敵対的蒸留攻撃」を検出したことを発表しました。OpenAIは「攻撃活動の中心を担ったのは、Kimiシリーズの開発元である中国企業のMoonshot AIに関係する人物であると推測される」と述べています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Autodesk、FusionなどのAI機能を発表 設計作業の自動化や設計資産の再利用を支援",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/01/news015.html",
-      "date": "2026-10-01T09:00:00+09:00",
-      "dateLabel": "10/01 09:00",
-      "desc": "Autodeskは「Autodesk University 2026（AU 2026）」において、「Fusion」「Inventor」「Vault」およびPLMに関する新たなAI機能や取り組みを発表した。部品の編集や組み立て、製造工程の自動化に加え、製品情報の連携や既存の設計資産の再利用を支援する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "WindowsでLinuxコンテナの作成や実行を可能にする「WSL Containers」正式リリース。コマンドラインとAPIから利用可能",
-      "link": "https://www.publickey1.jp/blog/26/windowslinuxwsl_containersapi.html",
-      "date": "2026-09-30T11:43:18+09:00",
-      "dateLabel": "09/30 11:43",
-      "desc": "マイクロソフトはWSL（Windows Subsystem for Linux）の新機能として、WindowsでLinuxコンテナの作成や実行を可能にする「WSL Containers」の正式リリースを発表しました（発表ブログ、アーキテクチ...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AI全般",
       "score": 34
     }
   ]
