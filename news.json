@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T09:19:36.846782+09:00",
-  "generatedLabel": "2026/10/02 09:19",
+  "generatedAt": "2026-10-02T15:26:11.006011+09:00",
+  "generatedLabel": "2026/10/02 15:26",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 65,
+  "candidates": 60,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 20
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -85,6 +85,17 @@
       "score": 52
     },
     {
+      "title": "ChatGPTが服をバーチャル試着できる新機能を追加",
+      "link": "https://gigazine.net/news/20261002-chatgpt-virtually-try-on-clothing/",
+      "date": "2026-10-02T13:02:00+09:00",
+      "dateLabel": "10/02 13:02",
+      "desc": "現地時間の2026年10月1日、OpenAIがChatGPTの最新アップデートを発表しました。今回のアップデートで服をバーチャル試着できる新機能の「Try on(試着)」ボタンがChatGPTに追加されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
       "title": "ハードウェアに合わせて自動最適化してオープンモデルを最大2倍高速化するAIエージェント向け推論エンジン「Magnitude」、Appleシリコン・NVIDIA・AMD・CPUに対応",
       "link": "https://gigazine.net/news/20261001-magnitude/",
       "date": "2026-10-01T22:00:00+09:00",
@@ -94,6 +105,61 @@
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
       "score": 50
+    },
+    {
+      "title": "ChatGPTの“利用制限”リセットへ 有料ユーザー向け",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001961/",
+      "date": "2026-10-02T14:06:56+09:00",
+      "dateLabel": "10/02 14:06",
+      "desc": "米OpenAIのプロダクト責任者ティボー・ソティオ氏は、「ChatGPT」の全有料ユーザーを対象に、利用制限枠をリセットすると発表した。日本時間10月3日午前3時の実施を予定している。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "テーマは Copilot で営業変革！ 「第2回 Microsoft 365 Copilot Cup」レポート",
+      "link": "https://ascii.jp/elem/000/004/437/4437505/?rss",
+      "date": "2026-10-02T14:00:00+09:00",
+      "dateLabel": "10/02 14:00",
+      "desc": "Copilot をどのように活用して業務に変革をもたらしていくのかをコンテスト形式で発表する日本マイクロソフト主催イベント「第2回 Microsoft 365 Copilot Cup」に参加したレポートをお届けします。",
+      "img": "https://ascii.jp/img/2026/09/28/4530654/s/960dea3dc6a80026.png",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "【来店型ビジネスの集客DX】AIエージェント「KUROKO AI」、導入店舗数が500店舗を突破 ～リリース半年で到達～",
+      "link": "https://ascii.jp/elem/000/004/439/4439587/?rss",
+      "date": "2026-10-02T13:22:12+09:00",
+      "dateLabel": "10/02 13:22",
+      "desc": "【来店型ビジネスの集客DX】AIエージェント「KUROKO AI」、導入店舗数が500店舗を突破 ～リリース半年で到達～",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "「Gemini 4 Argon」とは 性能評価にみるAstra／Fable／Opusとの違い 一般提供は年内？",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001954/",
+      "date": "2026-10-02T12:17:21+09:00",
+      "dateLabel": "10/02 12:17",
+      "desc": "Googleが新AIモデル「Gemini 4 Argon」を発表。自社評価ではAstraやFable 5.1、Opus 5.5を多くの項目で上回るとうたう。当面はサイバー防御組織などに限定提供し、一般提供は「できるだけ早く」とする。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "Microsoft、初のストリーミング文字起こしモデル「MAI-Transcribe-2-Streaming」公開 音声合成「MAI-Voice-2.1」と高速版も",
+      "link": "https://www.itmedia.co.jp/news/article/2610/02/2000001950/",
+      "date": "2026-10-02T10:47:09+09:00",
+      "dateLabel": "10/02 10:47",
+      "desc": "Microsoft AIは、ストリーミング文字起こしモデル「MAI-Transcribe-2-Streaming」と音声合成モデル群を発表した。低遅延な逐次認識や声のトーンを保った多言語合成に対応し、音声エージェント構築を想定する。Microsoft Foundryでプレビュー提供を始め、複合デモも公開した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 42
     },
     {
       "title": "「DMに逃げる理由は秘密保持ではない」 人とAIエージェントの“最強チーム”を作るベストプラクティス",
@@ -140,37 +206,59 @@
       "score": 42
     },
     {
-      "title": "OpenAI、推論過程を狙った組織的な“蒸留”行為を阻止 「Kimi」開発元の関係者が関与と主張",
-      "link": "https://www.itmedia.co.jp/news/article/2610/01/2000001929/",
-      "date": "2026-10-01T15:06:55+09:00",
-      "dateLabel": "10/01 15:06",
-      "desc": "OpenAIは、モデルの推論過程を抜き出す組織的な“敵対的蒸留”を特定し、阻止したと発表した。活動の中核には中国Moonshot AIの関係者が関与したと分析。暗号化された推論を悪用する新たな手口に対し、アカウント停止や推論保護の強化を実施し、業界や政府機関との脅威情報共有を進めている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
+      "title": "パソコン工房、LEVEL∞ 10周年企画第2弾でRTX 50シリーズ搭載PCが最大3万円引きの「NVIDIA怒涛の全力祭」開催",
+      "link": "https://ascii.jp/elem/000/004/439/4439639/?rss",
+      "date": "2026-10-02T15:00:00+09:00",
+      "dateLabel": "10/02 15:00",
+      "desc": "パソコン工房がLEVEL∞ 10周年記念プロジェクト第2弾として、NVIDIA GeForce RTX 50シリーズ搭載の対象ゲーミングPCを最大30,000円OFFで販売する「NVIDIA怒涛の全力祭」を開催する。BTO対応の複数モデルやスターターキット、会員向け送料無料、買取特典も案内する内容だ。",
+      "img": "https://ascii.jp/img/2026/10/02/4533089/s/fde91aadc46efbda.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
     },
     {
-      "title": "最先端AIモデルがリリース後にひそかに劣化しているかどうかを検出するためのベンチマーク「livenerf」",
-      "link": "https://gigazine.net/news/20261001-livenerf-benchmark-ai-capability-after-release/",
-      "date": "2026-10-01T15:05:00+09:00",
-      "dateLabel": "10/01 15:05",
-      "desc": "ひとたびリリースされたAIモデルの性能はずっと変わらないと思っている人もいるかもしれませんが、過去にはリリース後にAIモデルの性能が低下した事例がたびたび報告されています。そんなリリース後のAIモデルがひそかに劣化しているかどうかを検出するためのベンチマークが「livenerf」です。 続きを読む...",
+      "title": "PowerPoint上で、AIがスライドを編集。ChatSenseが新機能を提供予定",
+      "link": "https://ascii.jp/elem/000/004/439/4439649/?rss",
+      "date": "2026-10-02T14:14:20+09:00",
+      "dateLabel": "10/02 14:14",
+      "desc": "PowerPoint上で、AIがスライドを編集。ChatSenseが新機能を提供予定",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "NTTドコモビジネスとPowder Keg Technologies、AIを活用しOT環境の資産可視化から攻撃リスクの検証までを自動化するシステムを開発",
+      "link": "https://ascii.jp/elem/000/004/439/4439590/?rss",
+      "date": "2026-10-02T13:00:10+09:00",
+      "dateLabel": "10/02 13:00",
+      "desc": "NTTドコモビジネスとPowder Keg Technologies、AIを活用しOT環境の資産可視化から攻撃リスクの検証までを自動化するシステムを開発",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "DirectCloud、AI-OCR「DX OCR」連携オプションを提供開始",
+      "link": "https://ascii.jp/elem/000/004/439/4439619/?rss",
+      "date": "2026-10-02T13:00:00+09:00",
+      "dateLabel": "10/02 13:00",
+      "desc": "DirectCloud、AI-OCR「DX OCR」連携オプションを提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "Claude Codeを自分好みにカスタムできるMod機能が登場",
+      "link": "https://gigazine.net/news/20261002-claude-code-customize-mod/",
+      "date": "2026-10-02T12:19:00+09:00",
+      "dateLabel": "10/02 12:19",
+      "desc": "AIコーディングエージェントのClaude Codeに、動作やUIを自分好みにカスタムできるMod機能が追加されました。ModはTypeScriptで記述可能で、Claude Code自身にModの作成を依頼することもできます。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 42
-    },
-    {
-      "title": "「システムプロンプト陳腐化」をどう防ぐか AWSの試行錯誤に見る「自社AIエージェント」運用のポイント",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/01/news029.html",
-      "date": "2026-10-01T11:00:00+09:00",
-      "dateLabel": "10/01 11:00",
-      "desc": "AWSは、AIコーディングエージェント「Kiro」のシステムプロンプトを継続的に評価する仕組みを公開した。社内の実利用データをLLMに採点させ、システムプロンプト変更の効果を比較しているという。",
-      "img": "",
-      "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 42
+      "score": 34
     },
     {
       "title": "「長く働くAI」が裏目に？ OpenAIの“脱走事件”が示すリスクの変化 企業に求められる対応は",
@@ -191,94 +279,6 @@
       "desc": "「2週間で約3倍高速化」という驚きの成果を上げたClaude。いったい、Anthropicの開発者たちは何を変えたのか。短期間での高速化を支えたのは、ある開発アプローチだった。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "「当社なき世界は良くない」 オープンAI研究トップ、 エージェント脱出事件を語る",
-      "link": "https://ascii.jp/elem/000/004/439/4439434/?rss",
-      "date": "2026-10-02T06:59:40+09:00",
-      "dateLabel": "10/02 06:59",
-      "desc": "AIエージェント群が封じ込めを破り、ハギング・フェイスのコンピューターに侵入した事件から2カ月。オープンAIの最高研究責任者マーク・チェンは、訓練中のモデルも監視するなど対策を講じたと説明する。「もしオープンAIがなくなってしまったら、それは世界にとって良くないことです」とも。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "10月になってスマホ続々値上げ……Pixel 10aは1万2900円アップで9万2800円、Galaxy S26も",
-      "link": "https://ascii.jp/elem/000/004/439/4439397/?rss",
-      "date": "2026-10-01T19:20:00+09:00",
-      "dateLabel": "10/01 19:20",
-      "desc": "PCにスマホと、半導体高騰にともなう価格上昇が目立つが、10月に入り、既存製品でも値上げ例が見られる。Pixel 10aは7万9900円だったが、9万2800円に。Galaxy S26も15万5800円と2万円弱の値上げ。",
-      "img": "https://ascii.jp/img/2026/10/01/4532819/s/7e4db22eb84973d1.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "人間は「取締役2人だけ」 実務をAIが担う新会社、セキュリティサービスのHENNGE",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/01/2000001936/",
-      "date": "2026-10-01T18:01:23+09:00",
-      "dateLabel": "10/01 18:01",
-      "desc": "セキュリティサービスなどを手掛けるHENNGEは、AI活用におけるガバナンス・コスト管理を支援する新会社「HENNGE AI」を設立したと発表した。人間の従業員は取締役の2人を除いて配置せず、自律的にタスクをこなすAIエージェントが実務を担う。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "AIBORN、メディカル・データ・ビジョンからの出資を受け資本業務提携",
-      "link": "https://ascii.jp/elem/000/004/439/4439408/?rss",
-      "date": "2026-10-01T18:00:00+09:00",
-      "dateLabel": "10/01 18:00",
-      "desc": "AIBORN、メディカル・データ・ビジョンからの出資を受け資本業務提携",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "Google、「Gemini 4 Pro」ではなく「Gemini 4 Argon」発表 まずはサイバー防御組織に限定提供、出力上限は100万トークンに",
-      "link": "https://www.itmedia.co.jp/news/article/2610/01/2000001912/",
-      "date": "2026-10-01T14:02:06+09:00",
-      "dateLabel": "10/01 14:02",
-      "desc": "Googleは、次世代フロンティアモデル「Gemini 4 Argon」を発表した。最大出力100万トークンに対応し、長時間に及ぶ業務処理や自律的なサイバー脆弱性修正に強みを持つ。安全対策を強化した上で、まずは信頼できるサイバー防御組織に先行提供し、有料APIなどで順次拡大する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "メモリメーカーのMicronが2026年第4四半期の決算発表、AIインフラの需要急増で爆発的に成長し売上高前年同期比379％増・純利益1078％増・データセンター部門売上高1000％増",
-      "link": "https://gigazine.net/news/20261001-micron-q4-2026/",
-      "date": "2026-10-01T13:41:00+09:00",
-      "dateLabel": "10/01 13:41",
-      "desc": "アメリカで唯一AIに不可欠な高帯域幅メモリを製造するメーカーであるMicronは2026年9月30日に、2026年度第4四半期(2026年9月3日終了)および通期の決算を発表しました。決算によると前年同期比で約4.8倍、純利益は前年比で10倍近くまで跳ね上がっており、AI需要の高まりにより大きく成長しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "OpenAIのAIが勝手にHugging Faceをハッキングした件を受け非営利団体がOpenAIを提訴",
-      "link": "https://gigazine.net/news/20261001-nonprofit-suing-openai-hugging-face-hack/",
-      "date": "2026-10-01T12:13:00+09:00",
-      "dateLabel": "10/01 12:13",
-      "desc": "OpenAIのAIモデルが誤ってHugging Faceをハッキングしてしまった一件を受け、同社に対して「公共に被害をおよぼす恐れのあるAI開発手法」を中止することを求める訴訟が提起されました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "Anthropicの営業チームはClaudeの自動返信で成約件数を2.5倍にした",
-      "link": "https://gigazine.net/news/20261001-inbound-claude-managed-agents/",
-      "date": "2026-10-01T11:40:00+09:00",
-      "dateLabel": "10/01 11:40",
-      "desc": "Anthropicで営業開発リーダーを務めるカール・ジョンソン氏が、ほとんどの問い合わせにAI・Claudeが対応している状況と、それによって営業チームの働き方がどのように変わったのかについて解説しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 34
     }
