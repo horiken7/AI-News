@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T15:26:11.006011+09:00",
-  "generatedLabel": "2026/10/02 15:26",
+  "generatedAt": "2026-10-02T22:20:48.952713+09:00",
+  "generatedLabel": "2026/10/02 22:20",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 60,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -63,17 +63,6 @@
   ],
   "articles": [
     {
-      "title": "DeepSeekがHuaweiと提携しAscend向け「TileLang」など6つのAI開発ツールをオープンソースで公開、NVIDIAのCUDA依存低減を狙う",
-      "link": "https://gigazine.net/news/20261001-deepseek-huawei-ascend/",
-      "date": "2026-10-01T16:45:00+09:00",
-      "dateLabel": "10/01 16:45",
-      "desc": "中国のAI企業であるDeepSeekがHuaweiと協力し、Huawei製AIチップ「Ascend」向けのプログラミング基盤を公開しました。公開されたソフトウェアには高性能な演算プログラムを開発しやすくする「TileLang」や行列計算ライブラリ「DeepGEMM Ascend」などが含まれており、いずれもオープンソースで公開されています。DeepSeekは",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 58
-    },
-    {
       "title": "AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開。特定のLLMに依存せず入れ替え可能、任意のコンテナ環境にデプロイ",
       "link": "https://www.publickey1.jp/blog/26/awsaistrandsllm.html",
       "date": "2026-09-29T00:01:25+09:00",
@@ -83,6 +72,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 52
+    },
+    {
+      "title": "国産AI「LLM-jp-4」ベースのAIモデル、KDDI傘下のELYZAが無料公開",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001965/",
+      "date": "2026-10-02T20:04:32+09:00",
+      "dateLabel": "10/02 20:04",
+      "desc": "KDDIグループのAI開発企業ELYZAは、AIモデル「ELYZA-Thinking-1.0-llm-jp-4-33b」および「ELYZA-Thinking-1.0-llm-jp-4-32b-a3b」を発表した。国立情報学研究所が開発したオープンなAIモデル「LLM-jp-4」シリーズをベースに事後学習を実施し、性能を強化したという。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 50
     },
     {
       "title": "ChatGPTが服をバーチャル試着できる新機能を追加",
@@ -96,47 +96,25 @@
       "score": 50
     },
     {
-      "title": "ハードウェアに合わせて自動最適化してオープンモデルを最大2倍高速化するAIエージェント向け推論エンジン「Magnitude」、Appleシリコン・NVIDIA・AMD・CPUに対応",
-      "link": "https://gigazine.net/news/20261001-magnitude/",
-      "date": "2026-10-01T22:00:00+09:00",
-      "dateLabel": "10/01 22:00",
-      "desc": "AIエージェントでオープンモデルをローカル実行する際に、使用中のハードウェアに合わせて処理を自動調整するオープンソースの推論エンジン「Magnitude」が公開されています。Magnitudeはモデルを実行するための処理を端末上でコンパイルして調整する仕組みを備えており、特定の条件では「llama.cpp」と比べて最大約2倍の速度を記録しています。Apple",
+      "title": "中国へのGPU密輸はなぜ続くのか、そしてなぜアメリカ政府は取り締まることができないのか？",
+      "link": "https://gigazine.net/news/20261002-gpu-black-market-in-china/",
+      "date": "2026-10-02T22:00:00+09:00",
+      "dateLabel": "10/02 22:00",
+      "desc": "アメリカが先端AI半導体の対中輸出を制限する一方、第三国の企業や物流網を通じて中国へ不正に送る事件が相次いでいます。アメリカ当局の摘発では、購入者や最終用途を偽り、大量のGPUやサーバーを調達する手口が明らかになりました。AIの軍事利用を抑えるための規制を、複雑な国際取引の中でどう徹底するかが課題になっています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 50
+      "score": 42
     },
     {
       "title": "ChatGPTの“利用制限”リセットへ 有料ユーザー向け",
       "link": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001961/",
-      "date": "2026-10-02T14:06:56+09:00",
-      "dateLabel": "10/02 14:06",
-      "desc": "米OpenAIのプロダクト責任者ティボー・ソティオ氏は、「ChatGPT」の全有料ユーザーを対象に、利用制限枠をリセットすると発表した。日本時間10月3日午前3時の実施を予定している。",
+      "date": "2026-10-02T18:19:00+09:00",
+      "dateLabel": "10/02 18:19",
+      "desc": "米OpenAIのプロダクト責任者ティボー・ソティオ氏は、「ChatGPT」の全有料ユーザーを対象に、利用制限枠をリセットすると発表した。日本時間10月3日午前2時の実施を予定している。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "テーマは Copilot で営業変革！ 「第2回 Microsoft 365 Copilot Cup」レポート",
-      "link": "https://ascii.jp/elem/000/004/437/4437505/?rss",
-      "date": "2026-10-02T14:00:00+09:00",
-      "dateLabel": "10/02 14:00",
-      "desc": "Copilot をどのように活用して業務に変革をもたらしていくのかをコンテスト形式で発表する日本マイクロソフト主催イベント「第2回 Microsoft 365 Copilot Cup」に参加したレポートをお届けします。",
-      "img": "https://ascii.jp/img/2026/09/28/4530654/s/960dea3dc6a80026.png",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "【来店型ビジネスの集客DX】AIエージェント「KUROKO AI」、導入店舗数が500店舗を突破 ～リリース半年で到達～",
-      "link": "https://ascii.jp/elem/000/004/439/4439587/?rss",
-      "date": "2026-10-02T13:22:12+09:00",
-      "dateLabel": "10/02 13:22",
-      "desc": "【来店型ビジネスの集客DX】AIエージェント「KUROKO AI」、導入店舗数が500店舗を突破 ～リリース半年で到達～",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -184,69 +162,14 @@
       "score": 42
     },
     {
-      "title": "OpenAIはテストの監視が不十分であるという社内警告を繰り返し無視して追加のセキュリティ対策をせず迅速なリリースを優先していた",
-      "link": "https://gigazine.net/news/20261001-openai-ignored-warnings/",
-      "date": "2026-10-01T23:00:00+09:00",
-      "dateLabel": "10/01 23:00",
-      "desc": "OpenAIではAIエージェントが社内テスト中に誤ってHugging Faceをハッキングしてしまった事例など、複数のインシデントが発生しています。OpenAIのAIモデルが暴走を始める数か月前に、従業員が経営幹部に警告を送っていたものの、経営幹部はその警告を無視していたことが社内メールから明らかになりました。 続きを読む...",
+      "title": "ゲームを高解像度化するNVIDIAの「DLSS 5」をVulkanで再実装した「OpenDLSS-NR」、なんとオリジナルとビット単位で完全に一致",
+      "link": "https://gigazine.net/news/20261002-opendlss-nr/",
+      "date": "2026-10-02T20:00:00+09:00",
+      "dateLabel": "10/02 20:00",
+      "desc": "NVIDIAが発表したAIによるアップスケーリング技術「DLSS 5」を「Vulkan」で再実装するプロジェクト「OpenDLSS-NR」が登場しました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "総額2.3兆円、千葉市に巨大な「AIデータセンター」建設へ 発電大手JERA参画の“ドリームチーム”、勝機どうつかむ？",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/01/news082.html",
-      "date": "2026-10-01T18:00:00+09:00",
-      "dateLabel": "10/01 18:00",
-      "desc": "JERA、Dell Technologies、RHAELMは、千葉市に日本最大の「AIデータセンター」を建設すると発表した。投資額は2.3兆円以上に上る。3社によるドリームチームは、勝機をどこに見いだしているのか。",
-      "img": "",
-      "src": "ITmedia AI+",
       "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "パソコン工房、LEVEL∞ 10周年企画第2弾でRTX 50シリーズ搭載PCが最大3万円引きの「NVIDIA怒涛の全力祭」開催",
-      "link": "https://ascii.jp/elem/000/004/439/4439639/?rss",
-      "date": "2026-10-02T15:00:00+09:00",
-      "dateLabel": "10/02 15:00",
-      "desc": "パソコン工房がLEVEL∞ 10周年記念プロジェクト第2弾として、NVIDIA GeForce RTX 50シリーズ搭載の対象ゲーミングPCを最大30,000円OFFで販売する「NVIDIA怒涛の全力祭」を開催する。BTO対応の複数モデルやスターターキット、会員向け送料無料、買取特典も案内する内容だ。",
-      "img": "https://ascii.jp/img/2026/10/02/4533089/s/fde91aadc46efbda.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "PowerPoint上で、AIがスライドを編集。ChatSenseが新機能を提供予定",
-      "link": "https://ascii.jp/elem/000/004/439/4439649/?rss",
-      "date": "2026-10-02T14:14:20+09:00",
-      "dateLabel": "10/02 14:14",
-      "desc": "PowerPoint上で、AIがスライドを編集。ChatSenseが新機能を提供予定",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "NTTドコモビジネスとPowder Keg Technologies、AIを活用しOT環境の資産可視化から攻撃リスクの検証までを自動化するシステムを開発",
-      "link": "https://ascii.jp/elem/000/004/439/4439590/?rss",
-      "date": "2026-10-02T13:00:10+09:00",
-      "dateLabel": "10/02 13:00",
-      "desc": "NTTドコモビジネスとPowder Keg Technologies、AIを活用しOT環境の資産可視化から攻撃リスクの検証までを自動化するシステムを開発",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "DirectCloud、AI-OCR「DX OCR」連携オプションを提供開始",
-      "link": "https://ascii.jp/elem/000/004/439/4439619/?rss",
-      "date": "2026-10-02T13:00:00+09:00",
-      "dateLabel": "10/02 13:00",
-      "desc": "DirectCloud、AI-OCR「DX OCR」連携オプションを提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -281,6 +204,83 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
+    },
+    {
+      "title": "総額2.3兆円、千葉市に巨大な「AIデータセンター」建設へ 発電大手JERA参画の“ドリームチーム”、勝機どうつかむ？",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/01/news082.html",
+      "date": "2026-10-01T18:00:00+09:00",
+      "dateLabel": "10/01 18:00",
+      "desc": "JERA、Dell Technologies、RHAELMは、千葉市に日本最大の「AIデータセンター」を建設すると発表した。投資額は2.3兆円以上に上る。3社によるドリームチームは、勝機をどこに見いだしているのか。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "OpenAI、推論過程を狙った組織的な“蒸留”行為を阻止 「Kimi」開発元の関係者が関与と主張",
+      "link": "https://www.itmedia.co.jp/news/article/2610/01/2000001929/",
+      "date": "2026-10-01T15:06:55+09:00",
+      "dateLabel": "10/01 15:06",
+      "desc": "OpenAIは、モデルの推論過程を抜き出す組織的な“敵対的蒸留”を特定し、阻止したと発表した。活動の中核には中国Moonshot AIの関係者が関与したと分析。暗号化された推論を悪用する新たな手口に対し、アカウント停止や推論保護の強化を実施し、業界や政府機関との脅威情報共有を進めている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "「システムプロンプト陳腐化」をどう防ぐか AWSの試行錯誤に見る「自社AIエージェント」運用のポイント",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/01/news029.html",
+      "date": "2026-10-01T11:00:00+09:00",
+      "dateLabel": "10/01 11:00",
+      "desc": "AWSは、AIコーディングエージェント「Kiro」のシステムプロンプトを継続的に評価する仕組みを公開した。社内の実利用データをLLMに採点させ、システムプロンプト変更の効果を比較しているという。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "WindowsでLinuxコンテナの作成や実行を可能にする「WSL Containers」正式リリース。コマンドラインとAPIから利用可能",
+      "link": "https://www.publickey1.jp/blog/26/windowslinuxwsl_containersapi.html",
+      "date": "2026-09-30T11:43:18+09:00",
+      "dateLabel": "09/30 11:43",
+      "desc": "マイクロソフトはWSL（Windows Subsystem for Linux）の新機能として、WindowsでLinuxコンテナの作成や実行を可能にする「WSL Containers」の正式リリースを発表しました（発表ブログ、アーキテクチ...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "コーディングエージェントにGoogle Cloudの専門知識とツールを組み込む「Google Cloud Developer Plugin for AI Coding Agents」発表",
+      "link": "https://www.publickey1.jp/blog/26/google_cloudgoogle_cloud_developer_plugin_for_ai_coding_agents.html",
+      "date": "2026-09-30T00:44:15+09:00",
+      "dateLabel": "09/30 00:44",
+      "desc": "Google Cloudは、Claude CodeなどのコーディングエージェントにGoogle Cloudの専門知識とツールなどを組み込める「Google Cloud Developer Plugin for AI Coding Agent...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "マイクロソフト、企業内アプリの実行基盤「Copilot Managed Runtime」プレビュー公開。Microsoft 365と同じテナント内でコード実行、管理者による集中管理も",
+      "link": "https://www.publickey1.jp/blog/26/copilot_managed_runtimemicrosoft_365.html",
+      "date": "2026-09-28T00:59:50+09:00",
+      "dateLabel": "09/28 00:59",
+      "desc": "マイクロソフトは、AIコーディングエージェントのMicrosoft Copilotなどで開発した社内アプリケーションを実行するためのセキュアな基盤「Copilot Managed Runtime」をパブリックプレビューとして公開しました。 ...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 28
+    },
+    {
+      "title": "AIエージェントで資料作成を自動化！おすすめ10選と使い方を解説",
+      "link": "https://ainow.ai/2026/09/27/278389/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e8%25b3%2587%25e6%2596%2599%25e4%25bd%259c%25e6%2588%2590%25e3%2582%2592%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25ef%25bc%2581%25e3%2581%258a%25e3%2581%2599%25e3%2581%2599%25e3%2582%258110%25e9%2581%25b8",
+      "date": "2026-09-27T00:11:22+09:00",
+      "dateLabel": "09/27 00:11",
+      "desc": "提案書や会議資料づくりに毎週何時間も取られ、ChatGPTに構成を出させても結局スライド化は自分でやっている。本記事では、資料作成に使えるAIエージェント10選の比較と、資料の種類別プロンプト例を中心に、初稿をAIに任せ... The post AIエージェントで資料作成を自動化！おすすめ10選と使い方を解説 first appeared on AI専門ニュ",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 28
     }
   ]
 }
