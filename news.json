@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-03T10:33:20.890917+09:00",
-  "generatedLabel": "2026/10/03 10:33",
+  "generatedAt": "2026-10-03T16:17:02.952935+09:00",
+  "generatedLabel": "2026/10/03 16:17",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 55,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -85,15 +85,15 @@
       "score": 50
     },
     {
-      "title": "ChatGPTが服をバーチャル試着できる新機能を追加",
-      "link": "https://gigazine.net/news/20261002-chatgpt-virtually-try-on-clothing/",
-      "date": "2026-10-02T13:02:00+09:00",
-      "dateLabel": "10/02 13:02",
-      "desc": "現地時間の2026年10月1日、OpenAIがChatGPTの最新アップデートを発表しました。今回のアップデートで服をバーチャル試着できる新機能の「Try on(試着)」ボタンがChatGPTに追加されています。 続きを読む...",
+      "title": "Meta、AIエージェント「Muse」とつながる自作ガジェット向けSDKをオープンソースで公開 「Raspberry Pi」などに対応",
+      "link": "https://www.itmedia.co.jp/news/article/2610/03/2000001984/",
+      "date": "2026-10-03T10:41:21+09:00",
+      "dateLabel": "10/03 10:41",
+      "desc": "Metaは、パーソナルAI「Muse」と連携するガジェットを自作できるプロジェクト「Muse Gadgets」を発表した。ESP32やRaspberry Pi向けSDKをGitHubでオープンソース公開。自作機器や家電と連携させる専用デバイス「Muse Home Link」も米国の有料会員向けに無償提供する。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 50
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 42
     },
     {
       "title": "中国へのGPU密輸はなぜ続くのか、そしてなぜアメリカ政府は取り締まることができないのか？",
@@ -118,26 +118,37 @@
       "score": 42
     },
     {
-      "title": "「Gemini 4 Argon」とは 性能評価にみるAstra／Fable／Opusとの違い 一般提供は年内？",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001954/",
-      "date": "2026-10-02T12:17:21+09:00",
-      "dateLabel": "10/02 12:17",
-      "desc": "Googleが新AIモデル「Gemini 4 Argon」を発表。自社評価ではAstraやFable 5.1、Opus 5.5を多くの項目で上回るとうたう。当面はサイバー防御組織などに限定提供し、一般提供は「できるだけ早く」とする。",
+      "title": "ChatGPTが服をバーチャル試着できる新機能を追加",
+      "link": "https://gigazine.net/news/20261002-chatgpt-virtually-try-on-clothing/",
+      "date": "2026-10-02T13:02:00+09:00",
+      "dateLabel": "10/02 13:02",
+      "desc": "現地時間の2026年10月1日、OpenAIがChatGPTの最新アップデートを発表しました。今回のアップデートで服をバーチャル試着できる新機能の「Try on(試着)」ボタンがChatGPTに追加されています。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
+      "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 42
     },
     {
-      "title": "Microsoft、初のストリーミング文字起こしモデル「MAI-Transcribe-2-Streaming」公開 音声合成「MAI-Voice-2.1」と高速版も",
-      "link": "https://www.itmedia.co.jp/news/article/2610/02/2000001950/",
-      "date": "2026-10-02T10:47:09+09:00",
-      "dateLabel": "10/02 10:47",
-      "desc": "Microsoft AIは、ストリーミング文字起こしモデル「MAI-Transcribe-2-Streaming」と音声合成モデル群を発表した。低遅延な逐次認識や声のトーンを保った多言語合成に対応し、音声エージェント構築を想定する。Microsoft Foundryでプレビュー提供を始め、複合デモも公開した。",
+      "title": "AIで運用コストほぼ0円を実現？！なポイ活サービスリリース！既に約2000人が登録の理由",
+      "link": "https://ascii.jp/elem/000/004/439/4439792/?rss",
+      "date": "2026-10-03T12:00:00+09:00",
+      "dateLabel": "10/03 12:00",
+      "desc": "AIで運用コストほぼ0円を実現？！なポイ活サービスリリース！既に約2000人が登録の理由",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "AppleがAIエージェントのリスクを鑑みMacのフルディスクアクセスに制限を設ける",
+      "link": "https://gigazine.net/news/20261003-apple-limit-mac-full-disk-access-ai-agents-risk/",
+      "date": "2026-10-03T11:00:00+09:00",
+      "dateLabel": "10/03 11:00",
+      "desc": "現地時間の2026年10月2日、AppleはAIエージェントがもたらすリスクに対応するため、macOSにおけるフルディスクアクセスに新たな制限を導入すると発表しました。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
+      "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 42
+      "score": 34
     },
     {
       "title": "Apple、macOSの「フルディスクアクセス」に追加の制御を導入へ 「AIエージェントの進化でリスクが大幅に増大」",
@@ -162,6 +173,17 @@
       "score": 34
     },
     {
+      "title": "No.10 - 福岡発、Webサイトに「AIエージェント」を設置！",
+      "link": "https://ascii.jp/elem/000/004/439/4439787/?rss",
+      "date": "2026-10-03T03:48:09+09:00",
+      "dateLabel": "10/03 03:48",
+      "desc": "No.10 - 福岡発、Webサイトに「AIエージェント」を設置！",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
       "title": "ゲームを高解像度化するNVIDIAの「DLSS 5」をVulkanで再実装した「OpenDLSS-NR」、なんとオリジナルとビット単位で完全に一致",
       "link": "https://gigazine.net/news/20261002-opendlss-nr/",
       "date": "2026-10-02T20:00:00+09:00",
@@ -173,24 +195,24 @@
       "score": 34
     },
     {
-      "title": "【限定30名・オンライン】生成AIアニメ『花魁転生』の制作舞台裏を全公開。企画から完パケまで15工程を解説する有料セミナーを10月16日に開催",
-      "link": "https://ascii.jp/elem/000/004/439/4439779/?rss",
-      "date": "2026-10-02T19:07:44+09:00",
-      "dateLabel": "10/02 19:07",
-      "desc": "【限定30名・オンライン】生成AIアニメ『花魁転生』の制作舞台裏を全公開。企画から完パケまで15工程を解説する有料セミナーを10月16日に開催",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
+      "title": "「Gemini 4 Argon」とは 性能評価にみるAstra／Fable／Opusとの違い 一般提供は年内？",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001954/",
+      "date": "2026-10-02T12:17:21+09:00",
+      "dateLabel": "10/02 12:17",
+      "desc": "Googleが新AIモデル「Gemini 4 Argon」を発表。自社評価ではAstraやFable 5.1、Opus 5.5を多くの項目で上回るとうたう。当面はサイバー防御組織などに限定提供し、一般提供は「できるだけ早く」とする。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
-      "title": "Claude Codeを自分好みにカスタムできるMod機能が登場",
-      "link": "https://gigazine.net/news/20261002-claude-code-customize-mod/",
-      "date": "2026-10-02T12:19:00+09:00",
-      "dateLabel": "10/02 12:19",
-      "desc": "AIコーディングエージェントのClaude Codeに、動作やUIを自分好みにカスタムできるMod機能が追加されました。ModはTypeScriptで記述可能で、Claude Code自身にModの作成を依頼することもできます。 続きを読む...",
+      "title": "Microsoft、初のストリーミング文字起こしモデル「MAI-Transcribe-2-Streaming」公開 音声合成「MAI-Voice-2.1」と高速版も",
+      "link": "https://www.itmedia.co.jp/news/article/2610/02/2000001950/",
+      "date": "2026-10-02T10:47:09+09:00",
+      "dateLabel": "10/02 10:47",
+      "desc": "Microsoft AIは、ストリーミング文字起こしモデル「MAI-Transcribe-2-Streaming」と音声合成モデル群を発表した。低遅延な逐次認識や声のトーンを保った多言語合成に対応し、音声エージェント構築を想定する。Microsoft Foundryでプレビュー提供を始め、複合デモも公開した。",
       "img": "",
-      "src": "GIGAZINE",
+      "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 34
     },
@@ -258,28 +280,6 @@
       "img": "",
       "src": "Publickey",
       "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "コーディングエージェントにGoogle Cloudの専門知識とツールを組み込む「Google Cloud Developer Plugin for AI Coding Agents」発表",
-      "link": "https://www.publickey1.jp/blog/26/google_cloudgoogle_cloud_developer_plugin_for_ai_coding_agents.html",
-      "date": "2026-09-30T00:44:15+09:00",
-      "dateLabel": "09/30 00:44",
-      "desc": "Google Cloudは、Claude CodeなどのコーディングエージェントにGoogle Cloudの専門知識とツールなどを組み込める「Google Cloud Developer Plugin for AI Coding Agent...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 28
-    },
-    {
-      "title": "マイクロソフト、企業内アプリの実行基盤「Copilot Managed Runtime」プレビュー公開。Microsoft 365と同じテナント内でコード実行、管理者による集中管理も",
-      "link": "https://www.publickey1.jp/blog/26/copilot_managed_runtimemicrosoft_365.html",
-      "date": "2026-09-28T00:59:50+09:00",
-      "dateLabel": "09/28 00:59",
-      "desc": "マイクロソフトは、AIコーディングエージェントのMicrosoft Copilotなどで開発した社内アプリケーションを実行するためのセキュアな基盤「Copilot Managed Runtime」をパブリックプレビューとして公開しました。 ...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
       "score": 28
     }
   ]
