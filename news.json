@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-03T16:17:02.952935+09:00",
-  "generatedLabel": "2026/10/03 16:17",
+  "generatedAt": "2026-10-03T21:51:08.447163+09:00",
+  "generatedLabel": "2026/10/03 21:51",
   "feedOk": 6,
   "feedNg": 5,
   "candidates": 56,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 11
+      "items": 10
     },
     {
       "source": "CNET Japan",
@@ -74,17 +74,6 @@
       "score": 52
     },
     {
-      "title": "国産AI「LLM-jp-4」ベースのAIモデル、KDDI傘下のELYZAが無料公開",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001965/",
-      "date": "2026-10-02T20:04:32+09:00",
-      "dateLabel": "10/02 20:04",
-      "desc": "KDDIグループのAI開発企業ELYZAは、AIモデル「ELYZA-Thinking-1.0-llm-jp-4-33b」および「ELYZA-Thinking-1.0-llm-jp-4-32b-a3b」を発表した。国立情報学研究所が開発したオープンなAIモデル「LLM-jp-4」シリーズをベースに事後学習を実施し、性能を強化したという。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
       "title": "Meta、AIエージェント「Muse」とつながる自作ガジェット向けSDKをオープンソースで公開 「Raspberry Pi」などに対応",
       "link": "https://www.itmedia.co.jp/news/article/2610/03/2000001984/",
       "date": "2026-10-03T10:41:21+09:00",
@@ -107,11 +96,11 @@
       "score": 42
     },
     {
-      "title": "ChatGPTの“利用制限”リセットへ 有料ユーザー向け",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001961/",
-      "date": "2026-10-02T18:19:00+09:00",
-      "dateLabel": "10/02 18:19",
-      "desc": "米OpenAIのプロダクト責任者ティボー・ソティオ氏は、「ChatGPT」の全有料ユーザーを対象に、利用制限枠をリセットすると発表した。日本時間10月3日午前2時の実施を予定している。",
+      "title": "国産AI「LLM-jp-4」ベースのAIモデル、KDDI傘下のELYZAが無料公開",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001965/",
+      "date": "2026-10-02T20:04:32+09:00",
+      "dateLabel": "10/02 20:04",
+      "desc": "KDDIグループのAI開発企業ELYZAは、AIモデル「ELYZA-Thinking-1.0-llm-jp-4-33b」および「ELYZA-Thinking-1.0-llm-jp-4-32b-a3b」を発表した。国立情報学研究所が開発したオープンなAIモデル「LLM-jp-4」シリーズをベースに事後学習を実施し、性能を強化したという。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
@@ -127,6 +116,17 @@
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 42
+    },
+    {
+      "title": "Amazon、データセンター批判に反論 10億ドル超の地域支援策も発表",
+      "link": "https://www.itmedia.co.jp/news/article/2610/03/2000001985/",
+      "date": "2026-10-03T17:52:00+09:00",
+      "dateLabel": "10/03 17:52",
+      "desc": "AWSのマット・ガーマンCEOは、データセンター建設批判に反論する声明を出した。水資源枯渇などの懸念を「迷信”と否定しつつ、電力料金負担や自治体とのNDA撤廃を含む行動指針を発表。さらに地域支援として、資格取得や省エネ改修などを助成する10億ドル超の基金を立ち上げる。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 34
     },
     {
       "title": "AIで運用コストほぼ0円を実現？！なポイ活サービスリリース！既に約2000人が登録の理由",
@@ -162,36 +162,14 @@
       "score": 34
     },
     {
-      "title": "大画面で仕事がはかどる、実用性重視の16型ビジネスノート「ThinkPad E16 Gen 3」が50％オフ",
-      "link": "https://ascii.jp/elem/000/004/439/4439757/?rss",
-      "date": "2026-10-03T09:00:00+09:00",
-      "dateLabel": "10/03 09:00",
-      "desc": "レノボの「ThinkPad E16 Gen 3 ILL」が10月15日まで50％オフセール中。Copilot+ PCに対応した16型ビジネスノートPCで、優れた耐久性と16:10の大画面を備える。",
-      "img": "https://ascii.jp/img/2026/10/02/4533360/s/ac741b69133c70c9.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "No.10 - 福岡発、Webサイトに「AIエージェント」を設置！",
-      "link": "https://ascii.jp/elem/000/004/439/4439787/?rss",
-      "date": "2026-10-03T03:48:09+09:00",
-      "dateLabel": "10/03 03:48",
-      "desc": "No.10 - 福岡発、Webサイトに「AIエージェント」を設置！",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "ゲームを高解像度化するNVIDIAの「DLSS 5」をVulkanで再実装した「OpenDLSS-NR」、なんとオリジナルとビット単位で完全に一致",
-      "link": "https://gigazine.net/news/20261002-opendlss-nr/",
-      "date": "2026-10-02T20:00:00+09:00",
-      "dateLabel": "10/02 20:00",
-      "desc": "NVIDIAが発表したAIによるアップスケーリング技術「DLSS 5」を「Vulkan」で再実装するプロジェクト「OpenDLSS-NR」が登場しました。 続きを読む...",
+      "title": "ChatGPTの“利用制限”リセットへ 有料ユーザー向け",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001961/",
+      "date": "2026-10-02T18:19:00+09:00",
+      "dateLabel": "10/02 18:19",
+      "desc": "米OpenAIのプロダクト責任者ティボー・ソティオ氏は、「ChatGPT」の全有料ユーザーを対象に、利用制限枠をリセットすると発表した。日本時間10月3日午前2時の実施を予定している。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -280,6 +258,28 @@
       "img": "",
       "src": "Publickey",
       "cat": "AI全般",
+      "score": 28
+    },
+    {
+      "title": "コーディングエージェントにGoogle Cloudの専門知識とツールを組み込む「Google Cloud Developer Plugin for AI Coding Agents」発表",
+      "link": "https://www.publickey1.jp/blog/26/google_cloudgoogle_cloud_developer_plugin_for_ai_coding_agents.html",
+      "date": "2026-09-30T00:44:15+09:00",
+      "dateLabel": "09/30 00:44",
+      "desc": "Google Cloudは、Claude CodeなどのコーディングエージェントにGoogle Cloudの専門知識とツールなどを組み込める「Google Cloud Developer Plugin for AI Coding Agent...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 28
+    },
+    {
+      "title": "マイクロソフト、企業内アプリの実行基盤「Copilot Managed Runtime」プレビュー公開。Microsoft 365と同じテナント内でコード実行、管理者による集中管理も",
+      "link": "https://www.publickey1.jp/blog/26/copilot_managed_runtimemicrosoft_365.html",
+      "date": "2026-09-28T00:59:50+09:00",
+      "dateLabel": "09/28 00:59",
+      "desc": "マイクロソフトは、AIコーディングエージェントのMicrosoft Copilotなどで開発した社内アプリケーションを実行するためのセキュアな基盤「Copilot Managed Runtime」をパブリックプレビューとして公開しました。 ...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
       "score": 28
     }
   ]
