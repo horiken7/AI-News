@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-03T21:51:08.447163+09:00",
-  "generatedLabel": "2026/10/03 21:51",
+  "generatedAt": "2026-10-04T01:52:09.249202+09:00",
+  "generatedLabel": "2026/10/04 01:52",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 56,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -85,17 +85,6 @@
       "score": 42
     },
     {
-      "title": "中国へのGPU密輸はなぜ続くのか、そしてなぜアメリカ政府は取り締まることができないのか？",
-      "link": "https://gigazine.net/news/20261002-gpu-black-market-in-china/",
-      "date": "2026-10-02T22:00:00+09:00",
-      "dateLabel": "10/02 22:00",
-      "desc": "アメリカが先端AI半導体の対中輸出を制限する一方、第三国の企業や物流網を通じて中国へ不正に送る事件が相次いでいます。アメリカ当局の摘発では、購入者や最終用途を偽り、大量のGPUやサーバーを調達する手口が明らかになりました。AIの軍事利用を抑えるための規制を、複雑な国際取引の中でどう徹底するかが課題になっています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
       "title": "国産AI「LLM-jp-4」ベースのAIモデル、KDDI傘下のELYZAが無料公開",
       "link": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001965/",
       "date": "2026-10-02T20:04:32+09:00",
@@ -159,6 +148,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "中国へのGPU密輸はなぜ続くのか、そしてなぜアメリカ政府は取り締まることができないのか？",
+      "link": "https://gigazine.net/news/20261002-gpu-black-market-in-china/",
+      "date": "2026-10-02T22:00:00+09:00",
+      "dateLabel": "10/02 22:00",
+      "desc": "アメリカが先端AI半導体の対中輸出を制限する一方、第三国の企業や物流網を通じて中国へ不正に送る事件が相次いでいます。アメリカ当局の摘発では、購入者や最終用途を偽り、大量のGPUやサーバーを調達する手口が明らかになりました。AIの軍事利用を抑えるための規制を、複雑な国際取引の中でどう徹底するかが課題になっています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
