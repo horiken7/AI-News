@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-05T03:27:41.202111+09:00",
-  "generatedLabel": "2026/10/05 03:27",
+  "generatedAt": "2026-10-05T07:05:43.126906+09:00",
+  "generatedLabel": "2026/10/05 07:05",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 54,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 9
     },
     {
       "source": "CNET Japan",
@@ -261,6 +261,17 @@
       "score": 28
     },
     {
+      "title": "無料ツールとAIでMV制作が激変 After Effectsまで自動操作できた",
+      "link": "https://ascii.jp/elem/000/004/439/4439845/?rss",
+      "date": "2026-10-05T07:00:00+09:00",
+      "dateLabel": "10/05 07:00",
+      "desc": "歌詞演出ツール「JIZURA 字面」をAIやAfter Effectsと組み合わせてMV制作を実践。Opus 5.5とGPT-6 Astraを同条件で比較し、映像理解やタイミング、演出の違いを検証しながら、AIによる映像制作の可能性を探る。",
+      "img": "https://ascii.jp/img/2026/10/05/4534023/s/a4e2f229367c3168.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
       "title": "世界中のソフトウェア開発者の実態を調べた「State of Devs 2026」公開。何歳？ 年収は？ モニタは何枚？ AIにどのくらいコードを書かせている？ 趣味は？ など集計結果",
       "link": "https://www.publickey1.jp/blog/26/state_of_devs_2026_ai.html",
       "date": "2026-10-05T00:59:31+09:00",
@@ -268,17 +279,6 @@
       "desc": "IT関連の各種調査を行っているプロジェクトDevographicsは、世界中のソフトウェア開発者の実態などをアンケートで調査した「State of Devs 2026」の結果を公開しました。 ここでは全体の結果から興味深いところをいくつか抜...",
       "img": "",
       "src": "Publickey",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "【2026秋アニメ】『目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい』に『どうも、好きな人に惚れ薬を依頼された魔女です。』",
-      "link": "https://ascii.jp/elem/000/004/439/4439839/?rss",
-      "date": "2026-10-04T20:30:00+09:00",
-      "dateLabel": "10/04 20:30",
-      "desc": "秋アニメ特集第5回も話題作が続々。『目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい』『どうも、好きな人に惚れ薬を依頼された魔女です。』『TANK CHAIR-戦車椅子-』『ふんばるず』『タヌキとキツネ』の5作品を紹介。",
-      "img": "https://ascii.jp/img/2026/10/04/4533912/s/ccc50db9bbdbe34a.jpg",
-      "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     }
