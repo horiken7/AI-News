@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-04T11:14:18.294947+09:00",
-  "generatedLabel": "2026/10/04 11:14",
+  "generatedAt": "2026-10-04T17:58:05.467945+09:00",
+  "generatedLabel": "2026/10/04 17:58",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 53,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 9
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -96,6 +96,17 @@
       "score": 42
     },
     {
+      "title": "AI時代の開発職は、何を担うのか ― 利用者理解から開発・採用・育成を見直す実践資料を無料公開",
+      "link": "https://ascii.jp/elem/000/004/439/4439836/?rss",
+      "date": "2026-10-04T15:22:04+09:00",
+      "dateLabel": "10/04 15:22",
+      "desc": "AI時代の開発職は、何を担うのか ― 利用者理解から開発・採用・育成を見直す実践資料を無料公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "OpenAIの安全担当従業員が辞職、「会社の文化が崩壊している」と主張",
       "link": "https://gigazine.net/news/20261004-openai-safety-employee-resigns-culture-broken/",
       "date": "2026-10-04T11:00:00+09:00",
@@ -115,17 +126,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "Amazon、データセンター批判に反論 10億ドル超の地域支援策も発表",
-      "link": "https://www.itmedia.co.jp/news/article/2610/03/2000001985/",
-      "date": "2026-10-03T17:52:00+09:00",
-      "dateLabel": "10/03 17:52",
-      "desc": "AWSのマット・ガーマンCEOは、データセンター建設批判に反論する声明を出した。水資源枯渇などの懸念を「迷信”と否定しつつ、電力料金負担や自治体とのNDA撤廃を含む行動指針を発表。さらに地域支援として、資格取得や省エネ改修などを助成する10億ドル超の基金を立ち上げる。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -225,17 +225,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "「システムプロンプト陳腐化」をどう防ぐか AWSの試行錯誤に見る「自社AIエージェント」運用のポイント",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/01/news029.html",
-      "date": "2026-10-01T11:00:00+09:00",
-      "dateLabel": "10/01 11:00",
-      "desc": "AWSは、AIコーディングエージェント「Kiro」のシステムプロンプトを継続的に評価する仕組みを公開した。社内の実利用データをLLMに採点させ、システムプロンプト変更の効果を比較しているという。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 28
     },
     {
@@ -272,14 +261,25 @@
       "score": 28
     },
     {
-      "title": "画面フリップ型モバイルノートPC「VAIO T」実機レビュー＝キーボード・タッチパッドもVAIOクオリティー",
-      "link": "https://ascii.jp/elem/000/004/439/4439697/?rss",
-      "date": "2026-10-04T00:01:00+09:00",
-      "dateLabel": "10/04 00:01",
-      "desc": "画面フリップで変形する「VAIO T」の実機レビューです。",
-      "img": "https://ascii.jp/img/2026/10/02/4533181/s/d9095660e590a418.jpg",
+      "title": "鳴潮をガチでやるならこのタブレットだろ！ 最強CPUに有機EL、水冷装備の究極タブレットで実際に遊んでみた",
+      "link": "https://ascii.jp/elem/000/004/437/4437474/?rss",
+      "date": "2026-10-04T17:00:00+09:00",
+      "dateLabel": "10/04 17:00",
+      "desc": "「REDMAGIC Astra 2」は、鳴潮など重いゲームに最適な9.06型ゲーミングタブレットです。最上位CPU「Snapdragon 8 Elite Gen 5」と水冷システムを搭載し、発熱による処理落ちを防止。約14万円からと高価ですが、363gの軽さやType-C端子2つ搭載など、ガチ勢垂涎の仕上がりです。",
+      "img": "https://ascii.jp/img/2026/09/26/4530538/s/28374964112378cb.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "名刺ケースがボタン1つで自動展開！わずか0.2秒で圧倒的なインパクトと共に名刺を出せる「機動文具 自動変形名刺ケース」レビュー",
+      "link": "https://gigazine.net/news/20261004-mobile-stationery-business-card-case/",
+      "date": "2026-10-04T16:00:00+09:00",
+      "dateLabel": "10/04 16:00",
+      "desc": "大手玩具メーカー「バンダイ」のBANDAI SPIRITSが新シリーズ「機動文具(MOBILE STATIONERY)」を発表。その第1弾として「機動文具 自動変形名刺ケース」が2026年10月17日(土)に登場します。バンダイが「超合金」などで培ってきた究極の合金玩具製造技術を惜しみなくつぎ込んで、遊び心と機能性を融合した名刺入れになっているとのこと。実物",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI実装",
       "score": 26
     }
   ]
