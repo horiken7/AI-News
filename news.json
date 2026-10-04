@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-04T23:36:45.676850+09:00",
-  "generatedLabel": "2026/10/04 23:36",
+  "generatedAt": "2026-10-05T03:27:41.202111+09:00",
+  "generatedLabel": "2026/10/05 03:27",
   "feedOk": 6,
   "feedNg": 5,
   "candidates": 54,
@@ -261,17 +261,6 @@
       "score": 28
     },
     {
-      "title": "マイクロソフト、企業内アプリの実行基盤「Copilot Managed Runtime」プレビュー公開。Microsoft 365と同じテナント内でコード実行、管理者による集中管理も",
-      "link": "https://www.publickey1.jp/blog/26/copilot_managed_runtimemicrosoft_365.html",
-      "date": "2026-09-28T00:59:50+09:00",
-      "dateLabel": "09/28 00:59",
-      "desc": "マイクロソフトは、AIコーディングエージェントのMicrosoft Copilotなどで開発した社内アプリケーションを実行するためのセキュアな基盤「Copilot Managed Runtime」をパブリックプレビューとして公開しました。 ...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 28
-    },
-    {
       "title": "世界中のソフトウェア開発者の実態を調べた「State of Devs 2026」公開。何歳？ 年収は？ モニタは何枚？ AIにどのくらいコードを書かせている？ 趣味は？ など集計結果",
       "link": "https://www.publickey1.jp/blog/26/state_of_devs_2026_ai.html",
       "date": "2026-10-05T00:59:31+09:00",
@@ -279,6 +268,17 @@
       "desc": "IT関連の各種調査を行っているプロジェクトDevographicsは、世界中のソフトウェア開発者の実態などをアンケートで調査した「State of Devs 2026」の結果を公開しました。 ここでは全体の結果から興味深いところをいくつか抜...",
       "img": "",
       "src": "Publickey",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "【2026秋アニメ】『目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい』に『どうも、好きな人に惚れ薬を依頼された魔女です。』",
+      "link": "https://ascii.jp/elem/000/004/439/4439839/?rss",
+      "date": "2026-10-04T20:30:00+09:00",
+      "dateLabel": "10/04 20:30",
+      "desc": "秋アニメ特集第5回も話題作が続々。『目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい』『どうも、好きな人に惚れ薬を依頼された魔女です。』『TANK CHAIR-戦車椅子-』『ふんばるず』『タヌキとキツネ』の5作品を紹介。",
+      "img": "https://ascii.jp/img/2026/10/04/4533912/s/ccc50db9bbdbe34a.jpg",
+      "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     }
