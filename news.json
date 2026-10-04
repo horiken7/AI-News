@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-04T07:32:20.441124+09:00",
-  "generatedLabel": "2026/10/04 07:32",
+  "generatedAt": "2026-10-04T11:14:18.294947+09:00",
+  "generatedLabel": "2026/10/04 11:14",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 57,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 9
     },
     {
       "source": "CNET Japan",
@@ -74,17 +74,6 @@
       "score": 52
     },
     {
-      "title": "Meta、AIエージェント「Muse」とつながる自作ガジェット向けSDKをオープンソースで公開 「Raspberry Pi」などに対応",
-      "link": "https://www.itmedia.co.jp/news/article/2610/03/2000001984/",
-      "date": "2026-10-03T10:41:21+09:00",
-      "dateLabel": "10/03 10:41",
-      "desc": "Metaは、パーソナルAI「Muse」と連携するガジェットを自作できるプロジェクト「Muse Gadgets」を発表した。ESP32やRaspberry Pi向けSDKをGitHubでオープンソース公開。自作機器や家電と連携させる専用デバイス「Muse Home Link」も米国の有料会員向けに無償提供する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "国産AI「LLM-jp-4」ベースのAIモデル、KDDI傘下のELYZAが無料公開",
       "link": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001965/",
       "date": "2026-10-02T20:04:32+09:00",
@@ -107,6 +96,28 @@
       "score": 42
     },
     {
+      "title": "OpenAIの安全担当従業員が辞職、「会社の文化が崩壊している」と主張",
+      "link": "https://gigazine.net/news/20261004-openai-safety-employee-resigns-culture-broken/",
+      "date": "2026-10-04T11:00:00+09:00",
+      "dateLabel": "10/04 11:00",
+      "desc": "OpenAIで主要製品の安全性報告書の作成を主導してきたデイビッド・ロビンソン氏が、同社の「企業文化は壊れている」と批判し、辞職したことが明らかになりました。ロビンソン氏はAIの安全性を確保するにはAI企業の組織文化を根本的に変える必要があると主張しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 34
+    },
+    {
+      "title": "「OpenAIの文化は壊れている」──安全性報告書を統括した従業員が退社し、寄稿",
+      "link": "https://www.itmedia.co.jp/news/article/2610/04/2000001986/",
+      "date": "2026-10-04T08:05:47+09:00",
+      "dateLabel": "10/04 08:05",
+      "desc": "OpenAIで安全性報告の執筆を統括したデビッド・ロビンソン氏が退社し、企業文化の崩壊を訴える記事を寄稿した。現行の反復開発手法は失敗を前提としており、能力向上に伴いリスクが拡大すると指摘。原子力や航空分野の安全知見の導入や、未監視下の安全性を担保する新たな科学の確立を求めた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
+      "score": 34
+    },
+    {
       "title": "Amazon、データセンター批判に反論 10億ドル超の地域支援策も発表",
       "link": "https://www.itmedia.co.jp/news/article/2610/03/2000001985/",
       "date": "2026-10-03T17:52:00+09:00",
@@ -118,33 +129,11 @@
       "score": 34
     },
     {
-      "title": "AIで運用コストほぼ0円を実現？！なポイ活サービスリリース！既に約2000人が登録の理由",
-      "link": "https://ascii.jp/elem/000/004/439/4439792/?rss",
-      "date": "2026-10-03T12:00:00+09:00",
-      "dateLabel": "10/03 12:00",
-      "desc": "AIで運用コストほぼ0円を実現？！なポイ活サービスリリース！既に約2000人が登録の理由",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "AppleがAIエージェントのリスクを鑑みMacのフルディスクアクセスに制限を設ける",
-      "link": "https://gigazine.net/news/20261003-apple-limit-mac-full-disk-access-ai-agents-risk/",
-      "date": "2026-10-03T11:00:00+09:00",
-      "dateLabel": "10/03 11:00",
-      "desc": "現地時間の2026年10月2日、AppleはAIエージェントがもたらすリスクに対応するため、macOSにおけるフルディスクアクセスに新たな制限を導入すると発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Apple、macOSの「フルディスクアクセス」に追加の制御を導入へ 「AIエージェントの進化でリスクが大幅に増大」",
-      "link": "https://www.itmedia.co.jp/news/article/2610/03/2000001983/",
-      "date": "2026-10-03T09:38:06+09:00",
-      "dateLabel": "10/03 09:38",
-      "desc": "Appleは、macOSの「フルディスクアクセス」権限の付与手順を厳格化する方針を発表した。AIエージェントの自律化に伴うデータ流出リスクを抑えるため、明示的な操作や追加制御を導入する。背景にはMetaのAIエージェント「Muse」を巡るメッセージデータ監視の議論などがある。",
+      "title": "Meta、AIエージェント「Muse」とつながる自作ガジェット向けSDKをオープンソースで公開 「Raspberry Pi」などに対応",
+      "link": "https://www.itmedia.co.jp/news/article/2610/03/2000001984/",
+      "date": "2026-10-03T10:41:21+09:00",
+      "dateLabel": "10/03 10:41",
+      "desc": "Metaは、パーソナルAI「Muse」と連携するガジェットを自作できるプロジェクト「Muse Gadgets」を発表した。ESP32やRaspberry Pi向けSDKをGitHubでオープンソース公開。自作機器や家電と連携させる専用デバイス「Muse Home Link」も米国の有料会員向けに無償提供する。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
@@ -247,7 +236,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 34
+      "score": 28
     },
     {
       "title": "WindowsでLinuxコンテナの作成や実行を可能にする「WSL Containers」正式リリース。コマンドラインとAPIから利用可能",
@@ -281,6 +270,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 28
+    },
+    {
+      "title": "画面フリップ型モバイルノートPC「VAIO T」実機レビュー＝キーボード・タッチパッドもVAIOクオリティー",
+      "link": "https://ascii.jp/elem/000/004/439/4439697/?rss",
+      "date": "2026-10-04T00:01:00+09:00",
+      "dateLabel": "10/04 00:01",
+      "desc": "画面フリップで変形する「VAIO T」の実機レビューです。",
+      "img": "https://ascii.jp/img/2026/10/02/4533181/s/d9095660e590a418.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     }
   ]
 }
