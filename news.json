@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-05T16:54:44.404995+09:00",
-  "generatedLabel": "2026/10/05 16:54",
+  "generatedAt": "2026-10-06T01:35:40.472576+09:00",
+  "generatedLabel": "2026/10/06 01:35",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 60,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 9
+      "items": 2
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -71,18 +71,7 @@
       "img": "",
       "src": "Publickey",
       "cat": "AIエージェント/業務",
-      "score": 52
-    },
-    {
-      "title": "Stella AI、OpenAI社の最新AIモデル「GPT-6.1 Sol」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/440/4440054/?rss",
-      "date": "2026-10-05T14:09:56+09:00",
-      "dateLabel": "10/05 14:09",
-      "desc": "Stella AI、OpenAI社の最新AIモデル「GPT-6.1 Sol」を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 42
+      "score": 48
     },
     {
       "title": "DeepSeek製コーディングエージェント「DeepSeek Harness」のデスクトップ版が登場",
@@ -96,17 +85,6 @@
       "score": 42
     },
     {
-      "title": "Supabase、1サーバあたり数百万ものSQLiteをホストする「Turso」買収を発表。AIエージェントで加速するDB需要に対応",
-      "link": "https://www.publickey1.jp/blog/26/supabase1sqlitetursoaidb.html",
-      "date": "2026-10-05T00:56:27+09:00",
-      "dateLabel": "10/05 00:56",
-      "desc": "PostgreSQLをベースにしたデータベースサービス「Supabase」などを提供しているSupabaseは、SQLiteをベースとしたデータベースサービスを提供する「Turso」を買収したことを発表しました。 Turso is join...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "国産AI「LLM-jp-4」ベースのAIモデル、KDDI傘下のELYZAが無料公開",
       "link": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001965/",
       "date": "2026-10-02T20:04:32+09:00",
@@ -115,28 +93,39 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 42
+      "score": 36
     },
     {
-      "title": "AI時代の新しい知的創造モデルを提案。「出版で思想を語る」108冊出版構想と、実践体系『象游トータルセッションパック（愛称：虎に翼）』を発表",
-      "link": "https://ascii.jp/elem/000/004/440/4440050/?rss",
-      "date": "2026-10-05T14:58:18+09:00",
-      "dateLabel": "10/05 14:58",
-      "desc": "AI時代の新しい知的創造モデルを提案。「出版で思想を語る」108冊出版構想と、実践体系『象游トータルセッションパック（愛称：虎に翼）』を発表",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "Cloudflare ContainersがAIエージェント向けに刷新。起動が6倍速、ファイルシステムのスナップショット機能など",
+      "link": "https://www.publickey1.jp/blog/26/cloudflare_containersai6.html",
+      "date": "2026-10-06T00:29:53+09:00",
+      "dateLabel": "10/06 00:29",
+      "desc": "Cloudflareは、同社のエッジロケーションでコンテナ型仮想マシンを実行可能にする「Cloudflare Containers」をAIエージェント向けに刷新したことを発表しました。 これまでよりも起動速度が6倍となり、環境構築が容易にな...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
-      "title": "行政向け生成AI「QommonsAI」、J-LISフェア2026でエージェント版と行政専用AIアプリストア「Qommons ONE」を披露 - 自治体の定型業務を、職員の承認の基でAIが最後まで進める",
-      "link": "https://ascii.jp/elem/000/004/440/4440051/?rss",
-      "date": "2026-10-05T14:50:32+09:00",
-      "dateLabel": "10/05 14:50",
-      "desc": "行政向け生成AI「QommonsAI」、J-LISフェア2026でエージェント版と行政専用AIアプリストア「Qommons ONE」を披露 - 自治体の定型業務を、職員の承認の基でAIが最後まで進める",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
+      "title": "125Bの「Qwen3.8-Flash-Next」の量子化版をゲーミングPCで高速ローカル実行可能にするAI実行アプリ「Strata」",
+      "link": "https://gigazine.net/news/20261005-strata-local-ai/",
+      "date": "2026-10-05T21:08:00+09:00",
+      "dateLabel": "10/05 21:08",
+      "desc": "最先端AIモデルがオープンモデルとして公開される例が増えていますが、最先端モデルは規模が大きすぎてローカルで実行するにはデータセンター級のAI実行インフラが必要となります。「Strata」は1250億パラメーターのQwen3.8-Flash-Nextの量子化版を比較的入手しやすいハイエンドゲーミングPCで実行可能にするアプリです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "Googleが黒塗りで報告したデータセンターの水使用量と最大電力容量がコピペによって明らかに",
+      "link": "https://gigazine.net/news/20261005-google-data-center-usage/",
+      "date": "2026-10-05T20:00:00+09:00",
+      "dateLabel": "10/05 20:00",
+      "desc": "Googleがアメリカ・ネブラスカ州リンカーンで2026年に稼働を開始したデータセンターについて、ネブラスカ州水・エネルギー・環境局(DWEE)に年次報告書を提出しました。データセンターがどれだけの電力と水を使用しているかは一部の州法に基づいて企業秘密にできると主張してGoogleは当該部分の数値を黒塗りで「非公開」としましたが、黒塗り部分をコピーして別の文",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -148,28 +137,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "犬・猫の鳴き声は、AIでどう「翻訳」される？PettiChat、Makuake公開10時間で100万円突破",
-      "link": "https://ascii.jp/elem/000/004/440/4440075/?rss",
-      "date": "2026-10-05T13:40:00+09:00",
-      "dateLabel": "10/05 13:40",
-      "desc": "犬・猫の鳴き声は、AIでどう「翻訳」される？PettiChat、Makuake公開10時間で100万円突破",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "supa, inc.、AI駆動開発プラットフォーム「supateam v2.0」を正式リリース",
-      "link": "https://ascii.jp/elem/000/004/440/4440058/?rss",
-      "date": "2026-10-05T13:38:18+09:00",
-      "dateLabel": "10/05 13:38",
-      "desc": "supa, inc.、AI駆動開発プラットフォーム「supateam v2.0」を正式リリース",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -195,6 +162,17 @@
       "score": 34
     },
     {
+      "title": "Supabase、1サーバあたり数百万ものSQLiteをホストする「Turso」買収を発表。AIエージェントで加速するDB需要に対応",
+      "link": "https://www.publickey1.jp/blog/26/supabase1sqlitetursoaidb.html",
+      "date": "2026-10-05T00:56:27+09:00",
+      "dateLabel": "10/05 00:56",
+      "desc": "PostgreSQLをベースにしたデータベースサービス「Supabase」などを提供しているSupabaseは、SQLiteをベースとしたデータベースサービスを提供する「Turso」を買収したことを発表しました。 Turso is join...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
       "title": "Meta、AIエージェント「Muse」とつながる自作ガジェット向けSDKをオープンソースで公開 「Raspberry Pi」などに対応",
       "link": "https://www.itmedia.co.jp/news/article/2610/03/2000001984/",
       "date": "2026-10-03T10:41:21+09:00",
@@ -214,7 +192,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
+      "score": 28
     },
     {
       "title": "「Gemini 4 Argon」とは 性能評価にみるAstra／Fable／Opusとの違い 一般提供は年内？",
@@ -261,25 +239,47 @@
       "score": 28
     },
     {
-      "title": "マスク氏、SpaceX再改称 SIがいいねと君が言ったから",
-      "link": "https://ascii.jp/elem/000/004/440/4440045/?rss",
-      "date": "2026-10-05T15:40:00+09:00",
-      "dateLabel": "10/05 15:40",
-      "desc": "SpaceXのイーロン・マスクCEOは10月4日、同社のブランドの1つ「SpaceXAI」を「SpaceXSI」に改称する考えを明らかにした。",
-      "img": "https://ascii.jp/img/2026/10/05/4534368/s/35382482ece3d080.png",
+      "title": "15万円台でタブレットにもなる10型ミニノートPC＝「TENKU Note Pro AI」実機レビュー",
+      "link": "https://ascii.jp/limit/group/ida/elem/000/004/439/4439844/?rss",
+      "date": "2026-10-06T00:01:00+09:00",
+      "dateLabel": "10/06 00:01",
+      "desc": "360度ディスプレー回転型の2in1 PCで、タッチとペン操作ができるミニノートを使ってみました",
+      "img": "https://ascii.jp/img/2026/10/05/4533988/s/8ee86a01b7371952.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "8.8型なのに中身はハイエンド！ Snapdragon 8 Elite Gen 5搭載「Legion Tab」が15万9500円",
-      "link": "https://ascii.jp/elem/000/004/439/4439705/?rss",
-      "date": "2026-10-05T15:00:00+09:00",
-      "dateLabel": "10/05 15:00",
-      "desc": "AmazonにてLenovoの8.8型タブレット「Legion Tab（ZAH20128JP）」が159,500円で販売中。Snapdragon 8 Elite Gen 5を搭載し、12GBメモリーと256GBストレージを備える。約360gのボディーに9000mAhバッテリーを搭載し、バッテリー駆動時間は約23時間。持ち運びやすさと長時間駆動を両立した1台だ",
-      "img": "https://ascii.jp/img/2026/10/02/4533214/s/07642702f9d0243d.jpg",
+      "title": "VAIO本体が最大3万5000円引き！ 秋セール開始、14型「VAIO F14」は16万2500円",
+      "link": "https://ascii.jp/elem/000/004/439/4439656/?rss",
+      "date": "2026-10-05T18:30:00+09:00",
+      "dateLabel": "10/05 18:30",
+      "desc": "VAIOストアでは、「オータムキャンペーン2026」を開催中。対象のVAIO PCカスタマイズモデルを本体最大35,000円引きで販売するほか、Core 7選択時は10,000円、Core 5選択時は5,000円引きとなる。新規会員登録でもらえる最大25,000円値引きクーポンも併用可能。期間は11月17日9時59分まで。",
+      "img": "https://ascii.jp/img/2026/10/02/4533123/s/4d3782032d5a003f.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "韓国の銀行6行にサイバー攻撃 計2万5000人超の個人情報流出──AIエージェントを使った可能性も 現地報道",
+      "link": "https://www.itmedia.co.jp/news/article/2610/05/2000002009/",
+      "date": "2026-10-05T18:21:19+09:00",
+      "dateLabel": "10/05 18:21",
+      "desc": "韓国の銀行で9月末からサイバー攻撃が相次ぎ、新韓銀行など4行で計2万5000人超の個人情報が流出したと現地紙が報じた。攻撃を受けた銀行のうち2行は、AIエージェントによる攻撃と推定しているという。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "なぜ今？ 東芝が「HDD」生産能力を強化 AI時代に狙う「データインフラ需要」の在りか",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/05/news068.html",
+      "date": "2026-10-05T16:45:00+09:00",
+      "dateLabel": "10/05 16:45",
+      "desc": "東芝グループでHDDの製造を担う東芝デバイス＆ストレージが、大容量ストレージ「ニアラインHDD」の生産ラインを増強したと発表した。AI時代になぜHDDなのか。同社が狙う需要とは。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI実装",
       "score": 26
     }
   ]
