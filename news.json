@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-05T10:23:48.066393+09:00",
-  "generatedLabel": "2026/10/05 10:23",
-  "feedOk": 7,
-  "feedNg": 4,
-  "candidates": 57,
+  "generatedAt": "2026-10-05T16:54:44.404995+09:00",
+  "generatedLabel": "2026/10/05 16:54",
+  "feedOk": 6,
+  "feedNg": 5,
+  "candidates": 60,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,7 +13,7 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 19
+      "items": 18
     },
     {
       "source": "ASCII.jp",
@@ -28,12 +28,12 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 9
+      "items": 13
     },
     {
       "source": "CNET Japan",
-      "ok": true,
-      "items": 0
+      "ok": false,
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "source": "ZDNET Japan",
@@ -74,6 +74,28 @@
       "score": 52
     },
     {
+      "title": "Stella AI、OpenAI社の最新AIモデル「GPT-6.1 Sol」を提供開始",
+      "link": "https://ascii.jp/elem/000/004/440/4440054/?rss",
+      "date": "2026-10-05T14:09:56+09:00",
+      "dateLabel": "10/05 14:09",
+      "desc": "Stella AI、OpenAI社の最新AIモデル「GPT-6.1 Sol」を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "DeepSeek製コーディングエージェント「DeepSeek Harness」のデスクトップ版が登場",
+      "link": "https://gigazine.net/news/20261005-deepseek-harness/",
+      "date": "2026-10-05T11:58:00+09:00",
+      "dateLabel": "10/05 11:58",
+      "desc": "中国のAI企業であるDeepSeekがAIコーディングエージェント「DeepSeek Harness」のバージョン0.2を2026年10月1日にリリースしました。WindowsとmacOS向けのデスクトップアプリも登場しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "Supabase、1サーバあたり数百万ものSQLiteをホストする「Turso」買収を発表。AIエージェントで加速するDB需要に対応",
       "link": "https://www.publickey1.jp/blog/26/supabase1sqlitetursoaidb.html",
       "date": "2026-10-05T00:56:27+09:00",
@@ -96,36 +118,80 @@
       "score": 42
     },
     {
-      "title": "ChatGPTが服をバーチャル試着できる新機能を追加",
-      "link": "https://gigazine.net/news/20261002-chatgpt-virtually-try-on-clothing/",
-      "date": "2026-10-02T13:02:00+09:00",
-      "dateLabel": "10/02 13:02",
-      "desc": "現地時間の2026年10月1日、OpenAIがChatGPTの最新アップデートを発表しました。今回のアップデートで服をバーチャル試着できる新機能の「Try on(試着)」ボタンがChatGPTに追加されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "英文IR支援のHowland、英文開示向けマネージドAI翻訳「HAVERA」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/439/4439862/?rss",
-      "date": "2026-10-05T08:00:00+09:00",
-      "dateLabel": "10/05 08:00",
-      "desc": "英文IR支援のHowland、英文開示向けマネージドAI翻訳「HAVERA」を提供開始",
+      "title": "AI時代の新しい知的創造モデルを提案。「出版で思想を語る」108冊出版構想と、実践体系『象游トータルセッションパック（愛称：虎に翼）』を発表",
+      "link": "https://ascii.jp/elem/000/004/440/4440050/?rss",
+      "date": "2026-10-05T14:58:18+09:00",
+      "dateLabel": "10/05 14:58",
+      "desc": "AI時代の新しい知的創造モデルを提案。「出版で思想を語る」108冊出版構想と、実践体系『象游トータルセッションパック（愛称：虎に翼）』を発表",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
     },
     {
-      "title": "OpenAIの安全担当従業員が辞職、「会社の文化が崩壊している」と主張",
-      "link": "https://gigazine.net/news/20261004-openai-safety-employee-resigns-culture-broken/",
-      "date": "2026-10-04T11:00:00+09:00",
-      "dateLabel": "10/04 11:00",
-      "desc": "OpenAIで主要製品の安全性報告書の作成を主導してきたデイビッド・ロビンソン氏が、同社の「企業文化は壊れている」と批判し、辞職したことが明らかになりました。ロビンソン氏はAIの安全性を確保するにはAI企業の組織文化を根本的に変える必要があると主張しています。 続きを読む...",
+      "title": "行政向け生成AI「QommonsAI」、J-LISフェア2026でエージェント版と行政専用AIアプリストア「Qommons ONE」を披露 - 自治体の定型業務を、職員の承認の基でAIが最後まで進める",
+      "link": "https://ascii.jp/elem/000/004/440/4440051/?rss",
+      "date": "2026-10-05T14:50:32+09:00",
+      "dateLabel": "10/05 14:50",
+      "desc": "行政向け生成AI「QommonsAI」、J-LISフェア2026でエージェント版と行政専用AIアプリストア「Qommons ONE」を披露 - 自治体の定型業務を、職員の承認の基でAIが最後まで進める",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "OpenAIのサム・アルトマンCEOが「AIの恩恵に預かるために多少の悪いことは受け入れるべき」との見解を示す",
+      "link": "https://gigazine.net/news/20261005-sam-altman-talk-to-decoded/",
+      "date": "2026-10-05T14:30:00+09:00",
+      "dateLabel": "10/05 14:30",
+      "desc": "ChatGPTなどの開発元として知られるOpenAIのサム・アルトマンCEOが、ニュースサイト・POLITICOの展開するニュースレター＆ポッドキャストサービス・Decoded by POLITICOによるインタビューの中で、AIのもたらす恩恵のことを考えると、一定のリスクは受け入れるべきであるという見解を示しました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "規制/安全",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "犬・猫の鳴き声は、AIでどう「翻訳」される？PettiChat、Makuake公開10時間で100万円突破",
+      "link": "https://ascii.jp/elem/000/004/440/4440075/?rss",
+      "date": "2026-10-05T13:40:00+09:00",
+      "dateLabel": "10/05 13:40",
+      "desc": "犬・猫の鳴き声は、AIでどう「翻訳」される？PettiChat、Makuake公開10時間で100万円突破",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "supa, inc.、AI駆動開発プラットフォーム「supateam v2.0」を正式リリース",
+      "link": "https://ascii.jp/elem/000/004/440/4440058/?rss",
+      "date": "2026-10-05T13:38:18+09:00",
+      "dateLabel": "10/05 13:38",
+      "desc": "supa, inc.、AI駆動開発プラットフォーム「supateam v2.0」を正式リリース",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "MetaのAI「Muse」は家族・友人・同僚ごとの「人物ページ」を作成して人間関係まで記録する設計、セキュリティ研究者がシステムプロンプトを抽出",
+      "link": "https://gigazine.net/news/20261005-meta-muse-create-profile/",
+      "date": "2026-10-05T13:01:00+09:00",
+      "dateLabel": "10/05 13:01",
+      "desc": "Metaが2026年9月に発表したパーソナルAIエージェント「Muse」の内部指示やシステムプロンプトをセキュリティ研究者が抽出し、Museがユーザーの家族や友人、同僚などについて人物ごとのページを作成するよう設計されていることが分かりました。人物ページには基本的な事実だけでなく、過去の出来事や親密さ、今後関係を深めるためのヒントなども記録する仕組みになって",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "CAE解析をAIエージェントに任せてみた 人は何を担うのか",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/05/news010.html",
+      "date": "2026-10-05T12:30:00+09:00",
+      "dateLabel": "10/05 12:30",
+      "desc": "MONOistに掲載した主要な記事を、読みやすいPDF形式の電子ブックレットに再編集した「エンジニア電子ブックレット」。今回は、サイバネットシステム主催の「CAEユニバーシティ 特別公開フォーラム 2026」で行われた、AIエージェントに任せることと人に残る役割をテーマとした講演の内容をまとめたブックレットをお送りします。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -137,17 +203,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "中国へのGPU密輸はなぜ続くのか、そしてなぜアメリカ政府は取り締まることができないのか？",
-      "link": "https://gigazine.net/news/20261002-gpu-black-market-in-china/",
-      "date": "2026-10-02T22:00:00+09:00",
-      "dateLabel": "10/02 22:00",
-      "desc": "アメリカが先端AI半導体の対中輸出を制限する一方、第三国の企業や物流網を通じて中国へ不正に送る事件が相次いでいます。アメリカ当局の摘発では、購入者や最終用途を偽り、大量のGPUやサーバーを調達する手口が明らかになりました。AIの軍事利用を抑えるための規制を、複雑な国際取引の中でどう徹底するかが課題になっています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -170,7 +225,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
+      "score": 28
     },
     {
       "title": "Microsoft、初のストリーミング文字起こしモデル「MAI-Transcribe-2-Streaming」公開 音声合成「MAI-Voice-2.1」と高速版も",
@@ -181,50 +236,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "「DMに逃げる理由は秘密保持ではない」 人とAIエージェントの“最強チーム”を作るベストプラクティス",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/02/news009.html",
-      "date": "2026-10-02T08:00:00+09:00",
-      "dateLabel": "10/02 08:00",
-      "desc": "Anthropicは、人間とAIエージェントによる効果的なチームを構築するためのベストプラクティスをまとめたブログ記事を公開した。Slack社の最高製品責任者（CPO）へのインタビューに基づいている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 28
-    },
-    {
-      "title": "ChatGPTにAIでバーチャル試着機能とカメラでの書類スキャン→PDF化機能",
-      "link": "https://www.itmedia.co.jp/news/article/2610/02/2000001945/",
-      "date": "2026-10-02T07:17:12+09:00",
-      "dateLabel": "10/02 07:17",
-      "desc": "OpenAIは、ChatGPTにバーチャル試着やお気に入り保存などの新機能を追加した。商品情報カードから自身の写真を使って服やアクセサリーを着用した姿を生成できる。気になった商品の整理機能も備える。また、iOSアプリに、連続撮影した書類を自動で1つのPDFにまとめて送信できるスキャン機能も導入した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 28
-    },
-    {
-      "title": "総額2.3兆円、千葉市に巨大な「AIデータセンター」建設へ 発電大手JERA参画の“ドリームチーム”、勝機どうつかむ？",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/01/news082.html",
-      "date": "2026-10-01T18:00:00+09:00",
-      "dateLabel": "10/01 18:00",
-      "desc": "JERA、Dell Technologies、RHAELMは、千葉市に日本最大の「AIデータセンター」を建設すると発表した。投資額は2.3兆円以上に上る。3社によるドリームチームは、勝機をどこに見いだしているのか。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 28
-    },
-    {
-      "title": "OpenAI、推論過程を狙った組織的な“蒸留”行為を阻止 「Kimi」開発元の関係者が関与と主張",
-      "link": "https://www.itmedia.co.jp/news/article/2610/01/2000001929/",
-      "date": "2026-10-01T15:06:55+09:00",
-      "dateLabel": "10/01 15:06",
-      "desc": "OpenAIは、モデルの推論過程を抜き出す組織的な“敵対的蒸留”を特定し、阻止したと発表した。活動の中核には中国Moonshot AIの関係者が関与したと分析。暗号化された推論を悪用する新たな手口に対し、アカウント停止や推論保護の強化を実施し、業界や政府機関との脅威情報共有を進めている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
       "score": 28
     },
     {
@@ -250,34 +261,23 @@
       "score": 28
     },
     {
-      "title": "高市首相、アップルに異例の要請 生成AIに“自殺防止”機能求める",
-      "link": "https://ascii.jp/elem/000/004/439/4439860/?rss",
-      "date": "2026-10-05T10:00:00+09:00",
-      "dateLabel": "10/05 10:00",
-      "desc": "高市早苗首相は10月2日、自身のXアカウントで米アップル社のティム・クック前CEOから手紙を受け取ったと明らかにした。",
-      "img": "https://ascii.jp/img/2026/10/05/4534081/s/41d6ce1c2d3f8287.png",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
-      "title": "相次ぐ不正アクセス、AIが原因？ 専門家に聞く",
-      "link": "https://ascii.jp/elem/000/004/439/4439846/?rss",
-      "date": "2026-10-05T10:00:00+09:00",
-      "dateLabel": "10/05 10:00",
-      "desc": "タイムズカー、京王電鉄など、大企業を狙ったサイバー攻撃が相次いでいる。ソフトウェアの脆弱性を示すCVEも急増している。背景にはAIの進歩があるのだろうか。専門家に聞いた。",
-      "img": "https://ascii.jp/img/2026/10/05/4534033/s/c7bf393671d813d9.png",
+      "title": "マスク氏、SpaceX再改称 SIがいいねと君が言ったから",
+      "link": "https://ascii.jp/elem/000/004/440/4440045/?rss",
+      "date": "2026-10-05T15:40:00+09:00",
+      "dateLabel": "10/05 15:40",
+      "desc": "SpaceXのイーロン・マスクCEOは10月4日、同社のブランドの1つ「SpaceXAI」を「SpaceXSI」に改称する考えを明らかにした。",
+      "img": "https://ascii.jp/img/2026/10/05/4534368/s/35382482ece3d080.png",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "ASRock、4K/240HzとQHD/500Hzの27型OLEDモニター「Taichi」2機種を10月30日に国内発売",
-      "link": "https://ascii.jp/elem/000/004/439/4439849/?rss",
-      "date": "2026-10-05T08:00:00+09:00",
-      "dateLabel": "10/05 08:00",
-      "desc": "ASRockが、27型QD-OLED採用のフラッグシップモニター「Taichi」シリーズ2機種を10月30日に国内発売する。4K/240HzのTCO27USAとQHD/500HzのTCO27QXAを用意し、価格や保証内容、接続端子、購入方法を整理して紹介する。",
-      "img": "https://ascii.jp/img/2026/10/05/4534042/s/b0e81f10e1cb18df.png",
+      "title": "8.8型なのに中身はハイエンド！ Snapdragon 8 Elite Gen 5搭載「Legion Tab」が15万9500円",
+      "link": "https://ascii.jp/elem/000/004/439/4439705/?rss",
+      "date": "2026-10-05T15:00:00+09:00",
+      "dateLabel": "10/05 15:00",
+      "desc": "AmazonにてLenovoの8.8型タブレット「Legion Tab（ZAH20128JP）」が159,500円で販売中。Snapdragon 8 Elite Gen 5を搭載し、12GBメモリーと256GBストレージを備える。約360gのボディーに9000mAhバッテリーを搭載し、バッテリー駆動時間は約23時間。持ち運びやすさと長時間駆動を両立した1台だ",
+      "img": "https://ascii.jp/img/2026/10/02/4533214/s/07642702f9d0243d.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
