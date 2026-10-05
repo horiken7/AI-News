@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-05T07:05:43.126906+09:00",
-  "generatedLabel": "2026/10/05 07:05",
-  "feedOk": 6,
-  "feedNg": 5,
-  "candidates": 53,
+  "generatedAt": "2026-10-05T10:23:48.066393+09:00",
+  "generatedLabel": "2026/10/05 10:23",
+  "feedOk": 7,
+  "feedNg": 4,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 20
+      "items": 19
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 9
     },
     {
       "source": "PC Watch",
@@ -32,8 +32,8 @@
     },
     {
       "source": "CNET Japan",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "items": 0
     },
     {
       "source": "ZDNET Japan",
@@ -107,11 +107,11 @@
       "score": 42
     },
     {
-      "title": "AI時代の開発職は、何を担うのか ― 利用者理解から開発・採用・育成を見直す実践資料を無料公開",
-      "link": "https://ascii.jp/elem/000/004/439/4439836/?rss",
-      "date": "2026-10-04T15:22:04+09:00",
-      "dateLabel": "10/04 15:22",
-      "desc": "AI時代の開発職は、何を担うのか ― 利用者理解から開発・採用・育成を見直す実践資料を無料公開",
+      "title": "英文IR支援のHowland、英文開示向けマネージドAI翻訳「HAVERA」を提供開始",
+      "link": "https://ascii.jp/elem/000/004/439/4439862/?rss",
+      "date": "2026-10-05T08:00:00+09:00",
+      "dateLabel": "10/05 08:00",
+      "desc": "英文IR支援のHowland、英文開示向けマネージドAI翻訳「HAVERA」を提供開始",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
@@ -125,17 +125,6 @@
       "desc": "OpenAIで主要製品の安全性報告書の作成を主導してきたデイビッド・ロビンソン氏が、同社の「企業文化は壊れている」と批判し、辞職したことが明らかになりました。ロビンソン氏はAIの安全性を確保するにはAI企業の組織文化を根本的に変える必要があると主張しています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "「OpenAIの文化は壊れている」──安全性報告書を統括した従業員が退社し、寄稿",
-      "link": "https://www.itmedia.co.jp/news/article/2610/04/2000001986/",
-      "date": "2026-10-04T08:05:47+09:00",
-      "dateLabel": "10/04 08:05",
-      "desc": "OpenAIで安全性報告の執筆を統括したデビッド・ロビンソン氏が退社し、企業文化の崩壊を訴える記事を寄稿した。現行の反復開発手法は失敗を前提としており、能力向上に伴いリスクが拡大すると指摘。原子力や航空分野の安全知見の導入や、未監視下の安全性を担保する新たな科学の確立を求めた。",
-      "img": "",
-      "src": "ITmedia AI+",
       "cat": "規制/安全",
       "score": 34
     },
@@ -203,7 +192,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 34
+      "score": 28
     },
     {
       "title": "ChatGPTにAIでバーチャル試着機能とカメラでの書類スキャン→PDF化機能",
@@ -214,7 +203,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
+      "score": 28
     },
     {
       "title": "総額2.3兆円、千葉市に巨大な「AIデータセンター」建設へ 発電大手JERA参画の“ドリームチーム”、勝機どうつかむ？",
@@ -261,24 +250,35 @@
       "score": 28
     },
     {
-      "title": "無料ツールとAIでMV制作が激変 After Effectsまで自動操作できた",
-      "link": "https://ascii.jp/elem/000/004/439/4439845/?rss",
-      "date": "2026-10-05T07:00:00+09:00",
-      "dateLabel": "10/05 07:00",
-      "desc": "歌詞演出ツール「JIZURA 字面」をAIやAfter Effectsと組み合わせてMV制作を実践。Opus 5.5とGPT-6 Astraを同条件で比較し、映像理解やタイミング、演出の違いを検証しながら、AIによる映像制作の可能性を探る。",
-      "img": "https://ascii.jp/img/2026/10/05/4534023/s/a4e2f229367c3168.png",
+      "title": "高市首相、アップルに異例の要請 生成AIに“自殺防止”機能求める",
+      "link": "https://ascii.jp/elem/000/004/439/4439860/?rss",
+      "date": "2026-10-05T10:00:00+09:00",
+      "dateLabel": "10/05 10:00",
+      "desc": "高市早苗首相は10月2日、自身のXアカウントで米アップル社のティム・クック前CEOから手紙を受け取ったと明らかにした。",
+      "img": "https://ascii.jp/img/2026/10/05/4534081/s/41d6ce1c2d3f8287.png",
       "src": "ASCII.jp",
-      "cat": "LLM/モデル",
+      "cat": "生成AI/マルチモーダル",
       "score": 26
     },
     {
-      "title": "世界中のソフトウェア開発者の実態を調べた「State of Devs 2026」公開。何歳？ 年収は？ モニタは何枚？ AIにどのくらいコードを書かせている？ 趣味は？ など集計結果",
-      "link": "https://www.publickey1.jp/blog/26/state_of_devs_2026_ai.html",
-      "date": "2026-10-05T00:59:31+09:00",
-      "dateLabel": "10/05 00:59",
-      "desc": "IT関連の各種調査を行っているプロジェクトDevographicsは、世界中のソフトウェア開発者の実態などをアンケートで調査した「State of Devs 2026」の結果を公開しました。 ここでは全体の結果から興味深いところをいくつか抜...",
-      "img": "",
-      "src": "Publickey",
+      "title": "相次ぐ不正アクセス、AIが原因？ 専門家に聞く",
+      "link": "https://ascii.jp/elem/000/004/439/4439846/?rss",
+      "date": "2026-10-05T10:00:00+09:00",
+      "dateLabel": "10/05 10:00",
+      "desc": "タイムズカー、京王電鉄など、大企業を狙ったサイバー攻撃が相次いでいる。ソフトウェアの脆弱性を示すCVEも急増している。背景にはAIの進歩があるのだろうか。専門家に聞いた。",
+      "img": "https://ascii.jp/img/2026/10/05/4534033/s/c7bf393671d813d9.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "ASRock、4K/240HzとQHD/500Hzの27型OLEDモニター「Taichi」2機種を10月30日に国内発売",
+      "link": "https://ascii.jp/elem/000/004/439/4439849/?rss",
+      "date": "2026-10-05T08:00:00+09:00",
+      "dateLabel": "10/05 08:00",
+      "desc": "ASRockが、27型QD-OLED採用のフラッグシップモニター「Taichi」シリーズ2機種を10月30日に国内発売する。4K/240HzのTCO27USAとQHD/500HzのTCO27QXAを用意し、価格や保証内容、接続端子、購入方法を整理して紹介する。",
+      "img": "https://ascii.jp/img/2026/10/05/4534042/s/b0e81f10e1cb18df.png",
+      "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     }
