@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-06T07:59:44.109863+09:00",
-  "generatedLabel": "2026/10/06 07:59",
+  "generatedAt": "2026-10-06T11:44:23.072024+09:00",
+  "generatedLabel": "2026/10/06 11:44",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 57,
+  "candidates": 61,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 16
+      "items": 17
     },
     {
       "source": "CNET Japan",
@@ -74,37 +74,48 @@
       "score": 48
     },
     {
-      "title": "直感頼みのLLMに 「第37手」は打てるか？ AlphaGo開発者の提言",
-      "link": "https://ascii.jp/elem/000/004/440/4440150/?rss",
-      "date": "2026-10-06T05:51:17+09:00",
-      "dateLabel": "10/06 05:51",
-      "desc": "AlphaGo（アルファ碁）の「第37手」は機械の直感の産物と語られがちだが、実際には先の展開を比較検討する探索から生まれた。次のトークンを予測し続ける今日のLLMは、こうした推論を備えていない。医療や科学のようにリスクの高い分野では、AIがどう結論に至ったかまで検証できなければならない。AlphaGoチームの中核メンバーだった筆者は、そのためにこそ真の推論",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "DeepSeek製コーディングエージェント「DeepSeek Harness」のデスクトップ版が登場",
-      "link": "https://gigazine.net/news/20261005-deepseek-harness/",
-      "date": "2026-10-05T11:58:00+09:00",
-      "dateLabel": "10/05 11:58",
-      "desc": "中国のAI企業であるDeepSeekがAIコーディングエージェント「DeepSeek Harness」のバージョン0.2を2026年10月1日にリリースしました。WindowsとmacOS向けのデスクトップアプリも登場しています。 続きを読む...",
+      "title": "OpenAIがChatGPTのテキストに透かしを入れる取り組みを開始",
+      "link": "https://gigazine.net/news/20261006-openai-start-watermarking-chatgpt-text-eu/",
+      "date": "2026-10-06T10:54:00+09:00",
+      "dateLabel": "10/06 10:54",
+      "desc": "大手AI企業のOpenAIが、EUのAI法を順守するためにChatGPTやCodexによって生成されたテキストに、目に見えない透かしを追加すると発表しました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
+      "cat": "LLM/モデル",
       "score": 42
     },
     {
-      "title": "国産AI「LLM-jp-4」ベースのAIモデル、KDDI傘下のELYZAが無料公開",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001965/",
-      "date": "2026-10-02T20:04:32+09:00",
-      "dateLabel": "10/02 20:04",
-      "desc": "KDDIグループのAI開発企業ELYZAは、AIモデル「ELYZA-Thinking-1.0-llm-jp-4-33b」および「ELYZA-Thinking-1.0-llm-jp-4-32b-a3b」を発表した。国立情報学研究所が開発したオープンなAIモデル「LLM-jp-4」シリーズをベースに事後学習を実施し、性能を強化したという。",
+      "title": "Claudeを日記として使用した女性がAnthropicに内容を通報されて逮捕される",
+      "link": "https://gigazine.net/news/20261006-woman-arrested-claude-diary/",
+      "date": "2026-10-06T11:40:00+09:00",
+      "dateLabel": "10/06 11:40",
+      "desc": "アメリカ・フロリダ州で、AnthropicのAI「Claude」を日記のように使っていた女性が「保安官事務所を銃撃する」と書き込んで逮捕されたと報じられています。書き込みはAnthropicの安全システムが検出し、人間の担当者による確認を経て、警察に通報されました。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
+      "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 36
+      "score": 34
+    },
+    {
+      "title": "61％の組織が職場の心理的安全性を「高い」と認識する一方で、60%の組織が職場の心理的安全性に課題を抱えていることが調査結果から明らかに｜株式会社LDcube",
+      "link": "https://ascii.jp/elem/000/004/440/4440169/?rss",
+      "date": "2026-10-06T10:00:00+09:00",
+      "dateLabel": "10/06 10:00",
+      "desc": "61％の組織が職場の心理的安全性を「高い」と認識する一方で、60%の組織が職場の心理的安全性に課題を抱えていることが調査結果から明らかに｜株式会社LDcube",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "規制/安全",
+      "score": 34
+    },
+    {
+      "title": "TCPに代わる通信プロトコル「Homa」をスタンフォード大学名誉教授が提唱、AI時代は1ミリ秒の遅延でもGPUが待たされる",
+      "link": "https://gigazine.net/news/20261006-homa-protocol-replace-tcp/",
+      "date": "2026-10-06T08:05:00+09:00",
+      "dateLabel": "10/06 08:05",
+      "desc": "ウェブやクラウドを支える通信プロトコル「TCP」はAI向けデータセンターの通信には適していないとして、スタンフォード大学のジョン・オースターハウト名誉教授がトランスポートプロトコル「Homa」への移行を訴えています。Homaは短いメッセージを優先的に処理することで通信遅延を抑える仕組みを備えており、既存のTCPと並行して導入できるとのことです。 続きを読む.",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
     },
     {
       "title": "無料で国のミッションクリティカル作業のために構築された主権AIモデル「Kolibri」、公共行政・産業・航空宇宙などの規制分野での使用が前提でオープンソースなだけでなく構築過程も透明化",
@@ -195,39 +206,6 @@
       "score": 34
     },
     {
-      "title": "Meta、AIエージェント「Muse」とつながる自作ガジェット向けSDKをオープンソースで公開 「Raspberry Pi」などに対応",
-      "link": "https://www.itmedia.co.jp/news/article/2610/03/2000001984/",
-      "date": "2026-10-03T10:41:21+09:00",
-      "dateLabel": "10/03 10:41",
-      "desc": "Metaは、パーソナルAI「Muse」と連携するガジェットを自作できるプロジェクト「Muse Gadgets」を発表した。ESP32やRaspberry Pi向けSDKをGitHubでオープンソース公開。自作機器や家電と連携させる専用デバイス「Muse Home Link」も米国の有料会員向けに無償提供する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "ChatGPTの“利用制限”リセットへ 有料ユーザー向け",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001961/",
-      "date": "2026-10-02T18:19:00+09:00",
-      "dateLabel": "10/02 18:19",
-      "desc": "米OpenAIのプロダクト責任者ティボー・ソティオ氏は、「ChatGPT」の全有料ユーザーを対象に、利用制限枠をリセットすると発表した。日本時間10月3日午前2時の実施を予定している。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 28
-    },
-    {
-      "title": "「Gemini 4 Argon」とは 性能評価にみるAstra／Fable／Opusとの違い 一般提供は年内？",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001954/",
-      "date": "2026-10-02T12:17:21+09:00",
-      "dateLabel": "10/02 12:17",
-      "desc": "Googleが新AIモデル「Gemini 4 Argon」を発表。自社評価ではAstraやFable 5.1、Opus 5.5を多くの項目で上回るとうたう。当面はサイバー防御組織などに限定提供し、一般提供は「できるだけ早く」とする。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 28
-    },
-    {
       "title": "WindowsでLinuxコンテナの作成や実行を可能にする「WSL Containers」正式リリース。コマンドラインとAPIから利用可能",
       "link": "https://www.publickey1.jp/blog/26/windowslinuxwsl_containersapi.html",
       "date": "2026-09-30T11:43:18+09:00",
@@ -250,36 +228,58 @@
       "score": 28
     },
     {
-      "title": "ミリ波レーダーで状態変化を検知する家庭向け見守りセンサー",
-      "link": "https://ascii.jp/elem/000/004/439/4439727/?rss",
-      "date": "2026-10-06T07:00:00+09:00",
-      "dateLabel": "10/06 07:00",
-      "desc": "ミリ波レーダー技術を活用した見守りシステムの開発を手がけるLinkware株式会社は9月29日、家庭向けAIセンサー「MiraWatch Home」の先行販売を応援購入サービス「Makuake」で開始した。",
-      "img": "https://ascii.jp/img/2026/10/02/4533283/s/ce5f85c7396edc98.jpg",
+      "title": "AI利用のうち32％で安いモデルを使ったときの方が総コストが高くなったことが判明",
+      "link": "https://gigazine.net/news/20261006-ai-cheaper-model-more-cost/",
+      "date": "2026-10-06T11:36:00+09:00",
+      "dateLabel": "10/06 11:36",
+      "desc": "AIを有料で提供している企業は、高性能なモデルを高い価格で、低性能なモデルを安い価格で提供しています。お得にAIを使いたいなら安い方を使う方が正しいように思えますが、タスクによっては、高い方を使う方が結果的に安くつくことがあるようです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "Teams会議で決まった“宿題（To Do）”をAIで抽出、タスクに自動登録するフローを作ろう",
+      "link": "https://ascii.jp/elem/000/004/439/4439813/?rss",
+      "date": "2026-10-06T11:00:00+09:00",
+      "dateLabel": "10/06 11:00",
+      "desc": "今回は、AI Builderを使ってTeams会議のトランスクリプトから“次回までにやるべき宿題（To Do）”を抽出し、それをMicrosoft Plannerのタスクに自動登録するフローを作ってみましょう。前回（第65回）作成したフローを少し修正するだけで作れます。",
+      "img": "https://ascii.jp/img/2026/10/05/4534596/s/7bac90c8da61e28e.png",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "15万円台でタブレットにもなる10型ミニノートPC＝「TENKU Note Pro AI」実機レビュー",
-      "link": "https://ascii.jp/limit/group/ida/elem/000/004/439/4439844/?rss",
-      "date": "2026-10-06T00:01:00+09:00",
-      "dateLabel": "10/06 00:01",
-      "desc": "360度ディスプレー回転型の2in1 PCで、タッチとペン操作ができるミニノートを使ってみました",
-      "img": "https://ascii.jp/img/2026/10/05/4533988/s/8ee86a01b7371952.jpg",
-      "src": "ASCII.jp",
+      "title": "不正アクセスなぜ急増 原因はAIか、それとも…… 専門家の見解は",
+      "link": "https://www.itmedia.co.jp/news/article/2610/06/2000002013/",
+      "date": "2026-10-06T10:00:00+09:00",
+      "dateLabel": "10/06 10:00",
+      "desc": "9月末以降、不正アクセスやそれに伴う情報漏えいの発表が日本企業から相次いでいる。その原因は……専門家に見解を聞いた。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "韓国の銀行6行にサイバー攻撃 計2万5000人超の個人情報流出──AIエージェントを使った可能性も 現地報道",
-      "link": "https://www.itmedia.co.jp/news/article/2610/05/2000002009/",
-      "date": "2026-10-05T18:21:19+09:00",
-      "dateLabel": "10/05 18:21",
-      "desc": "韓国の銀行で9月末からサイバー攻撃が相次ぎ、新韓銀行など4行で計2万5000人超の個人情報が流出したと現地紙が報じた。攻撃を受けた銀行のうち2行は、AIエージェントによる攻撃と推定しているという。",
+      "title": "サロゲートAIの予測を金型設計に活用、国産3D CAD／CAM／CAEの最新版",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/06/news005.html",
+      "date": "2026-10-06T09:00:00+09:00",
+      "dateLabel": "10/06 09:00",
+      "desc": "UELは、国産3D CAD／CAM／CAEシステム「CADmeister 2026」の販売を開始した。サロゲートAIの予測結果をCADデータに反映する連携機能を追加。CAM自動化や3D検図、類似形状検索も強化し、金型の設計／製作における業務効率化と設計品質の向上を支援する。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "天然アルカリイオン水「温泉水99」を展開するエスオーシー、マーケティングAI Agent「AIMSTAR」を採用し、定期購入の引き上げ率11.2%UP、クロスセル売上前年比230％を達成",
+      "link": "https://ascii.jp/elem/000/004/440/4440182/?rss",
+      "date": "2026-10-06T09:00:00+09:00",
+      "dateLabel": "10/06 09:00",
+      "desc": "天然アルカリイオン水「温泉水99」を展開するエスオーシー、マーケティングAI Agent「AIMSTAR」を採用し、定期購入の引き上げ率11.2%UP、クロスセル売上前年比230％を達成",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 26
     }
   ]
