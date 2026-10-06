@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-06T11:44:23.072024+09:00",
-  "generatedLabel": "2026/10/06 11:44",
+  "generatedAt": "2026-10-06T18:35:47.730158+09:00",
+  "generatedLabel": "2026/10/06 18:35",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 61,
+  "candidates": 64,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 17
+      "items": 20
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "わずか5LでRTX PRO Blackwellに対応！ ASRock「DeskSlim」が狙う省スペースAI環境",
+      "link": "https://ascii.jp/elem/000/004/440/4440513/?rss",
+      "date": "2026-10-06T17:30:00+09:00",
+      "dateLabel": "10/06 17:30",
+      "desc": "ASRockが10月6日に発表した小型デスクトッププラットフォーム「DeskSlim X600」「DeskSlim B760」は、5L筐体でNVIDIA RTX PRO Blackwell世代GPUに対応し、AI推論や3D制作に向く省スペースワークステーションだ。",
+      "img": "https://ascii.jp/img/2026/10/06/4535144/s/ccb76e73a8f7fcad.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 58
+    },
+    {
       "title": "AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開。特定のLLMに依存せず入れ替え可能、任意のコンテナ環境にデプロイ",
       "link": "https://www.publickey1.jp/blog/26/awsaistrandsllm.html",
       "date": "2026-09-29T00:01:25+09:00",
@@ -72,6 +83,28 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 48
+    },
+    {
+      "title": "Makuake公開初日で応援購入総額540万円を突破！家族4人で使える大型エアベッド「coody AIR BLOCK COREOスーパーキング」登場",
+      "link": "https://ascii.jp/elem/000/004/440/4440518/?rss",
+      "date": "2026-10-06T17:30:00+09:00",
+      "dateLabel": "10/06 17:30",
+      "desc": "Makuake公開初日で応援購入総額540万円を突破！家族4人で使える大型エアベッド「coody AIR BLOCK COREOスーパーキング」登場",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 42
+    },
+    {
+      "title": "Claude Coworkの「ローカル実行」オプションが廃止 モデル推論、VM共にクラウド実行へ",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/06/2000002045/",
+      "date": "2026-10-06T15:49:55+09:00",
+      "dateLabel": "10/06 15:49",
+      "desc": "「Claude」のエージェント機能「Cowork」のタスクが、10月6日以降クラウドで実行されるようになり、ユーザーのPCで動作させる設定「このコンピュータのみ」オプションが削除される。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 42
     },
     {
       "title": "OpenAIがChatGPTのテキストに透かしを入れる取り組みを開始",
@@ -85,6 +118,50 @@
       "score": 42
     },
     {
+      "title": "東芝がAIデータセンター向けHDDの生産能力を2027年度までに倍増させる計画発表でライバル企業のWestern DigitalとSeagateの株価が急落、東芝はさらに65TBと100TBも準備",
+      "link": "https://gigazine.net/news/20261006-toshiba-hdd-double/",
+      "date": "2026-10-06T14:03:00+09:00",
+      "dateLabel": "10/06 14:03",
+      "desc": "「東芝がAIデータセンター向けHDDの生産能力を2027年度中に2025年基準から倍増させる予定」と報じられました。これにより、ライバルのWestern DigitalとSeagateの株価が10％以上急落しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "中国への高度な半導体製造装置の輸出を認めるとAI分野での優位性が失われると研究機関が警告",
+      "link": "https://gigazine.net/news/20261006-duv-immersion-lithography-china/",
+      "date": "2026-10-06T13:45:00+09:00",
+      "dateLabel": "10/06 13:45",
+      "desc": "アメリカのAI・半導体政策研究機関であるテクノロジー＆ステートクラフトセンターが、AIチップの製造に不可欠である高度な半導体露光装置の中国への輸出を認めた場合、今後5年から10年でアメリカの優位性が失われることになるという報告書を公開しています。また、すでに一部の高度な露光装置が「抜け穴」を使って輸出されていることから対策を提言しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "ChatGPTで2026年10月後半から「画像付き広告」のテスト開始、まずはユーザーが画像を生成している間に広告表示",
+      "link": "https://gigazine.net/news/20261006-chatgpt-visual-ads/",
+      "date": "2026-10-06T12:15:00+09:00",
+      "dateLabel": "10/06 12:15",
+      "desc": "OpenAIが、ChatGPTに画像付きの広告を表示することを予告しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "中国のオープンソースAIに対抗するためReflectionがパラメーター数5010億のオープンモデル「Beam」を発表、GLM 5.2に匹敵し使用する計算量は3～4分の1でAIエージェントタスクではQwen3.8-Maxに匹敵すると主張",
+      "link": "https://gigazine.net/news/20261006-beam-reflection-501b-open-weight-model/",
+      "date": "2026-10-06T12:06:00+09:00",
+      "dateLabel": "10/06 12:06",
+      "desc": "アメリカに拠点を置くAIスタートアップのReflectionが、パラメーター数5010億・アクティブパラメーター数230億のオープンモデル「Beam」を発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
       "title": "Claudeを日記として使用した女性がAnthropicに内容を通報されて逮捕される",
       "link": "https://gigazine.net/news/20261006-woman-arrested-claude-diary/",
       "date": "2026-10-06T11:40:00+09:00",
@@ -93,17 +170,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "61％の組織が職場の心理的安全性を「高い」と認識する一方で、60%の組織が職場の心理的安全性に課題を抱えていることが調査結果から明らかに｜株式会社LDcube",
-      "link": "https://ascii.jp/elem/000/004/440/4440169/?rss",
-      "date": "2026-10-06T10:00:00+09:00",
-      "dateLabel": "10/06 10:00",
-      "desc": "61％の組織が職場の心理的安全性を「高い」と認識する一方で、60%の組織が職場の心理的安全性に課題を抱えていることが調査結果から明らかに｜株式会社LDcube",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "規制/安全",
       "score": 34
     },
     {
@@ -162,39 +228,6 @@
       "score": 34
     },
     {
-      "title": "OpenAIのサム・アルトマンCEOが「AIの恩恵に預かるために多少の悪いことは受け入れるべき」との見解を示す",
-      "link": "https://gigazine.net/news/20261005-sam-altman-talk-to-decoded/",
-      "date": "2026-10-05T14:30:00+09:00",
-      "dateLabel": "10/05 14:30",
-      "desc": "ChatGPTなどの開発元として知られるOpenAIのサム・アルトマンCEOが、ニュースサイト・POLITICOの展開するニュースレター＆ポッドキャストサービス・Decoded by POLITICOによるインタビューの中で、AIのもたらす恩恵のことを考えると、一定のリスクは受け入れるべきであるという見解を示しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "MetaのAI「Muse」は家族・友人・同僚ごとの「人物ページ」を作成して人間関係まで記録する設計、セキュリティ研究者がシステムプロンプトを抽出",
-      "link": "https://gigazine.net/news/20261005-meta-muse-create-profile/",
-      "date": "2026-10-05T13:01:00+09:00",
-      "dateLabel": "10/05 13:01",
-      "desc": "Metaが2026年9月に発表したパーソナルAIエージェント「Muse」の内部指示やシステムプロンプトをセキュリティ研究者が抽出し、Museがユーザーの家族や友人、同僚などについて人物ごとのページを作成するよう設計されていることが分かりました。人物ページには基本的な事実だけでなく、過去の出来事や親密さ、今後関係を深めるためのヒントなども記録する仕組みになって",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "CAE解析をAIエージェントに任せてみた 人は何を担うのか",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/05/news010.html",
-      "date": "2026-10-05T12:30:00+09:00",
-      "dateLabel": "10/05 12:30",
-      "desc": "MONOistに掲載した主要な記事を、読みやすいPDF形式の電子ブックレットに再編集した「エンジニア電子ブックレット」。今回は、サイバネットシステム主催の「CAEユニバーシティ 特別公開フォーラム 2026」で行われた、AIエージェントに任せることと人に残る役割をテーマとした講演の内容をまとめたブックレットをお送りします。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "Supabase、1サーバあたり数百万ものSQLiteをホストする「Turso」買収を発表。AIエージェントで加速するDB需要に対応",
       "link": "https://www.publickey1.jp/blog/26/supabase1sqlitetursoaidb.html",
       "date": "2026-10-05T00:56:27+09:00",
@@ -228,55 +261,22 @@
       "score": 28
     },
     {
-      "title": "AI利用のうち32％で安いモデルを使ったときの方が総コストが高くなったことが判明",
-      "link": "https://gigazine.net/news/20261006-ai-cheaper-model-more-cost/",
-      "date": "2026-10-06T11:36:00+09:00",
-      "dateLabel": "10/06 11:36",
-      "desc": "AIを有料で提供している企業は、高性能なモデルを高い価格で、低性能なモデルを安い価格で提供しています。お得にAIを使いたいなら安い方を使う方が正しいように思えますが、タスクによっては、高い方を使う方が結果的に安くつくことがあるようです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "Teams会議で決まった“宿題（To Do）”をAIで抽出、タスクに自動登録するフローを作ろう",
-      "link": "https://ascii.jp/elem/000/004/439/4439813/?rss",
-      "date": "2026-10-06T11:00:00+09:00",
-      "dateLabel": "10/06 11:00",
-      "desc": "今回は、AI Builderを使ってTeams会議のトランスクリプトから“次回までにやるべき宿題（To Do）”を抽出し、それをMicrosoft Plannerのタスクに自動登録するフローを作ってみましょう。前回（第65回）作成したフローを少し修正するだけで作れます。",
-      "img": "https://ascii.jp/img/2026/10/05/4534596/s/7bac90c8da61e28e.png",
+      "title": "パソコン工房、100台限定のゲーミングPC！ Ryzen 7 9800X3D搭載のAMD受賞記念モデル",
+      "link": "https://ascii.jp/elem/000/004/440/4440515/?rss",
+      "date": "2026-10-06T18:30:00+09:00",
+      "dateLabel": "10/06 18:30",
+      "desc": "ユニットコムが10月6日、日本AMD主催『AMD PARTNER ADVANCE 2026 JAPAN』で「Radeon AI PRO Innovation Award」「Market Expansion Champion Award」をダブル受賞した。受賞記念として100台限定の「2026 AMD アワード受賞記念モデル」も販売開始した。価格は349,80",
+      "img": "https://ascii.jp/img/2026/10/06/4535163/s/f51622ea708904fd.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "不正アクセスなぜ急増 原因はAIか、それとも…… 専門家の見解は",
-      "link": "https://www.itmedia.co.jp/news/article/2610/06/2000002013/",
-      "date": "2026-10-06T10:00:00+09:00",
-      "dateLabel": "10/06 10:00",
-      "desc": "9月末以降、不正アクセスやそれに伴う情報漏えいの発表が日本企業から相次いでいる。その原因は……専門家に見解を聞いた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "サロゲートAIの予測を金型設計に活用、国産3D CAD／CAM／CAEの最新版",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/06/news005.html",
-      "date": "2026-10-06T09:00:00+09:00",
-      "dateLabel": "10/06 09:00",
-      "desc": "UELは、国産3D CAD／CAM／CAEシステム「CADmeister 2026」の販売を開始した。サロゲートAIの予測結果をCADデータに反映する連携機能を追加。CAM自動化や3D検図、類似形状検索も強化し、金型の設計／製作における業務効率化と設計品質の向上を支援する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "天然アルカリイオン水「温泉水99」を展開するエスオーシー、マーケティングAI Agent「AIMSTAR」を採用し、定期購入の引き上げ率11.2%UP、クロスセル売上前年比230％を達成",
-      "link": "https://ascii.jp/elem/000/004/440/4440182/?rss",
-      "date": "2026-10-06T09:00:00+09:00",
-      "dateLabel": "10/06 09:00",
-      "desc": "天然アルカリイオン水「温泉水99」を展開するエスオーシー、マーケティングAI Agent「AIMSTAR」を採用し、定期購入の引き上げ率11.2%UP、クロスセル売上前年比230％を達成",
+      "title": "フォワード、10/14(水)開催『採用ウルトラキャンプ』にて登壇。ラクスル・SecureNaviとともに「AI採用」の実践と葛藤を語る",
+      "link": "https://ascii.jp/elem/000/004/440/4440520/?rss",
+      "date": "2026-10-06T17:06:34+09:00",
+      "dateLabel": "10/06 17:06",
+      "desc": "フォワード、10/14(水)開催『採用ウルトラキャンプ』にて登壇。ラクスル・SecureNaviとともに「AI採用」の実践と葛藤を語る",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
