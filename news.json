@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-07T23:54:02.413209+09:00",
-  "generatedLabel": "2026/10/07 23:54",
+  "generatedAt": "2026-10-08T05:18:53.217584+09:00",
+  "generatedLabel": "2026/10/08 05:18",
   "feedOk": 6,
   "feedNg": 5,
   "candidates": 62,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 11
+      "items": 10
     },
     {
       "source": "AINOW",
@@ -140,6 +140,17 @@
       "score": 48
     },
     {
+      "title": "Microsoft、Windowsを「ハイブリッドインテリジェンス」の基盤に ローカルとクラウドのAIを使い分け CopilotはファイルやPC操作にも対応",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/08/2000002111/",
+      "date": "2026-10-08T04:28:13+09:00",
+      "dateLabel": "10/08 04:28",
+      "desc": "米Microsoftは10月7日（現地時間）、Windowsを「ハイブリッドインテリジェンス」の基盤と位置付ける新たな方針を発表した。AIエージェントを必要に応じてローカルPC上で実行し、より大きな能力が必要な場合はクラウドを使う仕組みをOSレベルで整える。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "ClaudeがGoogleドキュメントやGoogleスプレッドシートと接続可能に",
       "link": "https://gigazine.net/news/20261007-claude-for-google-workspace/",
       "date": "2026-10-07T12:02:00+09:00",
@@ -171,6 +182,17 @@
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
       "score": 42
+    },
+    {
+      "title": "「RTX Spark」は41万円からで10月16日発売!!＝ASUSが次世代CPU搭載ノートPC「ProArt P14/P16」を予約開始!!",
+      "link": "https://ascii.jp/elem/000/004/440/4440927/?rss",
+      "date": "2026-10-08T04:30:00+09:00",
+      "dateLabel": "10/08 04:30",
+      "desc": "ASUSはNVIDIAの次世代チップ「RTX Spark」搭載ノートPC「ProArtシリーズ」の予約を開始しました",
+      "img": "https://ascii.jp/img/2026/10/07/4535797/s/0a36458207f6d7ea.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
     },
     {
       "title": "ChatGPTが生成したマンガに「実在するマンガ家の署名」が含まれているとの指摘",
@@ -258,28 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "2026年のAI開発最前線――「AIによるAI開発」から今後は再帰的自己改善「RSI」へ",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/07/news019.html",
-      "date": "2026-10-07T07:30:00+09:00",
-      "dateLabel": "10/07 07:30",
-      "desc": "ELYZAは、再帰的自己改善（RSI）の研究開発を推進する「ELYZA RSI Research」を立ち上げたと発表した。併せて、自律研究基盤を用いた音声対話AIエージェント「ELYZA Voice Agent」やフィジカルAIに関する取り組みについても紹介した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "「AIの多少の悪影響は許容すべき」 OpenAIアルトマン氏、“AIが暴走”してなおAnthropicと主張がズレる訳",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/07/news042.html",
-      "date": "2026-10-07T07:00:00+09:00",
-      "dateLabel": "10/07 07:00",
-      "desc": "AIの恩恵を受けるために「多少の悪いことも受け入れて」――AIによるハッキング攻撃が相次ぐ中、OpenAIのサム・アルトマンCEOがこう主張する理由とは。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
       "score": 34
     }
   ]
