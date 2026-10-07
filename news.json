@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-07T10:07:27.515244+09:00",
-  "generatedLabel": "2026/10/07 10:07",
+  "generatedAt": "2026-10-07T16:54:19.870202+09:00",
+  "generatedLabel": "2026/10/07 16:54",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 71,
+  "candidates": 64,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 11
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 20
+      "items": 19
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,61 @@
   ],
   "articles": [
     {
+      "title": "OpenAIの「野良AIエージェント」がWikipedia関連サイトを勝手に編集、侵入を試み数百万回アクセスしていたとウィキメディア財団が発表",
+      "link": "https://gigazine.net/news/20261007-openai-rogue-agent/",
+      "date": "2026-10-07T15:10:00+09:00",
+      "dateLabel": "10/07 15:10",
+      "desc": "Wikipediaなどを運営するウィキメディア財団が、OpenAIによって運用されていたとみられるAIエージェントによる未承認の編集やシステムへの侵入試行、大量の自動アクセスを確認したと発表しました。AIエージェントはWikimediaの公開APIに数百万回アクセスしたほか、Wikidataやウィキメディア・コモンズの数百万ページを巡回し、Wikidata ",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
+      "title": "OpenAIが社内AIモデルで722本の未解決問題に関する数学的成果を発表、新たな数学的ブレークスルーへ",
+      "link": "https://gigazine.net/news/20261007-openai-mathematics/",
+      "date": "2026-10-07T12:42:00+09:00",
+      "dateLabel": "10/07 12:42",
+      "desc": "OpenAIは2026年10月6日、社内の最先端モデルによって得られた「幅広い新しい数学的成果」を発表しました。GitHubのリポジトリには372の系統に分類された722点の論文が含まれているほか、モデルの推論に関する要約版も公開されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
+      "title": "Googleが画像生成AI「Nano Banana 2.1」を公開、人物の一貫性や編集機能が向上",
+      "link": "https://gigazine.net/news/20261007-nano-banana-2-1/",
+      "date": "2026-10-07T12:16:00+09:00",
+      "dateLabel": "10/07 12:16",
+      "desc": "Googleが画像生成AI「Nano Banana 2.1」を発表しました。2026年5月に正式リリースされた「Nano Banana 2」のアップデート版で、Gemini 3.6 FlashをベースにしていることでFlashレベルの速度と費用対効果を維持しながら、1K・2K・4Kの解像度でビジュアル品質、テキストレンダリング、マルチターンの整合性、Goog",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
+      "title": "Google、「Nano Banana 2.1」公開 APIの画像出力料金は「Nano Banana 2」の約半額に",
+      "link": "https://www.itmedia.co.jp/news/article/2610/07/2000002078/",
+      "date": "2026-10-07T11:53:08+09:00",
+      "dateLabel": "10/07 11:53",
+      "desc": "Googleは、画像生成・編集モデル「Nano Banana 2.1」を発表した。「Gemini 3.6 Flash」ベースで最大100万トークンに対応。ベンチマークでは従来モデルやPro版を上回るスコアを記録した。検索の「AIモード」やGeminiアプリ等で順次提供され、APIの画像出力料金は前モデル比でほぼ半額になった。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
+      "title": "Mistral、1兆パラメータの「Mistral Large 4」（通称「Le Chonk」）発表 10月末にオープンウェイトで公開へ",
+      "link": "https://www.itmedia.co.jp/news/article/2610/07/2000002075/",
+      "date": "2026-10-07T10:43:15+09:00",
+      "dateLabel": "10/07 10:43",
+      "desc": "Mistral AIは、最大モデル「Mistral Large 4」のプレビュー版を公開した。総パラメータ1兆500億のMoE型で、画像認識や推論・指示応答の切り替えに対応。特にサイバーセキュリティやコーディングで高い性能を示し、脆弱性再現テストでは全モデル中最高を記録。モデルの重みは月末に公開予定だ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
       "title": "OpenAI、社内AIがリーマン予想の関連難問を証明と主張 論文722本をGitHubで公開",
       "link": "https://www.itmedia.co.jp/news/article/2610/07/2000002071/",
       "date": "2026-10-07T09:32:40+09:00",
@@ -85,6 +140,39 @@
       "score": 48
     },
     {
+      "title": "グーグル、画像生成AI「Nano Banana 2.1」発表 画像出力料金およそ半額",
+      "link": "https://ascii.jp/elem/000/004/440/4440817/?rss",
+      "date": "2026-10-07T15:05:00+09:00",
+      "dateLabel": "10/07 15:05",
+      "desc": "グーグルは10月6日、画像生成・編集AIの最新版「Nano Banana 2.1」をリリースした。",
+      "img": "https://ascii.jp/img/2026/10/07/4535532/s/dd6bb34f29ce35b5.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 42
+    },
+    {
+      "title": "ClaudeがGoogleドキュメントやGoogleスプレッドシートと接続可能に",
+      "link": "https://gigazine.net/news/20261007-claude-for-google-workspace/",
+      "date": "2026-10-07T12:02:00+09:00",
+      "dateLabel": "10/07 12:02",
+      "desc": "Anthropicが、Claude向けのアドオン「Claude for Google Workspace」をパブリックベータとしてリリースしました。GoogleドキュメントやGoogleスプレッドシート、GoogleスライドにClaudeを接続して直接ファイルを編集できます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "1兆パラメータ超の「Mistral Large 4 Le Chonk」をMistralが発表、中国勢に対抗するオープンウェイトAIモデル",
+      "link": "https://gigazine.net/news/20261007-mistral-large-4-le-chonk/",
+      "date": "2026-10-07T11:15:00+09:00",
+      "dateLabel": "10/07 11:15",
+      "desc": "フランスのAI企業・Mistralが総パラメータ数が1兆を超える新しいAIモデル「Mistral Large 4」を2026年10月6日に発表しました。Mistral Large 4は「Le Chonk」の愛称を持つマルチモーダルモデルで、Mistralによるとその性能は「中国企業が開発する有力なオープンウェイトモデルに匹敵する」とのことです。 続きを読む.",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "NVIDIA製GPU「GeForce RTX 4090」「GeForce RTX 5090」などを中国に密輸した疑いでアメリカのテクノロジー企業CEOが逮捕される",
       "link": "https://gigazine.net/news/20261007-ceo-charged-nvidia-gpu-smuggling-china/",
       "date": "2026-10-07T08:00:00+09:00",
@@ -96,69 +184,58 @@
       "score": 42
     },
     {
-      "title": "風車ブレードの補修作業を自動化するロボット技術、AIによる自律制御と欧米展開へ",
-      "link": "https://ascii.jp/elem/000/004/439/4439731/?rss",
-      "date": "2026-10-07T07:00:00+09:00",
-      "dateLabel": "10/07 07:00",
-      "desc": "風力発電設備向けロボットの開発を手がけるLEBO ROBOTICS株式会社は9月30日、風車ブレード（羽根）の補修工程を自動化する新技術の開発と、欧米市場への本格展開を発表した。",
-      "img": "https://ascii.jp/img/2026/10/02/4533299/s/6e6271452fc8a9fe.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "Claude Coworkの「ローカル実行」オプションが廃止 モデル推論、VM共にクラウド実行へ",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/06/2000002045/",
-      "date": "2026-10-06T15:49:55+09:00",
-      "dateLabel": "10/06 15:49",
-      "desc": "「Claude」のエージェント機能「Cowork」のタスクが、10月6日以降クラウドで実行されるようになり、ユーザーのPCで動作させる設定「このコンピュータのみ」オプションが削除される。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "OpenAIがChatGPTのテキストに透かしを入れる取り組みを開始",
-      "link": "https://gigazine.net/news/20261006-openai-start-watermarking-chatgpt-text-eu/",
-      "date": "2026-10-06T10:54:00+09:00",
-      "dateLabel": "10/06 10:54",
-      "desc": "大手AI企業のOpenAIが、EUのAI法を順守するためにChatGPTやCodexによって生成されたテキストに、目に見えない透かしを追加すると発表しました。 続きを読む...",
+      "title": "OpenAIのAIエージェントによる「Hugging Faceハッキング事件」は実際に何があったのか？AIが踏み越えた「恐ろしい一線」とは？",
+      "link": "https://gigazine.net/news/20261007-ai-terrifying-line/",
+      "date": "2026-10-07T16:00:00+09:00",
+      "dateLabel": "10/07 16:00",
+      "desc": "2026年7月、OpenAIがAIエージェントの社内テスト中に誤ってHugging Faceをハッキングしてしまったことを明らかにしました。AIエージェントとはそもそも何なのか、なぜ制限されたテスト環境を突破して倫理に反するハッキング行為に手を出したのかなどについて、教育系YouTubeチャンネルのKurzgesagtがアニメーションで解説しています。 続き",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "【Snowflakeユーザー必見】AIが賢くなるほど、問われるのは“データの整い方”。実践的アーキテクチャを紐解く『Snowflakeユーザーのデータマネジメント白書 2026』を無料公開",
-      "link": "https://ascii.jp/elem/000/004/440/4440568/?rss",
-      "date": "2026-10-07T08:30:00+09:00",
-      "dateLabel": "10/07 08:30",
-      "desc": "【Snowflakeユーザー必見】AIが賢くなるほど、問われるのは“データの整い方”。実践的アーキテクチャを紐解く『Snowflakeユーザーのデータマネジメント白書 2026』を無料公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "cat": "規制/安全",
       "score": 34
     },
     {
-      "title": "弥生会計の摘要の上限は製品で30文字・半角64文字分・256文字と異なる 税理士事務所・記帳代行向け「顧問先の記帳をAIに任せる前に確かめる8つのこと」第2版を無料公開",
-      "link": "https://ascii.jp/elem/000/004/440/4440576/?rss",
-      "date": "2026-10-07T08:00:00+09:00",
-      "dateLabel": "10/07 08:00",
-      "desc": "弥生会計の摘要の上限は製品で30文字・半角64文字分・256文字と異なる 税理士事務所・記帳代行向け「顧問先の記帳をAIに任せる前に確かめる8つのこと」第2版を無料公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "title": "パソコン工房に限定50台！ インテル日本法人50周年を祝う特別な「LEVEL∞」",
+      "link": "https://ascii.jp/elem/000/004/440/4440796/?rss",
+      "date": "2026-10-07T15:00:00+09:00",
+      "dateLabel": "10/07 15:00",
+      "desc": "ユニットコムが、インテル日本法人設立50周年を記念した数量限定50台のコラボゲーミングPC「インテル株式会社50周年記念コラボゲーミングPC」を10月下旬に発売する。LEVEL∞ RGB Buildをベースにした記念デザイン筐体、NPU搭載のインテル Core Ultra 7 プロセッサー 270K Plus、複数のGPU構成、購入特典の限定ノベルティなどを",
+      "img": "https://ascii.jp/img/2026/10/07/4535518/s/83938dad1d8ff6e8.jpg",
       "src": "ASCII.jp",
-      "cat": "AI全般",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
-      "title": "コンタクトセンター・CX業務を担うAIエージェント「Flyle（フライル）」、10月12日（月）よりWEB CM配信開始",
-      "link": "https://ascii.jp/elem/000/004/440/4440570/?rss",
-      "date": "2026-10-07T08:00:00+09:00",
-      "dateLabel": "10/07 08:00",
-      "desc": "コンタクトセンター・CX業務を担うAIエージェント「Flyle（フライル）」、10月12日（月）よりWEB CM配信開始",
+      "title": "日本基幹産業労働組合連合会、法人向けAIエージェント「ENSOU AI」を導入",
+      "link": "https://ascii.jp/elem/000/004/440/4440824/?rss",
+      "date": "2026-10-07T14:03:19+09:00",
+      "dateLabel": "10/07 14:03",
+      "desc": "日本基幹産業労働組合連合会、法人向けAIエージェント「ENSOU AI」を導入",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "Anthropic、セキュリティ専門家向け「Cyber Verification Program」を拡充 「Claude Mythos 5.1」も対象に",
+      "link": "https://www.itmedia.co.jp/news/article/2610/07/2000002084/",
+      "date": "2026-10-07T12:52:55+09:00",
+      "dateLabel": "10/07 12:52",
+      "desc": "Anthropicは、セキュリティ専門家向け「Cyber Verification Program」（CVP）を拡充し、防御・レッドチーム・重要インフラ向けの3段階アクセス枠を新設した。脆弱性発見で実績を上げた「Project Glasswing」と統合する。審査の上位枠ほどモデルの安全制限が緩和され、高度な検証が可能になる。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "バイブコーディングで作った公開中のWebアプリ、9割に脆弱性 MSの研究者など調査",
+      "link": "https://www.itmedia.co.jp/news/article/2610/07/2000002055/",
+      "date": "2026-10-07T12:12:12+09:00",
+      "dateLabel": "10/07 12:12",
+      "desc": "米Microsoftやシンガポール国立大学などに所属する研究者らが発表した論文「Understanding the (In)Security of Vibe-Coded Applications」は、AIに自動生成させたアプリケーションに潜む脆弱性の実態と、その原因を調査した研究報告だ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
       "score": 34
     },
     {
@@ -173,17 +250,6 @@
       "score": 34
     },
     {
-      "title": "PeopleXも実践する企業成長をもたらす連続的な「共生型M&A」戦略",
-      "link": "https://ascii.jp/elem/000/004/435/4435448/?rss",
-      "date": "2026-10-07T07:30:00+09:00",
-      "dateLabel": "10/07 07:30",
-      "desc": "PeopleXは、AI面接やAIロープレなどのHR・AIサービスを展開する一方、M&Aを成長戦略の中核に置く。買収先を吸収せず、社名や文化を残したまま強みを持ち寄る「共生型M&A」が特徴だ。橘大地CEOと合田ジョージ氏が、PMIにおける信頼関係と、M&Aを継続的な成長につなげる考え方を語った。",
-      "img": "https://ascii.jp/img/2026/09/16/4526584/s/b9419cb34cf30e2c.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "「AIの多少の悪影響は許容すべき」 OpenAIアルトマン氏、“AIが暴走”してなおAnthropicと主張がズレる訳",
       "link": "https://www.itmedia.co.jp/business/articles/2610/07/news042.html",
       "date": "2026-10-07T07:00:00+09:00",
@@ -195,91 +261,25 @@
       "score": 34
     },
     {
-      "title": "AmazonとAppleかたるフィッシングが4割超 AIへの指示文がメールに残る事例も",
-      "link": "https://ascii.jp/elem/000/004/439/4439842/?rss",
-      "date": "2026-10-07T07:00:00+09:00",
-      "dateLabel": "10/07 07:00",
-      "desc": "フィッシング対策協議会が発表した、2026年8月分の「フィッシング報告状況」によれば、「報告件数」は前月から1万6219件増加して、8万2338件でした（約24.5％増）。",
-      "img": "https://ascii.jp/img/2026/10/05/4533975/s/89f456fdebab0deb.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "3Dマップ上でルートを自動作成・対話案内するデジタルツイン基盤",
-      "link": "https://ascii.jp/elem/000/004/439/4439729/?rss",
-      "date": "2026-10-07T07:00:00+09:00",
-      "dateLabel": "10/07 07:00",
-      "desc": "ボールドライト株式会社は9月30日、実空間の3D表現とAIを組み合わせたデジタルツインプラットフォーム「メタマップ」のリニューアルを発表し、同日より提供を開始した。",
-      "img": "https://ascii.jp/img/2026/10/02/4533291/s/82daf669e44226f1.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "米国で広がるAIへの反感、本当に嫌われているのは何か？",
-      "link": "https://ascii.jp/elem/000/004/440/4440559/?rss",
-      "date": "2026-10-07T06:55:25+09:00",
-      "dateLabel": "10/07 06:55",
-      "desc": "ピュー研究所の調査では、AIが社会にマイナスの影響を与えると考える米国の成人が、プラスと考える人を上回った。自分の居住地域へのAIデータセンター建設に反対する人は71％と、原発の53％を大きく上回る。それでもチャットボットを使う米国の成人は半数に上り、2023年の2倍以上に増えた。人々が本当に嫌っているのは何なのか。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "東芝がAIデータセンター向けHDDの生産能力を2027年度までに倍増させる計画発表でライバル企業のWestern DigitalとSeagateの株価が急落、東芝はさらに65TBと100TBも準備",
-      "link": "https://gigazine.net/news/20261006-toshiba-hdd-double/",
-      "date": "2026-10-06T14:03:00+09:00",
-      "dateLabel": "10/06 14:03",
-      "desc": "「東芝がAIデータセンター向けHDDの生産能力を2027年度中に2025年基準から倍増させる予定」と報じられました。これにより、ライバルのWestern DigitalとSeagateの株価が10％以上急落しました。 続きを読む...",
+      "title": "Claude Coworkの「ローカル実行」オプションが廃止 モデル推論、VM共にクラウド実行へ",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/06/2000002045/",
+      "date": "2026-10-06T15:49:55+09:00",
+      "dateLabel": "10/06 15:49",
+      "desc": "「Claude」のエージェント機能「Cowork」のタスクが、10月6日以降クラウドで実行されるようになり、ユーザーのPCで動作させる設定「このコンピュータのみ」オプションが削除される。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "中国への高度な半導体製造装置の輸出を認めるとAI分野での優位性が失われると研究機関が警告",
-      "link": "https://gigazine.net/news/20261006-duv-immersion-lithography-china/",
-      "date": "2026-10-06T13:45:00+09:00",
-      "dateLabel": "10/06 13:45",
-      "desc": "アメリカのAI・半導体政策研究機関であるテクノロジー＆ステートクラフトセンターが、AIチップの製造に不可欠である高度な半導体露光装置の中国への輸出を認めた場合、今後5年から10年でアメリカの優位性が失われることになるという報告書を公開しています。また、すでに一部の高度な露光装置が「抜け穴」を使って輸出されていることから対策を提言しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "ChatGPTで2026年10月後半から「画像付き広告」のテスト開始、まずはユーザーが画像を生成している間に広告表示",
-      "link": "https://gigazine.net/news/20261006-chatgpt-visual-ads/",
-      "date": "2026-10-06T12:15:00+09:00",
-      "dateLabel": "10/06 12:15",
-      "desc": "OpenAIが、ChatGPTに画像付きの広告を表示することを予告しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "中国のオープンソースAIに対抗するためReflectionがパラメーター数5010億のオープンモデル「Beam」を発表、GLM 5.2に匹敵し使用する計算量は3～4分の1でAIエージェントタスクではQwen3.8-Maxに匹敵すると主張",
-      "link": "https://gigazine.net/news/20261006-beam-reflection-501b-open-weight-model/",
-      "date": "2026-10-06T12:06:00+09:00",
-      "dateLabel": "10/06 12:06",
-      "desc": "アメリカに拠点を置くAIスタートアップのReflectionが、パラメーター数5010億・アクティブパラメーター数230億のオープンモデル「Beam」を発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
+      "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 34
     },
     {
-      "title": "Claudeを日記として使用した女性がAnthropicに内容を通報されて逮捕される",
-      "link": "https://gigazine.net/news/20261006-woman-arrested-claude-diary/",
-      "date": "2026-10-06T11:40:00+09:00",
-      "dateLabel": "10/06 11:40",
-      "desc": "アメリカ・フロリダ州で、AnthropicのAI「Claude」を日記のように使っていた女性が「保安官事務所を銃撃する」と書き込んで逮捕されたと報じられています。書き込みはAnthropicの安全システムが検出し、人間の担当者による確認を経て、警察に通報されました。 続きを読む...",
+      "title": "Supabase、1サーバあたり数百万ものSQLiteをホストする「Turso」買収を発表。AIエージェントで加速するDB需要に対応",
+      "link": "https://www.publickey1.jp/blog/26/supabase1sqlitetursoaidb.html",
+      "date": "2026-10-05T00:56:27+09:00",
+      "dateLabel": "10/05 00:56",
+      "desc": "PostgreSQLをベースにしたデータベースサービス「Supabase」などを提供しているSupabaseは、SQLiteをベースとしたデータベースサービスを提供する「Turso」を買収したことを発表しました。 Turso is join...",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
       "score": 34
     }
   ]
