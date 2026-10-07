@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-07T06:22:40.985248+09:00",
-  "generatedLabel": "2026/10/07 06:22",
+  "generatedAt": "2026-10-07T10:07:27.515244+09:00",
+  "generatedLabel": "2026/10/07 10:07",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 63,
+  "candidates": 71,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 18
+      "items": 19
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 11
     },
     {
       "source": "PC Watch",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "OpenAI、社内AIがリーマン予想の関連難問を証明と主張 論文722本をGitHubで公開",
+      "link": "https://www.itmedia.co.jp/news/article/2610/07/2000002071/",
+      "date": "2026-10-07T09:32:40+09:00",
+      "dateLabel": "10/07 09:32",
+      "desc": "OpenAIは、社内のフロンティアモデルが生み出した数学の成果722本をGitHubで公開した。多くに証明支援系「Lean」による形式証明が付く。数学者らの独立組織AGMAIの提言を参考にしたもので、計算量や推論過程の要約も開示。過去の発表を巡る論争を踏まえ、数学界との対話や理解促進に向けた支援も進める。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
       "title": "AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開。特定のLLMに依存せず入れ替え可能、任意のコンテナ環境にデプロイ",
       "link": "https://www.publickey1.jp/blog/26/awsaistrandsllm.html",
       "date": "2026-09-29T00:01:25+09:00",
@@ -74,14 +85,25 @@
       "score": 48
     },
     {
-      "title": "30万円出さずにRX 9070 XT！ 26万9800円のゲーミングPCは“GPU優先”が潔い",
-      "link": "https://ascii.jp/elem/000/004/440/4440427/?rss",
-      "date": "2026-10-06T20:00:00+09:00",
-      "dateLabel": "10/06 20:00",
-      "desc": "STORMの「K2-57X97XT」は、Ryzen 7 5700XとRadeon RX 9070 XT 16GBを搭載しながら26万9800円。CPUよりGPU性能を優先し、WQHDや4Kで高画質ゲームを楽しみたい人に注目の1台だ。",
-      "img": "https://ascii.jp/img/2026/08/20/4515086/s/97e5f19147d008d0.png",
-      "src": "ASCII.jp",
+      "title": "NVIDIA製GPU「GeForce RTX 4090」「GeForce RTX 5090」などを中国に密輸した疑いでアメリカのテクノロジー企業CEOが逮捕される",
+      "link": "https://gigazine.net/news/20261007-ceo-charged-nvidia-gpu-smuggling-china/",
+      "date": "2026-10-07T08:00:00+09:00",
+      "dateLabel": "10/07 08:00",
+      "desc": "近年のアメリカは中国によるAI開発を安全保障上の脅威と見なしており、NVIDIAなどが製造する高性能GPUの中国への輸出を禁止しています。そんな中、アメリカのカリフォルニア州にあるテクノロジー企業のCEOが、総額3億ドル(約470億円)を越えるNVIDIAの高性能GPUを密輸したとして逮捕・起訴されました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "風車ブレードの補修作業を自動化するロボット技術、AIによる自律制御と欧米展開へ",
+      "link": "https://ascii.jp/elem/000/004/439/4439731/?rss",
+      "date": "2026-10-07T07:00:00+09:00",
+      "dateLabel": "10/07 07:00",
+      "desc": "風力発電設備向けロボットの開発を手がけるLEBO ROBOTICS株式会社は9月30日、風車ブレード（羽根）の補修工程を自動化する新技術の開発と、欧米市場への本格展開を発表した。",
+      "img": "https://ascii.jp/img/2026/10/02/4533299/s/6e6271452fc8a9fe.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -105,6 +127,105 @@
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 42
+    },
+    {
+      "title": "【Snowflakeユーザー必見】AIが賢くなるほど、問われるのは“データの整い方”。実践的アーキテクチャを紐解く『Snowflakeユーザーのデータマネジメント白書 2026』を無料公開",
+      "link": "https://ascii.jp/elem/000/004/440/4440568/?rss",
+      "date": "2026-10-07T08:30:00+09:00",
+      "dateLabel": "10/07 08:30",
+      "desc": "【Snowflakeユーザー必見】AIが賢くなるほど、問われるのは“データの整い方”。実践的アーキテクチャを紐解く『Snowflakeユーザーのデータマネジメント白書 2026』を無料公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "弥生会計の摘要の上限は製品で30文字・半角64文字分・256文字と異なる 税理士事務所・記帳代行向け「顧問先の記帳をAIに任せる前に確かめる8つのこと」第2版を無料公開",
+      "link": "https://ascii.jp/elem/000/004/440/4440576/?rss",
+      "date": "2026-10-07T08:00:00+09:00",
+      "dateLabel": "10/07 08:00",
+      "desc": "弥生会計の摘要の上限は製品で30文字・半角64文字分・256文字と異なる 税理士事務所・記帳代行向け「顧問先の記帳をAIに任せる前に確かめる8つのこと」第2版を無料公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "コンタクトセンター・CX業務を担うAIエージェント「Flyle（フライル）」、10月12日（月）よりWEB CM配信開始",
+      "link": "https://ascii.jp/elem/000/004/440/4440570/?rss",
+      "date": "2026-10-07T08:00:00+09:00",
+      "dateLabel": "10/07 08:00",
+      "desc": "コンタクトセンター・CX業務を担うAIエージェント「Flyle（フライル）」、10月12日（月）よりWEB CM配信開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "2026年のAI開発最前線――「AIによるAI開発」から今後は再帰的自己改善「RSI」へ",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/07/news019.html",
+      "date": "2026-10-07T07:30:00+09:00",
+      "dateLabel": "10/07 07:30",
+      "desc": "ELYZAは、再帰的自己改善（RSI）の研究開発を推進する「ELYZA RSI Research」を立ち上げたと発表した。併せて、自律研究基盤を用いた音声対話AIエージェント「ELYZA Voice Agent」やフィジカルAIに関する取り組みについても紹介した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "PeopleXも実践する企業成長をもたらす連続的な「共生型M&A」戦略",
+      "link": "https://ascii.jp/elem/000/004/435/4435448/?rss",
+      "date": "2026-10-07T07:30:00+09:00",
+      "dateLabel": "10/07 07:30",
+      "desc": "PeopleXは、AI面接やAIロープレなどのHR・AIサービスを展開する一方、M&Aを成長戦略の中核に置く。買収先を吸収せず、社名や文化を残したまま強みを持ち寄る「共生型M&A」が特徴だ。橘大地CEOと合田ジョージ氏が、PMIにおける信頼関係と、M&Aを継続的な成長につなげる考え方を語った。",
+      "img": "https://ascii.jp/img/2026/09/16/4526584/s/b9419cb34cf30e2c.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "「AIの多少の悪影響は許容すべき」 OpenAIアルトマン氏、“AIが暴走”してなおAnthropicと主張がズレる訳",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/07/news042.html",
+      "date": "2026-10-07T07:00:00+09:00",
+      "dateLabel": "10/07 07:00",
+      "desc": "AIの恩恵を受けるために「多少の悪いことも受け入れて」――AIによるハッキング攻撃が相次ぐ中、OpenAIのサム・アルトマンCEOがこう主張する理由とは。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "AmazonとAppleかたるフィッシングが4割超 AIへの指示文がメールに残る事例も",
+      "link": "https://ascii.jp/elem/000/004/439/4439842/?rss",
+      "date": "2026-10-07T07:00:00+09:00",
+      "dateLabel": "10/07 07:00",
+      "desc": "フィッシング対策協議会が発表した、2026年8月分の「フィッシング報告状況」によれば、「報告件数」は前月から1万6219件増加して、8万2338件でした（約24.5％増）。",
+      "img": "https://ascii.jp/img/2026/10/05/4533975/s/89f456fdebab0deb.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "3Dマップ上でルートを自動作成・対話案内するデジタルツイン基盤",
+      "link": "https://ascii.jp/elem/000/004/439/4439729/?rss",
+      "date": "2026-10-07T07:00:00+09:00",
+      "dateLabel": "10/07 07:00",
+      "desc": "ボールドライト株式会社は9月30日、実空間の3D表現とAIを組み合わせたデジタルツインプラットフォーム「メタマップ」のリニューアルを発表し、同日より提供を開始した。",
+      "img": "https://ascii.jp/img/2026/10/02/4533291/s/82daf669e44226f1.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "米国で広がるAIへの反感、本当に嫌われているのは何か？",
+      "link": "https://ascii.jp/elem/000/004/440/4440559/?rss",
+      "date": "2026-10-07T06:55:25+09:00",
+      "dateLabel": "10/07 06:55",
+      "desc": "ピュー研究所の調査では、AIが社会にマイナスの影響を与えると考える米国の成人が、プラスと考える人を上回った。自分の居住地域へのAIデータセンター建設に反対する人は71％と、原発の53％を大きく上回る。それでもチャットボットを使う米国の成人は半数に上り、2023年の2倍以上に増えた。人々が本当に嫌っているのは何なのか。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
     },
     {
       "title": "東芝がAIデータセンター向けHDDの生産能力を2027年度までに倍増させる計画発表でライバル企業のWestern DigitalとSeagateの株価が急落、東芝はさらに65TBと100TBも準備",
@@ -160,127 +281,6 @@
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 34
-    },
-    {
-      "title": "TCPに代わる通信プロトコル「Homa」をスタンフォード大学名誉教授が提唱、AI時代は1ミリ秒の遅延でもGPUが待たされる",
-      "link": "https://gigazine.net/news/20261006-homa-protocol-replace-tcp/",
-      "date": "2026-10-06T08:05:00+09:00",
-      "dateLabel": "10/06 08:05",
-      "desc": "ウェブやクラウドを支える通信プロトコル「TCP」はAI向けデータセンターの通信には適していないとして、スタンフォード大学のジョン・オースターハウト名誉教授がトランスポートプロトコル「Homa」への移行を訴えています。Homaは短いメッセージを優先的に処理することで通信遅延を抑える仕組みを備えており、既存のTCPと並行して導入できるとのことです。 続きを読む.",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "無料で国のミッションクリティカル作業のために構築された主権AIモデル「Kolibri」、公共行政・産業・航空宇宙などの規制分野での使用が前提でオープンソースなだけでなく構築過程も透明化",
-      "link": "https://gigazine.net/news/20261006-kolibri/",
-      "date": "2026-10-06T07:00:00+09:00",
-      "dateLabel": "10/06 07:00",
-      "desc": "ドイツのAIスタートアップ企業Aleph Alphaは、ドイツ統一の日にあたる2026年10月3日に新たな言語モデル「Kolibri」を発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "Supabase、1サーバあたり数百万ものSQLiteをホストする「Turso」買収を発表。AIエージェントで加速するDB需要に対応",
-      "link": "https://www.publickey1.jp/blog/26/supabase1sqlitetursoaidb.html",
-      "date": "2026-10-05T00:56:27+09:00",
-      "dateLabel": "10/05 00:56",
-      "desc": "PostgreSQLをベースにしたデータベースサービス「Supabase」などを提供しているSupabaseは、SQLiteをベースとしたデータベースサービスを提供する「Turso」を買収したことを発表しました。 Turso is join...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "WindowsでLinuxコンテナの作成や実行を可能にする「WSL Containers」正式リリース。コマンドラインとAPIから利用可能",
-      "link": "https://www.publickey1.jp/blog/26/windowslinuxwsl_containersapi.html",
-      "date": "2026-09-30T11:43:18+09:00",
-      "dateLabel": "09/30 11:43",
-      "desc": "マイクロソフトはWSL（Windows Subsystem for Linux）の新機能として、WindowsでLinuxコンテナの作成や実行を可能にする「WSL Containers」の正式リリースを発表しました（発表ブログ、アーキテクチ...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AI全般",
-      "score": 28
-    },
-    {
-      "title": "AIエージェント導入支援とは？支援内容・費用相場・選び方と補助金を解説",
-      "link": "https://ainow.ai/2026/10/07/278418/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e5%25b0%258e%25e5%2585%25a5%25e6%2594%25af%25e6%258f%25b4%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e6%2594%25af%25e6%258f%25b4%25e5%2586%2585%25e5%25ae%25b9%25e3%2583%25bb%25e8%25b2%25bb%25e7%2594%25a8%25e7%259b%25b8%25e5%25a0%25b4",
-      "date": "2026-10-07T01:00:12+09:00",
-      "dateLabel": "10/07 01:00",
-      "desc": "AIエージェントを導入したいが、社内に知見がなく、どの支援会社に何を頼めばよいか判断できない。本記事では、導入支援で頼める支援内容、フェーズ別の費用、支援会社を比べる判断軸、使える補助金を、社内の選定資料にそのまま使える... The post AIエージェント導入支援とは？支援内容・費用相場・選び方と補助金を解説 first appeared on AI専",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "AIエージェント導入事例10選！国内外の成功事例を成果別に解説",
-      "link": "https://ainow.ai/2026/10/07/278415/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e5%25b0%258e%25e5%2585%25a5%25e4%25ba%258b%25e4%25be%258b10%25e9%2581%25b8%25ef%25bc%2581%25e5%259b%25bd%25e5%2586%2585%25e5%25a4%2596%25e3%2581%25ae%25e6%2588%2590%25e5%258a%259f%25e4%25ba%258b%25e4%25be%258b%25e3%2582%2592",
-      "date": "2026-10-07T00:58:37+09:00",
-      "dateLabel": "10/07 00:58",
-      "desc": "「他社はAIエージェントでどんな成果を出しているのか」と経営層に聞かれ、企業名と数値を示せずに困っていませんか。 AIエージェントの導入事例は、顧客対応・営業・社内業務の3領域で、成果を数値で公表するものが増えています。... The post AIエージェント導入事例10選！国内外の成功事例を成果別に解説 first appeared on AI専門ニュー",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "マイクロソフト、VS CodeにAIモデルのオーケストレーションで高品質低コストなAIを実現する「HydraFusion」をプレビュー実装",
-      "link": "https://www.publickey1.jp/blog/26/vs_codeaiaihydrafusion.html",
-      "date": "2026-10-07T00:47:53+09:00",
-      "dateLabel": "10/07 00:47",
-      "desc": "マイクロソフトは9月30日付けでリリースされたVisual Studio Code 1.140（以下、VS Code）で、複数のAIベンダから提供されているAIモデルをオーケストレーションすることでより高品質で低コストを実現するという「Hy...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "FDE（フォワードデプロイドエンジニアリング）によって開発されたAIエージェントの7割は使われず、FDEの名前で単なるコンサルティングが販売されるようになる危険が高まるとガートナーが予測",
-      "link": "https://www.publickey1.jp/blog/26/fdeai7fde.html",
-      "date": "2026-10-07T00:43:31+09:00",
-      "dateLabel": "10/07 00:43",
-      "desc": "米調査会社のガートナーは、ベンダーのFDE（フォワードデプロイドエンジニアあるいはフォワードデプロイドエンジニアリング）によって開発されたAIエージェントの70％が2028年までに企業に使われずに放棄されるだろう（Gartner Predi...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "ビデオ通話で参加者の48％が人間だと誤認したAIモデル「Griffin」が登場、1枚の画像から顔や体の動きを映像で再現",
-      "link": "https://gigazine.net/news/20261006-tavus-griffin/",
-      "date": "2026-10-06T22:00:00+09:00",
-      "dateLabel": "10/06 22:00",
-      "desc": "AI企業のTavusが、リアルタイムの映像と音声で人間と対話するAIモデル「Griffin」を発表しました。研究プレビュー版「Griffin-Lite」を使った実験では、1分間のライブビデオ通話に参加した54人のうち26人、約48％が、会話相手のAIを実在する人間だと判断しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "Googleが無料・下位プランで使えるGeminiのモデルを制限",
-      "link": "https://gigazine.net/news/20261006-google-gemini-ai-subscription/",
-      "date": "2026-10-06T20:42:00+09:00",
-      "dateLabel": "10/06 20:42",
-      "desc": "Googleが2026年10月9日から、個人の無料ユーザーが利用できるGeminiを軽量高速モデルの「Flash-Lite」のみに制限します。サブスクリプションの「AI Plus」ならその上位の「Flash」まで利用可能で、Gemini Proの利用には「AI Pro」か「AI Ultra」への加入が必要です。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "AIエージェントが暴走した記録をオンライン上で探し出し手がかりを追うコミュニティが発達しつつある",
-      "link": "https://gigazine.net/news/20261006-ai-swarm-chasing-group/",
-      "date": "2026-10-06T20:00:00+09:00",
-      "dateLabel": "10/06 20:00",
-      "desc": "試験中のAIが外部の機関に不正アクセスを行うという事例が相次いでいます。こうしたAIは大抵、外部へのアクセスを遮断されている中で、独自のルートを見いだして不正な手段でアクセスを試みます。こうしたAIの痕跡を見つけ出すコミュニティが、いくつか発達しつつあります。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 26
     }
   ]
 }
