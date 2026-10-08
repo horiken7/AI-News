@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-08T05:18:53.217584+09:00",
-  "generatedLabel": "2026/10/08 05:18",
+  "generatedAt": "2026-10-08T09:33:57.635744+09:00",
+  "generatedLabel": "2026/10/08 09:33",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 62,
+  "candidates": 63,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 19
+      "items": 18
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 18
+      "items": 17
     },
     {
       "source": "CNET Japan",
@@ -62,6 +62,28 @@
     }
   ],
   "articles": [
+    {
+      "title": "Anthropic、「Claude Haiku 5.5」公開 「Haiku 4.5」から大幅性能向上で利用コスト約75％減",
+      "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002112/",
+      "date": "2026-10-08T07:25:53+09:00",
+      "dateLabel": "10/08 07:25",
+      "desc": "Anthropicは、小型AIモデル「Claude Haiku 5.5」を発表した。前世代から性能を大きく引き上げつつ、コストを約75％削減。推論の深さを調整するeffort設定に初対応し、コンピュータ操作や大量の定型処理、上位モデルのサブエージェント向けに全プラットフォームで即日提供された。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 74
+    },
+    {
+      "title": "「AIがAIを改善する」技術開発へ――RSIの現在地と、業務完結型AIエージェントの仕組み",
+      "link": "https://ascii.jp/elem/000/004/439/4439966/?rss",
+      "date": "2026-10-08T07:00:00+09:00",
+      "dateLabel": "10/08 07:00",
+      "desc": "東大発AIベンチャーの株式会社ELYZA（イライザ）は10月2日、都内で記者発表会を開催し、AIが自らの性能を改善する「RSI（再帰的自己改善）」をテーマに、専門の研究組織「ELYZA RSI Research」の設立と初期成果を発表した。",
+      "img": "https://ascii.jp/img/2026/10/05/4534180/s/44127cde401d318f.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
     {
       "title": "OpenAIの「野良AIエージェント」がWikipedia関連サイトを勝手に編集、侵入を試み数百万回アクセスしていたとウィキメディア財団が発表",
       "link": "https://gigazine.net/news/20261007-openai-rogue-agent/",
@@ -118,17 +140,6 @@
       "score": 50
     },
     {
-      "title": "OpenAI、社内AIがリーマン予想の関連難問を証明と主張 論文722本をGitHubで公開",
-      "link": "https://www.itmedia.co.jp/news/article/2610/07/2000002071/",
-      "date": "2026-10-07T09:32:40+09:00",
-      "dateLabel": "10/07 09:32",
-      "desc": "OpenAIは、社内のフロンティアモデルが生み出した数学の成果722本をGitHubで公開した。多くに証明支援系「Lean」による形式証明が付く。数学者らの独立組織AGMAIの提言を参考にしたもので、計算量や推論過程の要約も開示。過去の発表を巡る論争を踏まえ、数学界との対話や理解促進に向けた支援も進める。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
       "title": "AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開。特定のLLMに依存せず入れ替え可能、任意のコンテナ環境にデプロイ",
       "link": "https://www.publickey1.jp/blog/26/awsaistrandsllm.html",
       "date": "2026-09-29T00:01:25+09:00",
@@ -138,6 +149,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 48
+    },
+    {
+      "title": "最大1ペタフロップスをノートPCに。ASUS「ProArt P16／P14」日本展開へ",
+      "link": "https://ascii.jp/elem/000/004/440/4440935/?rss",
+      "date": "2026-10-08T07:30:00+09:00",
+      "dateLabel": "10/08 07:30",
+      "desc": "ASUS JAPANが、NVIDIA RTX Spark搭載のクリエイター向けAIノートPC「ProArt P16 (H7607)」「ProArt P14 (H7407)」の日本取り扱いを発表した。発売は10月下旬以降予定で、AI処理や動画編集、3Dレンダリングに向く次世代モデルだ。",
+      "img": "https://ascii.jp/img/2026/10/08/4535844/s/77baa90172e0fee2.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
     },
     {
       "title": "Microsoft、Windowsを「ハイブリッドインテリジェンス」の基盤に ローカルとクラウドのAIを使い分け CopilotはファイルやPC操作にも対応",
@@ -173,15 +195,59 @@
       "score": 42
     },
     {
-      "title": "NVIDIA製GPU「GeForce RTX 4090」「GeForce RTX 5090」などを中国に密輸した疑いでアメリカのテクノロジー企業CEOが逮捕される",
-      "link": "https://gigazine.net/news/20261007-ceo-charged-nvidia-gpu-smuggling-china/",
-      "date": "2026-10-07T08:00:00+09:00",
-      "dateLabel": "10/07 08:00",
-      "desc": "近年のアメリカは中国によるAI開発を安全保障上の脅威と見なしており、NVIDIAなどが製造する高性能GPUの中国への輸出を禁止しています。そんな中、アメリカのカリフォルニア州にあるテクノロジー企業のCEOが、総額3億ドル(約470億円)を越えるNVIDIAの高性能GPUを密輸したとして逮捕・起訴されました。 続きを読む...",
+      "title": "OpenAI、社内AIがリーマン予想の関連難問を証明と主張 論文722本をGitHubで公開",
+      "link": "https://www.itmedia.co.jp/news/article/2610/07/2000002071/",
+      "date": "2026-10-07T09:32:40+09:00",
+      "dateLabel": "10/07 09:32",
+      "desc": "OpenAIは、社内のフロンティアモデルが生み出した数学の成果722本をGitHubで公開した。多くに証明支援系「Lean」による形式証明が付く。数学者らの独立組織AGMAIの提言を参考にしたもので、計算量や推論過程の要約も開示。過去の発表を巡る論争を踏まえ、数学界との対話や理解促進に向けた支援も進める。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 42
+    },
+    {
+      "title": "NotionがAIエージェントではなく、コンテキスト基盤に注力する理由",
+      "link": "https://ascii.jp/elem/000/004/440/4440885/?rss",
+      "date": "2026-10-08T09:00:00+09:00",
+      "dateLabel": "10/08 09:00",
+      "desc": "AIワークスペース「Notion」を提供するNotion Labs Japanは2026年10月1日、メディアラウンドテーブルを開催。CEOのアイバン・ザオ氏、CTOのマックス・ショーニング氏、そして8月に日本法人のゼネラルマネージャーに就任した青木友氏が登壇し、AI領域におけるコンテキストレイヤーへの注力やエンタープライズ市場の課題と取り組みについて説明し",
+      "img": "https://ascii.jp/img/2026/10/07/4535626/s/48279ead00d7078e.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "Anthropic、「Claude Haiku 5.5」のAPI料金を「Haiku 4.5」の10分の1に 「Sonnet 5.5」のキャッシュ読み込み料金は半額に",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/08/2000002114/",
+      "date": "2026-10-08T08:20:36+09:00",
+      "dateLabel": "10/08 08:20",
+      "desc": "Anthropicは、小型AI「Claude Haiku 5.5」のAPI提供を開始した。料金は10万トークン以下で前世代の10分の1になり、平均利用コストは約75％下がる。effort設定への初対応やSDKへのブラウザおよびコンピュータ使用ツールセット追加のほか、Sonnet 5.5のキャッシュ料金半額も行われた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "社内9部門、62体のエージェントをどう運用？ 「AI社員」が働く企業の実例",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/08/news018.html",
+      "date": "2026-10-08T08:00:00+09:00",
+      "dateLabel": "10/08 08:00",
+      "desc": "AIエージェントが実際に企業の業務を担うようになると、仕事はどのように回るのか。AIに何を任せ、人間は何を担うのか。生成AIの研修やコンサルティング、開発を手掛けるUravationが公開した「AI社員」62体の働き方から、その一例を見てみよう。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "AI“狂騒の半年”を振り返る Mythos公開、Fable停止、GPT-6登場――翻弄されない“堅実なAI導入”の鍵は",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/08/news016.html",
+      "date": "2026-10-08T07:00:00+09:00",
+      "dateLabel": "10/08 07:00",
+      "desc": "2026年4月に「Claude Mythos Preview」が公開されてから半年、AIを巡ってさまざまな出来事があった。狂騒に巻き込まれず、AI導入を堅実に進める鍵はどこにあるのか。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "「RTX Spark」は41万円からで10月16日発売!!＝ASUSが次世代CPU搭載ノートPC「ProArt P14/P16」を予約開始!!",
@@ -214,72 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Trans-N、ローカルAI実行基盤「Swama」2.5.1を公開 文章・画像の判定処理をMac 1台で",
-      "link": "https://ascii.jp/elem/000/004/440/4440922/?rss",
-      "date": "2026-10-07T18:51:31+09:00",
-      "dateLabel": "10/07 18:51",
-      "desc": "Trans-N、ローカルAI実行基盤「Swama」2.5.1を公開 文章・画像の判定処理をMac 1台で",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "OpenAIが判断専用の「Decisions API」を公開、テキストや画像を約10倍高速に判定して確率や信頼度を出力",
-      "link": "https://gigazine.net/news/20261007-decisions-api/",
-      "date": "2026-10-07T18:20:00+09:00",
-      "dateLabel": "10/07 18:20",
-      "desc": "OpenAIがアプリケーション内で「どのモデルを使うか」「どのツールを呼び出すか」「問い合わせをどこに振り分けるか」といった判断を高速に行うための新API「Decisions API」をパブリックベータとして公開しました。テキストと画像を入力でき、条件に当てはまる確率や選択結果、評価スコアなどを機械処理しやすい形式で返します。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "アスエネ、人を代替する自律型AIエージェントプラットフォーム「ASUENE AIP」と「AXコンサルティング」の新サービスをローンチ",
-      "link": "https://ascii.jp/elem/000/004/440/4440890/?rss",
-      "date": "2026-10-07T17:00:19+09:00",
-      "dateLabel": "10/07 17:00",
-      "desc": "アスエネ、人を代替する自律型AIエージェントプラットフォーム「ASUENE AIP」と「AXコンサルティング」の新サービスをローンチ",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "OpenAIのAIエージェントによる「Hugging Faceハッキング事件」は実際に何があったのか？AIが踏み越えた「恐ろしい一線」とは？",
-      "link": "https://gigazine.net/news/20261007-ai-terrifying-line/",
-      "date": "2026-10-07T16:00:00+09:00",
-      "dateLabel": "10/07 16:00",
-      "desc": "2026年7月、OpenAIがAIエージェントの社内テスト中に誤ってHugging Faceをハッキングしてしまったことを明らかにしました。AIエージェントとはそもそも何なのか、なぜ制限されたテスト環境を突破して倫理に反するハッキング行為に手を出したのかなどについて、教育系YouTubeチャンネルのKurzgesagtがアニメーションで解説しています。 続き",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "Anthropic、セキュリティ専門家向け「Cyber Verification Program」を拡充 「Claude Mythos 5.1」も対象に",
-      "link": "https://www.itmedia.co.jp/news/article/2610/07/2000002084/",
-      "date": "2026-10-07T12:52:55+09:00",
-      "dateLabel": "10/07 12:52",
-      "desc": "Anthropicは、セキュリティ専門家向け「Cyber Verification Program」（CVP）を拡充し、防御・レッドチーム・重要インフラ向けの3段階アクセス枠を新設した。脆弱性発見で実績を上げた「Project Glasswing」と統合する。審査の上位枠ほどモデルの安全制限が緩和され、高度な検証が可能になる。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "バイブコーディングで作った公開中のWebアプリ、9割に脆弱性 MSの研究者など調査",
-      "link": "https://www.itmedia.co.jp/news/article/2610/07/2000002055/",
-      "date": "2026-10-07T12:12:12+09:00",
-      "dateLabel": "10/07 12:12",
-      "desc": "米Microsoftやシンガポール国立大学などに所属する研究者らが発表した論文「Understanding the (In)Security of Vibe-Coded Applications」は、AIに自動生成させたアプリケーションに潜む脆弱性の実態と、その原因を調査した研究報告だ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
       "score": 34
     }
   ]
