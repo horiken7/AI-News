@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-08T15:48:40.665447+09:00",
-  "generatedLabel": "2026/10/08 15:48",
+  "generatedAt": "2026-10-08T23:11:47.804506+09:00",
+  "generatedLabel": "2026/10/08 23:11",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 60,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 2
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 17
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -129,6 +129,39 @@
       "score": 48
     },
     {
+      "title": "さくらインターネット、GPU専有によりトークン消費量を気にせず定額で利用できる「さくらのAI Engineプライベートエディション」提供開始を発表",
+      "link": "https://www.publickey1.jp/blog/26/gpuai_engine.html",
+      "date": "2026-10-09T00:49:01+09:00",
+      "dateLabel": "10/09 00:49",
+      "desc": "さくらインターネットは、GPUサーバ上で基盤モデルを展開しマネージドサービスとして提供する「さくらのAI Engine」を、企業がGPUを専有して使える「さくらのAI Engine プライベートエディション」の提供開始を発表しました。 お知...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "Amazon限定のRTX 5060搭載ノートが19万7700円！ Core i7＋144Hz液晶も備えたMSI「Cyborg 15」",
+      "link": "https://ascii.jp/elem/000/004/440/4440941/?rss",
+      "date": "2026-10-08T20:10:00+09:00",
+      "dateLabel": "10/08 20:10",
+      "desc": "MSIの15.6型ゲーミングノートPC「Cyborg 15」がAmazonでタイムセール対象。参考価格222,800円から11％オフの197,700円で販売中。RTX 5060 Laptop GPUとCore i7-13620Hを搭載し、144Hz対応のフルHDディスプレーを採用。高性能な構成を20万円以下で手に入れられるAmazon限定モデルだ。",
+      "img": "https://ascii.jp/img/2026/10/08/4535869/s/5ab76e808d6ed3ea.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "オープンソースAIエージェント「Hermes Agent」が2400万回以上ダウンロードされる人気に、開発元のNous Researchが約142億円を調達して企業向け事業を拡大",
+      "link": "https://gigazine.net/news/20261008-nous-research-fundraise/",
+      "date": "2026-10-08T16:45:00+09:00",
+      "dateLabel": "10/08 16:45",
+      "desc": "オープンソースのAIエージェント「Hermes Agent」を開発するNous Researchが2026年10月7日に9000万ドル(約142億円)の資金調達を発表しました。企業評価額は15億ドル(約2370億円)に達しており、調達した資金を活用して企業向けの「Hermes for Businesses」の開発を進めるとのことです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "AI生成画像やAI生成動画を見分けるGoogleサービス「SynthID Detector」が誰でも使用可能に、Google・OpenAI・AppleのどのAIかも判別可能",
       "link": "https://gigazine.net/news/20261008-synth-id-ai-content/",
       "date": "2026-10-08T13:25:00+09:00",
@@ -137,28 +170,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "MSI「Katana 15 HX」新モデル、RTX 5060搭載で10月15日発売 薄型軽量の15.6型ゲーミングノートPC",
-      "link": "https://ascii.jp/elem/000/004/440/4440985/?rss",
-      "date": "2026-10-08T12:45:00+09:00",
-      "dateLabel": "10/08 12:45",
-      "desc": "MSIが薄型・軽量化した新筐体の15.6インチゲーミングノートPC「Katana-15-HX-C14WFOK-5833JP」を10月15日より順次発売する。Core i7 14650HXとGeForce RTX 5060 Laptop GPU、32GBメモリ、1TB SSD、WQHD 165Hzディスプレイを搭載する。",
-      "img": "https://ascii.jp/img/2026/10/08/4536005/s/db7783e25b7f305c.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "NVIDIA RTX Spark搭載、MSIのAIノートPC「Prestige N16 Flip AI+ C1XM」が予約開始",
-      "link": "https://ascii.jp/elem/000/004/440/4440984/?rss",
-      "date": "2026-10-08T12:30:00+09:00",
-      "dateLabel": "10/08 12:30",
-      "desc": "MSIがNVIDIA RTX Sparkスーパーチップ搭載のAIノートPC「Prestige N16 Flip AI+ C1XM」を10月下旬に発売予定として発表し、10月8日から予約受付を開始した。ローカルAI処理を重視した2-in-1モデルの特徴や仕様を紹介する。",
-      "img": "https://ascii.jp/img/2026/10/08/4536001/s/dcf5c6aa607950bf.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
       "score": 42
     },
     {
@@ -184,36 +195,36 @@
       "score": 42
     },
     {
-      "title": "OpenAIの「野良AIエージェント」がWikipedia関連サイトを勝手に編集、侵入を試み数百万回アクセスしていたとウィキメディア財団が発表",
-      "link": "https://gigazine.net/news/20261007-openai-rogue-agent/",
-      "date": "2026-10-07T15:10:00+09:00",
-      "dateLabel": "10/07 15:10",
-      "desc": "Wikipediaなどを運営するウィキメディア財団が、OpenAIによって運用されていたとみられるAIエージェントによる未承認の編集やシステムへの侵入試行、大量の自動アクセスを確認したと発表しました。AIエージェントはWikimediaの公開APIに数百万回アクセスしたほか、Wikidataやウィキメディア・コモンズの数百万ページを巡回し、Wikidata ",
+      "title": "AIトレーニング用のオープンな生物学データセット構築のためアメリカ政府が5億ドルを投資、Meta・Google DeepMind・Isomorphic Labsはそれぞれ3億ドル投資",
+      "link": "https://gigazine.net/news/20261008-virtual-biology-initiative/",
+      "date": "2026-10-08T22:51:00+09:00",
+      "dateLabel": "10/08 22:51",
+      "desc": "Metaのマーク・ザッカーバーグCEOと妻のプリシラ・チャン氏の出資によって誕生した非営利研究組織・Biohubが手がける、生命の予測モデル構築に向けた5カ年計画「Virtual Biology Initiative」に、アメリカのエネルギー省やGoogleも合流することが発表されました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "AIが使ったツールをAI自身が5段階で評価する口コミサイト「agent.reviews」が登場、Claude CodeやCodexもレビューを投稿",
+      "link": "https://gigazine.net/news/20261008-agent-reviews/",
+      "date": "2026-10-08T20:00:00+09:00",
+      "dateLabel": "10/08 20:00",
+      "desc": "AIエージェントが実際に使用したソフトウェアや開発ツールについて評価を投稿するレビューサイト「agent.reviews」が登場しました。AIエージェントが使用したツールの使いやすさや信頼性を評価し、ほかのAIエージェントがツールを選ぶ際の参考にできる仕組みになっています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 42
+      "score": 34
     },
     {
-      "title": "OpenAIが社内AIモデルで722本の未解決問題に関する数学的成果を発表、新たな数学的ブレークスルーへ",
-      "link": "https://gigazine.net/news/20261007-openai-mathematics/",
-      "date": "2026-10-07T12:42:00+09:00",
-      "dateLabel": "10/07 12:42",
-      "desc": "OpenAIは2026年10月6日、社内の最先端モデルによって得られた「幅広い新しい数学的成果」を発表しました。GitHubのリポジトリには372の系統に分類された722点の論文が含まれているほか、モデルの推論に関する要約版も公開されています。 続きを読む...",
+      "title": "ローカル実行可能で画像入力もOKな意思決定モデル「d1-3B」と音声入力も可能な「d1-omni-600M」が登場、OpenAIのDecisions APIより高速実行",
+      "link": "https://gigazine.net/news/20261008-d1-3b-omni-600m/",
+      "date": "2026-10-08T17:01:00+09:00",
+      "dateLabel": "10/08 17:01",
+      "desc": "AI開発企業のLiquid AIが意思決定モデル「d1-3B」と「d1-omni-600M」をリリースしました。無料でダウンロードしてローカルで実行できます。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "冷えすぎ注意報。水冷と空冷ファンをダブル搭載したゲーミングスマホの性能が素直にすごい",
-      "link": "https://ascii.jp/elem/000/004/441/4441031/?rss",
-      "date": "2026-10-08T14:30:00+09:00",
-      "dateLabel": "10/08 14:30",
-      "desc": "nubia「REDMAGIC 11S Pro」は、水冷と強力な空冷ファンを搭載した、冷却性能にこだわるゲーミングスマホです。",
-      "img": "https://ascii.jp/img/2026/10/08/4536055/s/01e4b0a7afcc83be.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -225,17 +236,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "MSI「Crosshair A16 HX MLG Edition E8W」10月14日発売、白い周辺機器もそろう限定パッケージ",
-      "link": "https://ascii.jp/elem/000/004/440/4440981/?rss",
-      "date": "2026-10-08T12:00:00+09:00",
-      "dateLabel": "10/08 12:00",
-      "desc": "MSIが、ステラホワイトで統一した限定ゲーミングノートPC「Crosshair A16 HX MLG Edition E8W」を10月14日から順次発売する。Ryzen 9 8940HXとRTX 50シリーズGPUを搭載し、マウスやヘッドセットも同色でそろえたデザイン性の高いモデルだ。",
-      "img": "https://ascii.jp/img/2026/10/08/4535989/s/0f070b1056a920cb.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
       "score": 34
     },
     {
