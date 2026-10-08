@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-08T09:33:57.635744+09:00",
-  "generatedLabel": "2026/10/08 09:33",
+  "generatedAt": "2026-10-08T15:48:40.665447+09:00",
+  "generatedLabel": "2026/10/08 15:48",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 63,
+  "candidates": 60,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -65,8 +65,8 @@
     {
       "title": "Anthropic、「Claude Haiku 5.5」公開 「Haiku 4.5」から大幅性能向上で利用コスト約75％減",
       "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002112/",
-      "date": "2026-10-08T07:25:53+09:00",
-      "dateLabel": "10/08 07:25",
+      "date": "2026-10-08T10:37:32+09:00",
+      "dateLabel": "10/08 10:37",
       "desc": "Anthropicは、小型AIモデル「Claude Haiku 5.5」を発表した。前世代から性能を大きく引き上げつつ、コストを約75％削減。推論の深さを調整するeffort設定に初対応し、コンピュータ操作や大量の定型処理、上位モデルのサブエージェント向けに全プラットフォームで即日提供された。",
       "img": "",
       "src": "ITmedia AI+",
@@ -74,68 +74,46 @@
       "score": 74
     },
     {
-      "title": "「AIがAIを改善する」技術開発へ――RSIの現在地と、業務完結型AIエージェントの仕組み",
-      "link": "https://ascii.jp/elem/000/004/439/4439966/?rss",
-      "date": "2026-10-08T07:00:00+09:00",
-      "dateLabel": "10/08 07:00",
-      "desc": "東大発AIベンチャーの株式会社ELYZA（イライザ）は10月2日、都内で記者発表会を開催し、AIが自らの性能を改善する「RSI（再帰的自己改善）」をテーマに、専門の研究組織「ELYZA RSI Research」の設立と初期成果を発表した。",
-      "img": "https://ascii.jp/img/2026/10/05/4534180/s/44127cde401d318f.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
-      "title": "OpenAIの「野良AIエージェント」がWikipedia関連サイトを勝手に編集、侵入を試み数百万回アクセスしていたとウィキメディア財団が発表",
-      "link": "https://gigazine.net/news/20261007-openai-rogue-agent/",
-      "date": "2026-10-07T15:10:00+09:00",
-      "dateLabel": "10/07 15:10",
-      "desc": "Wikipediaなどを運営するウィキメディア財団が、OpenAIによって運用されていたとみられるAIエージェントによる未承認の編集やシステムへの侵入試行、大量の自動アクセスを確認したと発表しました。AIエージェントはWikimediaの公開APIに数百万回アクセスしたほか、Wikidataやウィキメディア・コモンズの数百万ページを巡回し、Wikidata ",
+      "title": "Google、AI生成物の判定ツールを一般公開 OpenAIやNVIDIA製サービスも対象に",
+      "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002128/",
+      "date": "2026-10-08T13:25:25+09:00",
+      "dateLabel": "10/08 13:25",
+      "desc": "米Googleは10月7日（現地時間）、AI生成コンテンツの判定ツール「SynthID Detector」を一般公開したと発表した。これまではジャーナリストや研究者など一部に限って提供していた。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
       "score": 50
     },
     {
-      "title": "OpenAIが社内AIモデルで722本の未解決問題に関する数学的成果を発表、新たな数学的ブレークスルーへ",
-      "link": "https://gigazine.net/news/20261007-openai-mathematics/",
-      "date": "2026-10-07T12:42:00+09:00",
-      "dateLabel": "10/07 12:42",
-      "desc": "OpenAIは2026年10月6日、社内の最先端モデルによって得られた「幅広い新しい数学的成果」を発表しました。GitHubのリポジトリには372の系統に分類された722点の論文が含まれているほか、モデルの推論に関する要約版も公開されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
-      "title": "Googleが画像生成AI「Nano Banana 2.1」を公開、人物の一貫性や編集機能が向上",
-      "link": "https://gigazine.net/news/20261007-nano-banana-2-1/",
-      "date": "2026-10-07T12:16:00+09:00",
-      "dateLabel": "10/07 12:16",
-      "desc": "Googleが画像生成AI「Nano Banana 2.1」を発表しました。2026年5月に正式リリースされた「Nano Banana 2」のアップデート版で、Gemini 3.6 FlashをベースにしていることでFlashレベルの速度と費用対効果を維持しながら、1K・2K・4Kの解像度でビジュアル品質、テキストレンダリング、マルチターンの整合性、Goog",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
-      "title": "Google、「Nano Banana 2.1」公開 APIの画像出力料金は「Nano Banana 2」の約半額に",
-      "link": "https://www.itmedia.co.jp/news/article/2610/07/2000002078/",
-      "date": "2026-10-07T11:53:08+09:00",
-      "dateLabel": "10/07 11:53",
-      "desc": "Googleは、画像生成・編集モデル「Nano Banana 2.1」を発表した。「Gemini 3.6 Flash」ベースで最大100万トークンに対応。ベンチマークでは従来モデルやPro版を上回るスコアを記録した。検索の「AIモード」やGeminiアプリ等で順次提供され、APIの画像出力料金は前モデル比でほぼ半額になった。",
+      "title": "「ChatGPT for Teens」は「容認できないリスク」と米非営利団体が警告 OpenAIは利用状況と新機能を発表",
+      "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002125/",
+      "date": "2026-10-08T13:00:45+09:00",
+      "dateLabel": "10/08 13:00",
+      "desc": "米非営利団体Common Sense Mediaは、OpenAIの10代向け環境「ChatGPT for Teens」について、保護者通知などが機能せず安全基準を下回るとして「容認できないリスク」と評価した。一方OpenAIは同日、10代の学習利用実績や大学出願支援「College Planner」の導入計画を公表した。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 50
     },
     {
-      "title": "Mistral、1兆パラメータの「Mistral Large 4」（通称「Le Chonk」）発表 10月末にオープンウェイトで公開へ",
-      "link": "https://www.itmedia.co.jp/news/article/2610/07/2000002075/",
-      "date": "2026-10-07T10:43:15+09:00",
-      "dateLabel": "10/07 10:43",
-      "desc": "Mistral AIは、最大モデル「Mistral Large 4」のプレビュー版を公開した。総パラメータ1兆500億のMoE型で、画像認識や推論・指示応答の切り替えに対応。特にサイバーセキュリティやコーディングで高い性能を示し、脆弱性再現テストでは全モデル中最高を記録。モデルの重みは月末に公開予定だ。",
+      "title": "ChatGPTの無料プランでも「GPT-6 Luna」が利用可能に、画像やグラフを組み合わせて回答する新機能「インテリジェントUI」も登場",
+      "link": "https://gigazine.net/news/20261008-openai-gpt-6-luna/",
+      "date": "2026-10-08T11:20:00+09:00",
+      "dateLabel": "10/08 11:20",
+      "desc": "OpenAIは2026年10月7日にChatGPTの新たなAIモデル「GPT-6」の提供範囲を無料ユーザーにも拡大すると発表しました。さらに、質問内容に応じて画像・グラフ・操作可能なボタンなどを組み合わせて回答する新機能「Intelligent UI(インテリジェントUI)」も発表しています。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
+      "title": "「Claude Haiku 5.5」が登場、GPT-6 Lunaより高性能で前モデルより9割引きの安価なモデル",
+      "link": "https://gigazine.net/news/20261008-claude-haiku-5-5/",
+      "date": "2026-10-08T10:44:00+09:00",
+      "dateLabel": "10/08 10:44",
+      "desc": "AnthropicがAIモデル「Claude Haiku 5.5」を現地時間の2026年10月7日にリリースしました。前世代モデルのClaude Haiku 4.5と比べて性能が飛躍的に向上しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 50
     },
@@ -151,69 +129,124 @@
       "score": 48
     },
     {
-      "title": "最大1ペタフロップスをノートPCに。ASUS「ProArt P16／P14」日本展開へ",
-      "link": "https://ascii.jp/elem/000/004/440/4440935/?rss",
-      "date": "2026-10-08T07:30:00+09:00",
-      "dateLabel": "10/08 07:30",
-      "desc": "ASUS JAPANが、NVIDIA RTX Spark搭載のクリエイター向けAIノートPC「ProArt P16 (H7607)」「ProArt P14 (H7407)」の日本取り扱いを発表した。発売は10月下旬以降予定で、AI処理や動画編集、3Dレンダリングに向く次世代モデルだ。",
-      "img": "https://ascii.jp/img/2026/10/08/4535844/s/77baa90172e0fee2.jpg",
+      "title": "AI生成画像やAI生成動画を見分けるGoogleサービス「SynthID Detector」が誰でも使用可能に、Google・OpenAI・AppleのどのAIかも判別可能",
+      "link": "https://gigazine.net/news/20261008-synth-id-ai-content/",
+      "date": "2026-10-08T13:25:00+09:00",
+      "dateLabel": "10/08 13:25",
+      "desc": "GoogleはAIで生成されたコンテンツを迅速かつ効率的に識別するための検証ポータル「SynthID Detector」を2025年5月に発表しました。これまではテスター向けに限定公開されていましが、2026年10月7日に一般公開されて誰でも利用可能となったので実際に使ってみました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "MSI「Katana 15 HX」新モデル、RTX 5060搭載で10月15日発売 薄型軽量の15.6型ゲーミングノートPC",
+      "link": "https://ascii.jp/elem/000/004/440/4440985/?rss",
+      "date": "2026-10-08T12:45:00+09:00",
+      "dateLabel": "10/08 12:45",
+      "desc": "MSIが薄型・軽量化した新筐体の15.6インチゲーミングノートPC「Katana-15-HX-C14WFOK-5833JP」を10月15日より順次発売する。Core i7 14650HXとGeForce RTX 5060 Laptop GPU、32GBメモリ、1TB SSD、WQHD 165Hzディスプレイを搭載する。",
+      "img": "https://ascii.jp/img/2026/10/08/4536005/s/db7783e25b7f305c.png",
       "src": "ASCII.jp",
       "cat": "半導体/GPU",
       "score": 42
     },
     {
-      "title": "Microsoft、Windowsを「ハイブリッドインテリジェンス」の基盤に ローカルとクラウドのAIを使い分け CopilotはファイルやPC操作にも対応",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/08/2000002111/",
-      "date": "2026-10-08T04:28:13+09:00",
-      "dateLabel": "10/08 04:28",
-      "desc": "米Microsoftは10月7日（現地時間）、Windowsを「ハイブリッドインテリジェンス」の基盤と位置付ける新たな方針を発表した。AIエージェントを必要に応じてローカルPC上で実行し、より大きな能力が必要な場合はクラウドを使う仕組みをOSレベルで整える。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "ClaudeがGoogleドキュメントやGoogleスプレッドシートと接続可能に",
-      "link": "https://gigazine.net/news/20261007-claude-for-google-workspace/",
-      "date": "2026-10-07T12:02:00+09:00",
-      "dateLabel": "10/07 12:02",
-      "desc": "Anthropicが、Claude向けのアドオン「Claude for Google Workspace」をパブリックベータとしてリリースしました。GoogleドキュメントやGoogleスプレッドシート、GoogleスライドにClaudeを接続して直接ファイルを編集できます。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "1兆パラメータ超の「Mistral Large 4 Le Chonk」をMistralが発表、中国勢に対抗するオープンウェイトAIモデル",
-      "link": "https://gigazine.net/news/20261007-mistral-large-4-le-chonk/",
-      "date": "2026-10-07T11:15:00+09:00",
-      "dateLabel": "10/07 11:15",
-      "desc": "フランスのAI企業・Mistralが総パラメータ数が1兆を超える新しいAIモデル「Mistral Large 4」を2026年10月6日に発表しました。Mistral Large 4は「Le Chonk」の愛称を持つマルチモーダルモデルで、Mistralによるとその性能は「中国企業が開発する有力なオープンウェイトモデルに匹敵する」とのことです。 続きを読む.",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "OpenAI、社内AIがリーマン予想の関連難問を証明と主張 論文722本をGitHubで公開",
-      "link": "https://www.itmedia.co.jp/news/article/2610/07/2000002071/",
-      "date": "2026-10-07T09:32:40+09:00",
-      "dateLabel": "10/07 09:32",
-      "desc": "OpenAIは、社内のフロンティアモデルが生み出した数学の成果722本をGitHubで公開した。多くに証明支援系「Lean」による形式証明が付く。数学者らの独立組織AGMAIの提言を参考にしたもので、計算量や推論過程の要約も開示。過去の発表を巡る論争を踏まえ、数学界との対話や理解促進に向けた支援も進める。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "NotionがAIエージェントではなく、コンテキスト基盤に注力する理由",
-      "link": "https://ascii.jp/elem/000/004/440/4440885/?rss",
-      "date": "2026-10-08T09:00:00+09:00",
-      "dateLabel": "10/08 09:00",
-      "desc": "AIワークスペース「Notion」を提供するNotion Labs Japanは2026年10月1日、メディアラウンドテーブルを開催。CEOのアイバン・ザオ氏、CTOのマックス・ショーニング氏、そして8月に日本法人のゼネラルマネージャーに就任した青木友氏が登壇し、AI領域におけるコンテキストレイヤーへの注力やエンタープライズ市場の課題と取り組みについて説明し",
-      "img": "https://ascii.jp/img/2026/10/07/4535626/s/48279ead00d7078e.jpg",
+      "title": "NVIDIA RTX Spark搭載、MSIのAIノートPC「Prestige N16 Flip AI+ C1XM」が予約開始",
+      "link": "https://ascii.jp/elem/000/004/440/4440984/?rss",
+      "date": "2026-10-08T12:30:00+09:00",
+      "dateLabel": "10/08 12:30",
+      "desc": "MSIがNVIDIA RTX Sparkスーパーチップ搭載のAIノートPC「Prestige N16 Flip AI+ C1XM」を10月下旬に発売予定として発表し、10月8日から予約受付を開始した。ローカルAI処理を重視した2-in-1モデルの特徴や仕様を紹介する。",
+      "img": "https://ascii.jp/img/2026/10/08/4536001/s/dcf5c6aa607950bf.png",
       "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "ChatGPT、無料版を含む全ユーザーに「GPT-6」 回答内に“操作できる画面”を生成する「Intelligent UI」搭載",
+      "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002119/",
+      "date": "2026-10-08T11:09:40+09:00",
+      "dateLabel": "10/08 11:09",
+      "desc": "OpenAIは、ChatGPTに新モデル「GPT-6」を搭載し順次提供を開始した。テキストに加え図や操作可能なボタン、フォームなどを回答として生成する「Intelligent UI」を導入。思考しながら回答を出力する機能も備える。有料プランから順次提供を始め、無料プランやGoプランにも翌日から展開する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "Google、プロンプトでゲームを作って遊べる「Playground」を米国で公開 「Unity Spark」も年内投入",
+      "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002117/",
+      "date": "2026-10-08T10:22:19+09:00",
+      "dateLabel": "10/08 10:22",
+      "desc": "Googleはテキスト入力だけでゲームを作成・共有できるプラットフォーム「Playground」をWebブラウザ向けに発表した。まずは米国の成人向けに提供する。あわせてUnityとの提携で、高精細な3D表現やアセットを活用して機能拡張を図る「Unity Spark」を年内に投入することも発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 42
+    },
+    {
+      "title": "OpenAIの「野良AIエージェント」がWikipedia関連サイトを勝手に編集、侵入を試み数百万回アクセスしていたとウィキメディア財団が発表",
+      "link": "https://gigazine.net/news/20261007-openai-rogue-agent/",
+      "date": "2026-10-07T15:10:00+09:00",
+      "dateLabel": "10/07 15:10",
+      "desc": "Wikipediaなどを運営するウィキメディア財団が、OpenAIによって運用されていたとみられるAIエージェントによる未承認の編集やシステムへの侵入試行、大量の自動アクセスを確認したと発表しました。AIエージェントはWikimediaの公開APIに数百万回アクセスしたほか、Wikidataやウィキメディア・コモンズの数百万ページを巡回し、Wikidata ",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "OpenAIが社内AIモデルで722本の未解決問題に関する数学的成果を発表、新たな数学的ブレークスルーへ",
+      "link": "https://gigazine.net/news/20261007-openai-mathematics/",
+      "date": "2026-10-07T12:42:00+09:00",
+      "dateLabel": "10/07 12:42",
+      "desc": "OpenAIは2026年10月6日、社内の最先端モデルによって得られた「幅広い新しい数学的成果」を発表しました。GitHubのリポジトリには372の系統に分類された722点の論文が含まれているほか、モデルの推論に関する要約版も公開されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "冷えすぎ注意報。水冷と空冷ファンをダブル搭載したゲーミングスマホの性能が素直にすごい",
+      "link": "https://ascii.jp/elem/000/004/441/4441031/?rss",
+      "date": "2026-10-08T14:30:00+09:00",
+      "dateLabel": "10/08 14:30",
+      "desc": "nubia「REDMAGIC 11S Pro」は、水冷と強力な空冷ファンを搭載した、冷却性能にこだわるゲーミングスマホです。",
+      "img": "https://ascii.jp/img/2026/10/08/4536055/s/01e4b0a7afcc83be.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "MicrosoftがローカルAI「MAI-Code-1.1-Flash」をリリース＆ローカルAIとクラウドAIを組み合わせた「ハイブリッドインテリジェンス」も提唱",
+      "link": "https://gigazine.net/news/20261008-hybrid-intelligence-mai-code-flash/",
+      "date": "2026-10-08T13:25:00+09:00",
+      "dateLabel": "10/08 13:25",
+      "desc": "Microsoftがローカルでの実行を念頭に開発したAIモデル「MAI-Code-1.1-Flash」を発表しました。また、WindowsのAI機能を強化してPC上でローカル実行するAIとクラウド上で動作するAIを組み合わせた「Hybrid Intelligence(ハイブリッドインテリジェンス)」を実現する姿勢も示しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "MSI「Crosshair A16 HX MLG Edition E8W」10月14日発売、白い周辺機器もそろう限定パッケージ",
+      "link": "https://ascii.jp/elem/000/004/440/4440981/?rss",
+      "date": "2026-10-08T12:00:00+09:00",
+      "dateLabel": "10/08 12:00",
+      "desc": "MSIが、ステラホワイトで統一した限定ゲーミングノートPC「Crosshair A16 HX MLG Edition E8W」を10月14日から順次発売する。Ryzen 9 8940HXとRTX 50シリーズGPUを搭載し、マウスやヘッドセットも同色でそろえたデザイン性の高いモデルだ。",
+      "img": "https://ascii.jp/img/2026/10/08/4535989/s/0f070b1056a920cb.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "メモリ128GBでAI処理特化なRTX Spark搭載のMicrosoft製ノートPC「Surface Laptop Ultra」とミニPC「Surface RTX Spark Dev Box」の予約販売が始まる",
+      "link": "https://gigazine.net/news/20261008-microsoft-surface-nvidia-rtx-spark/",
+      "date": "2026-10-08T11:13:00+09:00",
+      "dateLabel": "10/08 11:13",
+      "desc": "2026年10月7日、MicrosoftがNVIDIAのノートPC向けのSoC「RTX Spark」を搭載したPC群の予約販売を開始しました。最大128GBのユニファイドメモリを搭載可能で、大型のAIモデルをローカルで実行できます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -247,39 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "「RTX Spark」は41万円からで10月16日発売!!＝ASUSが次世代CPU搭載ノートPC「ProArt P14/P16」を予約開始!!",
-      "link": "https://ascii.jp/elem/000/004/440/4440927/?rss",
-      "date": "2026-10-08T04:30:00+09:00",
-      "dateLabel": "10/08 04:30",
-      "desc": "ASUSはNVIDIAの次世代チップ「RTX Spark」搭載ノートPC「ProArtシリーズ」の予約を開始しました",
-      "img": "https://ascii.jp/img/2026/10/07/4535797/s/0a36458207f6d7ea.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "ChatGPTが生成したマンガに「実在するマンガ家の署名」が含まれているとの指摘",
-      "link": "https://gigazine.net/news/20261007-chatgpt-adding-real-cartoonists-signatures-fake/",
-      "date": "2026-10-07T20:00:00+09:00",
-      "dateLabel": "10/07 20:00",
-      "desc": "生成AIによる画像生成能力はますます進化しており、まるで人間のイラストレーターやマンガ家が描いたような画像を容易に生成することが可能です。ハーバード大学のジャーナリズム機関であるNieman Jounalism Labが、OpenAIのChatGPTが生成したマンガに「実在するマンガ家の署名」が含まれていると報じました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "AIによって開発されたオープンソースのAIアクセラレータ「openTPU」が登場",
-      "link": "https://gigazine.net/news/20261007-opentpu/",
-      "date": "2026-10-07T19:00:00+09:00",
-      "dateLabel": "10/07 19:00",
-      "desc": "AIを使ってAI向けハードウェアを設計するオープンソースプロジェクト「openTPU」が公開されています。openTPUは、AIモデルを高速に動かすための専用アクセラレーターをAIエージェントも活用しながら開発する試みで、Qwen3やQwen3.5、Gemma 4など複数の言語モデルを実際のFPGAカード上で動かすことに成功しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
       "score": 34
     }
   ]
