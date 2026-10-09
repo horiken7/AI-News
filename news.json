@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-09T23:05:03.826852+09:00",
-  "generatedLabel": "2026/10/09 23:05",
+  "generatedAt": "2026-10-10T04:53:44.549050+09:00",
+  "generatedLabel": "2026/10/10 04:53",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 57,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -173,17 +173,6 @@
       "score": 42
     },
     {
-      "title": "さくらインターネット、GPU専有によりトークン消費量を気にせず定額で利用できる「さくらのAI Engineプライベートエディション」提供開始を発表",
-      "link": "https://www.publickey1.jp/blog/26/gpuai_engine.html",
-      "date": "2026-10-09T00:49:01+09:00",
-      "dateLabel": "10/09 00:49",
-      "desc": "さくらインターネットは、GPUサーバ上で基盤モデルを展開しマネージドサービスとして提供する「さくらのAI Engine」を、企業がGPUを専有して使える「さくらのAI Engine プライベートエディション」の提供開始を発表しました。 お知...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
       "title": "Google、AI生成物の判定ツールを一般公開 OpenAIやNVIDIA製サービスも対象に",
       "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002128/",
       "date": "2026-10-08T13:25:25+09:00",
@@ -204,6 +193,17 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 42
+    },
+    {
+      "title": "AIエージェント開発とは？進め方8ステップと費用相場・失敗しないコツ",
+      "link": "https://ainow.ai/2026/10/10/278427/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e9%2596%258b%25e7%2599%25ba%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e9%2580%25b2%25e3%2582%2581%25e6%2596%25b98%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583%25e3%2583%2597%25e3%2581%25a8%25e8%25b2%25bb%25e7%2594%25a8",
+      "date": "2026-10-10T03:55:03+09:00",
+      "dateLabel": "10/10 03:55",
+      "desc": "AIエージェント開発とは、LLMにツールや記憶、権限を組み合わせ、業務を自律的に進めるシステムを作ることです。本記事では、要件定義から運用改善までの8ステップと、費用相場・内製と外注の判断基準を解説します。 経営層から「... The post AIエージェント開発とは？進め方8ステップと費用相場・失敗しないコツ first appeared on AI専門",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "MSIのポータブルゲーミングPCが、すごく進化してる。持ち歩ける8インチ大画面＆120Hz駆動は最高だ",
@@ -239,7 +239,7 @@
       "score": 34
     },
     {
-      "title": "GoogleがGemma 2・Gemma 4などのAIアシスタントで会議を記録するmacOSノートアプリ「Google AI Edge Foresight」リリース",
+      "title": "GoogleがEmbeddingGemma 2・Gemma 4などのAIアシスタントで会議を記録するmacOSノートアプリ「Google AI Edge Foresight」リリース",
       "link": "https://gigazine.net/news/20261009-google-ai-edge-foresight/",
       "date": "2026-10-09T13:57:00+09:00",
       "dateLabel": "10/09 13:57",
