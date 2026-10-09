@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-09T15:57:24.791445+09:00",
-  "generatedLabel": "2026/10/09 15:57",
+  "generatedAt": "2026-10-09T23:05:03.826852+09:00",
+  "generatedLabel": "2026/10/09 23:05",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 58,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -83,6 +83,28 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 48
+    },
+    {
+      "title": "ChatGPT、ついに音声ファイルに対応 文字起こしや要約などが可能に 有料ユーザー向け",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002182/",
+      "date": "2026-10-09T19:44:36+09:00",
+      "dateLabel": "10/09 19:44",
+      "desc": "米OpenAIは10月9日（日本時間）までに、「ChatGPT」が音声ファイルのアップロードに対応したと発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "ロシアとイランがプロパガンダ工作で用いたChatGPTアカウントをOpenAIが停止、工作の影響度は6段階中4～5",
+      "link": "https://gigazine.net/news/20261009-openai-disrupted-russian-operation-dark-clark/",
+      "date": "2026-10-09T19:30:00+09:00",
+      "dateLabel": "10/09 19:30",
+      "desc": "OpenAIがロシアやイランによる「AI生成の架空組織・架空人物を用いた影響工作」に利用されたアカウントを停止したと発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "OpenAIがAIで大量の数学的成果を発表したのは「学術的成果ではなく権力の誇示に過ぎない」との指摘",
@@ -184,6 +206,39 @@
       "score": 42
     },
     {
+      "title": "MSIのポータブルゲーミングPCが、すごく進化してる。持ち歩ける8インチ大画面＆120Hz駆動は最高だ",
+      "link": "https://ascii.jp/elem/000/004/440/4440449/?rss",
+      "date": "2026-10-09T22:00:00+09:00",
+      "dateLabel": "10/09 22:00",
+      "desc": "MSI「Claw-8-EX-AI+CG3EM-406JP」は、次世代の「Arc G3 Extreme」による高いGPUパワーを備えたポータブルゲーミングPCです。",
+      "img": "https://ascii.jp/img/2026/10/06/4535005/s/e61523175a0aad6c.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "jevやGPT-6 Luna Decisionsなどの素早い判断に特化した確率モデルがパックマンをプレイするベンチマーク「jevman」",
+      "link": "https://gigazine.net/news/20261009-jevman/",
+      "date": "2026-10-09T20:00:00+09:00",
+      "dateLabel": "10/09 20:00",
+      "desc": "「jevman」は、AIにパックマンをプレイさせて、状況に応じた判断能力を比較するベンチマークです。 AI向けのAPIサービスを提供するOpperが公開しており、6種類のAIモデルにそれぞれ100回ずつパックマンをプレイさせ、その得点や判断速度、実行コストなどを比較しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "MetaやOpenAIが「.agent」を新ドメインとしてICANNに申請、「.agi」やトランプ大統領の「.trump」に加え日本からは「.neko」も",
+      "link": "https://gigazine.net/news/20261009-icann-reveals-bids-new-domains-ai/",
+      "date": "2026-10-09T16:00:00+09:00",
+      "dateLabel": "10/09 16:00",
+      "desc": "URLのドメイン名の最後に付く「.com」や「.org」などのトップレベルドメイン(TLD)を管理するICANNが、2026年度に申請を受け付けた新ドメインの一覧を発表しました。MetaやOpenAIなど13の申請者が「.agent」を申請したほか、「.agi」「asi」などの「人工知能(AI)」や「超知能(SI)」に関連するドメインに多数の申請が寄せられて",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "GoogleがGemma 2・Gemma 4などのAIアシスタントで会議を記録するmacOSノートアプリ「Google AI Edge Foresight」リリース",
       "link": "https://gigazine.net/news/20261009-google-ai-edge-foresight/",
       "date": "2026-10-09T13:57:00+09:00",
@@ -202,17 +257,6 @@
       "desc": "Anthropicは、社会インフラ保護を支援する「Anthropic Cyber Mission」を発表した。電力や交通などの制御機器防御を担う事業者を支援する「CIDP」と、最上位モデルでOSSの脆弱性を無償スキャンする「OSS Scanner」の2施策を開始し、防御側にAIや研究成果、技術者を提供する。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "KADODE、OpenAI Partner Networkにおける「OpenAI Select Partner」に選定",
-      "link": "https://ascii.jp/elem/000/004/441/4441568/?rss",
-      "date": "2026-10-09T13:00:00+09:00",
-      "dateLabel": "10/09 13:00",
-      "desc": "KADODE、OpenAI Partner Networkにおける「OpenAI Select Partner」に選定",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
       "cat": "LLM/モデル",
       "score": 34
     },
@@ -236,50 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "トランプ大統領、マスク氏やフアン氏ら6人に米国家科学賞と国家技術革新賞を授与",
-      "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002159/",
-      "date": "2026-10-09T11:33:07+09:00",
-      "dateLabel": "10/09 11:33",
-      "desc": "米トランプ政権は科学サミットを開催し、トランプ大統領がイーロン・マスク氏やNVIDIAのジェンスン・フアンCEOら6人に国家科学賞と国家技術革新賞を授与した。半導体やSI（旧AI）、宇宙探査、クラウドなどの分野で米国のリーダーシップと技術革新に貢献した功績を最高栄誉として称えた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "“クールジャパン機構の二の舞”か？ 2兆円支援のラピダス、2ナノ半導体工場あっても拭えぬ「顧客不在」の懸念",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/09/news048.html",
-      "date": "2026-10-09T07:00:00+09:00",
-      "dateLabel": "10/09 07:00",
-      "desc": "“日の丸半導体”再興の切り札とされるRapidusは、東芝など半導体設計企業17社と提携した。“最大の課題”を解決し、TSMCの牙城を崩せるのか。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "AIトレーニング用のオープンな生物学データセット構築のためアメリカ政府が5億ドルを投資、Meta・Google DeepMind・Isomorphic Labsはそれぞれ3億ドル投資",
-      "link": "https://gigazine.net/news/20261008-virtual-biology-initiative/",
-      "date": "2026-10-08T22:51:00+09:00",
-      "dateLabel": "10/08 22:51",
-      "desc": "Metaのマーク・ザッカーバーグCEOと妻のプリシラ・チャン氏の出資によって誕生した非営利研究組織・Biohubが手がける、生命の予測モデル構築に向けた5カ年計画「Virtual Biology Initiative」に、アメリカのエネルギー省やGoogleも合流することが発表されました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "AIが使ったツールをAI自身が5段階で評価する口コミサイト「agent.reviews」が登場、Claude CodeやCodexもレビューを投稿",
-      "link": "https://gigazine.net/news/20261008-agent-reviews/",
-      "date": "2026-10-08T20:00:00+09:00",
-      "dateLabel": "10/08 20:00",
-      "desc": "AIエージェントが実際に使用したソフトウェアや開発ツールについて評価を投稿するレビューサイト「agent.reviews」が登場しました。AIエージェントが使用したツールの使いやすさや信頼性を評価し、ほかのAIエージェントがツールを選ぶ際の参考にできる仕組みになっています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
       "score": 34
     }
   ]
