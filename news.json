@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-09T05:20:52.600009+09:00",
-  "generatedLabel": "2026/10/09 05:20",
+  "generatedAt": "2026-10-09T09:49:09.541584+09:00",
+  "generatedLabel": "2026/10/09 09:49",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 53,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 18
+      "items": 19
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 2
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -129,6 +129,50 @@
       "score": 48
     },
     {
+      "title": "Anthropic、Claudeへの“虐待”を利用ポリシーで禁止 影響工作の規定も集約",
+      "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002149/",
+      "date": "2026-10-09T09:07:24+09:00",
+      "dateLabel": "10/09 09:07",
+      "desc": "Anthropicは、Claudeの利用ポリシー（Usage Policy）改定版を公開した。AIモデルへの継続的で残酷な振る舞いの禁止を新設したほか、プロパガンダや偽サイト運営などの欺瞞的活動に関する項目を集約。さらに兵器や監視、物理機器を操作する高リスクな用途における安全基準を明確化した。11月12日に発効する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "ASUS、9.2インチ液晶搭載PCケース「ROG CRONOX ARGB」発表 30mm厚ファンも登場",
+      "link": "https://ascii.jp/elem/000/004/441/4441348/?rss",
+      "date": "2026-10-09T09:00:00+09:00",
+      "dateLabel": "10/09 09:00",
+      "desc": "ASUSが9.2インチ液晶搭載のフルタワーPCケース「ROG CRONOX ARGB」と、30mm厚の120mmファン「ROG Eurux GR120 ARGB」を発表。ケースは最大14基のファンと400mm GPUに対応。両製品は10月9日発売。",
+      "img": "https://ascii.jp/img/2026/10/09/4536497/s/599acefd7f9f69bf.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "マニュアルが自動更新される世界へ 技術の継承に不安を抱える現場にスタディストが新構想",
+      "link": "https://ascii.jp/elem/000/004/441/4441340/?rss",
+      "date": "2026-10-09T09:00:00+09:00",
+      "dateLabel": "10/09 09:00",
+      "desc": "AIマニュアルを提供するスタディストは、Teachme BizのAI対応を強化するTeachmeシリーズの新機能である「Teachmeスタジオ」と、マニュアルの自動更新を可能にする新構想「CONNECT」および新製品「Teachme Knowledge」を発表した。メインターゲットとなる製造業での技能の継承やオペレーション改善を実現すべく、AI前提で製品を強",
+      "img": "https://ascii.jp/img/2026/10/09/4536429/s/168a665851e4a060.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 42
+    },
+    {
+      "title": "企業が使うAIモデル、1年半で6割超が「中国製」に 「最高性能のオープンモデルはほぼ中国発」の理由",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/09/news033.html",
+      "date": "2026-10-09T08:00:00+09:00",
+      "dateLabel": "10/09 08:00",
+      "desc": "RedMonkは、オープンウェイトモデルを地理的要因、ライセンス、能力、リスク、経済モデル、リリースタイミング、サイズ、蒸留という8つの観点から分析したブログ記事を公開した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 42
+    },
+    {
       "title": "さくらインターネット、GPU専有によりトークン消費量を気にせず定額で利用できる「さくらのAI Engineプライベートエディション」提供開始を発表",
       "link": "https://www.publickey1.jp/blog/26/gpuai_engine.html",
       "date": "2026-10-09T00:49:01+09:00",
@@ -195,6 +239,28 @@
       "score": 42
     },
     {
+      "title": "“クールジャパン機構の二の舞”か？ 2兆円支援のラピダス、2ナノ半導体工場あっても拭えぬ「顧客不在」の懸念",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/09/news048.html",
+      "date": "2026-10-09T07:00:00+09:00",
+      "dateLabel": "10/09 07:00",
+      "desc": "“日の丸半導体”再興の切り札とされるRapidusは、東芝など半導体設計企業17社と提携した。“最大の課題”を解決し、TSMCの牙城を崩せるのか。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "1on1ツールに生成AI機能を実装、事前助言から文字起こし・記録管理まで対応",
+      "link": "https://ascii.jp/elem/000/004/440/4440888/?rss",
+      "date": "2026-10-09T07:00:00+09:00",
+      "dateLabel": "10/09 07:00",
+      "desc": "株式会社KAKEAIは10月5日、1on1支援ツール「Kakeai」に生成AI機能を搭載した「Kakeai AI 1on1」の提供を開始したと発表した。",
+      "img": "https://ascii.jp/img/2026/10/07/4535638/s/1b5970d39083f752.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
       "title": "AIトレーニング用のオープンな生物学データセット構築のためアメリカ政府が5億ドルを投資、Meta・Google DeepMind・Isomorphic Labsはそれぞれ3億ドル投資",
       "link": "https://gigazine.net/news/20261008-virtual-biology-initiative/",
       "date": "2026-10-08T22:51:00+09:00",
@@ -214,72 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "ローカル実行可能で画像入力もOKな意思決定モデル「d1-3B」と音声入力も可能な「d1-omni-600M」が登場、OpenAIのDecisions APIより高速実行",
-      "link": "https://gigazine.net/news/20261008-d1-3b-omni-600m/",
-      "date": "2026-10-08T17:01:00+09:00",
-      "dateLabel": "10/08 17:01",
-      "desc": "AI開発企業のLiquid AIが意思決定モデル「d1-3B」と「d1-omni-600M」をリリースしました。無料でダウンロードしてローカルで実行できます。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "MicrosoftがローカルAI「MAI-Code-1.1-Flash」をリリース＆ローカルAIとクラウドAIを組み合わせた「ハイブリッドインテリジェンス」も提唱",
-      "link": "https://gigazine.net/news/20261008-hybrid-intelligence-mai-code-flash/",
-      "date": "2026-10-08T13:25:00+09:00",
-      "dateLabel": "10/08 13:25",
-      "desc": "Microsoftがローカルでの実行を念頭に開発したAIモデル「MAI-Code-1.1-Flash」を発表しました。また、WindowsのAI機能を強化してPC上でローカル実行するAIとクラウド上で動作するAIを組み合わせた「Hybrid Intelligence(ハイブリッドインテリジェンス)」を実現する姿勢も示しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "メモリ128GBでAI処理特化なRTX Spark搭載のMicrosoft製ノートPC「Surface Laptop Ultra」とミニPC「Surface RTX Spark Dev Box」の予約販売が始まる",
-      "link": "https://gigazine.net/news/20261008-microsoft-surface-nvidia-rtx-spark/",
-      "date": "2026-10-08T11:13:00+09:00",
-      "dateLabel": "10/08 11:13",
-      "desc": "2026年10月7日、MicrosoftがNVIDIAのノートPC向けのSoC「RTX Spark」を搭載したPC群の予約販売を開始しました。最大128GBのユニファイドメモリを搭載可能で、大型のAIモデルをローカルで実行できます。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "Anthropic、「Claude Haiku 5.5」のAPI料金を「Haiku 4.5」の10分の1に 「Sonnet 5.5」のキャッシュ読み込み料金は半額に",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/08/2000002114/",
-      "date": "2026-10-08T08:20:36+09:00",
-      "dateLabel": "10/08 08:20",
-      "desc": "Anthropicは、小型AI「Claude Haiku 5.5」のAPI提供を開始した。料金は10万トークン以下で前世代の10分の1になり、平均利用コストは約75％下がる。effort設定への初対応やSDKへのブラウザおよびコンピュータ使用ツールセット追加のほか、Sonnet 5.5のキャッシュ料金半額も行われた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "社内9部門、62体のエージェントをどう運用？ 「AI社員」が働く企業の実例",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/08/news018.html",
-      "date": "2026-10-08T08:00:00+09:00",
-      "dateLabel": "10/08 08:00",
-      "desc": "AIエージェントが実際に企業の業務を担うようになると、仕事はどのように回るのか。AIに何を任せ、人間は何を担うのか。生成AIの研修やコンサルティング、開発を手掛けるUravationが公開した「AI社員」62体の働き方から、その一例を見てみよう。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "AI“狂騒の半年”を振り返る Mythos公開、Fable停止、GPT-6登場――翻弄されない“堅実なAI導入”の鍵は",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/08/news016.html",
-      "date": "2026-10-08T07:00:00+09:00",
-      "dateLabel": "10/08 07:00",
-      "desc": "2026年4月に「Claude Mythos Preview」が公開されてから半年、AIを巡ってさまざまな出来事があった。狂騒に巻き込まれず、AI導入を堅実に進める鍵はどこにあるのか。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
       "score": 34
     }
   ]
