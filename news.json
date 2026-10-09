@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-09T09:49:09.541584+09:00",
-  "generatedLabel": "2026/10/09 09:49",
+  "generatedAt": "2026-10-09T15:57:24.791445+09:00",
+  "generatedLabel": "2026/10/09 15:57",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 55,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 19
+      "items": 20
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 12
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -63,59 +63,15 @@
   ],
   "articles": [
     {
-      "title": "Anthropic、「Claude Haiku 5.5」公開 「Haiku 4.5」から大幅性能向上で利用コスト約75％減",
-      "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002112/",
-      "date": "2026-10-08T10:37:32+09:00",
-      "dateLabel": "10/08 10:37",
-      "desc": "Anthropicは、小型AIモデル「Claude Haiku 5.5」を発表した。前世代から性能を大きく引き上げつつ、コストを約75％削減。推論の深さを調整するeffort設定に初対応し、コンピュータ操作や大量の定型処理、上位モデルのサブエージェント向けに全プラットフォームで即日提供された。",
+      "title": "Google「Gemini」新サービスで「Claude」利用可能に 他モデルも今後追加予定",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002152/",
+      "date": "2026-10-09T09:40:57+09:00",
+      "dateLabel": "10/09 09:40",
+      "desc": "Google Cloudは新サービス「Gemini Agent」を発表。クラウドで動作するマルチエージェントツールとされる。Geminiに加えて、Anthropicの「Claude Opus 5.5」「Claude Sonnet 5.5」が利用可能だと明かされている。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 74
-    },
-    {
-      "title": "Google、AI生成物の判定ツールを一般公開 OpenAIやNVIDIA製サービスも対象に",
-      "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002128/",
-      "date": "2026-10-08T13:25:25+09:00",
-      "dateLabel": "10/08 13:25",
-      "desc": "米Googleは10月7日（現地時間）、AI生成コンテンツの判定ツール「SynthID Detector」を一般公開したと発表した。これまではジャーナリストや研究者など一部に限って提供していた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
-      "title": "「ChatGPT for Teens」は「容認できないリスク」と米非営利団体が警告 OpenAIは利用状況と新機能を発表",
-      "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002125/",
-      "date": "2026-10-08T13:00:45+09:00",
-      "dateLabel": "10/08 13:00",
-      "desc": "米非営利団体Common Sense Mediaは、OpenAIの10代向け環境「ChatGPT for Teens」について、保護者通知などが機能せず安全基準を下回るとして「容認できないリスク」と評価した。一方OpenAIは同日、10代の学習利用実績や大学出願支援「College Planner」の導入計画を公表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
-      "title": "ChatGPTの無料プランでも「GPT-6 Luna」が利用可能に、画像やグラフを組み合わせて回答する新機能「インテリジェントUI」も登場",
-      "link": "https://gigazine.net/news/20261008-openai-gpt-6-luna/",
-      "date": "2026-10-08T11:20:00+09:00",
-      "dateLabel": "10/08 11:20",
-      "desc": "OpenAIは2026年10月7日にChatGPTの新たなAIモデル「GPT-6」の提供範囲を無料ユーザーにも拡大すると発表しました。さらに、質問内容に応じて画像・グラフ・操作可能なボタンなどを組み合わせて回答する新機能「Intelligent UI(インテリジェントUI)」も発表しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
-      "title": "「Claude Haiku 5.5」が登場、GPT-6 Lunaより高性能で前モデルより9割引きの安価なモデル",
-      "link": "https://gigazine.net/news/20261008-claude-haiku-5-5/",
-      "date": "2026-10-08T10:44:00+09:00",
-      "dateLabel": "10/08 10:44",
-      "desc": "AnthropicがAIモデル「Claude Haiku 5.5」を現地時間の2026年10月7日にリリースしました。前世代モデルのClaude Haiku 4.5と比べて性能が飛躍的に向上しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 50
+      "score": 58
     },
     {
       "title": "AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開。特定のLLMに依存せず入れ替え可能、任意のコンテナ環境にデプロイ",
@@ -129,6 +85,50 @@
       "score": 48
     },
     {
+      "title": "OpenAIがAIで大量の数学的成果を発表したのは「学術的成果ではなく権力の誇示に過ぎない」との指摘",
+      "link": "https://gigazine.net/news/20261009-openais-math-solutions-human-ahm/",
+      "date": "2026-10-09T15:00:00+09:00",
+      "dateLabel": "10/09 15:00",
+      "desc": "2026年10月、OpenAIが社内の最先端AIモデルを使って生成した722件に及ぶ「数学的成果」を発表しました。これに対し、世界各国の数学者らにより構成されているThe Association for Human Mathematics(人間のための数学協会)が、「一度に700以上の成果を公開することは学術的な成果を示すものではなく、権力の誇示に過ぎない」",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "Googleが仕事を自動で進めるAI「Geminiエージェント」を発表、情報調査・資料作成・プログラミングまで対応",
+      "link": "https://gigazine.net/news/20261009-gemini-agent/",
+      "date": "2026-10-09T13:45:00+09:00",
+      "dateLabel": "10/09 13:45",
+      "desc": "Googleが2026年10月8日に開催したイベント「Gemini at Work 2026」で、仕事に関するさまざまな作業をまとめて任せられる汎用AIエージェント「Geminiエージェント」を発表しました。情報調査や資料作成、画像生成、プログラミングなどを1つの画面から依頼でき、AIが必要な手順を考えて作業を進めるとのことです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "Anthropicがオープンソースプロジェクト向けに無料AIセキュリティスキャンサービスの「OSS Scanner」を開始",
+      "link": "https://gigazine.net/news/20261009-anthropic-oss-scanner/",
+      "date": "2026-10-09T12:13:00+09:00",
+      "dateLabel": "10/09 12:13",
+      "desc": "Anthropicがオープンソースプロジェクト向けに、自社の「最も高性能なモデル」によるセキュリティスキャンを無料で受けられるとするサービス「OSS Scanner」を発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "Anthropicが「Claudeに対する持続的かつ不必要な虐待・残酷な行為禁止」などを利用規約に追加",
+      "link": "https://gigazine.net/news/20261009-anthropic-policy-update/",
+      "date": "2026-10-09T11:38:00+09:00",
+      "dateLabel": "10/09 11:38",
+      "desc": "Anthropicはモデルの進化やユーザーからのフィードバックを受けて、必要に応じて細かく利用規約の更新を行っています。現地時間2026年10月8日付けで発表されたアップデートは「ほとんどは既存のルールの明確化」を目的としたものですが、新たに、Claudeに対する虐待行為に対処する項目が加わりました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "Anthropic、Claudeへの“虐待”を利用ポリシーで禁止 影響工作の規定も集約",
       "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002149/",
       "date": "2026-10-09T09:07:24+09:00",
@@ -137,28 +137,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "ASUS、9.2インチ液晶搭載PCケース「ROG CRONOX ARGB」発表 30mm厚ファンも登場",
-      "link": "https://ascii.jp/elem/000/004/441/4441348/?rss",
-      "date": "2026-10-09T09:00:00+09:00",
-      "dateLabel": "10/09 09:00",
-      "desc": "ASUSが9.2インチ液晶搭載のフルタワーPCケース「ROG CRONOX ARGB」と、30mm厚の120mmファン「ROG Eurux GR120 ARGB」を発表。ケースは最大14基のファンと400mm GPUに対応。両製品は10月9日発売。",
-      "img": "https://ascii.jp/img/2026/10/09/4536497/s/599acefd7f9f69bf.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "マニュアルが自動更新される世界へ 技術の継承に不安を抱える現場にスタディストが新構想",
-      "link": "https://ascii.jp/elem/000/004/441/4441340/?rss",
-      "date": "2026-10-09T09:00:00+09:00",
-      "dateLabel": "10/09 09:00",
-      "desc": "AIマニュアルを提供するスタディストは、Teachme BizのAI対応を強化するTeachmeシリーズの新機能である「Teachmeスタジオ」と、マニュアルの自動更新を可能にする新構想「CONNECT」および新製品「Teachme Knowledge」を発表した。メインターゲットとなる製造業での技能の継承やオペレーション改善を実現すべく、AI前提で製品を強",
-      "img": "https://ascii.jp/img/2026/10/09/4536429/s/168a665851e4a060.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
       "score": 42
     },
     {
@@ -184,59 +162,92 @@
       "score": 42
     },
     {
-      "title": "Amazon限定のRTX 5060搭載ノートが19万7700円！ Core i7＋144Hz液晶も備えたMSI「Cyborg 15」",
-      "link": "https://ascii.jp/elem/000/004/440/4440941/?rss",
-      "date": "2026-10-08T20:10:00+09:00",
-      "dateLabel": "10/08 20:10",
-      "desc": "MSIの15.6型ゲーミングノートPC「Cyborg 15」がAmazonでタイムセール対象。参考価格222,800円から11％オフの197,700円で販売中。RTX 5060 Laptop GPUとCore i7-13620Hを搭載し、144Hz対応のフルHDディスプレーを採用。高性能な構成を20万円以下で手に入れられるAmazon限定モデルだ。",
-      "img": "https://ascii.jp/img/2026/10/08/4535869/s/5ab76e808d6ed3ea.jpg",
-      "src": "ASCII.jp",
+      "title": "Google、AI生成物の判定ツールを一般公開 OpenAIやNVIDIA製サービスも対象に",
+      "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002128/",
+      "date": "2026-10-08T13:25:25+09:00",
+      "dateLabel": "10/08 13:25",
+      "desc": "米Googleは10月7日（現地時間）、AI生成コンテンツの判定ツール「SynthID Detector」を一般公開したと発表した。これまではジャーナリストや研究者など一部に限って提供していた。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "半導体/GPU",
       "score": 42
     },
     {
-      "title": "オープンソースAIエージェント「Hermes Agent」が2400万回以上ダウンロードされる人気に、開発元のNous Researchが約142億円を調達して企業向け事業を拡大",
-      "link": "https://gigazine.net/news/20261008-nous-research-fundraise/",
-      "date": "2026-10-08T16:45:00+09:00",
-      "dateLabel": "10/08 16:45",
-      "desc": "オープンソースのAIエージェント「Hermes Agent」を開発するNous Researchが2026年10月7日に9000万ドル(約142億円)の資金調達を発表しました。企業評価額は15億ドル(約2370億円)に達しており、調達した資金を活用して企業向けの「Hermes for Businesses」の開発を進めるとのことです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "AI生成画像やAI生成動画を見分けるGoogleサービス「SynthID Detector」が誰でも使用可能に、Google・OpenAI・AppleのどのAIかも判別可能",
-      "link": "https://gigazine.net/news/20261008-synth-id-ai-content/",
-      "date": "2026-10-08T13:25:00+09:00",
-      "dateLabel": "10/08 13:25",
-      "desc": "GoogleはAIで生成されたコンテンツを迅速かつ効率的に識別するための検証ポータル「SynthID Detector」を2025年5月に発表しました。これまではテスター向けに限定公開されていましが、2026年10月7日に一般公開されて誰でも利用可能となったので実際に使ってみました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "ChatGPT、無料版を含む全ユーザーに「GPT-6」 回答内に“操作できる画面”を生成する「Intelligent UI」搭載",
-      "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002119/",
-      "date": "2026-10-08T11:09:40+09:00",
-      "dateLabel": "10/08 11:09",
-      "desc": "OpenAIは、ChatGPTに新モデル「GPT-6」を搭載し順次提供を開始した。テキストに加え図や操作可能なボタン、フォームなどを回答として生成する「Intelligent UI」を導入。思考しながら回答を出力する機能も備える。有料プランから順次提供を始め、無料プランやGoプランにも翌日から展開する。",
+      "title": "「ChatGPT for Teens」は「容認できないリスク」と米非営利団体が警告 OpenAIは利用状況と新機能を発表",
+      "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002125/",
+      "date": "2026-10-08T13:00:45+09:00",
+      "dateLabel": "10/08 13:00",
+      "desc": "米非営利団体Common Sense Mediaは、OpenAIの10代向け環境「ChatGPT for Teens」について、保護者通知などが機能せず安全基準を下回るとして「容認できないリスク」と評価した。一方OpenAIは同日、10代の学習利用実績や大学出願支援「College Planner」の導入計画を公表した。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 42
     },
     {
-      "title": "Google、プロンプトでゲームを作って遊べる「Playground」を米国で公開 「Unity Spark」も年内投入",
-      "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002117/",
-      "date": "2026-10-08T10:22:19+09:00",
-      "dateLabel": "10/08 10:22",
-      "desc": "Googleはテキスト入力だけでゲームを作成・共有できるプラットフォーム「Playground」をWebブラウザ向けに発表した。まずは米国の成人向けに提供する。あわせてUnityとの提携で、高精細な3D表現やアセットを活用して機能拡張を図る「Unity Spark」を年内に投入することも発表した。",
+      "title": "GoogleがGemma 2・Gemma 4などのAIアシスタントで会議を記録するmacOSノートアプリ「Google AI Edge Foresight」リリース",
+      "link": "https://gigazine.net/news/20261009-google-ai-edge-foresight/",
+      "date": "2026-10-09T13:57:00+09:00",
+      "dateLabel": "10/09 13:57",
+      "desc": "Googleが、AIを使って会議の内容を記録・要約するmacOS向けノートアプリ「Google AI Edge Foresight」を公開しました。Google AI Edge Foresightは、GoogleのAIモデル「EmbeddingGemma 2」や「Gemma 4」を使用し、会議の文字起こしや議事録の作成、AIアシスタントによる質問への回答など",
       "img": "",
-      "src": "ITmedia AI+",
+      "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 42
+      "score": 34
+    },
+    {
+      "title": "Anthropic、サイバー防御の新たな取り組み「Cyber Mission」 OSS向け無料脆弱性スキャンや重要インフラ防御プログラムも",
+      "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002164/",
+      "date": "2026-10-09T13:20:56+09:00",
+      "dateLabel": "10/09 13:20",
+      "desc": "Anthropicは、社会インフラ保護を支援する「Anthropic Cyber Mission」を発表した。電力や交通などの制御機器防御を担う事業者を支援する「CIDP」と、最上位モデルでOSSの脆弱性を無償スキャンする「OSS Scanner」の2施策を開始し、防御側にAIや研究成果、技術者を提供する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "KADODE、OpenAI Partner Networkにおける「OpenAI Select Partner」に選定",
+      "link": "https://ascii.jp/elem/000/004/441/4441568/?rss",
+      "date": "2026-10-09T13:00:00+09:00",
+      "dateLabel": "10/09 13:00",
+      "desc": "KADODE、OpenAI Partner Networkにおける「OpenAI Select Partner」に選定",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "AmazonがAndroid搭載の「Alexaタブレット」をリリース、15年続いた「Fire」ブランドは終了",
+      "link": "https://gigazine.net/news/20261009-alexa-tablets/",
+      "date": "2026-10-09T12:05:00+09:00",
+      "dateLabel": "10/09 12:05",
+      "desc": "AmazonがAIアシスタント「Alexa+」を内蔵したAndroid搭載タブレットシリーズ「Amazon Alexaタブレット」を2026年10月8日に発表しました。また、同様にAndroidを搭載した新しいキッズタブレットも発表されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "履歴書100通に1通「AIだけが読める文字」 20万件調査でわかった“就活ハック”の手口 米研究",
+      "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002102/",
+      "date": "2026-10-09T12:00:00+09:00",
+      "dateLabel": "10/09 12:00",
+      "desc": "米ノースカロライナ大学チャペルヒル校、米デューク大学、米UCバークレーなどに所属する研究者らがセキュリティ分野の国際会議「USENIX Security Symposium 2026」で発表した論文「Measuring Real-World Prompt Injection Attacks in LLM-based Resume Screening」は、AI",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "トランプ大統領、マスク氏やフアン氏ら6人に米国家科学賞と国家技術革新賞を授与",
+      "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002159/",
+      "date": "2026-10-09T11:33:07+09:00",
+      "dateLabel": "10/09 11:33",
+      "desc": "米トランプ政権は科学サミットを開催し、トランプ大統領がイーロン・マスク氏やNVIDIAのジェンスン・フアンCEOら6人に国家科学賞と国家技術革新賞を授与した。半導体やSI（旧AI）、宇宙探査、クラウドなどの分野で米国のリーダーシップと技術革新に貢献した功績を最高栄誉として称えた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 34
     },
     {
       "title": "“クールジャパン機構の二の舞”か？ 2兆円支援のラピダス、2ナノ半導体工場あっても拭えぬ「顧客不在」の懸念",
@@ -247,17 +258,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "1on1ツールに生成AI機能を実装、事前助言から文字起こし・記録管理まで対応",
-      "link": "https://ascii.jp/elem/000/004/440/4440888/?rss",
-      "date": "2026-10-09T07:00:00+09:00",
-      "dateLabel": "10/09 07:00",
-      "desc": "株式会社KAKEAIは10月5日、1on1支援ツール「Kakeai」に生成AI機能を搭載した「Kakeai AI 1on1」の提供を開始したと発表した。",
-      "img": "https://ascii.jp/img/2026/10/07/4535638/s/1b5970d39083f752.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
