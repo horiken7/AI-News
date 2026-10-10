@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-10T19:14:16.313305+09:00",
-  "generatedLabel": "2026/10/10 19:14",
+  "generatedAt": "2026-10-11T01:00:21.726010+09:00",
+  "generatedLabel": "2026/10/11 01:00",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 56,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -96,28 +96,6 @@
       "score": 42
     },
     {
-      "title": "ChatGPT、ついに音声ファイルに対応 文字起こしや要約などが可能に 有料ユーザー向け",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002182/",
-      "date": "2026-10-09T19:44:36+09:00",
-      "dateLabel": "10/09 19:44",
-      "desc": "米OpenAIは10月9日（日本時間）までに、「ChatGPT」が音声ファイルのアップロードに対応したと発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "ロシアとイランがプロパガンダ工作で用いたChatGPTアカウントをOpenAIが停止、工作の影響度は6段階中4～5",
-      "link": "https://gigazine.net/news/20261009-openai-disrupted-russian-operation-dark-clark/",
-      "date": "2026-10-09T19:30:00+09:00",
-      "dateLabel": "10/09 19:30",
-      "desc": "OpenAIがロシアやイランによる「AI生成の架空組織・架空人物を用いた影響工作」に利用されたアカウントを停止したと発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "Google、AI生成物の判定ツールを一般公開 OpenAIやNVIDIA製サービスも対象に",
       "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002128/",
       "date": "2026-10-08T13:25:25+09:00",
@@ -140,11 +118,22 @@
       "score": 34
     },
     {
-      "title": "jevやGPT-6 Luna Decisionsなどの素早い判断に特化した確率モデルがパックマンをプレイするベンチマーク「jevman」",
-      "link": "https://gigazine.net/news/20261009-jevman/",
-      "date": "2026-10-09T20:00:00+09:00",
-      "dateLabel": "10/09 20:00",
-      "desc": "「jevman」は、AIにパックマンをプレイさせて、状況に応じた判断能力を比較するベンチマークです。 AI向けのAPIサービスを提供するOpperが公開しており、6種類のAIモデルにそれぞれ100回ずつパックマンをプレイさせ、その得点や判断速度、実行コストなどを比較しています。 続きを読む...",
+      "title": "ChatGPT、ついに音声ファイルに対応 文字起こしや要約などが可能に 有料ユーザー向け",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002182/",
+      "date": "2026-10-09T19:44:36+09:00",
+      "dateLabel": "10/09 19:44",
+      "desc": "米OpenAIは10月9日（日本時間）までに、「ChatGPT」が音声ファイルのアップロードに対応したと発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "ロシアとイランがプロパガンダ工作で用いたChatGPTアカウントをOpenAIが停止、工作の影響度は6段階中4～5",
+      "link": "https://gigazine.net/news/20261009-openai-disrupted-russian-operation-dark-clark/",
+      "date": "2026-10-09T19:30:00+09:00",
+      "dateLabel": "10/09 19:30",
+      "desc": "OpenAIがロシアやイランによる「AI生成の架空組織・架空人物を用いた影響工作」に利用されたアカウントを停止したと発表しました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
@@ -178,17 +167,6 @@
       "date": "2026-10-09T12:13:00+09:00",
       "dateLabel": "10/09 12:13",
       "desc": "Anthropicがオープンソースプロジェクト向けに、自社の「最も高性能なモデル」によるセキュリティスキャンを無料で受けられるとするサービス「OSS Scanner」を発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Anthropicが「Claudeに対する持続的かつ不必要な虐待・残酷な行為禁止」などを利用規約に追加",
-      "link": "https://gigazine.net/news/20261009-anthropic-policy-update/",
-      "date": "2026-10-09T11:38:00+09:00",
-      "dateLabel": "10/09 11:38",
-      "desc": "Anthropicはモデルの進化やユーザーからのフィードバックを受けて、必要に応じて細かく利用規約の更新を行っています。現地時間2026年10月8日付けで発表されたアップデートは「ほとんどは既存のルールの明確化」を目的としたものですが、新たに、Claudeに対する虐待行為に対処する項目が加わりました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
@@ -261,14 +239,14 @@
       "score": 26
     },
     {
-      "title": "自動運転技術は毎年58万人の命を救う可能性がある",
-      "link": "https://gigazine.net/news/20261009-self-driving-tech-prevent-58k-deaths-every-year/",
-      "date": "2026-10-09T21:30:00+09:00",
-      "dateLabel": "10/09 21:30",
-      "desc": "自動運転車や自動運転技術の安全性についてまだまだ疑問を持つ人は多いとみられますが、自動運転車が交通事故を起こす割合は人間が運転している場合に比べて大幅に低く、事故による負傷者もはるかに少ないことが研究で示されています。 続きを読む...",
+      "title": "jevやGPT-6 Luna Decisionsなどの素早い判断に特化した確率モデルがパックマンをプレイするベンチマーク「jevman」",
+      "link": "https://gigazine.net/news/20261009-jevman/",
+      "date": "2026-10-09T20:00:00+09:00",
+      "dateLabel": "10/09 20:00",
+      "desc": "「jevman」は、AIにパックマンをプレイさせて、状況に応じた判断能力を比較するベンチマークです。 AI向けのAPIサービスを提供するOpperが公開しており、6種類のAIモデルにそれぞれ100回ずつパックマンをプレイさせ、その得点や判断速度、実行コストなどを比較しています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "規制/安全",
+      "cat": "LLM/モデル",
       "score": 26
     },
     {
@@ -279,6 +257,28 @@
       "desc": "URLのドメイン名の最後に付く「.com」や「.org」などのトップレベルドメイン(TLD)を管理するICANNが、2026年度に申請を受け付けた新ドメインの一覧を発表しました。MetaやOpenAIなど13の申請者が「.agent」を申請したほか、「.agi」「asi」などの「人工知能(AI)」や「超知能(SI)」に関連するドメインに多数の申請が寄せられて",
       "img": "",
       "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "GoogleがEmbeddingGemma 2・Gemma 4などのAIアシスタントで会議を記録するmacOSノートアプリ「Google AI Edge Foresight」リリース",
+      "link": "https://gigazine.net/news/20261009-google-ai-edge-foresight/",
+      "date": "2026-10-09T13:57:00+09:00",
+      "dateLabel": "10/09 13:57",
+      "desc": "Googleが、AIを使って会議の内容を記録・要約するmacOS向けノートアプリ「Google AI Edge Foresight」を公開しました。Google AI Edge Foresightは、GoogleのAIモデル「EmbeddingGemma 2」や「Gemma 4」を使用し、会議の文字起こしや議事録の作成、AIアシスタントによる質問への回答など",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "Anthropic、サイバー防御の新たな取り組み「Cyber Mission」 OSS向け無料脆弱性スキャンや重要インフラ防御プログラムも",
+      "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002164/",
+      "date": "2026-10-09T13:20:56+09:00",
+      "dateLabel": "10/09 13:20",
+      "desc": "Anthropicは、社会インフラ保護を支援する「Anthropic Cyber Mission」を発表した。電力や交通などの制御機器防御を担う事業者を支援する「CIDP」と、最上位モデルでOSSの脆弱性を無償スキャンする「OSS Scanner」の2施策を開始し、防御側にAIや研究成果、技術者を提供する。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 26
     }
