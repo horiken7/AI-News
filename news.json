@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-10T08:41:19.589514+09:00",
-  "generatedLabel": "2026/10/10 08:41",
+  "generatedAt": "2026-10-10T12:18:50.220709+09:00",
+  "generatedLabel": "2026/10/10 12:18",
   "feedOk": 6,
   "feedNg": 5,
   "candidates": 57,
@@ -71,7 +71,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 58
+      "score": 50
     },
     {
       "title": "AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開。特定のLLMに依存せず入れ替え可能、任意のコンテナ環境にデプロイ",
@@ -83,6 +83,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 48
+    },
+    {
+      "title": "OpenAI、安全性研究者3人を解雇 本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明",
+      "link": "https://www.itmedia.co.jp/news/article/2610/10/2000002189/",
+      "date": "2026-10-10T08:28:02+09:00",
+      "dateLabel": "10/10 08:28",
+      "desc": "OpenAIで安全性研究に携わっていた研究者3人が、突然解雇されたと公表し、書面での理由開示や外部監査の受け入れ維持を求める書簡を公開した。これに対しOpenAIは、機密情報規定への重大な違反が社内調査で判明したためと説明し、安全性の懸念表明を理由とした解雇ではないと反論している。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
+      "score": 42
     },
     {
       "title": "ChatGPT、ついに音声ファイルに対応 文字起こしや要約などが可能に 有料ユーザー向け",
@@ -129,39 +140,6 @@
       "score": 42
     },
     {
-      "title": "Anthropicがオープンソースプロジェクト向けに無料AIセキュリティスキャンサービスの「OSS Scanner」を開始",
-      "link": "https://gigazine.net/news/20261009-anthropic-oss-scanner/",
-      "date": "2026-10-09T12:13:00+09:00",
-      "dateLabel": "10/09 12:13",
-      "desc": "Anthropicがオープンソースプロジェクト向けに、自社の「最も高性能なモデル」によるセキュリティスキャンを無料で受けられるとするサービス「OSS Scanner」を発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "Anthropicが「Claudeに対する持続的かつ不必要な虐待・残酷な行為禁止」などを利用規約に追加",
-      "link": "https://gigazine.net/news/20261009-anthropic-policy-update/",
-      "date": "2026-10-09T11:38:00+09:00",
-      "dateLabel": "10/09 11:38",
-      "desc": "Anthropicはモデルの進化やユーザーからのフィードバックを受けて、必要に応じて細かく利用規約の更新を行っています。現地時間2026年10月8日付けで発表されたアップデートは「ほとんどは既存のルールの明確化」を目的としたものですが、新たに、Claudeに対する虐待行為に対処する項目が加わりました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "Anthropic、Claudeへの“虐待”を利用ポリシーで禁止 影響工作の規定も集約",
-      "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002149/",
-      "date": "2026-10-09T09:07:24+09:00",
-      "dateLabel": "10/09 09:07",
-      "desc": "Anthropicは、Claudeの利用ポリシー（Usage Policy）改定版を公開した。AIモデルへの継続的で残酷な振る舞いの禁止を新設したほか、プロパガンダや偽サイト運営などの欺瞞的活動に関する項目を集約。さらに兵器や監視、物理機器を操作する高リスクな用途における安全基準を明確化した。11月12日に発効する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "Google、AI生成物の判定ツールを一般公開 OpenAIやNVIDIA製サービスも対象に",
       "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002128/",
       "date": "2026-10-08T13:25:25+09:00",
@@ -170,17 +148,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "「ChatGPT for Teens」は「容認できないリスク」と米非営利団体が警告 OpenAIは利用状況と新機能を発表",
-      "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002125/",
-      "date": "2026-10-08T13:00:45+09:00",
-      "dateLabel": "10/08 13:00",
-      "desc": "米非営利団体Common Sense Mediaは、OpenAIの10代向け環境「ChatGPT for Teens」について、保護者通知などが機能せず安全基準を下回るとして「容認できないリスク」と評価した。一方OpenAIは同日、10代の学習利用実績や大学出願支援「College Planner」の導入計画を公表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -203,6 +170,28 @@
       "img": "https://ascii.jp/img/2026/10/06/4535005/s/e61523175a0aad6c.png",
       "src": "ASCII.jp",
       "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "【経営者限定・参加無料】「はじめてのClaude Code」実践会を10月15日に開催。初期設定とフォルダ理解を自分のPCで",
+      "link": "https://ascii.jp/elem/000/004/441/4441720/?rss",
+      "date": "2026-10-09T20:16:49+09:00",
+      "dateLabel": "10/09 20:16",
+      "desc": "【経営者限定・参加無料】「はじめてのClaude Code」実践会を10月15日に開催。初期設定とフォルダ理解を自分のPCで",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "Kizuna AI New Single「モンスターファクトリー」Release＆MV公開！自身初のハロウィン楽曲",
+      "link": "https://ascii.jp/elem/000/004/441/4441722/?rss",
+      "date": "2026-10-09T20:00:00+09:00",
+      "dateLabel": "10/09 20:00",
+      "desc": "Kizuna AI New Single「モンスターファクトリー」Release＆MV公開！自身初のハロウィン楽曲",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 34
     },
     {
@@ -250,36 +239,47 @@
       "score": 34
     },
     {
-      "title": "AmazonがAndroid搭載の「Alexaタブレット」をリリース、15年続いた「Fire」ブランドは終了",
-      "link": "https://gigazine.net/news/20261009-alexa-tablets/",
-      "date": "2026-10-09T12:05:00+09:00",
-      "dateLabel": "10/09 12:05",
-      "desc": "AmazonがAIアシスタント「Alexa+」を内蔵したAndroid搭載タブレットシリーズ「Amazon Alexaタブレット」を2026年10月8日に発表しました。また、同様にAndroidを搭載した新しいキッズタブレットも発表されています。 続きを読む...",
+      "title": "Anthropicがオープンソースプロジェクト向けに無料AIセキュリティスキャンサービスの「OSS Scanner」を開始",
+      "link": "https://gigazine.net/news/20261009-anthropic-oss-scanner/",
+      "date": "2026-10-09T12:13:00+09:00",
+      "dateLabel": "10/09 12:13",
+      "desc": "Anthropicがオープンソースプロジェクト向けに、自社の「最も高性能なモデル」によるセキュリティスキャンを無料で受けられるとするサービス「OSS Scanner」を発表しました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AI全般",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
-      "title": "履歴書100通に1通「AIだけが読める文字」 20万件調査でわかった“就活ハック”の手口 米研究",
-      "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002102/",
-      "date": "2026-10-09T12:00:00+09:00",
-      "dateLabel": "10/09 12:00",
-      "desc": "米ノースカロライナ大学チャペルヒル校、米デューク大学、米UCバークレーなどに所属する研究者らがセキュリティ分野の国際会議「USENIX Security Symposium 2026」で発表した論文「Measuring Real-World Prompt Injection Attacks in LLM-based Resume Screening」は、AI",
+      "title": "Anthropicが「Claudeに対する持続的かつ不必要な虐待・残酷な行為禁止」などを利用規約に追加",
+      "link": "https://gigazine.net/news/20261009-anthropic-policy-update/",
+      "date": "2026-10-09T11:38:00+09:00",
+      "dateLabel": "10/09 11:38",
+      "desc": "Anthropicはモデルの進化やユーザーからのフィードバックを受けて、必要に応じて細かく利用規約の更新を行っています。現地時間2026年10月8日付けで発表されたアップデートは「ほとんどは既存のルールの明確化」を目的としたものですが、新たに、Claudeに対する虐待行為に対処する項目が加わりました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "Anthropic、Claudeへの“虐待”を利用ポリシーで禁止 影響工作の規定も集約",
+      "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002149/",
+      "date": "2026-10-09T09:07:24+09:00",
+      "dateLabel": "10/09 09:07",
+      "desc": "Anthropicは、Claudeの利用ポリシー（Usage Policy）改定版を公開した。AIモデルへの継続的で残酷な振る舞いの禁止を新設したほか、プロパガンダや偽サイト運営などの欺瞞的活動に関する項目を集約。さらに兵器や監視、物理機器を操作する高リスクな用途における安全基準を明確化した。11月12日に発効する。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
     },
     {
-      "title": "トランプ大統領、マスク氏やフアン氏ら6人に米国家科学賞と国家技術革新賞を授与",
-      "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002159/",
-      "date": "2026-10-09T11:33:07+09:00",
-      "dateLabel": "10/09 11:33",
-      "desc": "米トランプ政権は科学サミットを開催し、トランプ大統領がイーロン・マスク氏やNVIDIAのジェンスン・フアンCEOら6人に国家科学賞と国家技術革新賞を授与した。半導体やSI（旧AI）、宇宙探査、クラウドなどの分野で米国のリーダーシップと技術革新に貢献した功績を最高栄誉として称えた。",
+      "title": "企業が使うAIモデル、1年半で6割超が「中国製」に 「最高性能のオープンモデルはほぼ中国発」の理由",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/09/news033.html",
+      "date": "2026-10-09T08:00:00+09:00",
+      "dateLabel": "10/09 08:00",
+      "desc": "RedMonkは、オープンウェイトモデルを地理的要因、ライセンス、能力、リスク、経済モデル、リリースタイミング、サイズ、蒸留という8つの観点から分析したブログ記事を公開した。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
+      "cat": "AI全般",
       "score": 34
     }
   ]
