@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-11T08:05:28.344901+09:00",
-  "generatedLabel": "2026/10/11 08:05",
+  "generatedAt": "2026-10-11T11:51:49.740505+09:00",
+  "generatedLabel": "2026/10/11 11:51",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 55,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 16
     },
     {
       "source": "CNET Japan",
@@ -85,17 +85,6 @@
       "score": 48
     },
     {
-      "title": "OpenAI、安全性研究者3人を解雇 本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明",
-      "link": "https://www.itmedia.co.jp/news/article/2610/10/2000002189/",
-      "date": "2026-10-10T08:28:02+09:00",
-      "dateLabel": "10/10 08:28",
-      "desc": "OpenAIで安全性研究に携わっていた研究者3人が、突然解雇されたと公表し、書面での理由開示や外部監査の受け入れ維持を求める書簡を公開した。これに対しOpenAIは、機密情報規定への重大な違反が社内調査で判明したためと説明し、安全性の懸念表明を理由とした解雇ではないと反論している。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
-      "score": 42
-    },
-    {
       "title": "Google、AI生成物の判定ツールを一般公開 OpenAIやNVIDIA製サービスも対象に",
       "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002128/",
       "date": "2026-10-08T13:25:25+09:00",
@@ -105,6 +94,28 @@
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
       "score": 42
+    },
+    {
+      "title": "AnthropicのAIが未解決殺人事件に関する虚偽の情報を提供",
+      "link": "https://gigazine.net/news/20261011-anthropic-ai-gave-fake-tip-unsolved-homicide/",
+      "date": "2026-10-11T09:00:00+09:00",
+      "dateLabel": "10/11 09:00",
+      "desc": "2026年10月9日、フィラデルフィア警察が「AnthropicのAIモデルが未解決殺人事件に関する虚偽の情報を送信してきた」と発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "OpenAI、安全性研究者3人を解雇 本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明",
+      "link": "https://www.itmedia.co.jp/news/article/2610/10/2000002189/",
+      "date": "2026-10-10T08:28:02+09:00",
+      "dateLabel": "10/10 08:28",
+      "desc": "OpenAIで安全性研究に携わっていた研究者3人が、突然解雇されたと公表し、書面での理由開示や外部監査の受け入れ維持を求める書簡を公開した。これに対しOpenAIは、機密情報規定への重大な違反が社内調査で判明したためと説明し、安全性の懸念表明を理由とした解雇ではないと反論している。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
+      "score": 34
     },
     {
       "title": "ChatGPT、ついに音声ファイルに対応 文字起こしや要約などが可能に 有料ユーザー向け",
@@ -206,6 +217,17 @@
       "score": 28
     },
     {
+      "title": "無料でmacOS 27のApple Intelligenceをオフにして空きディスク容量を増やす方法",
+      "link": "https://gigazine.net/news/20261011-removemacai/",
+      "date": "2026-10-11T11:00:00+09:00",
+      "dateLabel": "10/11 11:00",
+      "desc": "AppleのAI機能「Apple Intelligence」は、Macのストレージに数GB以上の容量を必要とします。Apple Intelligenceを使わないユーザー向けに、機能を無効化してAIモデルを削除し、ディスクの空き容量を増やせる無料のオープンソースツール「RemoveMacAI」が公開されています。RemoveMacAIはAppleシリコンを搭",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "無料のオープンソースEPUB・PDFリーダー「Readest」、Windows・Linux・macOS・Android・iOS・ブラウザ・KOReaderでハイライト・メモ・分割画面読書・AIテキスト読み上げ・AI自動翻訳・クラウド同期が可能",
       "link": "https://gigazine.net/news/20261010-readest/",
       "date": "2026-10-10T18:00:00+09:00",
@@ -257,28 +279,6 @@
       "desc": "URLのドメイン名の最後に付く「.com」や「.org」などのトップレベルドメイン(TLD)を管理するICANNが、2026年度に申請を受け付けた新ドメインの一覧を発表しました。MetaやOpenAIなど13の申請者が「.agent」を申請したほか、「.agi」「asi」などの「人工知能(AI)」や「超知能(SI)」に関連するドメインに多数の申請が寄せられて",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "GoogleがEmbeddingGemma 2・Gemma 4などのAIアシスタントで会議を記録するmacOSノートアプリ「Google AI Edge Foresight」リリース",
-      "link": "https://gigazine.net/news/20261009-google-ai-edge-foresight/",
-      "date": "2026-10-09T13:57:00+09:00",
-      "dateLabel": "10/09 13:57",
-      "desc": "Googleが、AIを使って会議の内容を記録・要約するmacOS向けノートアプリ「Google AI Edge Foresight」を公開しました。Google AI Edge Foresightは、GoogleのAIモデル「EmbeddingGemma 2」や「Gemma 4」を使用し、会議の文字起こしや議事録の作成、AIアシスタントによる質問への回答など",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "Anthropic、サイバー防御の新たな取り組み「Cyber Mission」 OSS向け無料脆弱性スキャンや重要インフラ防御プログラムも",
-      "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002164/",
-      "date": "2026-10-09T13:20:56+09:00",
-      "dateLabel": "10/09 13:20",
-      "desc": "Anthropicは、社会インフラ保護を支援する「Anthropic Cyber Mission」を発表した。電力や交通などの制御機器防御を担う事業者を支援する「CIDP」と、最上位モデルでOSSの脆弱性を無償スキャンする「OSS Scanner」の2施策を開始し、防御側にAIや研究成果、技術者を提供する。",
-      "img": "",
-      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 26
     }
