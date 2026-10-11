@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-11T18:28:33.314022+09:00",
-  "generatedLabel": "2026/10/11 18:28",
+  "generatedAt": "2026-10-12T01:03:24.457550+09:00",
+  "generatedLabel": "2026/10/12 01:03",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 58,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 1
+      "items": 2
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 17
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -107,6 +107,17 @@
       "score": 36
     },
     {
+      "title": "開発費年4.6兆円のHuawei開発拠点「松山湖キャンパス」はテーマパークを超えていた＝最新Watch＆スマホにタッチ!!",
+      "link": "https://ascii.jp/elem/000/004/440/4440496/?rss",
+      "date": "2026-10-12T00:01:00+09:00",
+      "dateLabel": "10/12 00:01",
+      "desc": "ファーウェイの超巨大開発拠点に、グローバル発表された新製品、スマホ製品、深圳のフラッグシップストアや自動運転のクルマなど、ファーウェイ・ワールドを紹介していこう。",
+      "img": "https://ascii.jp/img/2026/10/06/4535143/s/41303a85a180b120.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 34
+    },
+    {
       "title": "AnthropicのAIが未解決殺人事件に関する虚偽の情報を提供",
       "link": "https://gigazine.net/news/20261011-anthropic-ai-gave-fake-tip-unsolved-homicide/",
       "date": "2026-10-11T09:00:00+09:00",
@@ -162,28 +173,6 @@
       "score": 34
     },
     {
-      "title": "Googleが仕事を自動で進めるAI「Geminiエージェント」を発表、情報調査・資料作成・プログラミングまで対応",
-      "link": "https://gigazine.net/news/20261009-gemini-agent/",
-      "date": "2026-10-09T13:45:00+09:00",
-      "dateLabel": "10/09 13:45",
-      "desc": "Googleが2026年10月8日に開催したイベント「Gemini at Work 2026」で、仕事に関するさまざまな作業をまとめて任せられる汎用AIエージェント「Geminiエージェント」を発表しました。情報調査や資料作成、画像生成、プログラミングなどを1つの画面から依頼でき、AIが必要な手順を考えて作業を進めるとのことです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Anthropicがオープンソースプロジェクト向けに無料AIセキュリティスキャンサービスの「OSS Scanner」を開始",
-      "link": "https://gigazine.net/news/20261009-anthropic-oss-scanner/",
-      "date": "2026-10-09T12:13:00+09:00",
-      "dateLabel": "10/09 12:13",
-      "desc": "Anthropicがオープンソースプロジェクト向けに、自社の「最も高性能なモデル」によるセキュリティスキャンを無料で受けられるとするサービス「OSS Scanner」を発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "Anthropic、Claudeへの“虐待”を利用ポリシーで禁止 影響工作の規定も集約",
       "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002149/",
       "date": "2026-10-09T09:07:24+09:00",
@@ -214,17 +203,6 @@
       "img": "",
       "src": "Publickey",
       "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "Supabase、1サーバあたり数百万ものSQLiteをホストする「Turso」買収を発表。AIエージェントで加速するDB需要に対応",
-      "link": "https://www.publickey1.jp/blog/26/supabase1sqlitetursoaidb.html",
-      "date": "2026-10-05T00:56:27+09:00",
-      "dateLabel": "10/05 00:56",
-      "desc": "PostgreSQLをベースにしたデータベースサービス「Supabase」などを提供しているSupabaseは、SQLiteをベースとしたデータベースサービスを提供する「Turso」を買収したことを発表しました。 Turso is join...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
       "score": 28
     },
     {
@@ -280,6 +258,28 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "MetaやOpenAIが「.agent」を新ドメインとしてICANNに申請、「.agi」やトランプ大統領の「.trump」に加え日本からは「.neko」も",
+      "link": "https://gigazine.net/news/20261009-icann-reveals-bids-new-domains-ai/",
+      "date": "2026-10-09T16:00:00+09:00",
+      "dateLabel": "10/09 16:00",
+      "desc": "URLのドメイン名の最後に付く「.com」や「.org」などのトップレベルドメイン(TLD)を管理するICANNが、2026年度に申請を受け付けた新ドメインの一覧を発表しました。MetaやOpenAIなど13の申請者が「.agent」を申請したほか、「.agi」「asi」などの「人工知能(AI)」や「超知能(SI)」に関連するドメインに多数の申請が寄せられて",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "GoogleがEmbeddingGemma 2・Gemma 4などのAIアシスタントで会議を記録するmacOSノートアプリ「Google AI Edge Foresight」リリース",
+      "link": "https://gigazine.net/news/20261009-google-ai-edge-foresight/",
+      "date": "2026-10-09T13:57:00+09:00",
+      "dateLabel": "10/09 13:57",
+      "desc": "Googleが、AIを使って会議の内容を記録・要約するmacOS向けノートアプリ「Google AI Edge Foresight」を公開しました。Google AI Edge Foresightは、GoogleのAIモデル「EmbeddingGemma 2」や「Gemma 4」を使用し、会議の文字起こしや議事録の作成、AIアシスタントによる質問への回答など",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
       "score": 26
     }
   ]
