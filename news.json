@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-11T11:51:49.740505+09:00",
-  "generatedLabel": "2026/10/11 11:51",
+  "generatedAt": "2026-10-11T18:28:33.314022+09:00",
+  "generatedLabel": "2026/10/11 18:28",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 57,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 16
+      "items": 17
     },
     {
       "source": "CNET Japan",
@@ -85,6 +85,17 @@
       "score": 48
     },
     {
+      "title": "ゴムマリの業務AIエージェント、『給与計算チェック』を提供開始",
+      "link": "https://ascii.jp/elem/000/004/441/4441797/?rss",
+      "date": "2026-10-11T16:10:00+09:00",
+      "dateLabel": "10/11 16:10",
+      "desc": "ゴムマリの業務AIエージェント、『給与計算チェック』を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "Google、AI生成物の判定ツールを一般公開 OpenAIやNVIDIA製サービスも対象に",
       "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002128/",
       "date": "2026-10-08T13:25:25+09:00",
@@ -93,7 +104,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
-      "score": 42
+      "score": 36
     },
     {
       "title": "AnthropicのAIが未解決殺人事件に関する虚偽の情報を提供",
@@ -217,6 +228,28 @@
       "score": 28
     },
     {
+      "title": "30年前にBBCが放送した「アート作品を作るAI・AARON」を扱ったテレビ番組",
+      "link": "https://gigazine.net/news/20261011-computer-art/",
+      "date": "2026-10-11T17:30:00+09:00",
+      "dateLabel": "10/11 17:30",
+      "desc": "生成AIの発達により、写真やイラストなどのアート作品がAIを使って大量に生み出されています。そんな中、イギリスの公共放送局であるBBCが、1996年に放送した「絵画を制作できるAI」について取り上げた番組のアーカイブを公開しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "生成AI/マルチモーダル",
+      "score": 26
+    },
+    {
+      "title": "CPUのみで動作するリアルタイム多言語音声認識「早耳」、GPUもクラウドAPIも使わずメモリ2GB未満でライブ字幕表示からブラウザ表示・話者ラベル付け・翻訳字幕まで可能",
+      "link": "https://gigazine.net/news/20261011-hayamimi/",
+      "date": "2026-10-11T12:00:00+09:00",
+      "dateLabel": "10/11 12:00",
+      "desc": "「Hayamimi(早耳)」はGPUやクラウドAPIに依存せずCPUのみで動作する軽量なリアルタイム多言語音声認識システムです。メモリ2GB未満の環境でもライブ字幕表示・話者ラベル付け・翻訳字幕生成まで対応し、発話中から字幕が出始め話し終えて約100msで確定する高速性が特徴です。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
       "title": "無料でmacOS 27のApple Intelligenceをオフにして空きディスク容量を増やす方法",
       "link": "https://gigazine.net/news/20261011-removemacai/",
       "date": "2026-10-11T11:00:00+09:00",
@@ -224,28 +257,6 @@
       "desc": "AppleのAI機能「Apple Intelligence」は、Macのストレージに数GB以上の容量を必要とします。Apple Intelligenceを使わないユーザー向けに、機能を無効化してAIモデルを削除し、ディスクの空き容量を増やせる無料のオープンソースツール「RemoveMacAI」が公開されています。RemoveMacAIはAppleシリコンを搭",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "無料のオープンソースEPUB・PDFリーダー「Readest」、Windows・Linux・macOS・Android・iOS・ブラウザ・KOReaderでハイライト・メモ・分割画面読書・AIテキスト読み上げ・AI自動翻訳・クラウド同期が可能",
-      "link": "https://gigazine.net/news/20261010-readest/",
-      "date": "2026-10-10T18:00:00+09:00",
-      "dateLabel": "10/10 18:00",
-      "desc": "電子書籍のハイライトやメモだけでなく、2冊を横並びにする分割画面読書・AI音声読み上げ・文章や書籍全体の翻訳・端末間のクラウド同期まで利用でき、Windows・Linux・macOS・Android・iOS・ブラウザに対応する「Readest」が公開されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "【秋の特別セール開催】セアボルのAIノイキャン搭載「集音器」シリーズが最大48%OFF！会話が弾む最新イヤーカフ型『Liberte』など全4モデルでシニアの外出をサポート",
-      "link": "https://ascii.jp/elem/000/004/441/4441767/?rss",
-      "date": "2026-10-10T16:15:06+09:00",
-      "dateLabel": "10/10 16:15",
-      "desc": "【秋の特別セール開催】セアボルのAIノイキャン搭載「集音器」シリーズが最大48%OFF！会話が弾む最新イヤーカフ型『Liberte』など全4モデルでシニアの外出をサポート",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
@@ -266,17 +277,6 @@
       "date": "2026-10-09T20:00:00+09:00",
       "dateLabel": "10/09 20:00",
       "desc": "「jevman」は、AIにパックマンをプレイさせて、状況に応じた判断能力を比較するベンチマークです。 AI向けのAPIサービスを提供するOpperが公開しており、6種類のAIモデルにそれぞれ100回ずつパックマンをプレイさせ、その得点や判断速度、実行コストなどを比較しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "MetaやOpenAIが「.agent」を新ドメインとしてICANNに申請、「.agi」やトランプ大統領の「.trump」に加え日本からは「.neko」も",
-      "link": "https://gigazine.net/news/20261009-icann-reveals-bids-new-domains-ai/",
-      "date": "2026-10-09T16:00:00+09:00",
-      "dateLabel": "10/09 16:00",
-      "desc": "URLのドメイン名の最後に付く「.com」や「.org」などのトップレベルドメイン(TLD)を管理するICANNが、2026年度に申請を受け付けた新ドメインの一覧を発表しました。MetaやOpenAIなど13の申請者が「.agent」を申請したほか、「.agi」「asi」などの「人工知能(AI)」や「超知能(SI)」に関連するドメインに多数の申請が寄せられて",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
