@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-12T15:45:30.114369+09:00",
-  "generatedLabel": "2026/10/12 15:45",
+  "generatedAt": "2026-10-13T01:17:55.158388+09:00",
+  "generatedLabel": "2026/10/13 01:17",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 54,
+  "candidates": 51,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 12
+      "items": 10
     },
     {
       "source": "CNET Japan",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 10
+      "items": 9
     },
     {
       "source": "AINOW",
@@ -63,15 +63,15 @@
   ],
   "articles": [
     {
-      "title": "AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開。特定のLLMに依存せず入れ替え可能、任意のコンテナ環境にデプロイ",
-      "link": "https://www.publickey1.jp/blog/26/awsaistrandsllm.html",
-      "date": "2026-09-29T00:01:25+09:00",
-      "dateLabel": "09/29 00:01",
-      "desc": "Amazon Web Services（AWS）は、GPTやClaude、Gemini、Ollamaなど主要なLLMやLLMランタイムを基にした高性能なAIエージェントを簡単に自作できるツール「Strandsハーネス」をオープンソースで公開...",
+      "title": "AIエージェントを自作する3つの方法！初心者でも無料から始められる手順",
+      "link": "https://ainow.ai/2026/10/12/278433/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e8%2587%25aa%25e4%25bd%259c%25e3%2581%2599%25e3%2582%258b3%25e3%2581%25a4%25e3%2581%25ae%25e6%2596%25b9%25e6%25b3%2595%25ef%25bc%2581%25e5%2588%259d%25e5%25bf%2583%25e8%2580%2585%25e3%2581%25a7%25e3%2582%2582",
+      "date": "2026-10-12T22:00:55+09:00",
+      "dateLabel": "10/12 22:00",
+      "desc": "AIエージェントは、作りたいものに合ったツールを選べば個人でも自作できます。本記事では、チャット型・自動化型・実行型の3つの自作方法と、Geminiスキル・n8n・Claude Codeを使った具体的な手順を解説します。... The post AIエージェントを自作する3つの方法！初心者でも無料から始められる手順 first appeared on AI専",
       "img": "",
-      "src": "Publickey",
+      "src": "AINOW",
       "cat": "AIエージェント/業務",
-      "score": 48
+      "score": 50
     },
     {
       "title": "Google「Gemini」新サービスで「Claude」利用可能に 他モデルも今後追加予定",
@@ -83,6 +83,17 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 44
+    },
+    {
+      "title": "AIエージェント構築の手順7ステップ！基盤の選び方と本番運用のコツ",
+      "link": "https://ainow.ai/2026/10/12/278430/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e6%25a7%258b%25e7%25af%2589%25e3%2581%25ae%25e6%2589%258b%25e9%25a0%25867%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583%25e3%2583%2597%25ef%25bc%2581%25e5%259f%25ba%25e7%259b%25a4%25e3%2581%25ae%25e9%2581%25b8%25e3%2581%25b3",
+      "date": "2026-10-12T21:50:16+09:00",
+      "dateLabel": "10/12 21:50",
+      "desc": "AIエージェントの構築を任されたものの、どの順番で何を決めればよいか迷っていませんか。本記事では、業務の絞り込みから本番公開までの構築手順7ステップと、自社に合う構築基盤の選び方を解説します。 DifyやCopilot ... The post AIエージェント構築の手順7ステップ！基盤の選び方と本番運用のコツ first appeared on AI専門ニ",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 42
     },
     {
       "title": "Microsoftも“判断特化”AIモデル「Microsoft-Decision-1」、Qwenベースで「Jev」と同価格",
@@ -107,24 +118,24 @@
       "score": 42
     },
     {
-      "title": "NVIDIA独自コア「Olympus」の真価 Vera CPUが見せたIPC全振りの重厚構造とメモリー帯域依存",
-      "link": "https://ascii.jp/elem/000/004/441/4441711/?rss",
-      "date": "2026-10-12T12:00:00+09:00",
-      "dateLabel": "10/12 12:00",
-      "desc": "Hot Chips第6弾はNVIDIAのVeraである。前回のArm AGI CPUは、言ってみればArm v9.3-Aのお手本のような構成だったが、これをNVIDIAが実現するとどうなったか？ というのが今回ご紹介するVera CPUとなる。",
-      "img": "https://ascii.jp/img/2026/10/10/4537089/s/551d8377ec91ca6b.jpg",
+      "title": "メモリー128GB版「Surface Laptop Ultra」開封の儀、マグネット式の特殊なUSB Type-Cはどうなっているのか？",
+      "link": "https://ascii.jp/elem/000/004/441/4441850/?rss",
+      "date": "2026-10-12T21:20:00+09:00",
+      "dateLabel": "10/12 21:20",
+      "desc": "NVIDIAのRTX Sparkを採用する、Microsoftの15型ノートPC「Surface Laptop Ultra」を開封する。",
+      "img": "https://ascii.jp/img/2026/10/12/4537611/s/de05e94ea3fbebf4.jpg",
       "src": "ASCII.jp",
       "cat": "半導体/GPU",
       "score": 34
     },
     {
-      "title": "SherLOCK、相次ぐサイバー攻撃を背景にAIエージェント向けAIレッドチーミングテスト提供を本格化",
-      "link": "https://ascii.jp/elem/000/004/441/4441817/?rss",
-      "date": "2026-10-12T09:30:00+09:00",
-      "dateLabel": "10/12 09:30",
-      "desc": "SherLOCK、相次ぐサイバー攻撃を背景にAIエージェント向けAIレッドチーミングテスト提供を本格化",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
+      "title": "無料で自分のPCにインストールされているAIエージェント・ハーネス・MCPサーバー・プラグイン・AI拡張機能をすべてスキャンして列挙してレポートしてくれる「Geiger」",
+      "link": "https://gigazine.net/news/20261012-geiger/",
+      "date": "2026-10-12T18:00:00+09:00",
+      "dateLabel": "10/12 18:00",
+      "desc": "AIエージェントをいくつも試していると、以前追加したMCPサーバー・プラグイン・AI拡張機能などがPCのどこに設定されているのか分かりにくくなります。PC内のAIエージェント・ハーネス・MCPサーバー・プラグイン・AI拡張機能などをスキャンして一覧化し、それぞれがアクセス可能な範囲までレポートしてくれる「Geiger」が公開されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 34
     },
@@ -148,18 +159,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "ロシアとイランがプロパガンダ工作で用いたChatGPTアカウントをOpenAIが停止、工作の影響度は6段階中4～5",
-      "link": "https://gigazine.net/news/20261009-openai-disrupted-russian-operation-dark-clark/",
-      "date": "2026-10-09T19:30:00+09:00",
-      "dateLabel": "10/09 19:30",
-      "desc": "OpenAIがロシアやイランによる「AI生成の架空組織・架空人物を用いた影響工作」に利用されたアカウントを停止したと発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
+      "score": 28
     },
     {
       "title": "Anthropic、Claudeへの“虐待”を利用ポリシーで禁止 影響工作の規定も集約",
@@ -195,11 +195,44 @@
       "score": 28
     },
     {
-      "title": "supa.ai、最新AIモデルのサイバー攻撃を再現するペネトレーションテストを最短即日実施を開始",
-      "link": "https://ascii.jp/elem/000/004/441/4441834/?rss",
-      "date": "2026-10-12T11:50:05+09:00",
-      "dateLabel": "10/12 11:50",
-      "desc": "supa.ai、最新AIモデルのサイバー攻撃を再現するペネトレーションテストを最短即日実施を開始",
+      "title": "7年前に発売されたNVIDIA製品がAIブームで1.5倍に値上がり",
+      "link": "https://gigazine.net/news/20261012-nvidia-shield-tv-price-hike/",
+      "date": "2026-10-12T23:15:00+09:00",
+      "dateLabel": "10/12 23:15",
+      "desc": "NVIDIAが7年前に発売した、テレビに接続してNetflixやYouTubeなどを視聴できるストリーミング端末「SHIELD TV Pro」が2026年10月2日からアメリカで約1.5倍の価格に値上げされました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "愛車がAIエージェントとなる「CarWatch」、必要なのはRaspberry Pi 5とローカルAI",
+      "link": "https://gigazine.net/news/20261012-carwatch/",
+      "date": "2026-10-12T19:00:00+09:00",
+      "dateLabel": "10/12 19:00",
+      "desc": "「CarWatch」は車自身がAIエージェントとして機能し、家・電話・時計などのスマートデバイスと同様に「チャットルーム」内で対話できるようになる革新的なシステムです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "RTX Spark搭載ノートPC「Surface Laptop Ultra」、ローカルAIで堪能するならメモリーは最低48GBは必要か？",
+      "link": "https://ascii.jp/elem/000/004/441/4441841/?rss",
+      "date": "2026-10-12T17:30:00+09:00",
+      "dateLabel": "10/12 17:30",
+      "desc": "Microsoftが北米サンフランシスコでイベント「Surface October 2026」を開催。その模様をレポートする。",
+      "img": "https://ascii.jp/img/2026/10/12/4537478/s/5c05a2253045717b.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "動くAIキャラクターとの恋愛チャットが楽しめる「Colorist.ai」─会話や選択によって物語が変わる没入型AI体験",
+      "link": "https://ascii.jp/elem/000/004/441/4441845/?rss",
+      "date": "2026-10-12T14:00:00+09:00",
+      "dateLabel": "10/12 14:00",
+      "desc": "動くAIキャラクターとの恋愛チャットが楽しめる「Colorist.ai」─会話や選択によって物語が変わる没入型AI体験",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
@@ -214,17 +247,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "30年前にBBCが放送した「アート作品を作るAI・AARON」を扱ったテレビ番組",
-      "link": "https://gigazine.net/news/20261011-computer-art/",
-      "date": "2026-10-11T17:30:00+09:00",
-      "dateLabel": "10/11 17:30",
-      "desc": "生成AIの発達により、写真やイラストなどのアート作品がAIを使って大量に生み出されています。そんな中、イギリスの公共放送局であるBBCが、1996年に放送した「絵画を制作できるAI」について取り上げた番組のアーカイブを公開しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "生成AI/マルチモーダル",
       "score": 26
     },
     {
@@ -247,28 +269,6 @@
       "img": "",
       "src": "AINOW",
       "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "jevやGPT-6 Luna Decisionsなどの素早い判断に特化した確率モデルがパックマンをプレイするベンチマーク「jevman」",
-      "link": "https://gigazine.net/news/20261009-jevman/",
-      "date": "2026-10-09T20:00:00+09:00",
-      "dateLabel": "10/09 20:00",
-      "desc": "「jevman」は、AIにパックマンをプレイさせて、状況に応じた判断能力を比較するベンチマークです。 AI向けのAPIサービスを提供するOpperが公開しており、6種類のAIモデルにそれぞれ100回ずつパックマンをプレイさせ、その得点や判断速度、実行コストなどを比較しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "MetaやOpenAIが「.agent」を新ドメインとしてICANNに申請、「.agi」やトランプ大統領の「.trump」に加え日本からは「.neko」も",
-      "link": "https://gigazine.net/news/20261009-icann-reveals-bids-new-domains-ai/",
-      "date": "2026-10-09T16:00:00+09:00",
-      "dateLabel": "10/09 16:00",
-      "desc": "URLのドメイン名の最後に付く「.com」や「.org」などのトップレベルドメイン(TLD)を管理するICANNが、2026年度に申請を受け付けた新ドメインの一覧を発表しました。MetaやOpenAIなど13の申請者が「.agent」を申請したほか、「.agi」「asi」などの「人工知能(AI)」や「超知能(SI)」に関連するドメインに多数の申請が寄せられて",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 26
     },
     {
