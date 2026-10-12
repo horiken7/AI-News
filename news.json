@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-12T05:42:00.264375+09:00",
-  "generatedLabel": "2026/10/12 05:42",
+  "generatedAt": "2026-10-12T09:05:53.242117+09:00",
+  "generatedLabel": "2026/10/12 09:05",
   "feedOk": 6,
   "feedNg": 5,
   "candidates": 56,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 2
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -118,17 +118,6 @@
       "score": 34
     },
     {
-      "title": "AnthropicのAIが未解決殺人事件に関する虚偽の情報を提供",
-      "link": "https://gigazine.net/news/20261011-anthropic-ai-gave-fake-tip-unsolved-homicide/",
-      "date": "2026-10-11T09:00:00+09:00",
-      "dateLabel": "10/11 09:00",
-      "desc": "2026年10月9日、フィラデルフィア警察が「AnthropicのAIモデルが未解決殺人事件に関する虚偽の情報を送信してきた」と発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "OpenAI、安全性研究者3人を解雇 本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明",
       "link": "https://www.itmedia.co.jp/news/article/2610/10/2000002189/",
       "date": "2026-10-10T08:28:02+09:00",
@@ -192,7 +181,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AI全般",
-      "score": 34
+      "score": 28
     },
     {
       "title": "さくらインターネット、GPU専有によりトークン消費量を気にせず定額で利用できる「さくらのAI Engineプライベートエディション」提供開始を発表",
@@ -204,6 +193,17 @@
       "src": "Publickey",
       "cat": "半導体/GPU",
       "score": 28
+    },
+    {
+      "title": "AIに「法隆寺の五重塔」を作らせてみた 修正を重ねてたどり着いた驚きの完成度",
+      "link": "https://ascii.jp/elem/000/004/441/4441802/?rss",
+      "date": "2026-10-12T07:00:00+09:00",
+      "dateLabel": "10/12 07:00",
+      "desc": "Dotsで法隆寺の五重塔を3D化し、UE5で動かすまでを紹介。専門家の指摘や論文を基に修正を重ね、AIによる制作の可能性と、建築物の構造を理解して精度を確保する難しさ、専門家による監修の必要性を実感した。",
+      "img": "https://ascii.jp/img/2026/10/11/4537442/s/4ee4c5e4ecc989f8.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     },
     {
       "title": "30年前にBBCが放送した「アート作品を作るAI・AARON」を扱ったテレビ番組",
@@ -239,6 +239,17 @@
       "score": 26
     },
     {
+      "title": "AnthropicのAIが未解決殺人事件に関する虚偽の情報を提供",
+      "link": "https://gigazine.net/news/20261011-anthropic-ai-gave-fake-tip-unsolved-homicide/",
+      "date": "2026-10-11T09:00:00+09:00",
+      "dateLabel": "10/11 09:00",
+      "desc": "2026年10月9日、フィラデルフィア警察が「AnthropicのAIモデルが未解決殺人事件に関する虚偽の情報を送信してきた」と発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
       "title": "AIエージェント開発とは？進め方8ステップと費用相場・失敗しないコツ",
       "link": "https://ainow.ai/2026/10/10/278427/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e9%2596%258b%25e7%2599%25ba%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e9%2580%25b2%25e3%2582%2581%25e6%2596%25b98%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583%25e3%2583%2597%25e3%2581%25a8%25e8%25b2%25bb%25e7%2594%25a8",
       "date": "2026-10-10T03:55:03+09:00",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "GoogleがEmbeddingGemma 2・Gemma 4などのAIアシスタントで会議を記録するmacOSノートアプリ「Google AI Edge Foresight」リリース",
-      "link": "https://gigazine.net/news/20261009-google-ai-edge-foresight/",
-      "date": "2026-10-09T13:57:00+09:00",
-      "dateLabel": "10/09 13:57",
-      "desc": "Googleが、AIを使って会議の内容を記録・要約するmacOS向けノートアプリ「Google AI Edge Foresight」を公開しました。Google AI Edge Foresightは、GoogleのAIモデル「EmbeddingGemma 2」や「Gemma 4」を使用し、会議の文字起こしや議事録の作成、AIアシスタントによる質問への回答など",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
       "score": 26
     }
   ]
