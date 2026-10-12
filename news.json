@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-13T01:17:55.158388+09:00",
-  "generatedLabel": "2026/10/13 01:17",
+  "generatedAt": "2026-10-13T08:21:24.204410+09:00",
+  "generatedLabel": "2026/10/13 08:21",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 51,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -85,6 +85,17 @@
       "score": 44
     },
     {
+      "title": "各社のAIがリリース後にどれだけ性能変化したかがグラフでわかるベンチマーク「Nerf Bench」",
+      "link": "https://gigazine.net/news/20261013-nerf-bench/",
+      "date": "2026-10-13T06:00:00+09:00",
+      "dateLabel": "10/13 06:00",
+      "desc": "「Nerf Bench」はAIモデルがローンチデー(サービス開始日)からどれだけ性能を維持しているかを評価するベンチマークです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 42
+    },
+    {
       "title": "AIエージェント構築の手順7ステップ！基盤の選び方と本番運用のコツ",
       "link": "https://ainow.ai/2026/10/12/278430/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e6%25a7%258b%25e7%25af%2589%25e3%2581%25ae%25e6%2589%258b%25e9%25a0%25867%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583%25e3%2583%2597%25ef%25bc%2581%25e5%259f%25ba%25e7%259b%25a4%25e3%2581%25ae%25e9%2581%25b8%25e3%2581%25b3",
       "date": "2026-10-12T21:50:16+09:00",
@@ -116,6 +127,50 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 42
+    },
+    {
+      "title": "Meta、同社最大のAIモデル「Muse Wonder」発表 記憶力と粘り強さを強化、AIエージェント「Muse」にも搭載へ",
+      "link": "https://www.itmedia.co.jp/news/article/2610/13/2000002197/",
+      "date": "2026-10-13T07:06:29+09:00",
+      "dateLabel": "10/13 07:06",
+      "desc": "Metaは、最大かつ最強と位置付ける新AIモデル「Muse Wonder」と上位モデル「Muse Wonde Full」を発表した。会話をまたいで記憶を保持する機能や粘り強くタスクを遂行する機能を備え、エージェント用途に最適化した。APIやコーディングツールで提供を始めたほか、個人向けAIエージェント「Muse」にも順次搭載していく。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "企業向けAIは「大規模LLM」一択ではない Zohoが重視するコストとデータ保護",
+      "link": "https://kn.itmedia.co.jp/kn/article/2610/13/2000002172/",
+      "date": "2026-10-13T07:00:00+09:00",
+      "dateLabel": "10/13 07:00",
+      "desc": "AI選択は、性能だけでなく、運用コストやデータ保護をどう両立するかが課題となる。用途に応じてAIモデルを使い分け、自社データの管理や判断根拠の説明にも配慮することが重要だ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "データセンター建設への反発が世界各地で相次ぐ 住民が怒る“納得の理由”とは",
+      "link": "https://ascii.jp/limit/group/ida/elem/000/004/441/4441826/?rss",
+      "date": "2026-10-13T07:00:00+09:00",
+      "dateLabel": "10/13 07:00",
+      "desc": "生成AIの普及にともない、世界規模でデータセンターの建設ラッシュが起きているが、同時に、地域住民との摩擦も生じている。",
+      "img": "https://ascii.jp/img/2026/10/12/4537476/s/48e7d4fa1a6259ec.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "AIと衛星データを活用して市場流通前の不動産仕入れを効率化するサービス",
+      "link": "https://ascii.jp/elem/000/004/441/4441168/?rss",
+      "date": "2026-10-13T07:00:00+09:00",
+      "dateLabel": "10/13 07:00",
+      "desc": "株式会社WHEREは9月30日、不動産の仕入れを支援するツール「WHERE」のアップデート版を10月1日から順次提供すると発表した。建築費や金利の上昇により、市場に出る前の土地を探して買い付ける動きが増えるなか、情報収集や訪問管理にかかる作業負担の軽減を目指す。",
+      "img": "https://ascii.jp/img/2026/10/08/4536179/s/bedcf687aafd391c.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "メモリー128GB版「Surface Laptop Ultra」開封の儀、マグネット式の特殊なUSB Type-Cはどうなっているのか？",
@@ -195,92 +250,37 @@
       "score": 28
     },
     {
-      "title": "7年前に発売されたNVIDIA製品がAIブームで1.5倍に値上がり",
-      "link": "https://gigazine.net/news/20261012-nvidia-shield-tv-price-hike/",
-      "date": "2026-10-12T23:15:00+09:00",
-      "dateLabel": "10/12 23:15",
-      "desc": "NVIDIAが7年前に発売した、テレビに接続してNetflixやYouTubeなどを視聴できるストリーミング端末「SHIELD TV Pro」が2026年10月2日からアメリカで約1.5倍の価格に値上げされました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "愛車がAIエージェントとなる「CarWatch」、必要なのはRaspberry Pi 5とローカルAI",
-      "link": "https://gigazine.net/news/20261012-carwatch/",
-      "date": "2026-10-12T19:00:00+09:00",
-      "dateLabel": "10/12 19:00",
-      "desc": "「CarWatch」は車自身がAIエージェントとして機能し、家・電話・時計などのスマートデバイスと同様に「チャットルーム」内で対話できるようになる革新的なシステムです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "RTX Spark搭載ノートPC「Surface Laptop Ultra」、ローカルAIで堪能するならメモリーは最低48GBは必要か？",
-      "link": "https://ascii.jp/elem/000/004/441/4441841/?rss",
-      "date": "2026-10-12T17:30:00+09:00",
-      "dateLabel": "10/12 17:30",
-      "desc": "Microsoftが北米サンフランシスコでイベント「Surface October 2026」を開催。その模様をレポートする。",
-      "img": "https://ascii.jp/img/2026/10/12/4537478/s/5c05a2253045717b.png",
+      "title": "AI利用が多い技術者ほど「自分でコードを書ける能力」も重視／世界の6割近くが「技術進歩が生活を破壊」と回答、ほか",
+      "link": "https://ascii.jp/elem/000/004/441/4441773/?rss",
+      "date": "2026-10-13T08:00:00+09:00",
+      "dateLabel": "10/13 08:00",
+      "desc": "今回（2026年10月3日～10月9日）は、AI時代特有のサイバーセキュリティトレンドを示すハイプ・サイクル、エンジニアのAI利用頻度で大きく異なる「コードを書く能力」への評価、世界の6割が「技術進歩が生活を壊している」と不安視、通勤時間の理想／現実と満足度の調査、国内コラボレーションスイート市場の動向についてのデータを紹介します。",
+      "img": "https://ascii.jp/img/2026/10/10/4537273/s/701124b0f30ad4d5.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "動くAIキャラクターとの恋愛チャットが楽しめる「Colorist.ai」─会話や選択によって物語が変わる没入型AI体験",
-      "link": "https://ascii.jp/elem/000/004/441/4441845/?rss",
-      "date": "2026-10-12T14:00:00+09:00",
-      "dateLabel": "10/12 14:00",
-      "desc": "動くAIキャラクターとの恋愛チャットが楽しめる「Colorist.ai」─会話や選択によって物語が変わる没入型AI体験",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "title": "MSI、AmazonでノートPCの先行セール開始！ ゲーミングからAI対応モデルまで特価に",
+      "link": "https://ascii.jp/elem/000/004/441/4441863/?rss",
+      "date": "2026-10-13T07:30:00+09:00",
+      "dateLabel": "10/13 07:30",
+      "desc": "MSIがAmazonでノートPCの先行セールを開始。ゲーミング、ビジネス、AI対応まで幅広いモデルが対象だ。",
+      "img": "https://ascii.jp/img/2026/10/13/4537752/s/f9830f6f62c4cd50.png",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "FDEが構築したAIエージェントの7割、企業が放棄へ Gartner予測",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/09/news042.html",
-      "date": "2026-10-12T11:15:00+09:00",
-      "dateLabel": "10/12 11:15",
-      "desc": "ベンダーのエンジニアと直接協力して構築したAIエージェントを、2028年までに企業の7割が放棄する――。Gartnerはそう予測する。しかも、原因は技術の未熟さではなく、案件の「構造」にあるという。何が企業をつまずかせ、どうすれば避けられるのか。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
+      "title": "アドホック分析も定型分析も AIデータプラットフォーム「COMETA」がBI機能を追加",
+      "link": "https://ascii.jp/elem/000/004/441/4441801/?rss",
+      "date": "2026-10-13T07:30:00+09:00",
+      "dateLabel": "10/13 07:30",
+      "desc": "prinmeNumberが、AIデータプラットフォームサービス「COMETA（コメタ）」において、新たにBI機能を搭載した。これまで提供してきた対話型AI（AIチャット）によるアドホックな分析に加えて、自然言語を通じて定型のBIダッシュボード／帳票を作成し“定点観測”することも可能になった。",
+      "img": "https://ascii.jp/img/2026/10/11/4537441/s/cfa3ecfcf7f79184.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 26
-    },
-    {
-      "title": "AnthropicのAIが未解決殺人事件に関する虚偽の情報を提供",
-      "link": "https://gigazine.net/news/20261011-anthropic-ai-gave-fake-tip-unsolved-homicide/",
-      "date": "2026-10-11T09:00:00+09:00",
-      "dateLabel": "10/11 09:00",
-      "desc": "2026年10月9日、フィラデルフィア警察が「AnthropicのAIモデルが未解決殺人事件に関する虚偽の情報を送信してきた」と発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "AIエージェント開発とは？進め方8ステップと費用相場・失敗しないコツ",
-      "link": "https://ainow.ai/2026/10/10/278427/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e9%2596%258b%25e7%2599%25ba%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e9%2580%25b2%25e3%2582%2581%25e6%2596%25b98%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583%25e3%2583%2597%25e3%2581%25a8%25e8%25b2%25bb%25e7%2594%25a8",
-      "date": "2026-10-10T03:55:03+09:00",
-      "dateLabel": "10/10 03:55",
-      "desc": "AIエージェント開発とは、LLMにツールや記憶、権限を組み合わせ、業務を自律的に進めるシステムを作ることです。本記事では、要件定義から運用改善までの8ステップと、費用相場・内製と外注の判断基準を解説します。 経営層から「... The post AIエージェント開発とは？進め方8ステップと費用相場・失敗しないコツ first appeared on AI専門",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "Supabase、1サーバあたり数百万ものSQLiteをホストする「Turso」買収を発表。AIエージェントで加速するDB需要に対応",
-      "link": "https://www.publickey1.jp/blog/26/supabase1sqlitetursoaidb.html",
-      "date": "2026-10-05T00:56:27+09:00",
-      "dateLabel": "10/05 00:56",
-      "desc": "PostgreSQLをベースにしたデータベースサービス「Supabase」などを提供しているSupabaseは、SQLiteをベースとしたデータベースサービスを提供する「Turso」を買収したことを発表しました。 Turso is join...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 24
     }
   ]
 }
