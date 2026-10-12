@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-12T09:05:53.242117+09:00",
-  "generatedLabel": "2026/10/12 09:05",
+  "generatedAt": "2026-10-12T15:45:30.114369+09:00",
+  "generatedLabel": "2026/10/12 15:45",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 56,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,7 +13,7 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 20
+      "items": 19
     },
     {
       "source": "ASCII.jp",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -63,17 +63,6 @@
   ],
   "articles": [
     {
-      "title": "Google「Gemini」新サービスで「Claude」利用可能に 他モデルも今後追加予定",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002152/",
-      "date": "2026-10-09T09:40:57+09:00",
-      "dateLabel": "10/09 09:40",
-      "desc": "Google Cloudは新サービス「Gemini Agent」を発表。クラウドで動作するマルチエージェントツールとされる。Geminiに加えて、Anthropicの「Claude Opus 5.5」「Claude Sonnet 5.5」が利用可能だと明かされている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
       "title": "AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開。特定のLLMに依存せず入れ替え可能、任意のコンテナ環境にデプロイ",
       "link": "https://www.publickey1.jp/blog/26/awsaistrandsllm.html",
       "date": "2026-09-29T00:01:25+09:00",
@@ -85,36 +74,58 @@
       "score": 48
     },
     {
-      "title": "ゴムマリの業務AIエージェント、『給与計算チェック』を提供開始",
-      "link": "https://ascii.jp/elem/000/004/441/4441797/?rss",
-      "date": "2026-10-11T16:10:00+09:00",
-      "dateLabel": "10/11 16:10",
-      "desc": "ゴムマリの業務AIエージェント、『給与計算チェック』を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
+      "title": "Google「Gemini」新サービスで「Claude」利用可能に 他モデルも今後追加予定",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002152/",
+      "date": "2026-10-09T09:40:57+09:00",
+      "dateLabel": "10/09 09:40",
+      "desc": "Google Cloudは新サービス「Gemini Agent」を発表。クラウドで動作するマルチエージェントツールとされる。Geminiに加えて、Anthropicの「Claude Opus 5.5」「Claude Sonnet 5.5」が利用可能だと明かされている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 44
+    },
+    {
+      "title": "Microsoftも“判断特化”AIモデル「Microsoft-Decision-1」、Qwenベースで「Jev」と同価格",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/12/2000002194/",
+      "date": "2026-10-12T09:39:33+09:00",
+      "dateLabel": "10/12 09:39",
+      "desc": "Microsoftは、文章生成を行わず選択肢ごとの確率を返す判断特化AI「Microsoft-Decision-1」を発表した。「Qwen3.5-9B」を追加学習し、OpenAIの「GPT-6 Sol」の35倍の速度を実現。「Jev」と同じ入力100万トークン当たり0.042ドルで、分類やエージェントの行動判定向けに提供する。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 42
     },
     {
-      "title": "Google、AI生成物の判定ツールを一般公開 OpenAIやNVIDIA製サービスも対象に",
-      "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002128/",
-      "date": "2026-10-08T13:25:25+09:00",
-      "dateLabel": "10/08 13:25",
-      "desc": "米Googleは10月7日（現地時間）、AI生成コンテンツの判定ツール「SynthID Detector」を一般公開したと発表した。これまではジャーナリストや研究者など一部に限って提供していた。",
+      "title": "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供 米政権は「通知と是正は義務」と警告",
+      "link": "https://www.itmedia.co.jp/news/article/2610/12/2000002192/",
+      "date": "2026-10-12T08:59:36+09:00",
+      "dateLabel": "10/12 08:59",
+      "desc": "Anthropicは、Claudeの評価試験中に、未解決殺人事件サイトへの架空情報送信や脆弱性悪用などの意図しない行動が生じたと発表した。警察は発見から報告までの遅れを批判。ホワイトハウスのSI Forceも、インシデントの迅速な通知と是正は国家安全保障上の義務であると警告した。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 36
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
-      "title": "開発費年4.6兆円のHuawei開発拠点「松山湖キャンパス」はテーマパークを超えていた＝最新Watch＆スマホにタッチ!!",
-      "link": "https://ascii.jp/elem/000/004/440/4440496/?rss",
-      "date": "2026-10-12T00:01:00+09:00",
-      "dateLabel": "10/12 00:01",
-      "desc": "ファーウェイの超巨大開発拠点に、グローバル発表された新製品、スマホ製品、深圳のフラッグシップストアや自動運転のクルマなど、ファーウェイ・ワールドを紹介していこう。",
-      "img": "https://ascii.jp/img/2026/10/06/4535143/s/41303a85a180b120.jpg",
+      "title": "NVIDIA独自コア「Olympus」の真価 Vera CPUが見せたIPC全振りの重厚構造とメモリー帯域依存",
+      "link": "https://ascii.jp/elem/000/004/441/4441711/?rss",
+      "date": "2026-10-12T12:00:00+09:00",
+      "dateLabel": "10/12 12:00",
+      "desc": "Hot Chips第6弾はNVIDIAのVeraである。前回のArm AGI CPUは、言ってみればArm v9.3-Aのお手本のような構成だったが、これをNVIDIAが実現するとどうなったか？ というのが今回ご紹介するVera CPUとなる。",
+      "img": "https://ascii.jp/img/2026/10/10/4537089/s/551d8377ec91ca6b.jpg",
       "src": "ASCII.jp",
-      "cat": "AI実装",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "SherLOCK、相次ぐサイバー攻撃を背景にAIエージェント向けAIレッドチーミングテスト提供を本格化",
+      "link": "https://ascii.jp/elem/000/004/441/4441817/?rss",
+      "date": "2026-10-12T09:30:00+09:00",
+      "dateLabel": "10/12 09:30",
+      "desc": "SherLOCK、相次ぐサイバー攻撃を背景にAIエージェント向けAIレッドチーミングテスト提供を本格化",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -151,17 +162,6 @@
       "score": 34
     },
     {
-      "title": "OpenAIがAIで大量の数学的成果を発表したのは「学術的成果ではなく権力の誇示に過ぎない」との指摘",
-      "link": "https://gigazine.net/news/20261009-openais-math-solutions-human-ahm/",
-      "date": "2026-10-09T15:00:00+09:00",
-      "dateLabel": "10/09 15:00",
-      "desc": "2026年10月、OpenAIが社内の最先端AIモデルを使って生成した722件に及ぶ「数学的成果」を発表しました。これに対し、世界各国の数学者らにより構成されているThe Association for Human Mathematics(人間のための数学協会)が、「一度に700以上の成果を公開することは学術的な成果を示すものではなく、権力の誇示に過ぎない」",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "Anthropic、Claudeへの“虐待”を利用ポリシーで禁止 影響工作の規定も集約",
       "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002149/",
       "date": "2026-10-09T09:07:24+09:00",
@@ -170,7 +170,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
+      "score": 28
     },
     {
       "title": "企業が使うAIモデル、1年半で6割超が「中国製」に 「最高性能のオープンモデルはほぼ中国発」の理由",
@@ -195,14 +195,25 @@
       "score": 28
     },
     {
-      "title": "AIに「法隆寺の五重塔」を作らせてみた 修正を重ねてたどり着いた驚きの完成度",
-      "link": "https://ascii.jp/elem/000/004/441/4441802/?rss",
-      "date": "2026-10-12T07:00:00+09:00",
-      "dateLabel": "10/12 07:00",
-      "desc": "Dotsで法隆寺の五重塔を3D化し、UE5で動かすまでを紹介。専門家の指摘や論文を基に修正を重ね、AIによる制作の可能性と、建築物の構造を理解して精度を確保する難しさ、専門家による監修の必要性を実感した。",
-      "img": "https://ascii.jp/img/2026/10/11/4537442/s/4ee4c5e4ecc989f8.jpg",
+      "title": "supa.ai、最新AIモデルのサイバー攻撃を再現するペネトレーションテストを最短即日実施を開始",
+      "link": "https://ascii.jp/elem/000/004/441/4441834/?rss",
+      "date": "2026-10-12T11:50:05+09:00",
+      "dateLabel": "10/12 11:50",
+      "desc": "supa.ai、最新AIモデルのサイバー攻撃を再現するペネトレーションテストを最短即日実施を開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "FDEが構築したAIエージェントの7割、企業が放棄へ Gartner予測",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/09/news042.html",
+      "date": "2026-10-12T11:15:00+09:00",
+      "dateLabel": "10/12 11:15",
+      "desc": "ベンダーのエンジニアと直接協力して構築したAIエージェントを、2028年までに企業の7割が放棄する――。Gartnerはそう予測する。しかも、原因は技術の未熟さではなく、案件の「構造」にあるという。何が企業をつまずかせ、どうすれば避けられるのか。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 26
     },
     {
@@ -214,28 +225,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
-      "title": "CPUのみで動作するリアルタイム多言語音声認識「早耳」、GPUもクラウドAPIも使わずメモリ2GB未満でライブ字幕表示からブラウザ表示・話者ラベル付け・翻訳字幕まで可能",
-      "link": "https://gigazine.net/news/20261011-hayamimi/",
-      "date": "2026-10-11T12:00:00+09:00",
-      "dateLabel": "10/11 12:00",
-      "desc": "「Hayamimi(早耳)」はGPUやクラウドAPIに依存せずCPUのみで動作する軽量なリアルタイム多言語音声認識システムです。メモリ2GB未満の環境でもライブ字幕表示・話者ラベル付け・翻訳字幕生成まで対応し、発話中から字幕が出始め話し終えて約100msで確定する高速性が特徴です。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "無料でmacOS 27のApple Intelligenceをオフにして空きディスク容量を増やす方法",
-      "link": "https://gigazine.net/news/20261011-removemacai/",
-      "date": "2026-10-11T11:00:00+09:00",
-      "dateLabel": "10/11 11:00",
-      "desc": "AppleのAI機能「Apple Intelligence」は、Macのストレージに数GB以上の容量を必要とします。Apple Intelligenceを使わないユーザー向けに、機能を無効化してAIモデルを削除し、ディスクの空き容量を増やせる無料のオープンソースツール「RemoveMacAI」が公開されています。RemoveMacAIはAppleシリコンを搭",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
       "score": 26
     },
     {
@@ -281,6 +270,17 @@
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 26
+    },
+    {
+      "title": "Supabase、1サーバあたり数百万ものSQLiteをホストする「Turso」買収を発表。AIエージェントで加速するDB需要に対応",
+      "link": "https://www.publickey1.jp/blog/26/supabase1sqlitetursoaidb.html",
+      "date": "2026-10-05T00:56:27+09:00",
+      "dateLabel": "10/05 00:56",
+      "desc": "PostgreSQLをベースにしたデータベースサービス「Supabase」などを提供しているSupabaseは、SQLiteをベースとしたデータベースサービスを提供する「Turso」を買収したことを発表しました。 Turso is join...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 24
     }
   ]
 }
