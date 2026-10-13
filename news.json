@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-14T04:38:35.264360+09:00",
-  "generatedLabel": "2026/10/14 04:38",
+  "generatedAt": "2026-10-14T08:30:40.468531+09:00",
+  "generatedLabel": "2026/10/14 08:30",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 57,
+  "candidates": 60,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -107,6 +107,28 @@
       "score": 50
     },
     {
+      "title": "開始0.5秒での自動停止を目指す、製造現場の事故を防ぐAI制御システム",
+      "link": "https://ascii.jp/elem/000/004/442/4442216/?rss",
+      "date": "2026-10-14T07:00:00+09:00",
+      "dateLabel": "10/14 07:00",
+      "desc": "AWL株式会社は10月6日、工場の安全確保を自動化する次世代型AI制御システムの実証に取り組むと発表。既存の監視カメラやセンサーに後付け可能な汎用システムを活用する。",
+      "img": "https://ascii.jp/img/2026/10/13/4538136/s/445ebd4eb2b4b15f.png",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "気候テック10：グーグルにも供給、大規模鉄電池のフォーム・エナジー",
+      "link": "https://ascii.jp/elem/000/004/442/4442273/?rss",
+      "date": "2026-10-14T06:27:28+09:00",
+      "dateLabel": "10/14 06:27",
+      "desc": "米国のフォーム・エナジーは、鉄を使った長時間蓄電池の生産を始め、グーグルのデータセンター向けなど大型案件の契約を重ねている。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
       "title": "Anthropicが蒸留攻撃に対する効果的な対策を発見、敵対組織によるデータ抽出を90～99％削減",
       "link": "https://gigazine.net/news/20261013-anthropic-defense-distillation-attacks/",
       "date": "2026-10-13T15:08:00+09:00",
@@ -149,6 +171,39 @@
       "src": "AINOW",
       "cat": "AIエージェント/業務",
       "score": 42
+    },
+    {
+      "title": "AIコード生成のコストや手戻りを可視化する開発管理ツール",
+      "link": "https://ascii.jp/elem/000/004/441/4441638/?rss",
+      "date": "2026-10-14T07:00:00+09:00",
+      "dateLabel": "10/14 07:00",
+      "desc": "supa, inc.は10月5日、AI駆動開発プラットフォームの最新版「supateam v2.0」の提供を開始したと発表した。生成AIの利用コストのほか、追加指示やコードレビュー、修正・手戻りといった作業工程の可視化に対応するという。",
+      "img": "https://ascii.jp/img/2026/10/09/4536853/s/3c76f666fa8b5029.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "オムロンはAIを現場の価値に変える 米IPC企業買収で「設備最適化」へ拡張",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/14/news032.html",
+      "date": "2026-10-14T06:30:00+09:00",
+      "dateLabel": "10/14 06:30",
+      "desc": "オムロンは、米国の産業用PCメーカーであるOnLogicを完全子会社化すると発表。併せて東京都内で記者会見を開き、買収の狙い、背景などを説明した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "気候テック10：AI需要にも対応、中国の風力大手エンビジョン",
+      "link": "https://ascii.jp/elem/000/004/442/4442274/?rss",
+      "date": "2026-10-14T06:04:39+09:00",
+      "dateLabel": "10/14 06:04",
+      "desc": "中国の風力タービン大手エンビジョン・エナジーは、海外への事業拡大を進めるとともに、風力と蓄電池でAIデータセンターに電力を供給する。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
     },
     {
       "title": "ASUSのRTX 5070搭載ノートが33％オフの23万4800円！ 「TUF Gaming A16」がプライム感謝祭先行セール",
@@ -195,17 +250,6 @@
       "score": 34
     },
     {
-      "title": "【Amazon秋の先行セール】RebotAiの12インチ2.5Kタブレット「AF12」が45％OFFの26,599円に。Android 16とGemini AIを搭載し、映像も日常使いも快適に",
-      "link": "https://ascii.jp/elem/000/004/442/4442264/?rss",
-      "date": "2026-10-13T18:00:00+09:00",
-      "dateLabel": "10/13 18:00",
-      "desc": "【Amazon秋の先行セール】RebotAiの12インチ2.5Kタブレット「AF12」が45％OFFの26,599円に。Android 16とGemini AIを搭載し、映像も日常使いも快適に",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "名作RPG「ウルティマ」の作者が35年前に売却した著作権を取り戻す手続きを進めている",
       "link": "https://gigazine.net/news/20261013-ultima-creator-regaining-copyright-rpg/",
       "date": "2026-10-13T14:05:00+09:00",
@@ -214,28 +258,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "Meta、同社最大のAIモデル「Muse Wonder」発表 記憶力と粘り強さを強化、AIエージェント「Muse」にも搭載へ",
-      "link": "https://www.itmedia.co.jp/news/article/2610/13/2000002197/",
-      "date": "2026-10-13T07:06:29+09:00",
-      "dateLabel": "10/13 07:06",
-      "desc": "Metaは、最大かつ最強と位置付ける新AIモデル「Muse Wonder」と上位モデル「Muse Wonde Full」を発表した。会話をまたいで記憶を保持する機能や粘り強くタスクを遂行する機能を備え、エージェント用途に最適化した。APIやコーディングツールで提供を始めたほか、個人向けAIエージェント「Muse」にも順次搭載していく。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "企業向けAIは「大規模LLM」一択ではない Zohoが重視するコストとデータ保護",
-      "link": "https://kn.itmedia.co.jp/kn/article/2610/13/2000002172/",
-      "date": "2026-10-13T07:00:00+09:00",
-      "dateLabel": "10/13 07:00",
-      "desc": "AI選択は、性能だけでなく、運用コストやデータ保護をどう両立するかが課題となる。用途に応じてAIモデルを使い分け、自社データの管理や判断根拠の説明にも配慮することが重要だ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -259,28 +281,6 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 34
-    },
-    {
-      "title": "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供 米政権は「通知と是正は義務」と警告",
-      "link": "https://www.itmedia.co.jp/news/article/2610/12/2000002192/",
-      "date": "2026-10-12T08:59:36+09:00",
-      "dateLabel": "10/12 08:59",
-      "desc": "Anthropicは、Claudeの評価試験中に、未解決殺人事件サイトへの架空情報送信や脆弱性悪用などの意図しない行動が生じたと発表した。警察は発見から報告までの遅れを批判。ホワイトハウスのSI Forceも、インシデントの迅速な通知と是正は国家安全保障上の義務であると警告した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "OpenAI、安全性研究者3人を解雇 本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明",
-      "link": "https://www.itmedia.co.jp/news/article/2610/10/2000002189/",
-      "date": "2026-10-10T08:28:02+09:00",
-      "dateLabel": "10/10 08:28",
-      "desc": "OpenAIで安全性研究に携わっていた研究者3人が、突然解雇されたと公表し、書面での理由開示や外部監査の受け入れ維持を求める書簡を公開した。これに対しOpenAIは、機密情報規定への重大な違反が社内調査で判明したためと説明し、安全性の懸念表明を理由とした解雇ではないと反論している。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
-      "score": 28
     }
   ]
 }
