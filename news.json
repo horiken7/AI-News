@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-14T11:39:57.539772+09:00",
-  "generatedLabel": "2026/10/14 11:39",
+  "generatedAt": "2026-10-14T17:10:04.462524+09:00",
+  "generatedLabel": "2026/10/14 17:10",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 66,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 20
+      "items": 19
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 11
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 17
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -74,14 +74,14 @@
       "score": 58
     },
     {
-      "title": "ASUS「ProArt P16」「ProArt P14」予約開始、NVIDIA RTX Spark N1X搭載のAIノートPC",
-      "link": "https://ascii.jp/elem/000/004/442/4442295/?rss",
-      "date": "2026-10-14T11:00:00+09:00",
-      "dateLabel": "10/14 11:00",
-      "desc": "ASUS JAPANが、NVIDIA RTX Spark搭載のクリエイター向けAIノートPC「ProArt P16 (H7607)」「ProArt P14 (H7407)」2製品4モデルの予約開始を発表。最大1ペタフロップスのAI性能、128GBユニファイドメモリ対応、Story CubeやMuseTreeなどの独自AI機能を備え、10月23日より順次発売す",
-      "img": "https://ascii.jp/img/2026/10/14/4538371/s/ed77648c8c813173.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
+      "title": "AIチャットサービスのCharacter.aiが破産申請、ディズニーへの資産売却などを検討",
+      "link": "https://gigazine.net/news/20261014-character-ai-bankruptcy/",
+      "date": "2026-10-14T13:02:00+09:00",
+      "dateLabel": "10/14 13:02",
+      "desc": "実在の人物やアニメキャラクター風のチャットボットと会話できるAIサービスを提供する「Character.ai」が、連邦倒産法第11章に基づく手続きを開始したことを発表しました。Character.aiは安全性や著作権など多方面で厳しい監視や訴訟に直面して数億円の負債を抱えており、会社と資産の売却を円滑に進めるために破産保護を申請したとしています。 続きを読む",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
       "score": 50
     },
     {
@@ -96,6 +96,39 @@
       "score": 50
     },
     {
+      "title": "「LFM2.5-24B-A2B」が登場、Gemma 4 26B-A4BやQwen3.6 35B-A3Bより高性能でローカルエージェントとして能力を発揮",
+      "link": "https://gigazine.net/news/20261014-lfm2-5-24b-a2b/",
+      "date": "2026-10-14T16:30:00+09:00",
+      "dateLabel": "10/14 16:30",
+      "desc": "AI開発企業のLiquid AIが「LFM2.5-24B-A2B」を公開しました。LFM2.5-24B-A2Bは自身より規模の大きなGoogle製モデルやAlibaba製モデルより高い性能を発揮し、ローカルでAIエージェントを実行させる用途に適しているとアピールされています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "Googleの新モデル「Gemini 4 Argon」一般提供開始 使えるプラン、価格",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/14/2000002241/",
+      "date": "2026-10-14T14:06:36+09:00",
+      "dateLabel": "10/14 14:06",
+      "desc": "Googleは同社最先端のモデル「Gemini 4 Argon」の一般提供を開始した。Geminiアプリや検索のAIモード、Google Antigravity、APIなどで利用できる。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "AnthropicがGit代替のバージョン管理システム「Scion」を開発し社内移行済み、AIでコードが爆増してGitの限界に達したので耐えられるシステムを開発",
+      "link": "https://gigazine.net/news/20261014-anthropic-scion-version-control-system/",
+      "date": "2026-10-14T13:33:00+09:00",
+      "dateLabel": "10/14 13:33",
+      "desc": "Claudeの開発元として知られるAI企業のAnthropicが、Gitの代わりとなるバージョン管理システム「Scion」を開発したことを発表しました。ScionはAnthropicの社内システムとして運用されており、すでにGitからの移行を達成しているそうです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "Microsoft、Copilotなどを自社開発チップで稼働 新チップでNVIDIA依存から脱却狙いか",
       "link": "https://www.itmedia.co.jp/aiplus/article/2610/13/2000002207/",
       "date": "2026-10-13T12:34:18+09:00",
@@ -104,50 +137,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
-      "title": "NVIDIAとCisco、光モジュール「USFP」発表 AIファクトリー向けに帯域幅密度4倍へ",
-      "link": "https://ascii.jp/elem/000/004/442/4442279/?rss",
-      "date": "2026-10-14T10:30:00+09:00",
-      "dateLabel": "10/14 10:30",
-      "desc": "NVIDIAとCiscoがAIファクトリー向け新光モジュールUSFPを発表。1レーン400Gb/s対応、最大12.8Tb/s、OSFP相当サイズで高密度化と省電力化を両立する。",
-      "img": "https://ascii.jp/img/2026/10/14/4538320/s/2fe4998f0eb36864.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "グーグル「Gemini 4 Argon」ついに提供開始 テストは好成績、でも仕事はできる？",
-      "link": "https://ascii.jp/elem/000/004/442/4442287/?rss",
-      "date": "2026-10-14T10:20:00+09:00",
-      "dateLabel": "10/14 10:20",
-      "desc": "Googleは10月13日、AIモデル「Gemini 4 Argon」の一般提供を開始した。GeminiアプリとGoogle検索のAIモードではGoogle AI Pro／Ultra契約者が利用できる。",
-      "img": "https://ascii.jp/img/2026/10/14/4538336/s/d944a7f3e2e89efd.png",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "Googleの新モデル「Gemini 4 Argon」一般提供開始 使えるプラン、価格",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/14/2000002241/",
-      "date": "2026-10-14T09:29:49+09:00",
-      "dateLabel": "10/14 09:29",
-      "desc": "Googleは同社最先端のモデル「Gemini 4 Argon」の一般提供を開始した。Geminiアプリや検索のAIモード、Google Antigravity、APIなどで利用できる。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "Anthropicが蒸留攻撃に対する効果的な対策を発見、敵対組織によるデータ抽出を90～99％削減",
-      "link": "https://gigazine.net/news/20261013-anthropic-defense-distillation-attacks/",
-      "date": "2026-10-13T15:08:00+09:00",
-      "dateLabel": "10/13 15:08",
-      "desc": "高性能なAIモデルを使って自分のAIモデルを学習する手法「蒸留」は、する側はコストを抑えて最先端モデルに近い性能を実現することができますが、される側は不要な負担を強いられるなどのデメリットがあります。こうした蒸留はしばしば「攻撃」と見なされ、対策が行われています。新たに、Anthropicが望まない蒸留を大幅に低減する手法を公開しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -162,46 +151,46 @@
       "score": 42
     },
     {
-      "title": "防災メールに不正アクセス、最大約313万件のアドレス漏えいか 全国の自治体に影響",
-      "link": "https://ascii.jp/elem/000/004/442/4442293/?rss",
-      "date": "2026-10-14T10:45:00+09:00",
-      "dateLabel": "10/14 10:45",
-      "desc": "防災・防犯情報の一斉配信サービス「SpeeCAN RAIDEN」を運営するアルカディアは10月13日、第三者による不正アクセスで、登録情報などが漏えいした可能性があると発表した。",
-      "img": "https://ascii.jp/img/2026/10/14/4538370/s/926b4667099f5379.png",
+      "title": "約11万円も安い超特価！ 「iPhone Air」1TBモデルがAmazonプライム感謝祭に登場",
+      "link": "https://ascii.jp/elem/000/004/442/4442501/?rss",
+      "date": "2026-10-14T16:00:00+09:00",
+      "dateLabel": "10/14 16:00",
+      "desc": "Amazon.co.jpにて、「iPhone Air」がプライム感謝祭先行セール中！とにかく薄い・軽量・高性能で画面の大きさも好評な一品です。",
+      "img": "https://ascii.jp/img/2026/10/14/4538495/s/09bbf460ff910e54.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
     },
     {
-      "title": "【業界特化調査 第22弾】AI検索パートナーズ（TechSuite株式会社）、物流・EC・SCM担当者による倉庫・物流施設選びのAI検索対策（LLMO/AIO/GEO/AEO）調査を実施",
-      "link": "https://ascii.jp/elem/000/004/442/4442306/?rss",
-      "date": "2026-10-14T09:00:00+09:00",
-      "dateLabel": "10/14 09:00",
-      "desc": "【業界特化調査 第22弾】AI検索パートナーズ（TechSuite株式会社）、物流・EC・SCM担当者による倉庫・物流施設選びのAI検索対策（LLMO/AIO/GEO/AEO）調査を実施",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "「AIは自社サイトを認識できているのか？」umoren.ai、AI学習データの元となるCommon Crawlへの保存状況を確認できる無料ツールを公開",
-      "link": "https://ascii.jp/elem/000/004/442/4442302/?rss",
-      "date": "2026-10-14T09:00:00+09:00",
-      "dateLabel": "10/14 09:00",
-      "desc": "「AIは自社サイトを認識できているのか？」umoren.ai、AI学習データの元となるCommon Crawlへの保存状況を確認できる無料ツールを公開",
+      "title": "AIと仕事を形にした後、どう考えを深めるか 「AIと働くことで生まれる新しい思考の習慣」を無料公開",
+      "link": "https://ascii.jp/elem/000/004/442/4442589/?rss",
+      "date": "2026-10-14T15:25:23+09:00",
+      "dateLabel": "10/14 15:25",
+      "desc": "AIと仕事を形にした後、どう考えを深めるか 「AIと働くことで生まれる新しい思考の習慣」を無料公開",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
     },
     {
-      "title": "AIのアクセス権を狙う「LLMジャッキング」",
-      "link": "https://ascii.jp/elem/000/004/441/4441876/?rss",
-      "date": "2026-10-14T09:00:00+09:00",
-      "dateLabel": "10/14 09:00",
-      "desc": "Amazon Bedrockで発生したLLMジャッキングインシデントの内幕と、その攻撃を検知するためのセキュリティ対策を解説。",
-      "img": "https://ascii.jp/img/2026/10/13/4537806/s/bb6442b0b358ddd5.jpg",
-      "src": "ASCII.jp",
+      "title": "中国のメモリ企業「CXMT」が4F²設計のデータセンター向けDDR5 RDIMMを2026年末までに発売すると発表、ブレイクスルー達成でライバルのMicron・SKハイニックス・Samsung株が急落",
+      "link": "https://gigazine.net/news/20261014-cxmt-4f2-memory/",
+      "date": "2026-10-14T13:20:00+09:00",
+      "dateLabel": "10/14 13:20",
+      "desc": "中国に拠点を置くメモリメーカーのCXMTが、既存のセル面積を理論上約3分の1削減する新しいアーキテクチャ「4F²」を用いた次世代メモリモジュールを2026年内に発売する予定だと明かしました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "OpenAIの従業員をFBIが逮捕、役員会議室に盗聴器を仕掛けた疑い",
+      "link": "https://gigazine.net/news/20261014-openai-employee-arrested-by-fbi/",
+      "date": "2026-10-14T12:05:00+09:00",
+      "dateLabel": "10/14 12:05",
+      "desc": "オフィスに密かに盗聴器を仕掛けていたとして、OpenAIの従業員がFBIに逮捕されました。盗聴器の仕掛けられた役員会議室は、会社の機密情報や非公開情報をやり取りするような会議が行われる場でしたが、OpenAIによると情報の窃取や持ち出しは確認されていないとのことです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 34
     },
@@ -222,28 +211,6 @@
       "date": "2026-10-13T19:00:00+09:00",
       "dateLabel": "10/13 19:00",
       "desc": "パスキーは従来のパスワードを入力せずにウェブサイトへログインできる仕組みです。スマートフォンの指紋認証や顔認証、PINコードなどを使って本人確認を行います。パスワードを盗み取ろうとする偽サイトにも強く、従来のパスワードより安全性が高いとされています。しかし、このパスキーについて「パスキーは罠だ。使ってはいけない」と警告するブログ記事が公開されました。一方、こ",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "法務タスク特化型AI「GLM-Legal」が登場、GLM-5.3-Flashベースの中国製モデルでGPT-6 Astraに匹敵する性能",
-      "link": "https://gigazine.net/news/20261013-glm-legal/",
-      "date": "2026-10-13T18:16:00+09:00",
-      "dateLabel": "10/13 18:16",
-      "desc": "中国に拠点を置くAI起業のZ.aiが法務タスクに特化したAIモデル「GLM-Legal」を発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "名作RPG「ウルティマ」の作者が35年前に売却した著作権を取り戻す手続きを進めている",
-      "link": "https://gigazine.net/news/20261013-ultima-creator-regaining-copyright-rpg/",
-      "date": "2026-10-13T14:05:00+09:00",
-      "dateLabel": "10/13 14:05",
-      "desc": "ゲームクリエイターのリチャード・ギャリオット氏が1981年にリリースしたRPGゲーム「ウルティマ」は、2DフィールドスタイルRPGの元祖ともいえるゲームです。記事作成時点では、ウルティマの著作権は大手ゲームメーカーのエレクトロニック・アーツ(EA)が保有していますが、ギャリオット氏が著作権を取り戻す手続きを進めていることが明らかになりました。 続きを読む..",
       "img": "",
       "src": "GIGAZINE",
       "cat": "規制/安全",
@@ -281,6 +248,39 @@
       "src": "AINOW",
       "cat": "AIエージェント/業務",
       "score": 34
+    },
+    {
+      "title": "さくらインターネット、GPU専有によりトークン消費量を気にせず定額で利用できる「さくらのAI Engineプライベートエディション」提供開始を発表",
+      "link": "https://www.publickey1.jp/blog/26/gpuai_engine.html",
+      "date": "2026-10-09T00:49:01+09:00",
+      "dateLabel": "10/09 00:49",
+      "desc": "さくらインターネットは、GPUサーバ上で基盤モデルを展開しマネージドサービスとして提供する「さくらのAI Engine」を、企業がGPUを専有して使える「さくらのAI Engine プライベートエディション」の提供開始を発表しました。 お知...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "半導体/GPU",
+      "score": 28
+    },
+    {
+      "title": "「AIがAIを作れるようになる確率は2027年に50%超」 Anthropic共同創業者が予測を前倒し、「ただし実行は“片道切符\"」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/14/2000002262/",
+      "date": "2026-10-14T16:53:35+09:00",
+      "dateLabel": "10/14 16:53",
+      "desc": "米Anthropic共同創業者のジャック・クラーク氏が東大で講演。AIが自らの後継を訓練できる確率を「2027年に50％超」と年初予測から前倒し。ただしRSIの実行は「片道切符」で、許すかは社会の選択だと強調した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "プライベートAIスタートアップAthena、株式会社紀陽銀行と閉域環境で稼働する営業支援AIの実証実験を開始",
+      "link": "https://ascii.jp/elem/000/004/442/4442588/?rss",
+      "date": "2026-10-14T15:30:00+09:00",
+      "dateLabel": "10/14 15:30",
+      "desc": "プライベートAIスタートアップAthena、株式会社紀陽銀行と閉域環境で稼働する営業支援AIの実証実験を開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     }
   ]
 }
