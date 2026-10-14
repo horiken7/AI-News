@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-14T17:10:04.462524+09:00",
-  "generatedLabel": "2026/10/14 17:10",
+  "generatedAt": "2026-10-14T23:10:26.962330+09:00",
+  "generatedLabel": "2026/10/14 23:10",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 58,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -85,15 +85,37 @@
       "score": 50
     },
     {
-      "title": "無料で7種類の超小型AIモデルをブラウザで動かせる「MicroLLM lab」、WebGPUで端末のGPUを活用",
-      "link": "https://gigazine.net/news/20261013-microllm-lab-browser-webgpu/",
-      "date": "2026-10-13T20:45:00+09:00",
-      "dateLabel": "10/13 20:45",
-      "desc": "Hugging Faceの「SmolLM2」やOpenAIの「GPT-2」など、7種類の小型AIモデルをブラウザ上で実行できる無料のウェブアプリ「MicroLLM lab」が公開されています。自分のPCやスマートフォンでモデルの回答と生成速度を比べ、小型AIを使う際のモデル選びに役立てられます。 続きを読む...",
+      "title": "Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ",
+      "link": "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
+      "date": "2026-10-15T00:57:19+09:00",
+      "dateLabel": "10/15 00:57",
+      "desc": "マイクロソフトはWindows 11上でAIエージェントを安全に動かすための隔離環境「Microsoft Execution Containers」（以下、MXC）の正式リリースを発表しました。 MXC is now GA on Windo...",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 50
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "AIエージェントを自作する方法7選！無料で始める手順と費用の目安",
+      "link": "https://ainow.ai/2026/10/14/278439/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e8%2587%25aa%25e4%25bd%259c%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%25957%25e9%2581%25b8%25ef%25bc%2581%25e7%2584%25a1%25e6%2596%2599%25e3%2581%25a7%25e5%25a7%258b%25e3%2582%2581%25e3%2582%258b",
+      "date": "2026-10-14T21:30:49+09:00",
+      "dateLabel": "10/14 21:30",
+      "desc": "AIエージェントは、GeminiやClaudeの画面で指示文を登録するだけでも自作できます。本記事では、難易度別の7つの自作方法と、同じニュース要約エージェントを3通りの方法で作る手順を解説します。 「AIエージェントを... The post AIエージェントを自作する方法7選！無料で始める手順と費用の目安 first appeared on AI専門ニュ",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "デジハリ大、「Claude」を全学導入へ──国内初、“回数気にせず”使い放題に",
+      "link": "https://www.itmedia.co.jp/news/article/2610/14/2000002278/",
+      "date": "2026-10-14T19:43:31+09:00",
+      "dateLabel": "10/14 19:43",
+      "desc": "デジタルハリウッド大学は10月14日、米Anthropicの生成AI「Claude」を全学に導入し、11月から全学生・全教職員に提供すると発表した。Claudeの全学導入は国内の大学で初という。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "「LFM2.5-24B-A2B」が登場、Gemma 4 26B-A4BやQwen3.6 35B-A3Bより高性能でローカルエージェントとして能力を発揮",
@@ -151,25 +173,47 @@
       "score": 42
     },
     {
-      "title": "約11万円も安い超特価！ 「iPhone Air」1TBモデルがAmazonプライム感謝祭に登場",
-      "link": "https://ascii.jp/elem/000/004/442/4442501/?rss",
-      "date": "2026-10-14T16:00:00+09:00",
-      "dateLabel": "10/14 16:00",
-      "desc": "Amazon.co.jpにて、「iPhone Air」がプライム感謝祭先行セール中！とにかく薄い・軽量・高性能で画面の大きさも好評な一品です。",
-      "img": "https://ascii.jp/img/2026/10/14/4538495/s/09bbf460ff910e54.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "1976年に「コンピューターを使った数学定理の証明」が発表された際に数学者らはどう反応したのか？",
+      "link": "https://gigazine.net/news/20261014-1st-time-machines-mathematical-proof/",
+      "date": "2026-10-14T23:00:00+09:00",
+      "dateLabel": "10/14 23:00",
+      "desc": "2026年10月にOpenAIが社内AIを用いて得られた700点以上の「数学的成果」を発表した件は、数学者らの間で物議を醸しています。数学問題の証明にコンピューターが使われた事例は今回が初ではないとして、テクノロジー系ライターのルイス・ランスロー氏が、1976年に初めて「コンピューターによる数学定理の証明」が発表された際の数学者の反応についてまとめています。",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
-      "title": "AIと仕事を形にした後、どう考えを深めるか 「AIと働くことで生まれる新しい思考の習慣」を無料公開",
-      "link": "https://ascii.jp/elem/000/004/442/4442589/?rss",
-      "date": "2026-10-14T15:25:23+09:00",
-      "dateLabel": "10/14 15:25",
-      "desc": "AIと仕事を形にした後、どう考えを深めるか 「AIと働くことで生まれる新しい思考の習慣」を無料公開",
+      "title": "9万5000円引きでこの装備！ RTX 5070に32GBメモリ、17.3型165HzのLenovo「LOQ」ゲーミングノートPC",
+      "link": "https://ascii.jp/elem/000/004/442/4442211/?rss",
+      "date": "2026-10-14T22:10:00+09:00",
+      "dateLabel": "10/14 22:10",
+      "desc": "Lenovoの17.3型ゲーミングノートPC「LOQ 17IRX10（83JH00EVJP）」がAmazonのプライム感謝祭先行セール対象。プライム会員限定で、過去価格359,800円から26％オフの264,800円で販売中。GeForce RTX 5070 Laptop GPUと32GBメモリを搭載し、165Hz対応の大画面も魅力だ。",
+      "img": "https://ascii.jp/img/2026/10/13/4538129/s/98631ed20b8ca60e.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "AIエージェントの作り方を初心者向けに解説！Geminiで無料作成する5ステップ",
+      "link": "https://ainow.ai/2026/10/14/278436/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e4%25bd%259c%25e3%2582%258a%25e6%2596%25b9%25e3%2582%2592%25e5%2588%259d%25e5%25bf%2583%25e8%2580%2585%25e5%2590%2591%25e3%2581%2591%25e3%2581%25ab%25e8%25a7%25a3%25e8%25aa%25ac%25ef%25bc%2581gemini%25e3%2581%25a7",
+      "date": "2026-10-14T21:06:50+09:00",
+      "dateLabel": "10/14 21:06",
+      "desc": "AIエージェントを作ってみたいものの、解説記事を読むとDifyやPythonの話ばかりで、何から手をつければよいかわからない方は多いのではないでしょうか。 初心者がAIエージェントを作るなら、普段使っているGeminiの... The post AIエージェントの作り方を初心者向けに解説！Geminiで無料作成する5ステップ first appeared o",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "AIエージェントによるWebセキュリティ評価サービス「JAPAN AI Cyber」のトライアル受付を開始",
+      "link": "https://ascii.jp/elem/000/004/442/4442661/?rss",
+      "date": "2026-10-14T18:00:00+09:00",
+      "dateLabel": "10/14 18:00",
+      "desc": "AIエージェントによるWebセキュリティ評価サービス「JAPAN AI Cyber」のトライアル受付を開始",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AI全般",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -206,33 +250,11 @@
       "score": 34
     },
     {
-      "title": "「パスキーは将来的にユーザーの自由を奪う可能性がある」との警告、その根拠と反論とは？",
-      "link": "https://gigazine.net/news/20261013-passkey-are-a-trap/",
-      "date": "2026-10-13T19:00:00+09:00",
-      "dateLabel": "10/13 19:00",
-      "desc": "パスキーは従来のパスワードを入力せずにウェブサイトへログインできる仕組みです。スマートフォンの指紋認証や顔認証、PINコードなどを使って本人確認を行います。パスワードを盗み取ろうとする偽サイトにも強く、従来のパスワードより安全性が高いとされています。しかし、このパスキーについて「パスキーは罠だ。使ってはいけない」と警告するブログ記事が公開されました。一方、こ",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
       "title": "Anthropic、自己複製AIの「兆し」を指摘 55ドルのTVボックス15台で26Bモデルが稼働",
       "link": "https://www.itmedia.co.jp/news/article/2610/13/2000002204/",
       "date": "2026-10-13T11:31:26+09:00",
       "dateLabel": "10/13 11:31",
       "desc": "Anthropicは、小型AIモデルがデータセンターを介さず安価な市販IoT機器上で自律的に自己複製する「重みベースの複製体」になるリスクを警告した。実験ではAndroid TVボックス上での分散推論や環境構築を確認。拡散ペースは遅いものの停止が難しいため、早期の防御策が必要と指摘した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "Microsoft、第3世代AIチップ「Maia 300」を2027年に投入 GPU比で電力効率4割向上、自社サービスの主力推論基盤に",
-      "link": "https://www.itmedia.co.jp/news/article/2610/13/2000002200/",
-      "date": "2026-10-13T09:24:59+09:00",
-      "dateLabel": "10/13 09:24",
-      "desc": "Microsoftは、自社設計AIアクセラレータ「Maia 300」を発表した。TSMCの2nmプロセスを採用し、HBM4を288GB搭載。推論処理に特化し、GPU基盤比で電力効率を向上させて前世代比最大7倍の処理能力を実現した。数ギガワット規模で展開し、自社サービスの中核に据える。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
@@ -259,28 +281,6 @@
       "src": "Publickey",
       "cat": "半導体/GPU",
       "score": 28
-    },
-    {
-      "title": "「AIがAIを作れるようになる確率は2027年に50%超」 Anthropic共同創業者が予測を前倒し、「ただし実行は“片道切符\"」",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/14/2000002262/",
-      "date": "2026-10-14T16:53:35+09:00",
-      "dateLabel": "10/14 16:53",
-      "desc": "米Anthropic共同創業者のジャック・クラーク氏が東大で講演。AIが自らの後継を訓練できる確率を「2027年に50％超」と年初予測から前倒し。ただしRSIの実行は「片道切符」で、許すかは社会の選択だと強調した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "プライベートAIスタートアップAthena、株式会社紀陽銀行と閉域環境で稼働する営業支援AIの実証実験を開始",
-      "link": "https://ascii.jp/elem/000/004/442/4442588/?rss",
-      "date": "2026-10-14T15:30:00+09:00",
-      "dateLabel": "10/14 15:30",
-      "desc": "プライベートAIスタートアップAthena、株式会社紀陽銀行と閉域環境で稼働する営業支援AIの実証実験を開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
     }
   ]
 }
