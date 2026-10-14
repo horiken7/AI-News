@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-14T08:30:40.468531+09:00",
-  "generatedLabel": "2026/10/14 08:30",
+  "generatedAt": "2026-10-14T11:39:57.539772+09:00",
+  "generatedLabel": "2026/10/14 11:39",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 60,
+  "candidates": 66,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 19
+      "items": 20
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 11
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 17
     },
     {
       "source": "CNET Japan",
@@ -63,15 +63,26 @@
   ],
   "articles": [
     {
-      "title": "OpenAIやAnthropicの最先端モデルを上回る高性能AI「Muse Wonder」をMetaが発表、Museシリーズ登場から半年で最先端に追いつく",
-      "link": "https://gigazine.net/news/20261013-meta-ai-muse-wonder/",
-      "date": "2026-10-13T11:25:00+09:00",
-      "dateLabel": "10/13 11:25",
-      "desc": "MetaがAIモデル「Muse Wonder」と「Muse Wonder Full」を現地時間の2026年10月12日に発表しました。どちらのモデルも各種ベンチマークテストでOpenAIやAnthropicの最先端モデルを上回るスコアを記録しています。 続きを読む...",
+      "title": "「Gemini 4 Argon」を正式リリース、Claude Fable 5.1やGPT-6 Astraと同等性能で久しぶりにGoogleがAIトップ競争に追いつく",
+      "link": "https://gigazine.net/news/20261014-gemini-4-argon-available-for-everyone/",
+      "date": "2026-10-14T11:06:00+09:00",
+      "dateLabel": "10/14 11:06",
+      "desc": "GoogleがAIモデル「Gemini 4 Argon」を現地時間の2026年10月13日に正式リリースしました。正式リリースに合わせて、Google社内や先行ユーザーによる活用事例が多数公開されています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 58
+    },
+    {
+      "title": "ASUS「ProArt P16」「ProArt P14」予約開始、NVIDIA RTX Spark N1X搭載のAIノートPC",
+      "link": "https://ascii.jp/elem/000/004/442/4442295/?rss",
+      "date": "2026-10-14T11:00:00+09:00",
+      "dateLabel": "10/14 11:00",
+      "desc": "ASUS JAPANが、NVIDIA RTX Spark搭載のクリエイター向けAIノートPC「ProArt P16 (H7607)」「ProArt P14 (H7407)」2製品4モデルの予約開始を発表。最大1ペタフロップスのAI性能、128GBユニファイドメモリ対応、Story CubeやMuseTreeなどの独自AI機能を備え、10月23日より順次発売す",
+      "img": "https://ascii.jp/img/2026/10/14/4538371/s/ed77648c8c813173.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 50
     },
     {
       "title": "無料で7種類の超小型AIモデルをブラウザで動かせる「MicroLLM lab」、WebGPUで端末のGPUを活用",
@@ -96,36 +107,36 @@
       "score": 50
     },
     {
-      "title": "Microsoftが第3世代AIチップ「Maia 300」を発表、最新の推論モデルやエージェントタスクの処理能力向上へ向けて2027年に導入予定",
-      "link": "https://gigazine.net/news/20261013-microsoft-maia-300-chip/",
-      "date": "2026-10-13T12:15:00+09:00",
-      "dateLabel": "10/13 12:15",
-      "desc": "MicrosoftがカスタムAIチップの第3世代にあたる「Maia 300」を2027年に導入予定であることを発表しました。Microsoftによれば、MaiaファミリーはMicrosoft製品およびサービスの主要なAI推論システムになる予定だとのことで、NVIDIAへの依存が軽減されるものとみられます。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
-      "title": "開始0.5秒での自動停止を目指す、製造現場の事故を防ぐAI制御システム",
-      "link": "https://ascii.jp/elem/000/004/442/4442216/?rss",
-      "date": "2026-10-14T07:00:00+09:00",
-      "dateLabel": "10/14 07:00",
-      "desc": "AWL株式会社は10月6日、工場の安全確保を自動化する次世代型AI制御システムの実証に取り組むと発表。既存の監視カメラやセンサーに後付け可能な汎用システムを活用する。",
-      "img": "https://ascii.jp/img/2026/10/13/4538136/s/445ebd4eb2b4b15f.png",
+      "title": "NVIDIAとCisco、光モジュール「USFP」発表 AIファクトリー向けに帯域幅密度4倍へ",
+      "link": "https://ascii.jp/elem/000/004/442/4442279/?rss",
+      "date": "2026-10-14T10:30:00+09:00",
+      "dateLabel": "10/14 10:30",
+      "desc": "NVIDIAとCiscoがAIファクトリー向け新光モジュールUSFPを発表。1レーン400Gb/s対応、最大12.8Tb/s、OSFP相当サイズで高密度化と省電力化を両立する。",
+      "img": "https://ascii.jp/img/2026/10/14/4538320/s/2fe4998f0eb36864.jpg",
       "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
+      "cat": "半導体/GPU",
       "score": 42
     },
     {
-      "title": "気候テック10：グーグルにも供給、大規模鉄電池のフォーム・エナジー",
-      "link": "https://ascii.jp/elem/000/004/442/4442273/?rss",
-      "date": "2026-10-14T06:27:28+09:00",
-      "dateLabel": "10/14 06:27",
-      "desc": "米国のフォーム・エナジーは、鉄を使った長時間蓄電池の生産を始め、グーグルのデータセンター向けなど大型案件の契約を重ねている。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "title": "グーグル「Gemini 4 Argon」ついに提供開始 テストは好成績、でも仕事はできる？",
+      "link": "https://ascii.jp/elem/000/004/442/4442287/?rss",
+      "date": "2026-10-14T10:20:00+09:00",
+      "dateLabel": "10/14 10:20",
+      "desc": "Googleは10月13日、AIモデル「Gemini 4 Argon」の一般提供を開始した。GeminiアプリとGoogle検索のAIモードではGoogle AI Pro／Ultra契約者が利用できる。",
+      "img": "https://ascii.jp/img/2026/10/14/4538336/s/d944a7f3e2e89efd.png",
       "src": "ASCII.jp",
-      "cat": "半導体/GPU",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "Googleの新モデル「Gemini 4 Argon」一般提供開始 使えるプラン、価格",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/14/2000002241/",
+      "date": "2026-10-14T09:29:49+09:00",
+      "dateLabel": "10/14 09:29",
+      "desc": "Googleは同社最先端のモデル「Gemini 4 Argon」の一般提供を開始した。Geminiアプリや検索のAIモード、Google Antigravity、APIなどで利用できる。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -140,28 +151,6 @@
       "score": 42
     },
     {
-      "title": "Anthropic、自己複製AIの「兆し」を指摘 55ドルのTVボックス15台で26Bモデルが稼働",
-      "link": "https://www.itmedia.co.jp/news/article/2610/13/2000002204/",
-      "date": "2026-10-13T11:31:26+09:00",
-      "dateLabel": "10/13 11:31",
-      "desc": "Anthropicは、小型AIモデルがデータセンターを介さず安価な市販IoT機器上で自律的に自己複製する「重みベースの複製体」になるリスクを警告した。実験ではAndroid TVボックス上での分散推論や環境構築を確認。拡散ペースは遅いものの停止が難しいため、早期の防御策が必要と指摘した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "Microsoft、第3世代AIチップ「Maia 300」を2027年に投入 GPU比で電力効率4割向上、自社サービスの主力推論基盤に",
-      "link": "https://www.itmedia.co.jp/news/article/2610/13/2000002200/",
-      "date": "2026-10-13T09:24:59+09:00",
-      "dateLabel": "10/13 09:24",
-      "desc": "Microsoftは、自社設計AIアクセラレータ「Maia 300」を発表した。TSMCの2nmプロセスを採用し、HBM4を288GB搭載。推論処理に特化し、GPU基盤比で電力効率を向上させて前世代比最大7倍の処理能力を実現した。数ギガワット規模で展開し、自社サービスの中核に据える。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
       "title": "AIエージェントを自作する3つの方法！初心者でも無料から始められる手順",
       "link": "https://ainow.ai/2026/10/12/278433/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e8%2587%25aa%25e4%25bd%259c%25e3%2581%2599%25e3%2582%258b3%25e3%2581%25a4%25e3%2581%25ae%25e6%2596%25b9%25e6%25b3%2595%25ef%25bc%2581%25e5%2588%259d%25e5%25bf%2583%25e8%2580%2585%25e3%2581%25a7%25e3%2582%2582",
       "date": "2026-10-12T22:00:55+09:00",
@@ -173,14 +162,47 @@
       "score": 42
     },
     {
-      "title": "AIコード生成のコストや手戻りを可視化する開発管理ツール",
-      "link": "https://ascii.jp/elem/000/004/441/4441638/?rss",
-      "date": "2026-10-14T07:00:00+09:00",
-      "dateLabel": "10/14 07:00",
-      "desc": "supa, inc.は10月5日、AI駆動開発プラットフォームの最新版「supateam v2.0」の提供を開始したと発表した。生成AIの利用コストのほか、追加指示やコードレビュー、修正・手戻りといった作業工程の可視化に対応するという。",
-      "img": "https://ascii.jp/img/2026/10/09/4536853/s/3c76f666fa8b5029.jpg",
+      "title": "防災メールに不正アクセス、最大約313万件のアドレス漏えいか 全国の自治体に影響",
+      "link": "https://ascii.jp/elem/000/004/442/4442293/?rss",
+      "date": "2026-10-14T10:45:00+09:00",
+      "dateLabel": "10/14 10:45",
+      "desc": "防災・防犯情報の一斉配信サービス「SpeeCAN RAIDEN」を運営するアルカディアは10月13日、第三者による不正アクセスで、登録情報などが漏えいした可能性があると発表した。",
+      "img": "https://ascii.jp/img/2026/10/14/4538370/s/926b4667099f5379.png",
       "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "【業界特化調査 第22弾】AI検索パートナーズ（TechSuite株式会社）、物流・EC・SCM担当者による倉庫・物流施設選びのAI検索対策（LLMO/AIO/GEO/AEO）調査を実施",
+      "link": "https://ascii.jp/elem/000/004/442/4442306/?rss",
+      "date": "2026-10-14T09:00:00+09:00",
+      "dateLabel": "10/14 09:00",
+      "desc": "【業界特化調査 第22弾】AI検索パートナーズ（TechSuite株式会社）、物流・EC・SCM担当者による倉庫・物流施設選びのAI検索対策（LLMO/AIO/GEO/AEO）調査を実施",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "「AIは自社サイトを認識できているのか？」umoren.ai、AI学習データの元となるCommon Crawlへの保存状況を確認できる無料ツールを公開",
+      "link": "https://ascii.jp/elem/000/004/442/4442302/?rss",
+      "date": "2026-10-14T09:00:00+09:00",
+      "dateLabel": "10/14 09:00",
+      "desc": "「AIは自社サイトを認識できているのか？」umoren.ai、AI学習データの元となるCommon Crawlへの保存状況を確認できる無料ツールを公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "AIのアクセス権を狙う「LLMジャッキング」",
+      "link": "https://ascii.jp/elem/000/004/441/4441876/?rss",
+      "date": "2026-10-14T09:00:00+09:00",
+      "dateLabel": "10/14 09:00",
+      "desc": "Amazon Bedrockで発生したLLMジャッキングインシデントの内幕と、その攻撃を検知するためのセキュリティ対策を解説。",
+      "img": "https://ascii.jp/img/2026/10/13/4537806/s/bb6442b0b358ddd5.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -195,28 +217,6 @@
       "score": 34
     },
     {
-      "title": "気候テック10：AI需要にも対応、中国の風力大手エンビジョン",
-      "link": "https://ascii.jp/elem/000/004/442/4442274/?rss",
-      "date": "2026-10-14T06:04:39+09:00",
-      "dateLabel": "10/14 06:04",
-      "desc": "中国の風力タービン大手エンビジョン・エナジーは、海外への事業拡大を進めるとともに、風力と蓄電池でAIデータセンターに電力を供給する。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "ASUSのRTX 5070搭載ノートが33％オフの23万4800円！ 「TUF Gaming A16」がプライム感謝祭先行セール",
-      "link": "https://ascii.jp/elem/000/004/441/4441934/?rss",
-      "date": "2026-10-13T22:00:00+09:00",
-      "dateLabel": "10/13 22:00",
-      "desc": "ASUSの16型ゲーミングノートPC「TUF Gaming A16（FA608UP-R7R507016GA）」がAmazonでプライム感謝祭先行セール対象。プライム会員限定で、参考価格349,800円から33％オフの234,800円で販売中。GeForce RTX 5070 Laptop GPUと16GBメモリ、165Hz対応ディスプレーを搭載。日本語配列の",
-      "img": "https://ascii.jp/img/2026/10/13/4537933/s/4a19a2d7a12b7e6d.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
       "title": "「パスキーは将来的にユーザーの自由を奪う可能性がある」との警告、その根拠と反論とは？",
       "link": "https://gigazine.net/news/20261013-passkey-are-a-trap/",
       "date": "2026-10-13T19:00:00+09:00",
@@ -225,17 +225,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "約1.98kgのボディーでPCゲームを持ち出す！ RTX 5050搭載のMSI「Cyborg 15」が2万100円引きの17万9700円",
-      "link": "https://ascii.jp/elem/000/004/441/4441556/?rss",
-      "date": "2026-10-13T18:30:00+09:00",
-      "dateLabel": "10/13 18:30",
-      "desc": "MSIの15.6型ゲーミングノートPC「Cyborg 15（C13WEO-1192JP）」がAmazonでタイムセール対象。過去価格199,800円から10％オフの179,700円で販売中。GeForce RTX 5050 Laptop GPUとCore i7-13620Hを搭載し、144Hz対応のフルHD液晶を備える。重量は約1.98kgで、ゲーム向けの装",
-      "img": "https://ascii.jp/img/2026/10/09/4536766/s/a35ed7eac0cc89ec.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -261,6 +250,28 @@
       "score": 34
     },
     {
+      "title": "Anthropic、自己複製AIの「兆し」を指摘 55ドルのTVボックス15台で26Bモデルが稼働",
+      "link": "https://www.itmedia.co.jp/news/article/2610/13/2000002204/",
+      "date": "2026-10-13T11:31:26+09:00",
+      "dateLabel": "10/13 11:31",
+      "desc": "Anthropicは、小型AIモデルがデータセンターを介さず安価な市販IoT機器上で自律的に自己複製する「重みベースの複製体」になるリスクを警告した。実験ではAndroid TVボックス上での分散推論や環境構築を確認。拡散ペースは遅いものの停止が難しいため、早期の防御策が必要と指摘した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "Microsoft、第3世代AIチップ「Maia 300」を2027年に投入 GPU比で電力効率4割向上、自社サービスの主力推論基盤に",
+      "link": "https://www.itmedia.co.jp/news/article/2610/13/2000002200/",
+      "date": "2026-10-13T09:24:59+09:00",
+      "dateLabel": "10/13 09:24",
+      "desc": "Microsoftは、自社設計AIアクセラレータ「Maia 300」を発表した。TSMCの2nmプロセスを採用し、HBM4を288GB搭載。推論処理に特化し、GPU基盤比で電力効率を向上させて前世代比最大7倍の処理能力を実現した。数ギガワット規模で展開し、自社サービスの中核に据える。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
       "title": "AIエージェント構築の手順7ステップ！基盤の選び方と本番運用のコツ",
       "link": "https://ainow.ai/2026/10/12/278430/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e6%25a7%258b%25e7%25af%2589%25e3%2581%25ae%25e6%2589%258b%25e9%25a0%25867%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583%25e3%2583%2597%25ef%25bc%2581%25e5%259f%25ba%25e7%259b%25a4%25e3%2581%25ae%25e9%2581%25b8%25e3%2581%25b3",
       "date": "2026-10-12T21:50:16+09:00",
@@ -268,17 +279,6 @@
       "desc": "AIエージェントの構築を任されたものの、どの順番で何を決めればよいか迷っていませんか。本記事では、業務の絞り込みから本番公開までの構築手順7ステップと、自社に合う構築基盤の選び方を解説します。 DifyやCopilot ... The post AIエージェント構築の手順7ステップ！基盤の選び方と本番運用のコツ first appeared on AI専門ニ",
       "img": "",
       "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Microsoftも“判断特化”AIモデル「Microsoft-Decision-1」、Qwenベースで「Jev」と同価格",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/12/2000002194/",
-      "date": "2026-10-12T09:39:33+09:00",
-      "dateLabel": "10/12 09:39",
-      "desc": "Microsoftは、文章生成を行わず選択肢ごとの確率を返す判断特化AI「Microsoft-Decision-1」を発表した。「Qwen3.5-9B」を追加学習し、OpenAIの「GPT-6 Sol」の35倍の速度を実現。「Jev」と同じ入力100万トークン当たり0.042ドルで、分類やエージェントの行動判定向けに提供する。",
-      "img": "",
-      "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 34
     }
