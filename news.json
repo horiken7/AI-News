@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-15T21:16:54.569852+09:00",
-  "generatedLabel": "2026/10/15 21:16",
+  "generatedAt": "2026-10-16T02:28:47.336889+09:00",
+  "generatedLabel": "2026/10/16 02:28",
   "feedOk": 6,
   "feedNg": 5,
   "candidates": 50,
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 12
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 8
+      "items": 9
     },
     {
       "source": "AINOW",
@@ -85,28 +85,6 @@
       "score": 50
     },
     {
-      "title": "Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ",
-      "link": "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
-      "date": "2026-10-15T00:57:19+09:00",
-      "dateLabel": "10/15 00:57",
-      "desc": "マイクロソフトはWindows 11上でAIエージェントを安全に動かすための隔離環境「Microsoft Execution Containers」（以下、MXC）の正式リリースを発表しました。 MXC is now GA on Windo...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "AIエージェントを自作する方法7選！無料で始める手順と費用の目安",
-      "link": "https://ainow.ai/2026/10/14/278439/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e8%2587%25aa%25e4%25bd%259c%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%25957%25e9%2581%25b8%25ef%25bc%2581%25e7%2584%25a1%25e6%2596%2599%25e3%2581%25a7%25e5%25a7%258b%25e3%2582%2581%25e3%2582%258b",
-      "date": "2026-10-14T21:30:49+09:00",
-      "dateLabel": "10/14 21:30",
-      "desc": "AIエージェントは、GeminiやClaudeの画面で指示文を登録するだけでも自作できます。本記事では、難易度別の7つの自作方法と、同じニュース要約エージェントを3通りの方法で作る手順を解説します。 「AIエージェントを... The post AIエージェントを自作する方法7選！無料で始める手順と費用の目安 first appeared on AI専門ニュ",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "AIエージェントを自作する3つの方法！初心者でも無料から始められる手順",
       "link": "https://ainow.ai/2026/10/12/278433/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e8%2587%25aa%25e4%25bd%259c%25e3%2581%2599%25e3%2582%258b3%25e3%2581%25a4%25e3%2581%25ae%25e6%2596%25b9%25e6%25b3%2595%25ef%25bc%2581%25e5%2588%259d%25e5%25bf%2583%25e8%2580%2585%25e3%2581%25a7%25e3%2582%2582",
       "date": "2026-10-12T22:00:55+09:00",
@@ -115,7 +93,18 @@
       "img": "",
       "src": "AINOW",
       "cat": "AIエージェント/業務",
-      "score": 42
+      "score": 36
+    },
+    {
+      "title": "AnthropicのBun、TypeScript 7よりも3倍以上高速なTypeScript型チェッカーを搭載。Bunの新バージョン1.4.3で",
+      "link": "https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html",
+      "date": "2026-10-16T00:21:12+09:00",
+      "dateLabel": "10/16 00:21",
+      "desc": "Anthropicが開発しているJavaScriptランタイム「Bun」は、10月10日付けで新バージョン「Bun v1.4.3」がリリースされました。 Bun v1.4.3の最大の特徴として示されたのが、Go言語で実装されたTypeScr...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "Sakana ChatにAIの記憶を可視化する新機能「My Fish」が登場、覚えている内容や記憶同士のつながりを確認可能に",
@@ -184,17 +173,6 @@
       "score": 34
     },
     {
-      "title": "Microsoft Wordの代替を目指すオープンソースの文書作成アプリ「WordCraft」、Rust製ネイティブアプリでAIエージェントでの使用も考慮",
-      "link": "https://gigazine.net/news/20261015-wordcraft-open-source-word-processor/",
-      "date": "2026-10-15T08:00:00+09:00",
-      "dateLabel": "10/15 08:00",
-      "desc": "「WordCraft」はオープンソースで開発されている文書作成アプリです。日本時間の2026年10月8日バージョン0.1.0がリリースされ、高頻度でアップデートが実施されて14日時点ではバージョン0.6.1に達しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "IFS最大イベントで新産業用AI発表 対話と自律実行で「眠る40％」を解き放つ",
       "link": "https://monoist.itmedia.co.jp/mn/articles/2610/15/news017.html",
       "date": "2026-10-15T06:30:00+09:00",
@@ -202,6 +180,28 @@
       "desc": "IFSのフラグシップカンファレンス「IFS Unleashed 2026」が、米国オーランドで開幕した。同イベントに合わせて、産業用AIプラットフォームの新製品「IFS Intelligence」を発表。対話型機能、自律型エージェント、開発支援の3機能を通じて、企業内に眠る未活用データを引き出し、自律型AIで具体的なアクションへと導く。",
       "img": "",
       "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ",
+      "link": "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
+      "date": "2026-10-15T00:57:19+09:00",
+      "dateLabel": "10/15 00:57",
+      "desc": "マイクロソフトはWindows 11上でAIエージェントを安全に動かすための隔離環境「Microsoft Execution Containers」（以下、MXC）の正式リリースを発表しました。 MXC is now GA on Windo...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "AIエージェントを自作する方法7選！無料で始める手順と費用の目安",
+      "link": "https://ainow.ai/2026/10/14/278439/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e8%2587%25aa%25e4%25bd%259c%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%25957%25e9%2581%25b8%25ef%25bc%2581%25e7%2584%25a1%25e6%2596%2599%25e3%2581%25a7%25e5%25a7%258b%25e3%2582%2581%25e3%2582%258b",
+      "date": "2026-10-14T21:30:49+09:00",
+      "dateLabel": "10/14 21:30",
+      "desc": "AIエージェントは、GeminiやClaudeの画面で指示文を登録するだけでも自作できます。本記事では、難易度別の7つの自作方法と、同じニュース要約エージェントを3通りの方法で作る手順を解説します。 「AIエージェントを... The post AIエージェントを自作する方法7選！無料で始める手順と費用の目安 first appeared on AI専門ニュ",
+      "img": "",
+      "src": "AINOW",
       "cat": "AIエージェント/業務",
       "score": 34
     },
@@ -236,26 +236,15 @@
       "img": "",
       "src": "AINOW",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "さくらインターネット、GPU専有によりトークン消費量を気にせず定額で利用できる「さくらのAI Engineプライベートエディション」提供開始を発表",
-      "link": "https://www.publickey1.jp/blog/26/gpuai_engine.html",
-      "date": "2026-10-09T00:49:01+09:00",
-      "dateLabel": "10/09 00:49",
-      "desc": "さくらインターネットは、GPUサーバ上で基盤モデルを展開しマネージドサービスとして提供する「さくらのAI Engine」を、企業がGPUを専有して使える「さくらのAI Engine プライベートエディション」の提供開始を発表しました。 お知...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "半導体/GPU",
       "score": 28
     },
     {
-      "title": "iPhone Duoを買うべきか、それとも“ふつうの”iPhoneとiPad Airを両方買うべきか",
-      "link": "https://ascii.jp/elem/000/004/442/4442586/?rss",
-      "date": "2026-10-15T18:00:00+09:00",
-      "dateLabel": "10/15 18:00",
-      "desc": "iPhone Duoを買うべきか、それとも“ふつうの”iPhoneとAmazonで10%オフになっているiPad Airを買うべきか。",
-      "img": "https://ascii.jp/img/2026/10/14/4538607/s/3eee7c078d4cbe27.png",
+      "title": "スマホゲームの熱対策、ここまでやる！ 水冷＆冷却ファン搭載のゲーミングスマホ「REDMAGIC 11S Pro」が16万4160円",
+      "link": "https://ascii.jp/elem/000/004/442/4442326/?rss",
+      "date": "2026-10-15T22:10:00+09:00",
+      "dateLabel": "10/15 22:10",
+      "desc": "REDMAGICのゲーミングスマホ「REDMAGIC 11S Pro」がAmazonのプライム感謝祭先行セール対象。プライム会員限定で、過去価格172,800円から5％オフの164,160円で販売中。水冷と毎分24,000回転の冷却ファンを搭載し、Snapdragon 8 Elite Gen 5 リーディングバージョンも採用。高負荷ゲームの発熱対策に力を入れ",
+      "img": "https://ascii.jp/img/2026/10/14/4538428/s/2a00c1a7a7966dcc.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
@@ -280,6 +269,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "CTOが「AI導入で生産性を1年で2倍に」掲げた企業のその後 米国が開発者802人の進捗を追跡調査",
+      "link": "https://www.itmedia.co.jp/news/article/2610/15/2000002260/",
+      "date": "2026-10-15T12:00:00+09:00",
+      "dateLabel": "10/15 12:00",
+      "desc": "米カーネギーメロン大学や米スタンフォード大学などに所属する研究者らが発表した論文「AI Writes Faster Than Humans Can Review: A Longitudinal Study of an Enterprise 2x Mandate」は、AI導入を義務化したソフトウェア会社がどのような影響を受けたのかを調査した研究報告だ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
       "score": 26
     }
   ]
