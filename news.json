@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-15T15:42:08.272460+09:00",
-  "generatedLabel": "2026/10/15 15:42",
+  "generatedAt": "2026-10-15T21:16:54.569852+09:00",
+  "generatedLabel": "2026/10/15 21:16",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 55,
+  "candidates": 50,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 1
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 11
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -63,17 +63,6 @@
   ],
   "articles": [
     {
-      "title": "日本HP「HP OmniBook Ultra 16 AI PC」発表、最大128GBメモリ・1ペタフロップのAI性能",
-      "link": "https://ascii.jp/elem/000/004/442/4442741/?rss",
-      "date": "2026-10-15T12:45:00+09:00",
-      "dateLabel": "10/15 12:45",
-      "desc": "日本HPがNVIDIA RTX Spark搭載の16インチAIノートPC「HP OmniBook Ultra 16 AI PC」を発表。パーソナルAIエージェントやローカルAI、高度なクリエイティブ作業に対応し、10月29日受注開始、価格は596,200円からとなる。",
-      "img": "https://ascii.jp/img/2026/10/15/4538913/s/e6059d2a259a0e11.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 58
-    },
-    {
       "title": "Jevが画像入力に対応＆長大コンテキストに対応＆意思決定モデルのベンチマークテストも発表",
       "link": "https://gigazine.net/news/20261015-jev-1-14/",
       "date": "2026-10-15T12:34:00+09:00",
@@ -94,17 +83,6 @@
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 50
-    },
-    {
-      "title": "面倒なデータ基盤の運用作業をAIが代行 「primeNumber Autonomous Data Platform」発表",
-      "link": "https://ascii.jp/elem/000/004/442/4442669/?rss",
-      "date": "2026-10-15T13:55:00+09:00",
-      "dateLabel": "10/15 13:55",
-      "desc": "AIエージェントが「データ基盤の保守」や「現場からの依頼対応」といった作業を代行する「primeNumber Autonomous Data Platform（ADP）」を、primeNumberが発表した。まずは「TROCCO」または「COMETA」を利用している企業のデータ管理者を対象に展開していく。",
-      "img": "https://ascii.jp/img/2026/10/14/4538771/s/1e91bd3e4386ad0e.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 42
     },
     {
       "title": "Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ",
@@ -129,28 +107,6 @@
       "score": 42
     },
     {
-      "title": "デジハリ大、「Claude」を全学導入へ──国内初、“回数気にせず”使い放題に",
-      "link": "https://www.itmedia.co.jp/news/article/2610/14/2000002278/",
-      "date": "2026-10-14T19:43:31+09:00",
-      "dateLabel": "10/14 19:43",
-      "desc": "デジタルハリウッド大学は10月14日、米Anthropicの生成AI「Claude」を全学に導入し、11月から全学生・全教職員に提供すると発表した。Claudeの全学導入は国内の大学で初という。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "「LFM2.5-24B-A2B」が登場、Gemma 4 26B-A4BやQwen3.6 35B-A3Bより高性能でローカルエージェントとして能力を発揮",
-      "link": "https://gigazine.net/news/20261014-lfm2-5-24b-a2b/",
-      "date": "2026-10-14T16:30:00+09:00",
-      "dateLabel": "10/14 16:30",
-      "desc": "AI開発企業のLiquid AIが「LFM2.5-24B-A2B」を公開しました。LFM2.5-24B-A2Bは自身より規模の大きなGoogle製モデルやAlibaba製モデルより高い性能を発揮し、ローカルでAIエージェントを実行させる用途に適しているとアピールされています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "AIエージェントを自作する3つの方法！初心者でも無料から始められる手順",
       "link": "https://ainow.ai/2026/10/12/278433/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e8%2587%25aa%25e4%25bd%259c%25e3%2581%2599%25e3%2582%258b3%25e3%2581%25a4%25e3%2581%25ae%25e6%2596%25b9%25e6%25b3%2595%25ef%25bc%2581%25e5%2588%259d%25e5%25bf%2583%25e8%2580%2585%25e3%2581%25a7%25e3%2582%2582",
       "date": "2026-10-12T22:00:55+09:00",
@@ -160,6 +116,17 @@
       "src": "AINOW",
       "cat": "AIエージェント/業務",
       "score": 42
+    },
+    {
+      "title": "Sakana ChatにAIの記憶を可視化する新機能「My Fish」が登場、覚えている内容や記憶同士のつながりを確認可能に",
+      "link": "https://gigazine.net/news/20261015-sakana-chat-my-fish/",
+      "date": "2026-10-15T16:20:00+09:00",
+      "dateLabel": "10/15 16:20",
+      "desc": "日本のAI企業であるSakana AIが2026年10月15日、AIチャットサービス「Sakana Chat」に新機能「My Fish」を追加したと発表しました。My FishではAIがユーザーについて覚えている情報を一覧表示できるほか、記憶が使われた履歴や情報同士のつながりを視覚的に確認できます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "OpenAIやGoogleの画像生成AIは簡単に騙されてヌード画像を生成してしまうと研究者が指摘",
@@ -239,25 +206,14 @@
       "score": 34
     },
     {
-      "title": "1976年に「コンピューターを使った数学定理の証明」が発表された際に数学者らはどう反応したのか？",
-      "link": "https://gigazine.net/news/20261014-1st-time-machines-mathematical-proof/",
-      "date": "2026-10-14T23:00:00+09:00",
-      "dateLabel": "10/14 23:00",
-      "desc": "2026年10月にOpenAIが社内AIを用いて得られた700点以上の「数学的成果」を発表した件は、数学者らの間で物議を醸しています。数学問題の証明にコンピューターが使われた事例は今回が初ではないとして、テクノロジー系ライターのルイス・ランスロー氏が、1976年に初めて「コンピューターによる数学定理の証明」が発表された際の数学者の反応についてまとめています。",
+      "title": "デジハリ大、「Claude」を全学導入へ──国内初、“回数気にせず”使い放題に",
+      "link": "https://www.itmedia.co.jp/news/article/2610/14/2000002278/",
+      "date": "2026-10-14T19:43:31+09:00",
+      "dateLabel": "10/14 19:43",
+      "desc": "デジタルハリウッド大学は10月14日、米Anthropicの生成AI「Claude」を全学に導入し、11月から全学生・全教職員に提供すると発表した。Claudeの全学導入は国内の大学で初という。",
       "img": "",
-      "src": "GIGAZINE",
+      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "AIエージェントの作り方を初心者向けに解説！Geminiで無料作成する5ステップ",
-      "link": "https://ainow.ai/2026/10/14/278436/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e4%25bd%259c%25e3%2582%258a%25e6%2596%25b9%25e3%2582%2592%25e5%2588%259d%25e5%25bf%2583%25e8%2580%2585%25e5%2590%2591%25e3%2581%2591%25e3%2581%25ab%25e8%25a7%25a3%25e8%25aa%25ac%25ef%25bc%2581gemini%25e3%2581%25a7",
-      "date": "2026-10-14T21:06:50+09:00",
-      "dateLabel": "10/14 21:06",
-      "desc": "AIエージェントを作ってみたいものの、解説記事を読むとDifyやPythonの話ばかりで、何から手をつければよいかわからない方は多いのではないでしょうか。 初心者がAIエージェントを作るなら、普段使っているGeminiの... The post AIエージェントの作り方を初心者向けに解説！Geminiで無料作成する5ステップ first appeared o",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -281,6 +237,50 @@
       "src": "AINOW",
       "cat": "AIエージェント/業務",
       "score": 34
+    },
+    {
+      "title": "さくらインターネット、GPU専有によりトークン消費量を気にせず定額で利用できる「さくらのAI Engineプライベートエディション」提供開始を発表",
+      "link": "https://www.publickey1.jp/blog/26/gpuai_engine.html",
+      "date": "2026-10-09T00:49:01+09:00",
+      "dateLabel": "10/09 00:49",
+      "desc": "さくらインターネットは、GPUサーバ上で基盤モデルを展開しマネージドサービスとして提供する「さくらのAI Engine」を、企業がGPUを専有して使える「さくらのAI Engine プライベートエディション」の提供開始を発表しました。 お知...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "半導体/GPU",
+      "score": 28
+    },
+    {
+      "title": "iPhone Duoを買うべきか、それとも“ふつうの”iPhoneとiPad Airを両方買うべきか",
+      "link": "https://ascii.jp/elem/000/004/442/4442586/?rss",
+      "date": "2026-10-15T18:00:00+09:00",
+      "dateLabel": "10/15 18:00",
+      "desc": "iPhone Duoを買うべきか、それとも“ふつうの”iPhoneとAmazonで10%オフになっているiPad Airを買うべきか。",
+      "img": "https://ascii.jp/img/2026/10/14/4538607/s/3eee7c078d4cbe27.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "AIによる相次ぐハッキング事件は「AIの暴走」ではなく「AI企業がセキュリティの基本を無視しているため」という指摘",
+      "link": "https://gigazine.net/news/20261015-ai-agents-not-going-rogue/",
+      "date": "2026-10-15T17:05:00+09:00",
+      "dateLabel": "10/15 17:05",
+      "desc": "世界最大級のサイバーセキュリティ専門メディアであるCSO Onlineが、2026年になって複数回起きている「AIエージェントによるハッキング事件」は、AIの暴走が原因ではなく、AI企業がセキュリティの基本を怠ったことが原因であると解説しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "ASMLの半導体露光装置はすでに2028年分までほぼ売り切れ状態で一部顧客は2030年分の発注を検討",
+      "link": "https://gigazine.net/news/20261015-asml-supply-shortages-through-2028/",
+      "date": "2026-10-15T15:45:00+09:00",
+      "dateLabel": "10/15 15:45",
+      "desc": "半導体製造に欠かせない半導体露光装置のシェアで世界の9割を占めるオランダ・ASMLのクリストフ・フーケCEOが、すでに2027年と2028年は需要に応えるのが難しく、一部顧客は2030年分の発注を検討する状態にあることを明らかにしました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 26
     }
   ]
 }
