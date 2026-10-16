@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-16T11:12:07.376389+09:00",
-  "generatedLabel": "2026/10/16 11:12",
+  "generatedAt": "2026-10-16T16:39:54.643067+09:00",
+  "generatedLabel": "2026/10/16 16:39",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 59,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 9
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 16
     },
     {
       "source": "CNET Japan",
@@ -63,37 +63,37 @@
   ],
   "articles": [
     {
-      "title": "技術者への依頼不要に。音声AIエージェントを自然な会話やテキストで作成・改善",
-      "link": "https://ascii.jp/elem/000/004/443/4443127/?rss",
-      "date": "2026-10-16T10:00:00+09:00",
-      "dateLabel": "10/16 10:00",
-      "desc": "Eleven Labs Japan合同会社は10月7日、企業向け音声・チャットエージェントプラットフォーム向けの新機能「ElevenAgents Architect」のアルファ版の提供を開始したと発表した。",
-      "img": "https://ascii.jp/img/2026/10/16/4539362/s/81b89dad69f06fa0.jpg",
-      "src": "ASCII.jp",
+      "title": "NVIDIAがAIエージェントによるタスクをローカルで実行するための「Nemotron 3.5 Bolt 74B-A9B 24GB」を発表",
+      "link": "https://gigazine.net/news/20261016-nvidia-nemotron-3-5-bolt-74b-a9b-24gb/",
+      "date": "2026-10-16T14:40:00+09:00",
+      "dateLabel": "10/16 14:40",
+      "desc": "現地時間の2026年10月15日、NVIDIAが日常的なAIエージェントのタスクをローカルで実行するために設計された「Nemotron 3.5 Bolt 74B-A9B 24GB」を公開しました。MoEを採用し、MambaとTransformerという2つのモデル構造を組み合わせたAIモデルとなっており、ローカルで実行しながら他のアプリケーションを同時に動作",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 50
+    },
+    {
+      "title": "NVIDIAが画像・動画・文章をまとめて理解するオープンウェイトAI「Nemotron 3.5 Super VL」を公開、処理コストを40分の1に削減する事例も",
+      "link": "https://gigazine.net/news/20261016-nemotron-3-5-super-vl/",
+      "date": "2026-10-16T13:10:00+09:00",
+      "dateLabel": "10/16 13:10",
+      "desc": "NVIDIAが2026年10月15日に文章や画像、動画をまとめて理解できるオープンウェイトAIモデル「NVIDIA Nemotron 3.5 Super VL」を公開しました。複数の情報を組み合わせて作業を進めるAIエージェント向けのモデルで、同規模のオープンモデルと比較して最大5倍の処理能力を発揮するとのこと。企業の業務に合わせて調整したモデルではAIの処",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "Microsoft、社内エンジニア数万人を対象に「Claude Code」「Copilot CLI」導入の影響を分析 生産性どう変わる",
+      "link": "https://www.itmedia.co.jp/news/article/2610/16/2000002277/",
+      "date": "2026-10-16T12:00:00+09:00",
+      "dateLabel": "10/16 12:00",
+      "desc": "米Microsoftに所属する研究者らが発表した論文「Adoption and Impact of Command-Line AI Coding Agents: A Study of Microsoft’s Early 2026 Rollout of Claude Code and GitHub Copilot CLI」は、社内の数万人のソフトウェアエンジニ",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
-      "title": "Jevが画像入力に対応＆長大コンテキストに対応＆意思決定モデルのベンチマークテストも発表",
-      "link": "https://gigazine.net/news/20261015-jev-1-14/",
-      "date": "2026-10-15T12:34:00+09:00",
-      "dateLabel": "10/15 12:34",
-      "desc": "大規模言語モデル(LLM)とは大きく異なる設計の「意思決定モデル」として注目を集めたAIモデル「Jev」が、改良版の「Jev 1.14.0」を2026年10月14日にリリースしました。Jev 1.14.0では新たに画像入力に対応したほか、より長いコンテキストといった実験的な機能も追加されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
-      "title": "音声対話AI「Grok Voice 3.0」が登場、OpenAIやGoogleのモデルを上回る性能でベンチマーク首位に",
-      "link": "https://gigazine.net/news/20261015-grok-voice-3/",
-      "date": "2026-10-15T11:52:00+09:00",
-      "dateLabel": "10/15 11:52",
-      "desc": "SpaceXAIが音声対話AIモデル「Grok Voice 3.0」を2026年10月14日に発表しました。業界トップクラスの低遅延かつ低価格で、SpaceXAIは「世界で最も知的な音声対音声モデル」と主張しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 50
+      "score": 42
     },
     {
       "title": "AIエージェントを自作する3つの方法！初心者でも無料から始められる手順",
@@ -107,14 +107,36 @@
       "score": 36
     },
     {
-      "title": "旅行が劇的に効率よくなる！ 海外出張でChatGPTを秘書として使ってみたら、こんなに便利だった",
-      "link": "https://ascii.jp/elem/000/004/436/4436541/?rss",
+      "title": "画像生成・編集AI「Krea 3」のベータ版がリリースされる、GPT-Image-2より10倍高速で価格は3分の1",
+      "link": "https://gigazine.net/news/20261016-krea-3-beta/",
+      "date": "2026-10-16T12:20:00+09:00",
+      "dateLabel": "10/16 12:20",
+      "desc": "画像生成AIサービス「Krea 3」のベータ版がリリースされました。画像生成と画像編集を高精度にこなすことが可能で、OpenAIのGPT-Image-2やGoogleのNano Banana 2と比べて高速かつ安価な処理が可能とされています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "画像生成・編集モデル「FLUX 3 Image Klein」が登場、5.6BのオープンモデルでゲーミングPCでローカル動作し日本語テキストの描画や位置指定にも対応",
+      "link": "https://gigazine.net/news/20261016-flux-3-image-klein/",
+      "date": "2026-10-16T12:11:00+09:00",
+      "dateLabel": "10/16 12:11",
+      "desc": "Black Forest Labsが画像生成AI「FLUX 3 Image Klein」を現地時間の2026年10月15日にオープンモデルとして公開しました。オープンモデルの中では最高峰の性能を備えつつ、ゲーミングPCで実用的な速度で実行できる軽量さも両立しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "AIエージェントに「何を指示するか」より「何をさせないか」――NVIDIAが示す設計の原則",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/16/news032.html",
       "date": "2026-10-16T11:00:00+09:00",
       "dateLabel": "10/16 11:00",
-      "desc": "本連載は生成AIをこれから活用しようとしている方たちのために、生成AIの基本やコピペしてそのまま使えるプロンプトなどを紹介。兎にも角にも生成AIに触り始めることで、AIに対する理解を深め、AIスキルを身に着けて欲しい。第74回は、シンガポールへの海外出張中、ChatGPTを使ったら超絶便利だったというレポートをお贈りする。",
-      "img": "https://ascii.jp/img/2026/10/15/4538915/s/4ba9c4856b1cc588.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
+      "desc": "AIエージェントが社内システムやデータを自律的に操作するようになるとき、どのようなセキュリティ対策が必要なのか。NVIDIAは、AIへの指示だけに頼らず、実行環境でのアクセス制御や権限管理、継続的な検証を組み合わせることの重要性を指摘する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -162,50 +184,6 @@
       "score": 34
     },
     {
-      "title": "クレジットカード情報1305件流出、うち4件はセキュリティコードも ACCESS発表",
-      "link": "https://ascii.jp/elem/000/004/443/4443126/?rss",
-      "date": "2026-10-16T09:45:00+09:00",
-      "dateLabel": "10/16 09:45",
-      "desc": "ACCESSは10月15日、台湾子会社ACCESS AP TAIWANが提供する通販業務支援サービス「CROS」に不正アクセスがあり、取引先の通販サービス利用者の個人情報が流出したと発表した。",
-      "img": "https://ascii.jp/img/2026/10/16/4539361/s/9a8a428b854df4c6.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "クラウドに頼らず生成AIを活用 ASUS「UGen300」シリーズ、LLM・VLM・音声認識に対応",
-      "link": "https://ascii.jp/elem/000/004/443/4443118/?rss",
-      "date": "2026-10-16T09:30:00+09:00",
-      "dateLabel": "10/16 09:30",
-      "desc": "ASUS JAPANが、Hailo-10H搭載のエッジAIアクセラレーター「UGen300」シリーズ3モデルと、Hailo-8L搭載の「UGen200」を10月16日に発売する。USB接続とM.2接続に対応し、生成AIや従来型ビジョンAIをローカルで低消費電力処理できる点が特徴だ。",
-      "img": "https://ascii.jp/img/2026/10/16/4539328/s/aa5db4f1f4c2be35.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "【公民連携】道外AI・半導体企業が参加、札幌で経営者交流会11/4開催",
-      "link": "https://ascii.jp/elem/000/004/443/4443148/?rss",
-      "date": "2026-10-16T09:26:40+09:00",
-      "dateLabel": "10/16 09:26",
-      "desc": "【公民連携】道外AI・半導体企業が参加、札幌で経営者交流会11/4開催",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "【業界特化調査 第24弾】AI検索パートナーズ（TechSuite株式会社）、レンタルオフィス・シェアオフィス選びのAI検索対策（LLMO/AIO/GEO/AEO）調査を実施｜首位の登場率41.7%",
-      "link": "https://ascii.jp/elem/000/004/443/4443157/?rss",
-      "date": "2026-10-16T09:00:00+09:00",
-      "dateLabel": "10/16 09:00",
-      "desc": "【業界特化調査 第24弾】AI検索パートナーズ（TechSuite株式会社）、レンタルオフィス・シェアオフィス選びのAI検索対策（LLMO/AIO/GEO/AEO）調査を実施｜首位の登場率41.7%",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "AnthropicのBun、TypeScript 7よりも3倍以上高速なTypeScript型チェッカーを搭載。Bunの新バージョン1.4.3で",
       "link": "https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html",
       "date": "2026-10-16T00:21:12+09:00",
@@ -214,50 +192,6 @@
       "img": "",
       "src": "Publickey",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Sakana ChatにAIの記憶を可視化する新機能「My Fish」が登場、覚えている内容や記憶同士のつながりを確認可能に",
-      "link": "https://gigazine.net/news/20261015-sakana-chat-my-fish/",
-      "date": "2026-10-15T16:20:00+09:00",
-      "dateLabel": "10/15 16:20",
-      "desc": "日本のAI企業であるSakana AIが2026年10月15日、AIチャットサービス「Sakana Chat」に新機能「My Fish」を追加したと発表しました。My FishではAIがユーザーについて覚えている情報を一覧表示できるほか、記憶が使われた履歴や情報同士のつながりを視覚的に確認できます。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "OpenAIやGoogleの画像生成AIは簡単に騙されてヌード画像を生成してしまうと研究者が指摘",
-      "link": "https://gigazine.net/news/20261015-rise-ai-image-nude/",
-      "date": "2026-10-15T15:00:00+09:00",
-      "dateLabel": "10/15 15:00",
-      "desc": "セキュリティ研究企業のWhite Circleが、OpenAIやGoogleの画像生成AIの安全対策を回避し、性的な画像などを生成させる新たな攻撃手法「RISE」を発表しました。検証では、OpenAIのDALL·E 3やGoogleのNano Banana 2などで安全対策の回避に成功したほか、より新しいモデルでは攻撃成功率がさらに高くなることが確認されてい",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "国内WebサイトへのAIエージェント攻撃を観測 「8時間弱」続いた攻撃の推移を公開 国内セキュリティベンダー",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/15/2000002284/",
-      "date": "2026-10-15T14:39:29+09:00",
-      "dateLabel": "10/15 14:39",
-      "desc": "ビットフォレストが、日本企業のWebサイトへのAIエージェントによる攻撃を観測したと報告。10月14日までに3つのIPアドレスから確認し、うち1つは8時間弱にわたり10段階に攻撃を変化させたという。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "「Firefox 158」正式版リリース、次世代画像形式「JPEG XL」に対応",
-      "link": "https://gigazine.net/news/20261015-firefox-158/",
-      "date": "2026-10-15T11:45:00+09:00",
-      "dateLabel": "10/15 11:45",
-      "desc": "ウェブブラウザ「Firefox 158」の正式版が公開されました。AIアシスタントを搭載した「Smart Window」で開いているタブや保存済みの自動入力データを活用してフォームに入力する情報を提案できるようになったほか、画像形式「JPEG XL」のサポートやPDFのアクセシビリティ改善、新しいタブの壁紙管理機能の強化などが実施されています。 続きを読む.",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -281,6 +215,72 @@
       "src": "AINOW",
       "cat": "AIエージェント/業務",
       "score": 34
+    },
+    {
+      "title": "AIエージェント構築の手順7ステップ！基盤の選び方と本番運用のコツ",
+      "link": "https://ainow.ai/2026/10/12/278430/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e6%25a7%258b%25e7%25af%2589%25e3%2581%25ae%25e6%2589%258b%25e9%25a0%25867%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583%25e3%2583%2597%25ef%25bc%2581%25e5%259f%25ba%25e7%259b%25a4%25e3%2581%25ae%25e9%2581%25b8%25e3%2581%25b3",
+      "date": "2026-10-12T21:50:16+09:00",
+      "dateLabel": "10/12 21:50",
+      "desc": "AIエージェントの構築を任されたものの、どの順番で何を決めればよいか迷っていませんか。本記事では、業務の絞り込みから本番公開までの構築手順7ステップと、自社に合う構築基盤の選び方を解説します。 DifyやCopilot ... The post AIエージェント構築の手順7ステップ！基盤の選び方と本番運用のコツ first appeared on AI専門ニ",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 28
+    },
+    {
+      "title": "ZoomのAIで会議・電話・顧客対応はどう変わる？ 11月5日開催「Zoomtopia ON THE ROAD JAPAN 2026」で事例紹介",
+      "link": "https://ascii.jp/elem/000/004/443/4443373/?rss",
+      "date": "2026-10-16T16:30:00+09:00",
+      "dateLabel": "10/16 16:30",
+      "desc": "Zoomtopia ON THE ROAD JAPAN 2026が11月5日、東京・日本橋で開催。Zoomの最新AI機能やZoom Virtual Agentのデモ、国内企業の活用事例を通じ、会議・顧客対応・営業DXの進化を紹介します。",
+      "img": "https://ascii.jp/img/2026/10/16/4539501/s/32e9459e0a5a20fd.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "撫でると喜ぶ、デスクの小さな相棒。AIコンパニオンロボット「INU」、本日よりKibidango・GREEN FUNDINGで先行販売開始",
+      "link": "https://ascii.jp/elem/000/004/443/4443381/?rss",
+      "date": "2026-10-16T15:08:10+09:00",
+      "dateLabel": "10/16 15:08",
+      "desc": "撫でると喜ぶ、デスクの小さな相棒。AIコンパニオンロボット「INU」、本日よりKibidango・GREEN FUNDINGで先行販売開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
+      "title": "SNS運用・MEO対策を土台に、AI検索（AIO）時代に対応する総合集客支援を強化。株式会社ネルプが公式サイトをリニューアル",
+      "link": "https://ascii.jp/elem/000/004/443/4443391/?rss",
+      "date": "2026-10-16T15:00:00+09:00",
+      "dateLabel": "10/16 15:00",
+      "desc": "SNS運用・MEO対策を土台に、AI検索（AIO）時代に対応する総合集客支援を強化。株式会社ネルプが公式サイトをリニューアル",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "プリペアード 評判が高いAI通話録音・自動要約サービス「RecACE plus」、カスハラ対応にも活用できるモデルケース企業を茨城県で初募集",
+      "link": "https://ascii.jp/elem/000/004/443/4443383/?rss",
+      "date": "2026-10-16T15:00:00+09:00",
+      "dateLabel": "10/16 15:00",
+      "desc": "プリペアード 評判が高いAI通話録音・自動要約サービス「RecACE plus」、カスハラ対応にも活用できるモデルケース企業を茨城県で初募集",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "Chainlinkと戦略的パートナーシップを締結、CCIPを相互運用性ソリューションとして優先採用",
+      "link": "https://ascii.jp/elem/000/004/443/4443385/?rss",
+      "date": "2026-10-16T14:47:28+09:00",
+      "dateLabel": "10/16 14:47",
+      "desc": "Chainlinkと戦略的パートナーシップを締結、CCIPを相互運用性ソリューションとして優先採用",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     }
   ]
 }
