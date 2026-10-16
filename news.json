@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-16T21:50:31.909371+09:00",
-  "generatedLabel": "2026/10/16 21:50",
+  "generatedAt": "2026-10-17T02:04:13.005127+09:00",
+  "generatedLabel": "2026/10/17 02:04",
   "feedOk": 6,
   "feedNg": 5,
   "candidates": 57,
@@ -74,6 +74,17 @@
       "score": 50
     },
     {
+      "title": "「RTX Spark」でAI動画を生成したら爆速すぎだった＝ASUS「ProArt P14」実機レビュー＝3D性能はRTX5060レベル",
+      "link": "https://ascii.jp/elem/000/004/443/4443110/?rss",
+      "date": "2026-10-17T00:01:00+09:00",
+      "dateLabel": "10/17 00:01",
+      "desc": "「NVIDIA RTX Spark」を搭載するノートPC「ProArt P14」で速度を計り、ローカルAIでムービーを生成してみました。",
+      "img": "https://ascii.jp/img/2026/10/16/4539240/s/60c2231083f5f64a.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
       "title": "AIエージェントの危険な操作を別のAIが検出してブロックする「Armor」をOpenRouterがリリース",
       "link": "https://gigazine.net/news/20261016-openrouter-armor/",
       "date": "2026-10-16T18:51:00+09:00",
@@ -126,17 +137,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Webページ上でAIが作業する「JAPAN AI ブラウザアシスタント」の正式版を提供開始",
-      "link": "https://ascii.jp/elem/000/004/443/4443480/?rss",
-      "date": "2026-10-16T18:00:00+09:00",
-      "dateLabel": "10/16 18:00",
-      "desc": "Webページ上でAIが作業する「JAPAN AI ブラウザアシスタント」の正式版を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -228,17 +228,6 @@
       "score": 34
     },
     {
-      "title": "AnthropicのBun、TypeScript 7よりも3倍以上高速なTypeScript型チェッカーを搭載。Bunの新バージョン1.4.3で",
-      "link": "https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html",
-      "date": "2026-10-16T00:21:12+09:00",
-      "dateLabel": "10/16 00:21",
-      "desc": "Anthropicが開発しているJavaScriptランタイム「Bun」は、10月10日付けで新バージョン「Bun v1.4.3」がリリースされました。 Bun v1.4.3の最大の特徴として示されたのが、Go言語で実装されたTypeScr...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ",
       "link": "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
       "date": "2026-10-15T00:57:19+09:00",
@@ -270,6 +259,17 @@
       "src": "AINOW",
       "cat": "AIエージェント/業務",
       "score": 28
+    },
+    {
+      "title": "iPhone Airが21％オフの14万9800円！ 6.5型なのにわずか165g【プライム感謝祭セール】",
+      "link": "https://ascii.jp/elem/000/004/443/4443028/?rss",
+      "date": "2026-10-16T22:10:00+09:00",
+      "dateLabel": "10/16 22:10",
+      "desc": "Appleの「iPhone Air（256GB）」がAmazonのプライム感謝祭セール対象。プライム会員限定で、参考価格189,800円から21％オフの149,800円で販売中。6.5型の大画面を搭載しながら、厚さ5.64mm、重さ165gを実現。超薄型・超軽量でありながら、A19 Proのパワーも備えた一台だ。",
+      "img": "https://ascii.jp/img/2026/10/15/4539124/s/634b168b961b952c.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     },
     {
       "title": "Googleが「魔法状態の培養」を量子プロセッサ「Willow」で実証、量子ビットのエラーを約40分の1に減らすことに成功",
