@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-16T16:39:54.643067+09:00",
-  "generatedLabel": "2026/10/16 16:39",
+  "generatedAt": "2026-10-16T21:50:31.909371+09:00",
+  "generatedLabel": "2026/10/16 21:50",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 58,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 16
+      "items": 17
     },
     {
       "source": "CNET Japan",
@@ -74,6 +74,17 @@
       "score": 50
     },
     {
+      "title": "AIエージェントの危険な操作を別のAIが検出してブロックする「Armor」をOpenRouterがリリース",
+      "link": "https://gigazine.net/news/20261016-openrouter-armor/",
+      "date": "2026-10-16T18:51:00+09:00",
+      "dateLabel": "10/16 18:51",
+      "desc": "複数のAIモデルを利用できるサービス「OpenRouter」が、AIエージェントによる危険なツールの実行を防ぐ新機能「Armor」をリリースしました。ArmorはAIエージェントが実行しようとする操作を別のAIモデルで事前にチェックし、設定されたルールに違反する操作を自動的にブロックする機能です。記事作成時点ではベータ版として提供されています。 続きを読む.",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "NVIDIAが画像・動画・文章をまとめて理解するオープンウェイトAI「Nemotron 3.5 Super VL」を公開、処理コストを40分の1に削減する事例も",
       "link": "https://gigazine.net/news/20261016-nemotron-3-5-super-vl/",
       "date": "2026-10-16T13:10:00+09:00",
@@ -105,6 +116,39 @@
       "src": "AINOW",
       "cat": "AIエージェント/業務",
       "score": 36
+    },
+    {
+      "title": "Perplexityが安全な自律型AIエージェント構築支援のためサンドボックスプラットフォーム「SPACE」をオープンソース化",
+      "link": "https://gigazine.net/news/20261016-perplexity-space/",
+      "date": "2026-10-16T21:30:00+09:00",
+      "dateLabel": "10/16 21:30",
+      "desc": "パーソナルエージェント分野の先駆者を標榜するPerplexityが、開発者がより安全なエージェントシステムを構築するための基盤を提供し、業界全体で保護体制を強化していくため、サンドボックスプラットフォーム「SPACE」をオープンソース化すると発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "Webページ上でAIが作業する「JAPAN AI ブラウザアシスタント」の正式版を提供開始",
+      "link": "https://ascii.jp/elem/000/004/443/4443480/?rss",
+      "date": "2026-10-16T18:00:00+09:00",
+      "dateLabel": "10/16 18:00",
+      "desc": "Webページ上でAIが作業する「JAPAN AI ブラウザアシスタント」の正式版を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "意思決定モデル「d1-ultra」が登場、Jev 1.14を全8分野で上回り判断の信頼性も向上",
+      "link": "https://gigazine.net/news/20261016-d1-ultra/",
+      "date": "2026-10-16T17:30:00+09:00",
+      "dateLabel": "10/16 17:30",
+      "desc": "AI開発企業のLiquid AIが2026年10月15日に新たな意思決定モデル「d1-ultra」を発表しました。従来モデルの「d1」を改良したもので、競合する「Jev 1.14」を性能テストで大きく上回ったほか、判断の正確さや信頼性も向上したとのことです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "画像生成・編集AI「Krea 3」のベータ版がリリースされる、GPT-Image-2より10倍高速で価格は3分の1",
@@ -228,57 +272,13 @@
       "score": 28
     },
     {
-      "title": "ZoomのAIで会議・電話・顧客対応はどう変わる？ 11月5日開催「Zoomtopia ON THE ROAD JAPAN 2026」で事例紹介",
-      "link": "https://ascii.jp/elem/000/004/443/4443373/?rss",
-      "date": "2026-10-16T16:30:00+09:00",
-      "dateLabel": "10/16 16:30",
-      "desc": "Zoomtopia ON THE ROAD JAPAN 2026が11月5日、東京・日本橋で開催。Zoomの最新AI機能やZoom Virtual Agentのデモ、国内企業の活用事例を通じ、会議・顧客対応・営業DXの進化を紹介します。",
-      "img": "https://ascii.jp/img/2026/10/16/4539501/s/32e9459e0a5a20fd.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "撫でると喜ぶ、デスクの小さな相棒。AIコンパニオンロボット「INU」、本日よりKibidango・GREEN FUNDINGで先行販売開始",
-      "link": "https://ascii.jp/elem/000/004/443/4443381/?rss",
-      "date": "2026-10-16T15:08:10+09:00",
-      "dateLabel": "10/16 15:08",
-      "desc": "撫でると喜ぶ、デスクの小さな相棒。AIコンパニオンロボット「INU」、本日よりKibidango・GREEN FUNDINGで先行販売開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "SNS運用・MEO対策を土台に、AI検索（AIO）時代に対応する総合集客支援を強化。株式会社ネルプが公式サイトをリニューアル",
-      "link": "https://ascii.jp/elem/000/004/443/4443391/?rss",
-      "date": "2026-10-16T15:00:00+09:00",
-      "dateLabel": "10/16 15:00",
-      "desc": "SNS運用・MEO対策を土台に、AI検索（AIO）時代に対応する総合集客支援を強化。株式会社ネルプが公式サイトをリニューアル",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "プリペアード 評判が高いAI通話録音・自動要約サービス「RecACE plus」、カスハラ対応にも活用できるモデルケース企業を茨城県で初募集",
-      "link": "https://ascii.jp/elem/000/004/443/4443383/?rss",
-      "date": "2026-10-16T15:00:00+09:00",
-      "dateLabel": "10/16 15:00",
-      "desc": "プリペアード 評判が高いAI通話録音・自動要約サービス「RecACE plus」、カスハラ対応にも活用できるモデルケース企業を茨城県で初募集",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "Chainlinkと戦略的パートナーシップを締結、CCIPを相互運用性ソリューションとして優先採用",
-      "link": "https://ascii.jp/elem/000/004/443/4443385/?rss",
-      "date": "2026-10-16T14:47:28+09:00",
-      "dateLabel": "10/16 14:47",
-      "desc": "Chainlinkと戦略的パートナーシップを締結、CCIPを相互運用性ソリューションとして優先採用",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
+      "title": "Googleが「魔法状態の培養」を量子プロセッサ「Willow」で実証、量子ビットのエラーを約40分の1に減らすことに成功",
+      "link": "https://gigazine.net/news/20261016-google-quantum-ai-magic-state-cultivation/",
+      "date": "2026-10-16T20:50:00+09:00",
+      "dateLabel": "10/16 20:50",
+      "desc": "Googleの量子コンピューター研究チームであるGoogle Quantum AIが、量子コンピューターの実用化に向けた重要な技術「魔法状態の培養(Magic State Cultivation)」を実証したと発表しました。Googleの量子プロセッサ「Willow」を用いた実験では、従来の方法と比べてエラーを約40分の1に減らすことに成功したとのことです。",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AI全般",
       "score": 26
     }
