@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-16T08:25:28.945510+09:00",
-  "generatedLabel": "2026/10/16 08:25",
+  "generatedAt": "2026-10-16T11:12:07.376389+09:00",
+  "generatedLabel": "2026/10/16 11:12",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 50,
+  "candidates": 59,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 19
+      "items": 18
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 1
+      "items": 9
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 11
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "技術者への依頼不要に。音声AIエージェントを自然な会話やテキストで作成・改善",
+      "link": "https://ascii.jp/elem/000/004/443/4443127/?rss",
+      "date": "2026-10-16T10:00:00+09:00",
+      "dateLabel": "10/16 10:00",
+      "desc": "Eleven Labs Japan合同会社は10月7日、企業向け音声・チャットエージェントプラットフォーム向けの新機能「ElevenAgents Architect」のアルファ版の提供を開始したと発表した。",
+      "img": "https://ascii.jp/img/2026/10/16/4539362/s/81b89dad69f06fa0.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
       "title": "Jevが画像入力に対応＆長大コンテキストに対応＆意思決定モデルのベンチマークテストも発表",
       "link": "https://gigazine.net/news/20261015-jev-1-14/",
       "date": "2026-10-15T12:34:00+09:00",
@@ -94,6 +105,105 @@
       "src": "AINOW",
       "cat": "AIエージェント/業務",
       "score": 36
+    },
+    {
+      "title": "旅行が劇的に効率よくなる！ 海外出張でChatGPTを秘書として使ってみたら、こんなに便利だった",
+      "link": "https://ascii.jp/elem/000/004/436/4436541/?rss",
+      "date": "2026-10-16T11:00:00+09:00",
+      "dateLabel": "10/16 11:00",
+      "desc": "本連載は生成AIをこれから活用しようとしている方たちのために、生成AIの基本やコピペしてそのまま使えるプロンプトなどを紹介。兎にも角にも生成AIに触り始めることで、AIに対する理解を深め、AIスキルを身に着けて欲しい。第74回は、シンガポールへの海外出張中、ChatGPTを使ったら超絶便利だったというレポートをお贈りする。",
+      "img": "https://ascii.jp/img/2026/10/15/4538915/s/4ba9c4856b1cc588.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "TSMCが純利益68.7％増で最高益更新 魏会長「需要は極めて堅調」",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/16/news052.html",
+      "date": "2026-10-16T10:30:00+09:00",
+      "dateLabel": "10/16 10:30",
+      "desc": "【台北＝西見由章】半導体受託生産の世界最大手、台湾積体電路製造（TSMC）が15日発表した2026年7～9月期決算は、売上高が前年同期比50.9％増の1兆4942億台湾元（約7兆2900億円）、純利益は68.7％増の7630億台湾元だった。いずれも四半期として過去最高を更新した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "モバイル詐欺から身を守るための新しいAndroid保護機能がリリースされる",
+      "link": "https://gigazine.net/news/20261016-android-new-scam-protection/",
+      "date": "2026-10-16T10:30:00+09:00",
+      "dateLabel": "10/16 10:30",
+      "desc": "Googleが、プライベートAIでメッセージをスキャンして詐欺を検出する機能など新しい詐欺防止策を発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "「Claude Haiku 5.5」は本当にコスパがいいのか？ 3つの日本語タスクで検証してみた",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/16/2000002313/",
+      "date": "2026-10-16T10:14:18+09:00",
+      "dateLabel": "10/16 10:14",
+      "desc": "Anthropicの最軽量モデル「Claude Haiku 5.5」を、3つの日本語タスクで「Sonnet 5.5」「GPT-6 Luna」と比較検証。定型文書では上位モデルに迫る一方、自らの立場を把握した上での返答が必要な課題では回答が揺れた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "Anthropic、METRの評価チームを社内に常駐させ“従業員並み”のアクセス付与 公表に拒否権なし",
+      "link": "https://www.itmedia.co.jp/news/article/2610/16/2000002315/",
+      "date": "2026-10-16T09:49:28+09:00",
+      "dateLabel": "10/16 09:49",
+      "desc": "Anthropicは、AI評価団体METRに従業員並みのアクセス権を与える常駐評価を開始した。端末やオフィスを提供して社内システムへのアクセスを認め、リスクや障害の独自公表を許可する。公表拒否はできず、伏せ字要請のみ可能。OpenAIも同様の外部評価機関受け入れを準備している。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "クレジットカード情報1305件流出、うち4件はセキュリティコードも ACCESS発表",
+      "link": "https://ascii.jp/elem/000/004/443/4443126/?rss",
+      "date": "2026-10-16T09:45:00+09:00",
+      "dateLabel": "10/16 09:45",
+      "desc": "ACCESSは10月15日、台湾子会社ACCESS AP TAIWANが提供する通販業務支援サービス「CROS」に不正アクセスがあり、取引先の通販サービス利用者の個人情報が流出したと発表した。",
+      "img": "https://ascii.jp/img/2026/10/16/4539361/s/9a8a428b854df4c6.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "クラウドに頼らず生成AIを活用 ASUS「UGen300」シリーズ、LLM・VLM・音声認識に対応",
+      "link": "https://ascii.jp/elem/000/004/443/4443118/?rss",
+      "date": "2026-10-16T09:30:00+09:00",
+      "dateLabel": "10/16 09:30",
+      "desc": "ASUS JAPANが、Hailo-10H搭載のエッジAIアクセラレーター「UGen300」シリーズ3モデルと、Hailo-8L搭載の「UGen200」を10月16日に発売する。USB接続とM.2接続に対応し、生成AIや従来型ビジョンAIをローカルで低消費電力処理できる点が特徴だ。",
+      "img": "https://ascii.jp/img/2026/10/16/4539328/s/aa5db4f1f4c2be35.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "【公民連携】道外AI・半導体企業が参加、札幌で経営者交流会11/4開催",
+      "link": "https://ascii.jp/elem/000/004/443/4443148/?rss",
+      "date": "2026-10-16T09:26:40+09:00",
+      "dateLabel": "10/16 09:26",
+      "desc": "【公民連携】道外AI・半導体企業が参加、札幌で経営者交流会11/4開催",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "【業界特化調査 第24弾】AI検索パートナーズ（TechSuite株式会社）、レンタルオフィス・シェアオフィス選びのAI検索対策（LLMO/AIO/GEO/AEO）調査を実施｜首位の登場率41.7%",
+      "link": "https://ascii.jp/elem/000/004/443/4443157/?rss",
+      "date": "2026-10-16T09:00:00+09:00",
+      "dateLabel": "10/16 09:00",
+      "desc": "【業界特化調査 第24弾】AI検索パートナーズ（TechSuite株式会社）、レンタルオフィス・シェアオフィス選びのAI検索対策（LLMO/AIO/GEO/AEO）調査を実施｜首位の登場率41.7%",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "AnthropicのBun、TypeScript 7よりも3倍以上高速なTypeScript型チェッカーを搭載。Bunの新バージョン1.4.3で",
@@ -151,17 +261,6 @@
       "score": 34
     },
     {
-      "title": "Googleが論文や技術文書の誤りをAIで検証する「Deep Review」を一般公開、週2回まで無料で利用可能",
-      "link": "https://gigazine.net/news/20261015-google-deep-review/",
-      "date": "2026-10-15T11:20:00+09:00",
-      "dateLabel": "10/15 11:20",
-      "desc": "Google Researchは2026年10月14日、AIを使って論文や技術文書の内容を詳細に検証する「Deep Review」を一般公開しました。Deep Reviewは、文書に含まれる論理的な矛盾や数学的な誤りを発見し、改善点を提案するAIエージェントシステムです。研究論文だけでなく、法律文書や財務資料、プレゼンテーションなどにも対応し、週2回まで無料",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ",
       "link": "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
       "date": "2026-10-15T00:57:19+09:00",
@@ -182,105 +281,6 @@
       "src": "AINOW",
       "cat": "AIエージェント/業務",
       "score": 34
-    },
-    {
-      "title": "デジハリ大、「Claude」を全学導入へ──国内初、“回数気にせず”使い放題に",
-      "link": "https://www.itmedia.co.jp/news/article/2610/14/2000002278/",
-      "date": "2026-10-14T19:43:31+09:00",
-      "dateLabel": "10/14 19:43",
-      "desc": "デジタルハリウッド大学は10月14日、米Anthropicの生成AI「Claude」を全学に導入し、11月から全学生・全教職員に提供すると発表した。Claudeの全学導入は国内の大学で初という。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Googleの新モデル「Gemini 4 Argon」一般提供開始 使えるプラン、価格",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/14/2000002241/",
-      "date": "2026-10-14T14:06:36+09:00",
-      "dateLabel": "10/14 14:06",
-      "desc": "Googleは同社最先端のモデル「Gemini 4 Argon」の一般提供を開始した。Geminiアプリや検索のAIモード、Google Antigravity、APIなどで利用できる。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "AIエージェント構築の手順7ステップ！基盤の選び方と本番運用のコツ",
-      "link": "https://ainow.ai/2026/10/12/278430/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e6%25a7%258b%25e7%25af%2589%25e3%2581%25ae%25e6%2589%258b%25e9%25a0%25867%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583%25e3%2583%2597%25ef%25bc%2581%25e5%259f%25ba%25e7%259b%25a4%25e3%2581%25ae%25e9%2581%25b8%25e3%2581%25b3",
-      "date": "2026-10-12T21:50:16+09:00",
-      "dateLabel": "10/12 21:50",
-      "desc": "AIエージェントの構築を任されたものの、どの順番で何を決めればよいか迷っていませんか。本記事では、業務の絞り込みから本番公開までの構築手順7ステップと、自社に合う構築基盤の選び方を解説します。 DifyやCopilot ... The post AIエージェント構築の手順7ステップ！基盤の選び方と本番運用のコツ first appeared on AI専門ニ",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 28
-    },
-    {
-      "title": "リーナス・トーバルズがClaude CodeなどのAIをバリバリ活用してLinuxカーネルの改善に取り組み中",
-      "link": "https://gigazine.net/news/20261016-linus-torvalds-claude-code/",
-      "date": "2026-10-16T06:00:00+09:00",
-      "dateLabel": "10/16 06:00",
-      "desc": "Linuxカーネルの生みの親であるリーナス・トーバルズ氏がAIコーディングアシスタントのClaude Codeを活用し、Linuxカーネルの大幅な改善に取り組んでいることが明らかになりました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "スマホゲームの熱対策、ここまでやる！ 水冷＆冷却ファン搭載のゲーミングスマホ「REDMAGIC 11S Pro」が16万4160円",
-      "link": "https://ascii.jp/elem/000/004/442/4442326/?rss",
-      "date": "2026-10-15T22:10:00+09:00",
-      "dateLabel": "10/15 22:10",
-      "desc": "REDMAGICのゲーミングスマホ「REDMAGIC 11S Pro」がAmazonのプライム感謝祭先行セール対象。プライム会員限定で、過去価格172,800円から5％オフの164,160円で販売中。水冷と毎分24,000回転の冷却ファンを搭載し、Snapdragon 8 Elite Gen 5 リーディングバージョンも採用。高負荷ゲームの発熱対策に力を入れ",
-      "img": "https://ascii.jp/img/2026/10/14/4538428/s/2a00c1a7a7966dcc.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "AIによる相次ぐハッキング事件は「AIの暴走」ではなく「AI企業がセキュリティの基本を無視しているため」という指摘",
-      "link": "https://gigazine.net/news/20261015-ai-agents-not-going-rogue/",
-      "date": "2026-10-15T17:05:00+09:00",
-      "dateLabel": "10/15 17:05",
-      "desc": "世界最大級のサイバーセキュリティ専門メディアであるCSO Onlineが、2026年になって複数回起きている「AIエージェントによるハッキング事件」は、AIの暴走が原因ではなく、AI企業がセキュリティの基本を怠ったことが原因であると解説しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "ASMLの半導体露光装置はすでに2028年分までほぼ売り切れ状態で一部顧客は2030年分の発注を検討",
-      "link": "https://gigazine.net/news/20261015-asml-supply-shortages-through-2028/",
-      "date": "2026-10-15T15:45:00+09:00",
-      "dateLabel": "10/15 15:45",
-      "desc": "半導体製造に欠かせない半導体露光装置のシェアで世界の9割を占めるオランダ・ASMLのクリストフ・フーケCEOが、すでに2027年と2028年は需要に応えるのが難しく、一部顧客は2030年分の発注を検討する状態にあることを明らかにしました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "CTOが「AI導入で生産性を1年で2倍に」掲げた企業のその後 米国が開発者802人の進捗を追跡調査",
-      "link": "https://www.itmedia.co.jp/news/article/2610/15/2000002260/",
-      "date": "2026-10-15T12:00:00+09:00",
-      "dateLabel": "10/15 12:00",
-      "desc": "米カーネギーメロン大学や米スタンフォード大学などに所属する研究者らが発表した論文「AI Writes Faster Than Humans Can Review: A Longitudinal Study of an Enterprise 2x Mandate」は、AI導入を義務化したソフトウェア会社がどのような影響を受けたのかを調査した研究報告だ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "相次ぐサイバー攻撃に「AI悪用の可能性」……初来日のAnthropic共同創業者が言及 悪用どう抑止",
-      "link": "https://www.itmedia.co.jp/news/article/2610/15/2000002286/",
-      "date": "2026-10-15T10:55:34+09:00",
-      "dateLabel": "10/15 10:55",
-      "desc": "「おそらく、AIツールが使われている可能性はあるだろうと推測している」──米Anthropicの共同創業者のジャック・クラーク氏が初来日し、同社の日本法人が10月14日に開いたメディア説明会に登壇した。講演では、報道陣の質問に答える形でサイバー攻撃とAIの関係性についても言及する一幕も。悪用の抑止に向けて同社がどう取り組むか、現在の方針も説明した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
     }
   ]
 }
