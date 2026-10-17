@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-18T06:51:44.535495+09:00",
-  "generatedLabel": "2026/10/18 06:51",
+  "generatedAt": "2026-10-18T08:37:28.358665+09:00",
+  "generatedLabel": "2026/10/18 08:37",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 49,
+  "candidates": 47,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 8
     },
     {
       "source": "CNET Japan",
@@ -72,17 +72,6 @@
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 50
-    },
-    {
-      "title": "NVIDIAがAIエージェントによるタスクをローカルで実行するための「Nemotron 3.5 Bolt 74B-A9B 24GB」を発表",
-      "link": "https://gigazine.net/news/20261016-nvidia-nemotron-3-5-bolt-74b-a9b-24gb/",
-      "date": "2026-10-16T14:40:00+09:00",
-      "dateLabel": "10/16 14:40",
-      "desc": "現地時間の2026年10月15日、NVIDIAが日常的なAIエージェントのタスクをローカルで実行するために設計された「Nemotron 3.5 Bolt 74B-A9B 24GB」を公開しました。MoEを採用し、MambaとTransformerという2つのモデル構造を組み合わせたAIモデルとなっており、ローカルで実行しながら他のアプリケーションを同時に動作",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 42
     },
     {
       "title": "AIエージェントを自作する3つの方法！初心者でも無料から始められる手順",
@@ -149,6 +138,17 @@
       "src": "AINOW",
       "cat": "AIエージェント/業務",
       "score": 28
+    },
+    {
+      "title": "「11回止めたのに本番DBが消えた」 AIエージェント“6つの暴走”と、人間の承認を増やしても防げない理由",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/18/news004.html",
+      "date": "2026-10-18T08:00:00+09:00",
+      "dateLabel": "10/18 08:00",
+      "desc": "AIコーディングエージェントの自律性が高まる一方、本番データベースの削除といった事故も起こっています。では、「人間の承認」を増やせば事故は防げるのでしょうか。事例と対策から、事故を起こさないAIエージェントの設計について考えます。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 26
     },
     {
       "title": "無料オープンソースオフィススイート「ibisOffice」をibisPaint開発元がリリース、ブラウザまたはWindows・Mac版アプリでWord・Excel・PowerPointファイルの閲覧と編集が可能",
