@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-17T20:50:18.918094+09:00",
-  "generatedLabel": "2026/10/17 20:50",
+  "generatedAt": "2026-10-17T23:37:59.942107+09:00",
+  "generatedLabel": "2026/10/17 23:37",
   "feedOk": 6,
   "feedNg": 5,
   "candidates": 50,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 1
+      "items": 2
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 12
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -96,17 +96,6 @@
       "score": 36
     },
     {
-      "title": "Perplexityが安全な自律型AIエージェント構築支援のためサンドボックスプラットフォーム「SPACE」をオープンソース化",
-      "link": "https://gigazine.net/news/20261016-perplexity-space/",
-      "date": "2026-10-16T21:30:00+09:00",
-      "dateLabel": "10/16 21:30",
-      "desc": "パーソナルエージェント分野の先駆者を標榜するPerplexityが、開発者がより安全なエージェントシステムを構築するための基盤を提供し、業界全体で保護体制を強化していくため、サンドボックスプラットフォーム「SPACE」をオープンソース化すると発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "AIエージェントの危険な操作を別のAIが検出してブロックする「Armor」をOpenRouterがリリース",
       "link": "https://gigazine.net/news/20261016-openrouter-armor/",
       "date": "2026-10-16T18:51:00+09:00",
@@ -159,7 +148,7 @@
       "img": "",
       "src": "AINOW",
       "cat": "AIエージェント/業務",
-      "score": 34
+      "score": 28
     },
     {
       "title": "AIエージェント構築の手順7ステップ！基盤の選び方と本番運用のコツ",
@@ -171,6 +160,28 @@
       "src": "AINOW",
       "cat": "AIエージェント/業務",
       "score": 28
+    },
+    {
+      "title": "無料オープンソースオフィススイート「ibisOffice」をibisPaint開発元がリリース、ブラウザまたはWindows・Mac版アプリでWord・Excel・PowerPointファイルの閲覧と編集が可能",
+      "link": "https://gigazine.net/news/20261017-ibisOffice/",
+      "date": "2026-10-17T23:00:00+09:00",
+      "dateLabel": "10/17 23:00",
+      "desc": "基本無料のイラスト制作アプリ「アイビスペイント(ibisPaint)」で知られるibisWorksが、Microsoft Officeファイル形式を編集できる無料オープンソースオフィススイート「ibisOffice」をリリースしました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "Apple「iPad Air」もプライム感謝祭で値下げ！ M4搭載の11型モデルが10％オフの11万6800円に",
+      "link": "https://ascii.jp/elem/000/004/443/4443121/?rss",
+      "date": "2026-10-17T21:50:00+09:00",
+      "dateLabel": "10/17 21:50",
+      "desc": "Appleの11型タブレット「iPad Air（M4）」がAmazonのプライム感謝祭セール対象。プライム会員限定で、参考価格129,800円から10％オフの116,800円で販売中。M4チップ、11型Liquid Retinaディスプレー、128GBストレージを搭載したWi-Fiモデル。",
+      "img": "https://ascii.jp/img/2026/10/16/4539340/s/b626d97c9dddc5cb.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     },
     {
       "title": "「そもそも親にAIなんて必要ない」 65歳以上の生成AI利用、子世代の7割が拒否する理由",
@@ -195,6 +206,17 @@
       "score": 26
     },
     {
+      "title": "Perplexityが安全な自律型AIエージェント構築支援のためサンドボックスプラットフォーム「SPACE」をオープンソース化",
+      "link": "https://gigazine.net/news/20261016-perplexity-space/",
+      "date": "2026-10-16T21:30:00+09:00",
+      "dateLabel": "10/16 21:30",
+      "desc": "パーソナルエージェント分野の先駆者を標榜するPerplexityが、開発者がより安全なエージェントシステムを構築するための基盤を提供し、業界全体で保護体制を強化していくため、サンドボックスプラットフォーム「SPACE」をオープンソース化すると発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
       "title": "意思決定モデル「d1-ultra」が登場、Jev 1.14を全8分野で上回り判断の信頼性も向上",
       "link": "https://gigazine.net/news/20261016-d1-ultra/",
       "date": "2026-10-16T17:30:00+09:00",
@@ -203,17 +225,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "画像生成・編集AI「Krea 3」のベータ版がリリースされる、GPT-Image-2より10倍高速で価格は3分の1",
-      "link": "https://gigazine.net/news/20261016-krea-3-beta/",
-      "date": "2026-10-16T12:20:00+09:00",
-      "dateLabel": "10/16 12:20",
-      "desc": "画像生成AIサービス「Krea 3」のベータ版がリリースされました。画像生成と画像編集を高精度にこなすことが可能で、OpenAIのGPT-Image-2やGoogleのNano Banana 2と比べて高速かつ安価な処理が可能とされています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 26
     },
     {
@@ -269,17 +280,6 @@
       "img": "",
       "src": "Publickey",
       "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "国内WebサイトへのAIエージェント攻撃を観測 「8時間弱」続いた攻撃の推移を公開 国内セキュリティベンダー",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/15/2000002284/",
-      "date": "2026-10-15T14:39:29+09:00",
-      "dateLabel": "10/15 14:39",
-      "desc": "ビットフォレストが、日本企業のWebサイトへのAIエージェントによる攻撃を観測したと報告。10月14日までに3つのIPアドレスから確認し、うち1つは8時間弱にわたり10段階に攻撃を変化させたという。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
