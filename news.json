@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-17T23:37:59.942107+09:00",
-  "generatedLabel": "2026/10/17 23:37",
+  "generatedAt": "2026-10-18T02:37:10.490541+09:00",
+  "generatedLabel": "2026/10/18 02:37",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 50,
+  "candidates": 49,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 11
+      "items": 10
     },
     {
       "source": "CNET Japan",
@@ -107,17 +107,6 @@
       "score": 34
     },
     {
-      "title": "NVIDIAが画像・動画・文章をまとめて理解するオープンウェイトAI「Nemotron 3.5 Super VL」を公開、処理コストを40分の1に削減する事例も",
-      "link": "https://gigazine.net/news/20261016-nemotron-3-5-super-vl/",
-      "date": "2026-10-16T13:10:00+09:00",
-      "dateLabel": "10/16 13:10",
-      "desc": "NVIDIAが2026年10月15日に文章や画像、動画をまとめて理解できるオープンウェイトAIモデル「NVIDIA Nemotron 3.5 Super VL」を公開しました。複数の情報を組み合わせて作業を進めるAIエージェント向けのモデルで、同規模のオープンモデルと比較して最大5倍の処理能力を発揮するとのこと。企業の業務に合わせて調整したモデルではAIの処",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
       "title": "Microsoft、社内エンジニア数万人を対象に「Claude Code」「Copilot CLI」導入の影響を分析 生産性どう変わる",
       "link": "https://www.itmedia.co.jp/news/article/2610/16/2000002277/",
       "date": "2026-10-16T12:00:00+09:00",
@@ -137,7 +126,7 @@
       "img": "",
       "src": "Publickey",
       "cat": "AIエージェント/業務",
-      "score": 34
+      "score": 28
     },
     {
       "title": "AIエージェントを自作する方法7選！無料で始める手順と費用の目安",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "Publickey",
       "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "国内WebサイトへのAIエージェント攻撃を観測 「8時間弱」続いた攻撃の推移を公開 国内セキュリティベンダー",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/15/2000002284/",
+      "date": "2026-10-15T14:39:29+09:00",
+      "dateLabel": "10/15 14:39",
+      "desc": "ビットフォレストが、日本企業のWebサイトへのAIエージェントによる攻撃を観測したと報告。10月14日までに3つのIPアドレスから確認し、うち1つは8時間弱にわたり10段階に攻撃を変化させたという。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
