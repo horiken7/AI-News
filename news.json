@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-17T11:05:44.479294+09:00",
-  "generatedLabel": "2026/10/17 11:05",
+  "generatedAt": "2026-10-17T16:18:01.927638+09:00",
+  "generatedLabel": "2026/10/17 16:18",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 56,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -63,25 +63,25 @@
   ],
   "articles": [
     {
-      "title": "NVIDIAがAIエージェントによるタスクをローカルで実行するための「Nemotron 3.5 Bolt 74B-A9B 24GB」を発表",
-      "link": "https://gigazine.net/news/20261016-nvidia-nemotron-3-5-bolt-74b-a9b-24gb/",
-      "date": "2026-10-16T14:40:00+09:00",
-      "dateLabel": "10/16 14:40",
-      "desc": "現地時間の2026年10月15日、NVIDIAが日常的なAIエージェントのタスクをローカルで実行するために設計された「Nemotron 3.5 Bolt 74B-A9B 24GB」を公開しました。MoEを採用し、MambaとTransformerという2つのモデル構造を組み合わせたAIモデルとなっており、ローカルで実行しながら他のアプリケーションを同時に動作",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 50
+      "title": "ゴムマリの業務AIエージェント、『営業リスト作成』を提供開始",
+      "link": "https://ascii.jp/elem/000/004/443/4443532/?rss",
+      "date": "2026-10-17T10:00:00+09:00",
+      "dateLabel": "10/17 10:00",
+      "desc": "ゴムマリの業務AIエージェント、『営業リスト作成』を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
     },
     {
-      "title": "「RTX Spark」でAI動画を生成したら爆速すぎだった＝ASUS「ProArt P14」実機レビュー＝3D性能はRTX5060レベル",
-      "link": "https://ascii.jp/elem/000/004/443/4443110/?rss",
-      "date": "2026-10-17T00:01:00+09:00",
-      "dateLabel": "10/17 00:01",
-      "desc": "「NVIDIA RTX Spark」を搭載するノートPC「ProArt P14」で速度を計り、ローカルAIでムービーを生成してみました。",
-      "img": "https://ascii.jp/img/2026/10/16/4539240/s/60c2231083f5f64a.jpg",
+      "title": "「AIに、毎回いちから説明しなくていい。」いつものChatGPT・Claudeを、仕事の経緯を覚えている秘書にする「XiNAPSE-Agent」β版の提供を開始",
+      "link": "https://ascii.jp/elem/000/004/443/4443536/?rss",
+      "date": "2026-10-17T09:30:00+09:00",
+      "dateLabel": "10/17 09:30",
+      "desc": "「AIに、毎回いちから説明しなくていい。」いつものChatGPT・Claudeを、仕事の経緯を覚えている秘書にする「XiNAPSE-Agent」β版の提供を開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "半導体/GPU",
+      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -96,25 +96,14 @@
       "score": 42
     },
     {
-      "title": "NVIDIAが画像・動画・文章をまとめて理解するオープンウェイトAI「Nemotron 3.5 Super VL」を公開、処理コストを40分の1に削減する事例も",
-      "link": "https://gigazine.net/news/20261016-nemotron-3-5-super-vl/",
-      "date": "2026-10-16T13:10:00+09:00",
-      "dateLabel": "10/16 13:10",
-      "desc": "NVIDIAが2026年10月15日に文章や画像、動画をまとめて理解できるオープンウェイトAIモデル「NVIDIA Nemotron 3.5 Super VL」を公開しました。複数の情報を組み合わせて作業を進めるAIエージェント向けのモデルで、同規模のオープンモデルと比較して最大5倍の処理能力を発揮するとのこと。企業の業務に合わせて調整したモデルではAIの処",
+      "title": "NVIDIAがAIエージェントによるタスクをローカルで実行するための「Nemotron 3.5 Bolt 74B-A9B 24GB」を発表",
+      "link": "https://gigazine.net/news/20261016-nvidia-nemotron-3-5-bolt-74b-a9b-24gb/",
+      "date": "2026-10-16T14:40:00+09:00",
+      "dateLabel": "10/16 14:40",
+      "desc": "現地時間の2026年10月15日、NVIDIAが日常的なAIエージェントのタスクをローカルで実行するために設計された「Nemotron 3.5 Bolt 74B-A9B 24GB」を公開しました。MoEを採用し、MambaとTransformerという2つのモデル構造を組み合わせたAIモデルとなっており、ローカルで実行しながら他のアプリケーションを同時に動作",
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "Microsoft、社内エンジニア数万人を対象に「Claude Code」「Copilot CLI」導入の影響を分析 生産性どう変わる",
-      "link": "https://www.itmedia.co.jp/news/article/2610/16/2000002277/",
-      "date": "2026-10-16T12:00:00+09:00",
-      "dateLabel": "10/16 12:00",
-      "desc": "米Microsoftに所属する研究者らが発表した論文「Adoption and Impact of Command-Line AI Coding Agents: A Study of Microsoft’s Early 2026 Rollout of Claude Code and GitHub Copilot CLI」は、社内の数万人のソフトウェアエンジニ",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -129,6 +118,17 @@
       "score": 36
     },
     {
+      "title": "【教育】【大学・研究機関】【ロボットアーム】最新のAI環境にそのまま接続できる、高性能6軸グリッパーのロボットアーム、Seeed Studio『reBot Arm B601-RS』のご紹介をします。",
+      "link": "https://ascii.jp/elem/000/004/443/4443528/?rss",
+      "date": "2026-10-17T08:50:00+09:00",
+      "dateLabel": "10/17 08:50",
+      "desc": "【教育】【大学・研究機関】【ロボットアーム】最新のAI環境にそのまま接続できる、高性能6軸グリッパーのロボットアーム、Seeed Studio『reBot Arm B601-RS』のご紹介をします。",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 34
+    },
+    {
       "title": "Perplexityが安全な自律型AIエージェント構築支援のためサンドボックスプラットフォーム「SPACE」をオープンソース化",
       "link": "https://gigazine.net/news/20261016-perplexity-space/",
       "date": "2026-10-16T21:30:00+09:00",
@@ -136,17 +136,6 @@
       "desc": "パーソナルエージェント分野の先駆者を標榜するPerplexityが、開発者がより安全なエージェントシステムを構築するための基盤を提供し、業界全体で保護体制を強化していくため、サンドボックスプラットフォーム「SPACE」をオープンソース化すると発表しました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "シフト作成をAIで自動化する「AIシフト機能」を介護事業者向けAIメンターMentCareに搭載",
-      "link": "https://ascii.jp/elem/000/004/443/4443514/?rss",
-      "date": "2026-10-16T19:00:06+09:00",
-      "dateLabel": "10/16 19:00",
-      "desc": "シフト作成をAIで自動化する「AIシフト機能」を介護事業者向けAIメンターMentCareに搭載",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
       "score": 34
     },
@@ -162,25 +151,25 @@
       "score": 34
     },
     {
-      "title": "画像生成・編集AI「Krea 3」のベータ版がリリースされる、GPT-Image-2より10倍高速で価格は3分の1",
-      "link": "https://gigazine.net/news/20261016-krea-3-beta/",
-      "date": "2026-10-16T12:20:00+09:00",
-      "dateLabel": "10/16 12:20",
-      "desc": "画像生成AIサービス「Krea 3」のベータ版がリリースされました。画像生成と画像編集を高精度にこなすことが可能で、OpenAIのGPT-Image-2やGoogleのNano Banana 2と比べて高速かつ安価な処理が可能とされています。 続きを読む...",
+      "title": "NVIDIAが画像・動画・文章をまとめて理解するオープンウェイトAI「Nemotron 3.5 Super VL」を公開、処理コストを40分の1に削減する事例も",
+      "link": "https://gigazine.net/news/20261016-nemotron-3-5-super-vl/",
+      "date": "2026-10-16T13:10:00+09:00",
+      "dateLabel": "10/16 13:10",
+      "desc": "NVIDIAが2026年10月15日に文章や画像、動画をまとめて理解できるオープンウェイトAIモデル「NVIDIA Nemotron 3.5 Super VL」を公開しました。複数の情報を組み合わせて作業を進めるAIエージェント向けのモデルで、同規模のオープンモデルと比較して最大5倍の処理能力を発揮するとのこと。企業の業務に合わせて調整したモデルではAIの処",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "LLM/モデル",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
-      "title": "画像生成・編集モデル「FLUX 3 Image Klein」が登場、5.6BのオープンモデルでゲーミングPCでローカル動作し日本語テキストの描画や位置指定にも対応",
-      "link": "https://gigazine.net/news/20261016-flux-3-image-klein/",
-      "date": "2026-10-16T12:11:00+09:00",
-      "dateLabel": "10/16 12:11",
-      "desc": "Black Forest Labsが画像生成AI「FLUX 3 Image Klein」を現地時間の2026年10月15日にオープンモデルとして公開しました。オープンモデルの中では最高峰の性能を備えつつ、ゲーミングPCで実用的な速度で実行できる軽量さも両立しています。 続きを読む...",
+      "title": "Microsoft、社内エンジニア数万人を対象に「Claude Code」「Copilot CLI」導入の影響を分析 生産性どう変わる",
+      "link": "https://www.itmedia.co.jp/news/article/2610/16/2000002277/",
+      "date": "2026-10-16T12:00:00+09:00",
+      "dateLabel": "10/16 12:00",
+      "desc": "米Microsoftに所属する研究者らが発表した論文「Adoption and Impact of Command-Line AI Coding Agents: A Study of Microsoft’s Early 2026 Rollout of Claude Code and GitHub Copilot CLI」は、社内の数万人のソフトウェアエンジニ",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "生成AI/マルチモーダル",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -217,12 +206,23 @@
       "score": 28
     },
     {
-      "title": "iPhone Airが21％オフの14万9800円！ 6.5型なのにわずか165g【プライム感謝祭セール】",
-      "link": "https://ascii.jp/elem/000/004/443/4443028/?rss",
-      "date": "2026-10-16T22:10:00+09:00",
-      "dateLabel": "10/16 22:10",
-      "desc": "Appleの「iPhone Air（256GB）」がAmazonのプライム感謝祭セール対象。プライム会員限定で、参考価格189,800円から21％オフの149,800円で販売中。6.5型の大画面を搭載しながら、厚さ5.64mm、重さ165gを実現。超薄型・超軽量でありながら、A19 Proのパワーも備えた一台だ。",
-      "img": "https://ascii.jp/img/2026/10/15/4539124/s/634b168b961b952c.jpg",
+      "title": "【3日間限定・無料】AIを使いこなす農家は、失敗の連続。酪農・稲作など5つの現場のAI活用実例集",
+      "link": "https://ascii.jp/elem/000/004/443/4443527/?rss",
+      "date": "2026-10-17T08:40:00+09:00",
+      "dateLabel": "10/17 08:40",
+      "desc": "【3日間限定・無料】AIを使いこなす農家は、失敗の連続。酪農・稲作など5つの現場のAI活用実例集",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "【10月16日Amazonプライム感謝祭正式開催】1万円前台 コスパ抜群 RebotAiの11インチタブレット「B11AIR」が36%OFFに！",
+      "link": "https://ascii.jp/elem/000/004/443/4443529/?rss",
+      "date": "2026-10-17T08:30:00+09:00",
+      "dateLabel": "10/17 08:30",
+      "desc": "【10月16日Amazonプライム感謝祭正式開催】1万円前台 コスパ抜群 RebotAiの11インチタブレット「B11AIR」が36%OFFに！",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
@@ -239,47 +239,47 @@
       "score": 26
     },
     {
-      "title": "株式会社ETOILE、AI活用と人材支援を通じて、人手不足時代の新たな企業支援モデルを展開開始",
-      "link": "https://ascii.jp/elem/000/004/443/4443518/?rss",
-      "date": "2026-10-16T19:36:07+09:00",
-      "dateLabel": "10/16 19:36",
-      "desc": "株式会社ETOILE、AI活用と人材支援を通じて、人手不足時代の新たな企業支援モデルを展開開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "不正アクセス多発、Gartnerが日本企業に「7つのアクション」を緊急提言",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/16/news048.html",
-      "date": "2026-10-16T14:20:00+09:00",
-      "dateLabel": "10/16 14:20",
-      "desc": "不正アクセスが相次ぐ中、日本企業が講じるべき対策とは。人間が数日から数週間かけていた攻撃の作業が、AIやエージェントの悪用によって、条件によっては数分に短縮される可能性がある中で、Gartnerが早急な実施を推奨する「7つのアクション」を紹介する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "Microsoftが2.8兆パラメータの基盤モデル「MAI-Base-2」の事前学習完了を発表",
-      "link": "https://gigazine.net/news/20261016-microsoft-mai-base-2/",
-      "date": "2026-10-16T13:59:00+09:00",
-      "dateLabel": "10/16 13:59",
-      "desc": "総パラメータ数が2.8兆になるAIモデル「MAI-Base-2」の事前学習が完了したと、Microsoftが発表しました。 続きを読む...",
+      "title": "画像生成・編集AI「Krea 3」のベータ版がリリースされる、GPT-Image-2より10倍高速で価格は3分の1",
+      "link": "https://gigazine.net/news/20261016-krea-3-beta/",
+      "date": "2026-10-16T12:20:00+09:00",
+      "dateLabel": "10/16 12:20",
+      "desc": "画像生成AIサービス「Krea 3」のベータ版がリリースされました。画像生成と画像編集を高精度にこなすことが可能で、OpenAIのGPT-Image-2やGoogleのNano Banana 2と比べて高速かつ安価な処理が可能とされています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 26
     },
     {
-      "title": "Windows 11に「ゲーム起動高速化」「検索機能の刷新」「スマホと接続してアプリ実行」「フォトアプリの刷新」などの機能が追加される予定",
-      "link": "https://gigazine.net/news/20261016-windows-fast-experience/",
-      "date": "2026-10-16T13:02:00+09:00",
-      "dateLabel": "10/16 13:02",
-      "desc": "MicrosoftはWindows 11の処理効率化に取り組んでおり、これまでのアップデートで「メモリ容量8GB以下のPCを対象にしたメモリ効率化」「Bluetooth接続の安定性向上」「AirPodsのペアリングを最大15秒短縮」といった機能改善に成功したとのこと。新たに、今後のユーザーエクスペリエンス向上のために開発されている機能の詳細が公開されました。",
+      "title": "画像生成・編集モデル「FLUX 3 Image Klein」が登場、5.6BのオープンモデルでゲーミングPCでローカル動作し日本語テキストの描画や位置指定にも対応",
+      "link": "https://gigazine.net/news/20261016-flux-3-image-klein/",
+      "date": "2026-10-16T12:11:00+09:00",
+      "dateLabel": "10/16 12:11",
+      "desc": "Black Forest Labsが画像生成AI「FLUX 3 Image Klein」を現地時間の2026年10月15日にオープンモデルとして公開しました。オープンモデルの中では最高峰の性能を備えつつ、ゲーミングPCで実用的な速度で実行できる軽量さも両立しています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AI全般",
+      "cat": "生成AI/マルチモーダル",
+      "score": 26
+    },
+    {
+      "title": "AIエージェントに「何を指示するか」より「何をさせないか」――NVIDIAが示す設計の原則",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/16/news032.html",
+      "date": "2026-10-16T11:00:00+09:00",
+      "dateLabel": "10/16 11:00",
+      "desc": "AIエージェントが社内システムやデータを自律的に操作するようになるとき、どのようなセキュリティ対策が必要なのか。NVIDIAは、AIへの指示だけに頼らず、実行環境でのアクセス制御や権限管理、継続的な検証を組み合わせることの重要性を指摘する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "TSMCが純利益68.7％増で最高益更新 魏会長「需要は極めて堅調」",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/16/news052.html",
+      "date": "2026-10-16T10:30:00+09:00",
+      "dateLabel": "10/16 10:30",
+      "desc": "【台北＝西見由章】半導体受託生産の世界最大手、台湾積体電路製造（TSMC）が15日発表した2026年7～9月期決算は、売上高が前年同期比50.9％増の1兆4942億台湾元（約7兆2900億円）、純利益は68.7％増の7630億台湾元だった。いずれも四半期として過去最高を更新した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
       "score": 26
     }
   ]
