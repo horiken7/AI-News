@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-18T08:37:28.358665+09:00",
-  "generatedLabel": "2026/10/18 08:37",
+  "generatedAt": "2026-10-18T11:05:01.599697+09:00",
+  "generatedLabel": "2026/10/18 11:05",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 47,
+  "candidates": 49,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 2
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "AIを\"ハッキング\"してわかった不都合な真実 東証上場企業3,899社の9割が、Gemini・Claude・ChatGPTの\"おすすめ\"に一度も出てこない",
+      "link": "https://ascii.jp/elem/000/004/443/4443566/?rss",
+      "date": "2026-10-17T18:50:02+09:00",
+      "dateLabel": "10/17 18:50",
+      "desc": "AIを\"ハッキング\"してわかった不都合な真実 東証上場企業3,899社の9割が、Gemini・Claude・ChatGPTの\"おすすめ\"に一度も出てこない",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
       "title": "すべてのAIコーディングエージェントのコストを閲覧・検索・追跡しローカルで動作する「AgentsView」、Claude Code・Codex・Cursor・Copilot・Geminiなど60種類以上のエージェントを自動検出し全文検索も可能",
       "link": "https://gigazine.net/news/20261017-agentsview/",
       "date": "2026-10-17T18:00:00+09:00",
@@ -83,6 +94,17 @@
       "src": "AINOW",
       "cat": "AIエージェント/業務",
       "score": 36
+    },
+    {
+      "title": "AIと共に働く力を何に向けるのか 背景・目的・考え方を共に捉える図解資料を公開",
+      "link": "https://ascii.jp/elem/000/004/443/4443568/?rss",
+      "date": "2026-10-18T10:30:16+09:00",
+      "dateLabel": "10/18 10:30",
+      "desc": "AIと共に働く力を何に向けるのか 背景・目的・考え方を共に捉える図解資料を公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "AIエージェントの危険な操作を別のAIが検出してブロックする「Armor」をOpenRouterがリリース",
@@ -140,6 +162,17 @@
       "score": 28
     },
     {
+      "title": "AIが答えを出す時代に、あなたは何を生み出す？ 農業を舞台に挑戦する学生インターン募集",
+      "link": "https://ascii.jp/elem/000/004/443/4443561/?rss",
+      "date": "2026-10-18T08:20:00+09:00",
+      "dateLabel": "10/18 08:20",
+      "desc": "AIが答えを出す時代に、あなたは何を生み出す？ 農業を舞台に挑戦する学生インターン募集",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "「11回止めたのに本番DBが消えた」 AIエージェント“6つの暴走”と、人間の承認を増やしても防げない理由",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/18/news004.html",
       "date": "2026-10-18T08:00:00+09:00",
@@ -181,17 +214,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
-      "title": "【Amazonプライム感謝祭】発売間もない13.4インチAndroid16タブレット「RebotAi AF13AIR」が22,999円に！新品特価からさらに2,000円下る、4日間限定の36％OFF",
-      "link": "https://ascii.jp/elem/000/004/443/4443554/?rss",
-      "date": "2026-10-17T12:30:00+09:00",
-      "dateLabel": "10/17 12:30",
-      "desc": "【Amazonプライム感謝祭】発売間もない13.4インチAndroid16タブレット「RebotAi AF13AIR」が22,999円に！新品特価からさらに2,000円下る、4日間限定の36％OFF",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 26
     },
     {
@@ -258,28 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "AnthropicのBun、TypeScript 7よりも3倍以上高速なTypeScript型チェッカーを搭載。Bunの新バージョン1.4.3で",
-      "link": "https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html",
-      "date": "2026-10-16T00:21:12+09:00",
-      "dateLabel": "10/16 00:21",
-      "desc": "Anthropicが開発しているJavaScriptランタイム「Bun」は、10月10日付けで新バージョン「Bun v1.4.3」がリリースされました。 Bun v1.4.3の最大の特徴として示されたのが、Go言語で実装されたTypeScr...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "国内WebサイトへのAIエージェント攻撃を観測 「8時間弱」続いた攻撃の推移を公開 国内セキュリティベンダー",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/15/2000002284/",
-      "date": "2026-10-15T14:39:29+09:00",
-      "dateLabel": "10/15 14:39",
-      "desc": "ビットフォレストが、日本企業のWebサイトへのAIエージェントによる攻撃を観測したと報告。10月14日までに3つのIPアドレスから確認し、うち1つは8時間弱にわたり10段階に攻撃を変化させたという。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
