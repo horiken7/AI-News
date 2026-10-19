@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-19T14:28:44.726776+09:00",
-  "generatedLabel": "2026/10/19 14:28",
+  "generatedAt": "2026-10-19T20:32:17.344398+09:00",
+  "generatedLabel": "2026/10/19 20:32",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 53,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 9
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,12 +28,12 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 7
+      "items": 12
     },
     {
       "source": "CNET Japan",
       "ok": false,
-      "error": "timed out"
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "source": "ZDNET Japan",
@@ -63,17 +63,6 @@
   ],
   "articles": [
     {
-      "title": "アドビとNVIDIAが提携を拡大し、エージェント型コンテンツ制作の高速化を実現",
-      "link": "https://ascii.jp/elem/000/004/443/4443781/?rss",
-      "date": "2026-10-19T13:00:00+09:00",
-      "dateLabel": "10/19 13:00",
-      "desc": "アドビとNVIDIAが提携を拡大し、エージェント型コンテンツ制作の高速化を実現",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
       "title": "中国DeepSeek、V4.1-Flash新バージョンを公開 一部Astra超えをうたうモデルがオープンに",
       "link": "https://www.itmedia.co.jp/aiplus/article/2610/19/2000002357/",
       "date": "2026-10-19T09:35:40+09:00",
@@ -96,6 +85,17 @@
       "score": 50
     },
     {
+      "title": "Claudeが25年以上謎だった暗号規格の数値の起源を解明、NSAが説明なく提供した数値は「1990年代の乱数」だった",
+      "link": "https://gigazine.net/news/20261019-ecdsa-seed-origin/",
+      "date": "2026-10-19T19:00:00+09:00",
+      "dateLabel": "10/19 19:00",
+      "desc": "AI開発企業のAnthropicは2026年10月16日、AIモデル「Claude」が広く使われている楕円曲線暗号規格「ECDSA」に関する長年の謎を解明したと発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "AIプログラミングツール「OpenCode」でAPIキー流出の可能性、OpenAIやClaudeの利用残高が不正利用でゼロになったとの報告も",
       "link": "https://gigazine.net/news/20261019-opencode-leak/",
       "date": "2026-10-19T14:03:00+09:00",
@@ -104,17 +104,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "フィジカルAI・AIエージェント・次世代電池など次世代トレンド12領域における新規事業案とは―「イノベーション事業機会マップ2026」を無料公開｜株式会社イノベーション総合研究所",
-      "link": "https://ascii.jp/elem/000/004/443/4443772/?rss",
-      "date": "2026-10-19T13:00:00+09:00",
-      "dateLabel": "10/19 13:00",
-      "desc": "フィジカルAI・AIエージェント・次世代電池など次世代トレンド12領域における新規事業案とは―「イノベーション事業機会マップ2026」を無料公開｜株式会社イノベーション総合研究所",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -129,14 +118,69 @@
       "score": 36
     },
     {
-      "title": "ウイングアーク１ｓｔ、導入企業4社のキーパーソンが自らの言葉で語る新ブランド広告を展開 AI時代のデータ活用を“経営判断”の視点で発信、10月19日より都内交通広告・動画で順次公開",
-      "link": "https://ascii.jp/elem/000/004/443/4443777/?rss",
-      "date": "2026-10-19T13:30:00+09:00",
-      "dateLabel": "10/19 13:30",
-      "desc": "ウイングアーク１ｓｔ、導入企業4社のキーパーソンが自らの言葉で語る新ブランド広告を展開 AI時代のデータ活用を“経営判断”の視点で発信、10月19日より都内交通広告・動画で順次公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
+      "title": "AIのベンチマークテストは人間の仕事の1割しかカバーできていない",
+      "link": "https://gigazine.net/news/20261019-ai-benchmark-mapping/",
+      "date": "2026-10-19T20:00:00+09:00",
+      "dateLabel": "10/19 20:00",
+      "desc": "AIの性能を測定するベンチマークテストの中には「人間の仕事をどれだけの精度でこなせるか」を測定するものが多く含まれています。ところが、こうしたベンチマークは「一部のタスク」しかカバーしておらず、AIが労働を代行できるという結果が出たとしても、それは労働全体のうちほんのわずかであることを意味する可能性があるという分析結果が公表されました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "本日23時59分で終了！ Amazonプライム感謝祭「駆け込みで買っておけ」ガジェット5選",
+      "link": "https://ascii.jp/elem/000/004/443/4443857/?rss",
+      "date": "2026-10-19T17:30:00+09:00",
+      "dateLabel": "10/19 17:30",
+      "desc": "本日10月19日23時59分で終了するAmazonプライム感謝祭。半額以下のEcho Show 5をはじめ、Ankerの充電器、ロジクールの高性能マウス、SwitchBotのロボット掃除機、AirPods Pro 3など、最後にチェックしたい注目ガジェット5選を紹介。",
+      "img": "https://ascii.jp/img/2026/10/19/4540502/s/f5550939d16ca946.png",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 34
+    },
+    {
+      "title": "Anthropicが株式の一部を公共利益のための子会社「Anthropic Public Benefit Fund」に拠出、拠出額はAnthropicの評価額に応じて増加予定",
+      "link": "https://gigazine.net/news/20261019-public-benefit-fund/",
+      "date": "2026-10-19T16:10:00+09:00",
+      "dateLabel": "10/19 16:10",
+      "desc": "AI企業のAnthropicは、公共の利益に完全に献身する新しい完全子会社である「Anthropic Public Benefit Fund」に株式の一部を拠出することを2026年10月19日に発表しました。当初は株式の5％からスタートし、会社の価値が高まるのに応じて拠出額が増加していく予定です。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "Microsoftがイギリス最大級のAIデータセンター計画から撤退",
+      "link": "https://gigazine.net/news/20261019-microsoft-essex-ai-data-center/",
+      "date": "2026-10-19T15:50:00+09:00",
+      "dateLabel": "10/19 15:50",
+      "desc": "イギリス・エセックス州ラフトンで開発が進められているAIデータセンターに進出予定だったMicrosoftが、GPUのリース契約を解除して計画から撤退したことがわかりました。当該データセンターは、電力供給の問題で稼働開始が遅れることになっていました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "脱獄したPlayStation 5のGPUでllama.cppを実行できる「PS5LM Plus」",
+      "link": "https://gigazine.net/news/20261019-ps5lm-plus-gpu-ai/",
+      "date": "2026-10-19T15:40:00+09:00",
+      "dateLabel": "10/19 15:40",
+      "desc": "PlayStation 5(PS5)本体でAIモデルを動かし、PCやスマートフォンからチャットで利用できるオープンソースアプリ「PS5LM Plus」がGitHubで公開されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "Anthropic社内ではAIが人間の6倍も稼働していることが判明、従業員の仕事は「AIの監督」へと変化",
+      "link": "https://gigazine.net/news/20261019-employment-at-anthropic/",
+      "date": "2026-10-19T15:00:00+09:00",
+      "dateLabel": "10/19 15:00",
+      "desc": "AI「Claude」を開発するAnthropicが社内のAI利用状況や雇用の変化を調査したところ、AIの稼働時間が人間の労働時間の6倍に達していることが明らかになりました。AIによって生産性が向上する一方で、従業員の仕事は自ら作業することから大量のAIを管理・監督することへと変化しているとのことです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -217,69 +261,25 @@
       "score": 28
     },
     {
-      "title": "【SCS評価制度】AIセキュリティ社とデジタルアーツ社がウェビナーを共催",
-      "link": "https://ascii.jp/elem/000/004/443/4443741/?rss",
-      "date": "2026-10-19T13:45:23+09:00",
-      "dateLabel": "10/19 13:45",
-      "desc": "【SCS評価制度】AIセキュリティ社とデジタルアーツ社がウェビナーを共催",
+      "title": "8万円以上引きは今日まで！ 開けば8.1型の大画面、モトローラの折りたたみスマホ「razr fold」が21万8036円",
+      "link": "https://ascii.jp/elem/000/004/443/4443593/?rss",
+      "date": "2026-10-19T19:50:00+09:00",
+      "dateLabel": "10/19 19:50",
+      "desc": "モトローラの折りたたみスマホ「razr fold」がAmazonでタイムセール対象。参考価格299,800円から27％オフの218,036円で販売中。開くと8.1型の大画面になる横開きモデルで、Snapdragon 8 Gen 5、12GBメモリ、6000mAhバッテリーを搭載。約5000万画素のトリプルカメラも備える。セールは本日まで。",
+      "img": "https://ascii.jp/img/2026/10/19/4540237/s/55f4e19a65777035.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "QommonsAI活用研修を兵庫県豊岡市（ひょうごけん とよおかし）で実施 - 条例案作成の現場で考える、生成AIの使い分け",
+      "link": "https://ascii.jp/elem/000/004/443/4443896/?rss",
+      "date": "2026-10-19T18:10:00+09:00",
+      "dateLabel": "10/19 18:10",
+      "desc": "QommonsAI活用研修を兵庫県豊岡市（ひょうごけん とよおかし）で実施 - 条例案作成の現場で考える、生成AIの使い分け",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "「履歴書づくりに、もう悩まない。」yagish履歴書アプリがAI搭載で生まれ変わる",
-      "link": "https://ascii.jp/elem/000/004/443/4443743/?rss",
-      "date": "2026-10-19T13:36:47+09:00",
-      "dateLabel": "10/19 13:36",
-      "desc": "「履歴書づくりに、もう悩まない。」yagish履歴書アプリがAI搭載で生まれ変わる",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "株式会社Nexis、Mac miniに24時間常駐するAIスタッフを構築する「AIスタッフ導入支援」の提供を開始",
-      "link": "https://ascii.jp/elem/000/004/443/4443745/?rss",
-      "date": "2026-10-19T13:30:00+09:00",
-      "dateLabel": "10/19 13:30",
-      "desc": "株式会社Nexis、Mac miniに24時間常駐するAIスタッフを構築する「AIスタッフ導入支援」の提供を開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "VAIOの約1kgモバイルノート「S13」が18万1200円から！ 最大3万5000円引きの秋セール開催中",
-      "link": "https://ascii.jp/elem/000/004/443/4443416/?rss",
-      "date": "2026-10-19T13:30:00+09:00",
-      "dateLabel": "10/19 13:30",
-      "desc": "VAIOストアでは、11月17日(火)9時59分まで「オータムキャンペーン2026」を開催している。対象はVAIO SX12、SX14、S13、F14、F16の5シリーズで、本体価格から最大35,000円引き。さらにCore 7の選択で10,000円、Core 5なら5,000円が追加で値引きされる。新規会員登録でもらえる最大25,000円値引きクーポンとの",
-      "img": "https://ascii.jp/img/2026/10/02/4533123/s/4d3782032d5a003f.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "AIエージェントの業務管理、答えは「プロジェクト管理」にある？ NTTテクノクロスの「AI-PMO」構想を基に考察",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/19/news068.html",
-      "date": "2026-10-19T13:25:00+09:00",
-      "dateLabel": "10/19 13:25",
-      "desc": "人間とAIエージェントが協働してどのように成果を上げ、目標を達成するか。そのマネジメントはプロジェクト管理の手法で担えないか――。NTTテクノクロスの取り組みから発想したことについて考察する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "AI時代に求められる「問い」を立てる力を教育現場でどう育てるか。宮田裕章の新著『AI時代の「問い」を立てる力』でCoIUが目指す、次世代の学びを紹介",
-      "link": "https://ascii.jp/elem/000/004/443/4443770/?rss",
-      "date": "2026-10-19T13:00:00+09:00",
-      "dateLabel": "10/19 13:00",
-      "desc": "AI時代に求められる「問い」を立てる力を教育現場でどう育てるか。宮田裕章の新著『AI時代の「問い」を立てる力』でCoIUが目指す、次世代の学びを紹介",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "cat": "生成AI/マルチモーダル",
       "score": 26
     }
   ]
