@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-19T07:02:33.292995+09:00",
-  "generatedLabel": "2026/10/19 07:02",
+  "generatedAt": "2026-10-19T09:35:53.829707+09:00",
+  "generatedLabel": "2026/10/19 09:35",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 47,
+  "candidates": 49,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -63,6 +63,39 @@
   ],
   "articles": [
     {
+      "title": "Anthropic、社内でAIエージェントの稼働時間が人間の6倍に 技術系初級職の採用比率は27％→9％に激減",
+      "link": "https://www.itmedia.co.jp/news/article/2610/19/2000002353/",
+      "date": "2026-10-19T08:02:13+09:00",
+      "dateLabel": "10/19 08:02",
+      "desc": "Anthropicは、社内雇用の変化と一般市民とのAI予測格差に関する調査を公開した。AnthropicではAI稼働時間が人間を上回り、技術系初級職の採用比率が急減した。自身の業務の自動化予測は、Anthropic従業員の75％に対し、米労働者は28％と大きな開きが出たが、自動化と失業率上昇を結びつける労働観は共通していた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
+      "title": "GPT-4o級モデルが自宅のPCで動いた！ ローカルAIの常識を変える「Strata」",
+      "link": "https://ascii.jp/elem/000/004/443/4443584/?rss",
+      "date": "2026-10-19T07:30:00+09:00",
+      "dateLabel": "10/19 07:30",
+      "desc": "ローカルLLMの推論エンジン「Strata」を実機で検証。GPU・RAM・SSDを活用して巨大モデルを動かし、検索や画像生成へ拡張できる一方、社内運用ではRAM容量と複数人利用時の待ち時間が課題となった。",
+      "img": "https://ascii.jp/img/2026/10/19/4540209/s/fe64dc2fecf516dc.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 50
+    },
+    {
+      "title": "日本企業の「AI業務実装の壁」を打ち破る ― RPAのパイオニアが「AI×RPA×人」の統合基盤を国内展開",
+      "link": "https://ascii.jp/elem/000/004/443/4443113/?rss",
+      "date": "2026-10-19T07:30:00+09:00",
+      "dateLabel": "10/19 07:30",
+      "desc": "SS&C Blue Prismは、2026年10月7日、業務自動化プラットフォーム「WorkHQ」の日本語版を提供開始した。これは、AIエージェントやRPA、人を適材適所でつなぎ、部分最適な自動化を全体最適へと発展させるための基盤である。",
+      "img": "https://ascii.jp/img/2026/10/16/4539306/s/cbdfa1bff3b69bde.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
       "title": "自然言語で業務手順をコード化、チーム運用と制御を備えたAIエージェント実行基盤",
       "link": "https://ascii.jp/elem/000/004/443/4443388/?rss",
       "date": "2026-10-19T07:00:00+09:00",
@@ -96,34 +129,23 @@
       "score": 36
     },
     {
+      "title": "人件費高騰・SVの負荷増の悩みを打破する！ Zoomが拓く次世代のコンタクトセンターBPO",
+      "link": "https://ascii.jp/elem/000/004/439/4439906/?rss",
+      "date": "2026-10-19T09:00:00+09:00",
+      "dateLabel": "10/19 09:00",
+      "desc": "オペレーターの人材確保の難しさ、人件費の高騰、スーパーバイザー（SV）の業務負荷増加など、コンタクトセンターBPO事業者を取り巻くビジネス環境は厳しい。AIによる自動化／省力化を進める“次世代コンタクトセンター”への転換も必要だ。こうした諸課題を解決するZoomソリューションを導入した4社の「課題解決ケーススタディ」をご紹介しよう。",
+      "img": "https://ascii.jp/img/2026/10/05/4534137/s/f74fb9dd9ada2bf3.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
       "title": "東京ゲームショウ2026でお披露目された、水冷式GeForce RTX 5070を搭載するゲーミングパソコンを展示中！：マウスコンピューター G-Tune : Garage 大阪店",
       "link": "https://ascii.jp/elem/000/004/443/4443253/?rss",
       "date": "2026-10-18T16:00:00+09:00",
       "dateLabel": "10/18 16:00",
       "desc": "大阪・日本橋のPCショップ「マウスコンピューター G-Tune : Garage 大阪店」を取材しました。店長の尼田龍さんがオススメするのは、ゲーミングパソコン「NEXTGEAR JG-A7G7L/EX」です。東京ゲームショウ2026で発表のあった「水冷式GeForce RTX 5070」を搭載するパソコンとなります。",
       "img": "https://ascii.jp/img/2026/10/16/4539401/s/642f7b31d071b069.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "世界最大級1日5000体のAIスウォームをマルチベンダーで動員。国産AI「Fuga 5000」開発者向けリリース",
-      "link": "https://ascii.jp/elem/000/004/443/4443570/?rss",
-      "date": "2026-10-18T10:56:11+09:00",
-      "dateLabel": "10/18 10:56",
-      "desc": "世界最大級1日5000体のAIスウォームをマルチベンダーで動員。国産AI「Fuga 5000」開発者向けリリース",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "背景と目的を確かめる力を仕事で育てる 指示された仕事からAIとの共働を広げる実践資料を公開",
-      "link": "https://ascii.jp/elem/000/004/443/4443574/?rss",
-      "date": "2026-10-18T10:47:32+09:00",
-      "dateLabel": "10/18 10:47",
-      "desc": "背景と目的を確かめる力を仕事で育てる 指示された仕事からAIとの共働を広げる実践資料を公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
@@ -173,6 +195,39 @@
       "score": 28
     },
     {
+      "title": "Newオンプレミス、RAG、SREはもう“幻滅期” 2026年、「過度な期待」のピークにある5項目とは？",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/19/news029.html",
+      "date": "2026-10-19T08:00:00+09:00",
+      "dateLabel": "10/19 08:00",
+      "desc": "ガートナーが、2026年の日本におけるクラウドとAIのハイプサイクルを発表。Newオンプレミス、RAG、SREが“幻滅期”に入る一方で、“過度な期待”のピークに立つ5項目が示された。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "Webサイトのデータベースを狙う攻撃が顕著に増加／情シス担当の半数が転職意向、背後にある変化／AI業務活用、実態は“AIオペレーター”？、ほか",
+      "link": "https://ascii.jp/elem/000/004/443/4443530/?rss",
+      "date": "2026-10-19T08:00:00+09:00",
+      "dateLabel": "10/19 08:00",
+      "desc": "今回（2026年10月10日～10月16日）は、ランサムウェア攻撃や国家支援型APT攻撃の最新動向、Webサイトに対する攻撃の急増やそこに見られる変化、情報システム担当者の転職意向とその背景、企画／マーケティング職のAI活用実態と得られた／得られなかったものについてのデータを紹介します。",
+      "img": "https://ascii.jp/img/2026/10/17/4539980/s/7361ebd65caa7e59.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "「言い訳文化」から脱却のNECが足立区に伝授した生成AI活用術とは データ活用“逆算”の鉄則",
+      "link": "https://kn.itmedia.co.jp/kn/article/2610/19/2000002342/",
+      "date": "2026-10-19T07:00:00+09:00",
+      "dateLabel": "10/19 07:00",
+      "desc": "生成AIを実業務に定着させるには、明確な目的設定とデータの整備・統合が不可欠だ。NECと東京都足立区の事例を通じて、AIエージェントによるデータ分析・施策立案の実践と、統合的なAI基盤を活用した持続的な業務変革の要点を解説する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
       "title": "プロダクトではなく、市場の「課題」を愛せよ Hello Tomorrow CEO アルノー氏が語るディープテック社会実装への鍵",
       "link": "https://ascii.jp/elem/000/004/439/4439877/?rss",
       "date": "2026-10-19T06:00:00+09:00",
@@ -206,17 +261,6 @@
       "score": 26
     },
     {
-      "title": "「11回止めたのに本番DBが消えた」 AIエージェント“6つの暴走”と、人間の承認を増やしても防げない理由",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/18/news004.html",
-      "date": "2026-10-18T08:00:00+09:00",
-      "dateLabel": "10/18 08:00",
-      "desc": "AIコーディングエージェントの自律性が高まる一方、本番データベースの削除といった事故も起こっています。では、「人間の承認」を増やせば事故は防げるのでしょうか。事例と対策から、事故を起こさないAIエージェントの設計について考えます。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
       "title": "AIエージェントに「何を指示するか」より「何をさせないか」――NVIDIAが示す設計の原則",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/16/news032.html",
       "date": "2026-10-16T11:00:00+09:00",
@@ -237,50 +281,6 @@
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
       "score": 26
-    },
-    {
-      "title": "「Claude Haiku 5.5」は本当にコスパがいいのか？ 3つの日本語タスクで検証してみた",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/16/2000002313/",
-      "date": "2026-10-16T10:14:18+09:00",
-      "dateLabel": "10/16 10:14",
-      "desc": "Anthropicの最軽量モデル「Claude Haiku 5.5」を、3つの日本語タスクで「Sonnet 5.5」「GPT-6 Luna」と比較検証。定型文書では上位モデルに迫る一方、自らの立場を把握した上での返答が必要な課題では回答が揺れた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "Anthropic、METRの評価チームを社内に常駐させ“従業員並み”のアクセス付与 公表に拒否権なし",
-      "link": "https://www.itmedia.co.jp/news/article/2610/16/2000002315/",
-      "date": "2026-10-16T09:49:28+09:00",
-      "dateLabel": "10/16 09:49",
-      "desc": "Anthropicは、AI評価団体METRに従業員並みのアクセス権を与える常駐評価を開始した。端末やオフィスを提供して社内システムへのアクセスを認め、リスクや障害の独自公表を許可する。公表拒否はできず、伏せ字要請のみ可能。OpenAIも同様の外部評価機関受け入れを準備している。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "さくらインターネット、GPU専有によりトークン消費量を気にせず定額で利用できる「さくらのAI Engineプライベートエディション」提供開始を発表",
-      "link": "https://www.publickey1.jp/blog/26/gpuai_engine.html",
-      "date": "2026-10-09T00:49:01+09:00",
-      "dateLabel": "10/09 00:49",
-      "desc": "さくらインターネットは、GPUサーバ上で基盤モデルを展開しマネージドサービスとして提供する「さくらのAI Engine」を、企業がGPUを専有して使える「さくらのAI Engine プライベートエディション」の提供開始を発表しました。 お知...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "半導体/GPU",
-      "score": 24
-    },
-    {
-      "title": "Supabase、1サーバあたり数百万ものSQLiteをホストする「Turso」買収を発表。AIエージェントで加速するDB需要に対応",
-      "link": "https://www.publickey1.jp/blog/26/supabase1sqlitetursoaidb.html",
-      "date": "2026-10-05T00:56:27+09:00",
-      "dateLabel": "10/05 00:56",
-      "desc": "PostgreSQLをベースにしたデータベースサービス「Supabase」などを提供しているSupabaseは、SQLiteをベースとしたデータベースサービスを提供する「Turso」を買収したことを発表しました。 Turso is join...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 24
     }
   ]
 }
