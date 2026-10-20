@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-20T14:32:17.166565+09:00",
-  "generatedLabel": "2026/10/20 14:32",
+  "generatedAt": "2026-10-20T19:37:46.078544+09:00",
+  "generatedLabel": "2026/10/20 19:37",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 53,
+  "candidates": 51,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 2
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -85,6 +85,39 @@
       "score": 50
     },
     {
+      "title": "「答えるAI」から「行動するAI」へ AMDが提唱するフィジカルAI時代の新たな性能指標",
+      "link": "https://ascii.jp/elem/000/004/444/4444260/?rss",
+      "date": "2026-10-20T17:30:00+09:00",
+      "dateLabel": "10/20 17:30",
+      "desc": "AMDは、クラウド上で問答を行なうAIの時代から、現実世界で物理的に自律動作する「フィジカルAI」の時代への移行を見据え、ロボティクスにおける新しい性能の考え方を発表した。",
+      "img": "https://ascii.jp/img/2026/10/20/4541084/s/181f05c5582f63eb.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 42
+    },
+    {
+      "title": "デジタル庁、政府職員18万人にAIエージェント環境を展開──「源内」で提供開始、独自の安全基準も",
+      "link": "https://www.itmedia.co.jp/news/article/2610/20/2000002428/",
+      "date": "2026-10-20T17:14:44+09:00",
+      "dateLabel": "10/20 17:14",
+      "desc": "デジタル庁は10月20日、政府職員向けの生成AI利用環境「源内」で、職員が自らAIエージェントを作って動かせる環境を順次導入すると発表した。安全に使うためのルール「源内基準」も併せて公表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "AIにゲームをコピーされて本家より先に発売される危険を恐れて無料体験版の公開が中止される",
+      "link": "https://gigazine.net/news/20261020-ai-game-clones/",
+      "date": "2026-10-20T14:42:00+09:00",
+      "dateLabel": "10/20 14:42",
+      "desc": "AIコーディングツールによってゲームの作成プロセスが非常に高速になっていることから、新作ゲームをリリースした直後にAIによるコピーゲームが登場したり、ゲーム発売前のプレビューや体験版の段階でAIがよく似せたゲームを作成したりといった問題が増えています。実際に、この問題を懸念したゲーム開発者が、予定していた体験版のリリースを中止したことを発表しました。 続きを",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 42
+    },
+    {
       "title": "ネットバンキングにログインしたまま別作業は危険？ 「ChatGPT Atlas」などのAIブラウザ7種でデータ窃取を検証",
       "link": "https://www.itmedia.co.jp/news/article/2610/20/2000002377/",
       "date": "2026-10-20T12:00:00+09:00",
@@ -93,28 +126,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "GMO Flatt Security、Anthropic社・OpenAI社ら4社を招いたセキュリティイベント「Product Security Square #6」を12月3日に開催",
-      "link": "https://ascii.jp/elem/000/004/444/4444136/?rss",
-      "date": "2026-10-20T11:00:00+09:00",
-      "dateLabel": "10/20 11:00",
-      "desc": "GMO Flatt Security、Anthropic社・OpenAI社ら4社を招いたセキュリティイベント「Product Security Square #6」を12月3日に開催",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "Claudeが25年以上謎だった暗号規格の数値の起源を解明、NSAが説明なく提供した数値は「1990年代の乱数」だった",
-      "link": "https://gigazine.net/news/20261019-ecdsa-seed-origin/",
-      "date": "2026-10-19T19:00:00+09:00",
-      "dateLabel": "10/19 19:00",
-      "desc": "AI開発企業のAnthropicは2026年10月16日、AIモデル「Claude」が広く使われている楕円曲線暗号規格「ECDSA」に関する長年の謎を解明したと発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -140,14 +151,25 @@
       "score": 42
     },
     {
-      "title": "ソラコム、2026年度「ポーター賞」を受賞 IoTの民主化戦略が高く評価",
-      "link": "https://ascii.jp/elem/000/004/443/4443969/?rss",
-      "date": "2026-10-20T12:30:00+09:00",
-      "dateLabel": "10/20 12:30",
-      "desc": "ソラコムが2026年度「ポーター賞」を受賞。IoTの民主化を掲げた独自の事業戦略、クラウドネイティブな通信基盤、世界200以上の国と地域に広がるAI/IoT通信プラットフォームSORACOMの強みを紹介する。",
-      "img": "https://ascii.jp/img/2026/10/20/4540839/s/a4ecc3525d53b21c.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
+      "title": "Cloudflareが文章や画像から必要な情報を高速・低コストで抽出するAI「Clairic」を発表、計算や予測にも対応",
+      "link": "https://gigazine.net/news/20261020-cloudflare-clairic/",
+      "date": "2026-10-20T15:50:00+09:00",
+      "dateLabel": "10/20 15:50",
+      "desc": "Cloudflareは2026年10月19日、文章や画像から必要な情報を抽出したり数値を計算・予測したりできるAIモデル「Clairic」を発表しました。Clairicは「System One」と呼ばれるAIモデルの一種で、一般的な大規模言語モデル(LLM)よりも高速かつ低コストで情報を処理でき、特定の用途では精度も向上するとのことです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "マインクラフトをGemini 4 ArgonのAIエージェント4体が人間の助けを一切借りずに27時間14分でクリア、一体何円かかったのか？",
+      "link": "https://gigazine.net/news/20261020-gemini-4-argon-agents-beat-minecraft-without-human-help/",
+      "date": "2026-10-20T15:00:00+09:00",
+      "dateLabel": "10/20 15:00",
+      "desc": "GoogleのAIモデルである「Gemini 4 Argon」で動作する4つのAIエージェントが、人間の介入なしで初めてマインクラフトをクリアすることに成功しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -159,17 +181,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "LSI開発の“民主化”で誰でも半導体チップが作れる時代へ",
-      "link": "https://ascii.jp/elem/000/004/440/4440280/?rss",
-      "date": "2026-10-20T12:00:00+09:00",
-      "dateLabel": "10/20 12:00",
-      "desc": "東京大学大学院工学系研究科の小菅敦丈准教授は、短期間かつ低コストで誰もがLSIを開発できる「LSIの民主化」を達成することで、国内における半導体技術開発を活性化し、若手人材を育成することを目指している。",
-      "img": "https://ascii.jp/img/2026/10/06/4534805/s/c54dce3704a6332f.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -206,11 +217,11 @@
       "score": 34
     },
     {
-      "title": "Anthropicが株式の一部を公共利益のための子会社「Anthropic Public Benefit Fund」に拠出、拠出額はAnthropicの評価額に応じて増加予定",
-      "link": "https://gigazine.net/news/20261019-public-benefit-fund/",
-      "date": "2026-10-19T16:10:00+09:00",
-      "dateLabel": "10/19 16:10",
-      "desc": "AI企業のAnthropicは、公共の利益に完全に献身する新しい完全子会社である「Anthropic Public Benefit Fund」に株式の一部を拠出することを2026年10月19日に発表しました。当初は株式の5％からスタートし、会社の価値が高まるのに応じて拠出額が増加していく予定です。 続きを読む...",
+      "title": "Claudeが25年以上謎だった暗号規格の数値の起源を解明、NSAが説明なく提供した数値は「1990年代の乱数」だった",
+      "link": "https://gigazine.net/news/20261019-ecdsa-seed-origin/",
+      "date": "2026-10-19T19:00:00+09:00",
+      "dateLabel": "10/19 19:00",
+      "desc": "AI開発企業のAnthropicは2026年10月16日、AIモデル「Claude」が広く使われている楕円曲線暗号規格「ECDSA」に関する長年の謎を解明したと発表しました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
@@ -250,35 +261,24 @@
       "score": 28
     },
     {
-      "title": "OpenAIのスパイ容疑者は「サウジアラビア政府文書」というフォルダにアクセスしていた",
-      "link": "https://gigazine.net/news/20261020-openai-spy-access-saudi-gov-folder/",
-      "date": "2026-10-20T14:08:00+09:00",
-      "dateLabel": "10/20 14:08",
-      "desc": "2026年10月13日、OpenAIのオフィスに盗聴器を仕掛けた容疑でサウジアラビア国籍の従業員が逮捕されたことが公表されました。この男について多くのことが分かってきています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
+      "title": "足腰の疲れがひどいので「AI外骨格」を使ってみた。これならどこまでも歩いていけそうだ",
+      "link": "https://ascii.jp/elem/000/004/443/4443825/?rss",
+      "date": "2026-10-20T18:00:00+09:00",
+      "dateLabel": "10/20 18:00",
+      "desc": "出先で丸1日歩き回ると、疲労で足腰がガタガタになる方もいるかと思います。しかし！ 今はAIが人をサポートしてくれる時代。「Hypershell X Pro S」で、自分の行動範囲を広げましょう！",
+      "img": "https://ascii.jp/img/2026/10/19/4540462/s/8cfe9bb68bd6c4bb.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "中国語を使うハッカーがAIエージェントで日本企業などにハッキングして100件近い攻撃に成功していたことが判明",
-      "link": "https://gigazine.net/news/20261020-chinese-hacker-ai-agents-break-websites/",
-      "date": "2026-10-20T14:00:00+09:00",
-      "dateLabel": "10/20 14:00",
-      "desc": "2026年9月以降、日本企業がハッカーにより不正アクセスされる被害が相次いでおり、AIを悪用したハッキングの高速化・高度化が懸念されています。サイバーセキュリティ企業のNorForgeで主席脅威研究員を務めるスノーレ・ファーゲルランド氏が、オープンソースAIツールの「Cairn」を用いたハッキングの実態について報告しました。 続きを読む...",
+      "title": "「どの国のモデルか」は本質ではない 「中国製LLMは危険な指示を実行」発言で話題の専門家に補足してもらった",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/20/2000002430/",
+      "date": "2026-10-20T17:43:38+09:00",
+      "dateLabel": "10/20 17:43",
+      "desc": "中国製LLMは本当に危険なのか。一連の情報漏えい騒動とAIの関係について、問題の本質はどこにあるのか。取材での回答が話題になっている専門家に聞いた。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "アメリカ国土安全保障省が連邦文民機関に対しDeepSeekの技術を排除するよう命令",
-      "link": "https://gigazine.net/news/20261020-dhs-orders-to-remove-deepseek-tech/",
-      "date": "2026-10-20T13:50:00+09:00",
-      "dateLabel": "10/20 13:50",
-      "desc": "アメリカの国土安全保障省(DHS)が、連邦政府の文民機関に対して、中国のAI企業・DeepSeekの製品やサービスを調達対象から除外するよう命令を出したことがわかりました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
+      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 26
     }
