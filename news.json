@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-20T19:37:46.078544+09:00",
-  "generatedLabel": "2026/10/20 19:37",
+  "generatedAt": "2026-10-21T00:27:52.941676+09:00",
+  "generatedLabel": "2026/10/21 00:27",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 51,
+  "candidates": 48,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 2
+      "items": 0
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 7
+      "items": 8
     },
     {
       "source": "AINOW",
@@ -83,17 +83,6 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 50
-    },
-    {
-      "title": "「答えるAI」から「行動するAI」へ AMDが提唱するフィジカルAI時代の新たな性能指標",
-      "link": "https://ascii.jp/elem/000/004/444/4444260/?rss",
-      "date": "2026-10-20T17:30:00+09:00",
-      "dateLabel": "10/20 17:30",
-      "desc": "AMDは、クラウド上で問答を行なうAIの時代から、現実世界で物理的に自律動作する「フィジカルAI」の時代への移行を見据え、ロボティクスにおける新しい性能の考え方を発表した。",
-      "img": "https://ascii.jp/img/2026/10/20/4541084/s/181f05c5582f63eb.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 42
     },
     {
       "title": "デジタル庁、政府職員18万人にAIエージェント環境を展開──「源内」で提供開始、独自の安全基準も",
@@ -151,6 +140,28 @@
       "score": 42
     },
     {
+      "title": "同じ問題を解決してもAIによってコードの増加量に大きな差、AIモデルを比較するベンチマーク「Parsimony」が登場",
+      "link": "https://gigazine.net/news/20261020-parsimony/",
+      "date": "2026-10-20T23:00:00+09:00",
+      "dateLabel": "10/20 23:00",
+      "desc": "AIがプログラムを修正する際に追加したコードと削除したコードの差を測定するオープンソースのベンチマーク「Parsimony」が公開されました。従来のベンチマークで重視されてきた問題の解決率やコストに加えて、コードの増加量からAIモデルを比較できるのが特徴です。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "キャラクターのイラスト1枚からAIエージェントと分担してVRMアバターを作るためのキット「きゃらくる(Charakuru)」",
+      "link": "https://gigazine.net/news/20261020-charakuru/",
+      "date": "2026-10-20T20:00:00+09:00",
+      "dateLabel": "10/20 20:00",
+      "desc": "キャラクターのイラスト1枚を基に、AIエージェントと分担して3Dアバターを制作するキット「きゃらくる(Charakuru)」がGitHubで公開されています。ユーザーが見た目や動きを確認しながら、VRM形式のアバターを作成できます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
       "title": "Cloudflareが文章や画像から必要な情報を高速・低コストで抽出するAI「Clairic」を発表、計算や予測にも対応",
       "link": "https://gigazine.net/news/20261020-cloudflare-clairic/",
       "date": "2026-10-20T15:50:00+09:00",
@@ -195,39 +206,6 @@
       "score": 34
     },
     {
-      "title": "AIの思考を潜在空間で実行して高性能化＆高速化＆低コスト化を実現する「Hybrid Reasoning Agents」",
-      "link": "https://gigazine.net/news/20261019-hybrid-reasoning-agents/",
-      "date": "2026-10-19T22:00:00+09:00",
-      "dateLabel": "10/19 22:00",
-      "desc": "スタンフォード大学、Together AI、イリノイ大学アーバナ・シャンペーン校、Metaの研究チームが「Hybrid Reasoning Agents」というAI実行手法を発表しました。AIモデルの思考(thinking)を潜在空間で実行できるように事後学習を施し、処理トークン数を少なくして高速化と低コスト化が可能とされています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "AIのベンチマークテストは人間の仕事の1割しかカバーできていない",
-      "link": "https://gigazine.net/news/20261019-ai-benchmark-mapping/",
-      "date": "2026-10-19T20:00:00+09:00",
-      "dateLabel": "10/19 20:00",
-      "desc": "AIの性能を測定するベンチマークテストの中には「人間の仕事をどれだけの精度でこなせるか」を測定するものが多く含まれています。ところが、こうしたベンチマークは「一部のタスク」しかカバーしておらず、AIが労働を代行できるという結果が出たとしても、それは労働全体のうちほんのわずかであることを意味する可能性があるという分析結果が公表されました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "Claudeが25年以上謎だった暗号規格の数値の起源を解明、NSAが説明なく提供した数値は「1990年代の乱数」だった",
-      "link": "https://gigazine.net/news/20261019-ecdsa-seed-origin/",
-      "date": "2026-10-19T19:00:00+09:00",
-      "dateLabel": "10/19 19:00",
-      "desc": "AI開発企業のAnthropicは2026年10月16日、AIモデル「Claude」が広く使われている楕円曲線暗号規格「ECDSA」に関する長年の謎を解明したと発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "AIエージェントを自作する3つの方法！初心者でも無料から始められる手順",
       "link": "https://ainow.ai/2026/10/12/278433/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e8%2587%25aa%25e4%25bd%259c%25e3%2581%2599%25e3%2582%258b3%25e3%2581%25a4%25e3%2581%25ae%25e6%2596%25b9%25e6%25b3%2595%25ef%25bc%2581%25e5%2588%259d%25e5%25bf%2583%25e8%2580%2585%25e3%2581%25a7%25e3%2582%2582",
       "date": "2026-10-12T22:00:55+09:00",
@@ -261,13 +239,13 @@
       "score": 28
     },
     {
-      "title": "足腰の疲れがひどいので「AI外骨格」を使ってみた。これならどこまでも歩いていけそうだ",
-      "link": "https://ascii.jp/elem/000/004/443/4443825/?rss",
-      "date": "2026-10-20T18:00:00+09:00",
-      "dateLabel": "10/20 18:00",
-      "desc": "出先で丸1日歩き回ると、疲労で足腰がガタガタになる方もいるかと思います。しかし！ 今はAIが人をサポートしてくれる時代。「Hypershell X Pro S」で、自分の行動範囲を広げましょう！",
-      "img": "https://ascii.jp/img/2026/10/19/4540462/s/8cfe9bb68bd6c4bb.jpg",
-      "src": "ASCII.jp",
+      "title": "「Cloudflare OS」のマネージドサービス提供へ。GitHubとの接続やGmailとの連携強化など",
+      "link": "https://www.publickey1.jp/blog/26/cloudflare_osgithubgmail.html",
+      "date": "2026-10-21T00:10:05+09:00",
+      "dateLabel": "10/21 00:10",
+      "desc": "Cloudflareは、AIを活用した業務のためのプラットフォームとなる「Cloudflare OS」のマネージドサービスを発表しました。現在ウェイティングリストへの登録を募集しています。 AIを活用した業務アプリのプラットフォーム Clo...",
+      "img": "",
+      "src": "Publickey",
       "cat": "AI全般",
       "score": 26
     },
@@ -280,6 +258,28 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "OpenAIのスパイ容疑者は「サウジアラビア政府文書」というフォルダにアクセスしていた",
+      "link": "https://gigazine.net/news/20261020-openai-spy-access-saudi-gov-folder/",
+      "date": "2026-10-20T14:08:00+09:00",
+      "dateLabel": "10/20 14:08",
+      "desc": "2026年10月13日、OpenAIのオフィスに盗聴器を仕掛けた容疑でサウジアラビア国籍の従業員が逮捕されたことが公表されました。この男について多くのことが分かってきています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "中国語を使うハッカーがAIエージェントで日本企業などにハッキングして100件近い攻撃に成功していたことが判明",
+      "link": "https://gigazine.net/news/20261020-chinese-hacker-ai-agents-break-websites/",
+      "date": "2026-10-20T14:00:00+09:00",
+      "dateLabel": "10/20 14:00",
+      "desc": "2026年9月以降、日本企業がハッカーにより不正アクセスされる被害が相次いでおり、AIを悪用したハッキングの高速化・高度化が懸念されています。サイバーセキュリティ企業のNorForgeで主席脅威研究員を務めるスノーレ・ファーゲルランド氏が、オープンソースAIツールの「Cairn」を用いたハッキングの実態について報告しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
