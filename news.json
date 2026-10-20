@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-20T06:54:37.734584+09:00",
-  "generatedLabel": "2026/10/20 06:54",
+  "generatedAt": "2026-10-20T09:48:33.412373+09:00",
+  "generatedLabel": "2026/10/20 09:48",
   "feedOk": 6,
   "feedNg": 5,
   "candidates": 56,
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 19
+      "items": 18
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -63,22 +63,11 @@
   ],
   "articles": [
     {
-      "title": "中国DeepSeek、V4.1-Flash新バージョンを公開 一部Astra超えをうたうモデルがオープンに",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/19/2000002357/",
-      "date": "2026-10-19T09:35:40+09:00",
-      "dateLabel": "10/19 09:35",
-      "desc": "中国DeepSeekが「DeepSeek-V4.1-Flash-1017」を公開。コーディングエージェント性能評価の一部でGPT-6 Astra超えをうたい、実行時間と出力量も削減したという。重みはMITライセンスで提供する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
-      "title": "Anthropic、社内でAIエージェントの稼働時間が人間の6倍に 技術系初級職の採用比率は27％→9％に激減",
-      "link": "https://www.itmedia.co.jp/news/article/2610/19/2000002353/",
-      "date": "2026-10-19T08:02:13+09:00",
-      "dateLabel": "10/19 08:02",
-      "desc": "Anthropicは、社内雇用の変化と一般市民とのAI予測格差に関する調査を公開した。AnthropicではAI稼働時間が人間を上回り、技術系初級職の採用比率が急減した。自身の業務の自動化予測は、Anthropic従業員の75％に対し、米労働者は28％と大きな開きが出たが、自動化と失業率上昇を結びつける労働観は共通していた。",
+      "title": "「保守的な日本の現場に合う」導入2500時間の壁を壊す倉庫AI、IFS Softeonの真価",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/20/news044.html",
+      "date": "2026-10-20T06:30:00+09:00",
+      "dateLabel": "10/20 06:30",
+      "desc": "IFSとIFS Softeonは、倉庫向けAIの新機能「Fulfillment Flow」を発表した。6つの現場特化型AIエージェントが連携し、「部分最適のしわ寄せ」を解消する。同社 最高収益責任者（CRO）のメイリー氏へのインタビューを交え、あえてシステムを統合しない独自戦略や、保守的な日本の現場に適合するAIの姿と今後の展望をひもとく。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
@@ -105,6 +94,50 @@
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 42
+    },
+    {
+      "title": "中国DeepSeek、V4.1-Flash新バージョンを公開 一部Astra超えをうたうモデルがオープンに",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/19/2000002357/",
+      "date": "2026-10-19T09:35:40+09:00",
+      "dateLabel": "10/19 09:35",
+      "desc": "中国DeepSeekが「DeepSeek-V4.1-Flash-1017」を公開。コーディングエージェント性能評価の一部でGPT-6 Astra超えをうたい、実行時間と出力量も削減したという。重みはMITライセンスで提供する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "Anthropic、社内でAIエージェントの稼働時間が人間の6倍に 技術系初級職の採用比率は27％→9％に激減",
+      "link": "https://www.itmedia.co.jp/news/article/2610/19/2000002353/",
+      "date": "2026-10-19T08:02:13+09:00",
+      "dateLabel": "10/19 08:02",
+      "desc": "Anthropicは、社内雇用の変化と一般市民とのAI予測格差に関する調査を公開した。AnthropicではAI稼働時間が人間を上回り、技術系初級職の採用比率が急減した。自身の業務の自動化予測は、Anthropic従業員の75％に対し、米労働者は28％と大きな開きが出たが、自動化と失業率上昇を結びつける労働観は共通していた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "日本企業を狙ったAIサイバー攻撃の実態が判明 GMO調査",
+      "link": "https://ascii.jp/elem/000/004/443/4443912/?rss",
+      "date": "2026-10-20T09:00:00+09:00",
+      "dateLabel": "10/20 09:00",
+      "desc": "GMOサイバーセキュリティ byイエラエは10月19日、日本企業を狙った不正アクセスの攻撃基盤を調べ、自律型のセキュリティ検証システム「ARTEX」が使われていることを確認したと発表した。",
+      "img": "https://ascii.jp/img/2026/10/20/4540760/s/aac2d4feae5462f5.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "物流倉庫を最短即日で誤差1％の3Dモデル化。スムーズなロボット導入実現を補助",
+      "link": "https://ascii.jp/elem/000/004/443/4443434/?rss",
+      "date": "2026-10-20T07:00:00+09:00",
+      "dateLabel": "10/20 07:00",
+      "desc": "株式会社スペースデータは10月9日、360度カメラの映像から実在の物流倉庫をロボット検証用の仮想空間（デジタルツイン）として最短即日で再現する技術の実証結果を発表した。",
+      "img": "https://ascii.jp/img/2026/10/16/4539622/s/7912e191ca892c41.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 34
     },
     {
       "title": "やることがないAIは何をする？ 無人島に30時間置き去りにした結果",
@@ -217,28 +250,6 @@
       "score": 34
     },
     {
-      "title": "コーディングベンチでGPT-6 Astraを超えつつ超安価な中国製AIモデル「DeepSeek-V4.1-Flash-1017」が登場",
-      "link": "https://gigazine.net/news/20261019-deepseek-v4-1-flash-1017/",
-      "date": "2026-10-19T10:47:00+09:00",
-      "dateLabel": "10/19 10:47",
-      "desc": "中国企業のDeepSeekがAIモデル「DeepSeek-V4.1-Flash-1017」を2026年10月17日に公開しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Anthropic、株式の5％を公益目的の新組織に拠出 企業価値の上昇に応じて割合を拡大",
-      "link": "https://www.itmedia.co.jp/news/article/2610/19/2000002359/",
-      "date": "2026-10-19T09:38:54+09:00",
-      "dateLabel": "10/19 09:38",
-      "desc": "Anthropicは、自社株の一部を新組織「Anthropic Public Benefit Fund」に拠出すると発表した。まず株式の5％を拠出し、企業価値の上昇に応じて追加する。完全子会社のLLC形態を採用し、雇用への影響対策や直接分配など、大規模かつ柔軟な公益活動に充てるとしている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "AIエージェントを自作する3つの方法！初心者でも無料から始められる手順",
       "link": "https://ainow.ai/2026/10/12/278433/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e8%2587%25aa%25e4%25bd%259c%25e3%2581%2599%25e3%2582%258b3%25e3%2581%25a4%25e3%2581%25ae%25e6%2596%25b9%25e6%25b3%2595%25ef%25bc%2581%25e5%2588%259d%25e5%25bf%2583%25e8%2580%2585%25e3%2581%25a7%25e3%2582%2582",
       "date": "2026-10-12T22:00:55+09:00",
@@ -268,17 +279,6 @@
       "desc": "マイクロソフトはWindows 11上でAIエージェントを安全に動かすための隔離環境「Microsoft Execution Containers」（以下、MXC）の正式リリースを発表しました。 MXC is now GA on Windo...",
       "img": "",
       "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 28
-    },
-    {
-      "title": "AIエージェントを自作する方法7選！無料で始める手順と費用の目安",
-      "link": "https://ainow.ai/2026/10/14/278439/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e8%2587%25aa%25e4%25bd%259c%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%25957%25e9%2581%25b8%25ef%25bc%2581%25e7%2584%25a1%25e6%2596%2599%25e3%2581%25a7%25e5%25a7%258b%25e3%2582%2581%25e3%2582%258b",
-      "date": "2026-10-14T21:30:49+09:00",
-      "dateLabel": "10/14 21:30",
-      "desc": "AIエージェントは、GeminiやClaudeの画面で指示文を登録するだけでも自作できます。本記事では、難易度別の7つの自作方法と、同じニュース要約エージェントを3通りの方法で作る手順を解説します。 「AIエージェントを... The post AIエージェントを自作する方法7選！無料で始める手順と費用の目安 first appeared on AI専門ニュ",
-      "img": "",
-      "src": "AINOW",
       "cat": "AIエージェント/業務",
       "score": 28
     }
