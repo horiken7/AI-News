@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-20T09:48:33.412373+09:00",
-  "generatedLabel": "2026/10/20 09:48",
+  "generatedAt": "2026-10-20T14:32:17.166565+09:00",
+  "generatedLabel": "2026/10/20 14:32",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 56,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "MiniMaxが新AIモデル「MiniMax M3.1 Flash」を発表、AIエージェントの性能を強化しつつ利用コストを70％削減",
+      "link": "https://gigazine.net/news/20261020-minimax-m3-1-flash/",
+      "date": "2026-10-20T13:50:00+09:00",
+      "dateLabel": "10/20 13:50",
+      "desc": "中国のAI企業であるMiniMaxが2026年10月19日、新たなAIモデル「MiniMax M3.1 Flash」を発表しました。AIエージェントによる複雑な作業やプログラミング、PC操作、サイバーセキュリティ関連の能力を強化したほか、従来モデルと比べて推論速度を約3倍に高め、利用コストを70％削減したとしています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
       "title": "「保守的な日本の現場に合う」導入2500時間の壁を壊す倉庫AI、IFS Softeonの真価",
       "link": "https://monoist.itmedia.co.jp/mn/articles/2610/20/news044.html",
       "date": "2026-10-20T06:30:00+09:00",
@@ -74,22 +85,33 @@
       "score": 50
     },
     {
+      "title": "ネットバンキングにログインしたまま別作業は危険？ 「ChatGPT Atlas」などのAIブラウザ7種でデータ窃取を検証",
+      "link": "https://www.itmedia.co.jp/news/article/2610/20/2000002377/",
+      "date": "2026-10-20T12:00:00+09:00",
+      "dateLabel": "10/20 12:00",
+      "desc": "米ワシントン大学に所属する研究者らが発表した論文「Agentic Browsers and the Same-Origin Policy」は、AIエージェントがユーザーに代わってWeb操作を行うAIブラウザにおいて、メールやネットバンキングなどの機密情報が悪意あるサイトに窃取されるリスクを検証した研究報告だ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "GMO Flatt Security、Anthropic社・OpenAI社ら4社を招いたセキュリティイベント「Product Security Square #6」を12月3日に開催",
+      "link": "https://ascii.jp/elem/000/004/444/4444136/?rss",
+      "date": "2026-10-20T11:00:00+09:00",
+      "dateLabel": "10/20 11:00",
+      "desc": "GMO Flatt Security、Anthropic社・OpenAI社ら4社を招いたセキュリティイベント「Product Security Square #6」を12月3日に開催",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "Claudeが25年以上謎だった暗号規格の数値の起源を解明、NSAが説明なく提供した数値は「1990年代の乱数」だった",
       "link": "https://gigazine.net/news/20261019-ecdsa-seed-origin/",
       "date": "2026-10-19T19:00:00+09:00",
       "dateLabel": "10/19 19:00",
       "desc": "AI開発企業のAnthropicは2026年10月16日、AIモデル「Claude」が広く使われている楕円曲線暗号規格「ECDSA」に関する長年の謎を解明したと発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "AIプログラミングツール「OpenCode」でAPIキー流出の可能性、OpenAIやClaudeの利用残高が不正利用でゼロになったとの報告も",
-      "link": "https://gigazine.net/news/20261019-opencode-leak/",
-      "date": "2026-10-19T14:03:00+09:00",
-      "dateLabel": "10/19 14:03",
-      "desc": "オープンソースのAIプログラミングツール「OpenCode」の運営元が2026年10月17日に不正アクセスを受けたことを明らかにしました。OpenAIやAnthropicなどのAIサービスを利用するためのAPIキーが漏えいした可能性があり、一部のユーザーからは身に覚えのないAI利用料金が発生したとの報告も上がっています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
@@ -118,36 +140,36 @@
       "score": 42
     },
     {
-      "title": "日本企業を狙ったAIサイバー攻撃の実態が判明 GMO調査",
-      "link": "https://ascii.jp/elem/000/004/443/4443912/?rss",
-      "date": "2026-10-20T09:00:00+09:00",
-      "dateLabel": "10/20 09:00",
-      "desc": "GMOサイバーセキュリティ byイエラエは10月19日、日本企業を狙った不正アクセスの攻撃基盤を調べ、自律型のセキュリティ検証システム「ARTEX」が使われていることを確認したと発表した。",
-      "img": "https://ascii.jp/img/2026/10/20/4540760/s/aac2d4feae5462f5.png",
+      "title": "ソラコム、2026年度「ポーター賞」を受賞 IoTの民主化戦略が高く評価",
+      "link": "https://ascii.jp/elem/000/004/443/4443969/?rss",
+      "date": "2026-10-20T12:30:00+09:00",
+      "dateLabel": "10/20 12:30",
+      "desc": "ソラコムが2026年度「ポーター賞」を受賞。IoTの民主化を掲げた独自の事業戦略、クラウドネイティブな通信基盤、世界200以上の国と地域に広がるAI/IoT通信プラットフォームSORACOMの強みを紹介する。",
+      "img": "https://ascii.jp/img/2026/10/20/4540839/s/a4ecc3525d53b21c.jpg",
       "src": "ASCII.jp",
-      "cat": "AI全般",
+      "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
-      "title": "物流倉庫を最短即日で誤差1％の3Dモデル化。スムーズなロボット導入実現を補助",
-      "link": "https://ascii.jp/elem/000/004/443/4443434/?rss",
-      "date": "2026-10-20T07:00:00+09:00",
-      "dateLabel": "10/20 07:00",
-      "desc": "株式会社スペースデータは10月9日、360度カメラの映像から実在の物流倉庫をロボット検証用の仮想空間（デジタルツイン）として最短即日で再現する技術の実証結果を発表した。",
-      "img": "https://ascii.jp/img/2026/10/16/4539622/s/7912e191ca892c41.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
+      "title": "ChatGPT広告は誰に何を表示しているのか？ 米大学が91のおとりアカウントで実態調査",
+      "link": "https://www.itmedia.co.jp/news/article/2610/20/2000002375/",
+      "date": "2026-10-20T12:00:00+09:00",
+      "dateLabel": "10/20 12:00",
+      "desc": "米ペンシルベニア大学や米ハバフォード大学に所属する研究者らが発表した論文「The Beginning of ChatGPT Ads」は、ChatGPTの広告がどのようなユーザーに、どのような基準で配信しているかを調査した研究報告だ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
-      "title": "やることがないAIは何をする？ 無人島に30時間置き去りにした結果",
-      "link": "https://ascii.jp/elem/000/004/443/4443906/?rss",
-      "date": "2026-10-20T06:11:11+09:00",
-      "dateLabel": "10/20 06:11",
-      "desc": "目標を与えずにバーチャルの無人島に置かれたAIエージェントは、ジャグリングの記録に挑み、条件が甘いと自ら記録を取り消してやり直した。研究者らは、こうした「遊び」が後の課題解決に役立つことを示した。ただ、本当に遊んでいるのか、疑問視する声もある。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "title": "LSI開発の“民主化”で誰でも半導体チップが作れる時代へ",
+      "link": "https://ascii.jp/elem/000/004/440/4440280/?rss",
+      "date": "2026-10-20T12:00:00+09:00",
+      "dateLabel": "10/20 12:00",
+      "desc": "東京大学大学院工学系研究科の小菅敦丈准教授は、短期間かつ低コストで誰もがLSIを開発できる「LSIの民主化」を達成することで、国内における半導体技術開発を活性化し、若手人材を育成することを目指している。",
+      "img": "https://ascii.jp/img/2026/10/06/4534805/s/c54dce3704a6332f.jpg",
       "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -173,17 +195,6 @@
       "score": 34
     },
     {
-      "title": "RTX 5060と32GBメモリ、3年保証まで付いて24万9800円！ マウスコンピューター「G TUNE P6」がAmazonで14％オフ",
-      "link": "https://ascii.jp/elem/000/004/443/4443621/?rss",
-      "date": "2026-10-19T20:50:00+09:00",
-      "dateLabel": "10/19 20:50",
-      "desc": "マウスコンピューターの16型ゲーミングノートPC「G TUNE P6（P6I5G60BK3SIW1106AZ）」がAmazonのプライム感謝祭セール対象。プライム会員限定で、参考価格289,801円から14％オフの249,800円で販売中。GeForce RTX 5060 Laptop GPUと32GBメモリを搭載し、180Hz対応のWQXGA液晶や3年間の",
-      "img": "https://ascii.jp/img/2026/10/19/4540260/s/7e0a53d37bfceab3.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
       "title": "AIのベンチマークテストは人間の仕事の1割しかカバーできていない",
       "link": "https://gigazine.net/news/20261019-ai-benchmark-mapping/",
       "date": "2026-10-19T20:00:00+09:00",
@@ -206,50 +217,6 @@
       "score": 34
     },
     {
-      "title": "Microsoftがイギリス最大級のAIデータセンター計画から撤退",
-      "link": "https://gigazine.net/news/20261019-microsoft-essex-ai-data-center/",
-      "date": "2026-10-19T15:50:00+09:00",
-      "dateLabel": "10/19 15:50",
-      "desc": "イギリス・エセックス州ラフトンで開発が進められているAIデータセンターに進出予定だったMicrosoftが、GPUのリース契約を解除して計画から撤退したことがわかりました。当該データセンターは、電力供給の問題で稼働開始が遅れることになっていました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "脱獄したPlayStation 5のGPUでllama.cppを実行できる「PS5LM Plus」",
-      "link": "https://gigazine.net/news/20261019-ps5lm-plus-gpu-ai/",
-      "date": "2026-10-19T15:40:00+09:00",
-      "dateLabel": "10/19 15:40",
-      "desc": "PlayStation 5(PS5)本体でAIモデルを動かし、PCやスマートフォンからチャットで利用できるオープンソースアプリ「PS5LM Plus」がGitHubで公開されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "Anthropic社内ではAIが人間の6倍も稼働していることが判明、従業員の仕事は「AIの監督」へと変化",
-      "link": "https://gigazine.net/news/20261019-employment-at-anthropic/",
-      "date": "2026-10-19T15:00:00+09:00",
-      "dateLabel": "10/19 15:00",
-      "desc": "AI「Claude」を開発するAnthropicが社内のAI利用状況や雇用の変化を調査したところ、AIの稼働時間が人間の労働時間の6倍に達していることが明らかになりました。AIによって生産性が向上する一方で、従業員の仕事は自ら作業することから大量のAIを管理・監督することへと変化しているとのことです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "DeepSeekの検索APIが登場、1000回のリクエスト成功ごとに0.75ドルで競合より安価",
-      "link": "https://gigazine.net/news/20261019-deepseek-search-fetch-api/",
-      "date": "2026-10-19T12:09:00+09:00",
-      "dateLabel": "10/19 12:09",
-      "desc": "中国に拠点を置くAI企業のDeepSeekが検索APIとフェッチAPIを2026年10月17日にリリースしました。ウェブ上の情報を検索してAI処理に用いるワークフローで活用できます。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "AIエージェントを自作する3つの方法！初心者でも無料から始められる手順",
       "link": "https://ainow.ai/2026/10/12/278433/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e8%2587%25aa%25e4%25bd%259c%25e3%2581%2599%25e3%2582%258b3%25e3%2581%25a4%25e3%2581%25ae%25e6%2596%25b9%25e6%25b3%2595%25ef%25bc%2581%25e5%2588%259d%25e5%25bf%2583%25e8%2580%2585%25e3%2581%25a7%25e3%2582%2582",
       "date": "2026-10-12T22:00:55+09:00",
@@ -261,17 +228,6 @@
       "score": 32
     },
     {
-      "title": "Microsoft、社内エンジニア数万人を対象に「Claude Code」「Copilot CLI」導入の影響を分析 生産性どう変わる",
-      "link": "https://www.itmedia.co.jp/news/article/2610/16/2000002277/",
-      "date": "2026-10-16T12:00:00+09:00",
-      "dateLabel": "10/16 12:00",
-      "desc": "米Microsoftに所属する研究者らが発表した論文「Adoption and Impact of Command-Line AI Coding Agents: A Study of Microsoft’s Early 2026 Rollout of Claude Code and GitHub Copilot CLI」は、社内の数万人のソフトウェアエンジニ",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 28
-    },
-    {
       "title": "Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ",
       "link": "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
       "date": "2026-10-15T00:57:19+09:00",
@@ -281,6 +237,50 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 28
+    },
+    {
+      "title": "AIエージェントを自作する方法7選！無料で始める手順と費用の目安",
+      "link": "https://ainow.ai/2026/10/14/278439/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e8%2587%25aa%25e4%25bd%259c%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%25957%25e9%2581%25b8%25ef%25bc%2581%25e7%2584%25a1%25e6%2596%2599%25e3%2581%25a7%25e5%25a7%258b%25e3%2582%2581%25e3%2582%258b",
+      "date": "2026-10-14T21:30:49+09:00",
+      "dateLabel": "10/14 21:30",
+      "desc": "AIエージェントは、GeminiやClaudeの画面で指示文を登録するだけでも自作できます。本記事では、難易度別の7つの自作方法と、同じニュース要約エージェントを3通りの方法で作る手順を解説します。 「AIエージェントを... The post AIエージェントを自作する方法7選！無料で始める手順と費用の目安 first appeared on AI専門ニュ",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 28
+    },
+    {
+      "title": "OpenAIのスパイ容疑者は「サウジアラビア政府文書」というフォルダにアクセスしていた",
+      "link": "https://gigazine.net/news/20261020-openai-spy-access-saudi-gov-folder/",
+      "date": "2026-10-20T14:08:00+09:00",
+      "dateLabel": "10/20 14:08",
+      "desc": "2026年10月13日、OpenAIのオフィスに盗聴器を仕掛けた容疑でサウジアラビア国籍の従業員が逮捕されたことが公表されました。この男について多くのことが分かってきています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "中国語を使うハッカーがAIエージェントで日本企業などにハッキングして100件近い攻撃に成功していたことが判明",
+      "link": "https://gigazine.net/news/20261020-chinese-hacker-ai-agents-break-websites/",
+      "date": "2026-10-20T14:00:00+09:00",
+      "dateLabel": "10/20 14:00",
+      "desc": "2026年9月以降、日本企業がハッカーにより不正アクセスされる被害が相次いでおり、AIを悪用したハッキングの高速化・高度化が懸念されています。サイバーセキュリティ企業のNorForgeで主席脅威研究員を務めるスノーレ・ファーゲルランド氏が、オープンソースAIツールの「Cairn」を用いたハッキングの実態について報告しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "アメリカ国土安全保障省が連邦文民機関に対しDeepSeekの技術を排除するよう命令",
+      "link": "https://gigazine.net/news/20261020-dhs-orders-to-remove-deepseek-tech/",
+      "date": "2026-10-20T13:50:00+09:00",
+      "dateLabel": "10/20 13:50",
+      "desc": "アメリカの国土安全保障省(DHS)が、連邦政府の文民機関に対して、中国のAI企業・DeepSeekの製品やサービスを調達対象から除外するよう命令を出したことがわかりました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
     }
   ]
 }
