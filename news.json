@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-21T04:44:11.571637+09:00",
-  "generatedLabel": "2026/10/21 04:44",
+  "generatedAt": "2026-10-21T07:48:45.556370+09:00",
+  "generatedLabel": "2026/10/21 07:48",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 48,
+  "candidates": 51,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 0
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "PFNとTenstorrentがタッグ、生成AI特化プロセッサ開発へ 超高メモリ帯域幅、光電融合技術を実装",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/21/2000002438/",
+      "date": "2026-10-21T07:00:00+09:00",
+      "dateLabel": "10/21 07:00",
+      "desc": "Preferred Networks（以下、PFN）と米Tenstorrentが、AIの学習・推論を高性能・高効率に実行可能な生成AI向けプロセッサを含むシステム開発を共同で始めた。CPUの開発は米Tenstorrentが担い、米NVIDIAのGPUがデファクトスタンダードとなっている「AIプロセッサ」の開発はPFNが担う。光電融合技術と最先端パッケージング",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 50
+    },
+    {
       "title": "MiniMaxが新AIモデル「MiniMax M3.1 Flash」を発表、AIエージェントの性能を強化しつつ利用コストを70％削減",
       "link": "https://gigazine.net/news/20261020-minimax-m3-1-flash/",
       "date": "2026-10-20T13:50:00+09:00",
@@ -74,15 +85,15 @@
       "score": 50
     },
     {
-      "title": "「保守的な日本の現場に合う」導入2500時間の壁を壊す倉庫AI、IFS Softeonの真価",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/20/news044.html",
-      "date": "2026-10-20T06:30:00+09:00",
-      "dateLabel": "10/20 06:30",
-      "desc": "IFSとIFS Softeonは、倉庫向けAIの新機能「Fulfillment Flow」を発表した。6つの現場特化型AIエージェントが連携し、「部分最適のしわ寄せ」を解消する。同社 最高収益責任者（CRO）のメイリー氏へのインタビューを交え、あえてシステムを統合しない独自戦略や、保守的な日本の現場に適合するAIの姿と今後の展望をひもとく。",
+      "title": "Rapidusで製造できるか、推論特化2nm世代半導体で医用画像処理システムを開発",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/21/news045.html",
+      "date": "2026-10-21T06:30:00+09:00",
+      "dateLabel": "10/21 06:30",
+      "desc": "LSTCと北海道大学、富士フイルム、GEヘルスケア・ジャパン、imecが、推論に特化した2nm世代半導体を活用する医用画像処理システムの開発プロジェクトについて説明。現行GPUと比較して画像処理速度5倍以上、画像処理のエネルギー効率10倍以上の達成を目指す中で、2nm世代半導体の製造はRapidusが望ましいものの現時点では未定とした。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 50
+      "cat": "半導体/GPU",
+      "score": 42
     },
     {
       "title": "デジタル庁、政府職員18万人にAIエージェント環境を展開──「源内」で提供開始、独自の安全基準も",
@@ -118,26 +129,37 @@
       "score": 42
     },
     {
-      "title": "中国DeepSeek、V4.1-Flash新バージョンを公開 一部Astra超えをうたうモデルがオープンに",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/19/2000002357/",
-      "date": "2026-10-19T09:35:40+09:00",
-      "dateLabel": "10/19 09:35",
-      "desc": "中国DeepSeekが「DeepSeek-V4.1-Flash-1017」を公開。コーディングエージェント性能評価の一部でGPT-6 Astra超えをうたい、実行時間と出力量も削減したという。重みはMITライセンスで提供する。",
+      "title": "「保守的な日本の現場に合う」導入2500時間の壁を壊す倉庫AI、IFS Softeonの真価",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/20/news044.html",
+      "date": "2026-10-20T06:30:00+09:00",
+      "dateLabel": "10/20 06:30",
+      "desc": "IFSとIFS Softeonは、倉庫向けAIの新機能「Fulfillment Flow」を発表した。6つの現場特化型AIエージェントが連携し、「部分最適のしわ寄せ」を解消する。同社 最高収益責任者（CRO）のメイリー氏へのインタビューを交え、あえてシステムを統合しない独自戦略や、保守的な日本の現場に適合するAIの姿と今後の展望をひもとく。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 42
     },
     {
-      "title": "Anthropic、社内でAIエージェントの稼働時間が人間の6倍に 技術系初級職の採用比率は27％→9％に激減",
-      "link": "https://www.itmedia.co.jp/news/article/2610/19/2000002353/",
-      "date": "2026-10-19T08:02:13+09:00",
-      "dateLabel": "10/19 08:02",
-      "desc": "Anthropicは、社内雇用の変化と一般市民とのAI予測格差に関する調査を公開した。AnthropicではAI稼働時間が人間を上回り、技術系初級職の採用比率が急減した。自身の業務の自動化予測は、Anthropic従業員の75％に対し、米労働者は28％と大きな開きが出たが、自動化と失業率上昇を結びつける労働観は共通していた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
+      "title": "AIが着こなしを自動再現。商品の寸法からシルエットの違いまでささげ業務を効率化",
+      "link": "https://ascii.jp/elem/000/004/443/4443867/?rss",
+      "date": "2026-10-21T07:00:00+09:00",
+      "dateLabel": "10/21 07:00",
+      "desc": "グラムス株式会社は10月15日、ECサイト出品に必要な「ささげ業務」（撮影・採寸・原稿作成）を効率化するツール「SASAGE.APP」において、商品の実寸値を反映したモデル着用画像をつくる新機能「Virtual Try On Version 2（VTO2）」の提供を開始した。",
+      "img": "https://ascii.jp/img/2026/10/19/4540510/s/9263f0d270519578.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "AIブームに沸くサムスンの巨大半導体拠点、ピョンテクの建設現場を歩く",
+      "link": "https://ascii.jp/elem/000/004/444/4444340/?rss",
+      "date": "2026-10-21T06:37:25+09:00",
+      "dateLabel": "10/21 06:37",
+      "desc": "韓国・ピョンテクでは、サムスンが水田の隣に巨大な半導体製造拠点を建設している。AIブームでメモリーチップの需要が急増する中、数千人の作業員が安全第一を掲げながら新たなファブの建設を進めている。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
     },
     {
       "title": "同じ問題を解決してもAIによってコードの増加量に大きな差、AIモデルを比較するベンチマーク「Parsimony」が登場",
@@ -228,58 +250,36 @@
       "score": 28
     },
     {
-      "title": "「Cloudflare OS」のマネージドサービス提供へ。GitHubとの接続やGmailとの連携強化など",
-      "link": "https://www.publickey1.jp/blog/26/cloudflare_osgithubgmail.html",
-      "date": "2026-10-21T00:10:05+09:00",
-      "dateLabel": "10/21 00:10",
-      "desc": "Cloudflareは、AIを活用した業務のためのプラットフォームとなる「Cloudflare OS」のマネージドサービスを発表しました。現在ウェイティングリストへの登録を募集しています。 AIを活用した業務アプリのプラットフォーム Clo...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "「どの国のモデルか」は本質ではない 「中国製LLMは危険な指示を実行」発言で話題の専門家に補足してもらった",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/20/2000002430/",
-      "date": "2026-10-20T17:43:38+09:00",
-      "dateLabel": "10/20 17:43",
-      "desc": "中国製LLMは本当に危険なのか。一連の情報漏えい騒動とAIの関係について、問題の本質はどこにあるのか。取材での回答が話題になっている専門家に聞いた。",
+      "title": "「PC市場の成長ストップ」で苦戦のインテル 「半導体の崖」突破できるか、社長が語る変革への道筋",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/21/news013.html",
+      "date": "2026-10-21T07:00:00+09:00",
+      "dateLabel": "10/21 07:00",
+      "desc": "かつて“半導体の巨人”と呼ばれていたIntelは、PC市場の成長鈍化などを受け不調の中にある。AI時代で半導体需要が高まる中、“最大の経営課題”を解決して変革を起こせるか。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
+      "cat": "半導体/GPU",
       "score": 26
     },
     {
-      "title": "OpenAIのスパイ容疑者は「サウジアラビア政府文書」というフォルダにアクセスしていた",
-      "link": "https://gigazine.net/news/20261020-openai-spy-access-saudi-gov-folder/",
-      "date": "2026-10-20T14:08:00+09:00",
-      "dateLabel": "10/20 14:08",
-      "desc": "2026年10月13日、OpenAIのオフィスに盗聴器を仕掛けた容疑でサウジアラビア国籍の従業員が逮捕されたことが公表されました。この男について多くのことが分かってきています。 続きを読む...",
+      "title": "「6億台のコネクテッドカー」動かす光技術 IOWNは欧州のデータセンター危機を救うか？",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/21/news044.html",
+      "date": "2026-10-21T07:00:00+09:00",
+      "dateLabel": "10/21 07:00",
+      "desc": "生成AIの需要爆発で欧州データセンターの空き容量が逼迫する中、NTTが提唱する次世代光技術「IOWN」が脚光を浴びている。電力危機を打破する切り札として期待が高まる光通信革命の最前線を、オランダ現地取材から追う。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
       "score": 26
     },
     {
-      "title": "中国語を使うハッカーがAIエージェントで日本企業などにハッキングして100件近い攻撃に成功していたことが判明",
-      "link": "https://gigazine.net/news/20261020-chinese-hacker-ai-agents-break-websites/",
-      "date": "2026-10-20T14:00:00+09:00",
-      "dateLabel": "10/20 14:00",
-      "desc": "2026年9月以降、日本企業がハッカーにより不正アクセスされる被害が相次いでおり、AIを悪用したハッキングの高速化・高度化が懸念されています。サイバーセキュリティ企業のNorForgeで主席脅威研究員を務めるスノーレ・ファーゲルランド氏が、オープンソースAIツールの「Cairn」を用いたハッキングの実態について報告しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "アメリカ国土安全保障省が連邦文民機関に対しDeepSeekの技術を排除するよう命令",
-      "link": "https://gigazine.net/news/20261020-dhs-orders-to-remove-deepseek-tech/",
-      "date": "2026-10-20T13:50:00+09:00",
-      "dateLabel": "10/20 13:50",
-      "desc": "アメリカの国土安全保障省(DHS)が、連邦政府の文民機関に対して、中国のAI企業・DeepSeekの製品やサービスを調達対象から除外するよう命令を出したことがわかりました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
+      "title": "「ニューラル・ネットは読み解ける」主張、元オープンAI研究者に真意を聞く",
+      "link": "https://ascii.jp/elem/000/004/444/4444339/?rss",
+      "date": "2026-10-21T06:46:51+09:00",
+      "dateLabel": "10/21 06:46",
+      "desc": "AIの解釈可能性研究を切り開いてきたグッドファイアの研究者ニック・カマラタのブログ投稿は、AIは理解できるという「良い知らせ」として熱狂的に受け止められた。だが本人は「何もかもが良い知らせというわけではありません」と言う。主張の核心は、完全な理解が不可能ではないという点だ。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 26
     }
   ]
