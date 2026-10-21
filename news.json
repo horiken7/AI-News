@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-21T15:46:22.951992+09:00",
-  "generatedLabel": "2026/10/21 15:46",
-  "feedOk": 6,
-  "feedNg": 5,
-  "candidates": 59,
+  "generatedAt": "2026-10-21T21:34:11.025489+09:00",
+  "generatedLabel": "2026/10/21 21:34",
+  "feedOk": 5,
+  "feedNg": 6,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -17,8 +17,8 @@
     },
     {
       "source": "ASCII.jp",
-      "ok": true,
-      "items": 7
+      "ok": false,
+      "error": "HTTP Error 503: Service Temporarily Unavailable"
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 16
+      "items": 17
     },
     {
       "source": "CNET Japan",
@@ -72,17 +72,6 @@
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
       "score": 50
-    },
-    {
-      "title": "SpiralAI、『RyzaChat:AIライザと創るあなただけのひと夏の夢物語』等の開発を通して生まれた、エンタメ特化のオーケストレーションモデル「SpiralLLM」を提供開始。",
-      "link": "https://ascii.jp/elem/000/004/444/4444568/?rss",
-      "date": "2026-10-21T13:00:00+09:00",
-      "dateLabel": "10/21 13:00",
-      "desc": "SpiralAI、『RyzaChat:AIライザと創るあなただけのひと夏の夢物語』等の開発を通して生まれた、エンタメ特化のオーケストレーションモデル「SpiralLLM」を提供開始。",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 42
     },
     {
       "title": "AnthropicがAIで「サソリ毒」に対する薬の作成を前進させたと発表",
@@ -151,15 +140,37 @@
       "score": 42
     },
     {
-      "title": "デジタル庁、政府職員18万人にAIエージェント環境を展開──「源内」で提供開始、独自の安全基準も",
-      "link": "https://www.itmedia.co.jp/news/article/2610/20/2000002428/",
-      "date": "2026-10-20T17:14:44+09:00",
-      "dateLabel": "10/20 17:14",
-      "desc": "デジタル庁は10月20日、政府職員向けの生成AI利用環境「源内」で、職員が自らAIエージェントを作って動かせる環境を順次導入すると発表した。安全に使うためのルール「源内基準」も併せて公表した。",
+      "title": "Qwen3.8-Flash-Nextと競合するオープンモデル「Ornith-1.5-122B」が登場",
+      "link": "https://gigazine.net/news/20261021-ornith-1-5-122b/",
+      "date": "2026-10-21T16:49:00+09:00",
+      "dateLabel": "10/21 16:49",
+      "desc": "AI研究組織のOrnithがAIモデル「Ornith-1.5-122B」を2026年10月20日に公開しました。同等規模のオープンモデルと比べて高性能であることがアピールされています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "「政府機関向けGemini」登場 米国政府・自治体と共同開発 データをプライベートクラウドに保持",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/21/2000002470/",
+      "date": "2026-10-21T16:41:52+09:00",
+      "dateLabel": "10/21 16:41",
+      "desc": "Google Cloudが米政府機関向け「Gemini for government services」をプレビュー公開。州政府や連邦機関と共同開発し、データは機関のプライベートな環境に保持、許可なく学習に使わないとうたう。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "OpenAIの常時稼働エージェント「dots」、日本のユーザー数は「世界2位」 「仕事の在り方を大きく変える可能性」と長?社長",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/21/2000002457/",
+      "date": "2026-10-21T15:43:26+09:00",
+      "dateLabel": "10/21 15:43",
+      "desc": "「日本が世界2位」――米OpenAIの日本法人OpenAI Japanの長?忠雄社長は、OpenAIの新たなAIエージェント機能「dots」のユーザー数についてこのように説明した。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 42
+      "score": 34
     },
     {
       "title": "車載版Geminiがもっと各ユーザーに最適化される予定、GmailやGoogleカレンダーなどと連携可能に",
@@ -184,61 +195,6 @@
       "score": 34
     },
     {
-      "title": "OpenAIの常時稼働エージェント「Dots」、日本のユーザー数は「世界2位」 「仕事の在り方を大きく変える可能性」と長?社長",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/21/2000002457/",
-      "date": "2026-10-21T13:15:00+09:00",
-      "dateLabel": "10/21 13:15",
-      "desc": "「日本が世界2位」――米OpenAIの日本法人OpenAI Japanの長?忠雄社長は、OpenAIの新たなAIエージェント機能「Dots」のユーザー数についてこのように説明した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "TAIとエー・ディ・ティ、次世代AI半導体の市場展開に向けパートナーシップを締結",
-      "link": "https://ascii.jp/elem/000/004/444/4444572/?rss",
-      "date": "2026-10-21T13:00:00+09:00",
-      "dateLabel": "10/21 13:00",
-      "desc": "TAIとエー・ディ・ティ、次世代AI半導体の市場展開に向けパートナーシップを締結",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "横浜スカイビル、超高層ビルの各フロア回遊を可視化。人流分析AI Agent「ミセシル」の導入インタビューを公開",
-      "link": "https://ascii.jp/elem/000/004/444/4444571/?rss",
-      "date": "2026-10-21T13:00:00+09:00",
-      "dateLabel": "10/21 13:00",
-      "desc": "横浜スカイビル、超高層ビルの各フロア回遊を可視化。人流分析AI Agent「ミセシル」の導入インタビューを公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "10/31開催「SORACOM UG Explorer 2026」全国10会場＋オンライン参加をご紹介",
-      "link": "https://ascii.jp/elem/000/004/444/4444453/?rss",
-      "date": "2026-10-21T13:00:00+09:00",
-      "dateLabel": "10/21 13:00",
-      "desc": "10/31開催「SORACOM UG Explorer 2026」全国10会場＋オンライン参加をご紹介",
-      "img": "https://ascii.jp/img/2026/10/21/4541392/s/c7caf6f880414b46.png",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "TIGEREYE、Enterprise AI Platform「NERVA」へのブランド刷新と、コーポレートWebサイトの全面リニューアルを発表",
-      "link": "https://ascii.jp/elem/000/004/444/4444573/?rss",
-      "date": "2026-10-21T12:59:19+09:00",
-      "dateLabel": "10/21 12:59",
-      "desc": "TIGEREYE、Enterprise AI Platform「NERVA」へのブランド刷新と、コーポレートWebサイトの全面リニューアルを発表",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "架空の統計データをウェブサイトで公開したらChatGPTが引用しまくっていたことが判明",
       "link": "https://gigazine.net/news/20261021-ai-read-fake-statistics/",
       "date": "2026-10-21T12:53:00+09:00",
@@ -247,17 +203,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "AIとの音声対話でAs-Is／To-Beの業務フローを生成「ProcessAI」提供開始。企業の業務フロー作成負荷の削減や属人化を解消。",
-      "link": "https://ascii.jp/elem/000/004/444/4444575/?rss",
-      "date": "2026-10-21T12:41:58+09:00",
-      "dateLabel": "10/21 12:41",
-      "desc": "AIとの音声対話でAs-Is／To-Beの業務フローを生成「ProcessAI」提供開始。企業の業務フロー作成負荷の削減や属人化を解消。",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -281,6 +226,61 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
+    },
+    {
+      "title": "MetaのAIエージェントアプリ「Muse」が40日間で1000万ダウンロードを突破",
+      "link": "https://gigazine.net/news/20261021-meta-muse-hits-10-million-us/",
+      "date": "2026-10-21T11:59:00+09:00",
+      "dateLabel": "10/21 11:59",
+      "desc": "MetaのAIエージェントアプリ「Muse」が、リリースから40日間でアメリカでのダウンロード数が1000万回を突破したことが明らかになりました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "「Gemini Notebook」で始める「AI×自動化」実践ガイド",
+      "link": "https://kn.itmedia.co.jp/kn/article/2610/21/2000002450/",
+      "date": "2026-10-21T11:35:46+09:00",
+      "dateLabel": "10/21 11:35",
+      "desc": "資料の整理からレクチャー資料や情報共有コンテンツの作成まで、幅広く活用できるGemini Notebook。Studio機能の使い方や実践例、生成コンテンツの利用時に押さえておきたい注意点を、自治体の事例も交えて紹介する。日々の業務を効率化するヒントを探る。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "同じ問題を解決してもAIによってコードの増加量に大きな差、AIモデルを比較するベンチマーク「Parsimony」が登場",
+      "link": "https://gigazine.net/news/20261020-parsimony/",
+      "date": "2026-10-20T23:00:00+09:00",
+      "dateLabel": "10/20 23:00",
+      "desc": "AIがプログラムを修正する際に追加したコードと削除したコードの差を測定するオープンソースのベンチマーク「Parsimony」が公開されました。従来のベンチマークで重視されてきた問題の解決率やコストに加えて、コードの増加量からAIモデルを比較できるのが特徴です。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "AIエージェントを自作する3つの方法！初心者でも無料から始められる手順",
+      "link": "https://ainow.ai/2026/10/12/278433/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e8%2587%25aa%25e4%25bd%259c%25e3%2581%2599%25e3%2582%258b3%25e3%2581%25a4%25e3%2581%25ae%25e6%2596%25b9%25e6%25b3%2595%25ef%25bc%2581%25e5%2588%259d%25e5%25bf%2583%25e8%2580%2585%25e3%2581%25a7%25e3%2582%2582",
+      "date": "2026-10-12T22:00:55+09:00",
+      "dateLabel": "10/12 22:00",
+      "desc": "AIエージェントは、作りたいものに合ったツールを選べば個人でも自作できます。本記事では、チャット型・自動化型・実行型の3つの自作方法と、Geminiスキル・n8n・Claude Codeを使った具体的な手順を解説します。... The post AIエージェントを自作する3つの方法！初心者でも無料から始められる手順 first appeared on AI専",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 32
+    },
+    {
+      "title": "Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ",
+      "link": "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
+      "date": "2026-10-15T00:57:19+09:00",
+      "dateLabel": "10/15 00:57",
+      "desc": "マイクロソフトはWindows 11上でAIエージェントを安全に動かすための隔離環境「Microsoft Execution Containers」（以下、MXC）の正式リリースを発表しました。 MXC is now GA on Windo...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 28
     }
   ]
 }
