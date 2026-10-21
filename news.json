@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-21T10:07:40.336766+09:00",
-  "generatedLabel": "2026/10/21 10:07",
+  "generatedAt": "2026-10-21T15:46:22.951992+09:00",
+  "generatedLabel": "2026/10/21 15:46",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 53,
+  "candidates": 59,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 11
+      "items": 16
     },
     {
       "source": "CNET Japan",
@@ -74,25 +74,58 @@
       "score": 50
     },
     {
-      "title": "MiniMaxが新AIモデル「MiniMax M3.1 Flash」を発表、AIエージェントの性能を強化しつつ利用コストを70％削減",
-      "link": "https://gigazine.net/news/20261020-minimax-m3-1-flash/",
-      "date": "2026-10-20T13:50:00+09:00",
-      "dateLabel": "10/20 13:50",
-      "desc": "中国のAI企業であるMiniMaxが2026年10月19日、新たなAIモデル「MiniMax M3.1 Flash」を発表しました。AIエージェントによる複雑な作業やプログラミング、PC操作、サイバーセキュリティ関連の能力を強化したほか、従来モデルと比べて推論速度を約3倍に高め、利用コストを70％削減したとしています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 50
+      "title": "SpiralAI、『RyzaChat:AIライザと創るあなただけのひと夏の夢物語』等の開発を通して生まれた、エンタメ特化のオーケストレーションモデル「SpiralLLM」を提供開始。",
+      "link": "https://ascii.jp/elem/000/004/444/4444568/?rss",
+      "date": "2026-10-21T13:00:00+09:00",
+      "dateLabel": "10/21 13:00",
+      "desc": "SpiralAI、『RyzaChat:AIライザと創るあなただけのひと夏の夢物語』等の開発を通して生まれた、エンタメ特化のオーケストレーションモデル「SpiralLLM」を提供開始。",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
-      "title": "わずか2週間でGitHubスター30万超 AIでリバースエンジニアリングする「REA」が話題",
-      "link": "https://ascii.jp/elem/000/004/444/4444350/?rss",
-      "date": "2026-10-21T09:55:00+09:00",
-      "dateLabel": "10/21 09:55",
-      "desc": "morluto氏がGitHubで公開しているAIエージェント向けのツール「REA（Reverse Engineer Anything）」が急速に人気を集めている。",
-      "img": "https://ascii.jp/img/2026/10/21/4541255/s/78f108033f817b01.png",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
+      "title": "AnthropicがAIで「サソリ毒」に対する薬の作成を前進させたと発表",
+      "link": "https://gigazine.net/news/20261021-claude-designed-protein-against-scorpion-neurotoxins/",
+      "date": "2026-10-21T12:04:00+09:00",
+      "dateLabel": "10/21 12:04",
+      "desc": "Claudeにタンパク質を設計させることで、サソリ毒の作用を阻害する可能性のあるものを17種類生成したとAnthropicが発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "DeepSeekがAI推論システム「DeepInfer」を公開、DeepSeekの本番サービスで実際に使われているシステムのオープンソース版",
+      "link": "https://gigazine.net/news/20261021-deepseek-deepinfer-recipe/",
+      "date": "2026-10-21T10:53:00+09:00",
+      "dateLabel": "10/21 10:53",
+      "desc": "中国企業のDeepSeekがAIを大規模サービス展開するための推論システム「DeepInfer」をオープンソース化しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "OpenAIが医薬品開発プラットフォームのOrchestra Bioを買収",
+      "link": "https://gigazine.net/news/20261021-openai-acquires-orchestra-bio/",
+      "date": "2026-10-21T10:46:00+09:00",
+      "dateLabel": "10/21 10:46",
+      "desc": "OpenAIがバイオ医薬品向けの開発プラットフォームを展開しているOrchestra Bioを買収したと発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "OpenAI、「COBOL」など学習リソースの少ない言語でのコーディング能力が大幅向上 COBOL移行の正解率は最大97.9％に",
+      "link": "https://www.itmedia.co.jp/news/article/2610/21/2000002447/",
+      "date": "2026-10-21T10:35:42+09:00",
+      "dateLabel": "10/21 10:35",
+      "desc": "OpenAIは、学習データの少ない「COBOL」や「Fortran」などの言語について、最新モデルの開発・移行能力が大幅に向上したと発表した。「GPT-6 Astra」は20言語でのエンジン構築評価で平均87.4％の合格率を達成。COBOLから現代言語への移行テストでも高い正解率を記録した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -129,158 +162,125 @@
       "score": 42
     },
     {
-      "title": "AIにゲームをコピーされて本家より先に発売される危険を恐れて無料体験版の公開が中止される",
-      "link": "https://gigazine.net/news/20261020-ai-game-clones/",
-      "date": "2026-10-20T14:42:00+09:00",
-      "dateLabel": "10/20 14:42",
-      "desc": "AIコーディングツールによってゲームの作成プロセスが非常に高速になっていることから、新作ゲームをリリースした直後にAIによるコピーゲームが登場したり、ゲーム発売前のプレビューや体験版の段階でAIがよく似せたゲームを作成したりといった問題が増えています。実際に、この問題を懸念したゲーム開発者が、予定していた体験版のリリースを中止したことを発表しました。 続きを",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 42
-    },
-    {
-      "title": "ネットバンキングにログインしたまま別作業は危険？ 「ChatGPT Atlas」などのAIブラウザ7種でデータ窃取を検証",
-      "link": "https://www.itmedia.co.jp/news/article/2610/20/2000002377/",
-      "date": "2026-10-20T12:00:00+09:00",
-      "dateLabel": "10/20 12:00",
-      "desc": "米ワシントン大学に所属する研究者らが発表した論文「Agentic Browsers and the Same-Origin Policy」は、AIエージェントがユーザーに代わってWeb操作を行うAIブラウザにおいて、メールやネットバンキングなどの機密情報が悪意あるサイトに窃取されるリスクを検証した研究報告だ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "AIが着こなしを自動再現。商品の寸法からシルエットの違いまでささげ業務を効率化",
-      "link": "https://ascii.jp/elem/000/004/443/4443867/?rss",
-      "date": "2026-10-21T07:00:00+09:00",
-      "dateLabel": "10/21 07:00",
-      "desc": "グラムス株式会社は10月15日、ECサイト出品に必要な「ささげ業務」（撮影・採寸・原稿作成）を効率化するツール「SASAGE.APP」において、商品の実寸値を反映したモデル着用画像をつくる新機能「Virtual Try On Version 2（VTO2）」の提供を開始した。",
-      "img": "https://ascii.jp/img/2026/10/19/4540510/s/9263f0d270519578.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "AIブームに沸くサムスンの巨大半導体拠点、ピョンテクの建設現場を歩く",
-      "link": "https://ascii.jp/elem/000/004/444/4444340/?rss",
-      "date": "2026-10-21T06:37:25+09:00",
-      "dateLabel": "10/21 06:37",
-      "desc": "韓国・ピョンテクでは、サムスンが水田の隣に巨大な半導体製造拠点を建設している。AIブームでメモリーチップの需要が急増する中、数千人の作業員が安全第一を掲げながら新たなファブの建設を進めている。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "同じ問題を解決してもAIによってコードの増加量に大きな差、AIモデルを比較するベンチマーク「Parsimony」が登場",
-      "link": "https://gigazine.net/news/20261020-parsimony/",
-      "date": "2026-10-20T23:00:00+09:00",
-      "dateLabel": "10/20 23:00",
-      "desc": "AIがプログラムを修正する際に追加したコードと削除したコードの差を測定するオープンソースのベンチマーク「Parsimony」が公開されました。従来のベンチマークで重視されてきた問題の解決率やコストに加えて、コードの増加量からAIモデルを比較できるのが特徴です。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "キャラクターのイラスト1枚からAIエージェントと分担してVRMアバターを作るためのキット「きゃらくる(Charakuru)」",
-      "link": "https://gigazine.net/news/20261020-charakuru/",
-      "date": "2026-10-20T20:00:00+09:00",
-      "dateLabel": "10/20 20:00",
-      "desc": "キャラクターのイラスト1枚を基に、AIエージェントと分担して3Dアバターを制作するキット「きゃらくる(Charakuru)」がGitHubで公開されています。ユーザーが見た目や動きを確認しながら、VRM形式のアバターを作成できます。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Cloudflareが文章や画像から必要な情報を高速・低コストで抽出するAI「Clairic」を発表、計算や予測にも対応",
-      "link": "https://gigazine.net/news/20261020-cloudflare-clairic/",
-      "date": "2026-10-20T15:50:00+09:00",
-      "dateLabel": "10/20 15:50",
-      "desc": "Cloudflareは2026年10月19日、文章や画像から必要な情報を抽出したり数値を計算・予測したりできるAIモデル「Clairic」を発表しました。Clairicは「System One」と呼ばれるAIモデルの一種で、一般的な大規模言語モデル(LLM)よりも高速かつ低コストで情報を処理でき、特定の用途では精度も向上するとのことです。 続きを読む...",
+      "title": "車載版Geminiがもっと各ユーザーに最適化される予定、GmailやGoogleカレンダーなどと連携可能に",
+      "link": "https://gigazine.net/news/20261021-google-personal-intelligence-with-gemini/",
+      "date": "2026-10-21T15:26:00+09:00",
+      "dateLabel": "10/21 15:26",
+      "desc": "Googleはスマートフォンに接続することなく、車載システムに直接組み込まれたGoogleアプリやサービスを利用できる「Google built-in」を提供しています。このGoogle built-inで、GoogleのAIアシスタント・Geminiを利用可能となっているのですが、このGeminiをさらにパーソナライズする機能をGoogleが発表しました。",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 34
     },
     {
-      "title": "マインクラフトをGemini 4 ArgonのAIエージェント4体が人間の助けを一切借りずに27時間14分でクリア、一体何円かかったのか？",
-      "link": "https://gigazine.net/news/20261020-gemini-4-argon-agents-beat-minecraft-without-human-help/",
-      "date": "2026-10-20T15:00:00+09:00",
-      "dateLabel": "10/20 15:00",
-      "desc": "GoogleのAIモデルである「Gemini 4 Argon」で動作する4つのAIエージェントが、人間の介入なしで初めてマインクラフトをクリアすることに成功しました。 続きを読む...",
+      "title": "AnthropicのIPO目論見書草案で118兆円超えの支出予定が判明、2026年上半期は約12兆円の純損失＆売上は半年で10倍以上の成長",
+      "link": "https://gigazine.net/news/20261021-anthropic-wsj-reports/",
+      "date": "2026-10-21T13:55:00+09:00",
+      "dateLabel": "10/21 13:55",
+      "desc": "Anthropicが2026年上半期に800億ドル(約12兆円)を超える純損失を計上し、今後数年間でコンピューティング能力の増強に最大7500億ドル(約118兆円)を投じる可能性があることが新規株式公開(IPO)目論見書草案で示されました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "ChatGPT広告は誰に何を表示しているのか？ 米大学が91のおとりアカウントで実態調査",
-      "link": "https://www.itmedia.co.jp/news/article/2610/20/2000002375/",
-      "date": "2026-10-20T12:00:00+09:00",
-      "dateLabel": "10/20 12:00",
-      "desc": "米ペンシルベニア大学や米ハバフォード大学に所属する研究者らが発表した論文「The Beginning of ChatGPT Ads」は、ChatGPTの広告がどのようなユーザーに、どのような基準で配信しているかを調査した研究報告だ。",
-      "img": "",
-      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
     },
     {
-      "title": "AIエージェントを自作する3つの方法！初心者でも無料から始められる手順",
-      "link": "https://ainow.ai/2026/10/12/278433/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e8%2587%25aa%25e4%25bd%259c%25e3%2581%2599%25e3%2582%258b3%25e3%2581%25a4%25e3%2581%25ae%25e6%2596%25b9%25e6%25b3%2595%25ef%25bc%2581%25e5%2588%259d%25e5%25bf%2583%25e8%2580%2585%25e3%2581%25a7%25e3%2582%2582",
-      "date": "2026-10-12T22:00:55+09:00",
-      "dateLabel": "10/12 22:00",
-      "desc": "AIエージェントは、作りたいものに合ったツールを選べば個人でも自作できます。本記事では、チャット型・自動化型・実行型の3つの自作方法と、Geminiスキル・n8n・Claude Codeを使った具体的な手順を解説します。... The post AIエージェントを自作する3つの方法！初心者でも無料から始められる手順 first appeared on AI専",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 32
-    },
-    {
-      "title": "Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ",
-      "link": "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
-      "date": "2026-10-15T00:57:19+09:00",
-      "dateLabel": "10/15 00:57",
-      "desc": "マイクロソフトはWindows 11上でAIエージェントを安全に動かすための隔離環境「Microsoft Execution Containers」（以下、MXC）の正式リリースを発表しました。 MXC is now GA on Windo...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 28
-    },
-    {
-      "title": "AIエージェントを自作する方法7選！無料で始める手順と費用の目安",
-      "link": "https://ainow.ai/2026/10/14/278439/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e8%2587%25aa%25e4%25bd%259c%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%25957%25e9%2581%25b8%25ef%25bc%2581%25e7%2584%25a1%25e6%2596%2599%25e3%2581%25a7%25e5%25a7%258b%25e3%2582%2581%25e3%2582%258b",
-      "date": "2026-10-14T21:30:49+09:00",
-      "dateLabel": "10/14 21:30",
-      "desc": "AIエージェントは、GeminiやClaudeの画面で指示文を登録するだけでも自作できます。本記事では、難易度別の7つの自作方法と、同じニュース要約エージェントを3通りの方法で作る手順を解説します。 「AIエージェントを... The post AIエージェントを自作する方法7選！無料で始める手順と費用の目安 first appeared on AI専門ニュ",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 28
-    },
-    {
-      "title": "地面に置くだけで「給水管の漏水位置」を自動特定 NTTが光ファイバセンシング×AIで世界初実証",
-      "link": "https://ascii.jp/elem/000/004/444/4444334/?rss",
-      "date": "2026-10-21T10:00:00+09:00",
-      "dateLabel": "10/21 10:00",
-      "desc": "水道設備の老朽化が進む中で、重要性を増しているのが「漏水探査」だ。しかし、その作業は熟練技術者のスキルに頼る部分が大きく、地方自治体を中心に「誰でも扱える技術」の登場が待ち望まれている。",
-      "img": "https://ascii.jp/img/2026/10/20/4541150/s/698c97548d185f46.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "「PC市場の成長ストップ」で苦戦のインテル 「半導体の崖」突破できるか、社長が語る変革への道筋",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/21/news013.html",
-      "date": "2026-10-21T07:00:00+09:00",
-      "dateLabel": "10/21 07:00",
-      "desc": "かつて“半導体の巨人”と呼ばれていたIntelは、PC市場の成長鈍化などを受け不調の中にある。AI時代で半導体需要が高まる中、“最大の経営課題”を解決して変革を起こせるか。",
+      "title": "OpenAIの常時稼働エージェント「Dots」、日本のユーザー数は「世界2位」 「仕事の在り方を大きく変える可能性」と長?社長",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/21/2000002457/",
+      "date": "2026-10-21T13:15:00+09:00",
+      "dateLabel": "10/21 13:15",
+      "desc": "「日本が世界2位」――米OpenAIの日本法人OpenAI Japanの長?忠雄社長は、OpenAIの新たなAIエージェント機能「Dots」のユーザー数についてこのように説明した。",
       "img": "",
       "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "TAIとエー・ディ・ティ、次世代AI半導体の市場展開に向けパートナーシップを締結",
+      "link": "https://ascii.jp/elem/000/004/444/4444572/?rss",
+      "date": "2026-10-21T13:00:00+09:00",
+      "dateLabel": "10/21 13:00",
+      "desc": "TAIとエー・ディ・ティ、次世代AI半導体の市場展開に向けパートナーシップを締結",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
       "cat": "半導体/GPU",
-      "score": 26
+      "score": 34
+    },
+    {
+      "title": "横浜スカイビル、超高層ビルの各フロア回遊を可視化。人流分析AI Agent「ミセシル」の導入インタビューを公開",
+      "link": "https://ascii.jp/elem/000/004/444/4444571/?rss",
+      "date": "2026-10-21T13:00:00+09:00",
+      "dateLabel": "10/21 13:00",
+      "desc": "横浜スカイビル、超高層ビルの各フロア回遊を可視化。人流分析AI Agent「ミセシル」の導入インタビューを公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "10/31開催「SORACOM UG Explorer 2026」全国10会場＋オンライン参加をご紹介",
+      "link": "https://ascii.jp/elem/000/004/444/4444453/?rss",
+      "date": "2026-10-21T13:00:00+09:00",
+      "dateLabel": "10/21 13:00",
+      "desc": "10/31開催「SORACOM UG Explorer 2026」全国10会場＋オンライン参加をご紹介",
+      "img": "https://ascii.jp/img/2026/10/21/4541392/s/c7caf6f880414b46.png",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "TIGEREYE、Enterprise AI Platform「NERVA」へのブランド刷新と、コーポレートWebサイトの全面リニューアルを発表",
+      "link": "https://ascii.jp/elem/000/004/444/4444573/?rss",
+      "date": "2026-10-21T12:59:19+09:00",
+      "dateLabel": "10/21 12:59",
+      "desc": "TIGEREYE、Enterprise AI Platform「NERVA」へのブランド刷新と、コーポレートWebサイトの全面リニューアルを発表",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "架空の統計データをウェブサイトで公開したらChatGPTが引用しまくっていたことが判明",
+      "link": "https://gigazine.net/news/20261021-ai-read-fake-statistics/",
+      "date": "2026-10-21T12:53:00+09:00",
+      "dateLabel": "10/21 12:53",
+      "desc": "AI検索ツールの開発に携わる研究者が、約5万ページ分の偽の統計データを保有するウェブサイトを立ち上げてAIに読まれるかどうかを検証するという実験を行いました。その結果、AIから大量のアクセスがあり、さらには架空のデータなのに論文やニュースなどで引用されるという事態に発展したことが分かりました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "AIとの音声対話でAs-Is／To-Beの業務フローを生成「ProcessAI」提供開始。企業の業務フロー作成負荷の削減や属人化を解消。",
+      "link": "https://ascii.jp/elem/000/004/444/4444575/?rss",
+      "date": "2026-10-21T12:41:58+09:00",
+      "dateLabel": "10/21 12:41",
+      "desc": "AIとの音声対話でAs-Is／To-Beの業務フローを生成「ProcessAI」提供開始。企業の業務フロー作成負荷の削減や属人化を解消。",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "サム・アルトマンに対して妹が起こした性的虐待訴訟は原告が第三者診断を拒否したため判事が棄却",
+      "link": "https://gigazine.net/news/20261021-sam-altmans-sexual-abuse-lawsuit-dismisses/",
+      "date": "2026-10-21T12:25:00+09:00",
+      "dateLabel": "10/21 12:25",
+      "desc": "連邦地方裁判所のザカリー・ブルーストーン判事は、OpenAIのサム・アルトマンCEOを相手取って、妹のアニー・アルトマン氏が「20年以上前に性的虐待を受けた」と訴えていた訴訟を棄却しました。裁判所はアニー氏に対して、第三者による健康診断を受けなければ訴訟を棄却すると警告しましたが、アニー氏は受診を拒否しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 34
+    },
+    {
+      "title": "AIに200万円渡してネットショップを1年運営させてみた──Alibabaの研究者らがシミュレーション 資産14倍の例も",
+      "link": "https://www.itmedia.co.jp/news/article/2610/21/2000002421/",
+      "date": "2026-10-21T12:00:00+09:00",
+      "dateLabel": "10/21 12:00",
+      "desc": "中国AlibabaのQwenチームや香港科技大学（HKUST）などに所属する研究者らが発表した論文「E-Commerce Bench: Evaluating LLM Agents on Long-Horizon Autonomous Business Operation」は、AIモデルに1年間のネットショップ経営を任せ、その長期的なビジネス運用能力を検証した",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
     }
   ]
 }
