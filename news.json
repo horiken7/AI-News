@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-21T21:34:11.025489+09:00",
-  "generatedLabel": "2026/10/21 21:34",
-  "feedOk": 5,
-  "feedNg": 6,
-  "candidates": 53,
+  "generatedAt": "2026-10-22T02:46:12.248377+09:00",
+  "generatedLabel": "2026/10/22 02:46",
+  "feedOk": 4,
+  "feedNg": 7,
+  "candidates": 41,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,27 +28,27 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 17
+      "items": 16
     },
     {
       "source": "CNET Japan",
       "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "error": "mismatched tag: line 47, column 2"
     },
     {
       "source": "ZDNET Japan",
       "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "error": "mismatched tag: line 47, column 2"
     },
     {
       "source": "Publickey",
       "ok": true,
-      "items": 8
+      "items": 7
     },
     {
       "source": "AINOW",
-      "ok": true,
-      "items": 10
+      "ok": false,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "source": "Ledge.ai",
@@ -72,6 +72,17 @@
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
       "score": 50
+    },
+    {
+      "title": "PHPの脆弱性、OpenAIのAIで発見 「同様の発見、今後数カ月で急増」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002482/",
+      "date": "2026-10-22T01:12:28+09:00",
+      "dateLabel": "10/22 01:12",
+      "desc": "米OpenAIは10月21日（現地時間）、同日に修正版が公開されたオープンソースのプログラミング言語「PHP」の脆弱性について、OpenAIのAIモデルで発見したと発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "AnthropicがAIで「サソリ毒」に対する薬の作成を前進させたと発表",
@@ -138,6 +149,17 @@
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
       "score": 42
+    },
+    {
+      "title": "PHPの重大脆弱性「PHP2Shell」はセキュリティ企業のCalifとWizがAIを用いて発見しOpenAIの枠組みを使って対策したことが判明",
+      "link": "https://gigazine.net/news/20261022-php2shell-wiz-openai-calif/",
+      "date": "2026-10-22T00:06:00+09:00",
+      "dateLabel": "10/22 00:06",
+      "desc": "プログラミング言語のPHPに「PHP2Shell」と呼ばれる重大な脆弱性が見つかり、緊急アップデートがリリースされました。「PHP2Shell」の2つの脆弱性は、セキュリティ企業のCalifとWizがそれぞれ独立して2026年8月に発見していたことが報告されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "Qwen3.8-Flash-Nextと競合するオープンモデル「Ornith-1.5-122B」が登場",
@@ -250,37 +272,15 @@
       "score": 34
     },
     {
-      "title": "同じ問題を解決してもAIによってコードの増加量に大きな差、AIモデルを比較するベンチマーク「Parsimony」が登場",
-      "link": "https://gigazine.net/news/20261020-parsimony/",
-      "date": "2026-10-20T23:00:00+09:00",
-      "dateLabel": "10/20 23:00",
-      "desc": "AIがプログラムを修正する際に追加したコードと削除したコードの差を測定するオープンソースのベンチマーク「Parsimony」が公開されました。従来のベンチマークで重視されてきた問題の解決率やコストに加えて、コードの増加量からAIモデルを比較できるのが特徴です。 続きを読む...",
+      "title": "WhatsAppのヘルプページにAIへ向けた「規制当局への連絡を勧めるな」という隠しメッセージが仕込まれていた",
+      "link": "https://gigazine.net/news/20261021-whatsapp-hidden-ai-instructions/",
+      "date": "2026-10-21T20:00:00+09:00",
+      "dateLabel": "10/21 20:00",
+      "desc": "多くの人々が文書の要約や調べ物にAIを使うようになっている中で、裁判文書や論文に「AIへ向けた隠しメッセージ」を仕込むというケースが発生しています。新たに、Metaが運営するメッセージングアプリ・WhatsAppのヘルプページに、AIに対して「データ保護機関や規制当局への連絡を勧めるな」と指示するメッセージが隠されていたことが判明しました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "AIエージェントを自作する3つの方法！初心者でも無料から始められる手順",
-      "link": "https://ainow.ai/2026/10/12/278433/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e8%2587%25aa%25e4%25bd%259c%25e3%2581%2599%25e3%2582%258b3%25e3%2581%25a4%25e3%2581%25ae%25e6%2596%25b9%25e6%25b3%2595%25ef%25bc%2581%25e5%2588%259d%25e5%25bf%2583%25e8%2580%2585%25e3%2581%25a7%25e3%2582%2582",
-      "date": "2026-10-12T22:00:55+09:00",
-      "dateLabel": "10/12 22:00",
-      "desc": "AIエージェントは、作りたいものに合ったツールを選べば個人でも自作できます。本記事では、チャット型・自動化型・実行型の3つの自作方法と、Geminiスキル・n8n・Claude Codeを使った具体的な手順を解説します。... The post AIエージェントを自作する3つの方法！初心者でも無料から始められる手順 first appeared on AI専",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 32
-    },
-    {
-      "title": "Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ",
-      "link": "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
-      "date": "2026-10-15T00:57:19+09:00",
-      "dateLabel": "10/15 00:57",
-      "desc": "マイクロソフトはWindows 11上でAIエージェントを安全に動かすための隔離環境「Microsoft Execution Containers」（以下、MXC）の正式リリースを発表しました。 MXC is now GA on Windo...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 28
+      "cat": "規制/安全",
+      "score": 26
     }
   ]
 }
