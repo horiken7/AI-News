@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-21T07:48:45.556370+09:00",
-  "generatedLabel": "2026/10/21 07:48",
+  "generatedAt": "2026-10-21T10:07:40.336766+09:00",
+  "generatedLabel": "2026/10/21 10:07",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 51,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 12
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -85,6 +85,28 @@
       "score": 50
     },
     {
+      "title": "わずか2週間でGitHubスター30万超 AIでリバースエンジニアリングする「REA」が話題",
+      "link": "https://ascii.jp/elem/000/004/444/4444350/?rss",
+      "date": "2026-10-21T09:55:00+09:00",
+      "dateLabel": "10/21 09:55",
+      "desc": "morluto氏がGitHubで公開しているAIエージェント向けのツール「REA（Reverse Engineer Anything）」が急速に人気を集めている。",
+      "img": "https://ascii.jp/img/2026/10/21/4541255/s/78f108033f817b01.png",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "工作機械の不具合対応を生成AIが支援、DMG森精機が新サービス",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/21/news034.html",
+      "date": "2026-10-21T07:45:00+09:00",
+      "dateLabel": "10/21 07:45",
+      "desc": "DMG森精機は、ユーザー専用のポータルサイト「my DMG MORI」において、生成AI（人工知能）を活用した新機能「サービスエージェント」の提供を開始したと発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "Rapidusで製造できるか、推論特化2nm世代半導体で医用画像処理システムを開発",
       "link": "https://monoist.itmedia.co.jp/mn/articles/2610/21/news045.html",
       "date": "2026-10-21T06:30:00+09:00",
@@ -123,17 +145,6 @@
       "date": "2026-10-20T12:00:00+09:00",
       "dateLabel": "10/20 12:00",
       "desc": "米ワシントン大学に所属する研究者らが発表した論文「Agentic Browsers and the Same-Origin Policy」は、AIエージェントがユーザーに代わってWeb操作を行うAIブラウザにおいて、メールやネットバンキングなどの機密情報が悪意あるサイトに窃取されるリスクを検証した研究報告だ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "「保守的な日本の現場に合う」導入2500時間の壁を壊す倉庫AI、IFS Softeonの真価",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/20/news044.html",
-      "date": "2026-10-20T06:30:00+09:00",
-      "dateLabel": "10/20 06:30",
-      "desc": "IFSとIFS Softeonは、倉庫向けAIの新機能「Fulfillment Flow」を発表した。6つの現場特化型AIエージェントが連携し、「部分最適のしわ寄せ」を解消する。同社 最高収益責任者（CRO）のメイリー氏へのインタビューを交え、あえてシステムを統合しない独自戦略や、保守的な日本の現場に適合するAIの姿と今後の展望をひもとく。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
@@ -250,6 +261,17 @@
       "score": 28
     },
     {
+      "title": "地面に置くだけで「給水管の漏水位置」を自動特定 NTTが光ファイバセンシング×AIで世界初実証",
+      "link": "https://ascii.jp/elem/000/004/444/4444334/?rss",
+      "date": "2026-10-21T10:00:00+09:00",
+      "dateLabel": "10/21 10:00",
+      "desc": "水道設備の老朽化が進む中で、重要性を増しているのが「漏水探査」だ。しかし、その作業は熟練技術者のスキルに頼る部分が大きく、地方自治体を中心に「誰でも扱える技術」の登場が待ち望まれている。",
+      "img": "https://ascii.jp/img/2026/10/20/4541150/s/698c97548d185f46.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "「PC市場の成長ストップ」で苦戦のインテル 「半導体の崖」突破できるか、社長が語る変革への道筋",
       "link": "https://www.itmedia.co.jp/business/articles/2610/21/news013.html",
       "date": "2026-10-21T07:00:00+09:00",
@@ -258,28 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "「6億台のコネクテッドカー」動かす光技術 IOWNは欧州のデータセンター危機を救うか？",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/21/news044.html",
-      "date": "2026-10-21T07:00:00+09:00",
-      "dateLabel": "10/21 07:00",
-      "desc": "生成AIの需要爆発で欧州データセンターの空き容量が逼迫する中、NTTが提唱する次世代光技術「IOWN」が脚光を浴びている。電力危機を打破する切り札として期待が高まる光通信革命の最前線を、オランダ現地取材から追う。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "「ニューラル・ネットは読み解ける」主張、元オープンAI研究者に真意を聞く",
-      "link": "https://ascii.jp/elem/000/004/444/4444339/?rss",
-      "date": "2026-10-21T06:46:51+09:00",
-      "dateLabel": "10/21 06:46",
-      "desc": "AIの解釈可能性研究を切り開いてきたグッドファイアの研究者ニック・カマラタのブログ投稿は、AIは理解できるという「良い知らせ」として熱狂的に受け止められた。だが本人は「何もかもが良い知らせというわけではありません」と言う。主張の核心は、完全な理解が不可能ではないという点だ。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 26
     }
   ]
