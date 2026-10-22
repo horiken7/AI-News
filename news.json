@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-22T14:35:32.832323+09:00",
-  "generatedLabel": "2026/10/22 14:35",
+  "generatedAt": "2026-10-22T19:49:57.919248+09:00",
+  "generatedLabel": "2026/10/22 19:49",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 57,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 18
+      "items": 20
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "ChatGPTやGeminiの性格診断結果をArtificial Analysisが公開、Gemini 4 Argonは媚びやすくClaude Fable 5.1は説得力がある",
+      "link": "https://gigazine.net/news/20261022-artificial-analysis-personalitybench/",
+      "date": "2026-10-22T19:14:00+09:00",
+      "dateLabel": "10/22 19:14",
+      "desc": "AIの性能分析を行っているArtificial Analysisが、各種AIの性格を分析するベンチマークテスト「AA-PersonalityBench」を開発し、その結果を公開しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 66
+    },
+    {
       "title": "Anthropic版常時稼働エージェント「Claude Duet」発表 Opus 5.5ベースで設計 Pro／Maxプランで提供",
       "link": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002490/",
       "date": "2026-10-22T10:43:38+09:00",
@@ -85,13 +96,24 @@
       "score": 50
     },
     {
-      "title": "通信契約不要のeSIM内蔵AI「Plaud One」国内初公開 会議の記録から文書作成まで支援",
-      "link": "https://ascii.jp/elem/000/004/444/4444755/?rss",
-      "date": "2026-10-22T13:45:00+09:00",
-      "dateLabel": "10/22 13:45",
-      "desc": "PLAUDが通信契約不要のeSIM内蔵AI「Plaud One」を国内初公開。会議の記録から文書作成まで支援する。録音データの転送・文字起こし・要約を自動化する「Plaud Note Pro Flow Edition」は10月29日発売、価格は2万9700円。",
-      "img": "https://ascii.jp/img/2026/10/22/4541836/s/4c844341a28ae31a.jpg",
+      "title": "UPDF AI、GPT系の最新モデルとDeepSeek V4.1 Flashへアップデート―論文読解・文献調査・資料整理を支援",
+      "link": "https://ascii.jp/elem/000/004/445/4445060/?rss",
+      "date": "2026-10-22T17:30:44+09:00",
+      "dateLabel": "10/22 17:30",
+      "desc": "UPDF AI、GPT系の最新モデルとDeepSeek V4.1 Flashへアップデート―論文読解・文献調査・資料整理を支援",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "数千体のAIが数百万個の脳細胞データをわずか32分で分析、アルツハイマー病やパーキンソン病の研究につながる新たな手掛かりを発見",
+      "link": "https://gigazine.net/news/20261022-openai-research-complex-biological-data/",
+      "date": "2026-10-22T17:10:00+09:00",
+      "dateLabel": "10/22 17:10",
+      "desc": "OpenAIは2026年10月21日、数千体のAIエージェントを使って数百万個のマウスの脳細胞から得られた実験データをわずか32分で分析し、アルツハイマー病やパーキンソン病などの研究につながる新たな手掛かりを発見したと発表しました。人間の研究者なら数カ月から1年かかると推定される分析を短時間で実施し、これまで見落とされていた可能性のある遺伝子の働きについて新",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 42
     },
@@ -151,25 +173,36 @@
       "score": 42
     },
     {
-      "title": "SORACOM IoTストアに漏水監視パッケージ登場、旭光電機「漏水みはり番」を販売開始",
-      "link": "https://ascii.jp/elem/000/004/444/4444874/?rss",
-      "date": "2026-10-22T14:30:00+09:00",
-      "dateLabel": "10/22 14:30",
-      "desc": "SORACOM IoTストアが旭光電機のIoT漏水監視ソリューション「漏水みはり番」の販売を開始し、デバイスからアプリまで一体化した3年利用のパッケージを72,600円で提供する。",
-      "img": "https://ascii.jp/img/2026/10/22/4541874/s/21625a4166be6e0a.jpg",
+      "title": "SamuraiAX、業務AIエージェントOS「Samurai App」で、決まった手順を書いた順のとおりに実行する「ワークフロー」を、チャットで頼んで作れる機能を提供",
+      "link": "https://ascii.jp/elem/000/004/445/4445088/?rss",
+      "date": "2026-10-22T17:49:08+09:00",
+      "dateLabel": "10/22 17:49",
+      "desc": "SamuraiAX、業務AIエージェントOS「Samurai App」で、決まった手順を書いた順のとおりに実行する「ワークフロー」を、チャットで頼んで作れる機能を提供",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
-      "title": "RTX 5070 Ti×240Hz液晶でゲームも配信も！ MSIの16型ゲーミングノート「Raider 16 HX」発売",
-      "link": "https://ascii.jp/elem/000/004/444/4444797/?rss",
-      "date": "2026-10-22T14:15:00+09:00",
-      "dateLabel": "10/22 14:15",
-      "desc": "MSIが10月22日に発売する「Raider-16-HX-B2WH-2689JP」は、Core Ultra 9 275HXとGeForce RTX 5070 Ti Laptop GPUを搭載した16インチハイエンドゲーミングノートだ。240Hz対応WQXGAディスプレイ、32GBメモリ、1TB SSD、Thunderbolt 4×2などを備え、ゲームからクリ",
-      "img": "https://ascii.jp/img/2026/10/22/4541859/s/24aa381583bb6c77.png",
+      "title": "SamuraiAX、業務AIエージェントOS「Samurai App」で、AIへ送る前にファイルや文章の個人情報・秘密情報に気付き、伏せて送れる機能を提供",
+      "link": "https://ascii.jp/elem/000/004/445/4445059/?rss",
+      "date": "2026-10-22T17:34:33+09:00",
+      "dateLabel": "10/22 17:34",
+      "desc": "SamuraiAX、業務AIエージェントOS「Samurai App」で、AIへ送る前にファイルや文章の個人情報・秘密情報に気付き、伏せて送れる機能を提供",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "半導体/GPU",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "月面で初のスーパーコンピューター性能テストをHPEとNASAが計画、AIによる地形解析やサイバー攻撃検知も実施へ",
+      "link": "https://gigazine.net/news/20261022-hpt-nasa-moon-ai-benchmark/",
+      "date": "2026-10-22T15:00:00+09:00",
+      "dateLabel": "10/22 15:00",
+      "desc": "Hewlett Packard Enterprise(HPE)が2026年10月20日、月面で高性能コンピューティング(HPC)の性能測定やAIの動作実験を実施する計画を発表しました。2026年後半に打ち上げ予定の月面探査機に小型コンピューター「HPE Spaceborne Computer-4」を搭載し、月面でのデータ処理技術の実用性を検証します。 続きを",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
       "score": 34
     },
     {
@@ -181,17 +214,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "業務活用のためのAI資格『AI業務支援士』養成研修に「Copilot特化コース」が登場",
-      "link": "https://ascii.jp/elem/000/004/444/4444905/?rss",
-      "date": "2026-10-22T13:30:29+09:00",
-      "dateLabel": "10/22 13:30",
-      "desc": "業務活用のためのAI資格『AI業務支援士』養成研修に「Copilot特化コース」が登場",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -228,39 +250,6 @@
       "score": 34
     },
     {
-      "title": "Qwen3.8-Flash-Nextと競合するオープンモデル「Ornith-1.5-122B」が登場",
-      "link": "https://gigazine.net/news/20261021-ornith-1-5-122b/",
-      "date": "2026-10-21T16:49:00+09:00",
-      "dateLabel": "10/21 16:49",
-      "desc": "AI研究組織のOrnithがAIモデル「Ornith-1.5-122B」を2026年10月20日に公開しました。同等規模のオープンモデルと比べて高性能であることがアピールされています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "「政府機関向けGemini」登場 米国政府・自治体と共同開発 データをプライベートクラウドに保持",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/21/2000002470/",
-      "date": "2026-10-21T16:41:52+09:00",
-      "dateLabel": "10/21 16:41",
-      "desc": "Google Cloudが米政府機関向け「Gemini for government services」をプレビュー公開。州政府や連邦機関と共同開発し、データは機関のプライベートな環境に保持、許可なく学習に使わないとうたう。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "OpenAIの常時稼働エージェント「dots」、日本のユーザー数は「世界2位」 「仕事の在り方を大きく変える可能性」と長?社長",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/21/2000002457/",
-      "date": "2026-10-21T15:43:26+09:00",
-      "dateLabel": "10/21 15:43",
-      "desc": "「日本が世界2位」――米OpenAIの日本法人OpenAI Japanの長?忠雄社長は、OpenAIの新たなAIエージェント機能「dots」のユーザー数についてこのように説明した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "AIエージェントを自作する3つの方法！初心者でも無料から始められる手順",
       "link": "https://ainow.ai/2026/10/12/278433/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e8%2587%25aa%25e4%25bd%259c%25e3%2581%2599%25e3%2582%258b3%25e3%2581%25a4%25e3%2581%25ae%25e6%2596%25b9%25e6%25b3%2595%25ef%25bc%2581%25e5%2588%259d%25e5%25bf%2583%25e8%2580%2585%25e3%2581%25a7%25e3%2582%2582",
       "date": "2026-10-12T22:00:55+09:00",
@@ -272,14 +261,25 @@
       "score": 32
     },
     {
-      "title": "AIツール「LiteLLM」にパスワードを盗む不正プログラムが混入、インストールするだけで別のPythonプログラムにも影響",
-      "link": "https://gigazine.net/news/20261022-litellm-backdoor/",
-      "date": "2026-10-22T14:25:00+09:00",
-      "dateLabel": "10/22 14:25",
-      "desc": "複数のAIモデルを簡単に利用できるオープンソースツール「LiteLLM」のバージョン1.107.0にパスワードなどを盗み出す不正プログラムが仕込まれていたことが判明しました。不正プログラムはLiteLLMをインストールした環境でPythonを起動するだけで実行される仕組みで、攻撃者が遠隔操作で別のプログラムを実行できる機能も備えていたとのことです。 続きを読",
+      "title": "手のひらサイズの“宇宙AIデータセンター”？ JAXA後押しの国内新興が実現目指す 南極・高山での利用も視野",
+      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002510/",
+      "date": "2026-10-22T18:00:00+09:00",
+      "dateLabel": "10/22 18:00",
+      "desc": "宇宙で取得したデータをその場で小型のAIに処理させ、軽量化してから地上に下ろす──という仕組みの実現を目指す日本初ベンチャー、技術開発の進捗は。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "「長い目で見れば防御側が有利」はなぜ？ 守る側のAI活用法、本命は Webセキュリティ専門家に聞く",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002521/",
+      "date": "2026-10-22T17:13:05+09:00",
+      "dateLabel": "10/22 17:13",
+      "desc": "AIエージェントによるWebサイト攻撃を観測したビットフォレスト。同社のWAF開発責任者は「AIは新しい攻撃ジャンルを生んでいない」と語る。守る側のAI活用の本命と「防御側が有利」の理由を聞いた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
