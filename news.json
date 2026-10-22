@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-23T00:43:46.968622+09:00",
-  "generatedLabel": "2026/10/23 00:43",
+  "generatedAt": "2026-10-23T04:37:25.030574+09:00",
+  "generatedLabel": "2026/10/23 04:37",
   "feedOk": 6,
   "feedNg": 5,
   "candidates": 55,
@@ -151,17 +151,6 @@
       "score": 42
     },
     {
-      "title": "PHPの脆弱性、OpenAIのAIで発見 「同様の発見、今後数カ月で急増」",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002482/",
-      "date": "2026-10-22T01:12:28+09:00",
-      "dateLabel": "10/22 01:12",
-      "desc": "米OpenAIは10月21日（現地時間）、同日に修正版が公開されたオープンソースのプログラミング言語「PHP」の脆弱性について、OpenAIのAIモデルで発見したと発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "990gで32GB＋1TB、有機ELまで！ ASUS「Zenbook SORA」が12％オフの28万9800円",
       "link": "https://ascii.jp/elem/000/004/444/4444518/?rss",
       "date": "2026-10-22T22:10:00+09:00",
@@ -225,6 +214,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "PHPの脆弱性、OpenAIのAIで発見 「同様の発見、今後数カ月で急増」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002482/",
+      "date": "2026-10-22T01:12:28+09:00",
+      "dateLabel": "10/22 01:12",
+      "desc": "米OpenAIは10月21日（現地時間）、同日に修正版が公開されたオープンソースのプログラミング言語「PHP」の脆弱性について、OpenAIのAIモデルで発見したと発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
