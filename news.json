@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-22T06:01:20.773767+09:00",
-  "generatedLabel": "2026/10/22 06:01",
+  "generatedAt": "2026-10-22T09:18:37.856916+09:00",
+  "generatedLabel": "2026/10/22 09:18",
   "feedOk": 4,
   "feedNg": 7,
-  "candidates": 41,
+  "candidates": 39,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 16
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -63,17 +63,6 @@
   ],
   "articles": [
     {
-      "title": "PFNとTenstorrentがタッグ、生成AI特化プロセッサ開発へ 超高メモリ帯域幅、光電融合技術を実装",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/21/2000002438/",
-      "date": "2026-10-21T07:00:00+09:00",
-      "dateLabel": "10/21 07:00",
-      "desc": "Preferred Networks（以下、PFN）と米Tenstorrentが、AIの学習・推論を高性能・高効率に実行可能な生成AI向けプロセッサを含むシステム開発を共同で始めた。CPUの開発は米Tenstorrentが担い、米NVIDIAのGPUがデファクトスタンダードとなっている「AIプロセッサ」の開発はPFNが担う。光電融合技術と最先端パッケージング",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
       "title": "PHPの脆弱性、OpenAIのAIで発見 「同様の発見、今後数カ月で急増」",
       "link": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002482/",
       "date": "2026-10-22T01:12:28+09:00",
@@ -96,28 +85,6 @@
       "score": 42
     },
     {
-      "title": "DeepSeekがAI推論システム「DeepInfer」を公開、DeepSeekの本番サービスで実際に使われているシステムのオープンソース版",
-      "link": "https://gigazine.net/news/20261021-deepseek-deepinfer-recipe/",
-      "date": "2026-10-21T10:53:00+09:00",
-      "dateLabel": "10/21 10:53",
-      "desc": "中国企業のDeepSeekがAIを大規模サービス展開するための推論システム「DeepInfer」をオープンソース化しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "OpenAIが医薬品開発プラットフォームのOrchestra Bioを買収",
-      "link": "https://gigazine.net/news/20261021-openai-acquires-orchestra-bio/",
-      "date": "2026-10-21T10:46:00+09:00",
-      "dateLabel": "10/21 10:46",
-      "desc": "OpenAIがバイオ医薬品向けの開発プラットフォームを展開しているOrchestra Bioを買収したと発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "OpenAI、「COBOL」など学習リソースの少ない言語でのコーディング能力が大幅向上 COBOL移行の正解率は最大97.9％に",
       "link": "https://www.itmedia.co.jp/news/article/2610/21/2000002447/",
       "date": "2026-10-21T10:35:42+09:00",
@@ -129,26 +96,26 @@
       "score": 42
     },
     {
-      "title": "工作機械の不具合対応を生成AIが支援、DMG森精機が新サービス",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/21/news034.html",
-      "date": "2026-10-21T07:45:00+09:00",
-      "dateLabel": "10/21 07:45",
-      "desc": "DMG森精機は、ユーザー専用のポータルサイト「my DMG MORI」において、生成AI（人工知能）を活用した新機能「サービスエージェント」の提供を開始したと発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "Rapidusで製造できるか、推論特化2nm世代半導体で医用画像処理システムを開発",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/21/news045.html",
-      "date": "2026-10-21T06:30:00+09:00",
-      "dateLabel": "10/21 06:30",
-      "desc": "LSTCと北海道大学、富士フイルム、GEヘルスケア・ジャパン、imecが、推論に特化した2nm世代半導体を活用する医用画像処理システムの開発プロジェクトについて説明。現行GPUと比較して画像処理速度5倍以上、画像処理のエネルギー効率10倍以上の達成を目指す中で、2nm世代半導体の製造はRapidusが望ましいものの現時点では未定とした。",
+      "title": "SynopsysとAnsysの技術統合が切り開く、AI時代の新たな設計／解析プロセス",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/22/news029.html",
+      "date": "2026-10-22T07:00:00+09:00",
+      "dateLabel": "10/22 07:00",
+      "desc": "アンシス・ジャパンは、年次イベント「Ansys Simulation World 2026 Japan」を開催した。基調講演と特別セッションでは、SynopsysとAnsysの技術統合によって進む半導体からシステム全体までを対象とした設計／解析環境の進化や、AIと物理シミュレーションを組み合わせたエンジニアリングの将来像を紹介。さらに、AIエージェントによる",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
-      "score": 42
+      "score": 34
+    },
+    {
+      "title": "旧世代NVIDIAを循環利用、クラウド接続の「自社専用AI基盤」を1GPUから提供",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/22/news039.html",
+      "date": "2026-10-22T06:45:00+09:00",
+      "dateLabel": "10/22 06:45",
+      "desc": "エクストリームーDら3社は、中古GPUを活用したAIインフラサービス「Raplase RCA」を開始した。最短即日かつ1GPUから定額利用でき、柔軟な構成変更にも対応する。機密データを扱う製造業が求める「プライベートAI」を低コストで実現する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 34
     },
     {
       "title": "PHPの重大脆弱性「PHP2Shell」はセキュリティ企業のCalifとWizがAIを用いて発見しOpenAIの枠組みを使って対策したことが判明",
@@ -272,14 +239,47 @@
       "score": 34
     },
     {
-      "title": "WhatsAppのヘルプページにAIへ向けた「規制当局への連絡を勧めるな」という隠しメッセージが仕込まれていた",
-      "link": "https://gigazine.net/news/20261021-whatsapp-hidden-ai-instructions/",
-      "date": "2026-10-21T20:00:00+09:00",
-      "dateLabel": "10/21 20:00",
-      "desc": "多くの人々が文書の要約や調べ物にAIを使うようになっている中で、裁判文書や論文に「AIへ向けた隠しメッセージ」を仕込むというケースが発生しています。新たに、Metaが運営するメッセージングアプリ・WhatsAppのヘルプページに、AIに対して「データ保護機関や規制当局への連絡を勧めるな」と指示するメッセージが隠されていたことが判明しました。 続きを読む...",
+      "title": "Google Cloudに「Astra」含むOpenAIのモデルが追加 「主要3社のクローズドモデル使える唯一のハイパースケーラー」に",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002487/",
+      "date": "2026-10-22T08:52:59+09:00",
+      "dateLabel": "10/22 08:52",
+      "desc": "Google CloudのModel GardenにOpenAIの「GPT-6 Astra」「GPT-6.1 Sol」「GPT-6 Luna」が追加された。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "AIで“ゴジラになって”街破壊 富士通が体験型展示 「体操の採点システム」活用",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002364/",
+      "date": "2026-10-22T08:00:00+09:00",
+      "dateLabel": "10/22 08:00",
+      "desc": "AIで“ゴジラになって”街を破壊する――富士通が「CEATEC 2026」で公開した体験型展示「GODZILLA in Motion」の狙いとは。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "なぜルネサスは、TSMCに勝てなかったのか “電子立国ニッポン”当時を知る日立のキーマンが語る",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/22/news021.html",
+      "date": "2026-10-22T07:00:00+09:00",
+      "dateLabel": "10/22 07:00",
+      "desc": "業績が好調な半導体大手のTSMC。かつては日本も半導体が強い時期があった。なぜルネサスは勝てなかったのか。当時を知る日立製作所のキーマンが語った。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "クレーム対応ばかりでオペレーターが辞めていく 「カスハラ義務化」時代にAIはどう現場を守る？",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/22/news033.html",
+      "date": "2026-10-22T07:00:00+09:00",
+      "dateLabel": "10/22 07:00",
+      "desc": "簡単な問い合わせをAIに任せた結果、現場に難解なクレームだけが残りオペレーターが疲弊する――。AI導入で起きるコンタクトセンターの皮肉な逆転現象と、カスハラ対策義務化に企業はどう向き合うべきか。世界大手Genesysのアジア太平洋営業責任者に、業務支援AIによる現場防衛術や「65％は人間と話したい」という顧客心理、そしてコスト削減の自動化からCX向上へシフト",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
