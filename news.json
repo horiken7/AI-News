@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-22T09:18:37.856916+09:00",
-  "generatedLabel": "2026/10/22 09:18",
-  "feedOk": 4,
-  "feedNg": 7,
-  "candidates": 39,
+  "generatedAt": "2026-10-22T14:35:32.832323+09:00",
+  "generatedLabel": "2026/10/22 14:35",
+  "feedOk": 6,
+  "feedNg": 5,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -17,8 +17,8 @@
     },
     {
       "source": "ASCII.jp",
-      "ok": false,
-      "error": "HTTP Error 503: Service Temporarily Unavailable"
+      "ok": true,
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -47,8 +47,8 @@
     },
     {
       "source": "AINOW",
-      "ok": false,
-      "error": "HTTP Error 503: Service Unavailable"
+      "ok": true,
+      "items": 10
     },
     {
       "source": "Ledge.ai",
@@ -63,6 +63,83 @@
   ],
   "articles": [
     {
+      "title": "Anthropic版常時稼働エージェント「Claude Duet」発表 Opus 5.5ベースで設計 Pro／Maxプランで提供",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002490/",
+      "date": "2026-10-22T10:43:38+09:00",
+      "dateLabel": "10/22 10:43",
+      "desc": "Anthropicは常時稼働エージェント「Claude Duet」のリサーチプレビューを公開した。「Claude Opus 5.5」をベースに設計し、タスクの優先度などの判断力に優れるという。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 58
+    },
+    {
+      "title": "人間の指示なしでAIが自発的にタスクを実行するClaudeのエージェントアプリ「Claude Duet」が発表される",
+      "link": "https://gigazine.net/news/20261022-claude-duet/",
+      "date": "2026-10-22T10:37:00+09:00",
+      "dateLabel": "10/22 10:37",
+      "desc": "AI企業のAnthropicがAIエージェントアプリ「Claude Duet」を発表しました。Claude Opus 5.5を基盤に動作するAIエージェントで、AIが自発的に情報収集したり通知を送信したりしてくれます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
+      "title": "通信契約不要のeSIM内蔵AI「Plaud One」国内初公開 会議の記録から文書作成まで支援",
+      "link": "https://ascii.jp/elem/000/004/444/4444755/?rss",
+      "date": "2026-10-22T13:45:00+09:00",
+      "dateLabel": "10/22 13:45",
+      "desc": "PLAUDが通信契約不要のeSIM内蔵AI「Plaud One」を国内初公開。会議の記録から文書作成まで支援する。録音データの転送・文字起こし・要約を自動化する「Plaud Note Pro Flow Edition」は10月29日発売、価格は2万9700円。",
+      "img": "https://ascii.jp/img/2026/10/22/4541836/s/4c844341a28ae31a.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "NVIDIAが顧客の離脱や不正利用を追加学習なしで予測するAI「Kumo Relational」を発表",
+      "link": "https://gigazine.net/news/20261022-nvidia-kumo-relational/",
+      "date": "2026-10-22T13:30:00+09:00",
+      "dateLabel": "10/22 13:30",
+      "desc": "インターネットサービス等を展開する企業のデータベースを読み込ませることで、予測する内容に応じた追加学習を行うことなくデータを分析できるAI「Kumo Relational」がNVIDIAからリリースされました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "Anthropic、Claudeでソフトウェアのアタックサーフェスを洗い出し・縮小する研究を公開 OpenSSHの修正にも貢献",
+      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002498/",
+      "date": "2026-10-22T11:48:47+09:00",
+      "dateLabel": "10/22 11:48",
+      "desc": "Anthropicは、AIモデル「Claude」でソフトウェアの攻撃対象領域を分析・縮小する研究結果を公開した。オープンソース25件を分析し、設定矛盾など493件の問題を特定。「OpenSSH」では、認証前に到達可能なコードを約5分の1削減し、最新版に対策が反映された。手法は脆弱性検出サービス「OSS Scanner」に組み込まれる。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "ChatGPTの広告主はすでに10万社を超えている",
+      "link": "https://gigazine.net/news/20261022-chatgpt-ads/",
+      "date": "2026-10-22T11:32:00+09:00",
+      "dateLabel": "10/22 11:32",
+      "desc": "OpenAIがChatGPTの広告提供地域を拡大したことを発表しました。合わせて、広告主がすでに10万社を超えていることも明かされています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "GoogleとOpenAIが提携、Google Cloudで「GPT-6 Astra」などOpenAIのAIモデルを提供へ",
+      "link": "https://gigazine.net/news/20261022-google-cloud-openai-models/",
+      "date": "2026-10-22T10:11:00+09:00",
+      "dateLabel": "10/22 10:11",
+      "desc": "OpenAIがGoogle CloudのAIモデル提供基盤「Model Garden」を通じてOpenAIの最新AIモデルを提供すると発表しました。これにより、Google Cloudの利用者はOpenAIのAIモデルを既存のクラウド環境から直接利用できるようになります。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "PHPの脆弱性、OpenAIのAIで発見 「同様の発見、今後数カ月で急増」",
       "link": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002482/",
       "date": "2026-10-22T01:12:28+09:00",
@@ -74,26 +151,48 @@
       "score": 42
     },
     {
-      "title": "AnthropicがAIで「サソリ毒」に対する薬の作成を前進させたと発表",
-      "link": "https://gigazine.net/news/20261021-claude-designed-protein-against-scorpion-neurotoxins/",
-      "date": "2026-10-21T12:04:00+09:00",
-      "dateLabel": "10/21 12:04",
-      "desc": "Claudeにタンパク質を設計させることで、サソリ毒の作用を阻害する可能性のあるものを17種類生成したとAnthropicが発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
+      "title": "SORACOM IoTストアに漏水監視パッケージ登場、旭光電機「漏水みはり番」を販売開始",
+      "link": "https://ascii.jp/elem/000/004/444/4444874/?rss",
+      "date": "2026-10-22T14:30:00+09:00",
+      "dateLabel": "10/22 14:30",
+      "desc": "SORACOM IoTストアが旭光電機のIoT漏水監視ソリューション「漏水みはり番」の販売を開始し、デバイスからアプリまで一体化した3年利用のパッケージを72,600円で提供する。",
+      "img": "https://ascii.jp/img/2026/10/22/4541874/s/21625a4166be6e0a.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
     },
     {
-      "title": "OpenAI、「COBOL」など学習リソースの少ない言語でのコーディング能力が大幅向上 COBOL移行の正解率は最大97.9％に",
-      "link": "https://www.itmedia.co.jp/news/article/2610/21/2000002447/",
-      "date": "2026-10-21T10:35:42+09:00",
-      "dateLabel": "10/21 10:35",
-      "desc": "OpenAIは、学習データの少ない「COBOL」や「Fortran」などの言語について、最新モデルの開発・移行能力が大幅に向上したと発表した。「GPT-6 Astra」は20言語でのエンジン構築評価で平均87.4％の合格率を達成。COBOLから現代言語への移行テストでも高い正解率を記録した。",
+      "title": "RTX 5070 Ti×240Hz液晶でゲームも配信も！ MSIの16型ゲーミングノート「Raider 16 HX」発売",
+      "link": "https://ascii.jp/elem/000/004/444/4444797/?rss",
+      "date": "2026-10-22T14:15:00+09:00",
+      "dateLabel": "10/22 14:15",
+      "desc": "MSIが10月22日に発売する「Raider-16-HX-B2WH-2689JP」は、Core Ultra 9 275HXとGeForce RTX 5070 Ti Laptop GPUを搭載した16インチハイエンドゲーミングノートだ。240Hz対応WQXGAディスプレイ、32GBメモリ、1TB SSD、Thunderbolt 4×2などを備え、ゲームからクリ",
+      "img": "https://ascii.jp/img/2026/10/22/4541859/s/24aa381583bb6c77.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "NVIDIAが「社内に蓄積した大量の情報をAIで扱えるようにデータ整形して検索可能にするモデル群」を無償公開",
+      "link": "https://gigazine.net/news/20261022-nvidia-nemotron-retriever-embed-rerank-parse/",
+      "date": "2026-10-22T13:58:00+09:00",
+      "dateLabel": "10/22 13:58",
+      "desc": "NVIDIAが検索拡張生成(RAG)用のAIモデル群「Nemotron Retriever」に5種類のモデルを追加しました。すべてのモデルがオープンモデルとして無償公開されています。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "業務活用のためのAI資格『AI業務支援士』養成研修に「Copilot特化コース」が登場",
+      "link": "https://ascii.jp/elem/000/004/444/4444905/?rss",
+      "date": "2026-10-22T13:30:29+09:00",
+      "dateLabel": "10/22 13:30",
+      "desc": "業務活用のためのAI資格『AI業務支援士』養成研修に「Copilot特化コース」が登場",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "SynopsysとAnsysの技術統合が切り開く、AI時代の新たな設計／解析プロセス",
@@ -162,124 +261,25 @@
       "score": 34
     },
     {
-      "title": "車載版Geminiがもっと各ユーザーに最適化される予定、GmailやGoogleカレンダーなどと連携可能に",
-      "link": "https://gigazine.net/news/20261021-google-personal-intelligence-with-gemini/",
-      "date": "2026-10-21T15:26:00+09:00",
-      "dateLabel": "10/21 15:26",
-      "desc": "Googleはスマートフォンに接続することなく、車載システムに直接組み込まれたGoogleアプリやサービスを利用できる「Google built-in」を提供しています。このGoogle built-inで、GoogleのAIアシスタント・Geminiを利用可能となっているのですが、このGeminiをさらにパーソナライズする機能をGoogleが発表しました。",
+      "title": "AIエージェントを自作する3つの方法！初心者でも無料から始められる手順",
+      "link": "https://ainow.ai/2026/10/12/278433/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e8%2587%25aa%25e4%25bd%259c%25e3%2581%2599%25e3%2582%258b3%25e3%2581%25a4%25e3%2581%25ae%25e6%2596%25b9%25e6%25b3%2595%25ef%25bc%2581%25e5%2588%259d%25e5%25bf%2583%25e8%2580%2585%25e3%2581%25a7%25e3%2582%2582",
+      "date": "2026-10-12T22:00:55+09:00",
+      "dateLabel": "10/12 22:00",
+      "desc": "AIエージェントは、作りたいものに合ったツールを選べば個人でも自作できます。本記事では、チャット型・自動化型・実行型の3つの自作方法と、Geminiスキル・n8n・Claude Codeを使った具体的な手順を解説します。... The post AIエージェントを自作する3つの方法！初心者でも無料から始められる手順 first appeared on AI専",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "AnthropicのIPO目論見書草案で118兆円超えの支出予定が判明、2026年上半期は約12兆円の純損失＆売上は半年で10倍以上の成長",
-      "link": "https://gigazine.net/news/20261021-anthropic-wsj-reports/",
-      "date": "2026-10-21T13:55:00+09:00",
-      "dateLabel": "10/21 13:55",
-      "desc": "Anthropicが2026年上半期に800億ドル(約12兆円)を超える純損失を計上し、今後数年間でコンピューティング能力の増強に最大7500億ドル(約118兆円)を投じる可能性があることが新規株式公開(IPO)目論見書草案で示されました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "架空の統計データをウェブサイトで公開したらChatGPTが引用しまくっていたことが判明",
-      "link": "https://gigazine.net/news/20261021-ai-read-fake-statistics/",
-      "date": "2026-10-21T12:53:00+09:00",
-      "dateLabel": "10/21 12:53",
-      "desc": "AI検索ツールの開発に携わる研究者が、約5万ページ分の偽の統計データを保有するウェブサイトを立ち上げてAIに読まれるかどうかを検証するという実験を行いました。その結果、AIから大量のアクセスがあり、さらには架空のデータなのに論文やニュースなどで引用されるという事態に発展したことが分かりました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "サム・アルトマンに対して妹が起こした性的虐待訴訟は原告が第三者診断を拒否したため判事が棄却",
-      "link": "https://gigazine.net/news/20261021-sam-altmans-sexual-abuse-lawsuit-dismisses/",
-      "date": "2026-10-21T12:25:00+09:00",
-      "dateLabel": "10/21 12:25",
-      "desc": "連邦地方裁判所のザカリー・ブルーストーン判事は、OpenAIのサム・アルトマンCEOを相手取って、妹のアニー・アルトマン氏が「20年以上前に性的虐待を受けた」と訴えていた訴訟を棄却しました。裁判所はアニー氏に対して、第三者による健康診断を受けなければ訴訟を棄却すると警告しましたが、アニー氏は受診を拒否しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "AIに200万円渡してネットショップを1年運営させてみた──Alibabaの研究者らがシミュレーション 資産14倍の例も",
-      "link": "https://www.itmedia.co.jp/news/article/2610/21/2000002421/",
-      "date": "2026-10-21T12:00:00+09:00",
-      "dateLabel": "10/21 12:00",
-      "desc": "中国AlibabaのQwenチームや香港科技大学（HKUST）などに所属する研究者らが発表した論文「E-Commerce Bench: Evaluating LLM Agents on Long-Horizon Autonomous Business Operation」は、AIモデルに1年間のネットショップ経営を任せ、その長期的なビジネス運用能力を検証した",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "MetaのAIエージェントアプリ「Muse」が40日間で1000万ダウンロードを突破",
-      "link": "https://gigazine.net/news/20261021-meta-muse-hits-10-million-us/",
-      "date": "2026-10-21T11:59:00+09:00",
-      "dateLabel": "10/21 11:59",
-      "desc": "MetaのAIエージェントアプリ「Muse」が、リリースから40日間でアメリカでのダウンロード数が1000万回を突破したことが明らかになりました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
+      "src": "AINOW",
       "cat": "AIエージェント/業務",
-      "score": 34
+      "score": 32
     },
     {
-      "title": "「Gemini Notebook」で始める「AI×自動化」実践ガイド",
-      "link": "https://kn.itmedia.co.jp/kn/article/2610/21/2000002450/",
-      "date": "2026-10-21T11:35:46+09:00",
-      "dateLabel": "10/21 11:35",
-      "desc": "資料の整理からレクチャー資料や情報共有コンテンツの作成まで、幅広く活用できるGemini Notebook。Studio機能の使い方や実践例、生成コンテンツの利用時に押さえておきたい注意点を、自治体の事例も交えて紹介する。日々の業務を効率化するヒントを探る。",
+      "title": "AIツール「LiteLLM」にパスワードを盗む不正プログラムが混入、インストールするだけで別のPythonプログラムにも影響",
+      "link": "https://gigazine.net/news/20261022-litellm-backdoor/",
+      "date": "2026-10-22T14:25:00+09:00",
+      "dateLabel": "10/22 14:25",
+      "desc": "複数のAIモデルを簡単に利用できるオープンソースツール「LiteLLM」のバージョン1.107.0にパスワードなどを盗み出す不正プログラムが仕込まれていたことが判明しました。不正プログラムはLiteLLMをインストールした環境でPythonを起動するだけで実行される仕組みで、攻撃者が遠隔操作で別のプログラムを実行できる機能も備えていたとのことです。 続きを読",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Google Cloudに「Astra」含むOpenAIのモデルが追加 「主要3社のクローズドモデル使える唯一のハイパースケーラー」に",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002487/",
-      "date": "2026-10-22T08:52:59+09:00",
-      "dateLabel": "10/22 08:52",
-      "desc": "Google CloudのModel GardenにOpenAIの「GPT-6 Astra」「GPT-6.1 Sol」「GPT-6 Luna」が追加された。",
-      "img": "",
-      "src": "ITmedia AI+",
+      "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "AIで“ゴジラになって”街破壊 富士通が体験型展示 「体操の採点システム」活用",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002364/",
-      "date": "2026-10-22T08:00:00+09:00",
-      "dateLabel": "10/22 08:00",
-      "desc": "AIで“ゴジラになって”街を破壊する――富士通が「CEATEC 2026」で公開した体験型展示「GODZILLA in Motion」の狙いとは。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "なぜルネサスは、TSMCに勝てなかったのか “電子立国ニッポン”当時を知る日立のキーマンが語る",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/22/news021.html",
-      "date": "2026-10-22T07:00:00+09:00",
-      "dateLabel": "10/22 07:00",
-      "desc": "業績が好調な半導体大手のTSMC。かつては日本も半導体が強い時期があった。なぜルネサスは勝てなかったのか。当時を知る日立製作所のキーマンが語った。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "クレーム対応ばかりでオペレーターが辞めていく 「カスハラ義務化」時代にAIはどう現場を守る？",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/22/news033.html",
-      "date": "2026-10-22T07:00:00+09:00",
-      "dateLabel": "10/22 07:00",
-      "desc": "簡単な問い合わせをAIに任せた結果、現場に難解なクレームだけが残りオペレーターが疲弊する――。AI導入で起きるコンタクトセンターの皮肉な逆転現象と、カスハラ対策義務化に企業はどう向き合うべきか。世界大手Genesysのアジア太平洋営業責任者に、業務支援AIによる現場防衛術や「65％は人間と話したい」という顧客心理、そしてコスト削減の自動化からCX向上へシフト",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
