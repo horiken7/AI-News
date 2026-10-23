@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-24T02:35:40.030533+09:00",
-  "generatedLabel": "2026/10/24 02:35",
+  "generatedAt": "2026-10-24T05:47:40.120019+09:00",
+  "generatedLabel": "2026/10/24 05:47",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 51,
+  "candidates": 50,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 2
     },
     {
       "source": "PC Watch",
@@ -126,17 +126,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "LLMがついに月面へ、月面ローバー「FLIP」が11月にも打ち上げ",
-      "link": "https://ascii.jp/elem/000/004/445/4445429/?rss",
-      "date": "2026-10-23T17:53:04+09:00",
-      "dateLabel": "10/23 17:53",
-      "desc": "早ければ11月にも打ち上げられるアストロラボの月面探査ローバー「FLIP」に、LLMを実行できるHPEのコンピューターが搭載される。実現すれば、月面でLLMを動かす初の事例となる。通信遅延の影響を減らし、探査機の自律性を高める第一歩になるかもしれない。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -280,6 +269,17 @@
       "img": "",
       "src": "AINOW",
       "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "多くのAIが「人間はひとりで正しくあるより、みんなで間違っている方を選ぶ」という考えを持っている",
+      "link": "https://gigazine.net/news/20261023-every-ai-model-controversial-humans/",
+      "date": "2026-10-23T14:34:00+09:00",
+      "dateLabel": "10/23 14:34",
+      "desc": "AIモデルのコストおよび性能を比較できるウェブサービスのModelCompareが、すべてのAIは「人間はひとりで正しくあるより、みんなで間違っている方を選ぶ」という考えを持っていると指摘しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
       "score": 26
     }
   ]
