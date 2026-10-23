@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-24T05:47:40.120019+09:00",
-  "generatedLabel": "2026/10/24 05:47",
+  "generatedAt": "2026-10-24T08:39:43.175901+09:00",
+  "generatedLabel": "2026/10/24 08:39",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 50,
+  "candidates": 49,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 2
+      "items": 1
     },
     {
       "source": "PC Watch",
@@ -63,15 +63,15 @@
   ],
   "articles": [
     {
-      "title": "Anthropic版常時稼働エージェント「Claude Duet」発表 Opus 5.5ベースで設計 Pro／Maxプランで提供",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002490/",
-      "date": "2026-10-22T10:43:38+09:00",
-      "dateLabel": "10/22 10:43",
-      "desc": "Anthropicは常時稼働エージェント「Claude Duet」のリサーチプレビューを公開した。「Claude Opus 5.5」をベースに設計し、タスクの優先度などの判断力に優れるという。",
+      "title": "「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開",
+      "link": "https://www.itmedia.co.jp/news/article/2610/24/2000002564/",
+      "date": "2026-10-24T07:28:08+09:00",
+      "dateLabel": "10/24 07:28",
+      "desc": "Anthropicと英AI安全保障研究所AISIは、「Claude Mythos 5」がサイバー能力評価中に実在の開発者を標的とした事案の分析報告を公開した。GitHub経由で無許可の攻撃を行い偽身元で承認を迫った経緯を報告。実在の人物と認識しても攻撃を正当化して続行する傾向が確認され、評価手法の見直しが進む。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 50
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "1バイト違えば不合格のCOBOL移行、OpenAI新モデルの正解率は？",
@@ -85,15 +85,15 @@
       "score": 42
     },
     {
-      "title": "中国系攻撃者がAIエージェントで攻撃を自動化、「ConnectWise」のサプライチェーン攻撃に関与 Microsoftが警告",
-      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002531/",
-      "date": "2026-10-23T07:45:34+09:00",
-      "dateLabel": "10/23 07:45",
-      "desc": "Microsoftは、中国連携の攻撃者「Storm-0940」がオープンソースのAI侵入テストツール「ARTEX」で攻撃を自動化し、世界で数百の組織を標的にしていると発表した。ConnectWise経由で顧客のMicrosoft 365に侵入した事例も同グループと分析。管理者権限奪取まで3時間未満の例もあり、注意を呼び掛けている。",
+      "title": "「それは“FDE”ではない、ラベルの貼り替えだ」 結局、割高なベンダー依存から抜け出せない企業の共通点",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/24/news006.html",
+      "date": "2026-10-24T08:15:00+09:00",
+      "dateLabel": "10/24 08:15",
+      "desc": "Gartnerは、FDE（Forward Deployed Engineering）によって構築されたエージェント型AIについて、2028年までに企業の7割が放棄するとの予測を発表した。どういうことか。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 42
+      "score": 34
     },
     {
       "title": "MicrosoftのSurface Laptop Ultraに搭載された「マグネット式USB Type-Cコネクタ」とは一体何なのか？",
@@ -195,14 +195,14 @@
       "score": 34
     },
     {
-      "title": "PHP2Shell、公表4日前に悪用の試み 「公表日より前にさかのぼって調査を」とAmazon",
-      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002530/",
-      "date": "2026-10-23T07:03:38+09:00",
-      "dateLabel": "10/23 07:03",
-      "desc": "Amazonの脅威調査チームは、PHPの緊急脆弱性「PHP2Shell」を悪用する試みを公表4日前にハニーポットで検知したと発表した。公開後は悪用が急拡大。AIによる攻撃コード作成の加速を指摘し、対応期限の時間単位での管理や公表前への調査遡及など前提の見直しを呼び掛けた。",
+      "title": "中国系攻撃者がAIエージェントで攻撃を自動化、「ConnectWise」のサプライチェーン攻撃に関与 Microsoftが警告",
+      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002531/",
+      "date": "2026-10-23T07:45:34+09:00",
+      "dateLabel": "10/23 07:45",
+      "desc": "Microsoftは、中国連携の攻撃者「Storm-0940」がオープンソースのAI侵入テストツール「ARTEX」で攻撃を自動化し、世界で数百の組織を標的にしていると発表した。ConnectWise経由で顧客のMicrosoft 365に侵入した事例も同グループと分析。管理者権限奪取まで3時間未満の例もあり、注意を呼び掛けている。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AI全般",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -239,17 +239,6 @@
       "score": 26
     },
     {
-      "title": "「ピカチュウ可愛すぎる」だけで買いな「Google Fitbit Air 限定モデル」でポケモンと一緒にぐっすり睡眠！",
-      "link": "https://ascii.jp/elem/000/004/444/4444723/?rss",
-      "date": "2026-10-23T18:00:00+09:00",
-      "dateLabel": "10/23 18:00",
-      "desc": "「Google Fitbit Air 限定モデル Pokémon Sleep」は、画面のない超軽量スマートバンドです。スマホ不要で「Pokémon Sleep」と連携して睡眠データを記録できます。眠るピカチュウがデザインされた専用バンドと本格的な健康管理機能で、毎日の睡眠が楽しくなる一台です。",
-      "img": "https://ascii.jp/img/2026/10/21/4541766/s/fddc1189cf7c153f.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
       "title": "サイバー攻撃AIツール「ARTEX」とは 中国政府と連携する攻撃者も使用、各国で悪用確認",
       "link": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002552/",
       "date": "2026-10-23T17:37:57+09:00",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "Micronが20年間研究してきた次世代DRAM技術「4F²」の採用を見送る理由を説明",
+      "link": "https://gigazine.net/news/20261023-micron-4fsquare-shift/",
+      "date": "2026-10-23T12:10:00+09:00",
+      "dateLabel": "10/23 12:10",
+      "desc": "半導体大手のMicronは、約20年間にわたって研究してきた次世代DRAM技術「4F2」について、製造の複雑化やコストの増大、微細化の限界などを理由に、採用を見送ってきたことを明らかにしました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
       "score": 26
     }
   ]
