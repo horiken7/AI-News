@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-23T10:05:37.421066+09:00",
-  "generatedLabel": "2026/10/23 10:05",
+  "generatedAt": "2026-10-23T15:43:16.792369+09:00",
+  "generatedLabel": "2026/10/23 15:43",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 63,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 11
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,17 +28,17 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 10
     },
     {
       "source": "CNET Japan",
       "ok": false,
-      "error": "mismatched tag: line 47, column 2"
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "source": "ZDNET Japan",
       "ok": false,
-      "error": "mismatched tag: line 47, column 2"
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "source": "Publickey",
@@ -82,29 +82,18 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 58
-    },
-    {
-      "title": "AIが書いた文章はバレるのか？ 文章に隠された電子透かしの仕組みと、検出ツールの現状",
-      "link": "https://ascii.jp/elem/000/004/444/4444656/?rss",
-      "date": "2026-10-23T09:00:00+09:00",
-      "dateLabel": "10/23 09:00",
-      "desc": "本連載は生成AIをこれから活用しようとしている方たちのために、生成AIの基本やコピペしてそのまま使えるプロンプトなどを紹介。兎にも角にも生成AIに触り始めることで、AIに対する理解を深め、AIスキルを身に着けて欲しい。第76回は、ChatGPT・Gemini・Claudeに実装された電子透かしについて解説する。",
-      "img": "https://ascii.jp/img/2026/10/21/4541647/s/921af76a1bd77059.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
       "score": 50
     },
     {
-      "title": "人間の指示なしでAIが自発的にタスクを実行するClaudeのエージェントアプリ「Claude Duet」が発表される",
-      "link": "https://gigazine.net/news/20261022-claude-duet/",
-      "date": "2026-10-22T10:37:00+09:00",
-      "dateLabel": "10/22 10:37",
-      "desc": "AI企業のAnthropicがAIエージェントアプリ「Claude Duet」を発表しました。Claude Opus 5.5を基盤に動作するAIエージェントで、AIが自発的に情報収集したり通知を送信したりしてくれます。 続きを読む...",
+      "title": "1バイト違えば不合格のCOBOL移行、OpenAI新モデルの正解率は？",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/22/news077.html",
+      "date": "2026-10-23T11:30:00+09:00",
+      "dateLabel": "10/23 11:30",
+      "desc": "学習リソースの少ないCOBOLやFortranを、AIはどこまで扱えるのか。OpenAIは、20言語でデータベースエンジンを構築するテストで、新モデルの平均合格率が従来モデルの26.8％から87.4％に伸びたと発表した。では、既存のCOBOLプログラムを別の言語に書き換える評価では、どんな結果が出たのか。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 50
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "中国系攻撃者がAIエージェントで攻撃を自動化、「ConnectWise」のサプライチェーン攻撃に関与 Microsoftが警告",
@@ -129,80 +118,47 @@
       "score": 42
     },
     {
-      "title": "NVIDIAが顧客の離脱や不正利用を追加学習なしで予測するAI「Kumo Relational」を発表",
-      "link": "https://gigazine.net/news/20261022-nvidia-kumo-relational/",
-      "date": "2026-10-22T13:30:00+09:00",
-      "dateLabel": "10/22 13:30",
-      "desc": "インターネットサービス等を展開する企業のデータベースを読み込ませることで、予測する内容に応じた追加学習を行うことなくデータを分析できるAI「Kumo Relational」がNVIDIAからリリースされました。 続きを読む...",
+      "title": "AIエージェントの仕組みとは？4つの構成要素と動く流れをわかりやすく解説",
+      "link": "https://ainow.ai/2026/10/23/278455/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e4%25bb%2595%25e7%25b5%2584%25e3%2581%25bf%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f4%25e3%2581%25a4%25e3%2581%25ae%25e6%25a7%258b%25e6%2588%2590%25e8%25a6%2581%25e7%25b4%25a0%25e3%2581%25a8%25e5%258b%2595",
+      "date": "2026-10-23T14:45:42+09:00",
+      "dateLabel": "10/23 14:45",
+      "desc": "「AIエージェントは自律的に動く」と聞いても、内部で何が起きているのかを説明できず困っていないでしょうか。 AIエージェントの仕組みは、LLMが頭脳となり、ツールとメモリを使って「考える・行動する・確かめる」を繰り返す構... The post AIエージェントの仕組みとは？4つの構成要素と動く流れをわかりやすく解説 first appeared on AI",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "Anthropic、Claudeでソフトウェアのアタックサーフェスを洗い出し・縮小する研究を公開 OpenSSHの修正にも貢献",
-      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002498/",
-      "date": "2026-10-22T11:48:47+09:00",
-      "dateLabel": "10/22 11:48",
-      "desc": "Anthropicは、AIモデル「Claude」でソフトウェアの攻撃対象領域を分析・縮小する研究結果を公開した。オープンソース25件を分析し、設定矛盾など493件の問題を特定。「OpenSSH」では、認証前に到達可能なコードを約5分の1削減し、最新版に対策が反映された。手法は脆弱性検出サービス「OSS Scanner」に組み込まれる。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "ChatGPTの広告主はすでに10万社を超えている",
-      "link": "https://gigazine.net/news/20261022-chatgpt-ads/",
-      "date": "2026-10-22T11:32:00+09:00",
-      "dateLabel": "10/22 11:32",
-      "desc": "OpenAIがChatGPTの広告提供地域を拡大したことを発表しました。合わせて、広告主がすでに10万社を超えていることも明かされています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "GoogleとOpenAIが提携、Google Cloudで「GPT-6 Astra」などOpenAIのAIモデルを提供へ",
-      "link": "https://gigazine.net/news/20261022-google-cloud-openai-models/",
-      "date": "2026-10-22T10:11:00+09:00",
-      "dateLabel": "10/22 10:11",
-      "desc": "OpenAIがGoogle CloudのAIモデル提供基盤「Model Garden」を通じてOpenAIの最新AIモデルを提供すると発表しました。これにより、Google Cloudの利用者はOpenAIのAIモデルを既存のクラウド環境から直接利用できるようになります。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "カバー画面でSNS、開いて3アプリ同時起動。モトローラの横折りスマホ「razr fold」が使いやすすぎた",
-      "link": "https://ascii.jp/elem/000/004/445/4445106/?rss",
-      "date": "2026-10-23T09:00:00+09:00",
-      "dateLabel": "10/23 09:00",
-      "desc": "モトローラ初の横折りスマホ「motorola razr fold」の実機レビューです。開くと4.55mmと極薄で、カメラ評価機関でフォルダブル世界1位を獲得した高性能3眼カメラを搭載。AI機能や手書き文字をテキスト化できる専用ペンにも対応し、約30万円の価値が十分にある完成度です。",
-      "img": "https://ascii.jp/img/2026/08/17/4513403/s/57367594606f2b89.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "現場・開発向けエージェントで業務スピードを「5～10倍」に ― Snowflakeの統合基盤で変革する日本企業の挑戦",
-      "link": "https://ascii.jp/elem/000/004/444/4444366/?rss",
-      "date": "2026-10-23T08:30:00+09:00",
-      "dateLabel": "10/23 08:30",
-      "desc": "Snowflakeは、2026年9月に「Snowflake World Tour Tokyo 2026」を開催。2日の基調講演では、本社CEOのスリダール・ラマスワミ氏が登壇し、AIエージェント活用を支える基盤の重要性や日本市場のコミットメントについて語った。",
-      "img": "https://ascii.jp/img/2026/10/21/4541282/s/9970c92850741aba.jpg",
-      "src": "ASCII.jp",
+      "src": "AINOW",
       "cat": "AIエージェント/業務",
       "score": 34
     },
     {
-      "title": "これならiPhoneの折りたたみにも（多分）勝てる「Galaxy Z Fold8 Ultra」を実際にテストする",
-      "link": "https://ascii.jp/elem/000/004/445/4445104/?rss",
-      "date": "2026-10-23T08:00:00+09:00",
-      "dateLabel": "10/23 08:00",
-      "desc": "サムスンの新型折りたたみスマホ「Galaxy Z Fold8 Ultra」のレビューです。開くと約8.0型の大画面ながら、厚さ約4.1mm、重さ約215gと驚異の薄型軽量化を実現。約30万円からと高価ですが、最上位の性能とAI機能を備えた完成形と言える1台です。",
-      "img": "https://ascii.jp/img/2026/08/10/4511474/s/6d73b5fab6bc3b3b.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "「バグのないソフトウェア」の実現を目指してAnthropicが「AIを用いて数学的にバグがないことを証明する」という手法を開発",
+      "link": "https://gigazine.net/news/20261023-anthropic-formal-verification/",
+      "date": "2026-10-23T12:58:00+09:00",
+      "dateLabel": "10/23 12:58",
+      "desc": "AIの高性能化によって、さまざまなソフトウェアのバグが大量に発見されており、PHPの緊急アップデートのように大きな影響を及ぼす事例も現れています。そんな中、AI企業のAnthropicが「ソフトウェアにバグがないことを形式的検証で証明する」という手法に取り組んでいることを明らかにしました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "プロンプトガチャはもう古い――「ハーネスの父」が明かす、AI駆動開発の極意",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/23/news030.html",
+      "date": "2026-10-23T12:45:00+09:00",
+      "dateLabel": "10/23 12:45",
+      "desc": "Googleは、AIエージェントによる開発をテーマにした解説動画「The Agent Factory」を要約した記事を公開した。Googleのエンジニアがエージェントハーネスの重要性を語っている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "中国政府と関係するサイバー攻撃者が世界中の数百の組織に対してAIエージェント「ARTEX」を用いて攻撃を実施していたことがMicrosoftの調査で判明",
+      "link": "https://gigazine.net/news/20261023-storm-0940-artex-cyber-attack/",
+      "date": "2026-10-23T11:04:00+09:00",
+      "dateLabel": "10/23 11:04",
+      "desc": "Microsoftが中国政府と関係しているとされるサイバー攻撃者「Storm-0940」に関する調査結果を公開しました。Storm-0940はAIエージェント「ARTEX」を悪用して数百の組織に対する攻撃を実施していたことが明らかになっています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -217,58 +173,14 @@
       "score": 34
     },
     {
-      "title": "放っておける水田除草ロボットがルート自動生成に対応",
-      "link": "https://ascii.jp/elem/000/004/444/4444875/?rss",
-      "date": "2026-10-23T07:00:00+09:00",
-      "dateLabel": "10/23 07:00",
-      "desc": "株式会社ハタケホットケは10月7日、水田除草ロボット「ミズニゴール」の2027年モデルの予約受付を開始した。同モデルではスマートフォンを用いた遠隔監視や走行ルートの自動生成・編集機能などを新たに搭載予定だ。また、同製品が環境省の補助事業に採択され、購入費用の約半額補助や割賦購入に対応したことも併せて発表された。",
-      "img": "https://ascii.jp/img/2026/10/22/4541878/s/baeb0024b3938b03.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 34
-    },
-    {
-      "title": "AI作成の業務手順に法的裏付けを行う社労士監修の人事労務テンプレート",
-      "link": "https://ascii.jp/elem/000/004/444/4444586/?rss",
-      "date": "2026-10-23T07:00:00+09:00",
-      "dateLabel": "10/23 07:00",
-      "desc": "株式会社マイクロニティは10月19日、同社が提供するAI業務改善プラットフォーム「mfloow（エムフロー）」において、社会保険労務士法人東京おむろ人事サービスと共同で「共創パートナーシップ」を開始したと発表した。第一弾として、社労士が監修した「休職・復職フローテンプレート」の提供を開始する。",
-      "img": "https://ascii.jp/img/2026/10/21/4541553/s/3b602cbdb6061952.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "990gで32GB＋1TB、有機ELまで！ ASUS「Zenbook SORA」が12％オフの28万9800円",
-      "link": "https://ascii.jp/elem/000/004/444/4444518/?rss",
-      "date": "2026-10-22T22:10:00+09:00",
-      "dateLabel": "10/22 22:10",
-      "desc": "ASUSの14型ノートPC「Zenbook SORA（UX3407NA-GL32170BE）」がAmazonのタイムセール対象。参考価格329,800円から12％オフの289,800円で販売中。重さ約990gながら、Snapdragon X2 Elite、32GBメモリ、1TB SSDを搭載。さらに14型有機ELディスプレーも備える。軽さだけでなく、画面や容",
-      "img": "https://ascii.jp/img/2026/10/21/4541490/s/a74537c861a52ce2.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "月面で初のスーパーコンピューター性能テストをHPEとNASAが計画、AIによる地形解析やサイバー攻撃検知も実施へ",
-      "link": "https://gigazine.net/news/20261022-hpt-nasa-moon-ai-benchmark/",
-      "date": "2026-10-22T15:00:00+09:00",
-      "dateLabel": "10/22 15:00",
-      "desc": "Hewlett Packard Enterprise(HPE)が2026年10月20日、月面で高性能コンピューティング(HPC)の性能測定やAIの動作実験を実施する計画を発表しました。2026年後半に打ち上げ予定の月面探査機に小型コンピューター「HPE Spaceborne Computer-4」を搭載し、月面でのデータ処理技術の実用性を検証します。 続きを",
+      "title": "Anthropic、Claudeでソフトウェアのアタックサーフェスを洗い出し・縮小する研究を公開 OpenSSHの修正にも貢献",
+      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002498/",
+      "date": "2026-10-22T11:48:47+09:00",
+      "dateLabel": "10/22 11:48",
+      "desc": "Anthropicは、AIモデル「Claude」でソフトウェアの攻撃対象領域を分析・縮小する研究結果を公開した。オープンソース25件を分析し、設定矛盾など493件の問題を特定。「OpenSSH」では、認証前に到達可能なコードを約5分の1削減し、最新版に対策が反映された。手法は脆弱性検出サービス「OSS Scanner」に組み込まれる。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "NVIDIAが「社内に蓄積した大量の情報をAIで扱えるようにデータ整形して検索可能にするモデル群」を無償公開",
-      "link": "https://gigazine.net/news/20261022-nvidia-nemotron-retriever-embed-rerank-parse/",
-      "date": "2026-10-22T13:58:00+09:00",
-      "dateLabel": "10/22 13:58",
-      "desc": "NVIDIAが検索拡張生成(RAG)用のAIモデル群「Nemotron Retriever」に5種類のモデルを追加しました。すべてのモデルがオープンモデルとして無償公開されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -281,6 +193,94 @@
       "src": "AINOW",
       "cat": "AIエージェント/業務",
       "score": 32
+    },
+    {
+      "title": "AIコーディングエージェントとは？主要10ツール比較と無料で始める選び方",
+      "link": "https://ainow.ai/2026/10/23/278458/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25b3%25e3%2583%25bc%25e3%2583%2587%25e3%2582%25a3%25e3%2583%25b3%25e3%2582%25b0%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e4%25b8%25bb%25e8%25a6%258110%25e3%2583%2584%25e3%2583%25bc%25e3%2583%25ab%25e6%25af%2594",
+      "date": "2026-10-23T15:13:26+09:00",
+      "dateLabel": "10/23 15:13",
+      "desc": "AIコーディングエージェントとは、指示を受けて計画からコード編集、テスト、PR作成まで自律的に進める開発AIです。本記事では、2026年10月時点の主要10ツールを5つの軸で比較し、目的別の選び方と始め方を解説します。 ... The post AIコーディングエージェントとは？主要10ツール比較と無料で始める選び方 first appeared on AI",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "多くのAIが「人間はひとりで正しくあるより、みんなで間違っている方を選ぶ」という考えを持っている",
+      "link": "https://gigazine.net/news/20261023-every-ai-model-controversial-humans/",
+      "date": "2026-10-23T14:34:00+09:00",
+      "dateLabel": "10/23 14:34",
+      "desc": "AIモデルのコストおよび性能を比較できるウェブサービスのModelCompareが、すべてのAIは「人間はひとりで正しくあるより、みんなで間違っている方を選ぶ」という考えを持っていると指摘しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "受注／工程計画AI｜熟練者の判断基準と現場の定性情報で、引合の受注判断から工程計画の組み替えまでを支援",
+      "link": "https://ascii.jp/elem/000/004/445/4445341/?rss",
+      "date": "2026-10-23T14:00:00+09:00",
+      "dateLabel": "10/23 14:00",
+      "desc": "受注／工程計画AI｜熟練者の判断基準と現場の定性情報で、引合の受注判断から工程計画の組み替えまでを支援",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "【採択率97.1％】医療機関向けセミセルフレジ「OWEN」、デジタル化・AI導入補助金2026（第4次公募まで）において高い採択率！",
+      "link": "https://ascii.jp/elem/000/004/445/4445289/?rss",
+      "date": "2026-10-23T13:30:00+09:00",
+      "dateLabel": "10/23 13:30",
+      "desc": "【採択率97.1％】医療機関向けセミセルフレジ「OWEN」、デジタル化・AI導入補助金2026（第4次公募まで）において高い採択率！",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "統計ソフトSPSSをより使いやすく、スマートに。SPSS専用AIモジュール「LocalStats Studio」と「Text Coder X for SPSS」Ver.2.0を11月2日に発売",
+      "link": "https://ascii.jp/elem/000/004/445/4445290/?rss",
+      "date": "2026-10-23T13:21:10+09:00",
+      "dateLabel": "10/23 13:21",
+      "desc": "統計ソフトSPSSをより使いやすく、スマートに。SPSS専用AIモジュール「LocalStats Studio」と「Text Coder X for SPSS」Ver.2.0を11月2日に発売",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "セルシスの「CLIP STUDIO PAINT」が「iPhone Duo」に対応",
+      "link": "https://ascii.jp/elem/000/004/445/4445292/?rss",
+      "date": "2026-10-23T13:00:00+09:00",
+      "dateLabel": "10/23 13:00",
+      "desc": "セルシスの「CLIP STUDIO PAINT」が「iPhone Duo」に対応",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "自動車業界最大手三社 トヨタ・日産・Honda合同イベント『TECH DRIVERS』が2026年度も開催決定！AI時代、自動車業界の開発現場はどう変わる？",
+      "link": "https://ascii.jp/elem/000/004/445/4445279/?rss",
+      "date": "2026-10-23T13:00:00+09:00",
+      "dateLabel": "10/23 13:00",
+      "desc": "自動車業界最大手三社 トヨタ・日産・Honda合同イベント『TECH DRIVERS』が2026年度も開催決定！AI時代、自動車業界の開発現場はどう変わる？",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "Micronが20年間研究してきた次世代DRAM技術「4F²」の採用を見送る理由を説明",
+      "link": "https://gigazine.net/news/20261023-micron-4fsquare-shift/",
+      "date": "2026-10-23T12:10:00+09:00",
+      "dateLabel": "10/23 12:10",
+      "desc": "半導体大手のMicronは、約20年間にわたって研究してきた次世代DRAM技術「4F2」について、製造の複雑化やコストの増大、微細化の限界などを理由に、採用を見送ってきたことを明らかにしました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 26
     }
   ]
 }
