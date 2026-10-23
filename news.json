@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-23T15:43:16.792369+09:00",
-  "generatedLabel": "2026/10/23 15:43",
+  "generatedAt": "2026-10-23T21:16:30.846471+09:00",
+  "generatedLabel": "2026/10/23 21:16",
   "feedOk": 6,
   "feedNg": 5,
   "candidates": 52,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -71,7 +71,7 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 66
+      "score": 58
     },
     {
       "title": "Anthropic版常時稼働エージェント「Claude Duet」発表 Opus 5.5ベースで設計 Pro／Maxプランで提供",
@@ -107,15 +107,70 @@
       "score": 42
     },
     {
-      "title": "数千体のAIが数百万個の脳細胞データをわずか32分で分析、アルツハイマー病やパーキンソン病の研究につながる新たな手掛かりを発見",
-      "link": "https://gigazine.net/news/20261022-openai-research-complex-biological-data/",
-      "date": "2026-10-22T17:10:00+09:00",
-      "dateLabel": "10/22 17:10",
-      "desc": "OpenAIは2026年10月21日、数千体のAIエージェントを使って数百万個のマウスの脳細胞から得られた実験データをわずか32分で分析し、アルツハイマー病やパーキンソン病などの研究につながる新たな手掛かりを発見したと発表しました。人間の研究者なら数カ月から1年かかると推定される分析を短時間で実施し、これまで見落とされていた可能性のある遺伝子の働きについて新",
+      "title": "MicrosoftのSurface Laptop Ultraに搭載された「マグネット式USB Type-Cコネクタ」とは一体何なのか？",
+      "link": "https://gigazine.net/news/20261023-usb-c-magnetic-connect-microsoft/",
+      "date": "2026-10-23T21:00:00+09:00",
+      "dateLabel": "10/23 21:00",
+      "desc": "Microsoftは2026年10月7日のNVIDIAの新型SoCであるRTX Sparkを搭載するWindows PC「Surface Laptop Ultra」を発表しました。そんなSurface Laptop Ultraに搭載されたマグネット式USB Type-Cコネクタ「Magnetic Connect」について、ガジェット系メディアのLTT Lab",
       "img": "",
       "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "AIにNintendo Switch 2を操作させて脱獄に成功、Codexが脆弱性を発見してゲームの改造まで実現",
+      "link": "https://gigazine.net/news/20261023-nintendo-switch-2-jailbreak/",
+      "date": "2026-10-23T20:00:00+09:00",
+      "dateLabel": "10/23 20:00",
+      "desc": "Nintendo Switch 2のセキュリティを突破し、非公式プログラムを実行できるようにする手法「ns2jb」が公開されました。開発にはOpenAIのコーディングAI「OpenAI Codex」が活用され、AIが実際のゲーム機を遠隔操作しながら脆弱(ぜいじゃく)性を調査するという手法が採用されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "AIを低遅延実行するための推論エンジン「Liquid RIPL」が登場、検索や決済などの低遅延が重要な場面で役立つ",
+      "link": "https://gigazine.net/news/20261023-ripl-inference-engine/",
+      "date": "2026-10-23T18:55:00+09:00",
+      "dateLabel": "10/23 18:55",
+      "desc": "AI開発企業のLiquid AIが低遅延性を重視した推論エンジン「Liquid RIPL」を発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "LLMがついに月面へ、月面ローバー「FLIP」が11月にも打ち上げ",
+      "link": "https://ascii.jp/elem/000/004/445/4445429/?rss",
+      "date": "2026-10-23T17:53:04+09:00",
+      "dateLabel": "10/23 17:53",
+      "desc": "早ければ11月にも打ち上げられるアストロラボの月面探査ローバー「FLIP」に、LLMを実行できるHPEのコンピューターが搭載される。実現すれば、月面でLLMを動かす初の事例となる。通信遅延の影響を減らし、探査機の自律性を高める第一歩になるかもしれない。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "無料で使えるAI製ターミナル「WorldTUI」が登場、コマンドを実行せずにAIが画面を再現",
+      "link": "https://gigazine.net/news/20261023-worldtui/",
+      "date": "2026-10-23T16:40:00+09:00",
+      "dateLabel": "10/23 16:40",
+      "desc": "キーボードからの入力に応じてターミナルの画面をAIが予測する「WorldTUI」が公開されました。実際のコマンド実行やファイル操作を行う仕組みを持たず、AIがターミナルの動作を再現するのが特徴です。約3億6000万パラメーターのAIモデルを使用しており、WebGPUに対応したブラウザから無料で試すことができます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "「エージェント向け1Password」発表 AIにパスワード渡さずアクセス権限付与可能に",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002545/",
+      "date": "2026-10-23T15:24:45+09:00",
+      "dateLabel": "10/23 15:24",
+      "desc": "1PasswordはAIエージェントにパスワードを渡さずにアクセス権限を付与できるサービス「1Password for Agents」を発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 42
+      "score": 34
     },
     {
       "title": "AIエージェントの仕組みとは？4つの構成要素と動く流れをわかりやすく解説",
@@ -195,91 +250,36 @@
       "score": 32
     },
     {
-      "title": "AIコーディングエージェントとは？主要10ツール比較と無料で始める選び方",
-      "link": "https://ainow.ai/2026/10/23/278458/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25b3%25e3%2583%25bc%25e3%2583%2587%25e3%2582%25a3%25e3%2583%25b3%25e3%2582%25b0%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e4%25b8%25bb%25e8%25a6%258110%25e3%2583%2584%25e3%2583%25bc%25e3%2583%25ab%25e6%25af%2594",
-      "date": "2026-10-23T15:13:26+09:00",
-      "dateLabel": "10/23 15:13",
-      "desc": "AIコーディングエージェントとは、指示を受けて計画からコード編集、テスト、PR作成まで自律的に進める開発AIです。本記事では、2026年10月時点の主要10ツールを5つの軸で比較し、目的別の選び方と始め方を解説します。 ... The post AIコーディングエージェントとは？主要10ツール比較と無料で始める選び方 first appeared on AI",
+      "title": "PE-BANK特別講座「AI時代のキャリア適性診断／傾向と対策」第1回を開催",
+      "link": "https://ascii.jp/elem/000/004/445/4445443/?rss",
+      "date": "2026-10-23T18:01:08+09:00",
+      "dateLabel": "10/23 18:01",
+      "desc": "PE-BANK特別講座「AI時代のキャリア適性診断／傾向と対策」第1回を開催",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "「ピカチュウ可愛すぎる」だけで買いな「Google Fitbit Air 限定モデル」でポケモンと一緒にぐっすり睡眠！",
+      "link": "https://ascii.jp/elem/000/004/444/4444723/?rss",
+      "date": "2026-10-23T18:00:00+09:00",
+      "dateLabel": "10/23 18:00",
+      "desc": "「Google Fitbit Air 限定モデル Pokémon Sleep」は、画面のない超軽量スマートバンドです。スマホ不要で「Pokémon Sleep」と連携して睡眠データを記録できます。眠るピカチュウがデザインされた専用バンドと本格的な健康管理機能で、毎日の睡眠が楽しくなる一台です。",
+      "img": "https://ascii.jp/img/2026/10/21/4541766/s/fddc1189cf7c153f.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "サイバー攻撃AIツール「ARTEX」とは 中国政府と連携する攻撃者も使用、各国で悪用確認",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002552/",
+      "date": "2026-10-23T17:37:57+09:00",
+      "dateLabel": "10/23 17:37",
+      "desc": "中国語話者の開発者が「学習と研究目的」で公開したAI自律型侵入テストツール「ARTEX」。MicrosoftやCrowdStrikeが悪用例を報告し、日本企業約20社への攻撃にも使われた。作者は公開を停止したが、改変版が増殖している。",
       "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "多くのAIが「人間はひとりで正しくあるより、みんなで間違っている方を選ぶ」という考えを持っている",
-      "link": "https://gigazine.net/news/20261023-every-ai-model-controversial-humans/",
-      "date": "2026-10-23T14:34:00+09:00",
-      "dateLabel": "10/23 14:34",
-      "desc": "AIモデルのコストおよび性能を比較できるウェブサービスのModelCompareが、すべてのAIは「人間はひとりで正しくあるより、みんなで間違っている方を選ぶ」という考えを持っていると指摘しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
+      "src": "ITmedia AI+",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "受注／工程計画AI｜熟練者の判断基準と現場の定性情報で、引合の受注判断から工程計画の組み替えまでを支援",
-      "link": "https://ascii.jp/elem/000/004/445/4445341/?rss",
-      "date": "2026-10-23T14:00:00+09:00",
-      "dateLabel": "10/23 14:00",
-      "desc": "受注／工程計画AI｜熟練者の判断基準と現場の定性情報で、引合の受注判断から工程計画の組み替えまでを支援",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "【採択率97.1％】医療機関向けセミセルフレジ「OWEN」、デジタル化・AI導入補助金2026（第4次公募まで）において高い採択率！",
-      "link": "https://ascii.jp/elem/000/004/445/4445289/?rss",
-      "date": "2026-10-23T13:30:00+09:00",
-      "dateLabel": "10/23 13:30",
-      "desc": "【採択率97.1％】医療機関向けセミセルフレジ「OWEN」、デジタル化・AI導入補助金2026（第4次公募まで）において高い採択率！",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "統計ソフトSPSSをより使いやすく、スマートに。SPSS専用AIモジュール「LocalStats Studio」と「Text Coder X for SPSS」Ver.2.0を11月2日に発売",
-      "link": "https://ascii.jp/elem/000/004/445/4445290/?rss",
-      "date": "2026-10-23T13:21:10+09:00",
-      "dateLabel": "10/23 13:21",
-      "desc": "統計ソフトSPSSをより使いやすく、スマートに。SPSS専用AIモジュール「LocalStats Studio」と「Text Coder X for SPSS」Ver.2.0を11月2日に発売",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "セルシスの「CLIP STUDIO PAINT」が「iPhone Duo」に対応",
-      "link": "https://ascii.jp/elem/000/004/445/4445292/?rss",
-      "date": "2026-10-23T13:00:00+09:00",
-      "dateLabel": "10/23 13:00",
-      "desc": "セルシスの「CLIP STUDIO PAINT」が「iPhone Duo」に対応",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "自動車業界最大手三社 トヨタ・日産・Honda合同イベント『TECH DRIVERS』が2026年度も開催決定！AI時代、自動車業界の開発現場はどう変わる？",
-      "link": "https://ascii.jp/elem/000/004/445/4445279/?rss",
-      "date": "2026-10-23T13:00:00+09:00",
-      "dateLabel": "10/23 13:00",
-      "desc": "自動車業界最大手三社 トヨタ・日産・Honda合同イベント『TECH DRIVERS』が2026年度も開催決定！AI時代、自動車業界の開発現場はどう変わる？",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "Micronが20年間研究してきた次世代DRAM技術「4F²」の採用を見送る理由を説明",
-      "link": "https://gigazine.net/news/20261023-micron-4fsquare-shift/",
-      "date": "2026-10-23T12:10:00+09:00",
-      "dateLabel": "10/23 12:10",
-      "desc": "半導体大手のMicronは、約20年間にわたって研究してきた次世代DRAM技術「4F2」について、製造の複雑化やコストの増大、微細化の限界などを理由に、採用を見送ってきたことを明らかにしました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
       "score": 26
     }
   ]
