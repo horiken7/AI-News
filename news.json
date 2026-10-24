@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-24T11:29:17.920505+09:00",
-  "generatedLabel": "2026/10/24 11:29",
+  "generatedAt": "2026-10-24T16:43:49.322444+09:00",
+  "generatedLabel": "2026/10/24 16:43",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 47,
+  "candidates": 51,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 0
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -74,15 +74,15 @@
       "score": 42
     },
     {
-      "title": "1バイト違えば不合格のCOBOL移行、OpenAI新モデルの正解率は？",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/22/news077.html",
-      "date": "2026-10-23T11:30:00+09:00",
-      "dateLabel": "10/23 11:30",
-      "desc": "学習リソースの少ないCOBOLやFortranを、AIはどこまで扱えるのか。OpenAIは、20言語でデータベースエンジンを構築するテストで、新モデルの平均合格率が従来モデルの26.8％から87.4％に伸びたと発表した。では、既存のCOBOLプログラムを別の言語に書き換える評価では、どんな結果が出たのか。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
+      "title": "ゴムマリの専門業務AI-BPO、『マスタ移行 for SAP S/4HANA(R)』を提供開始",
+      "link": "https://ascii.jp/elem/000/004/445/4445469/?rss",
+      "date": "2026-10-24T10:00:00+09:00",
+      "dateLabel": "10/24 10:00",
+      "desc": "ゴムマリの専門業務AI-BPO、『マスタ移行 for SAP S/4HANA(R)』を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "「それは“FDE”ではない、ラベルの貼り替えだ」 結局、割高なベンダー依存から抜け出せない企業の共通点",
@@ -129,58 +129,14 @@
       "score": 34
     },
     {
-      "title": "無料で使えるAI製ターミナル「WorldTUI」が登場、コマンドを実行せずにAIが画面を再現",
-      "link": "https://gigazine.net/news/20261023-worldtui/",
-      "date": "2026-10-23T16:40:00+09:00",
-      "dateLabel": "10/23 16:40",
-      "desc": "キーボードからの入力に応じてターミナルの画面をAIが予測する「WorldTUI」が公開されました。実際のコマンド実行やファイル操作を行う仕組みを持たず、AIがターミナルの動作を再現するのが特徴です。約3億6000万パラメーターのAIモデルを使用しており、WebGPUに対応したブラウザから無料で試すことができます。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "「エージェント向け1Password」発表 AIにパスワード渡さずアクセス権限付与可能に",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002545/",
-      "date": "2026-10-23T15:24:45+09:00",
-      "dateLabel": "10/23 15:24",
-      "desc": "1PasswordはAIエージェントにパスワードを渡さずにアクセス権限を付与できるサービス「1Password for Agents」を発表した。",
+      "title": "1バイト違えば不合格のCOBOL移行、OpenAI新モデルの正解率は？",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/22/news077.html",
+      "date": "2026-10-23T11:30:00+09:00",
+      "dateLabel": "10/23 11:30",
+      "desc": "学習リソースの少ないCOBOLやFortranを、AIはどこまで扱えるのか。OpenAIは、20言語でデータベースエンジンを構築するテストで、新モデルの平均合格率が従来モデルの26.8％から87.4％に伸びたと発表した。では、既存のCOBOLプログラムを別の言語に書き換える評価では、どんな結果が出たのか。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "AIエージェントの仕組みとは？4つの構成要素と動く流れをわかりやすく解説",
-      "link": "https://ainow.ai/2026/10/23/278455/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e4%25bb%2595%25e7%25b5%2584%25e3%2581%25bf%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f4%25e3%2581%25a4%25e3%2581%25ae%25e6%25a7%258b%25e6%2588%2590%25e8%25a6%2581%25e7%25b4%25a0%25e3%2581%25a8%25e5%258b%2595",
-      "date": "2026-10-23T14:45:42+09:00",
-      "dateLabel": "10/23 14:45",
-      "desc": "「AIエージェントは自律的に動く」と聞いても、内部で何が起きているのかを説明できず困っていないでしょうか。 AIエージェントの仕組みは、LLMが頭脳となり、ツールとメモリを使って「考える・行動する・確かめる」を繰り返す構... The post AIエージェントの仕組みとは？4つの構成要素と動く流れをわかりやすく解説 first appeared on AI",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "「バグのないソフトウェア」の実現を目指してAnthropicが「AIを用いて数学的にバグがないことを証明する」という手法を開発",
-      "link": "https://gigazine.net/news/20261023-anthropic-formal-verification/",
-      "date": "2026-10-23T12:58:00+09:00",
-      "dateLabel": "10/23 12:58",
-      "desc": "AIの高性能化によって、さまざまなソフトウェアのバグが大量に発見されており、PHPの緊急アップデートのように大きな影響を及ぼす事例も現れています。そんな中、AI企業のAnthropicが「ソフトウェアにバグがないことを形式的検証で証明する」という手法に取り組んでいることを明らかにしました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "プロンプトガチャはもう古い――「ハーネスの父」が明かす、AI駆動開発の極意",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/23/news030.html",
-      "date": "2026-10-23T12:45:00+09:00",
-      "dateLabel": "10/23 12:45",
-      "desc": "Googleは、AIエージェントによる開発をテーマにした解説動画「The Agent Factory」を要約した記事を公開した。Googleのエンジニアがエージェントハーネスの重要性を語っている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -217,6 +173,28 @@
       "score": 32
     },
     {
+      "title": "AIロボット「LOOI」のために6台目のスマホまで衝動買い",
+      "link": "https://ascii.jp/elem/000/004/445/4445057/?rss",
+      "date": "2026-10-24T12:00:00+09:00",
+      "dateLabel": "10/24 12:00",
+      "desc": "スマホを頭脳にして走り回るAIロボット「LOOI」が海外クラウドファンディングで話題になっており、筆者も国内クラファンで衝動買いした。スマホを磁力で固定し、その画面を顔にして動き回る、なかなか愉快な仕組みだ。",
+      "img": "https://ascii.jp/img/2026/10/24/4543050/s/a0b2482c2dbfb531.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
+      "title": "「録る」だけで終わらない。ポケットAIレコーダー「RoroLee」、Makuakeで先行販売を開始",
+      "link": "https://ascii.jp/elem/000/004/445/4445474/?rss",
+      "date": "2026-10-24T10:00:00+09:00",
+      "dateLabel": "10/24 10:00",
+      "desc": "「録る」だけで終わらない。ポケットAIレコーダー「RoroLee」、Makuakeで先行販売を開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "アヒル型ロボット「Microduck」の予約注文数が2万台を突破、NVIDIAのジェンスン・フアンCEOとの戯れで爆売れ",
       "link": "https://gigazine.net/news/20261024-nvidia-ceo-plays-microduck-20000-sell/",
       "date": "2026-10-24T10:00:00+09:00",
@@ -225,6 +203,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "【無料・AIプロンプト集】農家の確定申告、準備は年内から。経費整理の判定キットを提供",
+      "link": "https://ascii.jp/elem/000/004/445/4445478/?rss",
+      "date": "2026-10-24T08:20:00+09:00",
+      "dateLabel": "10/24 08:20",
+      "desc": "【無料・AIプロンプト集】農家の確定申告、準備は年内から。経費整理の判定キットを提供",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 26
     },
     {
@@ -239,47 +228,58 @@
       "score": 26
     },
     {
-      "title": "AIコーディングエージェントとは？主要10ツール比較と無料で始める選び方",
-      "link": "https://ainow.ai/2026/10/23/278458/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25b3%25e3%2583%25bc%25e3%2583%2587%25e3%2582%25a3%25e3%2583%25b3%25e3%2582%25b0%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e4%25b8%25bb%25e8%25a6%258110%25e3%2583%2584%25e3%2583%25bc%25e3%2583%25ab%25e6%25af%2594",
-      "date": "2026-10-23T15:13:26+09:00",
-      "dateLabel": "10/23 15:13",
-      "desc": "AIコーディングエージェントとは、指示を受けて計画からコード編集、テスト、PR作成まで自律的に進める開発AIです。本記事では、2026年10月時点の主要10ツールを5つの軸で比較し、目的別の選び方と始め方を解説します。 ... The post AIコーディングエージェントとは？主要10ツール比較と無料で始める選び方 first appeared on AI",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "多くのAIが「人間はひとりで正しくあるより、みんなで間違っている方を選ぶ」という考えを持っている",
-      "link": "https://gigazine.net/news/20261023-every-ai-model-controversial-humans/",
-      "date": "2026-10-23T14:34:00+09:00",
-      "dateLabel": "10/23 14:34",
-      "desc": "AIモデルのコストおよび性能を比較できるウェブサービスのModelCompareが、すべてのAIは「人間はひとりで正しくあるより、みんなで間違っている方を選ぶ」という考えを持っていると指摘しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "Micronが20年間研究してきた次世代DRAM技術「4F²」の採用を見送る理由を説明",
-      "link": "https://gigazine.net/news/20261023-micron-4fsquare-shift/",
-      "date": "2026-10-23T12:10:00+09:00",
-      "dateLabel": "10/23 12:10",
-      "desc": "半導体大手のMicronは、約20年間にわたって研究してきた次世代DRAM技術「4F2」について、製造の複雑化やコストの増大、微細化の限界などを理由に、採用を見送ってきたことを明らかにしました。 続きを読む...",
+      "title": "無料で使えるAI製ターミナル「WorldTUI」が登場、コマンドを実行せずにAIが画面を再現",
+      "link": "https://gigazine.net/news/20261023-worldtui/",
+      "date": "2026-10-23T16:40:00+09:00",
+      "dateLabel": "10/23 16:40",
+      "desc": "キーボードからの入力に応じてターミナルの画面をAIが予測する「WorldTUI」が公開されました。実際のコマンド実行やファイル操作を行う仕組みを持たず、AIがターミナルの動作を再現するのが特徴です。約3億6000万パラメーターのAIモデルを使用しており、WebGPUに対応したブラウザから無料で試すことができます。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
       "score": 26
     },
     {
-      "title": "“あいまいな指示”を入力されたAIは安全なコーディングができない？ 香港科技大などが調査",
-      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002513/",
-      "date": "2026-10-23T12:00:00+09:00",
-      "dateLabel": "10/23 12:00",
-      "desc": "香港科技大学などに所属する研究者らが7月に発表した論文「Coding Agents Are Guessing: Measuring Action-Boundary Violations in Underspecified DevOps Instructions」は、あいまいな指示を受けたコーディングAIがどのような振る舞いをみせるかを調査した研究報告だ。",
+      "title": "「エージェント向け1Password」発表 AIにパスワード渡さずアクセス権限付与可能に",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002545/",
+      "date": "2026-10-23T15:24:45+09:00",
+      "dateLabel": "10/23 15:24",
+      "desc": "1PasswordはAIエージェントにパスワードを渡さずにアクセス権限を付与できるサービス「1Password for Agents」を発表した。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AI全般",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "AIエージェントの仕組みとは？4つの構成要素と動く流れをわかりやすく解説",
+      "link": "https://ainow.ai/2026/10/23/278455/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e4%25bb%2595%25e7%25b5%2584%25e3%2581%25bf%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f4%25e3%2581%25a4%25e3%2581%25ae%25e6%25a7%258b%25e6%2588%2590%25e8%25a6%2581%25e7%25b4%25a0%25e3%2581%25a8%25e5%258b%2595",
+      "date": "2026-10-23T14:45:42+09:00",
+      "dateLabel": "10/23 14:45",
+      "desc": "「AIエージェントは自律的に動く」と聞いても、内部で何が起きているのかを説明できず困っていないでしょうか。 AIエージェントの仕組みは、LLMが頭脳となり、ツールとメモリを使って「考える・行動する・確かめる」を繰り返す構... The post AIエージェントの仕組みとは？4つの構成要素と動く流れをわかりやすく解説 first appeared on AI",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "「バグのないソフトウェア」の実現を目指してAnthropicが「AIを用いて数学的にバグがないことを証明する」という手法を開発",
+      "link": "https://gigazine.net/news/20261023-anthropic-formal-verification/",
+      "date": "2026-10-23T12:58:00+09:00",
+      "dateLabel": "10/23 12:58",
+      "desc": "AIの高性能化によって、さまざまなソフトウェアのバグが大量に発見されており、PHPの緊急アップデートのように大きな影響を及ぼす事例も現れています。そんな中、AI企業のAnthropicが「ソフトウェアにバグがないことを形式的検証で証明する」という手法に取り組んでいることを明らかにしました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "プロンプトガチャはもう古い――「ハーネスの父」が明かす、AI駆動開発の極意",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/23/news030.html",
+      "date": "2026-10-23T12:45:00+09:00",
+      "dateLabel": "10/23 12:45",
+      "desc": "Googleは、AIエージェントによる開発をテーマにした解説動画「The Agent Factory」を要約した記事を公開した。Googleのエンジニアがエージェントハーネスの重要性を語っている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
