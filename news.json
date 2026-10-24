@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-24T16:43:49.322444+09:00",
-  "generatedLabel": "2026/10/24 16:43",
+  "generatedAt": "2026-10-24T21:20:16.517921+09:00",
+  "generatedLabel": "2026/10/24 21:20",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 51,
+  "candidates": 49,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 9
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "GPT-6 Astraと同等性能の中国製モデル「Kimi K3.1 Pro」が登場、2026年11月4日にモデルを無償公開予定",
+      "link": "https://gigazine.net/news/20261024-kimi-k3-1-pro/",
+      "date": "2026-10-24T20:50:00+09:00",
+      "dateLabel": "10/24 20:50",
+      "desc": "中国企業のMoonshot AIがAIモデル「Kimi K3.1 Pro」を日本時間の2026年10月24日に発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開",
       "link": "https://www.itmedia.co.jp/news/article/2610/24/2000002564/",
       "date": "2026-10-24T07:28:08+09:00",
@@ -93,39 +104,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "MicrosoftのSurface Laptop Ultraに搭載された「マグネット式USB Type-Cコネクタ」とは一体何なのか？",
-      "link": "https://gigazine.net/news/20261023-usb-c-magnetic-connect-microsoft/",
-      "date": "2026-10-23T21:00:00+09:00",
-      "dateLabel": "10/23 21:00",
-      "desc": "Microsoftは2026年10月7日のNVIDIAの新型SoCであるRTX Sparkを搭載するWindows PC「Surface Laptop Ultra」を発表しました。そんなSurface Laptop Ultraに搭載されたマグネット式USB Type-Cコネクタ「Magnetic Connect」について、ガジェット系メディアのLTT Lab",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "AIにNintendo Switch 2を操作させて脱獄に成功、Codexが脆弱性を発見してゲームの改造まで実現",
-      "link": "https://gigazine.net/news/20261023-nintendo-switch-2-jailbreak/",
-      "date": "2026-10-23T20:00:00+09:00",
-      "dateLabel": "10/23 20:00",
-      "desc": "Nintendo Switch 2のセキュリティを突破し、非公式プログラムを実行できるようにする手法「ns2jb」が公開されました。開発にはOpenAIのコーディングAI「OpenAI Codex」が活用され、AIが実際のゲーム機を遠隔操作しながら脆弱(ぜいじゃく)性を調査するという手法が採用されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "AIを低遅延実行するための推論エンジン「Liquid RIPL」が登場、検索や決済などの低遅延が重要な場面で役立つ",
-      "link": "https://gigazine.net/news/20261023-ripl-inference-engine/",
-      "date": "2026-10-23T18:55:00+09:00",
-      "dateLabel": "10/23 18:55",
-      "desc": "AI開発企業のLiquid AIが低遅延性を重視した推論エンジン「Liquid RIPL」を発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -206,24 +184,35 @@
       "score": 26
     },
     {
-      "title": "【無料・AIプロンプト集】農家の確定申告、準備は年内から。経費整理の判定キットを提供",
-      "link": "https://ascii.jp/elem/000/004/445/4445478/?rss",
-      "date": "2026-10-24T08:20:00+09:00",
-      "dateLabel": "10/24 08:20",
-      "desc": "【無料・AIプロンプト集】農家の確定申告、準備は年内から。経費整理の判定キットを提供",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "MicrosoftのSurface Laptop Ultraに搭載された「マグネット式USB Type-Cコネクタ」とは一体何なのか？",
+      "link": "https://gigazine.net/news/20261023-usb-c-magnetic-connect-microsoft/",
+      "date": "2026-10-23T21:00:00+09:00",
+      "dateLabel": "10/23 21:00",
+      "desc": "Microsoftは2026年10月7日のNVIDIAの新型SoCであるRTX Sparkを搭載するWindows PC「Surface Laptop Ultra」を発表しました。そんなSurface Laptop Ultraに搭載されたマグネット式USB Type-Cコネクタ「Magnetic Connect」について、ガジェット系メディアのLTT Lab",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
       "score": 26
     },
     {
-      "title": "サイバー攻撃AIツール「ARTEX」とは 中国政府と連携する攻撃者も使用、各国で悪用確認",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002552/",
-      "date": "2026-10-23T17:37:57+09:00",
-      "dateLabel": "10/23 17:37",
-      "desc": "中国語話者の開発者が「学習と研究目的」で公開したAI自律型侵入テストツール「ARTEX」。MicrosoftやCrowdStrikeが悪用例を報告し、日本企業約20社への攻撃にも使われた。作者は公開を停止したが、改変版が増殖している。",
+      "title": "AIにNintendo Switch 2を操作させて脱獄に成功、Codexが脆弱性を発見してゲームの改造まで実現",
+      "link": "https://gigazine.net/news/20261023-nintendo-switch-2-jailbreak/",
+      "date": "2026-10-23T20:00:00+09:00",
+      "dateLabel": "10/23 20:00",
+      "desc": "Nintendo Switch 2のセキュリティを突破し、非公式プログラムを実行できるようにする手法「ns2jb」が公開されました。開発にはOpenAIのコーディングAI「OpenAI Codex」が活用され、AIが実際のゲーム機を遠隔操作しながら脆弱(ぜいじゃく)性を調査するという手法が採用されています。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "AIを低遅延実行するための推論エンジン「Liquid RIPL」が登場、検索や決済などの低遅延が重要な場面で役立つ",
+      "link": "https://gigazine.net/news/20261023-ripl-inference-engine/",
+      "date": "2026-10-23T18:55:00+09:00",
+      "dateLabel": "10/23 18:55",
+      "desc": "AI開発企業のLiquid AIが低遅延性を重視した推論エンジン「Liquid RIPL」を発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AI全般",
       "score": 26
     },
@@ -280,6 +269,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "PHP2Shell、公表4日前に悪用の試み 「公表日より前にさかのぼって調査を」とAmazon",
+      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002530/",
+      "date": "2026-10-23T07:03:38+09:00",
+      "dateLabel": "10/23 07:03",
+      "desc": "Amazonの脅威調査チームは、PHPの緊急脆弱性「PHP2Shell」を悪用する試みを公表4日前にハニーポットで検知したと発表した。公開後は悪用が急拡大。AIによる攻撃コード作成の加速を指摘し、対応期限の時間単位での管理や公表前への調査遡及など前提の見直しを呼び掛けた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
       "score": 26
     }
   ]
