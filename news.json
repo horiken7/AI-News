@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-24T08:39:43.175901+09:00",
-  "generatedLabel": "2026/10/24 08:39",
+  "generatedAt": "2026-10-24T11:29:17.920505+09:00",
+  "generatedLabel": "2026/10/24 11:29",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 49,
+  "candidates": 47,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 1
+      "items": 0
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 11
+      "items": 10
     },
     {
       "source": "CNET Japan",
@@ -184,17 +184,6 @@
       "score": 34
     },
     {
-      "title": "中国政府と関係するサイバー攻撃者が世界中の数百の組織に対してAIエージェント「ARTEX」を用いて攻撃を実施していたことがMicrosoftの調査で判明",
-      "link": "https://gigazine.net/news/20261023-storm-0940-artex-cyber-attack/",
-      "date": "2026-10-23T11:04:00+09:00",
-      "dateLabel": "10/23 11:04",
-      "desc": "Microsoftが中国政府と関係しているとされるサイバー攻撃者「Storm-0940」に関する調査結果を公開しました。Storm-0940はAIエージェント「ARTEX」を悪用して数百の組織に対する攻撃を実施していたことが明らかになっています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "中国系攻撃者がAIエージェントで攻撃を自動化、「ConnectWise」のサプライチェーン攻撃に関与 Microsoftが警告",
       "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002531/",
       "date": "2026-10-23T07:45:34+09:00",
@@ -228,14 +217,14 @@
       "score": 32
     },
     {
-      "title": "PE-BANK特別講座「AI時代のキャリア適性診断／傾向と対策」第1回を開催",
-      "link": "https://ascii.jp/elem/000/004/445/4445443/?rss",
-      "date": "2026-10-23T18:01:08+09:00",
-      "dateLabel": "10/23 18:01",
-      "desc": "PE-BANK特別講座「AI時代のキャリア適性診断／傾向と対策」第1回を開催",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "アヒル型ロボット「Microduck」の予約注文数が2万台を突破、NVIDIAのジェンスン・フアンCEOとの戯れで爆売れ",
+      "link": "https://gigazine.net/news/20261024-nvidia-ceo-plays-microduck-20000-sell/",
+      "date": "2026-10-24T10:00:00+09:00",
+      "dateLabel": "10/24 10:00",
+      "desc": "NVIDIAのジェンスン・フアンCEOが、AIカンファレンスの基調講演に登壇し、アヒル型ロボットの「Microduck」と戯れる様子がSNSを中心に大きな話題を呼びました。これにより、Microduckの予約注文数が2万台を突破したことが報告されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
       "score": 26
     },
     {
@@ -280,6 +269,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "“あいまいな指示”を入力されたAIは安全なコーディングができない？ 香港科技大などが調査",
+      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002513/",
+      "date": "2026-10-23T12:00:00+09:00",
+      "dateLabel": "10/23 12:00",
+      "desc": "香港科技大学などに所属する研究者らが7月に発表した論文「Coding Agents Are Guessing: Measuring Action-Boundary Violations in Underspecified DevOps Instructions」は、あいまいな指示を受けたコーディングAIがどのような振る舞いをみせるかを調査した研究報告だ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
       "score": 26
     }
   ]
