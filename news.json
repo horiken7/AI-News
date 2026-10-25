@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-25T14:29:52.032374+09:00",
-  "generatedLabel": "2026/10/25 14:29",
+  "generatedAt": "2026-10-25T19:22:29.865996+09:00",
+  "generatedLabel": "2026/10/25 19:22",
   "feedOk": 6,
   "feedNg": 5,
   "candidates": 48,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 8
+      "items": 7
     },
     {
       "source": "CNET Japan",
@@ -72,6 +72,17 @@
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 42
+    },
+    {
+      "title": "中小企業のSNS・ブログ運用を自動化するWellSkate AIの活用例",
+      "link": "https://ascii.jp/elem/000/004/445/4445522/?rss",
+      "date": "2026-10-25T14:31:43+09:00",
+      "dateLabel": "10/25 14:31",
+      "desc": "中小企業のSNS・ブログ運用を自動化するWellSkate AIの活用例",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "【REDMAGIC 12 Pro+】水冷×空冷の極冷仕様！ 185Hz＆ノッチなし画面の最強ゲーミングスマホが誕生",
@@ -270,17 +281,6 @@
       "src": "ITmedia AI+",
       "cat": "AI全般",
       "score": 26
-    },
-    {
-      "title": "Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ",
-      "link": "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
-      "date": "2026-10-15T00:57:19+09:00",
-      "dateLabel": "10/15 00:57",
-      "desc": "マイクロソフトはWindows 11上でAIエージェントを安全に動かすための隔離環境「Microsoft Execution Containers」（以下、MXC）の正式リリースを発表しました。 MXC is now GA on Windo...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 24
     }
   ]
 }
