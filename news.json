@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-26T05:23:30.332165+09:00",
-  "generatedLabel": "2026/10/26 05:23",
+  "generatedAt": "2026-10-26T07:55:22.417131+09:00",
+  "generatedLabel": "2026/10/26 07:55",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 47,
+  "candidates": 50,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -62,6 +62,50 @@
     }
   ],
   "articles": [
+    {
+      "title": "「もっとAIに任せたい」法務タスクを自動実行するAIエージェント機能のβ版",
+      "link": "https://ascii.jp/elem/000/004/444/4444876/?rss",
+      "date": "2026-10-26T07:00:00+09:00",
+      "dateLabel": "10/26 07:00",
+      "desc": "株式会社LegalOn Technologiesは10月19日、同社が提供する法務AIプラットフォーム「LegalOn」において、法務特化型AIエージェントが設定に応じて自律的に業務を実行する新機能「エージェントビルダー（タスク自動化機能）」のβ版を提供開始したと発表した。",
+      "img": "https://ascii.jp/img/2026/10/22/4541900/s/1d497d5e420a9d08.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 66
+    },
+    {
+      "title": "三菱電機、フィジカルAIでヒューマノイドと工作機械が連携する自動化システムを開発",
+      "link": "https://ascii.jp/elem/000/004/445/4445081/?rss",
+      "date": "2026-10-26T07:00:00+09:00",
+      "dateLabel": "10/26 07:00",
+      "desc": "三菱電機株式会社は10月21日、フィジカルAIを介してヒューマノイドロボットとCNC工作機械がシームレスに連携する加工システムを開発したと発表した。",
+      "img": "https://ascii.jp/img/2026/10/22/4542118/s/81ee719b5001407d.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "AIエージェントによる操作の多くがボット検出システムのhCaptchaやCloudflare Turnstileを通過",
+      "link": "https://gigazine.net/news/20261026-ai-bot-detection-benchmark/",
+      "date": "2026-10-26T06:00:00+09:00",
+      "dateLabel": "10/26 06:00",
+      "desc": "ボット検出システムを開発するProof of Humanが、自社製品を含む5種類のシステムを比較した結果を公開しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "Webは誰のためのものか？ AIエージェント急増で「人間優先」揺らぐ",
+      "link": "https://ascii.jp/elem/000/004/445/4445535/?rss",
+      "date": "2026-10-26T05:52:44+09:00",
+      "dateLabel": "10/26 05:52",
+      "desc": "画像クレジット:Sarah Rogers/MIT Technology Review | Getty Images",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
     {
       "title": "中小企業のSNS・ブログ運用を自動化するWellSkate AIの活用例",
       "link": "https://ascii.jp/elem/000/004/445/4445522/?rss",
@@ -129,17 +173,6 @@
       "score": 34
     },
     {
-      "title": "中国系攻撃者がAIエージェントで攻撃を自動化、「ConnectWise」のサプライチェーン攻撃に関与 Microsoftが警告",
-      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002531/",
-      "date": "2026-10-23T07:45:34+09:00",
-      "dateLabel": "10/23 07:45",
-      "desc": "Microsoftは、中国連携の攻撃者「Storm-0940」がオープンソースのAI侵入テストツール「ARTEX」で攻撃を自動化し、世界で数百の組織を標的にしていると発表した。ConnectWise経由で顧客のMicrosoft 365に侵入した事例も同グループと分析。管理者権限奪取まで3時間未満の例もあり、注意を呼び掛けている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "AIエージェントを自作する3つの方法！初心者でも無料から始められる手順",
       "link": "https://ainow.ai/2026/10/12/278433/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e8%2587%25aa%25e4%25bd%259c%25e3%2581%2599%25e3%2582%258b3%25e3%2581%25a4%25e3%2581%25ae%25e6%2596%25b9%25e6%25b3%2595%25ef%25bc%2581%25e5%2588%259d%25e5%25bf%2583%25e8%2580%2585%25e3%2581%25a7%25e3%2582%2582",
       "date": "2026-10-12T22:00:55+09:00",
@@ -151,6 +184,17 @@
       "score": 32
     },
     {
+      "title": "中国系攻撃者がAIエージェントで攻撃を自動化、「ConnectWise」のサプライチェーン攻撃に関与 Microsoftが警告",
+      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002531/",
+      "date": "2026-10-23T07:45:34+09:00",
+      "dateLabel": "10/23 07:45",
+      "desc": "Microsoftは、中国連携の攻撃者「Storm-0940」がオープンソースのAI侵入テストツール「ARTEX」で攻撃を自動化し、世界で数百の組織を標的にしていると発表した。ConnectWise経由で顧客のMicrosoft 365に侵入した事例も同グループと分析。管理者権限奪取まで3時間未満の例もあり、注意を呼び掛けている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 28
+    },
+    {
       "title": "Anthropic、Claudeでソフトウェアのアタックサーフェスを洗い出し・縮小する研究を公開 OpenSSHの修正にも貢献",
       "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002498/",
       "date": "2026-10-22T11:48:47+09:00",
@@ -160,6 +204,17 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 28
+    },
+    {
+      "title": "無料の画像生成AI「Moss-Image」がすごい 日本語も漫画も生成、商用利用OKの実力を試した",
+      "link": "https://ascii.jp/elem/000/004/445/4445534/?rss",
+      "date": "2026-10-26T07:00:00+09:00",
+      "dateLabel": "10/26 07:00",
+      "desc": "日本語描画や多彩な画風に対応した、オープンウエイトの画像生成AI「Moss-Image」を試す。行政の支援を受ける開発体制と事業戦略、今後の普及や画像生成AI市場への影響を考える。",
+      "img": "https://ascii.jp/img/2026/10/26/4543296/s/e272bbaf9008df3e.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 26
     },
     {
       "title": "「それは“FDE”ではない、ラベルの貼り替えだ」 結局、割高なベンダー依存から抜け出せない企業の共通点",
@@ -206,17 +261,6 @@
       "score": 26
     },
     {
-      "title": "無料で使えるAI製ターミナル「WorldTUI」が登場、コマンドを実行せずにAIが画面を再現",
-      "link": "https://gigazine.net/news/20261023-worldtui/",
-      "date": "2026-10-23T16:40:00+09:00",
-      "dateLabel": "10/23 16:40",
-      "desc": "キーボードからの入力に応じてターミナルの画面をAIが予測する「WorldTUI」が公開されました。実際のコマンド実行やファイル操作を行う仕組みを持たず、AIがターミナルの動作を再現するのが特徴です。約3億6000万パラメーターのAIモデルを使用しており、WebGPUに対応したブラウザから無料で試すことができます。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
       "title": "「エージェント向け1Password」発表 AIにパスワード渡さずアクセス権限付与可能に",
       "link": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002545/",
       "date": "2026-10-23T15:24:45+09:00",
@@ -237,50 +281,6 @@
       "src": "AINOW",
       "cat": "AIエージェント/業務",
       "score": 26
-    },
-    {
-      "title": "プロンプトガチャはもう古い――「ハーネスの父」が明かす、AI駆動開発の極意",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/23/news030.html",
-      "date": "2026-10-23T12:45:00+09:00",
-      "dateLabel": "10/23 12:45",
-      "desc": "Googleは、AIエージェントによる開発をテーマにした解説動画「The Agent Factory」を要約した記事を公開した。Googleのエンジニアがエージェントハーネスの重要性を語っている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "PHP2Shell、公表4日前に悪用の試み 「公表日より前にさかのぼって調査を」とAmazon",
-      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002530/",
-      "date": "2026-10-23T07:03:38+09:00",
-      "dateLabel": "10/23 07:03",
-      "desc": "Amazonの脅威調査チームは、PHPの緊急脆弱性「PHP2Shell」を悪用する試みを公表4日前にハニーポットで検知したと発表した。公開後は悪用が急拡大。AIによる攻撃コード作成の加速を指摘し、対応期限の時間単位での管理や公表前への調査遡及など前提の見直しを呼び掛けた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ",
-      "link": "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
-      "date": "2026-10-15T00:57:19+09:00",
-      "dateLabel": "10/15 00:57",
-      "desc": "マイクロソフトはWindows 11上でAIエージェントを安全に動かすための隔離環境「Microsoft Execution Containers」（以下、MXC）の正式リリースを発表しました。 MXC is now GA on Windo...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 24
-    },
-    {
-      "title": "AIエージェントを自作する方法7選！無料で始める手順と費用の目安",
-      "link": "https://ainow.ai/2026/10/14/278439/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e8%2587%25aa%25e4%25bd%259c%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%25957%25e9%2581%25b8%25ef%25bc%2581%25e7%2584%25a1%25e6%2596%2599%25e3%2581%25a7%25e5%25a7%258b%25e3%2582%2581%25e3%2582%258b",
-      "date": "2026-10-14T21:30:49+09:00",
-      "dateLabel": "10/14 21:30",
-      "desc": "AIエージェントは、GeminiやClaudeの画面で指示文を登録するだけでも自作できます。本記事では、難易度別の7つの自作方法と、同じニュース要約エージェントを3通りの方法で作る手順を解説します。 「AIエージェントを... The post AIエージェントを自作する方法7選！無料で始める手順と費用の目安 first appeared on AI専門ニュ",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 24
     }
   ]
 }
