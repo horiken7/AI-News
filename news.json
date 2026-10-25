@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-25T07:06:20.313700+09:00",
-  "generatedLabel": "2026/10/25 07:06",
+  "generatedAt": "2026-10-25T09:40:44.536599+09:00",
+  "generatedLabel": "2026/10/25 09:40",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 50,
+  "candidates": 48,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 8
     },
     {
       "source": "CNET Japan",
@@ -74,17 +74,6 @@
       "score": 42
     },
     {
-      "title": "「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開",
-      "link": "https://www.itmedia.co.jp/news/article/2610/24/2000002564/",
-      "date": "2026-10-24T07:28:08+09:00",
-      "dateLabel": "10/24 07:28",
-      "desc": "Anthropicと英AI安全保障研究所AISIは、「Claude Mythos 5」がサイバー能力評価中に実在の開発者を標的とした事案の分析報告を公開した。GitHub経由で無許可の攻撃を行い偽身元で承認を迫った経緯を報告。実在の人物と認識しても攻撃を正当化して続行する傾向が確認され、評価手法の見直しが進む。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "ゴムマリの専門業務AI-BPO、『マスタ移行 for SAP S/4HANA(R)』を提供開始",
       "link": "https://ascii.jp/elem/000/004/445/4445469/?rss",
       "date": "2026-10-24T10:00:00+09:00",
@@ -96,14 +85,14 @@
       "score": 34
     },
     {
-      "title": "「それは“FDE”ではない、ラベルの貼り替えだ」 結局、割高なベンダー依存から抜け出せない企業の共通点",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/24/news006.html",
-      "date": "2026-10-24T08:15:00+09:00",
-      "dateLabel": "10/24 08:15",
-      "desc": "Gartnerは、FDE（Forward Deployed Engineering）によって構築されたエージェント型AIについて、2028年までに企業の7割が放棄するとの予測を発表した。どういうことか。",
+      "title": "「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開",
+      "link": "https://www.itmedia.co.jp/news/article/2610/24/2000002564/",
+      "date": "2026-10-24T07:28:08+09:00",
+      "dateLabel": "10/24 07:28",
+      "desc": "Anthropicと英AI安全保障研究所AISIは、「Claude Mythos 5」がサイバー能力評価中に実在の開発者を標的とした事案の分析報告を公開した。GitHub経由で無許可の攻撃を行い偽身元で承認を迫った経緯を報告。実在の人物と認識しても攻撃を正当化して続行する傾向が確認され、評価手法の見直しが進む。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -195,6 +184,17 @@
       "score": 26
     },
     {
+      "title": "「それは“FDE”ではない、ラベルの貼り替えだ」 結局、割高なベンダー依存から抜け出せない企業の共通点",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/24/news006.html",
+      "date": "2026-10-24T08:15:00+09:00",
+      "dateLabel": "10/24 08:15",
+      "desc": "Gartnerは、FDE（Forward Deployed Engineering）によって構築されたエージェント型AIについて、2028年までに企業の7割が放棄するとの予測を発表した。どういうことか。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
       "title": "MicrosoftのSurface Laptop Ultraに搭載された「マグネット式USB Type-Cコネクタ」とは一体何なのか？",
       "link": "https://gigazine.net/news/20261023-usb-c-magnetic-connect-microsoft/",
       "date": "2026-10-23T21:00:00+09:00",
@@ -261,17 +261,6 @@
       "score": 26
     },
     {
-      "title": "「バグのないソフトウェア」の実現を目指してAnthropicが「AIを用いて数学的にバグがないことを証明する」という手法を開発",
-      "link": "https://gigazine.net/news/20261023-anthropic-formal-verification/",
-      "date": "2026-10-23T12:58:00+09:00",
-      "dateLabel": "10/23 12:58",
-      "desc": "AIの高性能化によって、さまざまなソフトウェアのバグが大量に発見されており、PHPの緊急アップデートのように大きな影響を及ぼす事例も現れています。そんな中、AI企業のAnthropicが「ソフトウェアにバグがないことを形式的検証で証明する」という手法に取り組んでいることを明らかにしました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
       "title": "プロンプトガチャはもう古い――「ハーネスの父」が明かす、AI駆動開発の極意",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/23/news030.html",
       "date": "2026-10-23T12:45:00+09:00",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "PHP2Shell、公表4日前に悪用の試み 「公表日より前にさかのぼって調査を」とAmazon",
+      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002530/",
+      "date": "2026-10-23T07:03:38+09:00",
+      "dateLabel": "10/23 07:03",
+      "desc": "Amazonの脅威調査チームは、PHPの緊急脆弱性「PHP2Shell」を悪用する試みを公表4日前にハニーポットで検知したと発表した。公開後は悪用が急拡大。AIによる攻撃コード作成の加速を指摘し、対応期限の時間単位での管理や公表前への調査遡及など前提の見直しを呼び掛けた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
       "score": 26
     }
   ]
