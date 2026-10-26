@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-26T09:51:24.810364+09:00",
-  "generatedLabel": "2026/10/26 09:51",
+  "generatedAt": "2026-10-26T14:35:10.697708+09:00",
+  "generatedLabel": "2026/10/26 14:35",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 50,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 12
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 6
+      "items": 8
     },
     {
       "source": "CNET Japan",
@@ -63,36 +63,146 @@
   ],
   "articles": [
     {
-      "title": "「もっとAIに任せたい」法務タスクを自動実行するAIエージェント機能のβ版",
-      "link": "https://ascii.jp/elem/000/004/444/4444876/?rss",
-      "date": "2026-10-26T07:00:00+09:00",
-      "dateLabel": "10/26 07:00",
-      "desc": "株式会社LegalOn Technologiesは10月19日、同社が提供する法務AIプラットフォーム「LegalOn」において、法務特化型AIエージェントが設定に応じて自律的に業務を実行する新機能「エージェントビルダー（タスク自動化機能）」のβ版を提供開始したと発表した。",
-      "img": "https://ascii.jp/img/2026/10/22/4541900/s/1d497d5e420a9d08.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 66
+      "title": "データセンター級のAIをローカルで、HPが大規模AI向けワークステーション発売",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/26/news027.html",
+      "date": "2026-10-26T11:15:00+09:00",
+      "dateLabel": "10/26 11:15",
+      "desc": "日本HPは、大規模AIモデルの開発や推論処理に特化したワークステーション「HP ZGX Fury G1n AI Station」を発表した。NVIDIA GB300 Grace Blackwell Ultra Desktop Superchipと748GBのコヒーレントメモリを搭載し、最大1兆パラメーター規模のAIモデルによる推論処理に対応する。機密データを",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 50
     },
     {
-      "title": "三菱電機、フィジカルAIでヒューマノイドと工作機械が連携する自動化システムを開発",
-      "link": "https://ascii.jp/elem/000/004/445/4445081/?rss",
-      "date": "2026-10-26T07:00:00+09:00",
-      "dateLabel": "10/26 07:00",
-      "desc": "三菱電機株式会社は10月21日、フィジカルAIを介してヒューマノイドロボットとCNC工作機械がシームレスに連携する加工システムを開発したと発表した。",
-      "img": "https://ascii.jp/img/2026/10/22/4542118/s/81ee719b5001407d.jpg",
+      "title": "フツパー、セキュリティ重視のローカルLLM「ラクラグ」をAIエージェントとして大幅アップデート",
+      "link": "https://ascii.jp/elem/000/004/445/4445713/?rss",
+      "date": "2026-10-26T13:00:00+09:00",
+      "dateLabel": "10/26 13:00",
+      "desc": "フツパー、セキュリティ重視のローカルLLM「ラクラグ」をAIエージェントとして大幅アップデート",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
       "score": 42
     },
     {
-      "title": "パナソニック、33万人分の個人情報を外部AIにアップロード",
-      "link": "https://ascii.jp/elem/000/004/445/4445539/?rss",
-      "date": "2026-10-26T09:00:00+09:00",
-      "dateLabel": "10/26 09:00",
-      "desc": "パナソニック オペレーショナルエクセレンスは10月23日、従業員や元従業員、その家族の個人情報を含むデータを、利用を禁止している外部の生成AIサービスにアップロードしていたと発表した。",
-      "img": "https://ascii.jp/img/2026/10/26/4543319/s/d58ae4efc7e83be0.png",
+      "title": "「Kimi K3.1 Pro」発表、オープンモデルでは「最高性能」見込む 悪用防止のためサイバー関連データ除去",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/26/2000002572/",
+      "date": "2026-10-26T10:13:02+09:00",
+      "dateLabel": "10/26 10:13",
+      "desc": "中国Moonshot AIがオープンウェイトモデル「Kimi K3.1 Pro」を発表。開発性能などの一部評価で「GPT-6 Astra」を上回り、2～3倍高速な版も同時公開した。重みは11月4日までに公開予定。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "【新サービス】「見えないリスクを、見える安心へ。」セキュリティ診断サービス「Mistral Guard」を提供開始へ",
+      "link": "https://ascii.jp/elem/000/004/445/4445708/?rss",
+      "date": "2026-10-26T13:21:03+09:00",
+      "dateLabel": "10/26 13:21",
+      "desc": "【新サービス】「見えないリスクを、見える安心へ。」セキュリティ診断サービス「Mistral Guard」を提供開始へ",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "脆弱性情報を「技術部門だけの課題」から「経営判断」へ。UCK、AI・DX時代のセキュリティ情報サイトを公開",
+      "link": "https://ascii.jp/elem/000/004/445/4445723/?rss",
+      "date": "2026-10-26T13:00:02+09:00",
+      "dateLabel": "10/26 13:00",
+      "desc": "脆弱性情報を「技術部門だけの課題」から「経営判断」へ。UCK、AI・DX時代のセキュリティ情報サイトを公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "AI Hack提供のAIO分析ツール「AI Hack」が最新AIモデル「Claude Sonnet 5.5」「GPT-6.1 Sol」に対応",
+      "link": "https://ascii.jp/elem/000/004/445/4445716/?rss",
+      "date": "2026-10-26T13:00:00+09:00",
+      "dateLabel": "10/26 13:00",
+      "desc": "AI Hack提供のAIO分析ツール「AI Hack」が最新AIモデル「Claude Sonnet 5.5」「GPT-6.1 Sol」に対応",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "八千代ソリューションズ COO 山口 修平、半導体製造ライン・メンテナンスの専門セミナーに登壇「設備の突発停止・技術伝承にどう向き合うか」をテーマに講演",
+      "link": "https://ascii.jp/elem/000/004/445/4445715/?rss",
+      "date": "2026-10-26T13:00:00+09:00",
+      "dateLabel": "10/26 13:00",
+      "desc": "八千代ソリューションズ COO 山口 修平、半導体製造ライン・メンテナンスの専門セミナーに登壇「設備の突発停止・技術伝承にどう向き合うか」をテーマに講演",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "Tokyo Artisan Intelligence（TAI）、シリーズC 1stクローズで総額12.7億円を調達～AIソリューションとAI半導体チップの2軸で事業拡大を加速～",
+      "link": "https://ascii.jp/elem/000/004/445/4445710/?rss",
+      "date": "2026-10-26T13:00:00+09:00",
+      "dateLabel": "10/26 13:00",
+      "desc": "Tokyo Artisan Intelligence（TAI）、シリーズC 1stクローズで総額12.7億円を調達～AIソリューションとAI半導体チップの2軸で事業拡大を加速～",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "動画で見つけた「行きたい」を、AIがそのまま旅程に。One Laplace、AIおでかけ・旅行アプリ「BLAIGHT（ブライト）」をリリース ― 鉄道・アクティビティ・飲食店の掲載パートナー募集も開始",
+      "link": "https://ascii.jp/elem/000/004/445/4445707/?rss",
+      "date": "2026-10-26T13:00:00+09:00",
+      "dateLabel": "10/26 13:00",
+      "desc": "動画で見つけた「行きたい」を、AIがそのまま旅程に。One Laplace、AIおでかけ・旅行アプリ「BLAIGHT（ブライト）」をリリース ― 鉄道・アクティビティ・飲食店の掲載パートナー募集も開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "OpenAIがNode.jsやBunで使われているGoogle製圧縮ツール「Brotli」でリモートコード実行につながる脆弱性を発見",
+      "link": "https://gigazine.net/news/20261026-openai-brotli-vulnerability/",
+      "date": "2026-10-26T12:33:00+09:00",
+      "dateLabel": "10/26 12:33",
+      "desc": "OpenAIがGoogle製圧縮ツール「Brotli」にリモートコード実行につながる脆弱(ぜいじゃく)性が存在することを発見しました。すでに修正版がリリースされており、アップデートが呼びかけられています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "ジャック・ドーシー氏率いるBlock、音声だけで学習した全二重音声モデル「Dessa」発表 「人と話しているよう」",
+      "link": "https://www.itmedia.co.jp/news/article/2610/26/2000002574/",
+      "date": "2026-10-26T11:04:33+09:00",
+      "dateLabel": "10/26 11:04",
+      "desc": "Block（旧Square）は、テキストや事前学習モデルを使わず、人間の会話音声のみで学習させた全二重音声モデル「Dessa」の研究プレビューを発表した。相づちや感情の抑揚を直接聞き取り表現できるのが特徴で、NVIDIAのラック1台で学習されており、MacBook Proでローカル実行できる。一般提供時期は未定。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "かなり人間っぽい会話が可能なAI「Dessa」をジャック・ドーシー率いるBlockが発表、テキストを省いて会話音声のみで訓練しMacBook Proでローカル実行可能",
+      "link": "https://gigazine.net/news/20261026-dessa-conversation-ai/",
+      "date": "2026-10-26T10:59:00+09:00",
+      "dateLabel": "10/26 10:59",
+      "desc": "BlockはTwitter創業者のジャック・ドーシー氏がCEOを務めるテクノロジー企業で、決済サービスのほか、AIエージェントやAI重視のコミュケーションツールなども開発しています。新たに、Blockが音声会話AI「Dessa」を発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "OpenAI、フロンティアモデルの学習中はインターネットに接続させない方針 学習中のAIが隔離環境を抜け出した件も公表",
+      "link": "https://www.itmedia.co.jp/news/article/2610/26/2000002573/",
+      "date": "2026-10-26T10:10:56+09:00",
+      "dateLabel": "10/26 10:10",
+      "desc": "OpenAIは、安全対策が十分に進歩するまでフロンティアモデルの学習時にネット接続を遮断する方針を発表した。キャッシュによるオフライン環境を用意していたが、9月にモデルがネットに一時接続する事案が発生。調査の過程で多くのソフトに影響する圧縮ライブラリ「Brotli」の深刻な脆弱性も判明した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -103,17 +213,6 @@
       "desc": "ボット検出システムを開発するProof of Humanが、自社製品を含む5種類のシステムを比較した結果を公開しました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Webは誰のためのものか？ AIエージェント急増で「人間優先」揺らぐ",
-      "link": "https://ascii.jp/elem/000/004/445/4445535/?rss",
-      "date": "2026-10-26T05:52:44+09:00",
-      "dateLabel": "10/26 05:52",
-      "desc": "画像クレジット:Sarah Rogers/MIT Technology Review | Getty Images",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
       "score": 34
     },
@@ -140,17 +239,6 @@
       "score": 34
     },
     {
-      "title": "1バイト違えば不合格のCOBOL移行、OpenAI新モデルの正解率は？",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/22/news077.html",
-      "date": "2026-10-23T11:30:00+09:00",
-      "dateLabel": "10/23 11:30",
-      "desc": "学習リソースの少ないCOBOLやFortranを、AIはどこまで扱えるのか。OpenAIは、20言語でデータベースエンジンを構築するテストで、新モデルの平均合格率が従来モデルの26.8％から87.4％に伸びたと発表した。では、既存のCOBOLプログラムを別の言語に書き換える評価では、どんな結果が出たのか。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "AIエージェントを自作する3つの方法！初心者でも無料から始められる手順",
       "link": "https://ainow.ai/2026/10/12/278433/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e8%2587%25aa%25e4%25bd%259c%25e3%2581%2599%25e3%2582%258b3%25e3%2581%25a4%25e3%2581%25ae%25e6%2596%25b9%25e6%25b3%2595%25ef%25bc%2581%25e5%2588%259d%25e5%25bf%2583%25e8%2580%2585%25e3%2581%25a7%25e3%2582%2582",
       "date": "2026-10-12T22:00:55+09:00",
@@ -160,6 +248,17 @@
       "src": "AINOW",
       "cat": "AIエージェント/業務",
       "score": 32
+    },
+    {
+      "title": "1バイト違えば不合格のCOBOL移行、OpenAI新モデルの正解率は？",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/22/news077.html",
+      "date": "2026-10-23T11:30:00+09:00",
+      "dateLabel": "10/23 11:30",
+      "desc": "学習リソースの少ないCOBOLやFortranを、AIはどこまで扱えるのか。OpenAIは、20言語でデータベースエンジンを構築するテストで、新モデルの平均合格率が従来モデルの26.8％から87.4％に伸びたと発表した。では、既存のCOBOLプログラムを別の言語に書き換える評価では、どんな結果が出たのか。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 28
     },
     {
       "title": "中国系攻撃者がAIエージェントで攻撃を自動化、「ConnectWise」のサプライチェーン攻撃に関与 Microsoftが警告",
@@ -173,113 +272,14 @@
       "score": 28
     },
     {
-      "title": "設計開発の知見をAIとの対話で蓄積、横断検索による回答生成にも対応",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/26/news017.html",
-      "date": "2026-10-26T09:00:00+09:00",
-      "dateLabel": "10/26 09:00",
-      "desc": "ギリアは、設計開発向けナレッジ基盤「GHELIA AutoDeck」の最新版「Ver.1.1」の提供を開始すると発表した。AIとの対話を通じてナレッジを作成する機能や、複数のナレッジを横断的に検索して回答を生成する機能などを追加した。",
+      "title": "Z-Libraryに関する論文が存在しないTorrentFreakの記事を引用、AIで記述か",
+      "link": "https://gigazine.net/news/20261026-z-library-paper/",
+      "date": "2026-10-26T14:15:00+09:00",
+      "dateLabel": "10/26 14:15",
+      "desc": "数百万冊の書籍や論文を無料で提供する海賊版電子書籍ライブラリ「Z-Library」は、高価な教科書や学術誌の購読料を払えない学生や研究者にとって有用な情報源となっており、「Z-Libraryが貧困の学生を助けている」という研究結果も存在しています。そんなZ-Libraryの情報としての有用性と著作権の問題について扱った論文が、著作権について扱うメディア・To",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "AIを無人島に30時間置き去りにした結果／失われた視力を補う網膜インプラント",
-      "link": "https://ascii.jp/elem/000/004/445/4445514/?rss",
-      "date": "2026-10-26T09:00:00+09:00",
-      "dateLabel": "10/26 09:00",
-      "desc": "世界最先端のテクノロジー情報をお届けするグローバルメディア「MITテクノロジーレビュー」から、ビジネスに役立つ注目のテック企業の最新動向、イノベーションにつながる最新の研究内容をピックアップして紹介します。",
-      "img": "https://ascii.jp/img/2026/10/18/4540185/s/dd8de734055f7743.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "「注目選手」も「観戦グルメ」もZoomのAIに聞こう！ Bリーグの試合にZoomが登場した理由",
-      "link": "https://ascii.jp/elem/000/004/445/4445440/?rss",
-      "date": "2026-10-26T09:00:00+09:00",
-      "dateLabel": "10/26 09:00",
-      "desc": "スポーツエンターテインメントの世界にも、AIの波が――。10月8日に開催されたプロバスケット・Bリーグのアルバルク東京×佐賀バルーナーズ戦の試合では、スマートフォンを通じて、アルバルク東京やTOYOTA ARENA TOKYOについてZoomのAI「Zoom Virtual Agent」に質問できるサービスが提供された。",
-      "img": "https://ascii.jp/img/2026/10/23/4542771/s/bd436c20ca4a4854.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "「ダサい努力は無能の証明」と、100日チャレンジの人は書いている",
-      "link": "https://ascii.jp/elem/000/004/445/4445399/?rss",
-      "date": "2026-10-26T09:00:00+09:00",
-      "dateLabel": "10/26 09:00",
-      "desc": "大塚あみさんの新著『全部、AIに丸投げした。』を読む。前著の100日チャレンジは、同世代には攻略本、上の世代には「これくらい勉強しろ」と受け取られた。本人が押し返すのは「ダサい努力は無能の証明」だ。前著で「よくがんばった」と思った人にこそ読んでほしい。",
-      "img": "https://ascii.jp/img/2026/10/23/4542773/s/edc0aed49ab7828d.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "Google、プライバシーポリシーに「Gmail」「Googleフォト」のデータを広告に使う例外を追加 回避方法は",
-      "link": "https://www.itmedia.co.jp/news/article/2610/26/2000002570/",
-      "date": "2026-10-26T08:28:28+09:00",
-      "dateLabel": "10/26 08:28",
-      "desc": "Googleはプライバシーポリシーを更新し、検索やGeminiにGmailやフォトなどのアクセスを許可した場合、そのデータが広告のパーソナライズに使われる例外規定を明記した。背景には「パーソナルインテリジェンス」機能があり、連携を解除しても検索履歴に残ったデータは削除されない。",
-      "img": "",
-      "src": "ITmedia AI+",
+      "src": "GIGAZINE",
       "cat": "規制/安全",
-      "score": 26
-    },
-    {
-      "title": "無料の画像生成AI「Moss-Image」がすごい 日本語も漫画も生成、商用利用OKの実力を試した",
-      "link": "https://ascii.jp/elem/000/004/445/4445534/?rss",
-      "date": "2026-10-26T07:00:00+09:00",
-      "dateLabel": "10/26 07:00",
-      "desc": "日本語描画や多彩な画風に対応した、オープンウエイトの画像生成AI「Moss-Image」を試す。行政の支援を受ける開発体制と事業戦略、今後の普及や画像生成AI市場への影響を考える。",
-      "img": "https://ascii.jp/img/2026/10/26/4543296/s/e272bbaf9008df3e.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
-      "title": "「それは“FDE”ではない、ラベルの貼り替えだ」 結局、割高なベンダー依存から抜け出せない企業の共通点",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/24/news006.html",
-      "date": "2026-10-24T08:15:00+09:00",
-      "dateLabel": "10/24 08:15",
-      "desc": "Gartnerは、FDE（Forward Deployed Engineering）によって構築されたエージェント型AIについて、2028年までに企業の7割が放棄するとの予測を発表した。どういうことか。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "MicrosoftのSurface Laptop Ultraに搭載された「マグネット式USB Type-Cコネクタ」とは一体何なのか？",
-      "link": "https://gigazine.net/news/20261023-usb-c-magnetic-connect-microsoft/",
-      "date": "2026-10-23T21:00:00+09:00",
-      "dateLabel": "10/23 21:00",
-      "desc": "Microsoftは2026年10月7日のNVIDIAの新型SoCであるRTX Sparkを搭載するWindows PC「Surface Laptop Ultra」を発表しました。そんなSurface Laptop Ultraに搭載されたマグネット式USB Type-Cコネクタ「Magnetic Connect」について、ガジェット系メディアのLTT Lab",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "AIにNintendo Switch 2を操作させて脱獄に成功、Codexが脆弱性を発見してゲームの改造まで実現",
-      "link": "https://gigazine.net/news/20261023-nintendo-switch-2-jailbreak/",
-      "date": "2026-10-23T20:00:00+09:00",
-      "dateLabel": "10/23 20:00",
-      "desc": "Nintendo Switch 2のセキュリティを突破し、非公式プログラムを実行できるようにする手法「ns2jb」が公開されました。開発にはOpenAIのコーディングAI「OpenAI Codex」が活用され、AIが実際のゲーム機を遠隔操作しながら脆弱(ぜいじゃく)性を調査するという手法が採用されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "「エージェント向け1Password」発表 AIにパスワード渡さずアクセス権限付与可能に",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002545/",
-      "date": "2026-10-23T15:24:45+09:00",
-      "dateLabel": "10/23 15:24",
-      "desc": "1PasswordはAIエージェントにパスワードを渡さずにアクセス権限を付与できるサービス「1Password for Agents」を発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
