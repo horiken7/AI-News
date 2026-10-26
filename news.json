@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-26T14:35:10.697708+09:00",
-  "generatedLabel": "2026/10/26 14:35",
+  "generatedAt": "2026-10-26T20:51:06.127925+09:00",
+  "generatedLabel": "2026/10/26 20:51",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 56,
+  "candidates": 50,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 12
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 8
+      "items": 10
     },
     {
       "source": "CNET Japan",
@@ -74,17 +74,6 @@
       "score": 50
     },
     {
-      "title": "フツパー、セキュリティ重視のローカルLLM「ラクラグ」をAIエージェントとして大幅アップデート",
-      "link": "https://ascii.jp/elem/000/004/445/4445713/?rss",
-      "date": "2026-10-26T13:00:00+09:00",
-      "dateLabel": "10/26 13:00",
-      "desc": "フツパー、セキュリティ重視のローカルLLM「ラクラグ」をAIエージェントとして大幅アップデート",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "「Kimi K3.1 Pro」発表、オープンモデルでは「最高性能」見込む 悪用防止のためサイバー関連データ除去",
       "link": "https://www.itmedia.co.jp/aiplus/article/2610/26/2000002572/",
       "date": "2026-10-26T10:13:02+09:00",
@@ -96,68 +85,35 @@
       "score": 42
     },
     {
-      "title": "【新サービス】「見えないリスクを、見える安心へ。」セキュリティ診断サービス「Mistral Guard」を提供開始へ",
-      "link": "https://ascii.jp/elem/000/004/445/4445708/?rss",
-      "date": "2026-10-26T13:21:03+09:00",
-      "dateLabel": "10/26 13:21",
-      "desc": "【新サービス】「見えないリスクを、見える安心へ。」セキュリティ診断サービス「Mistral Guard」を提供開始へ",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "脆弱性情報を「技術部門だけの課題」から「経営判断」へ。UCK、AI・DX時代のセキュリティ情報サイトを公開",
-      "link": "https://ascii.jp/elem/000/004/445/4445723/?rss",
-      "date": "2026-10-26T13:00:02+09:00",
-      "dateLabel": "10/26 13:00",
-      "desc": "脆弱性情報を「技術部門だけの課題」から「経営判断」へ。UCK、AI・DX時代のセキュリティ情報サイトを公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "title": "Acrobat AI アシスタントの校正能力を検証",
+      "link": "https://ascii.jp/elem/000/004/445/4445679/?rss",
+      "date": "2026-10-26T18:00:00+09:00",
+      "dateLabel": "10/26 18:00",
+      "desc": "アドビが提供するAdobe Acrobat AI アシスタント※は、これらの文書業務を力強く支援する便利なツールです。資料収集やアイデアの壁打ち、構成案の作成など、執筆の様々な場面で活用できるほか、作成した文章の内容を精査し、誤りがないかをチェックできる点も大きな特長です。AI アシスタントと新機能であるPDF スペースによる文章校正がどれほど有用なのかを、",
+      "img": "https://ascii.jp/img/2026/10/26/4543493/s/fc54985ae212662f.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
     },
     {
-      "title": "AI Hack提供のAIO分析ツール「AI Hack」が最新AIモデル「Claude Sonnet 5.5」「GPT-6.1 Sol」に対応",
-      "link": "https://ascii.jp/elem/000/004/445/4445716/?rss",
-      "date": "2026-10-26T13:00:00+09:00",
-      "dateLabel": "10/26 13:00",
-      "desc": "AI Hack提供のAIO分析ツール「AI Hack」が最新AIモデル「Claude Sonnet 5.5」「GPT-6.1 Sol」に対応",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
+      "title": "AnthropicのAIモデル・Claudeが人間の許可なく有権者情報にアクセス",
+      "link": "https://gigazine.net/news/20261026-anthropic-claude-accessed-vote-information/",
+      "date": "2026-10-26T16:48:00+09:00",
+      "dateLabel": "10/26 16:48",
+      "desc": "AnthropicのAIモデルであるClaudeが、人間の許可なくアメリカ・ジョージア州の有権者情報にアクセスしていたことが明らかになりました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 34
     },
     {
-      "title": "八千代ソリューションズ COO 山口 修平、半導体製造ライン・メンテナンスの専門セミナーに登壇「設備の突発停止・技術伝承にどう向き合うか」をテーマに講演",
-      "link": "https://ascii.jp/elem/000/004/445/4445715/?rss",
-      "date": "2026-10-26T13:00:00+09:00",
-      "dateLabel": "10/26 13:00",
-      "desc": "八千代ソリューションズ COO 山口 修平、半導体製造ライン・メンテナンスの専門セミナーに登壇「設備の突発停止・技術伝承にどう向き合うか」をテーマに講演",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "Tokyo Artisan Intelligence（TAI）、シリーズC 1stクローズで総額12.7億円を調達～AIソリューションとAI半導体チップの2軸で事業拡大を加速～",
-      "link": "https://ascii.jp/elem/000/004/445/4445710/?rss",
-      "date": "2026-10-26T13:00:00+09:00",
-      "dateLabel": "10/26 13:00",
-      "desc": "Tokyo Artisan Intelligence（TAI）、シリーズC 1stクローズで総額12.7億円を調達～AIソリューションとAI半導体チップの2軸で事業拡大を加速～",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "動画で見つけた「行きたい」を、AIがそのまま旅程に。One Laplace、AIおでかけ・旅行アプリ「BLAIGHT（ブライト）」をリリース ― 鉄道・アクティビティ・飲食店の掲載パートナー募集も開始",
-      "link": "https://ascii.jp/elem/000/004/445/4445707/?rss",
-      "date": "2026-10-26T13:00:00+09:00",
-      "dateLabel": "10/26 13:00",
-      "desc": "動画で見つけた「行きたい」を、AIがそのまま旅程に。One Laplace、AIおでかけ・旅行アプリ「BLAIGHT（ブライト）」をリリース ― 鉄道・アクティビティ・飲食店の掲載パートナー募集も開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
+      "title": "ゲームのように移動可能な世界を生成できるAI「Hy-Nomas」がオープンモデルとして公開される、RTX 4090でローカル実行可能",
+      "link": "https://gigazine.net/news/20261026-hy-nomas-interactive-world-model/",
+      "date": "2026-10-26T16:36:00+09:00",
+      "dateLabel": "10/26 16:36",
+      "desc": "中国の大手テクノロジー企業であるTencentが世界モデル「Hy-Nomas」をリリースしました。入力に応じて仮想世界を生成し、カメラやオブジェクトを自由に制御することが可能。モデルはオープンモデルとして無償公開されており、ローカルで実行することもできます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AI全般",
       "score": 34
     },
@@ -217,17 +173,6 @@
       "score": 34
     },
     {
-      "title": "GPT-6 Astraと同等性能の中国製モデル「Kimi K3.1 Pro」が登場、2026年11月4日にモデルを無償公開予定",
-      "link": "https://gigazine.net/news/20261024-kimi-k3-1-pro/",
-      "date": "2026-10-24T20:50:00+09:00",
-      "dateLabel": "10/24 20:50",
-      "desc": "中国企業のMoonshot AIがAIモデル「Kimi K3.1 Pro」を日本時間の2026年10月24日に発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開",
       "link": "https://www.itmedia.co.jp/news/article/2610/24/2000002564/",
       "date": "2026-10-24T07:28:08+09:00",
@@ -270,6 +215,61 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 28
+    },
+    {
+      "title": "世界最軽量のモバイルディスプレーを半額で買う方法が見つかる！ ずばり「VAIOと一緒に買えば良い」",
+      "link": "https://ascii.jp/elem/000/004/445/4445455/?rss",
+      "date": "2026-10-26T20:00:00+09:00",
+      "dateLabel": "10/26 20:00",
+      "desc": "VAIOは現在、直販サイト「VAIOストア」にて「【VAIO Vision+ 14】PCと同時購入で半額キャンペーン」を実施中。これは、世界最軽量のモバイルディスプレー「VAIO Vision+ 14」をキャンペーン対象のPCと同時購入すると、「VAIO Vision+ 14」の価格が半額になるというもの。",
+      "img": "https://ascii.jp/img/2026/10/24/4542944/s/ee380527953b1a81.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "AIが現場ナレッジをヒアリング。自動マニュアル作成機能をChatSenseが提供予定",
+      "link": "https://ascii.jp/elem/000/004/445/4445846/?rss",
+      "date": "2026-10-26T18:55:24+09:00",
+      "dateLabel": "10/26 18:55",
+      "desc": "AIが現場ナレッジをヒアリング。自動マニュアル作成機能をChatSenseが提供予定",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "【再入荷のお知らせ】大好評につき完売したRebotAi「AF12」シルバーモデルが10月26日に再入荷！12インチ2.5K・IP54防水対応タブレットが期間限定43％OFFの27,662円",
+      "link": "https://ascii.jp/elem/000/004/445/4445850/?rss",
+      "date": "2026-10-26T18:20:00+09:00",
+      "dateLabel": "10/26 18:20",
+      "desc": "【再入荷のお知らせ】大好評につき完売したRebotAi「AF12」シルバーモデルが10月26日に再入荷！12インチ2.5K・IP54防水対応タブレットが期間限定43％OFFの27,662円",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "AIのせいで宿題を採点する意味がなくなったとしてフィールズ賞受賞の数学教授が「提出しただけで評価する」方式に変更",
+      "link": "https://gigazine.net/news/20261026-ai-grading-homework/",
+      "date": "2026-10-26T15:12:00+09:00",
+      "dateLabel": "10/26 15:12",
+      "desc": "大学生の「ほぼ全員」が生成AIを使っているとの調査結果や、学生の17％が「課題や試験にChatGPTを使っている」と回答した調査など、AIが学習に強い影響を与えていることが分かっています。そんな中、フィールズ賞の受賞歴もあるカリフォルニア大学バークレー校の数学者であるリチャード・ボルチャーズ氏は、「AIの使用は避けられない状況にあるため、宿題の正誤を採点する",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "AIガバナンス一元化の「理想と限界」とは？ 米Dataikuの新サービスから考察",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/26/news060.html",
+      "date": "2026-10-26T15:00:00+09:00",
+      "dateLabel": "10/26 15:00",
+      "desc": "他社のAIエージェント管理基盤まで統治の対象にする――。米Dataikuの新サービスは、マルチベンダー環境でガバナンスを一元管理するという理想に踏み出した。だが、ガードレールやサイバーセキュリティの「強度」まで一元化できるのか。AIガバナンスの在り方を考察する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
+      "score": 26
     },
     {
       "title": "Z-Libraryに関する論文が存在しないTorrentFreakの記事を引用、AIで記述か",
