@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-26T07:55:22.417131+09:00",
-  "generatedLabel": "2026/10/26 07:55",
+  "generatedAt": "2026-10-26T09:51:24.810364+09:00",
+  "generatedLabel": "2026/10/26 09:51",
   "feedOk": 6,
   "feedNg": 5,
   "candidates": 50,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 7
+      "items": 6
     },
     {
       "source": "CNET Japan",
@@ -85,6 +85,17 @@
       "score": 42
     },
     {
+      "title": "パナソニック、33万人分の個人情報を外部AIにアップロード",
+      "link": "https://ascii.jp/elem/000/004/445/4445539/?rss",
+      "date": "2026-10-26T09:00:00+09:00",
+      "dateLabel": "10/26 09:00",
+      "desc": "パナソニック オペレーショナルエクセレンスは10月23日、従業員や元従業員、その家族の個人情報を含むデータを、利用を禁止している外部の生成AIサービスにアップロードしていたと発表した。",
+      "img": "https://ascii.jp/img/2026/10/26/4543319/s/d58ae4efc7e83be0.png",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
       "title": "AIエージェントによる操作の多くがボット検出システムのhCaptchaやCloudflare Turnstileを通過",
       "link": "https://gigazine.net/news/20261026-ai-bot-detection-benchmark/",
       "date": "2026-10-26T06:00:00+09:00",
@@ -102,39 +113,6 @@
       "dateLabel": "10/26 05:52",
       "desc": "画像クレジット:Sarah Rogers/MIT Technology Review | Getty Images",
       "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "中小企業のSNS・ブログ運用を自動化するWellSkate AIの活用例",
-      "link": "https://ascii.jp/elem/000/004/445/4445522/?rss",
-      "date": "2026-10-25T14:31:43+09:00",
-      "dateLabel": "10/25 14:31",
-      "desc": "中小企業のSNS・ブログ運用を自動化するWellSkate AIの活用例",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "【REDMAGIC 12 Pro+】水冷×空冷の極冷仕様！ 185Hz＆ノッチなし画面の最強ゲーミングスマホが誕生",
-      "link": "https://ascii.jp/elem/000/004/445/4445468/?rss",
-      "date": "2026-10-25T12:00:00+09:00",
-      "dateLabel": "10/25 12:00",
-      "desc": "ZTE傘下のnubiaからゲーミングスマホ「REDMAGIC 12 Pro+」が中国で発表されました。最新Snapdragonと水冷・空冷システムを搭載し、185Hzのノッチなし画面を採用。8400mAhの大容量バッテリーを備えつつ薄型軽量化を実現した妥協なき一台です。",
-      "img": "https://ascii.jp/img/2026/10/24/4543023/s/075df48fb1d240d0.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "ゴムマリの専門業務AI-BPO、『苦情・VoC・クレームのデータベース化』を提供開始",
-      "link": "https://ascii.jp/elem/000/004/445/4445515/?rss",
-      "date": "2026-10-25T10:00:00+09:00",
-      "dateLabel": "10/25 10:00",
-      "desc": "ゴムマリの専門業務AI-BPO、『苦情・VoC・クレームのデータベース化』を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
       "score": 34
@@ -195,15 +173,59 @@
       "score": 28
     },
     {
-      "title": "Anthropic、Claudeでソフトウェアのアタックサーフェスを洗い出し・縮小する研究を公開 OpenSSHの修正にも貢献",
-      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002498/",
-      "date": "2026-10-22T11:48:47+09:00",
-      "dateLabel": "10/22 11:48",
-      "desc": "Anthropicは、AIモデル「Claude」でソフトウェアの攻撃対象領域を分析・縮小する研究結果を公開した。オープンソース25件を分析し、設定矛盾など493件の問題を特定。「OpenSSH」では、認証前に到達可能なコードを約5分の1削減し、最新版に対策が反映された。手法は脆弱性検出サービス「OSS Scanner」に組み込まれる。",
+      "title": "設計開発の知見をAIとの対話で蓄積、横断検索による回答生成にも対応",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/26/news017.html",
+      "date": "2026-10-26T09:00:00+09:00",
+      "dateLabel": "10/26 09:00",
+      "desc": "ギリアは、設計開発向けナレッジ基盤「GHELIA AutoDeck」の最新版「Ver.1.1」の提供を開始すると発表した。AIとの対話を通じてナレッジを作成する機能や、複数のナレッジを横断的に検索して回答を生成する機能などを追加した。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 28
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
+      "title": "AIを無人島に30時間置き去りにした結果／失われた視力を補う網膜インプラント",
+      "link": "https://ascii.jp/elem/000/004/445/4445514/?rss",
+      "date": "2026-10-26T09:00:00+09:00",
+      "dateLabel": "10/26 09:00",
+      "desc": "世界最先端のテクノロジー情報をお届けするグローバルメディア「MITテクノロジーレビュー」から、ビジネスに役立つ注目のテック企業の最新動向、イノベーションにつながる最新の研究内容をピックアップして紹介します。",
+      "img": "https://ascii.jp/img/2026/10/18/4540185/s/dd8de734055f7743.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "「注目選手」も「観戦グルメ」もZoomのAIに聞こう！ Bリーグの試合にZoomが登場した理由",
+      "link": "https://ascii.jp/elem/000/004/445/4445440/?rss",
+      "date": "2026-10-26T09:00:00+09:00",
+      "dateLabel": "10/26 09:00",
+      "desc": "スポーツエンターテインメントの世界にも、AIの波が――。10月8日に開催されたプロバスケット・Bリーグのアルバルク東京×佐賀バルーナーズ戦の試合では、スマートフォンを通じて、アルバルク東京やTOYOTA ARENA TOKYOについてZoomのAI「Zoom Virtual Agent」に質問できるサービスが提供された。",
+      "img": "https://ascii.jp/img/2026/10/23/4542771/s/bd436c20ca4a4854.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "「ダサい努力は無能の証明」と、100日チャレンジの人は書いている",
+      "link": "https://ascii.jp/elem/000/004/445/4445399/?rss",
+      "date": "2026-10-26T09:00:00+09:00",
+      "dateLabel": "10/26 09:00",
+      "desc": "大塚あみさんの新著『全部、AIに丸投げした。』を読む。前著の100日チャレンジは、同世代には攻略本、上の世代には「これくらい勉強しろ」と受け取られた。本人が押し返すのは「ダサい努力は無能の証明」だ。前著で「よくがんばった」と思った人にこそ読んでほしい。",
+      "img": "https://ascii.jp/img/2026/10/23/4542773/s/edc0aed49ab7828d.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "Google、プライバシーポリシーに「Gmail」「Googleフォト」のデータを広告に使う例外を追加 回避方法は",
+      "link": "https://www.itmedia.co.jp/news/article/2610/26/2000002570/",
+      "date": "2026-10-26T08:28:28+09:00",
+      "dateLabel": "10/26 08:28",
+      "desc": "Googleはプライバシーポリシーを更新し、検索やGeminiにGmailやフォトなどのアクセスを許可した場合、そのデータが広告のパーソナライズに使われる例外規定を明記した。背景には「パーソナルインテリジェンス」機能があり、連携を解除しても検索履歴に残ったデータは削除されない。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
+      "score": 26
     },
     {
       "title": "無料の画像生成AI「Moss-Image」がすごい 日本語も漫画も生成、商用利用OKの実力を試した",
@@ -250,17 +272,6 @@
       "score": 26
     },
     {
-      "title": "AIを低遅延実行するための推論エンジン「Liquid RIPL」が登場、検索や決済などの低遅延が重要な場面で役立つ",
-      "link": "https://gigazine.net/news/20261023-ripl-inference-engine/",
-      "date": "2026-10-23T18:55:00+09:00",
-      "dateLabel": "10/23 18:55",
-      "desc": "AI開発企業のLiquid AIが低遅延性を重視した推論エンジン「Liquid RIPL」を発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
       "title": "「エージェント向け1Password」発表 AIにパスワード渡さずアクセス権限付与可能に",
       "link": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002545/",
       "date": "2026-10-23T15:24:45+09:00",
@@ -268,17 +279,6 @@
       "desc": "1PasswordはAIエージェントにパスワードを渡さずにアクセス権限を付与できるサービス「1Password for Agents」を発表した。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "AIエージェントの仕組みとは？4つの構成要素と動く流れをわかりやすく解説",
-      "link": "https://ainow.ai/2026/10/23/278455/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e4%25bb%2595%25e7%25b5%2584%25e3%2581%25bf%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f4%25e3%2581%25a4%25e3%2581%25ae%25e6%25a7%258b%25e6%2588%2590%25e8%25a6%2581%25e7%25b4%25a0%25e3%2581%25a8%25e5%258b%2595",
-      "date": "2026-10-23T14:45:42+09:00",
-      "dateLabel": "10/23 14:45",
-      "desc": "「AIエージェントは自律的に動く」と聞いても、内部で何が起きているのかを説明できず困っていないでしょうか。 AIエージェントの仕組みは、LLMが頭脳となり、ツールとメモリを使って「考える・行動する・確かめる」を繰り返す構... The post AIエージェントの仕組みとは？4つの構成要素と動く流れをわかりやすく解説 first appeared on AI",
-      "img": "",
-      "src": "AINOW",
       "cat": "AIエージェント/業務",
       "score": 26
     }
