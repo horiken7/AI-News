@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-26T20:51:06.127925+09:00",
-  "generatedLabel": "2026/10/26 20:51",
+  "generatedAt": "2026-10-27T02:53:03.088063+09:00",
+  "generatedLabel": "2026/10/27 02:53",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 50,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -74,6 +74,17 @@
       "score": 50
     },
     {
+      "title": "AWSとGoogle Cloudが「PyTorch」のAWS Trainium、Google Cloud TPU対応版をオープンソースで公開。NVIDIAからの移行に挑む",
+      "link": "https://www.publickey1.jp/blog/26/awsgoogle_cloudpytorchaws_trainiumgoogle_cloud_tpunvidia.html",
+      "date": "2026-10-27T00:59:52+09:00",
+      "dateLabel": "10/27 00:59",
+      "desc": "10月20日と21日に米カリフォルニア州で行われたイベント「PyTorch Conference 2026」において、AWSとGoogle Cloudが相次いでPyTorchの自社AIプロセッサ対応版をオープンソースとして発表しました。 A...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
       "title": "「Kimi K3.1 Pro」発表、オープンモデルでは「最高性能」見込む 悪用防止のためサイバー関連データ除去",
       "link": "https://www.itmedia.co.jp/aiplus/article/2610/26/2000002572/",
       "date": "2026-10-26T10:13:02+09:00",
@@ -85,14 +96,14 @@
       "score": 42
     },
     {
-      "title": "Acrobat AI アシスタントの校正能力を検証",
-      "link": "https://ascii.jp/elem/000/004/445/4445679/?rss",
-      "date": "2026-10-26T18:00:00+09:00",
-      "dateLabel": "10/26 18:00",
-      "desc": "アドビが提供するAdobe Acrobat AI アシスタント※は、これらの文書業務を力強く支援する便利なツールです。資料収集やアイデアの壁打ち、構成案の作成など、執筆の様々な場面で活用できるほか、作成した文章の内容を精査し、誤りがないかをチェックできる点も大きな特長です。AI アシスタントと新機能であるPDF スペースによる文章校正がどれほど有用なのかを、",
-      "img": "https://ascii.jp/img/2026/10/26/4543493/s/fc54985ae212662f.jpg",
+      "title": "大作ゲームに沼る気がないなら。22万円切りの前世代RTX 4050搭載ゲーミングノートPCでも十分楽しめますよ！",
+      "link": "https://ascii.jp/elem/000/004/445/4445501/?rss",
+      "date": "2026-10-26T23:00:00+09:00",
+      "dateLabel": "10/26 23:00",
+      "desc": "Amazon.co.jpにて、ASUSの16型ゲーミングノートPC「TUF Gaming A16 FA607NUQ」が販売中だ。AMD「Ryzen 7 170」とNVIDIA「GeForce RTX 4050」を搭載したモデルで、価格は21万9800円。",
+      "img": "https://ascii.jp/img/2026/10/24/4543122/s/bb45a6ca18749465.jpg",
       "src": "ASCII.jp",
-      "cat": "AI全般",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -162,17 +173,6 @@
       "score": 34
     },
     {
-      "title": "AIエージェントによる操作の多くがボット検出システムのhCaptchaやCloudflare Turnstileを通過",
-      "link": "https://gigazine.net/news/20261026-ai-bot-detection-benchmark/",
-      "date": "2026-10-26T06:00:00+09:00",
-      "dateLabel": "10/26 06:00",
-      "desc": "ボット検出システムを開発するProof of Humanが、自社製品を含む5種類のシステムを比較した結果を公開しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開",
       "link": "https://www.itmedia.co.jp/news/article/2610/24/2000002564/",
       "date": "2026-10-24T07:28:08+09:00",
@@ -217,6 +217,28 @@
       "score": 28
     },
     {
+      "title": "マンガの原稿を落とさないようにできる無料のスケジュール管理ソフト「Otosazu」、クリスタと連動してページ工程ごとに作業時間を計測・記録可能",
+      "link": "https://gigazine.net/news/20261026-otosazu/",
+      "date": "2026-10-26T23:00:00+09:00",
+      "dateLabel": "10/26 23:00",
+      "desc": "ゲームクリエイターのtozica氏が、マンガを描くことに特化したスケジュール管理ソフト「Otosazu」を公開しました。CLIP STUDIO PAINTのファイルと連動して作業時間を記録し、記録から完成見込みを予測してスケジュールを組むこともできます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "過去1ヶ月で300点以上購入！ 超軽量でつかみ持ち特化の8000Hz対応ゲーミングマウス「時雨」ミニマルデザインも好印象",
+      "link": "https://ascii.jp/elem/000/004/445/4445497/?rss",
+      "date": "2026-10-26T22:00:00+09:00",
+      "dateLabel": "10/26 22:00",
+      "desc": "Amazon.co.jpにて、AIM1のワイヤレスゲーミングマウス「時雨（SHIGURE）」が販売中だ。価格は1万4980円。約45gの軽量設計と8000Hzのポーリングレートが特徴だ。",
+      "img": "https://ascii.jp/img/2026/10/24/4543114/s/67065bbddf9597e4.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
       "title": "世界最軽量のモバイルディスプレーを半額で買う方法が見つかる！ ずばり「VAIOと一緒に買えば良い」",
       "link": "https://ascii.jp/elem/000/004/445/4445455/?rss",
       "date": "2026-10-26T20:00:00+09:00",
@@ -258,28 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "AIガバナンス一元化の「理想と限界」とは？ 米Dataikuの新サービスから考察",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/26/news060.html",
-      "date": "2026-10-26T15:00:00+09:00",
-      "dateLabel": "10/26 15:00",
-      "desc": "他社のAIエージェント管理基盤まで統治の対象にする――。米Dataikuの新サービスは、マルチベンダー環境でガバナンスを一元管理するという理想に踏み出した。だが、ガードレールやサイバーセキュリティの「強度」まで一元化できるのか。AIガバナンスの在り方を考察する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
-      "score": 26
-    },
-    {
-      "title": "Z-Libraryに関する論文が存在しないTorrentFreakの記事を引用、AIで記述か",
-      "link": "https://gigazine.net/news/20261026-z-library-paper/",
-      "date": "2026-10-26T14:15:00+09:00",
-      "dateLabel": "10/26 14:15",
-      "desc": "数百万冊の書籍や論文を無料で提供する海賊版電子書籍ライブラリ「Z-Library」は、高価な教科書や学術誌の購読料を払えない学生や研究者にとって有用な情報源となっており、「Z-Libraryが貧困の学生を助けている」という研究結果も存在しています。そんなZ-Libraryの情報としての有用性と著作権の問題について扱った論文が、著作権について扱うメディア・To",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
       "score": 26
     }
   ]
