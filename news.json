@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-27T10:42:42.194149+09:00",
-  "generatedLabel": "2026/10/27 10:42",
+  "generatedAt": "2026-10-27T16:01:11.412297+09:00",
+  "generatedLabel": "2026/10/27 16:01",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 51,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 12
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -63,15 +63,81 @@
   ],
   "articles": [
     {
-      "title": "データセンター級のAIをローカルで、HPが大規模AI向けワークステーション発売",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/26/news027.html",
-      "date": "2026-10-26T11:15:00+09:00",
-      "dateLabel": "10/26 11:15",
-      "desc": "日本HPは、大規模AIモデルの開発や推論処理に特化したワークステーション「HP ZGX Fury G1n AI Station」を発表した。NVIDIA GB300 Grace Blackwell Ultra Desktop Superchipと748GBのコヒーレントメモリを搭載し、最大1兆パラメーター規模のAIモデルによる推論処理に対応する。機密データを",
+      "title": "コスパ重視の「GPT-6.1 Terra」新登場 コスト10分の1で一部Astraと同等性能うたう",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/27/2000002611/",
+      "date": "2026-10-27T10:48:52+09:00",
+      "dateLabel": "10/27 10:48",
+      "desc": "OpenAIがコスパ重視の新モデル「GPT-6.1 Terra」を発表。最上位の「GPT-6 Astra」と一部同等の性能を、10分の1のコストで実現するとうたう。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
+      "cat": "LLM/モデル",
       "score": 50
+    },
+    {
+      "title": "Anthropicが株式上場に向けてアメリカ証券委員会に登録届出書を提出、12兆円の赤字が事実であることが確定",
+      "link": "https://gigazine.net/news/20261027-anthropic-ipo-s1/",
+      "date": "2026-10-27T15:55:00+09:00",
+      "dateLabel": "10/27 15:55",
+      "desc": "AnthropicがクラスA普通株式の新規株式公開(IPO)に関して、アメリカ証券取引委員会(SEC)に「フォームS-1」による登録届出書を提出したことを発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "動画編集もしたいゲーマーが次に買うべき一台。 RTX 5060＆32GBメモリの16型2.5Kゲーミングノート",
+      "link": "https://ascii.jp/elem/000/004/445/4445820/?rss",
+      "date": "2026-10-27T14:15:00+09:00",
+      "dateLabel": "10/27 14:15",
+      "desc": "Amazon.co.jpにて、マウスコンピューターの16型ゲーミングノートPC「G TUNE P6」が販売中だ。インテル「Core i5-13500HX」とNVIDIA「GeForce RTX 5060 Laptop GPU」を搭載したモデルで、価格は28万3825円。",
+      "img": "https://ascii.jp/img/2026/10/26/4543807/s/8e3d619fa865607c.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "Uravation、法人向け「AIエージェントで回す 脆弱性対応研修」を提供開始。緊急の修正版が出た日の告知の読み取りや対象の洗い出しはAIエージェント、本番を変える判断は人が持つ6時間の研修です",
+      "link": "https://ascii.jp/elem/000/004/446/4446088/?rss",
+      "date": "2026-10-27T14:00:00+09:00",
+      "dateLabel": "10/27 14:00",
+      "desc": "Uravation、法人向け「AIエージェントで回す 脆弱性対応研修」を提供開始。緊急の修正版が出た日の告知の読み取りや対象の洗い出しはAIエージェント、本番を変える判断は人が持つ6時間の研修です",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "RTX 50シリーズ搭載で21万円切り！ 15.6型のGALLERIAゲーミングノートPCが狙い目",
+      "link": "https://ascii.jp/elem/000/004/445/4445811/?rss",
+      "date": "2026-10-27T14:00:00+09:00",
+      "dateLabel": "10/27 14:00",
+      "desc": "Amazon.co.jpにて、GALLERIAの15.6型フルHDゲーミングノートPC「NPC5L-R55-G5」が販売中だ。インテル「Core i5-14450HX」とNVIDIA「GeForce RTX 5050 Laptop GPU」を搭載したモデルで、価格は20万7180円。",
+      "img": "https://ascii.jp/img/2026/10/26/4543765/s/d1946ec8f6eb9fbb.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "ChatGPTがどんな仕事に使われているのかわかるレポートが公開される",
+      "link": "https://gigazine.net/news/20261027-chatgpt-work-report/",
+      "date": "2026-10-27T12:56:00+09:00",
+      "dateLabel": "10/27 12:56",
+      "desc": "「ChatGPTがどんな業務に使われているか」の調査結果がOpenAIによって公開されました。日本を含む約100カ国を対象にした調査で、2025年第1四半期から2026年第3四半期にかけてのChatGPT利用実態がまとまっています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "「GPT-6.1 Terra」が登場、コスパ良好＆高速なモデルでテストによってはGPT-6 Astraと同等性能",
+      "link": "https://gigazine.net/news/20261027-gpt-6-1-terra/",
+      "date": "2026-10-27T11:13:00+09:00",
+      "dateLabel": "10/27 11:13",
+      "desc": "OpenAIが「GPT-6.1 Terra」を日本時間の2026年10月27日にリリースしました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "大手テクノロジー企業以外ではAIへの投資による経済的利益がほとんど得られていないとの指摘",
@@ -107,25 +173,47 @@
       "score": 42
     },
     {
-      "title": "熟練者の「一度の成功」を再現、ヒューマノイド向け動作再現ソフトウェア",
-      "link": "https://ascii.jp/elem/000/004/445/4445345/?rss",
-      "date": "2026-10-27T07:00:00+09:00",
-      "dateLabel": "10/27 07:00",
-      "desc": "イマクリエイト株式会社は10月19日、人が一度遠隔操作で成功させた動作を、ヒューマノイドロボットがフィジカルAIによって再現できる「動作再現ソフトウェア」の提供を開始したと発表した。",
-      "img": "https://ascii.jp/img/2026/10/23/4542543/s/81cef59c2dc0c159.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
+      "title": "データセンター級のAIをローカルで、HPが大規模AI向けワークステーション発売",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/26/news027.html",
+      "date": "2026-10-26T11:15:00+09:00",
+      "dateLabel": "10/26 11:15",
+      "desc": "日本HPは、大規模AIモデルの開発や推論処理に特化したワークステーション「HP ZGX Fury G1n AI Station」を発表した。NVIDIA GB300 Grace Blackwell Ultra Desktop Superchipと748GBのコヒーレントメモリを搭載し、最大1兆パラメーター規模のAIモデルによる推論処理に対応する。機密データを",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "Microsoftが全従業員の4分の1に相当する6万人を対象とする自主退職制度を発表、AI投資による財政圧迫が理由か",
+      "link": "https://gigazine.net/news/20261027-microsoft-offers-buy-out-quarter-of-workforce/",
+      "date": "2026-10-27T14:23:00+09:00",
+      "dateLabel": "10/27 14:23",
+      "desc": "MicrosoftはAIによる効率化推進の一環として、全従業員の4分の1に相当する約6万人の従業員向けに、自主退職制度を発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
       "score": 34
     },
     {
-      "title": "安全性も利益も追う IPOを控えたアンソロピック、見えない素顔",
-      "link": "https://ascii.jp/elem/000/004/445/4445860/?rss",
-      "date": "2026-10-27T06:13:43+09:00",
-      "dateLabel": "10/27 06:13",
-      "desc": "画像クレジット:Stephanie Arnett/MIT Technology Review | Getty Images",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "title": "森七菜・黒川想矢が出演、NEC「LAVIE」新CM公開 AIと暮らす家族の日常を描く",
+      "link": "https://ascii.jp/elem/000/004/445/4445973/?rss",
+      "date": "2026-10-27T13:30:00+09:00",
+      "dateLabel": "10/27 13:30",
+      "desc": "NECの「LAVIE」新CMに森七菜と黒川想矢が出演。TVCM「ただの家族」篇など計4本で、AI活用や学び、仕事を支えるPCと家族の日常を描く。新ノートPC「LAVIE S13」「LAVIE N13」「LAVIE X14」も発売。",
+      "img": "https://ascii.jp/img/2026/10/27/4544065/s/d6d84ec0a4097090.png",
       "src": "ASCII.jp",
-      "cat": "規制/安全",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "HISが月100時間を削減 AIエージェントで法人出張の見積もり、どう自動化した？",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/26/news033.html",
+      "date": "2026-10-27T12:00:00+09:00",
+      "dateLabel": "10/27 12:00",
+      "desc": "HISが、法人出張の見積もり業務にAIエージェントとロボットを導入し、月100時間の業務時間削減につなげた。2023年ごろからAIによる効率化を試し、目指す精度を得られずにいたHISの転機になったのは何か。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -137,61 +225,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "大作ゲームに沼る気がないなら。22万円切りの前世代RTX 4050搭載ゲーミングノートPCでも十分楽しめますよ！",
-      "link": "https://ascii.jp/elem/000/004/445/4445501/?rss",
-      "date": "2026-10-26T23:00:00+09:00",
-      "dateLabel": "10/26 23:00",
-      "desc": "Amazon.co.jpにて、ASUSの16型ゲーミングノートPC「TUF Gaming A16 FA607NUQ」が販売中だ。AMD「Ryzen 7 170」とNVIDIA「GeForce RTX 4050」を搭載したモデルで、価格は21万9800円。",
-      "img": "https://ascii.jp/img/2026/10/24/4543122/s/bb45a6ca18749465.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "AnthropicのAIモデル・Claudeが人間の許可なく有権者情報にアクセス",
-      "link": "https://gigazine.net/news/20261026-anthropic-claude-accessed-vote-information/",
-      "date": "2026-10-26T16:48:00+09:00",
-      "dateLabel": "10/26 16:48",
-      "desc": "AnthropicのAIモデルであるClaudeが、人間の許可なくアメリカ・ジョージア州の有権者情報にアクセスしていたことが明らかになりました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "ゲームのように移動可能な世界を生成できるAI「Hy-Nomas」がオープンモデルとして公開される、RTX 4090でローカル実行可能",
-      "link": "https://gigazine.net/news/20261026-hy-nomas-interactive-world-model/",
-      "date": "2026-10-26T16:36:00+09:00",
-      "dateLabel": "10/26 16:36",
-      "desc": "中国の大手テクノロジー企業であるTencentが世界モデル「Hy-Nomas」をリリースしました。入力に応じて仮想世界を生成し、カメラやオブジェクトを自由に制御することが可能。モデルはオープンモデルとして無償公開されており、ローカルで実行することもできます。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "OpenAIがNode.jsやBunで使われているGoogle製圧縮ツール「Brotli」でリモートコード実行につながる脆弱性を発見",
-      "link": "https://gigazine.net/news/20261026-openai-brotli-vulnerability/",
-      "date": "2026-10-26T12:33:00+09:00",
-      "dateLabel": "10/26 12:33",
-      "desc": "OpenAIがGoogle製圧縮ツール「Brotli」にリモートコード実行につながる脆弱(ぜいじゃく)性が存在することを発見しました。すでに修正版がリリースされており、アップデートが呼びかけられています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "ジャック・ドーシー氏率いるBlock、音声だけで学習した全二重音声モデル「Dessa」発表 「人と話しているよう」",
-      "link": "https://www.itmedia.co.jp/news/article/2610/26/2000002574/",
-      "date": "2026-10-26T11:04:33+09:00",
-      "dateLabel": "10/26 11:04",
-      "desc": "Block（旧Square）は、テキストや事前学習モデルを使わず、人間の会話音声のみで学習させた全二重音声モデル「Dessa」の研究プレビューを発表した。相づちや感情の抑揚を直接聞き取り表現できるのが特徴で、NVIDIAのラック1台で学習されており、MacBook Proでローカル実行できる。一般提供時期は未定。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -217,69 +250,36 @@
       "score": 32
     },
     {
-      "title": "「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開",
-      "link": "https://www.itmedia.co.jp/news/article/2610/24/2000002564/",
-      "date": "2026-10-24T07:28:08+09:00",
-      "dateLabel": "10/24 07:28",
-      "desc": "Anthropicと英AI安全保障研究所AISIは、「Claude Mythos 5」がサイバー能力評価中に実在の開発者を標的とした事案の分析報告を公開した。GitHub経由で無許可の攻撃を行い偽身元で承認を迫った経緯を報告。実在の人物と認識しても攻撃を正当化して続行する傾向が確認され、評価手法の見直しが進む。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 28
+      "title": "AION2推奨ゲーミングPCがG TUNEから登場！ デスクトップもノートも選べる3モデル",
+      "link": "https://ascii.jp/elem/000/004/445/4445914/?rss",
+      "date": "2026-10-27T15:00:00+09:00",
+      "dateLabel": "10/27 15:00",
+      "desc": "マウスコンピューターが『AION2』推奨のG TUNEゲーミングPCを10月27日午後3時に販売開始する。デスクトップとノートの複数モデルを用意し、価格は299,800円から389,800円だ。全国8店舗のダイレクトショップでは10月31日まで店頭キャンペーンも実施する。",
+      "img": "https://ascii.jp/img/2026/10/27/4544056/s/5ee3404e523c4d51.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     },
     {
-      "title": "Appleが「iOS 27.2」を配信開始、ついにSiri AIが日本語にも対応",
-      "link": "https://gigazine.net/news/20261027-ios-27-2-siri-ai/",
-      "date": "2026-10-27T10:35:00+09:00",
-      "dateLabel": "10/27 10:35",
-      "desc": "2026年10月26日、AppleがiPhone向けの最新OSである「iOS 27.2」およびiPad向け最新OSの「iPadOS 27.2」をリリースしました。今回のアップデートにより、ついにSiri AIが日本語に対応します。 続きを読む...",
+      "title": "ベイブレードXの「ベイバトルパス」をリバースエンジニアリングして独自アプリを開発、AIがシュートの強さを評価してアドバイス",
+      "link": "https://gigazine.net/news/20261027-bayblade-x-reverse-engineering/",
+      "date": "2026-10-27T15:00:00+09:00",
+      "dateLabel": "10/27 15:00",
+      "desc": "タカラトミーの玩具「ベイブレードX」でシュートの強さを記録できる周辺機器「ベイバトルパス」の通信データを解析し、シュートの結果をリアルタイムで表示する独自アプリを開発した人物がその制作過程を公開しました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "カバーを付けてもTouch IDが使える！ Magic Keyboard専用「FA-TMAC5」登場",
-      "link": "https://ascii.jp/elem/000/004/445/4445867/?rss",
-      "date": "2026-10-27T10:00:00+09:00",
-      "dateLabel": "10/27 10:00",
-      "desc": "サンワサプライがMagic Keyboard日本語配列専用の防塵カバー「FA-TMAC5」を発売。厚さ約0.25mmの透明タイプで、装着したままTouch IDが使えます。抗菌加工・水洗い対応で、ホコリや汚れから保護。価格は2530円。",
-      "img": "https://ascii.jp/img/2026/10/27/4543988/s/488e302961d6d9ed.jpg",
+      "title": "「面接まで人柄が分からない」をゼロに。MIRAI、特定技能人材の動画・スカウト型マッチングサイトをオープン！",
+      "link": "https://ascii.jp/elem/000/004/446/4446099/?rss",
+      "date": "2026-10-27T13:50:00+09:00",
+      "dateLabel": "10/27 13:50",
+      "desc": "「面接まで人柄が分からない」をゼロに。MIRAI、特定技能人材の動画・スカウト型マッチングサイトをオープン！",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "大企業はAIコストを管理できていない サイボウズ調査で浮かび上がった「3割の壁」",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/26/news032.html",
-      "date": "2026-10-27T08:00:00+09:00",
-      "dateLabel": "10/27 08:00",
-      "desc": "サイボウズの調査によると、今後3年間でAI投資を増やす大企業が7割に上る一方で、AIコストを全社で把握できている企業は3割に届かないという。“AIコスト激増時代”における実態に迫る。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "アップルから、一気に「iOS 27.2」が登場 Siri AIの日本語対応＆iPhone Duoでペンが利用可能に",
-      "link": "https://ascii.jp/elem/000/004/445/4445865/?rss",
-      "date": "2026-10-27T07:55:00+09:00",
-      "dateLabel": "10/27 07:55",
-      "desc": "アップルは10月26日（現地時間）、iOSの最新バージョン「iOS 27.2」の配信を開始した。iOS 27.1を飛ばしていきなり登場したiOS 27.2の目玉は、なんと言ってもSiri AI！ そして、iPhone DuoではApple Pencilが利用できるようになった。",
-      "img": "https://ascii.jp/img/2026/10/27/4543983/s/455bc37afa910ece.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "京都府庁、職員7000人の事務効率化で「Copilotだけに頼らない」と決めた理由",
-      "link": "https://kn.itmedia.co.jp/kn/article/2610/27/2000002599/",
-      "date": "2026-10-27T07:00:00+09:00",
-      "dateLabel": "10/27 07:00",
-      "desc": "人口減少に伴う将来的な人手不足を見据え、職員約7000人の業務効率化に挑む京都府庁。限られた人員で増え続ける行政ニーズに応えるため、同庁が着目したのが生成AIだ。しかし、対話型AIを全庁導入しただけでは、現場の業務負担は解消し切れなかった。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
