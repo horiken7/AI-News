@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-27T22:44:48.151457+09:00",
-  "generatedLabel": "2026/10/27 22:44",
+  "generatedAt": "2026-10-28T04:03:50.063329+09:00",
+  "generatedLabel": "2026/10/28 04:03",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 54,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -140,17 +140,6 @@
       "score": 42
     },
     {
-      "title": "大手テクノロジー企業以外ではAIへの投資による経済的利益がほとんど得られていないとの指摘",
-      "link": "https://gigazine.net/news/20261027-no-signs-ai-payoff-outside-tech/",
-      "date": "2026-10-27T07:00:00+09:00",
-      "dateLabel": "10/27 07:00",
-      "desc": "近年では多くの企業がAIツールやAIエージェントを導入し、生産性や収益性を向上させようと取り組んでいます。ところがアメリカの投資会社・Apolloのチーフエコノミストであるトルステン・スロク氏は、「AIはテクノロジー業界以外のアメリカ企業に何の経済的利益ももたらしていない」とするレポートを発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "伊藤忠インタラクティブが「Claude」活用研修 「AIを使う」から「業務を任せる」へ",
       "link": "https://kn.itmedia.co.jp/kn/article/2610/27/2000002583/",
       "date": "2026-10-27T06:00:00+09:00",
@@ -159,17 +148,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "AWSとGoogle Cloudが「PyTorch」のAWS Trainium、Google Cloud TPU対応版をオープンソースで公開。NVIDIAからの移行に挑む",
-      "link": "https://www.publickey1.jp/blog/26/awsgoogle_cloudpytorchaws_trainiumgoogle_cloud_tpunvidia.html",
-      "date": "2026-10-27T00:59:52+09:00",
-      "dateLabel": "10/27 00:59",
-      "desc": "10月20日と21日に米カリフォルニア州で行われたイベント「PyTorch Conference 2026」において、AWSとGoogle Cloudが相次いでPyTorchの自社AIプロセッサ対応版をオープンソースとして発表しました。 A...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "半導体/GPU",
       "score": 42
     },
     {
@@ -182,6 +160,17 @@
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
       "score": 42
+    },
+    {
+      "title": "Oracle CloudがGoogle TPU導入を発表、2027年に提供を開始。Oracle AI World 2026",
+      "link": "https://www.publickey1.jp/blog/26/oracle_cloudgoogle_tpu2027oracle_ai_world_2026.html",
+      "date": "2026-10-28T01:33:51+09:00",
+      "dateLabel": "10/28 01:33",
+      "desc": "オラクルはGoogleが開発しているAI専用チップのGoogle TPUをOracle Cloud Infrastructure（以下、Oracle Cloud）に導入し、2027年からGoogle TPUのサービスを提供開始すると発表しま...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "16型有機ELに最大50TOPSのNPU！ ASUS「Vivobook S 16」が10％オフの18万4800円",
@@ -236,6 +225,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "AWSとGoogle Cloudが「PyTorch」のAWS Trainium、Google Cloud TPU対応版をオープンソースで公開。NVIDIAからの移行に挑む",
+      "link": "https://www.publickey1.jp/blog/26/awsgoogle_cloudpytorchaws_trainiumgoogle_cloud_tpunvidia.html",
+      "date": "2026-10-27T00:59:52+09:00",
+      "dateLabel": "10/27 00:59",
+      "desc": "10月20日と21日に米カリフォルニア州で行われたイベント「PyTorch Conference 2026」において、AWSとGoogle Cloudが相次いでPyTorchの自社AIプロセッサ対応版をオープンソースとして発表しました。 A...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
