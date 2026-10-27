@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-27T07:04:52.201919+09:00",
-  "generatedLabel": "2026/10/27 07:04",
+  "generatedAt": "2026-10-27T10:42:42.194149+09:00",
+  "generatedLabel": "2026/10/27 10:42",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 54,
+  "candidates": 51,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,7 +13,7 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 20
+      "items": 18
     },
     {
       "source": "ASCII.jp",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -104,17 +104,6 @@
       "img": "",
       "src": "Publickey",
       "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "「Kimi K3.1 Pro」発表、オープンモデルでは「最高性能」見込む 悪用防止のためサイバー関連データ除去",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/26/2000002572/",
-      "date": "2026-10-26T10:13:02+09:00",
-      "dateLabel": "10/26 10:13",
-      "desc": "中国Moonshot AIがオープンウェイトモデル「Kimi K3.1 Pro」を発表。開発性能などの一部評価で「GPT-6 Astra」を上回り、2～3倍高速な版も同時公開した。重みは11月4日までに公開予定。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -206,33 +195,11 @@
       "score": 34
     },
     {
-      "title": "かなり人間っぽい会話が可能なAI「Dessa」をジャック・ドーシー率いるBlockが発表、テキストを省いて会話音声のみで訓練しMacBook Proでローカル実行可能",
-      "link": "https://gigazine.net/news/20261026-dessa-conversation-ai/",
-      "date": "2026-10-26T10:59:00+09:00",
-      "dateLabel": "10/26 10:59",
-      "desc": "BlockはTwitter創業者のジャック・ドーシー氏がCEOを務めるテクノロジー企業で、決済サービスのほか、AIエージェントやAI重視のコミュケーションツールなども開発しています。新たに、Blockが音声会話AI「Dessa」を発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "OpenAI、フロンティアモデルの学習中はインターネットに接続させない方針 学習中のAIが隔離環境を抜け出した件も公表",
-      "link": "https://www.itmedia.co.jp/news/article/2610/26/2000002573/",
-      "date": "2026-10-26T10:10:56+09:00",
-      "dateLabel": "10/26 10:10",
-      "desc": "OpenAIは、安全対策が十分に進歩するまでフロンティアモデルの学習時にネット接続を遮断する方針を発表した。キャッシュによるオフライン環境を用意していたが、9月にモデルがネットに一時接続する事案が発生。調査の過程で多くのソフトに影響する圧縮ライブラリ「Brotli」の深刻な脆弱性も判明した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開",
-      "link": "https://www.itmedia.co.jp/news/article/2610/24/2000002564/",
-      "date": "2026-10-24T07:28:08+09:00",
-      "dateLabel": "10/24 07:28",
-      "desc": "Anthropicと英AI安全保障研究所AISIは、「Claude Mythos 5」がサイバー能力評価中に実在の開発者を標的とした事案の分析報告を公開した。GitHub経由で無許可の攻撃を行い偽身元で承認を迫った経緯を報告。実在の人物と認識しても攻撃を正当化して続行する傾向が確認され、評価手法の見直しが進む。",
+      "title": "「Kimi K3.1 Pro」発表、オープンモデルでは「最高性能」見込む 悪用防止のためサイバー関連データ除去",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/26/2000002572/",
+      "date": "2026-10-26T10:13:02+09:00",
+      "dateLabel": "10/26 10:13",
+      "desc": "中国Moonshot AIがオープンウェイトモデル「Kimi K3.1 Pro」を発表。開発性能などの一部評価で「GPT-6 Astra」を上回り、2～3倍高速な版も同時公開した。重みは11月4日までに公開予定。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
@@ -250,36 +217,69 @@
       "score": 32
     },
     {
-      "title": "1バイト違えば不合格のCOBOL移行、OpenAI新モデルの正解率は？",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/22/news077.html",
-      "date": "2026-10-23T11:30:00+09:00",
-      "dateLabel": "10/23 11:30",
-      "desc": "学習リソースの少ないCOBOLやFortranを、AIはどこまで扱えるのか。OpenAIは、20言語でデータベースエンジンを構築するテストで、新モデルの平均合格率が従来モデルの26.8％から87.4％に伸びたと発表した。では、既存のCOBOLプログラムを別の言語に書き換える評価では、どんな結果が出たのか。",
+      "title": "「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開",
+      "link": "https://www.itmedia.co.jp/news/article/2610/24/2000002564/",
+      "date": "2026-10-24T07:28:08+09:00",
+      "dateLabel": "10/24 07:28",
+      "desc": "Anthropicと英AI安全保障研究所AISIは、「Claude Mythos 5」がサイバー能力評価中に実在の開発者を標的とした事案の分析報告を公開した。GitHub経由で無許可の攻撃を行い偽身元で承認を迫った経緯を報告。実在の人物と認識しても攻撃を正当化して続行する傾向が確認され、評価手法の見直しが進む。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 28
     },
     {
-      "title": "無料で使えるAIエージェントおすすめ10選！無料枠の上限と業務で試すときの注意点",
-      "link": "https://ainow.ai/2026/10/27/278478/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2584%25a1%25e6%2596%2599%25e3%2581%25a7%25e4%25bd%25bf%25e3%2581%2588%25e3%2582%258bai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%258a%25e3%2581%2599%25e3%2581%2599%25e3%2582%258110%25e9%2581%25b8%25ef%25bc%2581%25e7%2584%25a1%25e6%2596%2599%25e6%259e%25a0",
-      "date": "2026-10-27T04:14:31+09:00",
-      "dateLabel": "10/27 04:14",
-      "desc": "AIエージェントを試したいものの、予算がなく無料でどこまで使えるのかわからない。本記事では、無料で使えるAIエージェント10選を、無料枠の上限と入力データの学習利用の扱いで比較し、業務で安全に検証する進め方まで解説します... The post 無料で使えるAIエージェントおすすめ10選！無料枠の上限と業務で試すときの注意点 first appeared o",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "マンガの原稿を落とさないようにできる無料のスケジュール管理ソフト「Otosazu」、クリスタと連動してページ工程ごとに作業時間を計測・記録可能",
-      "link": "https://gigazine.net/news/20261026-otosazu/",
-      "date": "2026-10-26T23:00:00+09:00",
-      "dateLabel": "10/26 23:00",
-      "desc": "ゲームクリエイターのtozica氏が、マンガを描くことに特化したスケジュール管理ソフト「Otosazu」を公開しました。CLIP STUDIO PAINTのファイルと連動して作業時間を記録し、記録から完成見込みを予測してスケジュールを組むこともできます。 続きを読む...",
+      "title": "Appleが「iOS 27.2」を配信開始、ついにSiri AIが日本語にも対応",
+      "link": "https://gigazine.net/news/20261027-ios-27-2-siri-ai/",
+      "date": "2026-10-27T10:35:00+09:00",
+      "dateLabel": "10/27 10:35",
+      "desc": "2026年10月26日、AppleがiPhone向けの最新OSである「iOS 27.2」およびiPad向け最新OSの「iPadOS 27.2」をリリースしました。今回のアップデートにより、ついにSiri AIが日本語に対応します。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "カバーを付けてもTouch IDが使える！ Magic Keyboard専用「FA-TMAC5」登場",
+      "link": "https://ascii.jp/elem/000/004/445/4445867/?rss",
+      "date": "2026-10-27T10:00:00+09:00",
+      "dateLabel": "10/27 10:00",
+      "desc": "サンワサプライがMagic Keyboard日本語配列専用の防塵カバー「FA-TMAC5」を発売。厚さ約0.25mmの透明タイプで、装着したままTouch IDが使えます。抗菌加工・水洗い対応で、ホコリや汚れから保護。価格は2530円。",
+      "img": "https://ascii.jp/img/2026/10/27/4543988/s/488e302961d6d9ed.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "大企業はAIコストを管理できていない サイボウズ調査で浮かび上がった「3割の壁」",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/26/news032.html",
+      "date": "2026-10-27T08:00:00+09:00",
+      "dateLabel": "10/27 08:00",
+      "desc": "サイボウズの調査によると、今後3年間でAI投資を増やす大企業が7割に上る一方で、AIコストを全社で把握できている企業は3割に届かないという。“AIコスト激増時代”における実態に迫る。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "アップルから、一気に「iOS 27.2」が登場 Siri AIの日本語対応＆iPhone Duoでペンが利用可能に",
+      "link": "https://ascii.jp/elem/000/004/445/4445865/?rss",
+      "date": "2026-10-27T07:55:00+09:00",
+      "dateLabel": "10/27 07:55",
+      "desc": "アップルは10月26日（現地時間）、iOSの最新バージョン「iOS 27.2」の配信を開始した。iOS 27.1を飛ばしていきなり登場したiOS 27.2の目玉は、なんと言ってもSiri AI！ そして、iPhone DuoではApple Pencilが利用できるようになった。",
+      "img": "https://ascii.jp/img/2026/10/27/4543983/s/455bc37afa910ece.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "京都府庁、職員7000人の事務効率化で「Copilotだけに頼らない」と決めた理由",
+      "link": "https://kn.itmedia.co.jp/kn/article/2610/27/2000002599/",
+      "date": "2026-10-27T07:00:00+09:00",
+      "dateLabel": "10/27 07:00",
+      "desc": "人口減少に伴う将来的な人手不足を見据え、職員約7000人の業務効率化に挑む京都府庁。限られた人員で増え続ける行政ニーズに応えるため、同庁が着目したのが生成AIだ。しかし、対話型AIを全庁導入しただけでは、現場の業務負担は解消し切れなかった。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
