@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-27T16:01:11.412297+09:00",
-  "generatedLabel": "2026/10/27 16:01",
+  "generatedAt": "2026-10-27T22:44:48.151457+09:00",
+  "generatedLabel": "2026/10/27 22:44",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 55,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 6
+      "items": 7
     },
     {
       "source": "AINOW",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "JavaScriptランタイムの「Bun」がPrettier互換で300倍以上高速なフォーマッタに。Prettier設定ファイルもそのまま利用可能",
+      "link": "https://www.publickey1.jp/blog/26/javascriptbunprettier300prettier.html",
+      "date": "2026-10-28T00:27:52+09:00",
+      "dateLabel": "10/28 00:27",
+      "desc": "Anthropicが開発しているJavaScriptランタイムの「Bun」の新機能として、Prettier互換のフォーマッタ搭載が発表されました。 2026年10月22日付けでリリースされたBun v1.4.4に搭載されたPrettier互...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
       "title": "コスパ重視の「GPT-6.1 Terra」新登場 コスト10分の1で一部Astraと同等性能うたう",
       "link": "https://www.itmedia.co.jp/aiplus/article/2610/27/2000002611/",
       "date": "2026-10-27T10:48:52+09:00",
@@ -74,6 +85,28 @@
       "score": 50
     },
     {
+      "title": "OrcaRouter、ローカルGPUをセキュアな共有AI APIに変える新機能「Orca Connect」の提供を開始",
+      "link": "https://ascii.jp/elem/000/004/446/4446211/?rss",
+      "date": "2026-10-27T18:41:56+09:00",
+      "dateLabel": "10/27 18:41",
+      "desc": "OrcaRouter、ローカルGPUをセキュアな共有AI APIに変える新機能「Orca Connect」の提供を開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "TANKA、「Japan IT Week【秋】2026」に初出展、チームの仕事を進めるAIエージェントを紹介し、『中小企業の生成AI活用実態白書』を発表",
+      "link": "https://ascii.jp/elem/000/004/446/4446214/?rss",
+      "date": "2026-10-27T18:12:14+09:00",
+      "dateLabel": "10/27 18:12",
+      "desc": "TANKA、「Japan IT Week【秋】2026」に初出展、チームの仕事を進めるAIエージェントを紹介し、『中小企業の生成AI活用実態白書』を発表",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "Anthropicが株式上場に向けてアメリカ証券委員会に登録届出書を提出、12兆円の赤字が事実であることが確定",
       "link": "https://gigazine.net/news/20261027-anthropic-ipo-s1/",
       "date": "2026-10-27T15:55:00+09:00",
@@ -82,39 +115,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "動画編集もしたいゲーマーが次に買うべき一台。 RTX 5060＆32GBメモリの16型2.5Kゲーミングノート",
-      "link": "https://ascii.jp/elem/000/004/445/4445820/?rss",
-      "date": "2026-10-27T14:15:00+09:00",
-      "dateLabel": "10/27 14:15",
-      "desc": "Amazon.co.jpにて、マウスコンピューターの16型ゲーミングノートPC「G TUNE P6」が販売中だ。インテル「Core i5-13500HX」とNVIDIA「GeForce RTX 5060 Laptop GPU」を搭載したモデルで、価格は28万3825円。",
-      "img": "https://ascii.jp/img/2026/10/26/4543807/s/8e3d619fa865607c.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "Uravation、法人向け「AIエージェントで回す 脆弱性対応研修」を提供開始。緊急の修正版が出た日の告知の読み取りや対象の洗い出しはAIエージェント、本番を変える判断は人が持つ6時間の研修です",
-      "link": "https://ascii.jp/elem/000/004/446/4446088/?rss",
-      "date": "2026-10-27T14:00:00+09:00",
-      "dateLabel": "10/27 14:00",
-      "desc": "Uravation、法人向け「AIエージェントで回す 脆弱性対応研修」を提供開始。緊急の修正版が出た日の告知の読み取りや対象の洗い出しはAIエージェント、本番を変える判断は人が持つ6時間の研修です",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "RTX 50シリーズ搭載で21万円切り！ 15.6型のGALLERIAゲーミングノートPCが狙い目",
-      "link": "https://ascii.jp/elem/000/004/445/4445811/?rss",
-      "date": "2026-10-27T14:00:00+09:00",
-      "dateLabel": "10/27 14:00",
-      "desc": "Amazon.co.jpにて、GALLERIAの15.6型フルHDゲーミングノートPC「NPC5L-R55-G5」が販売中だ。インテル「Core i5-14450HX」とNVIDIA「GeForce RTX 5050 Laptop GPU」を搭載したモデルで、価格は20万7180円。",
-      "img": "https://ascii.jp/img/2026/10/26/4543765/s/d1946ec8f6eb9fbb.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
       "score": 42
     },
     {
@@ -184,6 +184,39 @@
       "score": 42
     },
     {
+      "title": "16型有機ELに最大50TOPSのNPU！ ASUS「Vivobook S 16」が10％オフの18万4800円",
+      "link": "https://ascii.jp/elem/000/004/445/4445753/?rss",
+      "date": "2026-10-27T20:50:00+09:00",
+      "dateLabel": "10/27 20:50",
+      "desc": "ASUSの16型ノートPC「Vivobook S 16（M3607GA-AI7165SI）」がAmazon割引対象。参考価格204,800円から10％オフの184,800円で販売中。Ryzen AI 7 445を搭載し、NPUの性能は最大50TOPS。16型WUXGA有機ELディスプレー、16GBメモリ、512GB SSDを備える。16型の大画面を採用しなが",
+      "img": "https://ascii.jp/img/2026/10/26/4543690/s/3c1c8f70421cc52e.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "IPO目論見書に「AIは人類の存亡リスク」「コードの9割はClaude製」 Anthropicが示した規格外の見立て",
+      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002644/",
+      "date": "2026-10-27T20:30:12+09:00",
+      "dateLabel": "10/27 20:30",
+      "desc": "米Anthropicは10月26日（現地時間）、IPOの目論見書（Form S-1）を米SECに提出した。社内コードの9割超をAIが書き、AI利用額が人件費を上回るといった活用の実態から、AIが人類にもたらし得るリスクまで、多岐にわたって言及している。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "OpenAIが数学・コンピュータサイエンス・物理学における調和解析・計算複雑性理論・量子場理論に関する3つの新たな発見を発表、指数時間仮説は誤りである",
+      "link": "https://gigazine.net/news/20261027-openai-three-new-discoveries/",
+      "date": "2026-10-27T16:42:00+09:00",
+      "dateLabel": "10/27 16:42",
+      "desc": "現地時間の2026年10月26日、OpenAIが数学・コンピューターサイエンス・物理学における調和解析・計算複雑性理論・場の量子論に関する新たな発見を発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "Microsoftが全従業員の4分の1に相当する6万人を対象とする自主退職制度を発表、AI投資による財政圧迫が理由か",
       "link": "https://gigazine.net/news/20261027-microsoft-offers-buy-out-quarter-of-workforce/",
       "date": "2026-10-27T14:23:00+09:00",
@@ -191,17 +224,6 @@
       "desc": "MicrosoftはAIによる効率化推進の一環として、全従業員の4分の1に相当する約6万人の従業員向けに、自主退職制度を発表しました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "森七菜・黒川想矢が出演、NEC「LAVIE」新CM公開 AIと暮らす家族の日常を描く",
-      "link": "https://ascii.jp/elem/000/004/445/4445973/?rss",
-      "date": "2026-10-27T13:30:00+09:00",
-      "dateLabel": "10/27 13:30",
-      "desc": "NECの「LAVIE」新CMに森七菜と黒川想矢が出演。TVCM「ただの家族」篇など計4本で、AI活用や学び、仕事を支えるPCと家族の日常を描く。新ノートPC「LAVIE S13」「LAVIE N13」「LAVIE X14」も発売。",
-      "img": "https://ascii.jp/img/2026/10/27/4544065/s/d6d84ec0a4097090.png",
-      "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
     },
@@ -217,28 +239,6 @@
       "score": 34
     },
     {
-      "title": "C++やRustよりも高速に動作しメモリ使用量も少ないプログラミング言語「Goose」",
-      "link": "https://gigazine.net/news/20261027-goose/",
-      "date": "2026-10-27T06:00:00+09:00",
-      "dateLabel": "10/27 06:00",
-      "desc": "GooseはAIの支援を受けて開発された革新的なシステムプログラミング言語です。「メモリ安全性」「驚異的な実行速度」「コンパクトなメモリ使用量」を両立させることに成功しており、既存のC++やRustといった言語をベンチマークで凌駕する可能性があります。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "「Kimi K3.1 Pro」発表、オープンモデルでは「最高性能」見込む 悪用防止のためサイバー関連データ除去",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/26/2000002572/",
-      "date": "2026-10-26T10:13:02+09:00",
-      "dateLabel": "10/26 10:13",
-      "desc": "中国Moonshot AIがオープンウェイトモデル「Kimi K3.1 Pro」を発表。開発性能などの一部評価で「GPT-6 Astra」を上回り、2～3倍高速な版も同時公開した。重みは11月4日までに公開予定。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "AIエージェントを自作する3つの方法！初心者でも無料から始められる手順",
       "link": "https://ainow.ai/2026/10/12/278433/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e8%2587%25aa%25e4%25bd%259c%25e3%2581%2599%25e3%2582%258b3%25e3%2581%25a4%25e3%2581%25ae%25e6%2596%25b9%25e6%25b3%2595%25ef%25bc%2581%25e5%2588%259d%25e5%25bf%2583%25e8%2580%2585%25e3%2581%25a7%25e3%2582%2582",
       "date": "2026-10-12T22:00:55+09:00",
@@ -250,35 +250,35 @@
       "score": 32
     },
     {
-      "title": "AION2推奨ゲーミングPCがG TUNEから登場！ デスクトップもノートも選べる3モデル",
-      "link": "https://ascii.jp/elem/000/004/445/4445914/?rss",
-      "date": "2026-10-27T15:00:00+09:00",
-      "dateLabel": "10/27 15:00",
-      "desc": "マウスコンピューターが『AION2』推奨のG TUNEゲーミングPCを10月27日午後3時に販売開始する。デスクトップとノートの複数モデルを用意し、価格は299,800円から389,800円だ。全国8店舗のダイレクトショップでは10月31日まで店頭キャンペーンも実施する。",
-      "img": "https://ascii.jp/img/2026/10/27/4544056/s/5ee3404e523c4d51.jpg",
+      "title": "アップル「HomeView」上位版、360度回るロボットアーム搭載か",
+      "link": "https://ascii.jp/elem/000/004/446/4446081/?rss",
+      "date": "2026-10-27T20:00:00+09:00",
+      "dateLabel": "10/27 20:00",
+      "desc": "アップルが開発中とうわさの「HomeView」の上位モデルは、約9インチのディスプレーと、画面を360度回せるロボットアームを備えて2027年か2028年に登場する可能性がある。",
+      "img": "https://ascii.jp/img/2026/10/27/4544171/s/5ce8d3339031a57d.png",
       "src": "ASCII.jp",
-      "cat": "AI全般",
+      "cat": "AI実装",
       "score": 26
     },
     {
-      "title": "ベイブレードXの「ベイバトルパス」をリバースエンジニアリングして独自アプリを開発、AIがシュートの強さを評価してアドバイス",
-      "link": "https://gigazine.net/news/20261027-bayblade-x-reverse-engineering/",
-      "date": "2026-10-27T15:00:00+09:00",
-      "dateLabel": "10/27 15:00",
-      "desc": "タカラトミーの玩具「ベイブレードX」でシュートの強さを記録できる周辺機器「ベイバトルパス」の通信データを解析し、シュートの結果をリアルタイムで表示する独自アプリを開発した人物がその制作過程を公開しました。 続きを読む...",
+      "title": "AIが答えを教える代わりにあえて質問攻めにすることで開発者を鍛えるデバッグツール「Nietzschian Debugger」",
+      "link": "https://gigazine.net/news/20261027-nietzschian-debugger/",
+      "date": "2026-10-27T20:00:00+09:00",
+      "dateLabel": "10/27 20:00",
+      "desc": "プログラムの不具合をAIに相談すると修正方法を教えてくれるのが一般的ですが、あえて答えを教えずに質問を繰り返すデバッグツール「Nietzschian Debugger」がGitHubで公開されています。開発者自身に不具合の原因を考えさせることで問題解決能力を鍛えるという、AIへの依存を減らすことを目指したツールとなっています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "「面接まで人柄が分からない」をゼロに。MIRAI、特定技能人材の動画・スカウト型マッチングサイトをオープン！",
-      "link": "https://ascii.jp/elem/000/004/446/4446099/?rss",
-      "date": "2026-10-27T13:50:00+09:00",
-      "dateLabel": "10/27 13:50",
-      "desc": "「面接まで人柄が分からない」をゼロに。MIRAI、特定技能人材の動画・スカウト型マッチングサイトをオープン！",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
+      "title": "2026年10月27日のヘッドラインニュース",
+      "link": "https://gigazine.net/news/20261027-headline/",
+      "date": "2026-10-27T18:57:00+09:00",
+      "dateLabel": "10/27 18:57",
+      "desc": "アニメ『プリキュア』シリーズのスピンオフ作品『デュアルシャドウ～Precure Villain Heroines～』が2027年に放送されることが発表されました。「――だって、わたしたちプリキュアじゃないし」というキャッチコピーが使われていて、英語副題からもシリーズのヴィランたちが主役になる作品とみられます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AI全般",
       "score": 26
     }
