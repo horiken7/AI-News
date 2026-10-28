@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-29T01:21:00.566238+09:00",
-  "generatedLabel": "2026/10/29 01:21",
+  "generatedAt": "2026-10-29T06:25:31.289157+09:00",
+  "generatedLabel": "2026/10/29 06:25",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 53,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -62,6 +62,17 @@
     }
   ],
   "articles": [
+    {
+      "title": "OpenAIとAnthropicが2026年夏から秋にかけてLLM料金を相次いで値下げした理由とは？",
+      "link": "https://gigazine.net/news/20261029-openai-anthropic-llm-price-cuts/",
+      "date": "2026-10-29T06:00:00+09:00",
+      "dateLabel": "10/29 06:00",
+      "desc": "OpenAIとAnthropicが2026年夏から秋にかけて大規模言語モデル(LLM)の利用料金を相次いで引き下げました。この値下げについてデータサイエンティストのマックス・ウルフ氏は、別のモデルに乗り換えやすいことと、モデルの重みを公開する「オープンウェイトモデル」との競争を背景として挙げています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
     {
       "title": "Anthropicが筋ジストロフィー治療薬開発のMithril Medicine買収を発表、生命科学分野で独自の創薬活動を開始",
       "link": "https://gigazine.net/news/20261028-anthropic-life-science-working/",
@@ -239,17 +250,6 @@
       "score": 34
     },
     {
-      "title": "Oracle CloudがGoogle TPU導入を発表、2027年に提供を開始。Oracle AI World 2026",
-      "link": "https://www.publickey1.jp/blog/26/oracle_cloudgoogle_tpu2027oracle_ai_world_2026.html",
-      "date": "2026-10-28T01:33:51+09:00",
-      "dateLabel": "10/28 01:33",
-      "desc": "オラクルはGoogleが開発しているAI専用チップのGoogle TPUをOracle Cloud Infrastructure（以下、Oracle Cloud）に導入し、2027年からGoogle TPUのサービスを提供開始すると発表しま...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "AWSとGoogle Cloudが「PyTorch」のAWS Trainium、Google Cloud TPU対応版をオープンソースで公開。NVIDIAからの移行に挑む",
       "link": "https://www.publickey1.jp/blog/26/awsgoogle_cloudpytorchaws_trainiumgoogle_cloud_tpunvidia.html",
       "date": "2026-10-27T00:59:52+09:00",
@@ -261,6 +261,17 @@
       "score": 34
     },
     {
+      "title": "最上位モデルは160万円超え!! デルが「RTX Spark」搭載の16型AIノートPC＝Dell「XPS 16 Creator Edition」を日本でも発売!!",
+      "link": "https://ascii.jp/elem/000/004/446/4446676/?rss",
+      "date": "2026-10-29T03:00:00+09:00",
+      "dateLabel": "10/29 03:00",
+      "desc": "米国では10月7日に発売となったモデルで日本での価格は79万9800円からです",
+      "img": "https://ascii.jp/img/2026/10/29/4545439/s/871e99bb87f49634.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "オラクル、社員が業務アプリをAIで自動作成、Oracle Cloud上で共有できる「Oracle App Composer」発表。Oracle AI World 2026",
       "link": "https://www.publickey1.jp/blog/26/aioracle_cloudoracle_app_composeroracle_ai_world_2026.html",
       "date": "2026-10-29T00:39:53+09:00",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "Publickey",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "AIエージェントで営業はどう変わる？できること7選と導入手順・事例を解説",
-      "link": "https://ainow.ai/2026/10/28/278487/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e5%2596%25b6%25e6%25a5%25ad%25e3%2581%25af%25e3%2581%25a9%25e3%2581%2586%25e5%25a4%2589%25e3%2582%258f%25e3%2582%258b%25ef%25bc%259f%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b%25e3%2581%2593%25e3%2581%25a87",
-      "date": "2026-10-28T23:04:26+09:00",
-      "dateLabel": "10/28 23:04",
-      "desc": "営業職の採用が難しいなか、今の人数で商談数を増やすよう求められていませんか。本記事では、AIエージェントが営業で担える業務と、自社に合うツールの選び方・導入手順を、国内企業の事例とあわせて解説します。 リスト作成や日報、... The post AIエージェントで営業はどう変わる？できること7選と導入手順・事例を解説 first appeared on AI",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
