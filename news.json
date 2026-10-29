@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-29T10:22:59.058697+09:00",
-  "generatedLabel": "2026/10/29 10:22",
+  "generatedAt": "2026-10-29T16:47:39.043624+09:00",
+  "generatedLabel": "2026/10/29 16:47",
   "feedOk": 6,
   "feedNg": 5,
   "candidates": 56,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "Googleが世界一高性能なAI「Gemini 4 Carbon」を発表、ついにOpenAIやAnthropicの最先端モデルを超える",
+      "link": "https://gigazine.net/news/20261029-gemini-4-carbon/",
+      "date": "2026-10-29T10:41:00+09:00",
+      "dateLabel": "10/29 10:41",
+      "desc": "GoogleがAIモデル「Gemini 4 Carbon」を日本時間の2026年10月29日に発表しました。複数のテストでOpenAIやAnthropicのフラッグシップモデルを超える性能を示しているほか、第三者機関の性能評価でも総合性能でトップに躍り出ています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 58
+    },
+    {
       "title": "Google、「Gemini 4 Carbon」発表 「Argon」公開から2週間、サイバー防御能力などを強化",
       "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002690/",
       "date": "2026-10-29T07:13:47+09:00",
@@ -96,26 +107,37 @@
       "score": 50
     },
     {
-      "title": "「エルヴィス・プレスリーの曲がAI学習に無断使用された」と60億円超の損害賠償をAnthropicに求める訴訟が提起される",
-      "link": "https://gigazine.net/news/20261028-elvis-presley-anthropic-lawsuit-ai-music/",
-      "date": "2026-10-28T16:20:00+09:00",
-      "dateLabel": "10/28 16:20",
-      "desc": "エルヴィス・プレスリーは「キング・オブ・ロックンロール」と称される伝説的ロックスターであり、記事作成時点でも根強い人気を誇っています。そんなプレスリーの著作権を所有する企業や団体が、Claudeを開発するAnthropicがAIモデルの学習にプレスリーの楽曲を無断使用したとして訴訟を起こしました。 続きを読む...",
+      "title": "コイントスで決めたAIの意見に専門家が86％の割合で同調してしまうことが判明",
+      "link": "https://gigazine.net/news/20261029-anthropic-agents-judgment-calls/",
+      "date": "2026-10-29T15:00:00+09:00",
+      "dateLabel": "10/29 15:00",
+      "desc": "AIを使って仕事をする専門家は自分で判断しているつもりでもAIの意見に大きく影響されている可能性があるという研究結果をClaudeシリーズなどのAIを展開しているAnthropicが発表しました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 50
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
-      "title": "Anthropic、独自の“創薬活動”に着手 社員1人のバイオ企業を買収、小児難病の治療薬研究を進める",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002661/",
-      "date": "2026-10-28T13:07:50+09:00",
-      "dateLabel": "10/28 13:07",
-      "desc": "米Anthropicは10月27日（現地時間）、小児の希少な筋ジストロフィーなどを対象に、自社で創薬活動を進めていると発表した。社員1人でAI「Claude」を使い外部11の研究機関と実験を進めてきた企業を買収し、研究を引き継いだ。",
+      "title": "スマホで動くローカルAIが進化、ツール操作で大型モデル超えも Liquid AI「LFM3」発表",
+      "link": "https://ascii.jp/elem/000/004/446/4446931/?rss",
+      "date": "2026-10-29T14:40:00+09:00",
+      "dateLabel": "10/29 14:40",
+      "desc": "米Liquid AIは10月27日、iPhone 17 Proのようなスマートフォン端末内でも動作する、軽量なAIモデルシリーズ「LFM3」を発表した。",
+      "img": "https://ascii.jp/img/2026/10/29/4545726/s/ac85eae3156d1255.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 42
+    },
+    {
+      "title": "AIベンチマーク「Intelligence Index v5」発表、2つの新しいベンチマークと3つのアップグレード",
+      "link": "https://gigazine.net/news/20261029-intelligence-index-v5/",
+      "date": "2026-10-29T14:14:00+09:00",
+      "dateLabel": "10/29 14:14",
+      "desc": "Artificial AnalysisはAIモデルの性能評価を行っている独立機関で、複数のベンチマーク結果をもとにAIの総合性能を算出する「Artificial Analysis Intelligence Index」は新規モデルの性能を把握するための指標として広く用いられています。そんなArtificial Analysis Intelligence In",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 50
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 42
     },
     {
       "title": "Claude Mythos 5がGitHubに悪意あるコードを送り込み偽アカウントで開発者に圧力をかけた問題の原因をAnthropicが分析",
@@ -129,36 +151,25 @@
       "score": 42
     },
     {
-      "title": "AppleとOpenAIのモデルに基づいて構築されたAIアシスタントがKeynote・Pages・NumbersだけでなくLogic Proにも追加、Keynote・Pages・NumbersはMCPをサポート",
-      "link": "https://gigazine.net/news/20261028-apple-creator-studio-ai-features-openai-models/",
-      "date": "2026-10-28T13:42:00+09:00",
-      "dateLabel": "10/28 13:42",
-      "desc": "AppleがiPhone・iPad・Macで使えるクリエイター向けツールコレクション「Apple Creator Studio」のアップデートを発表しました。Apple Creator Studio向けアップデートは2026年11月にApp Storeで提供開始となります。 続きを読む...",
+      "title": "「エルヴィス・プレスリーの曲がAI学習に無断使用された」と60億円超の損害賠償をAnthropicに求める訴訟が提起される",
+      "link": "https://gigazine.net/news/20261028-elvis-presley-anthropic-lawsuit-ai-music/",
+      "date": "2026-10-28T16:20:00+09:00",
+      "dateLabel": "10/28 16:20",
+      "desc": "エルヴィス・プレスリーは「キング・オブ・ロックンロール」と称される伝説的ロックスターであり、記事作成時点でも根強い人気を誇っています。そんなプレスリーの著作権を所有する企業や団体が、Claudeを開発するAnthropicがAIモデルの学習にプレスリーの楽曲を無断使用したとして訴訟を起こしました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "LLM/モデル",
+      "cat": "規制/安全",
       "score": 42
     },
     {
-      "title": "ChatGPTが娘に発作治療薬の服用をやめるよう指示したとして両親がOpenAIを提訴",
-      "link": "https://gigazine.net/news/20261028-parents-sue-openai-alleging-gpt-4o/",
-      "date": "2026-10-28T13:36:00+09:00",
-      "dateLabel": "10/28 13:36",
-      "desc": "OpenAIが2024年5月に発表したAIモデルのGPT-4oが、てんかんを患っていたボーウェン・ワンさんに抗てんかん薬の服用を減らすようアドバイスした結果、ボーウェンさんが突然死したとして同氏の両親がOpenAIを提訴しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "NVIDIAとAMD、MetaとのAI分野での提携拡大を発表 「Muse」の強化や次世代インフラ構築で協力",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002651/",
-      "date": "2026-10-28T08:55:26+09:00",
-      "dateLabel": "10/28 08:55",
-      "desc": "NVIDIAとAMDは、MetaとのAI分野における戦略的提携拡大をそれぞれ発表した。AIエージェント「Muse」の開発・運用支援や次世代インフラ構築で協力し、Metaへの出資（NVIDIAが30億ドル、AMDが10億ドル）も表明。Metaは自社チップ開発と外部調達の両輪でインフラを強化する。",
+      "title": "Anthropic、独自の“創薬活動”に着手 社員1人のバイオ企業を買収、小児難病の治療薬研究を進める",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002661/",
+      "date": "2026-10-28T13:07:50+09:00",
+      "dateLabel": "10/28 13:07",
+      "desc": "米Anthropicは10月27日（現地時間）、小児の希少な筋ジストロフィーなどを対象に、自社で創薬活動を進めていると発表した。社員1人でAI「Claude」を使い外部11の研究機関と実験を進めてきた企業を買収し、研究を引き継いだ。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
+      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -173,6 +184,61 @@
       "score": 42
     },
     {
+      "title": "今、最も使われているプログラミング言語は？ AIコーディングでPython超えて急成長",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002719/",
+      "date": "2026-10-29T16:16:51+09:00",
+      "dateLabel": "10/29 16:16",
+      "desc": "Githubは年次レポート「GitHub Octoverse 2026」を公開。開発者が多いプログラミング言語のランキングが発表された。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "訪問介護の倒産が過去最多、求人倍率14倍超 AIエージェントで当日欠勤対応を支える訪問介護ソフト「ケアバディ」",
+      "link": "https://ascii.jp/elem/000/004/446/4446962/?rss",
+      "date": "2026-10-29T15:25:08+09:00",
+      "dateLabel": "10/29 15:25",
+      "desc": "訪問介護の倒産が過去最多、求人倍率14倍超 AIエージェントで当日欠勤対応を支える訪問介護ソフト「ケアバディ」",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "【11月2日開催ウェビナー】AIエージェントが「PoC止まり」になる本当の理由 ―現場の業務と判断を“つくる前”に整理する実践法―",
+      "link": "https://ascii.jp/elem/000/004/446/4446939/?rss",
+      "date": "2026-10-29T14:38:56+09:00",
+      "dateLabel": "10/29 14:38",
+      "desc": "【11月2日開催ウェビナー】AIエージェントが「PoC止まり」になる本当の理由 ―現場の業務と判断を“つくる前”に整理する実践法―",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "NVIDIAが文字起こしAI「Nemotron 3.5 Transcribe」を公開、大勢が同時に話す場面でも高精度な話者識別が可能",
+      "link": "https://gigazine.net/news/20261029-nvidia-nemotron-3-5-transcribe/",
+      "date": "2026-10-29T13:13:00+09:00",
+      "dateLabel": "10/29 13:13",
+      "desc": "NVIDIAが文字起こしAI「Nemotron 3.5 Transcribe」を現地時間の2026年10月28日に公開しました。複数の話者を識別しながら高精度な文字起こしが可能です。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "AIが人間に“闇バイト”を発注？ AIが物理的労働を買う求人サイト「RentAHuman」の実態",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002679/",
+      "date": "2026-10-29T12:00:00+09:00",
+      "dateLabel": "10/29 12:00",
+      "desc": "独立研究者のPulak MehtaさんとAryan Deshkumarさんが発表した論文「Security Risks of AI Agents Hiring Humans: An Empirical Marketplace Study」は、2026年2月に開設した、AIエージェントが人間を雇うことを目的に設計された人材雇用マーケットプレース「RentAHu",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
       "title": "KDDI傘下、社内のAI活用事例113件を無料公開 「Gemini Notebook」で稟議データのチェック支援も",
       "link": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002685/",
       "date": "2026-10-29T08:00:00+09:00",
@@ -181,28 +247,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "青森りんごを鉄道コンテナ連携の自動運転で長距離輸送。JR貨物とT2が共同開発",
-      "link": "https://ascii.jp/elem/000/004/445/4445745/?rss",
-      "date": "2026-10-29T07:00:00+09:00",
-      "dateLabel": "10/29 07:00",
-      "desc": "株式会社T2、日本通運株式会社、日本貨物鉄道株式会社（JR貨物）、つがる弘前農業協同組合（JAつがる弘前）の4者は10月7日、自動運転トラックと貨物鉄道を組み合わせたモーダルコンビネーションにより、青森県産りんごを青森県から大阪府まで輸送する実証実験を10月13日より開始すると発表した。",
-      "img": "https://ascii.jp/img/2026/10/26/4543643/s/75b19698167d7f55.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 34
-    },
-    {
-      "title": "Alexa+ついに国内解禁、日本語の空気まで読むAmazonの生成AI、対応デバイスも同時発表だ！",
-      "link": "https://ascii.jp/elem/000/004/446/4446675/?rss",
-      "date": "2026-10-29T00:10:00+09:00",
-      "dateLabel": "10/29 00:10",
-      "desc": "Alexa＋がついに上陸だ！ Amazonによる、生成AI搭載の次世代パーソナルアシスタント「Alexa+」の早期アクセスが10月29日に始まった。これに合わせてAmazonが市場投入するのがスマートクロックの「Echo Time」（3万5980円）と新しいスマートスピーカーである「Echo Dot」（1万7980円）だ。",
-      "img": "https://ascii.jp/img/2026/10/28/4545437/s/c67dcf584eb2fe91.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
@@ -217,39 +261,6 @@
       "score": 34
     },
     {
-      "title": "PFNの国産フラグシップモデル「PLaMo 3.1 Prime」発表 オンプレでDeep Research対応 API無料プランも開始",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/28/2000002652/",
-      "date": "2026-10-28T11:32:41+09:00",
-      "dateLabel": "10/28 11:32",
-      "desc": "Preferred Networksが国産の生成AI基盤モデル「PLaMo 3.1 Prime」を提供開始。オンプレミスでも使える「Deep Research」を搭載し、ハルシネーションも抑えたという。API無料プランで試せる。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "パーマー・ラッキー率いる防衛企業のAndurilとQualcommがアメリカ製の新型ノートPC「BlueChip」を発表",
-      "link": "https://gigazine.net/news/20261028-anduril-qualcomm-bluechip/",
-      "date": "2026-10-28T11:29:00+09:00",
-      "dateLabel": "10/28 11:29",
-      "desc": "アメリカの防衛技術企業であるAndurilと半導体大手のQualcommが、アメリカ国内での製造を重視したノートPC「BlueChip」を2026年10月27日に発表しました。最初の製品は軍や政府機関向けの頑丈なノートPCとなり、2027年の発売を予定しています。BlueChipは将来的に部品の製造から組み立てまで、すべてをアメリカ国内で完結させることが目的",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "Discord、公開サーバの会話をGoogle検索などの対象に プライバシーへの懸念も",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002656/",
-      "date": "2026-10-28T11:07:59+09:00",
-      "dateLabel": "10/28 11:07",
-      "desc": "Discordは、一部の公開サーバーにおける会話をWeb検索の対象にすると発表した。11月中旬からAI要約を公開し、12月中旬から投稿本文も検索可能にする。情報検索性を高める狙いだが、プライバシーやAI学習への利用懸念も噴出。日本は初期設定でオンとなるため、除外には設定変更が必要だ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
       "title": "AWSとGoogle Cloudが「PyTorch」のAWS Trainium、Google Cloud TPU対応版をオープンソースで公開。NVIDIAからの移行に挑む",
       "link": "https://www.publickey1.jp/blog/26/awsgoogle_cloudpytorchaws_trainiumgoogle_cloud_tpunvidia.html",
       "date": "2026-10-27T00:59:52+09:00",
@@ -261,25 +272,14 @@
       "score": 34
     },
     {
-      "title": "2つのPCを1ケースに！ OZgaming「CAPO X」採用モデル登場、ゲームと配信を別環境で",
-      "link": "https://ascii.jp/elem/000/004/446/4446229/?rss",
-      "date": "2026-10-29T10:00:00+09:00",
-      "dateLabel": "10/29 10:00",
-      "desc": "ソフマップがOZgamingの「CAPO X」採用ゲーミングPC全4モデルを発売。1つのケースに独立した2つのPCシステムを搭載でき、ゲームと配信、AI処理など用途別に運用可能。RTX 5070 Ti搭載モデルなど、構成や特徴を紹介する。",
-      "img": "https://ascii.jp/img/2026/10/28/4544489/s/980d8de2cbfeba81.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "AIエージェントは「増やせば賢くなる」のか Metaとハーバード大の研究が示す“分業の条件”",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002632/",
-      "date": "2026-10-29T08:00:00+09:00",
-      "dateLabel": "10/29 08:00",
-      "desc": "AIエージェントは増やせば増やすほど賢くなるのか。米Metaや米ハーバード大学などの研究者による論文を基に、AI同士の分業が力を発揮する条件や、分業を企業に取り入れる際のポイントなどを解説する。",
+      "title": "Samsungから初のオープンイヤー型イヤホン「Galaxy Buds On」が登場、AIで1億1900万件超の耳データを分析してあらゆる形状の耳に対応できるようデザインされたイヤホン",
+      "link": "https://gigazine.net/news/20261029-samsung-galaxy-buds-on/",
+      "date": "2026-10-29T15:49:00+09:00",
+      "dateLabel": "10/29 15:49",
+      "desc": "現地時間の2026年10月28日、Samsungがクリアな音声と直感的なAI体験を実現するオープンイヤー型イヤホン「Galaxy Buds On」のアメリカでの発売が発表されました。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
       "score": 26
     }
   ]
