@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T04:56:56.587293+09:00",
-  "generatedLabel": "2026/10/30 04:56",
+  "generatedAt": "2026-10-30T08:44:39.217245+09:00",
+  "generatedLabel": "2026/10/30 08:44",
   "feedOk": 6,
   "feedNg": 5,
   "candidates": 53,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 2
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -72,28 +72,6 @@
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 58
-    },
-    {
-      "title": "Google、「Gemini 4 Carbon」発表 「Argon」公開から2週間、サイバー防御能力などを強化",
-      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002690/",
-      "date": "2026-10-29T07:13:47+09:00",
-      "dateLabel": "10/29 07:13",
-      "desc": "Googleは、フロンティアAIモデル「Gemini 4 Carbon」を発表した。サイバーセキュリティや長時間に及ぶ自律作業能力を強化し、ベンチマーク首位を獲得。ハルシネーションや不正操作への耐性も向上させた。まず一部のサイバー防御組織に限定提供し、順次公開範囲を広げる方針だ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
-      "title": "OpenAIとAnthropicが2026年夏から秋にかけてLLM料金を相次いで値下げした理由とは？",
-      "link": "https://gigazine.net/news/20261029-openai-anthropic-llm-price-cuts/",
-      "date": "2026-10-29T06:00:00+09:00",
-      "dateLabel": "10/29 06:00",
-      "desc": "OpenAIとAnthropicが2026年夏から秋にかけて大規模言語モデル(LLM)の利用料金を相次いで引き下げました。この値下げについてデータサイエンティストのマックス・ウルフ氏は、別のモデルに乗り換えやすいことと、モデルの重みを公開する「オープンウェイトモデル」との競争を背景として挙げています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 50
     },
     {
       "title": "AnthropicがAIの訓練のために海賊版書籍を使用していた中にスタンフォード大学教授の書籍も含まれていたと主張して教授らは和解から離脱し訴訟を提起",
@@ -140,11 +118,11 @@
       "score": 42
     },
     {
-      "title": "Anthropic、独自の“創薬活動”に着手 社員1人のバイオ企業を買収、小児難病の治療薬研究を進める",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002661/",
-      "date": "2026-10-28T13:07:50+09:00",
-      "dateLabel": "10/28 13:07",
-      "desc": "米Anthropicは10月27日（現地時間）、小児の希少な筋ジストロフィーなどを対象に、自社で創薬活動を進めていると発表した。社員1人でAI「Claude」を使い外部11の研究機関と実験を進めてきた企業を買収し、研究を引き継いだ。",
+      "title": "Google、「Gemini 4 Carbon」発表 「Argon」公開から2週間、サイバー防御能力などを強化",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002690/",
+      "date": "2026-10-29T07:13:47+09:00",
+      "dateLabel": "10/29 07:13",
+      "desc": "Googleは、フロンティアAIモデル「Gemini 4 Carbon」を発表した。サイバーセキュリティや長時間に及ぶ自律作業能力を強化し、ベンチマーク首位を獲得。ハルシネーションや不正操作への耐性も向上させた。まず一部のサイバー防御組織に限定提供し、順次公開範囲を広げる方針だ。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
@@ -162,6 +140,28 @@
       "score": 42
     },
     {
+      "title": "エアコンなどの脱炭素化を加速、新冷媒向けヒートポンプ設計を支援する流体シミュレーションAIの実証開発へ",
+      "link": "https://ascii.jp/elem/000/004/446/4446065/?rss",
+      "date": "2026-10-30T07:00:00+09:00",
+      "dateLabel": "10/30 07:00",
+      "desc": "シミュレーションや対話AI技術の開発・社会実装を手掛けるディープテック企業の株式会社MQueは10月21日、流体シミュレーションとAI技術を組み合わせた「ヒートポンプ熱交換器設計開発プラットフォーム」の実用化開発を進めると発表した。",
+      "img": "https://ascii.jp/img/2026/10/27/4544140/s/15d5174de4f3647a.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 34
+    },
+    {
+      "title": "「未来」の現在：夢の動物語翻訳機はLLMでついに実現するか？",
+      "link": "https://ascii.jp/elem/000/004/447/4447086/?rss",
+      "date": "2026-10-30T06:41:18+09:00",
+      "dateLabel": "10/30 06:41",
+      "desc": "動物の言葉が分かる翻訳機は、多くの人が夢見てきた技術だ。AIの進歩で鳴き声の検出や個体の識別は進み、研究者は大規模言語モデル（LLM）による翻訳にも期待を寄せる。進捗度は10段階で4。データは膨大に集まったが、解読の方法はまだ模索の段階にある。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "Windowsの高性能PCで動くローカルAIをブラウザからみんなで利用できる環境を「Ollama＋Open WebUI」で構築してみた",
       "link": "https://gigazine.net/news/20261029-ollama-open-webui-local-ai/",
       "date": "2026-10-29T23:00:00+09:00",
@@ -169,17 +169,6 @@
       "desc": "ローカルAIはGPUの性能が重要ですが、AIを使いたいPCすべてに高性能なGPUを搭載すると費用がかさんでしまいます。そこで1台の高性能PCをAIサーバーにし、ほかのPCからAIを利用できる環境を構築してみます。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "ハイエンドGPUの給電に配慮、ASUS ROGが新ケーブル付属の1200W／1000W電源5製品",
-      "link": "https://ascii.jp/elem/000/004/447/4447062/?rss",
-      "date": "2026-10-29T18:30:00+09:00",
-      "dateLabel": "10/29 18:30",
-      "desc": "ASUS ROGが1200W／1000WのPC電源5製品を10月30日に発売。発熱や電力の偏りを抑えるROGイコライザーケーブルを標準付属し、ハイエンドGPUへの安定給電を追求。全製品が80 PLUS Platinum認証を取得し、価格は4万6980円から。",
-      "img": "https://ascii.jp/img/2026/10/29/4545839/s/90a91b7ecd41366b.png",
-      "src": "ASCII.jp",
       "cat": "半導体/GPU",
       "score": 34
     },
@@ -228,17 +217,6 @@
       "score": 34
     },
     {
-      "title": "KDDI傘下、社内のAI活用事例113件を無料公開 「Gemini Notebook」で稟議データのチェック支援も",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002685/",
-      "date": "2026-10-29T08:00:00+09:00",
-      "dateLabel": "10/29 08:00",
-      "desc": "KDDIグループのKDDIアイレットが、社内のAI活用事例113件をまとめた特設サイトを無料で公開している。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "AWSとGoogle Cloudが「PyTorch」のAWS Trainium、Google Cloud TPU対応版をオープンソースで公開。NVIDIAからの移行に挑む",
       "link": "https://www.publickey1.jp/blog/26/awsgoogle_cloudpytorchaws_trainiumgoogle_cloud_tpunvidia.html",
       "date": "2026-10-27T00:59:52+09:00",
@@ -250,14 +228,36 @@
       "score": 28
     },
     {
-      "title": "ASUS、Wi-Fi 8ルーター「ROG Rapture GT-BN98」発売へ ゲーム通信の遅延を最大34％低減とうたう",
-      "link": "https://ascii.jp/elem/000/004/447/4447064/?rss",
-      "date": "2026-10-29T18:45:00+09:00",
-      "dateLabel": "10/29 18:45",
-      "desc": "ASUSのWi-Fi 8対応ゲーミングルーター「ROG Rapture GT-BN98」が10月30日にAmazon限定で発売。AI Game Boostによる最大34％の遅延低減をうたい、10Gbpsポート2基と4バンド・16ストリームに対応する。",
-      "img": "https://ascii.jp/img/2026/10/29/4545878/s/2b168a511b9b2cee.png",
+      "title": "MSI「MEG X」登場、5層タンデムOLEDで黒と文字の見やすさを追求",
+      "link": "https://ascii.jp/elem/000/004/447/4447088/?rss",
+      "date": "2026-10-30T08:30:00+09:00",
+      "dateLabel": "10/30 08:30",
+      "desc": "MSIのQD-OLEDゲーミングモニター「MEG X」が11月下旬以降に発売。応答速度0.03ms、5層タンデムOLED、内蔵AIによるゲーム支援が特徴。文字の色にじみを抑える構造や焼き付き防止機能も搭載し、予想価格は30万2500円前後。",
+      "img": "https://ascii.jp/img/2026/10/30/4545949/s/384e86f363aa15a1.png",
       "src": "ASCII.jp",
       "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "GoogleがAIに「睡眠フェーズ」を導入する研究成果を発表、AIモデルの完成後も新しい知識を継続的に習得させられる仕組み",
+      "link": "https://gigazine.net/news/20261030-ai-sleep-knowledge/",
+      "date": "2026-10-30T08:00:00+09:00",
+      "dateLabel": "10/30 08:00",
+      "desc": "AIモデルは基本的に学習完了時までの知識しか備えておらず、学習完了後の知識はウェブ検索機能などで補うことになります。新たに、GoogleがAIに「睡眠フェーズ」を導入して継続的な知識習得を可能にする研究成果を発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "物理ソルバーからMODSIM、AIへ SIMULIAが描く次世代の設計／シミュレーション",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/30/news004.html",
+      "date": "2026-10-30T07:00:00+09:00",
+      "dateLabel": "10/30 07:00",
+      "desc": "ダッソー・システムズは「SIMULIA Community Conference Japan 2026」を開催した。基調講演では、SIMULIAブランドの戦略を支える物理ソルバー、MODSIM、AIの3層構造を紹介。エンジニアと協働するAI「バーチャルコンパニオン」や生成型設計、NVIDIAとの協業などを通じて、設計／シミュレーションの将来像を示した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
       "score": 26
     },
     {
