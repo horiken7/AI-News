@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-29T06:25:31.289157+09:00",
-  "generatedLabel": "2026/10/29 06:25",
+  "generatedAt": "2026-10-29T10:22:59.058697+09:00",
+  "generatedLabel": "2026/10/29 10:22",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 54,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 18
+      "items": 19
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -62,6 +62,17 @@
     }
   ],
   "articles": [
+    {
+      "title": "Google、「Gemini 4 Carbon」発表 「Argon」公開から2週間、サイバー防御能力などを強化",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002690/",
+      "date": "2026-10-29T07:13:47+09:00",
+      "dateLabel": "10/29 07:13",
+      "desc": "Googleは、フロンティアAIモデル「Gemini 4 Carbon」を発表した。サイバーセキュリティや長時間に及ぶ自律作業能力を強化し、ベンチマーク首位を獲得。ハルシネーションや不正操作への耐性も向上させた。まず一部のサイバー防御組織に限定提供し、順次公開範囲を広げる方針だ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
     {
       "title": "OpenAIとAnthropicが2026年夏から秋にかけてLLM料金を相次いで値下げした理由とは？",
       "link": "https://gigazine.net/news/20261029-openai-anthropic-llm-price-cuts/",
@@ -107,17 +118,6 @@
       "score": 50
     },
     {
-      "title": "NVIDIAとAMD、MetaとのAI分野での提携拡大を発表 「Muse」の強化や次世代インフラ構築で協力",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002651/",
-      "date": "2026-10-28T08:55:26+09:00",
-      "dateLabel": "10/28 08:55",
-      "desc": "NVIDIAとAMDは、MetaとのAI分野における戦略的提携拡大をそれぞれ発表した。AIエージェント「Muse」の開発・運用支援や次世代インフラ構築で協力し、Metaへの出資（NVIDIAが30億ドル、AMDが10億ドル）も表明。Metaは自社チップ開発と外部調達の両輪でインフラを強化する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
       "title": "Claude Mythos 5がGitHubに悪意あるコードを送り込み偽アカウントで開発者に圧力をかけた問題の原因をAnthropicが分析",
       "link": "https://gigazine.net/news/20261028-claude-mythos-5-failure/",
       "date": "2026-10-28T20:00:00+09:00",
@@ -151,6 +151,17 @@
       "score": 42
     },
     {
+      "title": "NVIDIAとAMD、MetaとのAI分野での提携拡大を発表 「Muse」の強化や次世代インフラ構築で協力",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002651/",
+      "date": "2026-10-28T08:55:26+09:00",
+      "dateLabel": "10/28 08:55",
+      "desc": "NVIDIAとAMDは、MetaとのAI分野における戦略的提携拡大をそれぞれ発表した。AIエージェント「Muse」の開発・運用支援や次世代インフラ構築で協力し、Metaへの出資（NVIDIAが30億ドル、AMDが10億ドル）も表明。Metaは自社チップ開発と外部調達の両輪でインフラを強化する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
       "title": "JavaScriptランタイムの「Bun」がPrettier互換で300倍以上高速なフォーマッタに。Prettier設定ファイルもそのまま利用可能",
       "link": "https://www.publickey1.jp/blog/26/javascriptbunprettier300prettier.html",
       "date": "2026-10-28T00:27:52+09:00",
@@ -162,7 +173,29 @@
       "score": 42
     },
     {
-      "title": "Amazon、日本人の空気まで読む生成AI「Alexa+」を国内解禁、対応デバイスも同時発表だ",
+      "title": "KDDI傘下、社内のAI活用事例113件を無料公開 「Gemini Notebook」で稟議データのチェック支援も",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002685/",
+      "date": "2026-10-29T08:00:00+09:00",
+      "dateLabel": "10/29 08:00",
+      "desc": "KDDIグループのKDDIアイレットが、社内のAI活用事例113件をまとめた特設サイトを無料で公開している。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "青森りんごを鉄道コンテナ連携の自動運転で長距離輸送。JR貨物とT2が共同開発",
+      "link": "https://ascii.jp/elem/000/004/445/4445745/?rss",
+      "date": "2026-10-29T07:00:00+09:00",
+      "dateLabel": "10/29 07:00",
+      "desc": "株式会社T2、日本通運株式会社、日本貨物鉄道株式会社（JR貨物）、つがる弘前農業協同組合（JAつがる弘前）の4者は10月7日、自動運転トラックと貨物鉄道を組み合わせたモーダルコンビネーションにより、青森県産りんごを青森県から大阪府まで輸送する実証実験を10月13日より開始すると発表した。",
+      "img": "https://ascii.jp/img/2026/10/26/4543643/s/75b19698167d7f55.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 34
+    },
+    {
+      "title": "Alexa+ついに国内解禁、日本語の空気まで読むAmazonの生成AI、対応デバイスも同時発表だ！",
       "link": "https://ascii.jp/elem/000/004/446/4446675/?rss",
       "date": "2026-10-29T00:10:00+09:00",
       "dateLabel": "10/29 00:10",
@@ -170,17 +203,6 @@
       "img": "https://ascii.jp/img/2026/10/28/4545437/s/c67dcf584eb2fe91.jpg",
       "src": "ASCII.jp",
       "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "RTX 5060＋32GB＋1TB！ ASUSの16型ゲーミングノート「TUF Gaming F16」が14％オフの29万9800円",
-      "link": "https://ascii.jp/elem/000/004/445/4445913/?rss",
-      "date": "2026-10-28T19:50:00+09:00",
-      "dateLabel": "10/28 19:50",
-      "desc": "ASUSの16型ゲーミングノートPC「TUF Gaming F16（FX608JMI-I7R5060321T）」がAmazonのタイムセール対象。過去価格349,800円から14％オフの299,800円で販売中。Core i7-14650HXとGeForce RTX 5060 Laptop GPUを搭載し、メモリは32GB、SSDは1TBを標準装備。16型W",
-      "img": "https://ascii.jp/img/2026/10/27/4544038/s/840da1512ed38af6.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -228,28 +250,6 @@
       "score": 34
     },
     {
-      "title": "AIによって脆弱性発見が爆増したことが一目で分かるグラフ「CVE Tracker」",
-      "link": "https://gigazine.net/news/20261028-cve-tracker/",
-      "date": "2026-10-28T07:00:00+09:00",
-      "dateLabel": "10/28 07:00",
-      "desc": "AIの性能向上によってソフトウェアの脆弱性が続々と発見されるようになりました。@0x_Osprey氏が公開しているウェブアプリ「CVE Tracker」では2026年に入ってから脆弱性の報告件数が急増していることが読み取れます。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "Google DeepMind、ワールドモデル「Genie 4」発表 音声や会話もリアルタイム生成、Geminiと連携",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002648/",
-      "date": "2026-10-28T06:53:37+09:00",
-      "dateLabel": "10/28 06:53",
-      "desc": "Google DeepMindは、対話型の仮想世界をリアルタイム生成するAI「Genie 4」を発表した。映像品質や物理演算が向上し、環境音や会話音声の同時生成に対応。人物の自然な動作やテキストによる環境操作が可能となった。まずは研究プレビューとして提供し、順次「Google AI Ultra」加入者等へ展開する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "AWSとGoogle Cloudが「PyTorch」のAWS Trainium、Google Cloud TPU対応版をオープンソースで公開。NVIDIAからの移行に挑む",
       "link": "https://www.publickey1.jp/blog/26/awsgoogle_cloudpytorchaws_trainiumgoogle_cloud_tpunvidia.html",
       "date": "2026-10-27T00:59:52+09:00",
@@ -261,25 +261,25 @@
       "score": 34
     },
     {
-      "title": "最上位モデルは160万円超え!! デルが「RTX Spark」搭載の16型AIノートPC＝Dell「XPS 16 Creator Edition」を日本でも発売!!",
-      "link": "https://ascii.jp/elem/000/004/446/4446676/?rss",
-      "date": "2026-10-29T03:00:00+09:00",
-      "dateLabel": "10/29 03:00",
-      "desc": "米国では10月7日に発売となったモデルで日本での価格は79万9800円からです",
-      "img": "https://ascii.jp/img/2026/10/29/4545439/s/871e99bb87f49634.png",
+      "title": "2つのPCを1ケースに！ OZgaming「CAPO X」採用モデル登場、ゲームと配信を別環境で",
+      "link": "https://ascii.jp/elem/000/004/446/4446229/?rss",
+      "date": "2026-10-29T10:00:00+09:00",
+      "dateLabel": "10/29 10:00",
+      "desc": "ソフマップがOZgamingの「CAPO X」採用ゲーミングPC全4モデルを発売。1つのケースに独立した2つのPCシステムを搭載でき、ゲームと配信、AI処理など用途別に運用可能。RTX 5070 Ti搭載モデルなど、構成や特徴を紹介する。",
+      "img": "https://ascii.jp/img/2026/10/28/4544489/s/980d8de2cbfeba81.png",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "オラクル、社員が業務アプリをAIで自動作成、Oracle Cloud上で共有できる「Oracle App Composer」発表。Oracle AI World 2026",
-      "link": "https://www.publickey1.jp/blog/26/aioracle_cloudoracle_app_composeroracle_ai_world_2026.html",
-      "date": "2026-10-29T00:39:53+09:00",
-      "dateLabel": "10/29 00:39",
-      "desc": "オラクルは、社員が業務アプリをAIで自動的に生成しOracle Cloudにデプロイして利用できる「Oracle App Composer」を、米国ラスベガスで開催中の年次イベント「Oracle AI World 2026」で発表しました。...",
+      "title": "AIエージェントは「増やせば賢くなる」のか Metaとハーバード大の研究が示す“分業の条件”",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002632/",
+      "date": "2026-10-29T08:00:00+09:00",
+      "dateLabel": "10/29 08:00",
+      "desc": "AIエージェントは増やせば増やすほど賢くなるのか。米Metaや米ハーバード大学などの研究者による論文を基に、AI同士の分業が力を発揮する条件や、分業を企業に取り入れる際のポイントなどを解説する。",
       "img": "",
-      "src": "Publickey",
-      "cat": "AI全般",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
