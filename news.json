@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-29T16:47:39.043624+09:00",
-  "generatedLabel": "2026/10/29 16:47",
+  "generatedAt": "2026-10-29T23:45:27.556840+09:00",
+  "generatedLabel": "2026/10/29 23:45",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 56,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 2
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -96,15 +96,26 @@
       "score": 50
     },
     {
-      "title": "Anthropicが筋ジストロフィー治療薬開発のMithril Medicine買収を発表、生命科学分野で独自の創薬活動を開始",
-      "link": "https://gigazine.net/news/20261028-anthropic-life-science-working/",
-      "date": "2026-10-28T18:00:00+09:00",
-      "dateLabel": "10/28 18:00",
-      "desc": "Anthropicが病気の治療を加速させるため、新薬開発を行う企業との研究提携を深め、独自の創薬活動も開始したことを発表しました。発表では、2種類の筋ジストロフィー治療薬を開発しているMithril Medicineを買収し、創業者にして唯一の人員であるコーディ・トランバーガー氏はAnthropicに所属して創薬研究を行っていることも明らかになりました。 続",
+      "title": "AnthropicがAIの訓練のために海賊版書籍を使用していた中にスタンフォード大学教授の書籍も含まれていたと主張して教授らは和解から離脱し訴訟を提起",
+      "link": "https://gigazine.net/news/20261029-anthropic-stanford-professors/",
+      "date": "2026-10-29T19:22:00+09:00",
+      "dateLabel": "10/29 19:22",
+      "desc": "AI大手のAnthropicが自社モデルのClaudeをトレーニングするため、10人以上のスタンフォード大学教授の研究成果を違法に盗用したとして、スタンフォード大学教授らから訴訟を起こされています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 42
+    },
+    {
+      "title": "ChatGPTのPro・Businessプランで「API利用」可能に 月最大500ドル分",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002728/",
+      "date": "2026-10-29T17:46:39+09:00",
+      "dateLabel": "10/29 17:46",
+      "desc": "米OpenAIは「ChatGPT」のProおよびBusinessプランに、同社のAPIを利用できる特典を追加すると発表した。月最大500ドル分（約7万9000円、1ドル158円換算）の利用枠を付与する。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 50
+      "score": 42
     },
     {
       "title": "コイントスで決めたAIの意見に専門家が86％の割合で同調してしまうことが判明",
@@ -118,17 +129,6 @@
       "score": 42
     },
     {
-      "title": "スマホで動くローカルAIが進化、ツール操作で大型モデル超えも Liquid AI「LFM3」発表",
-      "link": "https://ascii.jp/elem/000/004/446/4446931/?rss",
-      "date": "2026-10-29T14:40:00+09:00",
-      "dateLabel": "10/29 14:40",
-      "desc": "米Liquid AIは10月27日、iPhone 17 Proのようなスマートフォン端末内でも動作する、軽量なAIモデルシリーズ「LFM3」を発表した。",
-      "img": "https://ascii.jp/img/2026/10/29/4545726/s/ac85eae3156d1255.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 42
-    },
-    {
       "title": "AIベンチマーク「Intelligence Index v5」発表、2つの新しいベンチマークと3つのアップグレード",
       "link": "https://gigazine.net/news/20261029-intelligence-index-v5/",
       "date": "2026-10-29T14:14:00+09:00",
@@ -137,28 +137,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 42
-    },
-    {
-      "title": "Claude Mythos 5がGitHubに悪意あるコードを送り込み偽アカウントで開発者に圧力をかけた問題の原因をAnthropicが分析",
-      "link": "https://gigazine.net/news/20261028-claude-mythos-5-failure/",
-      "date": "2026-10-28T20:00:00+09:00",
-      "dateLabel": "10/28 20:00",
-      "desc": "AnthropicのAIモデル「Claude Mythos 5」がセキュリティテスト中に悪意のあるコードをGitHubに投稿し、偽アカウントを使って開発者に承認を迫った問題について、AnthropicとイギリスのAI Security Institute(AISI)が原因分析の結果を発表しました。AIが被害の可能性を十分に考慮せずに行動したことや、自分の判断",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "「エルヴィス・プレスリーの曲がAI学習に無断使用された」と60億円超の損害賠償をAnthropicに求める訴訟が提起される",
-      "link": "https://gigazine.net/news/20261028-elvis-presley-anthropic-lawsuit-ai-music/",
-      "date": "2026-10-28T16:20:00+09:00",
-      "dateLabel": "10/28 16:20",
-      "desc": "エルヴィス・プレスリーは「キング・オブ・ロックンロール」と称される伝説的ロックスターであり、記事作成時点でも根強い人気を誇っています。そんなプレスリーの著作権を所有する企業や団体が、Claudeを開発するAnthropicがAIモデルの学習にプレスリーの楽曲を無断使用したとして訴訟を起こしました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
       "score": 42
     },
     {
@@ -184,6 +162,39 @@
       "score": 42
     },
     {
+      "title": "Windowsの高性能PCで動くローカルAIをブラウザからみんなで利用できる環境を「Ollama＋Open WebUI」で構築してみた",
+      "link": "https://gigazine.net/news/20261029-ollama-open-webui-local-ai/",
+      "date": "2026-10-29T23:00:00+09:00",
+      "dateLabel": "10/29 23:00",
+      "desc": "ローカルAIはGPUの性能が重要ですが、AIを使いたいPCすべてに高性能なGPUを搭載すると費用がかさんでしまいます。そこで1台の高性能PCをAIサーバーにし、ほかのPCからAIを利用できる環境を構築してみます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "ハイエンドGPUの給電に配慮、ASUS ROGが新ケーブル付属の1200W／1000W電源5製品",
+      "link": "https://ascii.jp/elem/000/004/447/4447062/?rss",
+      "date": "2026-10-29T18:30:00+09:00",
+      "dateLabel": "10/29 18:30",
+      "desc": "ASUS ROGが1200W／1000WのPC電源5製品を10月30日に発売。発熱や電力の偏りを抑えるROGイコライザーケーブルを標準付属し、ハイエンドGPUへの安定給電を追求。全製品が80 PLUS Platinum認証を取得し、価格は4万6980円から。",
+      "img": "https://ascii.jp/img/2026/10/29/4545839/s/90a91b7ecd41366b.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "スマホで動作する小型高性能なAIモデル群「LFM3」が登場、言語モデル・視覚言語モデル・音声モデル・オムニモデル・意思決定モデルを含む次世代モデル",
+      "link": "https://gigazine.net/news/20261029-liquid-ai-lfm3/",
+      "date": "2026-10-29T17:00:00+09:00",
+      "dateLabel": "10/29 17:00",
+      "desc": "AI企業のLiquid AIが小型AIモデル群「LFM3」を公開しました。スマートフォンやノートPCなどでも動作可能な小型モデルでありながら高い性能を備えており、いずれのモデルもオープンモデルとして公開されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "今、最も使われているプログラミング言語は？ AIコーディングでPython超えて急成長",
       "link": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002719/",
       "date": "2026-10-29T16:16:51+09:00",
@@ -192,28 +203,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "訪問介護の倒産が過去最多、求人倍率14倍超 AIエージェントで当日欠勤対応を支える訪問介護ソフト「ケアバディ」",
-      "link": "https://ascii.jp/elem/000/004/446/4446962/?rss",
-      "date": "2026-10-29T15:25:08+09:00",
-      "dateLabel": "10/29 15:25",
-      "desc": "訪問介護の倒産が過去最多、求人倍率14倍超 AIエージェントで当日欠勤対応を支える訪問介護ソフト「ケアバディ」",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "【11月2日開催ウェビナー】AIエージェントが「PoC止まり」になる本当の理由 ―現場の業務と判断を“つくる前”に整理する実践法―",
-      "link": "https://ascii.jp/elem/000/004/446/4446939/?rss",
-      "date": "2026-10-29T14:38:56+09:00",
-      "dateLabel": "10/29 14:38",
-      "desc": "【11月2日開催ウェビナー】AIエージェントが「PoC止まり」になる本当の理由 ―現場の業務と判断を“つくる前”に整理する実践法―",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -250,17 +239,6 @@
       "score": 34
     },
     {
-      "title": "「Firefox 159」正式版リリース、保存済みパスワードへのアクセスが簡単に",
-      "link": "https://gigazine.net/news/20261028-firefox-159/",
-      "date": "2026-10-28T19:40:00+09:00",
-      "dateLabel": "10/28 19:40",
-      "desc": "ウェブブラウザ「Firefox 159」の正式版が公開されました。一部の国で提供されているAI機能「Smart Window」にウェブページを監視して商品の値下げや再入荷を通知する機能が追加されたほか、macOS版では複数のタブをまとめて共有できるようになりました。また、保存済みパスワードへのアクセスが簡単になり、開いているタブをキーボードショートカットで検",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "AWSとGoogle Cloudが「PyTorch」のAWS Trainium、Google Cloud TPU対応版をオープンソースで公開。NVIDIAからの移行に挑む",
       "link": "https://www.publickey1.jp/blog/26/awsgoogle_cloudpytorchaws_trainiumgoogle_cloud_tpunvidia.html",
       "date": "2026-10-27T00:59:52+09:00",
@@ -272,11 +250,33 @@
       "score": 34
     },
     {
+      "title": "ASUS、Wi-Fi 8ルーター「ROG Rapture GT-BN98」発売へ ゲーム通信の遅延を最大34％低減とうたう",
+      "link": "https://ascii.jp/elem/000/004/447/4447064/?rss",
+      "date": "2026-10-29T18:45:00+09:00",
+      "dateLabel": "10/29 18:45",
+      "desc": "ASUSのWi-Fi 8対応ゲーミングルーター「ROG Rapture GT-BN98」が10月30日にAmazon限定で発売。AI Game Boostによる最大34％の遅延低減をうたい、10Gbpsポート2基と4バンド・16ストリームに対応する。",
+      "img": "https://ascii.jp/img/2026/10/29/4545878/s/2b168a511b9b2cee.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "Samsungから初のオープンイヤー型イヤホン「Galaxy Buds On」が登場、AIで1億1900万件超の耳データを分析してあらゆる形状の耳に対応できるようデザインされたイヤホン",
       "link": "https://gigazine.net/news/20261029-samsung-galaxy-buds-on/",
       "date": "2026-10-29T15:49:00+09:00",
       "dateLabel": "10/29 15:49",
       "desc": "現地時間の2026年10月28日、Samsungがクリアな音声と直感的なAI体験を実現するオープンイヤー型イヤホン「Galaxy Buds On」のアメリカでの発売が発表されました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "約19億円相当のAIチップがマレーシアの空港で押収される",
+      "link": "https://gigazine.net/news/20261029-malaysia-airport-ai-chip/",
+      "date": "2026-10-29T13:40:00+09:00",
+      "dateLabel": "10/29 13:40",
+      "desc": "マレーシア税関当局が、高度なAIチップを搭載したサーバーユニット30台を押収したと発表しました。貨物の輸送を仲介したマレーシア企業が取り調べを受けています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
