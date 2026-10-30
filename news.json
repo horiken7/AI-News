@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-30T08:44:39.217245+09:00",
-  "generatedLabel": "2026/10/30 08:44",
+  "generatedAt": "2026-10-30T12:29:23.123865+09:00",
+  "generatedLabel": "2026/10/30 12:29",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 53,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 16
     },
     {
       "source": "CNET Japan",
@@ -63,15 +63,37 @@
   ],
   "articles": [
     {
-      "title": "Googleが世界一高性能なAI「Gemini 4 Carbon」を発表、ついにOpenAIやAnthropicの最先端モデルを超える",
-      "link": "https://gigazine.net/news/20261029-gemini-4-carbon/",
-      "date": "2026-10-29T10:41:00+09:00",
-      "dateLabel": "10/29 10:41",
-      "desc": "GoogleがAIモデル「Gemini 4 Carbon」を日本時間の2026年10月29日に発表しました。複数のテストでOpenAIやAnthropicのフラッグシップモデルを超える性能を示しているほか、第三者機関の性能評価でも総合性能でトップに躍り出ています。 続きを読む...",
+      "title": "ChatGPT Pro 100／500プランの利用上限を「倍」に Pro 200プランの「半減」は撤回 経緯まとめ",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002738/",
+      "date": "2026-10-30T11:34:51+09:00",
+      "dateLabel": "10/30 11:34",
+      "desc": "OpenAIのプロダクト責任者ティボー・ソティオ氏（通称Tibo）は全てのProおよびBusiness Premiumプランの利用制限を倍にすると発表した。",
       "img": "",
-      "src": "GIGAZINE",
+      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 58
+      "score": 42
+    },
+    {
+      "title": "国産LLM「Sarashina」に初の「思考モデル」 ツール呼び出しやWeb検索性能が向上 APIで提供",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002743/",
+      "date": "2026-10-30T11:11:54+09:00",
+      "dateLabel": "10/30 11:11",
+      "desc": "ソフトバンク傘下のAI開発企業であるSB Intuitionsは、AIモデル「Sarashina3.2 mini thinking」を発表した。同社がフルスクラッチで開発する「Sarashina」シリーズ初の「思考モデル」（回答の精度を高めるため、出力に時間をかけるモデル）となる。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "OpenAI、AIの行動指針「Model Spec」を改定 “記憶”の使い方や人間による監督を明記",
+      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002735/",
+      "date": "2026-10-30T08:24:32+09:00",
+      "dateLabel": "10/30 08:24",
+      "desc": "OpenAIは、AIの振る舞い指針「Model Spec」の改定版を公開した。全体を5つの価値観に沿って再構成し、メモリや会話履歴の適切な扱い、エージェント自律動作時の人間による監督への服従などを規定。一方で人格設定や詳細な文体規定の大半を削除し、モデル呼称を「the assistant」から「GPT」に改めた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 42
     },
     {
       "title": "AnthropicがAIの訓練のために海賊版書籍を使用していた中にスタンフォード大学教授の書籍も含まれていたと主張して教授らは和解から離脱し訴訟を提起",
@@ -140,25 +162,69 @@
       "score": 42
     },
     {
-      "title": "エアコンなどの脱炭素化を加速、新冷媒向けヒートポンプ設計を支援する流体シミュレーションAIの実証開発へ",
-      "link": "https://ascii.jp/elem/000/004/446/4446065/?rss",
-      "date": "2026-10-30T07:00:00+09:00",
-      "dateLabel": "10/30 07:00",
-      "desc": "シミュレーションや対話AI技術の開発・社会実装を手掛けるディープテック企業の株式会社MQueは10月21日、流体シミュレーションとAI技術を組み合わせた「ヒートポンプ熱交換器設計開発プラットフォーム」の実用化開発を進めると発表した。",
-      "img": "https://ascii.jp/img/2026/10/27/4544140/s/15d5174de4f3647a.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
+      "title": "アメリカ当局がNVIDIAのフアンCEOと親しいデータセンター企業幹部を中国のスパイだと断定",
+      "link": "https://gigazine.net/news/20261030-jensen-huang-targeted-chinese-spy/",
+      "date": "2026-10-30T11:12:00+09:00",
+      "dateLabel": "10/30 11:12",
+      "desc": "「NVIDIA製のAIチップを中国に横流ししている」という疑いのあるシンガポールの企業の幹部が、中国のスパイであり、中国政府に情報を流していたとアメリカの諜報機関が結論付けていたことがわかりました。この人物はNVIDIAのジェンスン・フアンCEOと親しく、フアンCEOがスパイの標的になっていた可能性が大きいとみられます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
-      "title": "「未来」の現在：夢の動物語翻訳機はLLMでついに実現するか？",
-      "link": "https://ascii.jp/elem/000/004/447/4447086/?rss",
-      "date": "2026-10-30T06:41:18+09:00",
-      "dateLabel": "10/30 06:41",
-      "desc": "動物の言葉が分かる翻訳機は、多くの人が夢見てきた技術だ。AIの進歩で鳴き声の検出や個体の識別は進み、研究者は大規模言語モデル（LLM）による翻訳にも期待を寄せる。進捗度は10段階で4。データは膨大に集まったが、解読の方法はまだ模索の段階にある。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
+      "title": "GPT-6.1 Terraと同等のコーディング性能を発揮するAIモデル「Mistral Large 4」が無償公開される",
+      "link": "https://gigazine.net/news/20261030-mistral-large-4-open/",
+      "date": "2026-10-30T10:48:00+09:00",
+      "dateLabel": "10/30 10:48",
+      "desc": "フランスに拠点を置くAI企業のMistralが大規模AIモデル「Mistral Large 4」をオープンモデルとして無償公開しました。コーディング性能ではGPT-6.1 Terraと同等性能という評価もあります。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "AIが勝手に隔離環境を脱出した事件を受けてOpenAIが「AIを別のAIで監視する仕組み」を公開",
+      "link": "https://gigazine.net/news/20261030-openai-detect-frontier-model-misalignment/",
+      "date": "2026-10-30T10:30:00+09:00",
+      "dateLabel": "10/30 10:30",
+      "desc": "OpenAIは2026年10月29日、AIが指示に反する行動を取っていないかを別のAIで監視するシステムの詳細を公開しました。開発中のAIが隔離環境を脱出して外部サービスに不正アクセスした事件を受け、監視対象を拡大するとともに不審な行動を段階的に調査する仕組みを導入したとのことです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "LINEに写真を送るだけ！AIが確定申告をサポートする「アイドル確定申告」を提供開始",
+      "link": "https://ascii.jp/elem/000/004/447/4447156/?rss",
+      "date": "2026-10-30T10:28:53+09:00",
+      "dateLabel": "10/30 10:28",
+      "desc": "LINEに写真を送るだけ！AIが確定申告をサポートする「アイドル確定申告」を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "映画監督も絶賛する作業効率。MSI、クリエイター向け最新AIステーション＆34インチQD-OLEDモニターを発表",
+      "link": "https://ascii.jp/elem/000/004/447/4447029/?rss",
+      "date": "2026-10-30T10:15:00+09:00",
+      "dateLabel": "10/30 10:15",
+      "desc": "エムエスアイコンピュータージャパン（MSI）は10月28日、新製品発表会を開催した。本発表会では、急速に拡大するローカルAI需要とプロのクリエイティブワークに応える最新ハードウェアがお披露目された。",
+      "img": "https://ascii.jp/img/2026/10/29/4545836/s/fe76f18914d2d9b1.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "【無料公開】好評『フィジカルAI解体新書』の続編 SUGENA特別レポート「フィジカルAIから読む 中国の次の一手」",
+      "link": "https://ascii.jp/elem/000/004/447/4447158/?rss",
+      "date": "2026-10-30T10:10:37+09:00",
+      "dateLabel": "10/30 10:10",
+      "desc": "【無料公開】好評『フィジカルAI解体新書』の続編 SUGENA特別レポート「フィジカルAIから読む 中国の次の一手」",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 34
     },
     {
@@ -206,17 +272,6 @@
       "score": 34
     },
     {
-      "title": "AIが人間に“闇バイト”を発注？ AIが物理的労働を買う求人サイト「RentAHuman」の実態",
-      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002679/",
-      "date": "2026-10-29T12:00:00+09:00",
-      "dateLabel": "10/29 12:00",
-      "desc": "独立研究者のPulak MehtaさんとAryan Deshkumarさんが発表した論文「Security Risks of AI Agents Hiring Humans: An Empirical Marketplace Study」は、2026年2月に開設した、AIエージェントが人間を雇うことを目的に設計された人材雇用マーケットプレース「RentAHu",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "AWSとGoogle Cloudが「PyTorch」のAWS Trainium、Google Cloud TPU対応版をオープンソースで公開。NVIDIAからの移行に挑む",
       "link": "https://www.publickey1.jp/blog/26/awsgoogle_cloudpytorchaws_trainiumgoogle_cloud_tpunvidia.html",
       "date": "2026-10-27T00:59:52+09:00",
@@ -226,61 +281,6 @@
       "src": "Publickey",
       "cat": "半導体/GPU",
       "score": 28
-    },
-    {
-      "title": "MSI「MEG X」登場、5層タンデムOLEDで黒と文字の見やすさを追求",
-      "link": "https://ascii.jp/elem/000/004/447/4447088/?rss",
-      "date": "2026-10-30T08:30:00+09:00",
-      "dateLabel": "10/30 08:30",
-      "desc": "MSIのQD-OLEDゲーミングモニター「MEG X」が11月下旬以降に発売。応答速度0.03ms、5層タンデムOLED、内蔵AIによるゲーム支援が特徴。文字の色にじみを抑える構造や焼き付き防止機能も搭載し、予想価格は30万2500円前後。",
-      "img": "https://ascii.jp/img/2026/10/30/4545949/s/384e86f363aa15a1.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "GoogleがAIに「睡眠フェーズ」を導入する研究成果を発表、AIモデルの完成後も新しい知識を継続的に習得させられる仕組み",
-      "link": "https://gigazine.net/news/20261030-ai-sleep-knowledge/",
-      "date": "2026-10-30T08:00:00+09:00",
-      "dateLabel": "10/30 08:00",
-      "desc": "AIモデルは基本的に学習完了時までの知識しか備えておらず、学習完了後の知識はウェブ検索機能などで補うことになります。新たに、GoogleがAIに「睡眠フェーズ」を導入して継続的な知識習得を可能にする研究成果を発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "物理ソルバーからMODSIM、AIへ SIMULIAが描く次世代の設計／シミュレーション",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/30/news004.html",
-      "date": "2026-10-30T07:00:00+09:00",
-      "dateLabel": "10/30 07:00",
-      "desc": "ダッソー・システムズは「SIMULIA Community Conference Japan 2026」を開催した。基調講演では、SIMULIAブランドの戦略を支える物理ソルバー、MODSIM、AIの3層構造を紹介。エンジニアと協働するAI「バーチャルコンパニオン」や生成型設計、NVIDIAとの協業などを通じて、設計／シミュレーションの将来像を示した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "Samsungから初のオープンイヤー型イヤホン「Galaxy Buds On」が登場、AIで1億1900万件超の耳データを分析してあらゆる形状の耳に対応できるようデザインされたイヤホン",
-      "link": "https://gigazine.net/news/20261029-samsung-galaxy-buds-on/",
-      "date": "2026-10-29T15:49:00+09:00",
-      "dateLabel": "10/29 15:49",
-      "desc": "現地時間の2026年10月28日、Samsungがクリアな音声と直感的なAI体験を実現するオープンイヤー型イヤホン「Galaxy Buds On」のアメリカでの発売が発表されました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "約19億円相当のAIチップがマレーシアの空港で押収される",
-      "link": "https://gigazine.net/news/20261029-malaysia-airport-ai-chip/",
-      "date": "2026-10-29T13:40:00+09:00",
-      "dateLabel": "10/29 13:40",
-      "desc": "マレーシア税関当局が、高度なAIチップを搭載したサーバーユニット30台を押収したと発表しました。貨物の輸送を仲介したマレーシア企業が取り調べを受けています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
     }
   ]
 }
