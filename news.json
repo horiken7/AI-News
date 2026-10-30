@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-30T12:29:23.123865+09:00",
-  "generatedLabel": "2026/10/30 12:29",
+  "generatedAt": "2026-10-30T19:33:15.920786+09:00",
+  "generatedLabel": "2026/10/30 19:33",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 58,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,7 +13,7 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 19
+      "items": 18
     },
     {
       "source": "ASCII.jp",
@@ -63,6 +63,28 @@
   ],
   "articles": [
     {
+      "title": "AIの回答で登場する統計データの40％が裏付ける研究結果などがない「ゾンビ統計」であることが明らかに",
+      "link": "https://gigazine.net/news/20261030-ai-assistants-statistics-not-find-study/",
+      "date": "2026-10-30T16:19:00+09:00",
+      "dateLabel": "10/30 16:19",
+      "desc": "ChatGPT、Perplexity、Gemini、Claude、Google検索のAIによる概要という5つのAIアシスタントが出力した統計情報1285件を追跡調査したところ、そのほとんどが研究による裏付けのないものだったとAI可視化プラットフォームのTrakkrが報告しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "AIを50体集めてマインクラフトで文明を作らせたら食糧難に陥って配給制度が実施される",
+      "link": "https://gigazine.net/news/20261030-minecraft-gpt-sol/",
+      "date": "2026-10-30T15:00:00+09:00",
+      "dateLabel": "10/30 15:00",
+      "desc": "AIスタートアップ企業のOlam LabsとベンチャーキャピタルのY Combinatorが共同で、ゲーム「マインクラフト」を50体のGPT-6.1 Solにプレイさせるという実験を行い、その結果を公開しました。また「OpenAIのAI対AnthropicのAIでミニゲームのベッドウォーズをする」という試みも行っています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "ChatGPT Pro 100／500プランの利用上限を「倍」に Pro 200プランの「半減」は撤回 経緯まとめ",
       "link": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002738/",
       "date": "2026-10-30T11:34:51+09:00",
@@ -96,61 +118,6 @@
       "score": 42
     },
     {
-      "title": "AnthropicがAIの訓練のために海賊版書籍を使用していた中にスタンフォード大学教授の書籍も含まれていたと主張して教授らは和解から離脱し訴訟を提起",
-      "link": "https://gigazine.net/news/20261029-anthropic-stanford-professors/",
-      "date": "2026-10-29T19:22:00+09:00",
-      "dateLabel": "10/29 19:22",
-      "desc": "AI大手のAnthropicが自社モデルのClaudeをトレーニングするため、10人以上のスタンフォード大学教授の研究成果を違法に盗用したとして、スタンフォード大学教授らから訴訟を起こされています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 42
-    },
-    {
-      "title": "ChatGPTのPro・Businessプランで「API利用」可能に 月最大500ドル分",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002728/",
-      "date": "2026-10-29T17:46:39+09:00",
-      "dateLabel": "10/29 17:46",
-      "desc": "米OpenAIは「ChatGPT」のProおよびBusinessプランに、同社のAPIを利用できる特典を追加すると発表した。月最大500ドル分（約7万9000円、1ドル158円換算）の利用枠を付与する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "コイントスで決めたAIの意見に専門家が86％の割合で同調してしまうことが判明",
-      "link": "https://gigazine.net/news/20261029-anthropic-agents-judgment-calls/",
-      "date": "2026-10-29T15:00:00+09:00",
-      "dateLabel": "10/29 15:00",
-      "desc": "AIを使って仕事をする専門家は自分で判断しているつもりでもAIの意見に大きく影響されている可能性があるという研究結果をClaudeシリーズなどのAIを展開しているAnthropicが発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "AIベンチマーク「Intelligence Index v5」発表、2つの新しいベンチマークと3つのアップグレード",
-      "link": "https://gigazine.net/news/20261029-intelligence-index-v5/",
-      "date": "2026-10-29T14:14:00+09:00",
-      "dateLabel": "10/29 14:14",
-      "desc": "Artificial AnalysisはAIモデルの性能評価を行っている独立機関で、複数のベンチマーク結果をもとにAIの総合性能を算出する「Artificial Analysis Intelligence Index」は新規モデルの性能を把握するための指標として広く用いられています。そんなArtificial Analysis Intelligence In",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 42
-    },
-    {
-      "title": "Google、「Gemini 4 Carbon」発表 「Argon」公開から2週間、サイバー防御能力などを強化",
-      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002690/",
-      "date": "2026-10-29T07:13:47+09:00",
-      "dateLabel": "10/29 07:13",
-      "desc": "Googleは、フロンティアAIモデル「Gemini 4 Carbon」を発表した。サイバーセキュリティや長時間に及ぶ自律作業能力を強化し、ベンチマーク首位を獲得。ハルシネーションや不正操作への耐性も向上させた。まず一部のサイバー防御組織に限定提供し、順次公開範囲を広げる方針だ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "JavaScriptランタイムの「Bun」がPrettier互換で300倍以上高速なフォーマッタに。Prettier設定ファイルもそのまま利用可能",
       "link": "https://www.publickey1.jp/blog/26/javascriptbunprettier300prettier.html",
       "date": "2026-10-28T00:27:52+09:00",
@@ -160,6 +127,83 @@
       "src": "Publickey",
       "cat": "LLM/モデル",
       "score": 42
+    },
+    {
+      "title": "『グラブル リリンク ER』のビィが「スマホ安心大使」に就任！Cygamesと大阪府警察がニセ警察詐欺の被害防止を呼びかける啓発品を共同制作",
+      "link": "https://ascii.jp/elem/000/004/447/4447463/?rss",
+      "date": "2026-10-30T19:10:00+09:00",
+      "dateLabel": "10/30 19:10",
+      "desc": "Cygamesは、大阪府警察と共同で、アクションRPG『GRANBLUE FANTASY: Relink - Endless Ragnarok』を用いた、ニセ警察による詐欺被害防止の啓発品を制作したと2026年10月30日に発表。",
+      "img": "https://ascii.jp/img/2026/10/30/4546316/s/21b9452fe49df08a.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "複数ツールに分散した採用業務を一つに。Zoth Consulting、応募から面接着座までを最速化する採用AI「ゾスAI」を提供開始",
+      "link": "https://ascii.jp/elem/000/004/447/4447454/?rss",
+      "date": "2026-10-30T18:43:31+09:00",
+      "dateLabel": "10/30 18:43",
+      "desc": "複数ツールに分散した採用業務を一つに。Zoth Consulting、応募から面接着座までを最速化する採用AI「ゾスAI」を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "1台のゲーミングPCでどこでも遊ぶ！「Steam Link」「Moonlight」で始めるリモートゲーミング入門",
+      "link": "https://ascii.jp/elem/000/004/445/4445103/?rss",
+      "date": "2026-10-30T18:00:00+09:00",
+      "dateLabel": "10/30 18:00",
+      "desc": "半導体高騰のためゲーミングPCを新調するのも、なかなか厳しい状況になっている。そんな時こそ注目したいのが、クラウドゲーミングとリモートゲーミングだ。",
+      "img": "https://ascii.jp/img/2026/10/22/4542164/s/4f23b01bbf09ee26.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "“でぶねこ”の重み公開 1兆パラメータのAIモデル「Mistral Large 4」（Le Chonk）がダウンロード可能に",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002762/",
+      "date": "2026-10-30T17:46:58+09:00",
+      "dateLabel": "10/30 17:46",
+      "desc": "AI開発企業の仏Mistral AIは、AIモデル「Mistral Large 4」（通称Le Chonk）の重みをHugging Faceで公開した。コーディングやサイバーセキュリティ分野で高い性能を示すという。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "Aokumo、サイバー攻撃の連鎖を可視化する無料ツール「SaibaRadar」を公開 ― Aokumo AIで自社環境のリスク分析から対応まで支援",
+      "link": "https://ascii.jp/elem/000/004/447/4447417/?rss",
+      "date": "2026-10-30T17:35:13+09:00",
+      "dateLabel": "10/30 17:35",
+      "desc": "Aokumo、サイバー攻撃の連鎖を可視化する無料ツール「SaibaRadar」を公開 ― Aokumo AIで自社環境のリスク分析から対応まで支援",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "Gemini Notebook、無料で数百冊の教科書にアクセス可能に 米国・インドの出版社提供 日本でも利用可",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002760/",
+      "date": "2026-10-30T17:17:55+09:00",
+      "dateLabel": "10/30 17:17",
+      "desc": "Googleは、米国とインドのプロバイダーが提供する数百冊の教科書に「Gemini Notebook」内で無料でアクセスできるようになったと発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "なぜ「半導体の供給はデータセンター優先」に見えるのか AIブームの実像、東京エレクトロン デバイス幹部が明かす",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/30/news064.html",
+      "date": "2026-10-30T12:00:00+09:00",
+      "dateLabel": "10/30 12:00",
+      "desc": "AIブームの中、半導体の供給不足が叫ばれている。「データセンターに優先的に供給されている」という見方もあるが、東京エレクトロン デバイス幹部はそれを否定する。AIブームの実像とは。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 34
     },
     {
       "title": "アメリカ当局がNVIDIAのフアンCEOと親しいデータセンター企業幹部を中国のスパイだと断定",
@@ -195,39 +239,6 @@
       "score": 34
     },
     {
-      "title": "LINEに写真を送るだけ！AIが確定申告をサポートする「アイドル確定申告」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/447/4447156/?rss",
-      "date": "2026-10-30T10:28:53+09:00",
-      "dateLabel": "10/30 10:28",
-      "desc": "LINEに写真を送るだけ！AIが確定申告をサポートする「アイドル確定申告」を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "映画監督も絶賛する作業効率。MSI、クリエイター向け最新AIステーション＆34インチQD-OLEDモニターを発表",
-      "link": "https://ascii.jp/elem/000/004/447/4447029/?rss",
-      "date": "2026-10-30T10:15:00+09:00",
-      "dateLabel": "10/30 10:15",
-      "desc": "エムエスアイコンピュータージャパン（MSI）は10月28日、新製品発表会を開催した。本発表会では、急速に拡大するローカルAI需要とプロのクリエイティブワークに応える最新ハードウェアがお披露目された。",
-      "img": "https://ascii.jp/img/2026/10/29/4545836/s/fe76f18914d2d9b1.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "【無料公開】好評『フィジカルAI解体新書』の続編 SUGENA特別レポート「フィジカルAIから読む 中国の次の一手」",
-      "link": "https://ascii.jp/elem/000/004/447/4447158/?rss",
-      "date": "2026-10-30T10:10:37+09:00",
-      "dateLabel": "10/30 10:10",
-      "desc": "【無料公開】好評『フィジカルAI解体新書』の続編 SUGENA特別レポート「フィジカルAIから読む 中国の次の一手」",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "Windowsの高性能PCで動くローカルAIをブラウザからみんなで利用できる環境を「Ollama＋Open WebUI」で構築してみた",
       "link": "https://gigazine.net/news/20261029-ollama-open-webui-local-ai/",
       "date": "2026-10-29T23:00:00+09:00",
@@ -239,36 +250,25 @@
       "score": 34
     },
     {
-      "title": "スマホで動作する小型高性能なAIモデル群「LFM3」が登場、言語モデル・視覚言語モデル・音声モデル・オムニモデル・意思決定モデルを含む次世代モデル",
-      "link": "https://gigazine.net/news/20261029-liquid-ai-lfm3/",
-      "date": "2026-10-29T17:00:00+09:00",
-      "dateLabel": "10/29 17:00",
-      "desc": "AI企業のLiquid AIが小型AIモデル群「LFM3」を公開しました。スマートフォンやノートPCなどでも動作可能な小型モデルでありながら高い性能を備えており、いずれのモデルもオープンモデルとして公開されています。 続きを読む...",
+      "title": "AnthropicがAIの訓練のために海賊版書籍を使用していた中にスタンフォード大学教授の書籍も含まれていたと主張して教授らは和解から離脱し訴訟を提起",
+      "link": "https://gigazine.net/news/20261029-anthropic-stanford-professors/",
+      "date": "2026-10-29T19:22:00+09:00",
+      "dateLabel": "10/29 19:22",
+      "desc": "AI大手のAnthropicが自社モデルのClaudeをトレーニングするため、10人以上のスタンフォード大学教授の研究成果を違法に盗用したとして、スタンフォード大学教授らから訴訟を起こされています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AI全般",
+      "cat": "規制/安全",
       "score": 34
     },
     {
-      "title": "今、最も使われているプログラミング言語は？ AIコーディングでPython超えて急成長",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002719/",
-      "date": "2026-10-29T16:16:51+09:00",
-      "dateLabel": "10/29 16:16",
-      "desc": "Githubは年次レポート「GitHub Octoverse 2026」を公開。開発者が多いプログラミング言語のランキングが発表された。",
+      "title": "ChatGPTのPro・Businessプランで「API利用」可能に 月最大500ドル分",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002728/",
+      "date": "2026-10-29T17:46:39+09:00",
+      "dateLabel": "10/29 17:46",
+      "desc": "米OpenAIは「ChatGPT」のProおよびBusinessプランに、同社のAPIを利用できる特典を追加すると発表した。月最大500ドル分（約7万9000円、1ドル158円換算）の利用枠を付与する。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "NVIDIAが文字起こしAI「Nemotron 3.5 Transcribe」を公開、大勢が同時に話す場面でも高精度な話者識別が可能",
-      "link": "https://gigazine.net/news/20261029-nvidia-nemotron-3-5-transcribe/",
-      "date": "2026-10-29T13:13:00+09:00",
-      "dateLabel": "10/29 13:13",
-      "desc": "NVIDIAが文字起こしAI「Nemotron 3.5 Transcribe」を現地時間の2026年10月28日に公開しました。複数の話者を識別しながら高精度な文字起こしが可能です。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
