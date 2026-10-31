@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-31T16:43:15.909421+09:00",
-  "generatedLabel": "2026/10/31 16:43",
+  "generatedAt": "2026-10-31T23:01:13.877110+09:00",
+  "generatedLabel": "2026/10/31 23:01",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 62,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 17
+      "items": 16
     },
     {
       "source": "CNET Japan",
@@ -63,11 +63,11 @@
   ],
   "articles": [
     {
-      "title": "日本初※、ChatGPT広告・SEO・LLMOを1社で。SEO・LLMOを今の見積書の半額で引き受ける「GPT広告専門店 AI検索フルサポート」を開始（株式会社Ikigai）",
-      "link": "https://ascii.jp/elem/000/004/447/4447531/?rss",
-      "date": "2026-10-31T13:41:00+09:00",
-      "dateLabel": "10/31 13:41",
-      "desc": "日本初※、ChatGPT広告・SEO・LLMOを1社で。SEO・LLMOを今の見積書の半額で引き受ける「GPT広告専門店 AI検索フルサポート」を開始（株式会社Ikigai）",
+      "title": "Uravation、「部門別 ChatGPT 業務プロンプト集 50」を無料公開。10部門の50本を「役割・材料・形式・制約・確かめ方」の5つの型でそろえ、絞り込めるExcelを同梱しました",
+      "link": "https://ascii.jp/elem/000/004/447/4447541/?rss",
+      "date": "2026-10-31T16:00:00+09:00",
+      "dateLabel": "10/31 16:00",
+      "desc": "Uravation、「部門別 ChatGPT 業務プロンプト集 50」を無料公開。10部門の50本を「役割・材料・形式・制約・確かめ方」の5つの型でそろえ、絞り込めるExcelを同梱しました",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "LLM/モデル",
@@ -103,50 +103,6 @@
       "desc": "【日経225構成銘柄の公式サイトを調査】llms.txtの設置は9社（5.0%）、robots.txtでAIクローラーを名指ししているのは9社（4.9%）。AI検索用のボットを全面拒否した社は0社",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "【12/9 東広島開催】広島の経営者様向け「Claude Codeセミナー」を東広島商工会議所後援にて開催へ",
-      "link": "https://ascii.jp/elem/000/004/447/4447517/?rss",
-      "date": "2026-10-31T13:03:40+09:00",
-      "dateLabel": "10/31 13:03",
-      "desc": "【12/9 東広島開催】広島の経営者様向け「Claude Codeセミナー」を東広島商工会議所後援にて開催へ",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "AIや内製で作ったLP・サイト・UI/UXをプロがレビュー 「Design Loupe（デザインルーペ）」提供開始",
-      "link": "https://ascii.jp/elem/000/004/447/4447499/?rss",
-      "date": "2026-10-31T10:10:00+09:00",
-      "dateLabel": "10/31 10:10",
-      "desc": "AIや内製で作ったLP・サイト・UI/UXをプロがレビュー 「Design Loupe（デザインルーペ）」提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "“でぶねこ”の重み公開 1兆パラメータのAIモデル「Mistral Large 4」（Le Chonk）がダウンロード可能に",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002762/",
-      "date": "2026-10-30T17:46:58+09:00",
-      "dateLabel": "10/30 17:46",
-      "desc": "AI開発企業の仏Mistral AIは、AIモデル「Mistral Large 4」（通称Le Chonk）の重みをHugging Faceで公開した。コーディングやサイバーセキュリティ分野で高い性能を示すという。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Gemini Notebook、無料で数百冊の教科書にアクセス可能に 米国・インドの出版社提供 日本でも利用可",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002760/",
-      "date": "2026-10-30T17:17:55+09:00",
-      "dateLabel": "10/30 17:17",
-      "desc": "Googleは、米国とインドのプロバイダーが提供する数百冊の教科書に「Gemini Notebook」内で無料でアクセスできるようになったと発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
     },
@@ -228,45 +184,23 @@
       "score": 28
     },
     {
+      "title": "【AOSU】AIが「監視」から「行動理解」へ。 固定カメラと追尾カメラを1台に搭載した2in1ソーラー防犯カメラ「AOSU C9P21」を発売",
+      "link": "https://ascii.jp/elem/000/004/447/4447544/?rss",
+      "date": "2026-10-31T16:34:01+09:00",
+      "dateLabel": "10/31 16:34",
+      "desc": "【AOSU】AIが「監視」から「行動理解」へ。 固定カメラと追尾カメラを1台に搭載した2in1ソーラー防犯カメラ「AOSU C9P21」を発売",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "レンズを遠近両用にした「Rokid Ai Glasses Style」を衝動買い",
       "link": "https://ascii.jp/elem/000/004/447/4447525/?rss",
       "date": "2026-10-31T15:00:00+09:00",
       "dateLabel": "10/31 15:00",
       "desc": "筆者お気に入りのAIグラス「Rokid スマートAIグラス」。レンズ内ディスプレイを搭載しないモデルも搭載したので衝動買いした。また、老眼の筆者の場合、スマホとの共存には遠近両用レンズが必要となる。2機種とも遠近両用化したのでそのことも紹介する。",
       "img": "https://ascii.jp/img/2026/10/31/4546413/s/aa2158f4f09b5767.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "Galaxy Z Fold8はどんな人に向いているのか？ 買ってから後悔しないために知っておきたい最適解",
-      "link": "https://ascii.jp/elem/000/004/446/4446674/?rss",
-      "date": "2026-10-31T12:00:00+09:00",
-      "dateLabel": "10/31 12:00",
-      "desc": "「Galaxy Z Fold8」は、電子書籍や動画が見やすい4:3のメイン画面とパスポートサイズの持ちやすさが魅力です。上位機Ultraと同じ最高峰のチップやGalaxy AIを搭載する一方、カメラは2眼でフレックスモードには非対応。コンテンツ閲覧を重視する人におすすめのモデルです。",
-      "img": "https://ascii.jp/img/2026/10/28/4545402/s/56d0d31275ba473d.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "【約12万件の判定データ調査・続報】無料「AIチェッカー」の判定は10月に1日平均1,657件と8月を上回る。就活ESは8月の1.4倍、ビジネス文書は2.2倍に",
-      "link": "https://ascii.jp/elem/000/004/447/4447497/?rss",
-      "date": "2026-10-31T11:00:00+09:00",
-      "dateLabel": "10/31 11:00",
-      "desc": "【約12万件の判定データ調査・続報】無料「AIチェッカー」の判定は10月に1日平均1,657件と8月を上回る。就活ESは8月の1.4倍、ビジネス文書は2.2倍に",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "【11月1日開始】専用アプリ＋人の家庭教師で、社長のAIキャッチアップを。モニター価格 月5万円（税別）「社長のためのAI家庭教師」",
-      "link": "https://ascii.jp/elem/000/004/447/4447496/?rss",
-      "date": "2026-10-31T11:00:00+09:00",
-      "dateLabel": "10/31 11:00",
-      "desc": "【11月1日開始】専用アプリ＋人の家庭教師で、社長のAIキャッチアップを。モニター価格 月5万円（税別）「社長のためのAI家庭教師」",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
@@ -280,6 +214,72 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "GMOがサイバー攻撃情報に異例の1.5億円懸賞金、AI時代の新防衛策となるのか",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/31/news013.html",
+      "date": "2026-10-31T07:00:00+09:00",
+      "dateLabel": "10/31 07:00",
+      "desc": "2026年10月26～30日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "AIエージェントは「実運用」が主流に 「明確な成果」を得る企業の共通点は？",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news008.html",
+      "date": "2026-10-31T07:00:00+09:00",
+      "dateLabel": "10/31 07:00",
+      "desc": "生成AIの活用は「試す」段階から「使い広げる」段階へ移り、AIエージェントも実運用が主流になった。一方で、企業規模による差は広がっている。INDUSTRIAL-Xの調査が示す、成果を分ける“技術以外の要因”とは。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "Waymoが日本で自動運転タクシーにトヨタbZ4Xを採用し2027年に運行開始すると発表",
+      "link": "https://gigazine.net/news/20261031-toyota-waymo-bz4x-robotaxi-2027/",
+      "date": "2026-10-31T07:00:00+09:00",
+      "dateLabel": "10/31 07:00",
+      "desc": "Google発の自動運転企業であるWaymoが、電気自動車の「bZ4X」を日本での自動運転タクシー(ロボタクシー)に採用し、初期運行を2027年に日本で開始することを発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
+      "title": "“でぶねこ”の重み公開 1兆パラメータのAIモデル「Mistral Large 4」（Le Chonk）がダウンロード可能に",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002762/",
+      "date": "2026-10-30T17:46:58+09:00",
+      "dateLabel": "10/30 17:46",
+      "desc": "AI開発企業の仏Mistral AIは、AIモデル「Mistral Large 4」（通称Le Chonk）の重みをHugging Faceで公開した。コーディングやサイバーセキュリティ分野で高い性能を示すという。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "Gemini Notebook、無料で数百冊の教科書にアクセス可能に 米国・インドの出版社提供 日本でも利用可",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002760/",
+      "date": "2026-10-30T17:17:55+09:00",
+      "dateLabel": "10/30 17:17",
+      "desc": "Googleは、米国とインドのプロバイダーが提供する数百冊の教科書に「Gemini Notebook」内で無料でアクセスできるようになったと発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "なぜ「半導体の供給はデータセンター優先」に見えるのか AIブームの実像、東京エレクトロン デバイス幹部が明かす",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/30/news064.html",
+      "date": "2026-10-30T12:00:00+09:00",
+      "dateLabel": "10/30 12:00",
+      "desc": "AIブームの中、半導体の供給不足が叫ばれている。「データセンターに優先的に供給されている」という見方もあるが、東京エレクトロン デバイス幹部はそれを否定する。AIブームの実像とは。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
       "score": 26
     }
   ]
