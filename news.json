@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-31T23:01:13.877110+09:00",
-  "generatedLabel": "2026/10/31 23:01",
+  "generatedAt": "2026-11-01T03:54:41.360314+09:00",
+  "generatedLabel": "2026/11/01 03:54",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 57,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -94,17 +94,6 @@
       "src": "Publickey",
       "cat": "LLM/モデル",
       "score": 36
-    },
-    {
-      "title": "【日経225構成銘柄の公式サイトを調査】llms.txtの設置は9社（5.0%）、robots.txtでAIクローラーを名指ししているのは9社（4.9%）。AI検索用のボットを全面拒否した社は0社",
-      "link": "https://ascii.jp/elem/000/004/447/4447529/?rss",
-      "date": "2026-10-31T14:00:00+09:00",
-      "dateLabel": "10/31 14:00",
-      "desc": "【日経225構成銘柄の公式サイトを調査】llms.txtの設置は9社（5.0%）、robots.txtでAIクローラーを名指ししているのは9社（4.9%）。AI検索用のボットを全面拒否した社は0社",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
     },
     {
       "title": "AIの回答で登場する統計データの40％が裏付ける研究結果などがない「ゾンビ統計」であることが明らかに",
@@ -279,6 +268,17 @@
       "desc": "AIブームの中、半導体の供給不足が叫ばれている。「データセンターに優先的に供給されている」という見方もあるが、東京エレクトロン デバイス幹部はそれを否定する。AIブームの実像とは。",
       "img": "",
       "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "アメリカ当局がNVIDIAのフアンCEOと親しいデータセンター企業幹部を中国のスパイだと断定",
+      "link": "https://gigazine.net/news/20261030-jensen-huang-targeted-chinese-spy/",
+      "date": "2026-10-30T11:12:00+09:00",
+      "dateLabel": "10/30 11:12",
+      "desc": "「NVIDIA製のAIチップを中国に横流ししている」という疑いのあるシンガポールの企業の幹部が、中国のスパイであり、中国政府に情報を流していたとアメリカの諜報機関が結論付けていたことがわかりました。この人物はNVIDIAのジェンスン・フアンCEOと親しく、フアンCEOがスパイの標的になっていた可能性が大きいとみられます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "半導体/GPU",
       "score": 26
     }
