@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T06:13:53.805316+09:00",
-  "generatedLabel": "2026/10/31 06:13",
+  "generatedAt": "2026-10-31T10:13:14.731062+09:00",
+  "generatedLabel": "2026/10/31 10:13",
   "feedOk": 6,
   "feedNg": 5,
   "candidates": 59,
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 18
+      "items": 19
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -62,6 +62,28 @@
     }
   ],
   "articles": [
+    {
+      "title": "AIの「費用対効果が分からない」問題、解決へ？ Claude Enterprise搭載の「3つの新機能」",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news009.html",
+      "date": "2026-10-31T09:00:00+09:00",
+      "dateLabel": "10/31 09:00",
+      "desc": "AI導入が進む中で、IT部門は費用対効果を厳しく問われる局面に入っている。Anthropicが企業向けプラン「Claude Enterprise」に追加した新機能は、その説明材料になるか。利用状況の可視化から予算の配分まで、3つの機能の中身とは。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "LeapAI、動画生成AI「Seedance」のBytePlusと共催で無料ウェビナー「AI動画は広告に使える？著作権・肖像権の考え方と、日本語・リップシンクの品質」を11月5日にオンライン開催",
+      "link": "https://ascii.jp/elem/000/004/447/4447480/?rss",
+      "date": "2026-10-30T19:18:33+09:00",
+      "dateLabel": "10/30 19:18",
+      "desc": "LeapAI、動画生成AI「Seedance」のBytePlusと共催で無料ウェビナー「AI動画は広告に使える？著作権・肖像権の考え方と、日本語・リップシンクの品質」を11月5日にオンライン開催",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "規制/安全",
+      "score": 42
+    },
     {
       "title": "AIの回答で登場する統計データの40％が裏付ける研究結果などがない「ゾンビ統計」であることが明らかに",
       "link": "https://gigazine.net/news/20261030-ai-assistants-statistics-not-find-study/",
@@ -107,17 +129,6 @@
       "score": 42
     },
     {
-      "title": "OpenAI、AIの行動指針「Model Spec」を改定 “記憶”の使い方や人間による監督を明記",
-      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002735/",
-      "date": "2026-10-30T08:24:32+09:00",
-      "dateLabel": "10/30 08:24",
-      "desc": "OpenAIは、AIの振る舞い指針「Model Spec」の改定版を公開した。全体を5つの価値観に沿って再構成し、メモリや会話履歴の適切な扱い、エージェント自律動作時の人間による監督への服従などを規定。一方で人格設定や詳細な文体規定の大半を削除し、モデル呼称を「the assistant」から「GPT」に改めた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "JavaScriptランタイムの「Bun」がPrettier互換で300倍以上高速なフォーマッタに。Prettier設定ファイルもそのまま利用可能",
       "link": "https://www.publickey1.jp/blog/26/javascriptbunprettier300prettier.html",
       "date": "2026-10-28T00:27:52+09:00",
@@ -146,17 +157,6 @@
       "dateLabel": "10/30 19:10",
       "desc": "Cygamesは、大阪府警察と共同で、アクションRPG『GRANBLUE FANTASY: Relink - Endless Ragnarok』を用いた、ニセ警察による詐欺被害防止の啓発品を制作したと2026年10月30日に発表。",
       "img": "https://ascii.jp/img/2026/10/30/4546316/s/21b9452fe49df08a.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "複数ツールに分散した採用業務を一つに。Zoth Consulting、応募から面接着座までを最速化する採用AI「ゾスAI」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/447/4447454/?rss",
-      "date": "2026-10-30T18:43:31+09:00",
-      "dateLabel": "10/30 18:43",
-      "desc": "複数ツールに分散した採用業務を一つに。Zoth Consulting、応募から面接着座までを最速化する採用AI「ゾスAI」を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
@@ -228,6 +228,17 @@
       "score": 34
     },
     {
+      "title": "OpenAI、AIの行動指針「Model Spec」を改定 “記憶”の使い方や人間による監督を明記",
+      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002735/",
+      "date": "2026-10-30T08:24:32+09:00",
+      "dateLabel": "10/30 08:24",
+      "desc": "OpenAIは、AIの振る舞い指針「Model Spec」の改定版を公開した。全体を5つの価値観に沿って再構成し、メモリや会話履歴の適切な扱い、エージェント自律動作時の人間による監督への服従などを規定。一方で人格設定や詳細な文体規定の大半を削除し、モデル呼称を「the assistant」から「GPT」に改めた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
       "title": "ChatGPTのPro・Businessプランで「API利用」可能に 月最大500ドル分",
       "link": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002728/",
       "date": "2026-10-29T17:46:39+09:00",
@@ -250,33 +261,22 @@
       "score": 28
     },
     {
-      "title": "人間と区別できないほど自然に会話できる音声AI「Prism」が登場、発言内容を事前確認できる仕組みを搭載",
-      "link": "https://gigazine.net/news/20261030-prism/",
-      "date": "2026-10-30T22:00:00+09:00",
-      "dateLabel": "10/30 22:00",
-      "desc": "音声AIを開発するRimeが2026年10月28日に新たな音声会話AI「Prism」を発表しました。Prismは人間のように相手の話を聞きながら自然な会話ができるとされています。 続きを読む...",
+      "title": "AIに性格診断をやらせてみたところ言語を切り替えると結果が変わることが判明",
+      "link": "https://gigazine.net/news/20261031-ai-personality-profile-language-bias/",
+      "date": "2026-10-31T08:00:00+09:00",
+      "dateLabel": "10/31 08:00",
+      "desc": "一口にAIといってもその性能は千差万別です。中国科学技術大学の実験では、AIの「性格」もそれぞれバラバラであることが分かった一方で、この結果は回答に使う言語によって変わることも明らかになりました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "中身はハイエンド、姿はタブレット！ 64GBメモリー搭載のASUS「ROG Flow Z13」が5万円引き",
-      "link": "https://ascii.jp/elem/000/004/447/4447090/?rss",
-      "date": "2026-10-30T21:50:00+09:00",
-      "dateLabel": "10/30 21:50",
-      "desc": "ASUSの13.4型ゲーミングPC「ROG Flow Z13（GZ302EA-AI916C64G）」がAmazonのタイムセール対象。参考価格509,800円から10％オフの459,800円で販売中。Ryzen AI MAX+ 395と64GBメモリーを搭載し、キーボードを取り外せばタブレットとしても使える。ハイエンドな構成ながら、ノートPCにもタブレットに",
-      "img": "https://ascii.jp/img/2026/10/30/4545951/s/442b2d79dd367700.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "キオクシア中間決算「過去最高」連呼 純利益2.2兆円、初の配当実施 AI需要で「成長さらに加速」",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/30/news090.html",
-      "date": "2026-10-30T21:45:00+09:00",
-      "dateLabel": "10/30 21:45",
-      "desc": "キオクシアHDは、2027年3月期の中間決算を発表した。純利益は2.2兆円。第2四半期の3カ月だけで前年通期の売り上げを上回った。好決算を受けて上場後初となる配当を実施する。",
+      "title": "GMOがサイバー攻撃情報に異例の1.5億円懸賞金、AI時代の新防衛策となるのか",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/31/news013.html",
+      "date": "2026-10-31T07:00:00+09:00",
+      "dateLabel": "10/31 07:00",
+      "desc": "2026年10月26～30日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AI全般",
