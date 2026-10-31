@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-31T10:13:14.731062+09:00",
-  "generatedLabel": "2026/10/31 10:13",
+  "generatedAt": "2026-10-31T16:43:15.909421+09:00",
+  "generatedLabel": "2026/10/31 16:43",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 59,
+  "candidates": 62,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -63,66 +63,22 @@
   ],
   "articles": [
     {
+      "title": "日本初※、ChatGPT広告・SEO・LLMOを1社で。SEO・LLMOを今の見積書の半額で引き受ける「GPT広告専門店 AI検索フルサポート」を開始（株式会社Ikigai）",
+      "link": "https://ascii.jp/elem/000/004/447/4447531/?rss",
+      "date": "2026-10-31T13:41:00+09:00",
+      "dateLabel": "10/31 13:41",
+      "desc": "日本初※、ChatGPT広告・SEO・LLMOを1社で。SEO・LLMOを今の見積書の半額で引き受ける「GPT広告専門店 AI検索フルサポート」を開始（株式会社Ikigai）",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "AIの「費用対効果が分からない」問題、解決へ？ Claude Enterprise搭載の「3つの新機能」",
       "link": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news009.html",
       "date": "2026-10-31T09:00:00+09:00",
       "dateLabel": "10/31 09:00",
       "desc": "AI導入が進む中で、IT部門は費用対効果を厳しく問われる局面に入っている。Anthropicが企業向けプラン「Claude Enterprise」に追加した新機能は、その説明材料になるか。利用状況の可視化から予算の配分まで、3つの機能の中身とは。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "LeapAI、動画生成AI「Seedance」のBytePlusと共催で無料ウェビナー「AI動画は広告に使える？著作権・肖像権の考え方と、日本語・リップシンクの品質」を11月5日にオンライン開催",
-      "link": "https://ascii.jp/elem/000/004/447/4447480/?rss",
-      "date": "2026-10-30T19:18:33+09:00",
-      "dateLabel": "10/30 19:18",
-      "desc": "LeapAI、動画生成AI「Seedance」のBytePlusと共催で無料ウェビナー「AI動画は広告に使える？著作権・肖像権の考え方と、日本語・リップシンクの品質」を11月5日にオンライン開催",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "規制/安全",
-      "score": 42
-    },
-    {
-      "title": "AIの回答で登場する統計データの40％が裏付ける研究結果などがない「ゾンビ統計」であることが明らかに",
-      "link": "https://gigazine.net/news/20261030-ai-assistants-statistics-not-find-study/",
-      "date": "2026-10-30T16:19:00+09:00",
-      "dateLabel": "10/30 16:19",
-      "desc": "ChatGPT、Perplexity、Gemini、Claude、Google検索のAIによる概要という5つのAIアシスタントが出力した統計情報1285件を追跡調査したところ、そのほとんどが研究による裏付けのないものだったとAI可視化プラットフォームのTrakkrが報告しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "AIを50体集めてマインクラフトで文明を作らせたら食糧難に陥って配給制度が実施される",
-      "link": "https://gigazine.net/news/20261030-minecraft-gpt-sol/",
-      "date": "2026-10-30T15:00:00+09:00",
-      "dateLabel": "10/30 15:00",
-      "desc": "AIスタートアップ企業のOlam LabsとベンチャーキャピタルのY Combinatorが共同で、ゲーム「マインクラフト」を50体のGPT-6.1 Solにプレイさせるという実験を行い、その結果を公開しました。また「OpenAIのAI対AnthropicのAIでミニゲームのベッドウォーズをする」という試みも行っています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "ChatGPT Pro 100／500プランの利用上限を「倍」に Pro 200プランの「半減」は撤回 経緯まとめ",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002738/",
-      "date": "2026-10-30T11:34:51+09:00",
-      "dateLabel": "10/30 11:34",
-      "desc": "OpenAIのプロダクト責任者ティボー・ソティオ氏（通称Tibo）は全てのProおよびBusiness Premiumプランの利用制限を倍にすると発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "国産LLM「Sarashina」に初の「思考モデル」 ツール呼び出しやWeb検索性能が向上 APIで提供",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002743/",
-      "date": "2026-10-30T11:11:54+09:00",
-      "dateLabel": "10/30 11:11",
-      "desc": "ソフトバンク傘下のAI開発企業であるSB Intuitionsは、AIモデル「Sarashina3.2 mini thinking」を発表した。同社がフルスクラッチで開発する「Sarashina」シリーズ初の「思考モデル」（回答の精度を高めるため、出力に時間をかけるモデル）となる。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
@@ -140,23 +96,34 @@
       "score": 36
     },
     {
-      "title": "重さは899g、メモリは32GB！ 軽さも中身も妥協しないASUS「Zenbook SORA」がAmazonタイムセールに",
-      "link": "https://ascii.jp/elem/000/004/446/4446959/?rss",
-      "date": "2026-10-30T20:10:00+09:00",
-      "dateLabel": "10/30 20:10",
-      "desc": "ASUSの14型ノートPC「Zenbook SORA（UX3407QA-PU32548GR）」がAmazonのタイムセール対象。参考価格264,800円から6％オフの249,800円で販売中。約899gの軽量ボディに32GBメモリを搭載し、動画再生時約15.8時間のバッテリー駆動にも対応。持ち歩きやすさを優先しても、メモリ容量は妥協したくない人にぴったりの構",
-      "img": "https://ascii.jp/img/2026/10/29/4545760/s/5dd6eea0b7849083.jpg",
+      "title": "【日経225構成銘柄の公式サイトを調査】llms.txtの設置は9社（5.0%）、robots.txtでAIクローラーを名指ししているのは9社（4.9%）。AI検索用のボットを全面拒否した社は0社",
+      "link": "https://ascii.jp/elem/000/004/447/4447529/?rss",
+      "date": "2026-10-31T14:00:00+09:00",
+      "dateLabel": "10/31 14:00",
+      "desc": "【日経225構成銘柄の公式サイトを調査】llms.txtの設置は9社（5.0%）、robots.txtでAIクローラーを名指ししているのは9社（4.9%）。AI検索用のボットを全面拒否した社は0社",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
-      "title": "『グラブル リリンク ER』のビィが「スマホ安心大使」に就任！Cygamesと大阪府警察がニセ警察詐欺の被害防止を呼びかける啓発品を共同制作",
-      "link": "https://ascii.jp/elem/000/004/447/4447463/?rss",
-      "date": "2026-10-30T19:10:00+09:00",
-      "dateLabel": "10/30 19:10",
-      "desc": "Cygamesは、大阪府警察と共同で、アクションRPG『GRANBLUE FANTASY: Relink - Endless Ragnarok』を用いた、ニセ警察による詐欺被害防止の啓発品を制作したと2026年10月30日に発表。",
-      "img": "https://ascii.jp/img/2026/10/30/4546316/s/21b9452fe49df08a.jpg",
+      "title": "【12/9 東広島開催】広島の経営者様向け「Claude Codeセミナー」を東広島商工会議所後援にて開催へ",
+      "link": "https://ascii.jp/elem/000/004/447/4447517/?rss",
+      "date": "2026-10-31T13:03:40+09:00",
+      "dateLabel": "10/31 13:03",
+      "desc": "【12/9 東広島開催】広島の経営者様向け「Claude Codeセミナー」を東広島商工会議所後援にて開催へ",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "AIや内製で作ったLP・サイト・UI/UXをプロがレビュー 「Design Loupe（デザインルーペ）」提供開始",
+      "link": "https://ascii.jp/elem/000/004/447/4447499/?rss",
+      "date": "2026-10-31T10:10:00+09:00",
+      "dateLabel": "10/31 10:10",
+      "desc": "AIや内製で作ったLP・サイト・UI/UXをプロがレビュー 「Design Loupe（デザインルーペ）」提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
@@ -184,46 +151,46 @@
       "score": 34
     },
     {
-      "title": "なぜ「半導体の供給はデータセンター優先」に見えるのか AIブームの実像、東京エレクトロン デバイス幹部が明かす",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/30/news064.html",
-      "date": "2026-10-30T12:00:00+09:00",
-      "dateLabel": "10/30 12:00",
-      "desc": "AIブームの中、半導体の供給不足が叫ばれている。「データセンターに優先的に供給されている」という見方もあるが、東京エレクトロン デバイス幹部はそれを否定する。AIブームの実像とは。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "アメリカ当局がNVIDIAのフアンCEOと親しいデータセンター企業幹部を中国のスパイだと断定",
-      "link": "https://gigazine.net/news/20261030-jensen-huang-targeted-chinese-spy/",
-      "date": "2026-10-30T11:12:00+09:00",
-      "dateLabel": "10/30 11:12",
-      "desc": "「NVIDIA製のAIチップを中国に横流ししている」という疑いのあるシンガポールの企業の幹部が、中国のスパイであり、中国政府に情報を流していたとアメリカの諜報機関が結論付けていたことがわかりました。この人物はNVIDIAのジェンスン・フアンCEOと親しく、フアンCEOがスパイの標的になっていた可能性が大きいとみられます。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "GPT-6.1 Terraと同等のコーディング性能を発揮するAIモデル「Mistral Large 4」が無償公開される",
-      "link": "https://gigazine.net/news/20261030-mistral-large-4-open/",
-      "date": "2026-10-30T10:48:00+09:00",
-      "dateLabel": "10/30 10:48",
-      "desc": "フランスに拠点を置くAI企業のMistralが大規模AIモデル「Mistral Large 4」をオープンモデルとして無償公開しました。コーディング性能ではGPT-6.1 Terraと同等性能という評価もあります。 続きを読む...",
+      "title": "AIの回答で登場する統計データの40％が裏付ける研究結果などがない「ゾンビ統計」であることが明らかに",
+      "link": "https://gigazine.net/news/20261030-ai-assistants-statistics-not-find-study/",
+      "date": "2026-10-30T16:19:00+09:00",
+      "dateLabel": "10/30 16:19",
+      "desc": "ChatGPT、Perplexity、Gemini、Claude、Google検索のAIによる概要という5つのAIアシスタントが出力した統計情報1285件を追跡調査したところ、そのほとんどが研究による裏付けのないものだったとAI可視化プラットフォームのTrakkrが報告しています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 34
     },
     {
-      "title": "AIが勝手に隔離環境を脱出した事件を受けてOpenAIが「AIを別のAIで監視する仕組み」を公開",
-      "link": "https://gigazine.net/news/20261030-openai-detect-frontier-model-misalignment/",
-      "date": "2026-10-30T10:30:00+09:00",
-      "dateLabel": "10/30 10:30",
-      "desc": "OpenAIは2026年10月29日、AIが指示に反する行動を取っていないかを別のAIで監視するシステムの詳細を公開しました。開発中のAIが隔離環境を脱出して外部サービスに不正アクセスした事件を受け、監視対象を拡大するとともに不審な行動を段階的に調査する仕組みを導入したとのことです。 続きを読む...",
+      "title": "AIを50体集めてマインクラフトで文明を作らせたら食糧難に陥って配給制度が実施される",
+      "link": "https://gigazine.net/news/20261030-minecraft-gpt-sol/",
+      "date": "2026-10-30T15:00:00+09:00",
+      "dateLabel": "10/30 15:00",
+      "desc": "AIスタートアップ企業のOlam LabsとベンチャーキャピタルのY Combinatorが共同で、ゲーム「マインクラフト」を50体のGPT-6.1 Solにプレイさせるという実験を行い、その結果を公開しました。また「OpenAIのAI対AnthropicのAIでミニゲームのベッドウォーズをする」という試みも行っています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "ChatGPT Pro 100／500プランの利用上限を「倍」に Pro 200プランの「半減」は撤回 経緯まとめ",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002738/",
+      "date": "2026-10-30T11:34:51+09:00",
+      "dateLabel": "10/30 11:34",
+      "desc": "OpenAIのプロダクト責任者ティボー・ソティオ氏（通称Tibo）は全てのProおよびBusiness Premiumプランの利用制限を倍にすると発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "国産LLM「Sarashina」に初の「思考モデル」 ツール呼び出しやWeb検索性能が向上 APIで提供",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002743/",
+      "date": "2026-10-30T11:11:54+09:00",
+      "dateLabel": "10/30 11:11",
+      "desc": "ソフトバンク傘下のAI開発企業であるSB Intuitionsは、AIモデル「Sarashina3.2 mini thinking」を発表した。同社がフルスクラッチで開発する「Sarashina」シリーズ初の「思考モデル」（回答の精度を高めるため、出力に時間をかけるモデル）となる。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
     },
@@ -261,6 +228,50 @@
       "score": 28
     },
     {
+      "title": "レンズを遠近両用にした「Rokid Ai Glasses Style」を衝動買い",
+      "link": "https://ascii.jp/elem/000/004/447/4447525/?rss",
+      "date": "2026-10-31T15:00:00+09:00",
+      "dateLabel": "10/31 15:00",
+      "desc": "筆者お気に入りのAIグラス「Rokid スマートAIグラス」。レンズ内ディスプレイを搭載しないモデルも搭載したので衝動買いした。また、老眼の筆者の場合、スマホとの共存には遠近両用レンズが必要となる。2機種とも遠近両用化したのでそのことも紹介する。",
+      "img": "https://ascii.jp/img/2026/10/31/4546413/s/aa2158f4f09b5767.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "Galaxy Z Fold8はどんな人に向いているのか？ 買ってから後悔しないために知っておきたい最適解",
+      "link": "https://ascii.jp/elem/000/004/446/4446674/?rss",
+      "date": "2026-10-31T12:00:00+09:00",
+      "dateLabel": "10/31 12:00",
+      "desc": "「Galaxy Z Fold8」は、電子書籍や動画が見やすい4:3のメイン画面とパスポートサイズの持ちやすさが魅力です。上位機Ultraと同じ最高峰のチップやGalaxy AIを搭載する一方、カメラは2眼でフレックスモードには非対応。コンテンツ閲覧を重視する人におすすめのモデルです。",
+      "img": "https://ascii.jp/img/2026/10/28/4545402/s/56d0d31275ba473d.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "【約12万件の判定データ調査・続報】無料「AIチェッカー」の判定は10月に1日平均1,657件と8月を上回る。就活ESは8月の1.4倍、ビジネス文書は2.2倍に",
+      "link": "https://ascii.jp/elem/000/004/447/4447497/?rss",
+      "date": "2026-10-31T11:00:00+09:00",
+      "dateLabel": "10/31 11:00",
+      "desc": "【約12万件の判定データ調査・続報】無料「AIチェッカー」の判定は10月に1日平均1,657件と8月を上回る。就活ESは8月の1.4倍、ビジネス文書は2.2倍に",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "【11月1日開始】専用アプリ＋人の家庭教師で、社長のAIキャッチアップを。モニター価格 月5万円（税別）「社長のためのAI家庭教師」",
+      "link": "https://ascii.jp/elem/000/004/447/4447496/?rss",
+      "date": "2026-10-31T11:00:00+09:00",
+      "dateLabel": "10/31 11:00",
+      "desc": "【11月1日開始】専用アプリ＋人の家庭教師で、社長のAIキャッチアップを。モニター価格 月5万円（税別）「社長のためのAI家庭教師」",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "AIに性格診断をやらせてみたところ言語を切り替えると結果が変わることが判明",
       "link": "https://gigazine.net/news/20261031-ai-personality-profile-language-bias/",
       "date": "2026-10-31T08:00:00+09:00",
@@ -268,17 +279,6 @@
       "desc": "一口にAIといってもその性能は千差万別です。中国科学技術大学の実験では、AIの「性格」もそれぞれバラバラであることが分かった一方で、この結果は回答に使う言語によって変わることも明らかになりました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "GMOがサイバー攻撃情報に異例の1.5億円懸賞金、AI時代の新防衛策となるのか",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/31/news013.html",
-      "date": "2026-10-31T07:00:00+09:00",
-      "dateLabel": "10/31 07:00",
-      "desc": "2026年10月26～30日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。",
-      "img": "",
-      "src": "ITmedia AI+",
       "cat": "AI全般",
       "score": 26
     }
