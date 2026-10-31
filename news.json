@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-01T03:54:41.360314+09:00",
-  "generatedLabel": "2026/11/01 03:54",
+  "generatedAt": "2026-11-01T07:01:59.309849+09:00",
+  "generatedLabel": "2026/11/01 07:01",
   "feedOk": 6,
   "feedNg": 5,
   "candidates": 56,
@@ -206,39 +206,6 @@
       "score": 26
     },
     {
-      "title": "GMOがサイバー攻撃情報に異例の1.5億円懸賞金、AI時代の新防衛策となるのか",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/31/news013.html",
-      "date": "2026-10-31T07:00:00+09:00",
-      "dateLabel": "10/31 07:00",
-      "desc": "2026年10月26～30日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "AIエージェントは「実運用」が主流に 「明確な成果」を得る企業の共通点は？",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news008.html",
-      "date": "2026-10-31T07:00:00+09:00",
-      "dateLabel": "10/31 07:00",
-      "desc": "生成AIの活用は「試す」段階から「使い広げる」段階へ移り、AIエージェントも実運用が主流になった。一方で、企業規模による差は広がっている。INDUSTRIAL-Xの調査が示す、成果を分ける“技術以外の要因”とは。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "Waymoが日本で自動運転タクシーにトヨタbZ4Xを採用し2027年に運行開始すると発表",
-      "link": "https://gigazine.net/news/20261031-toyota-waymo-bz4x-robotaxi-2027/",
-      "date": "2026-10-31T07:00:00+09:00",
-      "dateLabel": "10/31 07:00",
-      "desc": "Google発の自動運転企業であるWaymoが、電気自動車の「bZ4X」を日本での自動運転タクシー(ロボタクシー)に採用し、初期運行を2027年に日本で開始することを発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI実装",
-      "score": 26
-    },
-    {
       "title": "“でぶねこ”の重み公開 1兆パラメータのAIモデル「Mistral Large 4」（Le Chonk）がダウンロード可能に",
       "link": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002762/",
       "date": "2026-10-30T17:46:58+09:00",
@@ -280,6 +247,39 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "GPT-6.1 Terraと同等のコーディング性能を発揮するAIモデル「Mistral Large 4」が無償公開される",
+      "link": "https://gigazine.net/news/20261030-mistral-large-4-open/",
+      "date": "2026-10-30T10:48:00+09:00",
+      "dateLabel": "10/30 10:48",
+      "desc": "フランスに拠点を置くAI企業のMistralが大規模AIモデル「Mistral Large 4」をオープンモデルとして無償公開しました。コーディング性能ではGPT-6.1 Terraと同等性能という評価もあります。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "今、最も使われているプログラミング言語は？ AIコーディングでPython超えて急成長",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002719/",
+      "date": "2026-10-29T16:16:51+09:00",
+      "dateLabel": "10/29 16:16",
+      "desc": "Githubは年次レポート「GitHub Octoverse 2026」を公開。開発者が多いプログラミング言語のランキングが発表された。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "AIが人間に“闇バイト”を発注？ AIが物理的労働を買う求人サイト「RentAHuman」の実態",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002679/",
+      "date": "2026-10-29T12:00:00+09:00",
+      "dateLabel": "10/29 12:00",
+      "desc": "独立研究者のPulak MehtaさんとAryan Deshkumarさんが発表した論文「Security Risks of AI Agents Hiring Humans: An Empirical Marketplace Study」は、2026年2月に開設した、AIエージェントが人間を雇うことを目的に設計された人材雇用マーケットプレース「RentAHu",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
