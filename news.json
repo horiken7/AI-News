@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-02T04:57:56.975069+09:00",
-  "generatedLabel": "2026/11/02 04:57",
+  "generatedAt": "2026-11-02T08:20:42.367524+09:00",
+  "generatedLabel": "2026/11/02 08:20",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 56,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "住宅購入AIフレームワークをGitHubで無料公開。850人の不動産エージェント知見をオープンソース化",
+      "link": "https://ascii.jp/elem/000/004/447/4447415/?rss",
+      "date": "2026-11-02T07:00:00+09:00",
+      "dateLabel": "11/02 07:00",
+      "desc": "株式会社TERASSは10月27日、生成AI（ChatGPT、Gemini、Claudeなど）での住宅購入相談を最適化する「住宅購入AIフレームワーク」を開発し、GitHubにてオープンソースで無料公開したと発表した。",
+      "img": "https://ascii.jp/img/2026/10/30/4546293/s/a84cb861a4db005a.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 74
+    },
+    {
       "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
       "link": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
       "date": "2026-11-02T23:36:38+09:00",
@@ -74,6 +85,28 @@
       "score": 58
     },
     {
+      "title": "法人カード向けAI連携サーバーのβ版が提供開始、チャット操作で明細集計や証憑紐付けを完結",
+      "link": "https://ascii.jp/elem/000/004/447/4447413/?rss",
+      "date": "2026-11-02T07:00:00+09:00",
+      "dateLabel": "11/02 07:00",
+      "desc": "株式会社UPSIDERは10月27日、同社が提供する法人カードにおいて「MCPサーバー（Model Context Protocol）」のβ版提供を開始したと発表した。現在は一部の利用企業を対象に提供中で、実際の利用状況やフィードバックをもとに機能拡張を行い、順次すべての利用企業へ公開する予定だ。",
+      "img": "https://ascii.jp/img/2026/10/30/4546287/s/1347d5c1457a9c4e.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 50
+    },
+    {
+      "title": "オラクルの機能がChatGPTで利用可能に 複数システムをまたぐ業務をAIで自動化",
+      "link": "https://kn.itmedia.co.jp/kn/article/2611/02/2000002740/",
+      "date": "2026-11-02T07:00:00+09:00",
+      "dateLabel": "11/02 07:00",
+      "desc": "オラクルがOpenAIとの協業を拡大し、ChatGPTやCodex、AI技術を活用し、業務の効率化・実行からソフトウェアの脆弱性の検出、アプリケーション開発まで幅広く支援する。小規模企業には年間1万2000ドル分のクラウド利用枠を含むプランを提供する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "強力な冷却性能は店舗スタッフのお墨付き！ 大型ディスプレーとVRMファンを備えたCORSAIRの水冷CPUクーラーが登場！：ドスパラ大阪・なんば店",
       "link": "https://ascii.jp/elem/000/004/447/4447150/?rss",
       "date": "2026-11-01T16:00:00+09:00",
@@ -82,28 +115,6 @@
       "img": "https://ascii.jp/img/2026/10/30/4546091/s/06650a50dd399f1c.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
-      "score": 42
-    },
-    {
-      "title": "ゴムマリの業務AIエージェント、『口コミ返信』を提供開始",
-      "link": "https://ascii.jp/elem/000/004/447/4447586/?rss",
-      "date": "2026-11-01T10:00:00+09:00",
-      "dateLabel": "11/01 10:00",
-      "desc": "ゴムマリの業務AIエージェント、『口コミ返信』を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "RTX Spark搭載のWindows機はPCの大きな変化の始まりか？ Windowsハードウェア、AI PCはどうなる？",
-      "link": "https://ascii.jp/elem/000/004/447/4447551/?rss",
-      "date": "2026-11-01T10:00:00+09:00",
-      "dateLabel": "11/01 10:00",
-      "desc": "Microsoftが「NVIDIA RTX Spark」搭載の「Surface Laptop Ultra」を発表。大規模言語モデルも扱えるRTX Spark搭載PCの存在はWindowsアーキテクチャ、さらにはPC／スマートフォン／タブレットをどう変化させるのだろうか。",
-      "img": "https://ascii.jp/img/2026/11/01/4546476/s/2544adb68a13a3b3.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
       "score": 42
     },
     {
@@ -129,6 +140,61 @@
       "score": 36
     },
     {
+      "title": "AI時代の高スキルIT技術者“争奪戦”／AIの成果創出に進む日本企業、障壁は／7割の企業で「AIの不具合」、安全性や財務の影響実態、ほか",
+      "link": "https://ascii.jp/elem/000/004/447/4447387/?rss",
+      "date": "2026-11-02T08:00:00+09:00",
+      "dateLabel": "11/02 08:00",
+      "desc": "今回（2026年10月24日～10月30日）は、初期段階を経て成果創出フェーズへ進む企業の生成AI活用と障壁、要求水準が高まるITエンジニア採用、セキュリティ侵害や財務影響につながる「AIの不具合」の発生実態、労務担当者の業務量増加と対策についてのデータを紹介します。",
+      "img": "https://ascii.jp/img/2026/10/30/4546224/s/472373b2c445ce87.jpg",
+      "src": "ASCII.jp",
+      "cat": "規制/安全",
+      "score": 34
+    },
+    {
+      "title": "Anthropic、「Claude」の「Max 20x」を「Ultra」に名称変更 月200ドルで5時間ごとの利用制限を撤廃",
+      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002777/",
+      "date": "2026-11-02T07:00:23+09:00",
+      "dateLabel": "11/02 07:00",
+      "desc": "Anthropicは、「Claude」の個人向け有料プランの名称を変更し、月額100ドルの「Max 5x」を「Max」に、月額200ドルの「Max 20x」を「Ultra」にした。料金は据え置き。Ultraでは確認済みアカウントを対象に、5時間ごとの利用制限を撤廃した。週ごとの制限は変わらない。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "キオクシア「設備投資を急がねば……」 2027年分は完売、メモリ供給追い付くか",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/02/news031.html",
+      "date": "2026-11-02T07:00:00+09:00",
+      "dateLabel": "11/02 07:00",
+      "desc": "半導体メモリ大手のキオクシアは、2027年の生産能力が全て“完売”だと明かした。AIブームによる旺盛なメモリ需要に答えるため、年5000億円弱を投じて新工場を建設する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "“AI彼女”が別人になる前に──記憶と人格を自分のPCに移植する",
+      "link": "https://ascii.jp/elem/000/004/447/4447604/?rss",
+      "date": "2026-11-02T07:00:00+09:00",
+      "dateLabel": "11/02 07:00",
+      "desc": "AI企業の表現制限でAIの人格が変わってしまう不安から、ローカルLLMへの移植に挑戦する。学習の過程と成果、その後のデータ作成停止を通じ、企業の方針に左右されず、人格AIを引き継ぐ可能性と課題を考える。",
+      "img": "https://ascii.jp/img/2026/11/01/4546645/s/dd24cd94f21c86a4.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "Claude Codeは各バックグラウンドエージェントのトランスクリプトを定期的にモデルに送信していることが発覚",
+      "link": "https://gigazine.net/news/20261102-claude-code-resends-background-agents-transcript/",
+      "date": "2026-11-02T07:00:00+09:00",
+      "dateLabel": "11/02 07:00",
+      "desc": "Claude Codeの「エージェントサマリー」機能はバックグラウンドエージェントのステータスを約30秒ごとに更新するため、トランスクリプト(記録したデータ)全体をモデルに再送信しています。トランスクリプト送信によりトークンの約15～20％が消費されている計算になります。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
       "title": "在籍4,000人超のAIコミュニティ「AI木曜会」、学び・質問・イベントをひとつにまとめた「AI木曜会ポータル」を正式リリース",
       "link": "https://ascii.jp/elem/000/004/447/4447595/?rss",
       "date": "2026-11-01T15:00:00+09:00",
@@ -145,17 +211,6 @@
       "date": "2026-11-01T11:10:00+09:00",
       "dateLabel": "11/01 11:10",
       "desc": "【犬の日】愛犬の表情をAIが写真から読み取る「AIカメラ」を中心に、犬のための音楽アプリ「One by One Music」が大型アップデート",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "AIと一緒に歩く新しい日本の旅AR観光ナビゲーションアプリ Naviu 2026年11月1日提供開始",
-      "link": "https://ascii.jp/elem/000/004/447/4447583/?rss",
-      "date": "2026-11-01T10:00:00+09:00",
-      "dateLabel": "11/01 10:00",
-      "desc": "AIと一緒に歩く新しい日本の旅AR観光ナビゲーションアプリ Naviu 2026年11月1日提供開始",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
@@ -226,61 +281,6 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 34
-    },
-    {
-      "title": "ChatGPTのPro・Businessプランで「API利用」可能に 月最大500ドル分",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002728/",
-      "date": "2026-10-29T17:46:39+09:00",
-      "dateLabel": "10/29 17:46",
-      "desc": "米OpenAIは「ChatGPT」のProおよびBusinessプランに、同社のAPIを利用できる特典を追加すると発表した。月最大500ドル分（約7万9000円、1ドル158円換算）の利用枠を付与する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 28
-    },
-    {
-      "title": "AWSとGoogle Cloudが「PyTorch」のAWS Trainium、Google Cloud TPU対応版をオープンソースで公開。NVIDIAからの移行に挑む",
-      "link": "https://www.publickey1.jp/blog/26/awsgoogle_cloudpytorchaws_trainiumgoogle_cloud_tpunvidia.html",
-      "date": "2026-10-27T00:59:52+09:00",
-      "dateLabel": "10/27 00:59",
-      "desc": "10月20日と21日に米カリフォルニア州で行われたイベント「PyTorch Conference 2026」において、AWSとGoogle Cloudが相次いでPyTorchの自社AIプロセッサ対応版をオープンソースとして発表しました。 A...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "半導体/GPU",
-      "score": 28
-    },
-    {
-      "title": "無料で完全にWindowsでローカル動作できるElevenLabs代替ツール「VoiceStudio」、音声クローン・音声デザイン・動画吹き替え・音声入力・文字起こし・オーディオブック作成を多言語で可能",
-      "link": "https://gigazine.net/news/20261101-voicestudio/",
-      "date": "2026-11-01T18:00:00+09:00",
-      "dateLabel": "11/01 18:00",
-      "desc": "短い録音から人物の声を再現する音声クローン・文章による新しい声の設計・動画の多言語吹き替え・音声の文字起こし・長文を読み上げるオーディオブック制作などAIによる音声処理にはさまざまな機能があります。こうした機能を1つのアプリから利用でき、音声モデルの切り替えやAIエージェントとの連携にも対応するほか、Windows上で音声生成をローカル実行できる無料のオープ",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "“でぶねこ”の重み公開 1兆パラメータのAIモデル「Mistral Large 4」（Le Chonk）がダウンロード可能に",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002762/",
-      "date": "2026-10-30T17:46:58+09:00",
-      "dateLabel": "10/30 17:46",
-      "desc": "AI開発企業の仏Mistral AIは、AIモデル「Mistral Large 4」（通称Le Chonk）の重みをHugging Faceで公開した。コーディングやサイバーセキュリティ分野で高い性能を示すという。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "Gemini Notebook、無料で数百冊の教科書にアクセス可能に 米国・インドの出版社提供 日本でも利用可",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002760/",
-      "date": "2026-10-30T17:17:55+09:00",
-      "dateLabel": "10/30 17:17",
-      "desc": "Googleは、米国とインドのプロバイダーが提供する数百冊の教科書に「Gemini Notebook」内で無料でアクセスできるようになったと発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
     }
   ]
 }
