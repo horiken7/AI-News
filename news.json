@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-01T17:23:59.005187+09:00",
-  "generatedLabel": "2026/11/01 17:23",
+  "generatedAt": "2026-11-02T00:34:44.507309+09:00",
+  "generatedLabel": "2026/11/02 00:34",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 57,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -62,6 +62,17 @@
     }
   ],
   "articles": [
+    {
+      "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
+      "link": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
+      "date": "2026-11-02T23:36:38+09:00",
+      "dateLabel": "11/02 23:36",
+      "desc": "GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。 Copilot Fusi...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 58
+    },
     {
       "title": "強力な冷却性能は店舗スタッフのお墨付き！ 大型ディスプレーとVRMファンを備えたCORSAIRの水冷CPUクーラーが登場！：ドスパラ大阪・なんば店",
       "link": "https://ascii.jp/elem/000/004/447/4447150/?rss",
@@ -116,6 +127,17 @@
       "src": "Publickey",
       "cat": "LLM/モデル",
       "score": 36
+    },
+    {
+      "title": "在籍4,000人超のAIコミュニティ「AI木曜会」、学び・質問・イベントをひとつにまとめた「AI木曜会ポータル」を正式リリース",
+      "link": "https://ascii.jp/elem/000/004/447/4447595/?rss",
+      "date": "2026-11-01T15:00:00+09:00",
+      "dateLabel": "11/01 15:00",
+      "desc": "在籍4,000人超のAIコミュニティ「AI木曜会」、学び・質問・イベントをひとつにまとめた「AI木曜会ポータル」を正式リリース",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "【犬の日】愛犬の表情をAIが写真から読み取る「AIカメラ」を中心に、犬のための音楽アプリ「One by One Music」が大型アップデート",
@@ -214,7 +236,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
+      "score": 28
     },
     {
       "title": "AWSとGoogle Cloudが「PyTorch」のAWS Trainium、Google Cloud TPU対応版をオープンソースで公開。NVIDIAからの移行に挑む",
@@ -228,25 +250,14 @@
       "score": 28
     },
     {
-      "title": "【5社限定】「社員がAIに何を入力しているか、把握していますか？」AIリスクが組織の脅威3位に。がばいAIが新サービスを開始",
-      "link": "https://ascii.jp/elem/000/004/447/4447579/?rss",
-      "date": "2026-11-01T09:00:00+09:00",
-      "dateLabel": "11/01 09:00",
-      "desc": "【5社限定】「社員がAIに何を入力しているか、把握していますか？」AIリスクが組織の脅威3位に。がばいAIが新サービスを開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "みんなの一枚が、ひとつの感動に。株式会社ターミナスの参加型モザイクアート体験ブランド「MOSAIC ONE」始動",
-      "link": "https://ascii.jp/elem/000/004/447/4447578/?rss",
-      "date": "2026-11-01T09:00:00+09:00",
-      "dateLabel": "11/01 09:00",
-      "desc": "みんなの一枚が、ひとつの感動に。株式会社ターミナスの参加型モザイクアート体験ブランド「MOSAIC ONE」始動",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "無料で完全にWindowsでローカル動作できるElevenLabs代替ツール「VoiceStudio」、音声クローン・音声デザイン・動画吹き替え・音声入力・文字起こし・オーディオブック作成を多言語で可能",
+      "link": "https://gigazine.net/news/20261101-voicestudio/",
+      "date": "2026-11-01T18:00:00+09:00",
+      "dateLabel": "11/01 18:00",
+      "desc": "短い録音から人物の声を再現する音声クローン・文章による新しい声の設計・動画の多言語吹き替え・音声の文字起こし・長文を読み上げるオーディオブック制作などAIによる音声処理にはさまざまな機能があります。こうした機能を1つのアプリから利用でき、音声モデルの切り替えやAIエージェントとの連携にも対応するほか、Windows上で音声生成をローカル実行できる無料のオープ",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
       "score": 26
     },
     {
@@ -269,17 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "なぜ「半導体の供給はデータセンター優先」に見えるのか AIブームの実像、東京エレクトロン デバイス幹部が明かす",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/30/news064.html",
-      "date": "2026-10-30T12:00:00+09:00",
-      "dateLabel": "10/30 12:00",
-      "desc": "AIブームの中、半導体の供給不足が叫ばれている。「データセンターに優先的に供給されている」という見方もあるが、東京エレクトロン デバイス幹部はそれを否定する。AIブームの実像とは。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
       "score": 26
     }
   ]
