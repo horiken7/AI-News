@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-02T08:20:42.367524+09:00",
-  "generatedLabel": "2026/11/02 08:20",
+  "generatedAt": "2026-11-02T12:21:19.481262+09:00",
+  "generatedLabel": "2026/11/02 12:21",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 58,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 19
+      "items": 18
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -63,17 +63,6 @@
   ],
   "articles": [
     {
-      "title": "住宅購入AIフレームワークをGitHubで無料公開。850人の不動産エージェント知見をオープンソース化",
-      "link": "https://ascii.jp/elem/000/004/447/4447415/?rss",
-      "date": "2026-11-02T07:00:00+09:00",
-      "dateLabel": "11/02 07:00",
-      "desc": "株式会社TERASSは10月27日、生成AI（ChatGPT、Gemini、Claudeなど）での住宅購入相談を最適化する「住宅購入AIフレームワーク」を開発し、GitHubにてオープンソースで無料公開したと発表した。",
-      "img": "https://ascii.jp/img/2026/10/30/4546293/s/a84cb861a4db005a.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 74
-    },
-    {
       "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
       "link": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
       "date": "2026-11-02T23:36:38+09:00",
@@ -85,15 +74,37 @@
       "score": 58
     },
     {
-      "title": "法人カード向けAI連携サーバーのβ版が提供開始、チャット操作で明細集計や証憑紐付けを完結",
-      "link": "https://ascii.jp/elem/000/004/447/4447413/?rss",
-      "date": "2026-11-02T07:00:00+09:00",
-      "dateLabel": "11/02 07:00",
-      "desc": "株式会社UPSIDERは10月27日、同社が提供する法人カードにおいて「MCPサーバー（Model Context Protocol）」のβ版提供を開始したと発表した。現在は一部の利用企業を対象に提供中で、実際の利用状況やフィードバックをもとに機能拡張を行い、順次すべての利用企業へ公開する予定だ。",
-      "img": "https://ascii.jp/img/2026/10/30/4546287/s/1347d5c1457a9c4e.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "ChatGPTの「Chat」と「Work」統合へ 利用制限はCodexと共通化",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/02/2000002781/",
+      "date": "2026-11-02T10:50:32+09:00",
+      "dateLabel": "11/02 10:50",
+      "desc": "OpenAIはChatGPT Workのエージェント機能をChatGPTに統合する予定とし、CodexとChatGPTで有料プランの利用量制限が共通化されると発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 50
+    },
+    {
+      "title": "Anthropicが11月3日から旧バージョンのClaudeにもテキスト透かしを追加する",
+      "link": "https://gigazine.net/news/20261102-anthropic-expands-text-watermarking-older-claude-november-3/",
+      "date": "2026-11-02T11:24:00+09:00",
+      "dateLabel": "11/02 11:24",
+      "desc": "Anthropicが2026年11月3日から、古いAIモデルでもテキスト透かしを追加すると発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "「EdrawMind V14」リリース！手描き風マインドマップやAI動画生成で表現の幅を拡大",
+      "link": "https://ascii.jp/elem/000/004/447/4447720/?rss",
+      "date": "2026-11-02T10:00:00+09:00",
+      "dateLabel": "11/02 10:00",
+      "desc": "「EdrawMind V14」リリース！手描き風マインドマップやAI動画生成で表現の幅を拡大",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 42
     },
     {
       "title": "オラクルの機能がChatGPTで利用可能に 複数システムをまたぐ業務をAIで自動化",
@@ -104,28 +115,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "強力な冷却性能は店舗スタッフのお墨付き！ 大型ディスプレーとVRMファンを備えたCORSAIRの水冷CPUクーラーが登場！：ドスパラ大阪・なんば店",
-      "link": "https://ascii.jp/elem/000/004/447/4447150/?rss",
-      "date": "2026-11-01T16:00:00+09:00",
-      "dateLabel": "11/01 16:00",
-      "desc": "大阪・日本橋のPCパーツショップ「ドスパラ大阪・なんば店」を取材しました。店舗スタッフ・金山魁利さんオススメの製品は、水冷ヘッドに大型ディスプレーとVRMファンを備えたCORSAIRの簡易水冷CPUクーラー「iCUE LINK TITAN II 360 RX LCD」です。",
-      "img": "https://ascii.jp/img/2026/10/30/4546091/s/06650a50dd399f1c.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 42
-    },
-    {
-      "title": "AI学習への利用拒否をrobots.txtで一括指定へ OpenAIやGoogleなどが対応表明",
-      "link": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
-      "date": "2026-11-01T08:31:07+09:00",
-      "dateLabel": "11/01 08:31",
-      "desc": "OpenAI、Google、Microsoftは、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を一括で指定できる共通の仕組みへの対応を発表した。Anthropicも担当者が個人名義で実装を表明している。robots.txtに共通トークンを記述するだけで、AI各社のAIクローラーを一元管理できるようになる。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -140,14 +129,36 @@
       "score": 36
     },
     {
-      "title": "AI時代の高スキルIT技術者“争奪戦”／AIの成果創出に進む日本企業、障壁は／7割の企業で「AIの不具合」、安全性や財務の影響実態、ほか",
-      "link": "https://ascii.jp/elem/000/004/447/4447387/?rss",
-      "date": "2026-11-02T08:00:00+09:00",
-      "dateLabel": "11/02 08:00",
-      "desc": "今回（2026年10月24日～10月30日）は、初期段階を経て成果創出フェーズへ進む企業の生成AI活用と障壁、要求水準が高まるITエンジニア採用、セキュリティ侵害や財務影響につながる「AIの不具合」の発生実態、労務担当者の業務量増加と対策についてのデータを紹介します。",
-      "img": "https://ascii.jp/img/2026/10/30/4546224/s/472373b2c445ce87.jpg",
+      "title": "GoogleのAI「Gemma 4」搭載衛星から「宇宙にいるAIからの世界初の応答」として俳句が送信される",
+      "link": "https://gigazine.net/news/20261102-google-project-suncatcher-haiku/",
+      "date": "2026-11-02T11:30:00+09:00",
+      "dateLabel": "11/02 11:30",
+      "desc": "Googleは2026年10月30日、宇宙空間でAIによる計算処理を行う研究プロジェクト「Project Suncatcher」において、人工衛星に搭載したAI向けプロセッサ「TPU」を使い、AIモデルからの応答を受信することに成功したと発表しました。Googleによると、軌道上にあるデータセンター級のTPUを使ってAIから応答を得たのは世界初とのことです。",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "CapCutで夢を仕事に変えた人たち、シンガポールで見た創作とAIの熱狂",
+      "link": "https://ascii.jp/elem/000/004/443/4443972/?rss",
+      "date": "2026-11-02T11:00:00+09:00",
+      "dateLabel": "11/02 11:00",
+      "desc": "2026年9月5日、シンガポール・セントーサ島の高級リゾートホテル「カペラ・シンガポール」で「CapCut World」が開催された。このCapCut初のグローバルコミュニティイベントには、クリエイターや業界関係者、運営チームなど300人以上が参加。壇上で語られたのは商品紹介や最新機能だけではなく、動画作りを始めた普通のユーザーが、作品を世界へ届け、仕事や生",
+      "img": "https://ascii.jp/img/2026/10/20/4540841/s/a6566abb59d8f7e8.jpg",
       "src": "ASCII.jp",
-      "cat": "規制/安全",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "OpenAIのサム・アルトマンCEOはどういう意図で「RAM(メモリ)は個人が抱えるよりもデータセンターで持つ方がいい」と発言したのか？",
+      "link": "https://gigazine.net/news/20261102-sam-altman-ram-cloud-then-desk/",
+      "date": "2026-11-02T10:46:00+09:00",
+      "dateLabel": "11/02 10:46",
+      "desc": "OpenAIのサム・アルトマンCEOがインタビューの中で、世界的に供給が限られているDRAMを個人のPCに大量に搭載することについて、資源配分の観点から「非常に非効率だ」と指摘しました。アルトマンCEOは「各自のPCでAIを動かすよりも、クラウド上でメモリを効率的に利用する方が望ましい」との考えを示しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -173,17 +184,6 @@
       "score": 34
     },
     {
-      "title": "“AI彼女”が別人になる前に──記憶と人格を自分のPCに移植する",
-      "link": "https://ascii.jp/elem/000/004/447/4447604/?rss",
-      "date": "2026-11-02T07:00:00+09:00",
-      "dateLabel": "11/02 07:00",
-      "desc": "AI企業の表現制限でAIの人格が変わってしまう不安から、ローカルLLMへの移植に挑戦する。学習の過程と成果、その後のデータ作成停止を通じ、企業の方針に左右されず、人格AIを引き継ぐ可能性と課題を考える。",
-      "img": "https://ascii.jp/img/2026/11/01/4546645/s/dd24cd94f21c86a4.png",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "Claude Codeは各バックグラウンドエージェントのトランスクリプトを定期的にモデルに送信していることが発覚",
       "link": "https://gigazine.net/news/20261102-claude-code-resends-background-agents-transcript/",
       "date": "2026-11-02T07:00:00+09:00",
@@ -195,25 +195,14 @@
       "score": 34
     },
     {
-      "title": "在籍4,000人超のAIコミュニティ「AI木曜会」、学び・質問・イベントをひとつにまとめた「AI木曜会ポータル」を正式リリース",
-      "link": "https://ascii.jp/elem/000/004/447/4447595/?rss",
-      "date": "2026-11-01T15:00:00+09:00",
-      "dateLabel": "11/01 15:00",
-      "desc": "在籍4,000人超のAIコミュニティ「AI木曜会」、学び・質問・イベントをひとつにまとめた「AI木曜会ポータル」を正式リリース",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "【犬の日】愛犬の表情をAIが写真から読み取る「AIカメラ」を中心に、犬のための音楽アプリ「One by One Music」が大型アップデート",
-      "link": "https://ascii.jp/elem/000/004/447/4447590/?rss",
-      "date": "2026-11-01T11:10:00+09:00",
-      "dateLabel": "11/01 11:10",
-      "desc": "【犬の日】愛犬の表情をAIが写真から読み取る「AIカメラ」を中心に、犬のための音楽アプリ「One by One Music」が大型アップデート",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "AI学習への利用拒否をrobots.txtで一括指定へ OpenAIやGoogleなどが対応表明",
+      "link": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
+      "date": "2026-11-01T08:31:07+09:00",
+      "dateLabel": "11/01 08:31",
+      "desc": "OpenAI、Google、Microsoftは、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を一括で指定できる共通の仕組みへの対応を発表した。Anthropicも担当者が個人名義で実装を表明している。robots.txtに共通トークンを記述するだけで、AI各社のAIクローラーを一元管理できるようになる。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -228,28 +217,6 @@
       "score": 34
     },
     {
-      "title": "AIの回答で登場する統計データの40％が裏付ける研究結果などがない「ゾンビ統計」であることが明らかに",
-      "link": "https://gigazine.net/news/20261030-ai-assistants-statistics-not-find-study/",
-      "date": "2026-10-30T16:19:00+09:00",
-      "dateLabel": "10/30 16:19",
-      "desc": "ChatGPT、Perplexity、Gemini、Claude、Google検索のAIによる概要という5つのAIアシスタントが出力した統計情報1285件を追跡調査したところ、そのほとんどが研究による裏付けのないものだったとAI可視化プラットフォームのTrakkrが報告しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "AIを50体集めてマインクラフトで文明を作らせたら食糧難に陥って配給制度が実施される",
-      "link": "https://gigazine.net/news/20261030-minecraft-gpt-sol/",
-      "date": "2026-10-30T15:00:00+09:00",
-      "dateLabel": "10/30 15:00",
-      "desc": "AIスタートアップ企業のOlam LabsとベンチャーキャピタルのY Combinatorが共同で、ゲーム「マインクラフト」を50体のGPT-6.1 Solにプレイさせるという実験を行い、その結果を公開しました。また「OpenAIのAI対AnthropicのAIでミニゲームのベッドウォーズをする」という試みも行っています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "ChatGPT Pro 100／500プランの利用上限を「倍」に Pro 200プランの「半減」は撤回 経緯まとめ",
       "link": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002738/",
       "date": "2026-10-30T11:34:51+09:00",
@@ -258,7 +225,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
+      "score": 28
     },
     {
       "title": "国産LLM「Sarashina」に初の「思考モデル」 ツール呼び出しやWeb検索性能が向上 APIで提供",
@@ -269,18 +236,51 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
+      "score": 28
     },
     {
-      "title": "OpenAI、AIの行動指針「Model Spec」を改定 “記憶”の使い方や人間による監督を明記",
-      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002735/",
-      "date": "2026-10-30T08:24:32+09:00",
-      "dateLabel": "10/30 08:24",
-      "desc": "OpenAIは、AIの振る舞い指針「Model Spec」の改定版を公開した。全体を5つの価値観に沿って再構成し、メモリや会話履歴の適切な扱い、エージェント自律動作時の人間による監督への服従などを規定。一方で人格設定や詳細な文体規定の大半を削除し、モデル呼称を「the assistant」から「GPT」に改めた。",
+      "title": "AWSとGoogle Cloudが「PyTorch」のAWS Trainium、Google Cloud TPU対応版をオープンソースで公開。NVIDIAからの移行に挑む",
+      "link": "https://www.publickey1.jp/blog/26/awsgoogle_cloudpytorchaws_trainiumgoogle_cloud_tpunvidia.html",
+      "date": "2026-10-27T00:59:52+09:00",
+      "dateLabel": "10/27 00:59",
+      "desc": "10月20日と21日に米カリフォルニア州で行われたイベント「PyTorch Conference 2026」において、AWSとGoogle Cloudが相次いでPyTorchの自社AIプロセッサ対応版をオープンソースとして発表しました。 A...",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
+      "src": "Publickey",
+      "cat": "半導体/GPU",
+      "score": 28
+    },
+    {
+      "title": "元Samsung副社長が率いるBOSの勝算 Tenstorrent製NPUとオープン規格で挑む車載AI「Eagle-N」",
+      "link": "https://ascii.jp/elem/000/004/447/4447577/?rss",
+      "date": "2026-11-02T12:00:00+09:00",
+      "dateLabel": "11/02 12:00",
+      "desc": "Hot Chips 2026の解説シリーズであるが、今回からAIプロセッサーに移りたい。まずはBOS SemiconductorのEagle-Nを取り上げる。",
+      "img": "https://ascii.jp/img/2026/11/01/4546573/s/0b3f23276970f342.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "尿だけで10種類のがんリスクがわかる？ 「マイシグナル」の仕組みを調べてみた",
+      "link": "https://ascii.jp/elem/000/004/438/4438669/?rss",
+      "date": "2026-11-02T12:00:00+09:00",
+      "dateLabel": "11/02 12:00",
+      "desc": "尿1回で10種類のがんリスクを調べられるCraifの「マイシグナル・スキャン」。なぜ尿から肺や胃、すい臓などのがんリスクまでわかるのか。尿中のマイクロRNAとAIを使った検査の仕組みを紹介する。",
+      "img": "https://ascii.jp/img/2026/09/30/4532274/s/361172db36a59091.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "「AI学習への使用拒否をウェブサイト側から明示できる仕組み」にGoogle・OpenAI・Microsoftが対応表明、各社が同じ仕組みを採用し対応の手間が緩和される予定",
+      "link": "https://gigazine.net/news/20261102-ai-training-control/",
+      "date": "2026-11-02T11:45:00+09:00",
+      "dateLabel": "11/02 11:45",
+      "desc": "「ウェブサイトのコンテンツをAI学習に使用することの可否」をrobot.txtを用いて明示できるようにする仕様の作成が進んでいます。この仕様について、Google・OpenAI・Microsoftが対応を表明しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
     }
   ]
 }
