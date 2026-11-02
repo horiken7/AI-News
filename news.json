@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-02T12:21:19.481262+09:00",
-  "generatedLabel": "2026/11/02 12:21",
+  "generatedAt": "2026-11-02T20:49:06.458535+09:00",
+  "generatedLabel": "2026/11/02 20:49",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 53,
+  "candidates": 50,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 18
+      "items": 17
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 11
+      "items": 10
     },
     {
       "source": "CNET Japan",
@@ -85,6 +85,39 @@
       "score": 50
     },
     {
+      "title": "新ボス「クックマン」が『ロックマン: デュアル オーバーライド』に登場！コックと武闘家の二刀流",
+      "link": "https://ascii.jp/elem/000/004/447/4447925/?rss",
+      "date": "2026-11-02T20:15:00+09:00",
+      "dateLabel": "11/02 20:15",
+      "desc": "カプコンは、2027年春に発売予定の『ロックマン: デュアル オーバーライド』について、「gamescom asia x Thailand Game Show 2026」にて新ボスキャラクターの「クックマン」を公開したと11月2日に発表。",
+      "img": "https://ascii.jp/img/2026/11/02/4547059/s/9626c9a440524ab8.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 42
+    },
+    {
+      "title": "世界のAIデータセンター電力インフラ市場、2034年に307億米ドル規模へ拡大予測 ― 生成AI・GPU需要の急増を背景に年平均11.0％成長",
+      "link": "https://ascii.jp/elem/000/004/447/4447985/?rss",
+      "date": "2026-11-02T18:57:33+09:00",
+      "dateLabel": "11/02 18:57",
+      "desc": "世界のAIデータセンター電力インフラ市場、2034年に307億米ドル規模へ拡大予測 ― 生成AI・GPU需要の急増を背景に年平均11.0％成長",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "DeepSeekがGitHubを監視してコーディングの問題を検出し解決策を提案するコーディングエージェントの研究プロトタイプ「dsh-superagent」をオープンソース化",
+      "link": "https://gigazine.net/news/20261102-deepseek-dsh-superagent/",
+      "date": "2026-11-02T14:05:00+09:00",
+      "dateLabel": "11/02 14:05",
+      "desc": "「できる限り人の注意を引かず、できる限り多くの価値を提供する」という基本原則の下に作られたコーディングエージェント「dsh-superagent」が公開されました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "Anthropicが11月3日から旧バージョンのClaudeにもテキスト透かしを追加する",
       "link": "https://gigazine.net/news/20261102-anthropic-expands-text-watermarking-older-claude-november-3/",
       "date": "2026-11-02T11:24:00+09:00",
@@ -93,17 +126,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "「EdrawMind V14」リリース！手描き風マインドマップやAI動画生成で表現の幅を拡大",
-      "link": "https://ascii.jp/elem/000/004/447/4447720/?rss",
-      "date": "2026-11-02T10:00:00+09:00",
-      "dateLabel": "11/02 10:00",
-      "desc": "「EdrawMind V14」リリース！手描き風マインドマップやAI動画生成で表現の幅を拡大",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
       "score": 42
     },
     {
@@ -129,6 +151,28 @@
       "score": 36
     },
     {
+      "title": "音声ファイルから雑音を除去してクリアな音声にできるAI「NemotronLabs-RE-USE」をNVIDIAが公開",
+      "link": "https://gigazine.net/news/20261102-nvidia-nemotronlabs-re-use/",
+      "date": "2026-11-02T16:09:00+09:00",
+      "dateLabel": "11/02 16:09",
+      "desc": "音声ファイルからノイズを除去できるAIモデル「NemotronLabs-RE-USE」をNVIDIAが公開しました。コンテンツ制作用の音声素材の補正や、音声AIモデル用の学習データ作成に役立つとされています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "日本語特化で高速かつ高精度な文字起こしAI「Haas-ja-v1.0」が登場、オープンモデルの中で最高性能を記録",
+      "link": "https://gigazine.net/news/20261102-haas-ja-v1-asr/",
+      "date": "2026-11-02T15:24:00+09:00",
+      "dateLabel": "11/02 15:24",
+      "desc": "日本のAI企業であるThird Intelligenceが日本語特化の音声認識モデル「Haas-ja-v1.0」を公開しました。パラメーター数6億1580万の軽量モデルで、精度の高さと処理の速さを両立していることがアピールされています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "GoogleのAI「Gemma 4」搭載衛星から「宇宙にいるAIからの世界初の応答」として俳句が送信される",
       "link": "https://gigazine.net/news/20261102-google-project-suncatcher-haiku/",
       "date": "2026-11-02T11:30:00+09:00",
@@ -137,17 +181,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "CapCutで夢を仕事に変えた人たち、シンガポールで見た創作とAIの熱狂",
-      "link": "https://ascii.jp/elem/000/004/443/4443972/?rss",
-      "date": "2026-11-02T11:00:00+09:00",
-      "dateLabel": "11/02 11:00",
-      "desc": "2026年9月5日、シンガポール・セントーサ島の高級リゾートホテル「カペラ・シンガポール」で「CapCut World」が開催された。このCapCut初のグローバルコミュニティイベントには、クリエイターや業界関係者、運営チームなど300人以上が参加。壇上で語られたのは商品紹介や最新機能だけではなく、動画作りを始めた普通のユーザーが、作品を世界へ届け、仕事や生",
-      "img": "https://ascii.jp/img/2026/10/20/4540841/s/a6566abb59d8f7e8.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -217,28 +250,6 @@
       "score": 34
     },
     {
-      "title": "ChatGPT Pro 100／500プランの利用上限を「倍」に Pro 200プランの「半減」は撤回 経緯まとめ",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002738/",
-      "date": "2026-10-30T11:34:51+09:00",
-      "dateLabel": "10/30 11:34",
-      "desc": "OpenAIのプロダクト責任者ティボー・ソティオ氏（通称Tibo）は全てのProおよびBusiness Premiumプランの利用制限を倍にすると発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 28
-    },
-    {
-      "title": "国産LLM「Sarashina」に初の「思考モデル」 ツール呼び出しやWeb検索性能が向上 APIで提供",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002743/",
-      "date": "2026-10-30T11:11:54+09:00",
-      "dateLabel": "10/30 11:11",
-      "desc": "ソフトバンク傘下のAI開発企業であるSB Intuitionsは、AIモデル「Sarashina3.2 mini thinking」を発表した。同社がフルスクラッチで開発する「Sarashina」シリーズ初の「思考モデル」（回答の精度を高めるため、出力に時間をかけるモデル）となる。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 28
-    },
-    {
       "title": "AWSとGoogle Cloudが「PyTorch」のAWS Trainium、Google Cloud TPU対応版をオープンソースで公開。NVIDIAからの移行に挑む",
       "link": "https://www.publickey1.jp/blog/26/awsgoogle_cloudpytorchaws_trainiumgoogle_cloud_tpunvidia.html",
       "date": "2026-10-27T00:59:52+09:00",
@@ -250,36 +261,25 @@
       "score": 28
     },
     {
-      "title": "元Samsung副社長が率いるBOSの勝算 Tenstorrent製NPUとオープン規格で挑む車載AI「Eagle-N」",
-      "link": "https://ascii.jp/elem/000/004/447/4447577/?rss",
-      "date": "2026-11-02T12:00:00+09:00",
-      "dateLabel": "11/02 12:00",
-      "desc": "Hot Chips 2026の解説シリーズであるが、今回からAIプロセッサーに移りたい。まずはBOS SemiconductorのEagle-Nを取り上げる。",
-      "img": "https://ascii.jp/img/2026/11/01/4546573/s/0b3f23276970f342.jpg",
+      "title": "紙の手書き×録音×GPT-5。夢のスマートノート「fitn Focus」11月5日（木）11時にMakuakeにて登場。期間限定2,000円OFFクーポン配布中！",
+      "link": "https://ascii.jp/elem/000/004/447/4447986/?rss",
+      "date": "2026-11-02T18:49:07+09:00",
+      "dateLabel": "11/02 18:49",
+      "desc": "紙の手書き×録音×GPT-5。夢のスマートノート「fitn Focus」11月5日（木）11時にMakuakeにて登場。期間限定2,000円OFFクーポン配布中！",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "半導体/GPU",
+      "cat": "LLM/モデル",
       "score": 26
     },
     {
-      "title": "尿だけで10種類のがんリスクがわかる？ 「マイシグナル」の仕組みを調べてみた",
-      "link": "https://ascii.jp/elem/000/004/438/4438669/?rss",
-      "date": "2026-11-02T12:00:00+09:00",
-      "dateLabel": "11/02 12:00",
-      "desc": "尿1回で10種類のがんリスクを調べられるCraifの「マイシグナル・スキャン」。なぜ尿から肺や胃、すい臓などのがんリスクまでわかるのか。尿中のマイクロRNAとAIを使った検査の仕組みを紹介する。",
-      "img": "https://ascii.jp/img/2026/09/30/4532274/s/361172db36a59091.jpg",
+      "title": "ファンコミュニケーション・プラットフォーム「FaveConnect」を活用し、「Straight Angeli」の公式ファンクラブサイトがオープン！早期入会キャンペーン実施中！",
+      "link": "https://ascii.jp/elem/000/004/447/4447979/?rss",
+      "date": "2026-11-02T18:00:00+09:00",
+      "dateLabel": "11/02 18:00",
+      "desc": "ファンコミュニケーション・プラットフォーム「FaveConnect」を活用し、「Straight Angeli」の公式ファンクラブサイトがオープン！早期入会キャンペーン実施中！",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "「AI学習への使用拒否をウェブサイト側から明示できる仕組み」にGoogle・OpenAI・Microsoftが対応表明、各社が同じ仕組みを採用し対応の手間が緩和される予定",
-      "link": "https://gigazine.net/news/20261102-ai-training-control/",
-      "date": "2026-11-02T11:45:00+09:00",
-      "dateLabel": "11/02 11:45",
-      "desc": "「ウェブサイトのコンテンツをAI学習に使用することの可否」をrobot.txtを用いて明示できるようにする仕様の作成が進んでいます。この仕様について、Google・OpenAI・Microsoftが対応を表明しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 26
     }
   ]
