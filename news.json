@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-03T20:28:04.456409+09:00",
-  "generatedLabel": "2026/11/03 20:28",
+  "generatedAt": "2026-11-04T03:47:42.098224+09:00",
+  "generatedLabel": "2026/11/04 03:47",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 52,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 8
+      "items": 9
     },
     {
       "source": "AINOW",
@@ -63,17 +63,6 @@
   ],
   "articles": [
     {
-      "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
-      "link": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
-      "date": "2026-11-02T23:36:38+09:00",
-      "dateLabel": "11/02 23:36",
-      "desc": "GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。 Copilot Fusi...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 58
-    },
-    {
       "title": "Marvell、光通信技術のLumentumを約18兆円で買収 AIデータセンターの高速化に対応",
       "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002830/",
       "date": "2026-11-03T07:07:56+09:00",
@@ -83,6 +72,28 @@
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
       "score": 50
+    },
+    {
+      "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
+      "link": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
+      "date": "2026-11-02T23:36:38+09:00",
+      "dateLabel": "11/02 23:36",
+      "desc": "GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。 Copilot Fusi...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
+      "title": "GitHub、より高度なコードレビューを行う「Copilot Code Review Max」発表。GitHub Universe 2026",
+      "link": "https://www.publickey1.jp/blog/26/githubcopilot_code_review_maxgithub_universe_2026.html",
+      "date": "2026-11-04T00:14:57+09:00",
+      "dateLabel": "11/04 00:14",
+      "desc": "GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、より高度なコードレビューを行う新機能「Copilot Code Review Max」を発表しました。 Gi...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 42
     },
     {
       "title": "社会人向け英語学習サービス「EiDrill」、Claude・ChatGPT との連携（MCP）を開始 いつもの AI に話しかけるだけで TOEIC(R) 形式のドリルと復習、学習記録はアプリと共通",
@@ -129,17 +140,6 @@
       "score": 42
     },
     {
-      "title": "nanochatの日本語版フォーク「nanochat-jp」、トークナイザ学習・事前学習・SFT・RL・評価・推論を単一リポジトリで完結させ、SentencePiece Unigram トークナイザ・日本語コーパスと日本語 SFT/RL データ・日本語ベンチマーク（CORE / ChatCORE）・HuggingFace形式への変換器あり",
-      "link": "https://gigazine.net/news/20261102-nanochat-jp/",
-      "date": "2026-11-02T23:00:00+09:00",
-      "dateLabel": "11/02 23:00",
-      "desc": "日本語を扱うAIモデルを一から開発する際には学習用の文章を集めるだけでなく、文章を細かく分割するトークナイザの作成や追加学習・性能の評価などの工程が必要です。こうした作業を個別に組み合わせる手間を減らし、日本語の学習データや評価用のプログラムをまとめて利用できるようにしたのが「nanochat」の日本語版フォーク「nanochat-jp」です。 続きを読む.",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 42
-    },
-    {
       "title": "ChatGPTの「Chat」と「Work」統合へ 利用制限はCodexと共通化",
       "link": "https://www.itmedia.co.jp/aiplus/article/2611/02/2000002781/",
       "date": "2026-11-02T10:50:32+09:00",
@@ -151,15 +151,15 @@
       "score": 42
     },
     {
-      "title": "JavaScriptランタイムの「Bun」がPrettier互換で300倍以上高速なフォーマッタに。Prettier設定ファイルもそのまま利用可能",
-      "link": "https://www.publickey1.jp/blog/26/javascriptbunprettier300prettier.html",
-      "date": "2026-10-28T00:27:52+09:00",
-      "dateLabel": "10/28 00:27",
-      "desc": "Anthropicが開発しているJavaScriptランタイムの「Bun」の新機能として、Prettier互換のフォーマッタ搭載が発表されました。 2026年10月22日付けでリリースされたBun v1.4.4に搭載されたPrettier互...",
+      "title": "GitHubが従来比180倍のスループット性能向上を実現へ、来年初頭に。AIエージェント時代に対応。GitHub Universe 2026",
+      "link": "https://www.publickey1.jp/blog/26/github180aigithub_universe_2026.html",
+      "date": "2026-11-04T00:16:22+09:00",
+      "dateLabel": "11/04 00:16",
+      "desc": "GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、AIエージェント時代に対応した大幅な性能向上を実現することを明らかにしました。 性能向上はGitHubの基盤...",
       "img": "",
       "src": "Publickey",
-      "cat": "LLM/モデル",
-      "score": 36
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "世界のAIデータセンター向けシリコンフォトニクス市場、2034年に146億米ドルへ拡大予測 ― 年平均18.0％成長、生成AIと高速光通信需要が市場を牽引",
@@ -173,14 +173,14 @@
       "score": 34
     },
     {
-      "title": "Cursor公式マーケットプレイスの「Claude Code」にSSHバックドアが発見される",
-      "link": "https://gigazine.net/news/20261102-official-claude-code-extension-compromise/",
-      "date": "2026-11-02T21:45:00+09:00",
-      "dateLabel": "11/02 21:45",
-      "desc": "AI搭載コードエディター「Cursor」の公式拡張機能マーケットプレイスで配布されていた「Claude Code」の一部バージョンにPCへの不正アクセスを可能にするSSHバックドアが仕込まれていた問題について、セキュリティ企業のPhorionが2026年10月30日に詳細な分析結果を公開しました。 続きを読む...",
+      "title": "nanochatの日本語版フォーク「nanochat-jp」、トークナイザ学習・事前学習・SFT・RL・評価・推論を単一リポジトリで完結させ、SentencePiece Unigram トークナイザ・日本語コーパスと日本語 SFT/RL データ・日本語ベンチマーク（CORE / ChatCORE）・HuggingFace形式への変換器あり",
+      "link": "https://gigazine.net/news/20261102-nanochat-jp/",
+      "date": "2026-11-02T23:00:00+09:00",
+      "dateLabel": "11/02 23:00",
+      "desc": "日本語を扱うAIモデルを一から開発する際には学習用の文章を集めるだけでなく、文章を細かく分割するトークナイザの作成や追加学習・性能の評価などの工程が必要です。こうした作業を個別に組み合わせる手間を減らし、日本語の学習データや評価用のプログラムをまとめて利用できるようにしたのが「nanochat」の日本語版フォーク「nanochat-jp」です。 続きを読む.",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "LLM/モデル",
+      "cat": "AI全般",
       "score": 34
     },
     {
@@ -217,6 +217,17 @@
       "score": 34
     },
     {
+      "title": "JavaScriptランタイムの「Bun」がPrettier互換で300倍以上高速なフォーマッタに。Prettier設定ファイルもそのまま利用可能",
+      "link": "https://www.publickey1.jp/blog/26/javascriptbunprettier300prettier.html",
+      "date": "2026-10-28T00:27:52+09:00",
+      "dateLabel": "10/28 00:27",
+      "desc": "Anthropicが開発しているJavaScriptランタイムの「Bun」の新機能として、Prettier互換のフォーマッタ搭載が発表されました。 2026年10月22日付けでリリースされたBun v1.4.4に搭載されたPrettier互...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "LLM/モデル",
+      "score": 32
+    },
+    {
       "title": "AIの「費用対効果が分からない」問題、解決へ？ Claude Enterprise搭載の「3つの新機能」",
       "link": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news009.html",
       "date": "2026-10-31T09:00:00+09:00",
@@ -226,6 +237,28 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 28
+    },
+    {
+      "title": "AIエージェントのガバナンスとは？構築6ステップと社内規程・体制の作り方",
+      "link": "https://ainow.ai/2026/11/04/278500/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e3%2582%25ac%25e3%2583%2590%25e3%2583%258a%25e3%2583%25b3%25e3%2582%25b9%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e6%25a7%258b%25e7%25af%25896%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583%25e3%2583%2597",
+      "date": "2026-11-04T00:22:08+09:00",
+      "dateLabel": "11/04 00:22",
+      "desc": "部署ごとにAIエージェントが増え、監査部門から「誰が権限を承認し、誰が止めるのか」と問われて答えに詰まっていないでしょうか。本記事では、AIエージェントのガバナンスで決めるべき6つの要素と、体制づくりから社内規程までの構... The post AIエージェントのガバナンスとは？構築6ステップと社内規程・体制の作り方 first appeared on AI",
+      "img": "",
+      "src": "AINOW",
+      "cat": "規制/安全",
+      "score": 26
+    },
+    {
+      "title": "AIエージェントを比較！業務向け主要15サービスの違いと稟議用評価シート",
+      "link": "https://ainow.ai/2026/11/04/278497/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e6%25af%2594%25e8%25bc%2583%25ef%25bc%2581%25e6%25a5%25ad%25e5%258b%2599%25e5%2590%2591%25e3%2581%2591%25e4%25b8%25bb%25e8%25a6%258115%25e3%2582%25b5%25e3%2583%25bc%25e3%2583%2593%25e3%2582%25b9%25e3%2581%25ae",
+      "date": "2026-11-04T00:01:22+09:00",
+      "dateLabel": "11/04 00:01",
+      "desc": "AIエージェントの比較記事を読むほど候補が増え、自社に合う製品を絞り込めない。本記事では、3種類に分けた主要15サービスの比較表、迷いやすい製品同士の違い、稟議に使える評価シートを、2026年11月時点の公式情報をもとに... The post AIエージェントを比較！業務向け主要15サービスの違いと稟議用評価シート first appeared on AI",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 26
     },
     {
       "title": "バックグラウンドで動作するAIエージェント用のメールっぽい受信箱「Pizza Bot」、Windows/macOS/Linuxに対応したセルフホスト型のデスクトップアプリでローカルAIモデルなどあらゆるAIモデルに対応して通知によるアクション管理が可能",
@@ -245,39 +278,6 @@
       "dateLabel": "11/03 12:00",
       "desc": "マツダのロードスター耐久レースに向け、もてぎで開催されたカートの7時間耐久「K-TAI」に参戦しました。最高速120km/hの恐怖や追突スピンなどのハプニングを乗り越え、チームの力で見事完走。入門に最適なカートの魅力と、耐久レースの真髄であるチームワークの重要性をレポートします。",
       "img": "https://ascii.jp/img/2026/11/01/4546673/s/518fdf2c05d6984d.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "アメリカ産基板を中国産の2倍の速さで爆速納品可能な工業規模ロボット「The Grid」、注文に応じて回路基板を製造可能",
-      "link": "https://gigazine.net/news/20261103-circuithub-the-grid/",
-      "date": "2026-11-03T12:00:00+09:00",
-      "dateLabel": "11/03 12:00",
-      "desc": "電子回路基板の製造サービスを提供するCircuitHubが、アメリカ国内で中国・深圳の工場よりも約2倍速く回路基板を納品できるという製造システム「The Grid」を2026年10月26日に発表しました。The Gridは工場全体を1つの巨大なロボットとして動かし、注文ごとに設計が異なる回路基板を自動で製造できます。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "AIでデザインが簡単になっても残る仕事 AIで変わる4人のクリエイターの仕事と人生",
-      "link": "https://ascii.jp/elem/000/004/444/4444030/?rss",
-      "date": "2026-11-03T11:00:00+09:00",
-      "dateLabel": "11/03 11:00",
-      "desc": "2026年9月5日、動画編集アプリ「CapCut（キャップカット）」は、初のグローバルコミュニティイベント「CapCut World」をシンガポールのCapella Singaporeで開催した。今回は、個別に取材した日本のISSEIさんに加え、メディアセッションに登壇した日本のしまやすさん、インドネシアのErinatiさん、シンガポールのHenri Kan",
-      "img": "https://ascii.jp/img/2026/10/20/4540871/s/271601dff974fb3a.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "全自動ブラウザ操作AI「Cowork」、操作中のページをハイライト表示",
-      "link": "https://ascii.jp/elem/000/004/448/4448025/?rss",
-      "date": "2026-11-03T10:46:23+09:00",
-      "dateLabel": "11/03 10:46",
-      "desc": "全自動ブラウザ操作AI「Cowork」、操作中のページをハイライト表示",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
