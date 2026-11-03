@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-03T06:02:12.900402+09:00",
-  "generatedLabel": "2026/11/03 06:02",
+  "generatedAt": "2026-11-03T12:09:10.698002+09:00",
+  "generatedLabel": "2026/11/03 12:09",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 51,
+  "candidates": 50,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,7 +13,7 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 17
+      "items": 18
     },
     {
       "source": "ASCII.jp",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 8
     },
     {
       "source": "CNET Japan",
@@ -74,14 +74,14 @@
       "score": 58
     },
     {
-      "title": "ChatGPTの「Chat」と「Work」統合へ 利用制限はCodexと共通化",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/02/2000002781/",
-      "date": "2026-11-02T10:50:32+09:00",
-      "dateLabel": "11/02 10:50",
-      "desc": "OpenAIはChatGPT Workのエージェント機能をChatGPTに統合する予定とし、CodexとChatGPTで有料プランの利用量制限が共通化されると発表した。",
+      "title": "Marvell、光通信技術のLumentumを約18兆円で買収 AIデータセンターの高速化に対応",
+      "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002830/",
+      "date": "2026-11-03T07:07:56+09:00",
+      "dateLabel": "11/03 07:07",
+      "desc": "半導体大手のMarvell Technologyは、光通信関連製品を手掛けるLumentum Holdingsを買収することで合意したと発表した。買収額は約1150億ドル。AIデータセンターで急増するデータ通信需要に対応するため、自社の半導体技術とLumentumの光通信技術を統合し、次世代AI接続技術の提供を目指す。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
+      "cat": "半導体/GPU",
       "score": 50
     },
     {
@@ -118,17 +118,6 @@
       "score": 42
     },
     {
-      "title": "世界のAIデータセンター電力インフラ市場、2034年に307億米ドル規模へ拡大予測 ― 生成AI・GPU需要の急増を背景に年平均11.0％成長",
-      "link": "https://ascii.jp/elem/000/004/447/4447985/?rss",
-      "date": "2026-11-02T18:57:33+09:00",
-      "dateLabel": "11/02 18:57",
-      "desc": "世界のAIデータセンター電力インフラ市場、2034年に307億米ドル規模へ拡大予測 ― 生成AI・GPU需要の急増を背景に年平均11.0％成長",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
       "title": "DeepSeekがGitHubを監視してコーディングの問題を検出し解決策を提案するコーディングエージェントの研究プロトタイプ「dsh-superagent」をオープンソース化",
       "link": "https://gigazine.net/news/20261102-deepseek-dsh-superagent/",
       "date": "2026-11-02T14:05:00+09:00",
@@ -140,22 +129,11 @@
       "score": 42
     },
     {
-      "title": "Anthropicが11月3日から旧バージョンのClaudeにもテキスト透かしを追加する",
-      "link": "https://gigazine.net/news/20261102-anthropic-expands-text-watermarking-older-claude-november-3/",
-      "date": "2026-11-02T11:24:00+09:00",
-      "dateLabel": "11/02 11:24",
-      "desc": "Anthropicが2026年11月3日から、古いAIモデルでもテキスト透かしを追加すると発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "オラクルの機能がChatGPTで利用可能に 複数システムをまたぐ業務をAIで自動化",
-      "link": "https://kn.itmedia.co.jp/kn/article/2611/02/2000002740/",
-      "date": "2026-11-02T07:00:00+09:00",
-      "dateLabel": "11/02 07:00",
-      "desc": "オラクルがOpenAIとの協業を拡大し、ChatGPTやCodex、AI技術を活用し、業務の効率化・実行からソフトウェアの脆弱性の検出、アプリケーション開発まで幅広く支援する。小規模企業には年間1万2000ドル分のクラウド利用枠を含むプランを提供する。",
+      "title": "ChatGPTの「Chat」と「Work」統合へ 利用制限はCodexと共通化",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/02/2000002781/",
+      "date": "2026-11-02T10:50:32+09:00",
+      "dateLabel": "11/02 10:50",
+      "desc": "OpenAIはChatGPT Workのエージェント機能をChatGPTに統合する予定とし、CodexとChatGPTで有料プランの利用量制限が共通化されると発表した。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
@@ -195,6 +173,17 @@
       "score": 34
     },
     {
+      "title": "【イベントレポート】マイキー佐野、さくらインベスト主催の投資セミナーに登壇。AIバブルの行方と米中対立を踏まえた投資戦略を解説",
+      "link": "https://ascii.jp/elem/000/004/448/4448000/?rss",
+      "date": "2026-11-02T19:30:00+09:00",
+      "dateLabel": "11/02 19:30",
+      "desc": "【イベントレポート】マイキー佐野、さくらインベスト主催の投資セミナーに登壇。AIバブルの行方と米中対立を踏まえた投資戦略を解説",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "音声ファイルから雑音を除去してクリアな音声にできるAI「NemotronLabs-RE-USE」をNVIDIAが公開",
       "link": "https://gigazine.net/news/20261102-nvidia-nemotronlabs-re-use/",
       "date": "2026-11-02T16:09:00+09:00",
@@ -217,47 +206,14 @@
       "score": 34
     },
     {
-      "title": "GoogleのAI「Gemma 4」搭載衛星から「宇宙にいるAIからの世界初の応答」として俳句が送信される",
-      "link": "https://gigazine.net/news/20261102-google-project-suncatcher-haiku/",
-      "date": "2026-11-02T11:30:00+09:00",
-      "dateLabel": "11/02 11:30",
-      "desc": "Googleは2026年10月30日、宇宙空間でAIによる計算処理を行う研究プロジェクト「Project Suncatcher」において、人工衛星に搭載したAI向けプロセッサ「TPU」を使い、AIモデルからの応答を受信することに成功したと発表しました。Googleによると、軌道上にあるデータセンター級のTPUを使ってAIから応答を得たのは世界初とのことです。",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "OpenAIのサム・アルトマンCEOはどういう意図で「RAM(メモリ)は個人が抱えるよりもデータセンターで持つ方がいい」と発言したのか？",
-      "link": "https://gigazine.net/news/20261102-sam-altman-ram-cloud-then-desk/",
-      "date": "2026-11-02T10:46:00+09:00",
-      "dateLabel": "11/02 10:46",
-      "desc": "OpenAIのサム・アルトマンCEOがインタビューの中で、世界的に供給が限られているDRAMを個人のPCに大量に搭載することについて、資源配分の観点から「非常に非効率だ」と指摘しました。アルトマンCEOは「各自のPCでAIを動かすよりも、クラウド上でメモリを効率的に利用する方が望ましい」との考えを示しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "Anthropic、「Claude」の「Max 20x」を「Ultra」に名称変更 月200ドルで5時間ごとの利用制限を撤廃",
-      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002777/",
-      "date": "2026-11-02T07:00:23+09:00",
-      "dateLabel": "11/02 07:00",
-      "desc": "Anthropicは、「Claude」の個人向け有料プランの名称を変更し、月額100ドルの「Max 5x」を「Max」に、月額200ドルの「Max 20x」を「Ultra」にした。料金は据え置き。Ultraでは確認済みアカウントを対象に、5時間ごとの利用制限を撤廃した。週ごとの制限は変わらない。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "キオクシア「設備投資を急がねば……」 2027年分は完売、メモリ供給追い付くか",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/02/news031.html",
+      "title": "オラクルの機能がChatGPTで利用可能に 複数システムをまたぐ業務をAIで自動化",
+      "link": "https://kn.itmedia.co.jp/kn/article/2611/02/2000002740/",
       "date": "2026-11-02T07:00:00+09:00",
       "dateLabel": "11/02 07:00",
-      "desc": "半導体メモリ大手のキオクシアは、2027年の生産能力が全て“完売”だと明かした。AIブームによる旺盛なメモリ需要に答えるため、年5000億円弱を投じて新工場を建設する。",
+      "desc": "オラクルがOpenAIとの協業を拡大し、ChatGPTやCodex、AI技術を活用し、業務の効率化・実行からソフトウェアの脆弱性の検出、アプリケーション開発まで幅広く支援する。小規模企業には年間1万2000ドル分のクラウド利用枠を含むプランを提供する。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -280,7 +236,51 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
+      "score": 28
+    },
+    {
+      "title": "最高速120km/hで追突スピン!? 素人がもてぎ7時間耐久カート「K-TAI」に挑んだ結果",
+      "link": "https://ascii.jp/elem/000/004/447/4447606/?rss",
+      "date": "2026-11-03T12:00:00+09:00",
+      "dateLabel": "11/03 12:00",
+      "desc": "マツダのロードスター耐久レースに向け、もてぎで開催されたカートの7時間耐久「K-TAI」に参戦しました。最高速120km/hの恐怖や追突スピンなどのハプニングを乗り越え、チームの力で見事完走。入門に最適なカートの魅力と、耐久レースの真髄であるチームワークの重要性をレポートします。",
+      "img": "https://ascii.jp/img/2026/11/01/4546673/s/518fdf2c05d6984d.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "アメリカ産基板を中国産の2倍の速さで爆速納品可能な工業規模ロボット「The Grid」、注文に応じて回路基板を製造可能",
+      "link": "https://gigazine.net/news/20261103-circuithub-the-grid/",
+      "date": "2026-11-03T12:00:00+09:00",
+      "dateLabel": "11/03 12:00",
+      "desc": "電子回路基板の製造サービスを提供するCircuitHubが、アメリカ国内で中国・深圳の工場よりも約2倍速く回路基板を納品できるという製造システム「The Grid」を2026年10月26日に発表しました。The Gridは工場全体を1つの巨大なロボットとして動かし、注文ごとに設計が異なる回路基板を自動で製造できます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
+      "title": "AIでデザインが簡単になっても残る仕事 AIで変わる4人のクリエイターの仕事と人生",
+      "link": "https://ascii.jp/elem/000/004/444/4444030/?rss",
+      "date": "2026-11-03T11:00:00+09:00",
+      "dateLabel": "11/03 11:00",
+      "desc": "2026年9月5日、動画編集アプリ「CapCut（キャップカット）」は、初のグローバルコミュニティイベント「CapCut World」をシンガポールのCapella Singaporeで開催した。今回は、個別に取材した日本のISSEIさんに加え、メディアセッションに登壇した日本のしまやすさん、インドネシアのErinatiさん、シンガポールのHenri Kan",
+      "img": "https://ascii.jp/img/2026/10/20/4540871/s/271601dff974fb3a.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "Anthropic、IPO申請書を修正 7?9月売上高は約170億ドル、インフラ契約額は約8954億ドル",
+      "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002831/",
+      "date": "2026-11-03T08:20:20+09:00",
+      "dateLabel": "11/03 08:20",
+      "desc": "Anthropicは、証券取引委員会（SEC）にIPOに向けた登録届出書の修正版を提出した。第3四半期の売上高は前年同期比約12.3倍の約169億ドルに拡大した一方、営業損益は赤字に転落。また、AI計算資源やインフラに関する将来の支出約束額が約8954億ドルに上ることも明らかにした。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
     }
   ]
 }
