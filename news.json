@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-03T12:09:10.698002+09:00",
-  "generatedLabel": "2026/11/03 12:09",
+  "generatedAt": "2026-11-03T20:28:04.456409+09:00",
+  "generatedLabel": "2026/11/03 20:28",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 50,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -85,14 +85,47 @@
       "score": 50
     },
     {
-      "title": "発表会実機速報!!＝XREALがGoogleと共同開発した次世代ARグラス「XREAL AURA」を日本でも発売開始",
-      "link": "https://ascii.jp/elem/000/004/447/4447994/?rss",
-      "date": "2026-11-03T01:00:00+09:00",
-      "dateLabel": "11/03 01:00",
-      "desc": "「XREAL AURA」は「Android XR」による空間コンピューティング、「Google Gemini」によるAIアシスタント、「Snapdragon Reality Eliteプラットフォーム」がもたらす高い処理能力を備えています",
-      "img": "https://ascii.jp/img/2026/11/02/4547135/s/bd5074e320625a37.jpg",
+      "title": "社会人向け英語学習サービス「EiDrill」、Claude・ChatGPT との連携（MCP）を開始 いつもの AI に話しかけるだけで TOEIC(R) 形式のドリルと復習、学習記録はアプリと共通",
+      "link": "https://ascii.jp/elem/000/004/448/4448043/?rss",
+      "date": "2026-11-03T16:06:20+09:00",
+      "dateLabel": "11/03 16:06",
+      "desc": "社会人向け英語学習サービス「EiDrill」、Claude・ChatGPT との連携（MCP）を開始 いつもの AI に話しかけるだけで TOEIC(R) 形式のドリルと復習、学習記録はアプリと共通",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "ゴムマリの業務AIエージェント、『Excel台帳のデータベース化』を提供開始",
+      "link": "https://ascii.jp/elem/000/004/448/4448036/?rss",
+      "date": "2026-11-03T12:00:00+09:00",
+      "dateLabel": "11/03 12:00",
+      "desc": "ゴムマリの業務AIエージェント、『Excel台帳のデータベース化』を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "「LLMOチェキ」、AI検索経由の訪問が問い合わせに結びついたかをエンジン別・質問別に把握できる機能を提供開始",
+      "link": "https://ascii.jp/elem/000/004/448/4448037/?rss",
+      "date": "2026-11-03T11:30:00+09:00",
+      "dateLabel": "11/03 11:30",
+      "desc": "「LLMOチェキ」、AI検索経由の訪問が問い合わせに結びついたかをエンジン別・質問別に把握できる機能を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "ゴムマリの業務AIエージェント、『入金消込』を提供開始",
+      "link": "https://ascii.jp/elem/000/004/448/4448022/?rss",
+      "date": "2026-11-03T11:00:00+09:00",
+      "dateLabel": "11/03 11:00",
+      "desc": "ゴムマリの業務AIエージェント、『入金消込』を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -104,28 +137,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 42
-    },
-    {
-      "title": "新ボス「クックマン」が『ロックマン: デュアル オーバーライド』に登場！コックと武闘家の二刀流",
-      "link": "https://ascii.jp/elem/000/004/447/4447925/?rss",
-      "date": "2026-11-02T20:15:00+09:00",
-      "dateLabel": "11/02 20:15",
-      "desc": "カプコンは、2027年春に発売予定の『ロックマン: デュアル オーバーライド』について、「gamescom asia x Thailand Game Show 2026」にて新ボスキャラクターの「クックマン」を公開したと11月2日に発表。",
-      "img": "https://ascii.jp/img/2026/11/02/4547059/s/9626c9a440524ab8.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 42
-    },
-    {
-      "title": "DeepSeekがGitHubを監視してコーディングの問題を検出し解決策を提案するコーディングエージェントの研究プロトタイプ「dsh-superagent」をオープンソース化",
-      "link": "https://gigazine.net/news/20261102-deepseek-dsh-superagent/",
-      "date": "2026-11-02T14:05:00+09:00",
-      "dateLabel": "11/02 14:05",
-      "desc": "「できる限り人の注意を引かず、できる限り多くの価値を提供する」という基本原則の下に作られたコーディングエージェント「dsh-superagent」が公開されました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -151,12 +162,12 @@
       "score": 36
     },
     {
-      "title": "NVIDIAが次世代CPU「RTX Spark」搭載製品の発売開始で技術説明会を開催",
-      "link": "https://ascii.jp/elem/000/004/447/4447997/?rss",
-      "date": "2026-11-03T02:00:00+09:00",
-      "dateLabel": "11/03 02:00",
-      "desc": "NVIDIAは次世代CPU「NVIDIA RTX Spark」搭載製品の発売を記念し、技術説明会を開催しました",
-      "img": "https://ascii.jp/img/2026/11/03/4547242/s/e77f38063f069c9b.jpg",
+      "title": "世界のAIデータセンター向けシリコンフォトニクス市場、2034年に146億米ドルへ拡大予測 ― 年平均18.0％成長、生成AIと高速光通信需要が市場を牽引",
+      "link": "https://ascii.jp/elem/000/004/448/4448046/?rss",
+      "date": "2026-11-03T14:55:36+09:00",
+      "dateLabel": "11/03 14:55",
+      "desc": "世界のAIデータセンター向けシリコンフォトニクス市場、2034年に146億米ドルへ拡大予測 ― 年平均18.0％成長、生成AIと高速光通信需要が市場を牽引",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "半導体/GPU",
       "score": 34
@@ -173,36 +184,14 @@
       "score": 34
     },
     {
-      "title": "【イベントレポート】マイキー佐野、さくらインベスト主催の投資セミナーに登壇。AIバブルの行方と米中対立を踏まえた投資戦略を解説",
-      "link": "https://ascii.jp/elem/000/004/448/4448000/?rss",
-      "date": "2026-11-02T19:30:00+09:00",
-      "dateLabel": "11/02 19:30",
-      "desc": "【イベントレポート】マイキー佐野、さくらインベスト主催の投資セミナーに登壇。AIバブルの行方と米中対立を踏まえた投資戦略を解説",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "音声ファイルから雑音を除去してクリアな音声にできるAI「NemotronLabs-RE-USE」をNVIDIAが公開",
-      "link": "https://gigazine.net/news/20261102-nvidia-nemotronlabs-re-use/",
-      "date": "2026-11-02T16:09:00+09:00",
-      "dateLabel": "11/02 16:09",
-      "desc": "音声ファイルからノイズを除去できるAIモデル「NemotronLabs-RE-USE」をNVIDIAが公開しました。コンテンツ制作用の音声素材の補正や、音声AIモデル用の学習データ作成に役立つとされています。 続きを読む...",
+      "title": "DeepSeekがGitHubを監視してコーディングの問題を検出し解決策を提案するコーディングエージェントの研究プロトタイプ「dsh-superagent」をオープンソース化",
+      "link": "https://gigazine.net/news/20261102-deepseek-dsh-superagent/",
+      "date": "2026-11-02T14:05:00+09:00",
+      "dateLabel": "11/02 14:05",
+      "desc": "「できる限り人の注意を引かず、できる限り多くの価値を提供する」という基本原則の下に作られたコーディングエージェント「dsh-superagent」が公開されました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "日本語特化で高速かつ高精度な文字起こしAI「Haas-ja-v1.0」が登場、オープンモデルの中で最高性能を記録",
-      "link": "https://gigazine.net/news/20261102-haas-ja-v1-asr/",
-      "date": "2026-11-02T15:24:00+09:00",
-      "dateLabel": "11/02 15:24",
-      "desc": "日本のAI企業であるThird Intelligenceが日本語特化の音声認識モデル「Haas-ja-v1.0」を公開しました。パラメーター数6億1580万の軽量モデルで、精度の高さと処理の速さを両立していることがアピールされています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -239,6 +228,17 @@
       "score": 28
     },
     {
+      "title": "バックグラウンドで動作するAIエージェント用のメールっぽい受信箱「Pizza Bot」、Windows/macOS/Linuxに対応したセルフホスト型のデスクトップアプリでローカルAIモデルなどあらゆるAIモデルに対応して通知によるアクション管理が可能",
+      "link": "https://gigazine.net/news/20261103-pizza-bot/",
+      "date": "2026-11-03T18:00:00+09:00",
+      "dateLabel": "11/03 18:00",
+      "desc": "複数のAIエージェントに作業を依頼する場合、途中の承認状態に気付かず作業が中断したり、作業が終了したことに気付かず次の指示待ちで放置されるなど作業効率が悪くなる場合があります。こうした無駄を無くすためAIエージェントをバックグラウンドで実行し、作業完了の通知や承認待ちの依頼をメールのような受信箱にまとめて管理できるほか、Windows・macOS・Linux",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
       "title": "最高速120km/hで追突スピン!? 素人がもてぎ7時間耐久カート「K-TAI」に挑んだ結果",
       "link": "https://ascii.jp/elem/000/004/447/4447606/?rss",
       "date": "2026-11-03T12:00:00+09:00",
@@ -272,14 +272,14 @@
       "score": 26
     },
     {
-      "title": "Anthropic、IPO申請書を修正 7?9月売上高は約170億ドル、インフラ契約額は約8954億ドル",
-      "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002831/",
-      "date": "2026-11-03T08:20:20+09:00",
-      "dateLabel": "11/03 08:20",
-      "desc": "Anthropicは、証券取引委員会（SEC）にIPOに向けた登録届出書の修正版を提出した。第3四半期の売上高は前年同期比約12.3倍の約169億ドルに拡大した一方、営業損益は赤字に転落。また、AI計算資源やインフラに関する将来の支出約束額が約8954億ドルに上ることも明らかにした。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
+      "title": "全自動ブラウザ操作AI「Cowork」、操作中のページをハイライト表示",
+      "link": "https://ascii.jp/elem/000/004/448/4448025/?rss",
+      "date": "2026-11-03T10:46:23+09:00",
+      "dateLabel": "11/03 10:46",
+      "desc": "全自動ブラウザ操作AI「Cowork」、操作中のページをハイライト表示",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 26
     }
   ]
