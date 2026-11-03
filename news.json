@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-04T03:47:42.098224+09:00",
-  "generatedLabel": "2026/11/04 03:47",
+  "generatedAt": "2026-11-04T08:46:44.489535+09:00",
+  "generatedLabel": "2026/11/04 08:46",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 53,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 8
+      "items": 9
     },
     {
       "source": "CNET Japan",
@@ -63,17 +63,6 @@
   ],
   "articles": [
     {
-      "title": "Marvell、光通信技術のLumentumを約18兆円で買収 AIデータセンターの高速化に対応",
-      "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002830/",
-      "date": "2026-11-03T07:07:56+09:00",
-      "dateLabel": "11/03 07:07",
-      "desc": "半導体大手のMarvell Technologyは、光通信関連製品を手掛けるLumentum Holdingsを買収することで合意したと発表した。買収額は約1150億ドル。AIデータセンターで急増するデータ通信需要に対応するため、自社の半導体技術とLumentumの光通信技術を統合し、次世代AI接続技術の提供を目指す。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
       "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
       "link": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
       "date": "2026-11-02T23:36:38+09:00",
@@ -83,6 +72,39 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 50
+    },
+    {
+      "title": "資料作成の「手直し地獄」がちょっと楽になる、Gemini新機能発表まとめ",
+      "link": "https://kn.itmedia.co.jp/kn/article/2611/04/2000002816/",
+      "date": "2026-11-04T07:00:00+09:00",
+      "dateLabel": "11/04 07:00",
+      "desc": "生成AIを使えば資料作成を効率化できるが、手直しや体裁の統一には手間がかかることもある。こうした課題に対応するため、GoogleはGeminiの2つの新機能を発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "音声入力とAI要約で保育記録を効率化するサービス、複数園児の記録を自動で判別・紐付け",
+      "link": "https://ascii.jp/elem/000/004/447/4447772/?rss",
+      "date": "2026-11-04T07:00:00+09:00",
+      "dateLabel": "11/04 07:00",
+      "desc": "ユニファ株式会社は10月27日、同社が展開する保育向け総合ICTサービス「ルクミー」において、特許取得済みの音声入力・AI要約機能を備えた新サービス「すくすくログ」のβ版を提供開始したと発表した。",
+      "img": "https://ascii.jp/img/2026/11/02/4546836/s/d2946f3f23b7435b.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 42
+    },
+    {
+      "title": "相次ぐAIエージェントの逸脱行動、監視には2つの記録が必要だ",
+      "link": "https://ascii.jp/elem/000/004/448/4448050/?rss",
+      "date": "2026-11-04T06:28:29+09:00",
+      "dateLabel": "11/04 06:28",
+      "desc": "オープンAIやアンソロピック、グーグル、メタのAIエージェントが制御を外れる事例が相次いでいる。規制当局はリアルタイムの監視を求めるが、主要なエージェント・フレームワークは、監視に欠かせない「何が起きたか」と「どう判断したか」の記録を十分に残せていない。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "規制/安全",
+      "score": 42
     },
     {
       "title": "GitHub、より高度なコードレビューを行う「Copilot Code Review Max」発表。GitHub Universe 2026",
@@ -118,25 +140,14 @@
       "score": 42
     },
     {
-      "title": "「LLMOチェキ」、AI検索経由の訪問が問い合わせに結びついたかをエンジン別・質問別に把握できる機能を提供開始",
-      "link": "https://ascii.jp/elem/000/004/448/4448037/?rss",
-      "date": "2026-11-03T11:30:00+09:00",
-      "dateLabel": "11/03 11:30",
-      "desc": "「LLMOチェキ」、AI検索経由の訪問が問い合わせに結びついたかをエンジン別・質問別に把握できる機能を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "ゴムマリの業務AIエージェント、『入金消込』を提供開始",
-      "link": "https://ascii.jp/elem/000/004/448/4448022/?rss",
-      "date": "2026-11-03T11:00:00+09:00",
-      "dateLabel": "11/03 11:00",
-      "desc": "ゴムマリの業務AIエージェント、『入金消込』を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
+      "title": "Marvell、光通信技術のLumentumを約18兆円で買収 AIデータセンターの高速化に対応",
+      "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002830/",
+      "date": "2026-11-03T07:07:56+09:00",
+      "dateLabel": "11/03 07:07",
+      "desc": "半導体大手のMarvell Technologyは、光通信関連製品を手掛けるLumentum Holdingsを買収することで合意したと発表した。買収額は約1150億ドル。AIデータセンターで急増するデータ通信需要に対応するため、自社の半導体技術とLumentumの光通信技術を統合し、次世代AI接続技術の提供を目指す。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
       "score": 42
     },
     {
@@ -149,6 +160,39 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 42
+    },
+    {
+      "title": "Google、学校の生徒向けAI機能を原則オフへ 「AIなしのGoogle検索」は選べず批判も",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002849/",
+      "date": "2026-11-04T07:31:04+09:00",
+      "dateLabel": "11/04 07:31",
+      "desc": "Googleは、K-12（幼稚園から高校まで）の生徒向けアカウントで生成AI「Gemini」や「Google検索」などを原則オフにすると発表した。管理者が有効化できるが、検索のAI機能のみを無効にはできず、AIを禁じる学校では検索自体が利用不可となる点が批判を集めている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "日立システムズ×スタートアップの環境DNA分析、森林整備の効果を「金額やデータ」で数値化するサービス",
+      "link": "https://ascii.jp/elem/000/004/447/4447451/?rss",
+      "date": "2026-11-04T07:00:00+09:00",
+      "dateLabel": "11/04 07:00",
+      "desc": "株式会社日立システムズは10月27日、ドローンとAIを活用した既存の「森林調査DXサービス」のオプションとして、森林の環境価値や将来変化を数値化する「ネイチャーポジティブ推進支援サービス」の提供を開始したと発表した。",
+      "img": "https://ascii.jp/img/2026/10/30/4546313/s/12344d7fbbef8a65.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "AIモデルのコモディティ化で富は開発企業から流通・決済システムへ移るという予測「The Commanding Heights」",
+      "link": "https://gigazine.net/news/20261104-the-commanding-heights/",
+      "date": "2026-11-04T07:00:00+09:00",
+      "dateLabel": "11/04 07:00",
+      "desc": "AIモデルの性能向上と低価格化が進むにつれて、AIが生み出す富はモデルを開発する企業ではなく、AIを社会に普及させる流通網や決済システムなどを支配する企業に集中するという予測をまとめた論考「The Commanding Heights」が、2026年10月29日に公開されました。マニディス氏とロバーツ氏は過去の技術革新を例に挙げ、AI開発競争や米中関係、世界",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "GitHubが従来比180倍のスループット性能向上を実現へ、来年初頭に。AIエージェント時代に対応。GitHub Universe 2026",
@@ -206,17 +250,6 @@
       "score": 34
     },
     {
-      "title": "AI学習への利用拒否をrobots.txtで一括指定へ OpenAIやGoogleなどが対応表明",
-      "link": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
-      "date": "2026-11-01T08:31:07+09:00",
-      "dateLabel": "11/01 08:31",
-      "desc": "OpenAI、Google、Microsoftは、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を一括で指定できる共通の仕組みへの対応を発表した。Anthropicも担当者が個人名義で実装を表明している。robots.txtに共通トークンを記述するだけで、AI各社のAIクローラーを一元管理できるようになる。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "JavaScriptランタイムの「Bun」がPrettier互換で300倍以上高速なフォーマッタに。Prettier設定ファイルもそのまま利用可能",
       "link": "https://www.publickey1.jp/blog/26/javascriptbunprettier300prettier.html",
       "date": "2026-10-28T00:27:52+09:00",
@@ -228,6 +261,17 @@
       "score": 32
     },
     {
+      "title": "AI学習への利用拒否をrobots.txtで一括指定へ OpenAIやGoogleなどが対応表明",
+      "link": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
+      "date": "2026-11-01T08:31:07+09:00",
+      "dateLabel": "11/01 08:31",
+      "desc": "OpenAI、Google、Microsoftは、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を一括で指定できる共通の仕組みへの対応を発表した。Anthropicも担当者が個人名義で実装を表明している。robots.txtに共通トークンを記述するだけで、AI各社のAIクローラーを一元管理できるようになる。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 28
+    },
+    {
       "title": "AIの「費用対効果が分からない」問題、解決へ？ Claude Enterprise搭載の「3つの新機能」",
       "link": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news009.html",
       "date": "2026-10-31T09:00:00+09:00",
@@ -237,50 +281,6 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 28
-    },
-    {
-      "title": "AIエージェントのガバナンスとは？構築6ステップと社内規程・体制の作り方",
-      "link": "https://ainow.ai/2026/11/04/278500/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e3%2582%25ac%25e3%2583%2590%25e3%2583%258a%25e3%2583%25b3%25e3%2582%25b9%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e6%25a7%258b%25e7%25af%25896%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583%25e3%2583%2597",
-      "date": "2026-11-04T00:22:08+09:00",
-      "dateLabel": "11/04 00:22",
-      "desc": "部署ごとにAIエージェントが増え、監査部門から「誰が権限を承認し、誰が止めるのか」と問われて答えに詰まっていないでしょうか。本記事では、AIエージェントのガバナンスで決めるべき6つの要素と、体制づくりから社内規程までの構... The post AIエージェントのガバナンスとは？構築6ステップと社内規程・体制の作り方 first appeared on AI",
-      "img": "",
-      "src": "AINOW",
-      "cat": "規制/安全",
-      "score": 26
-    },
-    {
-      "title": "AIエージェントを比較！業務向け主要15サービスの違いと稟議用評価シート",
-      "link": "https://ainow.ai/2026/11/04/278497/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e6%25af%2594%25e8%25bc%2583%25ef%25bc%2581%25e6%25a5%25ad%25e5%258b%2599%25e5%2590%2591%25e3%2581%2591%25e4%25b8%25bb%25e8%25a6%258115%25e3%2582%25b5%25e3%2583%25bc%25e3%2583%2593%25e3%2582%25b9%25e3%2581%25ae",
-      "date": "2026-11-04T00:01:22+09:00",
-      "dateLabel": "11/04 00:01",
-      "desc": "AIエージェントの比較記事を読むほど候補が増え、自社に合う製品を絞り込めない。本記事では、3種類に分けた主要15サービスの比較表、迷いやすい製品同士の違い、稟議に使える評価シートを、2026年11月時点の公式情報をもとに... The post AIエージェントを比較！業務向け主要15サービスの違いと稟議用評価シート first appeared on AI",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "バックグラウンドで動作するAIエージェント用のメールっぽい受信箱「Pizza Bot」、Windows/macOS/Linuxに対応したセルフホスト型のデスクトップアプリでローカルAIモデルなどあらゆるAIモデルに対応して通知によるアクション管理が可能",
-      "link": "https://gigazine.net/news/20261103-pizza-bot/",
-      "date": "2026-11-03T18:00:00+09:00",
-      "dateLabel": "11/03 18:00",
-      "desc": "複数のAIエージェントに作業を依頼する場合、途中の承認状態に気付かず作業が中断したり、作業が終了したことに気付かず次の指示待ちで放置されるなど作業効率が悪くなる場合があります。こうした無駄を無くすためAIエージェントをバックグラウンドで実行し、作業完了の通知や承認待ちの依頼をメールのような受信箱にまとめて管理できるほか、Windows・macOS・Linux",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "最高速120km/hで追突スピン!? 素人がもてぎ7時間耐久カート「K-TAI」に挑んだ結果",
-      "link": "https://ascii.jp/elem/000/004/447/4447606/?rss",
-      "date": "2026-11-03T12:00:00+09:00",
-      "dateLabel": "11/03 12:00",
-      "desc": "マツダのロードスター耐久レースに向け、もてぎで開催されたカートの7時間耐久「K-TAI」に参戦しました。最高速120km/hの恐怖や追突スピンなどのハプニングを乗り越え、チームの力で見事完走。入門に最適なカートの魅力と、耐久レースの真髄であるチームワークの重要性をレポートします。",
-      "img": "https://ascii.jp/img/2026/11/01/4546673/s/518fdf2c05d6984d.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
     }
   ]
 }
