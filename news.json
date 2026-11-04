@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-04T08:46:44.489535+09:00",
-  "generatedLabel": "2026/11/04 08:46",
+  "generatedAt": "2026-11-04T12:52:56.729933+09:00",
+  "generatedLabel": "2026/11/04 12:52",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 54,
+  "candidates": 48,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 18
+      "items": 17
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -74,6 +74,17 @@
       "score": 50
     },
     {
+      "title": "Anthropic、AIの応答が「本当にそのモデルによるものか」を暗号技術で証明する「FlashProve」を公開",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/04/2000002863/",
+      "date": "2026-11-04T10:40:15+09:00",
+      "dateLabel": "11/04 10:40",
+      "desc": "Anthropicは、AIモデルの応答が指定したモデルによるものかを暗号技術で証明するシステム「FlashProve」を発表した。ユーザーが応答の改ざんやモデルのすり替えを検知できるようにする。中身を明かさず計算の正しさを証明する暗号技術「zkSNARK」を活用しており、研究用プロトタイプとして関連コードなどを公開した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "資料作成の「手直し地獄」がちょっと楽になる、Gemini新機能発表まとめ",
       "link": "https://kn.itmedia.co.jp/kn/article/2611/04/2000002816/",
       "date": "2026-11-04T07:00:00+09:00",
@@ -85,28 +96,6 @@
       "score": 42
     },
     {
-      "title": "音声入力とAI要約で保育記録を効率化するサービス、複数園児の記録を自動で判別・紐付け",
-      "link": "https://ascii.jp/elem/000/004/447/4447772/?rss",
-      "date": "2026-11-04T07:00:00+09:00",
-      "dateLabel": "11/04 07:00",
-      "desc": "ユニファ株式会社は10月27日、同社が展開する保育向け総合ICTサービス「ルクミー」において、特許取得済みの音声入力・AI要約機能を備えた新サービス「すくすくログ」のβ版を提供開始したと発表した。",
-      "img": "https://ascii.jp/img/2026/11/02/4546836/s/d2946f3f23b7435b.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 42
-    },
-    {
-      "title": "相次ぐAIエージェントの逸脱行動、監視には2つの記録が必要だ",
-      "link": "https://ascii.jp/elem/000/004/448/4448050/?rss",
-      "date": "2026-11-04T06:28:29+09:00",
-      "dateLabel": "11/04 06:28",
-      "desc": "オープンAIやアンソロピック、グーグル、メタのAIエージェントが制御を外れる事例が相次いでいる。規制当局はリアルタイムの監視を求めるが、主要なエージェント・フレームワークは、監視に欠かせない「何が起きたか」と「どう判断したか」の記録を十分に残せていない。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "規制/安全",
-      "score": 42
-    },
-    {
       "title": "GitHub、より高度なコードレビューを行う「Copilot Code Review Max」発表。GitHub Universe 2026",
       "link": "https://www.publickey1.jp/blog/26/githubcopilot_code_review_maxgithub_universe_2026.html",
       "date": "2026-11-04T00:14:57+09:00",
@@ -114,28 +103,6 @@
       "desc": "GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、より高度なコードレビューを行う新機能「Copilot Code Review Max」を発表しました。 Gi...",
       "img": "",
       "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "社会人向け英語学習サービス「EiDrill」、Claude・ChatGPT との連携（MCP）を開始 いつもの AI に話しかけるだけで TOEIC(R) 形式のドリルと復習、学習記録はアプリと共通",
-      "link": "https://ascii.jp/elem/000/004/448/4448043/?rss",
-      "date": "2026-11-03T16:06:20+09:00",
-      "dateLabel": "11/03 16:06",
-      "desc": "社会人向け英語学習サービス「EiDrill」、Claude・ChatGPT との連携（MCP）を開始 いつもの AI に話しかけるだけで TOEIC(R) 形式のドリルと復習、学習記録はアプリと共通",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "ゴムマリの業務AIエージェント、『Excel台帳のデータベース化』を提供開始",
-      "link": "https://ascii.jp/elem/000/004/448/4448036/?rss",
-      "date": "2026-11-03T12:00:00+09:00",
-      "dateLabel": "11/03 12:00",
-      "desc": "ゴムマリの業務AIエージェント、『Excel台帳のデータベース化』を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
       "score": 42
     },
@@ -162,6 +129,50 @@
       "score": 42
     },
     {
+      "title": "ついに風呂でも使える！ A20 Pro搭載iPad miniは感動モノの薄さ・軽さ・高画質だった！",
+      "link": "https://ascii.jp/elem/000/004/448/4448069/?rss",
+      "date": "2026-11-04T12:00:00+09:00",
+      "dateLabel": "11/04 12:00",
+      "desc": "アップルが発表した「A20 Pro搭載iPad mini」の実機レビューです。約4万円の値上げとなりましたが、iPad初の防塵・耐水（IP67）と有機ELディスプレイを搭載し、厚さ5.4mmへと薄型化。Siri AIにも対応し、極上の高画質とお風呂でも使える機動力は納得の進化です。",
+      "img": "https://ascii.jp/img/2026/11/04/4547383/s/4fcdf6d82fe95f40.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "「特定のAIモデルで出力が生成されたこと」を証明できる仕組み「FlashProve」をAnthropicが開発",
+      "link": "https://gigazine.net/news/20261104-anthropic-flashprove/",
+      "date": "2026-11-04T11:07:00+09:00",
+      "dateLabel": "11/04 11:07",
+      "desc": "AIの性能は日々向上しており、ユーザーが使えるAIモデルの種類は急増しています。しかし、ユーザー側から「宣伝されている通りのAIモデルが使われているのか」を確かめる方法は限られており、サービス側が低性能AIモデルをこっそり使っている可能性を排除できません。この状況を打破するべく、Anthropicが「特定のAIモデルで出力が生成されたこと」を証明できる仕組み",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "Claudeプラン名変更で容量半減？→公式が否定 「元々、Max 20xの週次制限はProの10倍」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/04/2000002862/",
+      "date": "2026-11-04T10:26:51+09:00",
+      "dateLabel": "11/04 10:26",
+      "desc": "AnthropicはClaudeのプラン名「Max 5x」を「Max」に、「Max 20x」を「Ultra」に変更した。Ultraプランの使用制限が「20倍から10倍に減ったのでは」という声が寄せられている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "ザクティ、AIカメラで現場の危険を検知し、分析・改善まで支援する「アラートAI＋」今月より提供開始",
+      "link": "https://ascii.jp/elem/000/004/448/4448181/?rss",
+      "date": "2026-11-04T10:00:00+09:00",
+      "dateLabel": "11/04 10:00",
+      "desc": "ザクティ、AIカメラで現場の危険を検知し、分析・改善まで支援する「アラートAI＋」今月より提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "Google、学校の生徒向けAI機能を原則オフへ 「AIなしのGoogle検索」は選べず批判も",
       "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002849/",
       "date": "2026-11-04T07:31:04+09:00",
@@ -170,17 +181,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "日立システムズ×スタートアップの環境DNA分析、森林整備の効果を「金額やデータ」で数値化するサービス",
-      "link": "https://ascii.jp/elem/000/004/447/4447451/?rss",
-      "date": "2026-11-04T07:00:00+09:00",
-      "dateLabel": "11/04 07:00",
-      "desc": "株式会社日立システムズは10月27日、ドローンとAIを活用した既存の「森林調査DXサービス」のオプションとして、森林の環境価値や将来変化を数値化する「ネイチャーポジティブ推進支援サービス」の提供を開始したと発表した。",
-      "img": "https://ascii.jp/img/2026/10/30/4546313/s/12344d7fbbef8a65.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -206,17 +206,6 @@
       "score": 34
     },
     {
-      "title": "世界のAIデータセンター向けシリコンフォトニクス市場、2034年に146億米ドルへ拡大予測 ― 年平均18.0％成長、生成AIと高速光通信需要が市場を牽引",
-      "link": "https://ascii.jp/elem/000/004/448/4448046/?rss",
-      "date": "2026-11-03T14:55:36+09:00",
-      "dateLabel": "11/03 14:55",
-      "desc": "世界のAIデータセンター向けシリコンフォトニクス市場、2034年に146億米ドルへ拡大予測 ― 年平均18.0％成長、生成AIと高速光通信需要が市場を牽引",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
       "title": "nanochatの日本語版フォーク「nanochat-jp」、トークナイザ学習・事前学習・SFT・RL・評価・推論を単一リポジトリで完結させ、SentencePiece Unigram トークナイザ・日本語コーパスと日本語 SFT/RL データ・日本語ベンチマーク（CORE / ChatCORE）・HuggingFace形式への変換器あり",
       "link": "https://gigazine.net/news/20261102-nanochat-jp/",
       "date": "2026-11-02T23:00:00+09:00",
@@ -225,17 +214,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "DeepSeekがGitHubを監視してコーディングの問題を検出し解決策を提案するコーディングエージェントの研究プロトタイプ「dsh-superagent」をオープンソース化",
-      "link": "https://gigazine.net/news/20261102-deepseek-dsh-superagent/",
-      "date": "2026-11-02T14:05:00+09:00",
-      "dateLabel": "11/02 14:05",
-      "desc": "「できる限り人の注意を引かず、できる限り多くの価値を提供する」という基本原則の下に作られたコーディングエージェント「dsh-superagent」が公開されました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -261,26 +239,48 @@
       "score": 32
     },
     {
-      "title": "AI学習への利用拒否をrobots.txtで一括指定へ OpenAIやGoogleなどが対応表明",
-      "link": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
-      "date": "2026-11-01T08:31:07+09:00",
-      "dateLabel": "11/01 08:31",
-      "desc": "OpenAI、Google、Microsoftは、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を一括で指定できる共通の仕組みへの対応を発表した。Anthropicも担当者が個人名義で実装を表明している。robots.txtに共通トークンを記述するだけで、AI各社のAIクローラーを一元管理できるようになる。",
+      "title": "「GPT-6 AstraがQwen3.5-0.8Bの重みを書き換えて数学性能を約6倍に改善した」との研究結果、ただし「誤解を招く」との批判も",
+      "link": "https://gigazine.net/news/20261104-gpt-6-astra-qwen-weight-space-programming/",
+      "date": "2026-11-04T12:30:00+09:00",
+      "dateLabel": "11/04 12:30",
+      "desc": "マサチューセッツ工科大学(MIT)の研究チームが、AIモデル「GPT-6 Astra」を使って別のAIモデル「Qwen3.5-0.8B」の内部パラメーターを書き換え、数学問題の正答率を7.9％から48.1％に改善したと報告しました。追加学習を行わずに全体のわずか0.016％のパラメーターを変更したことによる成果ですが、研究の説明が誤解を招くとして批判する声も",
       "img": "",
-      "src": "ITmedia AI+",
+      "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 28
+      "score": 26
     },
     {
-      "title": "AIの「費用対効果が分からない」問題、解決へ？ Claude Enterprise搭載の「3つの新機能」",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news009.html",
-      "date": "2026-10-31T09:00:00+09:00",
-      "dateLabel": "10/31 09:00",
-      "desc": "AI導入が進む中で、IT部門は費用対効果を厳しく問われる局面に入っている。Anthropicが企業向けプラン「Claude Enterprise」に追加した新機能は、その説明材料になるか。利用状況の可視化から予算の配分まで、3つの機能の中身とは。",
+      "title": "耳栓の圧迫感が気になる人へ エアークッション構造の睡眠用「ECLEAR Earplug Air」、3,980円",
+      "link": "https://ascii.jp/elem/000/004/448/4448122/?rss",
+      "date": "2026-11-04T12:00:00+09:00",
+      "dateLabel": "11/04 12:00",
+      "desc": "睡眠用耳栓「ECLEAR Earplug Air」が11月上旬発売。エアークッション構造で耳への圧迫感を抑え、就寝時の騒音対策に。シリコン・ウレタンの2素材、XS〜Lの4サイズのイヤーチップが付属し、フィット感を調整できる。価格は3,980円。",
+      "img": "https://ascii.jp/img/2026/11/04/4547463/s/faf5ee435e0d9388.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "Googleが学校向けに検索機能をオフにするオプションを実装、代わりに学習者向けAIを搭載した検索機能を提供",
+      "link": "https://gigazine.net/news/20261104-google-guided-learning-search/",
+      "date": "2026-11-04T11:30:00+09:00",
+      "dateLabel": "11/04 11:30",
+      "desc": "Googleが学校向けに、AIのGeminiやGoogle検索を個別に無効化する機能を提供しました。また学習者向けに「答えを教えるのではなく学習方法を教える」という新しいAI搭載Google検索機能も実装しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "Apple、刷新版「Siri AI」を全開発者に開放 アプリ連携で予約や注文などの操作が可能に",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002855/",
+      "date": "2026-11-04T09:37:42+09:00",
+      "dateLabel": "11/04 09:37",
+      "desc": "Appleは、音声アシスタント「Siri AI」とサードパーティアプリを連携させる機能を開発者向けに開放すると発表し、各OSのβ版でプレビュー提供を開始した。「App Intents」を利用し、アプリを開かずにSiri AIから直接操作が可能になる。一般ユーザーへの提供は数カ月後の見込みだ。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 28
+      "cat": "AI全般",
+      "score": 26
     }
   ]
 }
