@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-06T00:55:29.244761+09:00",
-  "generatedLabel": "2026/11/06 00:55",
+  "generatedAt": "2026-11-06T06:41:28.019821+09:00",
+  "generatedLabel": "2026/11/06 06:41",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 53,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -217,17 +217,6 @@
       "score": 34
     },
     {
-      "title": "資料作成の「手直し地獄」がちょっと楽になる、Gemini新機能発表まとめ",
-      "link": "https://kn.itmedia.co.jp/kn/article/2611/04/2000002816/",
-      "date": "2026-11-04T07:00:00+09:00",
-      "dateLabel": "11/04 07:00",
-      "desc": "生成AIを使えば資料作成を効率化できるが、手直しや体裁の統一には手間がかかることもある。こうした課題に対応するため、GoogleはGeminiの2つの新機能を発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "GitHub、より高度なコードレビューを行う「Copilot Code Review Max」発表。GitHub Universe 2026",
       "link": "https://www.publickey1.jp/blog/26/githubcopilot_code_review_maxgithub_universe_2026.html",
       "date": "2026-11-04T00:14:57+09:00",
@@ -250,34 +239,45 @@
       "score": 32
     },
     {
+      "title": "デキるプログラマーほど「AI任せ」を嫌う、エージェント型開発のちょっと怖い話：904th Lap",
+      "link": "https://kn.itmedia.co.jp/kn/article/2611/06/2000002925/",
+      "date": "2026-11-06T06:00:00+09:00",
+      "dateLabel": "11/06 06:00",
+      "desc": "AIに実装を任せ、コードもテストも自動で進む「エージェント型開発」。効率化への期待が高まる一方、経験豊富な開発者ほど導入に慎重だ。コードが動けばそれでいい、とはいかないらしい。彼らが警戒するのは、動作確認だけでは分からない、その先のリスクだ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "AIは開発者やプログラマーたちに長年にわたって蓄積されてきた技術的負債を返済することを強いている",
+      "link": "https://gigazine.net/news/20261106-ai-in-cybersecurity-php2shell-vulnerability/",
+      "date": "2026-11-06T06:00:00+09:00",
+      "dateLabel": "11/06 06:00",
+      "desc": "2026年10月21日に発見された深刻なサイバーセキュリティ脆弱性「PHP2Shell」はNASA・Wikipedia・ホワイトハウスといった名だたるウェブサイトに影響を与える可能性があったものの、悪用される前に修正パッチがリリースされたため大規模な被害は回避されました。しかし、PHP2Shellはいわば「炭鉱のカナリア」でありAI時代に起こり得ることへの警",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "「48ドルの返金が4800ドルに」 AIエージェントの暴走を止める、本番運用の勘所",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/06/news012.html",
+      "date": "2026-11-06T05:00:00+09:00",
+      "dateLabel": "11/06 05:00",
+      "desc": "Linux Foundation傘下のAgentic AI Foundation（AAIF）が「AGNTCon + MCPCon Japan 2026」を東京・渋谷で開催した。同イベントとしては日本初開催となる。MCPの共同開発者らの講演から、AIエージェントの現在地と今後を読み解く。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
       "title": "有機ELの黒か、液晶の明るさか。タッチ対応OLED版とM6版、2つの新型MacBook Proの選び方",
       "link": "https://ascii.jp/elem/000/004/449/4449040/?rss",
       "date": "2026-11-05T23:00:00+09:00",
       "dateLabel": "11/05 23:00",
       "desc": "新型MacBook Proの先行レビューです。注目は、Mac初のタッチ対応有機EL（OLED）と「Dynamic Island」を搭載したモデル。液晶モデルより薄型・軽量化され、Siri AIや直感的な操作が可能です。ローカルAI検証ではM5 Maxが新世代のM6を圧倒しており、用途に合わせたチップ選びが重要です。",
       "img": "https://ascii.jp/img/2026/11/05/4548271/s/ba900841441a6385.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "アニメ配信サービスの終了でDVDやBlu-rayの「合法コピー」を可能にするためDMCA免除を求める動きが進んでいる",
-      "link": "https://gigazine.net/news/20261105-funimation-shutdown-legally-rip-anime/",
-      "date": "2026-11-05T20:00:00+09:00",
-      "dateLabel": "11/05 20:00",
-      "desc": "2024年4月、主に日本のアニメを海外向けに配信していた動画配信サービスのFunimationが閉鎖されました。この影響により、「DVDやBlu-rayの合法的なコピー」を可能にするためにデジタルミレニアム著作権法(DMCA)の免除を求める動きが進んでいます。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 26
-    },
-    {
-      "title": "明治大学理工学部にて「AI時代、コンサルティングはどう変わるのか」をテーマに特別講義を実施",
-      "link": "https://ascii.jp/elem/000/004/449/4449028/?rss",
-      "date": "2026-11-05T18:13:13+09:00",
-      "dateLabel": "11/05 18:13",
-      "desc": "明治大学理工学部にて「AI時代、コンサルティングはどう変わるのか」をテーマに特別講義を実施",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
