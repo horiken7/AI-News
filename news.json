@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-05T04:03:16.643343+09:00",
-  "generatedLabel": "2026/11/05 04:03",
+  "generatedAt": "2026-11-05T09:37:06.454241+09:00",
+  "generatedLabel": "2026/11/05 09:37",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 53,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 17
+      "items": 18
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 12
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -96,6 +96,17 @@
       "score": 50
     },
     {
+      "title": "GPT-6モデルはAstra、Sol、それともLuna？ OpenAIが教える、Codex爆速開発の鉄則",
+      "link": "https://kn.itmedia.co.jp/kn/article/2611/05/2000002770/",
+      "date": "2026-11-05T07:00:00+09:00",
+      "dateLabel": "11/05 07:00",
+      "desc": "AIエージェントの導入を検討する企業とって大きな懸念となるのがトークン消費に伴うAPI利用コストだろう。高性能な最上位モデルを全工程で走らせれば予算を圧迫し、安価なモデルを一律で選定すれば修正ループが増えて手戻りが発生する。限られた予算枠の中で開発スピードと品質を両立させるためにはどうしたらいいのか。OpenAI Japanの石田修平氏が解説する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "「GitHub Copilot Dreaming」発表。作業を振り返ってパーソナルメモリやガイダンスをバックグラウンドで整理、アップデート。GitHub Universe 2026",
       "link": "https://www.publickey1.jp/blog/26/github_copilot_dreaminggithub_universe_2026.html",
       "date": "2026-11-05T00:15:49+09:00",
@@ -140,17 +151,6 @@
       "score": 42
     },
     {
-      "title": "資料作成の「手直し地獄」がちょっと楽になる、Gemini新機能発表まとめ",
-      "link": "https://kn.itmedia.co.jp/kn/article/2611/04/2000002816/",
-      "date": "2026-11-04T07:00:00+09:00",
-      "dateLabel": "11/04 07:00",
-      "desc": "生成AIを使えば資料作成を効率化できるが、手直しや体裁の統一には手間がかかることもある。こうした課題に対応するため、GoogleはGeminiの2つの新機能を発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "Marvell、光通信技術のLumentumを約18兆円で買収 AIデータセンターの高速化に対応",
       "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002830/",
       "date": "2026-11-03T07:07:56+09:00",
@@ -162,15 +162,15 @@
       "score": 42
     },
     {
-      "title": "ChatGPTの「Chat」と「Work」統合へ 利用制限はCodexと共通化",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/02/2000002781/",
-      "date": "2026-11-02T10:50:32+09:00",
-      "dateLabel": "11/02 10:50",
-      "desc": "OpenAIはChatGPT Workのエージェント機能をChatGPTに統合する予定とし、CodexとChatGPTで有料プランの利用量制限が共通化されると発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
+      "title": "画像がリンクに、言葉が香りに デジタルとリアルを融合する先端研究",
+      "link": "https://ascii.jp/elem/000/004/445/4445377/?rss",
+      "date": "2026-11-05T06:00:00+09:00",
+      "dateLabel": "11/05 06:00",
+      "desc": "CEATEC 2026のネクストジェネレーションパークでは、画像そのものをリンクに変える技術や、言葉を香りに変える嗅覚ディスプレイ、レンズを使わずに細胞を観察する半導体チップなど、情報の伝え方や捉え方を変えるユニークな技術が展示されていた。",
+      "img": "https://ascii.jp/img/2026/10/23/4542585/s/6be33bcde90276d7.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
     },
     {
       "title": "富士フイルムが「磁気テープ」の製造能力を5倍に増強すると発表、AIブームによるデータアーカイブ需要増加に対応",
@@ -228,25 +228,14 @@
       "score": 34
     },
     {
-      "title": "Google、学校の生徒向けAI機能を原則オフへ 「AIなしのGoogle検索」は選べず批判も",
-      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002849/",
-      "date": "2026-11-04T07:31:04+09:00",
-      "dateLabel": "11/04 07:31",
-      "desc": "Googleは、K-12（幼稚園から高校まで）の生徒向けアカウントで生成AI「Gemini」や「Google検索」などを原則オフにすると発表した。管理者が有効化できるが、検索のAI機能のみを無効にはできず、AIを禁じる学校では検索自体が利用不可となる点が批判を集めている。",
+      "title": "資料作成の「手直し地獄」がちょっと楽になる、Gemini新機能発表まとめ",
+      "link": "https://kn.itmedia.co.jp/kn/article/2611/04/2000002816/",
+      "date": "2026-11-04T07:00:00+09:00",
+      "dateLabel": "11/04 07:00",
+      "desc": "生成AIを使えば資料作成を効率化できるが、手直しや体裁の統一には手間がかかることもある。こうした課題に対応するため、GoogleはGeminiの2つの新機能を発表した。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "AIモデルのコモディティ化で富は開発企業から流通・決済システムへ移るという予測「The Commanding Heights」",
-      "link": "https://gigazine.net/news/20261104-the-commanding-heights/",
-      "date": "2026-11-04T07:00:00+09:00",
-      "dateLabel": "11/04 07:00",
-      "desc": "AIモデルの性能向上と低価格化が進むにつれて、AIが生み出す富はモデルを開発する企業ではなく、AIを社会に普及させる流通網や決済システムなどを支配する企業に集中するという予測をまとめた論考「The Commanding Heights」が、2026年10月29日に公開されました。マニディス氏とロバーツ氏は過去の技術革新を例に挙げ、AI開発競争や米中関係、世界",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -272,13 +261,24 @@
       "score": 32
     },
     {
-      "title": "「AI」改め「超知能」から1カ月、トランプ大統領令に従っているのは？",
-      "link": "https://ascii.jp/elem/000/004/448/4448564/?rss",
-      "date": "2026-11-04T18:44:16+09:00",
-      "dateLabel": "11/04 18:44",
-      "desc": "画像クレジット:Stephanie Arnett/MIT Technology Review",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
+      "title": "「トイレ」に凝ったらAI需要で大躍進――TOTO、利益の7割かせぐ「半導体」ビジネスの正体",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/05/news018.html",
+      "date": "2026-11-05T07:00:00+09:00",
+      "dateLabel": "11/05 07:00",
+      "desc": "“トイレの会社”として知られるTOTOが、半導体ビジネスで化けている。半導体製造装置に使う材料が、営業利益の7割をかせぐまでに成長している。急成長の裏側を社長が語った。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "OSSは「プルリクエストを送る」から「自分用に直す」へ？ AI時代のメンテナーがPR受付を閉じると宣言した理由",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/05/news004.html",
+      "date": "2026-11-05T05:00:00+09:00",
+      "dateLabel": "11/05 05:00",
+      "desc": "AIが生成するプルリクエストの増加を受け、あるOSS開発者が「今後公開するコードではPRの受付をやめ、改変は自由にする」と宣言した。変更を上流に送るのではなく、各自が自分用にカスタマイズする「リミックスモデル」の中身と、その賛否を整理する。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "AI全般",
       "score": 26
     }
