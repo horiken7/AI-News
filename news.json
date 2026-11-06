@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-06T06:41:28.019821+09:00",
-  "generatedLabel": "2026/11/06 06:41",
+  "generatedAt": "2026-11-06T10:54:47.244057+09:00",
+  "generatedLabel": "2026/11/06 10:54",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 54,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -74,17 +74,6 @@
       "score": 50
     },
     {
-      "title": "GitHub、「Copilot Fusion」正式リリース タスクに応じて最適なAIモデル選択、高性能・低コスト両立",
-      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002869/",
-      "date": "2026-11-04T13:13:20+09:00",
-      "dateLabel": "11/04 13:13",
-      "desc": "米GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
       "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
       "link": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
       "date": "2026-11-02T23:36:38+09:00",
@@ -94,6 +83,39 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 44
+    },
+    {
+      "title": "導入済み生成AIから建築の工程管理を直接操作、作業集計や日程変更に対応するMCPサーバー",
+      "link": "https://ascii.jp/elem/000/004/448/4448970/?rss",
+      "date": "2026-11-06T10:00:00+09:00",
+      "dateLabel": "11/06 10:00",
+      "desc": "株式会社KENCOPAは11月2日、同社が提供する建設業務特化型AI「Kencopa工程AIエージェント」の新機能として、AIと外部サービスを接続する標準規格MCP（Model Context Protocol）に対応した外部連携機能の提供を開始した。",
+      "img": "https://ascii.jp/img/2026/11/05/4548226/s/59e675a9fbfa3271.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "Anthropic、「Claude」に家計管理機能「Personal Finance」 銀行口座と連携、米国でβ提供",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002935/",
+      "date": "2026-11-06T08:49:28+09:00",
+      "dateLabel": "11/06 08:49",
+      "desc": "Anthropicは、AI「Claude」に個人の財務状況を把握できる新機能「Personal Finance」β版を追加した。Plaid経由で銀行やカード口座を連携し、支出のカテゴリ分けや家計分析を自然言語で行える。データは読み取り専用で資金移動はできず、学習にも使われない。米国の有料プラン向けに順次提供される。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "OpenAI、データセンター立地地域への約束と政策提言を発表 電力費の全額負担や公職者とのNDA不使用など",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002928/",
+      "date": "2026-11-06T07:03:55+09:00",
+      "dateLabel": "11/06 07:03",
+      "desc": "OpenAIは、AI向けデータセンター（Compute Campusと呼び方を変更）の建設・運営に関する地域社会への約束と、政府向けの政策提言を発表した。電力や関連インフラ費用の全額負担、公職者との原則的なNDA不使用を盛り込むとともに、大口電力利用者への追加負担など、業界共通のルール作りを政府に求めている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 42
     },
     {
       "title": "GPT-6モデルはAstra、Sol、それともLuna？ OpenAIが教える、Codex爆速開発の鉄則",
@@ -140,6 +162,50 @@
       "score": 42
     },
     {
+      "title": "18型4K＋・120Hzの大画面！ MSI「Raider A18 HX A9W」、RTX 5090／5080搭載",
+      "link": "https://ascii.jp/elem/000/004/449/4449072/?rss",
+      "date": "2026-11-06T10:00:00+09:00",
+      "dateLabel": "11/06 10:00",
+      "desc": "MSIがRyzen 9 9955HX3DとGeForce RTX 5090/5080 Laptop GPUを搭載した18型ゲーミングノート「Raider A18 HX A9W」シリーズを11月12日に発売する。4K+ Mini LED、最大64GBメモリ、2TB SSDなどを備え、ゲーム、制作、ローカルAI用途までカバーするウルトラハイエンド機だ。",
+      "img": "https://ascii.jp/img/2026/11/06/4548488/s/d936d132afe2e54b.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
+      "date": "2026-11-06T07:57:34+09:00",
+      "dateLabel": "11/06 07:57",
+      "desc": "OpenAIは、サイバーセキュリティ特化型AI「GPT-6 Cyber」を発表した。汎用モデル「Astra」をベースに脆弱性発見や攻撃コード開発能力を大幅に強化。提供先は厳格な審査を通過した防御者に限定され、高度なAIによる攻撃が普及する前に、防御側が重要インフラの保護やシステム修正を迅速に行えるよう支援する狙いだ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "発電量より、時間と場所をどう合わせるか。系統用蓄電池が変える産業インフラ",
+      "link": "https://ascii.jp/elem/000/004/441/4441230/?rss",
+      "date": "2026-11-06T07:30:00+09:00",
+      "dateLabel": "11/06 07:30",
+      "desc": "再エネが増えるほど、電気をいつ、どこで使うかを調整する仕組みが重要になる。パワーエックスへの取材から、系統用蓄電池の役割、事業化を左右する系統接続や市場制度、日本企業の競争領域、データセンター立地まで広がる新しい産業インフラの姿を追った。",
+      "img": "https://ascii.jp/img/2026/10/08/4536203/s/d280de1b99e23ae1.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "20万円出すなら、32GBメモリも有機ELも欲しい。Core Ultra 7搭載のAcer「Swift Go 14 AI」がAmazonスマイルSALEで値下げ",
+      "link": "https://ascii.jp/elem/000/004/448/4448892/?rss",
+      "date": "2026-11-06T07:00:00+09:00",
+      "dateLabel": "11/06 07:00",
+      "desc": "AcerのノートPC「Swift Go 14 AI（SFG14-75-A73Z）」がAmazonスマイルSALE対象。過去価格228,639円から15％オフの193,820円で販売中。Core Ultra 7 258Vと32GBメモリ、1TB SSDを搭載し、14型有機ELディスプレーを採用する。Copilot+ PCにも対応。重量は約1.24kgで、最大約",
+      "img": "https://ascii.jp/img/2026/11/05/4548161/s/0aff67824b0867b6.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
       "title": "Core i7＋RTX 5060で18万4800円！ Lenovo「LOQ Essential」がAmazonスマイルSALEで値下げ",
       "link": "https://ascii.jp/elem/000/004/448/4448342/?rss",
       "date": "2026-11-05T20:50:00+09:00",
@@ -159,28 +225,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "【AmazonスマイルSALE】高性能Androidタブレット「RebotAi AG11」が34％OFF！UNISOC T7300・90Hz・Android 16搭載モデルが20,999円に",
-      "link": "https://ascii.jp/elem/000/004/449/4449044/?rss",
-      "date": "2026-11-05T18:30:00+09:00",
-      "dateLabel": "11/05 18:30",
-      "desc": "【AmazonスマイルSALE】高性能Androidタブレット「RebotAi AG11」が34％OFF！UNISOC T7300・90Hz・Android 16搭載モデルが20,999円に",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "Trust株式会社、ソースコードからAIで脆弱性を診断する「Webアプリケーション脆弱性診断サービス」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/449/4449027/?rss",
-      "date": "2026-11-05T18:24:01+09:00",
-      "dateLabel": "11/05 18:24",
-      "desc": "Trust株式会社、ソースコードからAIで脆弱性を診断する「Webアプリケーション脆弱性診断サービス」を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -206,17 +250,6 @@
       "score": 34
     },
     {
-      "title": "Anthropic、AIの応答が「本当にそのモデルによるものか」を暗号技術で証明する「FlashProve」を公開",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/04/2000002863/",
-      "date": "2026-11-04T10:40:15+09:00",
-      "dateLabel": "11/04 10:40",
-      "desc": "Anthropicは、AIモデルの応答が指定したモデルによるものかを暗号技術で証明するシステム「FlashProve」を発表した。ユーザーが応答の改ざんやモデルのすり替えを検知できるようにする。中身を明かさず計算の正しさを証明する暗号技術「zkSNARK」を活用しており、研究用プロトタイプとして関連コードなどを公開した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "GitHub、より高度なコードレビューを行う「Copilot Code Review Max」発表。GitHub Universe 2026",
       "link": "https://www.publickey1.jp/blog/26/githubcopilot_code_review_maxgithub_universe_2026.html",
       "date": "2026-11-04T00:14:57+09:00",
@@ -239,45 +272,12 @@
       "score": 32
     },
     {
-      "title": "デキるプログラマーほど「AI任せ」を嫌う、エージェント型開発のちょっと怖い話：904th Lap",
-      "link": "https://kn.itmedia.co.jp/kn/article/2611/06/2000002925/",
-      "date": "2026-11-06T06:00:00+09:00",
-      "dateLabel": "11/06 06:00",
-      "desc": "AIに実装を任せ、コードもテストも自動で進む「エージェント型開発」。効率化への期待が高まる一方、経験豊富な開発者ほど導入に慎重だ。コードが動けばそれでいい、とはいかないらしい。彼らが警戒するのは、動作確認だけでは分からない、その先のリスクだ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "AIは開発者やプログラマーたちに長年にわたって蓄積されてきた技術的負債を返済することを強いている",
-      "link": "https://gigazine.net/news/20261106-ai-in-cybersecurity-php2shell-vulnerability/",
-      "date": "2026-11-06T06:00:00+09:00",
-      "dateLabel": "11/06 06:00",
-      "desc": "2026年10月21日に発見された深刻なサイバーセキュリティ脆弱性「PHP2Shell」はNASA・Wikipedia・ホワイトハウスといった名だたるウェブサイトに影響を与える可能性があったものの、悪用される前に修正パッチがリリースされたため大規模な被害は回避されました。しかし、PHP2Shellはいわば「炭鉱のカナリア」でありAI時代に起こり得ることへの警",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "「48ドルの返金が4800ドルに」 AIエージェントの暴走を止める、本番運用の勘所",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/06/news012.html",
-      "date": "2026-11-06T05:00:00+09:00",
-      "dateLabel": "11/06 05:00",
-      "desc": "Linux Foundation傘下のAgentic AI Foundation（AAIF）が「AGNTCon + MCPCon Japan 2026」を東京・渋谷で開催した。同イベントとしては日本初開催となる。MCPの共同開発者らの講演から、AIエージェントの現在地と今後を読み解く。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "有機ELの黒か、液晶の明るさか。タッチ対応OLED版とM6版、2つの新型MacBook Proの選び方",
-      "link": "https://ascii.jp/elem/000/004/449/4449040/?rss",
-      "date": "2026-11-05T23:00:00+09:00",
-      "dateLabel": "11/05 23:00",
-      "desc": "新型MacBook Proの先行レビューです。注目は、Mac初のタッチ対応有機EL（OLED）と「Dynamic Island」を搭載したモデル。液晶モデルより薄型・軽量化され、Siri AIや直感的な操作が可能です。ローカルAI検証ではM5 Maxが新世代のM6を圧倒しており、用途に合わせたチップ選びが重要です。",
-      "img": "https://ascii.jp/img/2026/11/05/4548271/s/ba900841441a6385.jpg",
+      "title": "あの人気シリーズの全部入りアンドロイドが登場！ 2026年モデルもしっかりいいか確認",
+      "link": "https://ascii.jp/elem/000/004/449/4449057/?rss",
+      "date": "2026-11-06T10:00:00+09:00",
+      "dateLabel": "11/06 10:00",
+      "desc": "OPPO「Reno15 A」は、約8mmの薄型ボディに7000mAh大容量バッテリーを備えた全部入りミドルスマホです。最高等級IP69の防水防塵、AI編集対応の5000万画素カメラ、おサイフケータイを網羅。実売5万円以下でも買える、普段使いに最適な1台です。",
+      "img": "https://ascii.jp/img/2026/07/27/4505452/s/aa118d866400b8e3.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
