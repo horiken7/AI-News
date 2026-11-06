@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T17:44:36.542217+09:00",
-  "generatedLabel": "2026/11/06 17:44",
+  "generatedAt": "2026-11-07T01:28:57.536870+09:00",
+  "generatedLabel": "2026/11/07 01:28",
   "feedOk": 6,
   "feedNg": 5,
   "candidates": 58,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 16
     },
     {
       "source": "CNET Japan",
@@ -151,15 +151,26 @@
       "score": 42
     },
     {
-      "title": "GPT-6モデルはAstra、Sol、それともLuna？ OpenAIが教える、Codex爆速開発の鉄則",
-      "link": "https://kn.itmedia.co.jp/kn/article/2611/05/2000002770/",
-      "date": "2026-11-05T19:02:02+09:00",
-      "dateLabel": "11/05 19:02",
-      "desc": "AIエージェントの導入を検討する企業とって大きな懸念となるのがトークン消費に伴うAPI利用コストだろう。高性能な最上位モデルを全工程で走らせれば予算を圧迫し、安価なモデルを一律で選定すれば修正ループが増えて手戻りが発生する。限られた予算枠の中で開発スピードと品質を両立させるためにはどうしたらいいのか。OpenAI Japanの石田修平氏が解説する。",
+      "title": "無料でローカルAIを簡単にオフライン利用できるオープンソースアプリ「Hob」、Windows・Mac・Linux対応でPCに適したAIモデルの自動選択・ファイル操作・外部アプリ連携が可能",
+      "link": "https://gigazine.net/news/20261106-hob/",
+      "date": "2026-11-06T23:00:00+09:00",
+      "dateLabel": "11/06 23:00",
+      "desc": "自分のPCでAIを動かすには、PCの性能に合ったAIモデルを選んだり実行環境を構築したりする必要があり、AIとのチャットだけでなく手元のファイルを読み取らせたり加工したりするには追加の設定が必要になる場合もあります。こうした作業を自動化する無料のオープンソースアプリ「Hob」は、PCに適したAIモデルを選んで実行環境を構築し、文書や表計算ファイルの解析・編集",
       "img": "",
-      "src": "ITmedia AI+",
+      "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 42
+      "score": 34
+    },
+    {
+      "title": "Kindle向け高級ケースを、東京タワーを臨むAmazonの新社屋で見てきた！",
+      "link": "https://ascii.jp/elem/000/004/449/4449039/?rss",
+      "date": "2026-11-06T20:00:00+09:00",
+      "dateLabel": "11/06 20:00",
+      "desc": "Amazonの電子書籍リーダー「Kindle」シリーズが一新され、薄型化。この新しいKindleに合う、ミラノ発のBONAVENTURA、日本のMAISON CANAUと共同開発した日本限定のプレミアムレザースリーブが発表された。",
+      "img": "https://ascii.jp/img/2026/11/06/4548985/s/1ed922eb55bb886a.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "中国のBaiduが高性能AIモデル「ERNIE 5.5 Flash Base」を公開、今後の強化版を見据えた基盤モデル",
@@ -266,17 +277,6 @@
       "date": "2026-11-06T10:31:59+09:00",
       "dateLabel": "11/06 10:31",
       "desc": "米国の非営利研究機関METRは、Anthropicの協力を得て「AIがAI開発を加速させているかどうか」を評価したレポートを公開した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見",
-      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
-      "date": "2026-11-06T07:57:34+09:00",
-      "dateLabel": "11/06 07:57",
-      "desc": "OpenAIは、サイバーセキュリティ特化型AI「GPT-6 Cyber」を発表した。汎用モデル「Astra」をベースに脆弱性発見や攻撃コード開発能力を大幅に強化。提供先は厳格な審査を通過した防御者に限定され、高度なAIによる攻撃が普及する前に、防御側が重要インフラの保護やシステム修正を迅速に行えるよう支援する狙いだ。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
