@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-06T10:54:47.244057+09:00",
-  "generatedLabel": "2026/11/06 10:54",
+  "generatedAt": "2026-11-06T17:44:36.542217+09:00",
+  "generatedLabel": "2026/11/06 17:44",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 55,
+  "candidates": 58,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 18
+      "items": 19
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 11
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -63,11 +63,11 @@
   ],
   "articles": [
     {
-      "title": "OpenAIが画像生成AIツールの「Images 2.6」をリリース、GIF生成に対応し編集工程を細かく制御可能",
-      "link": "https://gigazine.net/news/20261105-openai-image-2-6/",
-      "date": "2026-11-05T13:48:00+09:00",
-      "dateLabel": "11/05 13:48",
-      "desc": "従来より約50％高速に画像を生成するというAIツール「Images 2.6」をOpenAIが発表しました。ChatGPTとCodex APIで利用できます。 続きを読む...",
+      "title": "OpenAI元CTOのAI企業が高性能AIモデル「Inkling 2 Small」を発表、近日中にオープンモデルとして公開される予定",
+      "link": "https://gigazine.net/news/20261106-inkling-2-small/",
+      "date": "2026-11-06T16:16:00+09:00",
+      "dateLabel": "11/06 16:16",
+      "desc": "OpenAIの元CTOであるミラ・ムラティ氏が設立したアメリカに拠点を置くAI研究企業「Thinking Machines Lab」が、AIモデル「Inkling 2 Small」を現地時間の2026年11月5日に発表しました。近日中にオープンモデルとして公開される予定です。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
@@ -85,13 +85,46 @@
       "score": 44
     },
     {
-      "title": "導入済み生成AIから建築の工程管理を直接操作、作業集計や日程変更に対応するMCPサーバー",
-      "link": "https://ascii.jp/elem/000/004/448/4448970/?rss",
-      "date": "2026-11-06T10:00:00+09:00",
-      "dateLabel": "11/06 10:00",
-      "desc": "株式会社KENCOPAは11月2日、同社が提供する建設業務特化型AI「Kencopa工程AIエージェント」の新機能として、AIと外部サービスを接続する標準規格MCP（Model Context Protocol）に対応した外部連携機能の提供を開始した。",
-      "img": "https://ascii.jp/img/2026/11/05/4548226/s/59e675a9fbfa3271.jpg",
-      "src": "ASCII.jp",
+      "title": "OpenAIが「AIデータセンターの電力やインフラは全額自己負担」「電気・水道の使用量を公表」などの約束を発表",
+      "link": "https://gigazine.net/news/20261106-openai-responsible-ai-infrastructure/",
+      "date": "2026-11-06T15:10:00+09:00",
+      "dateLabel": "11/06 15:10",
+      "desc": "2026年11月、アメリカで中間選挙に合わせて行われた複数の住民投票でAIデータセンターに反対する声が非常に強かったことを受けて、OpenAIがAIデータセンターの展開にあたっては地域に最大限配慮していくという内容の約束を発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "国内GPUサーバでオープンモデルを利用可能に フィックスターズが新サービス まずは「DeepSeek-V4.1-Flash-1017」から",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002955/",
+      "date": "2026-11-06T13:21:45+09:00",
+      "dateLabel": "11/06 13:21",
+      "desc": "ソフトウェア開発企業のフィックスターズは、国内のGPUサーバでオープンウェイトモデルを利用できるサービスを始めたと発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "Googleが動画生成AI「Gemini Omni 1.2 Flash」をリリース、最大15秒の動画を出力可能",
+      "link": "https://gigazine.net/news/20261106-gemini-omni-1-2-flash/",
+      "date": "2026-11-06T12:46:00+09:00",
+      "dateLabel": "11/06 12:46",
+      "desc": "Googleが動画生成AI「Gemini Omni 1.2 Flash」を現地時間の2026年11月5日にリリースしました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "Airbnbが旅のあらゆる側面をサポートしてくれる旅行特化型AIエージェントを2027年前半に発表すると予告",
+      "link": "https://gigazine.net/news/20261106-airbnb-ai-travel-agent-2027/",
+      "date": "2026-11-06T11:06:00+09:00",
+      "dateLabel": "11/06 11:06",
+      "desc": "民泊サービスのAirbnbが、2027年前半に旅行特化のAIエージェントをリリースする予定であると発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 42
     },
@@ -129,47 +162,113 @@
       "score": 42
     },
     {
-      "title": "「世界最高水準」の性能うたう翻訳LLMをオープン化、PFN 0.8?31Bの4サイズ オンデバイスにも対応",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002900/",
-      "date": "2026-11-05T13:24:50+09:00",
-      "dateLabel": "11/05 13:24",
-      "desc": "Preferred Networksは、翻訳特化型LLM「PLaMo 3 Translate」をオープンウェイトで公開した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "中国・Tencentが高性能AIモデル「Hy4」を発表、オープンモデルとして公開することを約束",
-      "link": "https://gigazine.net/news/20261105-tencent-hy4/",
-      "date": "2026-11-05T12:29:00+09:00",
-      "dateLabel": "11/05 12:29",
-      "desc": "中国のIT大手Tencentは2026年11月4日、新たなAIモデル「Tencent Hy4」を発表しました。画像の理解やPCの操作に対応し、プログラミングや金融分析、ゲーム開発、科学研究など幅広い分野で高い性能を発揮するとしています。TencentはHy4のモデルの重みを近日中に公開する方針も明らかにしました。 続きを読む...",
+      "title": "中国のBaiduが高性能AIモデル「ERNIE 5.5 Flash Base」を公開、今後の強化版を見据えた基盤モデル",
+      "link": "https://gigazine.net/news/20261106-ernie-5-5-flash-base/",
+      "date": "2026-11-06T17:12:00+09:00",
+      "dateLabel": "11/06 17:12",
+      "desc": "中国の大手テクノロジー企業であるBaiduがAIモデル「ERNIE 5.5 Flash Base」をオープンモデルとして公開しました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 42
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
-      "title": "OpenAI、「Images 2.6」発表 生成速度50％向上、GIFアニメの生成も可能に",
-      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002894/",
-      "date": "2026-11-05T10:59:38+09:00",
-      "dateLabel": "11/05 10:59",
-      "desc": "OpenAIは、画像生成AIの新版「ChatGPT Images 2.6」を発表した。画像生成速度の向上や編集精度の改善に加え、新たにGIFアニメーション作成機能や、保存した写真を別チャットで再利用できる機能を追加した。開発者向けには2種類のAPIモデルを提供し、電子透かし技術の導入など安全対策も強化している。",
+      "title": "Claude Codeがユーザーのメールアドレスを外部サイトに勝手に送信する問題が発覚、約4カ月前から報告されていたことも判明",
+      "link": "https://gigazine.net/news/20261106-claude-code-mail-address/",
+      "date": "2026-11-06T15:00:00+09:00",
+      "dateLabel": "11/06 15:00",
+      "desc": "AnthropicのAIコーディングツール「Claude Code」が、ユーザーのメールアドレスを許可なく外部のウェブサイトに送信していたという問題が報告されました。2026年11月5日にGitHubで新たな問題報告が投稿されましたが、同様の問題は7月にも報告されており、Anthropicの対応が注目されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "ChatGPTが夫の毒殺計画を手助け、毒物の選定から毒を上手く隠すための方法の提案まで",
+      "link": "https://gigazine.net/news/20261106-wife-chatgpt-plan-murder/",
+      "date": "2026-11-06T14:24:00+09:00",
+      "dateLabel": "11/06 14:24",
+      "desc": "ChatGPTが毒殺を実行するための計画立案を手助けしたことが訴訟により明らかになりました。訴訟では、ChatGPTは殺人未遂の共謀犯とされています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 34
+    },
+    {
+      "title": "Claudeに個人向け資産管理機能が追加される、「読み取り専用」で毎月の支出などにアドバイス",
+      "link": "https://gigazine.net/news/20261106-claude-personal-finance/",
+      "date": "2026-11-06T12:52:00+09:00",
+      "dateLabel": "11/06 12:52",
+      "desc": "AnthropicのAI「Claude」に、個人向け資産管理機能の「Personal Finance」が追加されました。銀行口座に紐付けて、Claudeから資産管理のアドバイスをもらうことができます。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "Perplexityが独自の業務特化型AIエージェント「Teammates」を発表",
+      "link": "https://gigazine.net/news/20261106-perplexity-teammates/",
+      "date": "2026-11-06T12:03:00+09:00",
+      "dateLabel": "11/06 12:03",
+      "desc": "現地時間の2026年11月4日、AI検索エンジンのPerplexityが業務特化型AIエージェント「Teammates」を発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "OpenAIがLinuxの脆弱性948件を発見、費やしたAPIコストは約1億9200万円",
+      "link": "https://gigazine.net/news/20261106-openai-built-linux-vulnerability/",
+      "date": "2026-11-06T12:03:00+09:00",
+      "dateLabel": "11/06 12:03",
+      "desc": "OpenAIが、社内で最高のサイバーセキュリティ検証能力を持つAIモデル「GPT-6 Cyber」を使ってLinuxカーネルの脆弱(ぜいじゃく)性を検証したと発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "AIに自販機経営を1年任せてみた 指示は“利益の最大化”だけ 米ハーバード大などがシミュレーション",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002899/",
+      "date": "2026-11-06T12:00:00+09:00",
+      "dateLabel": "11/06 12:00",
+      "desc": "米ハーバード・ビジネス・スクールとAI評価企業Andon Labsに所属する研究者らが発表した論文「Robber Bots: Autonomous AI Agents Mirroring the Darker Side of Human Commerce」は、利益の最大化だけを命じられた自律型AIエージェントにビジネスを任せるとどうなるかを検証した研究報告だ",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "OpenAIがサイバーセキュリティのためのAI「GPT-6 Cyber」を発表",
+      "link": "https://gigazine.net/news/20261106-openai-gpt-6-cyber/",
+      "date": "2026-11-06T11:59:00+09:00",
+      "dateLabel": "11/06 11:59",
+      "desc": "脆弱(ぜいじゃく)性の発見と修正において高い能力を備えるというOpenAIのモデル「GPT-6 Cyber」が発表されました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "MetaのAIエージェント「Muse」に音声対話機能 表情豊かなアバターと会話、まず米国で提供",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002939/",
+      "date": "2026-11-06T10:39:30+09:00",
+      "dateLabel": "11/06 10:39",
+      "desc": "Metaは、AIエージェント「Muse」にリアルタイム音声対話とアバター機能を追加すると発表した。米国で先行提供する。音声で作業を依頼できるほか、新技術により会話に合わせて表情や身ぶりが変わるアバターとの対面対話を可能にした。声は数百種類から選べ、今後はAIグラスなどへの展開も予定している。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "根拠の大半は「黒塗り」 AIはAI開発を加速しているか、第三者機関がAnthropic内部を調査",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002938/",
+      "date": "2026-11-06T10:31:59+09:00",
+      "dateLabel": "11/06 10:31",
+      "desc": "米国の非営利研究機関METRは、Anthropicの協力を得て「AIがAI開発を加速させているかどうか」を評価したレポートを公開した。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "18型4K＋・120Hzの大画面！ MSI「Raider A18 HX A9W」、RTX 5090／5080搭載",
-      "link": "https://ascii.jp/elem/000/004/449/4449072/?rss",
-      "date": "2026-11-06T10:00:00+09:00",
-      "dateLabel": "11/06 10:00",
-      "desc": "MSIがRyzen 9 9955HX3DとGeForce RTX 5090/5080 Laptop GPUを搭載した18型ゲーミングノート「Raider A18 HX A9W」シリーズを11月12日に発売する。4K+ Mini LED、最大64GBメモリ、2TB SSDなどを備え、ゲーム、制作、ローカルAI用途までカバーするウルトラハイエンド機だ。",
-      "img": "https://ascii.jp/img/2026/11/06/4548488/s/d936d132afe2e54b.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -182,105 +281,6 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
-    },
-    {
-      "title": "発電量より、時間と場所をどう合わせるか。系統用蓄電池が変える産業インフラ",
-      "link": "https://ascii.jp/elem/000/004/441/4441230/?rss",
-      "date": "2026-11-06T07:30:00+09:00",
-      "dateLabel": "11/06 07:30",
-      "desc": "再エネが増えるほど、電気をいつ、どこで使うかを調整する仕組みが重要になる。パワーエックスへの取材から、系統用蓄電池の役割、事業化を左右する系統接続や市場制度、日本企業の競争領域、データセンター立地まで広がる新しい産業インフラの姿を追った。",
-      "img": "https://ascii.jp/img/2026/10/08/4536203/s/d280de1b99e23ae1.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "20万円出すなら、32GBメモリも有機ELも欲しい。Core Ultra 7搭載のAcer「Swift Go 14 AI」がAmazonスマイルSALEで値下げ",
-      "link": "https://ascii.jp/elem/000/004/448/4448892/?rss",
-      "date": "2026-11-06T07:00:00+09:00",
-      "dateLabel": "11/06 07:00",
-      "desc": "AcerのノートPC「Swift Go 14 AI（SFG14-75-A73Z）」がAmazonスマイルSALE対象。過去価格228,639円から15％オフの193,820円で販売中。Core Ultra 7 258Vと32GBメモリ、1TB SSDを搭載し、14型有機ELディスプレーを採用する。Copilot+ PCにも対応。重量は約1.24kgで、最大約",
-      "img": "https://ascii.jp/img/2026/11/05/4548161/s/0aff67824b0867b6.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Core i7＋RTX 5060で18万4800円！ Lenovo「LOQ Essential」がAmazonスマイルSALEで値下げ",
-      "link": "https://ascii.jp/elem/000/004/448/4448342/?rss",
-      "date": "2026-11-05T20:50:00+09:00",
-      "dateLabel": "11/05 20:50",
-      "desc": "LenovoのゲーミングノートPC「LOQ Essential 15IRX11」がAmazonスマイルSALEの対象。過去価格194,800円から5％オフの184,800円で販売中。Core i7-13650HXとGeForce RTX 5060 Laptop GPUを搭載し、15.6型フルHD・144Hz液晶を採用。",
-      "img": "https://ascii.jp/img/2026/11/04/4547541/s/14eb072a93a2196e.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "アメリカ各地でAIデータセンター建設に反対する住民投票が相次ぎ可決、47件中46件で規制強化を支持",
-      "link": "https://gigazine.net/news/20261105-us-data-center-vote-reject/",
-      "date": "2026-11-05T19:00:00+09:00",
-      "dateLabel": "11/05 19:00",
-      "desc": "アメリカで2026年11月3日に実施された中間選挙に合わせて、各地でAI向けデータセンターの建設を禁止・制限する住民投票が行われました。多くの地域でデータセンターの建設に反対する結果となり、11月4日時点では2026年に実施された関連住民投票47件のうち46件で規制強化を支持する結果が出ています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "国産日本語翻訳AI「PLaMo 3 Translate」の4モデルをPFNが無料公開、スマホ上のローカル動作でも爆速＆高精度の日本語翻訳が可能になったので試してみた",
-      "link": "https://gigazine.net/news/20261105-plamo-3-translate-open-weight/",
-      "date": "2026-11-05T12:31:00+09:00",
-      "dateLabel": "11/05 12:31",
-      "desc": "AI開発企業のPreferred Networks(PFN)が2026年11月5日、翻訳に特化した大規模言語モデル「PLaMo 3 Translate」のモデルウェイトを公開しました。8億から310億パラメータまで4種類のモデルが用意されており、最小モデルでも既存の大規模な翻訳AIを上回る性能を発揮するとされています。スマートフォンやPCでインターネットに接",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "「GitHub Copilot Dreaming」発表。作業を振り返ってパーソナルメモリやガイダンスをバックグラウンドで整理、アップデート。GitHub Universe 2026",
-      "link": "https://www.publickey1.jp/blog/26/github_copilot_dreaminggithub_universe_2026.html",
-      "date": "2026-11-05T00:15:49+09:00",
-      "dateLabel": "11/05 00:15",
-      "desc": "GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Dreaming」をパブリックプレビューとして発表しました。 Copi...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "GitHub、より高度なコードレビューを行う「Copilot Code Review Max」発表。GitHub Universe 2026",
-      "link": "https://www.publickey1.jp/blog/26/githubcopilot_code_review_maxgithub_universe_2026.html",
-      "date": "2026-11-04T00:14:57+09:00",
-      "dateLabel": "11/04 00:14",
-      "desc": "GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、より高度なコードレビューを行う新機能「Copilot Code Review Max」を発表しました。 Gi...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "JavaScriptランタイムの「Bun」がPrettier互換で300倍以上高速なフォーマッタに。Prettier設定ファイルもそのまま利用可能",
-      "link": "https://www.publickey1.jp/blog/26/javascriptbunprettier300prettier.html",
-      "date": "2026-10-28T00:27:52+09:00",
-      "dateLabel": "10/28 00:27",
-      "desc": "Anthropicが開発しているJavaScriptランタイムの「Bun」の新機能として、Prettier互換のフォーマッタ搭載が発表されました。 2026年10月22日付けでリリースされたBun v1.4.4に搭載されたPrettier互...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "LLM/モデル",
-      "score": 32
-    },
-    {
-      "title": "あの人気シリーズの全部入りアンドロイドが登場！ 2026年モデルもしっかりいいか確認",
-      "link": "https://ascii.jp/elem/000/004/449/4449057/?rss",
-      "date": "2026-11-06T10:00:00+09:00",
-      "dateLabel": "11/06 10:00",
-      "desc": "OPPO「Reno15 A」は、約8mmの薄型ボディに7000mAh大容量バッテリーを備えた全部入りミドルスマホです。最高等級IP69の防水防塵、AI編集対応の5000万画素カメラ、おサイフケータイを網羅。実売5万円以下でも買える、普段使いに最適な1台です。",
-      "img": "https://ascii.jp/img/2026/07/27/4505452/s/aa118d866400b8e3.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
     }
   ]
 }
