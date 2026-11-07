@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-07T06:52:32.670896+09:00",
-  "generatedLabel": "2026/11/07 06:52",
-  "feedOk": 6,
-  "feedNg": 5,
-  "candidates": 58,
+  "generatedAt": "2026-11-07T10:26:24.279317+09:00",
+  "generatedLabel": "2026/11/07 10:26",
+  "feedOk": 7,
+  "feedNg": 4,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -32,8 +32,8 @@
     },
     {
       "source": "CNET Japan",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "items": 0
     },
     {
       "source": "ZDNET Japan",
@@ -140,26 +140,15 @@
       "score": 42
     },
     {
-      "title": "Anthropic、「Claude」に家計管理機能「Personal Finance」 銀行口座と連携、米国でβ提供",
-      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002935/",
-      "date": "2026-11-06T08:49:28+09:00",
-      "dateLabel": "11/06 08:49",
-      "desc": "Anthropicは、AI「Claude」に個人の財務状況を把握できる新機能「Personal Finance」β版を追加した。Plaid経由で銀行やカード口座を連携し、支出のカテゴリ分けや家計分析を自然言語で行える。データは読み取り専用で資金移動はできず、学習にも使われない。米国の有料プラン向けに順次提供される。",
+      "title": "「ChatGPTの回答にリンクがない＝見られていない」 実は違うAIの情報収集",
+      "link": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002948/",
+      "date": "2026-11-07T07:00:00+09:00",
+      "dateLabel": "11/07 07:00",
+      "desc": "ChatGPTやClaudeなどの生成AIに自社サイトが引用されていない場合、AIに情報を参照されていないと考えがちだ。だが、回答に表示されるリンクだけでは、AIがどのWebサイトを参考にしたのか分からない。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "OpenAI、データセンター立地地域への約束と政策提言を発表 電力費の全額負担や公職者とのNDA不使用など",
-      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002928/",
-      "date": "2026-11-06T07:03:55+09:00",
-      "dateLabel": "11/06 07:03",
-      "desc": "OpenAIは、AI向けデータセンター（Compute Campusと呼び方を変更）の建設・運営に関する地域社会への約束と、政府向けの政策提言を発表した。電力や関連インフラ費用の全額負担、公職者との原則的なNDA不使用を盛り込むとともに、大口電力利用者への追加負担など、業界共通のルール作りを政府に求めている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 42
+      "score": 34
     },
     {
       "title": "無料でローカルAIを簡単にオフライン利用できるオープンソースアプリ「Hob」、Windows・Mac・Linux対応でPCに適したAIモデルの自動選択・ファイル操作・外部アプリ連携が可能",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "根拠の大半は「黒塗り」 AIはAI開発を加速しているか、第三者機関がAnthropic内部を調査",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002938/",
+      "date": "2026-11-06T10:31:59+09:00",
+      "dateLabel": "11/06 10:31",
+      "desc": "米国の非営利研究機関METRは、Anthropicの協力を得て「AIがAI開発を加速させているかどうか」を評価したレポートを公開した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 34
     }
   ]
