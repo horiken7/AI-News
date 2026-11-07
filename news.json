@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-07T16:59:07.803615+09:00",
-  "generatedLabel": "2026/11/07 16:59",
-  "feedOk": 7,
-  "feedNg": 4,
+  "generatedAt": "2026-11-07T23:42:32.889572+09:00",
+  "generatedLabel": "2026/11/07 23:42",
+  "feedOk": 6,
+  "feedNg": 5,
   "candidates": 56,
   "status": [
     {
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,12 +28,12 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 14
     },
     {
       "source": "CNET Japan",
-      "ok": true,
-      "items": 0
+      "ok": false,
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "source": "ZDNET Japan",
@@ -107,6 +107,17 @@
       "score": 42
     },
     {
+      "title": "AIが映像をつくれる時代だからこそ、主導権は自分に。ひとりでもAI映画をつくれるプラットフォーム「MaiStory」Ver 1.0リリース",
+      "link": "https://ascii.jp/elem/000/004/449/4449533/?rss",
+      "date": "2026-11-07T13:00:00+09:00",
+      "dateLabel": "11/07 13:00",
+      "desc": "AIが映像をつくれる時代だからこそ、主導権は自分に。ひとりでもAI映画をつくれるプラットフォーム「MaiStory」Ver 1.0リリース",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "「ChatGPTの回答にリンクがない＝見られていない」 実は違うAIの情報収集",
       "link": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002948/",
       "date": "2026-11-07T07:00:00+09:00",
@@ -114,28 +125,6 @@
       "desc": "ChatGPTやClaudeなどの生成AIに自社サイトが引用されていない場合、AIに情報を参照されていないと考えがちだ。だが、回答に表示されるリンクだけでは、AIがどのWebサイトを参考にしたのか分からない。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "無料でローカルAIを簡単にオフライン利用できるオープンソースアプリ「Hob」、Windows・Mac・Linux対応でPCに適したAIモデルの自動選択・ファイル操作・外部アプリ連携が可能",
-      "link": "https://gigazine.net/news/20261106-hob/",
-      "date": "2026-11-06T23:00:00+09:00",
-      "dateLabel": "11/06 23:00",
-      "desc": "自分のPCでAIを動かすには、PCの性能に合ったAIモデルを選んだり実行環境を構築したりする必要があり、AIとのチャットだけでなく手元のファイルを読み取らせたり加工したりするには追加の設定が必要になる場合もあります。こうした作業を自動化する無料のオープンソースアプリ「Hob」は、PCに適したAIモデルを選んで実行環境を構築し、文書や表計算ファイルの解析・編集",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "中国のBaiduが高性能AIモデル「ERNIE 5.5 Flash Base」を公開、今後の強化版を見据えた基盤モデル",
-      "link": "https://gigazine.net/news/20261106-ernie-5-5-flash-base/",
-      "date": "2026-11-06T17:12:00+09:00",
-      "dateLabel": "11/06 17:12",
-      "desc": "中国の大手テクノロジー企業であるBaiduがAIモデル「ERNIE 5.5 Flash Base」をオープンモデルとして公開しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 34
     },
@@ -261,6 +250,17 @@
       "score": 28
     },
     {
+      "title": "“ちょうど良いビジネスモバイル”VAIO S13がオータムセールで18万円台",
+      "link": "https://ascii.jp/elem/000/004/447/4447607/?rss",
+      "date": "2026-11-07T18:00:00+09:00",
+      "dateLabel": "11/07 18:00",
+      "desc": "VAIOは11月17日(火)9時59分まで、直販サイト「VAIOストア」にて「VAIOストア オータムキャンペーン2026」開催中。対象のPC本体が最大3万5000円オフに。今回のオススメは「VAIO S13（VJS1368）」。気軽に持ち出せる可搬性が魅力の13.3型ノートPC。",
+      "img": "https://ascii.jp/img/2026/11/02/4546679/s/f85ee071d267ca70.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "AIコーチング「Skill Boost（スキルブースト）」を運営する株式会社インテンション、FM大阪『おふらじ！EX』の復活・継続放送を支援",
       "link": "https://ascii.jp/elem/000/004/449/4449531/?rss",
       "date": "2026-11-07T11:39:17+09:00",
@@ -272,14 +272,14 @@
       "score": 26
     },
     {
-      "title": "【好評につき追加値下げ！】RebotAiの11インチAndroidタブレットが12,999円に！AmazonスマイルSALE期間中、さらにお買い得な特別価格へ",
-      "link": "https://ascii.jp/elem/000/004/449/4449520/?rss",
-      "date": "2026-11-07T09:00:00+09:00",
-      "dateLabel": "11/07 09:00",
-      "desc": "【好評につき追加値下げ！】RebotAiの11インチAndroidタブレットが12,999円に！AmazonスマイルSALE期間中、さらにお買い得な特別価格へ",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "AIエージェントのROIの算出方法を解説！計算式とKPI設計から試算例まで",
+      "link": "https://ainow.ai/2026/11/07/278506/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25aeroi%25e3%2581%25ae%25e7%25ae%2597%25e5%2587%25ba%25e6%2596%25b9%25e6%25b3%2595%25e3%2582%2592%25e8%25a7%25a3%25e8%25aa%25ac%25ef%25bc%2581%25e8%25a8%2588%25e7%25ae%2597%25e5%25bc%258f%25e3%2581%25a8kpi%25e8%25a8%25ad",
+      "date": "2026-11-07T04:11:32+09:00",
+      "dateLabel": "11/07 04:11",
+      "desc": "AIエージェントの導入効果を問われ、削減できた時間を金額に換算できず困っている担当者は多いでしょう。 ROIは、導入で得た効果から総コストを引き、総コストで割れば算出できます。ただしAIエージェントは実行ごとにコストが変... The post AIエージェントのROIの算出方法を解説！計算式とKPI設計から試算例まで first appeared on A",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
