@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-08T08:14:52.136598+09:00",
-  "generatedLabel": "2026/11/08 08:14",
+  "generatedAt": "2026-11-08T12:19:26.841080+09:00",
+  "generatedLabel": "2026/11/08 12:19",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 56,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -74,17 +74,6 @@
       "score": 44
     },
     {
-      "title": "“暴走するAI”をどう抑える？ オラクルが提言するデータ基盤の新たな役割",
-      "link": "https://ascii.jp/elem/000/004/449/4449487/?rss",
-      "date": "2026-11-07T12:30:00+09:00",
-      "dateLabel": "11/07 12:30",
-      "desc": "「AIは、“賢いけれど自信過剰なティーンエイジャー”のような問題をしばしば引き起こす」。米国で開催された「Oracle AI World 2026」において、オラクルが「Deep Trust AI Architecture」を発表した。“AIを悪用したサイバー攻撃”や“AIエージェントの暴走”“AI生成コードに潜在する脆弱性”など、AIがもたらす多様なリスク",
-      "img": "https://ascii.jp/img/2026/11/06/4549026/s/6d1fbd9b867523e9.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "OpenAI元CTOのAI企業が高性能AIモデル「Inkling 2 Small」を発表、近日中にオープンモデルとして公開される予定",
       "link": "https://gigazine.net/news/20261106-inkling-2-small/",
       "date": "2026-11-06T16:16:00+09:00",
@@ -96,14 +85,14 @@
       "score": 42
     },
     {
-      "title": "AIが映像をつくれる時代だからこそ、主導権は自分に。ひとりでもAI映画をつくれるプラットフォーム「MaiStory」Ver 1.0リリース",
-      "link": "https://ascii.jp/elem/000/004/449/4449533/?rss",
-      "date": "2026-11-07T13:00:00+09:00",
-      "dateLabel": "11/07 13:00",
-      "desc": "AIが映像をつくれる時代だからこそ、主導権は自分に。ひとりでもAI映画をつくれるプラットフォーム「MaiStory」Ver 1.0リリース",
+      "title": "生成AIが選ぶ「転職エージェント」、1位はリクルートエージェント（言及率99.3%）【2026年10月調査】",
+      "link": "https://ascii.jp/elem/000/004/449/4449550/?rss",
+      "date": "2026-11-07T18:00:00+09:00",
+      "dateLabel": "11/07 18:00",
+      "desc": "生成AIが選ぶ「転職エージェント」、1位はリクルートエージェント（言及率99.3%）【2026年10月調査】",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AI全般",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -184,17 +173,6 @@
       "score": 34
     },
     {
-      "title": "「世界最高水準」の性能うたう翻訳LLMをオープン化、PFN 0.8?31Bの4サイズ オンデバイスにも対応",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002900/",
-      "date": "2026-11-05T13:24:50+09:00",
-      "dateLabel": "11/05 13:24",
-      "desc": "Preferred Networksは、翻訳特化型LLM「PLaMo 3 Translate」をオープンウェイトで公開した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "JavaScriptランタイムの「Bun」がPrettier互換で300倍以上高速なフォーマッタに。Prettier設定ファイルもそのまま利用可能",
       "link": "https://www.publickey1.jp/blog/26/javascriptbunprettier300prettier.html",
       "date": "2026-10-28T00:27:52+09:00",
@@ -228,6 +206,39 @@
       "score": 28
     },
     {
+      "title": "「翻訳イヤホン」は使い物になるか？ AirPods Pro 3とGalaxy Buds3 FEを海外で使い倒してきた",
+      "link": "https://ascii.jp/elem/000/004/448/4448574/?rss",
+      "date": "2026-11-08T12:00:00+09:00",
+      "dateLabel": "11/08 12:00",
+      "desc": "AirPods Pro 3とGalaxy Buds3 FEのリアルタイム翻訳を海外で比較検証しました。直訳でテンポが良いAirPods、騒音に強く意訳するGalaxyと個性は明白です。ただし複数人会話や騒音下での課題も多く、現状は1対1の会話支援に留まり、英語学習はまだ必須です。",
+      "img": "https://ascii.jp/img/2026/11/04/4547865/s/ddd669cba04dba9f.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "【747人の診断データ・続報】AIの使い方をチームや会社で広げている人は、繰り返し作業のAI化が「自分だけで使う人」の2.7倍。回答者の64%は「自分だけで使っている」と回答",
+      "link": "https://ascii.jp/elem/000/004/449/4449555/?rss",
+      "date": "2026-11-08T11:00:00+09:00",
+      "dateLabel": "11/08 11:00",
+      "desc": "【747人の診断データ・続報】AIの使い方をチームや会社で広げている人は、繰り返し作業のAI化が「自分だけで使う人」の2.7倍。回答者の64%は「自分だけで使っている」と回答",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "【図解あり】マルチエージェント設計「15のパターン」 GitHub、Google、Siemensの知見を一気に整理",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html",
+      "date": "2026-11-08T08:00:00+09:00",
+      "dateLabel": "11/08 08:00",
+      "desc": "AIエージェントの一般化に伴い、複数のAIエージェントを連携させるマルチエージェントシステムが注目されています。GitHub、Google、Siemensが紹介した15のデザインパターンを、設計上の課題や具体的な活用場面とともに解説します。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
       "title": "「悪事は割に合わない」をAIにも、逆ゲーム理論で探る安全対策",
       "link": "https://ascii.jp/elem/000/004/449/4449539/?rss",
       "date": "2026-11-08T06:43:28+09:00",
@@ -236,28 +247,6 @@
       "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
       "src": "ASCII.jp",
       "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "“ちょうど良いビジネスモバイル”VAIO S13がオータムセールで18万円台",
-      "link": "https://ascii.jp/elem/000/004/447/4447607/?rss",
-      "date": "2026-11-07T18:00:00+09:00",
-      "dateLabel": "11/07 18:00",
-      "desc": "VAIOは11月17日(火)9時59分まで、直販サイト「VAIOストア」にて「VAIOストア オータムキャンペーン2026」開催中。対象のPC本体が最大3万5000円オフに。今回のオススメは「VAIO S13（VJS1368）」。気軽に持ち出せる可搬性が魅力の13.3型ノートPC。",
-      "img": "https://ascii.jp/img/2026/11/02/4546679/s/f85ee071d267ca70.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "AIコーチング「Skill Boost（スキルブースト）」を運営する株式会社インテンション、FM大阪『おふらじ！EX』の復活・継続放送を支援",
-      "link": "https://ascii.jp/elem/000/004/449/4449531/?rss",
-      "date": "2026-11-07T11:39:17+09:00",
-      "dateLabel": "11/07 11:39",
-      "desc": "AIコーチング「Skill Boost（スキルブースト）」を運営する株式会社インテンション、FM大阪『おふらじ！EX』の復活・継続放送を支援",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 26
     },
     {
@@ -280,6 +269,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "中国のBaiduが高性能AIモデル「ERNIE 5.5 Flash Base」を公開、今後の強化版を見据えた基盤モデル",
+      "link": "https://gigazine.net/news/20261106-ernie-5-5-flash-base/",
+      "date": "2026-11-06T17:12:00+09:00",
+      "dateLabel": "11/06 17:12",
+      "desc": "中国の大手テクノロジー企業であるBaiduがAIモデル「ERNIE 5.5 Flash Base」をオープンモデルとして公開しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 26
     }
   ]
