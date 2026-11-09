@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-09T09:17:38.812744+09:00",
-  "generatedLabel": "2026/11/09 09:17",
+  "generatedAt": "2026-11-09T16:25:35.754179+09:00",
+  "generatedLabel": "2026/11/09 16:25",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 55,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 18
+      "items": 17
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 11
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -85,58 +85,69 @@
       "score": 44
     },
     {
-      "title": "OpenAI元CTOのAI企業が高性能AIモデル「Inkling 2 Small」を発表、近日中にオープンモデルとして公開される予定",
-      "link": "https://gigazine.net/news/20261106-inkling-2-small/",
-      "date": "2026-11-06T16:16:00+09:00",
-      "dateLabel": "11/06 16:16",
-      "desc": "OpenAIの元CTOであるミラ・ムラティ氏が設立したアメリカに拠点を置くAI研究企業「Thinking Machines Lab」が、AIモデル「Inkling 2 Small」を現地時間の2026年11月5日に発表しました。近日中にオープンモデルとして公開される予定です。 続きを読む...",
+      "title": "Anthropicの非公開AIモデルを使って18年間未解決だった量子コンピューターの難問が証明される",
+      "link": "https://gigazine.net/news/20261109-anthropic-psi-aaronson-ambainis/",
+      "date": "2026-11-09T14:10:00+09:00",
+      "dateLabel": "11/09 14:10",
+      "desc": "AI物理学スタートアップのPhysical Superintelligence(PSI)が2026年11月6日、2008年から未解決だった量子コンピューティングの難問「アーロンソン＝アンバイニス予想」の証明に成功したと発表しました。証明にはAnthropicの非公開AIモデルを組み込んだ研究システムが使われており、数学的な証明をコンピューターで検証する「Le",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 42
     },
     {
+      "title": "Claude Codeの「次回から表示しない」でパスワードが流出する恐れ、GitHubで2539件の秘密情報が見つかる",
+      "link": "https://gigazine.net/news/20261109-claude-code-leak-secrets/",
+      "date": "2026-11-09T11:43:00+09:00",
+      "dateLabel": "11/09 11:43",
+      "desc": "AnthropicのAIコーディングツール「Claude Code」でコマンドの実行を許可する際に「次回から表示しない」を選ぶと、コマンドに含まれるパスワードなどの秘密情報まで設定ファイルに保存される問題が明らかになりました。セキュリティ企業のApiiroがGitHubを調査したところ、公開リポジトリ1994件から2539件の秘密情報が発見されたとのことです",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "AI VTuber「しずく」がiPhoneの中に？ ネットに頼らずおしゃべりできる実験が公開",
+      "link": "https://ascii.jp/elem/000/004/449/4449767/?rss",
+      "date": "2026-11-09T15:30:00+09:00",
+      "dateLabel": "11/09 15:30",
+      "desc": "Shizuku AI技術部は11月5日、AI VTuber「しずく」とiPhoneだけで音声会話する試作のデモを公開した。",
+      "img": "https://ascii.jp/img/2026/11/09/4549689/s/0f120b4add70b039.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "ゴールドマン・サックスは銀行員やトレーダーによるAIコーディングエージェントの使用を制限している、なぜか？",
+      "link": "https://gigazine.net/news/20261109-goldman-sachs-restricts-ai/",
+      "date": "2026-11-09T15:00:00+09:00",
+      "dateLabel": "11/09 15:00",
+      "desc": "金融大手のゴールドマン・サックスが、一部の従業員による「Claude Code」や「GitHub」の利用を制限していると報じられています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "中国製AI「Qwen3.8-27B」の中国政府寄りの回答を減らしたAI「Arete-27B」が登場、プロパガンダを含む回答が22％から0.9％に減少",
+      "link": "https://gigazine.net/news/20261109-nous-research-arete-27b/",
+      "date": "2026-11-09T12:50:00+09:00",
+      "dateLabel": "11/09 12:50",
+      "desc": "AIエージェント「Hermes Agent」を開発するNous Researchが2026年11月6日に新たなAIモデル「Arete-27B」を公開しました。中国のアリババが開発した「Qwen3.8-27B」を追加学習させたモデルで、中国政府の公式見解に沿った回答を生成する割合を22％から0.9％に減らすことに成功したとのことです。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
       "title": "ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？",
       "link": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/",
-      "date": "2026-11-09T08:00:00+09:00",
-      "dateLabel": "11/09 08:00",
+      "date": "2026-11-09T10:18:41+09:00",
+      "dateLabel": "11/09 10:18",
       "desc": "院内のローカルLLMで診療情報を処理していると話題になった本郷真砂ハートクリニック。院長が「Claude Code」で自作したシステムは、受付から次回予約までの流れをどう変えたのか。患者役として模擬受診し、導入効果を聞いた。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "無料の画像生成AI「P-H3-Image」がすごい 参照画像1枚で同じ人物を自在に再現",
-      "link": "https://ascii.jp/elem/000/004/449/4449576/?rss",
-      "date": "2026-11-09T07:00:00+09:00",
-      "dateLabel": "11/09 07:00",
-      "desc": "画像生成AI「P-H3-Image」を検証。参照画像による人物の一貫性、アニメ表現やポーズ指定の性能などを紹介し、課題についてもふれる。",
-      "img": "https://ascii.jp/img/2026/11/09/4549432/s/ab1f3438732f621b.png",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "「申し訳ありません、それはできません」AIの拒否能力が抱える危うさ",
-      "link": "https://ascii.jp/elem/000/004/449/4449577/?rss",
-      "date": "2026-11-09T06:15:04+09:00",
-      "dateLabel": "11/09 06:15",
-      "desc": "危険な要求を断る拒否能力は、現在のAIの安全性を支える「耐力壁」になっている。だがその仕組みは確率的で穴が多く、脱獄によって繰り返し突破されてきた。一方で拒否を厳しくすれば、無害な質問まで退け、国家による検閲の道具にもなりかねない。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "【日本初】高市政権の「サイバーセキュリティ緊急対策パッケージ」にサイカルトラストの特許群で対応。AIエージェント行為の実行前保留とAI診断の実施証明の特許を実施許諾込みで提供し、即日対応化を支援",
-      "link": "https://ascii.jp/elem/000/004/449/4449561/?rss",
-      "date": "2026-11-08T14:28:00+09:00",
-      "dateLabel": "11/08 14:28",
-      "desc": "【日本初】高市政権の「サイバーセキュリティ緊急対策パッケージ」にサイカルトラストの特許群で対応。AIエージェント行為の実行前保留とAI診断の実施証明の特許を実施許諾込みで提供し、即日対応化を支援",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -151,28 +162,6 @@
       "score": 34
     },
     {
-      "title": "OpenAIが「AIデータセンターの電力やインフラは全額自己負担」「電気・水道の使用量を公表」などの約束を発表",
-      "link": "https://gigazine.net/news/20261106-openai-responsible-ai-infrastructure/",
-      "date": "2026-11-06T15:10:00+09:00",
-      "dateLabel": "11/06 15:10",
-      "desc": "2026年11月、アメリカで中間選挙に合わせて行われた複数の住民投票でAIデータセンターに反対する声が非常に強かったことを受けて、OpenAIがAIデータセンターの展開にあたっては地域に最大限配慮していくという内容の約束を発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "国内GPUサーバでオープンモデルを利用可能に フィックスターズが新サービス まずは「DeepSeek-V4.1-Flash-1017」から",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002955/",
-      "date": "2026-11-06T13:21:45+09:00",
-      "dateLabel": "11/06 13:21",
-      "desc": "ソフトウェア開発企業のフィックスターズは、国内のGPUサーバでオープンウェイトモデルを利用できるサービスを始めたと発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
       "title": "JavaScriptランタイムの「Bun」がPrettier互換で300倍以上高速なフォーマッタに。Prettier設定ファイルもそのまま利用可能",
       "link": "https://www.publickey1.jp/blog/26/javascriptbunprettier300prettier.html",
       "date": "2026-10-28T00:27:52+09:00",
@@ -184,14 +173,14 @@
       "score": 32
     },
     {
-      "title": "Anthropic、「Claude」に家計管理機能「Personal Finance」 銀行口座と連携、米国でβ提供",
-      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002935/",
-      "date": "2026-11-06T08:49:28+09:00",
-      "dateLabel": "11/06 08:49",
-      "desc": "Anthropicは、AI「Claude」に個人の財務状況を把握できる新機能「Personal Finance」β版を追加した。Plaid経由で銀行やカード口座を連携し、支出のカテゴリ分けや家計分析を自然言語で行える。データは読み取り専用で資金移動はできず、学習にも使われない。米国の有料プラン向けに順次提供される。",
+      "title": "国内GPUサーバでオープンモデルを利用可能に フィックスターズが新サービス まずは「DeepSeek-V4.1-Flash-1017」から",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002955/",
+      "date": "2026-11-06T13:21:45+09:00",
+      "dateLabel": "11/06 13:21",
+      "desc": "ソフトウェア開発企業のフィックスターズは、国内のGPUサーバでオープンウェイトモデルを利用できるサービスを始めたと発表した。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
+      "cat": "半導体/GPU",
       "score": 28
     },
     {
@@ -217,14 +206,69 @@
       "score": 28
     },
     {
-      "title": "GIGABYTE「WRX90 AI TOP」発売 最大2TBメモリ・PCIe 5.0×7基のAI開発向けマザーボード",
-      "link": "https://ascii.jp/elem/000/004/449/4449579/?rss",
-      "date": "2026-11-09T09:00:00+09:00",
-      "dateLabel": "11/09 09:00",
-      "desc": "GIGABYTEがワークステーション向けE-ATXマザーボード「WRX90 AI TOP」を11月6日に発売した。AMD WRX90チップセット、最大2TB DDR5対応、PCIe 5.0拡張、USB4、10GbE LAN、IPMI対応BMCなどを備え、AI開発や高負荷業務を支える高機能モデルだ。",
-      "img": "https://ascii.jp/img/2026/11/09/4549446/s/f2001285410cdf60.png",
+      "title": "法人AI活用 商談白書｜直販商談に見る、企業がいま相談していること TOP10【2026年11月版】",
+      "link": "https://ascii.jp/elem/000/004/449/4449802/?rss",
+      "date": "2026-11-09T13:00:00+09:00",
+      "dateLabel": "11/09 13:00",
+      "desc": "法人AI活用 商談白書｜直販商談に見る、企業がいま相談していること TOP10【2026年11月版】",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "【Waitinglist】ポーカーのアクションを自動で記録・分析・共有する新サービス「POKER Jam」を加盟店舗で本日より運用開始",
+      "link": "https://ascii.jp/elem/000/004/449/4449801/?rss",
+      "date": "2026-11-09T13:00:00+09:00",
+      "dateLabel": "11/09 13:00",
+      "desc": "【Waitinglist】ポーカーのアクションを自動で記録・分析・共有する新サービス「POKER Jam」を加盟店舗で本日より運用開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "Sakana AI「初のモバイルアプリ」開発中 テスターも募集",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000003008/",
+      "date": "2026-11-09T12:35:58+09:00",
+      "dateLabel": "11/09 12:35",
+      "desc": "Sakana AIは、同社初のモバイルアプリ「Sakana AI App（仮）」を開発中と発表した。テスターも募集している。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "日本語でリアルタイム会話可能なAI「Shizuku-Duplex」が登場、80ミリ秒ごとに高速処理して相づちやウェブ検索にも対応",
+      "link": "https://gigazine.net/news/20261109-shizuku-duplex-natural-conversation-ai/",
+      "date": "2026-11-09T12:13:00+09:00",
+      "dateLabel": "11/09 12:13",
+      "desc": "AI Vtuberの開発を進めているShizuku AIがリアルタイムでの日本語音声会話が可能なAI「Shizuku-Duplex」を開発したことを発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "画像生成AIは既存のキャラクターをどれくらい出力する？ ソニーAIなどが14モデルを調査",
+      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000002982/",
+      "date": "2026-11-09T12:00:00+09:00",
+      "dateLabel": "11/09 12:00",
+      "desc": "ソニー系の研究組織Sony AIなどに所属する研究者らが発表した論文「Evaluating Intellectual Property Guardrails of Generative Image Models: A Technical Report」は、画像生成AIが既存の知的財産（IP）を認識できる画像をどの程度生成してしまうのか、またそれを防ぐ安全対策",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "生成AI/マルチモーダル",
+      "score": 26
+    },
+    {
+      "title": "NVIDIAのジェンスン・フアンCEOが中国の女スパイとの不倫を認める＆取締役会も調査を開始",
+      "link": "https://gigazine.net/news/20261109-nvidia-spy/",
+      "date": "2026-11-09T11:46:00+09:00",
+      "dateLabel": "11/09 11:46",
+      "desc": "NVIDIAのジェンスン・フアンCEOがアメリカ当局によってスパイと断定されている女性との不倫関係を認めました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
       "score": 26
     },
     {
@@ -235,50 +279,6 @@
       "desc": "AI予算を何に投資すべきか。IDCは、ある分野への投資を2029年までに怠った企業は、投資した企業に比べて収益成長率が50％低くなると予測する。収益成長率に直結する投資分野は何か。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "「プログラミングを学ぶ」検索数が1年で半減／ガートナーの2027年注目技術トップ10／DDoS攻撃、世界は半減・日本は倍増、ほか",
-      "link": "https://ascii.jp/elem/000/004/449/4449518/?rss",
-      "date": "2026-11-09T08:00:00+09:00",
-      "dateLabel": "11/09 08:00",
-      "desc": "今回（2026年10月31日～11月6日）は、「AIの制御と信頼」というテーマが見られるガートナーの2027年予測、Google検索で「プログラミングを学ぶ」検索が半減、ランサムウェア攻撃と被害のトレンド、日本だけ倍増したDDoS攻撃の現状についてのデータを紹介します。",
-      "img": "https://ascii.jp/img/2026/11/07/4549227/s/dedc17667e16692c.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "超低コストで効率的な学習に成功した画像生成AIモデル「P-JiT」、オープンウェイトで公開中",
-      "link": "https://gigazine.net/news/20261109-pjit-21k/",
-      "date": "2026-11-09T07:00:00+09:00",
-      "dateLabel": "11/09 07:00",
-      "desc": "2名の研究者によるAI研究組織「Linum」が画像生成モデル「Pyramid-JiT(P-JiT)」を公開しました。P-JiTは画像生成AIが抱える「生成に時間とコストがかかる」「制御が難しい」という二つの主要な課題の克服を目指しており、開発コストを2万1千ドル(約331万5千円)に抑えられたことがアピールされています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
-      "title": "コクヨが開発部門の「資料散乱」をAIでゼロに 「Notion」をどう使ったか？",
-      "link": "https://kn.itmedia.co.jp/kn/article/2611/09/2000002973/",
-      "date": "2026-11-09T06:00:00+09:00",
-      "dateLabel": "11/09 06:00",
-      "desc": "社内に情報は蓄積されているのに、必要な資料が見つからない、十分に活用できない。こうした課題は開発組織でも起こりがちだ。コクヨはNotionとAIエージェントを組み合わせ、情報管理から文書レビューまでを効率化する仕組みづくりに取り組んだ。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "13型の大画面、動画専用にするのは惜しい？ ペンも付属するLenovo「Idea Tab Pro」がセールで8万6200円に",
-      "link": "https://ascii.jp/elem/000/004/449/4449090/?rss",
-      "date": "2026-11-08T19:50:00+09:00",
-      "dateLabel": "11/08 19:50",
-      "desc": "Lenovoの13型タブレット「Idea Tab Pro（ZAHD0832JP）」がAmazonスマイルSALEの対象。参考価格99,000円から13％オフの86,200円で販売中。3504×2190ドットの高解像度ディスプレーに加え、Snapdragon 8s Gen 4やJBL製4スピーカーを搭載。Lenovo Tab Pen Plusも付属し、大画面と",
-      "img": "https://ascii.jp/img/2026/11/06/4548542/s/63bb30e1f1325e71.jpg",
-      "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     }
