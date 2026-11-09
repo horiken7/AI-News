@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-09T05:52:43.127880+09:00",
-  "generatedLabel": "2026/11/09 05:52",
+  "generatedAt": "2026-11-09T09:17:38.812744+09:00",
+  "generatedLabel": "2026/11/09 09:17",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 54,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 19
+      "items": 18
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -96,6 +96,39 @@
       "score": 42
     },
     {
+      "title": "ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/",
+      "date": "2026-11-09T08:00:00+09:00",
+      "dateLabel": "11/09 08:00",
+      "desc": "院内のローカルLLMで診療情報を処理していると話題になった本郷真砂ハートクリニック。院長が「Claude Code」で自作したシステムは、受付から次回予約までの流れをどう変えたのか。患者役として模擬受診し、導入効果を聞いた。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "無料の画像生成AI「P-H3-Image」がすごい 参照画像1枚で同じ人物を自在に再現",
+      "link": "https://ascii.jp/elem/000/004/449/4449576/?rss",
+      "date": "2026-11-09T07:00:00+09:00",
+      "dateLabel": "11/09 07:00",
+      "desc": "画像生成AI「P-H3-Image」を検証。参照画像による人物の一貫性、アニメ表現やポーズ指定の性能などを紹介し、課題についてもふれる。",
+      "img": "https://ascii.jp/img/2026/11/09/4549432/s/ab1f3438732f621b.png",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "「申し訳ありません、それはできません」AIの拒否能力が抱える危うさ",
+      "link": "https://ascii.jp/elem/000/004/449/4449577/?rss",
+      "date": "2026-11-09T06:15:04+09:00",
+      "dateLabel": "11/09 06:15",
+      "desc": "危険な要求を断る拒否能力は、現在のAIの安全性を支える「耐力壁」になっている。だがその仕組みは確率的で穴が多く、脱獄によって繰り返し突破されてきた。一方で拒否を厳しくすれば、無害な質問まで退け、国家による検閲の道具にもなりかねない。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "規制/安全",
+      "score": 34
+    },
+    {
       "title": "【日本初】高市政権の「サイバーセキュリティ緊急対策パッケージ」にサイカルトラストの特許群で対応。AIエージェント行為の実行前保留とAI診断の実施証明の特許を実施許諾込みで提供し、即日対応化を支援",
       "link": "https://ascii.jp/elem/000/004/449/4449561/?rss",
       "date": "2026-11-08T14:28:00+09:00",
@@ -140,28 +173,6 @@
       "score": 34
     },
     {
-      "title": "Anthropic、「Claude」に家計管理機能「Personal Finance」 銀行口座と連携、米国でβ提供",
-      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002935/",
-      "date": "2026-11-06T08:49:28+09:00",
-      "dateLabel": "11/06 08:49",
-      "desc": "Anthropicは、AI「Claude」に個人の財務状況を把握できる新機能「Personal Finance」β版を追加した。Plaid経由で銀行やカード口座を連携し、支出のカテゴリ分けや家計分析を自然言語で行える。データは読み取り専用で資金移動はできず、学習にも使われない。米国の有料プラン向けに順次提供される。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "OpenAI、データセンター立地地域への約束と政策提言を発表 電力費の全額負担や公職者とのNDA不使用など",
-      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002928/",
-      "date": "2026-11-06T07:03:55+09:00",
-      "dateLabel": "11/06 07:03",
-      "desc": "OpenAIは、AI向けデータセンター（Compute Campusと呼び方を変更）の建設・運営に関する地域社会への約束と、政府向けの政策提言を発表した。電力や関連インフラ費用の全額負担、公職者との原則的なNDA不使用を盛り込むとともに、大口電力利用者への追加負担など、業界共通のルール作りを政府に求めている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
       "title": "JavaScriptランタイムの「Bun」がPrettier互換で300倍以上高速なフォーマッタに。Prettier設定ファイルもそのまま利用可能",
       "link": "https://www.publickey1.jp/blog/26/javascriptbunprettier300prettier.html",
       "date": "2026-10-28T00:27:52+09:00",
@@ -173,14 +184,14 @@
       "score": 32
     },
     {
-      "title": "GPT-6モデルはAstra、Sol、それともLuna？ OpenAIが教える、Codex爆速開発の鉄則",
-      "link": "https://kn.itmedia.co.jp/kn/article/2611/05/2000002770/",
-      "date": "2026-11-05T19:02:02+09:00",
-      "dateLabel": "11/05 19:02",
-      "desc": "AIエージェントの導入を検討する企業とって大きな懸念となるのがトークン消費に伴うAPI利用コストだろう。高性能な最上位モデルを全工程で走らせれば予算を圧迫し、安価なモデルを一律で選定すれば修正ループが増えて手戻りが発生する。限られた予算枠の中で開発スピードと品質を両立させるためにはどうしたらいいのか。OpenAI Japanの石田修平氏が解説する。",
+      "title": "Anthropic、「Claude」に家計管理機能「Personal Finance」 銀行口座と連携、米国でβ提供",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002935/",
+      "date": "2026-11-06T08:49:28+09:00",
+      "dateLabel": "11/06 08:49",
+      "desc": "Anthropicは、AI「Claude」に個人の財務状況を把握できる新機能「Personal Finance」β版を追加した。Plaid経由で銀行やカード口座を連携し、支出のカテゴリ分けや家計分析を自然言語で行える。データは読み取り専用で資金移動はできず、学習にも使われない。米国の有料プラン向けに順次提供される。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
+      "cat": "LLM/モデル",
       "score": 28
     },
     {
@@ -206,6 +217,61 @@
       "score": 28
     },
     {
+      "title": "GIGABYTE「WRX90 AI TOP」発売 最大2TBメモリ・PCIe 5.0×7基のAI開発向けマザーボード",
+      "link": "https://ascii.jp/elem/000/004/449/4449579/?rss",
+      "date": "2026-11-09T09:00:00+09:00",
+      "dateLabel": "11/09 09:00",
+      "desc": "GIGABYTEがワークステーション向けE-ATXマザーボード「WRX90 AI TOP」を11月6日に発売した。AMD WRX90チップセット、最大2TB DDR5対応、PCIe 5.0拡張、USB4、10GbE LAN、IPMI対応BMCなどを備え、AI開発や高負荷業務を支える高機能モデルだ。",
+      "img": "https://ascii.jp/img/2026/11/09/4549446/s/f2001285410cdf60.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "AIに業務を任せる大企業は6割へ 人材育成に投資しない企業はどうなる？",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/06/news023.html",
+      "date": "2026-11-09T08:00:00+09:00",
+      "dateLabel": "11/09 08:00",
+      "desc": "AI予算を何に投資すべきか。IDCは、ある分野への投資を2029年までに怠った企業は、投資した企業に比べて収益成長率が50％低くなると予測する。収益成長率に直結する投資分野は何か。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "「プログラミングを学ぶ」検索数が1年で半減／ガートナーの2027年注目技術トップ10／DDoS攻撃、世界は半減・日本は倍増、ほか",
+      "link": "https://ascii.jp/elem/000/004/449/4449518/?rss",
+      "date": "2026-11-09T08:00:00+09:00",
+      "dateLabel": "11/09 08:00",
+      "desc": "今回（2026年10月31日～11月6日）は、「AIの制御と信頼」というテーマが見られるガートナーの2027年予測、Google検索で「プログラミングを学ぶ」検索が半減、ランサムウェア攻撃と被害のトレンド、日本だけ倍増したDDoS攻撃の現状についてのデータを紹介します。",
+      "img": "https://ascii.jp/img/2026/11/07/4549227/s/dedc17667e16692c.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "超低コストで効率的な学習に成功した画像生成AIモデル「P-JiT」、オープンウェイトで公開中",
+      "link": "https://gigazine.net/news/20261109-pjit-21k/",
+      "date": "2026-11-09T07:00:00+09:00",
+      "dateLabel": "11/09 07:00",
+      "desc": "2名の研究者によるAI研究組織「Linum」が画像生成モデル「Pyramid-JiT(P-JiT)」を公開しました。P-JiTは画像生成AIが抱える「生成に時間とコストがかかる」「制御が難しい」という二つの主要な課題の克服を目指しており、開発コストを2万1千ドル(約331万5千円)に抑えられたことがアピールされています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "生成AI/マルチモーダル",
+      "score": 26
+    },
+    {
+      "title": "コクヨが開発部門の「資料散乱」をAIでゼロに 「Notion」をどう使ったか？",
+      "link": "https://kn.itmedia.co.jp/kn/article/2611/09/2000002973/",
+      "date": "2026-11-09T06:00:00+09:00",
+      "dateLabel": "11/09 06:00",
+      "desc": "社内に情報は蓄積されているのに、必要な資料が見つからない、十分に活用できない。こうした課題は開発組織でも起こりがちだ。コクヨはNotionとAIエージェントを組み合わせ、情報管理から文書レビューまでを効率化する仕組みづくりに取り組んだ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
       "title": "13型の大画面、動画専用にするのは惜しい？ ペンも付属するLenovo「Idea Tab Pro」がセールで8万6200円に",
       "link": "https://ascii.jp/elem/000/004/449/4449090/?rss",
       "date": "2026-11-08T19:50:00+09:00",
@@ -214,72 +280,6 @@
       "img": "https://ascii.jp/img/2026/11/06/4548542/s/63bb30e1f1325e71.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "漆黒の一台がお求めやすく！ VAIO SX14【ALL BLACK EDITION】がキャンペーン中3万5000円オフ",
-      "link": "https://ascii.jp/elem/000/004/449/4449062/?rss",
-      "date": "2026-11-08T19:00:00+09:00",
-      "dateLabel": "11/08 19:00",
-      "desc": "VAIOは2026年11月17日(火)9時59分まで「VAIOストア」にて「VAIOストア オータムキャンペーン2026」を開催中。キャンペーン対象のPC本体が最大3万5000円オフに。オススメは「VAIO SX14（VJS1478）【ALL BLACK EDITION】」。充実のスペックとこだわりのデザインを併せ持った、所有感をくすぐるビジネスノートPCだ",
-      "img": "https://ascii.jp/img/2026/11/06/4548426/s/e5cea17f6cd19e42.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "「翻訳イヤホン」は使い物になるか？ AirPods Pro 3とGalaxy Buds3 FEを海外で使い倒してきた",
-      "link": "https://ascii.jp/elem/000/004/448/4448574/?rss",
-      "date": "2026-11-08T12:00:00+09:00",
-      "dateLabel": "11/08 12:00",
-      "desc": "AirPods Pro 3とGalaxy Buds3 FEのリアルタイム翻訳を海外で比較検証しました。直訳でテンポが良いAirPods、騒音に強く意訳するGalaxyと個性は明白です。ただし複数人会話や騒音下での課題も多く、現状は1対1の会話支援に留まり、英語学習はまだ必須です。",
-      "img": "https://ascii.jp/img/2026/11/04/4547865/s/ddd669cba04dba9f.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "プエンテの生成AIアニメ制作「AI Anime Factory」に漫画制作を追加 オリジナルアニメ『花魁転生』第1話を漫画化",
-      "link": "https://ascii.jp/elem/000/004/449/4449558/?rss",
-      "date": "2026-11-08T11:48:53+09:00",
-      "dateLabel": "11/08 11:48",
-      "desc": "プエンテの生成AIアニメ制作「AI Anime Factory」に漫画制作を追加 オリジナルアニメ『花魁転生』第1話を漫画化",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
-      "title": "【747人の診断データ・続報】AIの使い方をチームや会社で広げている人は、繰り返し作業のAI化が「自分だけで使う人」の2.7倍。回答者の64%は「自分だけで使っている」と回答",
-      "link": "https://ascii.jp/elem/000/004/449/4449555/?rss",
-      "date": "2026-11-08T11:00:00+09:00",
-      "dateLabel": "11/08 11:00",
-      "desc": "【747人の診断データ・続報】AIの使い方をチームや会社で広げている人は、繰り返し作業のAI化が「自分だけで使う人」の2.7倍。回答者の64%は「自分だけで使っている」と回答",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "【図解あり】マルチエージェント設計「15のパターン」 GitHub、Google、Siemensの知見を一気に整理",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html",
-      "date": "2026-11-08T08:00:00+09:00",
-      "dateLabel": "11/08 08:00",
-      "desc": "AIエージェントの一般化に伴い、複数のAIエージェントを連携させるマルチエージェントシステムが注目されています。GitHub、Google、Siemensが紹介した15のデザインパターンを、設計上の課題や具体的な活用場面とともに解説します。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "「ChatGPTの回答にリンクがない＝見られていない」 実は違うAIの情報収集",
-      "link": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002948/",
-      "date": "2026-11-07T07:00:00+09:00",
-      "dateLabel": "11/07 07:00",
-      "desc": "ChatGPTやClaudeなどの生成AIに自社サイトが引用されていない場合、AIに情報を参照されていないと考えがちだ。だが、回答に表示されるリンクだけでは、AIがどのWebサイトを参考にしたのか分からない。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
       "score": 26
     }
   ]
