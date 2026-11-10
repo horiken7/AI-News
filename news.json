@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-10T10:08:15.007507+09:00",
-  "generatedLabel": "2026/11/10 10:08",
+  "generatedAt": "2026-11-10T17:57:08.043538+09:00",
+  "generatedLabel": "2026/11/10 17:57",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 64,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 17
+      "items": 15
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 11
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -63,6 +63,39 @@
   ],
   "articles": [
     {
+      "title": "Claude Fable 5.2とClaude Mythos 5.2が登場、1000体以上のAIを指揮して8日間でOSを自律開発することに成功",
+      "link": "https://gigazine.net/news/20261110-anthropic-claude-fable-mythos-5-2/",
+      "date": "2026-11-10T11:47:00+09:00",
+      "dateLabel": "11/10 11:47",
+      "desc": "Anthropicが2026年11月9日に高性能AIモデル「Claude Fable 5.2」と「Claude Mythos 5.2」を発表しました。前世代の5.1からプログラミング能力や推論能力が向上しており、1000体以上のAIエージェントを連携させて8日間でOSを開発することにも成功しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 66
+    },
+    {
+      "title": "Metaが小型AIモデル「Muse Ember」を発表、Claude Haiku 5.5と同等の性能を約3分の1のコストで実現",
+      "link": "https://gigazine.net/news/20261110-meta-muse-ember/",
+      "date": "2026-11-10T10:54:00+09:00",
+      "dateLabel": "11/10 10:54",
+      "desc": "Metaが2026年11月9日、同社のAIモデル「Muse」シリーズで最も小型かつ効率的だとする新モデル「Muse Ember」を発表しました。AIエージェントによるプログラミングやツール操作などの反復作業に特化しており、Metaによると、Anthropicの「Claude Haiku 5.5」と同等の性能を約3分の1のコストで実現しています。 続きを読む.",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 66
+    },
+    {
+      "title": "Metaの最小・低コストなAIモデル「Muse Ember」各種ベンチマーク結果、本当にコスパが良いのか？",
+      "link": "https://gigazine.net/news/20261110-meta-muse-ember-benchmark/",
+      "date": "2026-11-10T12:30:00+09:00",
+      "dateLabel": "11/10 12:30",
+      "desc": "Metaが2026年11月9日に発表した小型AIモデル「Muse Ember」について、AIモデルの評価を行うArtificial Analysis、Vals AI、Arena.aiなどがベンチマーク結果を公開しました。Muse Emberは競合モデルと同等以上の性能を低コストで実現していると評価されており、特にAIエージェントによる作業やウェブ開発で高いコ",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 58
+    },
+    {
       "title": "Anthropic、「Claude Fable 5.2」と「Claude Mythos 5.2」発表 API料金2割下げ、出力は最大30％高速化",
       "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003042/",
       "date": "2026-11-10T07:03:56+09:00",
@@ -74,28 +107,6 @@
       "score": 58
     },
     {
-      "title": "AIエージェントで広告運用を70%自動化した話 Claude Code × CData MCP Servers の活用事例",
-      "link": "https://ascii.jp/elem/000/004/447/4447105/?rss",
-      "date": "2026-11-10T09:00:00+09:00",
-      "dateLabel": "11/10 09:00",
-      "desc": "広告の最適化、ちゃんとやりたいけど時間がない」。 これは多くの「一人マーケター」（あるいは小規模チームのマーケター）が抱える悩みではないでしょうか。この記事では、私が実際に構築・運用しているGoogle広告 × AI自動化スタックを紹介してみます。",
-      "img": "https://ascii.jp/img/2026/10/30/4546029/s/738dd0c0fad96876.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
-      "title": "データセンター需要で変圧器も不足、「半導体変圧器」に高まる期待",
-      "link": "https://ascii.jp/elem/000/004/449/4449923/?rss",
-      "date": "2026-11-10T06:22:00+09:00",
-      "dateLabel": "11/10 06:22",
-      "desc": "送電網に欠かせない変圧器は、データセンターなどの電力需要の急増に供給が追いつかず、米国では大型品の納期が最長5年に延びている。そこで期待されるのが、半導体で電気を制御して小型化と高効率化を図る「半導体変圧器（ソリッドステート変圧器）」だ。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
       "title": "AIに「3DCGのおしり」を作らせて性能を比較するベンチマーク「LLM AssBench」が登場",
       "link": "https://gigazine.net/news/20261109-llm-assbench/",
       "date": "2026-11-09T19:00:00+09:00",
@@ -105,6 +116,28 @@
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 50
+    },
+    {
+      "title": "Claude Opus 5.5の推論能力が11月3日から急激に低下したとの指摘、1400件の利用履歴から変化が判明",
+      "link": "https://gigazine.net/news/20261110-claude-opus-nerf/",
+      "date": "2026-11-10T16:55:00+09:00",
+      "dateLabel": "11/10 16:55",
+      "desc": "AnthropicのAIモデル「Claude Opus 5.5」の推論能力が2026年11月3日頃から急激に低下した可能性が指摘されています。開発者のシェーン・メロー氏がAIによるプログラミング支援ツール「Claude Code」の利用履歴約1400件を分析したところ、モデル名が変わっていないにもかかわらず、AIの思考を示す文章や作業の進め方に大きな変化が見",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "dotsが「複数台のローカルコンピュータ接続」に対応 各マシンでタスクを分担可能に",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/10/2000003058/",
+      "date": "2026-11-10T12:47:11+09:00",
+      "dateLabel": "11/10 12:47",
+      "desc": "OpenAIは常時稼働型エージェントツール「dots」が複数台のローカルコンピュータに接続できるようになったと発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 42
     },
     {
       "title": "Meta、最小・低コストのAIモデル「Muse Ember」発表 「Muse Spark 1.3」に迫る性能を約17分の1のコストで",
@@ -129,39 +162,6 @@
       "score": 42
     },
     {
-      "title": "Claudeの記憶(メモリ)は夢見るDreaming機能で強化されており間違った記憶を修正することも可能",
-      "link": "https://gigazine.net/news/20261109-ai-dreaming-agent-memory/",
-      "date": "2026-11-09T17:53:00+09:00",
-      "dateLabel": "11/09 17:53",
-      "desc": "Claudeなどの高性能AIサービスには応答履歴に含まれる重要情報を記録しておくメモリ機能が搭載されています。Claudeのメモリ機能についての詳細をAnthropicが公式に解説しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "Anthropicの非公開AIモデルを使って18年間未解決だった量子コンピューターの難問が証明される",
-      "link": "https://gigazine.net/news/20261109-anthropic-psi-aaronson-ambainis/",
-      "date": "2026-11-09T14:10:00+09:00",
-      "dateLabel": "11/09 14:10",
-      "desc": "AI物理学スタートアップのPhysical Superintelligence(PSI)が2026年11月6日、2008年から未解決だった量子コンピューティングの難問「アーロンソン＝アンバイニス予想」の証明に成功したと発表しました。証明にはAnthropicの非公開AIモデルを組み込んだ研究システムが使われており、数学的な証明をコンピューターで検証する「Le",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "Claude Codeの「次回から表示しない」でパスワードが流出する恐れ、GitHubで2539件の秘密情報が見つかる",
-      "link": "https://gigazine.net/news/20261109-claude-code-leak-secrets/",
-      "date": "2026-11-09T11:43:00+09:00",
-      "dateLabel": "11/09 11:43",
-      "desc": "AnthropicのAIコーディングツール「Claude Code」でコマンドの実行を許可する際に「次回から表示しない」を選ぶと、コマンドに含まれるパスワードなどの秘密情報まで設定ファイルに保存される問題が明らかになりました。セキュリティ企業のApiiroがGitHubを調査したところ、公開リポジトリ1994件から2539件の秘密情報が発見されたとのことです",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
       "link": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
       "date": "2026-11-02T23:36:38+09:00",
@@ -173,69 +173,91 @@
       "score": 40
     },
     {
-      "title": "FSP「U500」11月13日発売、GPU2基と最大480mm水冷ラジエーターに対応",
-      "link": "https://ascii.jp/elem/000/004/449/4449928/?rss",
-      "date": "2026-11-10T10:00:00+09:00",
-      "dateLabel": "11/10 10:00",
-      "desc": "FSPのワークステーション向けPCケース「U500」が11月13日に発売。RTX 5090を2基搭載できるデュアルGPU対応や120mm PWMファン5基標準搭載など、ハイエンド構成向けの冷却・拡張性を備える。",
-      "img": "https://ascii.jp/img/2026/11/10/4549907/s/c89a8cc3d10e7fd3.jpg",
+      "title": "伝わる資料を書くAI「monoza」を提供開始",
+      "link": "https://ascii.jp/elem/000/004/450/4450316/?rss",
+      "date": "2026-11-10T16:21:00+09:00",
+      "dateLabel": "11/10 16:21",
+      "desc": "伝わる資料を書くAI「monoza」を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "画像を外に送らない無料の画像ツール5種 「容量を指定する画像圧縮」などをAIツールギャラリーが公開",
+      "link": "https://ascii.jp/elem/000/004/450/4450317/?rss",
+      "date": "2026-11-10T15:49:31+09:00",
+      "dateLabel": "11/10 15:49",
+      "desc": "画像を外に送らない無料の画像ツール5種 「容量を指定する画像圧縮」などをAIツールギャラリーが公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "空売り業者がNVIDIAのCEO不倫事件発覚の6カ月前にNVIDIAの問題を指摘していた",
+      "link": "https://gigazine.net/news/20261110-nvidia-megaspeed-short-seller-prediction/",
+      "date": "2026-11-10T15:15:00+09:00",
+      "dateLabel": "11/10 15:15",
+      "desc": "株の空売りを専門とする投資会社のカルパー・リサーチが、NVIDIAのジェンスン・フアンCEOの不倫が発覚する6カ月前、2026年5月の時点でフアンCEOの動向に懸念があると指摘し、空売りを行っていたことが分かりました。この頃から株価は約26％下落しているため、カルパー・リサーチの見立ては正しかったことになります。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "半導体/GPU",
       "score": 34
     },
     {
-      "title": "FortiAIGateを活用してOracle Cloud InfrastructureのAIアプリを保護・管理",
-      "link": "https://ascii.jp/elem/000/004/449/4449197/?rss",
-      "date": "2026-11-10T09:00:00+09:00",
-      "dateLabel": "11/10 09:00",
-      "desc": "フォーティネットとOracle Cloud Infrastructureは、AIセキュリティとガバナンスを組み合わせて、組織がアプリケーションとエージェントを安全に拡張できるよう支援します。",
-      "img": "https://ascii.jp/img/2026/11/06/4548615/s/fd0b4b05cc39b7c9.jpg",
-      "src": "ASCII.jp",
-      "cat": "規制/安全",
+      "title": "Googleが新型AIチップ「TPU 8tx」「TPU 8i Max」を発表、AMD製CPUを採用した機密情報保護モデルと処理性能2倍のモデルが登場",
+      "link": "https://gigazine.net/news/20261110-google-tpu-8i-max-8tx/",
+      "date": "2026-11-10T14:40:00+09:00",
+      "dateLabel": "11/10 14:40",
+      "desc": "Googleが2026年11月9日にAI処理に特化した第8世代TPUの新システム「TPU 8tx」と「TPU 8i Max」を発表しました。TPU 8txはAMD製CPUと組み合わせて機密データを安全に処理できるシステムで、TPU 8i Maxは2つのチップを組み合わせることで大量の情報を扱うAIの処理性能を高めています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
       "score": 34
     },
     {
-      "title": "会話だけで動画をブラッシュアップ！ 仕事に使える動画をClaudeとKling 4.0で作って見た",
-      "link": "https://ascii.jp/elem/000/004/448/4448972/?rss",
-      "date": "2026-11-10T09:00:00+09:00",
-      "dateLabel": "11/10 09:00",
-      "desc": "本連載は生成AIをこれから活用しようとしている方たちのために、生成AIの基本やコピペしてそのまま使えるプロンプトなどを紹介。兎にも角にも生成AIに触り始めることで、AIに対する理解を深め、AIスキルを身につけて欲しい。第78回は、ClaudeにKling 4.0を組み合わせ、会話しながら動画をブラッシュアップする方法ついて解説する。",
-      "img": "https://ascii.jp/img/2026/11/05/4548231/s/3b3243f3901aceaa.jpg",
-      "src": "ASCII.jp",
+      "title": "「Fable 5.2」の用途は？ Claudeモデルの選び方、Anthropicが基本を解説",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/10/2000003061/",
+      "date": "2026-11-10T13:26:38+09:00",
+      "dateLabel": "11/10 13:26",
+      "desc": "米Anthropicは「Claude」のモデルの選び方を公式ブログで解説した。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
     },
     {
-      "title": "ショート動画屋さん、清掃・配膳ロボット向け成果報酬型SNS動画広告の現場条件シートを公開へ",
-      "link": "https://ascii.jp/elem/000/004/449/4449930/?rss",
-      "date": "2026-11-10T08:00:00+09:00",
-      "dateLabel": "11/10 08:00",
-      "desc": "ショート動画屋さん、清掃・配膳ロボット向け成果報酬型SNS動画広告の現場条件シートを公開へ",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
+      "title": "なぜ、三井化学は1.8兆円で「半導体材料メーカー」を買ったのか JSR買収の狙い、市村社長が語る",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/10/news029.html",
+      "date": "2026-11-10T12:00:00+09:00",
+      "dateLabel": "11/10 12:00",
+      "desc": "三井化学が、半導体材料大手JSRを約1.8兆円で買収する。市村社長は「単なるM＆Aではない」と説明する。巨額を投じた買収の狙いは。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
-      "title": "invox、社内ルールに基づき申請内容をAIが自動チェックする「AI申請チェック」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/449/4449932/?rss",
-      "date": "2026-11-10T07:10:00+09:00",
-      "dateLabel": "11/10 07:10",
-      "desc": "invox、社内ルールに基づき申請内容をAIが自動チェックする「AI申請チェック」を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "AdobeとDisneyが戦略的提携 「Firefly Foundry」でDisney専用の生成AIモデル開発へ",
+      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003050/",
+      "date": "2026-11-10T11:10:07+09:00",
+      "dateLabel": "11/10 11:10",
+      "desc": "AdobeとWalt Disneyは、複数年にわたる戦略的提携を発表した。Adobeは公式AIパートナーとして、生成AI「Firefly Foundry」などの技術を提供。両社は共同でDisneyの作風に特化した安全なカスタムAIモデルを開発し、映像制作からテーマパーク開発まで幅広いクリエイティブ工程を支援していく。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
-      "title": "【Subtraction Design】株式会社Astrea、米国のAI分野の基調講演者・著者 Shama Hyder氏と業務提携",
-      "link": "https://ascii.jp/elem/000/004/449/4449931/?rss",
-      "date": "2026-11-10T07:10:00+09:00",
-      "dateLabel": "11/10 07:10",
-      "desc": "【Subtraction Design】株式会社Astrea、米国のAI分野の基調講演者・著者 Shama Hyder氏と業務提携",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "「オープンなAIモデル」に関する資料を無料公開、NII 「LLM-jp」の開発手法など解説",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/10/2000003046/",
+      "date": "2026-11-10T10:30:52+09:00",
+      "dateLabel": "11/10 10:30",
+      "desc": "国立情報学研究所（NII）は、オープンなAIモデルに関する講演資料を公開した。11月5日に開催したイベント「第2回オープン大規模言語モデルシンポジウム」で使われたもの。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -257,28 +279,6 @@
       "desc": "Googleは、Kubernetes上にAIエージェントのための高効率な基盤を構築するためのオープンソースソフトウェア「Agent Substrate」と「gVisor」を、Linux Foundation傘下のCloud Native C...",
       "img": "",
       "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "チームでの複数人同時利用を前提としたAIエージェント「MAIA」が登場",
-      "link": "https://gigazine.net/news/20261109-maia-zyphra-multiplayer-ai-agent/",
-      "date": "2026-11-09T19:52:00+09:00",
-      "dateLabel": "11/09 19:52",
-      "desc": "AI開発企業のZyphraがAIエージェントツール「MAIA」のベータ版を公開しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "ゴールドマン・サックスは銀行員やトレーダーによるAIコーディングエージェントの使用を制限している、なぜか？",
-      "link": "https://gigazine.net/news/20261109-goldman-sachs-restricts-ai/",
-      "date": "2026-11-09T15:00:00+09:00",
-      "dateLabel": "11/09 15:00",
-      "desc": "金融大手のゴールドマン・サックスが、一部の従業員による「Claude Code」や「GitHub」の利用を制限していると報じられています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 34
     }
