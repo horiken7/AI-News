@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-10T02:57:52.188323+09:00",
-  "generatedLabel": "2026/11/10 02:57",
+  "generatedAt": "2026-11-10T10:08:15.007507+09:00",
+  "generatedLabel": "2026/11/10 10:08",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 56,
+  "candidates": 64,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 11
     },
     {
       "source": "PC Watch",
@@ -63,6 +63,39 @@
   ],
   "articles": [
     {
+      "title": "Anthropic、「Claude Fable 5.2」と「Claude Mythos 5.2」発表 API料金2割下げ、出力は最大30％高速化",
+      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003042/",
+      "date": "2026-11-10T07:03:56+09:00",
+      "dateLabel": "11/10 07:03",
+      "desc": "Anthropicは、最上位AIモデルの新版「Claude Fable 5.2」および審査制の「Claude Mythos 5.2」を発表した。出力速度は最大30％向上し、API料金は2割値下げされている。長時間の複雑な推論やエージェント型コーディングに特化しており、同日より主要クラウドや各種アプリで提供が開始された。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 58
+    },
+    {
+      "title": "AIエージェントで広告運用を70%自動化した話 Claude Code × CData MCP Servers の活用事例",
+      "link": "https://ascii.jp/elem/000/004/447/4447105/?rss",
+      "date": "2026-11-10T09:00:00+09:00",
+      "dateLabel": "11/10 09:00",
+      "desc": "広告の最適化、ちゃんとやりたいけど時間がない」。 これは多くの「一人マーケター」（あるいは小規模チームのマーケター）が抱える悩みではないでしょうか。この記事では、私が実際に構築・運用しているGoogle広告 × AI自動化スタックを紹介してみます。",
+      "img": "https://ascii.jp/img/2026/10/30/4546029/s/738dd0c0fad96876.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
+      "title": "データセンター需要で変圧器も不足、「半導体変圧器」に高まる期待",
+      "link": "https://ascii.jp/elem/000/004/449/4449923/?rss",
+      "date": "2026-11-10T06:22:00+09:00",
+      "dateLabel": "11/10 06:22",
+      "desc": "送電網に欠かせない変圧器は、データセンターなどの電力需要の急増に供給が追いつかず、米国では大型品の納期が最長5年に延びている。そこで期待されるのが、半導体で電気を制御して小型化と高効率化を図る「半導体変圧器（ソリッドステート変圧器）」だ。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 50
+    },
+    {
       "title": "AIに「3DCGのおしり」を作らせて性能を比較するベンチマーク「LLM AssBench」が登場",
       "link": "https://gigazine.net/news/20261109-llm-assbench/",
       "date": "2026-11-09T19:00:00+09:00",
@@ -74,24 +107,24 @@
       "score": 50
     },
     {
-      "title": "アメリカ産のAIでオープンモデル「Ripple-65B Preview」登場、パラメーター数10倍の大型モデルを上回る性能で開発費は10分の1",
-      "link": "https://gigazine.net/news/20261108-ripple-65b-preview/",
-      "date": "2026-11-08T19:00:00+09:00",
-      "dateLabel": "11/08 19:00",
-      "desc": "AIを使用してシリコンチップを設計する再帰的自己改善に取り組むアメリカのスタートアップ「Ricursive Intelligence」が、アメリカ産のオープンウェイトモデル「Ripple-65B Preview」をリリースしました。Ripple-65B Previewはエージェント型コーディングのベンチマーク「Terminal-Bench 2.1」で80.5",
+      "title": "Meta、最小・低コストのAIモデル「Muse Ember」発表 「Muse Spark 1.3」に迫る性能を約17分の1のコストで",
+      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003044/",
+      "date": "2026-11-10T09:06:40+09:00",
+      "dateLabel": "11/10 09:06",
+      "desc": "Metaは、AIモデル「Muse」ファミリーの最小モデル「Muse Ember」を発表した。AIエージェントの反復タスクに特化しており、上位モデル「Muse Spark 1.3」に迫る性能を約17分の1のコストで実現している。同日から開発者向けAPI等で提供を開始しており、大量の反復処理を低コストで担う。",
       "img": "",
-      "src": "GIGAZINE",
+      "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 50
+      "score": 42
     },
     {
-      "title": "AIと協働してPC作業を自動化。ChatSenseが新機能を提供予定",
-      "link": "https://ascii.jp/elem/000/004/449/4449906/?rss",
-      "date": "2026-11-09T18:13:06+09:00",
-      "dateLabel": "11/09 18:13",
-      "desc": "AIと協働してPC作業を自動化。ChatSenseが新機能を提供予定",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
+      "title": "Google、第8世代TPUに「8tx」と「8i Max」を追加 機密データ処理と大規模AIエージェントに特化",
+      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003043/",
+      "date": "2026-11-10T07:26:48+09:00",
+      "dateLabel": "11/10 07:26",
+      "desc": "Googleは、第8世代TPUに機密データ処理向けの「TPU 8tx」と長大コンテキスト処理向けの「TPU 8i Max」を追加した。自律的なAIエージェントの普及に伴うセキュリティとメモリ性能の課題に対処する。TPU向けソフトウェアのオープンソース化や、計算資源の無駄を省く機能の強化も併せて発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 42
     },
@@ -140,6 +173,83 @@
       "score": 40
     },
     {
+      "title": "FSP「U500」11月13日発売、GPU2基と最大480mm水冷ラジエーターに対応",
+      "link": "https://ascii.jp/elem/000/004/449/4449928/?rss",
+      "date": "2026-11-10T10:00:00+09:00",
+      "dateLabel": "11/10 10:00",
+      "desc": "FSPのワークステーション向けPCケース「U500」が11月13日に発売。RTX 5090を2基搭載できるデュアルGPU対応や120mm PWMファン5基標準搭載など、ハイエンド構成向けの冷却・拡張性を備える。",
+      "img": "https://ascii.jp/img/2026/11/10/4549907/s/c89a8cc3d10e7fd3.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "FortiAIGateを活用してOracle Cloud InfrastructureのAIアプリを保護・管理",
+      "link": "https://ascii.jp/elem/000/004/449/4449197/?rss",
+      "date": "2026-11-10T09:00:00+09:00",
+      "dateLabel": "11/10 09:00",
+      "desc": "フォーティネットとOracle Cloud Infrastructureは、AIセキュリティとガバナンスを組み合わせて、組織がアプリケーションとエージェントを安全に拡張できるよう支援します。",
+      "img": "https://ascii.jp/img/2026/11/06/4548615/s/fd0b4b05cc39b7c9.jpg",
+      "src": "ASCII.jp",
+      "cat": "規制/安全",
+      "score": 34
+    },
+    {
+      "title": "会話だけで動画をブラッシュアップ！ 仕事に使える動画をClaudeとKling 4.0で作って見た",
+      "link": "https://ascii.jp/elem/000/004/448/4448972/?rss",
+      "date": "2026-11-10T09:00:00+09:00",
+      "dateLabel": "11/10 09:00",
+      "desc": "本連載は生成AIをこれから活用しようとしている方たちのために、生成AIの基本やコピペしてそのまま使えるプロンプトなどを紹介。兎にも角にも生成AIに触り始めることで、AIに対する理解を深め、AIスキルを身につけて欲しい。第78回は、ClaudeにKling 4.0を組み合わせ、会話しながら動画をブラッシュアップする方法ついて解説する。",
+      "img": "https://ascii.jp/img/2026/11/05/4548231/s/3b3243f3901aceaa.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "ショート動画屋さん、清掃・配膳ロボット向け成果報酬型SNS動画広告の現場条件シートを公開へ",
+      "link": "https://ascii.jp/elem/000/004/449/4449930/?rss",
+      "date": "2026-11-10T08:00:00+09:00",
+      "dateLabel": "11/10 08:00",
+      "desc": "ショート動画屋さん、清掃・配膳ロボット向け成果報酬型SNS動画広告の現場条件シートを公開へ",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 34
+    },
+    {
+      "title": "invox、社内ルールに基づき申請内容をAIが自動チェックする「AI申請チェック」を提供開始",
+      "link": "https://ascii.jp/elem/000/004/449/4449932/?rss",
+      "date": "2026-11-10T07:10:00+09:00",
+      "dateLabel": "11/10 07:10",
+      "desc": "invox、社内ルールに基づき申請内容をAIが自動チェックする「AI申請チェック」を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "【Subtraction Design】株式会社Astrea、米国のAI分野の基調講演者・著者 Shama Hyder氏と業務提携",
+      "link": "https://ascii.jp/elem/000/004/449/4449931/?rss",
+      "date": "2026-11-10T07:10:00+09:00",
+      "dateLabel": "11/10 07:10",
+      "desc": "【Subtraction Design】株式会社Astrea、米国のAI分野の基調講演者・著者 Shama Hyder氏と業務提携",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "Opusに助けを求めることができるJevならOpusと同等の精度を4分の1のコストで実現可能",
+      "link": "https://gigazine.net/news/20261110-llm-judges-identity-resolution/",
+      "date": "2026-11-10T06:00:00+09:00",
+      "dateLabel": "11/10 06:00",
+      "desc": "JevやGPT-6 Lunaのような高速で安価な意思決定モデルを用いたアイデンティティ解決(IDR)について、最先端LLMであるClaude Opusと同等の精度を出せるかどうかをテストしたところ、JevとClaude Opusを組み合わせたハイブリッドモデルがOpus単体に近い精度を1/4以下の低コストで実現できることが、ソフトウェアエンジニアのアルバート",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
       "title": "Google、Kubernetesで10倍高密度にAIエージェントを実行可能にする「Agent Sustrate」と「gVisor」、オープンソースとしてCNCFに寄贈と発表",
       "link": "https://www.publickey1.jp/blog/26/googlekubernetes10aiagent_sustrategvisorcncf.html",
       "date": "2026-11-10T00:25:30+09:00",
@@ -148,17 +258,6 @@
       "img": "",
       "src": "Publickey",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "アップル新製品「HomeView」、ChatGPTなどのAIアプリに対応か",
-      "link": "https://ascii.jp/elem/000/004/449/4449757/?rss",
-      "date": "2026-11-09T20:00:00+09:00",
-      "dateLabel": "11/09 20:00",
-      "desc": "アップルが今後投入する予定のスマートホームハブ「HomeView」は、AIチャットボットアプリを使えるようにする下準備が進んでいる可能性がある。",
-      "img": "https://ascii.jp/img/2026/11/09/4549637/s/a50f93ea9ddfc7bc.png",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -182,105 +281,6 @@
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 34
-    },
-    {
-      "title": "中国製AI「Qwen3.8-27B」の中国政府寄りの回答を減らしたAI「Arete-27B」が登場、プロパガンダを含む回答が22％から0.9％に減少",
-      "link": "https://gigazine.net/news/20261109-nous-research-arete-27b/",
-      "date": "2026-11-09T12:50:00+09:00",
-      "dateLabel": "11/09 12:50",
-      "desc": "AIエージェント「Hermes Agent」を開発するNous Researchが2026年11月6日に新たなAIモデル「Arete-27B」を公開しました。中国のアリババが開発した「Qwen3.8-27B」を追加学習させたモデルで、中国政府の公式見解に沿った回答を生成する割合を22％から0.9％に減らすことに成功したとのことです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/",
-      "date": "2026-11-09T10:18:41+09:00",
-      "dateLabel": "11/09 10:18",
-      "desc": "院内のローカルLLMで診療情報を処理していると話題になった本郷真砂ハートクリニック。院長が「Claude Code」で自作したシステムは、受付から次回予約までの流れをどう変えたのか。患者役として模擬受診し、導入効果を聞いた。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "AIエージェントの例10選！身近なツールから業務別の動きまで解説",
-      "link": "https://ainow.ai/2026/11/07/278503/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e4%25be%258b10%25e9%2581%25b8%25ef%25bc%2581%25e8%25ba%25ab%25e8%25bf%2591%25e3%2581%25aa%25e3%2583%2584%25e3%2583%25bc%25e3%2583%25ab%25e3%2581%258b%25e3%2582%2589%25e6%25a5%25ad%25e5%258b%2599%25e5%2588%25a5",
-      "date": "2026-11-07T03:53:48+09:00",
-      "dateLabel": "11/07 03:53",
-      "desc": "「AIエージェント」の意味は理解できても、自社の業務でどう動くのかが想像できず、提案資料に書けずに困っていませんか。 AIエージェントの例は、ChatGPT WorkやClaude Codeなどの身近なツールと、営業や経... The post AIエージェントの例10選！身近なツールから業務別の動きまで解説 first appeared on AI専門ニュ",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "JavaScriptランタイムの「Bun」がPrettier互換で300倍以上高速なフォーマッタに。Prettier設定ファイルもそのまま利用可能",
-      "link": "https://www.publickey1.jp/blog/26/javascriptbunprettier300prettier.html",
-      "date": "2026-10-28T00:27:52+09:00",
-      "dateLabel": "10/28 00:27",
-      "desc": "Anthropicが開発しているJavaScriptランタイムの「Bun」の新機能として、Prettier互換のフォーマッタ搭載が発表されました。 2026年10月22日付けでリリースされたBun v1.4.4に搭載されたPrettier互...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "LLM/モデル",
-      "score": 32
-    },
-    {
-      "title": "国内GPUサーバでオープンモデルを利用可能に フィックスターズが新サービス まずは「DeepSeek-V4.1-Flash-1017」から",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002955/",
-      "date": "2026-11-06T13:21:45+09:00",
-      "dateLabel": "11/06 13:21",
-      "desc": "ソフトウェア開発企業のフィックスターズは、国内のGPUサーバでオープンウェイトモデルを利用できるサービスを始めたと発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 28
-    },
-    {
-      "title": "「GitHub Copilot Dreaming」発表。作業を振り返ってパーソナルメモリやガイダンスをバックグラウンドで整理、アップデート。GitHub Universe 2026",
-      "link": "https://www.publickey1.jp/blog/26/github_copilot_dreaminggithub_universe_2026.html",
-      "date": "2026-11-05T00:15:49+09:00",
-      "dateLabel": "11/05 00:15",
-      "desc": "GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Dreaming」をパブリックプレビューとして発表しました。 Copi...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 28
-    },
-    {
-      "title": "GitHub、より高度なコードレビューを行う「Copilot Code Review Max」発表。GitHub Universe 2026",
-      "link": "https://www.publickey1.jp/blog/26/githubcopilot_code_review_maxgithub_universe_2026.html",
-      "date": "2026-11-04T00:14:57+09:00",
-      "dateLabel": "11/04 00:14",
-      "desc": "GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、より高度なコードレビューを行う新機能「Copilot Code Review Max」を発表しました。 Gi...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 28
-    },
-    {
-      "title": "マイクロソフト、150以上のオープンソースUIコンポーネントがBlazorに寄贈されたことを発表。InfragisticsとSyncfusionから",
-      "link": "https://www.publickey1.jp/blog/26/150uiblazorinfragisticssyncfusion.html",
-      "date": "2026-11-10T00:22:44+09:00",
-      "dateLabel": "11/10 00:22",
-      "desc": "マイクロソフトは、C#などの.NETテクノロジーを用いてWebアプリケーションの開発を可能にするフレームワーク「Blazor」に150以上のオープンソースUIコンポーネントが寄贈されたことを発表しました（発表1、発表2） これはマイクロソフ...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "どこでもつながって欲しいならワイヤレスWAN搭載「VAIO S13」が本体3万5000円引き中！",
-      "link": "https://ascii.jp/elem/000/004/449/4449063/?rss",
-      "date": "2026-11-09T19:00:00+09:00",
-      "dateLabel": "11/09 19:00",
-      "desc": "VAIOは、キャンペーン対象のPC本体が最大3万5000円オフになる「VAIOストア オータムキャンペーン2026」を開催中。期間は2026年11月17日(火)9時59分まで。オススメは「VAIO S13（VJS1368） WAN搭載モデル」。文字通り、ワイヤレスWAN搭載でSIMカードを挿せる一台だ。",
-      "img": "https://ascii.jp/img/2026/11/06/4548431/s/3ee3ee05197e2960.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
     }
   ]
 }
