@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-10T17:57:08.043538+09:00",
-  "generatedLabel": "2026/11/10 17:57",
+  "generatedAt": "2026-11-11T01:43:35.189053+09:00",
+  "generatedLabel": "2026/11/11 01:43",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 57,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 16
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -107,17 +107,6 @@
       "score": 58
     },
     {
-      "title": "AIに「3DCGのおしり」を作らせて性能を比較するベンチマーク「LLM AssBench」が登場",
-      "link": "https://gigazine.net/news/20261109-llm-assbench/",
-      "date": "2026-11-09T19:00:00+09:00",
-      "dateLabel": "11/09 19:00",
-      "desc": "AIに人間のおしりの3DCGを作らせて性能を比較するベンチマーク「LLM AssBench」が公開されています。AIが生成したおしりはブラウザ上で回転させたりクリックして揺らしたりすることが可能で、さまざまなAIが作り上げたおしりを並べて比較できます。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
       "title": "Claude Opus 5.5の推論能力が11月3日から急激に低下したとの指摘、1400件の利用履歴から変化が判明",
       "link": "https://gigazine.net/news/20261110-claude-opus-nerf/",
       "date": "2026-11-10T16:55:00+09:00",
@@ -173,22 +162,33 @@
       "score": 40
     },
     {
-      "title": "伝わる資料を書くAI「monoza」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/450/4450316/?rss",
-      "date": "2026-11-10T16:21:00+09:00",
-      "dateLabel": "11/10 16:21",
-      "desc": "伝わる資料を書くAI「monoza」を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "title": "Wisoraの回答は業務で使える？資料を学習させて確かめる",
+      "link": "https://ascii.jp/elem/000/004/450/4450336/?rss",
+      "date": "2026-11-10T18:40:00+09:00",
+      "dateLabel": "11/10 18:40",
+      "desc": "Wisoraの回答は業務で使える？資料を学習させて確かめる",
+      "img": "https://ascii.jp/img/2026/11/10/4550244/s/b4243e7d0c6cb66b.png",
       "src": "ASCII.jp",
-      "cat": "AI全般",
+      "cat": "生成AI/マルチモーダル",
       "score": 34
     },
     {
-      "title": "画像を外に送らない無料の画像ツール5種 「容量を指定する画像圧縮」などをAIツールギャラリーが公開",
-      "link": "https://ascii.jp/elem/000/004/450/4450317/?rss",
-      "date": "2026-11-10T15:49:31+09:00",
-      "dateLabel": "11/10 15:49",
-      "desc": "画像を外に送らない無料の画像ツール5種 「容量を指定する画像圧縮」などをAIツールギャラリーが公開",
+      "title": "伊藤忠テクノソリューションズ、PTCジャパンらが解説。ChatGPTを入れても現場は変わらない？生成AIを成果につなげる5講演「すぐマネできる！事例紹介セミナー」第3弾＜12/9・10・参加無料＞",
+      "link": "https://ascii.jp/elem/000/004/450/4450353/?rss",
+      "date": "2026-11-10T18:10:00+09:00",
+      "dateLabel": "11/10 18:10",
+      "desc": "伊藤忠テクノソリューションズ、PTCジャパンらが解説。ChatGPTを入れても現場は変わらない？生成AIを成果につなげる5講演「すぐマネできる！事例紹介セミナー」第3弾＜12/9・10・参加無料＞",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "婚活AIは「理解の質」を問う時代へ。ヨイトキが音声インタビューの評価フレームワークを初公開",
+      "link": "https://ascii.jp/elem/000/004/450/4450352/?rss",
+      "date": "2026-11-10T18:00:00+09:00",
+      "dateLabel": "11/10 18:00",
+      "desc": "婚活AIは「理解の質」を問う時代へ。ヨイトキが音声インタビューの評価フレームワークを初公開",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
@@ -272,15 +272,15 @@
       "score": 34
     },
     {
-      "title": "Google、Kubernetesで10倍高密度にAIエージェントを実行可能にする「Agent Sustrate」と「gVisor」、オープンソースとしてCNCFに寄贈と発表",
-      "link": "https://www.publickey1.jp/blog/26/googlekubernetes10aiagent_sustrategvisorcncf.html",
-      "date": "2026-11-10T00:25:30+09:00",
-      "dateLabel": "11/10 00:25",
-      "desc": "Googleは、Kubernetes上にAIエージェントのための高効率な基盤を構築するためのオープンソースソフトウェア「Agent Substrate」と「gVisor」を、Linux Foundation傘下のCloud Native C...",
+      "title": "JavaScriptランタイムの「Bun」がPrettier互換で300倍以上高速なフォーマッタに。Prettier設定ファイルもそのまま利用可能",
+      "link": "https://www.publickey1.jp/blog/26/javascriptbunprettier300prettier.html",
+      "date": "2026-10-28T00:27:52+09:00",
+      "dateLabel": "10/28 00:27",
+      "desc": "Anthropicが開発しているJavaScriptランタイムの「Bun」の新機能として、Prettier互換のフォーマッタ搭載が発表されました。 2026年10月22日付けでリリースされたBun v1.4.4に搭載されたPrettier互...",
       "img": "",
       "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 34
+      "cat": "LLM/モデル",
+      "score": 32
     }
   ]
 }
