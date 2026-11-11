@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-12T02:45:17.842249+09:00",
-  "generatedLabel": "2026/11/12 02:45",
+  "generatedAt": "2026-11-12T08:50:35.659678+09:00",
+  "generatedLabel": "2026/11/12 08:50",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 48,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 16
+      "items": 18
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 1
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 16
+      "items": 18
     },
     {
       "source": "CNET Japan",
@@ -74,6 +74,39 @@
       "score": 58
     },
     {
+      "title": "Google、選択肢から答えを選ぶことに特化した「Gemini Decisions API」発表 回答を生成せず確率で返す",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003123/",
+      "date": "2026-11-12T07:03:58+09:00",
+      "dateLabel": "11/12 07:03",
+      "desc": "Googleは、ツールの選択や条件判定など選択肢から答えを選ぶ用途に特化した「Gemini Decisions API」を発表した。専用モデルを用い、テキストや画像などのマルチモーダル入力を1回の推論で評価し、確率と信頼度スコアを返す。従来のモデルより高速かつ安価に動作し、他社が先行する判断特化型AI市場への本格参入となる。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
+      "title": "Claude Enterpriseがセキュリティと管理機能を強化 DLP・EDR連携など新機能の全容は",
+      "link": "https://kn.itmedia.co.jp/kn/article/2611/12/2000003082/",
+      "date": "2026-11-12T07:00:00+09:00",
+      "dateLabel": "11/12 07:00",
+      "desc": "Anthropicは「Claude Enterprise」のセキュリティと管理機能の拡充を発表した。設定状況の一覧化やDLP連携、個人アカウントの遮断などによって、企業のAI統制とシャドーIT対策を支援する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
+      "title": "iPhone DuoはiPhone 18 Proと同じチップでもGPU性能に差、発熱や電池持ちなどのベンチマーク結果が公開される",
+      "link": "https://gigazine.net/news/20261112-iphone-duo-benchmark-battery/",
+      "date": "2026-11-12T06:00:00+09:00",
+      "dateLabel": "11/12 06:00",
+      "desc": "ハードウェアの検証を行うLTT Labsが、Appleの折りたたみスマートフォン「iPhone Duo」をiPhone 18 ProやSamsung製スマートフォンと比較した結果を公開しました。CPUやGPUの処理性能に加えて高負荷時の発熱と性能低下、使用する画面によるバッテリー持続時間の違いも調べています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 50
+    },
+    {
       "title": "Claude内でAdobe製品やNotionなどを直接操作可能に、AIと一緒に写真編集や文書作成ができる新機能が登場",
       "link": "https://gigazine.net/news/20261111-claude-interactive-connectors-full-tool/",
       "date": "2026-11-11T17:50:00+09:00",
@@ -107,26 +140,15 @@
       "score": 50
     },
     {
-      "title": "Google、「Gemini 4 Carbon」一般提供開始 Geminiアプリでは最上位「AI Ultra」限定",
-      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003083/",
-      "date": "2026-11-11T07:03:30+09:00",
-      "dateLabel": "11/11 07:03",
-      "desc": "Googleは、最上位AIモデル「Gemini 4 Carbon」の提供を開始した。一般ユーザーは月額1万4500円の「Google AI Ultra」契約で利用可能となる。複雑な推論や高度なコーディングに特化しており、開発者向けAPIや新機能「/swarm」のプレビュー提供も始まった。",
+      "title": "AWSで「ChatGPT Enterprise」を購入可能に AWSアカウントで一括管理するメリットは",
+      "link": "https://kn.itmedia.co.jp/kn/article/2611/12/2000003080/",
+      "date": "2026-11-12T07:00:00+09:00",
+      "dateLabel": "11/12 07:00",
+      "desc": "OpenAIは「ChatGPT Enterprise」をAWS Marketplaceで提供開始した。企業は既存のAWSアカウントや契約枠でChatGPT Enterpriseを購入・管理できる。企業のAI調達はどう変わるのか。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
-      "title": "NotebookLMに公式APIが登場 WebページやYouTube動画の取り込みを自動化でき、MCPでAIエージェントからも使える",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/11/news011.html",
-      "date": "2026-11-11T05:00:00+09:00",
-      "dateLabel": "11/11 05:00",
-      "desc": "NotebookLM（現Gemini Notebook）に、個人アカウントで使える公式のREST APIとMCPサーバが公開プレビューとして登場した。今できること、まだできないこと、使う前の条件を整理し、筆者が手元で試した結果も添える。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 50
+      "score": 42
     },
     {
       "title": "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
@@ -195,6 +217,50 @@
       "score": 42
     },
     {
+      "title": "Google、「Gemini 4 Carbon」一般提供開始 Geminiアプリでは最上位「AI Ultra」限定",
+      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003083/",
+      "date": "2026-11-11T07:03:30+09:00",
+      "dateLabel": "11/11 07:03",
+      "desc": "Googleは、最上位AIモデル「Gemini 4 Carbon」の提供を開始した。一般ユーザーは月額1万4500円の「Google AI Ultra」契約で利用可能となる。複雑な推論や高度なコーディングに特化しており、開発者向けAPIや新機能「/swarm」のプレビュー提供も始まった。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "「非言語系AI」はLLMの弱点を補えるか？ Gartner「2027年の戦略的テクノロジのトップ・トレンド」",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/11/news089.html",
+      "date": "2026-11-12T07:00:00+09:00",
+      "dateLabel": "11/12 07:00",
+      "desc": "AIの議論は「何ができるか」から「どう統制するか」へ――。Gartnerは2027年のトップ・トレンド10項目の大半を、自律型エージェントの統制と変化に耐える基盤の設計に充てた。一方で同社が「まだ不足している」とする、AIの頭脳に当たる3つの技術とは。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "Outlook.comがDMARC認証を受けていないドメインからのメールを拒否",
+      "link": "https://gigazine.net/news/20261112-outlook-rejecting-email-without-dmarc/",
+      "date": "2026-11-12T07:00:00+09:00",
+      "dateLabel": "11/12 07:00",
+      "desc": "2026年11月5日から9日にかけて、Outlook.com・Hotmail・Live・MSNといったMicrosoftのコンシューマー向けメールサービスで、DMARCレコードを公開していないドメインからのメールが一部拒否される事象が発生しました。Microsoftからの公式発表がないまま問題が発生したことから、多くのユーザーや企業に混乱を招きました。 続き",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "「AIが気候問題を解決」は本当か？ 電力・食肉・自動車の主要企業を検証",
+      "link": "https://ascii.jp/elem/000/004/450/4450792/?rss",
+      "date": "2026-11-12T06:36:13+09:00",
+      "dateLabel": "11/12 06:36",
+      "desc": "ある査読付き研究によれば、AIは2035年に、電力、食肉・乳製品、自動車の3分野を中心に、世界の温室効果ガス排出量を年最大54億トン削減できる可能性がある。だが主要企業の公開情報を調べると、AI活用を進め、成果を報告している企業はごくわずかだ。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "AmazonがAIモデルの「Claude Sonnet 4.6」を独自開発の意志決定モデル「Strands Decider」に置き換えることで98％のコスト削減に成功",
       "link": "https://gigazine.net/news/20261111-amazon-claude-sonnet-4-6-strands-decider/",
       "date": "2026-11-11T21:00:00+09:00",
@@ -203,17 +269,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "“頑丈すぎて”怖い。180cm落下試験をクリアした、タフブック新型「FZ-34」がやばいほど丈夫です。",
-      "link": "https://ascii.jp/elem/000/004/449/4449622/?rss",
-      "date": "2026-11-11T18:00:00+09:00",
-      "dateLabel": "11/11 18:00",
-      "desc": "「FZ-34」は、現場での使いやすさと安全性を追求した12.4型液晶搭載の堅牢2in1パソコンです。作業内容に応じてタブレット単体でもキーボード装着時でも使い分けられるほか、屋外の明るい場所でも見やすい高輝度ディスプレイや、作業用手袋を装着したまま操作できるタッチパネルを採用しています。",
-      "img": "https://ascii.jp/img/2026/11/09/4549556/s/75930ae482ca0d03.png",
-      "src": "ASCII.jp",
-      "cat": "規制/安全",
       "score": 34
     },
     {
@@ -226,61 +281,6 @@
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 34
-    },
-    {
-      "title": "ジェンスン・フアンCEOの不倫関係を利用して1兆円分以上のNVIDIA製半導体が中国に出荷されていた疑い",
-      "link": "https://gigazine.net/news/20261111-nvidia-spy-affair-ai-chip-shipments-to-china/",
-      "date": "2026-11-11T12:32:00+09:00",
-      "dateLabel": "11/11 12:32",
-      "desc": "NVIDIAのジェンスン・フアンCEOがアメリカ当局に「中国のスパイ」と断定された女性と不倫していた問題で、女性はフアン氏との関係を利用して2023年以降、少なくとも75億ドル(約1兆1900億円)分のNVIDIA製半導体を中国に出荷していたことがわかりました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "Adobeが2027年のMCP対応を予告、PhotoshopやPremiere ProをAIエージェントから操作可能に",
-      "link": "https://gigazine.net/news/20261111-adobe-creative-tools-mcp-support/",
-      "date": "2026-11-11T12:10:00+09:00",
-      "dateLabel": "11/11 12:10",
-      "desc": "Adobeは2026年11月10日、クリエイター向けイベント「Adobe MAX 2026」で、PhotoshopやPremiere Proなどの主要アプリを外部のAIエージェントから操作できるようにするModel Context Protocol(MCP)対応を発表しました。2027年初頭にプライベートベータ版を提供する予定で、画像や動画の編集作業をAIエ",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "中国AI「Qwen4」ついに登場 プレビュー版を提供開始、AlibabaのAIサービスで",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003098/",
-      "date": "2026-11-11T11:30:32+09:00",
-      "dateLabel": "11/11 11:30",
-      "desc": "中国Alibaba Cloudは、AIモデル「Qwen4」を発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "dotsが「複数台のローカルコンピュータ接続」に対応 各マシンでタスクを分担可能に",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/10/2000003058/",
-      "date": "2026-11-10T12:47:11+09:00",
-      "dateLabel": "11/10 12:47",
-      "desc": "OpenAIは常時稼働型エージェントツール「dots」が複数台のローカルコンピュータに接続できるようになったと発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "AIエージェントの例10選！身近なツールから業務別の動きまで解説",
-      "link": "https://ainow.ai/2026/11/07/278503/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e4%25be%258b10%25e9%2581%25b8%25ef%25bc%2581%25e8%25ba%25ab%25e8%25bf%2591%25e3%2581%25aa%25e3%2583%2584%25e3%2583%25bc%25e3%2583%25ab%25e3%2581%258b%25e3%2582%2589%25e6%25a5%25ad%25e5%258b%2599%25e5%2588%25a5",
-      "date": "2026-11-07T03:53:48+09:00",
-      "dateLabel": "11/07 03:53",
-      "desc": "「AIエージェント」の意味は理解できても、自社の業務でどう動くのかが想像できず、提案資料に書けずに困っていませんか。 AIエージェントの例は、ChatGPT WorkやClaude Codeなどの身近なツールと、営業や経... The post AIエージェントの例10選！身近なツールから業務別の動きまで解説 first appeared on AI専門ニュ",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 28
     }
   ]
 }
