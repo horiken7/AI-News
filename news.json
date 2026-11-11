@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-11T07:02:05.126926+09:00",
-  "generatedLabel": "2026/11/11 07:02",
+  "generatedAt": "2026-11-11T11:22:28.755221+09:00",
+  "generatedLabel": "2026/11/11 11:22",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 50,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 10
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -74,17 +74,6 @@
       "score": 66
     },
     {
-      "title": "Metaが小型AIモデル「Muse Ember」を発表、Claude Haiku 5.5と同等の性能を約3分の1のコストで実現",
-      "link": "https://gigazine.net/news/20261110-meta-muse-ember/",
-      "date": "2026-11-10T10:54:00+09:00",
-      "dateLabel": "11/10 10:54",
-      "desc": "Metaが2026年11月9日、同社のAIモデル「Muse」シリーズで最も小型かつ効率的だとする新モデル「Muse Ember」を発表しました。AIエージェントによるプログラミングやツール操作などの反復作業に特化しており、Metaによると、Anthropicの「Claude Haiku 5.5」と同等の性能を約3分の1のコストで実現しています。 続きを読む.",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 66
-    },
-    {
       "title": "Metaの最小・低コストなAIモデル「Muse Ember」各種ベンチマーク結果、本当にコスパが良いのか？",
       "link": "https://gigazine.net/news/20261110-meta-muse-ember-benchmark/",
       "date": "2026-11-10T12:30:00+09:00",
@@ -96,15 +85,37 @@
       "score": 58
     },
     {
-      "title": "Anthropic、「Claude Fable 5.2」と「Claude Mythos 5.2」発表 API料金2割下げ、出力は最大30％高速化",
-      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003042/",
-      "date": "2026-11-10T07:03:56+09:00",
-      "dateLabel": "11/10 07:03",
-      "desc": "Anthropicは、最上位AIモデルの新版「Claude Fable 5.2」および審査制の「Claude Mythos 5.2」を発表した。出力速度は最大30％向上し、API料金は2割値下げされている。長時間の複雑な推論やエージェント型コーディングに特化しており、同日より主要クラウドや各種アプリで提供が開始された。",
+      "title": "Googleの「最強」モデル「Gemini 4 Carbon」一般提供開始 Antigravityでのマルチエージェントチーム編成機能も",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003093/",
+      "date": "2026-11-11T10:47:35+09:00",
+      "dateLabel": "11/11 10:47",
+      "desc": "Googleは同社最先端のAIモデル「Gemini 4 Carbon」の一般提供を開始。同時に、大規模な開発プロジェクトを効率的に遂行するためのマルチエージェントチーム編成機能「/swarm」も発表した。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 58
+      "score": 50
+    },
+    {
+      "title": "ChatGPTでビジネスを展開できる新機能 自社サイトのクリック数集計、顧客へのAIチャット提供など 一部機能は米国から",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003088/",
+      "date": "2026-11-11T09:27:17+09:00",
+      "dateLabel": "11/11 09:27",
+      "desc": "OpenAIは、企業がChatGPT上でのWebサイトのクリック数を集計したり、顧客にAIチャット機能を提供したりできる新機能「Businesses in ChatGPT」のβ版を発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
+      "title": "Google、「Gemini 4 Carbon」一般提供開始 Geminiアプリでは最上位「AI Ultra」限定",
+      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003083/",
+      "date": "2026-11-11T07:03:30+09:00",
+      "dateLabel": "11/11 07:03",
+      "desc": "Googleは、最上位AIモデル「Gemini 4 Carbon」の提供を開始した。一般ユーザーは月額1万4500円の「Google AI Ultra」契約で利用可能となる。複雑な推論や高度なコーディングに特化しており、開発者向けAPIや新機能「/swarm」のプレビュー提供も始まった。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 50
     },
     {
       "title": "NotebookLMに公式APIが登場 WebページやYouTube動画の取り込みを自動化でき、MCPでAIエージェントからも使える",
@@ -116,6 +127,28 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 50
+    },
+    {
+      "title": "【石川 温×山根康宏】国産も海外も取り込み「通信×フィジカルAI」でロボティクスの覇権を狙うKDDIの最前線",
+      "link": "https://ascii.jp/elem/000/004/448/4448048/?rss",
+      "date": "2026-11-11T11:00:00+09:00",
+      "dateLabel": "11/11 11:00",
+      "desc": "石川 温氏と山根康宏氏が「KDDI SUMMIT 2026」を総括します。KDDIは単なる回線提供にとどまらず、ロボティクスやAI、データセンターなど次世代技術に手厚く投資しています。通信とセットで動く独自の勝ち筋や、海外を凌ぐ開発スピードとリアリティを両氏が評価しました。",
+      "img": "https://ascii.jp/img/2026/11/03/4547330/s/87b620f77a5923b3.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "「Claude」に共同編集の「Sheets」「Whiteboards」 外部アプリもClaude内で開いて作業可能に",
+      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003089/",
+      "date": "2026-11-11T09:33:03+09:00",
+      "dateLabel": "11/11 09:33",
+      "desc": "Anthropicは、「Claude」に共同編集可能な「Claude Sheets」と「Claude Whiteboards」をβ版として追加した。また「Claude Dashboards」を「Claude Data」に改称し、一般提供を開始。さらに外部アプリをClaude内で直接操作できる「インタラクティブコネクタ」の拡張も発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "Claude Opus 5.5の推論能力が11月3日から急激に低下したとの指摘、1400件の利用履歴から変化が判明",
@@ -140,28 +173,6 @@
       "score": 42
     },
     {
-      "title": "Meta、最小・低コストのAIモデル「Muse Ember」発表 「Muse Spark 1.3」に迫る性能を約17分の1のコストで",
-      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003044/",
-      "date": "2026-11-10T09:06:40+09:00",
-      "dateLabel": "11/10 09:06",
-      "desc": "Metaは、AIモデル「Muse」ファミリーの最小モデル「Muse Ember」を発表した。AIエージェントの反復タスクに特化しており、上位モデル「Muse Spark 1.3」に迫る性能を約17分の1のコストで実現している。同日から開発者向けAPI等で提供を開始しており、大量の反復処理を低コストで担う。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "Google、第8世代TPUに「8tx」と「8i Max」を追加 機密データ処理と大規模AIエージェントに特化",
-      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003043/",
-      "date": "2026-11-10T07:26:48+09:00",
-      "dateLabel": "11/10 07:26",
-      "desc": "Googleは、第8世代TPUに機密データ処理向けの「TPU 8tx」と長大コンテキスト処理向けの「TPU 8i Max」を追加した。自律的なAIエージェントの普及に伴うセキュリティとメモリ性能の課題に対処する。TPU向けソフトウェアのオープンソース化や、計算資源の無駄を省く機能の強化も併せて発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
       "link": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
       "date": "2026-11-02T23:36:38+09:00",
@@ -171,6 +182,61 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 40
+    },
+    {
+      "title": "【AI活用と組織の判断に関する実態調査】AI活用の投資対効果を「数値で説明できている」との回答は18.8%。投資対効果まで測定しているとの回答は3.5%",
+      "link": "https://ascii.jp/elem/000/004/450/4450396/?rss",
+      "date": "2026-11-11T10:00:00+09:00",
+      "dateLabel": "11/11 10:00",
+      "desc": "【AI活用と組織の判断に関する実態調査】AI活用の投資対効果を「数値で説明できている」との回答は18.8%。投資対効果まで測定しているとの回答は3.5%",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "AIO（LLMO/GEO）ツール「DolphinX AIO」、AIプロンプト計測の基盤を強化し、高精度・高安定な計測を実現",
+      "link": "https://ascii.jp/elem/000/004/450/4450402/?rss",
+      "date": "2026-11-11T09:22:49+09:00",
+      "dateLabel": "11/11 09:22",
+      "desc": "AIO（LLMO/GEO）ツール「DolphinX AIO」、AIプロンプト計測の基盤を強化し、高精度・高安定な計測を実現",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "AIO（LLMO/GEO）ツール「DolphinX AIO」のメディアリーチ、マーケティングWeek大阪展の「AIO・AI検索対策 特別セミナー」に代表の松村が登壇決定",
+      "link": "https://ascii.jp/elem/000/004/450/4450403/?rss",
+      "date": "2026-11-11T09:22:18+09:00",
+      "dateLabel": "11/11 09:22",
+      "desc": "AIO（LLMO/GEO）ツール「DolphinX AIO」のメディアリーチ、マーケティングWeek大阪展の「AIO・AI検索対策 特別セミナー」に代表の松村が登壇決定",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "AIO（LLMO/GEO）ツール「DolphinX AIO」、Meta AIを計測対象に追加 最大8種のAIの日次同時計測に対応",
+      "link": "https://ascii.jp/elem/000/004/450/4450404/?rss",
+      "date": "2026-11-11T09:21:22+09:00",
+      "dateLabel": "11/11 09:21",
+      "desc": "AIO（LLMO/GEO）ツール「DolphinX AIO」、Meta AIを計測対象に追加 最大8種のAIの日次同時計測に対応",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "【TechSuite株式会社】【業界特化調査 第37弾】AI検索パートナーズ、Web制作会社選びのAI検索対策（LLMO/AIO/GEO/AEO）調査を実施｜観測された会社は191社",
+      "link": "https://ascii.jp/elem/000/004/450/4450414/?rss",
+      "date": "2026-11-11T09:00:00+09:00",
+      "dateLabel": "11/11 09:00",
+      "desc": "【TechSuite株式会社】【業界特化調査 第37弾】AI検索パートナーズ、Web制作会社選びのAI検索対策（LLMO/AIO/GEO/AEO）調査を実施｜観測された会社は191社",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "無料で使える「SketchUp」代替の3Dモデリングツール「BenchUp」が登場、ブラウザ上で家具の設計が可能",
@@ -195,50 +261,6 @@
       "score": 34
     },
     {
-      "title": "AMDが最大256コアのZen 6世代組込み向けCPU「EPYC Embedded 9006」を発表、PCIe Gen 6とMRDIMMに対応",
-      "link": "https://ascii.jp/elem/000/004/450/4450358/?rss",
-      "date": "2026-11-11T02:00:00+09:00",
-      "dateLabel": "11/11 02:00",
-      "desc": "AMDが発表した第6世代の組込み向けプロセッサ「AMD EPYC Embedded 9006シリーズ SP7」は、最大256コアのコア密度と、PCIe Gen 6やCXL 3.1、MRDIMMなどの次世代高速インターフェースを統合し、AIインフラの急速な拡大にともなう処理能力やデータ転送の需要増大に対応する。",
-      "img": "https://ascii.jp/img/2026/11/10/4550314/s/7ddf9f23fed9cc0d.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "Wisoraの回答は業務で使える？資料を学習させて確かめる",
-      "link": "https://ascii.jp/elem/000/004/450/4450336/?rss",
-      "date": "2026-11-10T18:40:00+09:00",
-      "dateLabel": "11/10 18:40",
-      "desc": "Wisoraの回答は業務で使える？資料を学習させて確かめる",
-      "img": "https://ascii.jp/img/2026/11/10/4550244/s/b4243e7d0c6cb66b.png",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "伊藤忠テクノソリューションズ、PTCジャパンらが解説。ChatGPTを入れても現場は変わらない？生成AIを成果につなげる5講演「すぐマネできる！事例紹介セミナー」第3弾＜12/9・10・参加無料＞",
-      "link": "https://ascii.jp/elem/000/004/450/4450353/?rss",
-      "date": "2026-11-10T18:10:00+09:00",
-      "dateLabel": "11/10 18:10",
-      "desc": "伊藤忠テクノソリューションズ、PTCジャパンらが解説。ChatGPTを入れても現場は変わらない？生成AIを成果につなげる5講演「すぐマネできる！事例紹介セミナー」第3弾＜12/9・10・参加無料＞",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "婚活AIは「理解の質」を問う時代へ。ヨイトキが音声インタビューの評価フレームワークを初公開",
-      "link": "https://ascii.jp/elem/000/004/450/4450352/?rss",
-      "date": "2026-11-10T18:00:00+09:00",
-      "dateLabel": "11/10 18:00",
-      "desc": "婚活AIは「理解の質」を問う時代へ。ヨイトキが音声インタビューの評価フレームワークを初公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
       "title": "空売り業者がNVIDIAのCEO不倫事件発覚の6カ月前にNVIDIAの問題を指摘していた",
       "link": "https://gigazine.net/news/20261110-nvidia-megaspeed-short-seller-prediction/",
       "date": "2026-11-10T15:15:00+09:00",
@@ -258,28 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "「Fable 5.2」の用途は？ Claudeモデルの選び方、Anthropicが基本を解説",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/10/2000003061/",
-      "date": "2026-11-10T13:26:38+09:00",
-      "dateLabel": "11/10 13:26",
-      "desc": "米Anthropicは「Claude」のモデルの選び方を公式ブログで解説した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "なぜ、三井化学は1.8兆円で「半導体材料メーカー」を買ったのか JSR買収の狙い、市村社長が語る",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/10/news029.html",
-      "date": "2026-11-10T12:00:00+09:00",
-      "dateLabel": "11/10 12:00",
-      "desc": "三井化学が、半導体材料大手JSRを約1.8兆円で買収する。市村社長は「単なるM＆Aではない」と説明する。巨額を投じた買収の狙いは。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
       "score": 34
     }
   ]
