@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-11T11:22:28.755221+09:00",
-  "generatedLabel": "2026/11/11 11:22",
+  "generatedAt": "2026-11-11T19:00:03.519791+09:00",
+  "generatedLabel": "2026/11/11 19:00",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 56,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 15
+      "items": 16
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 10
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 16
     },
     {
       "source": "CNET Japan",
@@ -63,26 +63,26 @@
   ],
   "articles": [
     {
-      "title": "Claude Fable 5.2とClaude Mythos 5.2が登場、1000体以上のAIを指揮して8日間でOSを自律開発することに成功",
-      "link": "https://gigazine.net/news/20261110-anthropic-claude-fable-mythos-5-2/",
-      "date": "2026-11-10T11:47:00+09:00",
-      "dateLabel": "11/10 11:47",
-      "desc": "Anthropicが2026年11月9日に高性能AIモデル「Claude Fable 5.2」と「Claude Mythos 5.2」を発表しました。前世代の5.1からプログラミング能力や推論能力が向上しており、1000体以上のAIエージェントを連携させて8日間でOSを開発することにも成功しています。 続きを読む...",
+      "title": "Google製高性能AI「Gemini 4 Carbon」が一般公開される、複数のAIが協力する新機能で3Dゲームを制作するデモも披露",
+      "link": "https://gigazine.net/news/20261111-gemini-4-carbon/",
+      "date": "2026-11-11T18:00:00+09:00",
+      "dateLabel": "11/11 18:00",
+      "desc": "Googleは2026年11月10日にAIモデル「Gemini 4 Carbon」の一般提供を開始したと発表しました。Gemini 4 Carbonは複雑なプログラミングや科学研究、サイバーセキュリティ分野の作業に対応する高性能AIで、有料プラン「Google AI Ultra」のユーザーはGeminiアプリなどから利用できます。複数のAIが協力して長時間の",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 66
+      "cat": "LLM/モデル",
+      "score": 58
     },
     {
-      "title": "Metaの最小・低コストなAIモデル「Muse Ember」各種ベンチマーク結果、本当にコスパが良いのか？",
-      "link": "https://gigazine.net/news/20261110-meta-muse-ember-benchmark/",
-      "date": "2026-11-10T12:30:00+09:00",
-      "dateLabel": "11/10 12:30",
-      "desc": "Metaが2026年11月9日に発表した小型AIモデル「Muse Ember」について、AIモデルの評価を行うArtificial Analysis、Vals AI、Arena.aiなどがベンチマーク結果を公開しました。Muse Emberは競合モデルと同等以上の性能を低コストで実現していると評価されており、特にAIエージェントによる作業やウェブ開発で高いコ",
+      "title": "Claude内でAdobe製品やNotionなどを直接操作可能に、AIと一緒に写真編集や文書作成ができる新機能が登場",
+      "link": "https://gigazine.net/news/20261111-claude-interactive-connectors-full-tool/",
+      "date": "2026-11-11T17:50:00+09:00",
+      "dateLabel": "11/11 17:50",
+      "desc": "AI開発企業のAnthropicが2026年11月10日に、チャットAI「Claude」の画面内でAdobe製品やNotionなどの外部アプリを直接操作できる新機能を発表しました。Claudeとの会話を続けながら写真やPDFを編集したり、Notionの文書を作成したりできるようになります。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 58
+      "cat": "LLM/モデル",
+      "score": 50
     },
     {
       "title": "Googleの「最強」モデル「Gemini 4 Carbon」一般提供開始 Antigravityでのマルチエージェントチーム編成機能も",
@@ -129,14 +129,47 @@
       "score": 50
     },
     {
-      "title": "【石川 温×山根康宏】国産も海外も取り込み「通信×フィジカルAI」でロボティクスの覇権を狙うKDDIの最前線",
-      "link": "https://ascii.jp/elem/000/004/448/4448048/?rss",
-      "date": "2026-11-11T11:00:00+09:00",
-      "dateLabel": "11/11 11:00",
-      "desc": "石川 温氏と山根康宏氏が「KDDI SUMMIT 2026」を総括します。KDDIは単なる回線提供にとどまらず、ロボティクスやAI、データセンターなど次世代技術に手厚く投資しています。通信とセットで動く独自の勝ち筋や、海外を凌ぐ開発スピードとリアリティを両氏が評価しました。",
-      "img": "https://ascii.jp/img/2026/11/03/4547330/s/87b620f77a5923b3.jpg",
+      "title": "株式会社GAZAI、「エンタメ特化型LLM」を提供開始。優れた日本語表現と低コストなLLMを、AIチャット・ゲーム・VTuber・IP保有企業向けに展開。",
+      "link": "https://ascii.jp/elem/000/004/450/4450741/?rss",
+      "date": "2026-11-11T17:40:00+09:00",
+      "dateLabel": "11/11 17:40",
+      "desc": "株式会社GAZAI、「エンタメ特化型LLM」を提供開始。優れた日本語表現と低コストなLLMを、AIチャット・ゲーム・VTuber・IP保有企業向けに展開。",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "Google DeepMindがAIでコードを検証する「AlphaProof Code」を使ってSignalプロトコルの安全性の形式的検証に成功",
+      "link": "https://gigazine.net/news/20261111-google-deepmind-alphaproof-code-verification/",
+      "date": "2026-11-11T16:05:00+09:00",
+      "dateLabel": "11/11 16:05",
+      "desc": "Google DeepMindがソフトウェアの検証を行うためのマルチエージェントAIフレームワーク「AlphaProof Code」を発表しました。研究チームはAlphaProof Codeを用いて、Googleメッセージなどの暗号通信に使用されている「Signalプロトコル」が十分なセキュリティ保護機能を備えていることを数学的に証明することに成功しています",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 42
+    },
+    {
+      "title": "NVIDIAが仮想的な日本人900万人分の家計や財務状況を含めたペルソナをまとめたデータセットを公開",
+      "link": "https://gigazine.net/news/20261111-nemotron-personas-finance-japan/",
+      "date": "2026-11-11T14:15:00+09:00",
+      "dateLabel": "11/11 14:15",
+      "desc": "NVIDIAは11月10日に東京都で主催した開発者向けイベント「NVIDIA Agentic AI Day」において、日本語AIの開発を支援する2つの合成データセット「Nemotron Personas Finance Japan」と「Nemotron PII Japan」を発表しました。オープンソースペルソナデータセット 「Nemotron Persona",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "Claude内で表計算アプリをそのまま実行できる「Claude Sheets」が登場、「Claude Whiteboards」と「Claude Data」も",
+      "link": "https://gigazine.net/news/20261111-claude-sheets-whiteboards-data/",
+      "date": "2026-11-11T12:36:00+09:00",
+      "dateLabel": "11/11 12:36",
+      "desc": "Anthropicが、AIの「Claude」が取り扱うことができるツール群を発表しました。外部のツールではできなかった細かい作業を行えるようになります。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -151,28 +184,6 @@
       "score": 42
     },
     {
-      "title": "Claude Opus 5.5の推論能力が11月3日から急激に低下したとの指摘、1400件の利用履歴から変化が判明",
-      "link": "https://gigazine.net/news/20261110-claude-opus-nerf/",
-      "date": "2026-11-10T16:55:00+09:00",
-      "dateLabel": "11/10 16:55",
-      "desc": "AnthropicのAIモデル「Claude Opus 5.5」の推論能力が2026年11月3日頃から急激に低下した可能性が指摘されています。開発者のシェーン・メロー氏がAIによるプログラミング支援ツール「Claude Code」の利用履歴約1400件を分析したところ、モデル名が変わっていないにもかかわらず、AIの思考を示す文章や作業の進め方に大きな変化が見",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "dotsが「複数台のローカルコンピュータ接続」に対応 各マシンでタスクを分担可能に",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/10/2000003058/",
-      "date": "2026-11-10T12:47:11+09:00",
-      "dateLabel": "11/10 12:47",
-      "desc": "OpenAIは常時稼働型エージェントツール「dots」が複数台のローカルコンピュータに接続できるようになったと発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
       "link": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
       "date": "2026-11-02T23:36:38+09:00",
@@ -184,101 +195,90 @@
       "score": 40
     },
     {
-      "title": "【AI活用と組織の判断に関する実態調査】AI活用の投資対効果を「数値で説明できている」との回答は18.8%。投資対効果まで測定しているとの回答は3.5%",
-      "link": "https://ascii.jp/elem/000/004/450/4450396/?rss",
-      "date": "2026-11-11T10:00:00+09:00",
-      "dateLabel": "11/11 10:00",
-      "desc": "【AI活用と組織の判断に関する実態調査】AI活用の投資対効果を「数値で説明できている」との回答は18.8%。投資対効果まで測定しているとの回答は3.5%",
+      "title": "“頑丈すぎて”怖い。180cm落下試験をクリアした、タフブック新型「FZ-34」がやばいほど丈夫です。",
+      "link": "https://ascii.jp/elem/000/004/449/4449622/?rss",
+      "date": "2026-11-11T18:00:00+09:00",
+      "dateLabel": "11/11 18:00",
+      "desc": "「FZ-34」は、現場での使いやすさと安全性を追求した12.4型液晶搭載の堅牢2in1パソコンです。作業内容に応じてタブレット単体でもキーボード装着時でも使い分けられるほか、屋外の明るい場所でも見やすい高輝度ディスプレイや、作業用手袋を装着したまま操作できるタッチパネルを採用しています。",
+      "img": "https://ascii.jp/img/2026/11/09/4549556/s/75930ae482ca0d03.png",
+      "src": "ASCII.jp",
+      "cat": "規制/安全",
+      "score": 34
+    },
+    {
+      "title": "FDUA 標準化委員会、「金融AIチェックシート」を公開～金融機関が自社の生成AI・データ活用の現在地を可視化～",
+      "link": "https://ascii.jp/elem/000/004/450/4450751/?rss",
+      "date": "2026-11-11T17:00:00+09:00",
+      "dateLabel": "11/11 17:00",
+      "desc": "FDUA 標準化委員会、「金融AIチェックシート」を公開～金融機関が自社の生成AI・データ活用の現在地を可視化～",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "AI時代の増加するリスクにも対応するフォーティネットAI駆動型セキュアSD-WAN",
+      "link": "https://ascii.jp/elem/000/004/450/4450226/?rss",
+      "date": "2026-11-11T17:00:00+09:00",
+      "dateLabel": "11/11 17:00",
+      "desc": "フォーティネットAI駆動型セキュアSD-WANは、インテリジェントネットワーキング、AI搭載セキュリティ、自動化を統合プラットフォーム上に集約。保護を強化し、アプリケーションパフォーマンスを向上させながら、新たなAIおよび暗号化リスクを軽減するのに役立ちます。",
+      "img": "https://ascii.jp/img/2026/11/10/4550087/s/d15e5cf4f1f5267c.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "アップル、恋愛系AIチャットアプリを原則18歳以上に 「キャラぷ」が年齢区分変更",
+      "link": "https://ascii.jp/elem/000/004/450/4450709/?rss",
+      "date": "2026-11-11T16:35:00+09:00",
+      "dateLabel": "11/11 16:35",
+      "desc": "AIキャラクターチャット「キャラぷ」の運営事務局は11月10日、iOS版のApp Storeでの年齢区分を18歳以上に引き上げると発表した。",
+      "img": "https://ascii.jp/img/2026/11/11/4550795/s/3cfc815d2900f9ff.png",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
     },
     {
-      "title": "AIO（LLMO/GEO）ツール「DolphinX AIO」、AIプロンプト計測の基盤を強化し、高精度・高安定な計測を実現",
-      "link": "https://ascii.jp/elem/000/004/450/4450402/?rss",
-      "date": "2026-11-11T09:22:49+09:00",
-      "dateLabel": "11/11 09:22",
-      "desc": "AIO（LLMO/GEO）ツール「DolphinX AIO」、AIプロンプト計測の基盤を強化し、高精度・高安定な計測を実現",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
+      "title": "Googleがロボット用AI「Gemini Robotics 2.5」を発表",
+      "link": "https://gigazine.net/news/20261111-gemini-robotics-2-5/",
+      "date": "2026-11-11T13:10:00+09:00",
+      "dateLabel": "11/11 13:10",
+      "desc": "Google DeepMindがロボット工学用AIモデル「Gemini Robotics 2.5」を2026年11月10日に発表しました。現実世界でより速く学習し、日常生活から工場での勤務まであらゆる場面に対応できるように調整されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 34
     },
     {
-      "title": "AIO（LLMO/GEO）ツール「DolphinX AIO」のメディアリーチ、マーケティングWeek大阪展の「AIO・AI検索対策 特別セミナー」に代表の松村が登壇決定",
-      "link": "https://ascii.jp/elem/000/004/450/4450403/?rss",
-      "date": "2026-11-11T09:22:18+09:00",
-      "dateLabel": "11/11 09:22",
-      "desc": "AIO（LLMO/GEO）ツール「DolphinX AIO」のメディアリーチ、マーケティングWeek大阪展の「AIO・AI検索対策 特別セミナー」に代表の松村が登壇決定",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "AIO（LLMO/GEO）ツール「DolphinX AIO」、Meta AIを計測対象に追加 最大8種のAIの日次同時計測に対応",
-      "link": "https://ascii.jp/elem/000/004/450/4450404/?rss",
-      "date": "2026-11-11T09:21:22+09:00",
-      "dateLabel": "11/11 09:21",
-      "desc": "AIO（LLMO/GEO）ツール「DolphinX AIO」、Meta AIを計測対象に追加 最大8種のAIの日次同時計測に対応",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "【TechSuite株式会社】【業界特化調査 第37弾】AI検索パートナーズ、Web制作会社選びのAI検索対策（LLMO/AIO/GEO/AEO）調査を実施｜観測された会社は191社",
-      "link": "https://ascii.jp/elem/000/004/450/4450414/?rss",
-      "date": "2026-11-11T09:00:00+09:00",
-      "dateLabel": "11/11 09:00",
-      "desc": "【TechSuite株式会社】【業界特化調査 第37弾】AI検索パートナーズ、Web制作会社選びのAI検索対策（LLMO/AIO/GEO/AEO）調査を実施｜観測された会社は191社",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "無料で使える「SketchUp」代替の3Dモデリングツール「BenchUp」が登場、ブラウザ上で家具の設計が可能",
-      "link": "https://gigazine.net/news/20261111-benchup/",
-      "date": "2026-11-11T07:00:00+09:00",
-      "dateLabel": "11/11 07:00",
-      "desc": "3Dモデリングソフト「SketchUp」の代替を目指す無料のオープンソースツール「BenchUp」が公開されました。プログラミング言語のRustとグラフィックス技術のWebGPUを採用しており、ブラウザ上で立体的な図形を作成できるほか、Windows・macOS・Linux向けのデスクトップアプリも用意されています。なお、BenchUpは当初「KetchUp",
+      "title": "ジェンスン・フアンCEOの不倫関係を利用して1兆円分以上のNVIDIA製半導体が中国に出荷されていた疑い",
+      "link": "https://gigazine.net/news/20261111-nvidia-spy-affair-ai-chip-shipments-to-china/",
+      "date": "2026-11-11T12:32:00+09:00",
+      "dateLabel": "11/11 12:32",
+      "desc": "NVIDIAのジェンスン・フアンCEOがアメリカ当局に「中国のスパイ」と断定された女性と不倫していた問題で、女性はフアン氏との関係を利用して2023年以降、少なくとも75億ドル(約1兆1900億円)分のNVIDIA製半導体を中国に出荷していたことがわかりました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
       "score": 34
     },
     {
-      "title": "AIエージェントとは？仕組みと種類から企業の導入手順まで解説",
-      "link": "https://ainow.ai/2026/11/11/278509/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e4%25bb%2595%25e7%25b5%2584%25e3%2581%25bf%25e3%2581%25a8%25e7%25a8%25ae%25e9%25a1%259e%25e3%2581%258b%25e3%2582%2589%25e4%25bc%2581%25e6%25a5%25ad%25e3%2581%25ae%25e5%25b0%258e%25e5%2585%25a5",
-      "date": "2026-11-11T02:09:18+09:00",
-      "dateLabel": "11/11 02:09",
-      "desc": "「AIエージェント」という言葉が社内で飛び交うものの、ChatGPTやRPAと何が違うのか説明できず困っていないでしょうか。 AIエージェントとは、目標を与えると自ら手順を計画し、ツールを使って実行するAIです。 定義を... The post AIエージェントとは？仕組みと種類から企業の導入手順まで解説 first appeared on AI専門ニュース",
+      "title": "Adobeが2027年のMCP対応を予告、PhotoshopやPremiere ProをAIエージェントから操作可能に",
+      "link": "https://gigazine.net/news/20261111-adobe-creative-tools-mcp-support/",
+      "date": "2026-11-11T12:10:00+09:00",
+      "dateLabel": "11/11 12:10",
+      "desc": "Adobeは2026年11月10日、クリエイター向けイベント「Adobe MAX 2026」で、PhotoshopやPremiere Proなどの主要アプリを外部のAIエージェントから操作できるようにするModel Context Protocol(MCP)対応を発表しました。2027年初頭にプライベートベータ版を提供する予定で、画像や動画の編集作業をAIエ",
       "img": "",
-      "src": "AINOW",
+      "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 34
     },
     {
-      "title": "空売り業者がNVIDIAのCEO不倫事件発覚の6カ月前にNVIDIAの問題を指摘していた",
-      "link": "https://gigazine.net/news/20261110-nvidia-megaspeed-short-seller-prediction/",
-      "date": "2026-11-10T15:15:00+09:00",
-      "dateLabel": "11/10 15:15",
-      "desc": "株の空売りを専門とする投資会社のカルパー・リサーチが、NVIDIAのジェンスン・フアンCEOの不倫が発覚する6カ月前、2026年5月の時点でフアンCEOの動向に懸念があると指摘し、空売りを行っていたことが分かりました。この頃から株価は約26％下落しているため、カルパー・リサーチの見立ては正しかったことになります。 続きを読む...",
+      "title": "中国AI「Qwen4」ついに登場 プレビュー版を提供開始、AlibabaのAIサービスで",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003098/",
+      "date": "2026-11-11T11:30:32+09:00",
+      "dateLabel": "11/11 11:30",
+      "desc": "中国Alibaba Cloudは、AIモデル「Qwen4」を発表した。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "Googleが新型AIチップ「TPU 8tx」「TPU 8i Max」を発表、AMD製CPUを採用した機密情報保護モデルと処理性能2倍のモデルが登場",
-      "link": "https://gigazine.net/news/20261110-google-tpu-8i-max-8tx/",
-      "date": "2026-11-10T14:40:00+09:00",
-      "dateLabel": "11/10 14:40",
-      "desc": "Googleが2026年11月9日にAI処理に特化した第8世代TPUの新システム「TPU 8tx」と「TPU 8i Max」を発表しました。TPU 8txはAMD製CPUと組み合わせて機密データを安全に処理できるシステムで、TPU 8i Maxは2つのチップを組み合わせることで大量の情報を扱うAIの処理性能を高めています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
+      "src": "ITmedia AI+",
       "cat": "AI全般",
       "score": 34
     }
