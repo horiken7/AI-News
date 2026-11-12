@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-12T08:50:35.659678+09:00",
-  "generatedLabel": "2026/11/12 08:50",
+  "generatedAt": "2026-11-12T13:52:26.138976+09:00",
+  "generatedLabel": "2026/11/12 13:52",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 54,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 18
+      "items": 20
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 18
+      "items": 16
     },
     {
       "source": "CNET Japan",
@@ -72,6 +72,28 @@
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 58
+    },
+    {
+      "title": "Googleが意思決定AIモデルの「Gemini Decisions 1」をリリース",
+      "link": "https://gigazine.net/news/20261112-gemini-decisions-1/",
+      "date": "2026-11-12T12:55:00+09:00",
+      "dateLabel": "11/12 12:55",
+      "desc": "大規模言語モデル(LLM)とは異なるアプローチでタスクを解決するAIモデル「Jev」が登場して以降、同様の「意思決定モデル」と呼ばれるAIエージェントの判断を誘導するモデルが相次いで登場しています。新たにGoogleから意思決定モデルの「Gemini Decision 1」が登場しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
+      "title": "ユナイテッド航空、外部のAIアシスタントによる航空券の予約などを禁止へ 「チェックインには人間の確認が必要」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003127/",
+      "date": "2026-11-12T10:49:56+09:00",
+      "dateLabel": "11/12 10:49",
+      "desc": "United Airlinesは、サードパーティ製AIエージェントによる自社サービスの利用を禁止すると発表した。機密情報の漏えいや意図しないアカウント操作、航空当局の規制違反の恐れを理由としている。米国ではMetaのAIエージェント「Muse」公開以降、小売りや金融業界でも外部AIを制限する動きが相次いでいる。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
+      "score": 50
     },
     {
       "title": "Google、選択肢から答えを選ぶことに特化した「Gemini Decisions API」発表 回答を生成せず確率で返す",
@@ -118,26 +140,15 @@
       "score": 50
     },
     {
-      "title": "Googleの「最強」モデル「Gemini 4 Carbon」一般提供開始 Antigravityでのマルチエージェントチーム編成機能も",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003093/",
-      "date": "2026-11-11T10:47:35+09:00",
-      "dateLabel": "11/11 10:47",
-      "desc": "Googleは同社最先端のAIモデル「Gemini 4 Carbon」の一般提供を開始。同時に、大規模な開発プロジェクトを効率的に遂行するためのマルチエージェントチーム編成機能「/swarm」も発表した。",
+      "title": "動画系AIのRunwayが動画から世界を理解してロボットを動かすためのAI「Praxis-1」を公開",
+      "link": "https://gigazine.net/news/20261112-praxis-1/",
+      "date": "2026-11-12T13:45:00+09:00",
+      "dateLabel": "11/12 13:45",
+      "desc": "動画生成AIの「Runway」シリーズや動画編集AI「Aleph 2.0」などを展開するアメリカの生成AI企業・Runwayが、動画の事前学習を実際のロボットの制御に変換するオープンウェイトワールドアクションモデル「Praxis-1」を発表しました。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
-      "title": "ChatGPTでビジネスを展開できる新機能 自社サイトのクリック数集計、顧客へのAIチャット提供など 一部機能は米国から",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003088/",
-      "date": "2026-11-11T09:27:17+09:00",
-      "dateLabel": "11/11 09:27",
-      "desc": "OpenAIは、企業がChatGPT上でのWebサイトのクリック数を集計したり、顧客にAIチャット機能を提供したりできる新機能「Businesses in ChatGPT」のβ版を発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 50
+      "src": "GIGAZINE",
+      "cat": "生成AI/マルチモーダル",
+      "score": 42
     },
     {
       "title": "AWSで「ChatGPT Enterprise」を購入可能に AWSアカウントで一括管理するメリットは",
@@ -173,59 +184,92 @@
       "score": 42
     },
     {
-      "title": "Google DeepMindがAIでコードを検証する「AlphaProof Code」を使ってSignalプロトコルの安全性の形式的検証に成功",
-      "link": "https://gigazine.net/news/20261111-google-deepmind-alphaproof-code-verification/",
-      "date": "2026-11-11T16:05:00+09:00",
-      "dateLabel": "11/11 16:05",
-      "desc": "Google DeepMindがソフトウェアの検証を行うためのマルチエージェントAIフレームワーク「AlphaProof Code」を発表しました。研究チームはAlphaProof Codeを用いて、Googleメッセージなどの暗号通信に使用されている「Signalプロトコル」が十分なセキュリティ保護機能を備えていることを数学的に証明することに成功しています",
+      "title": "Googleの「最強」モデル「Gemini 4 Carbon」一般提供開始 Antigravityでのマルチエージェントチーム編成機能も",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003093/",
+      "date": "2026-11-11T10:47:35+09:00",
+      "dateLabel": "11/11 10:47",
+      "desc": "Googleは同社最先端のAIモデル「Gemini 4 Carbon」の一般提供を開始。同時に、大規模な開発プロジェクトを効率的に遂行するためのマルチエージェントチーム編成機能「/swarm」も発表した。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
-      "title": "NVIDIAが仮想的な日本人900万人分の家計や財務状況を含めたペルソナをまとめたデータセットを公開",
-      "link": "https://gigazine.net/news/20261111-nemotron-personas-finance-japan/",
-      "date": "2026-11-11T14:15:00+09:00",
-      "dateLabel": "11/11 14:15",
-      "desc": "NVIDIAは11月10日に東京都で主催した開発者向けイベント「NVIDIA Agentic AI Day」において、日本語AIの開発を支援する2つの合成データセット「Nemotron Personas Finance Japan」と「Nemotron PII Japan」を発表しました。オープンソースペルソナデータセット 「Nemotron Persona",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "Claude内で表計算アプリをそのまま実行できる「Claude Sheets」が登場、「Claude Whiteboards」と「Claude Data」も",
-      "link": "https://gigazine.net/news/20261111-claude-sheets-whiteboards-data/",
-      "date": "2026-11-11T12:36:00+09:00",
-      "dateLabel": "11/11 12:36",
-      "desc": "Anthropicが、AIの「Claude」が取り扱うことができるツール群を発表しました。外部のツールではできなかった細かい作業を行えるようになります。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "「Claude」に共同編集の「Sheets」「Whiteboards」 外部アプリもClaude内で開いて作業可能に",
-      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003089/",
-      "date": "2026-11-11T09:33:03+09:00",
-      "dateLabel": "11/11 09:33",
-      "desc": "Anthropicは、「Claude」に共同編集可能な「Claude Sheets」と「Claude Whiteboards」をβ版として追加した。また「Claude Dashboards」を「Claude Data」に改称し、一般提供を開始。さらに外部アプリをClaude内で直接操作できる「インタラクティブコネクタ」の拡張も発表した。",
+      "title": "ChatGPTでビジネスを展開できる新機能 自社サイトのクリック数集計、顧客へのAIチャット提供など 一部機能は米国から",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003088/",
+      "date": "2026-11-11T09:27:17+09:00",
+      "dateLabel": "11/11 09:27",
+      "desc": "OpenAIは、企業がChatGPT上でのWebサイトのクリック数を集計したり、顧客にAIチャット機能を提供したりできる新機能「Businesses in ChatGPT」のβ版を発表した。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 42
     },
     {
-      "title": "Google、「Gemini 4 Carbon」一般提供開始 Geminiアプリでは最上位「AI Ultra」限定",
-      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003083/",
-      "date": "2026-11-11T07:03:30+09:00",
-      "dateLabel": "11/11 07:03",
-      "desc": "Googleは、最上位AIモデル「Gemini 4 Carbon」の提供を開始した。一般ユーザーは月額1万4500円の「Google AI Ultra」契約で利用可能となる。複雑な推論や高度なコーディングに特化しており、開発者向けAPIや新機能「/swarm」のプレビュー提供も始まった。",
+      "title": "マウスコンピューター、3D点群処理で性能検証したDAIVを展示 11月27日「WorkShop KANSAI 2026」",
+      "link": "https://ascii.jp/elem/000/004/450/4450914/?rss",
+      "date": "2026-11-12T13:00:00+09:00",
+      "dateLabel": "11/12 13:00",
+      "desc": "マウスコンピューターが11月27日、大阪・淀屋橋の「WorkShop KANSAI 2026」に出展。3D点群処理ソフト「TREND-POINT」で性能検証したDAIVや、CAD向け液晶ディスプレイを紹介する。入場無料で、名刺交換によるノベルティ特典も用意。",
+      "img": "https://ascii.jp/img/2026/11/12/4551107/s/7696d48b9d49d829.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "OpenAI APIで国内推論可能に GPT-6 Lunaのみ",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003129/",
+      "date": "2026-11-12T11:25:53+09:00",
+      "dateLabel": "11/12 11:25",
+      "desc": "OpenAIが提供するAPIで「GPT-6 Luna」に限り「国内推論」が可能になった。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 42
+      "score": 34
+    },
+    {
+      "title": "【都道府県・政令市・府省庁の公式サイト114件を調査】98.1%はrobots.txtにAIクローラーの記載なし。名指ししていたのは2サイト、llms.txtを置いていたのは1サイト",
+      "link": "https://ascii.jp/elem/000/004/450/4450923/?rss",
+      "date": "2026-11-12T11:00:00+09:00",
+      "dateLabel": "11/12 11:00",
+      "desc": "【都道府県・政令市・府省庁の公式サイト114件を調査】98.1%はrobots.txtにAIクローラーの記載なし。名指ししていたのは2サイト、llms.txtを置いていたのは1サイト",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "AIを、まるっと履く。日常業務・顧客対応・営業・PRまで支える「AIパンツ」提供開始！！",
+      "link": "https://ascii.jp/elem/000/004/450/4450920/?rss",
+      "date": "2026-11-12T11:00:00+09:00",
+      "dateLabel": "11/12 11:00",
+      "desc": "AIを、まるっと履く。日常業務・顧客対応・営業・PRまで支える「AIパンツ」提供開始！！",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "14型で約990g、16型でも約1.18kg！ Acer「Swift」シリーズに新製品6機種",
+      "link": "https://ascii.jp/elem/000/004/450/4450797/?rss",
+      "date": "2026-11-12T11:00:00+09:00",
+      "dateLabel": "11/12 11:00",
+      "desc": "日本エイサーが「Swift Air 14」「Swift Lite 16」計6機種を発売。14型は約990gの軽量ボディーに有機ELを搭載したCopilot+ PC。16型は大画面ながら約1.18kgを実現し、Ryzen 5／7を採用する。",
+      "img": "https://ascii.jp/img/2026/11/12/4551031/s/2409913e6589e87b.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開 コードはすべてAIエージェントが記述",
+      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003126/",
+      "date": "2026-11-12T09:56:17+09:00",
+      "dateLabel": "11/12 09:56",
+      "desc": "AWSは、クラウド環境を使わずにローカルでAWS APIを再現できるツール「AWS Emulator」を無料で公開した。すべてのコードが自律型AIエージェントによって記述されており、人間のレビューは介在していない。開発者はAWSアカウント不要で、アプリの構築やCI/CDでの統合テストなどを手元で実行できる。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "「非言語系AI」はLLMの弱点を補えるか？ Gartner「2027年の戦略的テクノロジのトップ・トレンド」",
@@ -236,50 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Outlook.comがDMARC認証を受けていないドメインからのメールを拒否",
-      "link": "https://gigazine.net/news/20261112-outlook-rejecting-email-without-dmarc/",
-      "date": "2026-11-12T07:00:00+09:00",
-      "dateLabel": "11/12 07:00",
-      "desc": "2026年11月5日から9日にかけて、Outlook.com・Hotmail・Live・MSNといったMicrosoftのコンシューマー向けメールサービスで、DMARCレコードを公開していないドメインからのメールが一部拒否される事象が発生しました。Microsoftからの公式発表がないまま問題が発生したことから、多くのユーザーや企業に混乱を招きました。 続き",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "「AIが気候問題を解決」は本当か？ 電力・食肉・自動車の主要企業を検証",
-      "link": "https://ascii.jp/elem/000/004/450/4450792/?rss",
-      "date": "2026-11-12T06:36:13+09:00",
-      "dateLabel": "11/12 06:36",
-      "desc": "ある査読付き研究によれば、AIは2035年に、電力、食肉・乳製品、自動車の3分野を中心に、世界の温室効果ガス排出量を年最大54億トン削減できる可能性がある。だが主要企業の公開情報を調べると、AI活用を進め、成果を報告している企業はごくわずかだ。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "AmazonがAIモデルの「Claude Sonnet 4.6」を独自開発の意志決定モデル「Strands Decider」に置き換えることで98％のコスト削減に成功",
-      "link": "https://gigazine.net/news/20261111-amazon-claude-sonnet-4-6-strands-decider/",
-      "date": "2026-11-11T21:00:00+09:00",
-      "dateLabel": "11/11 21:00",
-      "desc": "AmazonとAWSは、コストを抑えながら社内への問い合わせやシステムエラーをAIで自動仕分けするため、Anthropicのバランス型モデルである「Claude Sonnet 4.6」を利用してきました。これを意思決定モデルの「Strands Decider」に置き換えることで、98％のコスト削減に成功したと報告しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "Googleがロボット用AI「Gemini Robotics 2.5」を発表",
-      "link": "https://gigazine.net/news/20261111-gemini-robotics-2-5/",
-      "date": "2026-11-11T13:10:00+09:00",
-      "dateLabel": "11/11 13:10",
-      "desc": "Google DeepMindがロボット工学用AIモデル「Gemini Robotics 2.5」を2026年11月10日に発表しました。現実世界でより速く学習し、日常生活から工場での勤務まであらゆる場面に対応できるように調整されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 34
     }
   ]
