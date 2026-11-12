@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-12T22:27:14.070733+09:00",
-  "generatedLabel": "2026/11/12 22:27",
+  "generatedAt": "2026-11-13T06:15:02.393780+09:00",
+  "generatedLabel": "2026/11/13 06:15",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 54,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,7 +13,7 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 20
+      "items": 19
     },
     {
       "source": "ASCII.jp",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 16
+      "items": 18
     },
     {
       "source": "CNET Japan",
@@ -118,15 +118,26 @@
       "score": 50
     },
     {
-      "title": "iPhone DuoはiPhone 18 Proと同じチップでもGPU性能に差、発熱や電池持ちなどのベンチマーク結果が公開される",
-      "link": "https://gigazine.net/news/20261112-iphone-duo-benchmark-battery/",
-      "date": "2026-11-12T06:00:00+09:00",
-      "dateLabel": "11/12 06:00",
-      "desc": "ハードウェアの検証を行うLTT Labsが、Appleの折りたたみスマートフォン「iPhone Duo」をiPhone 18 ProやSamsung製スマートフォンと比較した結果を公開しました。CPUやGPUの処理性能に加えて高負荷時の発熱と性能低下、使用する画面によるバッテリー持続時間の違いも調べています。 続きを読む...",
+      "title": "NVIDIAがジェンスン・フアンCEOの辞任を発表＝暫定CEOにはコレット・クレス氏が就任",
+      "link": "https://ascii.jp/elem/000/004/451/4451169/?rss",
+      "date": "2026-11-13T00:10:00+09:00",
+      "dateLabel": "11/13 00:10",
+      "desc": "米NVIDIAは2026年11月12日、社長兼最高経営責任者（CEO）および取締役を務めるジェンスン・フアン（Jensen Huang）氏が即時辞任したことを発表しました",
+      "img": "https://ascii.jp/img/2026/11/13/4551387/s/aed54cfd6b600fdb.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "長期反復タスクにおけるAIコーディングエージェントの性能低下をベンチマークする「SlopCodeBench」",
+      "link": "https://gigazine.net/news/20261112-slopcodebench/",
+      "date": "2026-11-12T23:00:00+09:00",
+      "dateLabel": "11/12 23:00",
+      "desc": "AIにプログラムを作成させると短時間で動作するコードを得られますが、機能の追加を繰り返すうちに古い処理との整合性が崩れたりコードが複雑になったりすることがあります。こうした問題を調べるために開発され、AI自身が作ったコードに新しい仕様を段階的に追加させながら機能の維持や品質の変化を測定するベンチマークが「SlopCodeBench」です。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 50
+      "cat": "AIエージェント/業務",
+      "score": 42
     },
     {
       "title": "ユナイテッド航空がAIを利用したフライト予約を禁止",
@@ -173,14 +184,14 @@
       "score": 42
     },
     {
-      "title": "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
-      "link": "https://www.publickey1.jp/blog/26/awsaiec2vmaws_nitro_sandboxes.html",
-      "date": "2026-11-12T00:04:47+09:00",
-      "dateLabel": "11/12 00:04",
-      "desc": "Amazon Web Services（AWS）は、Amazon EC2インスタンス上でほぼネイティブのEC2性能で動作しつつ、Nitroシステムハードウェアレベルのきわめて強力な隔離環境を備えた軽量な仮想マシン「AWS Nitro San...",
+      "title": "iPhone DuoはiPhone 18 Proと同じチップでもGPU性能に差、発熱や電池持ちなどのベンチマーク結果が公開される",
+      "link": "https://gigazine.net/news/20261112-iphone-duo-benchmark-battery/",
+      "date": "2026-11-12T06:00:00+09:00",
+      "dateLabel": "11/12 06:00",
+      "desc": "ハードウェアの検証を行うLTT Labsが、Appleの折りたたみスマートフォン「iPhone Duo」をiPhone 18 ProやSamsung製スマートフォンと比較した結果を公開しました。CPUやGPUの処理性能に加えて高負荷時の発熱と性能低下、使用する画面によるバッテリー持続時間の違いも調べています。 続きを読む...",
       "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
       "score": 42
     },
     {
@@ -193,6 +204,17 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 42
+    },
+    {
+      "title": "Google Antigravity、クラウド上でAIエージェントが働く「リモートエージェント」機能を搭載。就業時間外でもAIエージェントは働き続ける",
+      "link": "https://www.publickey1.jp/blog/26/google_antigravityaiai.html",
+      "date": "2026-11-13T00:13:43+09:00",
+      "dateLabel": "11/13 00:13",
+      "desc": "Googleが提供するAIエージェントによる開発環境「Antigravity」に、新機能「リモートエージェント」が搭載されました。 We want Antigravity to be working for you all the time...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "「JAPAN AI」、「GPT-6 Luna」の国内推論に対応",
@@ -214,17 +236,6 @@
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "イー・エージェンシー、Google Cloudが提供するビジネス向けAI「Gemini（旧 Gemini Enterprise）」を全社導入",
-      "link": "https://ascii.jp/elem/000/004/451/4451099/?rss",
-      "date": "2026-11-12T17:30:00+09:00",
-      "dateLabel": "11/12 17:30",
-      "desc": "イー・エージェンシー、Google Cloudが提供するビジネス向けAI「Gemini（旧 Gemini Enterprise）」を全社導入",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -269,17 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Outlook.comがDMARC認証を受けていないドメインからのメールを拒否",
-      "link": "https://gigazine.net/news/20261112-outlook-rejecting-email-without-dmarc/",
-      "date": "2026-11-12T07:00:00+09:00",
-      "dateLabel": "11/12 07:00",
-      "desc": "2026年11月5日から9日にかけて、Outlook.com・Hotmail・Live・MSNといったMicrosoftのコンシューマー向けメールサービスで、DMARCレコードを公開していないドメインからのメールが一部拒否される事象が発生しました。Microsoftからの公式発表がないまま問題が発生したことから、多くのユーザーや企業に混乱を招きました。 続き",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
       "score": 34
     }
   ]
