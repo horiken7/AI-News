@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-12T13:52:26.138976+09:00",
-  "generatedLabel": "2026/11/12 13:52",
+  "generatedAt": "2026-11-12T22:27:14.070733+09:00",
+  "generatedLabel": "2026/11/12 22:27",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 57,
+  "candidates": 54,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 6
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -63,15 +63,15 @@
   ],
   "articles": [
     {
-      "title": "Google製高性能AI「Gemini 4 Carbon」が一般公開される、複数のAIが協力する新機能で3Dゲームを制作するデモも披露",
-      "link": "https://gigazine.net/news/20261111-gemini-4-carbon/",
-      "date": "2026-11-11T18:00:00+09:00",
-      "dateLabel": "11/11 18:00",
-      "desc": "Googleは2026年11月10日にAIモデル「Gemini 4 Carbon」の一般提供を開始したと発表しました。Gemini 4 Carbonは複雑なプログラミングや科学研究、サイバーセキュリティ分野の作業に対応する高性能AIで、有料プラン「Google AI Ultra」のユーザーはGeminiアプリなどから利用できます。複数のAIが協力して長時間の",
+      "title": "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
+      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003139/",
+      "date": "2026-11-12T14:10:47+09:00",
+      "dateLabel": "11/12 14:10",
+      "desc": "米Amazon Web Services（AWS）は、Amazon EC2インスタンス上でほぼネイティブのEC2性能で動作しつつ、Nitroシステムハードウェアレベルのきわめて強力な隔離環境を備えた軽量な仮想マシン「AWS Nitro Sandbox」の提供開始を発表しました。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 58
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 50
     },
     {
       "title": "Googleが意思決定AIモデルの「Gemini Decisions 1」をリリース",
@@ -129,15 +129,26 @@
       "score": 50
     },
     {
-      "title": "Claude内でAdobe製品やNotionなどを直接操作可能に、AIと一緒に写真編集や文書作成ができる新機能が登場",
-      "link": "https://gigazine.net/news/20261111-claude-interactive-connectors-full-tool/",
-      "date": "2026-11-11T17:50:00+09:00",
-      "dateLabel": "11/11 17:50",
-      "desc": "AI開発企業のAnthropicが2026年11月10日に、チャットAI「Claude」の画面内でAdobe製品やNotionなどの外部アプリを直接操作できる新機能を発表しました。Claudeとの会話を続けながら写真やPDFを編集したり、Notionの文書を作成したりできるようになります。 続きを読む...",
+      "title": "ユナイテッド航空がAIを利用したフライト予約を禁止",
+      "link": "https://gigazine.net/news/20261112-united-airlines-bans-ai-agents/",
+      "date": "2026-11-12T17:07:00+09:00",
+      "dateLabel": "11/12 17:07",
+      "desc": "アメリカの大手航空会社・ユナイテッド航空が、AIエージェントやAIアシスタントを利用したフライトの予約を禁止したと発表しました。理由としては情報漏洩(ろうえい)の懸念やマイルの不正利用防止のほか、当局の規制に違反する可能性が挙げられています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 50
+      "cat": "規制/安全",
+      "score": 42
+    },
+    {
+      "title": "NVIDIA製半導体を中国に出荷した疑惑のあるMegaspeedのエンティティリスト追加を商務省が先送りし続けていることが判明",
+      "link": "https://gigazine.net/news/20261112-lutnick-delays-megaspeed-blacklist/",
+      "date": "2026-11-12T14:50:00+09:00",
+      "dateLabel": "11/12 14:50",
+      "desc": "アメリカの国家安全保障上の問題が考えられる企業は「エンティティリスト」に登録され輸出入に制限がかかります。NVIDIAのジェンスン・フアンCEOと不倫関係にあった女性が幹部を務めるシンガポールのデータセンター企業・Megaspeedも、政府の複数機関からエンティティリストへの追加を求められていましたが、リストを監督する商務省が追加を先送りし続けていることがわ",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 42
     },
     {
       "title": "動画系AIのRunwayが動画から世界を理解してロボットを動かすためのAI「Praxis-1」を公開",
@@ -173,17 +184,6 @@
       "score": 42
     },
     {
-      "title": "2027年にも「超人的AI研究者(SAR)」が登場する可能性が高いとAI研究者らが予測、全ホワイトカラー業務の自動化AIも2028年までに登場か",
-      "link": "https://gigazine.net/news/20261111-superhuman-ai-researcher-2027/",
-      "date": "2026-11-11T20:00:00+09:00",
-      "dateLabel": "11/11 20:00",
-      "desc": "元OpenAIのガバナンス研究者であるダニエル・ココタイロ氏が率いる非営利研究団体のAI Futures Projectが、最高水準の人間の研究者を一掃するかもしれない「Superhuman AI Researcher(超人的AI研究者：SAR)」が2027年に登場する可能性が高いとの予測を発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 42
-    },
-    {
       "title": "Googleの「最強」モデル「Gemini 4 Carbon」一般提供開始 Antigravityでのマルチエージェントチーム編成機能も",
       "link": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003093/",
       "date": "2026-11-11T10:47:35+09:00",
@@ -195,25 +195,47 @@
       "score": 42
     },
     {
-      "title": "ChatGPTでビジネスを展開できる新機能 自社サイトのクリック数集計、顧客へのAIチャット提供など 一部機能は米国から",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003088/",
-      "date": "2026-11-11T09:27:17+09:00",
-      "dateLabel": "11/11 09:27",
-      "desc": "OpenAIは、企業がChatGPT上でのWebサイトのクリック数を集計したり、顧客にAIチャット機能を提供したりできる新機能「Businesses in ChatGPT」のβ版を発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
+      "title": "「JAPAN AI」、「GPT-6 Luna」の国内推論に対応",
+      "link": "https://ascii.jp/elem/000/004/451/4451154/?rss",
+      "date": "2026-11-12T18:00:00+09:00",
+      "dateLabel": "11/12 18:00",
+      "desc": "「JAPAN AI」、「GPT-6 Luna」の国内推論に対応",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
       "cat": "LLM/モデル",
-      "score": 42
+      "score": 34
     },
     {
-      "title": "マウスコンピューター、3D点群処理で性能検証したDAIVを展示 11月27日「WorkShop KANSAI 2026」",
-      "link": "https://ascii.jp/elem/000/004/450/4450914/?rss",
-      "date": "2026-11-12T13:00:00+09:00",
-      "dateLabel": "11/12 13:00",
-      "desc": "マウスコンピューターが11月27日、大阪・淀屋橋の「WorkShop KANSAI 2026」に出展。3D点群処理ソフト「TREND-POINT」で性能検証したDAIVや、CAD向け液晶ディスプレイを紹介する。入場無料で、名刺交換によるノベルティ特典も用意。",
-      "img": "https://ascii.jp/img/2026/11/12/4551107/s/7696d48b9d49d829.png",
+      "title": "EpicAI、日本品質管理学会にて、生成AIによる故障解析（FTA）の品質評価に関する研究を発表",
+      "link": "https://ascii.jp/elem/000/004/451/4451157/?rss",
+      "date": "2026-11-12T17:50:00+09:00",
+      "dateLabel": "11/12 17:50",
+      "desc": "EpicAI、日本品質管理学会にて、生成AIによる故障解析（FTA）の品質評価に関する研究を発表",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AI全般",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "イー・エージェンシー、Google Cloudが提供するビジネス向けAI「Gemini（旧 Gemini Enterprise）」を全社導入",
+      "link": "https://ascii.jp/elem/000/004/451/4451099/?rss",
+      "date": "2026-11-12T17:30:00+09:00",
+      "dateLabel": "11/12 17:30",
+      "desc": "イー・エージェンシー、Google Cloudが提供するビジネス向けAI「Gemini（旧 Gemini Enterprise）」を全社導入",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "ComfyUIのテキスト生成速度が2倍に向上、ツリー型MTPやカーネル最適化によりLLMやVLMの実行を高速化しプロンプト強化などで威力を発揮",
+      "link": "https://gigazine.net/news/20261112-comfyui-llm-doubling/",
+      "date": "2026-11-12T17:29:00+09:00",
+      "dateLabel": "11/12 17:29",
+      "desc": "ComfyUIの主な用途は画像生成や動画生成ですが、プロンプトの品質向上や動画ストーリー作成などに対応するためにLLMやVLMによるテキスト生成もサポートしています。ComfyUIではバージョン0.40.0から0.45.0にかけてテキスト生成処理の最適化が進められ、従来の2倍以上の生成速度を達成しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -225,39 +247,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "【都道府県・政令市・府省庁の公式サイト114件を調査】98.1%はrobots.txtにAIクローラーの記載なし。名指ししていたのは2サイト、llms.txtを置いていたのは1サイト",
-      "link": "https://ascii.jp/elem/000/004/450/4450923/?rss",
-      "date": "2026-11-12T11:00:00+09:00",
-      "dateLabel": "11/12 11:00",
-      "desc": "【都道府県・政令市・府省庁の公式サイト114件を調査】98.1%はrobots.txtにAIクローラーの記載なし。名指ししていたのは2サイト、llms.txtを置いていたのは1サイト",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "AIを、まるっと履く。日常業務・顧客対応・営業・PRまで支える「AIパンツ」提供開始！！",
-      "link": "https://ascii.jp/elem/000/004/450/4450920/?rss",
-      "date": "2026-11-12T11:00:00+09:00",
-      "dateLabel": "11/12 11:00",
-      "desc": "AIを、まるっと履く。日常業務・顧客対応・営業・PRまで支える「AIパンツ」提供開始！！",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "14型で約990g、16型でも約1.18kg！ Acer「Swift」シリーズに新製品6機種",
-      "link": "https://ascii.jp/elem/000/004/450/4450797/?rss",
-      "date": "2026-11-12T11:00:00+09:00",
-      "dateLabel": "11/12 11:00",
-      "desc": "日本エイサーが「Swift Air 14」「Swift Lite 16」計6機種を発売。14型は約990gの軽量ボディーに有機ELを搭載したCopilot+ PC。16型は大画面ながら約1.18kgを実現し、Ryzen 5／7を採用する。",
-      "img": "https://ascii.jp/img/2026/11/12/4551031/s/2409913e6589e87b.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -280,6 +269,17 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "Outlook.comがDMARC認証を受けていないドメインからのメールを拒否",
+      "link": "https://gigazine.net/news/20261112-outlook-rejecting-email-without-dmarc/",
+      "date": "2026-11-12T07:00:00+09:00",
+      "dateLabel": "11/12 07:00",
+      "desc": "2026年11月5日から9日にかけて、Outlook.com・Hotmail・Live・MSNといったMicrosoftのコンシューマー向けメールサービスで、DMARCレコードを公開していないドメインからのメールが一部拒否される事象が発生しました。Microsoftからの公式発表がないまま問題が発生したことから、多くのユーザーや企業に混乱を招きました。 続き",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
       "score": 34
     }
   ]
