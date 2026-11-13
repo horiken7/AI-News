@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-13T19:18:56.326766+09:00",
-  "generatedLabel": "2026/11/13 19:18",
+  "generatedAt": "2026-11-14T03:17:19.680219+09:00",
+  "generatedLabel": "2026/11/14 03:17",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 53,
+  "candidates": 48,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 1
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -96,6 +96,17 @@
       "score": 50
     },
     {
+      "title": "中国AI企業は禁輸措置中でもNVIDIAのBlackwell世代AIチップを使って高性能AIを作っていた",
+      "link": "https://gigazine.net/news/20261113-china-ai-nvidia-blackwell-gpu/",
+      "date": "2026-11-13T20:23:00+09:00",
+      "dateLabel": "11/13 20:23",
+      "desc": "アメリカは高性能AIチップの中国への輸出を制限しており、中国も輸入を制限しています。しかし、AI研究組織のUnemployment Labsが複数の中国製AIモデルを分析した結果、制限対象GPUを用いて開発された痕跡が発見されました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
       "title": "Googleの社内専用コーディングAI「GfG」、その全容 Geminiに社内データ1兆トークン学習させ開発 所要時間半減の業務も",
       "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003110/",
       "date": "2026-11-13T12:00:00+09:00",
@@ -115,17 +126,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "規制/安全",
-      "score": 42
-    },
-    {
-      "title": "長期反復タスクにおけるAIコーディングエージェントの性能低下をベンチマークする「SlopCodeBench」",
-      "link": "https://gigazine.net/news/20261112-slopcodebench/",
-      "date": "2026-11-12T23:00:00+09:00",
-      "dateLabel": "11/12 23:00",
-      "desc": "AIにプログラムを作成させると短時間で動作するコードを得られますが、機能の追加を繰り返すうちに古い処理との整合性が崩れたりコードが複雑になったりすることがあります。こうした問題を調べるために開発され、AI自身が作ったコードに新しい仕様を段階的に追加させながら機能の維持や品質の変化を測定するベンチマークが「SlopCodeBench」です。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -151,25 +151,25 @@
       "score": 42
     },
     {
-      "title": "株式会社Digeon、日本ソフトウエア株式会社とAI分野における業務提携契約を締結",
-      "link": "https://ascii.jp/elem/000/004/451/4451532/?rss",
-      "date": "2026-11-13T17:40:42+09:00",
-      "dateLabel": "11/13 17:40",
-      "desc": "株式会社Digeon、日本ソフトウエア株式会社とAI分野における業務提携契約を締結",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "AIエージェントを人事・採用に活用！自動化できる4つの業務と注意点",
+      "link": "https://ainow.ai/2026/11/14/278521/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e4%25ba%25ba%25e4%25ba%258b%25e3%2583%25bb%25e6%258e%25a1%25e7%2594%25a8%25e3%2581%25ab%25e6%25b4%25bb%25e7%2594%25a8%25ef%25bc%2581%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b",
+      "date": "2026-11-14T02:27:33+09:00",
+      "dateLabel": "11/14 02:27",
+      "desc": "採用実務に加えて入社後の問い合わせ対応まで抱え、人事本来の業務に手が回らないと感じる担当者は少なくありません。 AIエージェントとは、日程調整や問い合わせ対応といった定型業務を自律的に実行できるAIです。一方で、合否や評... The post AIエージェントを人事・採用に活用！自動化できる4つの業務と注意点 first appeared on AI専門ニ",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
-      "title": "SHINING 3D、AI搭載モバイル3Dスキャナー「EINSTAR EZ GO」を発表",
-      "link": "https://ascii.jp/elem/000/004/451/4451540/?rss",
-      "date": "2026-11-13T17:04:59+09:00",
-      "dateLabel": "11/13 17:04",
-      "desc": "SHINING 3D、AI搭載モバイル3Dスキャナー「EINSTAR EZ GO」を発表",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "AIエージェントの労務活用 入退社・社会保険手続きの自動化範囲と導入手順を解説",
+      "link": "https://ainow.ai/2026/11/14/278518/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e5%258a%25b4%25e5%258b%2599%25e6%25b4%25bb%25e7%2594%25a8-%25e5%2585%25a5%25e9%2580%2580%25e7%25a4%25be%25e3%2583%25bb%25e7%25a4%25be%25e4%25bc%259a%25e4%25bf%259d%25e9%2599%25ba%25e6%2589%258b%25e7%25b6%259a",
+      "date": "2026-11-14T02:19:08+09:00",
+      "dateLabel": "11/14 02:19",
+      "desc": "入退社のたびに書類を回収し、不備を確認し、システムへ転記する。月初や年度更新の時期には提出期限に追われる。こうした労務の定型作業に、時間を取られていないでしょうか。 AIエージェントとは、目標を与えると自ら手順を考え、複... The post AIエージェントの労務活用 入退社・社会保険手続きの自動化範囲と導入手順を解説 first appeared on",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -195,17 +195,6 @@
       "score": 34
     },
     {
-      "title": "無料でAWSをローカル環境で再現できるAmazon公式エミュレーターが登場",
-      "link": "https://gigazine.net/news/20261113-aws-emulator/",
-      "date": "2026-11-13T07:00:00+09:00",
-      "dateLabel": "11/13 07:00",
-      "desc": "Amazonはすべて自律AIエージェントによって開発された新しいローカルAWSエミュレーター「AWS Emulator」をリリースしました。AWS EmulatorはAWSサービスをローカル環境で実行することによりAWSアプリケーションの開発とテストを可能にするとのことです。注目すべき点として、AWS Emulatorのプロジェクトでは人間のエンジニアによる",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "NVIDIAのAIモデル「Nemotron」が日本語合成データセットを素早く投入できる理由",
       "link": "https://monoist.itmedia.co.jp/mn/articles/2611/13/news055.html",
       "date": "2026-11-13T06:45:00+09:00",
@@ -214,17 +203,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "Google Antigravity、クラウド上でAIエージェントが働く「リモートエージェント」機能を搭載。就業時間外でもAIエージェントは働き続ける",
-      "link": "https://www.publickey1.jp/blog/26/google_antigravityaiai.html",
-      "date": "2026-11-13T00:13:43+09:00",
-      "dateLabel": "11/13 00:13",
-      "desc": "Googleが提供するAIエージェントによる開発環境「Antigravity」に、新機能「リモートエージェント」が搭載されました。 We want Antigravity to be working for you all the time...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -250,6 +228,28 @@
       "score": 28
     },
     {
+      "title": "無料・インストール不要で日本語を含む13言語のリアルタイム文字起こしがブラウザからできる「Voxtral Mini 4B Realtime WebGPU」、WebGPUを駆使して完全ローカル動作可能",
+      "link": "https://gigazine.net/news/20261113-voxtral-mini-4b-realtime-webgpu/",
+      "date": "2026-11-13T23:00:00+09:00",
+      "dateLabel": "11/13 23:00",
+      "desc": "会議や取材で録音した音声を文字に起こす際には、録音ファイルをアップロードしたり専用の文字起こしソフトを使ったりする方法がありますが、ブラウザだけでリアルタイムに行える無料のツールが「Voxtral Mini 4B Realtime WebGPU」です。日本語を含む13言語に対応し、WebGPUによって音声認識AIを完全ローカルで実行できるとのことなので実際に",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "古いiPadやメモリ1GBの小型端末でも160億パラメータのAIをローカルで動かせる無料ツール「smolmaxxing」が登場",
+      "link": "https://gigazine.net/news/20261113-smolmaxxing/",
+      "date": "2026-11-13T21:00:00+09:00",
+      "dateLabel": "11/13 21:00",
+      "desc": "古いタブレットや小型デバイスでもAIモデルを動かせるようにするオープンソースプロジェクト「smolmaxxing」が公開されました。メモリ容量が限られた端末でもAIモデルを実行できるようにするもので、2013年発売の初代iPad Airや小型のテレビ用端末で動作が確認されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "AIが送料や関税を瞬時に予測、世界から気軽に買える新世代越境EC「SAZO」が優勝、B Dash Camp 2026 Fall",
       "link": "https://ascii.jp/elem/000/004/451/4451531/?rss",
       "date": "2026-11-13T18:40:00+09:00",
@@ -261,17 +261,6 @@
       "score": 26
     },
     {
-      "title": "これは勝ち組AIグラスの予感！ AI快適、カメラ便利、のRokid製モデルの最新版はさらに良くなってた",
-      "link": "https://ascii.jp/elem/000/004/450/4450422/?rss",
-      "date": "2026-11-13T17:30:00+09:00",
-      "dateLabel": "11/13 17:30",
-      "desc": "「Rokid Ai Glasses Style」は、スマートグラス市場を牽引するRokidの最新AIグラスです。ディスプレイを搭載しない設計を採用することで、わずか約38.5gという超軽量ボディを実現しています。",
-      "img": "https://ascii.jp/img/2026/11/11/4550478/s/0a12e5f15a5b8ef2.png",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 26
-    },
-    {
       "title": "「GeForce RTX 5080」がNVIDIAのアメリカ向け公式ストアから一時姿を消す、実売価格は希望小売価格の約2.2倍に",
       "link": "https://gigazine.net/news/20261113-nvidia-rtx-5080-store-price/",
       "date": "2026-11-13T13:00:00+09:00",
@@ -280,6 +269,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "Microsoft 365で世界規模の大規模障害が発生し復旧したサーバーも再び停止する事態に、OutlookやTeamsなど幅広いサービスに影響",
+      "link": "https://gigazine.net/news/20261113-microsoft-365-down/",
+      "date": "2026-11-13T12:50:00+09:00",
+      "dateLabel": "11/13 12:50",
+      "desc": "Microsoftのクラウドサービス「Microsoft 365」で2026年11月13日に世界規模の大規模障害が発生し、メールサービスの「Outlook」やチャット・会議ツールの「Microsoft Teams」、AIアシスタントの「Microsoft 365 Copilot」などが利用しにくい状態となっています。Microsoftは復旧作業を進めています",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
