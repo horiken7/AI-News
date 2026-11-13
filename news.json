@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-13T11:16:38.405620+09:00",
-  "generatedLabel": "2026/11/13 11:16",
-  "feedOk": 5,
-  "feedNg": 6,
-  "candidates": 50,
+  "generatedAt": "2026-11-13T19:18:56.326766+09:00",
+  "generatedLabel": "2026/11/13 19:18",
+  "feedOk": 6,
+  "feedNg": 5,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -17,8 +17,8 @@
     },
     {
       "source": "ASCII.jp",
-      "ok": false,
-      "error": "HTTP Error 500: Internal Server Error"
+      "ok": true,
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 16
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -74,6 +74,17 @@
       "score": 58
     },
     {
+      "title": "Googleが無料で使える高性能AI「Gemini 4 Hydrogen」を発表、従来モデルの2.5倍の速度で動作し競合AIを上回る性能も発揮",
+      "link": "https://gigazine.net/news/20261113-gemini-4-hydrogen/",
+      "date": "2026-11-13T12:20:00+09:00",
+      "dateLabel": "11/13 12:20",
+      "desc": "Googleが2026年11月12日に新たなAIモデル「Gemini 4 Hydrogen」を発表しました。従来の高速モデル「Gemini 3.8 Flash」と比べて処理速度と推論能力が大幅に向上しており、プログラミングや資料作成などの複雑な作業を効率的に進められるとのこと。GeminiアプリやGoogle検索などでも利用可能です。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
       "title": "M365障害、ChatGPT／Claudeのコネクタにも影響 「ほとんどのリクエストで動作しない」",
       "link": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003164/",
       "date": "2026-11-13T09:08:39+09:00",
@@ -85,26 +96,26 @@
       "score": 50
     },
     {
-      "title": "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
-      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003139/",
-      "date": "2026-11-12T14:10:47+09:00",
-      "dateLabel": "11/12 14:10",
-      "desc": "米Amazon Web Services（AWS）は、Amazon EC2インスタンス上でほぼネイティブのEC2性能で動作しつつ、Nitroシステムハードウェアレベルのきわめて強力な隔離環境を備えた軽量な仮想マシン「AWS Nitro Sandbox」の提供開始を発表しました。",
+      "title": "Googleの社内専用コーディングAI「GfG」、その全容 Geminiに社内データ1兆トークン学習させ開発 所要時間半減の業務も",
+      "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003110/",
+      "date": "2026-11-13T12:00:00+09:00",
+      "dateLabel": "11/13 12:00",
+      "desc": "米Googleなどに所属する研究者らが10月に発表した論文「Customizing an LLM for Enterprise Software Engineering」は、AIに企業独自の膨大な開発データを学習させ、社内システム開発に特化したコーディングモデルを構築する手法とその実用効果をまとめた研究報告だ。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 50
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
-      "title": "Googleが意思決定AIモデルの「Gemini Decisions 1」をリリース",
-      "link": "https://gigazine.net/news/20261112-gemini-decisions-1/",
-      "date": "2026-11-12T12:55:00+09:00",
-      "dateLabel": "11/12 12:55",
-      "desc": "大規模言語モデル(LLM)とは異なるアプローチでタスクを解決するAIモデル「Jev」が登場して以降、同様の「意思決定モデル」と呼ばれるAIエージェントの判断を誘導するモデルが相次いで登場しています。新たにGoogleから意思決定モデルの「Gemini Decision 1」が登場しました。 続きを読む...",
+      "title": "GoogleがGemini搭載スマートグラスによる盗撮やプライバシー侵害を防ぐための対策を発表",
+      "link": "https://gigazine.net/news/20261113-google-smart-glasses-privacy/",
+      "date": "2026-11-13T11:35:00+09:00",
+      "dateLabel": "11/13 11:35",
+      "desc": "Googleが2026年11月12日、AIアシスタントのGeminiを搭載したスマートグラスの予約受付を開始するとともに、プライバシー保護対策の詳細を公開しました。装着者だけでなく周囲の人々のプライバシーも保護するため、ハードウェアとソフトウェアの両面で対策を講じています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 50
+      "cat": "規制/安全",
+      "score": 42
     },
     {
       "title": "長期反復タスクにおけるAIコーディングエージェントの性能低下をベンチマークする「SlopCodeBench」",
@@ -118,36 +129,14 @@
       "score": 42
     },
     {
-      "title": "ユナイテッド航空がAIを利用したフライト予約を禁止",
-      "link": "https://gigazine.net/news/20261112-united-airlines-bans-ai-agents/",
-      "date": "2026-11-12T17:07:00+09:00",
-      "dateLabel": "11/12 17:07",
-      "desc": "アメリカの大手航空会社・ユナイテッド航空が、AIエージェントやAIアシスタントを利用したフライトの予約を禁止したと発表しました。理由としては情報漏洩(ろうえい)の懸念やマイルの不正利用防止のほか、当局の規制に違反する可能性が挙げられています。 続きを読む...",
+      "title": "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
+      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003139/",
+      "date": "2026-11-12T14:10:47+09:00",
+      "dateLabel": "11/12 14:10",
+      "desc": "米Amazon Web Services（AWS）は、Amazon EC2インスタンス上でほぼネイティブのEC2性能で動作しつつ、Nitroシステムハードウェアレベルのきわめて強力な隔離環境を備えた軽量な仮想マシン「AWS Nitro Sandbox」の提供開始を発表しました。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 42
-    },
-    {
-      "title": "NVIDIA製半導体を中国に出荷した疑惑のあるMegaspeedのエンティティリスト追加を商務省が先送りし続けていることが判明",
-      "link": "https://gigazine.net/news/20261112-lutnick-delays-megaspeed-blacklist/",
-      "date": "2026-11-12T14:50:00+09:00",
-      "dateLabel": "11/12 14:50",
-      "desc": "アメリカの国家安全保障上の問題が考えられる企業は「エンティティリスト」に登録され輸出入に制限がかかります。NVIDIAのジェンスン・フアンCEOと不倫関係にあった女性が幹部を務めるシンガポールのデータセンター企業・Megaspeedも、政府の複数機関からエンティティリストへの追加を求められていましたが、リストを監督する商務省が追加を先送りし続けていることがわ",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "動画系AIのRunwayが動画から世界を理解してロボットを動かすためのAI「Praxis-1」を公開",
-      "link": "https://gigazine.net/news/20261112-praxis-1/",
-      "date": "2026-11-12T13:45:00+09:00",
-      "dateLabel": "11/12 13:45",
-      "desc": "動画生成AIの「Runway」シリーズや動画編集AI「Aleph 2.0」などを展開するアメリカの生成AI企業・Runwayが、動画の事前学習を実際のロボットの制御に変換するオープンウェイトワールドアクションモデル「Praxis-1」を発表しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "生成AI/マルチモーダル",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
       "score": 42
     },
     {
@@ -160,6 +149,50 @@
       "src": "ITmedia AI+",
       "cat": "規制/安全",
       "score": 42
+    },
+    {
+      "title": "株式会社Digeon、日本ソフトウエア株式会社とAI分野における業務提携契約を締結",
+      "link": "https://ascii.jp/elem/000/004/451/4451532/?rss",
+      "date": "2026-11-13T17:40:42+09:00",
+      "dateLabel": "11/13 17:40",
+      "desc": "株式会社Digeon、日本ソフトウエア株式会社とAI分野における業務提携契約を締結",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "SHINING 3D、AI搭載モバイル3Dスキャナー「EINSTAR EZ GO」を発表",
+      "link": "https://ascii.jp/elem/000/004/451/4451540/?rss",
+      "date": "2026-11-13T17:04:59+09:00",
+      "dateLabel": "11/13 17:04",
+      "desc": "SHINING 3D、AI搭載モバイル3Dスキャナー「EINSTAR EZ GO」を発表",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "GoogleがAIでカスタマイズできる共同作業・プランニングハブを構築するための実験的AIプラットフォーム「Tabletop」ベータ版をリリース",
+      "link": "https://gigazine.net/news/20261113-google-tabletop/",
+      "date": "2026-11-13T13:30:00+09:00",
+      "dateLabel": "11/13 13:30",
+      "desc": "Googleが新しい実験プロジェクト「Tabletop」を発表しました。リンクやファイルを共有スペースにドロップしてTabletopにプロンプトを入力することで、複数人で活用できるコラボレーションスペースをAIが即席で作成します。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "Anthropicの株式は11月19日に取引開始、日本でもIPO抽選に参加可能",
+      "link": "https://gigazine.net/news/20261113-anthropic-ipo/",
+      "date": "2026-11-13T12:40:00+09:00",
+      "dateLabel": "11/13 12:40",
+      "desc": "Anthropicが新規株式公開(IPO)に関する日本語ページを公開しました。IPOの詳しいスケジュールやティッカーコードなども記されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
     },
     {
       "title": "無料でAWSをローカル環境で再現できるAmazon公式エミュレーターが登場",
@@ -195,28 +228,6 @@
       "score": 34
     },
     {
-      "title": "ComfyUIのテキスト生成速度が2倍に向上、ツリー型MTPやカーネル最適化によりLLMやVLMの実行を高速化しプロンプト強化などで威力を発揮",
-      "link": "https://gigazine.net/news/20261112-comfyui-llm-doubling/",
-      "date": "2026-11-12T17:29:00+09:00",
-      "dateLabel": "11/12 17:29",
-      "desc": "ComfyUIの主な用途は画像生成や動画生成ですが、プロンプトの品質向上や動画ストーリー作成などに対応するためにLLMやVLMによるテキスト生成もサポートしています。ComfyUIではバージョン0.40.0から0.45.0にかけてテキスト生成処理の最適化が進められ、従来の2倍以上の生成速度を達成しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "OpenAI APIで国内推論可能に GPT-6 Lunaのみ",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003129/",
-      "date": "2026-11-12T11:25:53+09:00",
-      "dateLabel": "11/12 11:25",
-      "desc": "OpenAIが提供するAPIで「GPT-6 Luna」に限り「国内推論」が可能になった。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
       "title": "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
       "link": "https://www.publickey1.jp/blog/26/awsaiec2vmaws_nitro_sandboxes.html",
       "date": "2026-11-12T00:04:47+09:00",
@@ -239,44 +250,33 @@
       "score": 28
     },
     {
-      "title": "AIエージェントを「追えない、止められない」 約半数が経験する“暴走”、浮上する3つの盲点",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news036.html",
-      "date": "2026-11-13T07:45:00+09:00",
-      "dateLabel": "11/13 07:45",
-      "desc": "APIセキュリティベンダーSalt Securityの調査では、約半数の組織がAIエージェントによる意図しない行動を確認していることが分かった。一方で組織は、AIエージェントの想定外の行動を自動的に止められていない。対策として何が求められるのか。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
+      "title": "AIが送料や関税を瞬時に予測、世界から気軽に買える新世代越境EC「SAZO」が優勝、B Dash Camp 2026 Fall",
+      "link": "https://ascii.jp/elem/000/004/451/4451531/?rss",
+      "date": "2026-11-13T18:40:00+09:00",
+      "dateLabel": "11/13 18:40",
+      "desc": "国内最大規模の招待制スタートアップカンファレンス「B Dash Camp 2026 Fall in Fukuoka」が、2026年11月11日から13日の3日間にわたり福岡市内で開催された。メインコンテンツであるピッチコンテスト「Pitch Arena」の優勝者はAIが送料、関税を瞬時に予測、自国EC感覚で世界から買い物できる越境ECサービスを展開する株式会",
+      "img": "https://ascii.jp/img/2026/11/13/4552028/s/f8e4dac9aa4a7c49.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "JR九州の非IT部門がGeminiでPythonアプリを内製開発 2?3カ月で完成させた方法",
-      "link": "https://kn.itmedia.co.jp/kn/article/2611/13/2000003142/",
-      "date": "2026-11-13T07:00:00+09:00",
-      "dateLabel": "11/13 07:00",
-      "desc": "JR九州は「Google Workspace with Gemini」を導入して非エンジニアによる業務アプリの内製化を進めている。IT人材不足や外部ベンダー依存といった課題の解決だけではない、同社が内製開発に取り組む理由とは。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
+      "title": "これは勝ち組AIグラスの予感！ AI快適、カメラ便利、のRokid製モデルの最新版はさらに良くなってた",
+      "link": "https://ascii.jp/elem/000/004/450/4450422/?rss",
+      "date": "2026-11-13T17:30:00+09:00",
+      "dateLabel": "11/13 17:30",
+      "desc": "「Rokid Ai Glasses Style」は、スマートグラス市場を牽引するRokidの最新AIグラスです。ディスプレイを搭載しない設計を採用することで、わずか約38.5gという超軽量ボディを実現しています。",
+      "img": "https://ascii.jp/img/2026/11/11/4550478/s/0a12e5f15a5b8ef2.png",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
       "score": 26
     },
     {
-      "title": "NVIDIAのジェンスン・フアンがCEOを辞任",
-      "link": "https://gigazine.net/news/20261112-nvidia-jensen-huang-resigns/",
-      "date": "2026-11-12T23:16:00+09:00",
-      "dateLabel": "11/12 23:16",
-      "desc": "NVIDIAの創業者であるジェンスン・フアン氏がCEOおよび取締役を辞任しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "データセンターがスプリンクラーの「誤作動」で水浸しになりかけた事例",
-      "link": "https://gigazine.net/news/20261112-false-smoke-alarm-datacenter/",
-      "date": "2026-11-12T19:00:00+09:00",
-      "dateLabel": "11/12 19:00",
-      "desc": "企業が持つあらゆるデータやシステムがデジタル化され、AIの活用が進む昨今においては、膨大なデータを保存しているデータセンターが企業の核となっています。そんなデータセンターがスプリンクラーの「誤作動」によって危うく水没しかけたというヒヤリハットについて、金融取引企業のJane Streetに勤務していたマイケル・バカレラ氏が語っています。 続きを読む...",
+      "title": "「GeForce RTX 5080」がNVIDIAのアメリカ向け公式ストアから一時姿を消す、実売価格は希望小売価格の約2.2倍に",
+      "link": "https://gigazine.net/news/20261113-nvidia-rtx-5080-store-price/",
+      "date": "2026-11-13T13:00:00+09:00",
+      "dateLabel": "11/13 13:00",
+      "desc": "アメリカの小売店でNVIDIAのグラフィックカード「GeForce RTX 5080」の品薄が進む中、2026年10月30日にNVIDIA公式ストアの製品一覧から一時姿を消しました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
