@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-15T04:35:08.402058+09:00",
-  "generatedLabel": "2026/11/15 04:35",
+  "generatedAt": "2026-11-15T08:29:57.587052+09:00",
+  "generatedLabel": "2026/11/15 08:29",
   "feedOk": 6,
   "feedNg": 5,
   "candidates": 50,
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 12
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -62,6 +62,17 @@
     }
   ],
   "articles": [
+    {
+      "title": "密輸対策のチップ位置確認は可能、エヌビディアが議員に非公開で説明",
+      "link": "https://ascii.jp/elem/000/004/451/4451604/?rss",
+      "date": "2026-11-15T07:14:28+09:00",
+      "dateLabel": "11/15 07:14",
+      "desc": "中国への高性能AI半導体の密輸対策としてチップの所在地確認を義務付ける米法案をめぐり、エヌビディアの担当者が非公開の場で技術的に対応可能との見解を米下院議員に伝えていたという。取材に応じた議員が明らかにした。ジェンスンCEOの辞任とスパイ疑惑を受け、この法案が改めて注目を浴びている。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 50
+    },
     {
       "title": "【追記あり】M365障害、ChatGPT／Claudeのコネクタにも影響 「ほとんどのリクエストで動作しない」",
       "link": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003164/",
@@ -173,28 +184,6 @@
       "score": 26
     },
     {
-      "title": "幻覚がひどいAIでも言葉遣いが洗練されていれば人を簡単に騙せることが判明",
-      "link": "https://gigazine.net/news/20261114-llm-fluency-credible/",
-      "date": "2026-11-14T08:00:00+09:00",
-      "dateLabel": "11/14 08:00",
-      "desc": "ChatGPTなどに代表される大規模言語モデルは、その根本的な仕組みとして、モデル自身は自分の回答が合っているか間違っているかを判断できません。そのためこの手のAIには事実ではないことをまるで事実かのように話してしまう「幻覚(ハルシネーション)」の問題が常につきまといます。新たな研究では、AIの回答に幻覚があったとしても、流暢(りゅうちょう)な言葉遣いであれ",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "NVIDIAをつくった男、ジェンスン・フアン “デニーズの皿洗い“から“AI時代の主役“へ、激動の半生",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/14/news008.html",
-      "date": "2026-11-14T07:30:00+09:00",
-      "dateLabel": "11/14 07:30",
-      "desc": "ダイナーの一角から、AI時代の主役「NVIDIA」を生み出したジェンスン・フアン氏。“皿洗い”から億万長者へと至った半生を振り返る。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
       "title": "AIエージェントを人事・採用に活用！自動化できる4つの業務と注意点",
       "link": "https://ainow.ai/2026/11/14/278521/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e4%25ba%25ba%25e4%25ba%258b%25e3%2583%25bb%25e6%258e%25a1%25e7%2594%25a8%25e3%2581%25ab%25e6%25b4%25bb%25e7%2594%25a8%25ef%25bc%2581%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b",
       "date": "2026-11-14T02:27:33+09:00",
@@ -225,17 +214,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "Anthropicの株式は11月19日に取引開始、日本でもIPO抽選に参加可能",
-      "link": "https://gigazine.net/news/20261113-anthropic-ipo/",
-      "date": "2026-11-13T12:40:00+09:00",
-      "dateLabel": "11/13 12:40",
-      "desc": "Anthropicが新規株式公開(IPO)に関する日本語ページを公開しました。IPOの詳しいスケジュールやティッカーコードなども記されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 26
     },
     {
@@ -281,6 +259,28 @@
       "src": "AINOW",
       "cat": "AIエージェント/業務",
       "score": 24
+    },
+    {
+      "title": "AIエージェントとは？仕組みと種類から企業の導入手順まで解説",
+      "link": "https://ainow.ai/2026/11/11/278509/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e4%25bb%2595%25e7%25b5%2584%25e3%2581%25bf%25e3%2581%25a8%25e7%25a8%25ae%25e9%25a1%259e%25e3%2581%258b%25e3%2582%2589%25e4%25bc%2581%25e6%25a5%25ad%25e3%2581%25ae%25e5%25b0%258e%25e5%2585%25a5",
+      "date": "2026-11-11T02:09:18+09:00",
+      "dateLabel": "11/11 02:09",
+      "desc": "「AIエージェント」という言葉が社内で飛び交うものの、ChatGPTやRPAと何が違うのか説明できず困っていないでしょうか。 AIエージェントとは、目標を与えると自ら手順を計画し、ツールを使って実行するAIです。 定義を... The post AIエージェントとは？仕組みと種類から企業の導入手順まで解説 first appeared on AI専門ニュース",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AIエージェント/業務",
+      "score": 20
+    },
+    {
+      "title": "Google、Kubernetesで10倍高密度にAIエージェントを実行可能にする「Agent Sustrate」と「gVisor」、オープンソースとしてCNCFに寄贈と発表",
+      "link": "https://www.publickey1.jp/blog/26/googlekubernetes10aiagent_sustrategvisorcncf.html",
+      "date": "2026-11-10T00:25:30+09:00",
+      "dateLabel": "11/10 00:25",
+      "desc": "Googleは、Kubernetes上にAIエージェントのための高効率な基盤を構築するためのオープンソースソフトウェア「Agent Substrate」と「gVisor」を、Linux Foundation傘下のCloud Native C...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 20
     }
   ]
 }
