@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-14T09:02:19.317302+09:00",
-  "generatedLabel": "2026/11/14 09:02",
+  "generatedAt": "2026-11-14T16:10:35.143621+09:00",
+  "generatedLabel": "2026/11/14 16:10",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 48,
+  "candidates": 49,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 1
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -63,28 +63,6 @@
   ],
   "articles": [
     {
-      "title": "Googleが無料で使える高性能AI「Gemini 4 Hydrogen」を発表、従来モデルの2.5倍の速度で動作し競合AIを上回る性能も発揮",
-      "link": "https://gigazine.net/news/20261113-gemini-4-hydrogen/",
-      "date": "2026-11-13T12:20:00+09:00",
-      "dateLabel": "11/13 12:20",
-      "desc": "Googleが2026年11月12日に新たなAIモデル「Gemini 4 Hydrogen」を発表しました。従来の高速モデル「Gemini 3.8 Flash」と比べて処理速度と推論能力が大幅に向上しており、プログラミングや資料作成などの複雑な作業を効率的に進められるとのこと。GeminiアプリやGoogle検索などでも利用可能です。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
-      "title": "M365障害、ChatGPT／Claudeのコネクタにも影響 「ほとんどのリクエストで動作しない」",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003164/",
-      "date": "2026-11-13T09:08:39+09:00",
-      "dateLabel": "11/13 09:08",
-      "desc": "「Microsoft 365」の複数サービスで障害が発生しており、OpenAIの「ChatGPT」とAnthropicの「Claude」のMicrosoft 365コネクタも正常に動作していないと両社が報告している。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
       "title": "Google、高速で低価格の「Gemini 4 Hydrogen」発表 無料ユーザーも利用可能",
       "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003162/",
       "date": "2026-11-13T08:04:46+09:00",
@@ -107,25 +85,14 @@
       "score": 42
     },
     {
-      "title": "Googleの社内専用コーディングAI「GfG」、その全容 Geminiに社内データ1兆トークン学習させ開発 所要時間半減の業務も",
-      "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003110/",
-      "date": "2026-11-13T12:00:00+09:00",
-      "dateLabel": "11/13 12:00",
-      "desc": "米Googleなどに所属する研究者らが10月に発表した論文「Customizing an LLM for Enterprise Software Engineering」は、AIに企業独自の膨大な開発データを学習させ、社内システム開発に特化したコーディングモデルを構築する手法とその実用効果をまとめた研究報告だ。",
+      "title": "M365障害、ChatGPT／Claudeのコネクタにも影響 「ほとんどのリクエストで動作しない」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003164/",
+      "date": "2026-11-13T09:08:39+09:00",
+      "dateLabel": "11/13 09:08",
+      "desc": "「Microsoft 365」の複数サービスで障害が発生しており、OpenAIの「ChatGPT」とAnthropicの「Claude」のMicrosoft 365コネクタも正常に動作していないと両社が報告している。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "GoogleがGemini搭載スマートグラスによる盗撮やプライバシー侵害を防ぐための対策を発表",
-      "link": "https://gigazine.net/news/20261113-google-smart-glasses-privacy/",
-      "date": "2026-11-13T11:35:00+09:00",
-      "dateLabel": "11/13 11:35",
-      "desc": "Googleが2026年11月12日、AIアシスタントのGeminiを搭載したスマートグラスの予約受付を開始するとともに、プライバシー保護対策の詳細を公開しました。装着者だけでなく周囲の人々のプライバシーも保護するため、ハードウェアとソフトウェアの両面で対策を講じています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
       "score": 42
     },
     {
@@ -162,24 +129,24 @@
       "score": 34
     },
     {
-      "title": "GoogleがAIでカスタマイズできる共同作業・プランニングハブを構築するための実験的AIプラットフォーム「Tabletop」ベータ版をリリース",
-      "link": "https://gigazine.net/news/20261113-google-tabletop/",
-      "date": "2026-11-13T13:30:00+09:00",
-      "dateLabel": "11/13 13:30",
-      "desc": "Googleが新しい実験プロジェクト「Tabletop」を発表しました。リンクやファイルを共有スペースにドロップしてTabletopにプロンプトを入力することで、複数人で活用できるコラボレーションスペースをAIが即席で作成します。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
+      "title": "トドオナダ、AI時代の広報PR戦略セミナーを11月27日開催 「LLMO提案」の中から、広報の仕事を見極める",
+      "link": "https://ascii.jp/elem/000/004/451/4451585/?rss",
+      "date": "2026-11-13T23:07:13+09:00",
+      "dateLabel": "11/13 23:07",
+      "desc": "トドオナダ、AI時代の広報PR戦略セミナーを11月27日開催 「LLMO提案」の中から、広報の仕事を見極める",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
-      "title": "Anthropicの株式は11月19日に取引開始、日本でもIPO抽選に参加可能",
-      "link": "https://gigazine.net/news/20261113-anthropic-ipo/",
-      "date": "2026-11-13T12:40:00+09:00",
-      "dateLabel": "11/13 12:40",
-      "desc": "Anthropicが新規株式公開(IPO)に関する日本語ページを公開しました。IPOの詳しいスケジュールやティッカーコードなども記されています。 続きを読む...",
+      "title": "Googleの社内専用コーディングAI「GfG」、その全容 Geminiに社内データ1兆トークン学習させ開発 所要時間半減の業務も",
+      "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003110/",
+      "date": "2026-11-13T12:00:00+09:00",
+      "dateLabel": "11/13 12:00",
+      "desc": "米Googleなどに所属する研究者らが10月に発表した論文「Customizing an LLM for Enterprise Software Engineering」は、AIに企業独自の膨大な開発データを学習させ、社内システム開発に特化したコーディングモデルを構築する手法とその実用効果をまとめた研究報告だ。",
       "img": "",
-      "src": "GIGAZINE",
+      "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 34
     },
@@ -193,6 +160,17 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 34
+    },
+    {
+      "title": "予算に合わせて、地域に合う農業AI研修を。自治体・JA向け新サービス開始",
+      "link": "https://ascii.jp/elem/000/004/451/4451596/?rss",
+      "date": "2026-11-14T12:48:20+09:00",
+      "dateLabel": "11/14 12:48",
+      "desc": "予算に合わせて、地域に合う農業AI研修を。自治体・JA向け新サービス開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     },
     {
       "title": "幻覚がひどいAIでも言葉遣いが洗練されていれば人を簡単に騙せることが判明",
@@ -228,6 +206,17 @@
       "score": 26
     },
     {
+      "title": "XNOVA、「NexTech Week 2026【秋】第1回ヒューマノイドロボットEXPO」に出展 3日間で1,500人以上が来場し、ブースは大盛況に",
+      "link": "https://ascii.jp/elem/000/004/451/4451583/?rss",
+      "date": "2026-11-13T22:01:24+09:00",
+      "dateLabel": "11/13 22:01",
+      "desc": "XNOVA、「NexTech Week 2026【秋】第1回ヒューマノイドロボットEXPO」に出展 3日間で1,500人以上が来場し、ブースは大盛況に",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
       "title": "古いiPadやメモリ1GBの小型端末でも160億パラメータのAIをローカルで動かせる無料ツール「smolmaxxing」が登場",
       "link": "https://gigazine.net/news/20261113-smolmaxxing/",
       "date": "2026-11-13T21:00:00+09:00",
@@ -239,36 +228,25 @@
       "score": 26
     },
     {
-      "title": "AIが送料や関税を瞬時に予測、世界から気軽に買える新世代越境EC「SAZO」が優勝、B Dash Camp 2026 Fall",
-      "link": "https://ascii.jp/elem/000/004/451/4451531/?rss",
-      "date": "2026-11-13T18:40:00+09:00",
-      "dateLabel": "11/13 18:40",
-      "desc": "国内最大規模の招待制スタートアップカンファレンス「B Dash Camp 2026 Fall in Fukuoka」が、2026年11月11日から13日の3日間にわたり福岡市内で開催された。メインコンテンツであるピッチコンテスト「Pitch Arena」の優勝者はAIが送料、関税を瞬時に予測、自国EC感覚で世界から買い物できる越境ECサービスを展開する株式会",
-      "img": "https://ascii.jp/img/2026/11/13/4552028/s/f8e4dac9aa4a7c49.jpg",
-      "src": "ASCII.jp",
+      "title": "GoogleがAIでカスタマイズできる共同作業・プランニングハブを構築するための実験的AIプラットフォーム「Tabletop」ベータ版をリリース",
+      "link": "https://gigazine.net/news/20261113-google-tabletop/",
+      "date": "2026-11-13T13:30:00+09:00",
+      "dateLabel": "11/13 13:30",
+      "desc": "Googleが新しい実験プロジェクト「Tabletop」を発表しました。リンクやファイルを共有スペースにドロップしてTabletopにプロンプトを入力することで、複数人で活用できるコラボレーションスペースをAIが即席で作成します。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "「GeForce RTX 5080」がNVIDIAのアメリカ向け公式ストアから一時姿を消す、実売価格は希望小売価格の約2.2倍に",
-      "link": "https://gigazine.net/news/20261113-nvidia-rtx-5080-store-price/",
-      "date": "2026-11-13T13:00:00+09:00",
-      "dateLabel": "11/13 13:00",
-      "desc": "アメリカの小売店でNVIDIAのグラフィックカード「GeForce RTX 5080」の品薄が進む中、2026年10月30日にNVIDIA公式ストアの製品一覧から一時姿を消しました。 続きを読む...",
+      "title": "Anthropicの株式は11月19日に取引開始、日本でもIPO抽選に参加可能",
+      "link": "https://gigazine.net/news/20261113-anthropic-ipo/",
+      "date": "2026-11-13T12:40:00+09:00",
+      "dateLabel": "11/13 12:40",
+      "desc": "Anthropicが新規株式公開(IPO)に関する日本語ページを公開しました。IPOの詳しいスケジュールやティッカーコードなども記されています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "Microsoft 365で世界規模の大規模障害が発生し復旧したサーバーも再び停止する事態に、OutlookやTeamsなど幅広いサービスに影響",
-      "link": "https://gigazine.net/news/20261113-microsoft-365-down/",
-      "date": "2026-11-13T12:50:00+09:00",
-      "dateLabel": "11/13 12:50",
-      "desc": "Microsoftのクラウドサービス「Microsoft 365」で2026年11月13日に世界規模の大規模障害が発生し、メールサービスの「Outlook」やチャット・会議ツールの「Microsoft Teams」、AIアシスタントの「Microsoft 365 Copilot」などが利用しにくい状態となっています。Microsoftは復旧作業を進めています",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
+      "cat": "LLM/モデル",
       "score": 26
     },
     {
@@ -280,6 +258,28 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "Google Antigravity、クラウド上でAIエージェントが働く「リモートエージェント」機能を搭載。就業時間外でもAIエージェントは働き続ける",
+      "link": "https://www.publickey1.jp/blog/26/google_antigravityaiai.html",
+      "date": "2026-11-13T00:13:43+09:00",
+      "dateLabel": "11/13 00:13",
+      "desc": "Googleが提供するAIエージェントによる開発環境「Antigravity」に、新機能「リモートエージェント」が搭載されました。 We want Antigravity to be working for you all the time...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "OpenAI APIで国内推論可能に GPT-6 Lunaのみ",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003129/",
+      "date": "2026-11-12T11:25:53+09:00",
+      "dateLabel": "11/12 11:25",
+      "desc": "OpenAIが提供するAPIで「GPT-6 Luna」に限り「国内推論」が可能になった。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 26
     }
   ]
