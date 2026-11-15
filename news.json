@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-15T12:46:29.652835+09:00",
-  "generatedLabel": "2026/11/15 12:46",
+  "generatedAt": "2026-11-15T20:38:44.725394+09:00",
+  "generatedLabel": "2026/11/15 20:38",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 52,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -63,28 +63,6 @@
   ],
   "articles": [
     {
-      "title": "密輸対策のチップ位置確認は可能、エヌビディアが議員に非公開で説明",
-      "link": "https://ascii.jp/elem/000/004/451/4451604/?rss",
-      "date": "2026-11-15T07:14:28+09:00",
-      "dateLabel": "11/15 07:14",
-      "desc": "中国への高性能AI半導体の密輸対策としてチップの所在地確認を義務付ける米法案をめぐり、エヌビディアの担当者が非公開の場で技術的に対応可能との見解を米下院議員に伝えていたという。取材に応じた議員が明らかにした。ジェンスンCEOの辞任とスパイ疑惑を受け、この法案が改めて注目を浴びている。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
-      "title": "【追記あり】M365障害、ChatGPT／Claudeのコネクタにも影響 「ほとんどのリクエストで動作しない」",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003164/",
-      "date": "2026-11-14T20:35:45+09:00",
-      "dateLabel": "11/14 20:35",
-      "desc": "「Microsoft 365」の複数サービスで障害が発生しており、OpenAIの「ChatGPT」とAnthropicの「Claude」のMicrosoft 365コネクタも正常に動作していないと両社が報告している。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
       "title": "Google、高速で低価格の「Gemini 4 Hydrogen」発表 無料ユーザーも利用可能",
       "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003162/",
       "date": "2026-11-13T08:04:46+09:00",
@@ -118,14 +96,14 @@
       "score": 42
     },
     {
-      "title": "ゴムマリの業務AIエージェント、『発注データ分析』を提供開始",
-      "link": "https://ascii.jp/elem/000/004/451/4451606/?rss",
-      "date": "2026-11-15T09:00:00+09:00",
-      "dateLabel": "11/15 09:00",
-      "desc": "ゴムマリの業務AIエージェント、『発注データ分析』を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
+      "title": "【追記あり】M365障害、ChatGPT／Claudeのコネクタにも影響 「ほとんどのリクエストで動作しない」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003164/",
+      "date": "2026-11-14T20:35:45+09:00",
+      "dateLabel": "11/14 20:35",
+      "desc": "「Microsoft 365」の複数サービスで障害が発生しており、OpenAIの「ChatGPT」とAnthropicの「Claude」のMicrosoft 365コネクタも正常に動作していないと両社が報告している。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -137,26 +115,26 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 42
+      "score": 36
     },
     {
-      "title": "もみじAI、放送局向けCM突合ソリューション「突合デカ」を「Inter BEE 2026」に出展 ―― RKK熊本放送で稼働中の突合システムを初公開",
-      "link": "https://ascii.jp/elem/000/004/451/4451609/?rss",
-      "date": "2026-11-14T23:11:10+09:00",
-      "dateLabel": "11/14 23:11",
-      "desc": "もみじAI、放送局向けCM突合ソリューション「突合デカ」を「Inter BEE 2026」に出展 ―― RKK熊本放送で稼働中の突合システムを初公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "title": "My docomoで一部手続きは再開されるも、いまだ使えない手続きも ahamoユーザーにも影響あり",
+      "link": "https://ascii.jp/elem/000/004/451/4451626/?rss",
+      "date": "2026-11-15T15:00:00+09:00",
+      "dateLabel": "11/15 15:00",
+      "desc": "My docomoが不正アクセスにともない緊急メンテナンスに入ったが、安全性が確認された一部の手続きは再開。しかし、記事執筆時点でいまだ使えない手続きも存在している。",
+      "img": "https://ascii.jp/img/2026/11/15/4552213/s/f0ba00c77a045fca.png",
       "src": "ASCII.jp",
-      "cat": "AI全般",
+      "cat": "規制/安全",
       "score": 34
     },
     {
-      "title": "タブレットに変形する「VAIO T」が発売記念で3万3000円オフに。手に入れるなら、いまだ！",
-      "link": "https://ascii.jp/elem/000/004/451/4451456/?rss",
-      "date": "2026-11-14T20:00:00+09:00",
-      "dateLabel": "11/14 20:00",
-      "desc": "VAIO直販に注目。「VAIO T ;Copilot+ PC」が「発売記念特別価格」として、3万3000円の値引きが適用され、34万1000円で購入できる。",
-      "img": "https://ascii.jp/img/2026/11/13/4551915/s/1324b55423732982.png",
+      "title": "ゴムマリの専門業務AI-BPO、『月次決算チェック』を提供開始",
+      "link": "https://ascii.jp/elem/000/004/451/4451623/?rss",
+      "date": "2026-11-15T13:00:00+09:00",
+      "dateLabel": "11/15 13:00",
+      "desc": "ゴムマリの専門業務AI-BPO、『月次決算チェック』を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
       "score": 34
@@ -195,6 +173,61 @@
       "score": 28
     },
     {
+      "title": "最大7万円オフは見逃せない！ 大画面16型ノート「VAIO F16」が今ならお買い得",
+      "link": "https://ascii.jp/elem/000/004/451/4451634/?rss",
+      "date": "2026-11-15T20:00:00+09:00",
+      "dateLabel": "11/15 20:00",
+      "desc": "16.0型の大画面とインテル Coreプロセッサーを搭載した「VAIO F16」。充実したインターフェースや使いやすいキーボードも魅力。現在は最大7万円オフのキャンペーンを実施中。16万4700円から購入できる。",
+      "img": "https://ascii.jp/img/2026/11/15/4552234/s/9feb150a65166332.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "AIノイズキャンセリング＆32bit float録音対応でE-Inkディスプレイ搭載のワイヤレスマイク「Insta360 Mic Pro」はどれほど高性能なのか実際に使ってみたよレビュー",
+      "link": "https://gigazine.net/news/20261115-insta360-mic-pro-usage/",
+      "date": "2026-11-15T18:00:00+09:00",
+      "dateLabel": "11/15 18:00",
+      "desc": "動画撮影で意外と難しいのが、周囲の雑音を抑えながらクリアな音声を録音することです。Insta360のワイヤレスマイク「Insta360 Mic Pro」は好きな画像やロゴを表示できるカラーE-Inkディスプレイが送信機に搭載されているのが特徴で、AIによるノイズキャンセリングや最大400mのワイヤレス伝送に対応し、32bit float内部録音によって大きな",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "ジェンスン・フアンのNVIDIAのCEO復帰を求める署名が10万筆を突破、イーロン・マスクらも署名",
+      "link": "https://gigazine.net/news/20261115-stand-with-jensen/",
+      "date": "2026-11-15T17:53:00+09:00",
+      "dateLabel": "11/15 17:53",
+      "desc": "NVIDIAの共同創業者ジェンスン・フアン氏は、スパイと目される女性との不倫問題が話題となったのち、現地時間2026年11月12日付けでCEOを辞任しました。しかし、女性が本当にスパイだったかは確認されておらず、フアン氏は実質的に適正な手続きを経ずに解任されたも同然だとして、フアン氏のCEOへの復帰を取締役会に求める署名活動が行われています。署名には現役社員",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "農業現場のAI活用を、経営の実践へ！ AFJ日本農業経営大学校の新講座で農情人代表がメイン講師に",
+      "link": "https://ascii.jp/elem/000/004/451/4451633/?rss",
+      "date": "2026-11-15T16:50:00+09:00",
+      "dateLabel": "11/15 16:50",
+      "desc": "農業現場のAI活用を、経営の実践へ！ AFJ日本農業経営大学校の新講座で農情人代表がメイン講師に",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "順天堂大学、講義資料を AI で説明動画に 教職員約3,000人を対象に「Sylavids」導入",
+      "link": "https://ascii.jp/elem/000/004/451/4451624/?rss",
+      "date": "2026-11-15T11:18:40+09:00",
+      "dateLabel": "11/15 11:18",
+      "desc": "順天堂大学、講義資料を AI で説明動画に 教職員約3,000人を対象に「Sylavids」導入",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "AIを使う農家が、製品の新しい使い方を探る。農業AI通信が企業向けタイアップサービスを開始",
       "link": "https://ascii.jp/elem/000/004/451/4451618/?rss",
       "date": "2026-11-15T10:24:28+09:00",
@@ -214,28 +247,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "株式会社ツリーベル、本社および東京事業所の麹町移転に伴い、次世代AI顔認証セキュリティシステム「FE500」「KJ3400」を導入",
-      "link": "https://ascii.jp/elem/000/004/451/4451611/?rss",
-      "date": "2026-11-14T21:37:24+09:00",
-      "dateLabel": "11/14 21:37",
-      "desc": "株式会社ツリーベル、本社および東京事業所の麹町移転に伴い、次世代AI顔認証セキュリティシステム「FE500」「KJ3400」を導入",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "4K動画編集にも使えるRTX 5070 Ti搭載デスクトップPCが、なんと11万円オフ！",
-      "link": "https://ascii.jp/elem/000/004/451/4451453/?rss",
-      "date": "2026-11-14T20:00:00+09:00",
-      "dateLabel": "11/14 20:00",
-      "desc": "マウスコンピューターがハロウィンセールを実施中。4K動画編集にも使えるRTX 5070 Ti搭載デスクトップPC「DAIV FM-A9G7T」が、なんと11万円オフ！",
-      "img": "https://ascii.jp/img/2026/11/13/4551896/s/81b413a0b65f5619.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 26
     },
     {
@@ -269,17 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "Google Antigravity、クラウド上でAIエージェントが働く「リモートエージェント」機能を搭載。就業時間外でもAIエージェントは働き続ける",
-      "link": "https://www.publickey1.jp/blog/26/google_antigravityaiai.html",
-      "date": "2026-11-13T00:13:43+09:00",
-      "dateLabel": "11/13 00:13",
-      "desc": "Googleが提供するAIエージェントによる開発環境「Antigravity」に、新機能「リモートエージェント」が搭載されました。 We want Antigravity to be working for you all the time...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
