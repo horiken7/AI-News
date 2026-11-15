@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-15T08:29:57.587052+09:00",
-  "generatedLabel": "2026/11/15 08:29",
+  "generatedAt": "2026-11-15T12:46:29.652835+09:00",
+  "generatedLabel": "2026/11/15 12:46",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 50,
+  "candidates": 52,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 11
+      "items": 10
     },
     {
       "source": "CNET Japan",
@@ -96,6 +96,39 @@
       "score": 50
     },
     {
+      "title": "【資料を無料公開】「Microsoft 365 Copilot 業務プロンプト集 50」を公開。Word・Excel・Teamsなど5つのアプリで試せる50本に、ライセンスと確かめ方を添えました",
+      "link": "https://ascii.jp/elem/000/004/451/4451616/?rss",
+      "date": "2026-11-15T11:00:00+09:00",
+      "dateLabel": "11/15 11:00",
+      "desc": "【資料を無料公開】「Microsoft 365 Copilot 業務プロンプト集 50」を公開。Word・Excel・Teamsなど5つのアプリで試せる50本に、ライセンスと確かめ方を添えました",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "AIは答えを出せても「聞くべきこと」を見落とすことが税務の仕事を再現したテストで判明",
+      "link": "https://gigazine.net/news/20261115-dayjob-tax/",
+      "date": "2026-11-15T10:00:00+09:00",
+      "dateLabel": "11/15 10:00",
+      "desc": "AIの性能評価を手がけるSurge AIは2026年10月27日、アメリカの税務相談や申告書の作成を題材にしたベンチマーク「DAYJOB: Tax」の結果を公開しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 42
+    },
+    {
+      "title": "ゴムマリの業務AIエージェント、『発注データ分析』を提供開始",
+      "link": "https://ascii.jp/elem/000/004/451/4451606/?rss",
+      "date": "2026-11-15T09:00:00+09:00",
+      "dateLabel": "11/15 09:00",
+      "desc": "ゴムマリの業務AIエージェント、『発注データ分析』を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
       "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003139/",
       "date": "2026-11-12T14:10:47+09:00",
@@ -105,6 +138,17 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 42
+    },
+    {
+      "title": "もみじAI、放送局向けCM突合ソリューション「突合デカ」を「Inter BEE 2026」に出展 ―― RKK熊本放送で稼働中の突合システムを初公開",
+      "link": "https://ascii.jp/elem/000/004/451/4451609/?rss",
+      "date": "2026-11-14T23:11:10+09:00",
+      "dateLabel": "11/14 23:11",
+      "desc": "もみじAI、放送局向けCM突合ソリューション「突合デカ」を「Inter BEE 2026」に出展 ―― RKK熊本放送で稼働中の突合システムを初公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "タブレットに変形する「VAIO T」が発売記念で3万3000円オフに。手に入れるなら、いまだ！",
@@ -151,34 +195,45 @@
       "score": 28
     },
     {
+      "title": "AIを使う農家が、製品の新しい使い方を探る。農業AI通信が企業向けタイアップサービスを開始",
+      "link": "https://ascii.jp/elem/000/004/451/4451618/?rss",
+      "date": "2026-11-15T10:24:28+09:00",
+      "dateLabel": "11/15 10:24",
+      "desc": "AIを使う農家が、製品の新しい使い方を探る。農業AI通信が企業向けタイアップサービスを開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "AIが便利になればなるほど深刻になる「自動化の皮肉」に人間はどう対処すべきか",
+      "link": "https://gigazine.net/news/20261115-ai-isnt-replacing-sres-its-deskilling/",
+      "date": "2026-11-15T09:00:00+09:00",
+      "dateLabel": "11/15 09:00",
+      "desc": "近年のAIの進化はSRE(サイト信頼性エンジニアリング)に大きな影響を与えています。AIがインシデント対応の大部分を自動化するにつれて、人間が担うべき「稀・複雑・曖昧」な問題への対応能力が低下するという「自動化の皮肉」が指摘されています。オープンソースのシステム監視・分析ツール「SigNoz」の開発者エリザベス・マシュー氏は「AIがインシデント対応の95%を",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "株式会社ツリーベル、本社および東京事業所の麹町移転に伴い、次世代AI顔認証セキュリティシステム「FE500」「KJ3400」を導入",
+      "link": "https://ascii.jp/elem/000/004/451/4451611/?rss",
+      "date": "2026-11-14T21:37:24+09:00",
+      "dateLabel": "11/14 21:37",
+      "desc": "株式会社ツリーベル、本社および東京事業所の麹町移転に伴い、次世代AI顔認証セキュリティシステム「FE500」「KJ3400」を導入",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "4K動画編集にも使えるRTX 5070 Ti搭載デスクトップPCが、なんと11万円オフ！",
       "link": "https://ascii.jp/elem/000/004/451/4451453/?rss",
       "date": "2026-11-14T20:00:00+09:00",
       "dateLabel": "11/14 20:00",
       "desc": "マウスコンピューターがハロウィンセールを実施中。4K動画編集にも使えるRTX 5070 Ti搭載デスクトップPC「DAIV FM-A9G7T」が、なんと11万円オフ！",
       "img": "https://ascii.jp/img/2026/11/13/4551896/s/81b413a0b65f5619.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "国産SaaSの致命的欠点「アプリ」 AIより先に手を付けるべきでは？",
-      "link": "https://ascii.jp/elem/000/004/451/4451597/?rss",
-      "date": "2026-11-14T17:00:00+09:00",
-      "dateLabel": "11/14 17:00",
-      "desc": "国産SaaSはアプリの使い勝手がイマイチだと感じられる。アプリの脆弱性が突かれてしまう攻撃も増えているので、中途半端なアプリならいっそ出さないほうがよい。",
-      "img": "https://ascii.jp/img/2026/11/14/4552148/s/eecb15e788ff1b9a.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "予算に合わせて、地域に合う農業AI研修を。自治体・JA向け新サービス開始",
-      "link": "https://ascii.jp/elem/000/004/451/4451596/?rss",
-      "date": "2026-11-14T12:48:20+09:00",
-      "dateLabel": "11/14 12:48",
-      "desc": "予算に合わせて、地域に合う農業AI研修を。自治体・JA向け新サービス開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
@@ -206,17 +261,6 @@
       "score": 26
     },
     {
-      "title": "GoogleがAIでカスタマイズできる共同作業・プランニングハブを構築するための実験的AIプラットフォーム「Tabletop」ベータ版をリリース",
-      "link": "https://gigazine.net/news/20261113-google-tabletop/",
-      "date": "2026-11-13T13:30:00+09:00",
-      "dateLabel": "11/13 13:30",
-      "desc": "Googleが新しい実験プロジェクト「Tabletop」を発表しました。リンクやファイルを共有スペースにドロップしてTabletopにプロンプトを入力することで、複数人で活用できるコラボレーションスペースをAIが即席で作成します。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
       "title": "NVIDIAのAIモデル「Nemotron」が日本語合成データセットを素早く投入できる理由",
       "link": "https://monoist.itmedia.co.jp/mn/articles/2611/13/news055.html",
       "date": "2026-11-13T06:45:00+09:00",
@@ -237,50 +281,6 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 26
-    },
-    {
-      "title": "OpenAI APIで国内推論可能に GPT-6 Lunaのみ",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003129/",
-      "date": "2026-11-12T11:25:53+09:00",
-      "dateLabel": "11/12 11:25",
-      "desc": "OpenAIが提供するAPIで「GPT-6 Luna」に限り「国内推論」が可能になった。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "AIエージェントの例10選！身近なツールから業務別の動きまで解説",
-      "link": "https://ainow.ai/2026/11/07/278503/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e4%25be%258b10%25e9%2581%25b8%25ef%25bc%2581%25e8%25ba%25ab%25e8%25bf%2591%25e3%2581%25aa%25e3%2583%2584%25e3%2583%25bc%25e3%2583%25ab%25e3%2581%258b%25e3%2582%2589%25e6%25a5%25ad%25e5%258b%2599%25e5%2588%25a5",
-      "date": "2026-11-07T03:53:48+09:00",
-      "dateLabel": "11/07 03:53",
-      "desc": "「AIエージェント」の意味は理解できても、自社の業務でどう動くのかが想像できず、提案資料に書けずに困っていませんか。 AIエージェントの例は、ChatGPT WorkやClaude Codeなどの身近なツールと、営業や経... The post AIエージェントの例10選！身近なツールから業務別の動きまで解説 first appeared on AI専門ニュ",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 24
-    },
-    {
-      "title": "AIエージェントとは？仕組みと種類から企業の導入手順まで解説",
-      "link": "https://ainow.ai/2026/11/11/278509/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e4%25bb%2595%25e7%25b5%2584%25e3%2581%25bf%25e3%2581%25a8%25e7%25a8%25ae%25e9%25a1%259e%25e3%2581%258b%25e3%2582%2589%25e4%25bc%2581%25e6%25a5%25ad%25e3%2581%25ae%25e5%25b0%258e%25e5%2585%25a5",
-      "date": "2026-11-11T02:09:18+09:00",
-      "dateLabel": "11/11 02:09",
-      "desc": "「AIエージェント」という言葉が社内で飛び交うものの、ChatGPTやRPAと何が違うのか説明できず困っていないでしょうか。 AIエージェントとは、目標を与えると自ら手順を計画し、ツールを使って実行するAIです。 定義を... The post AIエージェントとは？仕組みと種類から企業の導入手順まで解説 first appeared on AI専門ニュース",
-      "img": "",
-      "src": "AINOW",
-      "cat": "AIエージェント/業務",
-      "score": 20
-    },
-    {
-      "title": "Google、Kubernetesで10倍高密度にAIエージェントを実行可能にする「Agent Sustrate」と「gVisor」、オープンソースとしてCNCFに寄贈と発表",
-      "link": "https://www.publickey1.jp/blog/26/googlekubernetes10aiagent_sustrategvisorcncf.html",
-      "date": "2026-11-10T00:25:30+09:00",
-      "dateLabel": "11/10 00:25",
-      "desc": "Googleは、Kubernetes上にAIエージェントのための高効率な基盤を構築するためのオープンソースソフトウェア「Agent Substrate」と「gVisor」を、Linux Foundation傘下のCloud Native C...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 20
     }
   ]
 }
