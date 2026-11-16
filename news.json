@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-16T12:47:22.271166+09:00",
-  "generatedLabel": "2026/11/16 12:47",
+  "generatedAt": "2026-11-16T21:14:30.601810+09:00",
+  "generatedLabel": "2026/11/16 21:14",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 57,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -85,6 +85,17 @@
       "score": 58
     },
     {
+      "title": "「Gemini 4 Hydrogen」とは 性能とユースケースまとめ Googleの「誰でも使える」最新モデル",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003229/",
+      "date": "2026-11-16T16:17:48+09:00",
+      "dateLabel": "11/16 16:17",
+      "desc": "Googleは新AIモデル「Gemini 4 Hydrogen」を発表。「最先端モデルを誰にでも」とし、低コストで日々の作業をサポートするとしている。その概要と性能、使い道、料金をまとめる。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
       "title": "NVIDIA製半導体の中国への出荷疑惑があるMegaspeedが「法に基づいて適切に運営している」と声明を発表",
       "link": "https://gigazine.net/news/20261116-megaspeed-says-alice-huang-left-in-2025/",
       "date": "2026-11-16T11:23:00+09:00",
@@ -96,15 +107,26 @@
       "score": 50
     },
     {
-      "title": "Google、高速で低価格の「Gemini 4 Hydrogen」発表 無料ユーザーも利用可能",
-      "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003162/",
-      "date": "2026-11-13T08:04:46+09:00",
-      "dateLabel": "11/13 08:04",
-      "desc": "Googleは、AIエージェントによる作業や日常的なコーディングに向けた高速・高効率の新モデル「Gemini 4 Hydrogen」を発表した。「Gemini 3.8 Flash」の約2.5倍の速さでタスクを終え、推論の深さを4段階から選べる。APIやGeminiアプリなどで同日から順次提供している。",
+      "title": "ClaudeとCodexで32年落ちのジープをリバースエンジニアリングして修理",
+      "link": "https://gigazine.net/news/20261116-claude-codex-controll-jeep/",
+      "date": "2026-11-16T21:00:00+09:00",
+      "dateLabel": "11/16 21:00",
+      "desc": "排ガス規制に適合させるため、Claude CodeとOpenAI Codexで車を修理したという人が詳細を報告しました。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 44
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 42
+    },
+    {
+      "title": "「Qwen4-Max」が登場、一部テストでClaude Opus 5.5に勝利し小型オープンモデルも後日公開予定",
+      "link": "https://gigazine.net/news/20261116-qwen4-max/",
+      "date": "2026-11-16T13:27:00+09:00",
+      "dateLabel": "11/16 13:27",
+      "desc": "中国の大手テクノロジー企業であるAlibabaがAIモデル「Qwen4-Max」を2026年11月16日に正式リリースしました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "PostgreSQL 19リリース延期の背景。β4で多くの新機能取り下げが発生、原因はAIによるコードレビューか",
@@ -140,47 +162,36 @@
       "score": 42
     },
     {
-      "title": "なぜGPUとTPUを混載するのか？ あえてCPUを外しFP8も捨てたWaymo独自プロセッサーの徹底した割り切り",
-      "link": "https://ascii.jp/elem/000/004/451/4451635/?rss",
-      "date": "2026-11-16T12:00:00+09:00",
-      "dateLabel": "11/16 12:00",
-      "desc": "前回はWaymoの基調講演の内容をお届けしたが、これに続いて行なわれたのがそのWaymoが自作したプロセッサ- の1つであるSFP(Sensor Fusion Processor)に関する講演である。今回はこの内容を解説したい。",
-      "img": "https://ascii.jp/img/2026/11/15/4552266/s/99cf1b98bad8563e.jpg",
+      "title": "画面がくるりと回って3変化！ VAIOの新型ノートPC「VAIO T」が今なら3万3000円引き",
+      "link": "https://ascii.jp/elem/000/004/451/4451838/?rss",
+      "date": "2026-11-16T21:00:00+09:00",
+      "dateLabel": "11/16 21:00",
+      "desc": "VAIO直販に注目。「VAIO T ;Copilot+ PC」が「発売記念特別価格」として、3万3000円の値引きが適用され、34万1000円で購入できる。",
+      "img": "https://ascii.jp/img/2026/11/13/4551915/s/1324b55423732982.png",
       "src": "ASCII.jp",
-      "cat": "半導体/GPU",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
-      "title": "空気清浄機のようにCO₂を回収。「小型DAC」がオフィスビルにやってくる",
-      "link": "https://ascii.jp/elem/000/004/448/4448056/?rss",
-      "date": "2026-11-16T12:00:00+09:00",
-      "dateLabel": "11/16 12:00",
-      "desc": "脱炭素の取り組みが進む一方、AIデータセンターの拡大などで電力需要は増加している。排出削減だけではゼロにできないCO₂を、空気中から直接回収する技術「DAC」が注目されている。九州大学発のCarbon Xtractは、特殊な分離膜を使った小型DAC「m-DAC」を開発。オフィスビルなどに設置し、回収したCO₂を資源として利用する構想だ。",
-      "img": "https://ascii.jp/img/2026/11/04/4547371/s/c694d2eee428e80a.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "ホームページまで手が回らない工務店へ。AIが更新を続ける「sawan WEB NEXT」、11月16日に提供開始",
-      "link": "https://ascii.jp/elem/000/004/451/4451730/?rss",
-      "date": "2026-11-16T10:00:00+09:00",
-      "dateLabel": "11/16 10:00",
-      "desc": "ホームページまで手が回らない工務店へ。AIが更新を続ける「sawan WEB NEXT」、11月16日に提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "AIは答えを出せても「聞くべきこと」を見落とすことが税務の仕事を再現したテストで判明",
-      "link": "https://gigazine.net/news/20261115-dayjob-tax/",
-      "date": "2026-11-15T10:00:00+09:00",
-      "dateLabel": "11/15 10:00",
-      "desc": "AIの性能評価を手がけるSurge AIは2026年10月27日、アメリカの税務相談や申告書の作成を題材にしたベンチマーク「DAYJOB: Tax」の結果を公開しました。 続きを読む...",
+      "title": "ジェンスン・フアン氏退任は「NVIDIAバブル崩壊」の序章か？ どうなる今後の半導体業界",
+      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003226/",
+      "date": "2026-11-16T18:05:36+09:00",
+      "dateLabel": "11/16 18:05",
+      "desc": "米NVIDIA創業者にして社長兼CEO兼会長だったジェンスン・フアン氏が同社を退任した。半導体業界や同社の事業への影響は。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "NVIDIA RTX Spark搭載！ イマドキのAIノートPCならレノボ「Yoga Pro 9n Gen 11」",
+      "link": "https://ascii.jp/elem/000/004/451/4451868/?rss",
+      "date": "2026-11-16T18:00:00+09:00",
+      "dateLabel": "11/16 18:00",
+      "desc": "ローカル環境でもっとAIを活用したい。そんな人にお勧めのマシンが、レノボのノートPC「Yoga Pro 9n Gen 11」だ。",
+      "img": "https://ascii.jp/img/2026/11/16/4552543/s/d5cdd92459302458.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -206,79 +217,68 @@
       "score": 28
     },
     {
-      "title": "刺しゅう機の専用アプリでサブスクが必要だったのでChatGPTを使ってサブスク不要のアプリを自作",
-      "link": "https://gigazine.net/news/20261116-embroidery-machine-need-subscription-built-app/",
-      "date": "2026-11-16T12:30:00+09:00",
-      "dateLabel": "11/16 12:30",
-      "desc": "Amazonで購入した300ドル(約4万8000円)の刺しゅう機の専用アプリに月額課金サービスが存在したため、料金を払う代わりにAIを用いてアプリを自作してしまった人が現れました。 続きを読む...",
+      "title": "マウスのクリエイター向けデスクトップが、セールで大幅値引きの「11万円オフ」に！",
+      "link": "https://ascii.jp/elem/000/004/451/4451842/?rss",
+      "date": "2026-11-16T21:00:00+09:00",
+      "dateLabel": "11/16 21:00",
+      "desc": "マウスコンピューターがハロウィンセールを実施中。4K動画編集にも使えるRTX 5070 Ti搭載デスクトップPC「DAIV FM-A9G7T」が、なんと11万円オフ！",
+      "img": "https://ascii.jp/img/2026/11/13/4551896/s/81b413a0b65f5619.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "「マジック：ザ・ギャザリング」のアニメシリーズ『PLANESWALKER』制作プレビュー映像公開、2027年にNetflixで配信へ",
+      "link": "https://gigazine.net/news/20261116-anime-mtg-planeswalker-sneak-peek/",
+      "date": "2026-11-16T19:10:00+09:00",
+      "dateLabel": "11/16 19:10",
+      "desc": "世界初のトレーディングカードゲームで最もよく遊ばれているトレーディングカードゲームでもある「マジック：ザ・ギャザリング(Magic: The Gathering)」を題材としたアニメシリーズ『PLANESWALKER』が2027年にNetflixで配信される予定であることが明らかになりました。YouTubeではスタッフ陣や関係者のコメント、イメージボードなど",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "11/30開催｜次世代モビリティの実証から省電⼒AI・宇宙研究の事業化までを識者が議論",
+      "link": "https://ascii.jp/elem/000/004/451/4451410/?rss",
+      "date": "2026-11-16T19:00:00+09:00",
+      "dateLabel": "11/16 19:00",
+      "desc": "2026年11月30日、東京・品川にてカンファレンスイベント「ASCII STARTUP TechDay 2026」が開催される。各セッションでは、次世代モビリティの地域実証、省電⼒AI・宇宙研究の事業化、知財・標準化、欧州展開をテーマに、研究者や起業家、⽀援の専⾨家が登壇。企業の新規事業・研究開発担当者や、技術の事業化を⽬指す来場者に向け、実証や事業連携を",
+      "img": "https://ascii.jp/img/2026/11/16/4552563/s/ef82adfef7462f83.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "ChatGPTのチャット内でクレカ決済できる「ChatGPT Wallet」が登場",
+      "link": "https://gigazine.net/news/20261116-chatgpt-wallet/",
+      "date": "2026-11-16T17:49:00+09:00",
+      "dateLabel": "11/16 17:49",
+      "desc": "ChatGPTに決済機能「ChatGPT Wallet」が追加されました。チャット内で商品選びから決済までを実行可能で、セキュリティも確保されています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 26
     },
     {
-      "title": "フリーランス市場、受注者の約8割がAIを利用 自発的に開示は1割弱、両者に意識差 IBMリサーチなど調査",
-      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003198/",
-      "date": "2026-11-16T12:00:00+09:00",
-      "dateLabel": "11/16 12:00",
-      "desc": "南カリフォルニア大学やIBMリサーチなどに所属する研究者らが「CHI ’26」で発表した論文「“Better Ask for Forgiveness than Permission”: Practices and Policies of AI Disclosure in Freelance Work」は、フリーランス市場において、ワーカー（受注者）とクライア",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "日本語でリアルタイム会話可能なAI「Haru-4B」がオープンモデルとして公開される、電話で話せるデモもあり",
-      "link": "https://gigazine.net/news/20261116-haru-4b-conversation-ai/",
-      "date": "2026-11-16T11:11:00+09:00",
-      "dateLabel": "11/16 11:11",
-      "desc": "日本の学生たちで構成されるAI開発企業のhigurashiがリアルタイム音声会話AI「Haru-4B」を公開しました。日本語での自然なやり取りが可能です。 続きを読む...",
+      "title": "Amazonが世界中のあらゆる商品情報を集約する「World Product Graph」計画を進めていることが判明、AIショッピングエージェントに対抗へ",
+      "link": "https://gigazine.net/news/20261116-amazon-world-product-graph/",
+      "date": "2026-11-16T15:27:00+09:00",
+      "dateLabel": "11/16 15:27",
+      "desc": "Amazonが自社で販売していない商品も含め、世界中の商品情報を集約する「World Product Graph」という計画を進めていることが、ロイターが入手した内部文書を基に報じています。商品検索の主導権を握ることで、Googleや他社のAIショッピングエージェントに対抗する狙いがあるとみられます。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AI全般",
+      "cat": "AIエージェント/業務",
       "score": 26
     },
     {
-      "title": "MSI社製、AIデスクトップスーパーコンピューター「EdgeXpert」の64GBメモリモデルの取り扱いを開始",
-      "link": "https://ascii.jp/elem/000/004/451/4451744/?rss",
-      "date": "2026-11-16T10:00:00+09:00",
-      "dateLabel": "11/16 10:00",
-      "desc": "MSI社製、AIデスクトップスーパーコンピューター「EdgeXpert」の64GBメモリモデルの取り扱いを開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "社内の文書と会議の記録を、AIで全社の資産に。Nishika、アポロと共催ウェビナーを12/16に開催",
-      "link": "https://ascii.jp/elem/000/004/451/4451741/?rss",
-      "date": "2026-11-16T10:00:00+09:00",
-      "dateLabel": "11/16 10:00",
-      "desc": "社内の文書と会議の記録を、AIで全社の資産に。Nishika、アポロと共催ウェビナーを12/16に開催",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "映像クリエイターとの共創プロジェクト「TRAILER PARK」に参画 ～シネマカメラ「EOS C50」を通じ自由な映像表現への挑戦をサポート～",
-      "link": "https://ascii.jp/elem/000/004/451/4451737/?rss",
-      "date": "2026-11-16T10:00:00+09:00",
-      "dateLabel": "11/16 10:00",
-      "desc": "映像クリエイターとの共創プロジェクト「TRAILER PARK」に参画 ～シネマカメラ「EOS C50」を通じ自由な映像表現への挑戦をサポート～",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "中小建設会社のAI導入を、現場からオフィスまで。リグテックが「I-connect」を建設DX展に出展",
-      "link": "https://ascii.jp/elem/000/004/451/4451731/?rss",
-      "date": "2026-11-16T10:00:00+09:00",
-      "dateLabel": "11/16 10:00",
-      "desc": "中小建設会社のAI導入を、現場からオフィスまで。リグテックが「I-connect」を建設DX展に出展",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
+      "title": "Googleの“人気AI講座”、先着1万人に無料提供 リスキリング推進団体",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003225/",
+      "date": "2026-11-16T15:17:41+09:00",
+      "dateLabel": "11/16 15:17",
+      "desc": "リスキリングを推進する団体の日本リスキリングコンソーシアムは、米GoogleのAI講座「Google AI プロフェッショナル認定証」を先着1万人に無料で提供すると発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "AI全般",
       "score": 26
     }
