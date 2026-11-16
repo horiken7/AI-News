@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-16T08:14:57.760557+09:00",
-  "generatedLabel": "2026/11/16 08:14",
+  "generatedAt": "2026-11-16T12:47:22.271166+09:00",
+  "generatedLabel": "2026/11/16 12:47",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 56,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,12 +13,12 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 18
+      "items": 19
     },
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 9
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 12
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,39 @@
   ],
   "articles": [
     {
+      "title": "OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」 カード番号は渡さず、購入ごとに生体認証",
+      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003208/",
+      "date": "2026-11-16T09:49:03+09:00",
+      "dateLabel": "11/16 09:49",
+      "desc": "OpenAIは、AIエージェント「dot」による決済機能「ChatGPT Wallet」を発表した。実際のカード情報を店舗に渡さず、購入ごとに生体認証を求める仕組みで安全性を確保する。米国のChatGPT Pro加入者向けに提供を開始した。将来は事前承認に基づく自律決済にも対応する計画。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "規制/安全",
+      "score": 58
+    },
+    {
+      "title": "エージェントが「安全に支払いを代行」する「ChatGPT Wallet」登場 OpenAIが決済大手と提携し開発 提供は米国から",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003211/",
+      "date": "2026-11-16T09:44:05+09:00",
+      "dateLabel": "11/16 09:44",
+      "desc": "OpenAIはエージェントがユーザーのカード情報にアクセスせずに支払いを代行する機能「ChatGPT Wallet」を発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 58
+    },
+    {
+      "title": "NVIDIA製半導体の中国への出荷疑惑があるMegaspeedが「法に基づいて適切に運営している」と声明を発表",
+      "link": "https://gigazine.net/news/20261116-megaspeed-says-alice-huang-left-in-2025/",
+      "date": "2026-11-16T11:23:00+09:00",
+      "dateLabel": "11/16 11:23",
+      "desc": "NVIDIAのCEOを辞任したジェンスン・フアン氏の不倫相手で、アメリカ当局に中国のスパイだと断定されたアリス・フアン氏について、所属先だったとみられるシンガポールのデータセンター企業・Megaspeedが「アリス・フアン氏は2025年8月に退職済み」と明らかにしました。また、NVIDIA製半導体を中国に出荷していた疑いがかけられていることに対して、「アメリ",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 50
+    },
+    {
       "title": "Google、高速で低価格の「Gemini 4 Hydrogen」発表 無料ユーザーも利用可能",
       "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003162/",
       "date": "2026-11-13T08:04:46+09:00",
@@ -72,17 +105,6 @@
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 44
-    },
-    {
-      "title": "ランニングをゲームにする新スポーツ。若年層の運動習慣をチーム力で支援",
-      "link": "https://ascii.jp/elem/000/004/451/4451196/?rss",
-      "date": "2026-11-16T07:00:00+09:00",
-      "dateLabel": "11/16 07:00",
-      "desc": "株式会社Saikouは11月12日、街中のチェックポイントを制限時間内にチームで巡って得点を競う都市型スポーツアプリ「ROUTELESS（ルートレス）」をApp Storeで公開したと発表した。",
-      "img": "https://ascii.jp/img/2026/11/13/4551438/s/6164a1be17ff46f7.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 42
     },
     {
       "title": "PostgreSQL 19リリース延期の背景。β4で多くの新機能取り下げが発生、原因はAIによるコードレビューか",
@@ -107,17 +129,6 @@
       "score": 42
     },
     {
-      "title": "AIは答えを出せても「聞くべきこと」を見落とすことが税務の仕事を再現したテストで判明",
-      "link": "https://gigazine.net/news/20261115-dayjob-tax/",
-      "date": "2026-11-15T10:00:00+09:00",
-      "dateLabel": "11/15 10:00",
-      "desc": "AIの性能評価を手がけるSurge AIは2026年10月27日、アメリカの税務相談や申告書の作成を題材にしたベンチマーク「DAYJOB: Tax」の結果を公開しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 42
-    },
-    {
       "title": "【追記あり】M365障害、ChatGPT／Claudeのコネクタにも影響 「ほとんどのリクエストで動作しない」",
       "link": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003164/",
       "date": "2026-11-14T20:35:45+09:00",
@@ -129,69 +140,47 @@
       "score": 42
     },
     {
-      "title": "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
-      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003139/",
-      "date": "2026-11-12T14:10:47+09:00",
-      "dateLabel": "11/12 14:10",
-      "desc": "米Amazon Web Services（AWS）は、Amazon EC2インスタンス上でほぼネイティブのEC2性能で動作しつつ、Nitroシステムハードウェアレベルのきわめて強力な隔離環境を備えた軽量な仮想マシン「AWS Nitro Sandbox」の提供開始を発表しました。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 36
-    },
-    {
-      "title": "AI関連の求人・応募はビジネス職で高い伸び／2026年度のIT投資インデックスが過去最高に／世界の中で“働く喜び”が低い日本、ほか",
-      "link": "https://ascii.jp/elem/000/004/451/4451603/?rss",
-      "date": "2026-11-16T08:00:00+09:00",
-      "dateLabel": "11/16 08:00",
-      "desc": "今回（2026年11月7日～11月13日）は、国内企業のIT投資意向指標が過去最高を更新、AI関連求人／応募はエンジニア職よりビジネス職で大きな伸び、サイバーフィジカルシステム（CPS）セキュリティ、IoT/OTセキュリティ運用監視サービス市場、27カ国調査で日本が最下位だった“働く喜び”についてのデータを紹介します。",
-      "img": "https://ascii.jp/img/2026/11/15/4552205/s/5a01b35c472b656a.jpg",
+      "title": "なぜGPUとTPUを混載するのか？ あえてCPUを外しFP8も捨てたWaymo独自プロセッサーの徹底した割り切り",
+      "link": "https://ascii.jp/elem/000/004/451/4451635/?rss",
+      "date": "2026-11-16T12:00:00+09:00",
+      "dateLabel": "11/16 12:00",
+      "desc": "前回はWaymoの基調講演の内容をお届けしたが、これに続いて行なわれたのがそのWaymoが自作したプロセッサ- の1つであるSFP(Sensor Fusion Processor)に関する講演である。今回はこの内容を解説したい。",
+      "img": "https://ascii.jp/img/2026/11/15/4552266/s/99cf1b98bad8563e.jpg",
       "src": "ASCII.jp",
-      "cat": "AI全般",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
-      "title": "AIの業務利用に伴う情報漏洩や不正操作を防ぐ、PC常駐型のAI向けセキュリティー製品",
-      "link": "https://ascii.jp/elem/000/004/451/4451151/?rss",
-      "date": "2026-11-16T07:00:00+09:00",
-      "dateLabel": "11/16 07:00",
-      "desc": "CoWorker株式会社は11月10日、PCやサーバーに導入してAI利用時のセキュリティリスクを低減する端末常駐型セキュリティー製品「CoWorker AI Harness」の提供を開始したと発表した。",
-      "img": "https://ascii.jp/img/2026/11/12/4551291/s/e14b9dab5b19fe09.jpg",
+      "title": "空気清浄機のようにCO₂を回収。「小型DAC」がオフィスビルにやってくる",
+      "link": "https://ascii.jp/elem/000/004/448/4448056/?rss",
+      "date": "2026-11-16T12:00:00+09:00",
+      "dateLabel": "11/16 12:00",
+      "desc": "脱炭素の取り組みが進む一方、AIデータセンターの拡大などで電力需要は増加している。排出削減だけではゼロにできないCO₂を、空気中から直接回収する技術「DAC」が注目されている。九州大学発のCarbon Xtractは、特殊な分離膜を使った小型DAC「m-DAC」を開発。オフィスビルなどに設置し、回収したCO₂を資源として利用する構想だ。",
+      "img": "https://ascii.jp/img/2026/11/04/4547371/s/c694d2eee428e80a.jpg",
       "src": "ASCII.jp",
-      "cat": "AI全般",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
-      "title": "My docomoで一部手続きは再開されるも、いまだ使えない手続きも ahamoユーザーにも影響あり",
-      "link": "https://ascii.jp/elem/000/004/451/4451626/?rss",
-      "date": "2026-11-15T15:00:00+09:00",
-      "dateLabel": "11/15 15:00",
-      "desc": "My docomoが不正アクセスにともない緊急メンテナンスに入ったが、安全性が確認された一部の手続きは再開。しかし、記事執筆時点でいまだ使えない手続きも存在している。",
-      "img": "https://ascii.jp/img/2026/11/15/4552213/s/f0ba00c77a045fca.png",
-      "src": "ASCII.jp",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "ゴムマリの専門業務AI-BPO、『月次決算チェック』を提供開始",
-      "link": "https://ascii.jp/elem/000/004/451/4451623/?rss",
-      "date": "2026-11-15T13:00:00+09:00",
-      "dateLabel": "11/15 13:00",
-      "desc": "ゴムマリの専門業務AI-BPO、『月次決算チェック』を提供開始",
+      "title": "ホームページまで手が回らない工務店へ。AIが更新を続ける「sawan WEB NEXT」、11月16日に提供開始",
+      "link": "https://ascii.jp/elem/000/004/451/4451730/?rss",
+      "date": "2026-11-16T10:00:00+09:00",
+      "dateLabel": "11/16 10:00",
+      "desc": "ホームページまで手が回らない工務店へ。AIが更新を続ける「sawan WEB NEXT」、11月16日に提供開始",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
+      "cat": "AI全般",
       "score": 34
     },
     {
-      "title": "中国AI企業は禁輸措置中でもNVIDIAのBlackwell世代AIチップを使って高性能AIを作っていた",
-      "link": "https://gigazine.net/news/20261113-china-ai-nvidia-blackwell-gpu/",
-      "date": "2026-11-13T20:23:00+09:00",
-      "dateLabel": "11/13 20:23",
-      "desc": "アメリカは高性能AIチップの中国への輸出を制限しており、中国も輸入を制限しています。しかし、AI研究組織のUnemployment Labsが複数の中国製AIモデルを分析した結果、制限対象GPUを用いて開発された痕跡が発見されました。 続きを読む...",
+      "title": "AIは答えを出せても「聞くべきこと」を見落とすことが税務の仕事を再現したテストで判明",
+      "link": "https://gigazine.net/news/20261115-dayjob-tax/",
+      "date": "2026-11-15T10:00:00+09:00",
+      "dateLabel": "11/15 10:00",
+      "desc": "AIの性能評価を手がけるSurge AIは2026年10月27日、アメリカの税務相談や申告書の作成を題材にしたベンチマーク「DAYJOB: Tax」の結果を公開しました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "半導体/GPU",
+      "cat": "AI全般",
       "score": 34
     },
     {
@@ -203,7 +192,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
+      "score": 28
     },
     {
       "title": "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
@@ -217,68 +206,79 @@
       "score": 28
     },
     {
-      "title": "10年間作れなかったアプリが、AIでわずか10日で完成して感動 好きなキャラが踊る3Dライブをついに実現",
-      "link": "https://ascii.jp/elem/000/004/451/4451644/?rss",
-      "date": "2026-11-16T07:10:00+09:00",
-      "dateLabel": "11/16 07:10",
-      "desc": "AIを使って、約10日で自作した3Dコンサートアプリ「百夜ステージ」を紹介。動画から抽出した1242個のモーションや自動演出、VRMモデルを組み合わせ、10年来の構想を実現した。",
-      "img": "https://ascii.jp/img/2026/11/16/4552330/s/2472bd0356d049b8.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "ライセンス更新を機に「脱マクロ」 オートバックスセブンがGeminiで目指す売上高5000億円",
-      "link": "https://kn.itmedia.co.jp/kn/article/2611/16/2000003181/",
-      "date": "2026-11-16T07:00:00+09:00",
-      "dateLabel": "11/16 07:00",
-      "desc": "オートバックスセブンは2032年度の売上高5000億円を目指してGoogle WorkspaceとGeminiを導入した。従来の表計算ソフトからの移行とAI活用の全社展開を図る。",
+      "title": "刺しゅう機の専用アプリでサブスクが必要だったのでChatGPTを使ってサブスク不要のアプリを自作",
+      "link": "https://gigazine.net/news/20261116-embroidery-machine-need-subscription-built-app/",
+      "date": "2026-11-16T12:30:00+09:00",
+      "dateLabel": "11/16 12:30",
+      "desc": "Amazonで購入した300ドル(約4万8000円)の刺しゅう機の専用アプリに月額課金サービスが存在したため、料金を払う代わりにAIを用いてアプリを自作してしまった人が現れました。 続きを読む...",
       "img": "",
-      "src": "ITmedia AI+",
+      "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 26
     },
     {
-      "title": "米国境の「見えない壁」、監視塔の範囲内で1050人以上が死亡",
-      "link": "https://ascii.jp/elem/000/004/451/4451645/?rss",
-      "date": "2026-11-16T06:29:45+09:00",
-      "dateLabel": "11/16 06:29",
-      "desc": "米国はこの25年、数十億ドルを投じて、メキシコとの国境沿いに監視塔やセンサーによる「見えない壁」を築いてきた。だが本誌などの調査で、2015年以降、監視塔の範囲内で1050人以上が死亡していたことが分かった。AI搭載の最新型の範囲内でも、110人以上が亡くなっている。",
-      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "title": "フリーランス市場、受注者の約8割がAIを利用 自発的に開示は1割弱、両者に意識差 IBMリサーチなど調査",
+      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003198/",
+      "date": "2026-11-16T12:00:00+09:00",
+      "dateLabel": "11/16 12:00",
+      "desc": "南カリフォルニア大学やIBMリサーチなどに所属する研究者らが「CHI ’26」で発表した論文「“Better Ask for Forgiveness than Permission”: Practices and Policies of AI Disclosure in Freelance Work」は、フリーランス市場において、ワーカー（受注者）とクライア",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "日本語でリアルタイム会話可能なAI「Haru-4B」がオープンモデルとして公開される、電話で話せるデモもあり",
+      "link": "https://gigazine.net/news/20261116-haru-4b-conversation-ai/",
+      "date": "2026-11-16T11:11:00+09:00",
+      "dateLabel": "11/16 11:11",
+      "desc": "日本の学生たちで構成されるAI開発企業のhigurashiがリアルタイム音声会話AI「Haru-4B」を公開しました。日本語での自然なやり取りが可能です。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "MSI社製、AIデスクトップスーパーコンピューター「EdgeXpert」の64GBメモリモデルの取り扱いを開始",
+      "link": "https://ascii.jp/elem/000/004/451/4451744/?rss",
+      "date": "2026-11-16T10:00:00+09:00",
+      "dateLabel": "11/16 10:00",
+      "desc": "MSI社製、AIデスクトップスーパーコンピューター「EdgeXpert」の64GBメモリモデルの取り扱いを開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "大量のMacBook Proでデータセンターを構築した企業が「なぜMacなのか」を解説",
-      "link": "https://gigazine.net/news/20261115-mac-datacenter-namespace/",
-      "date": "2026-11-15T23:20:00+09:00",
-      "dateLabel": "11/15 23:20",
-      "desc": "NamespaceはWindowsやmacOSの仮想環境をオンラインで提供している企業です。NamespaceはmacOS関連サービスを展開するために大量のMacBook Proを導入しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "最大7万円オフは見逃せない！ 大画面16型ノート「VAIO F16」が今ならお買い得",
-      "link": "https://ascii.jp/elem/000/004/451/4451634/?rss",
-      "date": "2026-11-15T20:00:00+09:00",
-      "dateLabel": "11/15 20:00",
-      "desc": "16.0型の大画面とインテル Coreプロセッサーを搭載した「VAIO F16」。充実したインターフェースや使いやすいキーボードも魅力。現在は最大7万円オフのキャンペーンを実施中。16万4700円から購入できる。",
-      "img": "https://ascii.jp/img/2026/11/15/4552234/s/9feb150a65166332.png",
+      "title": "社内の文書と会議の記録を、AIで全社の資産に。Nishika、アポロと共催ウェビナーを12/16に開催",
+      "link": "https://ascii.jp/elem/000/004/451/4451741/?rss",
+      "date": "2026-11-16T10:00:00+09:00",
+      "dateLabel": "11/16 10:00",
+      "desc": "社内の文書と会議の記録を、AIで全社の資産に。Nishika、アポロと共催ウェビナーを12/16に開催",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "AIノイズキャンセリング＆32bit float録音対応でE-Inkディスプレイ搭載のワイヤレスマイク「Insta360 Mic Pro」はどれほど高性能なのか実際に使ってみたよレビュー",
-      "link": "https://gigazine.net/news/20261115-insta360-mic-pro-usage/",
-      "date": "2026-11-15T18:00:00+09:00",
-      "dateLabel": "11/15 18:00",
-      "desc": "動画撮影で意外と難しいのが、周囲の雑音を抑えながらクリアな音声を録音することです。Insta360のワイヤレスマイク「Insta360 Mic Pro」は好きな画像やロゴを表示できるカラーE-Inkディスプレイが送信機に搭載されているのが特徴で、AIによるノイズキャンセリングや最大400mのワイヤレス伝送に対応し、32bit float内部録音によって大きな",
-      "img": "",
-      "src": "GIGAZINE",
+      "title": "映像クリエイターとの共創プロジェクト「TRAILER PARK」に参画 ～シネマカメラ「EOS C50」を通じ自由な映像表現への挑戦をサポート～",
+      "link": "https://ascii.jp/elem/000/004/451/4451737/?rss",
+      "date": "2026-11-16T10:00:00+09:00",
+      "dateLabel": "11/16 10:00",
+      "desc": "映像クリエイターとの共創プロジェクト「TRAILER PARK」に参画 ～シネマカメラ「EOS C50」を通じ自由な映像表現への挑戦をサポート～",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "中小建設会社のAI導入を、現場からオフィスまで。リグテックが「I-connect」を建設DX展に出展",
+      "link": "https://ascii.jp/elem/000/004/451/4451731/?rss",
+      "date": "2026-11-16T10:00:00+09:00",
+      "dateLabel": "11/16 10:00",
+      "desc": "中小建設会社のAI導入を、現場からオフィスまで。リグテックが「I-connect」を建設DX展に出展",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     }
