@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-17T22:58:16.397655+09:00",
-  "generatedLabel": "2026/11/17 22:58",
+  "generatedAt": "2026-11-18T07:00:40.447034+09:00",
+  "generatedLabel": "2026/11/18 07:00",
   "feedOk": 6,
   "feedNg": 5,
   "candidates": 53,
@@ -13,7 +13,7 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 20
+      "items": 19
     },
     {
       "source": "ASCII.jp",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 6
+      "items": 7
     },
     {
       "source": "AINOW",
@@ -71,17 +71,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 58
-    },
-    {
-      "title": "中国からアメリカ製AIサーバーへのリモートアクセスを制限する新規則をアメリカが策定、輸出規制を回避するクラウドレンタルの抜け穴に対抗",
-      "link": "https://gigazine.net/news/20261117-bis-issued-rule-cloud-access-from-china/",
-      "date": "2026-11-17T11:30:00+09:00",
-      "dateLabel": "11/17 11:30",
-      "desc": "アメリカ商務省の産業安全保障局(BIS)は2026年11月16日、中国などの企業が第三国のデータセンターを経由して高性能なAIチップを遠隔利用することを制限する新たな規則を発表しました。従来の半導体輸出規制ではカバーできなかったクラウド経由での計算資源の利用を規制することで、先端AI技術の流出を防ぐ狙いがあります。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
       "score": 58
     },
     {
@@ -129,6 +118,17 @@
       "score": 50
     },
     {
+      "title": "発表会速報!!＝手の上で育てるペットロボットや喋るホームコントローラーも＝SwitchBotの秋冬新製品",
+      "link": "https://ascii.jp/elem/000/004/452/4452460/?rss",
+      "date": "2026-11-18T02:00:00+09:00",
+      "dateLabel": "11/18 02:00",
+      "desc": "従来の家電操作や自動化に加え、AIロボティクス技術を融合させた新たな製品群を発表しました",
+      "img": "https://ascii.jp/img/2026/11/18/4553307/s/c4b67bf10b98c66f.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "ゲットワークス、デル・テクノロジーズの水冷B300GPUサーバー XE9780Lをコンテナ型データセンターへ導入。",
       "link": "https://ascii.jp/elem/000/004/452/4452455/?rss",
       "date": "2026-11-17T18:00:22+09:00",
@@ -160,6 +160,17 @@
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
       "score": 42
+    },
+    {
+      "title": "［速報］マイクロソフト、コーディング用AIモデルとして高性能かつ低価格「MAI Code 2」「MAI Code 2 Flash」発表",
+      "link": "https://www.publickey1.jp/blog/26/aimai_code_2mai_code_2_flash.html",
+      "date": "2026-11-18T06:48:15+09:00",
+      "dateLabel": "11/18 06:48",
+      "desc": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、同社が開発したコーディング用AIモデルのフラグシップで高性能かつ低価格を売り文句とする「MAI Code 2」と、さらに安価な「...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "VAIOって高級なノートPCのイメージあるけど、今ならVAIO T発売記念でめちゃお買い得なんです",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "Publickey",
       "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
-      "link": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
-      "date": "2026-11-16T00:30:19+09:00",
-      "dateLabel": "11/16 00:30",
-      "desc": "Cloudflareは、AIエージェントが操作することを想定した軽量のヘッドレスブラウザ「Kitesurf」をオープンソースで公開したと発表しました。 Kitesurf is now open source on GitHub under ...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
       "score": 34
     }
   ]
