@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-17T13:51:57.588641+09:00",
-  "generatedLabel": "2026/11/17 13:51",
+  "generatedAt": "2026-11-17T22:58:16.397655+09:00",
+  "generatedLabel": "2026/11/17 22:58",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 52,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -107,17 +107,6 @@
       "score": 50
     },
     {
-      "title": "「Gemini 4 Hydrogen」とは 性能とユースケースまとめ Googleの「誰でも使える」最新モデル",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003229/",
-      "date": "2026-11-16T16:17:48+09:00",
-      "dateLabel": "11/16 16:17",
-      "desc": "Googleは新AIモデル「Gemini 4 Hydrogen」を発表。「最先端モデルを誰にでも」とし、低コストで日々の作業をサポートするとしている。その概要と性能、使い道、料金をまとめる。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
       "title": "OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」 カード番号は渡さず、購入ごとに生体認証",
       "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003208/",
       "date": "2026-11-16T09:49:03+09:00",
@@ -140,6 +129,17 @@
       "score": 50
     },
     {
+      "title": "ゲットワークス、デル・テクノロジーズの水冷B300GPUサーバー XE9780Lをコンテナ型データセンターへ導入。",
+      "link": "https://ascii.jp/elem/000/004/452/4452455/?rss",
+      "date": "2026-11-17T18:00:22+09:00",
+      "dateLabel": "11/17 18:00",
+      "desc": "ゲットワークス、デル・テクノロジーズの水冷B300GPUサーバー XE9780Lをコンテナ型データセンターへ導入。",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
       "title": "規制の厳しい業界でAIエージェントをどう導入する？ MicrosoftとIBMが発表した基盤「3つの特徴」",
       "link": "https://www.itmedia.co.jp/enterprise/articles/2611/17/news015.html",
       "date": "2026-11-17T11:30:00+09:00",
@@ -151,26 +151,59 @@
       "score": 42
     },
     {
-      "title": "NVIDIA、フアン氏辞任後初の決算へ 新CEOの業績見通しに注目",
-      "link": "https://ascii.jp/elem/000/004/452/4452086/?rss",
-      "date": "2026-11-17T11:00:00+09:00",
-      "dateLabel": "11/17 11:00",
-      "desc": "米NVIDIAは日本時間11月18日午前6時20分ごろ、2027年1月期第3四半期の決算を発表する。",
-      "img": "https://ascii.jp/img/2026/11/17/4552887/s/6810b64e1e09c2ad.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
+      "title": "「Gemini 4 Hydrogen」とは 性能とユースケースまとめ Googleの「誰でも使える」最新モデル",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003229/",
+      "date": "2026-11-16T16:17:48+09:00",
+      "dateLabel": "11/16 16:17",
+      "desc": "Googleは新AIモデル「Gemini 4 Hydrogen」を発表。「最先端モデルを誰にでも」とし、低コストで日々の作業をサポートするとしている。その概要と性能、使い道、料金をまとめる。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
       "score": 42
     },
     {
-      "title": "ClaudeとCodexで32年落ちのジープをリバースエンジニアリングして修理",
-      "link": "https://gigazine.net/news/20261116-claude-codex-controll-jeep/",
-      "date": "2026-11-16T21:00:00+09:00",
-      "dateLabel": "11/16 21:00",
-      "desc": "排ガス規制に適合させるため、Claude CodeとOpenAI Codexで車を修理したという人が詳細を報告しました。 続きを読む...",
+      "title": "VAIOって高級なノートPCのイメージあるけど、今ならVAIO T発売記念でめちゃお買い得なんです",
+      "link": "https://ascii.jp/elem/000/004/451/4451839/?rss",
+      "date": "2026-11-17T21:00:00+09:00",
+      "dateLabel": "11/17 21:00",
+      "desc": "VAIO直販に注目。「VAIO T ;Copilot+ PC」が「発売記念特別価格」として、3万3000円の値引きが適用され、34万1000円で購入できる。",
+      "img": "https://ascii.jp/img/2026/11/13/4551915/s/1324b55423732982.png",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "MUFG、松尾豊教授ら設立のAIスタートアップと提携 「遍在型AGI」活用へ",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/17/2000003260/",
+      "date": "2026-11-17T18:00:00+09:00",
+      "dateLabel": "11/17 18:00",
+      "desc": "三菱UFJフィナンシャル・グループ（以下、MUFG）と傘下の三菱UFJ銀行は、AI研究で知られる東京大学の松尾豊教授らが設立したAIスタートアップThird Intelligence（東京都千代田区）と、AIの社会実装を手掛ける松尾研究所（東京都文京区）とのパートナーシップ契約を締結したと発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI実装",
+      "score": 34
+    },
+    {
+      "title": "人型ロボットに人間の動きを学習させるためのAI「GR00T 2」をNVIDIAが発表、数回のお手本からタスクを学べる",
+      "link": "https://gigazine.net/news/20261117-nvidia-robot-gr00t-2/",
+      "date": "2026-11-17T17:54:00+09:00",
+      "dateLabel": "11/17 17:54",
+      "desc": "NVIDIAがロボットを操作するための世界行動モデル「GR00T 2」を発表しました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 42
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "Windows 11がClaude CodeやCodexなどの使用状況を収集してMicrosoftに送信していることが判明",
+      "link": "https://gigazine.net/news/20261117-windows-coding-agent-telemetry/",
+      "date": "2026-11-17T16:45:00+09:00",
+      "dateLabel": "11/17 16:45",
+      "desc": "Windows 11が「Claude Code」や「Codex」などのAIコーディングエージェントや開発者向けツールの使用状況を記録し、Microsoftへの送信対象となる診断データに含めていることが明らかになりました。Windows 11の内部動作を調査した開発者のシュシェン・リー氏が2026年11月16日に報告しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "OpenAIによるHugging Faceハッキング事件でカリフォルニア州司法長官がOpenAIを提訴",
@@ -206,39 +239,6 @@
       "score": 34
     },
     {
-      "title": "ゴムマリの専門業務AI-BPO、『マスタクレンジング』を提供開始",
-      "link": "https://ascii.jp/elem/000/004/452/4452191/?rss",
-      "date": "2026-11-17T11:00:00+09:00",
-      "dateLabel": "11/17 11:00",
-      "desc": "ゴムマリの専門業務AI-BPO、『マスタクレンジング』を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "脱獄したPlayStation 4で90億パラメーターのAIモデルを毎秒最大43トークンで動作させる「Garlic LLM」が登場",
-      "link": "https://gigazine.net/news/20261117-playstation-4-garlic-llm/",
-      "date": "2026-11-17T10:49:00+09:00",
-      "dateLabel": "11/17 10:49",
-      "desc": "2013年に発売されたソニーの家庭用ゲーム機「PlayStation 4(PS4)」で90億パラメーターの大規模言語モデルをローカル実行できるオープンソースのアプリ「Garlic LLM」が登場しました。PS4に搭載されたGPUを直接操作することで毎秒最大43トークンの生成速度を実現しており、インターネット接続なしでAIとのチャットや音声会話が可能です。 続",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "画像や音声も処理できる意思決定モデル「d1.2」「d1.2-ultra」が登場",
-      "link": "https://gigazine.net/news/20261117-liquid-ai-decision-model-omnimodal/",
-      "date": "2026-11-17T10:47:00+09:00",
-      "dateLabel": "11/17 10:47",
-      "desc": "AI企業のLiquid AIがマルチモーダル意思決定モデル「d1.2」と「d1.2-ultra」を現地時間の2026年11月16日にリリースしました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
       "title": "ジェンスン・フアン氏復帰を求める公開書簡に18万人以上が署名 現役従業員9000人に加えてイーロン・マスク氏らも賛同",
       "link": "https://www.itmedia.co.jp/aiplus/article/2611/17/2000003249/",
       "date": "2026-11-17T09:52:22+09:00",
@@ -261,25 +261,25 @@
       "score": 34
     },
     {
-      "title": "無料で高校1年生(数学IA履修程度)を対象に大規模言語モデル(LLM)・GPTの仕組みを数学とプログラミングの初歩から順番に作って学ぶ教材「microgpt-lesson」、Google Colabで動作",
-      "link": "https://gigazine.net/news/20261116-microgpt-lesson/",
-      "date": "2026-11-16T23:00:00+09:00",
-      "dateLabel": "11/16 23:00",
-      "desc": "ChatGPTなどのAIは文章を作成したり質問に回答したりできますが、その内部でどのような計算が行われているのかを理解するには数学やプログラミングの知識が必要です。そんな大規模言語モデル(LLM)の仕組みを高校1年生向けの数学から順番に学び、Google Colab上で実際に小さなGPTを作ることができる無料教材「microgpt-lesson」です。 続き",
+      "title": "PostgreSQL 19リリース延期の背景。β4で多くの新機能取り下げが発生、原因はAIによるコードレビューか",
+      "link": "https://www.publickey1.jp/blog/26/postgresql_194ai.html",
+      "date": "2026-11-16T00:31:49+09:00",
+      "dateLabel": "11/16 00:31",
+      "desc": "オープンソースのリレーショナルデータベース「PostgreSQL」は、先週木曜日（2026年11月12日）に最終リリース候補版となるPostgreSQL 19 RC2が公開され、予定では今週の11月19日に正式リリースとなる見通しです。 そ...",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
+      "src": "Publickey",
+      "cat": "AI全般",
       "score": 34
     },
     {
-      "title": "ジェンスン・フアン氏退任は「NVIDIAバブル崩壊」の序章か？ どうなる今後の半導体業界",
-      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003226/",
-      "date": "2026-11-16T18:05:36+09:00",
-      "dateLabel": "11/16 18:05",
-      "desc": "米NVIDIA創業者にして社長兼CEO兼会長だったジェンスン・フアン氏が同社を退任した。半導体業界や同社の事業への影響は。",
+      "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
+      "link": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
+      "date": "2026-11-16T00:30:19+09:00",
+      "dateLabel": "11/16 00:30",
+      "desc": "Cloudflareは、AIエージェントが操作することを想定した軽量のヘッドレスブラウザ「Kitesurf」をオープンソースで公開したと発表しました。 Kitesurf is now open source on GitHub under ...",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
       "score": 34
     }
   ]
