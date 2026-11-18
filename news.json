@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-18T21:32:14.757363+09:00",
-  "generatedLabel": "2026/11/18 21:32",
+  "generatedAt": "2026-11-19T05:58:53.833697+09:00",
+  "generatedLabel": "2026/11/19 05:58",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 52,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 2
     },
     {
       "source": "PC Watch",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 7
+      "items": 9
     },
     {
       "source": "AINOW",
@@ -118,6 +118,28 @@
       "score": 50
     },
     {
+      "title": "Windows Server 2028がパブリックプレビュー公開。Microsoft FoundryなどAIによる推論の実行基盤へと拡張",
+      "link": "https://www.publickey1.jp/blog/26/windows_server_2028microsoft_foundryai.html",
+      "date": "2026-11-19T00:55:49+09:00",
+      "dateLabel": "11/19 00:55",
+      "desc": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、次期サーバ向けOSとなるWindows Server 2028のパブリックプレビュー公開を発表しました。 企業内のAI推論基盤へ...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AI全般",
+      "score": 42
+    },
+    {
+      "title": "孫正義氏が明かす、アンソロピック出資見送りの舞台裏 「僕の失敗」「あん時入れときゃよかった」",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/18/news086.html",
+      "date": "2026-11-18T22:03:00+09:00",
+      "dateLabel": "11/18 22:03",
+      "desc": "ソフトバンクグループの孫正義会長兼社長は、日経主催イベントの対談で米Anthropicへの出資を見送ったことについて「僕の失敗の例の一つ」と明かした。同社のダリオ・アモデイCEOと直接面会し、その凄さを認めながらも、なぜ投資に踏み切らなかったのか。すでに動き出していた米OpenAIへの集中投資と、出資先の企業同士のつながりを創出する「群戦略」におけるパートナ",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "NVIDIAのコレット・クレス暫定CEOが中国向けのH200販売終了を発表",
       "link": "https://gigazine.net/news/20261118-nvidia-ends-to-sell-chip-to-china/",
       "date": "2026-11-18T12:14:00+09:00",
@@ -151,6 +173,39 @@
       "score": 42
     },
     {
+      "title": "マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始",
+      "link": "https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html",
+      "date": "2026-11-19T01:00:37+09:00",
+      "dateLabel": "11/19 01:00",
+      "desc": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "マイクロソフト、AIが生成したアプリを企業内で安全に実行するランタイム「Copilot Managed Runtime」正式リリース",
+      "link": "https://www.publickey1.jp/blog/26/aicopilot_managed_runtime.html",
+      "date": "2026-11-19T00:58:32+09:00",
+      "dateLabel": "11/19 00:58",
+      "desc": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIが生成したアプリなどを企業内で安全に実行するための基盤となる「Copilot Managed Runtime」の正式リリース...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "無料でIntel・AMD・NVIDIAのGPUを使ってQwen3.8-Flash-Nextをローカルで動かせる「XeStrata」",
+      "link": "https://gigazine.net/news/20261118-xestrata/",
+      "date": "2026-11-18T23:00:00+09:00",
+      "dateLabel": "11/18 23:00",
+      "desc": "1250億パラメーターのAIモデル「Qwen3.8-Flash-Next」を一般的なPCで動作させるソフトウェアの「Strata」をベースにGPUの計算処理をオープンな標準規格「SYCL」で書き直すことでIntel製GPUにも対応し、Intel・AMD・NVIDIA製のGPUを共通のコードで扱えるようにした無料のオープンソースソフトウェアが「XeStrata",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
       "title": "Claude Codeチームは検証についてどのように考えて実行しているのか、エンドツーエンドテスト・プロパティテスト・差分テストで証拠に基づいて自身の作業を検証する方法",
       "link": "https://gigazine.net/news/20261118-claude-code-test-code-review/",
       "date": "2026-11-18T21:00:00+09:00",
@@ -159,17 +214,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "SamuraiAX、ヤマト運輸「ビジネスメンバーズ」の運賃と請求金額をAIから取得できるAPI連携をリリース（Samurai App）",
-      "link": "https://ascii.jp/elem/000/004/452/4452926/?rss",
-      "date": "2026-11-18T18:00:00+09:00",
-      "dateLabel": "11/18 18:00",
-      "desc": "SamuraiAX、ヤマト運輸「ビジネスメンバーズ」の運賃と請求金額をAIから取得できるAPI連携をリリース（Samurai App）",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -236,51 +280,7 @@
       "img": "",
       "src": "Publickey",
       "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
-      "link": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
-      "date": "2026-11-16T00:30:19+09:00",
-      "dateLabel": "11/16 00:30",
-      "desc": "Cloudflareは、AIエージェントが操作することを想定した軽量のヘッドレスブラウザ「Kitesurf」をオープンソースで公開したと発表しました。 Kitesurf is now open source on GitHub under ...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
-      "link": "https://www.publickey1.jp/blog/26/awsaiec2vmaws_nitro_sandboxes.html",
-      "date": "2026-11-12T00:04:47+09:00",
-      "dateLabel": "11/12 00:04",
-      "desc": "Amazon Web Services（AWS）は、Amazon EC2インスタンス上でほぼネイティブのEC2性能で動作しつつ、Nitroシステムハードウェアレベルのきわめて強力な隔離環境を備えた軽量な仮想マシン「AWS Nitro San...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
       "score": 28
-    },
-    {
-      "title": "Google検索の「AIによる概要」のせいで外部ウェブサイトのクリック率が約40％減少、サイト運営者はどうするべきか？",
-      "link": "https://gigazine.net/news/20261118-google-ai-overviews-cut-clicks-websites/",
-      "date": "2026-11-18T19:00:00+09:00",
-      "dateLabel": "11/18 19:00",
-      "desc": "Googleで何らかの検索をした際、検索結果の一番上に「AIによる概要」が表示されることがよくあります。検索結果画面にAIによる概要が表示されると、外部ウェブサイトのクリック率が約40％減少するという研究結果も発表されており、ウェブサイト向けの収益分析ツールを提供するRevScopeが現状や対策まとめています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "ボイットのAI搭載インカム「VOYT CONNECT」が「第19回ASPIC AI・クラウドアワード2026」でベンチャーグランプリを受賞",
-      "link": "https://ascii.jp/elem/000/004/452/4452941/?rss",
-      "date": "2026-11-18T18:43:00+09:00",
-      "dateLabel": "11/18 18:43",
-      "desc": "ボイットのAI搭載インカム「VOYT CONNECT」が「第19回ASPIC AI・クラウドアワード2026」でベンチャーグランプリを受賞",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
     }
   ]
 }
