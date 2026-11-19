@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-19T19:54:25.537400+09:00",
-  "generatedLabel": "2026/11/19 19:54",
+  "generatedAt": "2026-11-20T04:15:22.469657+09:00",
+  "generatedLabel": "2026/11/20 04:15",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 62,
+  "candidates": 63,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 17
+      "items": 18
     },
     {
       "source": "CNET Japan",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 9
+      "items": 10
     },
     {
       "source": "AINOW",
@@ -85,6 +85,17 @@
       "score": 58
     },
     {
+      "title": "各AIモデルに最適なハーネスはどれか？",
+      "link": "https://gigazine.net/news/20261119-frontierharness-eval/",
+      "date": "2026-11-19T20:00:00+09:00",
+      "dateLabel": "11/19 20:00",
+      "desc": "AIエージェントの実行基盤を開発するRuntaが、AIコーディングエージェントのハーネス22構成とAIモデル5種類を組み合わせて性能を検証したベンチマーク「FrontierHarness Eval v1.1」を合計2万7280回試行した結果を公開しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
       "title": "OpenAIがAIを用いてAMD製GPUや独自開発AIチップの改善に成功、半導体設計の専用AIモデルも開発",
       "link": "https://gigazine.net/news/20261119-openai-jalapeno-amd-advancing-chip/",
       "date": "2026-11-19T16:58:00+09:00",
@@ -118,6 +129,28 @@
       "score": 50
     },
     {
+      "title": "マイクロソフト、クラウドやオンプレミスのデータベースを一元管理する「Database Hub」正式リリース。AIエージェントによる運用監視の自動化も",
+      "link": "https://www.publickey1.jp/blog/26/database_hubai.html",
+      "date": "2026-11-20T00:19:21+09:00",
+      "dateLabel": "11/20 00:19",
+      "desc": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、Microsoft Azureやオンプレミス、他社クラウドにあるデータベースなど、管理者が権限を持つデータベースを自動的に一覧表...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "【クーポン利用で43％OFF】RebotAi 12インチタブレットが27,662円！2.5K高精細・90Hz・Android 16＋Gemini AI搭載、IP54防塵・防水対応の高性能モデル",
+      "link": "https://ascii.jp/elem/000/004/453/4453385/?rss",
+      "date": "2026-11-19T18:00:00+09:00",
+      "dateLabel": "11/19 18:00",
+      "desc": "【クーポン利用で43％OFF】RebotAi 12インチタブレットが27,662円！2.5K高精細・90Hz・Android 16＋Gemini AI搭載、IP54防塵・防水対応の高性能モデル",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
       "title": "AIモデルとAIエージェントをつなぐ「APIルーター」に注意？ 428件を調べてわかった乗っ取り手口 暗号資産を盗む例も",
       "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003310/",
       "date": "2026-11-19T12:00:00+09:00",
@@ -140,26 +173,15 @@
       "score": 42
     },
     {
-      "title": "Windows Server 2028がパブリックプレビュー公開。Microsoft FoundryなどAIによる推論の実行基盤へと拡張",
-      "link": "https://www.publickey1.jp/blog/26/windows_server_2028microsoft_foundryai.html",
-      "date": "2026-11-19T00:55:49+09:00",
-      "dateLabel": "11/19 00:55",
-      "desc": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、次期サーバ向けOSとなるWindows Server 2028のパブリックプレビュー公開を発表しました。 企業内のAI推論基盤へ...",
+      "title": "NVIDIAがジェンスン・フアンの不倫相手が幹部を務めるシンガポール企業との取引を停止したのち急成長を続けていたシンガポール事業の売上高を公表しなくなる",
+      "link": "https://gigazine.net/news/20261119-nvidia-stop-disclosing-singapore-sales/",
+      "date": "2026-11-19T22:00:00+09:00",
+      "dateLabel": "11/19 22:00",
+      "desc": "半導体大手のNVIDIAが、シンガポール事業の売上高を公表しなくなりました。これについて、経済メディアのFinancial Timesやウォール・ストリート・ジャーナルが報じています。 続きを読む...",
       "img": "",
-      "src": "Publickey",
-      "cat": "AI全般",
-      "score": 42
-    },
-    {
-      "title": "孫正義氏が明かす、アンソロピック出資見送りの舞台裏 「僕の失敗」「あん時入れときゃよかった」",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/18/news086.html",
-      "date": "2026-11-18T22:03:00+09:00",
-      "dateLabel": "11/18 22:03",
-      "desc": "ソフトバンクグループの孫正義会長兼社長は、日経主催イベントの対談で米Anthropicへの出資を見送ったことについて「僕の失敗の例の一つ」と明かした。同社のダリオ・アモデイCEOと直接面会し、その凄さを認めながらも、なぜ投資に踏み切らなかったのか。すでに動き出していた米OpenAIへの集中投資と、出資先の企業同士のつながりを創出する「群戦略」におけるパートナ",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
     },
     {
       "title": "【KOTONOHA】新シリーズ発表：自社専用の“AI社員”を構築できる国産の完全隔離型プライベートAI基盤",
@@ -202,17 +224,6 @@
       "desc": "さくらインターネットが、生成AI向け推論API基盤「さくらのAI Engine」で、AIモデル「GLM-5.3-Flash」および「DeepSeek-V4.1-Flash-1017」の試験提供を始めた。1カ月あたり3000リクエストまで無料で使える。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "EpicAI、AIのセキュリティ分野日本語LLMのプロンプトインジェクション防御研究で「人工知能学会全国大会優秀賞」を受賞",
-      "link": "https://ascii.jp/elem/000/004/453/4453307/?rss",
-      "date": "2026-11-19T16:40:00+09:00",
-      "dateLabel": "11/19 16:40",
-      "desc": "EpicAI、AIのセキュリティ分野日本語LLMのプロンプトインジェクション防御研究で「人工知能学会全国大会優秀賞」を受賞",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
       "cat": "LLM/モデル",
       "score": 34
     },
@@ -269,17 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "日本の音声AIスタートアップに159億円 ElevenLabsはなぜ、社員15人のKotobaを買収するのか",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003306/",
-      "date": "2026-11-19T07:55:00+09:00",
-      "dateLabel": "11/19 07:55",
-      "desc": "AI音声サービスを手掛ける米ElevenLabsは、音声AIスタートアップの米Kotoba Technologiesを買収すると発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
       "score": 34
     }
   ]
