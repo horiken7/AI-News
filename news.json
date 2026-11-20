@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-20T18:24:36.428215+09:00",
-  "generatedLabel": "2026/11/20 18:24",
+  "generatedAt": "2026-11-21T03:07:52.203136+09:00",
+  "generatedLabel": "2026/11/21 03:07",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 60,
+  "candidates": 63,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 9
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 16
+      "items": 14
     },
     {
       "source": "CNET Japan",
@@ -107,15 +107,37 @@
       "score": 50
     },
     {
-      "title": "各AIモデルに最適なハーネスはどれか？",
-      "link": "https://gigazine.net/news/20261119-frontierharness-eval/",
-      "date": "2026-11-19T20:00:00+09:00",
-      "dateLabel": "11/19 20:00",
-      "desc": "AIエージェントの実行基盤を開発するRuntaが、AIコーディングエージェントのハーネス22構成とAIモデル5種類を組み合わせて性能を検証したベンチマーク「FrontierHarness Eval v1.1」を合計2万7280回試行した結果を公開しました。 続きを読む...",
+      "title": "RTX Spark搭載ノートPCで画像生成AIや動画生成AIのローカル実行速度を検証した結果が公開される",
+      "link": "https://gigazine.net/news/20261120-rtx-spark-image-video-generation/",
+      "date": "2026-11-20T21:00:00+09:00",
+      "dateLabel": "11/20 21:00",
+      "desc": "RTX SparkはNVIDIAが開発したSoCで、RTX Sparkを搭載したノートPCやミニPCは大規模言語モデルやコンテンツ生成モデルをローカルで実行することができます。そんなRTX Spark搭載ノートPCで画像生成AIや動画生成AIを実行して速度を検証した結果をテクノロジーメディアのLTT Labsが公開しています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "AIが追加学習なしで自らのウェイトを書き換えて「自分自身を賢くする」ことに成功",
+      "link": "https://gigazine.net/news/20261120-large-language-model-can-rewrite-itself/",
+      "date": "2026-11-20T19:00:00+09:00",
+      "dateLabel": "11/20 19:00",
+      "desc": "大規模言語モデル(LLM)は通常、学習が完了すると内部のウェイト(重み)が固定され、性能を向上させるには追加学習などが必要になります。こうした従来の仕組みとは異なり、AIが自分自身のウェイトを分析して書き換え、性能を向上させられることを示した研究論文が発表されました。研究チームは、この成果がAIによる「再帰的自己改善」の実現につながる可能性があるとしています",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 42
+    },
+    {
+      "title": "会話の内容の文字起こしやAIエージェントでのタスク割り当てができる、Mac版とWindows版の「Vocciデスクトップアプリ」を公開",
+      "link": "https://ascii.jp/elem/000/004/453/4453804/?rss",
+      "date": "2026-11-20T18:00:00+09:00",
+      "dateLabel": "11/20 18:00",
+      "desc": "会話の内容の文字起こしやAIエージェントでのタスク割り当てができる、Mac版とWindows版の「Vocciデスクトップアプリ」を公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
-      "score": 50
+      "score": 42
     },
     {
       "title": "Microsoft、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始",
@@ -162,15 +184,37 @@
       "score": 42
     },
     {
-      "title": "マイクロソフト、クラウドやオンプレミスのデータベースを一元管理する「Database Hub」正式リリース。AIエージェントによる運用監視の自動化も",
-      "link": "https://www.publickey1.jp/blog/26/database_hubai.html",
-      "date": "2026-11-20T00:19:21+09:00",
-      "dateLabel": "11/20 00:19",
-      "desc": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、Microsoft Azureやオンプレミス、他社クラウドにあるデータベースなど、管理者が権限を持つデータベースを自動的に一覧表...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 42
+      "title": "1kg切ってるのに、18コア!? ASUS「Zenbook SORA」が5万円引き、29万9800円",
+      "link": "https://ascii.jp/elem/000/004/452/4452979/?rss",
+      "date": "2026-11-20T22:30:00+09:00",
+      "dateLabel": "11/20 22:30",
+      "desc": "ASUSのノートPC「Zenbook SORA UX3407NA」がAmazonでタイムセール対象。参考価格349,800円から14％オフの299,800円で販売中。約990gの軽量ボディーに18コアのSnapdragon X2 Elite、32GBメモリ、1TB SSDを搭載。14型有機ELディスプレーやMicrosoft 365 Personal 24カ",
+      "img": "https://ascii.jp/img/2026/11/19/4554094/s/dc02518099eee0bc.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "株式会社Co-Labo AI、生成AIに会社の言葉を教える「オントロジー」の製造業向け解説を公開",
+      "link": "https://ascii.jp/elem/000/004/453/4453799/?rss",
+      "date": "2026-11-20T18:10:00+09:00",
+      "dateLabel": "11/20 18:10",
+      "desc": "株式会社Co-Labo AI、生成AIに会社の言葉を教える「オントロジー」の製造業向け解説を公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 34
+    },
+    {
+      "title": "株式会社Rabbitly、株式会社Smile IP Consultingが2026年11月16日に公開した、AI時代の知財基盤『SINGULON』のシステム開発を担当！",
+      "link": "https://ascii.jp/elem/000/004/453/4453792/?rss",
+      "date": "2026-11-20T18:06:23+09:00",
+      "dateLabel": "11/20 18:06",
+      "desc": "株式会社Rabbitly、株式会社Smile IP Consultingが2026年11月16日に公開した、AI時代の知財基盤『SINGULON』のシステム開発を担当！",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
     },
     {
       "title": "「Muse」専用メアド、無料で作成可能に AIが送受信を代理",
@@ -180,17 +224,6 @@
       "desc": "米Metaは、AIエージェント「Muse」専用のメールアドレスについて、無料ユーザーを含む全ユーザーが取得できるようになったと発表した。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Nyx Foundation、ビットバンクとAIエージェントによる暗号資産取引の信頼性向上に向けた共同研究契約を締結",
-      "link": "https://ascii.jp/elem/000/004/453/4453719/?rss",
-      "date": "2026-11-20T16:10:00+09:00",
-      "dateLabel": "11/20 16:10",
-      "desc": "Nyx Foundation、ビットバンクとAIエージェントによる暗号資産取引の信頼性向上に向けた共同研究契約を締結",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
       "score": 34
     },
@@ -217,24 +250,13 @@
       "score": 34
     },
     {
-      "title": "NVIDIAがジェンスン・フアンの不倫相手が幹部を務めるシンガポール企業との取引を停止したのち急成長を続けていたシンガポール事業の売上高を公表しなくなる",
-      "link": "https://gigazine.net/news/20261119-nvidia-stop-disclosing-singapore-sales/",
-      "date": "2026-11-19T22:00:00+09:00",
-      "dateLabel": "11/19 22:00",
-      "desc": "半導体大手のNVIDIAが、シンガポール事業の売上高を公表しなくなりました。これについて、経済メディアのFinancial Timesやウォール・ストリート・ジャーナルが報じています。 続きを読む...",
+      "title": "マイクロソフト、クラウドやオンプレミスのデータベースを一元管理する「Database Hub」正式リリース。AIエージェントによる運用監視の自動化も",
+      "link": "https://www.publickey1.jp/blog/26/database_hubai.html",
+      "date": "2026-11-20T00:19:21+09:00",
+      "dateLabel": "11/20 00:19",
+      "desc": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、Microsoft Azureやオンプレミス、他社クラウドにあるデータベースなど、管理者が権限を持つデータベースを自動的に一覧表...",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "AIモデルとAIエージェントをつなぐ「APIルーター」に注意？ 428件を調べてわかった乗っ取り手口 暗号資産を盗む例も",
-      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003310/",
-      "date": "2026-11-19T12:00:00+09:00",
-      "dateLabel": "11/19 12:00",
-      "desc": "米カリフォルニア大学サンタバーバラ校（UCSB）などに所属する研究者らが発表した論文「Your Agent Is Mine: Measuring Malicious Intermediary Attacks on the LLM Supply Chain」は、AIエージェントと外部のAIモデルを仲介する「APIルーター」に潜む危険性を調査した研究報告だ。",
-      "img": "",
-      "src": "ITmedia AI+",
+      "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 34
     },
@@ -259,28 +281,6 @@
       "src": "Publickey",
       "cat": "AI全般",
       "score": 28
-    },
-    {
-      "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
-      "link": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
-      "date": "2026-11-16T00:30:19+09:00",
-      "dateLabel": "11/16 00:30",
-      "desc": "Cloudflareは、AIエージェントが操作することを想定した軽量のヘッドレスブラウザ「Kitesurf」をオープンソースで公開したと発表しました。 Kitesurf is now open source on GitHub under ...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 28
-    },
-    {
-      "title": "プリペアード 評判が高いAI通話録音・自動要約サービス「RecACE plus」、カスハラ対応にも活用できるモデルケース企業を兵庫県で初募集",
-      "link": "https://ascii.jp/elem/000/004/453/4453717/?rss",
-      "date": "2026-11-20T17:30:00+09:00",
-      "dateLabel": "11/20 17:30",
-      "desc": "プリペアード 評判が高いAI通話録音・自動要約サービス「RecACE plus」、カスハラ対応にも活用できるモデルケース企業を兵庫県で初募集",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
     }
   ]
 }
