@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-20T04:15:22.469657+09:00",
-  "generatedLabel": "2026/11/20 04:15",
+  "generatedAt": "2026-11-20T10:30:32.865086+09:00",
+  "generatedLabel": "2026/11/20 10:30",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 63,
+  "candidates": 62,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -13,7 +13,7 @@
     {
       "source": "ITmedia AI+",
       "ok": true,
-      "items": 19
+      "items": 20
     },
     {
       "source": "ASCII.jp",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 18
+      "items": 16
     },
     {
       "source": "CNET Japan",
@@ -62,6 +62,17 @@
     }
   ],
   "articles": [
+    {
+      "title": "セキュリティー担当者ごとに専用AIエージェントを構築・連携できる機能",
+      "link": "https://ascii.jp/elem/000/004/453/4453373/?rss",
+      "date": "2026-11-20T07:00:00+09:00",
+      "dateLabel": "11/20 07:00",
+      "desc": "Exaforce株式会社は11月17日、セキュリティー担当者一人ひとりが専用のAIエージェントチームを構築・運用できる新機能「ExaU」を提供開始したと発表した。同社のプラットフォームの標準機能として追加される。",
+      "img": "https://ascii.jp/img/2026/11/19/4554460/s/1db857fe9bbb4b04.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 58
+    },
     {
       "title": "Google、わずか2カ月で4つ目のモデル公開「Gemini 4 Neon」 一部「Fable同等」性能をコスト半分で",
       "link": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003322/",
@@ -107,26 +118,26 @@
       "score": 50
     },
     {
-      "title": "Geminiの進化で浮上する課題 自律型AIから機密を守るGoogle新機能が登場",
-      "link": "https://kn.itmedia.co.jp/kn/article/2611/19/2000003290/",
-      "date": "2026-11-19T07:00:00+09:00",
-      "dateLabel": "11/19 07:00",
-      "desc": "仕事と日常の双方でAIが自律的に作業を代行する動きが広がる中、機密データへの過剰アクセスや漏えいへの懸念が高まっている。Googleが11月17日に発表した2つのGemini関連アップデートから、自動化の現在地と機密保護の具体策を整理する。",
+      "title": "ChatGPT「Plus」プラン一部ユーザーに「dots」解禁 「Business Standard」全ユーザーにも",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003359/",
+      "date": "2026-11-20T09:46:58+09:00",
+      "dateLabel": "11/20 09:46",
+      "desc": "OpenAIは「ChatGPT」の「Plus」プランユーザーの一部向けに、同社の常時稼働型エージェント「dots」の提供を開始する。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 50
+      "score": 42
     },
     {
-      "title": "AnthropicのAI「Claude Mythos Preview」が見つけた約3万8000件の脆弱性候補の修正はどこまで進んだのか？",
-      "link": "https://gigazine.net/news/20261119-anthropic-glasswing-vulnerability-fixes/",
-      "date": "2026-11-19T07:00:00+09:00",
-      "dateLabel": "11/19 07:00",
-      "desc": "AnthropicはAIモデル「Claude Mythos Preview」を使用して主要なOSやウェブブラウザーなどで深刻度の高い脆弱(ぜいじゃく)性を数千件見つけたと2026年4月に発表しました。そこから約7カ月が経過した11月9日に、セキュリティ企業のVulnCheckが公開台帳などをもとにその後の修正状況を報告しました。 続きを読む...",
+      "title": "SlackやTeamsで情シス問い合わせを自動化 Salesforceの新AI「Paige」とは",
+      "link": "https://kn.itmedia.co.jp/kn/article/2611/20/2000003331/",
+      "date": "2026-11-20T07:00:00+09:00",
+      "dateLabel": "11/20 07:00",
+      "desc": "セールスフォース・ジャパンは、実務対応済みのAIエージェント「Piper」「Fin」「Paige」の国内提供を開始すると発表した。一からの構築は不要で、PaigeはSlackやTeamsでの社内問い合わせ対応を自動化する。",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 50
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 42
     },
     {
       "title": "マイクロソフト、クラウドやオンプレミスのデータベースを一元管理する「Database Hub」正式リリース。AIエージェントによる運用監視の自動化も",
@@ -137,17 +148,6 @@
       "img": "",
       "src": "Publickey",
       "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "【クーポン利用で43％OFF】RebotAi 12インチタブレットが27,662円！2.5K高精細・90Hz・Android 16＋Gemini AI搭載、IP54防塵・防水対応の高性能モデル",
-      "link": "https://ascii.jp/elem/000/004/453/4453385/?rss",
-      "date": "2026-11-19T18:00:00+09:00",
-      "dateLabel": "11/19 18:00",
-      "desc": "【クーポン利用で43％OFF】RebotAi 12インチタブレットが27,662円！2.5K高精細・90Hz・Android 16＋Gemini AI搭載、IP54防塵・防水対応の高性能モデル",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -162,15 +162,37 @@
       "score": 42
     },
     {
-      "title": "ついに“AIっぽさ”を脱却か？ OpenAIが新モデルGPT-6.2 AstraとSolを発表",
-      "link": "https://kn.itmedia.co.jp/kn/article/2611/19/2000003295/",
-      "date": "2026-11-19T07:00:00+09:00",
-      "dateLabel": "11/19 07:00",
-      "desc": "OpenAIの新AIモデル「GPT-6.2 Astra」と「GPT-6.2 Sol」が登場した。法務や財務などの高度な専門業務を担うAstraと、日々の業務を支えるSolは、従来のコスト常識を覆す高い効率性を備える。",
+      "title": "ついに風呂でも使える！ A20 Pro搭載iPad miniは感動モノの薄さ・軽さ・高画質だった！",
+      "link": "https://ascii.jp/elem/000/004/453/4453370/?rss",
+      "date": "2026-11-20T09:30:00+09:00",
+      "dateLabel": "11/20 09:30",
+      "desc": "アップルが発表した「A20 Pro搭載iPad mini」の実機レビューです。約4万円の値上げとなりましたが、iPad初の防塵・耐水（IP67）と有機ELディスプレイを搭載し、厚さ5.4mmへと薄型化。Siri AIにも対応し、極上の高画質とお風呂でも使える機動力は納得の進化です。",
+      "img": "https://ascii.jp/img/2026/11/04/4547383/s/4fcdf6d82fe95f40.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "ASUS、2.5スロット設計のRTX 5070／5060搭載グラボ発売 デュアルファンで冷却と静音性を追求",
+      "link": "https://ascii.jp/elem/000/004/453/4453393/?rss",
+      "date": "2026-11-20T08:30:00+09:00",
+      "dateLabel": "11/20 08:30",
+      "desc": "ASUSは11月20日、RTX 5070／5060搭載グラフィックスカード2製品をAmazon限定で発売。2.5スロットのデュアルファン構成で、GPU温度50度未満ではファンが停止する。GDDR7メモリはRTX 5070が12GB、RTX 5060が8GBを搭載。",
+      "img": "https://ascii.jp/img/2026/11/20/4554523/s/a03c52a922b1819d.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "AI需要で「シェア0→50％」急成長 半導体設計のアーム社が仕掛ける“新ビジネス“の正体は？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/20/news041.html",
+      "date": "2026-11-20T07:00:00+09:00",
+      "dateLabel": "11/20 07:00",
+      "desc": "「AI半導体といえばNVIDIA」という状況が変わるかもしれない。CPU開発を手掛ける英アームが存在感を高めている。AI需要をどう取り込もうというのか。同社の戦略を、Arm日本法人の横山崇幸社長が語った。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 42
+      "cat": "半導体/GPU",
+      "score": 34
     },
     {
       "title": "NVIDIAがジェンスン・フアンの不倫相手が幹部を務めるシンガポール企業との取引を停止したのち急成長を続けていたシンガポール事業の売上高を公表しなくなる",
@@ -181,39 +203,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "【KOTONOHA】新シリーズ発表：自社専用の“AI社員”を構築できる国産の完全隔離型プライベートAI基盤",
-      "link": "https://ascii.jp/elem/000/004/453/4453335/?rss",
-      "date": "2026-11-19T17:00:00+09:00",
-      "dateLabel": "11/19 17:00",
-      "desc": "【KOTONOHA】新シリーズ発表：自社専用の“AI社員”を構築できる国産の完全隔離型プライベートAI基盤",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "REDBOX BIO、「NVIDIA Inception Program」に参加 ── AI×生体データ解析を加速",
-      "link": "https://ascii.jp/elem/000/004/453/4453305/?rss",
-      "date": "2026-11-19T17:00:00+09:00",
-      "dateLabel": "11/19 17:00",
-      "desc": "REDBOX BIO、「NVIDIA Inception Program」に参加 ── AI×生体データ解析を加速",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "Klleon、AIアバターと対話練習ができるロールプレイング研修サービス「ROLEFIT」を日本市場向けに提供開始",
-      "link": "https://ascii.jp/elem/000/004/453/4453304/?rss",
-      "date": "2026-11-19T17:00:00+09:00",
-      "dateLabel": "11/19 17:00",
-      "desc": "Klleon、AIアバターと対話練習ができるロールプレイング研修サービス「ROLEFIT」を日本市場向けに提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -272,15 +261,26 @@
       "score": 34
     },
     {
-      "title": "AIによるAI研究「指数関数的に増加」でも「依然として人間中心」 OpenAIがレポート公開",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003318/",
-      "date": "2026-11-19T09:48:01+09:00",
-      "dateLabel": "11/19 09:48",
-      "desc": "OpenAIは、AIが同社内のAI研究にどのように貢献しているかに関するレポートを公開した。",
+      "title": "Windows Server 2028がパブリックプレビュー公開。Microsoft FoundryなどAIによる推論の実行基盤へと拡張",
+      "link": "https://www.publickey1.jp/blog/26/windows_server_2028microsoft_foundryai.html",
+      "date": "2026-11-19T00:55:49+09:00",
+      "dateLabel": "11/19 00:55",
+      "desc": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、次期サーバ向けOSとなるWindows Server 2028のパブリックプレビュー公開を発表しました。 企業内のAI推論基盤へ...",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
+      "src": "Publickey",
+      "cat": "AI全般",
       "score": 34
+    },
+    {
+      "title": "PostgreSQL 19リリース延期の背景。β4で多くの新機能取り下げが発生、原因はAIによるコードレビューか",
+      "link": "https://www.publickey1.jp/blog/26/postgresql_194ai.html",
+      "date": "2026-11-16T00:31:49+09:00",
+      "dateLabel": "11/16 00:31",
+      "desc": "オープンソースのリレーショナルデータベース「PostgreSQL」は、先週木曜日（2026年11月12日）に最終リリース候補版となるPostgreSQL 19 RC2が公開され、予定では今週の11月19日に正式リリースとなる見通しです。 そ...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AI全般",
+      "score": 28
     }
   ]
 }
