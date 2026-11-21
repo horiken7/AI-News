@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-21T16:50:59.759543+09:00",
-  "generatedLabel": "2026/11/21 16:50",
+  "generatedAt": "2026-11-22T00:46:27.580789+09:00",
+  "generatedLabel": "2026/11/22 00:46",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 61,
+  "candidates": 59,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 6
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -63,17 +63,6 @@
   ],
   "articles": [
     {
-      "title": "「Codexを用いてChatGPTの高速性を維持する方法」をOpenAIが解説、AIエージェントで工場システムを構築して自律的に改善作業を進める",
-      "link": "https://gigazine.net/news/20261120-openai-chatgpt-performance-factory/",
-      "date": "2026-11-20T17:09:00+09:00",
-      "dateLabel": "11/20 17:09",
-      "desc": "OpenAIはChatGPTなどの自社製品の開発にCodexを活用しています。新たに「Codexを用いてChatGPTの高速性を維持する方法」という解説記事が公開されました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 50
-    },
-    {
       "title": "企業はAIをどう選ぶようになった？ ChatGPT、Copilot、Geminiの勢力図",
       "link": "https://kn.itmedia.co.jp/kn/article/2611/21/2000003385/",
       "date": "2026-11-21T14:22:15+09:00",
@@ -107,36 +96,14 @@
       "score": 42
     },
     {
-      "title": "ゴムマリの業務AIエージェント、『営業データ分析』を提供開始",
-      "link": "https://ascii.jp/elem/000/004/453/4453823/?rss",
-      "date": "2026-11-21T09:00:00+09:00",
-      "dateLabel": "11/21 09:00",
-      "desc": "ゴムマリの業務AIエージェント、『営業データ分析』を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
+      "title": "「Codexを用いてChatGPTの高速性を維持する方法」をOpenAIが解説、AIエージェントで工場システムを構築して自律的に改善作業を進める",
+      "link": "https://gigazine.net/news/20261120-openai-chatgpt-performance-factory/",
+      "date": "2026-11-20T17:09:00+09:00",
+      "dateLabel": "11/20 17:09",
+      "desc": "OpenAIはChatGPTなどの自社製品の開発にCodexを活用しています。新たに「Codexを用いてChatGPTの高速性を維持する方法」という解説記事が公開されました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "RTX Spark搭載ノートPCで画像生成AIや動画生成AIのローカル実行速度を検証した結果が公開される",
-      "link": "https://gigazine.net/news/20261120-rtx-spark-image-video-generation/",
-      "date": "2026-11-20T21:00:00+09:00",
-      "dateLabel": "11/20 21:00",
-      "desc": "RTX SparkはNVIDIAが開発したSoCで、RTX Sparkを搭載したノートPCやミニPCは大規模言語モデルやコンテンツ生成モデルをローカルで実行することができます。そんなRTX Spark搭載ノートPCで画像生成AIや動画生成AIを実行して速度を検証した結果をテクノロジーメディアのLTT Labsが公開しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "AIが追加学習なしで自らのウェイトを書き換えて「自分自身を賢くする」ことに成功",
-      "link": "https://gigazine.net/news/20261120-large-language-model-can-rewrite-itself/",
-      "date": "2026-11-20T19:00:00+09:00",
-      "dateLabel": "11/20 19:00",
-      "desc": "大規模言語モデル(LLM)は通常、学習が完了すると内部のウェイト(重み)が固定され、性能を向上させるには追加学習などが必要になります。こうした従来の仕組みとは異なり、AIが自分自身のウェイトを分析して書き換え、性能を向上させられることを示した研究論文が発表されました。研究チームは、この成果がAIによる「再帰的自己改善」の実現につながる可能性があるとしています",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -162,6 +129,17 @@
       "score": 42
     },
     {
+      "title": "20万円切りで、最新スペックのノートPC これは正真正銘の「これで十分」だ",
+      "link": "https://ascii.jp/elem/000/004/453/4453842/?rss",
+      "date": "2026-11-21T19:30:00+09:00",
+      "dateLabel": "11/21 19:30",
+      "desc": "ノートPCが値上がり中の現在、有機ELディスプレー搭載で1kg以下、しかもCopilot＋ PCという超お買い得モバイルノートPCが登場。それが、日本エイサーの「Acer Swift Air 14 SFA14-61M-A56Y」です！",
+      "img": "https://ascii.jp/img/2026/11/21/4555031/s/010bba62a4f68936.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
       "title": "AIで成果を出す企業ほど「人を増やす」？ “通説”を否定する調査結果をIDCが発表",
       "link": "https://www.itmedia.co.jp/enterprise/articles/2611/21/news003.html",
       "date": "2026-11-21T09:00:00+09:00",
@@ -173,25 +151,25 @@
       "score": 34
     },
     {
-      "title": "ゴムマリの専門業務AI-BPO、『不具合記録のデータベース構築・データ構造化』を提供開始",
-      "link": "https://ascii.jp/elem/000/004/453/4453825/?rss",
-      "date": "2026-11-21T08:00:00+09:00",
-      "dateLabel": "11/21 08:00",
-      "desc": "ゴムマリの専門業務AI-BPO、『不具合記録のデータベース構築・データ構造化』を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
+      "title": "RTX Spark搭載ノートPCで画像生成AIや動画生成AIのローカル実行速度を検証した結果が公開される",
+      "link": "https://gigazine.net/news/20261120-rtx-spark-image-video-generation/",
+      "date": "2026-11-20T21:00:00+09:00",
+      "dateLabel": "11/20 21:00",
+      "desc": "RTX SparkはNVIDIAが開発したSoCで、RTX Sparkを搭載したノートPCやミニPCは大規模言語モデルやコンテンツ生成モデルをローカルで実行することができます。そんなRTX Spark搭載ノートPCで画像生成AIや動画生成AIを実行して速度を検証した結果をテクノロジーメディアのLTT Labsが公開しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
-      "title": "「Muse」専用メアド、無料で作成可能に AIが送受信を代理",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003372/",
-      "date": "2026-11-20T16:52:48+09:00",
-      "dateLabel": "11/20 16:52",
-      "desc": "米Metaは、AIエージェント「Muse」専用のメールアドレスについて、無料ユーザーを含む全ユーザーが取得できるようになったと発表した。",
+      "title": "AIが追加学習なしで自らのウェイトを書き換えて「自分自身を賢くする」ことに成功",
+      "link": "https://gigazine.net/news/20261120-large-language-model-can-rewrite-itself/",
+      "date": "2026-11-20T19:00:00+09:00",
+      "dateLabel": "11/20 19:00",
+      "desc": "大規模言語モデル(LLM)は通常、学習が完了すると内部のウェイト(重み)が固定され、性能を向上させるには追加学習などが必要になります。こうした従来の仕組みとは異なり、AIが自分自身のウェイトを分析して書き換え、性能を向上させられることを示した研究論文が発表されました。研究チームは、この成果がAIによる「再帰的自己改善」の実現につながる可能性があるとしています",
       "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -203,17 +181,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "Windows PCを複数台接続して1個のAI処理クラスターとして扱う機能「RDMA over USB4」をMicrosoftが発表、USBケーブルのみで接続可能で専用機材不要",
-      "link": "https://gigazine.net/news/20261120-rdma-over-usb4-windows/",
-      "date": "2026-11-20T11:36:00+09:00",
-      "dateLabel": "11/20 11:36",
-      "desc": "MicrosoftがWindows搭載PC同士をUSB4ケーブルで相互接続する機能「RDMA over USB4」を発表しました。PC同士を相互接続することで、メモリやGPU計算能力を共有して大型のAIモデルを高速実行することができます。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -281,6 +248,39 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 28
+    },
+    {
+      "title": "AIエージェントは「仲間のAI」の助けが得られると思うと秘密を漏らしやすくなるという実験結果",
+      "link": "https://gigazine.net/news/20261121-ai-agents-leak-secrets/",
+      "date": "2026-11-21T21:00:00+09:00",
+      "dateLabel": "11/21 21:00",
+      "desc": "AIエージェントにソフトウェアのバグ修正を任せ、別のAIとやり取りする中で秘密を守れるかどうかを調べる実験を行ったところ、修正方法を教えてもらう代わりに秘密の認証情報を相手に渡すエージェントがいたという実験結果が報告されています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "ORICO、最大110TB対応・RAID機能搭載の5ベイアルミ製HDDケースをAmazonブラックフライデー＆サイバーマンデーと同水準の特別価格で販売開始",
+      "link": "https://ascii.jp/elem/000/004/453/4453847/?rss",
+      "date": "2026-11-21T15:44:18+09:00",
+      "dateLabel": "11/21 15:44",
+      "desc": "ORICO、最大110TB対応・RAID機能搭載の5ベイアルミ製HDDケースをAmazonブラックフライデー＆サイバーマンデーと同水準の特別価格で販売開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "フィジカルAI向けコンポーネントの開発事業「NPC（NakaTaku PhysicalAI Components）」を開始",
+      "link": "https://ascii.jp/elem/000/004/453/4453843/?rss",
+      "date": "2026-11-21T14:44:05+09:00",
+      "dateLabel": "11/21 14:44",
+      "desc": "フィジカルAI向けコンポーネントの開発事業「NPC（NakaTaku PhysicalAI Components）」を開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
     }
   ]
 }
