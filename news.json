@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-22T00:46:27.580789+09:00",
-  "generatedLabel": "2026/11/22 00:46",
+  "generatedAt": "2026-11-22T06:19:05.324221+09:00",
+  "generatedLabel": "2026/11/22 06:19",
   "feedOk": 6,
   "feedNg": 5,
   "candidates": 59,
@@ -225,7 +225,7 @@
       "img": "",
       "src": "Publickey",
       "cat": "AI全般",
-      "score": 34
+      "score": 28
     },
     {
       "title": "PostgreSQL 19リリース延期の背景。β4で多くの新機能取り下げが発生、原因はAIによるコードレビューか",
