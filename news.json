@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-21T03:07:52.203136+09:00",
-  "generatedLabel": "2026/11/21 03:07",
+  "generatedAt": "2026-11-21T09:28:31.618741+09:00",
+  "generatedLabel": "2026/11/21 09:28",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 63,
+  "candidates": 62,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 9
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -129,17 +129,6 @@
       "score": 42
     },
     {
-      "title": "会話の内容の文字起こしやAIエージェントでのタスク割り当てができる、Mac版とWindows版の「Vocciデスクトップアプリ」を公開",
-      "link": "https://ascii.jp/elem/000/004/453/4453804/?rss",
-      "date": "2026-11-20T18:00:00+09:00",
-      "dateLabel": "11/20 18:00",
-      "desc": "会話の内容の文字起こしやAIエージェントでのタスク割り当てができる、Mac版とWindows版の「Vocciデスクトップアプリ」を公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "Microsoft、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始",
       "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003368/",
       "date": "2026-11-20T13:29:35+09:00",
@@ -167,17 +156,6 @@
       "date": "2026-11-20T09:46:58+09:00",
       "dateLabel": "11/20 09:46",
       "desc": "OpenAIは「ChatGPT」の「Plus」プランユーザーの一部向けに、同社の常時稼働型エージェント「dots」の提供を開始する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "SlackやTeamsで情シス問い合わせを自動化 Salesforceの新AI「Paige」とは",
-      "link": "https://kn.itmedia.co.jp/kn/article/2611/20/2000003331/",
-      "date": "2026-11-20T07:00:00+09:00",
-      "dateLabel": "11/20 07:00",
-      "desc": "セールスフォース・ジャパンは、実務対応済みのAIエージェント「Piper」「Fin」「Paige」の国内提供を開始すると発表した。一からの構築は不要で、PaigeはSlackやTeamsでの社内問い合わせ対応を自動化する。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
@@ -239,14 +217,14 @@
       "score": 34
     },
     {
-      "title": "AI需要で「シェア0→50％」急成長 半導体設計のアーム社が仕掛ける“新ビジネス“の正体は？",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/20/news041.html",
+      "title": "SlackやTeamsで情シス問い合わせを自動化 Salesforceの新AI「Paige」とは",
+      "link": "https://kn.itmedia.co.jp/kn/article/2611/20/2000003331/",
       "date": "2026-11-20T07:00:00+09:00",
       "dateLabel": "11/20 07:00",
-      "desc": "「AI半導体といえばNVIDIA」という状況が変わるかもしれない。CPU開発を手掛ける英アームが存在感を高めている。AI需要をどう取り込もうというのか。同社の戦略を、Arm日本法人の横山崇幸社長が語った。",
+      "desc": "セールスフォース・ジャパンは、実務対応済みのAIエージェント「Piper」「Fin」「Paige」の国内提供を開始すると発表した。一からの構築は不要で、PaigeはSlackやTeamsでの社内問い合わせ対応を自動化する。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "半導体/GPU",
+      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -281,6 +259,28 @@
       "src": "Publickey",
       "cat": "AI全般",
       "score": 28
+    },
+    {
+      "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
+      "link": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
+      "date": "2026-11-16T00:30:19+09:00",
+      "dateLabel": "11/16 00:30",
+      "desc": "Cloudflareは、AIエージェントが操作することを想定した軽量のヘッドレスブラウザ「Kitesurf」をオープンソースで公開したと発表しました。 Kitesurf is now open source on GitHub under ...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 28
+    },
+    {
+      "title": "退役したジェットエンジンがAIデータセンターの動力源として使われている",
+      "link": "https://gigazine.net/news/20261121-jet-engine-ai-power/",
+      "date": "2026-11-21T08:00:00+09:00",
+      "dateLabel": "11/21 08:00",
+      "desc": "発電能力を確保するため、ボーイングやエアバスなど民間機で使われ役目を終えた古いジェットエンジンが買いあさられていることが分かりました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 26
     }
   ]
 }
