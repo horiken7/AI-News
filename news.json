@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-22T10:47:03.084719+09:00",
-  "generatedLabel": "2026/11/22 10:47",
+  "generatedAt": "2026-11-22T18:01:48.479305+09:00",
+  "generatedLabel": "2026/11/22 18:01",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 56,
+  "candidates": 57,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "Anthropicの研究者がAI「Claude」とともに数学の未解決問題「リーマン予想」を証明したと発表、1700万行の証明コードを専門家が検証中",
+      "link": "https://gigazine.net/news/20261122-anthropic-claude-said-riemann-hypothesis-solved/",
+      "date": "2026-11-22T11:00:00+09:00",
+      "dateLabel": "11/22 11:00",
+      "desc": "AI開発企業Anthropicの研究者であるレベント・アルポゲ氏が2026年11月20日、AnthropicのAIモデルであるClaudeとともに数学の未解決問題であるリーマン予想を証明したと発表しました。アルポゲ氏は約1700万行に及ぶ証明コードを公開しており、マサチューセッツ工科大学(MIT)などの研究者による独立した検証で証明の正しさを確認する複数の検",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
       "title": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張 Leanコミュニティが「正しい」と認定",
       "link": "https://www.itmedia.co.jp/news/article/2611/22/2000003388/",
       "date": "2026-11-22T08:21:31+09:00",
@@ -74,25 +85,36 @@
       "score": 50
     },
     {
-      "title": "企業はAIをどう選ぶようになった？ ChatGPT、Copilot、Geminiの勢力図",
-      "link": "https://kn.itmedia.co.jp/kn/article/2611/21/2000003385/",
-      "date": "2026-11-21T14:22:15+09:00",
-      "dateLabel": "11/21 14:22",
-      "desc": "企業が業務で利用するAIサービスの顔ぶれが変わりつつある。従来のように個別のAIサービスを選ぶだけでなく、既存の業務環境に組み込まれたAIを利用する動きも広がっているようだ。",
-      "img": "",
-      "src": "ITmedia AI+",
+      "title": "ミドルクラスの大定番「AQUOS sense11」 9万円台になったが薄型軽量化に加え、上質感が◎",
+      "link": "https://ascii.jp/elem/000/004/453/4453851/?rss",
+      "date": "2026-11-22T15:00:00+09:00",
+      "dateLabel": "11/22 15:00",
+      "desc": "ミドルクラスの大定番、シャープ「AQUOS sense11」が発表。半導体価格上昇にともない、製品価格は9万円台に。その分、デザインもカメラも上質感を追求しているようだ。",
+      "img": "https://ascii.jp/img/2026/11/22/4555112/s/fa392b39fd9ca943.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "ゴムマリの業務AIエージェント、『見積査定』を提供開始",
+      "link": "https://ascii.jp/elem/000/004/453/4453877/?rss",
+      "date": "2026-11-22T11:00:00+09:00",
+      "dateLabel": "11/22 11:00",
+      "desc": "ゴムマリの業務AIエージェント、『見積査定』を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
       "cat": "AIエージェント/業務",
       "score": 42
     },
     {
-      "title": "ゴムマリの業務AIエージェント、『海外問い合わせ一次対応』を提供開始",
-      "link": "https://ascii.jp/elem/000/004/453/4453831/?rss",
-      "date": "2026-11-21T12:00:00+09:00",
-      "dateLabel": "11/21 12:00",
-      "desc": "ゴムマリの業務AIエージェント、『海外問い合わせ一次対応』を提供開始",
+      "title": "【資料を無料公開】「ChatGPT Work 仕事の任せ方キット」を公開。Uravationが、表計算・資料・報告・共有ページ・定期実行の依頼テンプレート30本を、止める所まで書いてまとめました",
+      "link": "https://ascii.jp/elem/000/004/453/4453876/?rss",
+      "date": "2026-11-22T11:00:00+09:00",
+      "dateLabel": "11/22 11:00",
+      "desc": "【資料を無料公開】「ChatGPT Work 仕事の任せ方キット」を公開。Uravationが、表計算・資料・報告・共有ページ・定期実行の依頼テンプレート30本を、止める所まで書いてまとめました",
       "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
+      "cat": "LLM/モデル",
       "score": 42
     },
     {
@@ -129,13 +151,35 @@
       "score": 42
     },
     {
-      "title": "20万円切りで、最新スペックのノートPC これは正真正銘の「これで十分」だ",
-      "link": "https://ascii.jp/elem/000/004/453/4453842/?rss",
-      "date": "2026-11-21T19:30:00+09:00",
-      "dateLabel": "11/21 19:30",
-      "desc": "ノートPCが値上がり中の現在、有機ELディスプレー搭載で1kg以下、しかもCopilot＋ PCという超お買い得モバイルノートPCが登場。それが、日本エイサーの「Acer Swift Air 14 SFA14-61M-A56Y」です！",
-      "img": "https://ascii.jp/img/2026/11/21/4555031/s/010bba62a4f68936.jpg",
+      "title": "FlashLabs、FlashRevのAIエージェント「Hermes Agent」を大幅アップデート ― 複数セッション・スケジュールタスクなどに対応",
+      "link": "https://ascii.jp/elem/000/004/453/4453894/?rss",
+      "date": "2026-11-22T16:40:00+09:00",
+      "dateLabel": "11/22 16:40",
+      "desc": "FlashLabs、FlashRevのAIエージェント「Hermes Agent」を大幅アップデート ― 複数セッション・スケジュールタスクなどに対応",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
       "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "AIが世界を変えてもAI企業が儲かるとは限らない、その理由とは？",
+      "link": "https://gigazine.net/news/20261122-ai-will-not-make-you-rich/",
+      "date": "2026-11-22T15:00:00+09:00",
+      "dateLabel": "11/22 15:00",
+      "desc": "生成AIの急速な進化を背景に、AIモデルの開発やデータセンターの建設などに巨額の資金が投じられています。しかし、AIが今後の経済成長をけん引するという期待が高まる一方で、AIを開発する企業や投資家が必ずしも大きな利益を得られるとは限りません。元ベンチャーキャピタリストのジェリー・ニューマン氏がPCの普及や海上輸送のコンテナ化といった過去の技術革新を振り返りな",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "企業はAIをどう選ぶようになった？ ChatGPT、Copilot、Geminiの勢力図",
+      "link": "https://kn.itmedia.co.jp/kn/article/2611/21/2000003385/",
+      "date": "2026-11-21T14:22:15+09:00",
+      "dateLabel": "11/21 14:22",
+      "desc": "企業が業務で利用するAIサービスの顔ぶれが変わりつつある。従来のように個別のAIサービスを選ぶだけでなく、既存の業務環境に組み込まれたAIを利用する動きも広がっているようだ。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
       "score": 34
     },
@@ -237,50 +281,6 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 28
-    },
-    {
-      "title": "SignalがAIエージェントによる情報収集を防ぐためアプリでのAIによるスクリーンショット撮影を制限、OSレベルのAIエージェントによる情報収集に警鐘",
-      "link": "https://gigazine.net/news/20261122-signal-restricts-mobile-screenshots-threat-ai-surveillance/",
-      "date": "2026-11-22T10:30:00+09:00",
-      "dateLabel": "11/22 10:30",
-      "desc": "プライベートメッセンジャーアプリのSignalが、モバイルアプリでのAIによるスクリーンショット撮影機能を制限しました。これはAIエージェントによる情報収集が、Signalの構築してきたプライバシー保護機能を崩してしまうためと説明されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 26
-    },
-    {
-      "title": "AIエージェントは「仲間のAI」の助けが得られると思うと秘密を漏らしやすくなるという実験結果",
-      "link": "https://gigazine.net/news/20261121-ai-agents-leak-secrets/",
-      "date": "2026-11-21T21:00:00+09:00",
-      "dateLabel": "11/21 21:00",
-      "desc": "AIエージェントにソフトウェアのバグ修正を任せ、別のAIとやり取りする中で秘密を守れるかどうかを調べる実験を行ったところ、修正方法を教えてもらう代わりに秘密の認証情報を相手に渡すエージェントがいたという実験結果が報告されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 26
-    },
-    {
-      "title": "ORICO、最大110TB対応・RAID機能搭載の5ベイアルミ製HDDケースをAmazonブラックフライデー＆サイバーマンデーと同水準の特別価格で販売開始",
-      "link": "https://ascii.jp/elem/000/004/453/4453847/?rss",
-      "date": "2026-11-21T15:44:18+09:00",
-      "dateLabel": "11/21 15:44",
-      "desc": "ORICO、最大110TB対応・RAID機能搭載の5ベイアルミ製HDDケースをAmazonブラックフライデー＆サイバーマンデーと同水準の特別価格で販売開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "フィジカルAI向けコンポーネントの開発事業「NPC（NakaTaku PhysicalAI Components）」を開始",
-      "link": "https://ascii.jp/elem/000/004/453/4453843/?rss",
-      "date": "2026-11-21T14:44:05+09:00",
-      "dateLabel": "11/21 14:44",
-      "desc": "フィジカルAI向けコンポーネントの開発事業「NPC（NakaTaku PhysicalAI Components）」を開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
     }
   ]
 }
