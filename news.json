@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-22T18:01:48.479305+09:00",
-  "generatedLabel": "2026/11/22 18:01",
+  "generatedAt": "2026-11-23T02:29:09.925712+09:00",
+  "generatedLabel": "2026/11/23 02:29",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 57,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 12
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -96,44 +96,11 @@
       "score": 42
     },
     {
-      "title": "ゴムマリの業務AIエージェント、『見積査定』を提供開始",
-      "link": "https://ascii.jp/elem/000/004/453/4453877/?rss",
-      "date": "2026-11-22T11:00:00+09:00",
-      "dateLabel": "11/22 11:00",
-      "desc": "ゴムマリの業務AIエージェント、『見積査定』を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "【資料を無料公開】「ChatGPT Work 仕事の任せ方キット」を公開。Uravationが、表計算・資料・報告・共有ページ・定期実行の依頼テンプレート30本を、止める所まで書いてまとめました",
-      "link": "https://ascii.jp/elem/000/004/453/4453876/?rss",
-      "date": "2026-11-22T11:00:00+09:00",
-      "dateLabel": "11/22 11:00",
-      "desc": "【資料を無料公開】「ChatGPT Work 仕事の任せ方キット」を公開。Uravationが、表計算・資料・報告・共有ページ・定期実行の依頼テンプレート30本を、止める所まで書いてまとめました",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
       "title": "「Codexを用いてChatGPTの高速性を維持する方法」をOpenAIが解説、AIエージェントで工場システムを構築して自律的に改善作業を進める",
       "link": "https://gigazine.net/news/20261120-openai-chatgpt-performance-factory/",
       "date": "2026-11-20T17:09:00+09:00",
       "dateLabel": "11/20 17:09",
       "desc": "OpenAIはChatGPTなどの自社製品の開発にCodexを活用しています。新たに「Codexを用いてChatGPTの高速性を維持する方法」という解説記事が公開されました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "Hermes Agentの開発企業がMicrosoftと提携して企業向けAIエージェント「Hermes Enterprise」を発表、Teamsから仕事を依頼可能に",
-      "link": "https://gigazine.net/news/20261120-nous-research-microsoft-hermes-enterprise/",
-      "date": "2026-11-20T16:35:00+09:00",
-      "dateLabel": "11/20 16:35",
-      "desc": "オープンソースのAIエージェント「Hermes Agent」を開発するNous Researchが2026年11月18日にMicrosoftとの提携を発表し、企業向け製品「Hermes Enterprise」を公開しました。Hermes EnterpriseはMicrosoft TeamsからAIに業務を依頼できるほか、AIが覚えた作業手順を社内で共有する機",
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
@@ -247,7 +214,7 @@
       "img": "",
       "src": "Publickey",
       "cat": "AIエージェント/業務",
-      "score": 34
+      "score": 28
     },
     {
       "title": "Windows Server 2028がパブリックプレビュー公開。Microsoft FoundryなどAIによる推論の実行基盤へと拡張",
@@ -261,26 +228,59 @@
       "score": 28
     },
     {
-      "title": "PostgreSQL 19リリース延期の背景。β4で多くの新機能取り下げが発生、原因はAIによるコードレビューか",
-      "link": "https://www.publickey1.jp/blog/26/postgresql_194ai.html",
-      "date": "2026-11-16T00:31:49+09:00",
-      "dateLabel": "11/16 00:31",
-      "desc": "オープンソースのリレーショナルデータベース「PostgreSQL」は、先週木曜日（2026年11月12日）に最終リリース候補版となるPostgreSQL 19 RC2が公開され、予定では今週の11月19日に正式リリースとなる見通しです。 そ...",
-      "img": "",
-      "src": "Publickey",
+      "title": "FMV直販に注目！ 23.8型の一体型デスクトップPCが、Ryzen AI 5搭載で24万円台！",
+      "link": "https://ascii.jp/elem/000/004/453/4453673/?rss",
+      "date": "2026-11-22T20:00:00+09:00",
+      "dateLabel": "11/22 20:00",
+      "desc": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
+      "img": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png",
+      "src": "ASCII.jp",
       "cat": "AI全般",
-      "score": 28
+      "score": 26
     },
     {
-      "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
-      "link": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
-      "date": "2026-11-16T00:30:19+09:00",
-      "dateLabel": "11/16 00:30",
-      "desc": "Cloudflareは、AIエージェントが操作することを想定した軽量のヘッドレスブラウザ「Kitesurf」をオープンソースで公開したと発表しました。 Kitesurf is now open source on GitHub under ...",
+      "title": "XRKaigi2026に株式会社AoharuNEXTが出展決定",
+      "link": "https://ascii.jp/elem/000/004/453/4453889/?rss",
+      "date": "2026-11-22T16:00:00+09:00",
+      "dateLabel": "11/22 16:00",
+      "desc": "XRKaigi2026に株式会社AoharuNEXTが出展決定",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "SignalがAIエージェントによる情報収集を防ぐためアプリでのAIによるスクリーンショット撮影を制限、OSレベルのAIエージェントによる情報収集に警鐘",
+      "link": "https://gigazine.net/news/20261122-signal-restricts-mobile-screenshots-threat-ai-surveillance/",
+      "date": "2026-11-22T10:30:00+09:00",
+      "dateLabel": "11/22 10:30",
+      "desc": "プライベートメッセンジャーアプリのSignalが、モバイルアプリでのAIによるスクリーンショット撮影機能を制限しました。これはAIエージェントによる情報収集が、Signalの構築してきたプライバシー保護機能を崩してしまうためと説明されています。 続きを読む...",
       "img": "",
-      "src": "Publickey",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 26
+    },
+    {
+      "title": "AIで成果を出す企業ほど「人を増やす」？ “通説”を否定する調査結果をIDCが発表",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/21/news003.html",
+      "date": "2026-11-21T09:00:00+09:00",
+      "dateLabel": "11/21 09:00",
+      "desc": "「AIが普及すれば企業の人員は減る」という通説と食い違う調査結果を、IDCが発表した。AI投資で高いROIを得ている組織ほど、今後の増員を見込む割合が高い。AIで成果を出す企業が人員を増やすのはなぜか。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "「Muse」専用メアド、無料で作成可能に AIが送受信を代理",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003372/",
+      "date": "2026-11-20T16:52:48+09:00",
+      "dateLabel": "11/20 16:52",
+      "desc": "米Metaは、AIエージェント「Muse」専用のメールアドレスについて、無料ユーザーを含む全ユーザーが取得できるようになったと発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 28
+      "score": 26
     }
   ]
 }
