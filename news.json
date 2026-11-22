@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-23T02:29:09.925712+09:00",
-  "generatedLabel": "2026/11/23 02:29",
+  "generatedAt": "2026-11-23T07:57:15.306935+09:00",
+  "generatedLabel": "2026/11/23 07:57",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 55,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 4
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -203,7 +203,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 34
+      "score": 28
     },
     {
       "title": "マイクロソフト、クラウドやオンプレミスのデータベースを一元管理する「Database Hub」正式リリース。AIエージェントによる運用監視の自動化も",
@@ -226,6 +226,17 @@
       "src": "Publickey",
       "cat": "AI全般",
       "score": 28
+    },
+    {
+      "title": "無料の画像生成AI「MiniMax H3-Image」はここがすごい Nano Bananaのようなモデルがローカルで動くのが当たり前に",
+      "link": "https://ascii.jp/elem/000/004/453/4453903/?rss",
+      "date": "2026-11-23T07:00:00+09:00",
+      "dateLabel": "11/23 07:00",
+      "desc": "H3-Imageをクラウドとローカルで試用し、料金と生成速度を紹介。P-Image-OSSと人物の再現性や画風変更、LoRAの効果を比較し、両モデルの強みと弱み、併用の可能性を作例とともに解説する。",
+      "img": "https://ascii.jp/img/2026/11/23/4555431/s/7331f6c19c384594.png",
+      "src": "ASCII.jp",
+      "cat": "生成AI/マルチモーダル",
+      "score": 26
     },
     {
       "title": "FMV直販に注目！ 23.8型の一体型デスクトップPCが、Ryzen AI 5搭載で24万円台！",
@@ -269,17 +280,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "「Muse」専用メアド、無料で作成可能に AIが送受信を代理",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003372/",
-      "date": "2026-11-20T16:52:48+09:00",
-      "dateLabel": "11/20 16:52",
-      "desc": "米Metaは、AIエージェント「Muse」専用のメールアドレスについて、無料ユーザーを含む全ユーザーが取得できるようになったと発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 26
     }
   ]
