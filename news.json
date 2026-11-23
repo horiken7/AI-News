@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-23T12:27:12.145189+09:00",
-  "generatedLabel": "2026/11/23 12:27",
+  "generatedAt": "2026-11-23T22:50:55.459646+09:00",
+  "generatedLabel": "2026/11/23 22:50",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 58,
+  "candidates": 53,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 2
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 10
+      "items": 11
     },
     {
       "source": "CNET Japan",
@@ -63,25 +63,14 @@
   ],
   "articles": [
     {
-      "title": "ゴムマリの業務AIエージェント、『校正』を提供開始",
-      "link": "https://ascii.jp/elem/000/004/453/4453921/?rss",
-      "date": "2026-11-23T09:00:00+09:00",
-      "dateLabel": "11/23 09:00",
-      "desc": "ゴムマリの業務AIエージェント、『校正』を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "ゴムマリの業務AIエージェント、『不具合分析』を提供開始",
-      "link": "https://ascii.jp/elem/000/004/453/4453913/?rss",
-      "date": "2026-11-23T08:00:00+09:00",
-      "dateLabel": "11/23 08:00",
-      "desc": "ゴムマリの業務AIエージェント、『不具合分析』を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
+      "title": "NVIDIA RTX Sparkの暗号化ファームウェアにより、AC電源接続時にLinux上での推論速度が35％低下",
+      "link": "https://gigazine.net/news/20261123-linux-nvidia-rtx-spark-laptop/",
+      "date": "2026-11-23T22:43:00+09:00",
+      "dateLabel": "11/23 22:43",
+      "desc": "NVIDIA RTX Sparkプラットフォームを搭載したノートPCでLinuxをネイティブに実行すると、AC電源接続時にGPUのクロックスピードが大幅に低下するという深刻な問題に直面することが、ノーコードプラットフォーム開発元であるMindStudioのブログで指摘されています。この現象により、Linuxネイティブ環境ではWindows環境と比較してAIモ",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
       "score": 42
     },
     {
@@ -118,6 +107,17 @@
       "score": 36
     },
     {
+      "title": "Qwen3.8-27Bを量子化しても意外と性能が落ちないという検証結果",
+      "link": "https://gigazine.net/news/20261123-llm-qwen-quantization-quality/",
+      "date": "2026-11-23T19:18:00+09:00",
+      "dateLabel": "11/23 19:18",
+      "desc": "高性能なAIモデルを実行するには大容量のメモリが必要です。メモリの使用量を削減する方法として「量子化」と呼ばれる手法が広く用いられていますが、量子化するとモデルの性能も低下するとされています。ところが、AIルーティングサービスを展開するOpenRouterが「Qwen3.8-27Bを量子化しても性能低下は検出されなかった」という検証結果を公開しました。 続き",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
       "title": "4つのプラットフォームで全方位を制す、AMD「EPYC 9006」のラインナップ全貌とZen 6/6cの実装戦略",
       "link": "https://ascii.jp/elem/000/004/453/4453862/?rss",
       "date": "2026-11-23T12:00:00+09:00",
@@ -126,28 +126,6 @@
       "img": "https://ascii.jp/img/2026/11/22/4555152/s/5c0b0da15b34327d.jpg",
       "src": "ASCII.jp",
       "cat": "AI実装",
-      "score": 34
-    },
-    {
-      "title": "アプリ不要、スマホのブラウザで参加。MetAI、QRとGPSで来場を確認するデジタルスタンプラリー「Stamp Rally AI」を公開。新春・春のイベントに向けて、自治体・商店街との実証を募集",
-      "link": "https://ascii.jp/elem/000/004/453/4453920/?rss",
-      "date": "2026-11-23T09:37:16+09:00",
-      "dateLabel": "11/23 09:37",
-      "desc": "アプリ不要、スマホのブラウザで参加。MetAI、QRとGPSで来場を確認するデジタルスタンプラリー「Stamp Rally AI」を公開。新春・春のイベントに向けて、自治体・商店街との実証を募集",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "【無料配布】AI時代に「介在価値」を伝える職務経歴書サンプルを公開。＜BtoBビジネス全6職＞",
-      "link": "https://ascii.jp/elem/000/004/453/4453910/?rss",
-      "date": "2026-11-23T09:30:00+09:00",
-      "dateLabel": "11/23 09:30",
-      "desc": "【無料配布】AI時代に「介在価値」を伝える職務経歴書サンプルを公開。＜BtoBビジネス全6職＞",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -162,17 +140,6 @@
       "score": 34
     },
     {
-      "title": "AIが世界を変えてもAI企業が儲かるとは限らない、その理由とは？",
-      "link": "https://gigazine.net/news/20261122-ai-will-not-make-you-rich/",
-      "date": "2026-11-22T15:00:00+09:00",
-      "dateLabel": "11/22 15:00",
-      "desc": "生成AIの急速な進化を背景に、AIモデルの開発やデータセンターの建設などに巨額の資金が投じられています。しかし、AIが今後の経済成長をけん引するという期待が高まる一方で、AIを開発する企業や投資家が必ずしも大きな利益を得られるとは限りません。元ベンチャーキャピタリストのジェリー・ニューマン氏がPCの普及や海上輸送のコンテナ化といった過去の技術革新を振り返りな",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
       "title": "企業はAIをどう選ぶようになった？ ChatGPT、Copilot、Geminiの勢力図",
       "link": "https://kn.itmedia.co.jp/kn/article/2611/21/2000003385/",
       "date": "2026-11-21T14:22:15+09:00",
@@ -184,17 +151,6 @@
       "score": 34
     },
     {
-      "title": "RTX Spark搭載ノートPCで画像生成AIや動画生成AIのローカル実行速度を検証した結果が公開される",
-      "link": "https://gigazine.net/news/20261120-rtx-spark-image-video-generation/",
-      "date": "2026-11-20T21:00:00+09:00",
-      "dateLabel": "11/20 21:00",
-      "desc": "RTX SparkはNVIDIAが開発したSoCで、RTX Sparkを搭載したノートPCやミニPCは大規模言語モデルやコンテンツ生成モデルをローカルで実行することができます。そんなRTX Spark搭載ノートPCで画像生成AIや動画生成AIを実行して速度を検証した結果をテクノロジーメディアのLTT Labsが公開しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
       "title": "Microsoft、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始",
       "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003368/",
       "date": "2026-11-20T13:29:35+09:00",
@@ -203,7 +159,7 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 34
+      "score": 28
     },
     {
       "title": "ChatGPT「Plus」プラン一部ユーザーに「dots」解禁 「Business Standard」全ユーザーにも",
@@ -250,17 +206,6 @@
       "score": 26
     },
     {
-      "title": "Fairy Devices、「RoboNext 2026」にAVITA・Booster Roboticsと共同出展",
-      "link": "https://ascii.jp/elem/000/004/453/4453927/?rss",
-      "date": "2026-11-23T10:00:00+09:00",
-      "dateLabel": "11/23 10:00",
-      "desc": "Fairy Devices、「RoboNext 2026」にAVITA・Booster Roboticsと共同出展",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
       "title": "世界初の直径200mm単結晶ダイヤモンドウェハーは何を変えるのか、AIチップの99％をダイヤモンドにする構想とは？",
       "link": "https://gigazine.net/news/20261123-diamond-foundrysingle-crystal-diamond/",
       "date": "2026-11-23T09:00:00+09:00",
@@ -272,15 +217,70 @@
       "score": 26
     },
     {
-      "title": "無料の画像生成AI「MiniMax H3-Image」はここがすごい Nano Bananaのようなモデルがローカルで動くのが当たり前に",
-      "link": "https://ascii.jp/elem/000/004/453/4453903/?rss",
-      "date": "2026-11-23T07:00:00+09:00",
-      "dateLabel": "11/23 07:00",
-      "desc": "H3-Imageをクラウドとローカルで試用し、料金と生成速度を紹介。P-Image-OSSと人物の再現性や画風変更、LoRAの効果を比較し、両モデルの強みと弱み、併用の可能性を作例とともに解説する。",
-      "img": "https://ascii.jp/img/2026/11/23/4555431/s/7331f6c19c384594.png",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
+      "title": "AIが世界を変えてもAI企業が儲かるとは限らない、その理由とは？",
+      "link": "https://gigazine.net/news/20261122-ai-will-not-make-you-rich/",
+      "date": "2026-11-22T15:00:00+09:00",
+      "dateLabel": "11/22 15:00",
+      "desc": "生成AIの急速な進化を背景に、AIモデルの開発やデータセンターの建設などに巨額の資金が投じられています。しかし、AIが今後の経済成長をけん引するという期待が高まる一方で、AIを開発する企業や投資家が必ずしも大きな利益を得られるとは限りません。元ベンチャーキャピタリストのジェリー・ニューマン氏がPCの普及や海上輸送のコンテナ化といった過去の技術革新を振り返りな",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
       "score": 26
+    },
+    {
+      "title": "AIで成果を出す企業ほど「人を増やす」？ “通説”を否定する調査結果をIDCが発表",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/21/news003.html",
+      "date": "2026-11-21T09:00:00+09:00",
+      "dateLabel": "11/21 09:00",
+      "desc": "「AIが普及すれば企業の人員は減る」という通説と食い違う調査結果を、IDCが発表した。AI投資で高いROIを得ている組織ほど、今後の増員を見込む割合が高い。AIで成果を出す企業が人員を増やすのはなぜか。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "PostgreSQL 19リリース延期の背景。β4で多くの新機能取り下げが発生、原因はAIによるコードレビューか",
+      "link": "https://www.publickey1.jp/blog/26/postgresql_194ai.html",
+      "date": "2026-11-16T00:31:49+09:00",
+      "dateLabel": "11/16 00:31",
+      "desc": "オープンソースのリレーショナルデータベース「PostgreSQL」は、先週木曜日（2026年11月12日）に最終リリース候補版となるPostgreSQL 19 RC2が公開され、予定では今週の11月19日に正式リリースとなる見通しです。 そ...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AI全般",
+      "score": 24
+    },
+    {
+      "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
+      "link": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
+      "date": "2026-11-16T00:30:19+09:00",
+      "dateLabel": "11/16 00:30",
+      "desc": "Cloudflareは、AIエージェントが操作することを想定した軽量のヘッドレスブラウザ「Kitesurf」をオープンソースで公開したと発表しました。 Kitesurf is now open source on GitHub under ...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 24
+    },
+    {
+      "title": "「Muse」専用メアド、無料で作成可能に AIが送受信を代理",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003372/",
+      "date": "2026-11-20T16:52:48+09:00",
+      "dateLabel": "11/20 16:52",
+      "desc": "米Metaは、AIエージェント「Muse」専用のメールアドレスについて、無料ユーザーを含む全ユーザーが取得できるようになったと発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 20
+    },
+    {
+      "title": "マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始",
+      "link": "https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html",
+      "date": "2026-11-19T01:00:37+09:00",
+      "dateLabel": "11/19 01:00",
+      "desc": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 20
     }
   ]
 }
