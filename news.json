@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-24T20:47:52.275629+09:00",
-  "generatedLabel": "2026/11/24 20:47",
+  "generatedAt": "2026-11-25T06:42:40.936207+09:00",
+  "generatedLabel": "2026/11/25 06:42",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 60,
+  "candidates": 59,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 3
+      "items": 4
     },
     {
       "source": "PC Watch",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 10
+      "items": 8
     },
     {
       "source": "AINOW",
@@ -74,6 +74,17 @@
       "score": 58
     },
     {
+      "title": "AmazonがAIスタートアップ「Decart」の主要事業を約1兆2000億円で買収へ、AIチップの性能を引き出す技術と研究者を獲得",
+      "link": "https://gigazine.net/news/20261124-amazon-acquire-decart/",
+      "date": "2026-11-24T21:15:00+09:00",
+      "dateLabel": "11/24 21:15",
+      "desc": "Amazonは日本時間の2026年11月23日、イスラエルのAIスタートアップ「Decart」が開発したAI処理の最適化技術「Decart Optimization Stack(DOS)」を買収する契約を締結したと発表しました。Decartの共同創業者やAI研究者、エンジニアもAmazonに加わる予定で、Bloombergは買収額が75億ドル(約1兆2000",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 42
+    },
+    {
       "title": "「AIがリーマン予想を証明したらどう感じるか？」と約1年半にわたって数学者たちに聞いてきたインタビューを振り返る",
       "link": "https://gigazine.net/news/20261124-riemann-hypothesis-mathematician/",
       "date": "2026-11-24T20:00:00+09:00",
@@ -82,17 +93,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "台湾のGPU算力と日本のAI Routerで動画生成モデルH3を実証 9日間で9,738本・成功率98.9%、11月5日ピークの1時間241本も途切れず",
-      "link": "https://ascii.jp/elem/000/004/454/4454358/?rss",
-      "date": "2026-11-24T18:00:00+09:00",
-      "dateLabel": "11/24 18:00",
-      "desc": "台湾のGPU算力と日本のAI Routerで動画生成モデルH3を実証 9日間で9,738本・成功率98.9%、11月5日ピークの1時間241本も途切れず",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
       "score": 42
     },
     {
@@ -173,17 +173,6 @@
       "score": 42
     },
     {
-      "title": "NVIDIA RTX Sparkの暗号化ファームウェアにより、AC電源接続時にLinux上での推論速度が35％低下",
-      "link": "https://gigazine.net/news/20261123-linux-nvidia-rtx-spark-laptop/",
-      "date": "2026-11-23T22:43:00+09:00",
-      "dateLabel": "11/23 22:43",
-      "desc": "NVIDIA RTX Sparkプラットフォームを搭載したノートPCでLinuxをネイティブに実行すると、AC電源接続時にGPUのクロックスピードが大幅に低下するという深刻な問題に直面することが、ノーコードプラットフォーム開発元であるMindStudioのブログで指摘されています。この現象により、Linuxネイティブ環境ではWindows環境と比較してAIモ",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
       "title": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張 Leanコミュニティが「正しい」と認定",
       "link": "https://www.itmedia.co.jp/news/article/2611/22/2000003388/",
       "date": "2026-11-22T08:21:31+09:00",
@@ -195,14 +184,36 @@
       "score": 42
     },
     {
-      "title": "コミュニティへの貢献に感謝を贈る「SORACOM MVC」と受賞者の紹介",
-      "link": "https://ascii.jp/elem/000/004/454/4454301/?rss",
-      "date": "2026-11-24T18:00:00+09:00",
-      "dateLabel": "11/24 18:00",
-      "desc": "コミュニティへの貢献に感謝を贈る「SORACOM MVC」と受賞者の紹介",
-      "img": "https://ascii.jp/img/2026/11/24/4555986/s/f0a3fdeea78cd9c4.png",
+      "title": "AIに意識？ アンソロピックがIPOで投資家に示した奇妙なリスク",
+      "link": "https://ascii.jp/elem/000/004/454/4454386/?rss",
+      "date": "2026-11-25T06:32:52+09:00",
+      "dateLabel": "11/25 06:32",
+      "desc": "画像クレジット:Stephanie Arnett/MIT Technology Review | Adobe Stock",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
       "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "「ソフトウェアファクトリー」とは結局何か OpenAIもUberもfreeeも始めたAIエージェントの「工場」の中身",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/25/news002.html",
+      "date": "2026-11-25T05:00:00+09:00",
+      "dateLabel": "11/25 05:00",
+      "desc": "AIコーディングエージェントを個別に使う段階から、工程全体を「工場」として組む段階へ。OpenAI、Uber、freeeなどの取り組みを手掛かりに、この言葉が指す仕組みと、人間に残る仕事を整理する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "Amazon限定モデルはCPUもGPUも強化！ Core i7＋RTX 5060搭載の「TUF Gaming F16」が28万9800円",
+      "link": "https://ascii.jp/elem/000/004/454/4454138/?rss",
+      "date": "2026-11-24T21:50:00+09:00",
+      "dateLabel": "11/24 21:50",
+      "desc": "ASUSの16型ゲーミングノートPC「TUF Gaming F16」がAmazonで割引対象。過去価格335,125円から14％オフの289,800円で販売中。標準モデルからCPUとGPUを強化したAmazon限定モデルで、メモリ32GB、SSD 1TBを搭載。ゲームも配信も楽しみたい人に注目してほしい一台だ。",
+      "img": "https://ascii.jp/img/2026/11/24/4555799/s/e6c2ae12169bb5da.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
       "score": 34
     },
     {
@@ -269,17 +280,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "複数のPCにローカルAIの処理を割り振れるNVIDIA製ツール「Personal AI Router(PAIR)」の有用性検証結果が公開される",
-      "link": "https://gigazine.net/news/20261124-nvidia-pair/",
-      "date": "2026-11-24T07:00:00+09:00",
-      "dateLabel": "11/24 07:00",
-      "desc": "LAN内のデバイスにAI処理を割り振れるNVIDIA製ツール「NVIDIA Personal AI Router(PAIR)」について、テクノロジーメディアのLTT Labsがレビューを行い、使用感や課題について考察しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
       "score": 34
     }
   ]
