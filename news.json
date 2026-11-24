@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-23T22:50:55.459646+09:00",
-  "generatedLabel": "2026/11/23 22:50",
+  "generatedAt": "2026-11-24T10:21:55.972043+09:00",
+  "generatedLabel": "2026/11/24 10:21",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 53,
+  "candidates": 59,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 2
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 11
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -62,6 +62,72 @@
     }
   ],
   "articles": [
+    {
+      "title": "Anthropicの数学者、AIとリーマン予想を証明か 167年来の超難問、数学史を揺るがす可能性",
+      "link": "https://ascii.jp/elem/000/004/453/4453961/?rss",
+      "date": "2026-11-24T09:40:00+09:00",
+      "dateLabel": "11/24 09:40",
+      "desc": "アンソロピックの数学者レベント・アルポゲ氏は11月20日、AI「Claude」と協力してリーマン予想の証明を発見したとする文書を公開した。",
+      "img": "https://ascii.jp/img/2026/11/24/4555669/s/9ca0ec20531d9f2e.png",
+      "src": "ASCII.jp",
+      "cat": "LLM/モデル",
+      "score": 50
+    },
+    {
+      "title": "米国でデータセンター反発、その真相は？／半導体の密輸対策、技術的に対応可能？",
+      "link": "https://ascii.jp/elem/000/004/453/4453863/?rss",
+      "date": "2026-11-24T10:00:00+09:00",
+      "dateLabel": "11/24 10:00",
+      "desc": "世界最先端のテクノロジー情報をお届けするグローバルメディア「MITテクノロジーレビュー」から、ビジネスに役立つ注目のテック企業の最新動向、イノベーションにつながる最新の研究内容をピックアップして紹介します。",
+      "img": "https://ascii.jp/img/2026/11/22/4555151/s/d7db20a4dd16176c.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
+    {
+      "title": "買い物がはかどる支援アプリと、AIに選ばれる事業者向けツール",
+      "link": "https://ascii.jp/elem/000/004/453/4453781/?rss",
+      "date": "2026-11-24T09:00:00+09:00",
+      "dateLabel": "11/24 09:00",
+      "desc": "株式会社STRACTは11月18日、AIが人に代わって買い物やEC運営を進める「エージェンティックコマース」領域において、一般消費者向けのパーソナルAIエージェント「DONDO（ドンド）」の正式発表と、EC事業者向けの運営支援AI「ureteku AI（ウレテク エーアイ）」の本格始動を発表した。",
+      "img": "https://ascii.jp/img/2026/11/20/4554862/s/764eb5e7707ff173.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "CrowdStrike、Zscalerを約439億ドルで買収へ 狙いはAIエージェントの安全確保",
+      "link": "https://www.itmedia.co.jp/news/article/2611/24/2000003398/",
+      "date": "2026-11-24T07:20:30+09:00",
+      "dateLabel": "11/24 07:20",
+      "desc": "CrowdStrikeは、ネットワークセキュリティ大手のZscalerを全額株式交換で買収すると発表した。Zscalerの企業価値は約7兆円。Zscalerの「Zero Trust Exchange」などを「Falcon」基盤に統合し、AIエージェントの保護を強化する。統合後の年間経常収益は100億ドルを超える見込みだ。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "ロックウェルがAIで狙う工程革新 各エージェントを“指揮”する新製品とは",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2611/24/news024.html",
+      "date": "2026-11-24T07:00:00+09:00",
+      "dateLabel": "11/24 07:00",
+      "desc": "製造業が人手不足や国際競争に直面する中、ロックウェル オートメーションは「自動化から自律化へ」の変革を提唱する。LLMの進化やフィジカルAIの台頭を背景に、設備全体が自ら学習・最適化する次世代生産システムの姿とはどのようなものか。同社主催の「Automation Fair」で披露された新技術「FactoryTalk Conductor」やソフトウェア主導の生",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "NVIDIA、ジェンスン・フアン氏の11日ぶりのCEO復帰を発表",
+      "link": "https://ascii.jp/elem/000/004/453/4453950/?rss",
+      "date": "2026-11-23T23:55:00+09:00",
+      "dateLabel": "11/23 23:55",
+      "desc": "NVDIAは23日（現地時間）、11月12日にCEO兼取締役の地位を辞任していたジェンスン・フアン氏について、その地位に復帰したことを発表した。この決定は取締役会の全会一致によるものとしている。",
+      "img": "https://ascii.jp/img/2026/11/23/4555547/s/cbd33ddb6d0bf700.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
     {
       "title": "NVIDIA RTX Sparkの暗号化ファームウェアにより、AC電源接続時にLinux上での推論速度が35％低下",
       "link": "https://gigazine.net/news/20261123-linux-nvidia-rtx-spark-laptop/",
@@ -107,6 +173,72 @@
       "score": 36
     },
     {
+      "title": "ジェンスン・フアン氏、NVIDIAのCEOに復帰 マスク氏「誤りは正された」 AI企業代表のコメントまとめ",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003402/",
+      "date": "2026-11-24T09:50:21+09:00",
+      "dateLabel": "11/24 09:50",
+      "desc": "NVIDIAは、中国のスパイと疑われている女性を含む複数人との不倫行為が取り沙汰されたことを受けCEOを辞任したジェンスン・フアン氏が同職に復帰したと発表した。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "【ブラックフライデーセール開催中】誰でも簡単にAI時代に役立つスキルが動画でわかる「Udemy」おすすめ講座まとめ、Claude Code・AIエージェント・要件定義・Linux・AWS認定資格・AIセキュリティなど",
+      "link": "https://gigazine.net/news/20261124-udemy/",
+      "date": "2026-11-24T09:00:00+09:00",
+      "dateLabel": "11/24 09:00",
+      "desc": "AIにコードを書いてもらったり面倒な仕事をAIエージェントに任せたりと、生成AIを活用することで効率的に仕事を進められるようになってきました。しかし、うまくAIに働いてもらうにはAIに適切な指示を出したりAIが生成したプログラムを動かすインフラを用意したり、安全に運用するためのセキュリティを確保したりするためのスキルが必要です。そんなAI時代に役立つスキルを",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "複数のPCにローカルAIの処理を割り振れるNVIDIA製ツール「Personal AI Router(PAIR)」の有用性検証結果が公開される",
+      "link": "https://gigazine.net/news/20261124-nvidia-pair/",
+      "date": "2026-11-24T07:00:00+09:00",
+      "dateLabel": "11/24 07:00",
+      "desc": "LAN内のデバイスにAI処理を割り振れるNVIDIA製ツール「NVIDIA Personal AI Router(PAIR)」について、テクノロジーメディアのLTT Labsがレビューを行い、使用感や課題について考察しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "DHH氏が開発する「Omarchy 4.5」リリース。一般的なマルチウィンドウをサポート。最速7秒で導入、Appleシリコン対応、Webアプリ版MS Office用ランチャーなど新機能",
+      "link": "https://www.publickey1.jp/blog/26/dhhomarchy_457applewebms_office.html",
+      "date": "2026-11-24T00:49:45+09:00",
+      "dateLabel": "11/24 00:49",
+      "desc": "Ruby on Railsの作者として知られるDHH氏が主導して開発しているデスクトップ向けのLinux OS「Omarchy」の最新版「Omarchy 4.5」（別名Omarchy Quattro RS）正式版がリリースされました。 Om...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "週刊アスキー No.1623(2026年11月24日発行)",
+      "link": "https://ascii.jp/elem/000/004/453/4453388/?rss",
+      "date": "2026-11-24T00:00:00+09:00",
+      "dateLabel": "11/24 00:00",
+      "desc": "特集1はNVIDIA RTX Spark。ローカルAIの旗手となる新プラットフォームの実力をじっくり探っていく。特集2は1kg前後と軽量なモバイルノート。この1年でぐっと選択肢が増えたカテゴリーだ。",
+      "img": "https://ascii.jp/img/2026/11/20/4554619/s/1d4ab0d4bce72689.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "NVIDIAのジェンスン・フアンがCEOに復帰",
+      "link": "https://gigazine.net/news/20261123-nvidia-jensen-huang-ceo/",
+      "date": "2026-11-23T23:34:00+09:00",
+      "dateLabel": "11/23 23:34",
+      "desc": "2026年11月23日23時頃にNVIDIAの取締役会がジェンスン・フアン氏をCEOに再任したことを発表しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
       "title": "Qwen3.8-27Bを量子化しても意外と性能が落ちないという検証結果",
       "link": "https://gigazine.net/news/20261123-llm-qwen-quantization-quality/",
       "date": "2026-11-23T19:18:00+09:00",
@@ -115,28 +247,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "4つのプラットフォームで全方位を制す、AMD「EPYC 9006」のラインナップ全貌とZen 6/6cの実装戦略",
-      "link": "https://ascii.jp/elem/000/004/453/4453862/?rss",
-      "date": "2026-11-23T12:00:00+09:00",
-      "dateLabel": "11/23 12:00",
-      "desc": "AMDが7月に開催したAdvancing AI 2026でEPYC 9006の概要を紹介。9月30日にはホワイトペーパーを公開。そして11月10日にAMD in Depthを実施し、ここでZen 6/6cコアの詳細なども公開した。",
-      "img": "https://ascii.jp/img/2026/11/22/4555152/s/5c0b0da15b34327d.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI実装",
-      "score": 34
-    },
-    {
-      "title": "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案 指標は「パープレキシティ」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/23/2000003394/",
-      "date": "2026-11-23T07:49:18+09:00",
-      "dateLabel": "11/23 07:49",
-      "desc": "OpenAIのチーフサイエンティストが、AIの予測精度を示す「パープレキシティ」を共通指標とし、開発の上限を業界で設けるよう提案する論考を公開した。GPT-3.5以降の社内モデルの推移も開示し、早ければ2027年にも事前学習が急加速する恐れがあるとして、監視技術が追いつくまでの歯止めを訴えている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
       "score": 34
     },
     {
@@ -162,17 +272,6 @@
       "score": 28
     },
     {
-      "title": "ChatGPT「Plus」プラン一部ユーザーに「dots」解禁 「Business Standard」全ユーザーにも",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003359/",
-      "date": "2026-11-20T09:46:58+09:00",
-      "dateLabel": "11/20 09:46",
-      "desc": "OpenAIは「ChatGPT」の「Plus」プランユーザーの一部向けに、同社の常時稼働型エージェント「dots」の提供を開始する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 28
-    },
-    {
       "title": "マイクロソフト、クラウドやオンプレミスのデータベースを一元管理する「Database Hub」正式リリース。AIエージェントによる運用監視の自動化も",
       "link": "https://www.publickey1.jp/blog/26/database_hubai.html",
       "date": "2026-11-20T00:19:21+09:00",
@@ -182,105 +281,6 @@
       "src": "Publickey",
       "cat": "AIエージェント/業務",
       "score": 28
-    },
-    {
-      "title": "Windows Server 2028がパブリックプレビュー公開。Microsoft FoundryなどAIによる推論の実行基盤へと拡張",
-      "link": "https://www.publickey1.jp/blog/26/windows_server_2028microsoft_foundryai.html",
-      "date": "2026-11-19T00:55:49+09:00",
-      "dateLabel": "11/19 00:55",
-      "desc": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、次期サーバ向けOSとなるWindows Server 2028のパブリックプレビュー公開を発表しました。 企業内のAI推論基盤へ...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AI全般",
-      "score": 28
-    },
-    {
-      "title": "【TOPIX100の100社を調査】就活のES・選考での生成AIの使い方の記載は、新卒採用ページを読めた81社で見つけられず。AI面接を選考に入れると明記した社は5社",
-      "link": "https://ascii.jp/elem/000/004/453/4453916/?rss",
-      "date": "2026-11-23T11:00:00+09:00",
-      "dateLabel": "11/23 11:00",
-      "desc": "【TOPIX100の100社を調査】就活のES・選考での生成AIの使い方の記載は、新卒採用ページを読めた81社で見つけられず。AI面接を選考に入れると明記した社は5社",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 26
-    },
-    {
-      "title": "世界初の直径200mm単結晶ダイヤモンドウェハーは何を変えるのか、AIチップの99％をダイヤモンドにする構想とは？",
-      "link": "https://gigazine.net/news/20261123-diamond-foundrysingle-crystal-diamond/",
-      "date": "2026-11-23T09:00:00+09:00",
-      "dateLabel": "11/23 09:00",
-      "desc": "人工ダイヤモンドメーカーのDiamond Foundryが、世界初となる直径200mmの単結晶ダイヤモンドウェハーの製造に成功しました。同社は銅を大幅に上回る熱伝導率を持つダイヤモンドを半導体に直接組み込むことでAIチップの発熱問題を解消し、将来的にはダイヤモンドそのものをトランジスタの材料として利用することを目指しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "AIが世界を変えてもAI企業が儲かるとは限らない、その理由とは？",
-      "link": "https://gigazine.net/news/20261122-ai-will-not-make-you-rich/",
-      "date": "2026-11-22T15:00:00+09:00",
-      "dateLabel": "11/22 15:00",
-      "desc": "生成AIの急速な進化を背景に、AIモデルの開発やデータセンターの建設などに巨額の資金が投じられています。しかし、AIが今後の経済成長をけん引するという期待が高まる一方で、AIを開発する企業や投資家が必ずしも大きな利益を得られるとは限りません。元ベンチャーキャピタリストのジェリー・ニューマン氏がPCの普及や海上輸送のコンテナ化といった過去の技術革新を振り返りな",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 26
-    },
-    {
-      "title": "AIで成果を出す企業ほど「人を増やす」？ “通説”を否定する調査結果をIDCが発表",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/21/news003.html",
-      "date": "2026-11-21T09:00:00+09:00",
-      "dateLabel": "11/21 09:00",
-      "desc": "「AIが普及すれば企業の人員は減る」という通説と食い違う調査結果を、IDCが発表した。AI投資で高いROIを得ている組織ほど、今後の増員を見込む割合が高い。AIで成果を出す企業が人員を増やすのはなぜか。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "PostgreSQL 19リリース延期の背景。β4で多くの新機能取り下げが発生、原因はAIによるコードレビューか",
-      "link": "https://www.publickey1.jp/blog/26/postgresql_194ai.html",
-      "date": "2026-11-16T00:31:49+09:00",
-      "dateLabel": "11/16 00:31",
-      "desc": "オープンソースのリレーショナルデータベース「PostgreSQL」は、先週木曜日（2026年11月12日）に最終リリース候補版となるPostgreSQL 19 RC2が公開され、予定では今週の11月19日に正式リリースとなる見通しです。 そ...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AI全般",
-      "score": 24
-    },
-    {
-      "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
-      "link": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
-      "date": "2026-11-16T00:30:19+09:00",
-      "dateLabel": "11/16 00:30",
-      "desc": "Cloudflareは、AIエージェントが操作することを想定した軽量のヘッドレスブラウザ「Kitesurf」をオープンソースで公開したと発表しました。 Kitesurf is now open source on GitHub under ...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 24
-    },
-    {
-      "title": "「Muse」専用メアド、無料で作成可能に AIが送受信を代理",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003372/",
-      "date": "2026-11-20T16:52:48+09:00",
-      "dateLabel": "11/20 16:52",
-      "desc": "米Metaは、AIエージェント「Muse」専用のメールアドレスについて、無料ユーザーを含む全ユーザーが取得できるようになったと発表した。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 20
-    },
-    {
-      "title": "マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始",
-      "link": "https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html",
-      "date": "2026-11-19T01:00:37+09:00",
-      "dateLabel": "11/19 01:00",
-      "desc": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 20
     }
   ]
 }
