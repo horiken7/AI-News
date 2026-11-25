@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-26T00:08:24.267382+09:00",
-  "generatedLabel": "2026/11/26 00:08",
+  "generatedAt": "2026-11-26T08:53:21.490286+09:00",
+  "generatedLabel": "2026/11/26 08:53",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 64,
+  "candidates": 63,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -74,6 +74,17 @@
       "score": 58
     },
     {
+      "title": "故障しても数分で部品交換できるモジュール式ヒューマノイド",
+      "link": "https://ascii.jp/elem/000/004/454/4454781/?rss",
+      "date": "2026-11-26T07:00:00+09:00",
+      "dateLabel": "11/26 07:00",
+      "desc": "O-ID合同会社は11月24日、工場の既存レイアウトを変更せずに組み込め、故障・摩耗した部品を現場で数分以内に交換できる完全モジュール式のヒューマノイドロボットについて、プレシードラウンドでの資金調達や次世代機の公開計画などを発表した。",
+      "img": "https://ascii.jp/img/2026/11/25/4556749/s/89ddb794907607b8.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 50
+    },
+    {
       "title": "GPT-6シリーズが生物学に特化したAIなしでタンパク質を設計できることが判明、実験室での検証にも成功",
       "link": "https://gigazine.net/news/20261125-openai-gpt-6-protein/",
       "date": "2026-11-25T12:33:00+09:00",
@@ -82,17 +93,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 50
-    },
-    {
-      "title": "AIエージェントは隙あらばサンドボックスの外に出るのか Anthropicが評価手法「Siren」を発表",
-      "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003430/",
-      "date": "2026-11-25T07:41:42+09:00",
-      "dateLabel": "11/25 07:41",
-      "desc": "Anthropicは、AIエージェントが脆弱なサンドボックスから抜け出すかどうかを測る評価手法「Siren」を発表した。1700以上のシナリオで6モデルを検証し、最新モデル群が外に置かれた認証情報などを不正に使った割合は0.6?1.6％にとどまった。システムプロンプトでのルール明示や報告ツールなどの対策を組み合わせると、問題行動をほぼゼロに抑えられるという。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
       "score": 50
     },
     {
@@ -195,6 +195,28 @@
       "score": 42
     },
     {
+      "title": "AIエージェントは隙あらばサンドボックスの外に出るのか Anthropicが評価手法「Siren」を発表",
+      "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003430/",
+      "date": "2026-11-25T07:41:42+09:00",
+      "dateLabel": "11/25 07:41",
+      "desc": "Anthropicは、AIエージェントが脆弱なサンドボックスから抜け出すかどうかを測る評価手法「Siren」を発表した。1700以上のシナリオで6モデルを検証し、最新モデル群が外に置かれた認証情報などを不正に使った割合は0.6?1.6％にとどまった。システムプロンプトでのルール明示や報告ツールなどの対策を組み合わせると、問題行動をほぼゼロに抑えられるという。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
+      "title": "送電網はもう待てない、ガス自家発電のデータセンター計画が米国で急増",
+      "link": "https://ascii.jp/elem/000/004/454/4454865/?rss",
+      "date": "2026-11-26T06:55:08+09:00",
+      "dateLabel": "11/26 06:55",
+      "desc": "送電網への接続を何年も待つより、割高でも自前で発電したい。AIブームの中、米国のデータセンター開発者の間でガス自家発電の計画が相次いでいる。ただ、排出量の増加に加え、ガス価格の上昇を通じて一般家庭の光熱費まで押し上げる恐れも指摘されている。",
+      "img": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
       "title": "MCPに新機能「Skills over MCP」登場。ツールとの接続だけでなく使い方のスキルもMCP経由で提供",
       "link": "https://www.publickey1.jp/blog/26/mcpskills_over_mcpmcp.html",
       "date": "2026-11-26T00:29:05+09:00",
@@ -212,28 +234,6 @@
       "dateLabel": "11/25 21:00",
       "desc": "クリエイター向けの性能を出先でも使いたい。そんな人にお勧めのノートPCが、mouseの「DAIV Z4-A9A01SR-B」だ。",
       "img": "https://ascii.jp/img/2026/11/25/4556504/s/ed2cf8a60049fde0.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "フィジカルAI Suite 提供開始、Omdia調査でリーダーに選出、他 ほぼ週刊ソラコム 11/07-11/20",
-      "link": "https://ascii.jp/elem/000/004/454/4454786/?rss",
-      "date": "2026-11-25T19:00:00+09:00",
-      "dateLabel": "11/25 19:00",
-      "desc": "フィジカルAI Suite 提供開始、Omdia調査でリーダーに選出、他 ほぼ週刊ソラコム 11/07-11/20",
-      "img": "https://ascii.jp/img/2026/11/25/4556770/s/31d5caaab194af51.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "1台のケースに2台のPC、AI時代を見据えた大型ケース……自作PCの楽しさを広げるThermaltake",
-      "link": "https://ascii.jp/elem/000/004/453/4453841/?rss",
-      "date": "2026-11-25T19:00:00+09:00",
-      "dateLabel": "11/25 19:00",
-      "desc": "「MSIカスタムPC王者決定戦2026」に出展したThermaltakeブースを取材。1台のケースに2つのPCシステムを搭載できる「CAPO X」をはじめ、AI向け大型ケースやユニークな電源ユニット、レーシングシミュレーターなど、自作PCの楽しさを広げる展示を紹介します。",
-      "img": "https://ascii.jp/img/2026/11/21/4555074/s/c1ad14cb5bf2539d.png",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 34
@@ -261,26 +261,26 @@
       "score": 34
     },
     {
-      "title": "現役組み込みエンジニアが考える「GitHub Copilot」の使いどころと検証の実際",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2611/25/news009.html",
-      "date": "2026-11-25T07:00:00+09:00",
-      "dateLabel": "11/25 07:00",
-      "desc": "現役組み込みエンジニアである筆者が、AIを業務で使って見えた期待と限界の全体像を論じた前回記事に続き、今回はその続編としてもう一歩踏み込み、代表的なAIコーディングエージェントとして知られている「GitHub Copilot」の活用法を取り上げる。",
+      "title": "マイクロソフト、クラウドやオンプレミスのデータベースを一元管理する「Database Hub」正式リリース。AIエージェントによる運用監視の自動化も",
+      "link": "https://www.publickey1.jp/blog/26/database_hubai.html",
+      "date": "2026-11-20T00:19:21+09:00",
+      "dateLabel": "11/20 00:19",
+      "desc": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、Microsoft Azureやオンプレミス、他社クラウドにあるデータベースなど、管理者が権限を持つデータベースを自動的に一覧表...",
       "img": "",
-      "src": "ITmedia AI+",
+      "src": "Publickey",
       "cat": "AIエージェント/業務",
-      "score": 34
+      "score": 28
     },
     {
-      "title": "「ソフトウェアファクトリー」とは結局何か OpenAIもUberもfreeeも始めたAIエージェントの「工場」の中身",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/25/news002.html",
-      "date": "2026-11-25T05:00:00+09:00",
-      "dateLabel": "11/25 05:00",
-      "desc": "AIコーディングエージェントを個別に使う段階から、工程全体を「工場」として組む段階へ。OpenAI、Uber、freeeなどの取り組みを手掛かりに、この言葉が指す仕組みと、人間に残る仕事を整理する。",
+      "title": "国内造船業再生の鍵はフィジカルAI、デジタルシップヤード開発の現状を知る",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2611/26/news018.html",
+      "date": "2026-11-26T08:00:00+09:00",
+      "dateLabel": "11/26 08:00",
+      "desc": "政府策定の「造船業再生ロードマップ」では、AIとロボット技術を組み合わせたフィジカルAIによる建造工程の自動化が求められている。「造船業界におけるAI・ロボティクス普及に向けたシンポジウム」では、ジャパン マリンユナイテッドや川崎重工業、ソフトバンクロボティクス、日立の取り組みが紹介された。",
       "img": "",
       "src": "ITmedia AI+",
       "cat": "AIエージェント/業務",
-      "score": 34
+      "score": 26
     }
   ]
 }
