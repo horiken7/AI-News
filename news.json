@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-26T14:55:38.562251+09:00",
-  "generatedLabel": "2026/11/26 14:55",
+  "generatedAt": "2026-11-27T01:01:29.791470+09:00",
+  "generatedLabel": "2026/11/27 01:01",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 60,
+  "candidates": 62,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 5
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 14
+      "items": 17
     },
     {
       "source": "CNET Japan",
@@ -43,7 +43,7 @@
     {
       "source": "Publickey",
       "ok": true,
-      "items": 10
+      "items": 11
     },
     {
       "source": "AINOW",
@@ -62,6 +62,28 @@
     }
   ],
   "articles": [
+    {
+      "title": "NVIDIAが高性能GPUを「拠点はアメリカにあるが実態は中国企業に支配される子会社」に優先販売していた",
+      "link": "https://gigazine.net/news/20261126-nvidia-china-company/",
+      "date": "2026-11-26T18:40:00+09:00",
+      "dateLabel": "11/26 18:40",
+      "desc": "NVIDIAの最先端高性能GPUはアメリカから中国への輸出が規制されています。ところが、NVIDIAが優先パートナーとして扱っている2つのアメリカ企業が中国企業と深いつながりを持っていることがCBSによって報じられました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 50
+    },
+    {
+      "title": "深センの中国人業者が規制されているNVIDIAのGPUを取り扱っていてアメリカの4～5倍の値段になっている品もあるとの指摘",
+      "link": "https://gigazine.net/news/20261126-nvidia-chip-china/",
+      "date": "2026-11-26T16:00:00+09:00",
+      "dateLabel": "11/26 16:00",
+      "desc": "中国・深センの電気街・華強北市場で、アメリカにより規制されているはずのNVIDIA製品が出回っているとワシントン・ポストの記者が報告しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 42
+    },
     {
       "title": "AIがゼロから設計した新しいCPU「Frostbite」が従来型CPUの4.59倍の電力効率を示す",
       "link": "https://gigazine.net/news/20261126-frostbite-cpu/",
@@ -96,17 +118,6 @@
       "score": 42
     },
     {
-      "title": "AIを動かすPC、どう選ぶ？ 「ASUS Agent Computer」が用途別の推奨ハードウェアを案内",
-      "link": "https://ascii.jp/elem/000/004/454/4454884/?rss",
-      "date": "2026-11-26T11:15:00+09:00",
-      "dateLabel": "11/26 11:15",
-      "desc": "ASUS JAPANは「ASUS Agent Computer」の取り組みを拡充。生成AIや業務自動化などの用途に応じた推奨ハードウェアを案内し、ローカル・クラウド・ハイブリッドのAI環境選びを支援する。AIエージェントや大規模言語モデルの導入を支えるソフトウェアも展開する。",
-      "img": "https://ascii.jp/img/2026/11/26/4556936/s/7f77a70dbdde9a30.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
       "title": "AnthropicがClaudeを使って自社APIをPythonからRustに移植しCPU使用量を約70％削減した方法を公開",
       "link": "https://gigazine.net/news/20261126-anthropic-claude-api-rust/",
       "date": "2026-11-26T11:02:00+09:00",
@@ -115,50 +126,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "「Google Workspace MCPサーバ」と「Google Workspace CLI」が正式版としてリリース",
-      "link": "https://www.publickey1.jp/blog/26/google_workspace_mcpgoogle_workspace_cli.html",
-      "date": "2026-11-26T00:27:15+09:00",
-      "dateLabel": "11/26 00:27",
-      "desc": "Googleは、Google WorkspaceをAIエージェントが操作するためのインターフェイスとして「Google Workspace MCP Server」と「Google Workspace CLI」が正式版になったことを発表しまし...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "AIにリアルタイムでマインクラフトをプレイさせて性能を測定する「KradleBench」、総合1位はGPT-6.2 AstraだがPVPなら人間が最強",
-      "link": "https://gigazine.net/news/20261125-kradlebench-ai-benchmark-minecraft/",
-      "date": "2026-11-25T21:00:00+09:00",
-      "dateLabel": "11/25 21:00",
-      "desc": "AIにMinecraftをプレイさせて性能を測定する「KradleBench」がAI研究組織のKradleによって公開されました。単体のAIにプレイさせるのではなく、複数のAIエージェントにマルチプレイさせるのが特徴で、協力プレイだけでなく競合プレイの性能も測定されています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "AnthropicとOpenAIの従業員らが「未公開モデルが強力になりすぎて一般公開するのは危険」と懸念",
-      "link": "https://gigazine.net/news/20261125-anthropic-openai-employees-fear-unreleased-ai-models/",
-      "date": "2026-11-25T20:30:00+09:00",
-      "dateLabel": "11/25 20:30",
-      "desc": "大手AI企業のAnthropicやOpenAIで、複数の従業員が未公開の最先端AIモデルの能力が高くなりすぎたことを懸念していることがわかりました。この情報を伝えたニュースサイト・Axiosによると、すでにAIモデルを制御するための技術的解決策を凌駕し始めているそうです。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "中国の諜報機関が高性能AIチップの密輸を支援する秘密工作を少なくとも2年前から展開していたことが明らかに",
-      "link": "https://gigazine.net/news/20261125-china-spy-nvidia-chips/",
-      "date": "2026-11-25T18:45:00+09:00",
-      "dateLabel": "11/25 18:45",
-      "desc": "「中国の情報機関である国家安全部(MSS)が中国企業による高性能AIチップの入手を支援する秘密工作を少なくとも2年前から展開している」とアメリカやアジア、ヨーロッパの現職および元当局者らがThe New York Timesに証言しました。国家安全部はアメリカなどが課す輸出規制に対抗するための専門チームを設置し、半導体の調達支援や情報収集を進めているとのこと",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
       "score": 42
     },
     {
@@ -173,24 +140,79 @@
       "score": 42
     },
     {
-      "title": "10コア16スレッドでマルチタスクに！ iiyama PC、Core 7搭載15.6型ノートを発売",
-      "link": "https://ascii.jp/elem/000/004/455/4455050/?rss",
-      "date": "2026-11-26T13:30:00+09:00",
-      "dateLabel": "11/26 13:30",
-      "desc": "ユニットコムは、Core 7 240H搭載の15.6型フルHDノートPCを11月25日に発売。10コア16スレッドのCPUに、Copilotキーとテンキー、USB計4ポートを備える。BTOに対応し、Windows 11 Home・8GBメモリモデルは14万9800円、Pro・16GBモデルは17万4700円。",
-      "img": "https://ascii.jp/img/2026/11/26/4557072/s/915afd2f867ac375.png",
+      "title": "ブラックフライデーで「iPhone Air」が再びの大幅割引！ アップルの原点とも言えるシンプルデザインが美しすぎる",
+      "link": "https://ascii.jp/elem/000/004/455/4455397/?rss",
+      "date": "2026-11-27T00:45:00+09:00",
+      "dateLabel": "11/27 00:45",
+      "desc": "先行セールが開始されたAmazonブラックフライデー。現時点でオトクになっているiPhoneは、この手の大型セールでは定番な感があるiPhone Airです！",
+      "img": "https://ascii.jp/img/2026/11/27/4557445/s/286155cd917d0337.jpg",
       "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "イーロン・マスクのNeuralinkが脳インプラントの実用化に前進、アメリカ初の主要臨床試験が承認される",
+      "link": "https://gigazine.net/news/20261126-neuralink-fda-approval/",
+      "date": "2026-11-26T20:40:00+09:00",
+      "dateLabel": "11/26 20:40",
+      "desc": "実業家のイーロン・マスク氏が設立した脳インプラント開発企業のNeuralinkが、アメリカ食品医薬品局(FDA)から新たな臨床試験「LINK」の開始承認を取得したと日本時間の2026年11月26日に発表しました。LINKはアメリカ初の埋め込み型ブレイン・コンピューター・インターフェース(BCI)の主要臨床試験で、製品の販売承認に向けて安全性や有効性を検証する",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 34
+    },
+    {
+      "title": "GPT-6.2 Astraが歴史学者もわからなかった「1808年に描かれた北米旅行のスケッチブック」の作者を22分で特定",
+      "link": "https://gigazine.net/news/20261126-gpt-62-astra-solves-a-historical-mystery/",
+      "date": "2026-11-26T20:00:00+09:00",
+      "dateLabel": "11/26 20:00",
+      "desc": "OpenAIがリリースしたAIモデル「GPT-6.2 Astra」が、専門の歴史学者でさえわからなかった1808年に描かれたスケッチブックの作者を、わずかな手がかりからたった22分で特定してしまったと報告されました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "MetaのAIエージェント「Muse」による買い物をAmazonがブロックしている件について「解除」する方向での提携について協議中との報道",
+      "link": "https://gigazine.net/news/20261126-muse-amazon-discuss/",
+      "date": "2026-11-26T19:00:00+09:00",
+      "dateLabel": "11/26 19:00",
+      "desc": "AIエージェントを使いやすいアプリに落とし込んだMetaの「Muse」は、40日間で1000万ダウンロードされるなど高い人気を集めました。このMuseをAmazonがブロックしている件で、AmazonとMetaがブロックを解除する方針で協議していると報じられました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 34
     },
     {
-      "title": "詐欺電話の検知もGeminiも！ FCNT「らくらくスマートフォン F-53G」、2027年1月下旬以降発売へ",
-      "link": "https://ascii.jp/elem/000/004/454/4454936/?rss",
-      "date": "2026-11-26T12:45:00+09:00",
-      "dateLabel": "11/26 12:45",
-      "desc": "FCNTは「らくらくスマートフォン F-53G」を2027年1月下旬以降にドコモから発売。約5.4インチ有機ELと押した感覚がわかるタッチパネルを採用し、Geminiの呼び出しや詐欺電話の検知、海外着信の一括拒否に対応する。約5030万画素カメラを搭載し、カラーは3色を展開。",
-      "img": "https://ascii.jp/img/2026/11/26/4557022/s/3c63d7b33680acf6.jpg",
-      "src": "ASCII.jp",
+      "title": "「Anthropicのダリオ・アモデイCEOが人間の自由意志をAIに委ねようとしている」という報道を本人が真っ向から否定し「AIの未来は民主的なプロセスで決定されるべき」と明言",
+      "link": "https://gigazine.net/news/20261126-dario-amodei-ai-human/",
+      "date": "2026-11-26T18:14:00+09:00",
+      "dateLabel": "11/26 18:14",
+      "desc": "海外メディアのAxiosが2026年11月25日に「Anthropicのダリオ・アモデイCEOは人間の意思決定を高性能AIに委ねることを肯定している」と報じました。アモデイCEOは自身Xアカウントで報道内容を否定し、自身のAIについての考え方を長文で説明しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "「Gemini 4 Neon」が実際の標高データからスキーシミュレーターを開発――Google公式が勧める利用例まとめ",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/26/2000003494/",
+      "date": "2026-11-26T18:00:00+09:00",
+      "dateLabel": "11/26 18:00",
+      "desc": "Googleが新発表したAIモデル「Gemini 4 Neon」について、公式ブログで披露されたデモや日常での活用場面をまとめて紹介する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 34
+    },
+    {
+      "title": "OpenAIが57年来の数学の難問「行列乗算はどこまで効率化できるのか」に決着をつける論文を公開",
+      "link": "https://gigazine.net/news/20261126-openai-matrix-multiplication/",
+      "date": "2026-11-26T17:30:00+09:00",
+      "dateLabel": "11/26 17:30",
+      "desc": "OpenAIが2026年11月25日、2つの正方行列を掛け合わせる際の計算量を左右する「行列乗算の指数(ω)」が正確に4分の9であることを証明したとする論文を公開しました。行列乗算の計算量をどこまで削減できるのかは1969年から研究が続けられてきた問題で、数学やコンピューター科学における重要な未解決問題の1つとされてきました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "LLM/モデル",
       "score": 34
     },
@@ -206,28 +228,6 @@
       "score": 34
     },
     {
-      "title": "フィジカルAIにおける「つなぐ」「守る」「育てる」とは？ ― 第２回：SORACOM フィジカルAI Suite 解説",
-      "link": "https://ascii.jp/elem/000/004/454/4454933/?rss",
-      "date": "2026-11-26T11:30:00+09:00",
-      "dateLabel": "11/26 11:30",
-      "desc": "フィジカルAIにおける「つなぐ」「守る」「育てる」とは？ ― 第２回：SORACOM フィジカルAI Suite 解説",
-      "img": "https://ascii.jp/img/2026/11/26/4556991/s/33c124a7df4fb882.png",
-      "src": "ASCII.jp",
-      "cat": "生成AI/マルチモーダル",
-      "score": 34
-    },
-    {
-      "title": "静音性と冷却性を追求！ ASUS「DUAL-RTX5070-12G-EVO」、パソコン工房専売で登場",
-      "link": "https://ascii.jp/elem/000/004/454/4454919/?rss",
-      "date": "2026-11-26T11:30:00+09:00",
-      "dateLabel": "11/26 11:30",
-      "desc": "ASUSは「DUAL-RTX5070-12G-EVO」を11月27日にパソコン工房専売で発売。GeForce RTX 5070を搭載し、約2.5スロットの設計とAxial-techファンを採用する。GPU温度50度未満で2基のファンを停止する0dBテクノロジーを備え、軽作業時の静音性にも配慮。価格は18万4800円。",
-      "img": "https://ascii.jp/img/2026/11/26/4556966/s/7e8c04abb78deef7.png",
-      "src": "ASCII.jp",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
       "title": "アメリカの規制当局がSpaceXの宇宙AIデータセンター設置計画を承認",
       "link": "https://gigazine.net/news/20261126-fcc-approves-spacex-plan-ai-data-centers-space/",
       "date": "2026-11-26T11:30:00+09:00",
@@ -239,11 +239,11 @@
       "score": 34
     },
     {
-      "title": "MCPに新機能「Skills over MCP」登場。ツールとの接続だけでなく使い方のスキルもMCP経由で提供",
-      "link": "https://www.publickey1.jp/blog/26/mcpskills_over_mcpmcp.html",
-      "date": "2026-11-26T00:29:05+09:00",
-      "dateLabel": "11/26 00:29",
-      "desc": "AIエージェントと外部ツールを接続する業界標準となっているMCP（Model Context Protocol）に、新機能として「Skills over MCP」がβ版として追加されました。 Skills over MCPを利用することで、...",
+      "title": "「Google Workspace MCPサーバ」と「Google Workspace CLI」が正式版としてリリース",
+      "link": "https://www.publickey1.jp/blog/26/google_workspace_mcpgoogle_workspace_cli.html",
+      "date": "2026-11-26T00:27:15+09:00",
+      "dateLabel": "11/26 00:27",
+      "desc": "Googleは、Google WorkspaceをAIエージェントが操作するためのインターフェイスとして「Google Workspace MCP Server」と「Google Workspace CLI」が正式版になったことを発表しまし...",
       "img": "",
       "src": "Publickey",
       "cat": "AIエージェント/業務",
@@ -261,25 +261,25 @@
       "score": 34
     },
     {
-      "title": "マイクロソフト、クラウドやオンプレミスのデータベースを一元管理する「Database Hub」正式リリース。AIエージェントによる運用監視の自動化も",
-      "link": "https://www.publickey1.jp/blog/26/database_hubai.html",
-      "date": "2026-11-20T00:19:21+09:00",
-      "dateLabel": "11/20 00:19",
-      "desc": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、Microsoft Azureやオンプレミス、他社クラウドにあるデータベースなど、管理者が権限を持つデータベースを自動的に一覧表...",
+      "title": "さくらインターネット、AIを月額固定料金で提供する「シンプルAI」発表、システムへの組み込み用途を想定",
+      "link": "https://www.publickey1.jp/blog/26/aiai_1.html",
+      "date": "2026-11-27T00:45:31+09:00",
+      "dateLabel": "11/27 00:45",
+      "desc": "さくらインターネットは11月25日と26日の2日間、大規模イベント「SAKURA DEKIRU Conference 2026」を都内で開催。2日目の基調講演で、新サービスとして月額固定料金でAIを提供する「シンプルAI」を発表しました。 ...",
       "img": "",
       "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 28
+      "cat": "AI全般",
+      "score": 26
     },
     {
-      "title": "手書き文字やスケッチを生成できるAIモデル「PenGPT」",
-      "link": "https://gigazine.net/news/20261126-pengpt/",
-      "date": "2026-11-26T14:50:00+09:00",
-      "dateLabel": "11/26 14:50",
-      "desc": "テキストから手書き文字やスケッチを生成する小型トランスフォーマー「PenGPT」を機械学習研究者のサム・グレイダナス氏が公開しました。 続きを読む...",
+      "title": "さくらインターネット、AWSやAzureなど他クラウドでバックアップ可能な新ストレージ「Object Storage Suite」（OS2）発表",
+      "link": "https://www.publickey1.jp/blog/26/awsazureobject_storage_suiteos2.html",
+      "date": "2026-11-27T00:42:36+09:00",
+      "dateLabel": "11/27 00:42",
+      "desc": "さくらインターネットは11月25日と26日の2日間、大規模イベント「SAKURA DEKIRU Conference 2026」を都内で開催。2日めの基調講演で、新たなストレージサービス「Object Storage Suite」（OS2）...",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
+      "src": "Publickey",
+      "cat": "AI全般",
       "score": 26
     }
   ]
