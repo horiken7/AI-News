@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-27T09:52:04.211605+09:00",
-  "generatedLabel": "2026/11/27 09:52",
+  "generatedAt": "2026-11-27T18:15:40.841141+09:00",
+  "generatedLabel": "2026/11/27 18:15",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 65,
+  "candidates": 61,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 2
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 18
+      "items": 19
     },
     {
       "source": "CNET Japan",
@@ -63,14 +63,25 @@
   ],
   "articles": [
     {
-      "title": "税理士・会計事務所特化のAIエージェント。事務所ごとの業務フローに合わせて作り込む",
-      "link": "https://ascii.jp/elem/000/004/455/4455347/?rss",
-      "date": "2026-11-27T07:00:00+09:00",
-      "dateLabel": "11/27 07:00",
-      "desc": "株式会社Zeimeeは11月19日、プレシリーズAラウンドで単独4,000万円の資金調達（アイザック株式会社が同日発表）を実施したのに伴い、エンジニアが顧客の現場に入り込んで業務フローに合わせてAIを開発・定着させる事業の体制拡大を進める。",
-      "img": "https://ascii.jp/img/2026/11/26/4557362/s/bc1458dc2e062792.jpg",
-      "src": "ASCII.jp",
-      "cat": "AIエージェント/業務",
+      "title": "NVIDIAが海賊版書籍を配布しAdobeと共有したと著者らが主張",
+      "link": "https://gigazine.net/news/20261127-nvidia-adobe-pirate/",
+      "date": "2026-11-27T14:22:00+09:00",
+      "dateLabel": "11/27 14:22",
+      "desc": "NVIDIAがAIモデルの学習に著作権で保護された書籍を無断で使用したとして、2024年に書籍著者らから提訴されました。裁判所は訴訟の一部却下申し立てを認めましたが、一部の主張は訴訟を継続できると判断しており、書籍著者らは2026年11月23日に「NVIDIAはダウンロードした海賊版書籍をAdobeなどの提携企業に拡散した」と訴状を修正しています。 続きを読",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 50
+    },
+    {
+      "title": "NVIDIA・ATI・3dfxの往年のGPUデモ36種類をブラウザ上で楽しめる「GPU Demo Gallery」",
+      "link": "https://gigazine.net/news/20261127-gpu-demo-gallery/",
+      "date": "2026-11-27T10:43:00+09:00",
+      "dateLabel": "11/27 10:43",
+      "desc": "NVIDIAやATI、3dfxなどのグラフィックスカードメーカーは、かつて新製品の性能や新たな描画技術をアピールするために、さまざまな3Dグラフィックスのデモを公開していました。そんな往年のGPUデモ36種類を、オリジナルのファイルを基に再構築してブラウザ上で動作するようにした「GPU Demo Gallery」が個人開発者のアーチット・コーデ氏によって公開",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
       "score": 50
     },
     {
@@ -83,6 +94,17 @@
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
       "score": 50
+    },
+    {
+      "title": "未経験スタッフをAIエンジニアに育ててきた自社カリキュラムを一般公開。株式会社リバイラル、150社超のDX相談と受託開発の現場から生まれた「TECHSTARS AI」を提供開始",
+      "link": "https://ascii.jp/elem/000/004/455/4455744/?rss",
+      "date": "2026-11-27T16:55:27+09:00",
+      "dateLabel": "11/27 16:55",
+      "desc": "未経験スタッフをAIエンジニアに育ててきた自社カリキュラムを一般公開。株式会社リバイラル、150社超のDX相談と受託開発の現場から生まれた「TECHSTARS AI」を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 42
     },
     {
       "title": "AMD製サーバー向けCPU「EPYC」は10年間でAI性能が133倍に向上、Zen 6世代とZen 1世代のベンチマーク比較が公開される",
@@ -107,91 +129,47 @@
       "score": 42
     },
     {
-      "title": "深センの中国人業者が規制されているNVIDIAのGPUを取り扱っていてアメリカの4～5倍の値段になっている品もあるとの指摘",
-      "link": "https://gigazine.net/news/20261126-nvidia-chip-china/",
-      "date": "2026-11-26T16:00:00+09:00",
-      "dateLabel": "11/26 16:00",
-      "desc": "中国・深センの電気街・華強北市場で、アメリカにより規制されているはずのNVIDIA製品が出回っているとワシントン・ポストの記者が報告しました。 続きを読む...",
+      "title": "NVIDIAがシンガポールなど東南アジア4カ国へのサーバー出荷停止をDELLやSupermicroなどに指示",
+      "link": "https://gigazine.net/news/20261127-nvidia-stops-chips-shipments-to-south-east-asia/",
+      "date": "2026-11-27T17:15:00+09:00",
+      "dateLabel": "11/27 17:15",
+      "desc": "NVIDIAがDELLやSupermicroといったメーカーに対し、シンガポール、マレーシア、インドネシア、タイの東南アジア4カ国にNVIDIA製半導体を搭載したサーバーを出荷しないよう指示したことがわかりました。東南アジア諸国が、NVIDIA製半導体を何とかして入手したい中国にとっての中継地になっており、アメリカの商務省が対策に乗り出したためです。 続きを",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "AIがゼロから設計した新しいCPU「Frostbite」が従来型CPUの4.59倍の電力効率を示す",
-      "link": "https://gigazine.net/news/20261126-frostbite-cpu/",
-      "date": "2026-11-26T14:40:00+09:00",
-      "dateLabel": "11/26 14:40",
-      "desc": "半導体設計にAIを活用するスタートアップのArchitect Labsが、AIによってアーキテクチャの考案から設計、検証までを行った汎用CPU「Frostbite」を2026年11月18日に発表しました。Frostbiteは従来のCPUとは異なる計算モデルを採用しており、製造前の性能評価では比較対象となった既存のCPUコアに対して消費電力当たりの性能が4.5",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 42
-    },
-    {
-      "title": "「Claude Duet」日本でも開始 AnthropicのAIエージェント、研究プレビューを米国外に拡大",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/26/2000003483/",
-      "date": "2026-11-26T14:09:57+09:00",
-      "dateLabel": "11/26 14:09",
-      "desc": "前にウェイトリストに登録していた「Pro」「Max」「Ultra」ユーザー向けに招待が届き始めており、「招待が来た」と報告する日本のユーザーが相次いでいる。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "AnthropicのアモデイCEO、「人間の自由意志をAIに明け渡す」考えを否定 AI企業間で議論",
-      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003473/",
-      "date": "2026-11-26T11:24:00+09:00",
-      "dateLabel": "11/26 11:24",
-      "desc": "Anthropicのダリオ・アモデイCEOは、超知能AIに人間の意思決定権を委ねるべきだと考えているとしたAxiosの報道をXで否定した。社会の統治と個別タスクの自動化を混同していると反論し、AIは民主的プロセスで管理されるべきだと強調した。超知能時代の主導権を巡っては、OpenAIやMeta幹部も発言しており議論が広がっている。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
-    },
-    {
-      "title": "AnthropicがClaudeを使って自社APIをPythonからRustに移植しCPU使用量を約70％削減した方法を公開",
-      "link": "https://gigazine.net/news/20261126-anthropic-claude-api-rust/",
-      "date": "2026-11-26T11:02:00+09:00",
-      "dateLabel": "11/26 11:02",
-      "desc": "AI企業のAnthropicが、AIモデル「Claude」を外部から利用するための「Messages API」をPythonからRustに移植した際の開発手法を公開しました。AnthropicはClaudeを活用して移植を進め、2026年9月にサービスを停止することなくRust版へ移行。リクエスト当たりのCPU使用量を約70％削減することに成功しています。 ",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 42
-    },
-    {
-      "title": "ASUS、Ryzen AI搭載の超小型ミニPC「PN55」と省スペース「VM31」を発売",
-      "link": "https://ascii.jp/elem/000/004/455/4455410/?rss",
-      "date": "2026-11-27T08:30:00+09:00",
-      "dateLabel": "11/27 08:30",
-      "desc": "ASUS JAPANがミニPC「ASUS ExpertCenter PN55」と「ASUS Mini PC VM31」を11月27日より発売する。PN55はAMD Ryzen AI 400シリーズとWi-Fi 7搭載の0.6L高性能モデル、VM31は約0.33kg・0.55Lの省スペースモデルで、販売チャネルや特徴を整理して紹介する。",
-      "img": "https://ascii.jp/img/2026/11/27/4557490/s/11fb63aeb3eebb9e.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "ASUS、約3L筐体にRTX 5080搭載のゲーミングミニPC「ROG NUC 16」ホワイトモデルをAmazonで先行発売",
-      "link": "https://ascii.jp/elem/000/004/455/4455409/?rss",
-      "date": "2026-11-27T08:15:00+09:00",
-      "dateLabel": "11/27 08:15",
-      "desc": "ASUS JAPANが、Intel Core Ultra 9 290HXとGeForce RTX 5080 Laptop GPUを約3L筐体に収めたゲーミングミニPC「ROG NUC 16」ホワイトモデル2構成を11月27日からAmazonで先行発売する。",
-      "img": "https://ascii.jp/img/2026/11/27/4557464/s/6d7f6051face950d.jpg",
-      "src": "ASCII.jp",
       "cat": "半導体/GPU",
       "score": 34
     },
     {
-      "title": "ブラックフライデーで「iPhone Air」が再びの大幅割引！ アップルの原点とも言えるシンプルデザインが美しすぎる",
-      "link": "https://ascii.jp/elem/000/004/455/4455397/?rss",
-      "date": "2026-11-27T00:45:00+09:00",
-      "dateLabel": "11/27 00:45",
-      "desc": "先行セールが開始されたAmazonブラックフライデー。現時点でオトクになっているiPhoneは、この手の大型セールでは定番な感があるiPhone Airです！",
-      "img": "https://ascii.jp/img/2026/11/27/4557445/s/286155cd917d0337.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
+      "title": "NVIDIAが画像生成AI「Nemotron-Labs-Image-30B-A3B」を公開、拡散モデルではなく自己回帰モデルを採用しハーネスと組み合わせてGPT-Image-2超えを達成",
+      "link": "https://gigazine.net/news/20261127-nemotron-labs-image-30b-a3b/",
+      "date": "2026-11-27T12:40:00+09:00",
+      "dateLabel": "11/27 12:40",
+      "desc": "NVIDIAが画像生成AIモデル「Nemotron-Labs-Image-30B-A3B」をオープンウェイトモデルとして無償公開しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "中国への過度なハイテク輸出規制は「国内開発体制の加速につながる」と半導体露光装置メーカー・ASMLのフーケCEOが警告",
+      "link": "https://gigazine.net/news/20261127-asml-ceo-warn-to-export-ban/",
+      "date": "2026-11-27T12:35:00+09:00",
+      "dateLabel": "11/27 12:35",
+      "desc": "世界最大の半導体露光装置メーカーとして知られるオランダ・ASMLのクリストフ・フーケCEOが、半導体などの最先端技術を守るための輸出規制はある程度必要だと認めた一方で、過度な規制は中国の国内開発体制の強化につながるだけだと警告しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 34
+    },
+    {
+      "title": "X(旧Twitter)がついにペアレンタルコントロール機能を導入",
+      "link": "https://gigazine.net/news/20261127-x-finally-parental-controls/",
+      "date": "2026-11-27T10:46:00+09:00",
+      "dateLabel": "11/27 10:46",
+      "desc": "X(旧Twitter)の安全性部門が、13～17歳の子どもを保護するためのペアレンタルコントロール機能を追加したことを発表しました。2006年にTwitterが始まって以来、実に20年越しのペアレンタルコントロール機能実装になります。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
       "score": 34
     },
     {
@@ -228,59 +206,81 @@
       "score": 34
     },
     {
-      "title": "「Anthropicのダリオ・アモデイCEOが人間の自由意志をAIに委ねようとしている」という報道を本人が真っ向から否定し「AIの未来は民主的なプロセスで決定されるべき」と明言",
-      "link": "https://gigazine.net/news/20261126-dario-amodei-ai-human/",
-      "date": "2026-11-26T18:14:00+09:00",
-      "dateLabel": "11/26 18:14",
-      "desc": "海外メディアのAxiosが2026年11月25日に「Anthropicのダリオ・アモデイCEOは人間の意思決定を高性能AIに委ねることを肯定している」と報じました。アモデイCEOは自身Xアカウントで報道内容を否定し、自身のAIについての考え方を長文で説明しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "「Gemini 4 Neon」が実際の標高データからスキーシミュレーターを開発――Google公式が勧める利用例まとめ",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/26/2000003494/",
-      "date": "2026-11-26T18:00:00+09:00",
-      "dateLabel": "11/26 18:00",
-      "desc": "Googleが新発表したAIモデル「Gemini 4 Neon」について、公式ブログで披露されたデモや日常での活用場面をまとめて紹介する。",
+      "title": "「Claude Duet」日本でも開始 AnthropicのAIエージェント、研究プレビューを米国外に拡大",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/26/2000003483/",
+      "date": "2026-11-26T14:09:57+09:00",
+      "dateLabel": "11/26 14:09",
+      "desc": "前にウェイトリストに登録していた「Pro」「Max」「Ultra」ユーザー向けに招待が届き始めており、「招待が来た」と報告する日本のユーザーが相次いでいる。",
       "img": "",
       "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "OpenAIが57年来の数学の難問「行列乗算はどこまで効率化できるのか」に決着をつける論文を公開",
-      "link": "https://gigazine.net/news/20261126-openai-matrix-multiplication/",
-      "date": "2026-11-26T17:30:00+09:00",
-      "dateLabel": "11/26 17:30",
-      "desc": "OpenAIが2026年11月25日、2つの正方行列を掛け合わせる際の計算量を左右する「行列乗算の指数(ω)」が正確に4分の9であることを証明したとする論文を公開しました。行列乗算の計算量をどこまで削減できるのかは1969年から研究が続けられてきた問題で、数学やコンピューター科学における重要な未解決問題の1つとされてきました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "GoogleのAIが人間の介入なしに6本の数学論文を生成、素因数分解など数十年停滞していた分野に光",
-      "link": "https://gigazine.net/news/20261126-cogentic-6-research-papers/",
-      "date": "2026-11-26T11:47:00+09:00",
-      "dateLabel": "11/26 11:47",
-      "desc": "Googleの研究部門であるGoogle Researchが、6つの数学論文をGitHubに投稿しました。これらの論文は全て、Gemini 4をベースとする数学的発見を行うためのマルチエージェントシステム「Cogentic」が生成しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
       "score": 34
     },
     {
-      "title": "アメリカの規制当局がSpaceXの宇宙AIデータセンター設置計画を承認",
-      "link": "https://gigazine.net/news/20261126-fcc-approves-spacex-plan-ai-data-centers-space/",
-      "date": "2026-11-26T11:30:00+09:00",
-      "dateLabel": "11/26 11:30",
-      "desc": "アメリカ国内の放送通信事業の規制監督を行う連邦通信委員会(FCC)が、イーロン・マスク氏率いる宇宙開発企業であるSpaceXの「宇宙AIデータセンター」設置計画を承認しました。 続きを読む...",
+      "title": "AnthropicのアモデイCEO、「人間の自由意志をAIに明け渡す」考えを否定 AI企業間で議論",
+      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003473/",
+      "date": "2026-11-26T11:24:00+09:00",
+      "dateLabel": "11/26 11:24",
+      "desc": "Anthropicのダリオ・アモデイCEOは、超知能AIに人間の意思決定権を委ねるべきだと考えているとしたAxiosの報道をXで否定した。社会の統治と個別タスクの自動化を混同していると反論し、AIは民主的プロセスで管理されるべきだと強調した。超知能時代の主導権を巡っては、OpenAIやMeta幹部も発言しており議論が広がっている。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "「Google Workspace MCPサーバ」と「Google Workspace CLI」が正式版としてリリース",
+      "link": "https://www.publickey1.jp/blog/26/google_workspace_mcpgoogle_workspace_cli.html",
+      "date": "2026-11-26T00:27:15+09:00",
+      "dateLabel": "11/26 00:27",
+      "desc": "Googleは、Google WorkspaceをAIエージェントが操作するためのインターフェイスとして「Google Workspace MCP Server」と「Google Workspace CLI」が正式版になったことを発表しまし...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "CORSAIRの人気キーボード・マウスがAmazonブラックフライデーにてお買い得価格で販売中",
+      "link": "https://ascii.jp/elem/000/004/455/4455650/?rss",
+      "date": "2026-11-27T18:00:00+09:00",
+      "dateLabel": "11/27 18:00",
+      "desc": "CORSAIR（コルセア）は、Amazon.co.jpのブラックフライデーセールにて、ゲーミングキーボード、マウス、ヘッドセット、マウスパッド、SCUFコントローラーなど、幅広い製品をセール価格で販売する。",
+      "img": "https://ascii.jp/img/2026/11/27/4557799/s/c2ee102af0523a68.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "サンタクロースと無料で話せる公衆電話を南太平洋の小さな島に設置した通信技術者の記録",
+      "link": "https://gigazine.net/news/20261127-payphone-on-pacific-island/",
+      "date": "2026-11-27T15:00:00+09:00",
+      "dateLabel": "11/27 15:00",
+      "desc": "南太平洋に浮かぶオーストラリア領のノーフォーク島で携帯電話網を運営する通信技術者のニック氏らが、中古の公衆電話機をアメリカから調達し、島に設置しました。公衆電話の設置から既存の通信網への接続、AIを活用した独自のサービスの実装までの一連の経緯を、ニック氏が自身のブログで公開しています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
+      "title": "破産申請したAIチャットサービス「Character.AI」が2100万アカウント超の非公開の会話履歴を競売にかけようとしている",
+      "link": "https://gigazine.net/news/20261127-character-ai-asset-sale/",
+      "date": "2026-11-27T11:42:00+09:00",
+      "dateLabel": "11/27 11:42",
+      "desc": "AIチャットサービス「Character.AI」が破産手続きの一環として、アメリカ国内の2100万アカウント超の会話履歴を売却しようとしていることが明らかになりました。売却対象には未成年者の会話履歴も含まれており、アメリカの42人の州司法長官が裁判所に売却計画を認めないよう求めています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "電通が「Geminiを使いこなすFDE」ら3000人育成プログラムを開始 その内容とは？",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/27/news038.html",
+      "date": "2026-11-27T09:45:00+09:00",
+      "dateLabel": "11/27 09:45",
+      "desc": "生成AIを導入しても、現場の業務に生かせないと成果にはつながらない。電通は約3000人を対象に、「Gemini Enterprise」を使いこなし、現場での生成AI活用を推進できる人材の育成を始めた。人材をどう育てるのか。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
     }
   ]
 }
