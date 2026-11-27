@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-27T01:01:29.791470+09:00",
-  "generatedLabel": "2026/11/27 01:01",
+  "generatedAt": "2026-11-27T09:52:04.211605+09:00",
+  "generatedLabel": "2026/11/27 09:52",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 62,
+  "candidates": 65,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 5
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 17
+      "items": 18
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "税理士・会計事務所特化のAIエージェント。事務所ごとの業務フローに合わせて作り込む",
+      "link": "https://ascii.jp/elem/000/004/455/4455347/?rss",
+      "date": "2026-11-27T07:00:00+09:00",
+      "dateLabel": "11/27 07:00",
+      "desc": "株式会社Zeimeeは11月19日、プレシリーズAラウンドで単独4,000万円の資金調達（アイザック株式会社が同日発表）を実施したのに伴い、エンジニアが顧客の現場に入り込んで業務フローに合わせてAIを開発・定着させる事業の体制拡大を進める。",
+      "img": "https://ascii.jp/img/2026/11/26/4557362/s/bc1458dc2e062792.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 50
+    },
+    {
       "title": "NVIDIAが高性能GPUを「拠点はアメリカにあるが実態は中国企業に支配される子会社」に優先販売していた",
       "link": "https://gigazine.net/news/20261126-nvidia-china-company/",
       "date": "2026-11-26T18:40:00+09:00",
@@ -72,6 +83,28 @@
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
       "score": 50
+    },
+    {
+      "title": "AMD製サーバー向けCPU「EPYC」は10年間でAI性能が133倍に向上、Zen 6世代とZen 1世代のベンチマーク比較が公開される",
+      "link": "https://gigazine.net/news/20261127-amd-epyc-performance/",
+      "date": "2026-11-27T07:00:00+09:00",
+      "dateLabel": "11/27 07:00",
+      "desc": "AMDのサーバープロセッサであるEPYCシリーズのZen 1世代「Naples」とZen 6世代「Venice」の性能比較がハードウェアレビュー系ニュースサイトのPhoronixによって実施されました。EPYCが過去約10年間でどれだけパフォーマンスを改善したかが明らかになっています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 42
+    },
+    {
+      "title": "AI原稿作成のやり方を解説！種類別プロンプト例とおすすめツール6選",
+      "link": "https://ainow.ai/2026/11/27/278565/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e5%258e%259f%25e7%25a8%25bf%25e4%25bd%259c%25e6%2588%2590%25e3%2581%25ae%25e3%2582%2584%25e3%2582%258a%25e6%2596%25b9%25e3%2582%2592%25e8%25a7%25a3%25e8%25aa%25ac%25ef%25bc%2581%25e7%25a8%25ae%25e9%25a1%259e%25e5%2588%25a5%25e3%2583%2597%25e3%2583%25ad%25e3%2583%25b3%25e3%2583%2597%25e3%2583%2588%25e4%25be%258b%25e3%2581%25a8",
+      "date": "2026-11-27T01:02:20+09:00",
+      "dateLabel": "11/27 01:02",
+      "desc": "発表資料やプレスリリースの締め切りが重なり、原稿をゼロから書く時間が足りないと感じている方は多いでしょう。ChatGPTに頼んでみたものの、硬い文章しか出てこず書き直した経験がある方もいるのではないでしょうか。 AIで原... The post AI原稿作成のやり方を解説！種類別プロンプト例とおすすめツール6選 first appeared on AI専門ニ",
+      "img": "",
+      "src": "AINOW",
+      "cat": "LLM/モデル",
+      "score": 42
     },
     {
       "title": "深センの中国人業者が規制されているNVIDIAのGPUを取り扱っていてアメリカの4～5倍の値段になっている品もあるとの指摘",
@@ -129,15 +162,26 @@
       "score": 42
     },
     {
-      "title": "AIエージェントは隙あらばサンドボックスの外に出るのか Anthropicが評価手法「Siren」を発表",
-      "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003430/",
-      "date": "2026-11-25T07:41:42+09:00",
-      "dateLabel": "11/25 07:41",
-      "desc": "Anthropicは、AIエージェントが脆弱なサンドボックスから抜け出すかどうかを測る評価手法「Siren」を発表した。1700以上のシナリオで6モデルを検証し、最新モデル群が外に置かれた認証情報などを不正に使った割合は0.6?1.6％にとどまった。システムプロンプトでのルール明示や報告ツールなどの対策を組み合わせると、問題行動をほぼゼロに抑えられるという。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "AIエージェント/業務",
-      "score": 42
+      "title": "ASUS、Ryzen AI搭載の超小型ミニPC「PN55」と省スペース「VM31」を発売",
+      "link": "https://ascii.jp/elem/000/004/455/4455410/?rss",
+      "date": "2026-11-27T08:30:00+09:00",
+      "dateLabel": "11/27 08:30",
+      "desc": "ASUS JAPANがミニPC「ASUS ExpertCenter PN55」と「ASUS Mini PC VM31」を11月27日より発売する。PN55はAMD Ryzen AI 400シリーズとWi-Fi 7搭載の0.6L高性能モデル、VM31は約0.33kg・0.55Lの省スペースモデルで、販売チャネルや特徴を整理して紹介する。",
+      "img": "https://ascii.jp/img/2026/11/27/4557490/s/11fb63aeb3eebb9e.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 34
+    },
+    {
+      "title": "ASUS、約3L筐体にRTX 5080搭載のゲーミングミニPC「ROG NUC 16」ホワイトモデルをAmazonで先行発売",
+      "link": "https://ascii.jp/elem/000/004/455/4455409/?rss",
+      "date": "2026-11-27T08:15:00+09:00",
+      "dateLabel": "11/27 08:15",
+      "desc": "ASUS JAPANが、Intel Core Ultra 9 290HXとGeForce RTX 5080 Laptop GPUを約3L筐体に収めたゲーミングミニPC「ROG NUC 16」ホワイトモデル2構成を11月27日からAmazonで先行発売する。",
+      "img": "https://ascii.jp/img/2026/11/27/4557464/s/6d7f6051face950d.jpg",
+      "src": "ASCII.jp",
+      "cat": "半導体/GPU",
+      "score": 34
     },
     {
       "title": "ブラックフライデーで「iPhone Air」が再びの大幅割引！ アップルの原点とも言えるシンプルデザインが美しすぎる",
@@ -237,50 +281,6 @@
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
       "score": 34
-    },
-    {
-      "title": "「Google Workspace MCPサーバ」と「Google Workspace CLI」が正式版としてリリース",
-      "link": "https://www.publickey1.jp/blog/26/google_workspace_mcpgoogle_workspace_cli.html",
-      "date": "2026-11-26T00:27:15+09:00",
-      "dateLabel": "11/26 00:27",
-      "desc": "Googleは、Google WorkspaceをAIエージェントが操作するためのインターフェイスとして「Google Workspace MCP Server」と「Google Workspace CLI」が正式版になったことを発表しまし...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "「Claude」で作ったアプリをMac／Windowsにインストール可能に 全プランでβ提供",
-      "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003431/",
-      "date": "2026-11-25T10:07:59+09:00",
-      "dateLabel": "11/25 10:07",
-      "desc": "Anthropicは、AIアシスタント「Claude」で作成したアーティファクトをMac／Windows向けのデスクトップアプリとして導入できる「Install as app」を全プラン向けにβ提供すると発表した。専用ウィンドウで動作し、通知やメニューバー表示、許可に応じたファイル操作にも対応する。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "さくらインターネット、AIを月額固定料金で提供する「シンプルAI」発表、システムへの組み込み用途を想定",
-      "link": "https://www.publickey1.jp/blog/26/aiai_1.html",
-      "date": "2026-11-27T00:45:31+09:00",
-      "dateLabel": "11/27 00:45",
-      "desc": "さくらインターネットは11月25日と26日の2日間、大規模イベント「SAKURA DEKIRU Conference 2026」を都内で開催。2日目の基調講演で、新サービスとして月額固定料金でAIを提供する「シンプルAI」を発表しました。 ...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "さくらインターネット、AWSやAzureなど他クラウドでバックアップ可能な新ストレージ「Object Storage Suite」（OS2）発表",
-      "link": "https://www.publickey1.jp/blog/26/awsazureobject_storage_suiteos2.html",
-      "date": "2026-11-27T00:42:36+09:00",
-      "dateLabel": "11/27 00:42",
-      "desc": "さくらインターネットは11月25日と26日の2日間、大規模イベント「SAKURA DEKIRU Conference 2026」を都内で開催。2日めの基調講演で、新たなストレージサービス「Object Storage Suite」（OS2）...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AI全般",
-      "score": 26
     }
   ]
 }
