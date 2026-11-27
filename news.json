@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-27T18:15:40.841141+09:00",
-  "generatedLabel": "2026/11/27 18:15",
+  "generatedAt": "2026-11-28T04:15:17.169699+09:00",
+  "generatedLabel": "2026/11/28 04:15",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 61,
+  "candidates": 64,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 2
+      "items": 8
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 19
+      "items": 16
     },
     {
       "source": "CNET Japan",
@@ -85,28 +85,6 @@
       "score": 50
     },
     {
-      "title": "NVIDIAが高性能GPUを「拠点はアメリカにあるが実態は中国企業に支配される子会社」に優先販売していた",
-      "link": "https://gigazine.net/news/20261126-nvidia-china-company/",
-      "date": "2026-11-26T18:40:00+09:00",
-      "dateLabel": "11/26 18:40",
-      "desc": "NVIDIAの最先端高性能GPUはアメリカから中国への輸出が規制されています。ところが、NVIDIAが優先パートナーとして扱っている2つのアメリカ企業が中国企業と深いつながりを持っていることがCBSによって報じられました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
-      "title": "未経験スタッフをAIエンジニアに育ててきた自社カリキュラムを一般公開。株式会社リバイラル、150社超のDX相談と受託開発の現場から生まれた「TECHSTARS AI」を提供開始",
-      "link": "https://ascii.jp/elem/000/004/455/4455744/?rss",
-      "date": "2026-11-27T16:55:27+09:00",
-      "dateLabel": "11/27 16:55",
-      "desc": "未経験スタッフをAIエンジニアに育ててきた自社カリキュラムを一般公開。株式会社リバイラル、150社超のDX相談と受託開発の現場から生まれた「TECHSTARS AI」を提供開始",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 42
-    },
-    {
       "title": "AMD製サーバー向けCPU「EPYC」は10年間でAI性能が133倍に向上、Zen 6世代とZen 1世代のベンチマーク比較が公開される",
       "link": "https://gigazine.net/news/20261127-amd-epyc-performance/",
       "date": "2026-11-27T07:00:00+09:00",
@@ -118,15 +96,15 @@
       "score": 42
     },
     {
-      "title": "AI原稿作成のやり方を解説！種類別プロンプト例とおすすめツール6選",
-      "link": "https://ainow.ai/2026/11/27/278565/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e5%258e%259f%25e7%25a8%25bf%25e4%25bd%259c%25e6%2588%2590%25e3%2581%25ae%25e3%2582%2584%25e3%2582%258a%25e6%2596%25b9%25e3%2582%2592%25e8%25a7%25a3%25e8%25aa%25ac%25ef%25bc%2581%25e7%25a8%25ae%25e9%25a1%259e%25e5%2588%25a5%25e3%2583%2597%25e3%2583%25ad%25e3%2583%25b3%25e3%2583%2597%25e3%2583%2588%25e4%25be%258b%25e3%2581%25a8",
-      "date": "2026-11-27T01:02:20+09:00",
-      "dateLabel": "11/27 01:02",
-      "desc": "発表資料やプレスリリースの締め切りが重なり、原稿をゼロから書く時間が足りないと感じている方は多いでしょう。ChatGPTに頼んでみたものの、硬い文章しか出てこず書き直した経験がある方もいるのではないでしょうか。 AIで原... The post AI原稿作成のやり方を解説！種類別プロンプト例とおすすめツール6選 first appeared on AI専門ニ",
+      "title": "GoogleがAIエージェントによるGmailなどへのAPI直接アクセスを制限へ、MCPサーバーかCLIの使用を要求",
+      "link": "https://gigazine.net/news/20261127-google-workspace-ai-tools-mcp/",
+      "date": "2026-11-27T21:00:00+09:00",
+      "dateLabel": "11/27 21:00",
+      "desc": "Googleは2027年2月1日から、AIエージェントがGmailやGoogleドライブなどのGoogle Workspaceのサービスにアクセスする際に公式のMCPサーバーやGoogle Workspace CLIを使用するよう求める方針を発表しました。GmailのMCPサーバーを巡ってはメールの送信などが一部の開発者に限定されていることが指摘されていまし",
       "img": "",
-      "src": "AINOW",
-      "cat": "LLM/モデル",
-      "score": 42
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
+      "score": 34
     },
     {
       "title": "NVIDIAがシンガポールなど東南アジア4カ国へのサーバー出荷停止をDELLやSupermicroなどに指示",
@@ -173,36 +151,14 @@
       "score": 34
     },
     {
-      "title": "イーロン・マスクのNeuralinkが脳インプラントの実用化に前進、アメリカ初の主要臨床試験が承認される",
-      "link": "https://gigazine.net/news/20261126-neuralink-fda-approval/",
-      "date": "2026-11-26T20:40:00+09:00",
-      "dateLabel": "11/26 20:40",
-      "desc": "実業家のイーロン・マスク氏が設立した脳インプラント開発企業のNeuralinkが、アメリカ食品医薬品局(FDA)から新たな臨床試験「LINK」の開始承認を取得したと日本時間の2026年11月26日に発表しました。LINKはアメリカ初の埋め込み型ブレイン・コンピューター・インターフェース(BCI)の主要臨床試験で、製品の販売承認に向けて安全性や有効性を検証する",
+      "title": "AI原稿作成のやり方を解説！種類別プロンプト例とおすすめツール6選",
+      "link": "https://ainow.ai/2026/11/27/278565/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e5%258e%259f%25e7%25a8%25bf%25e4%25bd%259c%25e6%2588%2590%25e3%2581%25ae%25e3%2582%2584%25e3%2582%258a%25e6%2596%25b9%25e3%2582%2592%25e8%25a7%25a3%25e8%25aa%25ac%25ef%25bc%2581%25e7%25a8%25ae%25e9%25a1%259e%25e5%2588%25a5%25e3%2583%2597%25e3%2583%25ad%25e3%2583%25b3%25e3%2583%2597%25e3%2583%2588%25e4%25be%258b%25e3%2581%25a8",
+      "date": "2026-11-27T01:02:20+09:00",
+      "dateLabel": "11/27 01:02",
+      "desc": "発表資料やプレスリリースの締め切りが重なり、原稿をゼロから書く時間が足りないと感じている方は多いでしょう。ChatGPTに頼んでみたものの、硬い文章しか出てこず書き直した経験がある方もいるのではないでしょうか。 AIで原... The post AI原稿作成のやり方を解説！種類別プロンプト例とおすすめツール6選 first appeared on AI専門ニ",
       "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 34
-    },
-    {
-      "title": "GPT-6.2 Astraが歴史学者もわからなかった「1808年に描かれた北米旅行のスケッチブック」の作者を22分で特定",
-      "link": "https://gigazine.net/news/20261126-gpt-62-astra-solves-a-historical-mystery/",
-      "date": "2026-11-26T20:00:00+09:00",
-      "dateLabel": "11/26 20:00",
-      "desc": "OpenAIがリリースしたAIモデル「GPT-6.2 Astra」が、専門の歴史学者でさえわからなかった1808年に描かれたスケッチブックの作者を、わずかな手がかりからたった22分で特定してしまったと報告されました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
+      "src": "AINOW",
       "cat": "LLM/モデル",
-      "score": 34
-    },
-    {
-      "title": "MetaのAIエージェント「Muse」による買い物をAmazonがブロックしている件について「解除」する方向での提携について協議中との報道",
-      "link": "https://gigazine.net/news/20261126-muse-amazon-discuss/",
-      "date": "2026-11-26T19:00:00+09:00",
-      "dateLabel": "11/26 19:00",
-      "desc": "AIエージェントを使いやすいアプリに落とし込んだMetaの「Muse」は、40日間で1000万ダウンロードされるなど高い人気を集めました。このMuseをAmazonがブロックしている件で、AmazonとMetaがブロックを解除する方針で協議していると報じられました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
       "score": 34
     },
     {
@@ -239,47 +195,91 @@
       "score": 34
     },
     {
-      "title": "CORSAIRの人気キーボード・マウスがAmazonブラックフライデーにてお買い得価格で販売中",
-      "link": "https://ascii.jp/elem/000/004/455/4455650/?rss",
-      "date": "2026-11-27T18:00:00+09:00",
-      "dateLabel": "11/27 18:00",
-      "desc": "CORSAIR（コルセア）は、Amazon.co.jpのブラックフライデーセールにて、ゲーミングキーボード、マウス、ヘッドセット、マウスパッド、SCUFコントローラーなど、幅広い製品をセール価格で販売する。",
-      "img": "https://ascii.jp/img/2026/11/27/4557799/s/c2ee102af0523a68.jpg",
+      "title": "「512GBで足りるかな……」と迷っている人に。1TBのM5 MacBook Airが3万円引きで24万8800円",
+      "link": "https://ascii.jp/elem/000/004/455/4455411/?rss",
+      "date": "2026-11-27T21:30:00+09:00",
+      "dateLabel": "11/27 21:30",
+      "desc": "Appleの2026年モデル「MacBook Air」がAmazonのブラックフライデー先行セールの対象に。参考価格278,800円から11％オフの248,800円で販売中。M5チップと16GBユニファイドメモリ、1TB SSDを搭載。ストレージ容量に余裕を持たせたい人にはうれしい3万円引きだ。",
+      "img": "https://ascii.jp/img/2026/11/27/4557477/s/eabde8f9883ee01a.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "サンタクロースと無料で話せる公衆電話を南太平洋の小さな島に設置した通信技術者の記録",
-      "link": "https://gigazine.net/news/20261127-payphone-on-pacific-island/",
-      "date": "2026-11-27T15:00:00+09:00",
-      "dateLabel": "11/27 15:00",
-      "desc": "南太平洋に浮かぶオーストラリア領のノーフォーク島で携帯電話網を運営する通信技術者のニック氏らが、中古の公衆電話機をアメリカから調達し、島に設置しました。公衆電話の設置から既存の通信網への接続、AIを活用した独自のサービスの実装までの一連の経緯を、ニック氏が自身のブログで公開しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI実装",
-      "score": 26
-    },
-    {
-      "title": "破産申請したAIチャットサービス「Character.AI」が2100万アカウント超の非公開の会話履歴を競売にかけようとしている",
-      "link": "https://gigazine.net/news/20261127-character-ai-asset-sale/",
-      "date": "2026-11-27T11:42:00+09:00",
-      "dateLabel": "11/27 11:42",
-      "desc": "AIチャットサービス「Character.AI」が破産手続きの一環として、アメリカ国内の2100万アカウント超の会話履歴を売却しようとしていることが明らかになりました。売却対象には未成年者の会話履歴も含まれており、アメリカの42人の州司法長官が裁判所に売却計画を認めないよう求めています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
+      "title": "アップル「iPhone 18」「iPhone Air 2」は2027年3月発売か 有機ELパネルの量産準備進む",
+      "link": "https://ascii.jp/elem/000/004/455/4455835/?rss",
+      "date": "2026-11-27T20:00:00+09:00",
+      "dateLabel": "11/27 20:00",
+      "desc": "アップルが2027年前半に発売するとうわさの標準モデル「iPhone 18」と「iPhone Air 2」の、ディスプレーに使う有機ELパネルの量産が2026年末から2027年1月にかけて始まるという。",
+      "img": "https://ascii.jp/img/2026/11/27/4557903/s/81669c8c5ffba887.png",
+      "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "電通が「Geminiを使いこなすFDE」ら3000人育成プログラムを開始 その内容とは？",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/27/news038.html",
-      "date": "2026-11-27T09:45:00+09:00",
-      "dateLabel": "11/27 09:45",
-      "desc": "生成AIを導入しても、現場の業務に生かせないと成果にはつながらない。電通は約3000人を対象に、「Gemini Enterprise」を使いこなし、現場での生成AI活用を推進できる人材の育成を始めた。人材をどう育てるのか。",
-      "img": "",
-      "src": "ITmedia AI+",
-      "cat": "LLM/モデル",
+      "title": "もはや議事録の手動作成は過去のもの！AIボイスレコーダー「Plaud Note Pro Flow Edition」",
+      "link": "https://ascii.jp/elem/000/004/454/4454692/?rss",
+      "date": "2026-11-27T20:00:00+09:00",
+      "dateLabel": "11/27 20:00",
+      "desc": "Plaudの「Plaud Note Pro Flow Edition」は、極薄2.99mmのAIボイスレコーダーです。最大50時間の連続録音に対応するほか、文字起こしや資料作成まで可能。日々の業務を効率化する一品です。",
+      "img": "https://ascii.jp/img/2026/11/25/4556677/s/533bf1bc14bff2da.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "Twelve South AirFly Drive｜USBケーブル不要 ！CarPlay/Android Auto対応アプリがスマホをバッグに入れたまま、ワイヤレスで使えるBluetoothアダプタ",
+      "link": "https://ascii.jp/elem/000/004/455/4455843/?rss",
+      "date": "2026-11-27T18:50:00+09:00",
+      "dateLabel": "11/27 18:50",
+      "desc": "Twelve South AirFly Drive｜USBケーブル不要 ！CarPlay/Android Auto対応アプリがスマホをバッグに入れたまま、ワイヤレスで使えるBluetoothアダプタ",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "【Amazonブラックフライデー】RebotAiの11インチ 128GB Android 16 タブレットが13,298円！通常価格から約44％OFFの特別価格で販売",
+      "link": "https://ascii.jp/elem/000/004/455/4455846/?rss",
+      "date": "2026-11-27T18:30:00+09:00",
+      "dateLabel": "11/27 18:30",
+      "desc": "【Amazonブラックフライデー】RebotAiの11インチ 128GB Android 16 タブレットが13,298円！通常価格から約44％OFFの特別価格で販売",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "11/30展示｜Fairy Devices、現実世界の情報を構造化データへ変換するプラットフォームを紹介",
+      "link": "https://ascii.jp/elem/000/004/455/4455321/?rss",
+      "date": "2026-11-27T18:30:00+09:00",
+      "dateLabel": "11/27 18:30",
+      "desc": "2026年11月30日、東京・品川インターシティホールにてディープテック・スタートアップのエコシステム構築をテーマにした展示交流・カンファレンスイベント「ASCII STARTUP TechDay 2026」が開催される。同イベントでは、学術、産業、行政の垣根を越えた多様なゲストを迎えてのセッションのほか、スタートアップ企業などによるブース展示を行う。",
+      "img": "https://ascii.jp/img/2026/11/27/4557798/s/c6761dbc4df8409e.png",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "11/30展示｜SolidSurface、業種・機種を問わないロボット運用基盤「OpenPlayZone」を紹介",
+      "link": "https://ascii.jp/elem/000/004/455/4455320/?rss",
+      "date": "2026-11-27T18:30:00+09:00",
+      "dateLabel": "11/27 18:30",
+      "desc": "2026年11月30日、東京・品川インターシティホールにてディープテック・スタートアップのエコシステム構築をテーマにした展示交流・カンファレンスイベント「ASCII STARTUP TechDay 2026」が開催される。同イベントでは、学術、産業、行政の垣根を越えた多様なゲストを迎えてのセッションのほか、スタートアップ企業などによるブース展示を行う。",
+      "img": "https://ascii.jp/img/2026/11/27/4557742/s/6fac6b91a88ccc37.png",
+      "src": "ASCII.jp",
+      "cat": "AI実装",
+      "score": 26
+    },
+    {
+      "title": "Aurora Mobile株式会社、「AI in Action」グローバル・ロードショーを東京で開幕",
+      "link": "https://ascii.jp/elem/000/004/455/4455839/?rss",
+      "date": "2026-11-27T18:26:44+09:00",
+      "dateLabel": "11/27 18:26",
+      "desc": "Aurora Mobile株式会社、「AI in Action」グローバル・ロードショーを東京で開幕",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 26
     }
   ]
