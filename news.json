@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-28T11:21:38.117108+09:00",
-  "generatedLabel": "2026/11/28 11:21",
+  "generatedAt": "2026-11-28T20:05:36.074338+09:00",
+  "generatedLabel": "2026/11/28 20:05",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 62,
+  "candidates": 56,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 7
+      "items": 3
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 15
+      "items": 13
     },
     {
       "source": "CNET Japan",
@@ -63,6 +63,17 @@
   ],
   "articles": [
     {
+      "title": "ゴムマリの業務AIエージェント、『取引先・委託先のセキュリティ管理』を提供開始",
+      "link": "https://ascii.jp/elem/000/004/455/4455919/?rss",
+      "date": "2026-11-28T16:00:00+09:00",
+      "dateLabel": "11/28 16:00",
+      "desc": "ゴムマリの業務AIエージェント、『取引先・委託先のセキュリティ管理』を提供開始",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AIエージェント/業務",
+      "score": 42
+    },
+    {
       "title": "NVIDIAが海賊版書籍を配布しAdobeと共有したと著者らが主張",
       "link": "https://gigazine.net/news/20261127-nvidia-adobe-pirate/",
       "date": "2026-11-27T14:22:00+09:00",
@@ -71,18 +82,18 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 50
+      "score": 42
     },
     {
-      "title": "NVIDIA・ATI・3dfxの往年のGPUデモ36種類をブラウザ上で楽しめる「GPU Demo Gallery」",
-      "link": "https://gigazine.net/news/20261127-gpu-demo-gallery/",
-      "date": "2026-11-27T10:43:00+09:00",
-      "dateLabel": "11/27 10:43",
-      "desc": "NVIDIAやATI、3dfxなどのグラフィックスカードメーカーは、かつて新製品の性能や新たな描画技術をアピールするために、さまざまな3Dグラフィックスのデモを公開していました。そんな往年のGPUデモ36種類を、オリジナルのファイルを基に再構築してブラウザ上で動作するようにした「GPU Demo Gallery」が個人開発者のアーチット・コーデ氏によって公開",
-      "img": "",
-      "src": "GIGAZINE",
+      "title": "高価だからゲーミングPCには堅牢性も欲しい！ ならRTX 5060搭載「TUF Gaming F16」が狙い目【Amazonブラックフライデー先行セール】",
+      "link": "https://ascii.jp/elem/000/004/455/4455887/?rss",
+      "date": "2026-11-28T19:00:00+09:00",
+      "dateLabel": "11/28 19:00",
+      "desc": "Amazon.co.jpでASUSのゲーミングノートパソコン「TUF Gaming F16」がブラックフライデー先行セール中。Core i7とRTX 5060 Laptop GPUを搭載する高耐久ゲーミングノートPCが2万3000円引きです。",
+      "img": "https://ascii.jp/img/2026/11/28/4558210/s/bd0d7bb6cf1fefad.jpg",
+      "src": "ASCII.jp",
       "cat": "半導体/GPU",
-      "score": 42
+      "score": 34
     },
     {
       "title": "GoogleがAIエージェントによるGmailなどへのAPI直接アクセスを制限へ、MCPサーバーかCLIの使用を要求",
@@ -93,61 +104,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
-      "title": "住宅・不動産に特化したAIマーケティング会社「NAYUTA」、用地仕入れ・分譲企画の初期調査に使える「NAYUTA MAP」を無料公開",
-      "link": "https://ascii.jp/elem/000/004/455/4455870/?rss",
-      "date": "2026-11-27T19:45:15+09:00",
-      "dateLabel": "11/27 19:45",
-      "desc": "住宅・不動産に特化したAIマーケティング会社「NAYUTA」、用地仕入れ・分譲企画の初期調査に使える「NAYUTA MAP」を無料公開",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 34
-    },
-    {
-      "title": "NVIDIAがシンガポールなど東南アジア4カ国へのサーバー出荷停止をDELLやSupermicroなどに指示",
-      "link": "https://gigazine.net/news/20261127-nvidia-stops-chips-shipments-to-south-east-asia/",
-      "date": "2026-11-27T17:15:00+09:00",
-      "dateLabel": "11/27 17:15",
-      "desc": "NVIDIAがDELLやSupermicroといったメーカーに対し、シンガポール、マレーシア、インドネシア、タイの東南アジア4カ国にNVIDIA製半導体を搭載したサーバーを出荷しないよう指示したことがわかりました。東南アジア諸国が、NVIDIA製半導体を何とかして入手したい中国にとっての中継地になっており、アメリカの商務省が対策に乗り出したためです。 続きを",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "NVIDIAが画像生成AI「Nemotron-Labs-Image-30B-A3B」を公開、拡散モデルではなく自己回帰モデルを採用しハーネスと組み合わせてGPT-Image-2超えを達成",
-      "link": "https://gigazine.net/news/20261127-nemotron-labs-image-30b-a3b/",
-      "date": "2026-11-27T12:40:00+09:00",
-      "dateLabel": "11/27 12:40",
-      "desc": "NVIDIAが画像生成AIモデル「Nemotron-Labs-Image-30B-A3B」をオープンウェイトモデルとして無償公開しました。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "中国への過度なハイテク輸出規制は「国内開発体制の加速につながる」と半導体露光装置メーカー・ASMLのフーケCEOが警告",
-      "link": "https://gigazine.net/news/20261127-asml-ceo-warn-to-export-ban/",
-      "date": "2026-11-27T12:35:00+09:00",
-      "dateLabel": "11/27 12:35",
-      "desc": "世界最大の半導体露光装置メーカーとして知られるオランダ・ASMLのクリストフ・フーケCEOが、半導体などの最先端技術を守るための輸出規制はある程度必要だと認めた一方で、過度な規制は中国の国内開発体制の強化につながるだけだと警告しています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "半導体/GPU",
-      "score": 34
-    },
-    {
-      "title": "AMD製サーバー向けCPU「EPYC」は10年間でAI性能が133倍に向上、Zen 6世代とZen 1世代のベンチマーク比較が公開される",
-      "link": "https://gigazine.net/news/20261127-amd-epyc-performance/",
-      "date": "2026-11-27T07:00:00+09:00",
-      "dateLabel": "11/27 07:00",
-      "desc": "AMDのサーバープロセッサであるEPYCシリーズのZen 1世代「Naples」とZen 6世代「Venice」の性能比較がハードウェアレビュー系ニュースサイトのPhoronixによって実施されました。EPYCが過去約10年間でどれだけパフォーマンスを改善したかが明らかになっています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
       "score": 34
     },
     {
@@ -195,92 +151,136 @@
       "score": 34
     },
     {
-      "title": "「512GBで足りるかな……」と迷っている人に。1TBのM5 MacBook Airが3万円引きで24万8800円",
-      "link": "https://ascii.jp/elem/000/004/455/4455411/?rss",
-      "date": "2026-11-27T21:30:00+09:00",
-      "dateLabel": "11/27 21:30",
-      "desc": "Appleの2026年モデル「MacBook Air」がAmazonのブラックフライデー先行セールの対象に。参考価格278,800円から11％オフの248,800円で販売中。M5チップと16GBユニファイドメモリ、1TB SSDを搭載。ストレージ容量に余裕を持たせたい人にはうれしい3万円引きだ。",
-      "img": "https://ascii.jp/img/2026/11/27/4557477/s/eabde8f9883ee01a.jpg",
+      "title": "文句なしの現行最高スペックスマホ Xiaomi 18 Pro Maxは背面ディスプレーに最速スナドラ、ライカカメラと機能もMAX",
+      "link": "https://ascii.jp/elem/000/004/455/4455856/?rss",
+      "date": "2026-11-28T17:00:00+09:00",
+      "dateLabel": "11/28 17:00",
+      "desc": "シャオミの最上位スマホ「Xiaomi 18 Pro Max」を徹底解説。スマホ初の5GHz駆動スナドラや2億画素×2のライカカメラに加え、AIでミニアプリを作れる背面画面を搭載。FeliCaやn79にも対応し、約24万円〜と高価ながら遊び心満載の1台です。",
+      "img": "https://ascii.jp/img/2026/11/27/4558010/s/ecb7e6afa964e572.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
       "score": 26
     },
     {
-      "title": "アップル「iPhone 18」「iPhone Air 2」は2027年3月発売か 有機ELパネルの量産準備進む",
-      "link": "https://ascii.jp/elem/000/004/455/4455835/?rss",
-      "date": "2026-11-27T20:00:00+09:00",
-      "dateLabel": "11/27 20:00",
-      "desc": "アップルが2027年前半に発売するとうわさの標準モデル「iPhone 18」と「iPhone Air 2」の、ディスプレーに使う有機ELパネルの量産が2026年末から2027年1月にかけて始まるという。",
-      "img": "https://ascii.jp/img/2026/11/27/4557903/s/81669c8c5ffba887.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "もはや議事録の手動作成は過去のもの！AIボイスレコーダー「Plaud Note Pro Flow Edition」",
-      "link": "https://ascii.jp/elem/000/004/454/4454692/?rss",
-      "date": "2026-11-27T20:00:00+09:00",
-      "dateLabel": "11/27 20:00",
-      "desc": "Plaudの「Plaud Note Pro Flow Edition」は、極薄2.99mmのAIボイスレコーダーです。最大50時間の連続録音に対応するほか、文字起こしや資料作成まで可能。日々の業務を効率化する一品です。",
-      "img": "https://ascii.jp/img/2026/11/25/4556677/s/533bf1bc14bff2da.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "山本昌氏登壇決定！AIとITでビジネスを勝ち抜くための実践セミナー開催【Lenovo/萩原テクノソリューションズ共催】",
-      "link": "https://ascii.jp/elem/000/004/455/4455871/?rss",
-      "date": "2026-11-27T19:05:41+09:00",
-      "dateLabel": "11/27 19:05",
-      "desc": "山本昌氏登壇決定！AIとITでビジネスを勝ち抜くための実践セミナー開催【Lenovo/萩原テクノソリューションズ共催】",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "Twelve South AirFly Drive｜USBケーブル不要 ！CarPlay/Android Auto対応アプリがスマホをバッグに入れたまま、ワイヤレスで使えるBluetoothアダプタ",
-      "link": "https://ascii.jp/elem/000/004/455/4455843/?rss",
-      "date": "2026-11-27T18:50:00+09:00",
-      "dateLabel": "11/27 18:50",
-      "desc": "Twelve South AirFly Drive｜USBケーブル不要 ！CarPlay/Android Auto対応アプリがスマホをバッグに入れたまま、ワイヤレスで使えるBluetoothアダプタ",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "【Amazonブラックフライデー】RebotAiの11インチ 128GB Android 16 タブレットが13,298円！通常価格から約44％OFFの特別価格で販売",
-      "link": "https://ascii.jp/elem/000/004/455/4455846/?rss",
-      "date": "2026-11-27T18:30:00+09:00",
-      "dateLabel": "11/27 18:30",
-      "desc": "【Amazonブラックフライデー】RebotAiの11インチ 128GB Android 16 タブレットが13,298円！通常価格から約44％OFFの特別価格で販売",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "サンタクロースと無料で話せる公衆電話を南太平洋の小さな島に設置した通信技術者の記録",
-      "link": "https://gigazine.net/news/20261127-payphone-on-pacific-island/",
-      "date": "2026-11-27T15:00:00+09:00",
-      "dateLabel": "11/27 15:00",
-      "desc": "南太平洋に浮かぶオーストラリア領のノーフォーク島で携帯電話網を運営する通信技術者のニック氏らが、中古の公衆電話機をアメリカから調達し、島に設置しました。公衆電話の設置から既存の通信網への接続、AIを活用した独自のサービスの実装までの一連の経緯を、ニック氏が自身のブログで公開しています。 続きを読む...",
+      "title": "NVIDIAがシンガポールなど東南アジア4カ国へのサーバー出荷停止をDELLやSupermicroなどに指示",
+      "link": "https://gigazine.net/news/20261127-nvidia-stops-chips-shipments-to-south-east-asia/",
+      "date": "2026-11-27T17:15:00+09:00",
+      "dateLabel": "11/27 17:15",
+      "desc": "NVIDIAがDELLやSupermicroといったメーカーに対し、シンガポール、マレーシア、インドネシア、タイの東南アジア4カ国にNVIDIA製半導体を搭載したサーバーを出荷しないよう指示したことがわかりました。東南アジア諸国が、NVIDIA製半導体を何とかして入手したい中国にとっての中継地になっており、アメリカの商務省が対策に乗り出したためです。 続きを",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "AI実装",
+      "cat": "半導体/GPU",
       "score": 26
     },
     {
-      "title": "破産申請したAIチャットサービス「Character.AI」が2100万アカウント超の非公開の会話履歴を競売にかけようとしている",
-      "link": "https://gigazine.net/news/20261127-character-ai-asset-sale/",
-      "date": "2026-11-27T11:42:00+09:00",
-      "dateLabel": "11/27 11:42",
-      "desc": "AIチャットサービス「Character.AI」が破産手続きの一環として、アメリカ国内の2100万アカウント超の会話履歴を売却しようとしていることが明らかになりました。売却対象には未成年者の会話履歴も含まれており、アメリカの42人の州司法長官が裁判所に売却計画を認めないよう求めています。 続きを読む...",
+      "title": "NVIDIAが画像生成AI「Nemotron-Labs-Image-30B-A3B」を公開、拡散モデルではなく自己回帰モデルを採用しハーネスと組み合わせてGPT-Image-2超えを達成",
+      "link": "https://gigazine.net/news/20261127-nemotron-labs-image-30b-a3b/",
+      "date": "2026-11-27T12:40:00+09:00",
+      "dateLabel": "11/27 12:40",
+      "desc": "NVIDIAが画像生成AIモデル「Nemotron-Labs-Image-30B-A3B」をオープンウェイトモデルとして無償公開しました。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "中国への過度なハイテク輸出規制は「国内開発体制の加速につながる」と半導体露光装置メーカー・ASMLのフーケCEOが警告",
+      "link": "https://gigazine.net/news/20261127-asml-ceo-warn-to-export-ban/",
+      "date": "2026-11-27T12:35:00+09:00",
+      "dateLabel": "11/27 12:35",
+      "desc": "世界最大の半導体露光装置メーカーとして知られるオランダ・ASMLのクリストフ・フーケCEOが、半導体などの最先端技術を守るための輸出規制はある程度必要だと認めた一方で、過度な規制は中国の国内開発体制の強化につながるだけだと警告しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "半導体/GPU",
+      "score": 26
+    },
+    {
+      "title": "X(旧Twitter)がついにペアレンタルコントロール機能を導入",
+      "link": "https://gigazine.net/news/20261127-x-finally-parental-controls/",
+      "date": "2026-11-27T10:46:00+09:00",
+      "dateLabel": "11/27 10:46",
+      "desc": "X(旧Twitter)の安全性部門が、13～17歳の子どもを保護するためのペアレンタルコントロール機能を追加したことを発表しました。2006年にTwitterが始まって以来、実に20年越しのペアレンタルコントロール機能実装になります。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "規制/安全",
+      "score": 26
+    },
+    {
+      "title": "「Gemini 4 Neon」が実際の標高データからスキーシミュレーターを開発――Google公式が勧める利用例まとめ",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/26/2000003494/",
+      "date": "2026-11-26T18:00:00+09:00",
+      "dateLabel": "11/26 18:00",
+      "desc": "Googleが新発表したAIモデル「Gemini 4 Neon」について、公式ブログで披露されたデモや日常での活用場面をまとめて紹介する。",
+      "img": "",
+      "src": "ITmedia AI+",
+      "cat": "LLM/モデル",
+      "score": 26
+    },
+    {
+      "title": "MCPに新機能「Skills over MCP」登場。ツールとの接続だけでなく使い方のスキルもMCP経由で提供",
+      "link": "https://www.publickey1.jp/blog/26/mcpskills_over_mcpmcp.html",
+      "date": "2026-11-26T00:29:05+09:00",
+      "dateLabel": "11/26 00:29",
+      "desc": "AIエージェントと外部ツールを接続する業界標準となっているMCP（Model Context Protocol）に、新機能として「Skills over MCP」がβ版として追加されました。 Skills over MCPを利用することで、...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 26
+    },
+    {
+      "title": "マイクロソフト、クラウドやオンプレミスのデータベースを一元管理する「Database Hub」正式リリース。AIエージェントによる運用監視の自動化も",
+      "link": "https://www.publickey1.jp/blog/26/database_hubai.html",
+      "date": "2026-11-20T00:19:21+09:00",
+      "dateLabel": "11/20 00:19",
+      "desc": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、Microsoft Azureやオンプレミス、他社クラウドにあるデータベースなど、管理者が権限を持つデータベースを自動的に一覧表...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 24
+    },
+    {
+      "title": "Windows Server 2028がパブリックプレビュー公開。Microsoft FoundryなどAIによる推論の実行基盤へと拡張",
+      "link": "https://www.publickey1.jp/blog/26/windows_server_2028microsoft_foundryai.html",
+      "date": "2026-11-19T00:55:49+09:00",
+      "dateLabel": "11/19 00:55",
+      "desc": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、次期サーバ向けOSとなるWindows Server 2028のパブリックプレビュー公開を発表しました。 企業内のAI推論基盤へ...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AI全般",
+      "score": 24
+    },
+    {
+      "title": "DHH氏が開発する「Omarchy 4.5」リリース。一般的なマルチウィンドウをサポート。最速7秒で導入、Appleシリコン対応、Webアプリ版MS Office用ランチャーなど新機能",
+      "link": "https://www.publickey1.jp/blog/26/dhhomarchy_457applewebms_office.html",
+      "date": "2026-11-24T00:49:45+09:00",
+      "dateLabel": "11/24 00:49",
+      "desc": "Ruby on Railsの作者として知られるDHH氏が主導して開発しているデスクトップ向けのLinux OS「Omarchy」の最新版「Omarchy 4.5」（別名Omarchy Quattro RS）正式版がリリースされました。 Om...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AI全般",
+      "score": 20
+    },
+    {
+      "title": "1週間以上バッテリーが持続するスマートウォッチ「Google Fitbit Edge」を1カ月以上使ってみたよレビュー",
+      "link": "https://gigazine.net/news/20261128-google-fitbit-edge-review/",
+      "date": "2026-11-28T18:35:00+09:00",
+      "dateLabel": "11/28 18:35",
+      "desc": "「Google Fitbit Edge」は多機能スマートウォッチ「Google Pixel Watch」と画面なしスマートトラッカー「Google Fitbit Air」の中間的な立ち位置の製品として開発されたスマートウォッチです。そんなGoogle Fitbit Edgeを1カ月以上にわたって着用し続けたので、使用感をまとめました。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
       "cat": "AI全般",
-      "score": 26
+      "score": 18
+    },
+    {
+      "title": "AI音声による虚偽通報が深刻化",
+      "link": "https://gigazine.net/news/20261128-fake-911-call-ai/",
+      "date": "2026-11-28T08:00:00+09:00",
+      "dateLabel": "11/28 08:00",
+      "desc": "人間の声色と変わらないAI音声が登場したことで、警察への虚偽通報が相次いでいることがアメリカで問題視されていると、海外メディアのNPRが報じています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AI全般",
+      "score": 18
     }
   ]
 }
