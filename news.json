@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-28T04:15:17.169699+09:00",
-  "generatedLabel": "2026/11/28 04:15",
+  "generatedAt": "2026-11-28T11:21:38.117108+09:00",
+  "generatedLabel": "2026/11/28 11:21",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 64,
+  "candidates": 62,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -18,7 +18,7 @@
     {
       "source": "ASCII.jp",
       "ok": true,
-      "items": 8
+      "items": 7
     },
     {
       "source": "PC Watch",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 16
+      "items": 15
     },
     {
       "source": "CNET Japan",
@@ -82,17 +82,6 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "半導体/GPU",
-      "score": 50
-    },
-    {
-      "title": "AMD製サーバー向けCPU「EPYC」は10年間でAI性能が133倍に向上、Zen 6世代とZen 1世代のベンチマーク比較が公開される",
-      "link": "https://gigazine.net/news/20261127-amd-epyc-performance/",
-      "date": "2026-11-27T07:00:00+09:00",
-      "dateLabel": "11/27 07:00",
-      "desc": "AMDのサーバープロセッサであるEPYCシリーズのZen 1世代「Naples」とZen 6世代「Venice」の性能比較がハードウェアレビュー系ニュースサイトのPhoronixによって実施されました。EPYCが過去約10年間でどれだけパフォーマンスを改善したかが明らかになっています。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AI全般",
       "score": 42
     },
     {
@@ -104,6 +93,17 @@
       "img": "",
       "src": "GIGAZINE",
       "cat": "AIエージェント/業務",
+      "score": 34
+    },
+    {
+      "title": "住宅・不動産に特化したAIマーケティング会社「NAYUTA」、用地仕入れ・分譲企画の初期調査に使える「NAYUTA MAP」を無料公開",
+      "link": "https://ascii.jp/elem/000/004/455/4455870/?rss",
+      "date": "2026-11-27T19:45:15+09:00",
+      "dateLabel": "11/27 19:45",
+      "desc": "住宅・不動産に特化したAIマーケティング会社「NAYUTA」、用地仕入れ・分譲企画の初期調査に使える「NAYUTA MAP」を無料公開",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
       "score": 34
     },
     {
@@ -140,14 +140,14 @@
       "score": 34
     },
     {
-      "title": "X(旧Twitter)がついにペアレンタルコントロール機能を導入",
-      "link": "https://gigazine.net/news/20261127-x-finally-parental-controls/",
-      "date": "2026-11-27T10:46:00+09:00",
-      "dateLabel": "11/27 10:46",
-      "desc": "X(旧Twitter)の安全性部門が、13～17歳の子どもを保護するためのペアレンタルコントロール機能を追加したことを発表しました。2006年にTwitterが始まって以来、実に20年越しのペアレンタルコントロール機能実装になります。 続きを読む...",
+      "title": "AMD製サーバー向けCPU「EPYC」は10年間でAI性能が133倍に向上、Zen 6世代とZen 1世代のベンチマーク比較が公開される",
+      "link": "https://gigazine.net/news/20261127-amd-epyc-performance/",
+      "date": "2026-11-27T07:00:00+09:00",
+      "dateLabel": "11/27 07:00",
+      "desc": "AMDのサーバープロセッサであるEPYCシリーズのZen 1世代「Naples」とZen 6世代「Venice」の性能比較がハードウェアレビュー系ニュースサイトのPhoronixによって実施されました。EPYCが過去約10年間でどれだけパフォーマンスを改善したかが明らかになっています。 続きを読む...",
       "img": "",
       "src": "GIGAZINE",
-      "cat": "規制/安全",
+      "cat": "AI全般",
       "score": 34
     },
     {
@@ -228,6 +228,17 @@
       "score": 26
     },
     {
+      "title": "山本昌氏登壇決定！AIとITでビジネスを勝ち抜くための実践セミナー開催【Lenovo/萩原テクノソリューションズ共催】",
+      "link": "https://ascii.jp/elem/000/004/455/4455871/?rss",
+      "date": "2026-11-27T19:05:41+09:00",
+      "dateLabel": "11/27 19:05",
+      "desc": "山本昌氏登壇決定！AIとITでビジネスを勝ち抜くための実践セミナー開催【Lenovo/萩原テクノソリューションズ共催】",
+      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+      "src": "ASCII.jp",
+      "cat": "AI全般",
+      "score": 26
+    },
+    {
       "title": "Twelve South AirFly Drive｜USBケーブル不要 ！CarPlay/Android Auto対応アプリがスマホをバッグに入れたまま、ワイヤレスで使えるBluetoothアダプタ",
       "link": "https://ascii.jp/elem/000/004/455/4455843/?rss",
       "date": "2026-11-27T18:50:00+09:00",
@@ -250,35 +261,24 @@
       "score": 26
     },
     {
-      "title": "11/30展示｜Fairy Devices、現実世界の情報を構造化データへ変換するプラットフォームを紹介",
-      "link": "https://ascii.jp/elem/000/004/455/4455321/?rss",
-      "date": "2026-11-27T18:30:00+09:00",
-      "dateLabel": "11/27 18:30",
-      "desc": "2026年11月30日、東京・品川インターシティホールにてディープテック・スタートアップのエコシステム構築をテーマにした展示交流・カンファレンスイベント「ASCII STARTUP TechDay 2026」が開催される。同イベントでは、学術、産業、行政の垣根を越えた多様なゲストを迎えてのセッションのほか、スタートアップ企業などによるブース展示を行う。",
-      "img": "https://ascii.jp/img/2026/11/27/4557798/s/c6761dbc4df8409e.png",
-      "src": "ASCII.jp",
-      "cat": "AI全般",
-      "score": 26
-    },
-    {
-      "title": "11/30展示｜SolidSurface、業種・機種を問わないロボット運用基盤「OpenPlayZone」を紹介",
-      "link": "https://ascii.jp/elem/000/004/455/4455320/?rss",
-      "date": "2026-11-27T18:30:00+09:00",
-      "dateLabel": "11/27 18:30",
-      "desc": "2026年11月30日、東京・品川インターシティホールにてディープテック・スタートアップのエコシステム構築をテーマにした展示交流・カンファレンスイベント「ASCII STARTUP TechDay 2026」が開催される。同イベントでは、学術、産業、行政の垣根を越えた多様なゲストを迎えてのセッションのほか、スタートアップ企業などによるブース展示を行う。",
-      "img": "https://ascii.jp/img/2026/11/27/4557742/s/6fac6b91a88ccc37.png",
-      "src": "ASCII.jp",
+      "title": "サンタクロースと無料で話せる公衆電話を南太平洋の小さな島に設置した通信技術者の記録",
+      "link": "https://gigazine.net/news/20261127-payphone-on-pacific-island/",
+      "date": "2026-11-27T15:00:00+09:00",
+      "dateLabel": "11/27 15:00",
+      "desc": "南太平洋に浮かぶオーストラリア領のノーフォーク島で携帯電話網を運営する通信技術者のニック氏らが、中古の公衆電話機をアメリカから調達し、島に設置しました。公衆電話の設置から既存の通信網への接続、AIを活用した独自のサービスの実装までの一連の経緯を、ニック氏が自身のブログで公開しています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AI実装",
       "score": 26
     },
     {
-      "title": "Aurora Mobile株式会社、「AI in Action」グローバル・ロードショーを東京で開幕",
-      "link": "https://ascii.jp/elem/000/004/455/4455839/?rss",
-      "date": "2026-11-27T18:26:44+09:00",
-      "dateLabel": "11/27 18:26",
-      "desc": "Aurora Mobile株式会社、「AI in Action」グローバル・ロードショーを東京で開幕",
-      "img": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-      "src": "ASCII.jp",
+      "title": "破産申請したAIチャットサービス「Character.AI」が2100万アカウント超の非公開の会話履歴を競売にかけようとしている",
+      "link": "https://gigazine.net/news/20261127-character-ai-asset-sale/",
+      "date": "2026-11-27T11:42:00+09:00",
+      "dateLabel": "11/27 11:42",
+      "desc": "AIチャットサービス「Character.AI」が破産手続きの一環として、アメリカ国内の2100万アカウント超の会話履歴を売却しようとしていることが明らかになりました。売却対象には未成年者の会話履歴も含まれており、アメリカの42人の州司法長官が裁判所に売却計画を認めないよう求めています。 続きを読む...",
+      "img": "",
+      "src": "GIGAZINE",
       "cat": "AI全般",
       "score": 26
     }
