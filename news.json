@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-28T20:05:36.074338+09:00",
-  "generatedLabel": "2026/11/28 20:05",
+  "generatedAt": "2026-11-29T04:17:43.266259+09:00",
+  "generatedLabel": "2026/11/29 04:17",
   "feedOk": 6,
   "feedNg": 5,
-  "candidates": 56,
+  "candidates": 55,
   "status": [
     {
       "source": "ITmedia NEWS",
@@ -28,7 +28,7 @@
     {
       "source": "GIGAZINE",
       "ok": true,
-      "items": 13
+      "items": 12
     },
     {
       "source": "CNET Japan",
@@ -96,17 +96,6 @@
       "score": 34
     },
     {
-      "title": "GoogleがAIエージェントによるGmailなどへのAPI直接アクセスを制限へ、MCPサーバーかCLIの使用を要求",
-      "link": "https://gigazine.net/news/20261127-google-workspace-ai-tools-mcp/",
-      "date": "2026-11-27T21:00:00+09:00",
-      "dateLabel": "11/27 21:00",
-      "desc": "Googleは2027年2月1日から、AIエージェントがGmailやGoogleドライブなどのGoogle Workspaceのサービスにアクセスする際に公式のMCPサーバーやGoogle Workspace CLIを使用するよう求める方針を発表しました。GmailのMCPサーバーを巡ってはメールの送信などが一部の開発者に限定されていることが指摘されていまし",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "AIエージェント/業務",
-      "score": 34
-    },
-    {
       "title": "AI原稿作成のやり方を解説！種類別プロンプト例とおすすめツール6選",
       "link": "https://ainow.ai/2026/11/27/278565/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e5%258e%259f%25e7%25a8%25bf%25e4%25bd%259c%25e6%2588%2590%25e3%2581%25ae%25e3%2582%2584%25e3%2582%258a%25e6%2596%25b9%25e3%2582%2592%25e8%25a7%25a3%25e8%25aa%25ac%25ef%25bc%2581%25e7%25a8%25ae%25e9%25a1%259e%25e5%2588%25a5%25e3%2583%2597%25e3%2583%25ad%25e3%2583%25b3%25e3%2583%2597%25e3%2583%2588%25e4%25be%258b%25e3%2581%25a8",
       "date": "2026-11-27T01:02:20+09:00",
@@ -148,7 +137,7 @@
       "img": "",
       "src": "Publickey",
       "cat": "AIエージェント/業務",
-      "score": 34
+      "score": 28
     },
     {
       "title": "文句なしの現行最高スペックスマホ Xiaomi 18 Pro Maxは背面ディスプレーに最速スナドラ、ライカカメラと機能もMAX",
@@ -159,6 +148,17 @@
       "img": "https://ascii.jp/img/2026/11/27/4558010/s/ecb7e6afa964e572.jpg",
       "src": "ASCII.jp",
       "cat": "AI全般",
+      "score": 26
+    },
+    {
+      "title": "GoogleがAIエージェントによるGmailなどへのAPI直接アクセスを制限へ、MCPサーバーかCLIの使用を要求",
+      "link": "https://gigazine.net/news/20261127-google-workspace-ai-tools-mcp/",
+      "date": "2026-11-27T21:00:00+09:00",
+      "dateLabel": "11/27 21:00",
+      "desc": "Googleは2027年2月1日から、AIエージェントがGmailやGoogleドライブなどのGoogle Workspaceのサービスにアクセスする際に公式のMCPサーバーやGoogle Workspace CLIを使用するよう求める方針を発表しました。GmailのMCPサーバーを巡ってはメールの送信などが一部の開発者に限定されていることが指摘されていまし",
+      "img": "",
+      "src": "GIGAZINE",
+      "cat": "AIエージェント/業務",
       "score": 26
     },
     {
@@ -195,17 +195,6 @@
       "score": 26
     },
     {
-      "title": "X(旧Twitter)がついにペアレンタルコントロール機能を導入",
-      "link": "https://gigazine.net/news/20261127-x-finally-parental-controls/",
-      "date": "2026-11-27T10:46:00+09:00",
-      "dateLabel": "11/27 10:46",
-      "desc": "X(旧Twitter)の安全性部門が、13～17歳の子どもを保護するためのペアレンタルコントロール機能を追加したことを発表しました。2006年にTwitterが始まって以来、実に20年越しのペアレンタルコントロール機能実装になります。 続きを読む...",
-      "img": "",
-      "src": "GIGAZINE",
-      "cat": "規制/安全",
-      "score": 26
-    },
-    {
       "title": "「Gemini 4 Neon」が実際の標高データからスキーシミュレーターを開発――Google公式が勧める利用例まとめ",
       "link": "https://www.itmedia.co.jp/aiplus/article/2611/26/2000003494/",
       "date": "2026-11-26T18:00:00+09:00",
@@ -214,17 +203,6 @@
       "img": "",
       "src": "ITmedia AI+",
       "cat": "LLM/モデル",
-      "score": 26
-    },
-    {
-      "title": "MCPに新機能「Skills over MCP」登場。ツールとの接続だけでなく使い方のスキルもMCP経由で提供",
-      "link": "https://www.publickey1.jp/blog/26/mcpskills_over_mcpmcp.html",
-      "date": "2026-11-26T00:29:05+09:00",
-      "dateLabel": "11/26 00:29",
-      "desc": "AIエージェントと外部ツールを接続する業界標準となっているMCP（Model Context Protocol）に、新機能として「Skills over MCP」がβ版として追加されました。 Skills over MCPを利用することで、...",
-      "img": "",
-      "src": "Publickey",
-      "cat": "AIエージェント/業務",
       "score": 26
     },
     {
@@ -250,6 +228,17 @@
       "score": 24
     },
     {
+      "title": "MCPに新機能「Skills over MCP」登場。ツールとの接続だけでなく使い方のスキルもMCP経由で提供",
+      "link": "https://www.publickey1.jp/blog/26/mcpskills_over_mcpmcp.html",
+      "date": "2026-11-26T00:29:05+09:00",
+      "dateLabel": "11/26 00:29",
+      "desc": "AIエージェントと外部ツールを接続する業界標準となっているMCP（Model Context Protocol）に、新機能として「Skills over MCP」がβ版として追加されました。 Skills over MCPを利用することで、...",
+      "img": "",
+      "src": "Publickey",
+      "cat": "AIエージェント/業務",
+      "score": 20
+    },
+    {
       "title": "DHH氏が開発する「Omarchy 4.5」リリース。一般的なマルチウィンドウをサポート。最速7秒で導入、Appleシリコン対応、Webアプリ版MS Office用ランチャーなど新機能",
       "link": "https://www.publickey1.jp/blog/26/dhhomarchy_457applewebms_office.html",
       "date": "2026-11-24T00:49:45+09:00",
@@ -259,6 +248,17 @@
       "src": "Publickey",
       "cat": "AI全般",
       "score": 20
+    },
+    {
+      "title": "AIで仕事はどう変わる？なくなる仕事・残る仕事と今やるべき備え",
+      "link": "https://ainow.ai/2026/11/29/278583/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2581%25a7%25e4%25bb%2595%25e4%25ba%258b%25e3%2581%25af%25e3%2581%25a9%25e3%2581%2586%25e5%25a4%2589%25e3%2582%258f%25e3%2582%258b%25ef%25bc%259f%25e3%2581%25aa%25e3%2581%258f%25e3%2581%25aa%25e3%2582%258b%25e4%25bb%2595%25e4%25ba%258b%25e3%2583%25bb%25e6%25ae%258b%25e3%2582%258b%25e4%25bb%2595%25e4%25ba%258b%25e3%2581%25a8",
+      "date": "2026-11-29T03:05:42+09:00",
+      "dateLabel": "11/29 03:05",
+      "desc": "「AIで仕事がなくなる」というニュースを見て、自分の職種は大丈夫なのかと不安を感じていないでしょうか。 国際機関の調査を見ると、AIで仕事が丸ごと消えるケースは限られており、多くの仕事は中身が変わると予測されています。変... The post AIで仕事はどう変わる？なくなる仕事・残る仕事と今やるべき備え first appeared on AI専門ニュー",
+      "img": "",
+      "src": "AINOW",
+      "cat": "AI全般",
+      "score": 18
     },
     {
       "title": "1週間以上バッテリーが持続するスマートウォッチ「Google Fitbit Edge」を1カ月以上使ってみたよレビュー",
